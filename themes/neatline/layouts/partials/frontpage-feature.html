@@ -1,0 +1,22 @@
+{{ $data := site.Data }}
+
+{{ with $data.homepage.frontpageFeature }}
+<section class="section bg-cover frontpage-feature" data-background="{{ .bg_image | absURL }}">
+  <div class="container">
+    <div class="row">
+      
+      <div class="col-lg-8 col-sm-8">
+        <div class="bg-white p-5">
+          <h3 class="section-title">{{ .title | markdownify }}</h3>
+          <p>{{ .content | markdownify }}</p>
+          {{ with .button }}
+          <a class="btn btn-primary btn-lg" href="{{ .link | safeURL }}">
+            <i class="ti-control-play"></i> {{ .label }}
+          </a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

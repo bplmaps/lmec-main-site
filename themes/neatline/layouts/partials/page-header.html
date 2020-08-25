@@ -1,0 +1,11 @@
+<!-- page title -->
+<section class="page-title-section overlay" {{ with .Params.BackgroundImage }}style="background-image: url('{{ . | relURL}}');"{{ end }} >
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <h2 class="text-white animate__animated animate__fadeInDown">{{ .Title }}</h2>
+        <p class="text-lighten animate__animated animate__fadeIn">{{ .Params.Description | markdownify }}</p>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,110 @@
+/* Button style */
+.btn {
+  font-size: 16px;
+  font-family: $sans;
+  text-transform: capitalize;
+  padding: 15px 40px;
+  border-radius: 3px;
+  font-weight: 500;
+  border: 0;
+  position: relative;
+  z-index: 1;
+  transition: background-color .5s ease;
+  overflow: hidden;
+  white-space: nowrap;
+
+  
+
+  &:focus {
+    outline: 0;
+    box-shadow: none !important;
+  }
+
+  &:active {
+    box-shadow: none;
+  }
+
+
+}
+
+.btn-sm {
+  font-size: 14px;
+  padding: 10px 35px;
+}
+
+.btn-xs {
+  font-size: 12px;
+  padding: 5px 15px;
+}
+
+.btn-primary {
+  background: $button-primary-color;
+  color: $white;
+
+  &::before {
+    background: $white;
+  }
+
+  &:active {
+    background: $button-primary-color !important;
+    color: $button-primary-color;
+
+    &::before {
+      height: 80%;
+    }
+  }
+
+  &:hover {
+    background-color: darken($button-primary-color, 10);
+  }
+}
+
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active,
+.show>.btn-primary.dropdown-toggle {
+  color: $white;
+  background-color: darken($color: $primary-color, $amount: 10);
+  border-color: darken($color: $primary-color, $amount: 10);
+}
+
+.btn-secondary {
+  background: $white;
+  color: $primary-color;
+  border: 1px solid $white;
+
+  &::before {
+    background: $primary-color;
+  }
+
+  &:active {
+    background: $primary-color;
+    color: $white;
+    border: 1px solid $white;
+  }
+
+  &:hover {
+    background: lighten($primary-color, 5);
+    color: $white;
+    border: 1px solid $white;
+  }
+}
+
+.btn-primary-outline {
+  border: 1px solid $primary-color;
+  color: $primary-color;
+  background: transparent;
+
+  &::before {
+    background: $white;
+  }
+
+  &:hover {
+    background: $primary-color;
+    color: $primary-color;
+  }
+
+  &:active {
+    background: $primary-color;
+    color: $white;
+  }
+}

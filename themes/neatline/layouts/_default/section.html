@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 order-2 order-lg-1">
+        <div class="row">
+          
+
+          <div class="col-12 mb-5">
+
+            {{ .Content }}
+          </div>
+          
+        </div>
+      </div>
+      
+      {{ partial "section-sidebar.html" . }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

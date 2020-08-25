@@ -1,0 +1,157 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/backgrounds/yaggi-background.jpg"
+  slider_item:
+    - title : "Preserving the past and advancing the future of maps"
+      content : "A quarter million maps from the fifteenth century to the present tell the stories of Boston and the world"
+      animation_in : "left"
+      animation_out : "right"
+      button:
+        enable : true
+        label : "Our Collections"
+        link : "contact"
+    - title : "Inspiring learning through map education"
+      content : "Education programs help K-12 students and teachers discover the power of geography"
+      animation_in : "left"
+      animation_out : "right"
+      button:
+        enable : true
+        label : "Teaching Resources"
+        link : "contact"
+    - title : "Digital humanities connecting researchers and the public"
+      content : "Innovative tools like our Atlascope portal offer new ways to engage with cartography"
+      animation_in : "left"
+      animation_out : "right"
+      button:
+        enable : true
+        label : "Project Gallery"
+        link : "contact"
+    - title : "Reference and research for everyone"
+      content : "Our library staff can help find answers to your geography and maps questions"
+      animation_in : "left"
+      animation_out : "right"
+      button:
+        enable : true
+        label : "Reference Information"
+        link : "contact"
+
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "About Educenter"
+  image : "images/about/about-us.jpg"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
+
+
+  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  button:
+    enable : false
+    label : "Learn more"
+    link : "about"
+
+
+########################## Call to action ############################
+cta:
+  enable : true
+  title : "Join our Oct. 15 workshop on GIS for K-12 teachers"
+  button:
+    enable : true
+    label : "Sign up"
+    link : ""
+
+
+audiences:
+  enable: true
+  audienceGroups:
+    - name: "For visitors"
+      description: "We welcome visitors to our gallery, classroom, and research center in Copley Square"
+      color: "#d54062"
+      links:
+        - title: Hours and directions
+          link: /about/hours
+        - title: What's on in the gallery
+          link: '#'
+        - title: "Upcoming events"
+          link: 'event'
+    - name: "For K-12 teachers"
+      description: "Our educator resources are blah blah blah"
+      color: "#799351"
+      links:
+        - title: Book a classroom visit
+          link: "#"
+        - title: Browse our lesson plans
+          link: "#"
+        - title: Teach with digital maps
+          link: "#"
+    - name: "For researchers"
+      description: "Our collections are useful for blah blah blah"
+      color: "#056676"
+      links: 
+        - title: Make a research appointment
+          link:
+        - title: Browse our guides and finding aids
+          link: 
+        - title: Apply for a research fellowship
+          link: 
+    - name: "Digital tools"
+      description: "We have built all sorts of cool things"
+      color: "#440047"
+      links:
+        - title: See thousands of digitized maps in our Digital Collections
+          link:
+        - title: Explore Boston's history with Atlascope
+          link: 
+        - title: Learn about GIS and data in Cartinal
+          link: 
+
+
+######################## Success story #############################
+frontpageFeature:
+  enable : true
+  bg_image : "images/backgrounds/commonwealth_fn107c45p.jpg"
+  title : "Bending Lines: Maps & Data from Distortion to Deception"
+  content : "How do maps and visual information shape what we know about the world — and how has this power been used throughout history? Our digital exhibition, with zoomable maps, interactives, and teaching resources, explores this complicated question."
+  button:
+    enable : true
+    label : "Enter the digital exhibition"
+    link : "https://leventhalmap.org/digital-exhibitions/bending-lines"
+
+
+############################# event ################################
+event:
+  enable : true
+  title : "Upcoming Events"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "Digital Collections Objects"
+      count : "9369"
+
+    # funfact item loop
+    - name : "Students Taught in 2019"
+      count : "1000"
+
+    # funfact item loop
+    - name : "Reference Requests Served"
+      count : "65"
+
+    # funfact item loop
+    - name : Atlascope Historic Maps
+      count : "101"
+
+
+
+
+############################# blog ################################
+blog:
+  enable : true
+  title : "Articles"
+  # blog item comes from "content/**/blog" folder.

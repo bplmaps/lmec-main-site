@@ -1,0 +1,15 @@
+{{ $page := . }}
+<div class="card rounded-0 hover-shadow border-top-0 border-left-0 border-right-0 page-card">
+  {{ with .Params.cardImage }}<img class="card-img-top rounded-0" src="{{ . | relURL }}" alt="{{ $page.Title }}">{{ end }}
+  <div class="card-body">
+    <h3 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <p class="card-text">{{ .Description }}</p>
+    {{ with .Pages }}
+    <ul class="font-secondary m-0 p-0">
+    {{ range . }}
+    <li class="mb-1"><i class="fas fa-caret-right mr-1"></i><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+</div>

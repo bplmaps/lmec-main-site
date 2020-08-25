@@ -1,0 +1,175 @@
+{{ define "main" }}
+
+{{ $data := site.Data }}
+
+<!-- hero slider -->
+{{ if $data.homepage.slider.enable }}
+{{ with $data.homepage.slider }}
+<section class="hero-section overlay bg-cover" data-background="{{ .bg_image | absURL }}">
+  <div class="container">
+    <div class="hero-slider">
+      <!-- slider item -->
+      {{ range .slider_item }}
+      <div class="hero-slider-item">
+        <div class="row">
+          <div class="col-md-8">
+            <h1 class="text-white" data-animation-out="animate__fadeOutRight animate__animated" data-delay-out="5" data-duration-in=".3"
+              data-animation-in="animate__fadeInLeft animate__animated" data-delay-in=".1">{{ .title | markdownify }}</h1>
+            <p class="text-muted mb-4" data-animation-out="animate__fadeOutRight animate__animated" data-delay-out="5" data-duration-in=".3" data-delay-in=".2" data-animation-in="animate__fadeInLeft animate__animated" >{{ .content | markdownify }}</p>
+            {{ if .button.enable }}
+            <a href="{{ .button.link | absURL }}" class="btn btn-primary" data-animation-out="animate__fadeOut animate__animated" data-delay-out="4" data-duration-in=".3" data-animation-in="animate__fadeIn animate__animated" data-delay-in=".7">{{ .button.label }}</a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /hero slider -->
+
+
+<!-- about us -->
+{{ if $data.homepage.audiences.enable }}
+{{ with $data.homepage.audiences }}
+<section class="section">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="row row-cols-1 row-cols-md-2">
+      {{ range .audienceGroups }}
+      <div class="col mb-4">
+        <div class="card frontpage-audience-card border-0">
+          <div class="card-body">
+            <h2 class="card-title" {{- with .color -}} style="color:{{ . }}" {{- end -}}>{{ .name }}</h2>
+            <div class="card-subtitle font-italic text-secondary pb-3">{{ .description }}</div>
+            <ul class="p-0">
+            {{ range .links }}
+              <li class="mx-0 my-2"><a href="{{ .link }}" class="card-link font-secondary mr-4"><i class="fas fa-angle-right"></i>  {{ .title | markdownify }}</a></li>
+            {{ end }}
+          </ul>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /about us -->
+
+
+<!-- cta -->
+{{ if $data.homepage.cta.enable }}
+{{ with $data.homepage.cta }}
+<section class="section py-3">
+  <div class="container">
+    <div class="row border p-3 rounded">
+      <div class="col text-center">
+        <h4 class="section-title mt-2 mb-0"><i class="fas fa-flag mr-4"></i>{{ .title | markdownify }}</h4>  
+      </div>
+      <div class="col-md-auto">
+        {{ if .button.enable }}
+          {{ with .button }}
+          <a href="{{ .link | absURL }}" class="btn btn-primary btn-sm ml-4">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /cta -->
+
+<!-- frontpage Feature -->
+{{ if $data.homepage.frontpageFeature.enable }}
+{{ partial "frontpage-feature.html" . }}
+{{ end }}
+<!-- /frontpage Feature -->
+
+<!-- events -->
+{{ if $data.homepage.event.enable }}
+<section class="section bg-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="d-flex align-items-center section-title justify-content-between">
+          <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.event.title }}</h2>
+          <div class="border-top w-100 border-primary d-none d-sm-block"></div>
+          <div>
+            <a href="{{`event` | relURL }}" class="btn btn-sm btn-primary-outline ml-sm-3 d-none d-sm-block text-nowrap">All events</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <!-- event -->
+      {{ range first 3 (where site.RegularPages.ByDate "Type" "event")}}
+      <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
+        {{ .Render "event" }}
+      </div>
+      {{ end }}
+    </div>
+    <!-- mobile see all button -->
+    <div class="row">
+      <div class="col-12 text-center">
+        <a href="{{`event` | relURL }}" class="btn btn-sm btn-primary-outline d-sm-none d-inline-block">See all</a>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- /events -->
+
+<!-- funfacts -->
+{{ if $data.homepage.funfacts.enable }}
+{{ with $data.homepage.funfacts }}
+<section class="section-sm bg-primary">
+  <div class="container">
+    <div class="row">
+      <!-- funfacts item -->
+      {{ range .funfact_item }}
+      <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
+        <div class="text-center">
+          <h2 class="count text-white" data-count="{{ .count }}">0</h2>
+          <h5 class="text-white">{{ .name }}</h5>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    <div class="row">
+      <div class="col text-center mt-3"><a class="btn btn-secondary btn-large" href="">Support Our Work</a></div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /funfacts -->
+
+<!-- blog -->
+{{ if $data.homepage.blog.enable }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">{{ $data.homepage.blog.title }}</h2>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <!-- blog post -->
+      {{ range first 3 (where site.RegularPages "Type" "post")}}
+      <article class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
+        {{ .Render "post" }}
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- /blog -->
+
+{{ end }}

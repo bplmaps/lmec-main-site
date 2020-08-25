@@ -1,0 +1,26 @@
+{{ $section := .Section }}
+{{ $current := . }}
+
+<aside class="col-lg-4 order-2 order-lg-2 section-sidebar">
+  <div class="bg-white mb-5">
+    <h5 class="mb-3 section-toplevel-link"><a href="{{ .FirstSection.Permalink }}">{{ $section | upper }}</a></h5>
+    <ul class="font-secondary text-secondary m-0 p-0">
+    {{ range .FirstSection.Sections }}
+        <li class="mb-2">{{- if eq . $current -}}<i class="fas fa-arrow-right mr-1"></i>{{- end -}}  <a href="{{ .Permalink }}">{{ .Params.title | title }}</a></li>
+        {{ $subsection := . }}
+        {{ range (where .Site.RegularPages.ByWeight "Section" $section ) }}
+        {{ if .IsDescendant $subsection }}
+        <li class="subsection-page-list-item mb-2 ml-4">{{- if eq . $current -}}<i class="fas fa-arrow-right mr-1"></i>{{- end -}}  <a href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a></li>
+        {{ end }}
+        {{ end }}
+    {{ end }}
+    {{ range (where .Site.RegularPages.ByWeight "Section" $section) }}
+    {{ if eq .Parent .FirstSection }}
+    <li class="section-page-list-item mb-2">{{- if eq . $current -}}<i class="fas fa-arrow-right mr-1"></i>{{- end -}}  <a href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a></li>{{ end }}
+
+    {{ end }}
+    </ul>
+  </div>
+  
+  
+</aside>

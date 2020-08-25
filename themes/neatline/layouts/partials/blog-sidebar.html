@@ -1,0 +1,13 @@
+<aside class="col-lg-4 order-1 order-lg-2">
+  <div class="bg-white mb-5">
+    <h5>{{ .Section }}</h5>
+    <ul>
+    {{ range $.Sections }}
+        <li><a href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  
+  
+</aside>
+{{ "<!-- /sidebar -->" | safeHTML }}
