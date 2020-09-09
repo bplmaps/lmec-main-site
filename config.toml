@@ -1,12 +1,12 @@
 baseURL = "https://geoservices.leventhalmap.org/main-site-redesign"
 title = "Leventhal Map & Education Center at the Boston Public Library"
 theme = "neatline"
+
+
 # post pagination
 paginate = "6"
 # post excerpt
 summaryLength = "10"
-
-
 
 [markup]
   [markup.goldmark]
@@ -27,9 +27,6 @@ summaryLength = "10"
       unsafe = true
       xhtml = false
 
-
-
-############################# Plugins ##############################
 
 # CSS Plugins
 [[params.plugins.css]]
@@ -86,7 +83,6 @@ weight = 6
 
 
 # footer menu
-
 [[menu.footer]]
 name = "BPL.org"
 URL = "https://bpl.org"
@@ -119,21 +115,16 @@ weight = 6
 
 
 
-
-
-#################### default parameters ################################
+# Site parameters
 [params]
 logo = "images/MapCenter_allwhite.png"
-# Metadata
-description = "This is meta description"
+description = "The Leventhal Map & Education Center at the Boston Public Library"
 author = "Leventhal Map & Education Center"
-# contact info
 address = """Central Library in Copley Square   
 700 Boylston Street   
 Boston, MA 02116 USA"""
 mobile = "+1 617-859-2387"
 email = "info@leventhalmap.org"
-#copyright
 copyright = """
 All material on this website is licensed under a [Creative Commons BY-NC 2.0 license](]https://creativecommons.org/licenses/by-nc/2.0/) unless specified otherwise.
 """
@@ -156,7 +147,7 @@ icon = "fas fa-virus"
 text = "COVID Updates"
 link = "covid-info"
   
-############################# social site ########################
+
 [[params.social]]
 title = "facebook"
 icon = "fab fa-facebook" 

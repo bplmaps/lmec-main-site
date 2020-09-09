@@ -12,7 +12,7 @@ body {
 ol,
 ul {
   list-style-type: none;
-  margin: 0px;
+  margin: 0 0 15px 0;
 }
 
 img {
@@ -28,6 +28,10 @@ a:focus {
 
 a{
   color: inherit;
+}
+
+p img {
+  max-width: 100%;
 }
 
 a,
@@ -298,11 +302,13 @@ textarea.form-control{
 
 .content {
   * {
-    margin-bottom: 20px;
+    // margin-bottom: 20px;
   }
 
-  a {
+  p a, li a {
     text-decoration: underline;
+    color: $link-color;
+
   }
 
   h1,
@@ -323,10 +329,17 @@ textarea.form-control{
 
     li {
       position: relative;
-      padding-left: 20px;
-      margin-bottom: 10px;
+      padding-left: 25px;
+      margin-bottom: 5px;
       list-style-type: none;
+      font-size: 17px;
+      line-height: 1.55;
 
+      &::before {
+        content: "✳ ";
+        font-size: 70%;
+        margin-left: -12px;
+      }
     }
   }
 

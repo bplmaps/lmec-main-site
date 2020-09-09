@@ -1,8 +1,9 @@
+@charset "UTF-8";
 /*  typography */
 @import url("https://use.typekit.net/hnl4gif.css");
 body {
   line-height: 1.2;
-  font-family: minion-pro, serif;
+  font-family: lemonde-journal, serif;
   -webkit-font-smoothing: antialiased;
   font-feature-settings: 'onum' 1;
   font-size: 15px;
@@ -12,8 +13,8 @@ p, .paragraph {
   font-weight: 400;
   color: #313131;
   font-size: 17px;
-  line-height: 1.55;
-  font-family: minion-pro, serif; }
+  line-height: 1.65;
+  font-family: lemonde-journal, serif; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #1e1e4b;
@@ -138,7 +139,7 @@ body {
 ol,
 ul {
   list-style-type: none;
-  margin: 0px; }
+  margin: 0 0 15px 0; }
 
 img {
   vertical-align: middle;
@@ -151,6 +152,9 @@ a:focus {
 
 a {
   color: inherit; }
+
+p img {
+  max-width: 100%; }
 
 a,
 button,
@@ -341,11 +345,9 @@ textarea.form-control {
     .pagination .page-item .page-link {
       color: #313131; }
 
-.content * {
-  margin-bottom: 20px; }
-
-.content a {
-  text-decoration: underline; }
+.content p a, .content li a {
+  text-decoration: underline;
+  color: maroon; }
 
 .content h1,
 .content h2,
@@ -362,9 +364,15 @@ textarea.form-control {
   padding-left: 0; }
   .content ul li {
     position: relative;
-    padding-left: 20px;
-    margin-bottom: 10px;
-    list-style-type: none; }
+    padding-left: 25px;
+    margin-bottom: 5px;
+    list-style-type: none;
+    font-size: 17px;
+    line-height: 1.55; }
+    .content ul li::before {
+      content: "✳ ";
+      font-size: 70%;
+      margin-left: -12px; }
 
 .content table {
   text-align: left;

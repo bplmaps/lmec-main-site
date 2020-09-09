@@ -12,7 +12,7 @@ p, .paragraph {
   font-weight: 400;
   color: #313131;
   font-size: 17px;
-  line-height: 1.9;
+  line-height: 1.55;
   font-family: minion-pro, serif; }
 
 h1, h2, h3, h4, h5, h6 {
@@ -398,6 +398,10 @@ textarea.form-control {
   width: 85px;
   object-fit: cover; }
 
+.page-card .card-img-top {
+  max-height: 150px;
+  object-fit: cover; }
+
 .top-header {
   font-size: 12px;
   transition: transform .2s ease;
@@ -538,6 +542,25 @@ link:focus,
 .copyright p {
   font-family: hero-new, sans-serif;
   font-size: 10px; }
+
+.section-sidebar .section-toplevel-link {
+  position: relative;
+  width: auto;
+  display: inline-block; }
+  .section-sidebar .section-toplevel-link::before {
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    height: 4px;
+    width: 100%;
+    content: "";
+    background: #1a1a37;
+    transform: scaleY(0);
+    transform-origin: top;
+    transition: transform .3s ease; }
+  .section-sidebar .section-toplevel-link:hover::before, .section-sidebar .section-toplevel-link.active::before {
+    transform: scaleY(1);
+    transform-origin: bottom; }
 
 .hero-section {
   padding: 250px 0 150px; }

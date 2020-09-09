@@ -1,29 +1,30 @@
 ---
 title: Visit the Gallery
-backgroundImage: "images/page-header-backgrounds/education-programs.jpg"
-description: "We offer resources, content, and programs for educators and students of all levels."
+backgroundImage: "images/page-header-backgrounds/gallery.jpg"
+description: "Information for visiting our gallery in person in Copley Square"
 weight: 1
+aliases:
+    - /visit
 
 ---
-# Heading 1
 
+{{< alert-box type="warning" icon="fas fa-exclamation-triangle" title="COVID-19 closure" >}}
 
+In-person access to the Map Center is currently suspended due to the COVID-19 pandemic. Please visit our [COVID updates page](covid-info) for more information.
+{{< /alert-box >}}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+The Norman B. Leventhal Map & Education Center is located inside the Central Library branch of the Boston Public Library in Copley Square, just off of the historic courtyard. Our exhibitions Gallery is free to the public, and no advance booking is necessary to view exhibitions.
 
-### Requirements
+Plan to set aside between 30 minutes and 1½ hours for a full experience in the Gallery, though you are always welcome to spend more or less time, and to come back for multiple visits. The Gallery features captions and activities for children and families as well as adults.
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+![](images/page-header-backgrounds/gallery.jpg)
+
+### [Hours and Directions](about/hours-directions)
+
+See our [Hours and Directions](about/hours-directions) page for current information.
+
+### Group and Education Visits
+
+We welcome groups of visitors both from the general public and from educational institutions. For more information about K-12 visits, see our [K-12 School Visits](education/k12/school-visits/) page. For university-level visits, see the [University Programs](education/university/) page.
+
 
