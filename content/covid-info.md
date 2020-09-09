@@ -14,7 +14,12 @@ Currently, no in-person access to the Map Center's gallery, learning center, or 
 
 The Map Center has made extensive efforts to continue research, educational, and exhibition activities in a remote setting. Throughout our website, you'll find information on how to access digitized material, explore research collections, and teach with maps at the K-12 and university levels. In particular, you may want to see the pages on:
 
-* \[Teach It Yourself\](education/k12/teach-it-yourself) for K-12 classes
+* Our current exhibition, [Bending Lines: Maps and Data from Distortion to Deception](https://leventhalmap.org/digital-exhibitions/bending-lines) has been designed for an online-first experience
+* [Teach It Yourself](education/k12/teach-it-yourself) for K-12 classes
+* [Remote Resources](education/university) for university teaching
+* [Information about our digital collections](collections/digital-collections)
+* A list of our [Digital Projects](projects/digital-projects), including the new [Atlascope](https://atlascope.leventhalmap.org) portal for exploring Boston's historical geography
+
 
 ### For more information
 
