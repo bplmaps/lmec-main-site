@@ -6,4 +6,6 @@ description: Help support the Map Center's mission with a donation or gift.
 type: singleton
 
 ---
+# Heading 1
+
 As a non-profit that offers services "free to all", we rely on the support of donors like you to keep our exhibitions and educational programs running. Please consider making a gift today.
