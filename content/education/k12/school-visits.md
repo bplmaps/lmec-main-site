@@ -8,7 +8,7 @@ weight: "1"
 {{< alert-box type="warning" icon="fas fa-laptop-house" title="Remote Instruction Only" >}} All in-person education programs are currently canceled. If you are interested in having Map Center education staff teach a virtual lesson for your class, please fill out the reservation form below and we will get back to you. Also, check out our [Resources for Remote Teaching page](https://www.leventhalmap.org/resources-teaching-maps/) for lessons and map sets.
 {{< /alert-box >}}
 
-The Leventhal Map & Education Center offers a menu of pre-designed programs on different topics, see the list below. Using maps from our collection, students practice using cartographic tools to read maps and think about what maps can and can't tell us about our relationships to places in the past and present. Programs related to our current exhibition are also available, and class visits to the Map Center often include activities that explore our exhibition gallery. In addition to our pre-designed programs, we are happy to work with you to create programming that works with your curriculum.
+The Leventhal Map & Education Center offers a menu of pre-designed programs for field trips to our Learning Center, virtual class visits, or in-person outreach to classrooms. Using maps from our collection, students practice using cartographic tools to read maps and think about what maps can and can't tell us about our relationships to places in the past and present. Programs related to our current exhibition are also available--class visits to the Map Center often include activities that explore our exhibition gallery. Explore our program topics below. If you don't see quite what you're looking for, we are happy to work with you to create programming that works with your curriculum.
 
 #### Pre-Designed K-12 Programming
 
@@ -16,7 +16,7 @@ Put an Airtable here??
 
 #### Booking a Program
 
-To book a program, fill out the reservation form here. Someone from the K-12 education department will contact you to finalize your reservation. **Note: Filling out the form is not a confirmation of your reservation.**
+To book a program, fill out the reservation form. Someone from the K-12 education department will contact you to finalize your reservation. **Note: Filling out the form is not a confirmation of your reservation.**
 
 Airtable form here??
 
@@ -34,13 +34,13 @@ This is no additional charge if multiple days are needed to accommodate the tota
 
 We will travel to any school that is within the I-495 corridor of Massachusetts, but additional travel fees of $0.55/mile apply if travel distance is over 25 miles from the Leventhal Map & Education Center.
 
-**Notes on Field Trips to the Map Center:** 
+**Notes on Field Trips to the Map Center:**
 
 Programs are 75 – 90 minutes long. Longer sessions allow for more discussion and inquiry. We cannot accommodate groups larger than 40 at a time. As groups larger than 20 may require that we reserve extra space, please be as specific as possible when completing our reservation form.
 
-Please note that there is no designated lunch area for classes in the Boston Public Library. 
+Please note that there is no designated lunch area for classes in the Boston Public Library.
 
 **Notes on Outreach Programs:**  
 Programs are 60 - 90 minutes long and are intended for individual classrooms of 30 or fewer students. Longer sessions allow for more discussion and inquiry. We can accommodate larger groups over multiple program sessions.
 
-Classrooms should have a computer and a digital projector or smartboard and space for students to work in small groups of 4 to 5 students for hands-on map inquiry exercises  We can provide a laptop and projector if necessary. 
+Classrooms should have a computer and a digital projector or smartboard and space for students to work in small groups of 4 to 5 students for hands-on map inquiry exercises  We can provide a laptop and projector if necessary.
