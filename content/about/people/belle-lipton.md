@@ -12,4 +12,4 @@ contact:
     - method: Twitter
       details: "[@belle_lipton](https://twitter.com/belle_lipton)"
 ---
-Belle is interested in data and stuff
+Belle Lipton is a GIS librarian with a specialized background in the digial spatial humanities. She is passionate about translating data literacy core competencies into accessible language and decreasing barriers of access to information, both historic and modern. She holds a BA in History from Simmons University, an MLIS from the University of Wisconsin-Milwaukee and a MS in Cartography and Geographic Information Systems from the University of Wisconsin-Madison.
