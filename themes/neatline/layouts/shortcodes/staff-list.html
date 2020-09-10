@@ -1,0 +1,16 @@
+<div class="row">
+{{ range (where .Site.RegularPages "Type" "person") }}
+
+    {{ $person := . }}
+   <div class="staff-list-card col-sm-12 col-md-4">
+       
+           {{ with .Params.headshot }}
+            <img src="{{ . | relURL }}" alt="Headshot of {{ $person.Title }}" class="card-img-top staff-headshot-circle">
+           {{ end }}
+          
+               <h5><a href="{{ .Permalink | relURL }}">{{ .Title }}</a></h5>
+               <p><em>{{ .Description }}</em></p>
+           
+    </div>
+{{ end }}
+</div>

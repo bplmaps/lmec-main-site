@@ -410,6 +410,18 @@ textarea.form-control {
   max-height: 150px;
   object-fit: cover; }
 
+.staff-list-card {
+  text-align: center; }
+  .staff-list-card img.staff-headshot-circle {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 100px;
+    margin-bottom: 20px; }
+  .staff-list-card p {
+    font-size: 14px;
+    line-height: 14px; }
+
 .top-header {
   font-size: 12px;
   transition: transform .2s ease;

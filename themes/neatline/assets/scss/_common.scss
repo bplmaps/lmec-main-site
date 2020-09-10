@@ -398,3 +398,18 @@ textarea.form-control{
     object-fit: cover;
   }
 }
+
+.staff-list-card {
+
+text-align: center;
+
+img.staff-headshot-circle {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 100px;
+  margin-bottom: 20px;
+}
+
+p { font-size: 14px; line-height: 14px; }
+}
