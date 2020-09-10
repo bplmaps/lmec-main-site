@@ -48,6 +48,8 @@ link = "plugins/slick/slick.min.js"
 link = "plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
 link = "https://unpkg.com/@fortawesome/fontawesome-free@5.14.0/js/all.js"
+[[params.plugins.js]]
+link = "plugins/jump/jump.js"
 
 
 # main menu

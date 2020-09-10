@@ -15,7 +15,14 @@
         </div>
       </div>
       
+      <aside class="col-lg-4 order-2 order-lg-2 section-sidebar">
       {{ partial "section-sidebar.html" . }}
+
+      {{ if .Params.quicklinks }}
+        {{ partial "quicklinks-sidebar.html" .Params.quicklinks }}
+      {{ end }}
+
+     </aside>
     </div>
   </div>
 </section>

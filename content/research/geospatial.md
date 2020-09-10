@@ -8,83 +8,80 @@ description : "Access information, data, and guides for geospatial information"
 weight: 3
 aliases:
     - "/research/gis"
+quicklinks:
+    - text: "Visit Cartinal for documentation, tutorials, and guides"
+      link: https://geoservices.leventhalmap.org/cartinal
+      linkType: offsite
+    - text: "Make a reference request with a geospatial information librarian"
+      link: '#make-request'
+      linkType: jump
+    - text: "See examples of projects I could create with geospatial tools"
+      link: '#example-projects'
+      linkType: jump
 ---
 
-### Geospatial Information Services
+Most of the maps that are produced today and over the course of the past two decades consist of computer-based geographic information. The Leventhal Map & Education Center offers geospatial information services to help you create, find, manipulate and preserve information stored in digital formats compatible with mapping software and GIS (Geographic Information Systems).
 
-Geospatial Information Services are here to help you create, find, manipulate and preserve information stored in digital formats compatible with GIS mapping software.
+## Services We Provide
 
-#### Services We Provide
-You're in the right place if you are interested in: <br>
-→ Personalized, **one-on-one research consultations** about your GIS data or mapping project <br>
-→ Someone to talk with about available online data and software resources<br>
-→ Tips for structuring your own data or reformatting existing data for new purposes <br>
-→ Access to important or useful datasets, especially those about Boston and Massachusetts <br>
-→ Guides and tutorials on how to find and work with GIS data <br>
-→ Documentation about LMEC's geospatial humanities projects <br>
-→ A friendly resource for best practices on geospatially managing historic cartographic archives
+Our geospatial information library staff can help you with:
+
+* Personalized, **one-on-one research consultations** about your GIS data or mapping project 
+* Someone to talk with about where to find online data and software resources
+* Tips for structuring your own data or reformatting existing data for new purposes 
+* Access to important or useful datasets, especially those related to Boston and Massachusetts 
+* Guides and tutorials on how to find and work with GIS data 
+* Documentation about LMEC's geospatial humanities projects 
+* A friendly resource for best practices on managing geographic information in historic archives
 
 #### GIS Data Formats
-We can help you create, find, manipulate and preserve geospatial data formatted as:<br>
-→  Points, lines or polygons <br>
-→  Images of maps transformed to real-life geographies <br>
-→  Spreadsheets or tabular data with records containing locations <br>
+We can help you create, find, manipulate and preserve geospatial data formatted as:
+*  Points, lines or polygons 
+*  Images of maps transformed to real-life geographies 
+*  Spreadsheets or tabular data with records containing locations 
 
 #### GIS Mapping Software
-We can point you to learning resources for GIS mapping software such as:<br>
-→  QGIS free desktop software <br>
-→  ArcGIS commercial desktop suite <br>
-→  Cloud mapping platforms like ArcGIS Online <br>
-→  Custom web map development environments like Leaflet <br>
+We can point you to learning resources for GIS mapping software such as:
+*  QGIS free desktop software 
+*  ArcGIS commercial desktop suite 
+*  Cloud mapping platforms like ArcGIS Online 
+*  Custom web map development environments like Leaflet 
 
 
+## Cartinal: The LMEC Documentation Database
+
+We maintain a portal called [Cartinal](https://geoservices.leventhalmap.org/cartinal/) with numerous guides, tutorial, and documentation sources for geospatial data and projects. Cartinal includes both step-by-step guides that are suitable for beginners who have never worked with GIS before, as well as more technical documentation for data services and resources provided by LMEC.
+
+Some examples of resources you can find in Cartinal:
+
+- A tutorial for [getting started installing the open source GIS software QGIS](https://geoservices.leventhalmap.org/cartinal/resources/guides/download-qgis.html)
+- A guide explaining [common geospatial data formats](https://geoservices.leventhalmap.org/cartinal/resources/guides/file-formats.html#shapefile)
+- A [list of data endpoints](https://geoservices.leventhalmap.org/cartinal/resources/documentation/access-urban-atlas-data.html) for our geotransformed atlas layers
 
 
-### Guides, Tutorials and Documentation
-Check out <a target = "_blank" href ='https://geoservices.leventhalmap.org/cartinal/'>Cartinal</a>, our actively maintained collection of research guides, step-by-step tutorials and project documentation.
+## Make a Geospatial Reference Request {#make-request}
 
-### Research Project Examples
-Still not sure if you're in the right place? Here are some example geospatial research projects we can help with: <br>
-- You are finding an online data resource difficult to navigate <br>
-- You'd like to make a map displaying your team's geographic reach or impact <br>
-- You are interested in combining different historical sources to investigate the history of a place <br>
-- You attended one of our mapmaking workshops and have followup questions <br>
-- You want to know the best way to get started learning a free mapping software like QGIS <br>
-- You are interested in public health data and want to understand geographic trends <br>
-- You have used our tool <a target = "_blank" href ='https://atlascope.leventhalmap.org/'>Atlascope</a> and want to use some of the historic data layers <br>
-- You are working with historic cartographic materials and want to chat about best practices <br>
-- You are gathering your own data and would like advice on structuring the spatial attributes <br>
-- You have an important Boston dataset you think should be preserved or discoverable <br>
-- You teach with GIS data and would like to collaborate about resources <br>
-- You want to georeference a map or use one of our georeferenced maps <br>
+To schedule a research consultation please fill out our Geospatial Reference Request Form. The information in this form will help us understand the nature of your inquiry, ensure your message is quickly delivered to the correct reference librarian, and gets you in the queue for scheduling a consultation over phone or or video chat. _For research requests regarding our historic collections, please see the [Research Appointments](research/appointments) page._
 
+<iframe class="airtable-embed mb-5" src="https://airtable.com/embed/shrY1Rvnl5qfYo99n?backgroundColor=teal" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-
-
-
-If you're looking for traditional research services related to accessing the LMEC's historic map collections, you can request help by going to <a target = "_blank" href ='https://www.leventhalmap.org/research/appointments'>Make An Appointment</a>.
-
-<br>
-
-### Make a Geospatial Reference Request ⤵️
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrY1Rvnl5qfYo99n?backgroundColor=teal" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
-<br>
-<br>
-
-### Scheduling a Research Consultation
-
-To schedule a research consultation please fill out our Geospatial Reference Request Form, which: <br>
-→ helps us understand the nature of your inquiry <br>
-→ ensures your message is quickly delivered to our inboxes <br>
-→ gets you in the queue for scheduling a consultation over phone or Zoom
 
 ### Other Ways to Contact Us
-If our form is not suiting your needs, you can also contact us via phone or email. Please be advised that due to pandemic-related limitations to onsite offices, cold calls via phone may result in slightly slower response times.
 
-#### Geospatial & Cartographic Information Librarian ⤵️
+If our form is not suiting your needs, you can also contact the [Geospatial and Cartographic Information Librarian](about/people/belle-lipton) via telephone or email. Please note that during the COVID-19 closures, phone calls may be received with a delay. 
 
-**Name:** Belle Lipton <br>
-**Office Phone:** 617-859-2283 <br>
-**Email:** blipton@leventhalmap.org
+## Geospatial Project Examples {#example-projects}
+
+Still not sure if you're in the right place? Here are some example geospatial research projects we can help with: 
+- You are finding an online data resource difficult to navigate 
+- You'd like to make a map displaying your team's geographic reach or impact 
+- You are interested in combining different historical sources to investigate the history of a place 
+- You attended one of our mapmaking workshops and have followup questions 
+- You want to know the best way to get started learning a free mapping software like QGIS 
+- You are interested in public health data and want to understand geographic trends 
+- You have used our tool [Atlascope](https://atlascope.leventhalmap.org) and want to use some of the historic data layers 
+- You are working with historic cartographic materials and want to chat about best practices 
+- You are gathering your own data and would like advice on structuring the spatial attributes 
+- You have an important Boston dataset you think should be preserved or discoverable 
+- You teach with GIS data and would like to collaborate about resources 
+- You want to georeference a map or use one of our georeferenced maps 

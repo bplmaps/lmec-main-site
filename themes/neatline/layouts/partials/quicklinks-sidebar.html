@@ -1,0 +1,15 @@
+
+  <div class="bg-white mb-5">
+    <h5 class="mb-3">I want to …</h5>
+    <ul class="font-primary text-secondary m-0 p-0">
+    {{ range . }}
+      {{ if eq .linkType "jump" }}
+      <a href="javascript:Jump('{{ .link }}',{offset:-150});"><li class="mb-2">{{ .text }}</li></a>
+      {{ else }}
+      <a href="{{ .link | relURL }}"><li class="mb-2">{{ .text }}</li></a>
+      {{ end }}
+    {{ end }}
+    </ul>
+
+
+</aside>

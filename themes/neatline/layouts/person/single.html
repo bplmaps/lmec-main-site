@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+<!-- teacher details -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5 mb-5">
+        <img class="img-fluid w-100" src="{{ .Params.headshot | relURL }}" alt="Headshot of {{ .Title }}">
+      </div>
+      <div class="col-md-6 mb-5">
+        <div class="mb-5">
+          <h4 class="mb-4">Contact {{ .Title }}</h4>
+              <ul class="p-0 m-0">
+                {{ range .Params.contact }}
+                  <li class="mb-1"><em>{{ .method }}:</em> {{ .details | markdownify }}</li>
+                {{ end }}
+              </ul>
+              
+        </div>
+        <h4 class="mb-4">About {{ .Title }}</h4>
+            {{ .Content }}
+
+
+        </div>
+      </div>
+
+    </div>
+
+    
+</section>
+
+{{ end }}
