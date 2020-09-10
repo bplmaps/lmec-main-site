@@ -3,6 +3,7 @@ title: Garrett Nelson
 description: Curator of Maps & Director of Geographic Scholarship
 headshot: images/headshots/garrett-nelson.jpg
 type: person
+menu: false
 contact:
     - method: Phone
       details: 617-859-2139
