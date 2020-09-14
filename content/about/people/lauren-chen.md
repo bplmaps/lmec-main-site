@@ -10,4 +10,4 @@ contact:
   details: lchen@leventhalmap.org
 
 ---
-aldkfj
+Lauren provides cartographic and geographic research assistance to library patrons. She also catalogs and manages materials in the LMEC collection. She holds a Master of Science in Information from the University of Michigan.
