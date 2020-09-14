@@ -7,7 +7,7 @@ contact:
 - method: Phone
   details: ''
 - method: Email
-  details: 
+  details: lchen@leventhalmap.org
 
 ---
-16178592320
+sdfh
