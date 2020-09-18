@@ -148,6 +148,10 @@
 .footer {
   border-color: #494a43 !important;
   padding-top: 275px;
+  
+  a:hover {
+    color: lighten($link-color,15);
+  }
 }
 
 /* /footer */

@@ -320,6 +320,10 @@ textarea.form-control{
     margin-bottom: 10px;
   }
 
+  h2:not(:first-of-type) {
+    margin-top: 40px;
+  }
+
   ol {
     padding-left: 20px;
   }

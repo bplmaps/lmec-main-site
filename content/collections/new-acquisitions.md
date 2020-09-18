@@ -5,7 +5,7 @@ backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463
 # about image
 # meta description
 description : "The latest material to enter our collections"
-weight: 4
+weight: 3
 ---
 
 This table lists the most recent items added to our collections. Please note that this table may not show the fully authoritative bibliographic information for items, and may include items which are still being processed and not yet available to patrons.

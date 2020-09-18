@@ -101,8 +101,8 @@ URL = "donate"
 weight = 3
 
 [[menu.footer]]
-name = "FAQs"
-URL = ""
+name = "Hours & Directions"
+URL = "/about/hours-directions"
 weight = 4
 
 [[menu.footer]]

@@ -357,6 +357,9 @@ textarea.form-control {
 .content h6 {
   margin-bottom: 10px; }
 
+.content h2:not(:first-of-type) {
+  margin-top: 40px; }
+
 .content ol {
   padding-left: 20px; }
 
@@ -719,6 +722,8 @@ link:focus,
 .footer {
   border-color: #494a43 !important;
   padding-top: 275px; }
+  .footer a:hover {
+    color: #cd0000; }
 
 /* /footer */
 .filter-controls li {
