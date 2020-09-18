@@ -26,3 +26,5 @@ fields:
   - type: text
     name: details
     label: details
+pages:
+- content/about/people/rachel-mead.md
