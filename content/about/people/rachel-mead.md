@@ -1,6 +1,5 @@
 +++
 description = "Public Engagement & Interpretation Coordinator"
-draft = true
 headshot = ""
 title = "Rachel Mead"
 type = "person"
