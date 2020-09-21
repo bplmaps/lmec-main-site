@@ -54,7 +54,7 @@ We maintain a portal called [Cartinal](https://geoservices.leventhalmap.org/cart
 
 Some examples of resources you can find in Cartinal:
 
-- A tutorial for [getting started installing the open source GIS software QGIS](https://geoservices.leventhalmap.org/cartinal/resources/guides/download-qgis.html)
+- A tutorial for [getting started installing the open source GIS software QGIS](https://geoservices.leventhalmap.org/cartinal/resources/guides/get-started-qgis.html)
 - A guide explaining [common geospatial data formats](https://geoservices.leventhalmap.org/cartinal/resources/guides/file-formats.html#shapefile)
 - A [list of data endpoints](https://geoservices.leventhalmap.org/cartinal/resources/documentation/access-urban-atlas-data.html) for our geotransformed atlas layers
 
