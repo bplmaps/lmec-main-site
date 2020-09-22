@@ -308,7 +308,43 @@ textarea.form-control{
   p a, li a {
     text-decoration: underline;
     color: $link-color;
+  }
 
+  a.btn {
+    text-decoration: none;
+  }
+
+  a.btn-outline-primary {
+    border: 1px solid $primary-color;
+  }
+
+  a.btn-outline-primary:hover {
+    background-color: $primary-color;
+  }
+
+  h1, h2{
+
+    &::before {
+      content: "";
+      margin-left: -30px;
+      padding-right: 20px;
+      border-left: 10px solid $text-color-dark
+    }
+  }
+
+  h3, h4 {
+    &::before {
+      content: "";
+      width: 8px;
+      height: 8px;
+      display: inline-block;
+      border-radius: 2px;
+      background-color: $text-color-dark;
+      margin-left: -32px;
+      margin-right: 20px;
+      position: relative;
+      bottom: 3px;
+    }
   }
 
   h1,
@@ -340,10 +376,50 @@ textarea.form-control{
       line-height: 1.55;
 
       &::before {
-        content: "✳ ";
-        font-size: 70%;
+        content: "⊛ ";
+        font-size: 80%;
         margin-left: -12px;
+        position: relative;
+        bottom: 2px;
       }
+    }
+  }
+
+  figure {
+    max-width: 100%;
+    padding: 10px 20px;
+    border-top: 2px solid $primary-color;
+    border-bottom: 2px solid $primary-color;
+    background-color: $light;
+
+    @media (min-width: 500px) {
+    &.figure-right {
+      float: right;
+      width: 50%;
+      margin-left: 20px;
+    }
+
+    &.figure-left {
+      float: left;
+      width: 50%;
+      margin-right: 20px;
+    }
+    }
+
+    figcaption {
+      padding: 15px 5px;
+    }
+
+    figcaption p {
+      font-family: $sans;
+      font-weight: 300;
+      font-size: 0.9em;
+      line-height: 1.3em;
+      margin: 0;
+    }
+
+    img {
+      max-width: 100%;
     }
   }
 

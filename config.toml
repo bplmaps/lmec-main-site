@@ -130,8 +130,8 @@ email = "info@leventhalmap.org"
 copyright = """
 All material on this website is licensed under a [Creative Commons BY-NC 2.0 license](]https://creativecommons.org/licenses/by-nc/2.0/) unless specified otherwise.
 """
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+
+constant_contact_page = "https://visitor.r20.constantcontact.com/manage/optin?v=001ty3slyDjv8WLvGvwSdG8euspYmx7UP1YNPw2RbQHz_d15WTFIS4Ksb90bD2Fx0OBYbhpfZ896VoKbMS6m87TTQGTPsIpdO4e29yiAmPsALE%3D"
 # Google Analitycs
 google_analitycs_id = "" # your id
 # top header
@@ -140,9 +140,7 @@ top_header = true
 
 # Subscription
 [params.subscription]
-enable = true
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+enable = false
 
 [params.specialButton]
 icon = "fas fa-virus"
