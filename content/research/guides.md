@@ -1,21 +1,16 @@
 ---
 title: Research Guides
-# page title background image
-backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg"
-# about image
-# meta description
-description: "Library guides for research on maps and historical geography"
-weight: 2
-aliases:
-    "/research/research-guides"
----
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg
+description: Library guides for research on maps and historical geography
+weight: "2"
+aliases: "/research/research-guides"
 
+---
 The Boston Public Library offers [Research Guides](https://guides.bpl.org/?b=s) to help access information and sources both in our own collections and from other sources about many topics. The following guides have been produced by the Map Center.
 
 ### Historical Urban Atlases of Boston
 
 City atlases published for the fire insurance and real estate industries in the United States during the 19th and 20th centuries provide information about historical urban neighborhoods down to the building-level. The LMEC’s best coverage is for Boston, with approximately 60 volumes, ranging from 1861 through to the 1920s, but also includes corrections, or “paste-ups”, updating the maps to the 1960s. [Go to guide](https://guides.bpl.org/urban-atlases)
-
 
 ### Historical Urban Atlases of Massachusetts Towns
 
@@ -23,7 +18,7 @@ City atlases published for the fire insurance and real estate industries in the 
 
 ### Topographic Maps from the U.S. Geological Survey
 
-he U.S. Geological Survey (USGS) is the largest mapping agency in the United States and has published topographic maps of the nation since 1884.  Their topographic map series, which shows physical landforms and features, can be useful for a wide range of research topics.  Since they have been printed with uniform scales and symbols for over a century they are an excellent source for visualizing change over time. [Go to guide](http://guides.bpl.org/usgs-maps)
+The U.S. Geological Survey (USGS) is the largest mapping agency in the United States and has published topographic maps of the nation since 1884.  Their topographic map series, which shows physical landforms and features, can be useful for a wide range of research topics.  Since they have been printed with uniform scales and symbols for over a century they are an excellent source for visualizing change over time. [Go to guide](http://guides.bpl.org/usgs-maps)
 
 ### Digital Collections of Historical Maps
 
