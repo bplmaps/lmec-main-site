@@ -1,7 +1,7 @@
 ---
 title: New Acquisitions
 # page title background image
-backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg"
+backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765932/1197,2952,7553,3136/1800,/0/default.jpg"
 # about image
 # meta description
 description : "The latest material to enter our collections"

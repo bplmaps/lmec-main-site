@@ -340,7 +340,7 @@ textarea.form-control{
       display: inline-block;
       border-radius: 2px;
       background-color: $text-color-dark;
-      margin-left: -32px;
+      margin-left: -30px;
       margin-right: 20px;
       position: relative;
       bottom: 3px;
@@ -358,6 +358,12 @@ textarea.form-control{
 
   h2:not(:first-of-type) {
     margin-top: 40px;
+  }
+
+  h3, h4 {
+    &:not(:first-of-type) {
+      margin-top: 25px;
+    }
   }
 
   ol {

@@ -1,7 +1,7 @@
 ---
 title: Searching the Collections
 # page title background image
-backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg"
+backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n782n/416,1060,6719,2819/1800,/0/default.jpg"
 # about image
 # meta description
 description : "How to find material in our collections"
@@ -57,6 +57,15 @@ While we make every effort to ensure that our online catalog matches our holding
 
 Our digital collections are found on several different repositories; see the [Digital Collections](collections/digital-collections) section for more information.
 
-To make a quick search of our two largest digital repositories, use the quick search tool. 
+#### Quick search 
+
+To make a quick search of our two largest digital repositories, use the quick search tool. <a href="https://geoservices.leventhalmap.org/union-search" target="_blank" class="btn btn-outline-primary btn-xs mr-2"><i class="fas fa-external-link-square-alt"></i> Open quick search in a new window</a>
 
 <iframe src="https://geoservices.leventhalmap.org/union-search" style="width:100%;height:500px;border:1px solid black;"></iframe>
+
+#### Advanced searches
+
+To make searches filtered by years, creators, subject types, and format, try the following:
+
+- **[Digital Collections portal advanced search](https://collections.leventhalmap.org/advanced)**
+- **[Internet Archive advanced search](https://archive.org/advancedsearch.php)**. You must enter `normanbleventhalmapcenter` in to the Collection field in order to filter for results in our collections.

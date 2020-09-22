@@ -12,7 +12,7 @@ aliases:
 
 ### Public Research Fellows
 
-{{< alert-box type="dark" >}}
+{{< alert-box type="dark" icon="fas fa-exclamation-triangle" title="Past fellowship" >}}
 This information is for the 2020 application cycle. Check back in Spring 2021 for information about the 2021 application.
 {{< /alert-box >}}
 
