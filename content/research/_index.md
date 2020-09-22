@@ -16,11 +16,11 @@ quicklinks:
 
 ## Research at the Map Center
 
-The Leventhal Map & Education Center offers research services free to the public. We welcome researchers from all walks of life, whether you are a scholar working on a book manuscript, a Boston resident looking to discover more about the history of your home or neighborhood, or a data analyst looking to find geospatial information about demographic patterns. 
+The Leventhal Map & Education Center offers research services free to the public. We welcome all researchers, whether you are a scholar working on a book manuscript, a Boston resident looking to discover more about the history of your home or neighborhood, or a data analyst looking to find geospatial information about demographic patterns. 
 
 ### What kind of research questions can the Map Center answer?
 
-Maps and geographic material can be useful for answer countless different types of research questions. To take just a handful of examples, you may find our collections useful if you want to know:
+Maps and geographic material can be useful for answering countless different types of research questions. To take just a handful of examples, you may find our collections useful if you want to know:
 
 - When did Boston engineers and land speculators fill in the tidal flats around the Shawmut peninsula?
 - Who lived in your neighborhood in the nineteenth century, and when were the houses around yours built?
