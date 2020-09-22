@@ -520,10 +520,12 @@ textarea.form-control {
   .nav-item .nav-link {
     font-family: hero-new, sans-serif;
     font-weight: 600; }
-  .nav-item:first-child {
-    margin-left: 0; }
-  .nav-item:last-child {
-    margin-right: 0; }
+  @media (min-width: 991px) {
+    .nav-item:first-child {
+      margin-left: 0; } }
+  @media (min-width: 991px) {
+    .nav-item:last-child {
+      margin-right: 0; } }
   .nav-item::before {
     position: absolute;
     left: 0;

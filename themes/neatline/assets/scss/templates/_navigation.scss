@@ -52,13 +52,19 @@
   margin: 0 15px;
   position: relative;
 
+  
   &:first-child {
+    @include desktop-above {
     margin-left: 0;
+    }
   }
 
   &:last-child {
+    @include desktop-above {
     margin-right: 0;
+    }
   }
+  
 
   &::before {
     position: absolute;

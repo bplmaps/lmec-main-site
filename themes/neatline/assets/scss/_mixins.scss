@@ -32,3 +32,9 @@
 @mixin size($size){
   width: $size; height: $size;
 }
+
+@mixin desktop-above{
+  @media(min-width:991px){
+    @content;
+  }
+}
