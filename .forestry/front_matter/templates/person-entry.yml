@@ -1,0 +1,30 @@
+---
+label: Person entry
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: file
+  name: headshot
+  label: headshot
+- type: text
+  name: type
+  label: type
+  default: person
+  hidden: true
+- type: field_group_list
+  name: contact
+  label: contact
+  fields:
+  - type: text
+    name: method
+    label: method
+  - type: text
+    name: details
+    label: details
+pages:
+- content/about/people/rachel-mead.md
