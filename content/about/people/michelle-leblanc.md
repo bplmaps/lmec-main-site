@@ -1,15 +1,13 @@
 ---
 title: Michelle LeBlanc
 description: Director of Education
-headshot: 
+headshot: ''
 type: person
-menu: false
 contact:
-    - method: Phone
-      details: 
-    - method: Email
-      details: 
+- method: Phone
+  details: ''
+- method: Email
+  details: ''
 
 ---
-
 aldkfj
