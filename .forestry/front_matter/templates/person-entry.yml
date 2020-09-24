@@ -26,6 +26,11 @@ fields:
   - type: text
     name: details
     label: details
+- name: menu
+  type: boolean
+  label: menu
+  default: false
+  hidden: true
 pages:
 - content/about/people/connie-chin.md
 - content/about/people/garrett-nelson.md
