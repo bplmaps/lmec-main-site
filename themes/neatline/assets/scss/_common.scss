@@ -456,8 +456,18 @@ textarea.form-control{
     }
   }
 
+  .alert {
+    a {
+      text-decoration: underline;
+    }
+  }
 
   blockquote {
+
+    background-color: #eeeeee;
+    padding: 1em;
+    border-left: 2px solid #ccc;
+    
     p {
       margin-bottom: 0;
       color: $text-color;

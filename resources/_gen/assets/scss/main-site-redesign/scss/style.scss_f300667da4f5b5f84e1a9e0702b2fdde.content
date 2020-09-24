@@ -452,10 +452,17 @@ textarea.form-control {
     .content table tbody td {
       text-align: left !important; }
 
-.content blockquote p {
-  margin-bottom: 0;
-  color: #313131;
-  font-style: italic !important; }
+.content .alert a {
+  text-decoration: underline; }
+
+.content blockquote {
+  background-color: #eeeeee;
+  padding: 1em;
+  border-left: 2px solid #ccc; }
+  .content blockquote p {
+    margin-bottom: 0;
+    color: #313131;
+    font-style: italic !important; }
 
 .content pre {
   padding: 10px 20px;

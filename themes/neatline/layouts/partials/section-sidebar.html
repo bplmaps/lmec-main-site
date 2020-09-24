@@ -9,7 +9,7 @@
         <li class="mb-2">{{- if eq . $current -}}<i class="fas fa-arrow-right mr-1"></i>{{- end -}}  <a href="{{ .Permalink }}">{{ .Params.title | title }}</a></li>
         {{ $subsection := . }}
         {{ range (where .Site.RegularPages.ByWeight "Section" $section ) }}
-        {{ if .IsDescendant $subsection }}
+        {{ if and (.IsDescendant $subsection) (ne .Params.menu false) }}
         <li class="subsection-page-list-item mb-2 ml-4">{{- if eq . $current -}}<i class="fas fa-arrow-right mr-1"></i>{{- end -}}  <a href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a></li>
         {{ end }}
         {{ end }}
