@@ -8,6 +8,7 @@ contact:
   details: ''
 - method: Email
   details: ''
+menu: false
 
 ---
 aldkfj
