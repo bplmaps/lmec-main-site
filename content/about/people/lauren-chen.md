@@ -1,9 +1,8 @@
 ---
 title: Lauren Chen
 description: Reference & Cataloging Librarian
-headshot: 
+headshot: ''
 type: person
-menu: false
 contact:
 - method: Phone
   details: 617-859-2320
