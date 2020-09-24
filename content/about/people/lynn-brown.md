@@ -1,15 +1,13 @@
 ---
 title: Lynn Brown
 description: Education Coordinator
-headshot: 
+headshot: ''
 type: person
-menu: false
 contact:
-    - method: Phone
-      details: 
-    - method: Email
-      details: 
+- method: Phone
+  details: ''
+- method: Email
+  details: ''
 
 ---
-
 aldkfj
