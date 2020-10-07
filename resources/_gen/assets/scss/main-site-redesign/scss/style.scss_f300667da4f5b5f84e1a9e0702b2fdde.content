@@ -92,7 +92,7 @@ h6, .h6 {
   .btn-primary:hover {
     background-color: #004055; }
 
-.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary.active:not(:disabled):not(.disabled),
 .btn-primary:not(:disabled):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
@@ -433,6 +433,24 @@ textarea.form-control {
     margin: 0; }
   .content figure img {
     max-width: 100%; }
+
+.content .standard-carousel {
+  border-top: 2px solid #054571;
+  border-bottom: 2px solid #054571;
+  background-color: #f8f9fe; }
+  .content .standard-carousel .carousel-control-next, .content .standard-carousel .carousel-control-prev {
+    color: #054571 !important; }
+  .content .standard-carousel .carousel-inner {
+    height: 400px; }
+    .content .standard-carousel .carousel-inner .carousel-item {
+      height: 100%; }
+      .content .standard-carousel .carousel-inner .carousel-item p {
+        background-color: rgba(250, 250, 250, 0.7);
+        font-size: 0.9em;
+        margin: 0; }
+      .content .standard-carousel .carousel-inner .carousel-item img {
+        height: 100%;
+        object-fit: contain; }
 
 .content table {
   text-align: left;

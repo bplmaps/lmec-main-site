@@ -92,7 +92,7 @@ weight = 1
 
 [[menu.footer]]
 name = "Contact Us"
-URL = ""
+URL = "about/contact"
 weight = 2
 
 [[menu.footer]]
@@ -106,13 +106,18 @@ URL = "/about/hours-directions"
 weight = 4
 
 [[menu.footer]]
+name = "Land Acknowledgement"
+URL = "/about/mission-history"
+weight = 4
+
+[[menu.footer]]
 name = "Accessibility"
-URL = ""
+URL = "accessibility"
 weight = 5
 
 [[menu.footer]]
 name = "Privacy Policy"
-URL = ""
+URL = "privacy"
 weight = 6
 
 

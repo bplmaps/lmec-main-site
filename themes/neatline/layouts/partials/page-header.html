@@ -1,5 +1,5 @@
 <!-- page title -->
-<section class="page-title-section overlay" {{ with .Params.BackgroundImage }}style="background-image: url('{{ . | relURL}}');"{{ end }} >
+<section class="page-title-section overlay" {{ with .Params.BackgroundImage }}style="background-image: url('{{ . | relURL}}');"{{ else }}style="background-image: url('https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc377/678,2866,8033,2018/1200,/0/default.jpg');"{{ end }} >
   <div class="container">
     <div class="row">
       <div class="col-md-8">

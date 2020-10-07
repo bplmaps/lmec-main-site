@@ -2,8 +2,6 @@
   <meta charset="utf-8">
   <title>{{ site.Title }}</title>
 
-  <base href="{{ .Site.BaseURL }}">
-
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}

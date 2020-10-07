@@ -5,23 +5,34 @@ cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161d196/5
 description: "Et cetera and post hoc ergo propter hoc"
 weight: 1
 ---
-# Heading 1
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+## Land Acknowledgement
 
-### Requirements
+The Leventhal Map & Education Center stands on land that was once a water-based ecosystem that provided for the Massachusett people who lived in the Greater Boston area. We acknowledge these indigenous people, the devastating effects of settler colonialism on their communities, and their contemporary presence. 
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+## Our Mission and Values
 
+*Adopted June 17, 2020*
+
+The Norman B. Leventhal Map & Education Center at the Boston Public Library shall inspire curiosity and learning, and foster geographic perspectives on the relationships between people and places, through free and accessible collections and resources, critical interpretation and research, and K-12 and public education.
+
+### Values
+
+- Commit to integrity, excellence, respect in all our relationships, and professional library ethics[^1]
+- Listen to and include community voices, especially those who have been less represented
+- Increase diversity, equity, and inclusion in our organization and our work with others
+- Work to advance a more just and equitable society
+- Keep our spaces and community services open, welcoming, and “free to all”
+
+[^1]: American Library Association Code of Ethics; Association of College and Research Libraries Code of Ethics for Special Collections Librarians
+
+
+## History of the Center
+
+The Norman B. Leventhal Map & Education Center at the Boston Public Library, created in 2004, is a nonprofit organization established as a public-private partnership between the Library and philanthropist Norman Leventhal. Its mission is to use the collection of 200,000 maps and 5,000 atlases for the enjoyment and education of all through exhibitions, educational programs, and a website that includes more than 10,000 digitized maps at collections.leventhalmap.org. The map collection is global in scope, dating from the 15th century to the present, with a particular strength in maps and atlases from the New England region, American Revolutionary War period, nautical charts, and world urban centers.
+
+The Leventhal Map & Education Center is located on the first floor of the Library’s historic McKim Building in Copley Square. It includes an exhibition gallery that features changing thematic exhibitions; kids’ nooks with map puzzles, books, and activities; a public learning center with research books; and a reading room for rare map research
+
+Educational programs for students in grades K-12 are offered to school groups on site and in the classroom. Lesson plans based on national standards are available on the website, and professional development programs for teachers are scheduled regularly throughout the year.
+
+The Leventhal Map & Education Center is ranked among the top ten in the United States for the size of its collection, the significance of its historic (pre-1900) material, and its advanced digitization program. It is unique among the major collections because it also combines these features with exceptional educational programs to advance geographic literacy among students in grades K to 12 and enhance the teaching of subjects from history to mathematics to language arts. The collection is also the second largest in the country located in a public library, ensuring unlimited access to these invaluable resources for scholars, educators, and the general public.
