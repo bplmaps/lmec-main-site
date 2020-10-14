@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="{{ .link | absURL }}">
   {{ end }}
 
+
   {{ $styles := resources.Get "scss/style.scss" | toCSS }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 

@@ -1,18 +1,24 @@
 ---
 title: Exhibitions
-backgroundImage: "images/page-header-backgrounds/education-programs.jpg"
-description: "We offer resources, content, and programs for educators and students of all levels."
+backgroundImage: "images/page-header-backgrounds/gallery.jpg"
+description: "Exhibitions at the Leventhal Center bring maps and geography to life on themes connected to the present day"
 
 ---
-# Heading 1
+
 
 {{< carousel >}}
-    {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fb84d/full/,800/0/default.jpg" >}}Here's the first one{{< /carousel-figure >}}
-    {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fb84d/full/,800/0/default.jpg" >}}Here's the second one{{< /carousel-figure >}}
-{{< /carousel >}}
-<br><br>
+    {{< carousel-figure src="images/page-header-backgrounds/gallery.jpg" >}}
+    {{< /carousel-figure >}}
 
-{{< carousel >}}
-    {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463c23b/full/,800/0/default.jpg" >}}Caro 2, part 1{{< /carousel-figure >}}
-    {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fb84d/full/,800/0/default.jpg" >}}Here's the second one{{< /carousel-figure >}}
+    {{< carousel-figure src="images/carousels/at_gallery03.jpg" >}}{{< /carousel-figure >}}
+
+    {{< carousel-figure src="images/carousels/at_gallery09.jpg" >}}{{< /carousel-figure >}}
+
+    {{< carousel-figure src="images/carousels/DSC_0018s.jpg" >}}{{< /carousel-figure >}}
 {{< /carousel >}}
+
+## Past Exhibitions
+
+#### America Transformed: Mapping the 19th Century
+
+*May 4, 2019 – May 10, 2020*

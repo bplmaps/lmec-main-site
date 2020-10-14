@@ -1,8 +1,10 @@
 
 <div class="carousel-item">
     
-    <img src="{{ .Get "src" }}" class="d-block w-100" alt="{{ .Inner }}">
+    <img src="{{ .Get "src" | relURL }}" class="d-block w-100" alt="{{ .Inner }}">
+    {{ with .Inner }}
     <div class="carousel-caption d-none d-md-block">
-      <p class="font-secondary">{{ .Inner| markdownify }}</p>
+      <p class="font-secondary">{{ . | markdownify }}</p>
     </div>
+    {{ end }}
   </div>

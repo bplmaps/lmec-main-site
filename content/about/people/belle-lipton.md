@@ -6,7 +6,7 @@ type: person
 menu: false
 contact:
     - method: Phone
-      details: 617-859-2283
+      details: "617.859.2283"
     - method: Email
       details: <blipton@leventhalmap.org>
     - method: Twitter

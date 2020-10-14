@@ -6,7 +6,7 @@ type: person
 menu: false
 contact:
 - method: Phone
-  details: 617-859-2320
+  details: "617.859.2320"
 - method: Email
   details: lchen@leventhalmap.org
 

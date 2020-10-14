@@ -6,7 +6,7 @@ type: person
 menu: false
 contact:
 - method: Phone
-  details: 617-859-2139
+  details: "617.859.2139"
 - method: Email
   details: "<gnelson@leventhalmap.org>"
 - method: Twitter
