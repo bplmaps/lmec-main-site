@@ -3,13 +3,7 @@
 <!-- event single -->
 <section class="section-sm">
   <div class="container">
-    <div class="row">
-      
-      <!-- event image -->
-      <div class="col-12 mb-4">
-        <img style="height: 500px;width: 100%;object-fit: cover;" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
-      </div>
-    </div>
+
     <!-- event info -->
     <div class="row align-items-center mb-5">
       <div class="col-lg-9">
@@ -28,7 +22,7 @@
               <i class="fa fa-calendar-alt text-muted icon-md mr-3"></i>
               <div class="text-left">
                 <h6 class="mb-0">Date</h6>
-                <p class="mb-0">{{ .Date.Format "Jan 02, 2006"}}</p>
+                <p class="mb-0">{{ .Date.Format "Jan 2, 2006" }}</p>
               </div>
             </div>
           </li>
@@ -37,7 +31,7 @@
               <i class="fas fa-clock text-muted icon-md mr-3"></i>
               <div class="text-left">
                 <h6 class="mb-0">Time</h6>
-                <p class="mb-0">{{ .Date.Format "15:04 MST"}}</p>
+                <p class="mb-0">{{ .Date.Format "3:04 MST"}}</p>
               </div>
             </div>
           </li>

@@ -3,18 +3,20 @@
 @import url("https://use.typekit.net/hnl4gif.css");
 body {
   line-height: 1.2;
-  font-family: lemonde-journal, serif;
+  font-family: le-monde-journal-std-2, serif;
   -webkit-font-smoothing: antialiased;
   font-feature-settings: 'onum' 1;
   font-size: 15px;
   color: #313131; }
+  body strong {
+    font-weight: 700; }
 
 p, .paragraph {
   font-weight: 400;
   color: #313131;
   font-size: 17px;
   line-height: 1.65;
-  font-family: lemonde-journal, serif; }
+  font-family: le-monde-journal-std-2, serif; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #1e1e4b;
@@ -121,7 +123,7 @@ h6, .h6 {
   .btn-primary-outline::before {
     background: #fff; }
   .btn-primary-outline:hover {
-    background: #054571;
+    background: rgba(5, 69, 113, 0.2);
     color: #054571; }
   .btn-primary-outline:active {
     background: #054571;
@@ -182,6 +184,10 @@ a h4:hover {
 
 .slick-slide {
   outline: 0; }
+  .slick-slide .slider-caption {
+    color: white;
+    font-weight: 700;
+    background: linear-gradient(0deg, #054571 50%, transparent 0); }
 
 .section {
   padding-top: 90px;
@@ -211,7 +217,7 @@ a h4:hover {
     top: 0;
     left: 0;
     background: #1a1a37;
-    opacity: .8; }
+    opacity: .7; }
 
 .outline-0 {
   outline: 0 !important; }
@@ -345,8 +351,9 @@ textarea.form-control {
       color: #313131; }
 
 .content p a, .content li a {
-  text-decoration: underline;
   color: maroon; }
+  .content p a:not(.btn):hover, .content li a:not(.btn):hover {
+    background-image: linear-gradient(0deg, rgba(0, 102, 136, 0.2) 30%, transparent 0); }
 
 .content a.btn {
   text-decoration: none; }
@@ -491,6 +498,10 @@ textarea.form-control {
 .teacher-thumb-sm {
   height: 85px;
   width: 85px;
+  object-fit: cover; }
+
+.card-img-top {
+  max-height: 220px;
   object-fit: cover; }
 
 .page-card .card-img-top {
@@ -742,9 +753,45 @@ link:focus,
   .hover-shadow:hover {
     box-shadow: 0px 4px 25px 0px rgba(27, 39, 71, 0.15); }
 
-/* /course */
 .frontpage-feature {
-  box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.2) inset; }
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.4) inset; }
+  .frontpage-feature .frontpage-feature-callout {
+    border: 5px solid #054571;
+    background-color: rgba(255, 255, 255, 0.85);
+    box-shadow: 5px 5px 0 0 #1a1a37; }
+    .frontpage-feature .frontpage-feature-callout h3 {
+      background-image: linear-gradient(0deg, rgba(213, 77, 0, 0.37) 30%, transparent 0); }
+
+.cta .cta-popper-outer {
+  z-index: 100; }
+
+.cta .cta-popper {
+  border: 3px solid #054571;
+  box-shadow: 4px 4px 0 0 rgba(213, 77, 0, 0.37);
+  text-align: center;
+  background-color: white;
+  height: auto; }
+
+.cta .cta-body {
+  background-color: #eee;
+  margin-top: -10px;
+  padding-top: 15px;
+  border: 1px solid rgba(213, 77, 0, 0.37); }
+  @media (min-width: 992px) {
+    .cta .cta-body {
+      margin-bottom: -20px;
+      margin-left: -50px;
+      margin-top: 20px;
+      padding-top: 5px; } }
+  .cta .cta-body ul {
+    margin: 5px;
+    padding-left: 0; }
+    @media (min-width: 992px) {
+      .cta .cta-body ul {
+        margin: 15px 10px 15px 63px; } }
+  .cta .cta-body li {
+    font-size: 1.2em;
+    margin-bottom: 10px; }
 
 /* events */
 .card-date {

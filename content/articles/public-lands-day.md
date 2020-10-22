@@ -1,14 +1,13 @@
 +++
 author = "Rachel Mead"
-bg_image = ""
+bg_image = "images/test.png"
 categories = ["parks", "environment"]
 date = 2020-09-24T10:00:00Z
-description = ""
-draft = true
-image = ""
-tags = []
+description = "On National Public Lands Day, take some time to celebrate the protection and preservation of lands set aside for the public good."
+draft = false
+image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc57z/1638,1099,1729,1631/,800/0/default.jpg"
+tags = ["social media post"]
 title = "Public Lands Day"
-type = ""
 
 +++
 On National Public Lands Day, take some time to celebrate the protection and preservation of lands set aside for the public good. But while you're doing so, it's worth considering how land in North America came to be "public" in the first place. Long before Euro-American governments acquired what would become their "public domain," the land of North America was home to millions of Native people.  

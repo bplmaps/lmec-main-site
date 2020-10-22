@@ -5,7 +5,10 @@
 <!-- hero slider -->
 {{ if $data.homepage.slider.enable }}
 {{ with $data.homepage.slider }}
-<section class="hero-section overlay bg-cover" data-background="{{ .bg_image | absURL }}">
+
+
+<section class="hero-section overlay bg-cover" id="hero-section-frontpage-slider">
+
   <div class="container">
     <div class="hero-slider">
       <!-- slider item -->
@@ -15,7 +18,7 @@
           <div class="col-md-8">
             <h1 class="text-white" data-animation-out="animate__fadeOutRight animate__animated" data-delay-out="5" data-duration-in=".3"
               data-animation-in="animate__fadeInLeft animate__animated" data-delay-in=".1">{{ .title | markdownify }}</h1>
-            <p class="text-muted mb-4" data-animation-out="animate__fadeOutRight animate__animated" data-delay-out="5" data-duration-in=".3" data-delay-in=".2" data-animation-in="animate__fadeInLeft animate__animated" >{{ .content | markdownify }}</p>
+            <p class="mb-4" data-animation-out="animate__fadeOutRight animate__animated" data-delay-out="5" data-duration-in=".3" data-delay-in=".2" data-animation-in="animate__fadeInLeft animate__animated" ><span class="slider-caption">{{ .content | markdownify }}</span></p>
             {{ if .button.enable }}
             <a href="{{ .button.link | absURL }}" class="btn btn-primary" data-animation-out="animate__fadeOut animate__animated" data-delay-out="4" data-duration-in=".3" data-animation-in="animate__fadeIn animate__animated" data-delay-in=".7">{{ .button.label }}</a>
             {{ end }}
@@ -26,15 +29,50 @@
     </div>
   </div>
 </section>
+<script type="text/javascript">
+  var bg_images = [];
+  {{range .bg_images}}bg_images.push({{ . }});
+  {{ end }}
+  document.getElementById("hero-section-frontpage-slider").setAttribute("data-background", bg_images[Math.floor(Math.random() * bg_images.length)]);
+  console.log(bg_images);
+</script>
 {{ end }}
 {{ end }}
 <!-- /hero slider -->
+
+<!-- cta -->
+{{ if $data.homepage.cta.enable }}
+{{ with $data.homepage.cta }}
+<section class="section py-3 cta">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3 cta-popper-outer"><div class="cta-popper"><h3 class="my-3">What's new?</h3></div></div>
+      <div class="col-lg-9 cta-body">
+        <ul>
+          <li><span class="badge badge-secondary font-secondary">Next event</span>{{ range first 1 (where site.RegularPages.ByDate "Type" "event")}}
+              <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> <span class="text-secondary">{{ .Page.Params.date.Format "Jan 2, 2006" }}</span>
+            {{ end }}</li>
+
+          {{ range .announcements }}
+          <li>
+          <span class="badge badge-secondary font-secondary">{{ .badge }}</span>
+          <a href="{{ .link }}">{{ .text | markdownify }}</a></li>
+
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /cta -->
 
 
 <!-- about us -->
 {{ if $data.homepage.audiences.enable }}
 {{ with $data.homepage.audiences }}
-<section class="section">
+<section class="section py-3">
   <div class="container">
     <div class="row align-items-center">
       <div class="row row-cols-1 row-cols-md-2">
@@ -43,7 +81,7 @@
         <div class="card frontpage-audience-card border-0">
           <div class="card-body">
             <h2 class="card-title" {{- with .color -}} style="color:{{ . }}" {{- end -}}>{{ .name }}</h2>
-            <div class="card-subtitle font-italic text-secondary pb-3">{{ .description }}</div>
+            <div class="card-subtitle text-secondary pb-3">{{ .description }}</div>
             <ul class="p-0">
             {{ range .links }}
               <li class="mx-0 my-2"><a href="{{ .link }}" class="card-link font-secondary mr-4"><i class="fas fa-angle-right"></i>  {{ .title | markdownify }}</a></li>
@@ -62,28 +100,7 @@
 <!-- /about us -->
 
 
-<!-- cta -->
-{{ if $data.homepage.cta.enable }}
-{{ with $data.homepage.cta }}
-<section class="section py-3">
-  <div class="container">
-    <div class="row border p-3 rounded">
-      <div class="col text-center">
-        <h4 class="section-title mt-2 mb-0"><i class="fas fa-flag mr-4"></i>{{ .title | markdownify }}</h4>  
-      </div>
-      <div class="col-md-auto">
-        {{ if .button.enable }}
-          {{ with .button }}
-          <a href="{{ .link | absURL }}" class="btn btn-primary btn-sm ml-4">{{ .label }}</a>
-          {{ end }}
-          {{ end }}
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-<!-- /cta -->
+
 
 <!-- frontpage Feature -->
 {{ if $data.homepage.frontpageFeature.enable }}
@@ -156,12 +173,18 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h2 class="section-title">{{ $data.homepage.blog.title }}</h2>
+        <div class="d-flex align-items-center section-title justify-content-between">
+          <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.blog.title }}</h2>
+          <div class="border-top w-100 border-primary d-none d-sm-block"></div>
+          <div>
+            <a href="{{ `articles` | relURL }}" class="btn btn-sm btn-primary-outline ml-sm-3 d-none d-sm-block text-nowrap">All articles</a>
+          </div>
+        </div>
       </div>
     </div>
     <div class="row justify-content-center">
       <!-- blog post -->
-      {{ range first 3 (where site.RegularPages "Type" "post")}}
+      {{ range first 3 (where site.RegularPages "Type" "articles")}}
       <article class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
         {{ .Render "post" }}
       </article>

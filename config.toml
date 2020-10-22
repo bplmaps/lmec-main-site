@@ -3,11 +3,6 @@ title = "Leventhal Map & Education Center at the Boston Public Library"
 theme = "neatline"
 
 
-# post pagination
-paginate = "6"
-# post excerpt
-summaryLength = "10"
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.extensions]

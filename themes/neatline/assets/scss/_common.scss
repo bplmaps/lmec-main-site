@@ -68,6 +68,12 @@ a h4{
 
 .slick-slide {
   outline: 0;
+  
+  .slider-caption {
+    color: white;
+    font-weight: 700;
+    background: linear-gradient(0deg,$primary-color 50%,transparent 0);
+  }
 }
 
 .section {
@@ -107,7 +113,7 @@ a h4{
     top: 0;
     left: 0;
     background: $secondary-color;
-    opacity: .8;
+    opacity: .7;
   }
 }
 
@@ -306,8 +312,10 @@ textarea.form-control{
   }
 
   p a, li a {
-    text-decoration: underline;
-    color: $link-color;
+    color: $link-color; 
+    &:not(.btn):hover {
+      background-image: linear-gradient(0deg, adjust-color($button-primary-color, $alpha: -0.8) 30%,transparent 0); 
+    }
   }
 
   a.btn {
@@ -517,12 +525,19 @@ textarea.form-control{
   object-fit: cover;
 }
 
+.card-img-top {
+  max-height: 220px;
+  object-fit: cover;
+}
+
 .page-card {
   .card-img-top {
     max-height: 150px;
     object-fit: cover;
   }
 }
+
+
 
 .staff-list-card {
 

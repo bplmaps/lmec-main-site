@@ -57,11 +57,65 @@
   }
 }
 
-/* /course */
 
 
 .frontpage-feature {
-  box-shadow: 0 0 5px 3px rgba(0,0,0,0.2) inset;
+  box-shadow: 0 0 5px 5px rgba(0,0,0,0.4) inset;
+
+  .frontpage-feature-callout {
+    border: 5px solid $primary-color;
+    background-color: rgba(255,255,255,0.85);
+    box-shadow: 5px 5px 0 0 $secondary-color;
+    h3 {
+      background-image: linear-gradient(0deg,$tertiary-highlight 30%,transparent 0);
+    }
+  }
+}
+
+.cta {
+
+  .cta-popper-outer {
+    z-index: 100;
+  }
+
+  .cta-popper {
+    border: 3px solid $primary-color;
+    box-shadow: 4px 4px 0 0 $tertiary-highlight;
+    text-align: center;
+    background-color: white;
+    height: auto;
+  }
+  .cta-body {
+    background-color: #eee;
+    margin-top: -10px;
+    padding-top: 15px;
+    border: 1px solid $tertiary-highlight;
+
+    @media (min-width: 992px) { 
+      margin-bottom: -20px;
+      margin-left: -50px;
+      margin-top: 20px;
+      padding-top: 5px;
+      
+     }
+
+    
+     ul {
+      margin: 5px;
+      padding-left: 0;
+
+
+      @media (min-width: 992px) { 
+      margin: 15px 10px 15px 63px;
+      }
+    }
+
+
+    li {
+      font-size: 1.2em;
+      margin-bottom: 10px;
+    }
+  }
 }
 
 /* events */

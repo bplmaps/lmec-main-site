@@ -6,8 +6,8 @@
     <div class="row">
       
       <div class="col-lg-8 col-sm-8">
-        <div class="bg-white p-5">
-          <h3 class="section-title">{{ .title | markdownify }}</h3>
+        <div class="p-5 frontpage-feature-callout">
+          <h3 class="section-title mb-2">{{ .title | markdownify }}</h3>
           <p>{{ .content | markdownify }}</p>
           {{ with .button }}
           <a class="btn btn-primary btn-lg" href="{{ .link | safeURL }}">

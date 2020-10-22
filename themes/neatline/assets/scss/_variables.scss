@@ -10,13 +10,17 @@ $black: #000;
 $white: #fff;
 $light: #f8f9fe;
 $gray: #f8f8f8;
+$tertiary-highlight: rgba(213, 77, 0, 0.37);
 
 $button-primary-color: #006688;
 $link-color: maroon;
 
-// Font Variables
-$primary-font: lemonde-journal, serif;
-$secondary-font: hero-new, sans-serif;
 
-$serif: lemonde-journal, serif;
+// Font Variables
+$serif: le-monde-journal-std-2, serif;
 $sans: hero-new, sans-serif;
+
+$primary-font: $serif;
+$secondary-font: $sans;
+
+

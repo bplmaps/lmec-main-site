@@ -9,6 +9,9 @@ body {
   font-feature-settings: 'onum' 1;
   font-size: 15px;
   color: $text-color;
+  & strong {
+    font-weight: 700;
+  }
 }
 
 p, .paragraph {
