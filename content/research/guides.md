@@ -1,6 +1,6 @@
 ---
 title: Research Guides
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0z709577v/1913,1352,3235,1953/,800/0/default.jpg
 description: Library guides for research on maps and historical geography
 weight: "2"
 aliases: "/research/research-guides"

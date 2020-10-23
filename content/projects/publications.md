@@ -1,29 +1,35 @@
 ---
 title: Publications
-backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/5059,2047,4782,3064/1200,/0/default.jpg"
-cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161d196/514,4231,5313,2546/400,/0/default.jpg"
-description: "Et cetera and post hoc ergo propter hoc"
+backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ms35v1452/1914,1360,2509,1346/,800/0/default.jpg"
+cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ms35v1452/1914,1360,2509,1346/,300/0/default.jpg"
+description: "Exhibition catalogs and other texts that have been published by the Center"
 weight: 2
 aliases:
     - /about/publications
 ---
-# Heading 1
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+### America Transformed
 
-### Requirements
+During the 19th century, the United States expanded dramatically westward. Immigrant settlers rapidly spread across the continent and transformed it, often through violent or deceptive means, from ancestral Native lands and borderlands teeming with diverse communities to landscapes that fueled the rise of industrialized cities. Historical maps, images and related objects tell the story of the sweeping changes made to the physical, cultural, and political landscape. Moving beyond the mythologized American frontier, this map exhibition explores the complexity of factors that shaped our country over the century.
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+### We Are One
+
+We Are One maps the American road to independence. It explores the tumultuous events that led thirteen colonies to join to forge a new nation. The exhibition takes its title from Benjamin Franklin’s early design for a note of American currency containing the phrase “We Are One.” This presaged the words “E Pluribus Unum” found on the seal of the United States (adopted in 1782) and on all U.S. coins.
+
+### Torn In Two
+
+Torn in Two: 150th Anniversary of the Civil War, the fourth gallery exhibition of the Norman B. Leventhal Map Center at the Boston Public Library, commemorates one of the major events in America’s history.
+
+### Mapping Boston
+
+To the attentive user even the simplest map can reveal not only where things are but how people perceive and imagine the spaces they occupy. Mapping Boston is an exemplar of such creative attentiveness–bringing the history of one of America’s oldest and most beautiful cities alive through the maps that have depicted it over the centuries.
+
+### Journeys of the Imagination
+
+Journeys of the Imagination is an exhibition designed to explore the various ways that mapmakers from the 15th century until today have created and translated their real and imagined world views. They recorded these diverse and ever changing images on various media including paper, globes, and computer screens.
+
+### Boston and Beyond
+
+Boston and Beyond, the third gallery exhibit of the Norman B. Leventhal Map Center at the Boston Public Library, marks the public debut of one of the world’s pre-eminent collections of urban bird’s eye views and celebrates its preservation through a Save America’s Treasures award.
+
 

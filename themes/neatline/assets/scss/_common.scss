@@ -231,6 +231,10 @@ a h4{
 .page-title-section {
   padding: 200px 0 80px;
   background-size: cover;
+
+  .page-subheader {
+    font-weight: 700;
+  }
 }
 
 .custom-breadcrumb {
@@ -328,6 +332,20 @@ textarea.form-control{
 
   a.btn-outline-primary:hover {
     background-color: $primary-color;
+  }
+
+  .callout {
+    width: 90%;
+    text-align: center;
+    border: 3px solid $primary-color;
+    border-left-width: 8px;
+    border-right-width: 8px;
+    box-shadow: 3px 3px 0 0 $tertiary-highlight;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 1.4em;
+    font-weight: 700;
+    color: $primary-color;
   }
 
   h1, h2{

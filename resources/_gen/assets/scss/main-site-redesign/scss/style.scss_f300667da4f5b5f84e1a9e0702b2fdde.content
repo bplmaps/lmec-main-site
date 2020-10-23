@@ -305,6 +305,8 @@ a h4:hover {
 .page-title-section {
   padding: 200px 0 80px;
   background-size: cover; }
+  .page-title-section .page-subheader {
+    font-weight: 700; }
 
 .custom-breadcrumb li.nasted {
   position: relative;
@@ -363,6 +365,19 @@ textarea.form-control {
 
 .content a.btn-outline-primary:hover {
   background-color: #054571; }
+
+.content .callout {
+  width: 90%;
+  text-align: center;
+  border: 3px solid #054571;
+  border-left-width: 8px;
+  border-right-width: 8px;
+  box-shadow: 3px 3px 0 0 rgba(213, 77, 0, 0.37);
+  margin: 0 auto;
+  padding: 10px;
+  font-size: 1.4em;
+  font-weight: 700;
+  color: #054571; }
 
 .content h1::before, .content h2::before {
   content: "";

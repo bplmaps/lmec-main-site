@@ -1,7 +1,7 @@
 ---
 title: Geospatial Information Services
 # page title background image
-backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg"
+backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f990b/5729,2050,4101,1915/,800/0/default.jpg"
 # about image
 # meta description
 description : "Access information, data, and guides for geospatial information"
@@ -52,11 +52,13 @@ We can point you to learning resources for GIS mapping software such as:
 
 We maintain a portal called [Cartinal](https://geoservices.leventhalmap.org/cartinal/) with numerous guides, tutorial, and documentation sources for geospatial data and projects. Cartinal includes both step-by-step guides that are suitable for beginners who have never worked with GIS before, as well as more technical documentation for data services and resources provided by LMEC.
 
+<a class="btn btn-outline-primary" href="https://geoservices.leventhalmap.org/cartinal/">Visit Cartinal</a>
+
 Some examples of resources you can find in Cartinal:
 
-- A tutorial for [getting started installing the open source GIS software QGIS](https://geoservices.leventhalmap.org/cartinal/resources/guides/get-started-qgis.html)
-- A guide explaining [common geospatial data formats](https://geoservices.leventhalmap.org/cartinal/resources/guides/file-formats.html#shapefile)
-- A [list of data endpoints](https://geoservices.leventhalmap.org/cartinal/resources/documentation/access-urban-atlas-data.html) for our geotransformed atlas layers
+- A tutorial for [getting started installing the open source GIS software QGIS](https://geoservices.leventhalmap.org/cartinal/guides/get-started-qgis/)
+- A guide explaining [common geospatial data formats](https://geoservices.leventhalmap.org/cartinal/guides/file-formats.html)
+- Documentation on [how to use the Atlascope portal](https://geoservices.leventhalmap.org/cartinal/guides/atlascope-tool-guide.html) to access our geotransformed atlas layers
 
 
 ## Make a Geospatial Reference Request {#make-request}

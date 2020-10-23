@@ -6,6 +6,7 @@ slider:
     - "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14b013q/3249,1607,2164,1618/,2000/0/default.jpg"
     - "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj58k/3249,1551,4726,3161/,2000/0/default.jpg"
     - "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp87h/2014,670,3931,2970/,2000/0/default.jpg"
+    - "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fb18t/1721,2483,2741,2239/,2000/0/default.jpg"
   slider_item:
     - title : "Preserving the past and advancing the future of maps"
       content : "A quarter million maps from the fifteenth century to the present tell the stories of Boston and the world"

@@ -3,7 +3,7 @@
   {{ with .Params.cardImage }}<img class="card-img-top rounded-0" src="{{ . | relURL }}" alt="{{ $page.Title }}">{{ end }}
   <div class="card-body">
     <h3 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-    <p class="card-text">{{ .Description }}</p>
+    <p class="card-text">{{ .Description | markdownify }}</p>
     {{ with .Pages }}
     <ul class="font-secondary m-0 p-0">
     {{ range . }}

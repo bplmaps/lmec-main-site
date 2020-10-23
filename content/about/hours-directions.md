@@ -1,7 +1,6 @@
 ---
 title: Hours & Directions
-backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/5059,2047,4782,3064/1200,/0/default.jpg"
-cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161d196/514,4231,5313,2546/400,/0/default.jpg"
+cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462w858/2250,4039,2581,1714/,800/0/default.jpg"
 description: "Information on access hours for visits and research, and how to find us"
 weight: 4
 quicklinks:

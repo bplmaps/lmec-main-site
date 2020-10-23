@@ -1,29 +1,20 @@
 ---
 title: Digital Exhibitions
-backgroundImage: "images/page-header-backgrounds/education-programs.jpg"
-description: "We offer resources, content, and programs for educators and students of all levels."
+backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fg63q/2690,6509,4326,2466/,1200/0/default.jpg"
+description: "Interactive and immersive digital exhibitions bring our gallery to your computer or phone"
 weight: 2
 
 ---
-# Heading 1
+
+<div class="callout my-3">Bending Lines: Maps and Data from Distortion to Deception</div>
+
+The digital exhibition for our latest show, **Bending Lines**, was designed as an online-first experience. It features zoomable, high-resolution images of all of the exhibition objects; interactive features like a [projection explorer](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/projections/) and a [map trust exercise](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/interactive-trust/); [video presentations](https://www.leventhalmap.org/digital-exhibitions/bending-lines/events/) from the curator and guests; and activities [designed specially for K-12 educators](https://www.leventhalmap.org/digital-exhibitions/bending-lines/education-activities/).
 
 
+<a class="btn btn-outline-primary" href="https://www.leventhalmap.org/digital-exhibitions/bending-lines/">Enter the online exhibition for Bending Lines</a>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fk817/862,167,4287,2521/,800/0/default.jpg" caption="Fred Rose's [1877 map of Russia as an octopus](https://www.leventhalmap.org/digital-exhibitions/bending-lines/why-persuade/1.5.1/) is one of the most famous examples of a caricature map used to promote a nationalist cause" >}}
 
-### Requirements
+## Past digital exhibitions
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-
+Digital exhibitions from our earlier exhibitions can be found on [the exhibitions page](https://collections.leventhalmap.org/exhibits) of our Digital Collections portal.
