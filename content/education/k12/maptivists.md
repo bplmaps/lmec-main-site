@@ -16,6 +16,6 @@ Students also learn the basics of geospatial data and how they can use maps to b
 
 The resources on this site are organized to help educators find ways to introduce data map literacy to students as well as moving students into GIS mapping using different cloud-based platforms.
 
-If you have questions about these materials or if you work at a Boston high school and want to learn more about becoming one of our Maptivist partners, please contact our [Director of Education](people/michelle-leblanc) or [Education Coordinator](people/lynn-brown) for more information.
+If you have questions about these materials or if you work at a Boston high school and want to learn more about becoming one of our _Maptivist_ partners, please contact our [Director of Education](people/michelle-leblanc) or [Education Coordinator](people/lynn-brown) for more information.
 
 ### More resources coming soon.
