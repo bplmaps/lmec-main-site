@@ -35,6 +35,10 @@ The Leventhal Map & Education Center offers a menu of pre-designed programs for 
 
 > }}
 
+{{< course-listing image="/uploads/eliot4.jpg" title="Native People and Settler Colonialism/A Story of Land and Maps" subtitle="Grades 4-12" description="Students learn the basics of mapmaking and explore maps made by Indigenous and Euro-American cartographers to uncover Native presence and the dispossession of Native lands."
+
+> }}
+
 ## Booking a Program {#booking}
 
 To book a program, fill out the reservation form. Someone from the K-12 education department will contact you to finalize your reservation. **Note: Filling out the form is not a confirmation of your reservation.**
