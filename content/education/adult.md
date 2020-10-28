@@ -1,27 +1,22 @@
 ---
 title: Adult Education
-backgroundImage: "images/page-header-backgrounds/education-programs.jpg"
+backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ws859h07k/2661,6743,1830,532/,1200/0/default.jpg"
 cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053q91v/475,237,1132,829/400,/0/default.jpg"
 description: "Resources and training for lifelong learners"
 weight: 3
 ---
-# Heading 1
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
 
-### Requirements
+## Mapmaking Public Instruction Courses
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+{{< alert-box type="warning" icon="fas fa-exclamation-triangle" title="COVID-19 closure" >}}
+Our public programs in the library's learning lab are currently suspended due to the building's closure. We plan to bring our adult education programs back in remote form in Spring 2021.
+{{< /alert-box >}}
 
+## Talks, Lectures, and Seminars
+
+See our [Events Calendar](/event) for upcoming talks, lectures, and seminars.
+
+## Boston Map Society
+
+The Boston Map Society is an affinity group for adults in Boston and New England who are interested in geography, history, and design. **Membership is free in 2020–2021.** Please visit the [Boston Map Society homepage](http://bostonmapsociety.org) for more information and to become a member.
