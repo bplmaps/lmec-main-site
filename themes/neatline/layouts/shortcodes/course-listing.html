@@ -1,0 +1,8 @@
+<div class="media course-listing my-4">
+    <img src="{{ .Get "image" | relURL }}" class="mr-3" alt="{{ .Get "title" }}">
+    <div class="media-body">
+      <h4 class="mt-0">{{ .Get "title" }}</h4>
+      <h6 class="text-muted">{{ .Get "subtitle" }}</h6>
+      {{ .Get "description" | markdownify }}
+    </div>
+  </div>

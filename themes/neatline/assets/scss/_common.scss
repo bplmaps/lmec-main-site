@@ -537,7 +537,7 @@ textarea.form-control{
 }
 
 .card-img-top {
-  max-height: 220px;
+  max-height: 175px;
   object-fit: cover;
 }
 
@@ -563,4 +563,12 @@ img.staff-headshot-circle {
 }
 
 p { font-size: 14px; line-height: 14px; }
+}
+
+.course-listing {
+  img {
+    width: 140px;
+    height: 100px;
+    object-fit: cover;
+  }
 }

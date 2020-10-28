@@ -3,7 +3,7 @@
 @import url("https://use.typekit.net/hnl4gif.css");
 body {
   line-height: 1.2;
-  font-family: le-monde-journal-std-2, serif;
+  font-family: freight-micro-pro, serif;
   -webkit-font-smoothing: antialiased;
   font-feature-settings: 'onum' 1;
   font-size: 15px;
@@ -14,9 +14,9 @@ body {
 p, .paragraph {
   font-weight: 400;
   color: #313131;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.65;
-  font-family: le-monde-journal-std-2, serif; }
+  font-family: freight-micro-pro, serif; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #1e1e4b;
@@ -380,22 +380,15 @@ textarea.form-control {
   color: #054571; }
 
 .content h1::before, .content h2::before {
-  content: "";
-  margin-left: -30px;
-  padding-right: 20px;
-  border-left: 10px solid #1e1e4b; }
+  content: "➣";
+  font-size: 80%;
+  margin-left: -40px;
+  margin-right: 10px; }
 
 .content h3::before, .content h4::before {
-  content: "";
-  width: 8px;
-  height: 8px;
-  display: inline-block;
-  border-radius: 2px;
-  background-color: #1e1e4b;
-  margin-left: -30px;
-  margin-right: 20px;
-  position: relative;
-  bottom: 3px; }
+  content: "‣";
+  margin-left: -40px;
+  margin-right: 25px; }
 
 .content h1,
 .content h2,
@@ -516,7 +509,7 @@ textarea.form-control {
   object-fit: cover; }
 
 .card-img-top {
-  max-height: 220px;
+  max-height: 175px;
   object-fit: cover; }
 
 .page-card .card-img-top {
@@ -534,6 +527,11 @@ textarea.form-control {
   .staff-list-card p {
     font-size: 14px;
     line-height: 14px; }
+
+.course-listing img {
+  width: 140px;
+  height: 100px;
+  object-fit: cover; }
 
 .top-header {
   font-size: 12px;

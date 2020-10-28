@@ -3,7 +3,7 @@ title: K-12 Education
 backgroundImage: "/uploads/eliot5.jpg"
 cardImage: images/page-header-backgrounds/education-programs.jpg
 description: Our K-12 programs reach thousands of students each year, and we offer
-  resources and training for teachers around the world.
+  resources and training for teachers around the world
 weight: "1"
 quicklinks:
 - text: Book a remote visit for my class with Map Center educators

@@ -2,7 +2,7 @@
 title: Adult Education
 backgroundImage: "images/page-header-backgrounds/education-programs.jpg"
 cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053q91v/475,237,1132,829/400,/0/default.jpg"
-description: "We offer resources, content, and programs for educators and students of all levels."
+description: "Resources and training for lifelong learners"
 weight: 3
 ---
 # Heading 1

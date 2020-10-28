@@ -13,9 +13,7 @@ aliases:
 In-person access to the Map Center is currently suspended due to the COVID-19 pandemic. Please visit our [COVID updates page](covid-info) for more information.
 {{< /alert-box >}}
 
-The Norman B. Leventhal Map & Education Center is located inside the Central Library branch of the Boston Public Library in Copley Square, just off of the historic courtyard. Our exhibitions Gallery is free to the public, and no advance booking is necessary to view exhibitions.
-
-Plan to set aside between 30 minutes and 1½ hours for a full experience in the Gallery, though you are always welcome to spend more or less time, and to come back for multiple visits. The Gallery features captions and activities for children and families as well as adults.
+Our exhibitions Gallery is free to the public, and no advance booking is necessary to view exhibitions. Plan to set aside between 30 minutes and 1½ hours for a full experience in the Gallery, though you are always welcome to spend more or less time, and to come back for multiple visits. The Gallery features captions and activities for children and families as well as adults.
 
 ![](images/page-header-backgrounds/gallery.jpg)
 
