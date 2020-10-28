@@ -32,16 +32,14 @@ Richard Pegg
 Natacha Scott  
 Christian J. Westra, Esq.
 
-Ex Officio
+**Ex Officio**
 
-Robert Gallery, _ex officio_
-
+Robert Gallery, _ex officio_  
 David Leonard, _ex officio_
 
-Lifetime Directors
+**Lifetime Directors**
 
-Richard H. Brown
-
+Richard H. Brown  
 Robert M. Melzer
 
 ### Board of Review
@@ -50,6 +48,8 @@ James R. Akerman
 Paul B. Cote  
 Alex Krieger, Chair  
 Robert M. Melzer  
-Julie Sweetkind-Singer
+Margaret Pearce  
+Julie Sweetkind-Singer   
+Tim Wallace 
 
 ### Education Committee
