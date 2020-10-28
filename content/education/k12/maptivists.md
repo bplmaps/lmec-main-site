@@ -8,6 +8,8 @@ weight: "4"
 ---
 ## Maptivists
 
+![](/uploads/maptivists.jpg)
+
 The _Maptivists_ initiative at the Leventhal Map & Education Center is rooted in the belief that maps and mapping are empowering and can help students be civically engaged. 
 
 In _Maptivist_ classrooms, students work with a variety of historical and modern map resources to better understand the past and present of Boston and advocate for change. Students connect with community resources, from individuals working for social justice to City of Boston data sets that enable them to analyze everything from gentrification in their neighborhoods, to health care access by race across the city, to climate resilience's relationship to income inequality.
