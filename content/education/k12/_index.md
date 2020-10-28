@@ -1,6 +1,6 @@
 ---
 title: K-12 Education
-backgroundImage: images/page-header-backgrounds/education-programs.jpg
+backgroundImage: "/uploads/eliot5.jpg"
 cardImage: images/page-header-backgrounds/education-programs.jpg
 description: Our K-12 programs reach thousands of students each year, and we offer
   resources and training for teachers around the world.
