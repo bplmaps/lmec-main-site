@@ -6,18 +6,17 @@ description: Our K-12 programs reach thousands of students each year, and we off
   resources and training for teachers around the world.
 weight: "1"
 quicklinks:
-  - text: "Book a remote visit for my class with Map Center educators"
-    link: "education/k12/school-visits"
-    linkType: onsite
-  - text: "Find resources for teaching with maps and geographic sources"
-    link: "education/k12/teach-it-yourself"
-    linkType: onsite
-  - text: "Contact a member of the Map Center's education team"
-    link: "#reach-out"
-    linkType: jump
+- text: Book a remote visit for my class with Map Center educators
+  link: education/k12/school-visits
+  linkType: onsite
+- text: Find resources for teaching with maps and geographic sources
+  link: education/k12/teach-it-yourself
+  linkType: onsite
+- text: Contact a member of the Map Center's education team
+  link: "#reach-out"
+  linkType: jump
 
 ---
-
 ## Maps teach many lessons
 
 At the Leventhal Map & Education Center, we believe that maps are powerful tools for students to consider their place in their community and the larger world. By looking closely at maps from the past, present and even possible futures, students can connect themselves to larger systems that affect them and propose ideas for change. Giving students the tools to read and understand maps and the time to look closely and deeply at them can expand not only their geographic awareness but also help them to look critically at other sources of information they encounter.
@@ -48,7 +47,7 @@ Our [Professional Development](education/k12/professional-development) page offe
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp00n/141,311,5339,2544/1200,/0/default.jpg" alt="Vernacular map" caption="This [hand drawn map of the world](https://collections.leventhalmap.org/search/commonwealth:0r96fn993) was created by the schoolchild Lucretia Buell in 1814, probably as part of a geography class lesson" >}}
 
-### Reach out for more {#reach-out}
+### Looking for more? {#reach-out}
 
 Are you looking for something you can't find here? Contact our [Director of Education](people/michelle-leblanc) or [Education Coordinator](people/lynn-brown) for more information.
 
