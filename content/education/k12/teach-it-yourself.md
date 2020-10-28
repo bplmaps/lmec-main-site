@@ -7,7 +7,7 @@ weight: "2"
 ---
 ## Tools for Teachers
 
-Info about Tools for Teachers Here
+Access map sets and lesson plans using our digital collections.
 
 ## Teaching with our Current Exhibition
 
@@ -15,4 +15,6 @@ Explore education activities related to [Bending Lines: Maps and Data from Disto
 
 ## Teaching and Learning Resources
 
-Airtable gallery here??
+Keep checking back as we add to this new menu of digital resources. 
+
+Airtable gallery here
