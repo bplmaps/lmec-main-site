@@ -351,25 +351,18 @@ textarea.form-control{
   h1, h2{
 
     &::before {
-      content: "";
-      margin-left: -30px;
-      padding-right: 20px;
-      border-left: 10px solid $text-color-dark
+      content: "➣";
+      font-size: 80%;
+      margin-left: -40px;
+      margin-right: 10px;
     }
   }
 
   h3, h4 {
     &::before {
-      content: "";
-      width: 8px;
-      height: 8px;
-      display: inline-block;
-      border-radius: 2px;
-      background-color: $text-color-dark;
-      margin-left: -30px;
-      margin-right: 20px;
-      position: relative;
-      bottom: 3px;
+      content: "‣";
+      margin-left: -40px;
+      margin-right: 25px;
     }
   }
 

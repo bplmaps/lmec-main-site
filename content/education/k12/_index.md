@@ -28,7 +28,6 @@ At the Leventhal Map & Education Center, we believe that maps are powerful tools
     {{< carousel-figure src="https://www.leventhalmap.org/wp-content/uploads/2017/02/education-programs.jpg" >}}{{< /carousel-figure >}}
 
     {{< carousel-figure src="https://www.leventhalmap.org/wp-content/uploads/2017/03/teaching-with-maps.jpg" >}}{{< /carousel-figure >}}
-
 {{< /carousel >}}
 
 ### Bringing your class to the Map Center, or the Map Center to your class
