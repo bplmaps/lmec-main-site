@@ -1,26 +1,21 @@
 ---
 title: Maptivists
-backgroundImage: "images/page-header-backgrounds/education-programs.jpg"
-description: "We offer resources, content, and programs for educators and students of all levels."
-weight: 4
+backgroundImage: images/page-header-backgrounds/education-programs.jpg
+description: We offer resources, content, and programs for educators and students
+  of all levels.
+weight: "4"
+
 ---
-# Heading 1
+## Maptivists
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+The _Maptivists_ initiative at the Leventhal Map & Education Center is based in the idea that maps and mapping are empowering and can help students be civically engaged. Map Center educators work with students to use a variety of historical and modern map resources to better understand the past and present of Boston and advocate for change.
 
-### Requirements
+In Maptivist sessions, students connect with community resources, from individuals working for social justice to City of Boston data sets that enable them to analyze everything from gentrification in their neighborhoods, to health care access by race across the city, to climate resilience's relationship to income inequality.
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Students learn the basics of geospatial data and how they can use maps to better understand trends in their city and propose possible solutions.
 
+The resources on this site are organized to help educators find ways to introduce data map literacy to students as well as moving students into GIS mapping using different cloud-based platforms.
+
+If you have questions about these materials or if you work at a Boston high school and want to learn more about becoming one of our Maptivist schools, please contact us!
+
+### More resources coming soon.
