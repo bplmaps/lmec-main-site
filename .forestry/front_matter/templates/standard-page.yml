@@ -8,9 +8,12 @@ fields:
 - type: file
   name: backgroundImage
   label: backgroundImage
+  description: The image that will appear in the top banner of the page, faded out
+    behind text
 - type: text
   name: description
   label: description
+  description: The subheading of the page
 - type: text
   name: weight
   label: weight
