@@ -17,3 +17,5 @@ fields:
 - type: text
   name: weight
   label: weight
+pages:
+- content/education/k12/school-visits.md
