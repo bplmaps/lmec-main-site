@@ -15,19 +15,17 @@ The Leventhal Map & Education Center offers a menu of pre-designed programs for 
 
 ## Pre-Designed K-12 Programming
 
-{{< course-listing 
-      image="/uploads/eliot5.jpg"
-      title="What Is A Map?"
-      subtitle="Grades 1–4"
-      description="This excellent course teaches you an important lesson—what exactly is a map?"
->}}
+{{< course-listing image="/uploads/eliot5.jpg" title="What Is A Map?" subtitle="Grades 1–4" description="This program teaches students how to interpret maps by encouraging them to read the stories being told by mapmakers. Students create a map of their school, receive a short interactive lesson about maps and mapping, and work in small groups to answer questions about some of the maps in our collection."
 
-{{< course-listing 
-      image="/uploads/eliot4.jpg"
-      title="What Isn't A Map?"
-      subtitle="Grades 2-5"
-      description="This more advanced lesson tells you what a map is *not*."
->}}
+> }}
+
+{{< course-listing
+image="/uploads/eliot4.jpg"
+title="What Isn't A Map?"
+subtitle="Grades 2-5"
+description="This more advanced lesson tells you what a map is _not_."
+
+> }}
 
 ## Booking a Program {#booking}
 
