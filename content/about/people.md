@@ -19,14 +19,13 @@ aliases:
 
 Janet P. Atkins  
 Lawrence Caldwell  
-Erin Claywell, Clerk  
 Michael G. Contompasis  
 Charles Cooney  
 Alex Krieger  
 Khurram Jamil  
 Theodore Landsmark  
-Alan Leventhal  
-Alexander Leventhal, Chair  
+Alan Leventhal, Chair  
+Alexander Leventhal  
 Ronald P. O’Hanley  
 Richard Pegg  
 Natacha Scott  
@@ -34,8 +33,13 @@ Christian J. Westra, Esq.
 
 **Ex Officio**
 
+Erin Claywell, Clerk  
 Robert Gallery, _ex officio_  
 David Leonard, _ex officio_
+
+**Legal Counsel**
+
+Achal Oza
 
 **Lifetime Directors**
 
@@ -49,7 +53,7 @@ Paul B. Cote
 Alex Krieger, Chair  
 Robert M. Melzer  
 Margaret Pearce  
-Julie Sweetkind-Singer   
-Tim Wallace 
+Julie Sweetkind-Singer  
+Tim Wallace
 
 ### Education Committee
