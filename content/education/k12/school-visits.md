@@ -15,15 +15,23 @@ The Leventhal Map & Education Center offers a menu of pre-designed programs for 
 
 ## Pre-Designed K-12 Programming
 
-{{< course-listing image="/uploads/eliot5.jpg" title="What Is A Map?" subtitle="Grades 1–3" description="This program teaches students how to interpret maps by encouraging them to read the stories being told by mapmakers. Students create a map of their school, receive a short interactive lesson about maps and mapping, and work in small groups to answer questions about some of the maps in our collection."
+{{< course-listing image="/uploads/eliot5.jpg" title="What Is A Map?" subtitle="Grades 1–3" description="Students practice how to interpret maps by reading the stories being told by mapmakers. Students create a map of their own, receive a short interactive lesson about maps and mapping, and work in small groups to answer questions about some of the maps in our collection."
 
 > }}
 
-{{< course-listing
-image="/uploads/eliot4.jpg"
-title="What Isn't A Map?"
-subtitle="Grades 2-5"
-description="This more advanced lesson tells you what a map is _not_."
+{{< course-listing image="/uploads/eliot4.jpg" title="People Shape the Earth/The Earth Shapes People" subtitle="Grades 2-4" description="After an introductory lesson on maps and mapping, students work together to consider the ways we shape the environment and the ways it shapes us by examining regional maps of the United States."
+
+> }}
+
+{{< course-listing image="/uploads/eliot4.jpg" title="Mapping the American Revolution" subtitle="Grades 3-12" description="Students learn to interpret the stories of the American Revolution as told through maps. In small groups, they examine period maps of Boston and New England to uncover information about the historical actors in the Revolution, the significance of geography, and the motives of the mapmakers."
+
+> }}
+
+{{< course-listing image="/uploads/eliot4.jpg" title="Mapping America" subtitle="Grades 3-8" description="Students learn the basics of mapmaking and the many ways maps tell stories before breaking into small groups to explore a range of maps of the United States, from some of the oldest in our collection to the present. This lesson can emphasize different themes: 1) Students interact with regional maps that tell stories about the expansion of the United States across the continent or that illustrate regional characteristics, or 2) Students explore different thematic maps of the United States to consider a mapmaker’s purpose."
+
+> }}
+
+{{< course-listing image="/uploads/eliot4.jpg" title="Native People and Settler Colonialism/A Story of Land and Maps" subtitle="Grades 4-12" description="Students learn the basics of mapmaking and explore maps made by Indigenous and Euro-American cartographers to uncover Native presence and the dispossession of Native lands."
 
 > }}
 
