@@ -47,4 +47,4 @@ Please note that there is no designated lunch area for classes in the Boston Pub
 
 Programs are 60 - 90 minutes long and are intended for individual classrooms of 30 or fewer students. Longer sessions allow for more discussion and inquiry. We can accommodate larger groups over multiple program sessions.
 
-Classrooms should have a computer and a digital projector or smartboard and space for students to work in small groups of 4 to 5 students for hands-on map inquiry exercises  We can provide a laptop and projector if necessary.
+Classrooms should have a computer and a digital projector or smartboard and space for students to work in small groups of 4 to 5 students for hands-on map inquiry exercises. We can provide a laptop and projector if necessary.
