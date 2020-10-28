@@ -1,5 +1,5 @@
 ---
-title: Staff and Boards
+title: Staff & Boards
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/5059,2047,4782,3064/1200,/0/default.jpg
 cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c46z/5541,3558,1849,978/,300/0/default.jpg
 description: The people who keep the Map Center running
