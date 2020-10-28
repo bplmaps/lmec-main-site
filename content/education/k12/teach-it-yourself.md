@@ -15,6 +15,8 @@ Explore education activities related to [Bending Lines: Maps and Data from Disto
 
 ## Teaching and Learning Resources
 
-Keep checking back as we add to this new menu of digital resources. 
+Find fully-scripted teach-it-yourself versions of our most popular pre-designed programs, lessons introducing students to GIS mapping through a civics lens, and more.
+
+Keep checking back as we add to this new menu of digital resources.
 
 Airtable gallery here
