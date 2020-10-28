@@ -1,6 +1,6 @@
 ---
 title: School Visits
-backgroundImage: images/page-header-backgrounds/education-programs.jpg
+backgroundImage: "/uploads/eliot5.jpg"
 description: Information on visiting the Map Center for K-12 classes
 weight: "1"
 quicklinks:
