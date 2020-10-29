@@ -24,7 +24,7 @@ Charles Cooney
 Alex Krieger  
 Khurram Jamil  
 Theodore Landsmark  
-Alan Leventhal, Chair  
+Alan Leventhal, _Chair_  
 Alexander Leventhal  
 Ronald P. O’Hanley  
 Richard Pegg  
@@ -50,10 +50,8 @@ Robert M. Melzer
 
 James R. Akerman  
 Paul B. Cote  
-Alex Krieger, Chair  
+Alex Krieger, _Chair_  
 Robert M. Melzer  
 Margaret Pearce  
 Julie Sweetkind-Singer  
 Tim Wallace
-
-### Education Committee
