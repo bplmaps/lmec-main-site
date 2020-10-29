@@ -43,7 +43,7 @@ The Leventhal Map & Education Center offers a menu of pre-designed programs for 
 
 > }}
 
-{{< course-listing image="/uploads/eliot4.jpg" title="Civics Topic" subtitle="Grade 8" description="We will work with you to support your Civics curriculum with map-based lessons on topics, from red-lining to immigration to Boston-based neighborhood advocacy."
+{{< course-listing image="/uploads/eliot4.jpg" title="Civics Topics" subtitle="Grade 8" description="We will work with you to support your Civics curriculum with map-based lessons on topics, from red-lining to immigration to Boston-based neighborhood advocacy."
 
 > }}
 
