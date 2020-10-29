@@ -33,7 +33,7 @@ Christian J. Westra, Esq.
 
 **Ex Officio**
 
-Erin Claywell, Clerk  
+Erin Claywell, _Clerk_  
 Robert Gallery, _ex officio_  
 David Leonard, _ex officio_
 
