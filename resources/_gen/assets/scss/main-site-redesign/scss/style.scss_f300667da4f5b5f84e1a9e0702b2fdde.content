@@ -352,10 +352,17 @@ textarea.form-control {
     .pagination .page-item .page-link {
       color: #313131; }
 
+.footnotes ol {
+  list-style-type: decimal; }
+  .footnotes ol li p {
+    font-size: 90%; }
+
 .content p a, .content li a {
   color: maroon; }
-  .content p a:not(.btn):hover, .content li a:not(.btn):hover {
-    background-image: linear-gradient(0deg, rgba(0, 102, 136, 0.2) 30%, transparent 0); }
+  .content p a:not(.btn), .content li a:not(.btn) {
+    background-image: linear-gradient(0deg, rgba(0, 102, 136, 0.2) 10%, transparent 0); }
+    .content p a:not(.btn):hover, .content li a:not(.btn):hover {
+      background-image: linear-gradient(0deg, rgba(0, 102, 136, 0.2) 35%, transparent 0); }
 
 .content a.btn {
   text-decoration: none; }
@@ -364,6 +371,7 @@ textarea.form-control {
   border: 1px solid #054571; }
 
 .content a.btn-outline-primary:hover {
+  transition: background-color 1.0s, color 1.0s;
   background-color: #054571; }
 
 .content .callout {
@@ -523,8 +531,9 @@ textarea.form-control {
 
 .staff-list-card {
   text-align: center; }
-  .staff-list-card img.staff-headshot-circle {
+  .staff-list-card img.staff-headshot-circle.card-img-top {
     height: 200px;
+    max-height: 200px;
     width: 200px;
     object-fit: cover;
     border-radius: 100px;

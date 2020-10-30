@@ -1,5 +1,4 @@
-{{ $section := .Section }}
-{{ $current := . }}
+
   
 
 <div class="bg-white mb-5">
@@ -8,8 +7,8 @@
   {{- if isset site.Taxonomies "tags" }}
   {{- if not (eq (len site.Taxonomies.tags) 0) }}
   
-    {{- range $name, $items := site.Taxonomies.tags }}
-    <span class="badge badge-light">{{ $name | humanize }}</span>
+    {{- range .Params.tags }}
+    <span class="badge badge-light">{{ . | humanize }}</span>
     {{- end }}
   {{- end }}
   {{- end }}

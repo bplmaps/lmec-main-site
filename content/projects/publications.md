@@ -34,6 +34,7 @@ During the 19th century, the United States expanded dramatically westward. Immig
 
 We Are One maps the American road to independence. It explores the tumultuous events that led thirteen colonies to join to forge a new nation. The exhibition takes its title from Benjamin Franklin’s early design for a note of American currency containing the phrase “We Are One.” This presaged the words “E Pluribus Unum” found on the seal of the United States (adopted in 1782) and on all U.S. coins.
 
+Catalog, 50pp. (2015). [Browse the LMEC copy](https://bpl.bibliocommons.com/v2/record/S75C7585128) or [find it in your own library](http://www.worldcat.org/oclc/918876662).
 
 
 ### Torn In Two
@@ -58,5 +59,5 @@ Catalog, 115pp. (2006). [Browse the LMEC copy](https://bpl.bibliocommons.com/v2/
 
 Boston and Beyond, the third gallery exhibit of the Norman B. Leventhal Map Center at the Boston Public Library, marks the public debut of one of the world’s pre-eminent collections of urban bird’s eye views and celebrates its preservation through a Save America’s Treasures award.
 
-Catalog, 167pp. (2008). [Browse the LMEC copy](https://bpl.bibliocommons.com/v2/record/S75C1328673), or [find in your own library](http://www.worldcat.org/oclc/225862926)
+Catalog, 167pp. (2008). [Browse the LMEC copy](https://bpl.bibliocommons.com/v2/record/S75C1328673), or [find in your own library](http://www.worldcat.org/oclc/225862926).
 

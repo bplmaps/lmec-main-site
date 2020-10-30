@@ -309,6 +309,15 @@ textarea.form-control{
   }
 }
 
+.footnotes{
+
+  ol { list-style-type: decimal;
+  li p {
+    font-size: 90%;
+  } }
+
+}
+
 
 .content {
   * {
@@ -316,10 +325,18 @@ textarea.form-control{
   }
 
   p a, li a {
-    color: $link-color; 
-    &:not(.btn):hover {
-      background-image: linear-gradient(0deg, adjust-color($button-primary-color, $alpha: -0.8) 30%,transparent 0); 
+
+    color: $link-color;
+
+
+    &:not(.btn) {
+    background-image: linear-gradient(0deg, adjust-color($button-primary-color, $alpha: -0.8) 10%,transparent 0); 
+
+
+    &:hover {
+      background-image: linear-gradient(0deg, adjust-color($button-primary-color, $alpha: -0.8) 35%,transparent 0); 
     }
+  }
   }
 
   a.btn {
@@ -331,6 +348,7 @@ textarea.form-control{
   }
 
   a.btn-outline-primary:hover {
+    transition: background-color 1.0s, color 1.0s;
     background-color: $primary-color;
   }
 
@@ -561,8 +579,9 @@ textarea.form-control{
 
 text-align: center;
 
-img.staff-headshot-circle {
+img.staff-headshot-circle.card-img-top {
   height: 200px;
+  max-height: 200px;
   width: 200px;
   object-fit: cover;
   border-radius: 100px;

@@ -19,6 +19,17 @@ Search this website for an overview of our programs, departments, and events.
   </div>
 </div>
 
+<script>
+  function submitSiteSearch(){
+    window.open('https://www.google.com/search?client=safari&source=hp&ei=QHecX82iOM_BytMP6deWiAg&q=site%3Aleventhalmap.org+' + encodeURI(document.getElementById('website-search-entry').value) );
+  }
+  document.getElementById("website-search-submit").addEventListener('click', submitSiteSearch );
+  // Bind to enter key
+  document.getElementById("website-search-entry").addEventListener('keyup', function(e){ 
+    if(e.keyCode == 13 ){ submitSiteSearch(); }
+  });
+</script>
+
 ## Search the catalog
 
 Search the Bibliocommons catalog for collections records. See [Searching the Collections](collections/searching) for more detailed search options.

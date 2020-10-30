@@ -1,5 +1,6 @@
-baseURL = "https://geoservices.leventhalmap.org/main-site-redesign"
+baseURL = "https://www.leventhalmap.org"
 title = "Leventhal Map & Education Center at the Boston Public Library"
+description = "The LMEC uses maps and geography to explore the connections between people and places in Boston, New England, and beyond." 
 theme = "neatline"
 
 
@@ -39,8 +40,8 @@ link = "plugins/jQuery/jquery.min.js"
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-link = "plugins/filterizr/jquery.filterizr.min.js"
+#[[params.plugins.js]]
+#link = "plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
 link = "https://unpkg.com/@fortawesome/fontawesome-free@5.14.0/js/all.js"
 [[params.plugins.js]]
@@ -132,8 +133,8 @@ All material on this website is licensed under a [Creative Commons BY-NC 2.0 lic
 """
 
 constant_contact_page = "https://visitor.r20.constantcontact.com/manage/optin?v=001ty3slyDjv8WLvGvwSdG8euspYmx7UP1YNPw2RbQHz_d15WTFIS4Ksb90bD2Fx0OBYbhpfZ896VoKbMS6m87TTQGTPsIpdO4e29yiAmPsALE%3D"
-# Google Analitycs
-google_analitycs_id = "" # your id
+# Google Analytics
+google_analytics_id = "" # your id
 # top header
 top_header = true
 

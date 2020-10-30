@@ -2,13 +2,13 @@
 author = "Belle Lipton"
 date = 2020-10-30T04:00:00Z
 description = "New follow-along tutorials to turn free data into a colorful subway map"
-draft = true
+draft = false
 image = "https://geoservices.leventhalmap.org/cartinal/assets/img/color.11d5579b.gif"
-tags = []
+tags = ["data"]
 title = "MBTA Data Activity"
 
 +++
-\#MBTA Data Activity
+
 
 The LMEC has a new tutorial available from their guides and documentation database, [Cartinal](https://geoservices.leventhalmap.org/cartinal/guides/symbolize-value.html#update-symbology "Cartinal"). This tutorial is geared towards beginners just getting started using free tools to manipulate open data with free GIS software like QGIS. 
 
