@@ -26,5 +26,6 @@ fields:
   default: true
   label: draft
 pages:
+- content/articles/cool-post-about-stuff.md
 - content/articles/public-lands-day.md
 - content/articles/underwater-properties.md
