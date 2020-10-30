@@ -20,7 +20,7 @@ fields:
 - type: tag_list
   name: tags
   label: tags
-- type: toggle
+- type: boolean
   name: draft
   description: If true, this page will not yet be published
   default: true
