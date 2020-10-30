@@ -9,3 +9,5 @@ title = "Underwater Properties"
 
 +++
 Blah blah testing
+
+{{< figure src="/uploads/boston.png" caption="**Caption**" class="figure-right" >}}
