@@ -5,7 +5,7 @@ description = ""
 draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3762879/full/,1200/0/default.jpg"
 tags = ["Franz Ritter", "Map projections", "Gnomonic projection"]
-title = "Franz Ritter's 1607 Sundial Map"
+title = "Gnomonic Projections"
 
 +++
 Have you ever wondered why map projections are called "projections?" In gnomonic projections, the surface points of a sphere are projected from the center of the sphere onto a plane tangent to the surface. Imagine a transparent globe on a piece of paper, with a light in the center of the globe. Rays of light from the center pass through points on the globe and then onto the paper. ⁠  
