@@ -74,7 +74,6 @@
 {{ with $data.homepage.audiences }}
 <section class="section py-3">
   <div class="container">
-    <div class="row align-items-center">
       <div class="row row-cols-1 row-cols-md-2">
       {{ range .audienceGroups }}
       <div class="col mb-1">
@@ -91,7 +90,6 @@
         </div>
       </div>
       {{ end }}
-      </div>
     </div>
   </div>
 </section>
@@ -118,7 +116,7 @@
           <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.event.title }}</h2>
           <div class="border-top w-100 border-primary d-none d-sm-block"></div>
           <div>
-            <a href="{{`event` | relURL }}" class="btn btn-sm btn-primary-outline ml-sm-3 d-none d-sm-block text-nowrap">All events</a>
+            <a href="{{`event` | relURL }}" class="btn btn-sm btn-primary-outline ml-sm-3 d-none d-sm-block text-nowrap"><i class="fas fa-calendar-alt mr-2"></i> All events</a>
           </div>
         </div>
       </div>
@@ -134,7 +132,7 @@
     <!-- mobile see all button -->
     <div class="row">
       <div class="col-12 text-center">
-        <a href="{{`event` | relURL }}" class="btn btn-sm btn-primary-outline d-sm-none d-inline-block">See all</a>
+        <a href="{{`event` | relURL }}" class="btn btn-md btn-primary-outline d-sm-none d-inline-block"><i class="fas fa-calendar-alt mr-2"></i> All events</a>
       </div>
     </div>
   </div>
@@ -177,7 +175,7 @@
           <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.blog.title }}</h2>
           <div class="border-top w-100 border-primary d-none d-sm-block"></div>
           <div>
-            <a href="{{ `articles` | relURL }}" class="btn btn-sm btn-primary-outline ml-sm-3 d-none d-sm-block text-nowrap">All articles</a>
+            <a href="{{ `articles` | relURL }}" class="btn btn-sm btn-primary-outline ml-sm-3 d-none d-sm-block text-nowrap"><i class="far fa-newspaper mr-2"></i> All articles</a>
           </div>
         </div>
       </div>
@@ -189,6 +187,12 @@
         {{ .Render "post" }}
       </article>
       {{ end }}
+    </div>
+    <!-- mobile see all button -->
+    <div class="row">
+      <div class="col-12 text-center">
+        <a href="{{`event` | relURL }}" class="btn btn-md btn-primary-outline d-sm-none d-inline-block"><i class="far fa-newspaper mr-2"></i> All articles</a>
+      </div>
     </div>
   </div>
 </section>

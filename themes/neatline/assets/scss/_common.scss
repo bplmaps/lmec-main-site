@@ -154,7 +154,7 @@ a h4{
 }
 
 .text-muted {
-  color: #b5b5b7 !important;
+  color: #68686e !important;
 }
 
 .text-dark {
@@ -350,19 +350,26 @@ textarea.form-control{
 
   h1, h2{
 
+    position: relative;
+
     &::before {
       content: "➣";
+      position: absolute;
+      left: -35px;
+      top: 5px;
       font-size: 80%;
-      margin-left: -40px;
-      margin-right: 10px;
     }
   }
 
   h3, h4 {
+
+    position: relative;
+
     &::before {
       content: "‣";
-      margin-left: -40px;
-      margin-right: 25px;
+      position: absolute;
+      left: -25px;
+
     }
   }
 

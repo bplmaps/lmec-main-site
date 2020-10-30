@@ -8,26 +8,21 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: file
-  name: bg_image
-  label: bg_image
 - type: textarea
   name: description
   label: description
-- type: file
+- type: text
   name: image
   label: image
 - type: text
   name: author
   label: author
-- type: list
-  name: categories
-  label: categories
-- type: list
+- type: tags
   name: tags
   label: tags
-- type: text
-  name: type
-  label: type
+- type: toggle
+  name: draft
+  description: If true, this page will not yet be published
+  default: true
 pages:
 - content/articles/public-lands-day.md
