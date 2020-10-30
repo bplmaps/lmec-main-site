@@ -17,7 +17,7 @@ fields:
 - type: text
   name: author
   label: author
-- type: tags
+- type: tag_list
   name: tags
   label: tags
 - type: toggle
