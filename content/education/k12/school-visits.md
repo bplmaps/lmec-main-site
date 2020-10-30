@@ -17,35 +17,35 @@ The Leventhal Map & Education Center offers a menu of pre-designed programs for 
 
 {{< course-listing image="/uploads/wiam.png" title="What Is A Map?" subtitle="Grades 1–3" description="Students practice how to interpret maps by reading the stories being told by mapmakers. Students create a map of their own, receive a short interactive lesson about maps and mapping, and work in small groups to answer questions about some of the maps in our collection."
 
-> }}
+>}}
 
 {{< course-listing image="/uploads/eliot4.jpg" title="People Shape the Earth/The Earth Shapes People" subtitle="Grades 2-4" description="After an introductory lesson on maps and mapping, students work together to consider the ways we shape the environment and the ways it shapes us by examining regional maps of the United States."
 
-> }}
+>}}
 
 {{< course-listing image="/uploads/amrev.png" title="Mapping the American Revolution" subtitle="Grades 3-12" description="Students learn to interpret the stories of the American Revolution as told through maps. In small groups, they examine period maps of Boston and New England to uncover information about the historical actors in the Revolution, the significance of geography, and the motives of the mapmakers."
 
-> }}
+>}}
 
 {{< course-listing image="/uploads/america.png" title="Mapping America" subtitle="Grades 3-8" description="Students learn the basics of mapmaking and the many ways maps tell stories before breaking into small groups to explore a range of maps of the United States, from some of the oldest in our collection to the present. This lesson can emphasize different themes: 1) Students interact with regional maps that tell stories about the expansion of the United States across the continent or that illustrate regional characteristics, or 2) Students explore different thematic maps of the United States to consider a mapmaker’s purpose."
 
-> }}
+>}}
 
 {{< course-listing image="/uploads/ioway.png" title="Native People and Settler Colonialism/A Story of Land and Maps" subtitle="Grades 4-12" description="Students learn the basics of mapmaking and explore maps made by Indigenous and Euro-American cartographers to uncover Native presence and the dispossession of Native lands."
 
-> }}
+>}}
 
 {{< course-listing image="/uploads/boston.png" title="Boston Over Time" subtitle="Grades 5-12" description="In this program, students use maps to discover how Boston’s landscape has been transformed over the course of its history. In a hands-on activity, students will examine maps spanning the past four hundred years to better understand how Boston has changed in tandem with its population and industry."
 
-> }}
+>}}
 
 {{< course-listing image="/uploads/world.png" title="World Maps Over Time" subtitle="Grades 6-8" description="Students practice being critical map readers using a range of world maps, from the oldest in our collection to the present. After an interactive lesson on map projections, students work in small groups to analyze what mapmakers include on their maps and why. "
 
-> }}
+>}}
 
 {{< course-listing image="/uploads/civics.png" title="Civics Topics" subtitle="Grade 8" description="We will work with you to support your Civics curriculum with map-based lessons on topics, from red-lining to immigration to Boston-based neighborhood advocacy."
 
-> }}
+>}}
 
 ## Booking a Program {#booking}
 
