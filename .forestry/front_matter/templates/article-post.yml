@@ -24,5 +24,6 @@ fields:
   name: draft
   description: If true, this page will not yet be published
   default: true
+  label: draft
 pages:
 - content/articles/public-lands-day.md
