@@ -7,7 +7,6 @@ sections:
 - type: document
   path: data/homepage.yml
   label: Homepage Configuration
-  match: "**/*"
 - type: directory
   path: content/articles
   label: Articles
