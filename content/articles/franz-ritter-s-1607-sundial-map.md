@@ -20,14 +20,9 @@ Shown here is Franz Ritter's 1607 sundial map, centered on the North Pole. To us
 {{< figure src="https://plume.epfl.ch/i/?IIIF=/b7/59/8b/e4/b7598be4-e321-40a6-85f9-6ef541b35fcb/iiif/CHEPFL_LIPR_AXB35_000354.tif/8.836012861736334,291.8274605103281,1375.4726688102894,1783.3900364520048/!467,605/0/default.jpg" caption="[Illustration of a water clock](plume.epfl.ch/idviewer/1534/354) from Franz Ritter's _Speculum solis_. 1660. [L'Ecole polytechnique fédérale de Lausanne](https://plume.epfl.ch/)." class="figure-right" >}}
 
 {{< carousel >}}
-{{< carousel-figure src="https://plume.epfl.ch/i/?IIIF=/b7/59/8b/e4/b7598be4-e321-40a6-85f9-6ef541b35fcb/iiif/CHEPFL_LIPR_AXB35_000348.tif/14.720893141945774,486.1786148238153,1442.647527910686,1597.0230862697447/!490,542/0/default.jpg" >}}{{< /carousel-figure >}}
 
-{{< carousel-figure src="https://plume.epfl.ch/i/?IIIF=/b7/59/8b/e4/b7598be4-e321-40a6-85f9-6ef541b35fcb/iiif/CHEPFL_LIPR_AXB35_000354.tif/8.836012861736334,291.8274605103281,1375.4726688102894,1783.3900364520048/!467,605/0/default.jpg" >}}{{< /carousel-figure >}}
-
-    {{< carousel-figure src="images/carousels/at_gallery03.jpg" >}}{{< /carousel-figure >}}
+    {{< carousel-figure src="https://plume.epfl.ch/i/?IIIF=/b7/59/8b/e4/b7598be4-e321-40a6-85f9-6ef541b35fcb/iiif/CHEPFL_LIPR_AXB35_000348.tif/14.720893141945774,486.1786148238153,1442.647527910686,1597.0230862697447/!490,542/0/default.jpg" >}}{{< /carousel-figure >}}
     
-    {{< carousel-figure src="images/carousels/at_gallery09.jpg" >}}{{< /carousel-figure >}}
-    
-    {{< carousel-figure src="images/carousels/DSC_0018s.jpg" >}}{{< /carousel-figure >}}
+    {{< carousel-figure src="https://plume.epfl.ch/i/?IIIF=/b7/59/8b/e4/b7598be4-e321-40a6-85f9-6ef541b35fcb/iiif/CHEPFL_LIPR_AXB35_000354.tif/8.836012861736334,291.8274605103281,1375.4726688102894,1783.3900364520048/!467,605/0/default.jpg" >}}{{< /carousel-figure >}}
 
 {{< /carousel >}}
