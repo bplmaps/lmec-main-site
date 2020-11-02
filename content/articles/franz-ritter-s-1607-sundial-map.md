@@ -3,7 +3,7 @@ author = "Lauren Chen"
 date = 2020-11-30T05:00:00Z
 description = ""
 draft = true
-image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3762879/full/,1200/0/default.jpg"
+image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3762879/1232,1035,1690,1352/full/0/default.jpg"
 tags = ["Franz Ritter", "Map projections", "Gnomonic projection"]
 title = "Sundial maps"
 
