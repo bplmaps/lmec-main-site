@@ -19,4 +19,4 @@ Find fully-scripted teach-it-yourself versions of our most popular pre-designed 
 
 Keep checking back as we add to this new menu of digital resources.
 
-Airtable gallery here
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrUVzlo5NEbjYUss?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>

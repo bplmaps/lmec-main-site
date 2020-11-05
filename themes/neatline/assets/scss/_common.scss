@@ -592,6 +592,15 @@ p { font-size: 14px; line-height: 14px; }
 }
 
 .course-listing {
+
+  h4:before {
+    content: "";
+  }
+
+  h6 {
+    font-family: $serif;
+  }
+
   img {
     width: 140px;
     height: 100px;

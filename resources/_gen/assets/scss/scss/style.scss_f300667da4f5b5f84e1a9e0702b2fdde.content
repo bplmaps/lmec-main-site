@@ -542,6 +542,12 @@ textarea.form-control {
     font-size: 14px;
     line-height: 14px; }
 
+.course-listing h4:before {
+  content: ""; }
+
+.course-listing h6 {
+  font-family: freight-micro-pro, serif; }
+
 .course-listing img {
   width: 140px;
   height: 100px;
