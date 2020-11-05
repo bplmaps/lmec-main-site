@@ -7,7 +7,7 @@ weight: "2"
 ---
 ## Tools for Teachers
 
-Access map sets and lesson plans using our digital collections.
+[Access map sets and lesson plans](https://collections.leventhalmap.org/educators) using our digital collections.
 
 ## Teaching with our Current Exhibition
 
