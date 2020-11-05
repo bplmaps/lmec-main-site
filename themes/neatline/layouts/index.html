@@ -2,9 +2,14 @@
 
 {{ $data := site.Data }}
 
+
+{{ $events := where site.RegularPages.ByDate "Type" "event" }}
+{{ $events := $events | intersect ( where $events "Date" "ge" now ) | first 3 }}
+
 <!-- hero slider -->
 {{ if $data.homepage.slider.enable }}
 {{ with $data.homepage.slider }}
+
 
 
 <section class="hero-section overlay bg-cover" id="hero-section-frontpage-slider">
@@ -49,7 +54,7 @@
       <div class="col-lg-3 cta-popper-outer"><div class="cta-popper"><h3 class="my-3">What's new?</h3></div></div>
       <div class="col-lg-9 cta-body">
         <ul>
-          <li><span class="badge badge-secondary font-secondary">Next event</span>{{ range first 1 (where site.RegularPages.ByDate "Type" "event")}}
+          <li><span class="badge badge-secondary font-secondary">Next event</span>{{ range first 1 ($events)}}
               <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> <span class="text-secondary">{{ .Page.Params.date.Format "Jan 2, 2006" }}</span>
             {{ end }}</li>
 
@@ -123,7 +128,10 @@
     </div>
     <div class="row justify-content-center">
       <!-- event -->
-      {{ range first 3 (where site.RegularPages.ByDate "Type" "event")}}
+
+
+
+      {{ range $events }}
       <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
         {{ .Render "event" }}
       </div>
