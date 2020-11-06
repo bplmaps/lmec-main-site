@@ -19,7 +19,7 @@ quicklinks:
 ---
 ## Overview of the collections
 
-The Leventhal Map & Education Center cares for more than a quarter million cartographic and geographic objects, including maps, atlases, charts, globes, gazetteers, ephemera, research texts, and data sets. Most, though not all, of our physical objects are housed on location at our gallery and research center at the [Central Library in Copley Square](about/hours-directions). All of our collections holdings are available for access to researchers [by appointment](research/appointments), and many are available as [digital collections](collections/digital-collections).
+The Leventhal Map & Education Center cares for more than a quarter million cartographic and geographic objects, including maps, atlases, charts, globes, gazetteers, ephemera, research texts, and data sets. Most, though not all, of our physical objects are housed on location at our gallery and research center at the [Central Library in Copley Square](/about/hours-directions). All of our collections holdings are available for access to researchers [by appointment](/research/appointments), and many are available as [digital collections](/collections/digital-collections).
 
 ### Collection strengths
 
@@ -46,7 +46,7 @@ The Mapping Boston Collection consists of the rare maps collected by Norman B. L
 
 In addition to printed and physical objects, the LMEC also collects data sets and geospatial information pertaining to both present-day and historical geography. We also collect geographic information that is derived from physical objects, including both identifying data such as bounding boxes as well as inferred data such as names, boundaries, and characteristics.
 
-Our online public access data portal is currently under development. For more information, see our [Geospatial Information Services](research/geospatial) research page.
+Our online public access data portal is currently under development. For more information, see our [Geospatial Information Services](/research/geospatial) research page.
 
 ### Other geographic resources at the BPL
 
@@ -62,10 +62,10 @@ There are many different ways to learn about history and geography through our c
 
 ## Acquisitions
 
-We maintain an active acquisition program across all collecting areas. To see the objects most recently added to our collections, visit the [New Acquisitions](collections/new-acquisitions) page. We also occasionally post longer [articles](articles) about new additions to our collections—both newly acquired material as well as objects that have recently been studied from a new perspective.
+We maintain an active acquisition program across all collecting areas. To see the objects most recently added to our collections, visit the [New Acquisitions](/collections/new-acquisitions) page. We also occasionally post longer [articles](/articles) about new additions to our collections—both newly acquired material as well as objects that have recently been studied from a new perspective.
 
 ### Services for Collectors and Dealers
 
-The Map Center typically does not accept unsolicited bids for the purchase of new objects. If you have a collection of maps or other geographic material that you would like to donate to our permanent collections, please [contact us](about/contact) to set up a discussion.
+The Map Center typically does not accept unsolicited bids for the purchase of new objects. If you have a collection of maps or other geographic material that you would like to donate to our permanent collections, please [contact us](/about/contact) to set up a discussion.
 
-As a matter of policy, the Map Center does not offer appraisal or evaluation services for collectors. You can find a [list of dealers at MapRecord](https://www.maprecord.com/Dealers.html) as well as a [list of conservators from the American Institute for Conservation](https://www.culturalheritage.org/about-conservation/find-a-conservator). If you would like to find examples of similar objects from your own collection that exist in our collections, please [make a research appointment](research).
+As a matter of policy, the Map Center does not offer appraisal or evaluation services for collectors. You can find a [list of dealers at MapRecord](https://www.maprecord.com/Dealers.html) as well as a [list of conservators from the American Institute for Conservation](https://www.culturalheritage.org/about-conservation/find-a-conservator). If you would like to find examples of similar objects from your own collection that exist in our collections, please [make a research appointment](/research).

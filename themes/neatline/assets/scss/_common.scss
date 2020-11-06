@@ -9,6 +9,13 @@ body {
 }
 
 
+:target::before {
+  content: "";
+  display: inline-block;
+  height: 120px; /* fixed header height*/
+  margin: -120px 0 0; /* negative fixed header height */
+}
+
 ol,
 ul {
   list-style-type: none;

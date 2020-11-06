@@ -10,7 +10,7 @@ weight: 4
 
 ## Rights to digital images
 
-High-resolution imagery for most maps and objects in our [Digital Collection](/collections/digital-collections) is available for download directly from each object's record page in TIFF and JPEG format. Unless otherwise noted, all images are in the public domain and have no restrictions on use. We provide no warranty as to the copyright status of the objects themselves.
+High-resolution imagery for most maps and objects in our [Digital Collections](/collections/digital-collections) is available for download directly from each object's record page in TIFF and JPEG format. Unless otherwise noted, all images are in the public domain and have no restrictions on use. We provide no warranty as to the copyright status of the objects themselves.
 
 Maps from partner institutions are not available for download or reproduction through our Digital Collections portal. Contact the holding institution for permissions and reproductions.
 

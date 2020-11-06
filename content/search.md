@@ -32,7 +32,7 @@ Search this website for an overview of our programs, departments, and events.
 
 ## Search the catalog
 
-Search the Bibliocommons catalog for collections records. See [Searching the Collections](collections/searching) for more detailed search options.
+Search the Bibliocommons catalog for collections records. See [Searching the Collections](/collections/searching) for more detailed search options.
 
 <div class="input-group mt-3 mb-5">
   <input type="text" class="form-control" id="bibliocommons-search-entry" placeholder="Search titles, creators, keywords" aria-label="Search keywords" aria-describedby="bibliocommons-search-submit">
@@ -54,7 +54,7 @@ Search the Bibliocommons catalog for collections records. See [Searching the Col
 
 ## Search digital collections
 
-Search the Digital Collections portal and Internet Archive for digitized material. See [Digital Collections](collections/digital-collections) for more information and advanced search.
+Search the Digital Collections portal and Internet Archive for digitized material. See [Digital Collections](/collections/digital-collections) for more information and advanced search.
 
 <iframe src="https://geoservices.leventhalmap.org/union-search" style="width:100%;height:500px;border:1px solid black;"></iframe>
 
@@ -64,7 +64,7 @@ For tutorials, guides, and documentation on geospatial information, data service
 
 ## Search Tools for Teachers
 
-Search the [Tools For Teachers](https://collections.leventhalmap.org/educators/) site for map sets, lessons, and activities. Visit the [K-12 education](education/k12) page for more resources and information.
+Search the [Tools For Teachers](https://collections.leventhalmap.org/educators/) site for map sets, lessons, and activities. Visit the [K-12 education](/education/k12) page for more resources and information.
 
 <div class="input-group mt-3 mb-5">
   <input type="text" class="form-control" id="tft-search-entry" placeholder="Search keywords and locations" aria-label="Search keywords and locations" aria-describedby="tft-search-submit">

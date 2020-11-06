@@ -5,7 +5,10 @@
   <div class="container">
     <div class="row">
       <!-- event -->
-      {{ $paginator := .Paginate .Data.Pages.ByDate }}
+      {{ $events := where site.RegularPages.ByDate "Type" "event" }}
+      {{ $events := $events | intersect ( where $events "Date" "ge" now ) }}
+
+      {{ $paginator := .Paginate $events }}
       {{ range $paginator.Pages }}
       <div class="col-lg-4 col-sm-6 mb-5">
         {{ .Render "event" }}
