@@ -8,8 +8,7 @@ image: "https://bpl.bibliocommons.com/events/uploads/images/full/eda64139b8b9dee
 location: "Online"
 # entry fee
 fee: "Free"
-
-registration : "https://bpl.bibliocommons.com/events/5f871c1432a52a2600ced493"
+registration : "https://boston-public-library.zoom.us/webinar/register/WN_FCOt80b3SUKmx0d_GCcBqA"
 
 ---
 
