@@ -53,5 +53,6 @@ Paul B. Cote
 Alex Krieger, _Chair_  
 Robert M. Melzer  
 Margaret Pearce  
+Richard Pegg  
 Julie Sweetkind-Singer  
 Tim Wallace
