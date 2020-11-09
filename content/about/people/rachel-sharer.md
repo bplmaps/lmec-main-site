@@ -7,7 +7,7 @@ contact:
 - method: Phone
   details: 617.859.2138.
 - method: Email
-  details: ''
+  details: rsharer@leventhalmap.org
 menu: false
 
 ---
