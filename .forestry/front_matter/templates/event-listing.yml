@@ -33,3 +33,5 @@ fields:
 - type: text
   name: registration
   label: registration
+pages:
+- content/event/north-end-by-map.md
