@@ -54,7 +54,7 @@ The BPL's [research collections](https://www.bpl.org/conducting-research/) inclu
 
 #### Buy a Map Reproduction
 
-We offer map reproductions of the digitized maps in the Leventhal collection. To purchase a reproduction, browse our [digital collections](https://collections.leventhalmap.org/) to find the map you want, and click "buy a reproduction" below the image. Proceeds from reproduction sales support providing our exhibitions and educational programs free to the public.
+We offer high-quality map reproductions of the digitized maps in the Center's collection. To purchase a reproduction, browse our [digital collections](https://collections.leventhalmap.org/) to find the map you want, and click "buy a reproduction" below the image. Proceeds from reproduction sales support providing our exhibitions and educational programs free to the public.
 
 ## Learning from the collections
 
