@@ -52,6 +52,10 @@ Our online public access data portal is currently under development. For more in
 
 The BPL's [research collections](https://www.bpl.org/conducting-research/) include many geographic resources not housed at the Map Center. The research library collections contain many 20th century atlases, guides, and scholarly monographs. The [Special Collections](https://www.bpl.org/special-collections-departments/) departments, including Rare Books, Prints & Photographs, Architectural Plans & Drawings, and Manuscripts & Archives, and Fine Arts, contain geographic material as well as material that is useful in connection with Map Center objects.
 
+#### Buy a Map Reproduction
+
+We offer map reproductions of the digitized maps in the Leventhal collection. To purchase a reproduction, browse our [digital collections](https://collections.leventhalmap.org/) to find the map you want, and click "buy a reproduction" below the image. Proceeds from reproduction sales support providing our exhibitions and educational programs free to the public.
+
 ## Learning from the collections
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k46x/3168,47,4890,4597/1000,/0/default.jpg" alt="Boston shoreline map" caption="This [1895 map](https://collections.leventhalmap.org/search/commonwealth:js956k45n) commemorated a hundred years of shoreline change by showing how Boston's waterfront had been altered over time" class="figure-right" >}}
