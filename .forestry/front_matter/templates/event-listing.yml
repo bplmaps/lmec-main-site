@@ -8,9 +8,16 @@ fields:
 - type: datetime
   name: date
   label: date
+  description: The actual date and time of the event
+  config:
+    required: true
 - type: datetime
   name: publishDate
   label: publishDate
+  description: The date that this event should be published to the calendar
+  default: now
+  config:
+    required: true
 - type: textarea
   name: image
   label: image
