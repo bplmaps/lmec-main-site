@@ -52,9 +52,6 @@ Our online public access data portal is currently under development. For more in
 
 The BPL's [research collections](https://www.bpl.org/conducting-research/) include many geographic resources not housed at the Map Center. The research library collections contain many 20th century atlases, guides, and scholarly monographs. The [Special Collections](https://www.bpl.org/special-collections-departments/) departments, including Rare Books, Prints & Photographs, Architectural Plans & Drawings, and Manuscripts & Archives, and Fine Arts, contain geographic material as well as material that is useful in connection with Map Center objects.
 
-#### Buy a Map Reproduction
-
-We offer high-quality map reproductions of the digitized maps in the Center's collection. To purchase a reproduction, browse our [digital collections](https://collections.leventhalmap.org/) to find the map you want, and click "buy a reproduction" below the image. Proceeds from reproduction sales support providing our exhibitions and educational programs free to the public.
 
 ## Learning from the collections
 
@@ -63,6 +60,13 @@ We offer high-quality map reproductions of the digitized maps in the Center's co
 The hundreds of thousands of objects in our collections open up many different lines of inquiry about both the past and present. They document not only the changing practices of cartography itself, but also the history of different perspectives on the world, as well as the changing relationship between people and places over time.
 
 There are many different ways to learn about history and geography through our collections. Our [exhibitions](exhibitions) cover topics ranging from the Civil War to the history of women in cartography. We post several times a week on [Instagram](https://instagram.com/bplmaps), [Twitter](https://twitter.com/bplmaps), and [Facebook](https://facebook.com/bplmaps) with stories about collections objects. For educators and students at both the K-12 and university level, we offer [education programs](education) that explore maps and geography. And our [events](events) include seminars and talks about special features of the collections.
+
+
+## Purchase a Reproduction
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2b88qf61q/full/,600/0/default.jpg" alt="Bird's-eye view of Boston" caption="This [bird's-eye view of Boston](https://collections.leventhalmap.org/search/commonwealth:2b88qf60f) from around 1877 shows the city in the midst of change" class="figure-right" >}}
+
+We offer high-quality reproductions of the digitized maps and images in the Center's collections. To purchase a reproduction, browse our [Digital Collections](https://collections.leventhalmap.org/) to find the map you want, and click "buy a reproduction" below the image. Proceeds from reproduction sales support our exhibitions and educational programs, which are free to the public.
 
 ## Acquisitions
 
