@@ -7,7 +7,7 @@ contact:
 - method: Phone
   details: "(617) 859-2264"
 - method: Email
-  details: ''
+  details: lbrown@leventhalmap.org
 menu: false
 
 ---
