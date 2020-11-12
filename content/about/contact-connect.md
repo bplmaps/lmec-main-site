@@ -22,14 +22,14 @@ We post many times a week on social media, with stories and images about maps an
 
 For general inquiries, please email:
 
-* <info@leventhalmap.org> for information about the Map Center, programs, and activities.
-* <reference@leventhalmap.org> for questions about collections, reference, and research
+* [info@leventhalmap.org](mailto:info@leventhalmap.org) for information about the Map Center, programs, and activities.
+* [reference@leventhalmap.org](mailto:reference@leventhalmap.org) for questions about collections, reference, and research
 
 Our postal mailing address is:
 
-Leventhal Map & Education Center   
-Boston Public Library   
-700 Boylston St   
+Leventhal Map & Education Center  
+Boston Public Library  
+700 Boylston St  
 Boston, MA 02116 USA
 
 Our general telephone number is **+1 617.859.2387**
