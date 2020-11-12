@@ -5,7 +5,7 @@ headshot: "/uploads/lynn.png"
 type: person
 contact:
 - method: Phone
-  details: ''
+  details: "(617) 859-2264"
 - method: Email
   details: ''
 menu: false
