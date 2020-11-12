@@ -1,7 +1,7 @@
 ---
 title: Lynn Brown
 description: Education Coordinator
-headshot: "/uploads/lynn.png"
+headshot: "/uploads/screen-shot-2020-11-12-at-12-35-19-pm.png"
 type: person
 contact:
 - method: Phone
