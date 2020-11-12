@@ -14,7 +14,6 @@ During the 19th century, the United States expanded dramatically westward. Immig
 
 ![Catalog cover for America Transformed](https://www.leventhalmap.org/wp-content/uploads/2020/01/at-cover.jpg)
 
-
 <div class="jumbotron">
 <p class="lead">Buy the America Transformed catalog</p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -38,13 +37,15 @@ We Are One maps the American road to independence. It explores the tumultuous ev
 
 Catalog, 50pp. (2015). [Browse the LMEC copy](https://bpl.bibliocommons.com/v2/record/S75C7585128) or [find it in your own library](http://www.worldcat.org/oclc/918876662).
 
-![](https://www.leventhalmap.org/wp-content/uploads/2017/03/we_are_one_sm.jpg)
+{{< figure src="" caption="" class="figure-right" >}}{{< figure src="" caption="" class="figure-right" >}}
+
+![Catalog cover for We Are One](https://www.leventhalmap.org/wp-content/uploads/2017/03/we_are_one_sm.jpg)
 
 ### Torn In Two
 
 Torn in Two: 150th Anniversary of the Civil War, the fourth gallery exhibition of the Norman B. Leventhal Map Center at the Boston Public Library, commemorates one of the major events in America’s history.
 
-Catalog, 152pp. (2011). [Browse the LMEC copy](https://bpl.bibliocommons.com/v2/record/S75C1714992) or [find in your own library](http://www.worldcat.org/oclc/726743324).
+Catalog, 152pp. (2011). [Browse the LMEC copy](https://bpl.bibliocommons.com/v2/record/S75C1714992) or [find in your own library](http://www.worldcat.org/oclc/726743324).![Catalog cover for Torn in Two](https://www.leventhalmap.org/wp-content/uploads/2017/03/torn_in_two_sm.jpg)
 
 ### Mapping Boston
 
@@ -52,14 +53,20 @@ To the attentive user even the simplest map can reveal not only where things are
 
 Alex Krieger, David Cobb, eds., with Amy Turner; foreword by Norman B. Leventhal. 292pp. (MIT Press: 1999). [Purchase from MIT Press](https://mitpress.mit.edu/books/mapping-boston), [browse the LMEC copy](https://bpl.bibliocommons.com/v2/record/S75C5157593), or [find in your own library](http://www.worldcat.org/oclc/316379126).
 
+![Catalog cover for Mapping Boston](https://www.leventhalmap.org/wp-content/uploads/2017/03/mapping_boston_sm.jpg)
+
 ### Journeys of the Imagination
 
 Journeys of the Imagination is an exhibition designed to explore the various ways that mapmakers from the 15th century until today have created and translated their real and imagined world views. They recorded these diverse and ever changing images on various media including paper, globes, and computer screens.
 
 Catalog, 115pp. (2006). [Browse the LMEC copy](https://bpl.bibliocommons.com/v2/record/S75C1087094), [borrow from Internet Archive](https://archive.org/details/journeysofimagin00grim/), or [find in your own library](https://www.worldcat.org/oclc/1035924035).
 
+![Catalog cover for Journeys of the Imagination](https://www.leventhalmap.org/wp-content/uploads/2017/03/journeys_sm.jpg)
+
 ### Boston and Beyond
 
 Boston and Beyond, the third gallery exhibit of the Norman B. Leventhal Map Center at the Boston Public Library, marks the public debut of one of the world’s pre-eminent collections of urban bird’s eye views and celebrates its preservation through a Save America’s Treasures award.
 
 Catalog, 167pp. (2008). [Browse the LMEC copy](https://bpl.bibliocommons.com/v2/record/S75C1328673), or [find in your own library](http://www.worldcat.org/oclc/225862926).
+
+![Catalog cover for Boston and Beyond](https://www.leventhalmap.org/wp-content/uploads/2017/03/boston_beyond_sm.jpg)
