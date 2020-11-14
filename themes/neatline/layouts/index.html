@@ -21,11 +21,11 @@
       <div class="hero-slider-item">
         <div class="row">
           <div class="col-md-8">
-            <h1 class="text-white" data-animation-out="animate__fadeOutRight animate__animated" data-delay-out="5" data-duration-in=".3"
+            <h1 class="text-white" data-animation-out="animate__fadeOutRight animate__animated" data-delay-out="9" data-duration-in=".3"
               data-animation-in="animate__fadeInLeft animate__animated" data-delay-in=".1">{{ .title | markdownify }}</h1>
-            <p class="mb-4" data-animation-out="animate__fadeOutRight animate__animated" data-delay-out="5" data-duration-in=".3" data-delay-in=".2" data-animation-in="animate__fadeInLeft animate__animated" ><span class="slider-caption">{{ .content | markdownify }}</span></p>
+            {{/*  <p class="mb-4" data-animation-out="animate__fadeOutRight animate__animated" data-delay-out="9" data-duration-in=".3" data-delay-in=".2" data-animation-in="animate__fadeInLeft animate__animated" ><span class="slider-caption">{{ .content | markdownify }}</span></p>  */}}
             {{ if .button.enable }}
-            <a href="{{ .button.link | absURL }}" class="btn btn-primary" data-animation-out="animate__fadeOut animate__animated" data-delay-out="4" data-duration-in=".3" data-animation-in="animate__fadeIn animate__animated" data-delay-in=".7">{{ .button.label }}</a>
+            <a href="{{ .button.link | absURL }}" class="btn btn-sm btn-secondary hero-button" data-animation-out="animate__fadeOut animate__animated" data-delay-out="7" data-duration-in=".3" data-animation-in="animate__fadeIn animate__animated" data-delay-in=".7">{{ .button.label }}</a>
             {{ end }}
           </div>
         </div>
@@ -48,19 +48,19 @@
 <!-- cta -->
 {{ if $data.homepage.cta.enable }}
 {{ with $data.homepage.cta }}
-<section class="section py-3 cta">
+<section class="section py-3 cta frontpage-content">
   <div class="container">
     <div class="row">
-      <div class="col-lg-3 cta-popper-outer"><div class="cta-popper"><h3 class="my-3">What's new?</h3></div></div>
+      <div class="col-lg-3 cta-popper-outer"><div class="cta-popper"><h2 class="my-3">Whats new?</h2></div></div>
       <div class="col-lg-9 cta-body">
         <ul>
-          <li><span class="badge badge-secondary font-secondary">Next event</span>{{ range first 1 ($events)}}
+          <li><span class="badge badge-light font-secondary whats-new-badge">Next event</span>{{ range first 1 ($events)}}
               <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> <span class="text-secondary">{{ .Page.Params.date.Format "Jan 2, 2006" }}</span>
             {{ end }}</li>
 
           {{ range .announcements }}
           <li>
-          <span class="badge badge-secondary font-secondary">{{ .badge }}</span>
+          <span class="badge badge-secondary badge-light font-secondary  whats-new-badge">{{ .badge }}</span>
           <a href="{{ .link }}">{{ .text | markdownify }}</a></li>
 
           {{ end }}
@@ -77,7 +77,7 @@
 <!-- about us -->
 {{ if $data.homepage.audiences.enable }}
 {{ with $data.homepage.audiences }}
-<section class="section py-3">
+<section class="section py-3 frontpage-content">
   <div class="container">
       <div class="row row-cols-1 row-cols-md-2">
       {{ range .audienceGroups }}

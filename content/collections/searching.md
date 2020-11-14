@@ -1,10 +1,11 @@
 ---
 title: Searching the Collections
 # page title background image
+cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n782n/416,1060,6719,3000/1800,/0/default.jpg"
 backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n782n/416,1060,6719,2819/1800,/0/default.jpg"
 # about image
 # meta description
-description : "How to find material in our collections"
+description : "How to find what we have using our catalogs and digital repositories"
 weight: 2
 quicklinks:
   - text: "Search the catalog for objects in the Map Center collections"

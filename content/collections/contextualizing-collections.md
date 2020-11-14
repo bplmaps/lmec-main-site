@@ -1,6 +1,7 @@
 ---
 title: Contextualizing Collections
 # page title background image
+cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f06b/539,1204,1434,681/,1200/0/default.jpg"
 backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f06b/539,1204,1434,681/,1200/0/default.jpg"
 # about image
 # meta description

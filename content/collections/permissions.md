@@ -1,6 +1,7 @@
 ---
 title: Permissions
 # page title background image
+cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765932/1197,2952,7553,3500/1800,/0/default.jpg"
 backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765932/1197,2952,7553,3136/1800,/0/default.jpg"
 # about image
 # meta description

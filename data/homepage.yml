@@ -14,31 +14,31 @@ slider:
       animation_out : "right"
       button:
         enable : true
-        label : "Our Collections"
-        link : "collections"
+        label : "Learn about our collections"
+        link : "/collections"
     - title : "Inspiring learning through map education"
       content : "Education programs help K-12 students and teachers discover the power of geography"
       animation_in : "left"
       animation_out : "right"
       button:
         enable : true
-        label : "K-12 Resources"
-        link : "education/k12"
+        label : "Resources for teachers and students"
+        link : "/education/k12"
     - title : "Digital humanities bring geography alive"
       content : "Innovative tools like our Atlascope portal offer new ways to engage with cartography"
       animation_in : "left"
       animation_out : "right"
       button:
         enable : true
-        label : "Digital Projects"
-        link : "projects/digital-projects"
+        label : "Explore digital projects"
+        link : "/projects/digital-projects"
     - title : "Reference and research for everyone"
       content : "Our library staff can help find answers to your geography and maps questions"
       animation_in : "left"
       animation_out : "right"
       button:
         enable : true
-        label : "Research Information"
+        label : "See what you can learn"
         link : "research"
 
 

@@ -325,6 +325,27 @@ textarea.form-control{
 
 }
 
+.frontpage-content {
+  p a, li a {
+
+    color: $link-color;
+
+
+    &:not(.btn) {
+    background-image: linear-gradient(0deg, adjust-color($button-primary-color, $alpha: -0.8) 10%,transparent 0); 
+
+
+    &:hover {
+      background-image: linear-gradient(0deg, adjust-color($button-primary-color, $alpha: -0.8) 35%,transparent 0); 
+    }
+  }
+  }
+
+  .whats-new-badge {
+    padding: 5px 8px;
+    border: 1px solid $primary-color;
+  }
+}
 
 .content {
   * {
