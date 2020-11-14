@@ -6,9 +6,10 @@ description: Help support the Center's mission with a donation or gift
 type: singleton
 
 ---
-
 ## Donations
 
-As a non-profit that offers services "free to all", we rely on the support of donors like you to keep our exhibitions and educational programs running. Please consider making a gift today.
+As a non-profit that offers services "free to all", we rely on the support of donors like you to keep our exhibitions and educational programs running. Please consider [making a gift today. Donate here.](https://mapsbpl.thankyou4caring.org/)
+
+_Please note that the Leventhal Map & Education Center is an independent nonprofit dependent on your generous support. We are a separate entity from the Boston Public Library Fund or the Associates of the Boston Public Library._
 
 ## Gifts of collections
