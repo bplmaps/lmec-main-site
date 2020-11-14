@@ -8,8 +8,12 @@ type: singleton
 ---
 ## Donations
 
-As a non-profit that offers services "free to all", we rely on the support of donors like you to keep our exhibitions and educational programs running. Please consider [making a gift today. Donate here.](https://mapsbpl.thankyou4caring.org/)
+As a non-profit that offers services "free to all," we rely on the support of donors like you to keep our exhibitions and educational programs running. Please consider making a gift today.
+
+<a class="btn btn-outline-primary" href="https://mapsbpl.thankyou4caring.org/">Donate here</a>
 
 _Please note that the Leventhal Map & Education Center is an independent nonprofit dependent on your generous support. We are a separate entity from the Boston Public Library Fund or the Associates of the Boston Public Library._
 
 ## Gifts of collections
+
+If you have a collection of maps that you would like to give to the BPL for the preservation, use, research, and enjoyment of the public today and in the future, [contact the Curator](/about/people/garrett-nelson). Please include as much information as possible regarding what you know about your maps, including low-resolution photographs.
