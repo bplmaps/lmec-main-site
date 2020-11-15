@@ -88,7 +88,7 @@
             <div class="card-subtitle text-secondary pb-3">{{ .description }}</div>
             <ul class="p-0">
             {{ range .links }}
-              <li class="mx-0 my-2"><a href="{{ .link }}" class="card-link font-secondary mr-4"><i class="fas fa-angle-right"></i>  {{ .title | markdownify }}</a></li>
+              <li class="mx-0 my-2"><i class="fas fa-angle-right"></i> <a href="{{ .link }}" class="card-link font-secondary mr-4">  {{ .title | markdownify }}</a></li>
             {{ end }}
           </ul>
           </div>

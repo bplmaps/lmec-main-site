@@ -345,6 +345,13 @@ textarea.form-control{
     padding: 5px 8px;
     border: 1px solid $primary-color;
   }
+
+  .frontpage-audience-card {
+
+    li {
+      line-height: 1.4;
+    }
+  }
 }
 
 .content {
