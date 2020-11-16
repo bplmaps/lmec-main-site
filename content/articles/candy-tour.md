@@ -1,7 +1,8 @@
 ---
 author: Rachel Mead
 date: 2020-10-31T06:00:00-04:00
-description: Yum yum candy
+description: Got a sweet tooth? Boston was a major confectionery center in the late
+  19th and early 20th centuries.
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc57z/1638,1099,1729,1631/,800/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc57z/1638,1099,1729,1631/,800/0/default.jpg
 tags:
@@ -27,7 +28,7 @@ We'll look at five centers of candy production in the Boston area: Baker’s Cho
 
 **1. Baker’s Chocolate, 1220 Adams St, Boston, MA 02124**
 
-[![](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/30/2020/10/19180748/bakersad-300x139.jpg =300x139)](https://www.digitalcommonwealth.org/search/commonwealth:7m01bp41q)This ad for Baker's Chocolate & Cocoa is from ca. 1870-1900. Cards like this one were common in advertising at the time.
+[7m01bp41q](https://ark.digitalcommonwealth.org/ark:/50959/7m01bp41q "7m01bp41q")This ad for Baker's Chocolate & Cocoa is from ca. 1870-1900. Cards like this one were common in advertising at the time.
 
 John Hannon began producing some of the earliest chocolate products in the US in 1765 in Milton, MA. Several years later, the company moved to Dorchester. Chocolate could only be produced in colder weather because of melting. Early mills functioned as grist, wool, paper, and saw mills during other parts of the year.
 
