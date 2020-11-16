@@ -1,8 +1,8 @@
 ---
 author: Rachel Mead
 date: 2020-10-31T06:00:00-04:00
-description: Got a sweet tooth? Boston was a major confectionery center in the late
-  19th and early 20th centuries.
+description: Just in time for Halloween, here's some trick-or-treating you can do
+  without leaving your home!
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc57z/1638,1099,1729,1631/,800/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc57z/1638,1099,1729,1631/,800/0/default.jpg
 tags:
@@ -10,15 +10,12 @@ tags:
 - Atlascope
 - Boston history
 title: A Candy Tour of Boston
+draft: true
 
 ---
-Just in time for Halloween, here's some trick-or-treating you can do without leaving your home!
-
-![This frontispiece from an atlas of the Caribbean shows enslaved Black people standing among barrels that likely contain molasses or rum, and a bundle of sugarcane off to the right. All the subjects of the engraving were imports or exports in the triangular trade. This includes the people, who were trafficked against their will.](/uploads/west-indian-atlas.jpg "West Indian Atlas")
-
 There were many candy factories in Greater Boston in the late nineteenth and early twentieth centuries. If we walked the streets, we'd smell the sweet air around these places. They'd be pleasant pockets within the overall stench of the city in that time. Using urban atlases of Boston in [Atlascope](http://atlascope.leventhalmap.org/) and historical documents in [Digital Commonwealth](https://www.digitalcommonwealth.org/), we can imagine how these industries would shape their neighborhoods. Today, we'll tour some of those neighborhoods and examine their candy making facilities.
 
-Candy, especially in the nineteenth century, was mainly made of sugar. Much of the sugar at the time was derived from sugar cane. Because of this, candy manufacturing relied on the triangular trade. Triangular trade is the term for the shipping routes and economic relationship among Africa, Europe, and the Americas. The importation of sugar to the American colonies and later the US relied on the trans-Atlantic slave trade. Slave labor in the West Indies produced value and raw materials to make American products.
+![This frontispiece from an atlas of the Caribbean shows enslaved Black people standing among barrels that likely contain molasses or rum, and a bundle of sugarcane off to the right. All the subjects of the engraving were imports or exports in the triangular trade. This includes the people, who were trafficked against their will.](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462x83x/full/,1200/0/default.jpg)Candy, especially in the nineteenth century, was mainly made of sugar. Much of the sugar at the time was derived from sugar cane. Because of this, candy manufacturing relied on the triangular trade. Triangular trade is the term for the shipping routes and economic relationship among Africa, Europe, and the Americas. The importation of sugar to the American colonies and later the US relied on the trans-Atlantic slave trade. Slave labor in the West Indies produced value and raw materials to make American products.
 
 ![Here's a map of our tour! All the buildings we visit today still stand, and you can go see them in real life. No promises that they'll have out a bowl of candy, though.](/uploads/tour-stops.PNG "Tour Map")
 
@@ -28,21 +25,19 @@ We'll look at five centers of candy production in the Boston area: Baker’s Cho
 
 **1. Baker’s Chocolate, 1220 Adams St, Boston, MA 02124**
 
-[7m01bp41q](https://ark.digitalcommonwealth.org/ark:/50959/7m01bp41q "7m01bp41q")This ad for Baker's Chocolate & Cocoa is from ca. 1870-1900. Cards like this one were common in advertising at the time.
+![ John Hannon began producing some of the earliest chocolate products in the US in 1765 in Milton, MA. Several years later, the company moved to Dorchester. Chocolate could only be produced in colder weather because of melting. Early mills functioned as grist, wool, paper, and saw mills during other parts of the year.   This handbill for Baker's is undated, but must have been produced shortly after the 1867 and 1873 European Expositions it references, at which the company won prizes.](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7m01bp420/full/,1200/0/default.jpg)
 
 John Hannon began producing some of the earliest chocolate products in the US in 1765 in Milton, MA. Several years later, the company moved to Dorchester. Chocolate could only be produced in colder weather because of melting. Early mills functioned as grist, wool, paper, and saw mills during other parts of the year.
 
-[![](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/30/2020/10/19180802/bakerfactory-300x216.jpg =300x216)](https://www.historicnewengland.org/explore/collections-access/gusn/249468/%20)This handbill for Baker's is undated, but must have been produced shortly after the 1867 and 1873 European Expositions it references, at which the company won prizes.
+![This handbill for Baker's is undated, but must have been produced shortly after the 1867 and 1873 European Expositions it references, at which the company won prizes.](/uploads/bakerfactory.PNG)
 
 Walter Baker was the third generation of Bakers to own the factory — his grandfather had bought it from Hannon's widow in 1780. The last familial owner of Baker’s Chocolate was Walter's step-nephew, Henry L. Pierce. Pierce sold out the company for incorporation in 1895. After his death in 1896, the square outside the buildings was named in his memory.
-
-****
 
 ***
 
 **2. NECCO, 27 Melcher St. Boston, MA 02210**
 
-[![](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/30/2020/10/19180915/lozenge_machine_patent-219x300.png =219x300)](https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=00017262&IDKey=38A18279D64A%0D%0A&HomeUrl=http://patft.uspto.gov/netahtml/PTO/patimg.htm)This diagram is from the May 12, 1857 patent by the Chase brothers for their "Improvements in Machinery for Making Lozenges." This came a decade after their original machine.
+![This diagram is from the May 12, 1857 patent by the Chase brothers for their "Improvements in Machinery for Making Lozenges." This came a decade after their original machine.](/uploads/patent.PNG)
 
 NECCO, one of Boston’s most famous confectioners, resulted from a merger of three smaller, older companies. One of these candy manufacturers was Chase & Company, founded by brothers Oliver and Silas Chase. They were later joined by their brother Daniel. Oliver was a pharmacist who, like many others, used sugar as a way to make bitter medicines more palatable.
 
@@ -50,15 +45,13 @@ Oliver Chase invented a lozenge cutter (something like a pasta roller/extruder) 
 
 Daniel Chase invented a "Lozenge Printing Machine" that could print text on the chalky candies. This began production of "Conversation Candies," predecessors of today's conversation hearts. Daniel moved to Chicago until the Great Fire of 1871, bringing candy-making technology out west. When he moved back, he worked for Fobes, another Boston candy company. Many candy companies, including Chase, were accused of using unsafe additives in their products. Chase & Co. was [convicted in 1878](https://link.gale.com/apps/doc/GT3006577512/NCNP?u=mlin_b_bpublic&sid=NCNP&xid=e674e3eb) on this charge for their use of Lead (II) Chromate as a yellow coloring agent.
 
-[![](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/30/2020/10/19181446/southmayd-pure-244x300.png =244x300)](https://link-gale-com.ezproxy.bpl.org/apps/doc/GT3001740583/NCNP?u=mlin_b_bpublic&sid=NCNP&xid=910ca1f5%20%20)This advertisement highlights the purity of the candy above all else, even putting it before and larger than their spiel about reasonable prices.
+![This advertisement highlights the purity of the candy above all else, even putting it before and larger than their spiel about reasonable prices.](/uploads/southmayd-pure.PNG)
 
 On the ground floor of the Horticultural Hall in downtown Boston, Southmayd's positioned itself as the safe option for candy lovers in this "[age of impurities and shams](https://link.gale.com/apps/doc/GT3001741538/NCNP?u=mlin_b_bpublic&sid=NCNP&xid=35f54dc8)." It sold a [variety of confections](https://link.gale.com/apps/doc/GT3001740583/NCNP?u=mlin_b_bpublic&sid=NCNP&xid=910ca1f5) from this convenient location. These included [gum drops, ice cream candies, and lemon lobster sticks](https://www.google.com/books/edition/The_Boston_Almanac_for_the_Year/-YQBAAAAYAAJ?hl=en&gbpv=1&dq=%22southmayd%22+candy+boston&pg=RA8-PA5&printsec=frontcover), as well as a refreshing beverage called "[Ottawa Beer](https://link.gale.com/apps/doc/GT3009821367/NCNP?u=mlin_b_bpublic&sid=NCNP&xid=08775af7)."
 
 Chase merged with two other companies, Fobes, Hayward & Co. and Wright & Moody, to become the New England Confectionery Company in 1901. NECCO started operating on Summer St. in 1902.
 
 The company moved to Cambridge in 1927. Manufacturing moved to Revere in 2003. In 2018, the factory closed and brands were sold off to competitors.
-
-****
 
 ***
 
