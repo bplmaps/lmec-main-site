@@ -27,11 +27,7 @@ We'll look at five centers of candy production in the Boston area: Baker’s Cho
 
 ![ John Hannon began producing some of the earliest chocolate products in the US in 1765 in Milton, MA. Several years later, the company moved to Dorchester. Chocolate could only be produced in colder weather because of melting. Early mills functioned as grist, wool, paper, and saw mills during other parts of the year.   This handbill for Baker's is undated, but must have been produced shortly after the 1867 and 1873 European Expositions it references, at which the company won prizes.](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7m01bp420/full/,1200/0/default.jpg)
 
-John Hannon began producing some of the earliest chocolate products in the US in 1765 in Milton, MA. Several years later, the company moved to Dorchester.
-
-    <iframe width="400" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059010700a$zoom:19.30$center:-7911169.630697481,5201763.344904148$mode:glass$pos:496"></iframe>
-
-Chocolate could only be produced in colder weather because of melting. Early mills functioned as grist, wool, paper, and saw mills during other parts of the year.
+John Hannon began producing some of the earliest chocolate products in the US in 1765 in Milton, MA. Several years later, the company moved to Dorchester. Chocolate could only be produced in colder weather because of melting. Early mills functioned as grist, wool, paper, and saw mills during other parts of the year.
 
 ![This handbill for Baker's is undated, but must have been produced shortly after the 1867 and 1873 European Expositions it references, at which the company won prizes.](/uploads/bakerfactory.PNG)
 
