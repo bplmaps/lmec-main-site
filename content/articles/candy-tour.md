@@ -67,23 +67,19 @@ Sometime between 1930 and 1934, the James O. Welch Co. bought this property. Nab
 
 A few blocks over from "Confectioner's Row" was one of Cambridge's early candy makers, the George Close Company. A new factory replaced the 1894 building in 1910. It still stands today, serving as affordable housing, and is on the National Register of Historic Places. The company was actually more famous for its collectible baseball cards than any of its candies.
 
-[![](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/30/2020/10/26105016/wise-squirrel-e1603723894962-173x300.png =173x300)](https://www.historicnewengland.org/explore/collections-access/gusn/287574/)This squirrel is one of many who advertised Squirrel Brand, long before the Squirrel Nut Zippers brought swing back to popular music charts in the 1990s.
+![This squirrel is one of many who advertised Squirrel Brand, long before the Squirrel Nut Zippers brought swing back to popular music charts in the 1990s.](/uploads/wise-squirrel.png)
 
 Several doors down from the Close Company was Squirrel Brand Nuts. Squirrel Brand made such candies as Squirrel Nut Zippers and Squirrel Nut Caramels. These candies were originally manufactured in Roxbury at [277 Dudley St. by the Austin T. Merrill Company](https://www.ancestrylibrary.com/imageviewer/collections/2469/images/8938611?treeid=&personid=&rc=&usePUB=true&_phsrc=XUf16&_phstart=successSource&pId=461165720). They eventually became NECCO brands.
-
-****
 
 ***
 
 **4. The Paul Revere House, 19 North Square, Boston, MA 02113**
 
-[**![](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/30/2020/10/19182944/maryjane-directmailer-218x300.jpg =218x300)**](https://www.candystore.com/blog/facts-trivia/necco-history-timeline)This mappy ad for Mary Jane shows a parade of people stretching across the nation from Boston to California, clamoring for the molasses-based sweet.
+![This mappy ad for Mary Jane shows a parade of people stretching across the nation from Boston to California, clamoring for the molasses-based sweet.](/uploads/maryjane-directmailer.jpg)
 
 One classic sweet that became a NECCO candy in 1989 is the Mary Jane. The peanut butter and molasses treat was made by Charles N. Miller, who appears to have begun his candy career in 1884 while living at 19 North Square. This house is where Paul Revere lived from 1770-1800, and is the site of a [historic house museum](http://paulreverehouse.org/) today. The Revere House is not unique for being both home and factory. Around the same time, there was also a cigar rolling factory in the small building, and at other times a grocery store and a bank. Many of the hundreds of candy factories that existed in Greater Boston near the turn of the century were in buildings where their owners lived. As companies grew, like Chase merging and becoming NECCO, they moved out of their owners’ homes and into larger factory buildings. Smaller confectioners, which used to be quite popular, were forced out of business. Today, the top two confectioners by market share make up over 50% of the market, with several other big companies close behind.
 
 With its molasses base, the Mary Jane's link to triangular trade and slave labor is a direct one. The North End has yet another molasses connection: the Great Molasses Flood. On January 15, 1919, a tank holding over two million gallons of molasses exploded in the neighborhood, killing twenty-one people and injuring one hundred and fifty. This molasses, however, had been destined for munitions productions, not candy.
-
-****
 
 ***
 
@@ -91,7 +87,7 @@ With its molasses base, the Mary Jane's link to triangular trade and slave labor
 
 By 1914, candy manufacturing had grown immensely and was the third biggest industry in Boston by value of product. There were seventy-nine confectioners listed in the Boston directory in 1914. Thirty-one of them were in a group called the "[New England Confectioner's \[or Confectionery\] Club](https://search-proquest-com.ezproxy.bpl.org/docview/502827678?accountid=9675)." By 1950, there were an estimated 140 candy companies in Boston and Cambridge, including this one in East Boston.
 
-[![](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/30/2020/10/26105939/gumball-factory-300x290.png =300x290)](https://www.google.com/maps/uv?pb=!1s0x89e370430fb77413%3A0xdcb3bac679b9ec29!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNsX36BJ8BqqvzOroks-pKVd3qLbtt0rElSe6vC%3Dw232-h160-k-no!5sgumball%20factory%20lofts%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e2!2sXAGvSP3IReWN8UaNbQ20ZA&hl=en&sa=X&ved=2ahUKEwifkduG3dLsAhVrlHIEHXNCBeYQoiowCnoECBAQAw)Today, this factory building has been converted into condos.
+![Today, this factory building has been converted into condos.](/uploads/gumball-factory.PNG)
 
 This building is still remembered for its earlier usage, like many of the manufacturers on this list. On its address plaque, it says “gumball factory,” some lasting flavor from the early twentieth century.
 
