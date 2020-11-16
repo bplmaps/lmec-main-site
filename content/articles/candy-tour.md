@@ -63,7 +63,7 @@ One building at 810 (formerly 814) Main St. in Cambridge still plays a part in t
 
 Sometime between 1930 and 1934, the James O. Welch Co. bought this property. Nabisco purchased Welch in 1963, and then it was acquired by Tootsie Roll Industries. The building is now a part of Cambridge Brands, a subsidiary of Tootsie Roll.
 
-[![](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/30/2020/10/19181759/closead-300x203.png =300x203)](https://www.historicnewengland.org/explore/collections-access/gusn/248317/)These cherubic children work together to get at this walnut on a trade card for Close. This design was not unique: at least one other late 19th century confectioner used the same image on his advertising cards.
+![These cherubic children work together to get at this walnut on a trade card for Close. This design was not unique: at least one other late 19th century confectioner used the same image on his advertising cards.](/uploads/close-ad.png)
 
 A few blocks over from "Confectioner's Row" was one of Cambridge's early candy makers, the George Close Company. A new factory replaced the 1894 building in 1910. It still stands today, serving as affordable housing, and is on the National Register of Historic Places. The company was actually more famous for its collectible baseball cards than any of its candies.
 
