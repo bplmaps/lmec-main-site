@@ -17,7 +17,7 @@ We'll be adding more as we get them updated, so check back.
 
 {{< course-listing image="/uploads/wiam.png" title="What Is A Map?" subtitle="Grades 1–3" description="Students practice how to interpret maps by reading the stories being told by mapmakers. Students create a map of their own, receive a short interactive lesson about maps and mapping, and work in small groups to answer questions about some of the maps in our collection." lessonFile="https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EaiYKKvgsJFGvxB-cx4nQooBbg72rNWPfKPCwxVwrjGsJA?e=rbnZjD" >}}
 
-{{< course-listing image="/uploads/world.png" title="World Maps Over Time" subtitle="Grades 6-8" description="Students practice being critical map readers using a range of world maps, from the oldest in our collection to the present. After an interactive lesson on map projections, students work in small groups to analyze what mapmakers include on their maps and why. " lessonFile="https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EUTrAanNNx5KmusBmLOHZlMBgnPA87wVY1LsgJpPHNMSww?e=rcLUgy">}}
+{{< course-listing image="/uploads/world.png" title="World Maps Over Time" subtitle="Grades 6-8" description="Students practice being critical map readers using a range of world maps, from the oldest in our collection to the present. After an interactive lesson on map projections, students work in small groups to analyze what mapmakers include on their maps and why. " lessonFile="https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EUTrAanNNx5KmusBmLOHZlMBgnPA87wVY1LsgJpPHNMSww?e=rcLUgy" >}}
 
 ### Tools for Teachers
 
