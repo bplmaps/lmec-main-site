@@ -5,10 +5,6 @@ description: Resources, programs, and activities for teaching with maps
 weight: "2"
 
 ---
-## Tools for Teachers
-
-[Access map sets and lesson plans](https://collections.leventhalmap.org/educators) using our digital collections.
-
 ## Teaching with our Current Exhibition
 
 Explore education activities related to [Bending Lines: Maps and Data from Distortion to Deception](https://www.leventhalmap.org/digital-exhibitions/bending-lines/education-activities/ "Bending Lines: Maps and Data from Distortion to Deception")
