@@ -17,6 +17,10 @@ Explore education activities related to [Bending Lines: Maps and Data from Disto
 
 Find fully-scripted teach-it-yourself versions of our most popular pre-designed programs, lessons introducing students to GIS mapping through a civics lens, and more.
 
-Keep checking back as we add to this new menu of digital resources.
+### Tools for Teachers
+
+[Directly access map sets and lesson plans](https://collections.leventhalmap.org/educators) using our digital collections, or search the database below for map sets, lesson plans and other teaching resources.
+
+Keep checking back as we add to this collection.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrUVzlo5NEbjYUss?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
