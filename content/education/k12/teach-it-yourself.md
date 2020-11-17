@@ -17,6 +17,7 @@ Find fully-scripted teach-it-yourself versions of our most popular pre-designed 
 
 [Directly access map sets and lesson plans](https://collections.leventhalmap.org/educators) using our digital collections, or search the database below for map sets, lesson plans and other teaching resources on everything from teaching the American Revolution to redlining and housing discrimination.
 
-Keep checking back as we add to this list.
+### Teaching Resources - Comprehensive List
+Keep checking back as we add to this list, or reach out if you don't see what you're looking for. 
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrUVzlo5NEbjYUss?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
