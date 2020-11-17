@@ -11,7 +11,7 @@ Explore education activities related to [Bending Lines: Maps and Data from Disto
 
 ## Teaching and Learning Resources
 
-### Fully-scripted teach-it-yourself versions of our most popular pre-designed programs.
+### Fully-scripted teach-it-yourself versions of our most popular programs.
 
 We'll be adding more as we get them updated, so check back.
 
