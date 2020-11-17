@@ -12,7 +12,7 @@ As a non-profit that offers services "free to all," we rely on the support of do
 
 <a class="btn btn-outline-primary" href="https://mapsbpl.thankyou4caring.org/">Donate here</a>
 
-_Please note that the Leventhal Map & Education Center is an independent nonprofit dependent on your generous support. We are a separate entity from the Boston Public Library Fund or the Associates of the Boston Public Library._
+_Please note that the Leventhal Map & Education Center is an independent nonprofit in a longstanding partnership with the Boston Public Library, and we are dependent on your generous support. We are a separate entity from the Boston Public Library Fund and the Associates of the Boston Public Library._
 
 ## Gifts of collections
 
