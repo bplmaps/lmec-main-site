@@ -25,10 +25,10 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2; }
 
 h1, .h1 {
-  font-size: 60px; }
+  font-size: 55px; }
   @media (max-width: 575px) {
     h1, .h1 {
-      font-size: 45px; } }
+      font-size: 35px; } }
 h2, .h2 {
   font-size: 40px; }
   @media (max-width: 575px) {
@@ -54,6 +54,9 @@ h6, .h6 {
   @media (max-width: 575px) {
     h6, .h6 {
       font-size: 14px; } }
+code {
+  color: #501966; }
+
 /* Button style */
 .btn {
   font-size: 16px;
@@ -365,6 +368,20 @@ textarea.form-control {
   .footnotes ol li p {
     font-size: 90%; }
 
+.frontpage-content p a, .frontpage-content li a {
+  color: maroon; }
+  .frontpage-content p a:not(.btn), .frontpage-content li a:not(.btn) {
+    background-image: linear-gradient(0deg, rgba(0, 102, 136, 0.2) 10%, transparent 0); }
+    .frontpage-content p a:not(.btn):hover, .frontpage-content li a:not(.btn):hover {
+      background-image: linear-gradient(0deg, rgba(0, 102, 136, 0.2) 35%, transparent 0); }
+
+.frontpage-content .whats-new-badge {
+  padding: 5px 8px;
+  border: 1px solid #054571; }
+
+.frontpage-content .frontpage-audience-card li {
+  line-height: 1.4; }
+
 .content p a, .content li a {
   color: maroon; }
   .content p a:not(.btn), .content li a:not(.btn) {
@@ -372,13 +389,18 @@ textarea.form-control {
     .content p a:not(.btn):hover, .content li a:not(.btn):hover {
       background-image: linear-gradient(0deg, rgba(0, 102, 136, 0.2) 35%, transparent 0); }
 
+.content p > img {
+  margin: 20px 0; }
+
 .content a.btn {
   text-decoration: none; }
 
 .content a.btn-outline-primary {
+  color: maroon;
   border: 1px solid #054571; }
 
 .content a.btn-outline-primary:hover {
+  color: white;
   transition: background-color 1.0s, color 1.0s;
   background-color: #054571; }
 
@@ -725,6 +747,14 @@ link:focus,
 
 .hero-section {
   padding: 250px 0 120px; }
+
+.hero-button {
+  background-color: rgba(255, 255, 255, 0.8);
+  font-weight: 700;
+  margin-top: 5px; }
+  .hero-button:hover {
+    background-color: rgba(229, 229, 247, 0.8);
+    color: inherit; }
 
 .hero-slider .prevArrow,
 .hero-slider .nextArrow {

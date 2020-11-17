@@ -18,7 +18,7 @@ quicklinks:
 ---
 ## Using the digital collections
 
-The Leventhal Map & Education Center has one of the most significant digital collections of any North American map library.
+The Leventhal Map & Education Center has one of the most significant digital collections of any North American map library. We encourage all kinds of research and exploration into our collections through digital access, and seek to make digital material available on the most permissive licenses possible.
 
 ### Digital repositories
 
@@ -42,3 +42,11 @@ For more information on advanced searches of the full scope of our collections, 
 <iframe src="https://geoservices.leventhalmap.org/union-search" style="width:100%;height:500px;border:1px solid black;"></iframe>
 
 ## Advanced access to digital objects
+
+### IIIF Manifests and Images
+
+All objects in the [Digital Collections portal](https://collections.leventhalmap.org) are available for access through the International Image Interoperability Format ([IIIF](https://iiif.io)). To access the IIIF Manifest for an object, add the suffix `/manifest.json` to the end of the `collections.leventhalmap.org` URL. For example, the Manifest of the Bonner map of Boston can be found [here](https://collections.leventhalmap.org/search/commonwealth:9s161f21f/manifest.json).
+
+### Search API
+
+JSON search results of the Digital Collections portal are available at the endpoint `https://collections.leventhalmap.org/search.json`, which takes the same query parameters as the search portal. For example, a search returning results for the keyword "Boston neck" can be found [here](https://collections.leventhalmap.org/search.json?utf8=✓&q=boston+neck).

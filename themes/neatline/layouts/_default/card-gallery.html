@@ -6,7 +6,7 @@
     <p class="card-text">{{ .Description | markdownify }}</p>
     {{ with .Pages }}
     <ul class="font-secondary m-0 p-0">
-    {{ range . }}
+    {{ range where . "Params.menu" "ne" false }}
     <li class="mb-1"><i class="fas fa-caret-right mr-1"></i><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ end }}
     </ul>

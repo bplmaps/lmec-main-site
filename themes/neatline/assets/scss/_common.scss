@@ -383,10 +383,12 @@ textarea.form-control{
   }
 
   a.btn-outline-primary {
+    color: $link-color;
     border: 1px solid $primary-color;
   }
 
   a.btn-outline-primary:hover {
+    color: white;
     transition: background-color 1.0s, color 1.0s;
     background-color: $primary-color;
   }
