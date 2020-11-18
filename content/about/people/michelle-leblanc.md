@@ -5,7 +5,7 @@ headshot: "/uploads/img_20201015_120651609_portrait-1.jpg"
 type: person
 contact:
 - method: Phone
-  details: ''
+  details: 617-859-2294
 - method: Email
   details: mleblanc@leventhalmap.org
 menu: false
