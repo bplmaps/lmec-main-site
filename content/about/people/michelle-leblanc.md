@@ -1,14 +1,14 @@
 ---
 title: Michelle LeBlanc
 description: Director of Education
-headshot: 'https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463863p/736,6892,514,514/,600/0/default.jpg'
+headshot: "/uploads/img_20201015_120651609_portrait-1.jpg"
 type: person
-menu: false
 contact:
 - method: Phone
   details: ''
 - method: Email
   details: ''
+menu: false
 
 ---
 aldkfj
