@@ -7,7 +7,7 @@ contact:
 - method: Phone
   details: ''
 - method: Email
-  details: ''
+  details: mleblanc@leventhalmap.org
 menu: false
 
 ---
