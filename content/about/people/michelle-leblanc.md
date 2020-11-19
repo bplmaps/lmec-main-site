@@ -1,14 +1,14 @@
 ---
 title: Michelle LeBlanc
 description: Director of Education
-headshot: 'https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463863p/736,6892,514,514/,600/0/default.jpg'
+headshot: "/uploads/img_20201015_120651609_portrait-1.jpg"
 type: person
-menu: false
 contact:
 - method: Phone
-  details: ''
+  details: 617-859-2294
 - method: Email
-  details: ''
+  details: mleblanc@leventhalmap.org
+menu: false
 
 ---
-aldkfj
+Michelle LeBlanc leads all aspects of teacher training, school programs and curriculum development at the Map Center. She has over 20 years of experience in museums and classrooms, teaching history and designing programming for varied audiences. She holds an M.A. in Public History from Northeastern University and is a licensed teacher for grades 5-8 in Massachusetts.
