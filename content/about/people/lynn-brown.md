@@ -5,7 +5,7 @@ headshot: "/uploads/screen-shot-2020-11-12-at-12-35-19-pm.png"
 type: person
 contact:
 - method: Phone
-  details: "(617) 859-2264"
+  details: "617.859.2264"
 - method: Email
   details: lbrown@leventhalmap.org
 menu: false

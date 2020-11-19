@@ -5,7 +5,7 @@
    <div class="staff-list-card col-sm-12 col-md-4">
        
            {{ with .Params.headshot }}
-            <img src="{{ . | relURL }}" alt="Headshot of {{ $person.Title }}" class="card-img-top staff-headshot-circle">
+           <a href="{{ $person.Permalink | relURL }}"><img src="{{ . | relURL }}" alt="Headshot of {{ $person.Title }}" class="card-img-top staff-headshot-circle"></a>
            {{ end }}
           
                <h5><a href="{{ .Permalink | relURL }}">{{ .Title }}</a></h5>

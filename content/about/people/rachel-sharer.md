@@ -5,7 +5,7 @@ headshot: "/uploads/unadjustednonraw_thumb_171d.jpg"
 type: person
 contact:
 - method: Phone
-  details: 617.859.2138.
+  details: 617.859.2138
 - method: Email
   details: rsharer@leventhalmap.org
 menu: false

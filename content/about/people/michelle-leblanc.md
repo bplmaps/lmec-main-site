@@ -5,7 +5,7 @@ headshot: "/uploads/michelle_headshot.jpg"
 type: person
 contact:
 - method: Phone
-  details: 617-859-2294
+  details: 617.859.2294
 - method: Email
   details: mleblanc@leventhalmap.org
 menu: false

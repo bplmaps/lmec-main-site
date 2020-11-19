@@ -39,7 +39,6 @@
   {{range .bg_images}}bg_images.push({{ . }});
   {{ end }}
   document.getElementById("hero-section-frontpage-slider").setAttribute("data-background", bg_images[Math.floor(Math.random() * bg_images.length)]);
-  console.log(bg_images);
 </script>
 {{ end }}
 {{ end }}
