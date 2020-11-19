@@ -5,6 +5,7 @@ description = "How much of Boston's property value would have been underwater in
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n431x/879,1852,2929,1694/,800/0/default.jpg"
 tags = ["data exploration", "shoreline"]
 title = "Underwater Properties"
+draft = true
 
 +++
 ## Blah blah testing
