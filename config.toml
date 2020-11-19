@@ -79,52 +79,55 @@ name = "About"
 URL = "about"
 weight = 6
 
-[[menu.main]]
-name = "Events"
-URL = "event"
-weight = 6
 
-[[menu.main]]
-name = "Articles"
-URL = "articles"
-weight = 7
 
 
 # footer menu
+
+[[menu.footer]]
+name = "Events"
+URL = "event"
+weight = 1
+
+[[menu.footer]]
+name = "Articles"
+URL = "articles"
+weight = 2
+
 [[menu.footer]]
 name = "BPL.org"
 URL = "https://bpl.org"
-weight = 1
+weight = 9
 
 [[menu.footer]]
 name = "Contact Us"
 URL = "about/contact-connect"
-weight = 2
+weight = 3
 
 [[menu.footer]]
 name = "Donate"
 URL = "donate"
-weight = 3
+weight = 4
 
 [[menu.footer]]
 name = "Hours & Directions"
 URL = "/about/hours-directions"
-weight = 4
+weight = 5
 
 [[menu.footer]]
 name = "Land Acknowledgement"
 URL = "/about/mission-history"
-weight = 4
+weight = 6
 
 [[menu.footer]]
 name = "Accessibility"
 URL = "accessibility"
-weight = 5
+weight = 7
 
 [[menu.footer]]
 name = "Privacy Policy"
 URL = "privacy"
-weight = 6
+weight = 8
 
 
 

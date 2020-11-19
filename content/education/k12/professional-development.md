@@ -22,7 +22,7 @@ No workshops are currently scheduled.
 
 ### Past Workshops
 
-See a [list of past workshops here](education/k12/past-workshops), with links to workshop materials.
+See a [list of past workshops here](/education/k12/past-workshops), with links to workshop materials.
 
 ## Carolyn A. Lynch Summer Teacher Fellowship
 

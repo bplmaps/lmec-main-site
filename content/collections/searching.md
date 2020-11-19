@@ -52,7 +52,7 @@ Some users may prefer to use the alternative [MBLN catalog](http://catalog.mbln.
 
 #### Caveats regarding catalog searches
 
-While we make every effort to ensure that our online catalog matches our holdings, there may be cases in which the catalog records including missing or insufficient detail. Some catalog records have been produced by batch conversion processes which may have introduced error into the records. Some objects, especially large series and archival material, are not fully cataloged at the item level. We retain legacy copies of card catalogs and other finding aids to help locate material which is not discoverable in the online catalogs. For more assistance, and to find material which does not appear in the online catalogs, [make an appointment with a reference librarian](research/appointments).
+While we make every effort to ensure that our online catalog matches our holdings, there may be cases in which the catalog records including missing or insufficient detail. Some catalog records have been produced by batch conversion processes which may have introduced error into the records. Some objects, especially large series and archival material, are not fully cataloged at the item level. We retain legacy copies of card catalogs and other finding aids to help locate material which is not discoverable in the online catalogs. For more assistance, and to find material which does not appear in the online catalogs, [make an appointment with a reference librarian](/research/appointments).
 
 ## Searching digital collections {#search-digital-collections}
 

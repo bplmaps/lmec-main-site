@@ -30,10 +30,10 @@ Maps and geographic material can be useful for answering countless different typ
 
 ### Types of research assistance
 
-- For those wishing to study our collections, see our [collections page](collections), or [make an appointment](research/appointments) to access materials in our Rare Maps Reading Room.
-- For guides to research sources in both our collections and elsewhere, visit our [research guides](research/guides).
-- For help with computer data, spatial anaylsis, and web mapping, see our [geospatial information services](research/geospatial) or [request an appointment with a GIS librarian](research/geospatial/#make-request).
-- For scholars and students working on larger projects, learn more about our [fellowships and research support](research/fellowships).
+- For those wishing to study our collections, see our [collections page](/collections), or [make an appointment](/research/appointments) to access materials in our Rare Maps Reading Room.
+- For guides to research sources in both our collections and elsewhere, visit our [research guides](/research/guides).
+- For help with computer data, spatial anaylsis, and web mapping, see our [geospatial information services](/research/geospatial) or [request an appointment with a GIS librarian](/research/geospatial/#make-request).
+- For scholars and students working on larger projects, learn more about our [fellowships and research support](/research/fellowships).
 
 ## Ask a librarian {#ask-librarian}
 

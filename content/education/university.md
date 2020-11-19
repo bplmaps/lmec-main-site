@@ -34,5 +34,5 @@ For courses where technical training is not the primary earning objective, we of
 
 For courses where students are expected to work with more sophisticated digital and technical skills, we offer numerous resources, from IIIF image API endpoints to interactive maps built in OpenLayers, Leaflet, or Mapbox.
 
-Contact the [Curator](about/people/garrett-nelson) to discuss possibilities for collaboration on student digital humanities projects.
+Contact the [Curator](/about/people/garrett-nelson) to discuss possibilities for collaboration on student digital humanities projects.
 

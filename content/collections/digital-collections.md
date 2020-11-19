@@ -31,13 +31,13 @@ Our materials are mainly available on two online repositories, both of which are
 
 ### Other digital discovery tools
 
-* **Atlascope.** The [Atlascope project](projects/digital-projects/#atlascope) involves the digital transformation of over a hundred fire insurance and real estate atlases of Boston and its inner suburbs, showing detail down to the parcel and building level for a period from 1860–1940. <a href="https://atlascope.leventhalmap.org/" class="btn btn-outline-primary btn-xs mr-2"><i class="fas fa-eye"></i> Go to the Atlascope web app</a>
+* **Atlascope.** The [Atlascope project](/projects/digital-projects/#atlascope) involves the digital transformation of over a hundred fire insurance and real estate atlases of Boston and its inner suburbs, showing detail down to the parcel and building level for a period from 1860–1940. <a href="https://atlascope.leventhalmap.org/" class="btn btn-outline-primary btn-xs mr-2"><i class="fas fa-eye"></i> Go to the Atlascope web app</a>
 * **Digital Commonwealth.** Our Digital Collections portal is part of [Digital Commonwealth](https://www.digitalcommonwealth.org), a consortium of more than 180 cultural heritage organizations across Massachusetts. From the Digital Commonwealth repository, you can search Map Center collections together with maps, images, texts, sound records, and millions of other objects from other institutions. <a href="https://digitalcommonwealth.org" class="btn btn-outline-primary btn-xs mr-2"><i class="fas fa-eye"></i> Go to the Digital Commonwealth portal</a>
 * **Flickr.** Before the development of our Digital Collections portal, we uploaded full-resolution images to the photo-sharing site Flickr. You can [browser our images here](https://secure.flickr.com/photos/normanbleventhalmapcenter/). We are no longer actively adding new material to our Flickr collections.
 
 ### Searching the digital collections {#quick-search}
 
-For more information on advanced searches of the full scope of our collections, see the [Searching the Collections](collections/searching) page. This tool will allow you to run a quick search across the Digital Collections portal and Internet Archive. <a href="https://geoservices.leventhalmap.org/union-search" target="_blank" class="btn btn-outline-primary btn-xs mr-2"><i class="fas fa-external-link-square-alt"></i> Open quick search in a new window</a>
+For more information on advanced searches of the full scope of our collections, see the [Searching the Collections](/collections/searching) page. This tool will allow you to run a quick search across the Digital Collections portal and Internet Archive. <a href="https://geoservices.leventhalmap.org/union-search" target="_blank" class="btn btn-outline-primary btn-xs mr-2"><i class="fas fa-external-link-square-alt"></i> Open quick search in a new window</a>
 
 <iframe src="https://geoservices.leventhalmap.org/union-search" style="width:100%;height:500px;border:1px solid black;"></iframe>
 

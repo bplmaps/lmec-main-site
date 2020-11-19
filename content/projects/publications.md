@@ -37,7 +37,6 @@ We Are One maps the American road to independence. It explores the tumultuous ev
 
 Catalog, 50pp. (2015). [Browse the LMEC copy](https://bpl.bibliocommons.com/v2/record/S75C7585128) or [find it in your own library](http://www.worldcat.org/oclc/918876662).
 
-{{< figure src="" caption="" class="figure-right" >}}{{< figure src="" caption="" class="figure-right" >}}
 
 ![Catalog cover for We Are One](https://www.leventhalmap.org/wp-content/uploads/2017/03/we_are_one_sm.jpg)
 

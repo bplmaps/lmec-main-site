@@ -3,8 +3,8 @@ author: Rachel Mead
 date: 2020-10-31T06:00:00-04:00
 description: Just in time for Halloween, here's some trick-or-treating you can do
   without leaving your home!
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc57z/1638,1099,1729,1631/,800/0/default.jpg
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc57z/1638,1099,1729,1631/,800/0/default.jpg
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7m01bp420/full/,600/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7m01bp420/full/,600/0/default.jpg
 tags:
 - social media post
 - Atlascope

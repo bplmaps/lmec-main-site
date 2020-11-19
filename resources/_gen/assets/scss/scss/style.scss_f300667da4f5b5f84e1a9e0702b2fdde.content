@@ -572,9 +572,6 @@ textarea.form-control {
     font-size: 14px;
     line-height: 14px; }
 
-.course-listing h4:before {
-  content: ""; }
-
 .course-listing h6 {
   font-family: freight-micro-pro, serif; }
 
@@ -582,6 +579,9 @@ textarea.form-control {
   width: 140px;
   height: 100px;
   object-fit: cover; }
+
+.media h1:before, .media h2:before, .media h3:before, .media h4:before {
+  content: ""; }
 
 .frontpage-searcher .frontpage-searcher-callout-outer {
   margin: 0 20px -100px 20px;
