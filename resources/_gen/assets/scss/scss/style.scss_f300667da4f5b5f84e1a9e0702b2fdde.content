@@ -583,6 +583,33 @@ textarea.form-control {
   height: 100px;
   object-fit: cover; }
 
+.frontpage-searcher .frontpage-searcher-callout-outer {
+  margin: 0 20px -100px 20px;
+  padding: 0;
+  background-image: url("https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b946v/2146,2271,1920,521/,600/0/default.jpg");
+  background-size: cover; }
+  .frontpage-searcher .frontpage-searcher-callout-outer .frontapge-searcher-callout-inner {
+    width: 100%;
+    text-align: center;
+    padding: 20px 10px 130px 10px;
+    background-color: rgba(0, 0, 0, 0.5); }
+  .frontpage-searcher .frontpage-searcher-callout-outer h2 {
+    color: white; }
+  .frontpage-searcher .frontpage-searcher-callout-outer p > a {
+    text-decoration: underline; }
+    .frontpage-searcher .frontpage-searcher-callout-outer p > a:hover {
+      color: white;
+      text-decoration: none; }
+
+.frontpage-searcher .input-group {
+  border: 5px solid #054571; }
+
+.frontpage-searcher .form-control {
+  font-size: 1.75rem; }
+
+.frontpage-searcher .btn {
+  border-radius: 0; }
+
 .top-header {
   font-size: 12px;
   transition: transform .2s ease;

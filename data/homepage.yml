@@ -59,7 +59,7 @@ audiences:
       description: "We offer a wide spectrum of services and activities for the general public"
       color: "#d54062"
       links:
-        - title: "See what's on our calendar of upcoming events"
+        - title: "See our calendar of upcoming events"
           link: 'event'
         - title: "Browse our digital exhibitions"
           link: "exhibitions/digital-exhibitions"
@@ -73,7 +73,7 @@ audiences:
       links:
         - title: Book a classroom visit
           link: "education/k12/school-visits"
-        - title: Get resources for teaching with maps
+        - title: See resources for teaching with maps
           link: "education/k12/teach-it-yourself"
         - title: Apply for a professional development workshop
           link: "education/k12/professional-development"
@@ -101,8 +101,8 @@ audiences:
           link: "collections/digital-collections"
         - title: Explore Boston's history with Atlascope
           link: "https://atlascope.leventhalmap.org"
-        - title: "Get deeper into a map with an annotated story"
-          link: "projects/digital-projects"
+        - title: "Dig deeper into a map with an annotated story"
+          link: "projects/digital-projects/#annotated-map-stories"
         - title: "Read guides and tutorials on digital mapping"
           link: "https://geoservices.leventhalmap.org/cartinal"
 

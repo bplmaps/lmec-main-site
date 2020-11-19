@@ -77,7 +77,7 @@
 <!-- about us -->
 {{ if $data.homepage.audiences.enable }}
 {{ with $data.homepage.audiences }}
-<section class="section py-3 frontpage-content">
+<section class="section frontpage-content">
   <div class="container">
       <div class="row row-cols-1 row-cols-md-2">
       {{ range .audienceGroups }}
@@ -102,6 +102,64 @@
 {{ end }}
 <!-- /about us -->
 
+<section class="section pt-0 frontpage-searcher">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="frontpage-searcher-callout-outer">
+          <div class="frontapge-searcher-callout-inner">
+            <h2>Search digital collections</h2>
+            <p class="text-white">Make a quick search of our main Digital Collections portal. For more, see <a href="/collections/searching">Searching the Collections</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        <div class="input-group input-group-xl">
+          <input type="text" class="form-control" placeholder="Try searching for ..." id="frontpage-searcher-input">
+          <div class="input-group-append">
+            <button class="btn btn-primary" type="button" id="frontpage-searcher-submit"><i class="fas fa-search"></i></button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+
+document.addEventListener("DOMContentLoaded", function(){
+  var phrases = [
+        "Battle of Bunker Hill",
+        "Lowell, Massachusetts",
+        "map monster",
+        "East Boston atlas",
+        "survey chart",
+        "immigration"
+    ];
+
+    var i = 0;
+    el = document.getElementById("frontpage-searcher-input");
+
+    setInterval( function(){
+      el.setAttribute("placeholder", phrases[i]);
+      if( i === phrases.length - 1) { i = 0 } else { i++; } }, 3000);
+
+});
+
+
+function submitFrontpageSearch(){
+    var inputEl = document.getElementById('frontpage-searcher-input');
+    var s = inputEl.value === '' ? inputEl.getAttribute('placeholder') : inputEl.value;
+    window.open('https://collections.leventhalmap.org/search?utf8=✓&q=+' + encodeURI(s) );
+  }
+  document.getElementById("frontpage-searcher-submit").addEventListener('click', submitFrontpageSearch );
+  // Bind to enter key
+  document.getElementById("frontpage-searcher-input").addEventListener('keyup', function(e){ 
+    if(e.keyCode == 13 ){ submitFrontpageSearch(); }
+  });
+</script>
 
 
 

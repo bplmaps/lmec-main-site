@@ -24,7 +24,7 @@ quicklinks:
 
 ## Catalogs
 
-All of our physical items are cataloged in the BPL's online search portal, Bibliocommons. You can enter an advanced search in the [Bibliocommons search interface](https://bpl.bibliocommons.com/search), but your result may return many non-LMEC objects such as downloadable audiobooks. 
+Our holdings are cataloged in the BPL's online search portal, Bibliocommons. You can enter an advanced search in the [Bibliocommons search interface](https://bpl.bibliocommons.com/search), but your result may return many non-LMEC objects such as downloadable audiobooks. 
 
 Use the search below to begin a custom query that will search only for LMEC items, by filtering out many of the most common non-cartographic materials that may appear in the search results.
 
@@ -50,17 +50,17 @@ Use the search below to begin a custom query that will search only for LMEC item
 
 Some users may prefer to use the alternative [MBLN catalog](http://catalog.mbln.org/polaris/) for searching, which in some cases offers access to more detailed record information.
 
-#### Caveats about online catalog searches
+#### Caveats regarding catalog searches
 
 While we make every effort to ensure that our online catalog matches our holdings, there may be cases in which the catalog records including missing or insufficient detail. Some catalog records have been produced by batch conversion processes which may have introduced error into the records. Some objects, especially large series and archival material, are not fully cataloged at the item level. We retain legacy copies of card catalogs and other finding aids to help locate material which is not discoverable in the online catalogs. For more assistance, and to find material which does not appear in the online catalogs, [make an appointment with a reference librarian](research/appointments).
 
 ## Searching digital collections {#search-digital-collections}
 
-Our digital collections are found on several different repositories; see the [Digital Collections](collections/digital-collections) section for more information.
+Our digital collections are found on several different repositories; see the [Digital Collections](collections/digital-collections) section for more information about how our digitized material is divided across these systems.
 
 #### Quick search 
 
-To make a quick search of our two largest digital repositories, use the quick search tool. <a href="https://geoservices.leventhalmap.org/union-search" target="_blank" class="btn btn-outline-primary btn-xs mr-2"><i class="fas fa-external-link-square-alt"></i> Open quick search in a new window</a>
+To make a quick search of our two largest digital repositories, the **Digital Collections Portal** and **Internet Archive**, use the quick search tool. <a href="https://geoservices.leventhalmap.org/union-search" target="_blank" class="btn btn-outline-primary btn-xs mr-2"><i class="fas fa-external-link-square-alt"></i> Open quick search in a new window</a>
 
 <iframe src="https://geoservices.leventhalmap.org/union-search" style="width:100%;height:500px;border:1px solid black;"></iframe>
 
