@@ -1,5 +1,5 @@
 +++
-backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sn00b095c/1958,853,2314,1506/,800/0/default.jpg"
+backgroundImage = "/uploads/noun_woman_1493332.png"
 date = 2020-12-04T16:00:00Z
 fee = "Free"
 image = "/uploads/noun_woman_1493332.png"
@@ -10,3 +10,8 @@ title = "GIS Office Hours"
 
 +++
 #### Get help from our GIS team with a project or data request
+
+Zoom link:   
+ [https://us02web.zoom.us/j/87800345504?pwd=emI5V0M0OW40TkplZEI1U2tDMU9Gdz09](https://us02web.zoom.us/j/87800345504?pwd=emI5V0M0OW40TkplZEI1U2tDMU9Gdz09 "https://us02web.zoom.us/j/87800345504?pwd=emI5V0M0OW40TkplZEI1U2tDMU9Gdz09")
+
+passcode: **841337**
