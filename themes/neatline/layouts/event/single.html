@@ -47,9 +47,11 @@
         </ul>
       </div>
       {{ if ge .Date now }}
+      {{ if ne .Params.Registration "" }}
       <div class="col-lg-3 text-lg-right text-left">
         <a href="{{ .Params.Registration | safeURL }}" class="btn btn-primary">Register</a>
       </div>
+      {{ end }}
       {{ end }}
       <!-- border -->
       <div class="col-12 mt-4 order-4">
@@ -83,7 +85,10 @@
     </div>
     <div class="row justify-content-center">
       <!-- event -->
-      {{ $related := (where site.RegularPages "Type" "event") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
+      {{ $related := (where site.RegularPages "Type" "event") }}
+      {{ $related := $related | intersect (where $related "Date" "ge" now) }}
+      {{ $related := $related | intersect (where $related "Permalink" "!=" .Permalink ) }}
+
       {{ range first 3 $related }}
       <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
         {{ .Render "event" }}
