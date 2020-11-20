@@ -4,7 +4,7 @@ date = 2020-11-02T05:00:00Z
 description = "A little-known map projection casts light on the relationship between time and maps"
 draft = false
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3762879/1232,1035,1690,1352/full/0/default.jpg"
-tags = ["Franz Ritter", "Map projections", "Gnomonic projection"]
+tags = ["Franz Ritter", "Map projections", "Gnomonic projection", "30DayMapChallenge"]
 title = "Sundial maps"
 
 +++

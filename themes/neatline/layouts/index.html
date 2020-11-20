@@ -53,12 +53,16 @@
       <div class="col-lg-3 cta-popper-outer"><div class="cta-popper"><h2 class="my-3">Whats new?</h2></div></div>
       <div class="col-lg-9 cta-body">
         <ul>
-          <li><span class="badge badge-light font-secondary whats-new-badge">Next event</span>{{ range first 1 ($events)}}
+          <li class="mb-3"><span class="badge badge-light font-secondary whats-new-badge">Next event</span>{{ range first 1 ($events)}}
+              <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> <span class="text-secondary">{{ .Page.Params.date.Format "Jan 2, 2006" }}</span>
+            {{ end }}</li>
+
+            <li class="mb-3"><span class="badge badge-light font-secondary whats-new-badge">Latest article</span>{{ range first 1 (where site.RegularPages "Type" "articles")}}
               <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> <span class="text-secondary">{{ .Page.Params.date.Format "Jan 2, 2006" }}</span>
             {{ end }}</li>
 
           {{ range .announcements }}
-          <li>
+          <li class="mb-3">
           <span class="badge badge-secondary badge-light font-secondary  whats-new-badge">{{ .badge }}</span>
           <a href="{{ .link }}">{{ .text | markdownify }}</a></li>
 
@@ -76,7 +80,7 @@
 <!-- about us -->
 {{ if $data.homepage.audiences.enable }}
 {{ with $data.homepage.audiences }}
-<section class="section frontpage-content">
+<section class="section pt-1 frontpage-content">
   <div class="container">
       <div class="row row-cols-1 row-cols-md-2">
       {{ range .audienceGroups }}

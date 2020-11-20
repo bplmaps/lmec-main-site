@@ -10,7 +10,26 @@
 
       {{ $paginator := .Paginate $events }}
       {{ range $paginator.Pages }}
-      <div class="col-lg-4 col-sm-6 mb-5">
+      <div class="col-lg-4 col-sm-6 mb-4">
+        {{ .Render "event" }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<section class="section pt-0">
+  <div class="container">
+    <div class="row mb-3">
+      <div class="col-12"><h2>Past Events</h2>
+      </div>
+    </div>
+    <div class="row">
+      
+      {{ $pastEvents := where site.RegularPages.ByDate.Reverse "Type" "event" }}
+      {{ $pastEvents := $pastEvents | intersect ( where $pastEvents "Date" "lt" now ) }}
+      {{ range $pastEvents }}
+      <div class="col-lg-3 col-sm-4 mb-2">
         {{ .Render "event" }}
       </div>
       {{ end }}
