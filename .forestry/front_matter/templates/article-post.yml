@@ -5,22 +5,38 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
+  default: now
+  config:
+    required: true
 - type: textarea
   name: description
   label: description
 - type: text
   name: image
   label: image
+  config:
+    required: true
 - type: text
   name: author
   label: author
+  config:
+    required: true
 - type: tag_list
   name: tags
   label: tags
+- name: backgroundImage
+  type: text
+  config:
+    required: false
+  label: Background Image
+  description: Will be shown behind the title in the banner
 pages:
+- content/articles/a-sylvan-boundary.md
 - content/articles/franz-ritter-s-1607-sundial-map.md
 - content/articles/mbta-data-activity.md
 - content/articles/public-lands-day.md
