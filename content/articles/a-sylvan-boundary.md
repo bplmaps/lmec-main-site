@@ -19,4 +19,6 @@ When the Merrimack River's course was finally better understood by Europeans, th
 
 But where was that, exactly? The surveyor George Mitchell was sent to find out, and, in 1741, produced a [map that appears in our collections](https://collections.leventhalmap.org/search/commonwealth:hx11z5730). At the point stipulated by King George, Mitchell found a pine tree, and marked it "Pitch Pine Tree" on the map that he submitted as evidence of having settled the definition for the confusing boundary.
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vr59b/2013,214,436,413/,800/0/default.jpg" caption="The 'Station Trees' appear on a [1776 map of Boston and eastern Massachusetts](https://collections.leventhalmap.org/search/commonwealth:z603vr582)" >}}
+
 The "Old Boundary Pine" thus became the official waypoint for where the border between the two colonies—and later the two states—shifted from following the river to following the compass.
