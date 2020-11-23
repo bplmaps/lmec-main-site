@@ -1,3 +1,4 @@
+ErrorDocument 404 /404.html
 <IfModule mod_deflate.c>
 AddOutputFilterByType DEFLATE text/plain
 AddOutputFilterByType DEFLATE text/html
