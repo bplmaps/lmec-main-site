@@ -35,22 +35,22 @@ At the Leventhal Map & Education Center, we believe that maps are powerful tools
 
 ### Bringing your class to the Map Center, or the Map Center to your class
 
-See our [School Visits](education/k12/school-visits) page for more information on how to bring your class to the Map Center.
+See our [School Visits](/education/k12/school-visits) page for more information on how to bring your class to the Map Center.
 
-{{< alert-box type="info" >}}
+{{< alert-box type="warning" icon="fas fa-laptop-house" title="Remote Instruction" >}}
 We are currently offering remote lessons by Map Center educators during our closure for the COVID-19 pandemic.
 {{< /alert-box >}}
 
 ### Resources for teachers
 
-See our [Teach It Yourself](education/k12/teach-it-yourself) section for a wealth of resources on teaching maps, geography, and history, on topics ranging from the American Revolution to urban segregation.
+See our [Teach It Yourself](/education/k12/teach-it-yourself) section for a wealth of resources on teaching maps, geography, and history, on topics ranging from the American Revolution to urban segregation.
 
-Our [Professional Development](education/k12/professional-development) page offers opportunities for teachers to develop their skills on maps and geography teaching.
+Our [Professional Development](/education/k12/professional-development) page offers opportunities for teachers to develop their skills on maps and geography teaching.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp00n/141,311,5339,2544/1200,/0/default.jpg" alt="Vernacular map" caption="This [hand drawn map of the world](https://collections.leventhalmap.org/search/commonwealth:0r96fn993) was created by the schoolchild Lucretia Buell in 1814, probably as part of a geography class lesson" >}}
 
 ### Looking for more? {#reach-out}
 
-Are you looking for something you can't find here? Contact our [Director of Education](people/michelle-leblanc) or [Education Coordinator](people/lynn-brown) for more information.
+Are you looking for something you can't find here? Contact our [Director of Education](/about/people/michelle-leblanc) or [Education Coordinator](/about/people/lynn-brown) for more information.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f955r/278,204,10003,5349/1200,/0/default.jpg" alt="Map of the world with south on top" caption="An [map of the world with south at the top](https://collections.leventhalmap.org/search/commonwealth:x633f954g) encourages students to think about what perspectives we are used to seeing in our views of the world" >}}
