@@ -5,10 +5,7 @@ menu = false
 title = "Rachel Mead"
 type = "person"
 [[contact]]
-details = ""
-method = "phone"
-[[contact]]
-details = ""
+details = "rmead@leventhalmap.org"
 method = "email"
 
 +++
