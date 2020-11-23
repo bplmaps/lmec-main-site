@@ -19,12 +19,11 @@ In-person access to the Map Center is currently suspended due to the COVID-19 pa
 
 #### Gallery Hours
 
-*Currently closed*. Please visit our [Digital Exhibitions](/exhibitions/digital-exhibitions) for a virtual experience of our gallery.
+*Currently closed*. Please visit our [Digital Exhibitions](/exhibitions/digital-exhibitions) for a virtual experience of our gallery. Our new exhibition, [_Bending Lines: Maps and Data from Distortion to Deception_](/digital-exhibitions/bending-lines), has been designed for an immersive online-first experience.
 
 #### Research Hours
 
 *Currently closed for in-person service.* Remote research appointments are still available by request; please see our [Research Appointments](/research/appointments/) page for more information.
-
 
 
 ## Directions
