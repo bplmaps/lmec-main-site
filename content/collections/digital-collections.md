@@ -14,6 +14,8 @@ quicklinks:
 - text: Go directly to the Map Center collections on Internet Archive
   link: https://archive.org/details/normanbleventhalmapcenter
   linkType: offsite
+- text: Go directly to the Atlascope portal for urban atlases
+  link: https://atlascope.leventhalmap.org
 
 ---
 ## Using the digital collections

@@ -4,19 +4,23 @@ weight: 1
 cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw859/843,2757,3729,1500/1800,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw859/843,2757,3729,1390/1800,/0/default.jpg
 description: General information about the physical and digital collections held by the Center and thematic areas of strength
+aliases:
+  - /collections/atlases
 quicklinks:
-- text: See the Map Center's Collections of Distinction
+- text: See the Collections of Distinction
   link: "#collections-of-distinction"
   linkType: jump
 - text: Learn about the Mapping Boston Collection
   link: "#mapping-boston-collection"
   linkType: jump
-- text: Discover data sets in the Map Center's collections
+- text: Discover data sets in the collections
   link: "#data-collections"
   linkType: jump
 - text: See the latest additions to the collections
-  link: collections/new-acquisitions
+  link: /collections/acquisitions
   linkType: onsite
+- text: Browse urban atlases on Atlascope
+  link: /projects/digital-projects
 
 ---
 ## Overview of the collections

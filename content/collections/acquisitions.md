@@ -17,11 +17,7 @@ To make an appointment to see a recently acquired object, [see our research appo
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr0RgG4AfpROgnqH?backgroundColor=green&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-## Collection Development
 
-We maintain an active acquisition program across all collecting areas. Our current areas of collection development focus include:
-* A
-* B
 
 ## Services for Collectors and Dealers
 
