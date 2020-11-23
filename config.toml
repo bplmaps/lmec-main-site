@@ -134,7 +134,7 @@ weight = 8
 # Site parameters
 [params]
 logo = "images/MapCenter_allwhite.png"
-description = "The Leventhal Map & Education Center at the Boston Public Library"
+description = "We use maps, geography, and history to explore the connections between places and people in Boston, New England, and beyond. Our collection of a quarter million goegraphic objects, our educational programs, and free exhibitions bring the power of historical geography to everyone."
 author = "Leventhal Map & Education Center"
 address = """Central Library in Copley Square   
 700 Boylston Street   

@@ -1,14 +1,36 @@
 {{ define "main" }}
-<!-- about -->
 <section class="section content">
   <div class="container">
     <div class="row">
       <div class="col-12">
+        <h2>Sorry, we couldn’t find that page!</h2>
+        <p class="h3">We recently redesigned our web site, so you may have followed a link that no longer exists.</p>
+        <p class="h3">You can try <a href="/search">Searching our site and collections</a> or jump to one of our main sections:</p>
               </div>
+    </div>
+    <div class="row my-3">
+      <div class="col-md-6 col-12">
+
+        <ul class="list-unstyled">
+          {{ range site.Menus.main }}
+          <li class="mb-3"><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      <!-- links -->
+      <div class="col-md-6 col-6">
+        <ul class="list-unstyled">
+          {{ range site.Menus.footer }}
+          <li class="mb-3"><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+    <div class="row">
+      <p class="h4">If you still can’t find what you’re looking for, please <a href="/about/contact-connect">Contact Us</a></p>
     </div>
   </div>
 </section>
-<!-- /about -->
 
 
 {{ end }}
