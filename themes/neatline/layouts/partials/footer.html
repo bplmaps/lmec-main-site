@@ -87,20 +87,6 @@
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
 
-{{ "<!-- google analytics -->" | safeHTML }}
-{{ with site.Params.google_analytics_id}}
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{.}}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', '{{.}}');
-</script>
-
-
-{{ end }}
 
 <!-- accessibility widget -->
 <script>(function(d){var s = d.createElement("script");s.setAttribute("data-account", "pV2XMqrgjT");s.setAttribute("src", "https://cdn.userway.org/widget.js");(d.body || d.head).appendChild(s);})(document)</script>
