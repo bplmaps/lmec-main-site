@@ -63,7 +63,7 @@ Some examples of resources you can find in Cartinal:
 
 ## Make a Geospatial Reference Request {#make-request}
 
-To schedule a research consultation please fill out our Geospatial Reference Request Form. The information in this form will help us understand the nature of your inquiry, ensure your message is quickly delivered to the correct reference librarian, and gets you in the queue for scheduling a consultation over phone or or video chat. _For research requests regarding our historic collections, please see the [Research Appointments](research/appointments) page._
+To schedule a research consultation please fill out our Geospatial Reference Request Form. The information in this form will help us understand the nature of your inquiry, ensure your message is quickly delivered to the correct reference librarian, and gets you in the queue for scheduling a consultation over phone or or video chat. _For research requests regarding our historic collections, please see the [Research Appointments](/research/appointments) page._
 
 <iframe class="airtable-embed mb-5" src="https://airtable.com/embed/shrY1Rvnl5qfYo99n?backgroundColor=teal" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 

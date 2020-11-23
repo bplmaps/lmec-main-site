@@ -7,6 +7,8 @@ backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f
 # meta description
 description : "How to use our collections in your own work"
 weight: 4
+aliases:
+    - /about/permissions
 ---
 
 ## Rights to digital images

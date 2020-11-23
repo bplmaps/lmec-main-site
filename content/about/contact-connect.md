@@ -4,6 +4,10 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9
 cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd95k/4253,2754,2269,1280/,300/0/default.jpg
 description: How to get in touch with us, and stay in touch
 weight: "3"
+aliases:
+    - /about/contact-us
+    - /about/contact
+    - /contact_us
 
 ---
 ## Join our mailing list

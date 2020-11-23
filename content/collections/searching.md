@@ -56,7 +56,7 @@ While we make every effort to ensure that our online catalog matches our holding
 
 ## Searching digital collections {#search-digital-collections}
 
-Our digital collections are found on several different repositories; see the [Digital Collections](collections/digital-collections) section for more information about how our digitized material is divided across these systems.
+Our digital collections are found on several different repositories; see the [Digital Collections](/collections/digital-collections) section for more information about how our digitized material is divided across these systems.
 
 #### Quick search 
 

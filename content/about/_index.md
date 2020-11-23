@@ -7,5 +7,7 @@ image: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4634466/2291,
 # meta description
 description : "Information about the Center's mission, history, staff, and boards."
 type: card-gallery
+aliases:
+    - /about/faqs
 ---
 

@@ -6,6 +6,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw
 description: General information about the physical and digital collections held by the Center and thematic areas of strength
 aliases:
   - /collections/atlases
+  - /collections/atlases/north-america/
 quicklinks:
 - text: See the Collections of Distinction
   link: "#collections-of-distinction"
@@ -46,7 +47,7 @@ Our collections include four named Collections of Distinction, selected for thei
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v410/657,416,8549,6124/1000,/0/default.jpg" alt="Lattré map of Boston" caption="Jean Lattré's [ca. 1764 map of Boston](https://collections.leventhalmap.org/search/commonwealth:3f462v40q), in the Mapping Boston Collection." class="figure-right" >}}
 
-The Mapping Boston Collection consists of the rare maps collected by Norman B. Leventhal during his lifetime. The maps in this collection range from fifteenth century world maps produced during the Age of Exploration to many of the most important maps of Boston and New England in the colonial period and early republic. In-person access to items in the Mapping Boston Collection is available only by [advance appointment](research/appointments) and [online](https://collections.leventhalmap.org/collections/commonwealth:jq086303k). Many of the Mapping Boston Collection objects are described in the 1999 book _Mapping Boston_ (MIT Press), available [in the library](https://bpl.bibliocommons.com/item/show/5157593075) and [for purchase](https://mitpress.mit.edu/books/mapping-boston). <a href="https://collections.leventhalmap.org/collections/commonwealth:jq086303k" class="btn btn-outline-primary btn-xs mr-2"><i class="fas fa-eye"></i> See the Digital Collection</a>
+The Mapping Boston Collection consists of the rare maps collected by Norman B. Leventhal during his lifetime. The maps in this collection range from fifteenth century world maps produced during the Age of Exploration to many of the most important maps of Boston and New England in the colonial period and early republic. In-person access to items in the Mapping Boston Collection is available only by [advance appointment](/research/appointments) and [online](https://collections.leventhalmap.org/collections/commonwealth:jq086303k). Many of the Mapping Boston Collection objects are described in the 1999 book _Mapping Boston_ (MIT Press), available [in the library](https://bpl.bibliocommons.com/item/show/5157593075) and [for purchase](https://mitpress.mit.edu/books/mapping-boston). <a href="https://collections.leventhalmap.org/collections/commonwealth:jq086303k" class="btn btn-outline-primary btn-xs mr-2"><i class="fas fa-eye"></i> See the Digital Collection</a>
 
 #### Data Collections {#data-collections}
 

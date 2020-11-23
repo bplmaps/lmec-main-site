@@ -3,6 +3,8 @@ title: Hours & Directions
 cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462w858/2250,4039,2581,1714/,800/0/default.jpg"
 description: "Information on access hours for visits and research, and how to find us"
 weight: 4
+aliases:
+  - /exhibitions/about/hours-directions
 quicklinks:
     - text: "See a map to the Map Center"
       link: "#directions"
