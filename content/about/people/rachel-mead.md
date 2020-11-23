@@ -1,6 +1,6 @@
 +++
 description = "Public Engagement & Interpretation Coordinator"
-headshot = "/uploads/jbfloss.gif"
+headshot = "/uploads/rmboat.png"
 menu = false
 title = "Rachel Mead"
 type = "person"
