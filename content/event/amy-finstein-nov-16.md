@@ -8,7 +8,11 @@ fee: Free
 registration: https://boston-public-library.zoom.us/webinar/register/WN_FCOt80b3SUKmx0d_GCcBqA
 
 ---
+### Event video
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yDQ6Oy8rvPk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Event description
 
 Join the Boston Public Library and the Norman B. Leventhal Map & Education Center at the Boston Public Library for an online talk with Amy D. Finstein, author of _Modern Mobility Aloft: Elevated Highways, Architecture, and Urban Change in Pre-Interstate America_ (Temple University Press). We invite people who are interested in attending to check back later for registration details.
 
