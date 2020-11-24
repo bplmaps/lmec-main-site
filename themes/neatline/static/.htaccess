@@ -1,4 +1,10 @@
 ErrorDocument 404 /404.html
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^id/([A-Za-z0-9-]+)/?$ https://collections.leventhalmap.org/redirects/$1 [R=301,NC,L] #redirect to collections
+</IfModule>
+
 <IfModule mod_deflate.c>
 AddOutputFilterByType DEFLATE text/plain
 AddOutputFilterByType DEFLATE text/html
