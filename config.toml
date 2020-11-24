@@ -3,6 +3,12 @@ title = "Leventhal Map & Education Center at the Boston Public Library"
 description = "The LMEC uses maps and geography to explore the connections between people and places in Boston, New England, and beyond." 
 theme = "neatline"
 
+locale = "en_US"
+
+[social]
+facebook = "bplmaps"
+twitter = "bplmaps"
+
 
 [markup]
   [markup.goldmark]

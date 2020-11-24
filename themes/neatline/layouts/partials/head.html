@@ -18,7 +18,7 @@
   <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
   <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
 
-  {{ template "_internal/opengraph.html" . }}
+  {{ template "partials/meta_graph.html" . }}
 
   {{ with site.Params.google_analytics_id}}
 <!-- Global site tag (gtag.js) - Google Analytics -->
