@@ -153,7 +153,7 @@ copyright = """
 All material on this website is licensed under a [Creative Commons BY-NC 2.0 license](]https://creativecommons.org/licenses/by-nc/2.0/) unless specified otherwise.
 """
 # default fallbacks for social cards
-images = ["https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463530h/3375,2072,3918,3044/,2000/0/default.jpg"]
+images = ["https://collections.leventhalmap.org/downloads/commonwealth:3f463530h?datastream_id=access800"]
 
 constant_contact_page = "https://visitor.r20.constantcontact.com/manage/optin?v=001ty3slyDjv8WLvGvwSdG8euspYmx7UP1YNPw2RbQHz_d15WTFIS4Ksb90bD2Fx0OBYbhpfZ896VoKbMS6m87TTQGTPsIpdO4e29yiAmPsALE%3D"
 # Google Analytics
