@@ -1,16 +1,14 @@
 ---
-title: "Amy D. Finstein on Modern Mobility Aloft"
-date: "2020-11-16T18:00:00-05:00"
-publishDate: "2020-10-10T00:00:00"
-# Event image
-image: "https://bpl.bibliocommons.com/events/uploads/images/full/eda64139b8b9dee2f85e2d754e2d1e63/2020.11.16%20Modern%20Ability%20Cover.jpg"
-# location
-location: "Online"
-# entry fee
-fee: "Free"
-registration : "https://boston-public-library.zoom.us/webinar/register/WN_FCOt80b3SUKmx0d_GCcBqA"
+title: Amy D. Finstein on Modern Mobility Aloft
+date: 2020-11-16T18:00:00-05:00
+publishDate: 2020-10-10T00:00:00
+image: https://bpl.bibliocommons.com/events/uploads/images/full/eda64139b8b9dee2f85e2d754e2d1e63/2020.11.16%20Modern%20Ability%20Cover.jpg
+location: Online
+fee: Free
+registration: https://boston-public-library.zoom.us/webinar/register/WN_FCOt80b3SUKmx0d_GCcBqA
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDQ6Oy8rvPk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Join the Boston Public Library and the Norman B. Leventhal Map & Education Center at the Boston Public Library for an online talk with Amy D. Finstein, author of _Modern Mobility Aloft: Elevated Highways, Architecture, and Urban Change in Pre-Interstate America_ (Temple University Press). We invite people who are interested in attending to check back later for registration details.
 
@@ -18,6 +16,5 @@ Many Boston-area citizens vividly remember years of construction for the “Big 
 
 > Like the elevated railroads before them, elevated highways have generally been viewed in negative terms by urban dwellers. Yet the elevated highway represents an important, if not altogether welcome, phase in the daunting challenges to reconcile the demands of accommodating motor vehicles to city fabric on a large scale. Amy Finstein’s beautifully researched and written book examines the seminal early stages of implementing this complex and costly infrastructure in Chicago, New York, and Boston during the first half of the twentieth century. Modern Mobility Aloft is an important analysis of the visionary schemes first devised to address the issue and the myriad factors involved in conceiving and implementing actual projects. Economic considerations, local politics, architectural design values, and changes in building and transportation technology are all addressed in a seamless, engaging narrative.
 > —Richard Longstreth, Professor of American Studies Emeritus, George Washington University
-
 
 Amy D. Finstein is Assistant Professor in the Department of Visual Arts at College of the Holy Cross, where she teaches modern architectural and urban history. She is a contributing author to the Atlas of Boston History (Chicago 2019), and has published previously in Journal of Planning History, Preservation Education and Research, and ARRIS: Journal of the Southeast Chapter of the Society of Architectural Historians. She served as Consulting Historian to the Rose Kennedy Greenway Conservancy in 2018-19, and has lectured at institutions including the Boston Museum of Fine Arts, Currier Museum of Art, and Savannah College of Art and Design. This lecture is drawn from her first book, Modern Mobility Aloft: Elevated Highways, Architecture, and Urban Change in Pre-Interstate America, published in October 2020 by Temple University Press.
