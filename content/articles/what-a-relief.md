@@ -1,10 +1,10 @@
 +++
 author = "Lauren Chen"
-backgroundImage = "uploads/relief-5.jpg"
+backgroundImage = "/uploads/relief-5.jpg"
 date = 2020-11-24T16:25:39Z
 description = "How to make a relief map in the era before 3D printing"
 draft = true
-image = "uploads/relief-5.jpg"
+image = "/uploads/relief-5.jpg"
 tags = ["relief map", "3D map", "tactile map", "30DayMapChallenge", "topography"]
 title = "What a relief"
 
