@@ -11,13 +11,7 @@ title = "What a relief"
 +++
 What's up? This map for "elevation" in the [#30DayMapChallenge](https://twitter.com/search?q=from%3Abplmaps%20%2330DayMapChallenge)!
 
-{{< carousel >}}
-{{< carousel-figure src="uploads/relief-1.jpg" >}}{{< /carousel-figure >}}
-{{< carousel-figure src="uploads/relief-2.jpg" >}}{{< /carousel-figure >}}
-{{< carousel-figure src="uploads/relief-3.jpg" >}}{{< /carousel-figure >}}
-{{< carousel-figure src="uploads/relief-4.jpg" >}}{{< /carousel-figure >}}
-{{< carousel-figure src="uploads/relief-5.jpg" >}}{{< /carousel-figure >}}
-{{< /carousel >}}
+{{< carousel >}} {{< carousel-figure src="/uploads/relief-1.jpg" >}}{{< /carousel-figure >}} {{< carousel-figure src="/uploads/relief-2.jpg" >}}{{< /carousel-figure >}} {{< carousel-figure src="/uploads/relief-3.jpg" >}}{{< /carousel-figure >}} {{< carousel-figure src="/uploads/relief-4.jpg" >}}{{< /carousel-figure >}} {{< carousel-figure src="/uploads/relief-5.jpg" >}}{{< /carousel-figure >}} {{< /carousel >}}
 
 [This model](https://bpl.bibliocommons.com/item/show/2829450075) shows the process for making 3D raised relief maps in the early 20th century. Using a topographic map with contour lines, a model was built up in layers of cardboard, filled with plaster to smooth out the edges, and covered with shellac. Usually a mold was made from the model, and was then used to create plaster or plastic casts.⁠  
 ⁠  
