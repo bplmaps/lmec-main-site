@@ -1,208 +1,142 @@
 baseURL = "https://www.leventhalmap.org"
-title = "Leventhal Map & Education Center at the Boston Public Library"
-description = "The LMEC uses maps and geography to explore the connections between people and places in Boston, New England, and beyond." 
-theme = "neatline"
-
+description = "The LMEC uses maps and geography to explore the connections between people and places in Boston, New England, and beyond."
 locale = "en_US"
-
-[social]
-facebook = "bplmaps"
-twitter = "bplmaps"
-
-
-
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      definitionList = true
-      footnote = true
-      linkify = true
-      strikethrough = true
-      table = true
-      taskList = true
-      typographer = true
-    [markup.goldmark.parser]
-      attribute = true
-      autoHeadingID = true
-      autoHeadingIDType = "github"
-    [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = true
-      xhtml = false
-
-
-# CSS Plugins
+theme = "neatline"
+title = "Leventhal Map & Education Center at the Boston Public Library"
+[markup.goldmark.extensions]
+definitionList = true
+footnote = true
+linkify = true
+strikethrough = true
+table = true
+taskList = true
+typographer = true
+[markup.goldmark.parser]
+attribute = true
+autoHeadingID = true
+autoHeadingIDType = "github"
+[markup.goldmark.renderer]
+hardWraps = false
+unsafe = true
+xhtml = false
+[[menu.footer]]
+URL = "privacy"
+name = "Privacy Policy"
+weight = 8
+[[menu.footer]]
+URL = "accessibility"
+name = "Accessibility"
+weight = 7
+[[menu.footer]]
+URL = "/about/mission-history"
+name = "Land Acknowledgement"
+weight = 6
+[[menu.footer]]
+URL = "/about/hours-directions"
+name = "Hours & Directions"
+weight = 5
+[[menu.footer]]
+URL = "donate"
+name = "Donate Now"
+weight = 4
+[[menu.footer]]
+URL = "about/contact-connect"
+name = "Contact Us"
+weight = 3
+[[menu.footer]]
+URL = "https://bpl.org"
+name = "BPL.org"
+weight = 9
+[[menu.footer]]
+URL = "articles"
+name = "Articles"
+weight = 2
+[[menu.footer]]
+URL = "event"
+name = "Events"
+weight = 1
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 6
+[[menu.main]]
+URL = "projects"
+name = "Projects"
+weight = 5
+[[menu.main]]
+URL = "research"
+name = "Research"
+weight = 4
+[[menu.main]]
+URL = "education"
+name = "Education"
+weight = 3
+[[menu.main]]
+URL = "collections"
+name = "Collections"
+weight = 2
+[[menu.main]]
+URL = "exhibitions"
+name = "Exhibitions"
+weight = 1
+[params]
+address = "Central Library in Copley Square   \n700 Boylston Street   \nBoston, MA 02116 USA"
+author = "Leventhal Map & Education Center"
+constant_contact_page = "https://visitor.r20.constantcontact.com/manage/optin?v=001ty3slyDjv8WLvGvwSdG8euspYmx7UP1YNPw2RbQHz_d15WTFIS4Ksb90bD2Fx0OBYbhpfZ896VoKbMS6m87TTQGTPsIpdO4e29yiAmPsALE%3D"
+copyright = "All material on this website is licensed under a [Creative Commons BY-NC 2.0 license](]https://creativecommons.org/licenses/by-nc/2.0/) unless specified otherwise.\n"
+description = "We use maps, geography, and history to explore the connections between places and people in Boston, New England, and beyond. Our collection of a quarter million goegraphic objects, our educational programs, and free exhibitions bring the power of historical geography to everyone."
+email = "info@leventhalmap.org"
+google_analytics_id = "UA-812961-1"
+images = ["https://fedora.digitalcommonwealth.org/fedora/objects/commonwealth:3f463530h/datastreams/thumbnail300/content"]
+logo = "images/MapCenter_allwhite.png"
+mobile = "+1 617.859.2387"
+top_header = true
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "plugins/animate/animate.min.css"
-
-
-# JS Plugins
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
-#[[params.plugins.js]]
-#link = "plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
 link = "https://unpkg.com/@fortawesome/fontawesome-free@5.14.0/js/all.js"
 [[params.plugins.js]]
 link = "plugins/jump/jump.js"
-
-
-# main menu
-[[menu.main]]
-name = "Exhibitions"
-URL = "exhibitions"
-weight = 1
-
-[[menu.main]]
-name = "Collections"
-URL = "collections"
-weight = 2
-
-[[menu.main]]
-name = "Education"
-URL = "education"
-weight = 3
-
-[[menu.main]]
-weight = 4
-name = "Research"
-URL = "research"
-  
-[[menu.main]]
-name = "Projects"
-URL = "projects"
-weight = 5
-
-[[menu.main]]
-name = "About"
-URL = "about"
-weight = 6
-
-
-
-
-# footer menu
-
-[[menu.footer]]
-name = "Events"
-URL = "event"
-weight = 1
-
-[[menu.footer]]
-name = "Articles"
-URL = "articles"
-weight = 2
-
-[[menu.footer]]
-name = "BPL.org"
-URL = "https://bpl.org"
-weight = 9
-
-[[menu.footer]]
-name = "Contact Us"
-URL = "about/contact-connect"
-weight = 3
-
-[[menu.footer]]
-name = "Donate"
-URL = "donate"
-weight = 4
-
-[[menu.footer]]
-name = "Hours & Directions"
-URL = "/about/hours-directions"
-weight = 5
-
-[[menu.footer]]
-name = "Land Acknowledgement"
-URL = "/about/mission-history"
-weight = 6
-
-[[menu.footer]]
-name = "Accessibility"
-URL = "accessibility"
-weight = 7
-
-[[menu.footer]]
-name = "Privacy Policy"
-URL = "privacy"
-weight = 8
-
-
-
-# Site parameters
-[params]
-logo = "images/MapCenter_allwhite.png"
-description = "We use maps, geography, and history to explore the connections between places and people in Boston, New England, and beyond. Our collection of a quarter million goegraphic objects, our educational programs, and free exhibitions bring the power of historical geography to everyone."
-author = "Leventhal Map & Education Center"
-address = """Central Library in Copley Square   
-700 Boylston Street   
-Boston, MA 02116 USA"""
-mobile = "+1 617.859.2387"
-email = "info@leventhalmap.org"
-copyright = """
-All material on this website is licensed under a [Creative Commons BY-NC 2.0 license](]https://creativecommons.org/licenses/by-nc/2.0/) unless specified otherwise.
-"""
-# default fallbacks for social cards
-images = ["https://fedora.digitalcommonwealth.org/fedora/objects/commonwealth:3f463530h/datastreams/thumbnail300/content"]
-
-constant_contact_page = "https://visitor.r20.constantcontact.com/manage/optin?v=001ty3slyDjv8WLvGvwSdG8euspYmx7UP1YNPw2RbQHz_d15WTFIS4Ksb90bD2Fx0OBYbhpfZ896VoKbMS6m87TTQGTPsIpdO4e29yiAmPsALE%3D"
-# Google Analytics
-google_analytics_id = "UA-812961-1" # your id
-# top header
-top_header = true
-
-
-# Subscription
-[params.subscription]
-enable = false
-
 [params.specialButton]
 icon = "fas fa-virus"
-text = "COVID Updates"
 link = "covid-info"
-  
-
+text = "COVID Updates"
+[params.subscription]
+enable = false
 [[params.social]]
-title = "facebook"
-icon = "fab fa-facebook" 
+icon = "fab fa-facebook"
 link = "https://facebook.com/bplmaps"
-
+title = "facebook"
 [[params.social]]
-title = "twitter"
-icon = "fab fa-twitter" 
+icon = "fab fa-twitter"
 link = "https://twitter.com/bplmaps"
-
+title = "twitter"
 [[params.social]]
-title = "instagram"
-icon = "fab fa-instagram" 
+icon = "fab fa-instagram"
 link = "https://instagram.com/bplmaps"
-
+title = "instagram"
 [[params.social]]
-title = "youtube"
-icon = "fab fa-youtube" 
+icon = "fab fa-youtube"
 link = "https://www.youtube.com/c/LeventhalMapEducationCenter"
-
+title = "youtube"
 [[params.social]]
-title = "github"
-icon = "fab fa-flickr" 
+icon = "fab fa-flickr"
 link = "https://secure.flickr.com/photos/normanbleventhalmapcenter/"
-
-[[params.social]]
 title = "github"
-icon = "fab fa-github" 
+[[params.social]]
+icon = "fab fa-github"
 link = "https://github.com/nblmc"
-
-
-
-
-
+title = "github"
+[social]
+facebook = "bplmaps"
+twitter = "bplmaps"
