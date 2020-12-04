@@ -1,7 +1,6 @@
 +++
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m309s/2123,1911,1825,1050/,800/0/default.jpg"
 date = 2020-12-10T17:00:00Z
-draft = true
 fee = "Free"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m309s/2123,1911,1825,1050/,800/0/default.jpg"
 location = "Online"
