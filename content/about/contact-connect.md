@@ -5,9 +5,9 @@ cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd95k/42
 description: How to get in touch with us, and stay in touch
 weight: "3"
 aliases:
-    - /about/contact-us
-    - /about/contact
-    - /contact_us
+- "/about/contact-us"
+- "/about/contact"
+- "/contact_us"
 
 ---
 ## Join our mailing list
@@ -28,6 +28,7 @@ For general inquiries, please email:
 
 * [info@leventhalmap.org](mailto:info@leventhalmap.org) for information about the Map Center, programs, and activities.
 * [reference@leventhalmap.org](mailto:reference@leventhalmap.org) for questions about collections, reference, and research
+* [education@leventhalmap.org](mailto:education@leventhalmap.org) for questions about K-12 education and resources
 
 Our postal mailing address is:
 
