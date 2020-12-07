@@ -1,5 +1,5 @@
 +++
-backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fk817/1637,1187,3147,2059/full/0/default.jpg"
+backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fk817/1504,1911,3562,1084/full/0/default.jpg"
 cardImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3766475/542,4025,3105,1657/,300/0/default.jpg"
 description = "The Leventhal Center's Fiscal Year Annual Reports"
 draft = true
