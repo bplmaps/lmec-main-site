@@ -37,11 +37,12 @@ Our materials are mainly available on two online repositories, both of which are
 * **Digital Commonwealth.** Our Digital Collections portal is part of [Digital Commonwealth](https://www.digitalcommonwealth.org), a consortium of more than 180 cultural heritage organizations across Massachusetts. From the Digital Commonwealth repository, you can search Map Center collections together with maps, images, texts, sound records, and millions of other objects from other institutions. <a href="https://digitalcommonwealth.org" class="btn btn-outline-primary btn-xs mr-2"><i class="fas fa-eye"></i> Go to the Digital Commonwealth portal</a>
 * **Flickr.** Before the development of our Digital Collections portal, we uploaded full-resolution images to the photo-sharing site Flickr. You can [browser our images here](https://secure.flickr.com/photos/normanbleventhalmapcenter/). We are no longer actively adding new material to our Flickr collections.
 
-### Searching the digital collections {#quick-search}
+## Searching the digital collections {#quick-search}
 
-For more information on advanced searches of the full scope of our collections, see the [Searching the Collections](/collections/searching) page. This tool will allow you to run a quick search across the Digital Collections portal and Internet Archive. <a href="https://geoservices.leventhalmap.org/union-search" target="_blank" class="btn btn-outline-primary btn-xs mr-2"><i class="fas fa-external-link-square-alt"></i> Open quick search in a new window</a>
+This quick search tool will allow you to run a keyword search across the Digital Collections portal and Internet Archive. For more information on advanced searches of the full scope of our collections, see the [Searching the Collections](/collections/searching) page.
 
-<iframe src="https://geoservices.leventhalmap.org/union-search" style="width:100%;height:500px;border:1px solid black;"></iframe>
+<script src="https://geoservices.leventhalmap.org/lmec-union-search-webcomponent/lmec-union-search.min.js"></script>
+<lmec-union-search></lmec-union-search>
 
 ## Advanced access to digital objects
 

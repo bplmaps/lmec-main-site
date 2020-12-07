@@ -22,7 +22,7 @@ quicklinks:
     linkType: onsite
 ---
 
-## Catalogs
+## Catalog search
 
 Our holdings are cataloged in the BPL's online search portal, Bibliocommons. You can enter an advanced search in the [Bibliocommons search interface](https://bpl.bibliocommons.com/search), but your result may return many non-LMEC objects such as downloadable audiobooks. 
 
@@ -60,9 +60,10 @@ Our digital collections are found on several different repositories; see the [Di
 
 #### Quick search 
 
-To make a quick search of our two largest digital repositories, the **Digital Collections Portal** and **Internet Archive**, use the quick search tool. <a href="https://geoservices.leventhalmap.org/union-search" target="_blank" class="btn btn-outline-primary btn-xs mr-2"><i class="fas fa-external-link-square-alt"></i> Open quick search in a new window</a>
+To make a quick keyword search across both the Digital Collections portal and Internet Archive, use the quick search tool.
 
-<iframe src="https://geoservices.leventhalmap.org/union-search" style="width:100%;height:500px;border:1px solid black;"></iframe>
+<script src="https://geoservices.leventhalmap.org/lmec-union-search-webcomponent/lmec-union-search.min.js"></script>
+<lmec-union-search></lmec-union-search>
 
 #### Advanced searches
 

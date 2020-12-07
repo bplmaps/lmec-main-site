@@ -56,7 +56,8 @@ Search the Bibliocommons catalog for collections records. See [Searching the Col
 
 Search the Digital Collections portal and Internet Archive for digitized material. See [Digital Collections](/collections/digital-collections) for more information and advanced search.
 
-<iframe src="https://geoservices.leventhalmap.org/union-search" style="width:100%;height:500px;border:1px solid black;"></iframe>
+<script src="https://geoservices.leventhalmap.org/lmec-union-search-webcomponent/lmec-union-search.min.js"></script>
+<lmec-union-search></lmec-union-search>
 
 ## Search Cartinal
 
