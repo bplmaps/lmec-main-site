@@ -11,7 +11,7 @@ registration: https://www.eventbrite.com/e/west-roxbury-by-map-tickets-123211068
 ---
 ### Event video
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/eeO-Bn5v_f0](https://www.youtube.com/embed/eeO-Bn5v_f0 "https://www.youtube.com/embed/eeO-Bn5v_f0")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://www.youtube.com/embed/eeO-Bn5v_f0](https://www.youtube.com/embed/eeO-Bn5v_f0 "https://www.youtube.com/embed/eeO-Bn5v_f0")
 
 ### Event description
 
