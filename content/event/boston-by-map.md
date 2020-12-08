@@ -2,7 +2,7 @@
 backgroundImage = ""
 date = 2020-12-15T17:00:00Z
 draft = true
-fee = ""
+fee = "Free"
 image = ""
 location = ""
 publishDate = 2020-12-08T22:15:15Z
