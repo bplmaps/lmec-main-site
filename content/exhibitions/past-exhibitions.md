@@ -78,7 +78,13 @@ _June 29, 2016 – October 23, 2016_
 
 In 1325, an island appeared on a nautical chart, just off the southwest coast of Ireland. This island, shrouded in mist, was said to appear once every seven years and was home to an advanced race that was immune to sickness and the passing of time. This mystical place, known variously as _Brasil, Brazil, Breasil, Hy-Brasil, O’Brasil_ and numerous other names, would appear on maps for the next five centuries. Its exact location on maps would change over the years, and numerous expeditions would venture into the North Atlantic Ocean to find the island. Some mariners claimed to have discovered the legendary island; however, these reports teemed with fantastic accounts of alien beings, and eventually fell into legend.
 
-In actuality, Hy-Brasil appears to derive from oral folklore and written literature from coastal Ireland, combined with geographic knowledge from early discovery. The western coast of Ireland is dotted with many rocks jutting out of the ocean. These numerous natural features, combined with optical illusions and other “tricks of the eye” could account for the presence of Hy-Brasil in the water, and its appearance on maps. However, the story of mythical islands including Hy-Brasil, and the legend of an Elysium or “Land of Youth” is part of the greater Irish-folklore belief in _Tír na nÓg_, or in English, “The Otherworld,” going back to ancient times...
+In actuality, Hy-Brasil appears to derive from oral folklore and written literature from coastal Ireland, combined with geographic knowledge from early discovery. The western coast of Ireland is dotted with many rocks jutting out of the ocean. These numerous natural features, combined with optical illusions and other “tricks of the eye” could account for the presence of Hy-Brasil in the water, and its appearance on maps. However, the story of mythical islands including Hy-Brasil, and the legend of an Elysium or “Land of Youth” is part of the greater Irish-folklore belief in _Tír na nÓg_, or in English, “The Otherworld,” going back to ancient times.
+
+In this online exhibition of forty maps from the collection at the Norman B. Leventhal Map Center at the Boston Public Library and the Mapping Boston Foundation, visitors will see the transition of Hy-Brasil over the course of five centuries from legitimate island destination, to “imaginary” place, to simply a “rock,” before it finally stops appearing on maps in the late 19th century. A variety of map formats are included in the online exhibition, such as portolan charts, woodcut engravings, copperplate engravings and lithographic prints. Hy-Brasil even makes an appearance on a 1492 globe.
+
+In addition, several sketch books and drawings of internationally acclaimed visual artist [Caoimhghin Ó Fraithile ](http://cof-art.com/)(Quee-veen Ó Frá-ha-la) (Ireland) will be on display in the Leventhal Map Center gallery from late June-October 2016. Mr. Ó Fraithile’s intricate drawings echo maps found in the collection and invite us to visit the forgotten or hidden lands and places that inhabit our collective imagination. His sketchbooks, however, illustrate images of his site-specific floating artwork entitled “South of Hy-Brasil,” a three-dimensional piece that will be sited in the lagoon behind the Museum of Fine Arts, Boston, from late summer through mid-October 2016. His floating work is part of _Tír na nÓg_, a temporary public art project in the Fenway section of the Emerald Necklace park system. The project also features “The Well House,” a sculptural work by artist Michael Dowling (Boston/Ireland). _Tír na nÓg_ is a fitting name for this temporary art project, as both of these artists explore art as a threshold to otherworldliness and back again.
+
+The outdoor artworks by Mr. Ó Fraithile and Mr. Dowling are part of Ireland’s 2016 Centennial – a global initiative to mark the centenary of the 1916 Easter Rising which set Ireland on its path for independence. Boston is the only U.S. city hosting temporary public art projects to commemorate the 1916 Centennial. These works will also celebrate the 2016 Centennial of the National Park System of which the Emerald Necklace is part. _Tír na nÓg_, and its related exhibitions and events, are supported by Culture Ireland as part of the Ireland 2016 Centenary Programme. Medicine Wheel Productions is the lead organization for _Tír na nÓg_ and their Cultural Partner is the Fenway Alliance. Additional key supporters of the project are Mayor Martin J. Walsh, the Consulate General of Ireland in Boston, and Boston Parks and Recreation. To learn more about Medicine Wheel and _Tír na nÓg_, or to see a full listing of project sponsors and collaborators, please visit: [http://mwponline.org/wordpress/projects/tir-na-nog/](http://mwponline.org/wordpress/projects/tir-na-nog/ "http://mwponline.org/wordpress/projects/tir-na-nog/")
 
 [Visit the digital exhibition of _Hy-Brasil_](https://collections.leventhalmap.org/exhibits/4)
 
@@ -91,3 +97,161 @@ In 1891 landscape architect, Charles Eliot asserted the bold idea to form an org
 The Norman B. Leventhal Map Center at the Boston Public Library is partnering with The Trustees in celebration of their 125th Anniversary on a 70-item exhibition, featuring maps, photographs, and historical items from both collections. Visitors will be introduced to Trustees properties, become familiar with a number of distinctive map formats, learn about natural landforms and geologic terms, and cultivate an appreciation for the natural, historical, and cultural treasures of Massachusetts.
 
 [Visit the digital exhibition of _From the Sea to the Mountains_](https://collections.leventhalmap.org/exhibits/5)
+
+### Women in Cartography: Five Centuries of Accomplishments
+
+_October 31, 2015 – March 26, 2016_
+
+Histories of map-making generally emphasize the role of men; however, since the advent of the printed map, women have worked as colorists, engravers, shop owners, publishers, and, most importantly, as map-makers themselves. Women are active in all aspects of cartography today and are leaders in the world of Geographic Information Systems (GIS) and digital mapping. In this exhibition of forty maps, globes, atlases and works of art from the 17th century to the present, visitors will encounter works by female map creators, designers and educators, learn about the various cartographic skills employed by women over the centuries, and observe the transition of women in cartography from marginalized to celebrated.
+
+[Visit the digital exhibition of _Women in Cartography_](https://collections.leventhalmap.org/exhibits/6)
+
+### We Are One: Mapping America's Road from Revolution to Independence
+
+_May 2, 2015 – November 29, 2015_
+
+_We Are One_ maps the American road to independence. It explores the tumultuous events that led thirteen colonies to join to forge a new nation. The exhibition takes its title from Benjamin Franklin’s early design for a note of American currency containing the phrase “We Are One.” This presaged the “E Pluribus Unum” found on the seal of the United States, adopted in 1782, and on all U.S. coins.
+
+Using geographic and cartographic perspectives, the exhibition traces the American story from the strife of the French and Indian War to the creation of a new national government and the founding of Washington, D.C. as its home. Exhibited maps and graphics show America’s early status as a British possession: thirteen colonies in a larger trans-Atlantic empire. During and after the French and Indian War, protection of those thirteen colonies exhausted Britain economically and politically, and led Parliament to pass unpopular taxes and restrictions on her American colonial subjects. The Stamp Act, the Tea Act, and limits on colonial trade and industry incited protests and riots in Boston, as contemporaneous portrayals in the exhibition show.
+
+When tensions between Britain and her American colonies erupted into war, British cartographers and other witnesses depicted military campaigns, battles, and their settings. These maps, drawings, and military artifacts now bring the long, bloody struggle for independence to life.
+
+Finally, We Are One shows how, in the aftermath of the Revolution, America took stock of her new geography with surveys and maps. During this period, the Founders struggled to craft a new national government that would confederate thirteen colonies with different economic interests and cultures. European maps reflect their success by recognizing America’s triumphant new status of nationhood and her expanding territory.
+
+[Visit the digital exhibition of _We Are One_](https://collections.leventhalmap.org/exhibits/3)
+
+### Literary Landscapes: Maps from Fiction
+
+_February 2, 2015 – October 25, 2015_
+
+Maps of imaginary places have accompanied literature for centuries. Visualizing the fanciful worlds described in works of fiction sets the stage for events taking place in a story, and often provides insight into the characters themselves. In this exhibition of forty items, visitors will discover maps from a variety of fictional genres, learn how authors create imaginary worlds, and appreciate why descriptive geography is essential to the story. People and creatures, even those who exist only in tales, are related to place, and maps of their imaginary worlds allow readers to be transported into the geography of fantasy.
+
+[Visit the digital exhibition of _Literary Landscapes_](https://collections.leventhalmap.org/exhibits/7)
+
+### Back to School: Geography in the Classroom
+
+_September 2, 2014 – January 25, 2015_
+
+American schoolchildren have studied geography since the late 18th century. Traditionally viewed as an essential subject for boys’ and girls’ education, geography was taught to children in primary school, and to young adults studying in high school and college settings. In this display of forty maps, globes, games, atlases and related objects, we see the evolution of geographic education, examine the visual aids used by teachers in the classroom, and marvel at unique student-produced geography projects from the late 18th to the 20th centuries.
+
+[Visit the digital exhibition of _Back to School_](https://collections.leventhalmap.org/exhibits/8)
+
+### City of Neighborhoods: The Changing Face of Boston
+
+_March 22, 2014 – August 22, 2014_
+
+During the last decade, Boston as a whole has become younger, and more racially and ethnically diverse. However, the neighborhoods that make up Boston often tell their own unique stories of diversity and change.
+
+This exhibition compares the neighborhoods of today’s “new” Boston with those of 100 years ago. The 45 photos, objects, and maps, many of which are based on recent census data, show us where newer immigrant groups have settled and how the streets and features of a neighborhood reflect who lives and works there.
+
+[Visit the digital exhibition of _City of Neighborhoods_](https://collections.leventhalmap.org/exhibits/9)
+
+### Made in Boston
+
+_November 8, 2013 – March 17, 2014_
+
+Boston was the metropolis of Great Britain’s North American colonies, with the largest population and one of the busiest economies of any urban center through the 1750s. It was also the leading producer of printed maps, including major milestones such as the first map printed in the colonies, as well as the earliest city map, battle plan, and map engraved on copper.
+
+This exhibition brings together, for the first time in decades, a majority of these maps “made in Boston” in the century before the American Revolution. As a group they are remarkable for their contributions to geographical knowledge and often unconventional style.
+
+These maps also afford a unique perspective on the ambitions, anxieties and sense of identity of colonial Bostonians: pride in their flourishing city, the hazards of navigating New England’s coast, disputes over land ownership, and struggle with the native inhabitants and French for mastery of North America.
+
+[Visit the digital exhibition of _Made in Boston_](https://collections.leventhalmap.org/exhibits/10)
+
+### Charting an Empire: The Atlantic Neptune
+
+_May 1, 2013 – November 3, 2013_
+
+The period following the French and Indian War (1754-1763) was a time of change and discovery in North America. In this display of charts, views, and maritime objects, we look at the decade following the war, when Britain set out to accurately chart the coast and survey the inland areas of their new resource-rich empire in Atlantic Canada, as well as the eastern seaboard extending from New England to the West Indies. The resulting charts were published collectively by Joseph Frederick Wallet Des Barres in The Atlantic Neptune, a maritime atlas which set the standard for nautical charting for nearly half a century.
+
+Using nearly 30 items, including nautical charts, navigational instruments and ship models, dating from the 18th century to the present, this exhibition examines the importance of accurate charting of the new empire, defines how Britain put her mark on the land, and explores the complex processes of marine surveying and nautical chart production.
+
+Part one of the exhibition, showing May 1st through July 27, will focus geographically on Atlantic Canada. In this section we examine the surveys of engineers Samuel Holland and J.F.W. Des Barres, which were then published as charts in The Atlantic Neptune. Canada’s economic importance to Britain is explained, as is the need for accurate charts of the region. Charts of the eastern seaboard from New England to the West Indies are the focus of part two, showing from August 1 through November 3. Maps and views of major port cities along the coast will be included, as well as inland areas. These charts were produced just in time for use by the British Navy, as the American Revolutionary War was beginning.
+
+The development of nautical chart making is described throughout the exhibition, and is illustrated in a number of examples. We will also consider the artistic marvel that is The Atlantic Neptune, and discuss the processes involved in the production of such an atlas, from surveying to engraving.
+
+[Visit the digital exhibition of _Charting an Empire_](https://collections.leventhalmap.org/exhibits/11)
+
+### Boston in the Gilded Age: Mapping Public Places
+
+_November 16, 2012 – April 23, 2013_
+
+The Gilded Age–the era from the late 1860s to the late 1890s–was a period of significant growth and transformation in Boston. Ingenious engineering projects allowed the city to expand, and a devastating fire led to swift and progressive redevelopment of the commercial district. Designed to document Boston’s radically changing geography, this exhibition focuses on the evolving street pattern and emerging park system, developed for the City’s growing population.
+
+This story begins with the Boston Common and Public Garden. Moving west, the exhibition examines the growth of open spaces in Back Bay, then south to Frederick Law Olmsted’s Emerald Necklace, finishing with the development of Copley Square – the permanent home of the Boston Public Library.
+
+[Visit the digital exhibition of _Boston in the Gilded Age_](https://collections.leventhalmap.org/exhibits/12)
+
+### America Votes: Mapping the Political Landscape
+
+_March 26, 2012 – November 11, 2012_
+
+With each election Americans have become accustomed to seeing national maps colored red and blue signifying Republican and Democratic voting patterns. Presenting election results has long intrigued mapmakers as the maps and graphics in this exhibition reveal. Examples range from several early efforts to the most recent campaigns.
+
+The display begins with gerrymandering, 200 years of manipulating political districts for partisan objectives, and includes maps illustrating the extension of the vote to non-property owners, blacks, and women. These issues are represented in many examples that also show the importance of the states as the proxy for the voice of the people they represented. Efforts to legislate behavior, such as prohibition, were another aspect of mapping the political landscape
+
+[Visit the digital exhibition of _America Votes_](https://collections.leventhalmap.org/exhibits/13)
+
+### Unconventional Maps: Exploring the Stories of Cartographic Curiosities
+
+_October 22, 2011 – March 18, 2012_
+
+When reading maps, we expect map makers to use standard conventions, especially in regard to map projection or composition, orientation, scale, and symbols. When a map maker does not use generally-accepted practices, we ask why? What is the story the map maker is trying to tell?
+
+The maps displayed here highlight a variety of unconventional maps spanning the history of the printed map. For each, we demonstrate how it defies convention, and how that particular cartographic design heightens its story.
+
+[Visit the digital exhibition of _Unconventional Maps_](https://collections.leventhalmap.org/exhibits/14)
+
+### Torn in Two: The 150th Anniversary of the Civil War
+
+_May 12, 2011 – December 31, 2011_
+
+The Civil War, from 1861 to 1865, is the centerpiece of our nation's story. It looms large, not merely because of its brutality and scope but because of its place in the course of American history. The seeds of war were planted long before 1861 and the conflict remains part of our national memory.
+
+Geography has helped shape this narrative. The physical landscape influenced economic differences between the regions, the desire to expand into new territories, the execution of the conflict both in the field and on the home front, and the ways in which our recollections have been shaped.
+
+Maps enable us to present the complex strands that, when woven together, provide a detailed account of the causes and conduct of the war. These visual images remain a salient aspect of our memory. Photographs, prints, diaries, songs and letters enhance our ability to tell this story, when our nation, as a Currier & Ives cartoon depicts, was about to be "Torn in Two."
+
+This exhibition tells the story of the American Civil War both nationally and locally in Boston, Massachusetts, through maps, documents, letters, and other primary sources.
+
+[Visit the digital exhibition of _Torn in Two_](https://collections.leventhalmap.org/exhibits/15)
+
+### Boston & Beyond: A Bird’s Eye View of New England
+
+_January 8, 2008 – June 30, 2008_
+
+_Boston and Beyond: A Bird’s Eye View of New England_ celebrates the Boston Public Library’s remarkable collection of bird’s eye views. These views represent a unique genre of cartographic materials that were drawn as if the artist viewed a town from an elevated or bird’s eye view perspective. They were compiled and published primarily in North America during the last half of the 19th century and the early decades of the 20th century.
+
+The collection consists of approximately 500 such views. The exhibit displays a selection of approximately 50 views of New England towns and cities focusing on Boston, its suburbs, and a variety of communities in both coastal and interior settings extending from Cape Cod to the Connecticut River. Most of these images were drawn and published by artists in the Boston area, including Howard H. and Oakes H. Bailey, Edwin Whitefield, Albert F. Poole, and George W. Walker.
+
+While 17th- and 18th-century European cartographers depicted many important cities from an elevated aerial perspective, the 19th-century North American genre is very distinctive. It proved to be a much more democratic medium, documenting large cities, towns and small villages in equal style and grandeur.
+
+By comparing these views with late 19th-century topographic maps, it is evident that the artists often displayed a perspective and bias in selecting a particular (non-north) orientation. A few surviving field sketch notes and manuscript drawings reveal that the artists did not actually view their subjects from an elevated perspective, but walked the streets sketching individual buildings. Then they prepared a composite drawing depicting the town to its best promotional advantage.
+
+[Visit the digital exhibition of _Boston and Beyond_](https://collections.leventhalmap.org/exhibits/16)
+
+### Journeys of the Imagination
+
+_March 21, 2006 – August 18, 2006_
+
+_Journeys of the Imagination_ is an exhibition designed to explore the various ways that mapmakers from the 15th century until today, have created and translated their real and imagined world views. They recorded these diverse and ever changing images on various media including paper, globes, and computer screens.
+
+Their efforts allow us an opportunity to understand how cartographers were able to integrate the information that was well known, unknown, and still embedded in their own imaginations.
+
+The maps in this exhibition depict the excitement of discovery and scientific investigation, the artwork, and the social, historical and cultural influences that informed the creation of these documents. We will examine these maps, not just as geographic records of the world at a particular time, but as a document that has a story to tell, both about how and why the map was created, and what the map has to say about a particular culture’s world view.
+
+By skillfully integrating the four basic map elements of projection, orientation, scale, and symbols, mapmakers have been able to convey a variety of cartographic information to the public. This exhibition will explore the biases that inform a cartographer’s particular preferences as they express their world views.
+
+As an endlessly fascinating record of civilization in the context of its history, geography, politics, and religion, we hope that you too are captivated by the cartographic expressions displayed in this exhibition.
+
+[Visit the digital exhibition of _Journeys of the Imagination_](https://collections.leventhalmap.org/exhibits/17)
+
+### Faces & Places
+
+_October 8, 2003 – April 30, 2004_
+
+One of the goals of _Faces & Places_ is to create an environment that will inspire dialogue, encouraging us to understand each other's cultural heritage, learn how we are different, but still realize how much we have in common. In creating this exhibition, we selected a number of historical maps that portray the countries from which the greatest number of Bostonians originate. These maps depict the countries at various stages in their historical, geographical, political, and economic development.
+
+According to the 2000 census, the eight countries whose immigrant population informs the cultural diversity of the city of Boston are Cape Verde, China, Dominican Republic, England, Haiti, Ireland, Italy, and Jamaica. Immigrants from each of the countries represented in this exhibition celebrate the culture that is their heritage in different ways in their new home.
+
+[Visit the digital exhibition of _Faces & Places_](https://collections.leventhalmap.org/exhibits/18)
