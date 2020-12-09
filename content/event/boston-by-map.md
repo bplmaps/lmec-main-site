@@ -2,7 +2,7 @@
 backgroundImage = ""
 date = 2020-12-15T17:00:00Z
 fee = "Free"
-image = "https://collections.leventhalmap.org/search/commonwealth:9s161f21f"
+image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f22q/full/full/0/default.jpg"
 location = ""
 publishDate = 2020-12-08T22:15:15Z
 registration = "https://www.eventbrite.com/e/boston-by-map-tickets-132168935845"
