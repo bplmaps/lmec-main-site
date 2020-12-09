@@ -6,6 +6,8 @@ image = "/uploads/noun_woman_1493332.png"
 location = "Online"
 registration = ""
 title = "GIS Office Hours"
+publishDate = 2020-11-09T21:15:10Z
+
 
 +++
 #### Get help from our GIS team with a project or data request
