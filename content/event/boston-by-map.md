@@ -1,7 +1,6 @@
 +++
 backgroundImage = ""
 date = 2020-12-15T17:00:00Z
-draft = true
 fee = "Free"
 image = ""
 location = ""
