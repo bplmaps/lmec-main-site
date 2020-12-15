@@ -83,7 +83,7 @@ Still not sure if you're in the right place? Here are some example projects we c
 - You find an online resource difficult to navigate and want to chat with a person
 
 #### Getting the Data
-- You want direct access data that speaks to geographic trends. Example topics:
+- You want direct access to data that speaks to geographic trends. Example topics:
   - public health 
   - climate 
   - demographic 
