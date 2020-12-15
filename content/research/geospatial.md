@@ -63,27 +63,56 @@ Some examples of resources you can find in Cartinal:
 
 ## Make a Geospatial Reference Request {#make-request}
 
-To schedule a research consultation please fill out our Geospatial Reference Request Form. The information in this form will help us understand the nature of your inquiry, ensure your message is quickly delivered to the correct reference librarian, and gets you in the queue for scheduling a consultation over phone or or video chat. _For research requests regarding our historic collections, please see the [Research Appointments](/research/appointments) page._
+To get an appointment on the books with Belle Lipton, our Geospatial & Cartographic Information Librarian, please make an appointment ⬇️ 
 
-<iframe class="airtable-embed mb-5" src="https://airtable.com/embed/shrY1Rvnl5qfYo99n?backgroundColor=teal" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<a href="https://calendly.com/bellelipton/meeting" target="_blank" class="btn btn-outline-primary"><i class="far fa-calendar-check"></i> Make a Geospatial Reference Appointment </a>
 
 
-### Other Ways to Contact Us
+If the scheduling form is not exactly what you need, you can email Belle directly at blipton@leventhalmap.org
 
-If our form is not suiting your needs, you can also contact the [Geospatial and Cartographic Information Librarian](about/people/belle-lipton) via telephone or email. Please note that during the COVID-19 closures, phone calls may be received with a delay. 
+
+_For research requests regarding our historic collections, please see the [Research Appointments](/research/appointments) page._
+
 
 ## Geospatial Project Examples {#example-projects}
 
-Still not sure if you're in the right place? Here are some example geospatial research projects we can help with: 
-- You are finding an online data resource difficult to navigate 
+Still not sure if you're in the right place? Here are some example projects we can help with:
+
+#### Making Use of Online Resources
+
+- You find an online resource difficult to navigate and want to chat with a person
+
+#### Getting the Data
+- You want direct access data that speaks to geographic trends. Example topics:
+  - public health 
+  - climate 
+  - demographic 
+  - economic 
+  - education 
+  - transportation 
+  - cartographic (borders, prominent features, labels)
+
+#### Making a Map 
+
 - You'd like to make a map displaying your team's geographic reach or impact 
-- You are interested in combining different historical sources to investigate the history of a place 
-- You attended one of our mapmaking workshops and have followup questions 
-- You want to know the best way to get started learning a free mapping software like QGIS 
-- You are interested in public health data and want to understand geographic trends 
-- You have used our tool [Atlascope](https://atlascope.leventhalmap.org) and want to use some of the historic data layers 
-- You are working with historic cartographic materials and want to chat about best practices 
 - You are gathering your own data and would like advice on structuring the spatial attributes 
-- You have an important Boston dataset you think should be preserved or discoverable 
-- You teach with GIS data and would like to collaborate about resources 
+
+#### Picking Software
+- You want to know the best way to get started learning a free mapping software like QGIS 
+
+#### Piecing Together the Past
+
+- You are interested in combining different historical sources to investigate the history of a place 
 - You want to georeference a map or use one of our georeferenced maps 
+
+#### Managing Collections
+- You are working with historic cartographic materials and want to chat about best practices 
+- You have an important Boston dataset you think should be preserved or discoverable 
+
+#### Teaching with GIS
+- You teach with GIS data and would like to collaborate about resources 
+
+#### Following Up
+- You attended one of our mapmaking workshops and have followup questions 
+- You have used our tool [Atlascope](https://atlascope.leventhalmap.org) and want to use some of the historic data layers 
+

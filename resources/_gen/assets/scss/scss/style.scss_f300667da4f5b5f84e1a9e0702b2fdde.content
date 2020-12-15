@@ -97,7 +97,7 @@ code {
   .btn-primary:hover {
     background-color: #004055; }
 
-.btn-primary.active:not(:disabled):not(.disabled),
+.btn-primary:not(:disabled):not(.disabled).active,
 .btn-primary:not(:disabled):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
