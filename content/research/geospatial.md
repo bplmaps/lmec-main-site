@@ -63,12 +63,12 @@ Some examples of resources you can find in Cartinal:
 
 ## Make a Geospatial Reference Request {#make-request}
 
-To get an appointment on the books with Belle Lipton, our Geospatial & Cartographic Information Librarian, please make an appointment ⬇️ 
+To get an appointment on the books with Belle Lipton, our Geospatial & Cartographic Information Librarian, please make an appointment.
 
 <a href="https://calendly.com/bellelipton/meeting" target="_blank" class="btn btn-outline-primary"><i class="far fa-calendar-check"></i> Make a Geospatial Reference Appointment </a>
 
 
-If the scheduling form is not exactly what you need, you can email Belle directly at blipton@leventhalmap.org
+If the scheduling form is not exactly what you need, you can <a href = "https://www.leventhalmap.org/about/people/belle-lipton/">contact Belle directly</a>.
 
 
 _For research requests regarding our historic collections, please see the [Research Appointments](/research/appointments) page._
