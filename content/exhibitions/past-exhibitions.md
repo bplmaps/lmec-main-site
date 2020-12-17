@@ -56,7 +56,7 @@ _March 4, 2017 – September 24, 2017_
 
 The mapping of broad climate zones, wind direction, ocean currents, and related weather events has a long and storied history. In this exhibition, you will discover how “Venti” were wind personas who directed ancient ships and “Horae” were goddesses of the seasons who dictated natural order during the 15th-17th centuries, how Enlightenment scientists started to collect and map weather data, and how 19th-century geographers reflecting the golden age of thematic cartography created innovative techniques to represent vast amounts of statistical data and developed complex maps furthering our understanding of climatic regions. As you explore five centuries of regions and seasons, you can compare this gradual sophistication of mapping climatic data with the modern use of computers and models that analyze the impact of changing climatic conditions on future generations.
 
-[Visit the digital exhibition of _Regions and Seasons_]()
+[Visit the digital exhibition of _Regions and Seasons_](https://collections.leventhalmap.org/exhibits/1)
 
 ### Shakespeare’s Here and Everywhere
 
