@@ -30,7 +30,7 @@ _March 24, 2018 – September 30, 2018_
 
 Boston boasts some of the nation’s most recognizable and cherished green spaces, from Boston Common, to the Emerald Necklace, to hundreds of neighborhood parks, playgrounds, tot lots, community gardens, playing fields, cemeteries, and urban wilds. In this exhibition, you will learn how the country’s oldest public park grew from a grazing pasture to an iconic recreational and social center, how 19th-century reformers came to view parks as environmental remedies for ill health, how innovative landscape architects fashioned green oases in the midst of a booming metropolis, and what the future holds for Boston’s open spaces. As you explore three centuries of open space in Boston, perhaps you will feel inspired to go outside and discover the green spaces in your own backyard.
 
-[Visit the digital exhibition of _Breathing Room_]()
+[Visit the digital exhibition of _Breathing Room_](https://collections.leventhalmap.org/exhibits/21)
 
 ### Beneath Our Feet: Mapping the World Below
 
