@@ -15,6 +15,10 @@ But is it really true that _anyone_ can work with this data? In spite of the pus
 
 Sixty years ago, if you wanted to access statistical information about your community, you might well have visited a research library like the BPL and requested atlases, reports, and . Today, even though that kind of information is available freely online, it can ironically be _more difficult_ to access when it's trapped inside of file formats and confusing databases where 
 
+- I think the dataset relationships/interconnectivity is one of the cutting edge aspects, so if possible to nod to that/weave it in in passing, that'd be good
+
+Otherwise I think this is great
+
 We are thrilled to announce that we are embarking on a project that aims at solving some of these challenge. As recipients of a Seed Fund Grant from the [Northeast Big Data Innovation Hub](https://nebigdatahub.org), 
 
 #### The team
