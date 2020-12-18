@@ -17,4 +17,8 @@ Sixty years ago, if you wanted to access statistical information about your comm
 
 We are thrilled to announce that we are embarking on a project that aims at solving some of these challenge. As recipients of a Seed Fund Grant from the [Northeast Big Data Innovation Hub](https://nebigdatahub.org), 
 
+#### The team
+
+#### Get updates
+
 #### Read more 
