@@ -35,6 +35,7 @@ fields:
   label: registration
 pages:
 - content/event/boston-by-map.md
+- content/event/jamaica-plain-by-map.md
 - content/event/north-end-by-map.md
 - content/event/ronald-grim-on-annotated-atlases-unraveling-stories-of-personal-provenance.md
 - content/event/the-meaning-of-land-indigenous-and-euro-american-mapping.md
