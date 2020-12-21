@@ -25,6 +25,8 @@ Our project involves building both "technical infrastructure" and "social infras
 
 Technical solutions alone, however, aren't enough for widening access to data. That's why we're also building institutional support for members of the public who want to work with geospatial information. We'll be documenting the new data portal and supporting it with easy-to-use training material, training materials aimed at adult library patrons and K-12 teachers. To launch all of this work in its trial phase, we'll be developing a new, free educational program and offering it remotely next spring. Working with our Education team, our goal is to equip participants with the skills, confidence, and critical disposition that's necessary for doing good work with data.
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rr173g34k/3761,792,3415,1409/,1200/0/default.jpg" caption="A [data story from the Bending Lines exhibition](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/data-stories-health/) explores how geographic information requires interpretation and human context" >}}
+
 #### The team
 
 At the LMEC, this project will be managed by [Garrett Dash Nelson](/about/people/garrett-nelson), Curator of Maps & Director of Geographic Scholarship, and [Belle Lipton](/about/people/belle-lipton), Geospatal & Cartographic Information Librarian. We're joined by our Education staff, [Michelle LeBlanc](/about/people/michelle-leblanc) and [Lynn Brown](/about/people/lynn-brown), who will be heading up efforts to introduce these programs to K-12 teachers. 
