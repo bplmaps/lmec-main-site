@@ -25,7 +25,7 @@ Our project involves building both "technical infrastructure" and "social infras
 
 Technical solutions alone, however, aren't enough for widening access to data. That's why we're also building institutional support for members of the public who want to work with geospatial information. We'll be documenting the new data portal and supporting it with easy-to-use training material, training materials aimed at adult library patrons and K-12 teachers. To launch all of this work in its trial phase, we'll be developing a new, free educational program and offering it remotely next spring. Working with our Education team, our goal is to equip participants with the skills, confidence, and critical disposition that's necessary for doing good work with data.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rr173g34k/3761,792,3415,1409/,1200/0/default.jpg" caption="A [data story from the Bending Lines exhibition](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/data-stories-health/) explores how geographic information requires interpretation and human context" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rr173g34k/3761,792,3415,1409/,1200/0/default.jpg" caption="A [data story from the Bending Lines exhibition](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/data-stories-health/), created by Madison Draper and Alison DeGraff Ollivierre, explores how geographic information requires interpretation and human context" >}}
 
 #### The team
 
@@ -34,6 +34,8 @@ At the LMEC, this project will be managed by [Garrett Dash Nelson](/about/people
 As advisors to the project, we're collaborating with [Catherine D'Ignazio](https://dusp.mit.edu/faculty/catherine-dignazio) and [Eric Robsky Huntley](https://www.ericrobskyhuntley.org) of the Department of Urban Studies & Planning at MIT. They're both leaders in the world of critical data studies; check out D'Ignazio's new book (with Lauren Klein) [_Data Feminism_](http://datafeminism.io), and watch Huntley [talk about counter-cartographies](https://www.youtube.com/watch?v=IMpVOiIdZao) at the most recent NACIS conference.
 
 Three fantastic MIT students, our first cohort of Public Data Fellows, will be building the portal documentation, training material, and educational program together with us. [Tess McCann](https://tessmccann.com) is a second year Master's in City Planning student with a background in graphic design and project management and a passion for history and maps. Sarah Lohmar is a third-year undergraduate in Urban Planning with Computer Science excited about merging education with data and Missy Hill is an undergraduate in the Department of Urban Studies & Planning interested in the relationships between scientific discoveries and the communities they impact.
+
+Finally, an advisory board of teachers from the Boston Public Schools system will help us shape the project, and ensure that the materials we create are useful and empowering for K-12 teachers.
 
 #### Get updates
 
