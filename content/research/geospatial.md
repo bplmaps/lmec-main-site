@@ -62,7 +62,7 @@ Some examples of resources you can find in Cartinal:
 
 ## Make a Geospatial Reference Request {#make-request}
 
-To get an appointment on the books with our Geospatial & Cartographic Information Librarian, please make an appointment.
+Free appointments are available weekly with our Geospatial & Cartographic Information Librarian. To schedule a time to talk abotu your project or geospatial reference request, please use this calendar appointment tool:
 
 <a href="https://calendly.com/bellelipton/meeting" target="_blank" class="btn btn-outline-primary"><i class="far fa-calendar-check"></i> Make a Geospatial Reference Appointment </a>
 
