@@ -28,7 +28,7 @@ Technical solutions alone, however, aren't enough for widening access to data. T
 
 #### The team
 
-At the LMEC, this project will be managed by [**Garrett Dash Nelson**](/about/people/garrett-nelson), Curator of Maps & Director of Geographic Scholarship, and [**Belle Lipton**](/about/people/belle-lipton), Geospatal & Cartographic Information Librarian. We're joined by our Education staff, [**Michelle LeBlanc**](/about/people/michelle-leblanc) and [**Lynn Brown**](/about/people/lynn-brown), who will be heading up efforts to introduce these programs to K-12 teachers.
+At the LMEC, this project will be managed by [**Garrett Dash Nelson**](/about/people/garrett-nelson), Curator of Maps & Director of Geographic Scholarship, and [**Belle Lipton**](/about/people/belle-lipton), Geospatial & Cartographic Information Librarian. We're joined by our Education staff, [**Michelle LeBlanc**](/about/people/michelle-leblanc) and [**Lynn Brown**](/about/people/lynn-brown), who will be heading up efforts to introduce these programs to K-12 teachers.
 
 As advisors to the project, we're collaborating with [**Catherine D'Ignazio**](https://dusp.mit.edu/faculty/catherine-dignazio) and [**Eric Robsky Huntley**](https://dusp.mit.edu/faculty/eric-robsky-huntley) of the Department of Urban Studies & Planning at MIT. They're both leaders in the world of critical data studies; check out D'Ignazio's new book (with Lauren Klein) [_Data Feminism_](http://datafeminism.io), and watch Huntley [talk about counter-cartographies](https://www.youtube.com/watch?v=IMpVOiIdZao) at the most recent NACIS conference.
 
