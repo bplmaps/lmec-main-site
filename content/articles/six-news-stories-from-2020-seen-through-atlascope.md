@@ -3,7 +3,6 @@ author = "Rachel Mead and Garrett Dash Nelson"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg38v/1228,2673,1835,1029/,1200/0/default.jpg"
 date = 2020-12-23T05:30:28Z
 description = "Over the past year, sometimes the news invited us into the past"
-draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg38v/1228,2673,1835,1029/,1200/0/default.jpg"
 tags = ["Atlascope", "current events"]
 title = "Six news stories from 2020, seen through Atlascope"
