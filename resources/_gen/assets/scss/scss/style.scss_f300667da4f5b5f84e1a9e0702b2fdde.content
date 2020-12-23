@@ -68,8 +68,7 @@ code {
   position: relative;
   z-index: 1;
   transition: background-color .5s ease;
-  overflow: hidden;
-  white-space: nowrap; }
+  overflow: hidden; }
   .btn:focus {
     outline: 0;
     box-shadow: none !important; }
