@@ -1,6 +1,6 @@
 +++
 backgroundImage = "/uploads/noun_woman_1493332.png"
-date = 2020-01-08T16:00:00Z
+date = 2021-01-08T16:00:00Z
 fee = "Free"
 image = "/uploads/noun_woman_1493332.png"
 location = "Online"
@@ -10,13 +10,12 @@ publishDate = 2020-11-09T21:15:10Z
 
 
 +++
-### Get help from our Geospatial Research team with a project or data request.
 
+#### Get help from our Geospatial Research team with a project or data request.
 
-#### Project support:
 
 To learn more about the types of projects we support, check out our [geospatial research homepage](https://www.leventhalmap.org/research/geospatial).
 
 
-#### Video conferencing link:
+##### Video conferencing link:
 [https://calendly.com/events/FGTRK7KFVWAZ3RSM/microsoft_teams](https://calendly.com/events/FGTRK7KFVWAZ3RSM/microsoft_teams)
