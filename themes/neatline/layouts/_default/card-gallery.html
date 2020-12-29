@@ -1,6 +1,6 @@
 {{ $page := . }}
 <div class="card rounded-0 hover-shadow border-top-0 border-left-0 border-right-0 page-card">
-  {{ with .Params.cardImage }}<img class="card-img-top rounded-0" src="{{ . | relURL }}" alt="{{ $page.Title }}">{{ end }}
+  {{ with .Params.cardImage }}<a href="{{ $page.Permalink }}"><img class="card-img-top rounded-0" src="{{ . | relURL }}" alt="{{ $page.Title }}"></a>{{ end }}
   <div class="card-body">
     <h3 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
     <p class="card-text">{{ .Description | markdownify }}</p>
