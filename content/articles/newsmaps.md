@@ -2,11 +2,11 @@
 author = "Rachel Mead and Garrett Dash Nelson"
 backgroundImage = "https://digital.library.unt.edu/iiif/ark:/67531/metadc840/m1/1/820,511,836,499/full/0/default.jpg"
 date = 2020-12-30T14:02:31Z
-description = ""
+description = "A Newsmap from December 1945 shows how cartographic projection promoted the U.S. view of itself as a global power"
 draft = true
 image = "https://digital.library.unt.edu/iiif/ark:/67531/metadc840/m1/1/820,511,836,499/full/0/default.jpg"
 tags = ["Bending Lines", "projections", "Newsmap"]
-title = "Newsmaps"
+title = "Stretching the world at the end of a war"
 
 +++
 One goal of our current exhibition, [_Bending Lines: Maps and Data from Distortion to Deception_](https://www.leventhalmap.org/digital-exhibitions/bending-lines) is to help you make sense of the maps that appear in the news. Although the number of maps produced every day has exploded with the rise of television and social media, older forms of publication also churned out maps at a formidable pace, using them to tell people about far-off wars or newsworthy phenomena at home.
@@ -29,9 +29,9 @@ This period was also the beginning of the Nuremberg trials, bringing Nazi war cr
 
 In small text at the bottom, the map gives a short lesson about map projection, noting that the projection shown here minimizes distortion at 40 degrees north. _Newsmap_ often included [material about geographic education](https://www.leventhalmap.org/digital-exhibitions/bending-lines/why-persuade/1.6.2/), seeking to inculcate a sense of world-spanning knowledge in Americans that would equip them for a new national mission as the "global policeman."
 
-On the other hand, the continents below the equator is distorted and literally falling off the map, relegating these nations to a less important status. All map projections have some kind of distortion, either of size or shape of land and water, or some combination of both. It's always important to note which parts of a map are represented accurately, and which are stretched and skewed.
-
 {{< figure src="https://digital.library.unt.edu/iiif/ark:/67531/metadc840/m1/1/1104,1005,790,411/full/0/default.jpg" caption="Much of the Southern Hemisphere is falling off the map, as this projection would have otherwise badly distorted shapes in southern latitudes" class="figure-right" >}} 
+
+On the other hand, the continents below the equator is distorted and literally falling off the map, relegating these nations to a less important status. All map projections have some kind of distortion, either of size or shape of land and water, or some combination of both. It's always important to note which parts of a map are represented accurately, and which are stretched and skewed.
 
 The fact that South America and southern Africa are out of the frame is not surprising given the pro-western, Eurocentric nature of maps in the American press—and in particular those published by the military. The only point of interest to the mapmaker south of the equator is Uruguay. Along with Korea, Palestine, and Iran, the whole country is labeled rather than any specific city, unlike the circled points in Europe.
 
