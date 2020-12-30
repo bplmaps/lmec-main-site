@@ -3,7 +3,6 @@ author = "Rachel Mead and Garrett Dash Nelson"
 backgroundImage = "https://digital.library.unt.edu/iiif/ark:/67531/metadc840/m1/1/820,511,836,499/full/0/default.jpg"
 date = 2020-12-30T14:02:31Z
 description = "A Newsmap from December 1945 shows how cartographic projection promoted the U.S. view of itself as a global power"
-draft = true
 image = "https://digital.library.unt.edu/iiif/ark:/67531/metadc840/m1/1/820,511,836,499/full/0/default.jpg"
 tags = ["Bending Lines", "projections", "Newsmap"]
 title = "Stretching the world at the end of a war"
@@ -31,11 +30,11 @@ In small text at the bottom, the map gives a short lesson about map projection, 
 
 {{< figure src="https://digital.library.unt.edu/iiif/ark:/67531/metadc840/m1/1/1104,1005,790,411/full/0/default.jpg" caption="Much of the Southern Hemisphere is falling off the map, as this projection would have otherwise badly distorted shapes in southern latitudes" class="figure-right" >}} 
 
-On the other hand, the continents below the equator is distorted and literally falling off the map, relegating these nations to a less important status. All map projections have some kind of distortion, either of size or shape of land and water, or some combination of both. It's always important to note which parts of a map are represented accurately, and which are stretched and skewed.
+On the other hand, the continents below the equator are distorted and literally falling off the map, relegating these nations to a less important status. All map projections have some kind of distortion, either of size or shape of land and water, or some combination of both. It's always important to note which parts of a map are represented accurately, and which are stretched and skewed.
 
 The fact that South America and southern Africa are out of the frame is not surprising given the pro-western, Eurocentric nature of maps in the American press—and in particular those published by the military. The only point of interest to the mapmaker south of the equator is Uruguay. Along with Korea, Palestine, and Iran, the whole country is labeled rather than any specific city, unlike the circled points in Europe.
 
-This view from 1945 anticipated the decolonial struggles which would, over the course of the next decades, see the liberation of dozens of nations from colonial rule. The U.S. wanted to promote itself as the guarantor of national independence, noting on this map that it had already scheduled the independence of its own colonies in the Philippines and was insisting on the independence of Iran. Desperate to prevent the Soviet Union from courting the allegiances of nations, the U.S. presented itself as a global power that wasn't an empire—a topic which [we discussed with Daniel Immerwahr](https://www.youtube.com/watch?v=dRVF9FJLUfY&feature=emb_title) last month.
+This view from 1945 anticipated the decolonial struggles which would, over the course of the next decades, see the liberation of dozens of nations from colonial rule. The U.S. wanted to promote itself as the guarantor of national independence, noting on this map that it had already scheduled the independence of its own colony in the Philippines and was insisting on the independence of Iran. Desperate to prevent the Soviet Union from courting the allegiances of colonized nations, the U.S. presented itself as a global power that wasn't an empire—a topic which [we discussed with Daniel Immerwahr](https://www.youtube.com/watch?v=dRVF9FJLUfY&feature=emb_title) last month.
 
 In many ways, this map, with its bold title of "U.S. Role in World Affairs," was a potent visual symbol of the way that the United States conceptualized the "American century" that had been ushered in by World War II. This was thus a map projection which was also a metaphorical projection—an imagination of U.S. foreign policy seen through a stretched-out globe.
 
