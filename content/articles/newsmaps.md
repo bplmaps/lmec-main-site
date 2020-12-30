@@ -1,11 +1,11 @@
 +++
 author = "Rachel Mead & Garrett Dash Nelson"
-backgroundImage = ""
+backgroundImage = "https://digital.library.unt.edu/iiif/ark:/67531/metadc840/m1/1/820,511,836,499/full/0/default.jpg"
 date = 2020-12-30T14:02:31Z
 description = ""
 draft = true
-image = "https://digital.library.unt.edu/iiif/ark:/67531/metadc840/m1/1/full/1200,/0/default.jpg"
-tags = []
+image = "https://digital.library.unt.edu/iiif/ark:/67531/metadc840/m1/1/820,511,836,499/full/0/default.jpg"
+tags = ["Bending Lines", "projections", "Newsmap"]
 title = "Newsmaps"
 
 +++
@@ -15,7 +15,7 @@ The U.S. armed forced produced their very own periodical during World War II tha
 
 This December 17, 1945 issue of _Newsmap_ from the [University of North Texas's collections](https://digital.library.unt.edu/explore/collections/NMAP/browse/?q=&t=fulltext&sort=added_d) is a great example. It features an unwrapped globe that highlights important elements of contemporary happenings in which the US had a stake.
 
-![](https://digital.library.unt.edu/iiif/ark:/67531/metadc840/m1/1/full/1200,/0/default.jpg)
+{{< figure src="https://digital.library.unt.edu/iiif/ark:/67531/metadc840/m1/1/full/1200,/0/default.jpg" caption="_Newsmap_, December 17, 1945. [Univeresity of North Texas](https://digital.library.unt.edu/ark:/67531/metadc840/m1/1/)" >}}
 
 The author of this world map chose their layout very carefully. The cities that are a part of the narrative are mostly laid out along the same latitude, around the 40th parallel. In December of 1945, WWII had ended and a reorganization of world affairs had begun. It was several months after the US bombed Hiroshima and Nagasaki, killing well over 100,000 people. In the aftermath, the US occupied Japan and worked to demilitarize it, among other changes. This period was also the beginning of the Nuremberg trials, bringing Nazi war criminals and collaborators to justice in Europe. Because of these and other events judged most important to the mapmaker, the Northern hemisphere and the 40th parallel in particular are the focus of this map. This logic may be somewhat circular -- in some ways, perhaps these are the events judged most important because of their locations.
 
