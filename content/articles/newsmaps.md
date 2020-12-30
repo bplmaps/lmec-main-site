@@ -31,7 +31,7 @@ In small text at the bottom, the map gives a short lesson about map projection, 
 
 On the other hand, the continents below the equator is distorted and literally falling off the map, relegating these nations to a less important status. All map projections have some kind of distortion, either of size or shape of land and water, or some combination of both. It's always important to note which parts of a map are represented accurately, and which are stretched and skewed.
 
-{{< figure src="https://digital.library.unt.edu/iiif/ark:/67531/metadc840/m1/1/1104,1005,790,411/full/0/default.jpg" caption="Much of the Southern Hemisphere is falling off the map, as this projection would have otherwise badly distorted shapes in southern latitudes" >}} 
+{{< figure src="https://digital.library.unt.edu/iiif/ark:/67531/metadc840/m1/1/1104,1005,790,411/full/0/default.jpg" caption="Much of the Southern Hemisphere is falling off the map, as this projection would have otherwise badly distorted shapes in southern latitudes" class="figure-right" >}} 
 
 The fact that South America and southern Africa are out of the frame is not surprising given the pro-western, Eurocentric nature of maps in the American press—and in particular those published by the military. The only point of interest to the mapmaker south of the equator is Uruguay. Along with Korea, Palestine, and Iran, the whole country is labeled rather than any specific city, unlike the circled points in Europe.
 
