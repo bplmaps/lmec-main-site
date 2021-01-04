@@ -3,7 +3,6 @@ author = "Rachel Mead"
 backgroundImage = ""
 date = 2021-01-04T20:39:29Z
 description = "Countdown to 2021!"
-draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:k643f9016/184,166,4010,5821/,1200/90/default.jpg"
 tags = []
 title = "Roaring 20's Countdown"
