@@ -4,7 +4,7 @@ backgroundImage = ""
 date = 2021-01-04T20:39:29Z
 description = "These maps from our collections, one for each 20s decade starting in 1520, helped us count down to New Years 2021"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:k643f9016/184,166,4010,5821/,1200/90/default.jpg"
-tags = []
+tags = ["social media","New Years","centuries"]
 title = "Roaring Twenties Countdown"
 
 +++
@@ -24,7 +24,7 @@ Petrus Apianus made this map. He was highly regarded in his day as a mathematici
 
 Next up in our 2020 countdown of maps through the centuries is this 1620 portolan! The term is from the Italian portulano and it's easy to see, as you look at the multitude of place names along the coasts, that these charts are all about navigating to ports or harbors. The mapmaker has featured his name, Augustin Roussin, with a large fancy initial “A.”
 
-He notes that he made this map in in the city of Marseilles, and if you zoom into the full map (link in citation!) you'll see the hillside buildings and towers of the city depicted in an inset that is on a much larger scale than the rest of the map, with a deep blue harbor prominently featured.
+He notes that he made this map in in the city of Marseilles, and if you zoom into the full map you'll see the hillside buildings and towers of the city depicted in an inset that is on a much larger scale than the rest of the map, with a deep blue harbor prominently featured.
 
 ---
 
@@ -34,9 +34,13 @@ He notes that he made this map in in the city of Marseilles, and if you zoom int
 
 Here's a detail from a 1720 map (or thereabouts).⁠
 ⁠
-The title in the legend (not shown) encapsulates the colonial attitude of the time: “A map of the East-Indies and the adjacent countries, with the settlements, factories and territories, explaning \[sic\] what belongs to England, Spain, France, Holland, Denmark, Portugal &c. with many remarks not extant in any other map… To ye Directors of ye Hon’ble United East-India Company. This Map is most Humbly Dedicated by your most Obedient Servant Herman Moll, Geographer.” The stated purpose of the map is to explain which countries own which pieces of land.⁠
+The title in the legend encapsulates the colonial attitude of the time: “A map of the East-Indies and the adjacent countries, with the settlements, factories and territories, explaning \[sic\] what belongs to England, Spain, France, Holland, Denmark, Portugal &c. with many remarks not extant in any other map… To ye Directors of ye Hon’ble United East-India Company. This Map is most Humbly Dedicated by your most Obedient Servant Herman Moll, Geographer.” The stated purpose of the map is to explain which countries own which pieces of land.⁠
 ⁠
-Notes on various countries call out their attractive riches, like the text here by the Philippines: “The General Product of the Islands is vast Quantities of Ambergreace \[sic\], Gold, Rice, the usual Indian Fruits, the Sagu and Cabbage Trees, and all the Beasts, Fowl, Fish, and Insects, common to the Indian Islands.” This way of seeing land for its productive qualities is typical of colonialist mapping.⁠
+Notes on various countries call out their attractive riches, like the text here by the Philippines:
+
+> “The General Product of the Islands is vast Quantities of Ambergreace \[sic\], Gold, Rice, the usual Indian Fruits, the Sagu and Cabbage Trees, and all the Beasts, Fowl, Fish, and Insects, common to the Indian Islands.”
+
+This way of seeing land for its productive qualities is typical of colonialist mapping.⁠
 
 ---
 
@@ -74,7 +78,7 @@ The map and explanation on the back are in English and Arabic. Abizaid was born 
 
 Modern flat Earthism was first promoted by English inventor and writer Samuel Rowbotham in 1849. His idea of the Earth as a flat disc centered on the North Pole, bounded on the edge by a wall of ice, is the most common flat Earth model. He founded the Zetetic Society, which after his death was succeeded by the Universal Zetetic Society. Abizaid was a president of the Universal Zetetic Society, which is now the Flat Earth Society.
 
-#### 2020
+#### 2020 - Contemporary Chorpoleths
 
 {{< figure src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/134918087_10164523318000304_7539007917082715911_o.jpg?_nc_cat=101&ccb=2&_nc_sid=9267fe&_nc_aid=0&_nc_ohc=8EC3ZUtaQ6wAX8aDmFP&_nc_ht=scontent-lga3-1.xx&oh=d670a546815e8434b6746549885e6818&oe=601927E6" caption="Check out [Daniel Huffman's maps](https://collections.leventhalmap.org/search?utf8=✓&q=huffman) in our Digital Collections" >}}
 
