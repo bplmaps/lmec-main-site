@@ -40,12 +40,14 @@ Teaching and learning visits are provided without fee. However, if you have acce
 
 ## Collaborative learning in the digital humanities{#collaborative-learning}
 
-LMEC encourages and supports student projects that engage with our digital materials to produce new interpretive frames around the collection.
+We encourage and supports student projects that engage with our digital materials to produce new interpretive frames around the collection. 
 
-For courses where technical training is not the primary earning objective, we offer highly-scaffolded assignments involving pre-built tools such as the Annotated Map Story generator (see examples on the Mashpee Wampanoag or the construction of the Tremont Street Subway) or the MapWarper georeferencer.
+For courses where technical training is not the primary earning objective, we offer highly-scaffolded assignments involving pre-built [digital tools](/projects/digital-projects/) such as [Atlascope](https://atlascope.leventhalmap.org), [Panel Truck](https://geoservices.leventhalmap.org/panel-truck/example.html), and the [Collections Georeferencer](https://collections.leventhalmap.org/georeferencing). In addition to supporting such exercises, we also like to showcase student work in our [articles](https://www.leventhalmap.org/articles/), offering students an opportunity to create pieces which will become part of a creative portfolio.
 
-For courses where students are expected to work with more sophisticated digital and technical skills, we offer numerous resources, from IIIF image API endpoints to interactive maps built in OpenLayers, Leaflet, or Mapbox.
+For courses where students are expected to work with more sophisticated digital and technical skills, we offer numerous resources, from IIIF image API endpoints to interactive maps built in OpenLayers, Leaflet, or Mapbox. 
+
+Contact the [Curator](/about/people/garrett-nelson) to discuss possibilities for collaboration on student digital humanities projects.
 
 ## Resources for student researchers{#student-research}
 
-Contact the [Curator](/about/people/garrett-nelson) to discuss possibilities for collaboration on student digital humanities projects.
+If you're working on a project about geography, history, we have thousands of resources that might be useful, whether a single illustration for a slide presentation or a deeper analysis of a question like urban morphological change. Read more [about our collections](/collections/overview/), or learn about how to [search in our catalogs](/collections/searching/). Our reference library team is always available to help answer your questions or find material that you may not even know is interesting yet—[make an appointment](https://www.leventhalmap.org/research/appointments/) to get deeper into a topic.
