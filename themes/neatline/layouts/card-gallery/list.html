@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<section class="section">
+<section class="section pb-3 mb-2">
   <div class="container">
     <div class="row">
       {{ range where .Pages.ByWeight "Params.menu" "!=" false  }}
@@ -10,5 +10,22 @@
     </div>
   </div>
 </section>
+
+{{ if .Params.collectionsHeader }}
+<section class="section mt-0 pt-0">
+  <div class="container">
+    <div class="row">
+      <h4 class="h3 mb-3">Quick search digital collections <a href="./searching" class="btn btn-xs btn-primary-outline ml-3"><i class="fas fa-search-plus mr-2"></i> More search options</a></h4>
+      <div style="width:100%">
+      <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+<script src="https://geoservices.leventhalmap.org/lmec-union-search-webcomponent/lmec-union-search.min.js"></script>
+<lmec-union-search></lmec-union-search>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
 
 {{ end }}
