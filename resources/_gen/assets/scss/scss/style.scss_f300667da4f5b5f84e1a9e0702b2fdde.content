@@ -373,6 +373,9 @@ textarea.form-control {
 .frontpage-content .frontpage-audience-card li {
   line-height: 1.4; }
 
+.content hr {
+  clear: both; }
+
 .content p a, .content li a {
   color: maroon; }
   .content p a:not(.btn), .content li a:not(.btn) {
