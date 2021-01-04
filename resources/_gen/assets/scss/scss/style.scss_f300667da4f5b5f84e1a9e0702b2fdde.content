@@ -139,14 +139,6 @@ body {
   background: #0763a2;
   color: #fff; }
 
-:target::before {
-  content: "";
-  display: inline-block;
-  height: 120px;
-  /* fixed header height*/
-  margin: -120px 0 0;
-  /* negative fixed header height */ }
-
 ol,
 ul {
   list-style-type: none;
@@ -416,6 +408,10 @@ textarea.form-control {
   font-weight: 700;
   color: #054571; }
 
+.content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
+  scroll-margin-top: 240px;
+  scroll-snap-margin-top: 240px; }
+
 .content h1, .content h2 {
   position: relative; }
   .content h1::before, .content h2::before {
@@ -608,6 +604,9 @@ textarea.form-control {
 
 .frontpage-searcher .btn {
   border-radius: 0; }
+
+.airtable-embed {
+  margin: 20px 0 40px 0; }
 
 .top-header {
   font-size: 12px;

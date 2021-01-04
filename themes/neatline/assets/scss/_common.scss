@@ -9,12 +9,6 @@ body {
 }
 
 
-:target::before {
-  content: "";
-  display: inline-block;
-  height: 120px; /* fixed header height*/
-  margin: -120px 0 0; /* negative fixed header height */
-}
 
 ol,
 ul {
@@ -407,6 +401,11 @@ textarea.form-control{
     color: $primary-color;
   }
 
+  h1, h2, h3, h4, h5, h6 {
+    scroll-margin-top: 240px;
+    scroll-snap-margin-top: 240px;
+  }
+
   h1, h2{
 
     position: relative;
@@ -692,4 +691,10 @@ p { font-size: 14px; line-height: 14px; }
   .btn {
     border-radius: 0;
   }
+}
+
+
+.airtable-embed {
+  margin: 20px 0 40px 0;
+
 }
