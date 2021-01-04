@@ -22,7 +22,7 @@
               <i class="fa fa-calendar-alt text-muted icon-md mr-3"></i>
               <div class="text-left">
                 <h6 class="mb-0">Date</h6>
-                <p class="mb-0">{{ .Date.Format "Jan 2, 2006" }}</p>
+                <p class="mb-0">{{ dateFormat "Jan 2, 2006" .Date.Local }}</p>
               </div>
             </div>
           </li>
