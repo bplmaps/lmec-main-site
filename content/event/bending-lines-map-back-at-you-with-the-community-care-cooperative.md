@@ -10,7 +10,7 @@ registration = ""
 title = "Bending Lines: Map Back at You with the Community Care Cooperative "
 
 +++
-#### Join us as we unpack a project in persuasive cartography
+### Join us live as we unpack a project in persuasive cartography
 
 As part of the [Bending Lines](https://leventhalmap.org/digital-exhibitions/bending-lines) exhibition initiative, we've started a project called **Map Back At You**, where we partner with community groups to create persuasive maps. These maps take data, design, and visual communication and put them in service of an argument, showing that maps are hardly just matter-of-fact reference tools.
 
