@@ -69,6 +69,8 @@ Modern flat Earthism was first promoted by English inventor and writer Samuel Ro
 
 #### 2020
 
+{{< figure src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/134918087_10164523318000304_7539007917082715911_o.jpg?_nc_cat=101&ccb=2&_nc_sid=9267fe&_nc_aid=0&_nc_ohc=8EC3ZUtaQ6wAX8aDmFP&_nc_ht=scontent-lga3-1.xx&oh=d670a546815e8434b6746549885e6818&oe=601927E6">}}
+
 For our last post of the year, we offered up a little self-reflection. This set of four maps was created in 2020 for our Maptivists initiative where we teach @bostonschools high school students how maps can empower them to tell stories. Cartographer Daniel Huffman created these maps of Boston using American Community Survey data.⁠
 ⁠
 The top two maps, showing change in white population and median housing value, in Boston help students visualize gentrification. The two showing free wi-fi hotspots and connectivity (or lack thereof) were created to challenge students to see how one data set can be visualized in two different ways. This can help us be better critical thinkers whenever we look at maps.⁠
