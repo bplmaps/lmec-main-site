@@ -1,22 +1,20 @@
 ---
 title: University Programs
-backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463248b/2539,2014,3647,1198/,1200/0/default.jpg"
-cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/5059,2047,4782,3064/400,/0/default.jpg"
-description: "Programs and activities for university-level teachers and students"
-weight: 2
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463248b/2539,2014,3647,1198/,1200/0/default.jpg
+cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/5059,2047,4782,3064/400,/0/default.jpg
+description: Programs and activities for university-level teachers and students
+weight: "2"
 aliases:
-    - "/research/remote-teaching/"
+- "/research/remote-teaching/"
+
 ---
-
-{{< alert-box type="warning" >}}
-With many universities continuing to operate under remote learning conditions in Fall 2020, the Leventhal Map & Education Center is committed to supporting teachers and students with digital resources and services. We offer a range of opportunities for remote learning at the university level, ranging from passive resources such as our digital collections and research guides to active collaborations such as virtual tours and more substantive co-development of digital assignments or projects.
-{{< /alert-box >}}
-
 ## Maps in Curriculum
 
 Course topics which may relate to our collections strengths include historical geography, environmental history, urban history and urban studies, the history of science, American studies, local and regional history of Boston and New England, GIS and geospatial techniques, critical cartography, digital humanities, and other related themes.
 
-## Remote Visits
+## Visiting the Map Center with a class
+
+{{< alert-box type="warning" icon="fa-laptop" title="Remote instruction only" >}}Remote{{</ alert-box >}}
 
 The LMEC curatorial and library team welcomes university classes to “visit” our collections and exhibition remotely. We offer broad overview lessons on historical geography, critical cartography, and research in the map collections, as well as thematically-focused discussions of object groups. We also offer instruction in digital methods for geography and cartography.
 
@@ -35,4 +33,3 @@ For courses where technical training is not the primary earning objective, we of
 For courses where students are expected to work with more sophisticated digital and technical skills, we offer numerous resources, from IIIF image API endpoints to interactive maps built in OpenLayers, Leaflet, or Mapbox.
 
 Contact the [Curator](/about/people/garrett-nelson) to discuss possibilities for collaboration on student digital humanities projects.
-
