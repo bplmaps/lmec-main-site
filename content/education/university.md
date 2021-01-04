@@ -10,7 +10,7 @@ aliases:
 ---
 ## Mapping across the curriculum
 
-Our collections, research programs, and public projects resonate with many different course topics at the university level, both in the humanities and social sciences and beyond. Amongst the topics which are best suited for collaborative learning at the Map Center include:
+Our collections, research programs, and public projects resonate with many different course topics at the university level, both in the humanities and social sciences and beyond. Some of the topics which are well-suited for collaborative learning include:
 
 * historical geography and environmental history
 * urban history and urban studies
@@ -22,17 +22,21 @@ Our collections, research programs, and public projects resonate with many diffe
 * digital humanities
 * media studies
 
-We welcome university teachers to [bring your students to the Map Center](#class-visits) for a virtual visit, or to [work with us](#collaborative-learning) in developing a course exercise that draws on historical collections or digital humanities skills. For students, we offer [many resources](#student-research) that may be helpful for research papers, presentations, and creative projects. 
+We welcome university teachers to [bring your students to the Map Center](#class-visits) for a virtual visit, or to [work with us](#collaborative-learning) in developing a course exercise that draws on historical collections or digital humanities skills. For students, we offer [many resources](#student-research) that may be helpful for research papers, presentations, and creative projects.
 
 ## Visiting the Map Center with a class{#class-visits}
 
 {{< alert-box type="warning" icon="fas fa-laptop-house" title="Remote instruction only" >}}Due to the continued closure of the BPL and LMEC for the COVID-19 pandemic, all instruction in Spring 2021 will take place remotely.{{</ alert-box >}}
 
-The LMEC curatorial and library team welcomes university classes to “visit” our collections and exhibition remotely. We offer **broad overview lessons** on historical geography, critical cartography, Boston history, and research in the map collections, as well as **thematically-focused discussions** of specific groups of objects or exhibition topics. We also offer **instruction in digital methods** for geography and cartography. 
+The LMEC curatorial and library team welcomes university classes to “visit” our collections and exhibition remotely. We offer **broad overview lessons** on historical geography, critical cartography, Boston history, and research in the map collections, as well as **thematically-focused discussions** of specific groups of objects or exhibition topics. We also offer **instruction in digital methods** for geography and cartography.
 
 To schedule a remote visit or talk for your class, please fill out this form:
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrO33Vhxfxs0SdOH?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="400" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+#### Cost
+
+Teaching and learning visits are provided without fee. However, if you have access to an institutionally-supported budget for curricular extensions, we appreciate any contribution that you can make towards supporting our free programming.
 
 ## Collaborative learning in the digital humanities{#collaborative-learning}
 
