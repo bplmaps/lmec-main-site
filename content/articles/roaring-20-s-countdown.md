@@ -47,21 +47,21 @@ The chart cites Alexander Humboldt’s foundational 1807 "Essay on the Geography
 
 #### 1920 - Spheres of Influence
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w29t/61,42,3307,3822/,1200/0/default.jpg" caption="[Abizaid, John George. "New correct map of the flat surface, stationary earth." 1920.[(https://collections.leventhalmap.org/search/commonwealth:7h149w28j)" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w29t/61,42,3307,3822/,1200/0/default.jpg" caption="[Abizaid, John George. "New correct map of the flat surface, stationary earth." 1920.](https://collections.leventhalmap.org/search/commonwealth:7h149w28j)" >}}
 
 Flat Earth theory is the disproven idea that the Earth is a flat disc. The earliest mention of the Earth as a sphere was in 5th century BC in Greece, and by 3rd century BC it was commonly known fact.
 
 The circumference of the spherical Earth was first calculated by Greek polymath Eratosthenes in 3rd century BC, based on the distance between 2 cities and the angle of sunlight. His exact method has been lost, but a simplified method was popularized by Greek astronomer Cleomedes around 4th century BC. Cleomedes calculated the circumference as 39,375 km, 701 km less than the actual circumference of 40,076 km.
 
-https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/134446202_10164520718590304_4562865360321654239_o.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=1qTMwwkYvr0AX-bAO_J&_nc_ht=scontent-lga3-1.xx&oh=b1dae4ce9035cc1a2e2358cc89ddcdfa&oe=6017CC0E
-
 While the Earth has been known to be a sphere since 3rd century BC, and there are multiple observations that prove the Earth is round, flat-Earthers believe and promote the idea that the Earth is flat.
+
+{{< figure src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/134446202_10164520718590304_4562865360321654239_o.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=1qTMwwkYvr0AX-bAO_J&_nc_ht=scontent-lga3-1.xx&oh=b1dae4ce9035cc1a2e2358cc89ddcdfa&oe=6017CC0E" caption="Abizaid and his map in the Boston Globe." >}}
 
 This map, published in 1920 by John Abizaid, illustrates his idea of a flat, stationary Earth. Abizaid claimed that if the Earth was moving, people would feel it, and if the Earth were round, people would fall off.
 
 In Abizaid's model, the Earth is divided into 5 zones, with the North Pole at the center. The 5th zone, which he called the South Circle, is dark and icy. This zone prevents people from crossing and falling off of the edge of the Earth. The sun, moon and stars all move above the Earth.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w29t/68,3983,3274,3174/,1200/0/default.jpg" caption="[Abizaid, John George. "New correct map of the flat surface, stationary earth." 1920.[(https://collections.leventhalmap.org/search/commonwealth:7h149w28j)" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w29t/68,3983,3274,3174/,1200/0/default.jpg" caption="[Abizaid, John George. "New correct map of the flat surface, stationary earth." 1920.](https://collections.leventhalmap.org/search/commonwealth:7h149w28j)" >}}
 
 The map and explanation on the back are in English and Arabic. Abizaid was born in Lebanon and immigrated to the U.S. in 1889. He published a book about flat Earth theory in Arabic, which he then translated to English in 1912.
 
@@ -73,4 +73,4 @@ For our last post of the year, we offered up a little self-reflection. This set 
 ⁠
 The top two maps, showing change in white population and median housing value, in Boston help students visualize gentrification. The two showing free wi-fi hotspots and connectivity (or lack thereof) were created to challenge students to see how one data set can be visualized in two different ways. This can help us be better critical thinkers whenever we look at maps.⁠
 ⁠
-Best wishes to you and yours in 2021!
+Best wishes to you and yours in 2021, and happy mapping!
