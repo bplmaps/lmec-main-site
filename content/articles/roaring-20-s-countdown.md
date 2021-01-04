@@ -61,7 +61,7 @@ This map, published in 1920 by John Abizaid, illustrates his idea of a flat, sta
 
 In Abizaid's model, the Earth is divided into 5 zones, with the North Pole at the center. The 5th zone, which he called the South Circle, is dark and icy. This zone prevents people from crossing and falling off of the edge of the Earth. The sun, moon and stars all move above the Earth.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w29t/68,3983,3274,3174/,1200/0/default.jpg" caption="[Abizaid, John George. "New correct map of the flat surface, stationary earth." 1920.](https://collections.leventhalmap.org/search/commonwealth:7h149w28j)" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w29t/68,3983,3274,3174/,1200/0/default.jpg" caption="Back, [Abizaid, John George. "New correct map of the flat surface, stationary earth." 1920.](https://collections.leventhalmap.org/search/commonwealth:7h149w28j)" >}}
 
 The map and explanation on the back are in English and Arabic. Abizaid was born in Lebanon and immigrated to the U.S. in 1889. He published a book about flat Earth theory in Arabic, which he then translated to English in 1912.
 
