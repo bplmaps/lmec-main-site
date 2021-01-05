@@ -4,7 +4,7 @@ backgroundImage = ""
 date = 2021-01-04T20:39:29Z
 description = "These maps from our collections, one for each 20s decade starting in 1520, helped us count down to New Years 2021"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:k643f9016/184,166,4010,5821/,1200/90/default.jpg"
-tags = ["social media","New Years","centuries"]
+tags = ["social media", "New Years", "centuries"]
 title = "Roaring Twenties Countdown"
 
 +++
@@ -16,17 +16,17 @@ Last week, to observe the end of 2020, we published maps of the 20s on our socia
 
 Petrus Apianus made this map. He was highly regarded in his day as a mathematician, cartographer, and author of a book on astronomy. This was the second known map to adopt the German cartographer Martin Waldseemüller's term "America." The continent’s new name is inscribed on the landmass, along with a credit to Columbus for "finding" an island in the year 1497.
 
----
+***
 
 #### 1620 - Portolan(d)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:k643f9016/106,134,9222,5938/,1200/90/default.jpg" caption="Augustin Roussin, from [_Portolan atlas_](https://collections.leventhalmap.org/book_viewer/commonwealth:q524n163k#1/6) (1620)" class="figure-left" >}}
 
-Next up in our 2020 countdown of maps through the centuries is this 1620 portolan! The term is from the Italian portulano and it's easy to see, as you look at the multitude of place names along the coasts, that these charts are all about navigating to ports or harbors. The mapmaker has featured his name, Augustin Roussin, with a large fancy initial “A.”
+Next up in our 2020 countdown of maps through the centuries is this 1620 portolan! The term is from the Italian _portulano_ and it's easy to see, as you look at the multitude of place names along the coasts, that these charts are all about navigating to ports or harbors. The mapmaker has featured his name, Augustin Roussin, with a large fancy initial “A.”
 
 He notes that he made this map in in the city of Marseilles, and if you zoom into the full map you'll see the hillside buildings and towers of the city depicted in an inset that is on a much larger scale than the rest of the map, with a deep blue harbor prominently featured.
 
----
+***
 
 #### 1720 - Legend Has It
 
@@ -42,19 +42,19 @@ Notes on various countries call out their attractive riches, like the text here 
 
 This way of seeing land for its productive qualities is typical of colonialist mapping.⁠
 
----
+***
 
 #### 1820 - The Hills Are Alive
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cd82j/805,94,8331,6749/,1200/0/default.jpg" caption="Hazen Morse, [_Comparative view of the heights of the principal mountains &c. in the world_](https://collections.leventhalmap.org/search/commonwealth:x059cd818) (Cummings and Hilliard, 1820)" class="figure-left" >}}
 
-This map is a view comparing the height of the world’s mountains! It was created by Hazen Morse, who was born in Haverhill MA, and worked as a silversmith and engraver in Boston.⁠
+This map is a view comparing the height of the world’s mountains! It was created by Hazen Morse, who was born in Haverhill, Massachusetts, and worked as a silversmith and engraver in Boston.⁠
 
 The chart cites Alexander Humboldt’s foundational 1807 "Essay on the Geography of Plants" as the main source for the mountain measurements. Humboldt, an explorer and scientist considered as influential as Charles Darwin, was a colorful character. An anti-slavery advocate, legend has it that when traversing the Quindiu Pass in Colombia, Humboldt refused to ride on a sillero, a man saddled with a chair. Instead, he walked.⁠
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cd82j/2091,1693,468,386/full/0/default.jpg" caption="If you zoom tightly into the upper left corner of the chart, you can spy a tiny figure hiking the slope of the Andes’ Chimborazo, the highest peak in the Western hemisphere, gazing out at the collection of mountains." >}}
 
----
+***
 
 #### 1920 - Spheres of Influence
 
@@ -78,9 +78,9 @@ The map and explanation on the back are in English and Arabic. Abizaid was born 
 
 Modern flat Earthism was first promoted by English inventor and writer Samuel Rowbotham in 1849. His idea of the Earth as a flat disc centered on the North Pole, bounded on the edge by a wall of ice, is the most common flat Earth model. He founded the Zetetic Society, which after his death was succeeded by the Universal Zetetic Society. Abizaid was a president of the Universal Zetetic Society, which is now the Flat Earth Society.
 
-#### 2020 - Contemporary Chorpoleths
+#### 2020 - Contemporary Choropleths
 
-{{< figure src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/134918087_10164523318000304_7539007917082715911_o.jpg?_nc_cat=101&ccb=2&_nc_sid=9267fe&_nc_aid=0&_nc_ohc=8EC3ZUtaQ6wAX8aDmFP&_nc_ht=scontent-lga3-1.xx&oh=d670a546815e8434b6746549885e6818&oe=601927E6" caption="Check out [Daniel Huffman's maps](https://collections.leventhalmap.org/search?utf8=✓&q=huffman) in our Digital Collections" >}}
+{{< figure src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/134918087_10164523318000304_7539007917082715911_o.jpg?_nc_cat=101&ccb=2&_nc_sid=9267fe&_nc_aid=0&_nc_ohc=8EC3ZUtaQ6wAX8aDmFP&_nc_ht=scontent-lga3-1.xx&oh=d670a546815e8434b6746549885e6818&oe=601927E6" caption="Check out [Daniel Huffman's maps](https://collections.leventhalmap.org/search?utf8=%E2%9C%93&q=huffman) in our Digital Collections" >}}
 
 For our last post of the year, we offered up a little self-reflection. This set of four maps was created in 2020 for our Maptivists initiative where we teach Boston Public Schools high school students how maps can empower them to tell stories. Cartographer Daniel Huffman created these maps of Boston using American Community Survey data.⁠
 ⁠
