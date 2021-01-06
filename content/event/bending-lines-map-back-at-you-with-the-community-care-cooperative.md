@@ -6,7 +6,7 @@ fee = "Free"
 image = "/uploads/2021-01-04/fqhc-map-zoom.jpg"
 location = "Online"
 publishDate = 2021-01-04T18:29:37Z
-registration = ""
+registration = "https://www.eventbrite.com/e/bending-lines-map-back-at-you-with-the-community-care-cooperative-tickets-135599516805"
 title = "Bending Lines: Map Back at You with the Community Care Cooperative "
 
 +++
