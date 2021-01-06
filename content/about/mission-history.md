@@ -26,6 +26,24 @@ The Norman B. Leventhal Map & Education Center at the Boston Public Library shal
 
 \[^1\]: American Library Association Code of Ethics; Association of College and Research Libraries Code of Ethics for Special Collections Librarians
 
+#### Our Commitment to Confront Systemic Racism
+
+We condemn the killings of George Floyd, Ahmaud Arbery, Breonna Taylor, and many, many more who have become victims of racial violence. These attacks are tragic symptoms of a long history of systemic racism, brutality, and inequality that continue to undermine the most basic rights of so many of our neighbors, family, friends, and fellow citizens.  
+  
+We are called to take action to reveal and work towards ending these injustices. Maps, both historical and contemporary, reflect and shape our lives. Where Black and other people of color have been subjected to violence, discrimination, and depredation, maps can expose these patterns, assist in identifying and addressing inequities, and enable us to act against them.  
+  
+We are renewed in our commitment to listen and educate ourselves more deeply about the racial dimensions of ingrained systems of domination, and to offer materials, free to all, that may help in this conversation. Here are just a few resources that show some of the geographic stakes of this struggle:
+
+* The [Racial Dot Map](https://demographics.coopercenter.org/racial-dot-map/%22%20/t%20%22_blank) of the United States allows you to see how strikingly segregated our cities remain in the present day
+* The [Mapping Police Violence](https://mappingpoliceviolence.org/%22%20/t%20%22_blank) project shows how Black people bear a disproportionate share of harm from police violence
+* Closer to home, the Metropolitan Area Planning Commission’s [State of Equity](https://equityagenda.mapc.org/indicators%22%20/t%20%22_blank) report maps patterns of racialized inequity in the Boston region
+
+In our own programs, we commit to examining and confronting these geographic patterns of injustice. We will address the ways that maps have been used as instruments of oppression and tools of dominance, and explore how maps can be used to engender positive change. We will engage and amplify the voices of people of color in our interpretative programs. We will use maps to open discussion of the role of racism in the past and present. Perhaps most importantly, we will connect with and listen to communities of color, ask what more can we do, and do it humbly and justly.  
+  
+This is a process which will take not only individual reflection but a collective effort. We will work with colleagues in libraries, museums, educational institutions, and community groups around the world to build efforts actively dedicated to a more just society.
+
+_June 16, 2020_
+
 ## History of the Center
 
 The Norman B. Leventhal Map & Education Center at the Boston Public Library, created in 2004, is a nonprofit organization established as a public-private partnership between the Library and philanthropist Norman Leventhal. Its mission is to use the collection of 200,000 maps and 5,000 atlases for the enjoyment and education of all through exhibitions, educational programs, and a website that includes more than 10,000 digitized maps at collections.leventhalmap.org. The map collection is global in scope, dating from the 15th century to the present, with a particular strength in maps and atlases from the New England region, American Revolutionary War period, nautical charts, and world urban centers.
