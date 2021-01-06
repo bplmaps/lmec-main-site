@@ -1,7 +1,6 @@
 +++
 backgroundImage = "/uploads/2021-01-04/fqhc-map-zoom.jpg"
 date = 2021-01-25T17:00:00Z
-draft = true
 fee = "Free"
 image = "/uploads/2021-01-04/fqhc-map-zoom.jpg"
 location = "Online"
