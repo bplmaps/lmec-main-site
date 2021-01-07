@@ -9,7 +9,6 @@ registration = "https://www.eventbrite.com/e/boston-by-map-tickets-134524152361"
 title = "Boston By Map"
 
 +++
-
 ### Join the Leventhal Map and Education Center for a virtual session on historical geography! Bring your lunch, map questions, and enthusiasm.
 
 Come virtually visit with volunteer Dennis McCarthy and Public Engagement & Interpretation Coordinator Rachel Mead as we take a trip into Boston historical geography. Then we'll widen our scope to answer your questions and figure out how to assist you in your own historical geography projects!
@@ -17,3 +16,5 @@ Come virtually visit with volunteer Dennis McCarthy and Public Engagement & Inte
 Learn about the Map Center's collections, tools, and more.
 
 This session will be streamed on LMEC's Facebook and YouTube channels. Registrants will be emailed direct links to these streams.
+
+Want to have input on what we talk about? Or have us discuss your project? [Click here](https://t.co/IGVHG9935j?amp=1) to fill out a very short survey!
