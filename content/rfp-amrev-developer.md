@@ -1,11 +1,16 @@
 +++
-backgroundImage = ""
-description = "Seeking a web portal for maps and historical geographies of the American Revolutionary Era"
-draft = true
-title = "RFP: Frontend developer"
+backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462x269/2271,2790,4595,2280/,1200/0/default.jpg"
+description = "Seeking a developer-designer for a web project on maps and historical geographies of the American Revolutionary Era"
+draft = false
+title = "RFP: Frontend Web Developer"
 weight = ""
+type = "singleton"
+menu = false
 
 +++
+
+<a href="https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EdnFCDtKzLdLvxCULJqCCoUB-3O0fssk2Fgwwr8duAQjVw?e=PJGDDJ" class="btn btn-primary-outline btn-lg"><i class="fas fa-file-pdf mr-2"></i> For a PDF version of this RFP, click here</a>
+
 A joint endeavor of the [**Fred W. Smith National Library for the Study of George Washington at Mount Vernon**](https://www.mountvernon.org/library/) and the **Leventhal Map & Education Center at the Boston Public Library**, the Project Team is creating a web portal consisting of primary source materials on the historical geography of the American Revolutionary era, coupled with rich interpretive essays, galleries, and interactives aimed at both scholarly and general public audiences. Building on the Leventhal Center's existing [American Revolution Portal](https://en.wikipedia.org/wiki/Portal:American_Revolutionary_War), the expanded project will entail a unified digital interface and catalog that enables convenient open access to high-resolution scans of relevant historic objects, an extensible architecture permitting new institutions to contribute additional primary material, and a research platform that facilitates new teaching and research opportunities centered on the maps in the collection.
 
 The working group seeks a **frontend web developer** focused on UI/UX and interface design to build the first public version of the portal, with the close collaboration of the project team. The project partners seek visually creative designs that draw inspiration from the map collections and emphasize ease of use for both specialist and nonspecialist public audiences.
