@@ -31,7 +31,7 @@ _Project supervision_
 _Project timeline_
 
 * Please submit proposals for review by **January 30, 2020**
-* Initial design sketchups should be completed by the end **March 2020**
+* Initial design sketchups should be completed by the end of **March 2020**
 * Primary design will take place **April--June 2020**
 * Refinements with the project team will take place **July--August 2020**
 * Work should be fully completed by **October 1, 2020**
