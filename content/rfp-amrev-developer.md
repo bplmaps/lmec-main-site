@@ -1,14 +1,11 @@
 +++
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462x269/2271,2790,4595,2280/,1200/0/default.jpg"
 description = "Seeking a developer-designer for a web project on maps and historical geographies of the American Revolutionary Era"
-draft = false
 title = "RFP: Frontend Web Developer"
-weight = ""
 type = "singleton"
-menu = false
+weight = ""
 
 +++
-
 <a href="https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EdnFCDtKzLdLvxCULJqCCoUB-3O0fssk2Fgwwr8duAQjVw?e=PJGDDJ" class="btn btn-primary-outline btn-lg"><i class="fas fa-file-pdf mr-2"></i> For a PDF version of this RFP, click here</a>
 
 A joint endeavor of the [**Fred W. Smith National Library for the Study of George Washington at Mount Vernon**](https://www.mountvernon.org/library/) and the **Leventhal Map & Education Center at the Boston Public Library**, the Project Team is creating a web portal consisting of primary source materials on the historical geography of the American Revolutionary era, coupled with rich interpretive essays, galleries, and interactives aimed at both scholarly and general public audiences. Building on the Leventhal Center's existing [American Revolution Portal](https://en.wikipedia.org/wiki/Portal:American_Revolutionary_War), the expanded project will entail a unified digital interface and catalog that enables convenient open access to high-resolution scans of relevant historic objects, an extensible architecture permitting new institutions to contribute additional primary material, and a research platform that facilitates new teaching and research opportunities centered on the maps in the collection.
@@ -41,10 +38,10 @@ _Project timeline_
 
 ### To submit a proposal
 
-Please send the following materials via email to [Garrett Dash Nelson](gnelson@leventhalmap.org) and [James Ambuske](jambuske@mountvernon.org) 
+Please send the following materials via email to [Garrett Dash Nelson](mailto:gnelson@leventhalmap.org) and [James Ambuske](mailto:jambuske@mountvernon.org)
 
 * Project team, including short biographies
 * Proposed tech stack
 * Cost estimates
-*  Portfolio examples (as external links)
-*  If available, client references
+* Portfolio examples (as external links)
+* If available, client references
