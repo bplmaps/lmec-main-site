@@ -54,11 +54,11 @@
       <div class="col-lg-9 cta-body">
         <ul>
           <li class="mb-3"><span class="badge badge-light font-secondary whats-new-badge">Next event</span>{{ range first 1 ($events)}}
-              <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> <span class="text-secondary">{{ .Page.Params.date.Format "Jan 2, 2006" }}</span>
+              <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> <span class="text-secondary">{{ dateFormat "Jan 2, 2006" .Page.Params.date.Local }}</span>
             {{ end }}</li>
 
             <li class="mb-3"><span class="badge badge-light font-secondary whats-new-badge">Latest article</span>{{ range first 1 (where site.RegularPages "Type" "articles")}}
-              <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> <span class="text-secondary">{{ .Page.Params.date.Format "Jan 2, 2006" }}</span>
+              <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> <span class="text-secondary">{{  dateFormat "Jan 2, 2006" .Page.Params.date.Local }}</span>
             {{ end }}</li>
 
           {{ range .announcements }}
