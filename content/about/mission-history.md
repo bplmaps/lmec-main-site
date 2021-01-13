@@ -24,7 +24,7 @@ The Norman B. Leventhal Map & Education Center at the Boston Public Library shal
 * Work to advance a more just and equitable society
 * Keep our spaces and community services open, welcoming, and “free to all”
 
-\*American Library Association Code of Ethics; Association of College and Research Libraries Code of Ethics for Special Collections Librarians
+_*American Library Association Code of Ethics; Association of College and Research Libraries Code of Ethics for Special Collections Librarians_
 
 #### Our Commitment to Confront Systemic Racism
 
