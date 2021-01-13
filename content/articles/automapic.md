@@ -1,10 +1,10 @@
 +++
 author = "Rachel Mead and Garrett Dash Nelson"
-backgroundImage = ""
+backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm86t/1594,2111,2567,1216/,1200/0/default.jpg"
 date = 2021-01-13T15:58:37Z
 description = "A twitter bot trawling through our digital collections brings up questions"
 draft = true
-image = "https://twitter.com/auto_mapic/status/1317201921925677056/photo/1"
+image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm86t/1594,2111,2567,1216/,1200/0/default.jpg"
 tags = ["digital collections", "social media", "racism", "automapic", "interpretation", "contextualizing collections"]
 title = "Automapic"
 
