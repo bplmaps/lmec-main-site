@@ -2,14 +2,14 @@
 author = "Rachel Mead and Garrett Dash Nelson"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm86t/1594,2111,2567,1216/,1200/0/default.jpg"
 date = 2021-01-13T15:58:37Z
-description = "A twitter bot trawling through our digital collections brings up questions"
+description = "A Twitter bot trawling through our digital collections brings up questions"
 draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm86t/1594,2111,2567,1216/,1200/0/default.jpg"
 tags = ["digital collections", "social media", "racism", "automapic", "interpretation", "contextualizing collections"]
-title = "Automapic"
+title = "A chance encounter with a cruel map"
 
 +++
-{{< alert-box title="Content warning" >}}This post contains offensive imagery involving a racist caricature.{{< /alert-box }}
+{{< alert-box title="Content warning" type="info" >}}This post contains offensive imagery involving a racist caricature.{{</ alert-box >}}
 
 Last fall, we launched a new experiment with the goal of discovering new materials in our collections: a bot that randomly pulls images from our digital collections and posts excerpts of them to Twitter. We call it [@auto_mapic](https://twitter.com/auto_mapic). Online search systems tend to turn up the results that match what you're looking for. But what if you don't know what you're looking for yet? Traditional digital collections repositories are much less effective for the kind of serendipity that can come from browsing a bookshelf or idly flipping through the pages of a catalogue for inspiration. That's why this random bot has been so intriguing—it turns up things that we didn't know to look for. And, at a time when our physical spaces our closed, it’s been a great way to engage with our collections from a safe distance.
 
