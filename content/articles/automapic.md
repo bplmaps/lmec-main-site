@@ -2,10 +2,10 @@
 author = "Rachel Mead & Garrett Dash Nelson"
 backgroundImage = ""
 date = 2021-01-13T15:58:37Z
-description = ""
+description = "A twitter bot trawling through our digital collections brings up questions. Content warning for racist imagery."
 draft = true
 image = "https://twitter.com/auto_mapic/status/1317201921925677056/photo/1"
-tags = []
+tags = ["digital collections", "social media", "racism", "automapic", "interpretation", "contextualizing collections"]
 title = "Automapic"
 
 +++
