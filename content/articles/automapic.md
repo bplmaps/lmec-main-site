@@ -1,14 +1,16 @@
 +++
-author = "Rachel Mead & Garrett Dash Nelson"
+author = "Rachel Mead and Garrett Dash Nelson"
 backgroundImage = ""
 date = 2021-01-13T15:58:37Z
-description = "A twitter bot trawling through our digital collections brings up questions. Content warning for racist imagery."
+description = "A twitter bot trawling through our digital collections brings up questions"
 draft = true
 image = "https://twitter.com/auto_mapic/status/1317201921925677056/photo/1"
 tags = ["digital collections", "social media", "racism", "automapic", "interpretation", "contextualizing collections"]
 title = "Automapic"
 
 +++
+{{< alert-box title="Content warning" >}}This post contains offensive imagery involving a racist caricature.{{< /alert-box }}
+
 Last fall, we launched a new experiment with the goal of discovering new materials in our collections: a bot that randomly pulls images from our digital collections and posts excerpts of them to Twitter. We call it [@auto_mapic](https://twitter.com/auto_mapic). Online search systems tend to turn up the results that match what you're looking for. But what if you don't know what you're looking for yet? Traditional digital collections repositories are much less effective for the kind of serendipity that can come from browsing a bookshelf or idly flipping through the pages of a catalogue for inspiration. That's why this random bot has been so intriguing—it turns up things that we didn't know to look for. And, at a time when our physical spaces our closed, it’s been a great way to engage with our collections from a safe distance.
 
 At the same time, however, the bot also sparked a lot of discussion about our objects and how to present them in a way that takes responsibility for their content. We started this conversation when we set up the bot, by making its [very first post](https://twitter.com/auto_mapic/status/1301547799062945794) a message about how to contact us if its random selection happened to pull up an image with objectionable content. This concern became  more real a month later when auto_mapic tweeted this image from a 1949 puzzle map:
