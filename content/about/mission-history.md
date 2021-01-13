@@ -18,13 +18,13 @@ The Norman B. Leventhal Map & Education Center at the Boston Public Library shal
 
 ### Values
 
-* Commit to integrity, excellence, respect in all our relationships, and professional library ethics\[^1\]
+* Commit to integrity, excellence, respect in all our relationships, and professional library ethics*
 * Listen to and include community voices, especially those who have been less represented
 * Increase diversity, equity, and inclusion in our organization and our work with others
 * Work to advance a more just and equitable society
 * Keep our spaces and community services open, welcoming, and “free to all”
 
-\[^1\]: American Library Association Code of Ethics; Association of College and Research Libraries Code of Ethics for Special Collections Librarians
+\*American Library Association Code of Ethics; Association of College and Research Libraries Code of Ethics for Special Collections Librarians
 
 #### Our Commitment to Confront Systemic Racism
 
