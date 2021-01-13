@@ -32,7 +32,7 @@ _Project timeline_
 
 * Please submit proposals for review by **January 30, 2021**
 * Initial design sketchups should be completed by the end of **March 2021**
-* Primary design will take place **April--June 20201**
+* Primary design will take place **April--June 2021**
 * Refinements with the project team will take place **July--August 2021**
 * Work should be fully completed by **October 1, 2021**
 
