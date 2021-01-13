@@ -3,10 +3,10 @@ author = "Rachel Mead and Garrett Dash Nelson"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm86t/1594,2111,2567,1216/,1200/0/default.jpg"
 date = 2021-01-13T15:58:37Z
 description = "A Twitter bot trawling through our digital collections brings up questions"
-draft = true
+draft = false
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm86t/1594,2111,2567,1216/,1200/0/default.jpg"
 tags = ["digital collections", "social media", "racism", "automapic", "interpretation", "contextualizing collections"]
-title = "A chance encounter with a cruel map"
+title = "Confronting the content of collections"
 
 +++
 {{< alert-box title="Content warning" type="info" >}}This post contains offensive imagery involving a racist caricature.{{</ alert-box >}}
