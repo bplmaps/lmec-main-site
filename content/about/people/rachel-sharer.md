@@ -1,6 +1,6 @@
 ---
 title: Rachel Sharer
-description: Development Administrative Assistant
+description: Development Coordinator
 headshot: "/uploads/unadjustednonraw_thumb_171d.jpg"
 type: person
 contact:
