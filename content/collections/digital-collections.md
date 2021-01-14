@@ -41,6 +41,9 @@ Our materials are mainly available on two online repositories, both of which are
 
 This quick search tool will allow you to run a keyword search across the Digital Collections portal and Internet Archive. For more information on advanced searches of the full scope of our collections, see the [Searching the Collections](/collections/searching) page.
 
+<script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+
 <script src="https://geoservices.leventhalmap.org/lmec-union-search-webcomponent/lmec-union-search.min.js"></script>
 <lmec-union-search></lmec-union-search>
 

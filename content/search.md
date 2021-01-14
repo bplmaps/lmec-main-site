@@ -56,9 +56,11 @@ Search the Bibliocommons catalog for collections records. See [Searching the Col
 
 Search the Digital Collections portal and Internet Archive for digitized material. See [Digital Collections](/collections/digital-collections) for more information and advanced search.
 
+<script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+
 <script src="https://geoservices.leventhalmap.org/lmec-union-search-webcomponent/lmec-union-search.min.js"></script>
 <lmec-union-search></lmec-union-search>
-
 ## Search Cartinal
 
 For tutorials, guides, and documentation on geospatial information, data services, and computer cartography, search the [Cartinal documentation portal](https://geoservices.leventhalmap.org/cartinal/). 
