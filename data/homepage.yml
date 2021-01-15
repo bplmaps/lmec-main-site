@@ -47,12 +47,12 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Digital feature
-    text: "**Mapping a World of Cities** explores five centuries of urban history"
-    link: https://leventhalmap.org/projects/mapping-a-world-of-cities
+  - badge: Open RFP
+    text: "Searching for a developer-designer for frontend work on a new web portal"
+    link: https://www.leventhalmap.org/rfp-amrev-developer/
   - badge: New acquisition
-    text: A bragging map of Texas
-    link: https://collections.leventhalmap.org/search/commonwealth:fn107c370
+    text: A 1907 map of trolley routes stretching across eastern New England
+    link: https://bpl.bibliocommons.com/item/show/7604574075
 audiences:
   enable: true
   audienceGroups:
