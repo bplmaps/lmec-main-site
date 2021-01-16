@@ -13,7 +13,7 @@ title = "Jamaica Plain By Map"
 
 For the last several months, we've been cohosting neighborhood community history nights with BPL branch libraries! Last night, we had a lot of fun exploring Jamaica Plain with the Egleston, Connolly, and JP branches as well as the [JP Historical Society](jphs.org). It gave us a chance to show off our wonderful [Atlascope](atlascope.leventhalmap.org) tool, interact with patrons, and take a dive into some local history!
 
-Atlascope is a geospatial project using data from historic atlases and transposing them onto modern day maps. With this tool, we can use these atlases more fluidly, and importantly for the moment, remotely! Definitely check it out in your spare time, and if you have any questions about it, [hit us up](mailto: info@leventhalmap.org).
+Atlascope is a geospatial project using data from historic atlases and transposing them onto modern day maps. With this tool, we can use these atlases more fluidly, and importantly for the moment, remotely! Definitely check it out in your spare time, and if you have any questions about it, [hit us up](mailto:info@leventhalmap.org).
 
 We started a little further north than JP, at the mouth of the Muddy River. While it's called a river, it is actually a series of brooks and ponds running into the Charles. You can see in the view below what it looked like in 1873 before Back Bay was filled.
 <iframe width="700" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:001$overlay:39999059010718$zoom:16.05$center:-7914097.059288418,5212795.216296701$mode:swipe-y$pos:0.545"></iframe>
