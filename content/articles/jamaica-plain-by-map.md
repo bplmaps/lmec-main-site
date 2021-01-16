@@ -1,17 +1,19 @@
 +++
 author = "Rachel Mead"
-backgroundImage = ""
+backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc35p/3691,361,868,597/,1200/0/default.jpg"
 date = 2021-01-15T17:25:53Z
-description = ""
+description = "Our urban atlas tool lets us explore the history of JP!"
 draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc35p/3691,361,868,597/,1200/0/default.jpg"
-tags = []
+tags = ["boston by map", "jamaica plain", "atlascope", "events", "bpl"]
 title = "Jamaica Plain By Map"
 
 +++
 # Jamaica Plain By Map
 
-For the last several months, we've been cohosting neighborhood community history nights with BPL branch libraries! Last night, we had a lot of fun exploring Jamaica Plain. It gave us a chance to show off our wonderful [Atlascope](atlascope.leventhalmap.org) tool, interact with patrons, and take a dive into some local history!
+For the last several months, we've been cohosting neighborhood community history nights with BPL branch libraries! Last night, we had a lot of fun exploring Jamaica Plain with the Egleston, Connolly, and JP branches as well as the [JP Historical Society](jphs.org). It gave us a chance to show off our wonderful [Atlascope](atlascope.leventhalmap.org) tool, interact with patrons, and take a dive into some local history!
+
+Atlascope is a geospatial project using data from historic atlases and transposing them onto modern day maps. With this tool, we can use these atlases more fluidly, and importantly for the moment, remotely! Definitely check it out in your spare time, and if you have any questions about it, [hit us up](mailto: info@leventhalmap.org).
 
 We started a little further north than JP, at the mouth of the Muddy River. While it's called a river, it is actually a series of brooks and ponds running into the Charles. You can see in the view below what it looked like in 1873 before Back Bay was filled.
 <iframe width="700" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:001$overlay:39999059010718$zoom:16.05$center:-7914097.059288418,5212795.216296701$mode:swipe-y$pos:0.545"></iframe>
@@ -54,7 +56,6 @@ Another major product of the neighborhood was beer. Brewing companies made use o
 
 Also making use of this name was the Boylston Schulverein, a German club on Danforth Street. Breweries are a signal of a German immigrant presence in the neighborhood, but this particular building as well as the names on the properties around it is another.
 
-
 Names on properties can be misleading, though, or simply not provide us with as much information as we'd like. Only the names of property owners are listed rather than the names of the actual inhabitants of the house. Therefore, we don't get the full picture of the population of a neighborhood from these atlases alone.
 
 <iframe width="700" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:001$overlay:39999059011872$zoom:20.00$center:-7915687.556214813,5209159.224172146$mode:glass$pos:487"></iframe>
@@ -67,5 +68,4 @@ Above is an example of Cuney-Hare's correspondance with W.E.B. DuBois, which lis
 
 ![](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc35p/full/,1200/0/default.jpg)
 
-Our own collections house plenty of maps of Boston outside of the urban atlases we have! This bird's eye view map of Jamaica Plain is a particularly lovely one with illustrations of buildings of the neighborhood bordering the view itself.
-
+Our own collections house plenty of maps of Boston outside of the urban atlases we have! This bird's eye view map of Jamaica Plain is a particularly lovely one with illustrations of buildings of the neighborhood bordering the view itself. Check out [our digital collections](https://collections.leventhalmap.org/) for more!
