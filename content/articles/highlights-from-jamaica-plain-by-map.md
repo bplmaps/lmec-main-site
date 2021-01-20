@@ -9,8 +9,6 @@ tags = ["Atlascope", "local history", "urban atlases"]
 title = "Highlights from Jamaica Plain By Map"
 
 +++
-# Jamaica Plain By Map
-
 For the last several months, we've been cohosting neighborhood community history nights with BPL branch libraries. Last night, we had a lot of fun exploring Jamaica Plain. JP was actually our first visit on our  branch libraries tour last year, before the COVID closures moved all of these events online. Coming "back" to JP with a remote talk gave us a chance to show off our [Atlascope](atlascope.leventhalmap.org) tool once again, interact with patrons, and take a dive into some local history. If you missed the event, [check out the video](https://www.youtube.com/watch?v=6KTCWKqmJeE&t=3241s) or read on to see some of the sites we visited.
 
 We started a little further north than JP, at the mouth of the Muddy River. While it's called a river, it was actually a series of brooks and ponds running into the Charles estuary. You can see in the view below what it looked like in 1873 before Back Bay was filled.
@@ -54,7 +52,6 @@ Another major product of the neighborhood was beer. Brewing companies made use o
 
 Also making use of this name was the Boylston Schulverein, a German club on Danforth Street. Breweries are a signal of a German immigrant presence in the neighborhood, but this particular building as well as the names on the properties around it is another.
 
-
 Names on properties can be misleading, though, or simply not provide us with as much information as we'd like. Only the names of property owners are listed rather than the names of the actual inhabitants of the house. Therefore, we don't get the full picture of the population of a neighborhood from these atlases alone.
 
 <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:001$overlay:39999059011872$zoom:20.00$center:-7915687.556214813,5209159.224172146$mode:glass$pos:487"></iframe>
@@ -68,5 +65,3 @@ Above is an example of Cuney-Hare's correspondance with W.E.B. Du Bois, which li
 ![](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc35p/full/,1200/0/default.jpg)
 
 Our own collections house plenty of maps of Boston beyond the urban atlases that are part of Atlascope. This bird's eye view map of Jamaica Plain is a particularly lovely one with illustrations of buildings of the neighborhood bordering the view itself.
-
-
