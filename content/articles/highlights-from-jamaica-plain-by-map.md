@@ -11,6 +11,7 @@ title = "Highlights from Jamaica Plain By Map"
 For the last several months, we've been cohosting neighborhood community history nights with BPL branch libraries. Last night, we had a lot of fun exploring Jamaica Plain. JP was actually our first visit on our  branch libraries tour last year, before the COVID closures moved all of these events online. Coming "back" to JP with a remote talk gave us a chance to show off our [Atlascope](https://atlascope.leventhalmap.org) tool once again, interact with patrons, and take a dive into some local history. If you missed the event, [check out the video](https://www.youtube.com/watch?v=6KTCWKqmJeE&t=3241s) or read on to see some of the sites we visited.
 
 We started a little further north than JP, at the mouth of the Muddy River. While it's called a river, it was actually a series of brooks and ponds running into the Charles estuary. You can see in the view below what it looked like in 1873 before Back Bay was filled.
+
 <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:001$overlay:39999059010718$zoom:16.05$center:-7914097.059288418,5212795.216296701$mode:swipe-y$pos:0.545"></iframe>
 
 Between 1880 and 1900, the Emerald Necklace was created. In the process, the Muddy River was banked and controlled, as part of the effort to "reclaim" (or perhaps more appropriately, to claim) the marshy landscape.
