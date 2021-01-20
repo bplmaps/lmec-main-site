@@ -3,7 +3,6 @@ author = "Garrett Dash Nelson"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c409/9029,3042,1239,728/,1200/0/default.jpg"
 date = 2021-01-20T21:01:21Z
 description = "Our new exhibition is featured in the Cartographic Collections section of the NACIS journal"
-draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c409/9029,3042,1239,728/,1200/0/default.jpg"
 tags = ["publications", "Bending Lines"]
 title = "Bending Lines in Cartographic Perspectives"
