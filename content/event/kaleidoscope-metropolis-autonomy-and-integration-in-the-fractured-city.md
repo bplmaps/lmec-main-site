@@ -10,7 +10,7 @@ registration = "https://www.masshist.org/calendar/event?event=3427"
 title = "Kaleidoscope Metropolis: Autonomy and Integration in the Fractured City"
 
 +++
-{{< alert-box title="Cross-listed event" >}}This event is hosted by another institution.{{< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< /alert-box >}}
 
 ### The LMEC's curator presents on the history of municipal fragmentation in the Massachusetts Historical Society's Environmental History Seminar
 
