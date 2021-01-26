@@ -6,7 +6,7 @@ image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f22q/full
 location = "Online"
 publishDate = 2020-12-08T22:15:15Z
 registration = "https://www.eventbrite.com/e/boston-by-map-tickets-132168935845"
-title = "Boston By Map"
+title = "Boston By Map 12/15"
 
 +++
 ### Event video
