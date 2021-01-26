@@ -1,7 +1,6 @@
 +++
 backgroundImage = "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F121834853%2F167762409652%2F1%2Foriginal.20201229-133128?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1006%2C503&s=f927d4fd74e14a3cf4e306b116c8816f"
 date = 2021-02-16T17:00:00Z
-draft = true
 fee = "Free"
 image = "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F121834853%2F167762409652%2F1%2Foriginal.20201229-133128?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1006%2C503&s=f927d4fd74e14a3cf4e306b116c8816f"
 location = "Online"
@@ -12,7 +11,7 @@ title = "Boston By Map"
 +++
 ### Event description
 
-### Join the Leventhal Map and Education Center for a virtual session on historical geography! Bring your lunch, map questions, and enthusiasm.
+#### Join the Leventhal Map and Education Center for a virtual session on historical geography! Bring your lunch, map questions, and enthusiasm.
 
 Come virtually visit with volunteer Dennis McCarthy and Public Engagement & Interpretation Coordinator Rachel Mead as we take a trip into Boston historical geography. Then we'll widen our scope to answer your questions and figure out how to assist you in your own historical geography projects!
 
