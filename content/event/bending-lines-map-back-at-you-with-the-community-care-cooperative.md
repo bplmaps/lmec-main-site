@@ -9,7 +9,13 @@ registration = "https://www.eventbrite.com/e/bending-lines-map-back-at-you-with-
 title = "Bending Lines: Map Back at You with the FQHC Telehealth Consortium"
 
 +++
-### Join us live as we unpack a project in persuasive cartography
+### Event video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SWz-DGrGvjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Event description
+
+#### Join us live as we unpack a project in persuasive cartography
 
 As part of the [Bending Lines](https://leventhalmap.org/digital-exhibitions/bending-lines) exhibition initiative, we've started a project called **Map Back At You**, where we partner with community groups to create persuasive maps. These maps take data, design, and visual communication and put them in service of an argument, showing that maps are hardly just matter-of-fact reference tools.
 
