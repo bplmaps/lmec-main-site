@@ -36,6 +36,7 @@ fields:
   label: Background Image
   description: Will be shown behind the title in the banner
 pages:
+- content/articles/a-new-view-into-urban-renewal-in-boston.md
 - content/articles/a-sylvan-boundary.md
 - content/articles/automapic.md
 - content/articles/bending-lines-in-cartographic-perspectives.md
