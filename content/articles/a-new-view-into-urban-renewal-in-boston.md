@@ -48,6 +48,8 @@ What's especially exciting about the inclusion of the BRA Collection in our digi
 
 Don't forget: what you can find in a digital repository almost never matches the full extent of resources which a library has in its collections! We have many thousands more materials about twentieth century Boston; you can find out more by [searching our catalog](https://www.leventhalmap.org/collections/searching/) or [making an appointment](https://www.leventhalmap.org/research/) with a research librarian. As we mentioned earlier, the BPL's collections on the [Internet Archive](https://archive.org/details/bostonpubliclibrary) include many scanned reports and pamphlets from the Government Documents collection, and quite a few of these include maps.
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw359/1383,2452,1597,2146/,1200/0/default.jpg" caption="This playful [pictorial map from 1976](https://collections.leventhalmap.org/search/commonwealth:7h14cw341) shows Boston's \"urban wilds\""  class="figure-right" >}}
+
 Elsewhere on the web, you can also find digital collections related to twentieth century Boston at some of the following institutions:
 
 * [City of Boston Archives](https://archives.cityofboston.gov)
