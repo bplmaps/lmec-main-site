@@ -27,7 +27,7 @@ Because they seem to show the world how it “really is,” maps produce a power
 
 **Bending Lines** was scheduled to be exhibited in May 2020, but was put on hold due to the COVID-19 pandemic. We have created an immersive digital-first exhibition portal to explore while the gallery is closed.
 
-<a class="btn btn-outline-primary" href="https://leventhalmap.org/digital-exhibitions/bending-lines">Enter the digital exhibition</a>
+<a class="btn btn-outline-primary btn-block" href="https://leventhalmap.org/digital-exhibitions/bending-lines"><i class="fas fa-images mr-2"></i>Enter the digital exhibition</a>
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4638479/3319,2201,4840,3321/,800/0/default.jpg" caption="This [1926 map of Tokyo](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/2.2.1/) shows how statistics and demographic information can be portrayed in a cartographic representation." >}}
 
