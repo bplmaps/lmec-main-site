@@ -11,18 +11,17 @@ title = "A new view into urban renewal in Boston"
 +++
 Because we’re a historical map collection, it’s easy to assume that what you’ll find in our holdings are all maps of the past—maps that document how things used to be. But maps aren't always backwards-looking. In the form of plans, maps can show how the world as it _may someday become_, rather than how it _is_ or _was_. For instance, we sometimes ask students to figure out where the “Silver Lake” shown in [this 1852 map](https://collections.leventhalmap.org/search/commonwealth:cf95jd161) can be found in modern Boston. It’s a trick question, because the Boston shown in this map never existed; the 1852 document is a speculative plan for Back Bay that wasn’t executed. The history of plans is therefore history of futures past—some of which became real futures, and others of which never came to pass.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw32g/full/,1200/0/default.jpg" caption="A [1979 plan](https://collections.leventhalmap.org/search/commonwealth:2f75r928q) of the waterfront produced by the BRA shows \"challenges and opportunities\"" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw32g/full/,1200/0/default.jpg" caption="A [1979 plan](https://collections.leventhalmap.org/search/commonwealth:2f75r928q) of the waterfront produced by the BRA shows "challenges and opportunities"" class="figure-right" >}}
 
 Probably no single organization in Boston's history is responsible for producing more plans that forecast the city's future than the Boston Redevelopment Authority. Founded in 1957 at the height of the postwar boom in urban renewal, the BRA became the city's chief planning authority in 1960, and oversaw projects ranging from the mass clearance of entire neighborhoods to studies of individual buildings. Renamed the Boston Planning & Development Agency in 2016, the former BRA remains a hugely important institution in mapping Boston in the present day.
 
 For all of those reasons and more, we’re very excited to announce the availability of 124 newly-digitized historic maps and plans from the [Boston Redevelopment Authority Collection](https://collections.leventhalmap.org/collections/commonwealth:7h14cv132). These materials, spanning from the 1920s to the early 1990s, offer an extraordinary look into the way that municipal planners shaped not only the physical form of the City of Boston, but also its social life, economic patterns, and community characteristics as well. As examples of the history of cartography, these maps document the emergence of social-scientific methods for mapping human geography in the middle twentieth century. As records of Boston's urban history, they show how some of the most influential projects in the city's modern development, like the construction of Government Center, came to be.
 
-<a class="btn btn-outline-primary btn-block"><i class="fas fa-eye mr-2"></i> Visit the BRA Collection</a>
+<a class="btn btn-outline-primary btn-block" href="https://collections.leventhalmap.org/collections/commonwealth:7h14cv132"><i class="fas fa-eye mr-2"></i> Visit the BRA Collection</a>
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2f75r9222/full/,1200/0/default.jpg" caption="A [1959 plan](https://collections.leventhalmap.org/search/commonwealth:7h14cv71z) showing a vision for Government Center, which would become one of the most influential BRA-led projects and symbolized the height of urban renewal in Boston"  >}}
 
 The maps in the BRA Collection also encourage us to reflect on the role of government power in the production of urban space; after all, the term _authority_ is right there in the BRA's title. In our current exhibition [_Bending Lines_](https://www.leventhalmap.org/digital-exhibitions/bending-lines/power-belief/authority/), we show how maps exert a powerful kind of narrative authority. In fact, the BRA's ability manage how and where people lived, worked, and went about their lives was (and is) intimately related to its ability to produce maps—both the official maps which informed the planners' own work, as well as maps that circulated amongst the public, advertising and promoting the goals of redevelopment projects. That cartographic power, the symbolic representation of "top-down" authority, was part of what led the BRA into political conflict when activists and organizers felt like its perspective on the city was too distant, a story we heard more about from the hsitorian Lizabeth Cohen in a [lecture last fall](https://www.youtube.com/watch?v=_JKoC7QQBNs).
-
 
 ### Digitizing the collection
 
@@ -46,12 +45,11 @@ What's especially exciting about the inclusion of the BRA Collection in our digi
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw77t/413,1069,5913,2963/,1200/0/default.jpg" caption="Not all of the maps in the collection were produced by the BRA itself; this [1972 study](https://collections.leventhalmap.org/search/commonwealth:7h14cw76j) of public transit lines and recreational amenities was produced by the Department of Natural Resources" >}}
 
-
 ### Where to find more on twentieth century Boston
 
 Don't forget: what you can find in a digital repository almost never matches the full extent of resources which a library has in its collections! We have many thousands more materials about twentieth century Boston; you can find out more by [searching our catalog](https://www.leventhalmap.org/collections/searching/) or [making an appointment](https://www.leventhalmap.org/research/) with a research librarian. As we mentioned earlier, the BPL's collections on the [Internet Archive](https://archive.org/details/bostonpubliclibrary) include many scanned reports and pamphlets from the Government Documents collection, and quite a few of these include maps.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw359/1383,2452,1597,2146/,1200/0/default.jpg" caption="This playful [pictorial map from 1976](https://collections.leventhalmap.org/search/commonwealth:7h14cw341) shows Boston's \"urban wilds\""  class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw359/1383,2452,1597,2146/,1200/0/default.jpg" caption="This playful [pictorial map from 1976](https://collections.leventhalmap.org/search/commonwealth:7h14cw341) shows Boston's "urban wilds""  class="figure-right" >}}
 
 Elsewhere on the web, you can also find digital collections related to twentieth century Boston at some of the following institutions:
 
