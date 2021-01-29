@@ -1,5 +1,5 @@
 +++
-author = "Rachel Mead"
+author = "LMEC Staff"
 backgroundImage = ""
 date = 2021-01-04T20:39:29Z
 description = "These maps from our collections, one for each 20s decade starting in 1520, helped us count down to New Years 2021"
