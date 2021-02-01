@@ -47,8 +47,8 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Open RFP
-    text: "Searching for a developer-designer for frontend work on a new web portal"
+  - badge: Deadline extended
+    text: RFP for a developer-designer on our new American Revolution portal
     link: https://www.leventhalmap.org/rfp-amrev-developer/
   - badge: New acquisition
     text: A 1907 map of trolley routes stretching across eastern New England
