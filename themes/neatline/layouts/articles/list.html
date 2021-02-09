@@ -25,7 +25,7 @@
                   </li>
                 </ul>
                 <h3 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                <p class="card-text">{{ .Summary | truncate 100 }}</p>
+                <p class="card-text">{{ .Params.description }}</p>
                 <a href="{{ .Permalink }}" class="btn btn-primary btn-sm">Read more</a>
               </div>
             </article>

@@ -135,7 +135,7 @@ link = "https://secure.flickr.com/photos/normanbleventhalmapcenter/"
 title = "github"
 [[params.social]]
 icon = "fab fa-github"
-link = "https://github.com/nblmc"
+link = "https://github.com/bplmaps"
 title = "github"
 [social]
 facebook = "bplmaps"

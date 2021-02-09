@@ -10,7 +10,7 @@
         href="{{ `author` | relURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></li>
     </ul>
       <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-    <p class="card-text">{{ .Params.description | truncate 100 }}</p>
+    <p class="card-text">{{ .Params.description  }}</p>
     <a href="{{ .Permalink }}" class="btn btn-primary btn-sm">Read</a>
   </div>
 </article>
