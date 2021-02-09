@@ -47,9 +47,9 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Deadline extended
-    text: RFP for a developer-designer on our new American Revolution portal
-    link: https://www.leventhalmap.org/rfp-amrev-developer/
+  - badge: Teacher professional development
+    text: Apply for the summer 2021 Mapping a New World workshop
+    link: http://newworld.leventhalmap.org
   - badge: New acquisition
     text: A 1907 map of trolley routes stretching across eastern New England
     link: https://bpl.bibliocommons.com/item/show/7604574075
