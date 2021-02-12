@@ -20,7 +20,7 @@ During the 19th century, the United States expanded dramatically westward. Immig
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="HRFUP73C7EQP2">
 <table>
-<tr><td><input type="hidden" name="on0" value="Types">Choose a binding</td></tr><tr><td><select name="os0">
+<tr><td><input type="hidden" name="on0" value="Types">Choose a binding (listed prices do not include shipping)</td></tr><tr><td><select name="os0">
 <option value="Hard Cover Catalog">Hard Cover Catalog $40.00 USD</option>
 <option value="Soft Cover Catalog">Soft Cover Catalog $30.00 USD</option>
 </select> </td></tr>
@@ -36,7 +36,6 @@ During the 19th century, the United States expanded dramatically westward. Immig
 We Are One maps the American road to independence. It explores the tumultuous events that led thirteen colonies to join to forge a new nation. The exhibition takes its title from Benjamin Franklin’s early design for a note of American currency containing the phrase “We Are One.” This presaged the words “E Pluribus Unum” found on the seal of the United States (adopted in 1782) and on all U.S. coins.
 
 Catalog, 50pp. (2015). [Browse the LMEC copy](https://bpl.bibliocommons.com/v2/record/S75C7585128) or [find it in your own library](http://www.worldcat.org/oclc/918876662).
-
 
 ![Catalog cover for We Are One](https://www.leventhalmap.org/wp-content/uploads/2017/03/we_are_one_sm.jpg)
 
