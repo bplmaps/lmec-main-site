@@ -51,8 +51,8 @@ cta:
     text: Apply for the summer 2021 Mapping a New World workshop
     link: http://newworld.leventhalmap.org
   - badge: New acquisition
-    text: The 1817 Ruggles map of New Hampshire
-    link: https://bpl.bibliocommons.com/item/show/7646083075
+    text: An 1890 map of telephone and telegraph lines
+    link: https://bpl.bibliocommons.com/item/show/7646084075
 audiences:
   enable: true
   audienceGroups:
