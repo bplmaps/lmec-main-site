@@ -1,6 +1,6 @@
 +++
 author = "LMEC Staff"
-backgroundImage = "https://fedora.digitalcommonwealth.org/fedora/objects/commonwealth:q524nh99v/datastreams/access800/content"
+backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nh99v/33,1418,4052,2034/full/0/default.jpg"
 date = 2021-02-18T21:11:07Z
 description = "A roundup of some of our Black history posts from over the years"
 draft = true
