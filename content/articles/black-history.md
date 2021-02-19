@@ -4,12 +4,12 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524
 date = 2021-02-18T21:11:07Z
 description = "A roundup of some of our Black history posts from over the years"
 draft = true
-image = "https://fedora.digitalcommonwealth.org/fedora/objects/commonwealth:q524nh99v/datastreams/access800/content"
-tags = ["Black History", "Social Media"]
-title = "Black History"
+image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nh99v/33,1418,4052,2034/full/0/default.jpg"
+tags = ["Black History", "retrospective"]
+title = "Black History: more than just a month"
 
 +++
-It's Black History Month in the US right now, but February is not the only month during which we celebrate and study Black history at the LMEC. We've rounded up some of our social media posts from the last couple of years honoring Black historical figures, movements, and geographies for you to enjoy and think about year round! Click through the posts for much more information.
+It's Black History Month in the US right now, but the 28 days of February aren't the only times when we celebrate and study Black history at the LMEC. Here, we've rounded up some of our posts from the last few years honoring Black historical figures, movements, and geographies for you to enjoy and think about year round. Click through to any of the posts for much more information.
 
 ### Beacon Hill, a Historic Black Neighborhood
 
@@ -51,16 +51,16 @@ This map from the [Indiana Historical Society](https://indianahistory.org/) is p
 
 Walker (1915-1998) was a literary luminary of the 1930s and 40s, and a member of the South Side Writers Group.⁠ 47th Street in Chicago was the heart of a bustling metropolis in Chicago’s South Side that became known as “Bronzeville” from the 1920s through 50s.
 
-> For my people thronging 47th Street in Chicago and Lenox⁠ 
+> For my people thronging 47th Street in Chicago and Lenox⁠
 >
 >     Avenue in New York and Rampart Street in New⁠ 
->
+>     
 >     Orleans, lost disinherited dispossessed and happy⁠
->
+>     
 >     people filling the cabarets and taverns and other⁠
->
+>     
 >     people’s pockets and needing bread and shoes and milk and⁠
->
+>     
 >     land and money and something—something all our own;
 
 Read the full poem [here](tinyurl.com/mw-fmp), and listen to Walker reading it [here](tinyurl.com/vid-fmp⁠).
