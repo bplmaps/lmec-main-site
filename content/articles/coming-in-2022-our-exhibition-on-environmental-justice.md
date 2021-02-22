@@ -11,7 +11,7 @@ title = "Coming in 2022: our exhibition on environmental justice"
 +++
 In May of last year, as the COVID-19 pandemic was raging across the country, researchers at the Metropolitan Area Planning Council looked at what parts of Boston were experiencing the most severe comorbidities due to unhealthy levels of air pollution. What they found was a pattern of environmental racism: "we observe that residents of color are disproportionately living nearer to the higher levels of pollution," the [report's authors concluded](https://www.mapc.org/pollution-disparities-covid19/).
 
-{{< figure src="" caption="Vehicle pollution data from the MAPC study of racial disparities in hazardous air quality" class="figure-right" >}}
+{{< figure src="/uploads/2021-02-22/mapc-pollution.png" caption="Vehicle pollution data from the MAPC study of racial disparities in hazardous air quality" class="figure-right" >}}
 
 For those who have come to think of environmental concerns like pollution control and social issues like racism as distinct and disconnected challenges, the term "environmental racism" might seem at first like an unfamiliar conjunction. Even before the origins of the modern environmentalist movement in the 1960s, efforts to protect and improve the human landscape have often been cast in terms of universal benefit. A well-kept public park, a river free of toxic chemicals, or a stable global climate all seem like amenities that can be shared by all, free of discrimination by race, class, ethnicity, nationality, or gender.
 
