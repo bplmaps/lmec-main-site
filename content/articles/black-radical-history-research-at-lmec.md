@@ -15,7 +15,7 @@ William Monroe Trotter, activist for racial justice, was born in 1872 and raised
 
 Dr. Greenidge, Mellon Assistant Professor in the Department of Studies in Race, Colonialism, and Diaspora at Tufts University used historical maps to better understand how Trotter inhabited and engaged with his world. Her book is a rich study of the life and work of Trotter, an often-divisive figure, who had a profound effect on the foundations of modern-day civil rights movements.
 
-{{< figure src="https://images-production.bookshop.org/spree/images/attachments/10694228/original/9781631495342.jpg?1588238817" caption="Greenidge's book from Liveright Publishing Corporation is [available online](https://bookshop.org/books/black-radical-the-life-and-times-of-william-monroe-trotter/9781631495342)" class="figure-right" >}}
+{{< figure src="https://images-production.bookshop.org/spree/images/attachments/10694228/original/9781631495342.jpg?1588238817" caption="Greenidge's book is [available online](https://bookshop.org/books/black-radical-the-life-and-times-of-william-monroe-trotter/9781631495342)." class="figure-right" >}}
 
 **How did using the Leventhal Map & Education Center collections help you better understand the world of William Monroe Trotter?**
 
@@ -26,6 +26,8 @@ When I was working on the book, it was really important for me to get a feel for
 The [Sanborn Fire Maps](https://atlascope.leventhalmap.org/) of Boston were a godsend to see how the neighborhood looked and how it changed. I used census records to correlate with the maps to figure out where \[a particular\] constituency was located that Trotter is talking about. Hyde Park doesn’t really become a town until 1868 and then in many maps it’s just listed as Norfolk County (Hyde Park was annexed by the City of Boston in 1912 and became part of Suffolk County). Part of my research in the map collection was looking at as many maps as I could find of Norfolk county and Hyde Park. Hyde Park changed really drastically in a 10- year period \[1870’s and 1880s\] and that is when the Trotters were living there.
 
 James Trotter \[W.M. Trotter’s father\] also rode the tide of \[a\] real estate boom after the Civil War, buying property \[that can be found on the maps\] throughout Boston, Dorchester and Hyde Park.
+
+<iframe width="600" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011401$zoom:20.00$center:-7910676.648534665,5207987.767339096$mode:glass$pos:385"></iframe>
 
 **What other kinds of documents did you use in tandem with the maps aside from census records?**
 
