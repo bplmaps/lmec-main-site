@@ -1,7 +1,7 @@
 +++
 author = "Garrett Dash Nelson"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b898d/3154,909,1983,946/,1200/0/default.jpg"
-date = 2021-02-19T00:50:44Z
+date = 2021-02-23T16:50:44Z
 description = "Our forthcoming exhibition \"More or Less in Common\" will explore the geographic relationship between environmental management and historic patterns of injustice"
 draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b898d/3154,909,1983,946/,1200/0/default.jpg"
