@@ -47,7 +47,7 @@ Trotter moved \[to the South End of Boston\] when it was a center of the Black c
 
 **There are multiple buildings and institutions that bear Trotter’s name. Is there one that you think really embodies his work?**
 
-{{< figure src="http://www.trotterschool.org/uploads/1/0/4/4/10448615/trotter-old_1_orig.jpg" caption="Historical image of the Trotter school [from the school's website](http://www.trotterschool.org/about-us.html)." class="figure-right" >}}
+{{< figure src="![](http://www.trotterschool.org/uploads/1/0/4/4/10448615/trotter-old_1_orig.jpg)" caption="Historical image of the Trotter school [from the school's website](http://www.trotterschool.org/about-us.html)." class="figure-right" >}}
 
 The school \[Trotter K-8 in Boston, founded in 1969\] encompasses his vision for the city and racial politics (the school was founded with the goal of being an integrated school selected equally by both Black and white families). The Trotter Institute at the University of Michigan modeled their early childhood intervention program after the Trotter School in Boston.
 
