@@ -47,15 +47,13 @@ Trotter moved \[to the South End of Boston\] when it was a center of the Black c
 
 **There are multiple buildings and institutions that bear Trotter’s name. Is there one that you think really embodies his work?**
 
-{{< figure src="![](http://www.trotterschool.org/uploads/1/0/4/4/10448615/trotter-old_1_orig.jpg)" caption="Historical image of the Trotter school [from the school's website](http://www.trotterschool.org/about-us.html)." class="figure-right" >}}
-
 The school \[Trotter K-8 in Boston, founded in 1969\] encompasses his vision for the city and racial politics (the school was founded with the goal of being an integrated school selected equally by both Black and white families). The Trotter Institute at the University of Michigan modeled their early childhood intervention program after the Trotter School in Boston.
 
 One of Trotter’s biggest initiatives was trying to run Black candidates for the Boston school committee and he was pretty successful at that. Black people had representation on the school committee up until the 1920s \[and represented schools that had both Black and white students\].  Boston had a reputation for having high quality, desegregated public schools. That started to deteriorate by the 1920s \[as housing and school segregation became more entrenched\].
 
 **What is one thing you think that everyone should know about Trotter and his legacy in Boston?**
 
-{{< figure src="https://images-production.bookshop.org/spree/images/attachments/10694228/original/9781631495342.jpg?1588238817" caption="Greenidge's book is [available online](https://bookshop.org/books/black-radical-the-life-and-times-of-william-monroe-trotter/9781631495342)." class="figure-left" >}}
+{{< figure src="https://images-production.bookshop.org/spree/images/attachments/10694228/original/9781631495342.jpg?1588238817" caption="Greenidge's book is [available online](https://bookshop.org/books/black-radical-the-life-and-times-of-william-monroe-trotter/9781631495342)." class="figure-right" >}}
 
 Trotter pointed out that equality happened by people on the ground doing what needed to be done. He believed that these were the people who had to decide what the schools looked like, they had to vote in every election. If the city didn’t listen, it would become a city for the elite.
 
