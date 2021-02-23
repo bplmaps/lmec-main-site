@@ -59,4 +59,4 @@ As a historian, this is where the mapping became so important. When Trotter was 
 
 Trotter really saw, despite his relative privilege, that the salvation of a city, in order to be its most equal, \[would require\] the working class to decide what that would look like. He believed that working people, “the genteel poor” as he called them, had to decide politically what their destiny would be and that would be beneficial to the entire society.
 
-_Dr. Greenidge’s book is_ [_available at the library_](https://bpl.bibliocommons.com/item/show/7651404075) _and_ [_for purchase at your local bookstore_](https://bpl.bibliocommons.com/item/show/7651404075)_._
+{{< figure src="https://as.tufts.edu/csrd/images/GreenidgePhoto.jpg" caption="_Dr. Greenidge’s book is_ [_available at the library_](https://bpl.bibliocommons.com/item/show/7651404075) _and_ [_for purchase at your local bookstore_](https://bpl.bibliocommons.com/item/show/7651404075)_._" class="figure-right" >}}
