@@ -53,7 +53,7 @@ One of Trotter’s biggest initiatives was trying to run Black candidates for th
 
 **What is one thing you think that everyone should know about Trotter and his legacy in Boston?**
 
-{{< figure src="https://images-production.bookshop.org/spree/images/attachments/10694228/original/9781631495342.jpg?1588238817" caption="Greenidge's book is [available online](https://bookshop.org/books/black-radical-the-life-and-times-of-william-monroe-trotter/9781631495342)." class="figure-right" >}}
+{{< figure src="https://images-production.bookshop.org/spree/images/attachments/10694228/original/9781631495342.jpg?1588238817" caption="" class="figure-right" >}}
 
 Trotter pointed out that equality happened by people on the ground doing what needed to be done. He believed that these were the people who had to decide what the schools looked like, they had to vote in every election. If the city didn’t listen, it would become a city for the elite.
 
