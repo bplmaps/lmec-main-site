@@ -29,7 +29,7 @@ James Trotter \[W.M. Trotter’s father\] also rode the tide of \[a\] real estat
 
 <iframe width="600" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011401$zoom:20.00$center:-7910676.648534665,5207987.767339096$mode:glass$pos:385" title="Close-up of a circle of an old map imposed on a modern basemap, with a building at the center labeled with the name Geraldine L. Trotter."></iframe>
 
-_Trotter family home visible here under the name of W.M. Trotter's partner, activist Geraldine Pindell Trotter._
+_Above, the Trotter family home is visible here under the name of W.M. Trotter's partner, activist Geraldine Pindell Trotter._
 
 **What other kinds of documents did you use in tandem with the maps aside from census records?**
 
