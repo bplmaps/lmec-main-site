@@ -31,10 +31,6 @@ KG: The [Sanborn Fire Maps](https://atlascope.leventhalmap.org/) of Boston were 
 
 James Trotter \[W.M. Trotter’s father\] also rode the tide of \[a\] real estate boom after the Civil War, buying property that can be found on the maps throughout Boston, Dorchester and Hyde Park.
 
-<iframe width="600" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011401$zoom:20.00$center:-7910676.648534665,5207987.767339096$mode:glass$pos:385" title="Close-up of a circle of an old map imposed on a modern basemap, with a building at the center labeled with the name Geraldine L. Trotter."></iframe>
-
-_Above, the Trotter family home is visible here under the name of W.M. Trotter's partner, activist Geraldine Pindell Trotter._
-
 **ML: What other kinds of documents did you use in tandem with the maps aside from census records?**
 
 KG: I focused a lot on voting returns since I wanted to concentrate on Black politics and mobilization. You can find them in newspaper articles and magazines as well as election reports of the early twentieth century. For example, Trotter claimed that John F. Fitzgerald (grandfather of President John F. Kennedy and mayor of Boston 1906–1908 and 1910–1914) got the Black vote as a Democrat in the 1905 election which was unheard of at the time. I had to go back and figure out if that was true. Fitzgerald won an overwhelming majority in a Black district and I spent a lot of time looking at voting returns and correlating them with maps and then correlating that with census data.
@@ -46,6 +42,10 @@ KG: My approach, particularly looking at Boston and New England at that time, wa
 Also, I used maps to break down where people came from. Another thing I found out, by correlating with the census records and mapping, was the extent to which Caribbean migrants, who had been coming to Boston for a long time, were living around where Trotter lived. It led me to deduce that the ways that he was talking about politics in Barbados or Jamaica was because his neighbor had literally just come from Jamaica and had been a politician there.
 
 Trotter moved to the South End of Boston when it was a center of the Black community. The Jewish Reform Society was right next to where he lived. He had a column in his newspaper (the _Boston Guardian_) that talked about the pogroms against Jewish people in Europe. How was he getting such a vivid portrayal? It might have been, and this is all speculation, but he was very connected into this community of Jewish immigrants who lived next door to him. Many of those people had just come from Eastern Europe where these atrocities were taking place.
+
+<iframe width="600" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011401$zoom:20.00$center:-7910676.648534665,5207987.767339096$mode:glass$pos:385" title="Close-up of a circle of an old map imposed on a modern basemap, with a building at the center labeled with the name Geraldine L. Trotter."></iframe>
+
+_Above, the Trotter family home is visible here under the name of W.M. Trotter's partner, activist Geraldine Pindell Trotter._
 
 **ML: here are multiple buildings and institutions that bear Trotter’s name. Is there one that you think really embodies his work?**
 
