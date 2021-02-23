@@ -37,6 +37,8 @@ I focused a lot on voting returns since I wanted to concentrate on Black politic
 
 **What is one question you were asking about the relationship of race and space as you were doing your research?**
 
+{{< figure src="" caption="" class="figure-right" >}}
+
 My approach, particularly looking at Boston and New England at that time, was to go into the sources without the assumption that Black people would live where I thought they would live or even that an entire block was all African American people. Statistically, up until the 1920s that wasn’t true. You might have four houses on a street in \[Boston’s South End neighborhood\] that are all occupied by African Americans and yet the four houses next to them are all occupied by Jewish immigrants. I broke this down with census records \[to uncover\] what looks like a Black community \[is not\] entirely Black people.
 
 Also, \[I used maps\] to break down where people came from. Another thing I found out, by correlating with the census records and mapping, was the extent to which Caribbean migrants, who had been coming to Boston for a long time, were living around where Trotter lived. It led me to deduce that the ways that he was talking about politics in Barbados or Jamaica was because his neighbor had literally just come from Jamaica and had been a politician there.
