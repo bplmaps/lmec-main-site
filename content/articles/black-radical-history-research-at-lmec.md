@@ -51,7 +51,7 @@ _Above, the Trotter family home is visible here under the name of W.M. Trotter's
 
 KG: The school \[Trotter K-8 in Boston, founded in 1969\] encompasses his vision for the city and racial politics (the school was founded with the goal of being an integrated school selected equally by both Black and white families). The Trotter Institute at the University of Michigan modeled their early childhood intervention program after the Trotter School in Boston.
 
-One of Trotter’s biggest initiatives was trying to run Black candidates for the Boston school committee and he was pretty successful at that. Black people had representation on the school committee up until the 1920s and represented schools that had both Black and white students.  Boston had a reputation for having high quality, desegregated public schools. That started to deteriorate by the 1920s as housing and school segregation became more entrenched.
+One of Trotter’s biggest initiatives was trying to run Black candidates for the Boston School Committee and he was pretty successful at that. Black people had representation on the school committee up until the 1920s and represented schools that had both Black and white students.  Boston had a reputation for having high quality, desegregated public schools. That started to deteriorate by the 1920s as housing and school segregation became more entrenched.
 
 **ML: What is one thing you think that everyone should know about Trotter and his legacy in Boston?**
 
