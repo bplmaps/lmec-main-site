@@ -11,6 +11,8 @@ title = "Black Radical History Research at LMEC"
 +++
 I recently interviewed Dr. Kerri Greenidge, author of _Black Radical: The Life and Times of William Monroe Trotter_ about how she used the collections of the Leventhal Map & Education Center to ask questions about race and space in late 19th/early 20th century Boston.
 
+{{< figure src="https://as.tufts.edu/csrd/images/GreenidgePhoto.jpg" caption="_Dr. Greenidge’s book is_ [_available at the library_](https://bpl.bibliocommons.com/item/show/7651404075) _and_ [_for purchase at your local bookstore_](https://bpl.bibliocommons.com/item/show/7651404075)_._" class="figure-right" >}}
+
 William Monroe Trotter, activist for racial justice, was born in 1872 and raised in Hyde Park, MA. A graduate of Harvard University, Trotter founded The Boston Guardian, an independent newspaper established to promote equal rights for Black people, speaking out against racial segregation and calling for equal voting rights. In 1905 he joined forces with W.E.B. Du Bois and other Black activists to found the Niagara Movement (forerunner of the modern NAACP).
 
 Dr. Greenidge, Mellon Assistant Professor in the Department of Studies in Race, Colonialism, and Diaspora at Tufts University used historical maps to better understand how Trotter inhabited and engaged with his world. Her book is a rich study of the life and work of Trotter, an often-divisive figure, who had a profound effect on the foundations of modern-day civil rights movements.
@@ -58,5 +60,3 @@ The maps were important to uncover how people moved through the city. \[Boston\]
 As a historian, this is where the mapping became so important. When Trotter was talking about “world for the people of color”, and that the people of color in Massachusetts had more power than they thought they did, this can come across as kind of grandiose.  But then you look and say, actually, if zoning laws were slightly different, there would have been much larger voting blocks for Black communities.
 
 Trotter really saw, despite his relative privilege, that the salvation of a city, in order to be its most equal, \[would require\] the working class to decide what that would look like. He believed that working people, “the genteel poor” as he called them, had to decide politically what their destiny would be and that would be beneficial to the entire society.
-
-{{< figure src="https://as.tufts.edu/csrd/images/GreenidgePhoto.jpg" caption="_Dr. Greenidge’s book is_ [_available at the library_](https://bpl.bibliocommons.com/item/show/7651404075) _and_ [_for purchase at your local bookstore_](https://bpl.bibliocommons.com/item/show/7651404075)_._" class="figure-right" >}}
