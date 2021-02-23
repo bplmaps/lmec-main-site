@@ -1,9 +1,8 @@
 +++
 author = "Garrett Dash Nelson"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b898d/3154,909,1983,946/,1200/0/default.jpg"
-date = 2021-02-23T16:50:44Z
+date = 2021-02-23T5:00:00Z
 description = "Our forthcoming exhibition \"More or Less in Common\" will explore the geographic relationship between environmental management and historic patterns of injustice"
-draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b898d/3154,909,1983,946/,1200/0/default.jpg"
 tags = ["exhibitions", "preview", "announcement", "environmental justice", "parks", "landscape"]
 title = "Coming in 2022: our exhibition on environmental justice"
@@ -21,7 +20,7 @@ In reality, however, the advantages of a well-protected environment—and conver
 
 What links these uneven environmental and social patterns together is geography. Sometimes they quite literally _map_ onto one another. For this reason, maps can provide powerful tools for understanding—and challenging—these injustices. For instance, one of the most important resources for the Environmental Protection Agency's environmental justice division is a mapping interface known as [EJSCREEN](https://www.epa.gov/ejscreen). Just a few weeks ago, Massachusetts Senator Ed Markey introduced a bill "to establish the [Environmental Justice Mapping Committee](https://www.markey.senate.gov/imo/media/doc/(1.28.21)%20Environmental%20Justice%20Mapping%20and%20Data%20Collection%20Act%20of%202021%20FINAL.pdf)." Different forms of geographic investigations, from [complex spatial analysis tools](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5889081/) to [participatory community maps](https://livinglotsnyc.org/#11/40.7300/-73.9900), can be used both as documentary evidence and tools of resistance.
 
-{{< figure src="/uploads/2021-02-22/tumblr_osocpkt19h1rrufk0o1_1280.jpg" caption="An 1878 map of "offensive odors" (from the [City of Boston Archives](https://64.media.tumblr.com/c5029ba38e97ce5dee1b89c3e0456255/tumblr_osocpkt19h1rrufk0o1_1280.jpg))" class="figure-left" >}}
+{{< figure src="/uploads/2021-02-22/tumblr_osocpkt19h1rrufk0o1_1280.jpg" caption="An 1878 map of \"offensive odors\" (from the [City of Boston Archives](https://64.media.tumblr.com/c5029ba38e97ce5dee1b89c3e0456255/tumblr_osocpkt19h1rrufk0o1_1280.jpg))" class="figure-left" >}}
 
 In April 2022, we'll be opening a major new exhibition at the Leventhal Map & Education Center called _More or Less in Common: Environment and Justice in the Human Landscape._ In this exhibition, we'll be exploring how maps and geography provide a way of understanding how the control of nature has intertwined with struggles for justice. Some of these stories date from a period far earlier than modern environmentalism, like the [1684 deed](https://archive.org/details/morebooks1926bost/page/212/mode/2up) in which white settlers officialized their taking of what is now East Boston as private property, or the 1878 map of "[offensive odors](https://bpl.bibliocommons.com/item/show/6601328075)" which shows how Boston began filling in estuaries in order to please the senses of elite neighborhoods like the Back Bay.
 
