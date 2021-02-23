@@ -37,7 +37,7 @@ I focused a lot on voting returns since I wanted to concentrate on Black politic
 
 **What is one question you were asking about the relationship of race and space as you were doing your research?**
 
-{{< figure src="" caption="" class="figure-right" >}}
+{{< figure src="https://collections.leventhalmap.org/search/commonwealth:x633fc32v" caption="Bird's Eye View of Hyde Park from 1890. Check out the map and zoom in [here](https://collections.leventhalmap.org/search/commonwealth:x633fc32v)" class="figure-left" >}}
 
 My approach, particularly looking at Boston and New England at that time, was to go into the sources without the assumption that Black people would live where I thought they would live or even that an entire block was all African American people. Statistically, up until the 1920s that wasn’t true. You might have four houses on a street in \[Boston’s South End neighborhood\] that are all occupied by African Americans and yet the four houses next to them are all occupied by Jewish immigrants. I broke this down with census records \[to uncover\] what looks like a Black community \[is not\] entirely Black people.
 
