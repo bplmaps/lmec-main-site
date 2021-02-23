@@ -37,7 +37,7 @@ I focused a lot on voting returns since I wanted to concentrate on Black politic
 
 **What is one question you were asking about the relationship of race and space as you were doing your research?**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc334/full/,1200/0/default.jpg" caption="Bird's Eye View of Hyde Park from 1890. Check out the map and zoom in [here](https://collections.leventhalmap.org/search/commonwealth:x633fc32v)" class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc334/full/,1200/0/default.jpg" caption="Bird's Eye View of Hyde Park from 1890. Check out the map and zoom in [here](https://collections.leventhalmap.org/search/commonwealth:x633fc32v)." class="figure-left" >}}
 
 My approach, particularly looking at Boston and New England at that time, was to go into the sources without the assumption that Black people would live where I thought they would live or even that an entire block was all African American people. Statistically, up until the 1920s that wasn’t true. You might have four houses on a street in \[Boston’s South End neighborhood\] that are all occupied by African Americans and yet the four houses next to them are all occupied by Jewish immigrants. I broke this down with census records \[to uncover\] what looks like a Black community \[is not\] entirely Black people.
 
@@ -46,6 +46,8 @@ Also, \[I used maps\] to break down where people came from. Another thing I foun
 Trotter moved \[to the South End of Boston\] when it was a center of the Black community. The Jewish Reform Society was right next to where he lived. He had a column in his newspaper (The Boston Guardian) that talked about the pogroms against Jewish people in Europe. How was he getting such a vivid portrayal? It might have been, and this is all speculation, but he was very connected into this community of Jewish immigrants who lived next door to him. Many of those people had just come from Eastern Europe where these atrocities were taking place.
 
 **There are multiple buildings and institutions that bear Trotter’s name. Is there one that you think really embodies his work?**
+
+{{< figure src="http://www.trotterschool.org/uploads/1/0/4/4/10448615/trotter-old_1_orig.jpg" caption="Historical image of the Trotter school [from the school's website](http://www.trotterschool.org/about-us.html)." class="figure-right" >}}
 
 The school \[Trotter K-8 in Boston, founded in 1969\] encompasses his vision for the city and racial politics (the school was founded with the goal of being an integrated school selected equally by both Black and white families). The Trotter Institute at the University of Michigan modeled their early childhood intervention program after the Trotter School in Boston.
 
