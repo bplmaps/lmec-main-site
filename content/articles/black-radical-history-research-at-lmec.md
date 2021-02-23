@@ -27,7 +27,7 @@ The [Sanborn Fire Maps](https://atlascope.leventhalmap.org/) of Boston were a go
 
 James Trotter \[W.M. Trotter’s father\] also rode the tide of \[a\] real estate boom after the Civil War, buying property \[that can be found on the maps\] throughout Boston, Dorchester and Hyde Park.
 
-<iframe width="600" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011401$zoom:20.00$center:-7910676.648534665,5207987.767339096$mode:glass$pos:385"></iframe>
+<iframe width="600" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011401$zoom:20.00$center:-7910676.648534665,5207987.767339096$mode:glass$pos:385" title="Close-up of a circle of an old map imposed on a modern basemap, with a building at the center labeled with the name Geraldine L. Trotter."></iframe>
 
 _Trotter family home visible here under the name of W.M. Trotter's partner, activist Geraldine Pindell Trotter._
 
