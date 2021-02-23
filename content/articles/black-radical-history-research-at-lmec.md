@@ -15,7 +15,7 @@ William Monroe Trotter, activist for racial justice, was born in 1872 and raised
 
 Dr. Greenidge, Mellon Assistant Professor in the Department of Studies in Race, Colonialism, and Diaspora at Tufts University used historical maps to better understand how Trotter inhabited and engaged with his world. Her book is a rich study of the life and work of Trotter, an often-divisive figure, who had a profound effect on the foundations of modern-day civil rights movements.
 
-{{< figure src="" caption="" class="figure-right" >}}
+{{< figure src="https://images-production.bookshop.org/spree/images/attachments/10694228/original/9781631495342.jpg?1588238817" caption="" class="figure-right" >}}
 
 **How did using the Leventhal Map & Education Center collections help you better understand the world of William Monroe Trotter?**
 
