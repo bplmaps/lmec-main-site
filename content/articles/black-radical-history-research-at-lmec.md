@@ -17,9 +17,11 @@ William Monroe Trotter, an activist for racial justice, was born in 1872 and rai
 
 [Dr. Greenidge](https://as.tufts.edu/people/faculty/kerri-greenidge), Mellon Assistant Professor in the Department of Studies in Race, Colonialism, and Diaspora at Tufts University, used historical maps to better understand how Trotter inhabited and engaged with his world. Her book is a rich study of the life and work of Trotter, an often-divisive figure, who had a profound effect on the foundations of modern-day civil rights movements.
 
-*The text of this interview has been lightly edited for clarity.*
+_The text of this interview has been lightly edited for clarity._
 
 **ML: How did using the Leventhal Map & Education Center collections help you better understand the world of William Monroe Trotter?**
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc334/full/,1200/0/default.jpg" caption="Bird's Eye View of Hyde Park from 1890. Check out the map and zoom in [here](https://collections.leventhalmap.org/search/commonwealth:x633fc32v)." class="figure-left" >}}
 
 KG: When I was working on the book, it was really important for me to get a feel for the space that historical actors walked in and how they navigated their cities. In particular, what did Hyde Park, MA look like in 1872 when Trotter was a child and how did it change by the time he went to Harvard in 1895? I tried to figure out where people were and dissect what the neighborhoods looked like since Trotter was particularly into grassroots community organizing.
 
@@ -38,8 +40,6 @@ _Above, the Trotter family home is visible here under the name of W.M. Trotter's
 KG: I focused a lot on voting returns since I wanted to concentrate on Black politics and mobilization. You can find them in newspaper articles and magazines as well as election reports of the early twentieth century. For example, Trotter claimed that John F. Fitzgerald (grandfather of President John F. Kennedy and mayor of Boston 1906–1908 and 1910–1914) got the Black vote as a Democrat in the 1905 election which was unheard of at the time. I had to go back and figure out if that was true. Fitzgerald won an overwhelming majority in a Black district and I spent a lot of time looking at voting returns and correlating them with maps and then correlating that with census data.
 
 **ML: What is one question you were asking about the relationship of race and space as you were doing your research?**
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc334/full/,1200/0/default.jpg" caption="Bird's Eye View of Hyde Park from 1890. Check out the map and zoom in [here](https://collections.leventhalmap.org/search/commonwealth:x633fc32v)." class="figure-left" >}}
 
 KG: My approach, particularly looking at Boston and New England at that time, was to go into the sources without the assumption that Black people would live where I thought they would live or even that an entire block was all African American people. Statistically, up until the 1920s that wasn’t true. You might have four houses on a street in Boston’s South End neighborhood that are all occupied by African Americans and yet the four houses next to them are all occupied by Jewish immigrants. I broke this down with census records to uncover what looks like a Black community is not entirely Black people.
 
