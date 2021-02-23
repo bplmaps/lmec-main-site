@@ -17,8 +17,6 @@ William Monroe Trotter, activist for racial justice, was born in 1872 and raised
 
 Dr. Greenidge, Mellon Assistant Professor in the Department of Studies in Race, Colonialism, and Diaspora at Tufts University used historical maps to better understand how Trotter inhabited and engaged with his world. Her book is a rich study of the life and work of Trotter, an often-divisive figure, who had a profound effect on the foundations of modern-day civil rights movements.
 
-{{< figure src="https://images-production.bookshop.org/spree/images/attachments/10694228/original/9781631495342.jpg?1588238817" caption="Greenidge's book is [available online](https://bookshop.org/books/black-radical-the-life-and-times-of-william-monroe-trotter/9781631495342)." class="figure-right" >}}
-
 **How did using the Leventhal Map & Education Center collections help you better understand the world of William Monroe Trotter?**
 
 When I was working on the book, it was really important for me to get a feel for the space that historical actors walked in and how they navigated their cities. In particular, what did Hyde Park, MA look like in 1872 when Trotter was a child and how did it change by the time he went to Harvard in 1895? I tried to figure out where people were and dissect what the neighborhoods looked like since Trotter was particularly into grassroots community organizing.
@@ -52,6 +50,8 @@ The school \[Trotter K-8 in Boston, founded in 1969\] encompasses his vision for
 One of Trotter’s biggest initiatives was trying to run Black candidates for the Boston school committee and he was pretty successful at that. Black people had representation on the school committee up until the 1920s \[and represented schools that had both Black and white students\].  Boston had a reputation for having high quality, desegregated public schools. That started to deteriorate by the 1920s \[as housing and school segregation became more entrenched\].
 
 **What is one thing you think that everyone should know about Trotter and his legacy in Boston?**
+
+{{< figure src="https://images-production.bookshop.org/spree/images/attachments/10694228/original/9781631495342.jpg?1588238817" caption="Greenidge's book is [available online](https://bookshop.org/books/black-radical-the-life-and-times-of-william-monroe-trotter/9781631495342)." class="figure-left" >}}
 
 Trotter pointed out that equality happened by people on the ground doing what needed to be done. He believed that these were the people who had to decide what the schools looked like, they had to vote in every election. If the city didn’t listen, it would become a city for the elite.
 
