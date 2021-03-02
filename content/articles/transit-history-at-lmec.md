@@ -27,4 +27,5 @@ The other major feature of this city map is the numbered landmarks scattered acr
 
 The other side of the brochure is actually the outside, which the intended user of this map would have seen first. It's got a photo and title on the front, a list of several "off the Freedom Trail" sites on the back, and a map of the Trail as the first page when someone opened it up.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv42h/59,2246,2878,2208/full/0/default.jpg" caption="" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv42h/59,2246,2878,2208/full/0/default.jpg" caption="" >}}
+
