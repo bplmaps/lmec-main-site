@@ -13,6 +13,6 @@ title = "Transit History at LMEC!"
 
 We recently digitized our [Boston Redevelopment Authority Collection](https://collections.leventhalmap.org/search?f%5Bcollection_name_ssim%5D%5B%5D=Boston+Redevelopment+Authority+Collection) and are diving deep into one of its maps today! This map of the city of Boston focuses on tourism and getting visitors into and around the city to see the sights. It's a two-sided brochure with a variety of maps on it that show different ways of visualizing Boston from a tourist perspective.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/2045,187,851,358/full/0/default.jpg" caption="" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/2045,187,851,358/full/0/default.jpg" caption="" class="figure-left" >}}
 
 The first section is a map of Greater Boston with advice on getting in and out of the city, assuming an audience of car owners.
