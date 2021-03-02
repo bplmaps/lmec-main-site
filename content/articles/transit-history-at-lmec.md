@@ -9,4 +9,6 @@ tags = ["Boston Redevelopment Authority Collection", "BRA Collection", "Public T
 title = "Transit History at LMEC!"
 
 +++
-We recently digitized out [Boston Redevelopment Authority Collection](https://collections.leventhalmap.org/search?f%5Bcollection_name_ssim%5D%5B%5D=Boston+Redevelopment+Authority+Collection) and are diving deep into one of its maps today! This map of the city of Boston focuses on tourism and getting into and around the city to see the sights. {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/full/,1200/0/default.jpg" caption="" class="figure-right" >}}
+ {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/full/,1200/0/default.jpg" caption="" class="figure-right" >}}
+
+We recently digitized our [Boston Redevelopment Authority Collection](https://collections.leventhalmap.org/search?f%5Bcollection_name_ssim%5D%5B%5D=Boston+Redevelopment+Authority+Collection) and are diving deep into one of its maps today! This map of the city of Boston focuses on tourism and getting into and around the city to see the sights.
