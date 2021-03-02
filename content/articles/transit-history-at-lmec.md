@@ -6,7 +6,7 @@ description = ""
 draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/58,2244,2901,3310/full/0/default.jpg"
 tags = ["Boston Redevelopment Authority Collection", "BRA Collection", "Public Transit", "Events", "Lost in Boston"]
-title = "Transit History at LMEC!"
+title = "Lost in Boston with the BRA"
 
 +++
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/40,42,1939,2188/full/0/default.jpg" caption="" class="figure-right" >}}
@@ -21,4 +21,6 @@ The first section is a map of Greater Boston with advice on getting in and out o
 
 Once you arrive in Boston, the map provided for you by the creators of this brochure is a city map! There are two ways to look at the map of the public transit system. One is the larger map here, which shows the approximate layout of the actual train tunnels and tracks through the city. The other way to visualize the T is the more abstracted map we see in the inset, which is very similar to today's T map.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/56,3076,1047,1106/full/0/default.jpg" caption="" class="figure-right" >}}
+The other major feature of this city map is the numbered landmarks scattered across the landscape. These represent a variety of things, notably including parking.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/65,5562,2882,1084/full/0/default.jpg" caption="" class="figure-center" >}}
