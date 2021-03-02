@@ -15,5 +15,10 @@ We recently digitized our [Boston Redevelopment Authority Collection](https://co
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/2045,187,851,358/full/0/default.jpg" caption="" class="figure-left" >}}
 
-The first section is a map of Greater Boston with advice on getting in and out of the city, assuming an audience of car owners. "It is most advisable to stop and ask directions," the creators of this map suggest. Indeed, Boston is a difficult city to navigate, and for many of us it's hard to imagine learning how for the first time without a GPS! This 1982 map was created in a time when in-person and map directions would have to suffice.
+The first section is a map of Greater Boston with advice on getting in and out of the city from different directions, assuming an audience of car owners. "It is most advisable to stop and ask directions," the creators of this map suggest. Indeed, Boston is a difficult city to navigate, and for many of us it's hard to imagine learning how for the first time without a GPS! This map was created in 1982, though, a time when oral, pre-written, and map directions would have to suffice without real-time adjustments or reminders of when to turn.
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/58,2244,2901,3310/full/0/default.jpg" caption="" class="figure-right" >}}
+
+Once you arrive in Boston, the map provided for you by the creators of this brochure is a city map! There are two ways to look at the map of the public transit system. One is the larger map here, which shows the approximate layout of the actual train tunnels and tracks through the city. The other way to visualize the T is the more abstracted map we see in the inset, which is very similar to today's T map.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/56,3076,1047,1106/full/0/default.jpg" caption="" class="figure-right" >}}
