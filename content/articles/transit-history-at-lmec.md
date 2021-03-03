@@ -29,5 +29,7 @@ The other side of the brochure is actually the outside, which the intended user 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv42h/59,2246,2878,2208/full/0/default.jpg" caption="" >}}
 
-Once it opens up all the way horizontally, there are photographs and descriptions of the sites on the trail, in the order that they appear along the trail in real life. This is a different way of mapping the Freedom Trail!
+Once it opens up all the way horizontally, there are photographs and descriptions of the sites on the trail, in the order that they appear along the trail in real life. This is just a different way of mapping the Freedom Trail from a standard street map!
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv42h/50,4463,2897,2185/full/180/default.jpg" caption="" class="figure-left" >}}
 
