@@ -25,7 +25,8 @@ The other major feature of this city map is the numbered landmarks scattered acr
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/65,5562,2882,1084/full/0/default.jpg" caption="" class="figure-center" >}}
 
-The other side of the brochure is actually the outside, which the intended user of this map would have seen first. It's got a photo and title on the front, a list of several "off the Freedom Trail" sites on the back, and a map of the Trail as the first page when someone opened it up.
+The other side of the brochure is actually the outside, which the intended user of this map would have seen first. It's got a photo and title on the front, a list of several "off the Freedom Trail" sites on the back, and a map of the trail as the first page when someone opened it up.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv42h/59,2246,2878,2208/full/0/default.jpg" caption="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv42h/50,4463,2897,2185/full/180/default.jpg" caption="" >}}
 
+Once it opens up all the way horizontally, there are photographs and descriptions of the sites on the trail, in the order that they appear along the trail in real life. This is a different way of mapping the Freedom Trail!
