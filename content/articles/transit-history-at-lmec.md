@@ -40,4 +40,4 @@ If you like thinking about the history of Boston and maps, we have a couple of e
 
 The other event we have is a [book talk](https://or9q5iggp5xhoq.instant.forestry.io/event/steven-beaucher-on-boston-in-transit/), also sponsored with the Boston Map Society, by Stephen Beaucher on Tuesday, March 30 at noon. His new book [_Boston in Transit_](https://bostonintransit.com) tells the story of Boston's public transit history, from ferries, through the arrival of steam trains and fleets of electric streetcars and buses, to the creation and evolution of the MBTA.
 
-Join us at both events, or as always, [get in touch](mailto:rmead@leventhalmap.org)!
+To keep learning, join us at both events! Or as always, [get in touch](mailto:rmead@leventhalmap.org)!
