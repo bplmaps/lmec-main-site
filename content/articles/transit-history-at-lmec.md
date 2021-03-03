@@ -39,6 +39,6 @@ If you like thinking about the history of Boston and maps, we have a couple of e
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv42h/50,44,2893,2182/full/180/default.jpg" caption="" class="figure-right" >}}
 
-The other event we have is a [book talk](https://or9q5iggp5xhoq.instant.forestry.io/event/steven-beaucher-on-boston-in-transit/), also sponsored with the Boston Map Society, by Stephen Beaucher on Tuesday, March 30 at noon. His new book _Boston in Transit_ tells the story of Boston's public transit history, from ferries, through the arrival of steam trains and fleets of electric streetcars and buses, to the creation and evolution of the MBTA.
+The other event we have is a [book talk](https://or9q5iggp5xhoq.instant.forestry.io/event/steven-beaucher-on-boston-in-transit/), also sponsored with the Boston Map Society, by Stephen Beaucher on Tuesday, March 30 at noon. His new book [_Boston in Transit_](https://bostonintransit.com) tells the story of Boston's public transit history, from ferries, through the arrival of steam trains and fleets of electric streetcars and buses, to the creation and evolution of the MBTA.
 
 Join us at both events, or as always, [get in touch](mailto:rmead@leventhalmap.org)!
