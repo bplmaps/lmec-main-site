@@ -2,7 +2,7 @@
 backgroundImage = ""
 description = "Our fellowship program for K-12 teacher will be held virtually in 2021"
 draft = true
-title = "2021 Carolyn A. Lynch Summer Teacher Fellowship:  Teaching Boston Community History"
+title = "2021 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History"
 weight = ""
 
 +++
