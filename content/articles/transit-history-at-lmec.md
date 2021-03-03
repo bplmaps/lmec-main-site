@@ -33,3 +33,4 @@ Once it opens up all the way horizontally, there are photographs and description
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv42h/50,4463,2897,2185/full/180/default.jpg" caption="" class="figure-left" >}}
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv42h/50,44,2893,2182/full/180/default.jpg" caption="" class="figure-right" >}}
