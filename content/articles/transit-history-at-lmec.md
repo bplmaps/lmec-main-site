@@ -29,8 +29,16 @@ The other side of the brochure is actually the outside, which the intended user 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv42h/59,2246,2878,2208/full/0/default.jpg" caption="" >}}
 
+Once it opens up all the way horizontally, there are photographs and descriptions of the sites on the trail, in the order that they appear along the trail in real life.
+
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv42h/50,4463,2897,2185/full/180/default.jpg" caption="" class="figure-left" >}}
 
-Once it opens up all the way horizontally, there are photographs and descriptions of the sites on the trail, in the order that they appear along the trail in real life. This is just a different way of mapping the Freedom Trail from a standard street map!
+This is just a different way of mapping the Freedom Trail from a standard street map!
+
+If you like thinking about the history of Boston and maps, we have a couple of events coming up just for you. One is a really special interactive event we're holding next week, Wednesday, March 10 at 7 PM, where we are inviting you to select your own favorite maps from the [BRA Collection](https://collections.leventhalmap.org/search?f%5Bcollection_name_ssim%5D%5B%5D=Boston+Redevelopment+Authority+Collection) and tell us what you like about it, or ask us what we know! It's a [Show and Tell](https://or9q5iggp5xhoq.instant.forestry.io/event/map-show-and-tell-with-the-bra-collection/) cosponsored by Maptime Boston and Boston Map Society.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv42h/50,44,2893,2182/full/180/default.jpg" caption="" class="figure-right" >}}
+
+The other event we have is a [book talk](https://or9q5iggp5xhoq.instant.forestry.io/event/steven-beaucher-on-boston-in-transit/), also sponsored with the Boston Map Society, by Stephen Beaucher on Tuesday, March 30 at noon. His new book _Boston in Transit_ tells the story of Boston's public transit history, from ferries, through the arrival of steam trains and fleets of electric streetcars and buses, to the creation and evolution of the MBTA.
+
+Join us at both events, or as always, [get in touch](mailto:rmead@leventhalmap.org)!
