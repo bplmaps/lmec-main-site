@@ -3,7 +3,6 @@ author = "Rachel Mead"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv42h/50,4463,2897,2185/full/180/default.jpg"
 date = 2021-03-02T21:18:01Z
 description = "A close look at one of our newly accessible maps on Boston development history"
-draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/58,2244,2901,3310/full/0/default.jpg"
 tags = ["Boston Redevelopment Authority Collection", "BRA Collection", "Public Transit", "Events", "Lost in Boston"]
 title = "Transit History with the BRA"
@@ -15,7 +14,7 @@ We recently digitized our [Boston Redevelopment Authority Collection](https://co
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/2045,187,851,358/full/0/default.jpg" caption="" class="figure-left" >}}
 
-The first section of the inside is a map of Greater Boston with advice on getting in and out of the city from different directions, assuming an audience of car owners. "It is most advisable to stop and ask directions," the creators of this map suggest. Indeed, Boston is a difficult city to navigate, and for many of us it's hard to imagine learning how for the first time without a GPS! This map was created in 1982, though, a time when oral, pre-written, and map directions would have to suffice without real-time adjustments or reminders of when to turn.
+The first section of the inside is a map of Greater Boston with advice on getting in and out of the city from different directions, assuming an audience of car owners. "It is most advisable to stop and ask directions," the creators of this map suggest. Indeed, Boston is a difficult city to navigate, and for many of us it's hard to imagine learning how for the first time without a GPS! This map was created in 1982, though, a time when oral, pre-written, and physical map directions would have to suffice without real-time adjustments or reminders of when to turn.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/58,2244,2901,3310/full/0/default.jpg" caption="" class="figure-right" >}}
 
