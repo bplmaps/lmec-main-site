@@ -1,12 +1,12 @@
 +++
 author = "Garrett Dash Nelson"
-backgroundImage = ""
+backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n431x/879,1852,2929,1694/,800/0/default.jpg"
 date = 2021-03-04T05:02:00Z
 description = "How much of Boston's present-day property value would have been underwater in 1630?"
 draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n431x/879,1852,2929,1694/,800/0/default.jpg"
 tags = ["data exploration", "shoreline"]
-title = "Underwater Properties"
+title = "Making water into gold"
 
 +++
 One of the basic definitions of cities is that they are places where land becomes increasingly valuable. A square foot of land costs more to own or rent in downtown Boston than it does in, say, rural Maine, and this pattern holds true throughout global patterns of urbanization. In fact, even before the emergence of the industrial city, early economic geographers realized that valuable land near centers of population tends to get put to use for more [capital-intensive purposes](https://www.thoughtco.com/von-thunen-model-1435806).
