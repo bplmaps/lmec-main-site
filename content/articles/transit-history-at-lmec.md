@@ -10,7 +10,7 @@ title = "Transit History with the BRA"
 +++
 
 
-We recently digitized our [Boston Redevelopment Authority Collection](https://collections.leventhalmap.org/search?f%5Bcollection_name_ssim%5D%5B%5D=Boston+Redevelopment+Authority+Collection) and are diving deep into one of its maps today! This map of the city of Boston and the Freedom Trail focuses on tourism and getting visitors into and around the city to see the sights. It's a two-sided brochure with a variety of maps and other images on it that show different ways of visualizing Boston from a tourist perspective.
+We recently digitized our [Boston Redevelopment Authority Collection](https://collections.leventhalmap.org/search?f%5Bcollection_name_ssim%5D%5B%5D=Boston+Redevelopment+Authority+Collection) and are diving deep into one of its maps today! [This map](https://collections.leventhalmap.org/search/commonwealth:7h14cv40z) of the city of Boston and the Freedom Trail focuses on tourism and getting visitors into and around the city to see the sights. It's a two-sided brochure with a variety of maps and other images on it that show different ways of visualizing Boston from a tourist perspective.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/2045,187,851,358/full/0/default.jpg" caption="" class="figure-left" >}}
 
@@ -40,4 +40,4 @@ If you like exploring the history of Boston and maps, we have a couple of events
 
 The other event we have is a [book talk](https://www.leventhalmap.org/event/steven-beaucher-on-boston-in-transit/) by Stephen Beaucher on Tuesday, March 30 at noon (also cosponsored by the Boston Map Society). Beaucher's new book [_Boston in Transit_](https://bostonintransit.com) tells the story of Boston's public transit history, from ferries, through the arrival of steam trains and fleets of electric streetcars and buses, to the creation and evolution of the MBTA.
 
-Join us at both events, or as always, [get in touch](mailto:info@leventhalmap.org)!
+To keep learning, join us at both events! Or, as always, [get in touch](mailto:info@leventhalmap.org) for more information!
