@@ -18,7 +18,6 @@ fields:
   name: weight
   label: weight
 pages:
-- content/education/k12/2021-carolyn-a.lynch-summer-teacher-fellowship-teaching-boston-community-history.md
 - content/education/k12/_index.md
 - content/education/k12/school-visits.md
 - content/rfp-amrev-developer.md
