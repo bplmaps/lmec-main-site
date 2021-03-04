@@ -4,31 +4,33 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
   config:
     required: true
 - type: datetime
   name: date
-  label: date
+  label: Date
   default: now
   config:
     required: true
 - type: textarea
   name: description
-  label: description
+  label: Description
+  description: This will appear in the subheading of the title banner
 - type: text
   name: image
-  label: image
+  label: Card Image
   config:
     required: true
+  description: This image will be shown in the article gallery
 - type: text
   name: author
-  label: author
+  label: Author
   config:
     required: true
 - type: tag_list
   name: tags
-  label: tags
+  label: Tags
 - name: backgroundImage
   type: text
   config:
