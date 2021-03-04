@@ -47,11 +47,11 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Teacher professional development
-    text: Apply for the summer 2021 Mapping a New World workshop
-    link: http://newworld.leventhalmap.org
+  - badge: Newly digitized
+    text: More than 100 twentieth century maps from the Boston Redevelopment Authority
+    link: https://www.leventhalmap.org/articles/a-new-view-into-urban-renewal-in-boston/
   - badge: New acquisition
-    text: An 1696 map of northeastern North America by Nicolaes Visscher
+    text: A 1696 map of northeastern North America by Nicolaes Visscher
     link: https://bpl.bibliocommons.com/item/show/7664929075
 audiences:
   enable: true
@@ -80,8 +80,6 @@ audiences:
       link: education/k12/teach-it-yourself
     - title: Apply for a professional development workshop
       link: education/k12/professional-development
-    - title: Apply for the Mapping a New World NEH Workshop
-      link: http://newworld.leventhalmap.org
     - title: Show students a digital exhibition
       link: exhibitions/digital-exhibitions/
   - name: For researchers
