@@ -29,9 +29,7 @@ During this week of virtual learning, participants will explore the history and 
 
 Teachers will engage with leading scholars and primary source materials, including period maps, letters, land deeds, and narratives that are grounded in their geographic location. These materials illuminate how the different ways and perspectives with which English settlers and multifaceted Native communities viewed the New England region shaped their relationships and interactions throughout the 1600s.
 
-**Deadline to Apply: March 1, 2021**
-
-[Apply for the summer 2021 Mapping a New World workshop](http://newworld.leventhalmap.org/)
+{{< alert-box type="warning" >}} The deadline to apply for this workshop has passed. {{</ alert-box >}}
 
 ### Past Workshops
 
@@ -39,4 +37,6 @@ See a [list of past workshops here](/education/k12/past-workshops), with links t
 
 ## Carolyn A. Lynch Summer Teacher Fellowship
 
-The summer teacher fellowship is open to any K-12 teacher or library media specialist and has a different focus each year. Fellows work with Map Center educators and librarians to research in our collections, create curriculum and learn from one another. Boston Public School teachers are especially encouraged to apply. The application process opens up in February. Please join our education mailing list to receive updates.
+Applications are [now available](/education/k12/2021-lynch-summer-teacher-fellowship) for the 2021 Carolyn A. Lynch Summer Teacher Fellowship, which will be held remotely.
+
+<a class="btn btn-primary-outline" href="/education/k12/2021-lynch-summer-teacher-fellowship">Apply by May 5, 2021</a>
