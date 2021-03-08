@@ -4,14 +4,14 @@ backgroundImage = ""
 date = 2021-03-08T15:45:38Z
 description = ""
 draft = true
-image = "https://en.wikipedia.org/wiki/Lizzie_Magie#/media/File:Landlords_Game_1906_image_courtesy_of_T_Forsyth_owner_of_the_registered_trademark_20151119.jpg"
+image = "https://upload.wikimedia.org/wikipedia/commons/5/52/Landlords_Game_1906_image_courtesy_of_T_Forsyth_owner_of_the_registered_trademark_20151119.jpg"
 tags = []
 title = "Monopolizing Streets"
 
 +++
 Today, March 7, is the anniversary of the invention of a classic game we all know and love: Monopoly! This game has interesting origins, and also many ties to the work we do at the Map Center with maps, data, and the pursuit of equity and justice.
 
-{{< figure src="https://en.wikipedia.org/wiki/Lizzie_Magie#/media/File:Landlords_Game_1906_image_courtesy_of_T_Forsyth_owner_of_the_registered_trademark_20151119.jpg" caption="A colorful square board game labeled “The Landlord’s Game consists of green, blue, pink, and yellow labeled squares wrapping around the edges of the board. _Lizzie J. Magie, “The Landlord’s Game board.” Created in 1906. Image courtesy of Thomas Forsyth, Wikimedia Commons._" class="figure-left" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/5/52/Landlords_Game_1906_image_courtesy_of_T_Forsyth_owner_of_the_registered_trademark_20151119.jpg" caption="A colorful square board game labeled “The Landlord’s Game consists of green, blue, pink, and yellow labeled squares wrapping around the edges of the board. _Lizzie J. Magie, “The Landlord’s Game board.” Created in 1906. Image courtesy of Thomas Forsyth, Wikimedia Commons._" class="figure-left" >}}
 
 Monopoly was invented in 1904 by Washington D.C. resident Elizabeth Magie, and was originally known as the “Landlord’s Game.” For years, credit was wrongly given to a man named Charles Darrow, who sold the game to the Parker Brothers and made a fortune. Magie, a progressive, unmarried woman, was not given due credit until decades later – but it feels extra special to now honor her invention during Women’s History Month.
 
@@ -36,7 +36,6 @@ Many Bostonians also believe that much of the city is still residentially segreg
 So what does all of this mean? Well, although the average player may not realize it, the Monopoly board game IS actually a useful tool for thinking about equity and wealth in America, just as Magie intended it to be. And not just in property values, but in a multitude of ways – paying a $50 fee to “Get out of Jail”, for example, reflects how wealth plays a factor in our prison and justice systems.
 
 Monopoly is, in a way, its own map. Here at the Leventhal Map & Education Center, we use maps and data every day. Just like the monopoly game, maps can help us understand neighborhoods, specific streets, property value, and population in a specific geography. But perhaps unlike a board game, maps are not static – they change over time, and as we learn to understand them, they can empower us to make changes as well, in our cities, neighborhoods, communities, and classrooms. Maps and data can tell us a lot about equity and justice– who has access and who doesn’t, who’s included and who’s excluded, and how boundaries define or don’t define communities. Both the monopoly board and maps and data remind us of the ongoing struggle for equity and justice in housing and our communities today. But while Magie’s classically tiled board may not change, we can do the work to change the neighborhoods it reflects in real life.
-
 
 Picture 3: LOC Atlantic City Map  
 \[Image Description: A sepia-toned square of a map shows the beach, pier, and labeled Boardwalk. The boardwalk intersects long perpendicular labeled streets, and buildings and houses cover the open space.\]
