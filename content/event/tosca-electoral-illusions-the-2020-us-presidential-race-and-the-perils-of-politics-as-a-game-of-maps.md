@@ -9,6 +9,12 @@ registration = ""
 title = "TOSCA: Electoral Illusions: The 2020 US Presidential Race and the Perils of Politics as a Game of Maps"
 
 +++
+### Event video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6hzvaoYm6QM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Event description:
+
 Garrett Dash Nelson, Curator of Maps & Director of Geographic Scholarship at the Leventhal Map & Education Center, presents in **The Oxford Seminar on Cartography (TOSCA)** at Oxford University's Bodleian Library. The talk, _Electoral Illusions: The 2020 US Presidential Race and the Perils of Politics as a Game of Maps_, will take a critical look at how electoral mapping shapes our understanding of political competition.
 
 The talk will be broadcast via Zoom; [click here](https://zoom.us/j/91003332407?pwd=RnNvZStGbW1Eb3ZHMDd5RVg5U29zdz09) to join the seminar.
