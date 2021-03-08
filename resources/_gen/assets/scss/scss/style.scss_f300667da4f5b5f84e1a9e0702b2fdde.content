@@ -342,6 +342,7 @@ textarea.form-control {
 
 /* pagination */
 .pagination {
+  font-family: hero-new, sans-serif;
   justify-content: center; }
   .pagination .page-item {
     margin: 0 10px; }
