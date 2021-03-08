@@ -23,7 +23,7 @@ In 1930s Atlantic City, taking a stroll on the Boardwalk (the highest priced pro
 
 People have, of course, invented dozens of versions of Monopoly over the last century – some to reflect their own communities or cities, and some more silly and abstract like National Parks Monopoly, Ancient Egypt Monopoly, or TV Show Monopoly. But most of the city-focused versions do still reflect the bitter and racist history of property value in real estate.
 
-{{< figure src="https://dl.airtable.com/.attachmentThumbnails/8ce7149d98e7cdc114a270c4ba23e4ab/42aba865" alt="Image Description: A colorful square atlas plate shows a neighborhood of Beacon Hill, including a green park labeled Louisburg Square, two tan parallel streets labeled Mt. Vernon and Pickney St., and many pink and yellow property squares, with owners’ names." caption="A colorful square atlas plate shows a neighborhood of Beacon Hill, including a green park labeled Louisburg Square, two tan parallel streets labeled Mt. Vernon and Pickney St., and many pink and yellow property squares, with owners’ names." class="figure-right" >}}
+{{< figure src="https://dl.airtable.com/.attachmentThumbnails/8ce7149d98e7cdc114a270c4ba23e4ab/42aba865" caption="A colorful square atlas plate shows a neighborhood of Beacon Hill, including a green park labeled Louisburg Square, two tan parallel streets labeled Mt. Vernon and Pickney St., and many pink and yellow property squares, with owners’ names. _G.W. Bromley and Co. “Atlas of the City of Boston, Mass.” (Philadelphia, 1888)._" class="figure-right" >}}
 
 There have been several “Boston Monopoly” versions created over the years. The version we looked at puts Mass Ave. as the cheapest valued property, while Mt. Vernon Street takes the place of the luxury priced Boardwalk Square. Mt. Vernon Street is a residential street in Beacon Hill, where luxury townhouses around Louisburg Square are valued at $5 million; it was named the priciest street in Boston in 2019. Beacon Hill, whose North Slope used to be home to much of the city’s Black abolitionist community, is now almost 90% white.
 
@@ -34,12 +34,6 @@ Many Bostonians also believe that much of the city is still residentially segreg
 So what does all of this mean? Well, although the average player may not realize it, the Monopoly board game IS actually a useful tool for thinking about equity and wealth in America, just as Magie intended it to be. And not just in property values, but in a multitude of ways – paying a $50 fee to “Get out of Jail”, for example, reflects how wealth plays a factor in our prison and justice systems.
 
 Monopoly is, in a way, its own map. Here at the Leventhal Map & Education Center, we use maps and data every day. Just like the monopoly game, maps can help us understand neighborhoods, specific streets, property value, and population in a specific geography. But perhaps unlike a board game, maps are not static – they change over time, and as we learn to understand them, they can empower us to make changes as well, in our cities, neighborhoods, communities, and classrooms. Maps and data can tell us a lot about equity and justice– who has access and who doesn’t, who’s included and who’s excluded, and how boundaries define or don’t define communities. Both the monopoly board and maps and data remind us of the ongoing struggle for equity and justice in housing and our communities today. But while Magie’s classically tiled board may not change, we can do the work to change the neighborhoods it reflects in real life.
-
-Citations and Image Descriptions:
-
-Picture 1: Mt. Vernon St/Louisburg Square
-
-G.W. Bromley and Co. “Atlas of the City of Boston, Mass.” (Philadelphia, 1888).
 
 Picture 2: Landlord’s Game  
 \[Image Description: A colorful square board game labeled “The Landlord’s Game consists of green, blue, pink, and yellow labeled squares wrapping around the edges of the board.\]
