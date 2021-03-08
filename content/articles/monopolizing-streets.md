@@ -9,7 +9,7 @@ tags = []
 title = "Monopolizing Streets"
 
 +++
-Today, March 7, is the anniversary of the invention of a classic game we all know and love: Monopoly! This game has interesting origins, and also many ties to the work we do at the Map Center with maps, data, and the pursuit of equity and justice.
+This week in history is the anniversary of the invention of a classic game we all know and love: Monopoly! This game has interesting origins, and also many ties to the work we do at the Map Center with maps, data, and the pursuit of equity and justice.
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/5/52/Landlords_Game_1906_image_courtesy_of_T_Forsyth_owner_of_the_registered_trademark_20151119.jpg" caption="A colorful square board game labeled “The Landlord’s Game consists of green, blue, pink, and yellow labeled squares wrapping around the edges of the board. _Lizzie J. Magie, “The Landlord’s Game board.” Created in 1906. Image courtesy of Thomas Forsyth, Wikimedia Commons._" class="figure-left" >}}
 
@@ -17,7 +17,7 @@ Monopoly was invented in 1904 by Washington D.C. resident Elizabeth Magie, and w
 
 Magie’s progressive political views led her to design the game as a teaching tool – an anti-capitalism statement that was meant to highlight wealth and income inequalities in America. Board games were gaining popularity in the average American household in the 20th century, so Magie thought it was the perfect way to reach and educate the general public. Once published, the Landlord’s Game grew in popularity in the early 1900s, spreading through leftist groups and college students and eventually making its way to a community of Quakers in Atlantic City, who customized the game to fit their locale. This is the classic version of the game you are familiar with today, as it was the version Charles Darrow sold and mass-produced.
 
-{{< figure src="https://www.loc.gov/resource/g3814a.pm005080/?r=0.79,0.214,0.174,0.072,0" caption="A sepia-toned square of a map shows the beach, pier, and labeled Boardwalk. The boardwalk intersects long perpendicular labeled streets, and buildings and houses cover the open space. _Hughes & Bailey, “Aero view of Atlantic City, New Jersey.” (New York, 1909.) Library of Congress, Geography and Map Division._" class="figure-right" >}}
+{{< figure src="https://dl.airtable.com/.attachmentThumbnails/e103c4edfebb03b6e3f6e5e66113ce45/ebe967b2" caption="A sepia-toned square of a map shows the beach, pier, and labeled Boardwalk. The boardwalk intersects long perpendicular labeled streets, and buildings and houses cover the open space. _Hughes & Bailey, “Aero view of Atlantic City, New Jersey.” (New York, 1909.) Library of Congress, Geography and Map Division._" class="figure-right" >}}
 
 If you take a look at a 20th century map of Atlantic City, you’ll find all the same names you find on the board – Ventnor Avenue, Oriental Avenue, New York Avenue, and of course the infamous Boardwalk. Just take a look at the second image in this post, a birds-eye view map of 1909 Atlantic City from the Library of Congress.
 
