@@ -17,6 +17,8 @@ Monopoly was invented in 1904 by Washington D.C. resident Elizabeth Magie, and w
 
 Magie’s progressive political views led her to design the game as a teaching tool – an anti-capitalism statement that was meant to highlight wealth and income inequalities in America. Board games were gaining popularity in the average American household in the 20th century, so Magie thought it was the perfect way to reach and educate the general public. Once published, the Landlord’s Game grew in popularity in the early 1900s, spreading through leftist groups and college students and eventually making its way to a community of Quakers in Atlantic City, who customized the game to fit their locale. This is the classic version of the game you are familiar with today, as it was the version Charles Darrow sold and mass-produced.
 
+{{< figure src="https://www.loc.gov/resource/g3814a.pm005080/?r=0.79,0.214,0.174,0.072,0" caption="A sepia-toned square of a map shows the beach, pier, and labeled Boardwalk. The boardwalk intersects long perpendicular labeled streets, and buildings and houses cover the open space. _Hughes & Bailey, “Aero view of Atlantic City, New Jersey.” (New York, 1909.) Library of Congress, Geography and Map Division._" class="figure-right" >}}
+
 If you take a look at a 20th century map of Atlantic City, you’ll find all the same names you find on the board – Ventnor Avenue, Oriental Avenue, New York Avenue, and of course the infamous Boardwalk. Just take a look at the second image in this post, a birds-eye view map of 1909 Atlantic City from the Library of Congress.
 
 Historical researchers, however, are shedding light on how these monopoly squares and their property values reflect the racism, economic inequality, and exclusion in 20th century Atlantic City – and, more broadly, residential discrimination in cities across America, throughout the 1900s and continuing today.
@@ -36,12 +38,6 @@ Many Bostonians also believe that much of the city is still residentially segreg
 So what does all of this mean? Well, although the average player may not realize it, the Monopoly board game IS actually a useful tool for thinking about equity and wealth in America, just as Magie intended it to be. And not just in property values, but in a multitude of ways – paying a $50 fee to “Get out of Jail”, for example, reflects how wealth plays a factor in our prison and justice systems.
 
 Monopoly is, in a way, its own map. Here at the Leventhal Map & Education Center, we use maps and data every day. Just like the monopoly game, maps can help us understand neighborhoods, specific streets, property value, and population in a specific geography. But perhaps unlike a board game, maps are not static – they change over time, and as we learn to understand them, they can empower us to make changes as well, in our cities, neighborhoods, communities, and classrooms. Maps and data can tell us a lot about equity and justice– who has access and who doesn’t, who’s included and who’s excluded, and how boundaries define or don’t define communities. Both the monopoly board and maps and data remind us of the ongoing struggle for equity and justice in housing and our communities today. But while Magie’s classically tiled board may not change, we can do the work to change the neighborhoods it reflects in real life.
-
-Picture 3: LOC Atlantic City Map  
-\[Image Description: A sepia-toned square of a map shows the beach, pier, and labeled Boardwalk. The boardwalk intersects long perpendicular labeled streets, and buildings and houses cover the open space.\]
-
-Hughes & Bailey, “Aero view of Atlantic City, New Jersey.” (New York, 1909.) Library of Congress, Geography and Map Division.  
-[https://www.loc.gov/resource/g3814a.pm005080/?r=0.79,0.214,0.174,0.072,0](https://www.loc.gov/resource/g3814a.pm005080/?r=0.79,0.214,0.174,0.072,0 "https://www.loc.gov/resource/g3814a.pm005080/?r=0.79,0.214,0.174,0.072,0")
 
 Picture 4: Boardwalk Postcard  
 \[Image Description: A colorful painted postcard shows a beachside boardwalk with white families walking along it, and signs point out a movie theater, stores, and a beer advertisement. The postcard is labeled “The World’s Famous Boardwalk, Atlantic City, N.J.”\]
