@@ -29,3 +29,5 @@ The Academy of Music property became the Boston Theatre, which was replaced by t
 By panning around the map above, you can see the plethora of theaters that are duplicated on the BRA map. Some, like the Gaiety Theatre at 659 Washington St., stood vacant in 1988. The BRA seems to have considered it "substantially altered," and therefore not "worthy of preservation." Gaiety(/Publix), in the upper left corner of this crop of the BRA map, was razed in 2005.
 
 Others, or their descendants, remain in use today. Modern Theatre, for example, still exists in its original location as a part of Suffolk University, although only the facade of theb building is original. Like several of the other theaters downtown, it has been both a movie and stage theater during its long and storied life.
+
+If this was fun for you, make sure you [check out tonight's event](https://www.leventhalmap.org/event/map-show-and-tell-with-the-bra-collection/)! See you there with your favorite map!
