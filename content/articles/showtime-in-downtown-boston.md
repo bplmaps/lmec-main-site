@@ -3,7 +3,6 @@ author = "Rachel Mead"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cx037/full/,1200/0/default.jpg"
 date = 2021-03-09T19:56:17Z
 description = "Tonight we're celebrating our recently digitized Boston Redevelopment Authority Collection with a Map Show and Tell event! Here's a sneak peek of a map that will be shown and told about."
-draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cx037/full/,1200/0/default.jpg"
 tags = ["boston redevelopment authority", "BRA Collection", "Theatre district"]
 title = "Showtime in Downtown Boston"
@@ -29,4 +28,4 @@ The Academy of Music property became the Boston Theatre, which was replaced by t
 
 By panning around the map above, you can see the plethora of theaters that are duplicated on the BRA map. Some, like the Gaiety Theatre at 659 Washington St., stood vacant in 1988. The BRA seems to have considered it "substantially altered," and therefore not "worthy of preservation." Gaiety(/Publix), in the upper left corner of this crop of the BRA map, was razed in 2005.
 
-Others, or their descendants, remain in use today. Modern Theatre, for example, still exists on its original location as a part of Suffolk University, although only the facade of theb building is original. Like several of the other theaters downtown, it has been both a movie and stage theater during its long and storied life.
+Others, or their descendants, remain in use today. Modern Theatre, for example, still exists in its original location as a part of Suffolk University, although only the facade of theb building is original. Like several of the other theaters downtown, it has been both a movie and stage theater during its long and storied life.
