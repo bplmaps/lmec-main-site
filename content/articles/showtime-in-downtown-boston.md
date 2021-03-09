@@ -8,11 +8,11 @@ tags = ["boston redevelopment authority", "BRA Collection", "Theatre district"]
 title = "Showtime in Downtown Boston"
 
 +++
-Welcom back to the [BRA Collection](https://collections.leventhalmap.org/collections/commonwealth:7h14cv132), our newest digitized collection, consisting of 124 historic city planning maps of Boston, that we introduced to you [here](https://www.leventhalmap.org/articles/a-new-view-into-urban-renewal-in-boston/). The map we're talking about today is a map of the Theater District in downtown Boston.
+Welcome back to the [BRA Collection](https://collections.leventhalmap.org/collections/commonwealth:7h14cv132), our newest digitized collection, consisting of 124 historic city planning maps of Boston, that we introduced to you [here](https://www.leventhalmap.org/articles/a-new-view-into-urban-renewal-in-boston/). The map we're talking about today is a map of the Theater District in downtown Boston.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cx037/5348,352,1215,1093/,1200/0/default.jpg" caption="" class="figure-left" >}}
 
-This map tells a story about the preservation—or lack thereof —of historic theaters in Boston, a city which supposedly has the second highest concentration of old theaters outside of New York. This map lays out a plan to "revitalize" the theater district as a "multi-faceted Cultural District," complete with places to eat, shop, and engage in public art. To what extent did Boston succeed in creating a modern and bustling cultural district downtown?
+[This 1988 map](https://collections.leventhalmap.org/search/commonwealth:7h14cx02z) tells a story about the preservation—or lack thereof —of historic theaters in Boston, a city which supposedly has the second highest concentration of old theaters outside of New York. This map lays out a plan to "revitalize" the theater district as a "multi-faceted Cultural District," complete with places to eat, shop, and engage in public art. To what extent did Boston succeed in creating a modern and bustling cultural district downtown?
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cx037/full/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
