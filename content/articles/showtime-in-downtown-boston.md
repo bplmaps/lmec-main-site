@@ -8,7 +8,7 @@ tags = ["boston redevelopment authority", "BRA Collection", "Theatre district"]
 title = "Showtime in Downtown Boston"
 
 +++
-Welcom back to the [BRA Collection](https://collections.leventhalmap.org/collections/commonwealth:7h14cv132), a whopping 124 historic city planning maps of Boston that we introduced to you [here](https://www.leventhalmap.org/articles/a-new-view-into-urban-renewal-in-boston/)! The map we're talking about today is a map of the theater district in downtown Boston.
+Welcom back to the [BRA Collection](https://collections.leventhalmap.org/collections/commonwealth:7h14cv132), our newest digitized collection, consisting of 124 historic city planning maps of Boston, that we introduced to you [here](https://www.leventhalmap.org/articles/a-new-view-into-urban-renewal-in-boston/). The map we're talking about today is a map of the Theater District in downtown Boston.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cx037/5348,352,1215,1093/,1200/0/default.jpg" caption="" class="figure-left" >}}
 
