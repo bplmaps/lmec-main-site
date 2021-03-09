@@ -13,7 +13,7 @@ The [BRA Collection](https://collections.leventhalmap.org/collections/commonweal
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cx037/5348,352,1215,1093/,1200/0/default.jpg" caption="" class="figure-left" >}}
 
-This map tells a story about the preservation or lack thereof of historic theaters in Boston, which supposedly has the second highest concentration of old theaters outside of New York. The plan this map lays out is to revitalize the theater district as a "multifaceted Cultural District," complete with places to eat, shop, and engage in public art.
+This map tells a story about the preservation or lack thereof of historic theaters in Boston, which supposedly has the second highest concentration of old theaters outside of New York. The plan this map lays out is to revitalize the theater district as a "multifaceted Cultural District," complete with places to eat, shop, and engage in public art. To what extent did Boston succeed in creating a modern and bustling cultural district downtown?
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cx037/full/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
@@ -27,6 +27,6 @@ The Academy of Music property became the Boston Theatre, which was replaced by t
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cx037/2506,2183,1818,1522/,1200/0/default.jpg" caption="" class="figure-right" >}}
 
-By panning around the map above, you can see the plethora of theaters that are duplicated on the BRA map. Some, like the Gaiety Theatre at 659 Washington St., stood vacant in 1988. The BRA seems to have considered it "substantially altered," and therefore not "worthy of preservation." Gaiety(/Publix), in the upper left corner of this crop of the map, was razed in 2005.
+By panning around the map above, you can see the plethora of theaters that are duplicated on the BRA map. Some, like the Gaiety Theatre at 659 Washington St., stood vacant in 1988. The BRA seems to have considered it "substantially altered," and therefore not "worthy of preservation." Gaiety(/Publix), in the upper left corner of this crop of the BRA map, was razed in 2005.
 
-Others, or their descendants, remain in use today. Modern Theatre, for example, still exists on its original location, although only the facade of theb building is original. Like several of the other theaters downtown, it has been both a movie and stage theater during its long and storied life.
+Others, or their descendants, remain in use today. Modern Theatre, for example, still exists on its original location as a part of Suffolk University, although only the facade of theb building is original. Like several of the other theaters downtown, it has been both a movie and stage theater during its long and storied life.
