@@ -9,6 +9,10 @@ tags = ["boston redevelopment authority", "BRA Collection", "Theatre district"]
 title = "Showtime in Downtown Boston"
 
 +++
-The [BRA Collection](https://collections.leventhalmap.org/collections/commonwealth:7h14cv132) is currently 124 historic city planning maps of Boston that we introduced to you [here](https://www.leventhalmap.org/articles/a-new-view-into-urban-renewal-in-boston/)! The map we're talking about today is a map of the theatre district in downtown Boston.
+The [BRA Collection](https://collections.leventhalmap.org/collections/commonwealth:7h14cv132) is currently 124 historic city planning maps of Boston that we introduced to you [here](https://www.leventhalmap.org/articles/a-new-view-into-urban-renewal-in-boston/)! The map we're talking about today is a map of the theater district in downtown Boston.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cx037/full/,1200/0/default.jpg" caption="" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cx037/full/,1200/0/default.jpg" caption="" class="figure-center" >}}
+
+The theaters downtown had a long history before this 1988 redevelopment map was drawn up. The opera house, for example, was already the Academy of Music in 1861, on our oldest Atlascope layer
+
+<iframe width="400" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059012045$zoom:20.00$center:-7910670.7542788265,5214199.896131314$mode:glass$pos:496"></iframe>
