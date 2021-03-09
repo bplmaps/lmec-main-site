@@ -13,6 +13,8 @@ The [BRA Collection](https://collections.leventhalmap.org/collections/commonweal
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cx037/5348,352,1215,1093/,1200/0/default.jpg" caption="" class="figure-left" >}}
 
+This map is about the preservation or lack thereof of historic theaters in Boston, which supposedly has the second highest concentration of old theaters outside of New York. The plan this map lays out is to revitalize the theater district as a "multifaceted Cultural District," complete with places to eat, shop, and engage in public art.
+
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cx037/full/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
 The theaters downtown had a long history before this 1988 redevelopment map was drawn up. The opera house, for example, was already the Academy of Music in 1861, on our oldest Atlascope layer.
