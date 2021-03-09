@@ -15,8 +15,8 @@ The [BRA Collection](https://collections.leventhalmap.org/collections/commonweal
 
 The theaters downtown had a long history before this 1988 redevelopment map was drawn up. The opera house, for example, was already the Academy of Music in 1861, on our oldest Atlascope layer.
 
-<iframe width="400" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059012045$zoom:20.00$center:-7910656.661198085,5214204.195716886$mode:glass$pos:196"></iframe>
+<iframe width="600" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059012045$zoom:20.00$center:-7910656.661198085,5214204.195716886$mode:glass$pos:196"></iframe>
 
-The Academy of Music property became the Boston Theatre, which was replaced by the Keith Memorial Theatre by 1928. You can see in this Atlascope view, by swiping back and forth, what changed in the neighborhood in between 1922 and 1928.
+The Academy of Music property became the Boston Theatre, which was replaced by the Keith Memorial Theatre by 1928. You can see in this Atlascope view, by swiping back and forth, what changed in the neighborhood in between 1922 and 1928. Most of the other theaters are still there between those two years, including the Bijou Dream, Keith's Theatre, and Modern Theatre.
 
-<iframe width="400" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059011682$overlay:39999059011526$zoom:18.81$center:-7910669.7252482,5214150.160095448$mode:swipe-x$pos:0.4757853403141361"></iframe>
+<iframe width="600" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059011682$overlay:39999059011526$zoom:18.81$center:-7910669.7252482,5214150.160095448$mode:swipe-x$pos:0.4757853403141361"></iframe>
