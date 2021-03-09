@@ -21,6 +21,6 @@ The Academy of Music property became the Boston Theatre, which was replaced by t
 
 <iframe width="600" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059011682$overlay:39999059011526$zoom:18.81$center:-7910669.7252482,5214150.160095448$mode:swipe-x$pos:0.4757853403141361"></iframe>
 
-By panning around the map above, you can see the plethora of theaters that the BRA map focuses on revitalizing. Some, like the Gaiety Theatre at 659 Washington St., stood vacant in 1988.
-
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cx037/2506,2183,1818,1522/,1200/0/default.jpg" caption="" class="figure-right" >}}
+
+By panning around the map above, you can see the plethora of theaters that the BRA map focuses on revitalizing. Some, like the Gaiety Theatre at 659 Washington St., stood vacant in 1988. The BRA seems to have considered it "substantially altered," and therefore not "worthy of preservation."
