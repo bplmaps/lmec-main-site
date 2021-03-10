@@ -17,7 +17,7 @@ The Leventhal Map & Education Center offers a menu of pre-designed programs for 
 
 {{< course-listing image="/uploads/wiam.png" title="What Is A Map?" subtitle="Grades 1–3" description="Students practice how to interpret maps by reading the stories being told by mapmakers. Students create a map of their own, receive a short interactive lesson about maps and mapping, and work in small groups to answer questions about some of the maps in our collection.">}}
 
-{{< course-listing image="/uploads/eliot4.jpg" title="People Shape the Earth/The Earth Shapes People" subtitle="Grades 2-4" description="After an introductory lesson on maps and mapping, students work together to consider the ways we shape the environment and the ways it shapes us by examining regional maps of the United States.">}}
+{{< course-listing image="/uploads/eliot4.jpg" title="People Shape the Earth/The Earth Shapes People" subtitle="Grades 2-5" description="After an introductory lesson on maps and mapping, students work together to consider the ways we shape the environment and the ways it shapes us by examining regional maps of the United States.">}}
 
 {{< course-listing image="/uploads/amrev.png" title="Mapping the American Revolution" subtitle="Grades 3-12" description="Students learn to interpret the stories of the American Revolution as told through maps. In small groups, they examine period maps of Boston and New England to uncover information about the historical actors in the Revolution, the significance of geography, and the motives of the mapmakers.">}}
 
