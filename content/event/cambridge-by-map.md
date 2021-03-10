@@ -9,6 +9,12 @@ registration = "https://www.eventbrite.com/e/cambridge-by-map-tickets-1386936715
 title = "Cambridge By Map"
 
 +++
+### Event Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/riD6_FDWuYw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Event description
+
 **Join the Leventhal Map & Education Center and Cambridge Public Library as we explore history through maps.**
 
 How old is the Cambridge Public Library? What was Cambridge like in the late 19th and early 20th centuries? How has the city changed, and how has it stayed the same? Using [Atlascope](https://atlascope.leventhalmap.org/), the Leventhal Map & Education Center’s user-friendly portal for exploring urban atlases, we’ll dive into the historical geography of Cambridge. Come learn about how the community has changed over time, and discover how to research the history of your own house and neighborhood.
