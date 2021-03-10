@@ -28,6 +28,6 @@ By panning around the map above, you can see the plethora of theaters whose buil
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cx037/2506,2183,1818,1522/,1200/0/default.jpg" caption="The Publix/Gaiety theater appears in the upper left of this excerpt" class="figure-right" >}}
 
-Others, or their descendants, remain in use today. Modern Theatre, for example, still exists in its original location as a part of Suffolk University, although only the facade of theb building is original. Like several of the other theaters downtown, it has been both a movie and stage theater during its long and storied life.
+Others, or their descendants, remain in use today. Modern Theatre, for example, still exists in its original location as a part of Suffolk University, although only the facade of the building is original. Like several of the other theaters downtown, it has been both a movie and stage theater during its long and storied life.
 
 If this was fun for you, make sure you [check out tonight's event](https://www.leventhalmap.org/event/map-show-and-tell-with-the-bra-collection/). See you there with your favorite map!
