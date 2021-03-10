@@ -13,7 +13,7 @@ title = "A Civil War map goes on trial"
 
 When I discovered the [digitized copy of George W. Carleton's map](https://collections.leventhalmap.org/search/commonwealth:ht2503558) in the Leventhal Map & Education Center's collections, I quickly recognized that it was likely the same map that was exhibited and referred to during the trial of Andersonville Prison’s much reviled commandant, Captain Henry Wirz. Wirz had the ignominious distinction of being the only person tried, convicted, and executed for war crimes at the end of the Civil War, though many view him as a scapegoat that was wrongly blamed for the nearly 13,000 Union prisoners that died at Andersonville between the time when the first prisoners arrived there on February 24, 1864 and the day that Wirz was arrested on May 7, 1865.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250356j" class="figure-right" caption="The Carleton map of Andersonville [in the LMEC Digital Collections](https://collections.leventhalmap.org/search/commonwealth:ht2503558)" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250356j/full/,1200/0/default.jpg" class="figure-right" caption="The Carleton map of Andersonville [in the LMEC Digital Collections](https://collections.leventhalmap.org/search/commonwealth:ht2503558)" >}}
 
 Identifying this map as the one that was used in the trial was made possible by some of the particular features that appear on the map. These features were referred to by different witnesses at several points during the Wirz trial, but the most important clue is found in the following comments made by Major General John Harrison Wilson while he was on the witness stand.
 
