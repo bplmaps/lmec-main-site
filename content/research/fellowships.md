@@ -49,7 +49,7 @@ An application consists of the following material submitted by **April 12, 2021*
 * A description of when and how the research will be undertaken, including a discussion of the balance of work between digitized and non-digitized collections; no more than 200 words.
 * A full CV; PDF format.
 
-<a href="https://airtable.com/shrL7u3T7Y4kyM7Aq" class="btn btn-outline btn-primary btn-block">Submit application online</a>
+<a href="https://airtable.com/shrL7u3T7Y4kyM7Aq" class="btn btn-outline-primary btn-block">Submit application online</a>
 
 Final round applicants will additionally be required to submit a letter of support from a colleague or supervisor. Letters of support will be solicited by the end of April.
 
