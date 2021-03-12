@@ -1,6 +1,6 @@
 <head>
   <meta charset="utf-8">
-  <title>{{ site.Title }}</title>
+  <title>{{ if not .IsHome }} {{ with .Title }}{{ . }} · {{ end }}{{ end }}{{ site.Title }}</title>
 
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
