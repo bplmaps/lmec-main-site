@@ -7,7 +7,7 @@ aliases:
 - research/research-fellows
 
 ---
-### Public Research Fellow Program 2021–2022
+## Public Research Fellow Program
 
 ### Environmental Justice in Boston and Beyond
 
@@ -44,13 +44,12 @@ As of spring 2021, in-person access to the Rare Maps Reading Room remains closed
 
 An application consists of the following material submitted by **April 12, 2021**:
 
-• A statement describing the proposed research project, with a specific evaluation of which objects or collections will be used; no more than 500 words.
+*  A statement describing the proposed research project, with a specific evaluation of which objects or collections will be used; no more than 500 words.
+*  A statement describing a plan for how the research project will reach a public audience through forms of publication and creative engagement; no more than 500 words.
+* A description of when and how the research will be undertaken, including a discussion of the balance of work between digitized and non-digitized collections; no more than 200 words.
+* A full CV; PDF format.
 
-• A statement describing a plan for how the research project will reach a public audience through forms of publication and creative engagement; no more than 500 words.
-
-• A description of when and how the research will be undertaken, including a discussion of the balance of work between digitized and non-digitized collections; no more than 200 words.
-
-• A full CV; PDF format.
+<a href="https://airtable.com/shrL7u3T7Y4kyM7Aq" class="btn btn-outline btn-primary btn-block">Submit application online</a>
 
 Final round applicants will additionally be required to submit a letter of support from a colleague or supervisor. Letters of support will be solicited by the end of April.
 
