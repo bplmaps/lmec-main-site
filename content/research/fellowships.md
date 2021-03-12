@@ -22,11 +22,9 @@ The Public Research Fellows programs is a pilot initiative of the LMEC, and it i
 
 In 2021–2022, the LMEC seeks proposals on the topic of **Environmental Justice in Boston and Beyond.** In spring of 2022, the LMEC will launch the [More or Less in Common](https://www.leventhalmap.org/articles/environmental-justice-exhibition-preview/) exhibition in our gallery at the Central Library. This exhibition will explore how environmental management, landscape design, and spatial politics have been historically related to patterns of social, racial, economic, and ethnic exclusion and inclusion. Research proposals may focus on any topic related to environmental justice, but we particularly encourage:
 
-• Work that connects long periods of historical change to issues in the present and future
-
-• Work that involves collaborative research design with participants in ongoing environmental justice efforts
-
-• Projects that involve an overlap between historical cartographic materials and geospatial data sets
+*  Work that connects long periods of historical change to issues in the present and future
+* Work that involves collaborative research design with participants in ongoing environmental justice efforts
+* Projects that involve an overlap between historical cartographic materials and geospatial data sets
 
 #### About the Fellowship
 
@@ -44,8 +42,8 @@ As of spring 2021, in-person access to the Rare Maps Reading Room remains closed
 
 An application consists of the following material submitted by **April 12, 2021**:
 
-*  A statement describing the proposed research project, with a specific evaluation of which objects or collections will be used; no more than 500 words.
-*  A statement describing a plan for how the research project will reach a public audience through forms of publication and creative engagement; no more than 500 words.
+* A statement describing the proposed research project, with a specific evaluation of which objects or collections will be used; no more than 500 words.
+* A statement describing a plan for how the research project will reach a public audience through forms of publication and creative engagement; no more than 500 words.
 * A description of when and how the research will be undertaken, including a discussion of the balance of work between digitized and non-digitized collections; no more than 200 words.
 * A full CV; PDF format.
 
