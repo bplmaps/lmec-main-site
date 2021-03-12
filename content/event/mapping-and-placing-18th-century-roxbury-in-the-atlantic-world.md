@@ -11,11 +11,9 @@ title = "Mapping and Placing 18th Century Roxbury in the Atlantic World"
 +++
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< /alert-box >}}
 
-**Explore how 18th century cartography was vital to governing and expanding the British Empire, starting at Governor Shirley's Roxbury mansion**
+### **Explore how 18th century cartography was vital to governing and expanding the British Empire, starting at Governor Shirley's Roxbury mansion**
 
-### About this Event
-
-Garret Dash Nelson, curator of the Boston Public Library's Leventhal Map Center explores just how Boston, New England and the historic Shirley-Eustis House were situated in the British Empire's Northern Atlantic ambitions. Beautifully rendered and detailed historic maps from the 1700s reveal how Governor William Shirley and others tried to shape those ambitions
+Garrett Dash Nelson, curator of the Boston Public Library's Leventhal Map Center explores just how Boston, New England and the historic Shirley-Eustis House were situated in the British Empire's Northern Atlantic ambitions. Beautifully rendered and detailed historic maps from the 1700s reveal how Governor William Shirley and others tried to shape those ambitions
 
 For additional information or assistance, contact the
 
