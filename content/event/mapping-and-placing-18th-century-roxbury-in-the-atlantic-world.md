@@ -9,6 +9,8 @@ registration = "https://www.eventbrite.com/e/mapping-and-placing-18th-century-ro
 title = "Mapping and Placing 18th Century Roxbury in the Atlantic World"
 
 +++
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< /alert-box >}}
+
 **Explore how 18th century cartography was vital to governing and expanding the British Empire, starting at Governor Shirley's Roxbury mansion**
 
 ### About this Event
