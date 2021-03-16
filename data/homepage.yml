@@ -74,6 +74,8 @@ audiences:
       link: exhibitions/digital-exhibitions
     - title: Read articles about our work and collections
       link: articles
+    - title: Search our digital collections
+      link: collections/digital-collections/
     - title: Support our work with a donation
       link: donate
   - name: For K-12 teachers
