@@ -81,9 +81,6 @@ audiences:
       and social studies to STEM and world history
     color: "#799351"
     links:
-    - title: 'Apply for the 2021–22 Carolyn A. Lynch Summer Teacher Fellowship: Teaching
-        Boston Community History'
-      link: https://www.leventhalmap.org/education/k12/2021-lynch-summer-teacher-fellowship/
     - title: Book a classroom visit
       link: education/k12/school-visits
     - title: See resources for teaching with maps
@@ -92,6 +89,9 @@ audiences:
       link: education/k12/professional-development
     - title: Show students a digital exhibition
       link: exhibitions/digital-exhibitions/
+    - title: 'Apply for the 2021–22 Carolyn A. Lynch Summer Teacher Fellowship: Teaching
+        Boston Community History'
+      link: https://www.leventhalmap.org/education/k12/2021-lynch-summer-teacher-fellowship/
   - name: For researchers
     description: Our collections open up countless ways of exploring people and places
       around the world, and we welcome researchers from all walks of life
@@ -105,7 +105,7 @@ audiences:
       link: research/geospatial
     - title: Browse our guides and finding aids
       link: research/guides
-    - title: Apply for a research fellowship
+    - title: Apply for a Public Research Fellowship
       link: research/fellowships
   - name: Digital tools
     description: Explore our collections and discover the world of historical geography
