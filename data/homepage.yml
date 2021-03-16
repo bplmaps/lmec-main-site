@@ -57,6 +57,9 @@ cta:
   - badge: Research Fellowship
     link: https://www.leventhalmap.org/research/fellowships/
     text: 'Public Research Fellowship 2021–22: Environmental Justice'
+  - badge: K-12 Professional Development
+    text: 'Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History'
+    link: https://www.leventhalmap.org/education/k12/2021-lynch-summer-teacher-fellowship/
 audiences:
   enable: true
   audienceGroups:
@@ -78,6 +81,9 @@ audiences:
       and social studies to STEM and world history
     color: "#799351"
     links:
+    - title: 'Apply for the 2021–22 Carolyn A. Lynch Summer Teacher Fellowship: Teaching
+        Boston Community History'
+      link: https://www.leventhalmap.org/education/k12/2021-lynch-summer-teacher-fellowship/
     - title: Book a classroom visit
       link: education/k12/school-visits
     - title: See resources for teaching with maps
