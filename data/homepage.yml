@@ -54,6 +54,9 @@ cta:
     text: Postdoctoral Fellowship in the Digital History and Geography of the American
       Revolutionary War Era
     link: https://www.mountvernon.org/library/digitalhistory/postdoctoral-fellowship-in-the-digital-history-and-geography-of-the-american-revolutionary-war-era/
+  - badge: Research Fellowship
+    link: https://www.leventhalmap.org/research/fellowships/
+    text: 'Public Research Fellowship 2021–22: Environmental Justice'
 audiences:
   enable: true
   audienceGroups:
