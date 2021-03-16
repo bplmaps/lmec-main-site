@@ -50,9 +50,10 @@ cta:
   - badge: Newly digitized
     text: A 1904 trolley wayfinder for Greater Boston
     link: https://collections.leventhalmap.org/search/commonwealth:jh343z12j
-  - badge: New acquisition
-    text: A 1696 map of northeastern North America by Nicolaes Visscher
-    link: https://bpl.bibliocommons.com/item/show/7664929075
+  - badge: Job posting
+    text: Postdoctoral Fellowship in the Digital History and Geography of the American
+      Revolutionary War Era
+    link: https://www.mountvernon.org/library/digitalhistory/postdoctoral-fellowship-in-the-digital-history-and-geography-of-the-american-revolutionary-war-era/
 audiences:
   enable: true
   audienceGroups:
