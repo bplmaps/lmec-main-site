@@ -43,9 +43,11 @@ Making digital reference maps that aid in finding historic materials is a lot of
 
 ### Interview 
 
-I wanted to learn more about how data publishers consider public engagement. I was especially curious about publishers charged with generating public data materials, like MassDOT. How does public accessibility factor in to their daily data practices?
+At the LMEC, accessibility is a core staple of our work. In our [public data projects](https://www.leventhalmap.org/articles/introducing-our-public-data-project/), we aim to tease out some of the technological and social barriers which inhibit public datasets' everyday usefulness. Data published by government institutions interest us, because, just like the materials held by the Boston Public Library, they are resources which belong to the people.
 
-I sat down with Carl Hughes, MassDOT's lead GIS developer. We had a discussion about the GIS resources they oversee, and some of the challenges inherent in creating data materials for public audiences.
+Having made a connection with MassDOT via the town corners webmap project, I was interested in learning more about the ways public accessibility factors in to their daily data practices.
+
+I sat down with Carl Hughes, MassDOT's Lead GIS Developer. We had a discussion about the GIS resources they oversee, and some of the challenges inherent in creating data materials for public audiences.
 
 _The text of this interview has been lightly edited for clarity._
 
