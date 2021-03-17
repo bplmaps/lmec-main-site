@@ -61,28 +61,33 @@ CH: The team is around 15 people or so. We manage the GIS data & infrastructure.
 CH: The road inventory is the main dataset we work on. We also manage rail, transit, airports, bike networks, the crash inventory, and many other assets. 
 
 
-**BL: What are some attitudes and constraints which affect the accessibility of your datasets and web tools for everyday people?**
+**BL: When you make maps and data for public audiences, what does that mean?**
+
+CH: A lot of the time, when we make something “public,” we don't build it for your everyday citizen. They don't necessarily care about the pavement condition. They do care about it, but they care about it on their commute, like if they have a pothole and they want to report it, or something like that.
+
+We gear our materials towards 1. Developers who are doing construction or transportation work 2. City planners and town GIS departments who we work with very closely and 3. Researchers, academics and activists focused  on transportation equity.
 
 
-CH: We're very focused on the road inventory. That's everything from speed limit data, to pavement condition, to guard rail locations. Those aren't very interesting, in and of themselves to the public. We spend a lot of money, however, collecting, maintaining, cleaning, updating and building tools to support that data. 
-The benefit is that it gets drawn up into non-MassDOT tools like GoogleMaps and Waze. That's the primary way most people interact with the data we collect and the work we do. If we built a tool to show, for instance, the locations of road closures, nobody would use that application. It would be inconvenient. But GoogleMaps does take that information from us.
 
-When we structure data, much of that formatting is federally-regulated. For example, there are many attributes we collect and report on that wouldn't mean a lot to the public. For instance, "jurisdiction", "functional classification", "federal functional classification", etc . If I told you jurisdiction means ownership and, ownership signifies who is responsible for the road, that makes a bit more sense. Internally, we say things like, "oh you know, the jurisdiction dataset", or, "is it accepted or unaccepted?". We use those terms internally, but they might not make sense to the average person. What it means is, does the city own it and does the city maintain it? Was it built within a city but is it "unaccepted" so the city does not pay to maintain it? All this feeds into this thing called chapter 90, which is funding that the towns get, calculated on population, jobs, and then the actual mileage of roads that are accepted within their town. So the data we maintain has real implications for the towns, but it doesn't bother the public.
 
-**BL: Who are the "publics" you create data and web tools for, generally?**
+**BL: What are some of the challenges in your work to making data that is accessible for everyday citizens?**
 
-CH: We gear our materials towards 1. Developers who are doing construction or transportation work 2. City planners (we work closely with all the cities and towns, so we gear a lot of our “public stuff” just towards them). 3. Researchers, academics and activists focused  on transportation equity, who are usually more interested in MBTA-related datasets.
+CH: Much of the data formatting rules are federally-regulated. For example, there are attributes we collect and report on that wouldn't mean much to the public. Some I can think of are "jurisdiction", "functional classification" and "federal functional classification". Jurisdiction means ownership and ownership determines who is responsible for the road. Internally, we say things like, "oh you know, the jurisdiction dataset", or, "is the road _accepted_ or _unaccepted_?". We use terminology like this internally, but it might not be obvious to the average person. It means whether or not the city owns and maintains an asset. Sometimes roads are built within a city but they are "unaccepted" so the city does not pay to maintain it. All of this feeds into this thing called chapter 90, which is funding that the towns get, calculated on population, jobs, and then the actual mileage of roads that are accepted within their town. So the data we maintain has real implications for the towns, but it doesn't bother the public.
 
-A lot of the time, when we make something “public,” we don't build it for your everyday citizen. They don't necessarily care about the pavement condition. They do care about it, but they care about it on their commute, like if they have a pothole and they want to report it, or something like that.
+**BL: What are some challenges in your work to using web maps as a form of communication with everyday citizens?**
 
-**BL: How would you describe your ideal public data user?**
-
-CH: Somebody with a good sense of the geography of the state, so they know what they're looking at. Also, a question at hand that they're trying to answer. Many of our tools and datasets aren't meant for browsing or exploring the way other tools are. It does help if you have an interest in a type of asset, or something like that to know what you're looking at. We also assume an understanding of the queries and filters, which plays into the language we use. For example, what does "ownership" mean, what does "asset condition" mean? What is an "asset inspection"? It's the most recent time somebody went out and looked at that asset and filled out a form we made, which gives us a sense of the asset's condition. So having a general understanding of what they're looking at, and what they want to find out from it. 
+CH: It's a matter of convenience. We are very focused on the road inventory. That's everything from speed limit data, to pavement condition, to guard rail locations. Those aren't very interesting, in and of themselves to the public. We do spend a lot of money, however, collecting, maintaining, cleaning, updating and building tools to support this data. 
+The benefit to the public is that it gets drawn up into non-MassDOT tools like GoogleMaps and Waze. That's the primary way most people interact with the data we collect and the work we do. If we built a tool to show, for instance, the locations of road closures, nobody would use that application. It would be inconvenient. But GoogleMaps does take that information from us.
 
 
 **BL: Do you use Google Maps, Apple Maps or Waze?**
 
 CH: I mean, I use GoogleMaps, it's just easiest!
+
+**BL: Anything else our readers should know about?**
+
+CH: We recently published a new site with transportation-related COVID data, so how has the pandemic impacted T-ridership? Or toll revenue? Or traffic? The stories it tells are pretty cool.
+ 
 
 
 
