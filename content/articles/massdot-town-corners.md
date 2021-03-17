@@ -34,6 +34,7 @@ We love maps that make historic documents more accessible and engaging, like our
 
  {{< carousel-figure src="/images/blog/tc-6.png" >}}Triangulation stations in Kingston, Massachusetts{{< /carousel-figure >}}
 {{< carousel-figure src="/images/blog/tc-4.jpg" >}}Town boundary between Kingston and Duxbury, along the Jones River{{< /carousel-figure >}}
+{{< carousel-figure src="/images/blog/tc-7.jpg" >}}Map from the 1899 Kingston atlas showing survey locations{{< /carousel-figure >}}
 
 {{< /carousel >}}
 
@@ -42,9 +43,9 @@ Making digital reference maps that aid in finding historic materials is a lot of
 
 ### Interview 
 
-After finishing the town corners webmap, I was still curious about MassDOT. The LMEC engages in many [activities to promote GIS data literacy](https://www.leventhalmap.org/articles/introducing-our-public-data-project/) in our work with the public. I wanted to learn more about what else the GIS folks at MassDOT have to offer. 
+I wanted to learn more about how data publishers consider public engagement. I was especially curious about publishers charged with generating public data materials, like MassDOT. How does public accessibility factor in to their daily data practices?
 
-I sat down with Carl Hughes, MassDOT's lead GIS developer. We had a discussion about how he creates data materials and thinks about public audiences. 
+I sat down with Carl Hughes, MassDOT's lead GIS developer. We had a discussion about the GIS resources they oversee, and some of the challenges inherent in creating data materials for public audiences.
 
 _The text of this interview has been lightly edited for clarity._
 
