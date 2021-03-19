@@ -20,6 +20,7 @@
 
   {{ template "partials/meta_graph.html" . }}
 
+  {{ if not .Site.BuildDrafts }}
   {{ with site.Params.google_analytics_id}}
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{.}}"></script>
@@ -30,6 +31,7 @@
   gtag('config', '{{.}}');
   gtag('config', 'AW-603161145');
 </script>
+{{ end }}
 {{ end }}
 
 </head>
