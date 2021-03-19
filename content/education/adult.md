@@ -7,11 +7,9 @@ weight: 3
 ---
 
 
-## Mapmaking Public Instruction Courses
+## Public Instruction Courses
 
-{{< alert-box type="warning" icon="fas fa-exclamation-triangle" title="COVID-19 closure" >}}
-Our public programs in the library's learning lab are currently suspended due to the building's closure. We plan to bring our adult education programs back in remote form in Spring 2021.
-{{< /alert-box >}}
+Join us this April for [Making Sense of Maps and Data](https://www.leventhalmap.org/event/making-sense-of-maps-data/), a three-part course that will empower you to use and interpret digital geospatial information.
 
 ## Talks, Lectures, and Seminars
 
