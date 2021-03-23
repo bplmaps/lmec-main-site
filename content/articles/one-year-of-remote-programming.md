@@ -33,4 +33,8 @@ Check out our first trivia night and play along:
 
 ### Education
 
-During the pandemic we've expanded the online resources available for teachers and students on our website. In particular, our K-12 teach-it-yourself program can be particularly useful for teachers or homeschoolers.
+During the pandemic we've expanded the online resources available for teachers and students on our website. In particular, our K-12 [teach-it-yourself](https://www.leventhalmap.org/education/k12/teach-it-yourself/) page can be particularly useful for teachers or homeschoolers. It's got links to our [Bending Lines educational activities](https://www.leventhalmap.org/digital-exhibitions/bending-lines/education-activities/), fully scripted versions of our most popular lessons, lesson plans, and map sets.
+
+Here's a spreadsheet of all our K-12 educational offerings for your use! Let us know if there's anything you'd like to teach that we don't have a resource for:
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrUVzlo5NEbjYUss?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
