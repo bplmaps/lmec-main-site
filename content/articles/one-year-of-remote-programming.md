@@ -30,3 +30,7 @@ Not only have we been to nearly a dozen branches at this point, many virtually, 
 Check out our first trivia night and play along:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/14lAiIuY9oU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Education
+
+During the pandemic we've expanded the online resources available for teachers and students on our website. In particular, our K-12 teach-it-yourself program can be particularly useful for teachers or homeschoolers.
