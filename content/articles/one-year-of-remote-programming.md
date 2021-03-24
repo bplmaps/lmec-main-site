@@ -13,7 +13,7 @@ We've been online only for over a year now, and while we've missed being able to
 
 ### Bending Lines
 
-Our exhibit [Bending Lines](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) opened last year online, instead of in person, after the pandemic interrupted [America Transformed](https://collections.leventhalmap.org/exhibits/25). Both exhibits exist online now, as do [all our former exhibits](https://collections.leventhalmap.org/exhibits)! Because Bending Lines has been online for its whole existence, all the programming around the exhibit is also available online as well. This includes our series [Angles on Bending Lines](https://www.leventhalmap.org/digital-exhibitions/bending-lines/events/), which is a guest conversation series that takes a critical look at maps and data.
+Our exhibit [Bending Lines](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) opened last year online, instead of in person, after the pandemic interrupted [America Transformed](https://collections.leventhalmap.org/exhibits/25). Bending Lines: Maps and Data from Distortion to Deception is all about challenging the idea that maps are an inert and unbiased way of sharing information. Both exhibits exist online now, as do [all our former exhibits](https://collections.leventhalmap.org/exhibits)! Because Bending Lines has been online for its whole existence, all the programming around the exhibit is also available online as well. This includes [Angles on Bending Lines](https://www.leventhalmap.org/digital-exhibitions/bending-lines/events/), which is a guest conversation series that takes a critical look at maps and data.
 
 We will actually be continuing Angles on Bending Lines this spring with a new series of talks! Stay tuned for more information. In the meantime, check out our curator Garrett Dash Nelson's talk with Judith Tyner who coined the term "persuasive cartography," the starting point of Bending Lines:
 
@@ -25,7 +25,7 @@ Right before COVID, we started bringing our [Atlascope tool](https://atlascope.l
 
 <iframe width="560" height="315" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011690$zoom:18.00$center:-7912349.11775309,5213465.57356861$mode:glass$pos:132"></iframe>
 
-Not only have we been to nearly a dozen branches at this point, many virtually, we've also done several fun trivia nights themed around our urban atlases.
+Not only have we been to nearly a dozen branches and libraries at this point, many virtually (including [Jamaica Plain](https://youtu.be/6KTCWKqmJeE), [East Boston](https://youtu.be/r2LtUDC30xw), [South End](https://youtu.be/d_IesdOUuNI), [Fields Corner](https://youtu.be/-iPoFOe8icQ), [Uphams Corner](https://youtu.be/fyagZWMF1I8), [West Roxbury](https://youtu.be/eeO-Bn5v_f0), [North End](https://youtu.be/pbKFVVzEq1I), and the [Cambridge Public Library](https://youtu.be/riD6_FDWuYw)), we've also done several fun trivia nights themed around our urban atlases.
 
 Check out our first trivia night and play along:
 
@@ -33,7 +33,7 @@ Check out our first trivia night and play along:
 
 ### Education
 
-During the pandemic we've expanded the online resources available for teachers and students on our website. In particular, our K-12 [teach-it-yourself](https://www.leventhalmap.org/education/k12/teach-it-yourself/) page can be particularly useful for teachers or homeschoolers. It's got links to our [Bending Lines educational activities](https://www.leventhalmap.org/digital-exhibitions/bending-lines/education-activities/), fully scripted versions of our most popular lessons, lesson plans, and map sets.
+During the pandemic we've expanded the online resources available for teachers and students on our website. Our K-12 [teach-it-yourself](https://www.leventhalmap.org/education/k12/teach-it-yourself/) page is particularly useful for teachers or homeschoolers. It's got links to our [Bending Lines educational activities](https://www.leventhalmap.org/digital-exhibitions/bending-lines/education-activities/), fully scripted versions of our most popular lessons, more traditional lesson plans, and map sets.
 
 Here's a spreadsheet of all our K-12 educational offerings for your use! Let us know if there's anything you'd like to teach that we don't have a resource for:
 
