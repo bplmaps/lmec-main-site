@@ -2,6 +2,7 @@ ErrorDocument 404 /404.html
 
 <IfModule mod_rewrite.c>
 RewriteEngine On
+RewriteRule ^ark:/76611/([A-Za-z0-9-]+)/?$ https://data.leventhalmap.org/#/catalog/$1 [NE,L] #ark keys for data portal
 RewriteRule ^id/([A-Za-z0-9-]+)/?$ https://collections.leventhalmap.org/redirects/$1 [R=301,NC,L] #redirect to collections
 </IfModule>
 
