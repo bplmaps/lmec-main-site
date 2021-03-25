@@ -3,9 +3,8 @@ author = "Rachel Mead"
 backgroundImage = "https://fedora.digitalcommonwealth.org/fedora/objects/commonwealth:q524n594d/datastreams/access800/content"
 date = 2021-03-22T18:39:33Z
 description = "After being closed for a year, we've built up a wealth of online offerings for you to use anytime!"
-draft = true
 image = "https://fedora.digitalcommonwealth.org/fedora/objects/commonwealth:q524n594d/datastreams/access800/content"
-tags = ["online programming", "covid", "atlascope", "bending lines"]
+tags = ["online programming", "covid", "atlascope", "bending lines", "boston redevelopment authority", "education"]
 title = "One Year of Remote Programming"
 
 +++
@@ -13,7 +12,7 @@ In March of 2020, along with every other cultural institution in Boston and acro
 
 ### Bending Lines
 
-Our exhibit [_Bending Lines_](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) opened last year online, instead of in person, after the pandemic interrupted [America Transformed](https://collections.leventhalmap.org/exhibits/25). _Bending Lines: Maps and Data from Distortion to Deception_ is all about challenging the idea that maps are an inert and unbiased way of sharing information. Both exhibits exist online now, as do [all our former exhibits](https://collections.leventhalmap.org/exhibits)! But while former exhibits are mostly online in the form of lists of objects and captions, _Bending Lines_ was designed specifically for an online audience, with [interactive material](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/projections/) and [an educational tour](https://www.leventhalmap.org/digital-exhibitions/bending-lines/education-activities/) custom-designed for this show.
+Our exhibit [_Bending Lines_](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) opened last year online, instead of in person, after the pandemic interrupted [_America Transformed_](https://collections.leventhalmap.org/exhibits/25). _Bending Lines: Maps and Data from Distortion to Deception_ is all about challenging the idea that maps are an inert and unbiased way of sharing information. Both exhibits exist online now, as do [all our former exhibits](https://collections.leventhalmap.org/exhibits)! But while former exhibits are mostly online in the form of lists of objects and captions, _Bending Lines_ was designed specifically for an online audience, with [interactive material](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/projections/) and [an educational tour](https://www.leventhalmap.org/digital-exhibitions/bending-lines/education-activities/) custom-designed for this show.
 
 Because _Bending Lines_ has been online for its whole existence, all the programming around the exhibit is also available online as well. This includes [_Angles on Bending Lines_](https://www.leventhalmap.org/digital-exhibitions/bending-lines/events/), a series of conversations with guests that take us deeper into critical approaches to maps and data.
 
