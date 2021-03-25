@@ -27,7 +27,7 @@ Right before COVID, we started bringing our [Atlascope tool](https://atlascope.l
 
 <iframe width="100%" height="315" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011690$zoom:18.00$center:-7912349.11775309,5213465.57356861$mode:glass$pos:132"></iframe>
 
-Not only have we been to nearly a dozen branches and libraries at this point, many virtually (including [Jamaica Plain](https://youtu.be/6KTCWKqmJeE), [East Boston](https://youtu.be/r2LtUDC30xw), [South End](https://youtu.be/d_IesdOUuNI), [Fields Corner](https://youtu.be/-iPoFOe8icQ), [Uphams Corner](https://youtu.be/fyagZWMF1I8), [West Roxbury](https://youtu.be/eeO-Bn5v_f0), [North End](https://youtu.be/pbKFVVzEq1I), and the [Cambridge Public Library](https://youtu.be/riD6_FDWuYw)), we've also done several fun trivia nights themed around our urban atlases.
+Not only have we been to nearly a dozen branches and other libraries at this point, many virtually (including [Jamaica Plain](https://youtu.be/6KTCWKqmJeE), [East Boston](https://youtu.be/r2LtUDC30xw), [South End](https://youtu.be/d_IesdOUuNI), [Fields Corner](https://youtu.be/-iPoFOe8icQ), [Uphams Corner](https://youtu.be/fyagZWMF1I8), [West Roxbury](https://youtu.be/eeO-Bn5v_f0), [North End](https://youtu.be/pbKFVVzEq1I), and the [Cambridge Public Library](https://youtu.be/riD6_FDWuYw)), we've also done several fun trivia nights themed around our urban atlases.
 
 Check out our first trivia night and play along:
 
@@ -45,4 +45,6 @@ We've also been able to host [university students](https://www.leventhalmap.org/
 
 ### Newly digitized collections
 
-Can you write something quick about BRA here and how we continue to digitize material, plus point to [research](https://www.leventhalmap.org/research/)  page?
+We've continued to digitize material in spite of the pandemic! One of the collections we're most proud of digitizing recently is the [maps of the Boston Redevelopment Authority](https://collections.leventhalmap.org/search?f%5Bcollection_name_ssim%5D%5B%5D=Boston+Redevelopment+Authority+Collection), the predecessor to today's Boston Planning and Development Agency which undertook many of the city's most famous urban development projects of the 20th century. These maps are great resources for what was proposed over the years, some of which was realized and some only exists now in the form of old plans!
+
+As always, please head to our [research](https://www.leventhalmap.org/research/) page to satisfy your map curiosities! We can help you find a map to answer a research question, tell you about the history of your house or neighborhood, and explore with you as you use data to make your own geospatial projects! Whether you're a beginner or a seasoned researcher, we're here for you. Drop us a line!
