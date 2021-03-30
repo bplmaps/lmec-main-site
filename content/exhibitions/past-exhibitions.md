@@ -12,7 +12,7 @@ _May 4, 2019 – May 10, 2020_
 
 As Euro-Americans began to cross the Appalachians and move westward in the 1800s, North America was mostly a vast territory of tribal homelands where a multitude of indigenous people had lived for thousands of years. Over the course of a transformative century, the United States enveloped this domain into its control, radically reshaping the physical and cultural landscape. This process of nation-building set the stage for today’s United States, but also had devastating consequences for the land’s prior inhabitants. This story is told through a series of essays and an exhibition catalog featuring curatorial interpretations of maps, documents, and objects. Through the thematic categories of land, economy, transformation, and population, this exhibition exposes how the United States went from an agrarian society hugging the Atlantic coast to a transcontinental empire over the course of a century — and it confronts the brutal processes of violence and racism whose legacies shadow into the present day.
 
-[Visit the digital exhibition of _America Transformed_](https://collections.leventhalmap.org/exhibits/25) or [buy the full-color, 212-page _America Transformed_ catalog](projects/publications).
+[Visit the digital exhibition of _America Transformed_](https://collections.leventhalmap.org/exhibits/25) or [buy the full-color, 212-page _America Transformed_ catalog](https://www.leventhalmap.org/projects/publications/).
 
 ### Crossing Boundaries: Art // Maps
 
