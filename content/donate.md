@@ -10,7 +10,12 @@ type: singleton
 
 As a non-profit that offers services "free to all," we rely on the support of donors like you to keep our exhibitions and educational programs running. Please consider making a gift today.
 
-<a class="btn btn-outline-primary" href="https://mapsbpl.thankyou4caring.org/">Donate here</a>
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="532DUV9J8WUZ8" />
+<input type="submit" class="btn btn-primary btn-block" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" value="Donate $2.50, $5.50, or more with Paypal" title="Donate with PayPal button" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
 
 _Please note that the Leventhal Map & Education Center is an independent nonprofit in a longstanding partnership with the Boston Public Library, and we are dependent on your generous support. We are a separate entity from the Boston Public Library Fund and the Associates of the Boston Public Library._
 
