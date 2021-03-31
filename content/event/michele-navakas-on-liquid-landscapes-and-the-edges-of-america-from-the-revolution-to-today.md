@@ -10,7 +10,7 @@ registration = "https://www.eventbrite.com/e/michele-navakas-on-liquid-landscape
 title = "Michele Navakas on Liquid Landscapes and the Edges of America, From the Revolution to Today"
 
 +++
-### A scholar of early America's watery landscapes takes us to the edges of the American Revolutionary Era, with lessons about people and place that resonate today
+##### A scholar of early America's watery landscapes takes us to the edges of the American Revolutionary Era, with lessons about people and place that resonate today
 
 #### This talk is the first in the Richard H. Brown Seminar on the Historical Geography of the American Revolutionary Era
 
