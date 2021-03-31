@@ -13,7 +13,7 @@ title = "Michele Navakas on Liquid Landscapes and the Edges of America, From the
 
 #### This talk is the first in the Richard H. Brown Seminar on the Historical Geography of the American Revolutionary Era
 
-Join the scholar Michelle Navakas as she explores the "liquid landscapes" of places like Florida in the eighteenth century, helping us reframe our understanding of the American Revolutionary period through cartography, landscape history. Navakas examines a rich archive of historical documents that show how diverse groups of people met, struggled, and mixed in regions where boundaries themselves were hard to define.
+Join scholar Michelle Navakas as she explores the "liquid landscapes" of places like Florida in the eighteenth century, helping us reframe our understanding of the American Revolutionary period through cartography, landscape history. Navakas examines a rich archive of historical documents that show how diverse groups of people met, struggled, and mixed in regions where boundaries themselves were hard to define.
 
 {{< figure src="/uploads/2021-03-31/navakas_headshot.jpeg" caption="" class="figure-right" >}}
 
