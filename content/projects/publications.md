@@ -14,22 +14,21 @@ During the 19th century, the United States expanded dramatically westward. Immig
 
 ![Catalog cover for America Transformed](https://www.leventhalmap.org/wp-content/uploads/2020/01/at-cover.jpg)
 
-Buy the America Transformed catalog below. Soft and hard cover bindings are available. Please note that these prices do not yet include shipping.
+Read the [latest review of the America Transformed catalog]() in Imago Mundi, or purchase the catalog below. Soft and hard cover bindings are available. Please note that these prices do not yet include shipping.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="HRFUP73C7EQP2">
 <table>
 <tr><td><input type="hidden" name="on0" value="Types">Types</td></tr><tr><td><select name="os0">
-	<option value="Hard Cover Catalog">Hard Cover Catalog $40.00 USD</option>
-	<option value="Soft Cover Catalog">Soft Cover Catalog $30.00 USD</option>
+<option value="Hard Cover Catalog">Hard Cover Catalog $40.00 USD</option>
+<option value="Soft Cover Catalog">Soft Cover Catalog $30.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-
 
 ### We Are One
 
