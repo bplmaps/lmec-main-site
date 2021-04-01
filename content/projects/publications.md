@@ -14,7 +14,7 @@ During the 19th century, the United States expanded dramatically westward. Immig
 
 ![Catalog cover for America Transformed](https://www.leventhalmap.org/wp-content/uploads/2020/01/at-cover.jpg)
 
-Read the [latest review of the America Transformed catalog]() in _Imago Mundi_, or purchase the catalog below. Soft and hard cover bindings are available. Please note that these prices do not yet include shipping.
+Read the [latest review of the America Transformed catalog](https://bostonpubliclibrary.sharepoint.com/sites/LeventhalMap/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2FLeventhalMap%2FShared%20Documents%2FPR%20and%20Communications%2FAmerica%20Transformed&FolderCTID=0x012000591F239531855844A72F90B322794269) in _Imago Mundi_, or purchase the catalog below. Soft and hard cover bindings are available. Please note that these prices do not yet include shipping.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
