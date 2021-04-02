@@ -32,4 +32,4 @@ In the same vein, we have many maps that are plans of forts.
 
 Maps of "improvements" are a large area of cartographic interest, as are maps of public space and green areas. In fact, we did a whole [exhibit](https://collections.leventhalmap.org/exhibits/21) on green space in Boston a couple of years ago! [This map](https://collections.leventhalmap.org/search/commonwealth:4m90fd20h) of improvements made to Fairmount Park starting April of 1869 is colorful and beautifully lettered, showing the tree-lined avenues that go through the park as well as contour lines for the topography of the hills.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd21s/2201,342,1421,277/,1200/0/default.jpg" caption="" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd21s/2201,342,1421,277/,1200/0/default.jpg" caption="" class="figure-center" >}}
