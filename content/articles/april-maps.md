@@ -9,7 +9,7 @@ tags = []
 title = "April Maps!"
 
 +++
-Every month when I look at our collections to decide what to share on social media, I do a search of the titles of our maps for the name of the month. This always gives me a really interesting look at the variety inherent in our collections! Here's a roundup of some April-related maps from over the centuries.
+Every month when I look at our collections to decide what to share on social media, I do a search of the titles of our maps for the name of the month. This always gives me a really interesting look at the variety inherent in our collections! Here's a roundup of some April-related maps from the 19th century.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bd02d/full/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
@@ -33,3 +33,7 @@ In the same vein, we have many maps that are plans of forts.
 Maps of "improvements" are a large area of cartographic interest, as are maps of public space and green areas. In fact, we did a whole [exhibit](https://collections.leventhalmap.org/exhibits/21) on green space in Boston a couple of years ago! [This map](https://collections.leventhalmap.org/search/commonwealth:4m90fd20h) of improvements made to Fairmount Park starting April of 1869 is colorful and beautifully lettered, showing the tree-lined avenues that go through the park as well as contour lines for the topography of the hills.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd21s/2201,342,1421,277/,1200/0/default.jpg" caption="" class="figure-center" >}}
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4633788/full/,1200/0/default.jpg" caption="" class="figure-right" >}}
+
+Another major 19th century collection of ours is the urban atlases that make up [Atlascope](https://atlascope.leventhalmap.org), a bunch of fire insurance and real estate atlases from the late 19th and early 20th centuries. [The plan of Rowes Wharf here](https://collections.leventhalmap.org/search/commonwealth:3f4633770) and the proposed changes to it 
