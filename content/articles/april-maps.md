@@ -23,6 +23,7 @@ Many of the maps in our collection are maps of wars and battles. [Here's a map](
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ww72bn90h/full/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ww72bn90h/2481,1400,770,738/,1200/0/default.jpg" caption="" class="figure-right" >}}
 
-In the same vein, we have many maps that are plans of forts. [This one](https://collections.leventhalmap.org/search/commonwealth:ww72bn89r) jumps ahead a few years to 1862, showing this very aesthetically pleasing star-shaped fort. This plan in particular maps the damage to Fort Jackson in April of that year during the Civil War Battle of Forts Jackson and St. Philip. This description on the left details the "effect of the Bombardment by the U.S. Mortar Flotilla and Gunboats April 18th to 24th 1862." In this crop, you can see the parts that were burned, the drawbridge that was entirely demolished, the overflowed areas, and the center of the fort entirely consumed by fire.
+In the same vein, we have many maps that are plans of forts. 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ww72bn90h/2481,1400,770,738/,1200/0/default.jpg" caption="" class="figure-right" >}}
+[This one](https://collections.leventhalmap.org/search/commonwealth:ww72bn89r) jumps ahead a few years to 1862, showing this very aesthetically pleasing star-shaped fort. This plan in particular maps the damage to Fort Jackson in April of that year during the Civil War Battle of Forts Jackson and St. Philip. This description on the left details the "effect of the Bombardment by the U.S. Mortar Flotilla and Gunboats April 18th to 24th 1862." In this crop, you can see the parts that were burned, the drawbridge that was entirely demolished, the overflowed areas, and the center of the fort entirely consumed by fire.
