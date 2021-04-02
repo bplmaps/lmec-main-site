@@ -23,8 +23,13 @@ Many of the maps in our collection are maps of wars and battles. [Here's a map](
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ww72bn90h/full/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
-
-In the same vein, we have many maps that are plans of forts. 
+In the same vein, we have many maps that are plans of forts.
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ww72bn90h/2481,1400,770,738/,1200/0/default.jpg" caption="" class="figure-right" >}}
 
-[This one](https://collections.leventhalmap.org/search/commonwealth:ww72bn89r) jumps ahead a few years to 1862, showing this very aesthetically pleasing star-shaped fort. This plan in particular maps the damage to Fort Jackson in April of that year during the Civil War Battle of Forts Jackson and St. Philip. This description on the left details the "effect of the Bombardment by the U.S. Mortar Flotilla and Gunboats April 18th to 24th 1862." In this crop, you can see the parts that were burned, the drawbridge that was entirely demolished, the overflowed areas, and the center of the fort entirely consumed by fire.
+[Here's one](https://collections.leventhalmap.org/search/commonwealth:ww72bn89r) that jumps ahead a few years to 1862, showing this very aesthetically pleasing star-shaped fort. This plan in particular maps the damage to Fort Jackson in April of that year during the Civil War Battle of Forts Jackson and St. Philip. This description on the left details the "effect of the Bombardment by the U.S. Mortar Flotilla and Gunboats April 18th to 24th 1862." In this crop, you can see the parts that were burned, the drawbridge that was entirely demolished, the overflowed areas, and the center of the fort entirely consumed by fire.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd21s/full/,1200/0/default.jpg" caption="" class="figure-left" >}}
+
+Maps of "improvements" are a large area of cartographic interest, as are maps of public space and green areas. In fact, we did a whole [exhibit](https://collections.leventhalmap.org/exhibits/21) on green space in Boston a couple of years ago! [This map](https://collections.leventhalmap.org/search/commonwealth:4m90fd20h) of improvements made to Fairmount Park starting April of 1869 is colorful and beautifully lettered, showing the tree-lined avenues that go through the park as well as contour lines for the topography of the hills.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd21s/2201,342,1421,277/,1200/0/default.jpg" caption="" class="figure-right" >}}
