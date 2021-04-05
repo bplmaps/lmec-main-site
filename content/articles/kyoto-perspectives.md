@@ -1,14 +1,20 @@
 ---
 title: Unique Perspectives on Kyoto
-description: The curator of the MacLean Collection examines graphic representations of urban Japan from the Tokugawa period 
+description: The curator of the MacLean Collection examines graphic representations
+  of urban Japan from the Tokugawa period
 author: Richard Pegg
-date: 2021-04-06T04:00:00Z
-image: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh344160s/1519,52,6007,2518/,1200/0/default.jpg"
-backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh344160s/1519,52,6007,2518/,1200/0/default.jpg"
-tags: ["guest post", "Kyoto", "Japan", "Tokugawa Period", "East Asia", "collections"]
-draft: true
----
+date: 2021-04-06T04:00:00.000+00:00
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh344160s/1519,52,6007,2518/,1200/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh344160s/1519,52,6007,2518/,1200/0/default.jpg
+tags:
+- guest post
+- Kyoto
+- Japan
+- Tokugawa Period
+- East Asia
+- collections
 
+---
 > Richard Pegg is Director and Curator of the [MacLean Collection](https://www.macleancollection.com) in Illinois, and a member of the Leventhal Center's [Board of Review](https://www.leventhalmap.org/about/people/). In this guest post, he takes a close look at a set of maps of Kyoto that were recently added to our [digital collections](https://collections.leventhalmap.org/collections/commonwealth:kh04p6570).
 
 The [MacLean Collection Map Library](https://www.macleancollection.com) includes a group of maps of the city of Kyoto, a cit which was the official Imperial capital and unofficial cultural capital of Japan from the eighth century until the early seventeenth century. During the early Tokugawa period (1603–1868) the Shogun established the administrative capital in Edo, which was later named Tokyo and became the official capital in 1868. Thus, over the course of the Tokugawa period, there were two capitals in Japan: the administrative in Edo and the Imperial and cultural in Kyoto.
