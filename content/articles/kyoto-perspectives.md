@@ -1,6 +1,7 @@
 ---
 title: Unique Perspectives on Kyoto
-description: The curator of the MacLean Collection examines graphic representations of urban Japan from the Tokugawa period 
+description: The curator of the MacLean Collection examines graphic representations
+  of urban Japan from the Tokugawa period
 author: Richard Pegg
 date: 2021-04-06T04:00:00Z
 image: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh344160s/1519,52,6007,2518/,1200/0/default.jpg"
