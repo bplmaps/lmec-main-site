@@ -5,7 +5,7 @@ fee = "Free"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s833/286,461,2628,1426/,1200/0/default.jpg"
 location = "Online"
 publishDate = 2021-04-06T13:43:52Z
-registration = ""
+registration = "https://www.eventbrite.com/e/luis-alvarez-leon-on-how-maps-and-geog-data-underpin-the-digital-economy-tickets-149751864859"
 title = "Angles on Bending Lines: Luis Alvarez León on how maps and geographic data underpin the digital economy"
 
 +++
@@ -19,4 +19,4 @@ In this conversation series, we talk with experts about why we should be careful
 
 These talks are free, designed for general public audiences with time for questions. Talks will be broadcast over the LMEC's YouTube Live and Facebook Live channels.
 
-**[Luis Alvarez León](http://lfal.org)** is an assistant professor of geography at Dartmouth College whose work focuses on the political economy of geospatial data, media and technologies. 
+**[Luis Alvarez León](http://lfal.org)** is an assistant professor of geography at Dartmouth College whose work focuses on the political economy of geospatial data, media and technologies.
