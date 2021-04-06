@@ -487,6 +487,12 @@ textarea.form-control{
     border-bottom: 2px solid $primary-color;
     background-color: $light;
 
+    img {      
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+    }
+
     @media (min-width: 500px) {
     &.figure-right {
       float: right;
@@ -515,9 +521,6 @@ textarea.form-control{
 
     img {
       max-width: 100%;
-      margin-left: auto;
-      margin-right: auto;
-      display: block;
     }
   }
 

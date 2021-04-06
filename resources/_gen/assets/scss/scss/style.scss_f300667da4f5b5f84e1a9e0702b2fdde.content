@@ -471,6 +471,10 @@ textarea.form-control {
   border-top: 2px solid #054571;
   border-bottom: 2px solid #054571;
   background-color: #f8f9fe; }
+  .content figure img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block; }
   @media (min-width: 500px) {
     .content figure.figure-right {
       float: right;
