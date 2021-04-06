@@ -5,7 +5,7 @@ fee = "Free"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s833/286,461,2628,1426/,1200/0/default.jpg"
 location = "Online"
 publishDate = 2021-04-06T13:43:52Z
-registration = ""
+registration = "https://www.eventbrite.com/e/angles-on-bending-lines-brian-jefferson-on-gis-the-war-on-crime-drugs-tickets-149749784637"
 title = "Angles on Bending Lines: Brian Jefferson on geographic information systems and the war on crime and drugs"
 
 +++
@@ -19,4 +19,4 @@ In this conversation series, we talk with experts about why we should be careful
 
 These talks are free, designed for general public audiences with time for questions. Talks will be broadcast over the LMEC's YouTube Live and Facebook Live channels.
 
-**[Brian Jefferson](https://ggis.illinois.edu/directory/profile/bjjeffer)** is an associate professor of geography at the University of Illinois whose work explores capitalism, digital technology, and the state in urban contexts.
+[**Brian Jefferson**](https://ggis.illinois.edu/directory/profile/bjjeffer) is an associate professor of geography at the University of Illinois whose work explores capitalism, digital technology, and the state in urban contexts.
