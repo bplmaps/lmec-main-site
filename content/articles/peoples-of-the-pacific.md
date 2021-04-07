@@ -33,8 +33,8 @@ All six of Covarrubias’s maps feature the same geography, with the Pacific Isl
 
 Most of the figures, however, focus on non-white or indigenous peoples, such as a Sioux chieftain in the U.S. West, a Zapotec woman in southern Mexico balancing a basket on her head (detail shown), a Mongolian horseman, and a Cantonese woman with a child. The color-coded legend reflects the racial divisions commonly used by ethnographers at the time: Mongoloids, Causasoids and Negroids including Melanesians. In the area marked “Melanesian” we see darker brown figures labeled Papuan (woman with grass skirt detail shown), New Irelander, Trobriand I., Solomon I., Fijian, New Hebrides (detail shows man with spear), and New Caledonian. “Polynesians and Micronesians” are listed and color coded separately from the three major categories; their figures have lighter brown skins.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n660s/6558,2453,182,502/,1200/0/default.jpg" caption="" class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n660s/6558,2453,182,502/,300/0/default.jpg" caption="" class="figure-left" >}}
 
 In the islands, men in loincloths holding spears, and bare chested women predominate. We can ask ourselves to what extent did these earnest and careful depictions, especially taken together with Covarubbias’s Art Forms and his other map murals, expand appreciation for multiple cultures—and how much did they serve to titillate white visitors in San Francisco and New York and distance Americans from an exoticized “other?”
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n660s/3485,3022,183,435/,1200/0/default.jpg" caption="" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n660s/3485,3022,183,435/,300/0/default.jpg" caption="" class="figure-right" >}}
