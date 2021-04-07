@@ -2,7 +2,7 @@
 author = "Connie C. Chin"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n660s/full/,1200/0/default.jpg"
 date = 2021-04-07T13:03:01Z
-description = "In a Rodgers and Hammerstein musical and a anthropological map, "
+description = "In a Rodgers and Hammerstein musical and a Covarrubias anthropological map, portrayals of ethnic diversity raise questions about images and stereotypes "
 draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n660s/full/,1200/0/default.jpg"
 tags = ["pictorial maps", "south pacific", "racism", "pop culture"]
@@ -33,7 +33,7 @@ All six of Covarrubias’s maps feature the same geography, with the Pacific Isl
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n660s/2677,3173,240,446/,300/0/default.jpg" caption="" class="figure-right" >}}
 
-Most of the figures, however, focus on non-white or indigenous peoples, such as a Sioux chieftain in the U.S. West, a Zapotec woman in southern Mexico balancing a basket on her head (detail shown), a Mongolian horseman, and a Cantonese woman with a child. The color-coded legend reflects the [racial divisions commonly used by ethnographers](https://www.leventhalmap.org/digital-exhibitions/bending-lines/power-belief/race-empire/) at the time: Mongoloids, Causasoids and Negroids including Melanesians. In the area marked “Melanesian” we see darker brown figures labeled Papuan (woman with grass skirt detail shown), New Irelander, Trobriand I., Solomon I., Fijian, New Hebrides (detail shows man with spear), and New Caledonian. “Polynesians and Micronesians” are listed and color coded separately from the three major categories; their figures have lighter brown skins.
+Most of the figures, however, focus on non-white or indigenous peoples, such as a Sioux chieftain in the U.S. West, a Zapotec woman in southern Mexico balancing a basket on her head (detail shown), a Mongolian horseman, and a Cantonese woman with a child. The color-coded legend reflects the [racial divisions commonly used by ethnographers](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/demystifying-data/) at the time: Mongoloids, Causasoids and Negroids including Melanesians. In the area marked “Melanesian” we see darker brown figures labeled Papuan (woman with grass skirt detail shown), New Irelander, Trobriand I., Solomon I., Fijian, New Hebrides (detail shows man with spear), and New Caledonian. “Polynesians and Micronesians” are listed and color coded separately from the three major categories; their figures have lighter brown skins.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n660s/6558,2453,182,502/,300/0/default.jpg" caption="" class="figure-left" >}}
 
