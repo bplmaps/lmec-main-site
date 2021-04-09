@@ -1,6 +1,7 @@
 +++
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462x269/2271,2790,4595,2280/,1200/0/default.jpg"
 description = "Seeking a developer-designer for a web project on maps and historical geographies of the American Revolutionary Era"
+draft = true
 title = "RFP: Frontend Web Developer"
 type = "singleton"
 weight = ""
