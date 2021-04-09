@@ -21,4 +21,6 @@ Maps can be used to teach a variety of subjects, because geospatial data can map
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n639j/full/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
-For wealthy young women who had access to expensive materials, these embroidered maps could get quite elaborate, like [this satin map](https://collections.leventhalmap.org/search/commonwealth:q524n6388) from circa 1900. We make maps with students all the time without silk and satin! 
+For wealthy young women who had access to expensive materials, these embroidered maps could get quite elaborate, like [this satin map](https://collections.leventhalmap.org/search/commonwealth:q524n6388) from circa 1900. We make maps with students all the time without silk and satin! In February during school vacation week, we did a mapping project online with some great participants including Liam, shown below.
+
+{{< figure src="![](/uploads/2021-04-09/liam.jpg)" caption="" class="figure-right" >}}
