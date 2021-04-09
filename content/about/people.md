@@ -51,7 +51,7 @@ Robert M. Melzer
 James R. Akerman  
 Paul B. Cote  
 Alex Krieger, _Chair_  
-Robert M. Melzer  
+Alan Leventhal, _ex officio_  
 Margaret Pearce  
 Richard Pegg  
 Julie Sweetkind-Singer  
