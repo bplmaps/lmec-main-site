@@ -18,7 +18,6 @@ aliases:
 ### Board of Directors
 
 Janet P. Atkins  
-Lawrence Caldwell  
 Michael G. Contompasis  
 Charles Cooney  
 Alex Krieger  
@@ -34,7 +33,7 @@ Christian J. Westra, Esq.
 **Ex Officio**
 
 Erin Claywell, _Clerk_  
-Robert Gallery, _ex officio_  
+Priscilla Douglas, _ex officio_  
 David Leonard, _ex officio_
 
 **Legal Counsel**
@@ -44,6 +43,7 @@ Achal Oza
 **Lifetime Directors**
 
 Richard H. Brown  
+Lawrence Caldwell  
 Robert M. Melzer
 
 ### Board of Review
