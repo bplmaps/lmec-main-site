@@ -6,7 +6,7 @@ image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463944p/513,
 location = "Online"
 publishDate = 2021-04-13T13:06:41Z
 registration = "https://us02web.zoom.us/meeting/register/tZwrcemgrTkjH9x7Q4dOsEr8DqcqGPCyPoaD"
-title = "Maptivists at MA Civic Learning Week!"
+title = "Maptivists at MA Civic Learning Week"
 
 +++
 11th and 12th grade students at the Jeremiah Burke High School in Dorchester are working with educators from the Leventhal Map & Education Center in a one-semester elective class that focuses on the key question: “How do racial ideas become spatial practice?”
