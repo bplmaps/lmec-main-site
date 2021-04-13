@@ -3,7 +3,6 @@ author = "LMEC Staff"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463767k/5137,125,4768,6256/,1200/90/default.jpg"
 date = 2021-04-09T13:41:03Z
 description = "We use maps for teaching every day at LMEC, just like educators have been doing for centuries!"
-draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463767k/full/,1200/0/default.jpg"
 tags = ["education"]
 title = "Teaching with Maps in the Past"
@@ -25,4 +24,4 @@ For wealthy young women who had access to expensive materials, these embroidered
 
 {{< figure src="/uploads/2021-04-09/liam.jpg" caption="" class="figure-right" >}}
 
-We have a few suggestions for map-based activities for April vacation week!  One is to explore your neighborhood with [Atlascope](https://atlascope.leventhalmap.org/), our historic atlas mapping tool. We also have a [park scavenger hunt](https://collections.leventhalmap.org/educators/curriculum-materials/129) you might like to do to explore Boston's green spaces with your family. If there are any rainy days, check out our [Mapping HappyLand](https://collections.leventhalmap.org/map-sets/507) activity and make your own maps! If you have any questions or you need more mappy things to do, drop us a line anytime at [info@leventhalmap.org](mailto:info@leventhalmap.org). 
+We have a few suggestions for map-based activities for April vacation week!  One is to explore your neighborhood with [Atlascope](https://atlascope.leventhalmap.org/), our historic atlas mapping tool. We also have a [park scavenger hunt](https://collections.leventhalmap.org/educators/curriculum-materials/129) you might like to do to explore Boston's green spaces with your family. If there are any rainy days, check out our [Mapping HappyLand](https://collections.leventhalmap.org/map-sets/507) activity and make your own maps! If you have any questions or you need more mappy things to do, drop us a line anytime at [info@leventhalmap.org](mailto:info@leventhalmap.org).
