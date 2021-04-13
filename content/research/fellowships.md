@@ -11,7 +11,7 @@ aliases:
 
 ### Environmental Justice in Boston and Beyond
 
-{{< alert-box type="warning" icon="fas fa-calendar" title="Upcoming deadline" >}} The deadline for this fellowship application has passed. {{< /alert-box >}}
+{{< alert-box type="warning" icon="fas fa-calendar" title="Deadline passed" >}} The deadline for this fellowship application has passed. {{< /alert-box >}}
 
 The Leventhal Map & Education Center at the Boston Public Library is pleased to announce a call for **Public Research Fellows in History and Geography** for the 2021–2022 academic year.
 
