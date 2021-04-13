@@ -2,7 +2,7 @@
 author = "LMEC Staff"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463767k/5137,125,4768,6256/,1200/90/default.jpg"
 date = 2021-04-09T13:41:03Z
-description = ""
+description = "We use maps for teaching every day at LMEC, just like educators have been doing for centuries!"
 draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463767k/full/,1200/0/default.jpg"
 tags = ["education"]
@@ -25,3 +25,4 @@ For wealthy young women who had access to expensive materials, these embroidered
 
 {{< figure src="/uploads/2021-04-09/liam.jpg" caption="" class="figure-right" >}}
 
+We will be offering ...
