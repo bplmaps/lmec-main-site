@@ -17,6 +17,8 @@ In this conversation series, we talk with experts about why we should be careful
 
 These talks are free, designed for general public audiences with time for questions. Talks will be broadcast over the LMEC's YouTube Live and Facebook Live channels.
 
-**[Matt Bui](http://matthewbui.com)** is an assistant professor and faculty fellow at the NYU Alliance for Public Interest Technology who examines the intersections of digital, data, and racial justice in everyday life. 
+[**Matt Bui**](http://matthewbui.com) is an assistant professor and faculty fellow at the NYU Alliance for Public Interest Technology who examines the intersections of digital, data, and racial justice in everyday life.
+
+_Bending Lines_ was made possible in part by a grant from the Institute of Museum and Library Services.
 
 ![Photo of Matt Bui](https://images.squarespace-cdn.com/content/v1/541b28ace4b0504622449b83/1487895123788-KAB5WF0PTQIP6Z0VROA4/ke17ZwdGBToddI8pDm48kFTblSt5qw0M6a4kEI8ixlRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIjDW6yW5ZnSWlTo5F04tqYOtjNk7-f_KQei0dNKZtsDEKMshLAGzx4R3EDFOm1kBS/image-asset.jpeg?format=2500w)
