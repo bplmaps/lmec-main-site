@@ -11,7 +11,7 @@ aliases:
 
 ### Environmental Justice in Boston and Beyond
 
-{{< alert-box type="info" icon="fas fa-calendar" title="Upcoming deadline" >}} The 2021 application for Public Research Fellows is due on April 12, 2021. {{< /alert-box >}}
+{{< alert-box type="warning" icon="fas fa-calendar" title="Upcoming deadline" >}} The deadline for this fellowship application has passed. {{< /alert-box >}}
 
 The Leventhal Map & Education Center at the Boston Public Library is pleased to announce a call for **Public Research Fellows in History and Geography** for the 2021–2022 academic year.
 
@@ -22,7 +22,7 @@ The Public Research Fellows programs is a pilot initiative of the LMEC, and it i
 
 In 2021–2022, the LMEC seeks proposals on the topic of **Environmental Justice in Boston and Beyond.** In spring of 2022, the LMEC will launch the [More or Less in Common](https://www.leventhalmap.org/articles/environmental-justice-exhibition-preview/) exhibition in our gallery at the Central Library. This exhibition will explore how environmental management, landscape design, and spatial politics have been historically related to patterns of social, racial, economic, and ethnic exclusion and inclusion. Research proposals may focus on any topic related to environmental justice, but we particularly encourage:
 
-*  Work that connects long periods of historical change to issues in the present and future
+* Work that connects long periods of historical change to issues in the present and future
 * Work that involves collaborative research design with participants in ongoing environmental justice efforts
 * Projects that involve an overlap between historical cartographic materials and geospatial data sets
 
@@ -46,8 +46,6 @@ An application consists of the following material submitted by **April 12, 2021*
 * A statement describing a plan for how the research project will reach a public audience through forms of publication and creative engagement; no more than 500 words.
 * A description of when and how the research will be undertaken, including a discussion of the balance of work between digitized and non-digitized collections; no more than 200 words.
 * A full CV; PDF format.
-
-<a href="https://airtable.com/shrL7u3T7Y4kyM7Aq" class="btn btn-outline-primary btn-block">Submit application online</a>
 
 Final round applicants will additionally be required to submit a letter of support from a colleague or supervisor. Letters of support will be solicited by the end of April.
 
