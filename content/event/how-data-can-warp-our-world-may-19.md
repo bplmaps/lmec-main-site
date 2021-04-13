@@ -19,4 +19,6 @@ In this conversation series, we talk with experts about why we should be careful
 
 These talks are free, designed for general public audiences with time for questions. Talks will be broadcast over the LMEC's YouTube Live and Facebook Live channels.
 
-**[Luis Alvarez León](http://lfal.org)** is an assistant professor of geography at Dartmouth College whose work focuses on the political economy of geospatial data, media and technologies.
+[**Luis Alvarez León**](http://lfal.org) is an assistant professor of geography at Dartmouth College whose work focuses on the political economy of geospatial data, media and technologies.
+
+_Bending Lines_ was made possible in part by a grant from the Institute of Museum and Library Services.

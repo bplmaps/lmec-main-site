@@ -21,4 +21,4 @@ These talks are free, designed for general public audiences with time for questi
 
 [**Morgan Currie**](https://www.morgancurrie.com) is a lecturer in data and society at the University of Edinburgh whose work focuses on open data, automation in social services, activists’ data practices, civil society and democracy, participatory mapping, and social justice among other topics.
 
-_Bending Lines_ was made possible in part by a grant from the Institute of Museum and Library Services
+_Bending Lines_ was made possible in part by a grant from the Institute of Museum and Library Services.
