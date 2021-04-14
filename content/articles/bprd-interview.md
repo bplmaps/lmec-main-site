@@ -18,7 +18,7 @@ At the Leventhal Map & Education Center, we are interested in exploring *how* th
 
 In this article, we speak with the Principal Research Analyst at the City of Boston's Parks Department, Maggie Owens. Last year, as part of our May 2020 *Angles on Bending Lines* discussion series, [Maggie talked with us](https://www.youtube.com/watch?v=gREz3nzHJhA) about how data can be used to tell competing versions of the truth. Today, our discussion focuses on the attitudes and practices of the Boston Parks and Recreation Department (BPRD) as they strive to responsibly and meaningfully manage public datasets.
 
-To aid in the discussion, we are also joined by City of Boston analysts who work on issues of public accessibilty. Charlotte Shade is Boston's Data and Performance Analyst, and manages the spatial data and GIS tools available via Analyze Boston. Joyce John is the city's official Story Mapper, and has created numerous [digital mapping tools for public exploration](https://boston.maps.arcgis.com/apps/Shortlist/index.html?appid=93ab1191a7b34644a9733c1aa5926727). 
+To aid in the discussion, we are also joined by City of Boston analysts who work on issues of public accessibilty. Charlotte Shade is Boston's Data and Performance Analyst, and manages the spatial data and GIS tools available via Analyze Boston. We also share resources by Joyce John, the city's official Story Mapper, who has created numerous [digital mapping tools for public exploration](https://boston.maps.arcgis.com/apps/Shortlist/index.html?appid=93ab1191a7b34644a9733c1aa5926727). 
 
 *The text of this interview has been lightly edited for clarity.*
 
