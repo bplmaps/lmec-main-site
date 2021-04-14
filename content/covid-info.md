@@ -6,7 +6,6 @@ description: Information about Map Center programs, activities, and services whi
 type: singleton
 
 ---
-
 ### In-person access remains closed
 
 Currently, no in-person access to the Map Center's gallery, learning center, or research collections is available. The Boston Public Library is closed for regular service; however, holds pickup for circulating material is available under the BPL To Go program. Learn more about BPL To Go and the status of the BPL system at [the BPL website](https://www.bpl.org/news/bpl-to-go/).
@@ -21,10 +20,10 @@ The Map Center has made extensive efforts to continue research, educational, and
 * [Remote Resources](/education/university) for university teaching
 * [Information about our digital collections](/collections/digital-collections)
 * A list of our [Digital Projects](/projects/digital-projects), including the new [Atlascope](https://atlascope.leventhalmap.org) portal for exploring Boston's historical geography
-
+* All of our [events](/event) are being broadcast digitally for free
 
 ### For more information
 
-Check this page for updates about our plans for reopening in-person service. As of November 2020, we do not currently have further guidance on the timing of our return to in-person activities.
+Check this page for updates about our plans for reopening in-person service. As of Spring 2021, we do not currently have further guidance on the timing of our return to in-person activities.
 
-{{< alert-box type="info" >}} This information was last updated November 20, 2020. {{< /alert-box >}}
+{{< alert-box type="info" >}} This information was last updated April 14, 2021. {{< /alert-box >}}
