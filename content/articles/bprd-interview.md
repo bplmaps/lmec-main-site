@@ -24,8 +24,6 @@ To aid in the discussion, we are also joined by City of Boston analysts who work
 
 
 
-
-
 ### Interview
 
 **Belle Lipton: What public datasets and tools do you create and manage?**
@@ -43,7 +41,7 @@ MO: Yeah, or if you're a caregiver and you need access to a restroom or what hav
 
 
 
-**BL: How do you define public engagement and could you say a little about what that looks like for the Parks department? What does it mean for a public data constituent to be "engaged"?**
+**BL: How do you define public engagement? What does it mean for a public data constituent to be "engaged" with parks data?**
 
 MO: From my (still growing) experience, especially with inquiries about the [urban forest plan](https://www.boston.gov/sites/default/files/file/2020/09/Change-assessment_w_MJW-letter.pdf) set of materials, there are different ways people want to engage. You have the already interested constituent who is looking for more information, and the map or other geospatial information can help answer their questions. They're usually the first ones to notice that we've put up a new map. Then you have people who are may not know they are looking for data, but the data ends up playing a useful part in the storytelling experience, so we try to make it available in lots of different formats, like a StoryMap or PDF. And then there are people who really do want to work with the basic data itself. And process it. 
 
