@@ -1,12 +1,12 @@
 +++
 author = "Belle Lipton"
 backgroundImage = "/uploads/2021-04-06/1.png"
-date = 2021-04-16T12:02:00Z
+date = 2021-04-16T04:00:00Z
 description = "We spoke with City of Boston analysts about creating and maintaining publicly engaging and socially responsible datasets"
 image = "/uploads/2021-04-06/1.png"
+slug = "get-to-know-your-data-boston-parks"
 tags = ["GIS", "geospatial", "data", "Responsible Data Governance", "Public Assets", "Get to Know Your Data", "Parks", "critical data studies"]
 title = "Get to Know Your Data: City of Boston Parks Department"
-slug = "get-to-know-your-data-boston-parks"
 
 +++
 > This article is a part of the **Get to Know Your Data** series, where we talk to the people and institutions that create, store, and share geospatial data. In this series, we ask about how data managers engage with public audiences and grapple with the social lives of the data that they manage.
@@ -67,4 +67,4 @@ With the [Parcel Priority Plan](https://storymaps.arcgis.com/stories/ad0ae13910b
     - [How Communities Use and Refuse Data About Themselves](https://www.leventhalmap.org/event/how-data-can-warp-our-world-may-12/) 
     - [How Maps & GIS Data Underpin the Digital Economy](https://www.leventhalmap.org/event/how-data-can-warp-our-world-may-19/) 
     - Activists' Data Practices, Social Justice and [Cultural Mapping for Cultural Equity](https://www.leventhalmap.org/event/how-data-can-warp-our-world-may-26/) 
-    - [GIS & The War on Crime and Drugs](https://www.leventhalmap.org/event/how-data-can-warp-our-world-june-9/) 
+    - [GIS & The War on Crime and Drugs](https://www.leventhalmap.org/event/how-data-can-warp-our-world-june-9/)
