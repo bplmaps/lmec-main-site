@@ -2,7 +2,6 @@
 author = "Belle Lipton"
 backgroundImage = "/uploads/2021-04-06/1.png"
 date = 2021-04-16T12:02:00Z
-draft= true
 description = "We spoke with City of Boston analysts about creating and maintaining publicly engaging and socially responsible datasets"
 image = "/uploads/2021-04-06/1.png"
 tags = ["GIS", "geospatial", "data", "Responsible Data Governance", "Public Assets", "Get to Know Your Data", "Parks", "critical data studies"]
@@ -58,13 +57,13 @@ With the [Parcel Priority Plan](https://storymaps.arcgis.com/stories/ad0ae13910b
 
 
 ### Learn more
-- Check out these excellent BPRD Resources:
+- Check out these BPRD Resources:
     - [Healthy Places: Planning for Heat, Trees, and Open Space](https://www.boston.gov/environment-and-energy/healthy-places-planning-heat-trees-and-open-space)
     - [Parcel Priority Plan](https://storymaps.arcgis.com/stories/ad0ae13910bf44759019102454b67027)
     - [Tree Canopy Assessment](https://www.boston.gov/sites/default/files/file/2020/09/Change-assessment_w_MJW-letter.pdf)
     - [Construction and Design StoryMap](https://www.arcgis.com/apps/Shortlist/index.html?appid=93ab1191a7b34644a9733c1aa5926727)
-- LMEC recently announced an [upcoming exhibition](https://www.leventhalmap.org/articles/environmental-justice-exhibition-preview/) on environmental justice
-- LMEC's upcoming data and society focused talk series (be sure to register!):
+- Read the LMEC announcement about an [upcoming exhibition](https://www.leventhalmap.org/articles/environmental-justice-exhibition-preview/) on environmental justice
+- Register for LMEC's upcoming data and society focused talk series:
     - [How Communities Use and Refuse Data About Themselves](https://www.leventhalmap.org/event/how-data-can-warp-our-world-may-12/) 
     - [How Maps & GIS Data Underpin the Digital Economy](https://www.leventhalmap.org/event/how-data-can-warp-our-world-may-19/) 
     - Activists' Data Practices, Social Justice and [Cultural Mapping for Cultural Equity](https://www.leventhalmap.org/event/how-data-can-warp-our-world-may-26/) 
