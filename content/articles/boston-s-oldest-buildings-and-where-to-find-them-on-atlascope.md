@@ -11,6 +11,8 @@ title = "Boston's Oldest Buildings and Where to Find Them on Atlascope!"
 +++
 City Archaeologist Joe Bagley, whom [we interviewed](https://www.leventhalmap.org/articles/archaeology-and-atlascope/) a couple of months ago about his use of Atlascope for archaeology research, has just come out with a new book! It's called _Boston's Oldest Buildings and Where to Find Them_, and highlights Boston's rich architectural history which is still present in the city today.
 
-One example is the building at the corner of Washington and School Streets downtown at 283 Washington St., the Old Corner Bookstore. You can see it here in Atlascope in 1882 when it was actually a bookstore, overlaid on a 1938 map.
+One example is the building at the corner of Washington and School Streets downtown at 283 Washington St. You can see it here in Atlascope in 1882 when it was actually a bookstore, overlaid on a 1938 map. If you grab the little hand icon and drag it, you can see that by 1938 the building is already called the Old Corner Bookstore!
 
 <iframe width="600" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059011690$overlay:39999085945739$zoom:20.00$center:-7910186.299256487,5214690.299087005$mode:glass$pos:238"></iframe>
+
+The oldest building in downtown Boston is the Paul Revere House at 19 North Square. 
