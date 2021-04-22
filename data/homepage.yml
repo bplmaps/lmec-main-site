@@ -47,13 +47,13 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Newly digitized
-    text: A 1904 trolley wayfinder for Greater Boston
-    link: https://collections.leventhalmap.org/search/commonwealth:jh343z12j
-  - badge: Job posting
-    text: Postdoctoral Fellowship in the Digital History and Geography of the American
-      Revolutionary War Era
-    link: https://www.mountvernon.org/library/digitalhistory/postdoctoral-fellowship-in-the-digital-history-and-geography-of-the-american-revolutionary-war-era/
+  - badge: Event series
+    text: 'Wednesdays at noon in May and June: a free series of conversations on critical
+      geospatial data'
+    link: https://www.leventhalmap.org/event/
+  - badge: New acquisition
+    text: An 1880 manuscript map used for planning Back Bay Park
+    link: https://bpl.bibliocommons.com/item/show/7694805075
   - badge: K-12 Professional Development
     text: 'Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History'
     link: https://www.leventhalmap.org/education/k12/2021-lynch-summer-teacher-fellowship/
