@@ -3,7 +3,6 @@ author = "Rachel Mead"
 backgroundImage = "/uploads/2021-04-22/bookstore.PNG"
 date = 2021-04-22T14:56:06Z
 description = "Our Atlascope tool makes the perfect digital companion to a new book on Boston's oldest buildings from the City Archaeologist"
-draft = true
 image = "/uploads/2021-04-22/bookstore.PNG"
 tags = ["Atlascope", "archaeology", "Joe Bagley", "book"]
 title = "Boston's Oldest Buildings and Where to Find Them—on Atlascope"
