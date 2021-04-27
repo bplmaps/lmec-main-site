@@ -31,6 +31,8 @@ These kinds of comparisons can be interesting merely for answering questions abo
 
 But dragging things around on a map also prompts questions about how distance, proximity, and perception shape a popular understanding of how places relate to one another. If you've ever flown across the United States, you've probably seen the quilt-like pattern of center-pivot irrigation systems that dot the high plains. But if you've never worked on a farm, you probably don't have much of a sense of how big they really are. Well, they're pretty enormous, as this juxtaposition of fields next to Boston shows. And that should prompt some questions about how the many hungry mouths in a city are fed by massive plots of agricultural land that dwarf the size of the city itself.
 
+{{< figure src="/uploads/2021-04-27/ks-bos.png" caption="Center-pivot irrigation fields near Liberal, Kansas stretched out over Boston's suburbs" >}}
+
 There are countless intriguing scale juxtapositions like this which Insizeor invites you to consider. What kinds of mashups [can you make](https://www.leventhalmap.org/projects/insizeor/) that help us understand the world in new ways? Spend some time on Insizeor and then tag us @bplmaps on [Twitter](https://twitter.com/bplmaps), [Instagram](http://instagram.com/bplmaps/), or [Facebook](https://www.facebook.com/bplmaps) to let us know what you found. Or, if you want to create your own scale-comparison tool, you can check out the [Insizeor source code](https://github.com/bplmaps/insizeor) on GitHub.
 
 
