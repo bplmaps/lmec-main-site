@@ -21,7 +21,7 @@ Both the Stamen team and I started working simultaneously on a tool that could m
 
 {{< figure src="/uploads/2021-04-27/ack-sf.png" caption="Nantucket off the coast of San Francisco" >}}
 
-With [Insizeor](https://www.leventhalmap.org/projects/insizeor/), you can pick an example to try out some scalar reference points—the Ever Given ship that started it all, as well as the Boston Public Library's McKim Building, Fenway Park, and of course the standard international unit of size comparison, Rhode Island. You can also upload any image and set it to scale. Or you can draw a shape on an aerial map to "clip out" and compare to somewhere else.\[^1\]
+With [Insizeor](https://www.leventhalmap.org/projects/insizeor/), you can pick an example to try out some scalar reference points—the Ever Given ship that started it all, as well as the Boston Public Library's McKim Building, Fenway Park, and of course the standard international unit of size comparison, Rhode Island. You can also upload any image and set it to scale. Or you can draw a shape on an aerial map to "clip out" and compare to somewhere else.[^1]
 
 {{< figure src="/uploads/2021-04-27/bpl-nypl.png" caption="The BPL McKim Building in front of the NYPL" >}}
 
