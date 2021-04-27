@@ -1,12 +1,12 @@
 +++
 author = "Garrett Dash Nelson"
-backgroundImage = ""
+backgroundImage = "/uploads/2021-04-27/ack-sf.png"
 date = 2021-04-27T17:00:16Z
-description = "Our new scale-comparison tool lets you remix the map"
+description = "Our new scale-comparison tool lets you compare big, small, and in between"
 draft = true
-image = "http"
+image = "/uploads/2021-04-27/ack-sf.png"
 tags = ["digital projects", "web maps", "scale", "interactive"]
-title = "Sizing things up with Insizeor"
+title = "Sizing up the map with Insizeor"
 
 +++
 When we want to know how big something is that we've never seen before, it's often helpful to compare the unknown thing to something more familiar. That's why we often hear about how many football fields long something is, or [how many Rhode Islands](https://www.quahog.org/factsfolklore/index.php?id=12) fit in a given territory. Last month, when the giant cargo ship _Ever Given_ veered off course and ended up wedged diagonally in the Suez Canal, photos of [tiny excavators pecking away](https://www.businessinsider.com/ship-stuck-suez-canal-excavator-trying-to-help-free-photo-2021-3) at the bow of the comically oversized ship quickly became a social media phenomenon.
