@@ -3,7 +3,6 @@ author = "Garrett Dash Nelson"
 backgroundImage = "/uploads/2021-04-27/ack-sf.png"
 date = 2021-04-27T17:00:16Z
 description = "Our new scale-comparison tool lets you compare big, small, and in between"
-draft = true
 image = "/uploads/2021-04-27/ack-sf.png"
 tags = ["digital projects", "web maps", "scale", "interactive"]
 title = "Sizing up the map with Insizeor"
