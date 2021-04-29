@@ -15,6 +15,6 @@ title = "Going (on) Postal (Routes)"
 
 \[See something that needs more explanation? Please read <a href="https://t.co/aeyHggOzHf">https://t.co/aeyHggOzHf</a>\] <a href="https://t.co/jD8JkciwbU">pic.twitter.com/jD8JkciwbU</a></p>— A U T O M A P I C 🤖 (@auto_mapic) <a href="https://twitter.com/auto_mapic/status/1384522258341933057?ref_src=twsrc%5Etfw">April 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8049g936k/5925,4042,2398,3741/full/0/default.jpg" caption="" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8049g936k/6052,4130,770,587/full/0/default.jpg" caption="" class="figure-right" >}}
 
 It's got everything you'd want -- post-roads, distances between post offices, and the cutest diagram of "Progress of the Mail on the Main Line."
