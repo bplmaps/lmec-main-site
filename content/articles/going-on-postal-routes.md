@@ -22,3 +22,11 @@ It's got everything you'd want -- post-roads, distances between post offices, an
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8049g936k/full/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
 The map is by Abraham Bradley Jr., [assistant Postmaster General and a cartographer](https://www.historyofinformation.com/detail.php?id=4982). With its timetable, it was an incredibly useful piece of technology that was meant to be posted at all large post offices. It also [helped people conceptualize the size of their new nation](https://postalmuseum.si.edu/object/npm_0.293996.1), and provided them a way of measuring its distances through time. It's the first postal route map of the US, but Bradley published updates over the years and many similar maps came after his 30 year tenure at the Post Office.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3762195/full/,1200/0/default.jpg" caption="" class="figure-center" >}}
+
+Here's a [1913 parcel post map](https://collections.leventhalmap.org/search/commonwealth:wd376218w) of the US from our collection, whose table is about postage rate rather than mail route timing. It also has an "appendage used to determine postal zones," and includes regulations about parcel post in the margin.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343x87d/full/,1200/0/default.jpg" caption="" class="figure-left" >}}
+
+We've even got post 
