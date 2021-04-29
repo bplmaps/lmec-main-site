@@ -17,4 +17,8 @@ title = "Going (on) Postal (Routes)"
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8049g936k/6052,4130,770,587/full/0/default.jpg" caption="" class="figure-right" >}}
 
-It's got everything you'd want -- post-roads, distances between post offices, and the cutest diagram of "Progress of the Mail on the Main Line."
+It's got everything you'd want -- post-roads, distances between post offices, and the cutest diagram of "Progress of the Mail on the Main Line." This chart shows how long it takes to get mail from one town to the next. The crop here starts in Maine and progresses southward, leaving Brewers, ME on a Monday and arriving in Thomaston a week and a half later on a Thursday. You can see the line which denotes the days snaking along through the calendar.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8049g936k/full/,1200/0/default.jpg" caption="" class="figure-right" >}}
+
+The map is by Abraham Bradley Jr., [assistant Postmaster General and a cartographer](https://www.historyofinformation.com/detail.php?id=4982). With its timetable, it was an incredibly useful piece of technology that was meant to be posted at all large post offices. It also [helped people conceptualize the size of their new nation](https://postalmuseum.si.edu/object/npm_0.293996.1), and provided them a way of measuring its distances through time. It's the first postal route map of the US, but Bradley published updates over the years and many similar maps came after his 30 year tenure at the Post Office.
