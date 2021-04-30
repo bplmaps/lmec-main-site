@@ -29,4 +29,4 @@ Here's a [1913 parcel post map](https://collections.leventhalmap.org/search/comm
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343x87d/full/,1200/0/default.jpg" caption="" class="figure-left" >}}
 
-We've even got post 
+We've even got post maps from other countries, including [this pretty one](https://collections.leventhalmap.org/search/commonwealth:jh343x864) from Manitoba! It's a "railway, post office, and municipal map" with the locations of those places marked and indexed on the map. Talk about typography!
