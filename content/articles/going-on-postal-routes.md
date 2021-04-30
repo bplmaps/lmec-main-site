@@ -3,7 +3,6 @@ author = "Rachel Mead"
 backgroundImage = "https://pbs.twimg.com/media/EzbPp90WEAMDc5i?format=jpg&name=small"
 date = 2021-04-29T21:08:31Z
 description = ""
-draft = true
 image = "https://pbs.twimg.com/media/EzbPp90WEAMDc5i?format=jpg&name=small"
 tags = []
 title = "Going (on) Postal (Routes)"
@@ -29,4 +28,4 @@ Here's a [1913 parcel post map](https://collections.leventhalmap.org/search/comm
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343x87d/full/,1200/0/default.jpg" caption="" class="figure-left" >}}
 
-We've even got post maps from other countries, including [this pretty one](https://collections.leventhalmap.org/search/commonwealth:jh343x864) from Manitoba! It's a "railway, post office, and municipal map" with the locations of those places marked and indexed on the map. Talk about typography!
+We've even got post maps from other countries, including [this pretty one](https://collections.leventhalmap.org/search/commonwealth:jh343x864) from Manitoba! It's a "railway, post office, and municipal map" with the locations of those places marked and indexed on the map. Talk about typography! Check out these maps and, of course, many more, in our [digital collections](https://collections.leventhalmap.org/).
