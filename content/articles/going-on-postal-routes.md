@@ -8,7 +8,7 @@ tags = []
 title = "Going (on) Postal (Routes)"
 
 +++
-[This 1796 postal route map](https://collections.leventhalmap.org/search/commonwealth:8049g9359) popped up in a tweet from our [collections bot](https://twitter.com/auto_mapic) on Twitter last week!
+[This 1796 postal route map](https://collections.leventhalmap.org/search/commonwealth:8049g9359) popped up in a tweet from our [collections bot](https://twitter.com/auto_mapic) on Twitter last week! Our map bot trawls the collections and chooses crops from random maps to tweet out to the world.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Excerpt from "Map of the United States exhibiting the post-roads, the situations, connections & distances of the post-offices, stage roads, counties, ports of entry…" (1796) <a href="https://t.co/HCMa3mUVBw">https://t.co/HCMa3mUVBw</a>
 
