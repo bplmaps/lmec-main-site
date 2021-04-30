@@ -5,7 +5,7 @@ date = 2021-04-29T21:08:31Z
 description = "Our map bot found some treasure buried at the post office"
 image = "https://pbs.twimg.com/media/EzbPp90WEAMDc5i?format=jpg&name=small"
 tags = ["postal map", "historical", "collections", "route map"]
-title = "Going (on) Postal (Routes)"
+title = "Riding along the mail route map"
 
 +++
 [This 1796 postal route map](https://collections.leventhalmap.org/search/commonwealth:8049g9359) popped up in a tweet from our [collections bot](https://twitter.com/auto_mapic) on Twitter last week! Our map bot trawls the collections and chooses crops from random maps to tweet out to the world.
