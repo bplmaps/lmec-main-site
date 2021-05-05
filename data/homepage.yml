@@ -54,9 +54,6 @@ cta:
   - badge: New acquisition
     text: An 1880 manuscript map used for planning Back Bay Park
     link: https://bpl.bibliocommons.com/item/show/7694805075
-  - badge: K-12 Professional Development
-    text: 'Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History'
-    link: https://www.leventhalmap.org/education/k12/2021-lynch-summer-teacher-fellowship/
 audiences:
   enable: true
   audienceGroups:
@@ -88,9 +85,6 @@ audiences:
       link: education/k12/professional-development
     - title: Show students a digital exhibition
       link: exhibitions/digital-exhibitions/
-    - title: 'Apply for the 2021–22 Carolyn A. Lynch Summer Teacher Fellowship: Teaching
-        Boston Community History'
-      link: https://www.leventhalmap.org/education/k12/2021-lynch-summer-teacher-fellowship/
   - name: For researchers
     description: Our collections open up countless ways of exploring people and places
       around the world, and we welcome researchers from all walks of life
