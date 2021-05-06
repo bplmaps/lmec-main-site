@@ -1,0 +1,18 @@
++++
+author = "Alicia Svenson, Danielle Rose, and Garrett Dash Nelson"
+backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff45b/3182,3087,3849,1727/,1200/0/default.jpg"
+date = 2021-05-06T17:01:20Z
+description = "A writeup about a study of our digital exhibition appears in the Spring 2021 edition of the New England Museum Association's journal"
+draft = true
+image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff45b/3182,3087,3849,1727/,1200/0/default.jpg"
+tags = ["gallery", "museum studies", "cross-post", "evaluation", "Bending Lines"]
+title = "Studying the Bending Lines exhibition in New England Museums Now"
+
++++
+> More than a year ago, when we were planning to install the [_Bending Lines_ exhibition](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) in the gallery, we began working with two graduate students at Northeastern University to plan a study of how visitors interacted with the gallery space. When the exhibition moved online, we had to reimagine this study—both its methods and its purposes—in order to evaluate how well the digital exhibition was working. This excerpt is from an article about the evaluation process that appears in the Spring 2021 edition of _New England Museums Now_. You can read the [entire article](https://nemanet.org/nemn/spring-2021/gallery-study-without-gallery/) at the New England Museum Association's website.
+
+In response to the change in exhibit venue, the evaluation project also required rethinking. While there is considerable literature on conducting space studies of physical galleries, investigating the behavior of virtual “visitors” presents an entirely different challenge. Online exhibits are not new, but they have not been the central focus of most museums and cultural institutions; instead, in the pre-COVID era they tended to be designed as supplementary companion pieces to in-person shows. Some of the fundamental research questions of in-person evaluations are simply impossible—and inappropriate—to replicate when studying an online exhibition. Some of these limitations are obvious; for instance, it is no longer possible to silently observe how visitors travel throughout a space and determine what objects or locations pique their interest. Others are more subtle. What does attention, engagement, and learning even look like on a computer screen where the user may be rapidly toggling between a digital exhibition and many other competing, unrelated stimuli at the same time?
+
+Because visitors enter and experience an online exhibit via a computer or mobile device from any location, at any time, both raw statistics like the number of real visitors, as well as more nuanced questions like whether visitors were able to see how captions referred to images, demand methods that are more familiar to software designers than museum professionals. To explore this question, the Northeastern students used two primary evidence collection methods: data obtained from Google Analytics and website user testing. Both of these methods are routinely used to test and monitor e-commerce and other for-profit websites, but we wanted to explore their utility for online exhibit evaluation.
+
+[_Read more in New England Museums Now_](https://nemanet.org/nemn/spring-2021/gallery-study-without-gallery/#)
