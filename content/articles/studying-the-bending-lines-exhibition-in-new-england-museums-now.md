@@ -3,7 +3,6 @@ author = "Alicia Svenson, Danielle Rose, and Garrett Dash Nelson"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff45b/3182,3087,3849,1727/,1200/0/default.jpg"
 date = 2021-05-06T17:01:20Z
 description = "A writeup about a study of our digital exhibition appears in the Spring 2021 edition of the New England Museum Association's journal"
-draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff45b/3182,3087,3849,1727/,1200/0/default.jpg"
 tags = ["gallery", "museum studies", "cross-post", "evaluation", "Bending Lines"]
 title = "Studying the Bending Lines exhibition in New England Museums Now"
