@@ -34,7 +34,7 @@ Newton had quite a few fabric and clothes factories in the late 19th and early 2
 Hosiery usually means stockings, although in this case it could also be a euphemism for all ladies' undergarments. Shoddy is a type of recycled wool or wool fabric made by shredding wool rags and reconstituting them.
 
 {{< figure src="/uploads/2021-05-10/14572707649_7a71d3b453_k.jpg" caption="" class="figure-center" >}}
-This image of a shoddy picker and more info on shoddy and its partner mungo [here](https://historyhouse.co.uk/articles/shoddy.html).
+This image of a shoddy picker as well as more info on shoddy and its partner mungo [here](https://historyhouse.co.uk/articles/shoddy.html).
 
 ### Explanations
 
