@@ -40,4 +40,4 @@ Hosiery usually means stockings, although in this case it could also be a euphem
 
 The map above has a key to explain how to read the symbols and shading. Different atlases have different legends and show slightly different information. This one focuses mainly on building material, which was important for calculating real estate worth of buildings and fire safety. It also shows which buildings are stables or other outbuildings, and where the water mains are.
 
-For more, check out the full video of Newton By Map.
+For more, check out the full video of Newton By Map!
