@@ -15,7 +15,7 @@ The town now called Newton was first settled by colonists in 1630, the same year
 
 <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059015832b$overlay:39999059015832a$zoom:15.87$center:-7925082.235453294,5214330.75325575$mode:glass$pos:228"></iframe>
 
-This is that colorful Hopkins atlas by, which includes a zoomed in section along Washington St. with more detail.
+This view of Atlascope shows that colorful Hopkins atlas. The same atlas consisted of two parts: a less-detailed map covering all of Newton, and a zoomed in section along Washington St. with more detail. These two different scale maps appear as two different "layers" in Atlascope.
 
 ### Silver Lake
 
@@ -37,7 +37,7 @@ Hosiery usually means stockings, although in this case it could also be a euphem
 
 ### Explanations
 
-{{< figure src="/uploads/2021-05-10/explanations.PNG" caption="" class="figure-center" >}}
+{{< figure src="/uploads/2021-05-10/explanations.png" caption="" class="figure-center" >}}
 
 The map above has a key to explain how to read the symbols and shading. Different atlases have different legends and show slightly different information. This one focuses mainly on building material, which was important for calculating real estate worth of buildings and fire safety. It also shows which buildings are stables or other outbuildings, and where the water mains are.
 
