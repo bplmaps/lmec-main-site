@@ -28,3 +28,7 @@ This also explains where Silver Lake Ave got its name! Without maps like these t
 Newton had quite a few fabric and clothes factories in the late 19th and early 20th centuries.
 
 <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059015840a$zoom:18.06$center:-7931991.863815056,5209811.0308461245$mode:glass$pos:601"></iframe>
+
+Hosiery usually means stockings, although in this case it could also be a euphemism for all ladies' undergarments. Shoddy is a type of recycled wool or wool fabric made by shredding wool rags and reconstituting them.
+
+{{< figure src="https://www.flickr.com/photos/internetarchivebookimages/14572707649/" caption="" class="figure-right" >}}
