@@ -40,6 +40,6 @@ This image of a shoddy picker as well as more info on shoddy and its partner mun
 
 {{< figure src="/uploads/2021-05-10/explanations.PNG" caption="" class="figure-center" >}}
 
-The map above has a key to explain how to read the symbols and shading. Different atlases have different legends and show slightly different information. This one focuses mainly on building material. It also shows which buildings are stables or other outbuildings, and where the water mains are.
+The map above has a key to explain how to read the symbols and shading. Different atlases have different legends and show slightly different information. This one focuses mainly on building material, which was important for calculating real estate worth of buildings and fire safety. It also shows which buildings are stables or other outbuildings, and where the water mains are.
 
 For more, check out the full video of Newton By Map!
