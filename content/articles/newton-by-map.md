@@ -11,4 +11,6 @@ title = "Newton By Map!"
 +++
 Newton was first settled by colonists in 1630, the same year the city of Boston was founded. We don't have property atlases from back then, but it was incorporated as a city in 1874, and we _do_ have an atlas from that year!
 
-<iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059015832b$zoom:13.73$center:-7927373.411899505,5212104.409730908$mode:glass$pos:578"></iframe>
+<iframe width="400" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059015832b$overlay:39999059015832a$zoom:15.87$center:-7925082.235453294,5214330.75325575$mode:glass$pos:228"></iframe>
+
+This is a colorful atlas by Hopkins, which includes a zoomed in section along Washington St. with more detail.
