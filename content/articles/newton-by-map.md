@@ -37,7 +37,7 @@ Hosiery usually means stockings, although in this case it could also be a euphem
 
 ### Explanations
 
-{{< figure src="/uploads/2021-05-10/explanations.png" caption="" class="figure-center" >}}
+{{< figure src="/uploads/2021-05-10/explanations.PNG" caption="" class="figure-center" >}}
 
 The map above has a key to explain how to read the symbols and shading. Different atlases have different legends and show slightly different information. This one focuses mainly on building material, which was important for calculating real estate worth of buildings and fire safety. It also shows which buildings are stables or other outbuildings, and where the water mains are.
 
