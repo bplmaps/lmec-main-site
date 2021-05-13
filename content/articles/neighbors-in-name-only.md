@@ -2,14 +2,14 @@
 author = "Garrett Dash Nelson"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j59s/2484,6031,4191,1942/,1200/0/default.jpg"
 date = 2021-05-13T15:36:02Z
-description = "A new interactive visualizes inequalities across borders in Massachusetts"
+description = "A new interactive shows inequalities across borders in Massachusetts"
 draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j59s/2484,6031,4191,1942/,1200/0/default.jpg"
 tags = ["data", "visualization", "cross-post", "Massachusetts", "inequality", "borders"]
 title = "Neighbors in name only"
 
 +++
-What's the best way to visualize how neighboring cities and towns can sometimes have dramatically different demographic patterns? Sometimes a map actually isn't the best option.
+What's the best way to visualize how neighboring cities and towns can sometimes have dramatically different demographic patterns?
 
 [Writing in _CommonWealth_ magazine](https://commonwealthmagazine.org/news-analysis/stark-differences-make-many-mass-communities-neighbors-in-name-only/), I discuss the history of municipal inequality in Massachusetts through a data visualization that puts neighboring town in direct comparison to one another.
 
