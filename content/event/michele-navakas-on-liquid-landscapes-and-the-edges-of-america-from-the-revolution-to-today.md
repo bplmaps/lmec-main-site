@@ -17,4 +17,4 @@ Join scholar Michele Navakas as she explores the "liquid landscapes" of places l
 
 Michele Currie Navakas is Associate Professor of English at Miami University (Ohio) where she teaches early American literature and environmental humanities. She is the author of [_Liquid Landscape: Geography and Settlement at the Edge of Early America_](https://www.upenn.edu/pennpress/book/15716.html) (University of Pennsylvania Press, 2018), which won the Florida Historical Society's Rembert Patrick Award and Stetson Kennedy Award.
 
-#### This talk is the first in the Richard H. Brown Seminar on the Historical Geography of the American Revolutionary Era
+#### This talk is the first in the Richard H. Brown Seminar on the Historical Geography of the American Revolutionary Era, and is co-presented by the [Touchton Map Library]()
