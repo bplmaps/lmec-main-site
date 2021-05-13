@@ -9,7 +9,7 @@ tags = ["data", "visualization", "cross-post", "Massachusetts", "inequality", "b
 title = "Neighbors in name only"
 
 +++
-What's the best way of visualization how neighboring cities and towns can sometimes have dramatically different demographic patterns? Sometimes a map actually isn't the best option.
+What's the best way to visualize how neighboring cities and towns can sometimes have dramatically different demographic patterns? Sometimes a map actually isn't the best option.
 
 [Writing in _CommonWealth_ magazine](https://commonwealthmagazine.org/news-analysis/stark-differences-make-many-mass-communities-neighbors-in-name-only/), I discuss the history of municipal inequality in Massachusetts through a data visualization that puts neighboring town in direct comparison to one another.
 
