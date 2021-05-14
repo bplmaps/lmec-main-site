@@ -6,7 +6,7 @@ image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/464,
 location = "Online"
 publishDate = 2021-05-14T12:20:03Z
 registration = "https://www.eventbrite.com/e/map-monster-show-and-tell-tickets-154756389527"
-title = "Map Monster Show and Tell!"
+title = "Map Monster Show and Tell"
 
 +++
 **Join us for a lunchtime event of perusing maps and meeting the monsters who live on them!**
