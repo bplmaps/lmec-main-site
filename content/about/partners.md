@@ -7,7 +7,7 @@ title = "Partners"
 weight = "1"
 
 +++
-### **Program Partners**
+## **Program Partners**
 
 #### **K-12 Education**
 
@@ -31,9 +31,9 @@ MIT Department of Urban Studies & Planning, Data + Feminism Lab
 
 Massachusetts Historical Society
 
-### **Funders**
+## **Funders**
 
-We are grateful to institutions who have made our work possible through their support in 2020-2021.
+_We are grateful to institutions who have made our work possible through their support in 2020-2021._
 
 #### **Major Support**
 
