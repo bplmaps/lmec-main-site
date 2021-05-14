@@ -15,7 +15,7 @@ title = "Map Monster Show and Tell!"
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm45k/3774,1884,2358,2136/full/0/default.jpg" caption="" class="figure-right" >}}
 
-Many of our maps are scattered with animals real and fantastical -- come participate in a show and tell of favorite map monsters from the collections! In this chill lunch hour session for map lovers of any age, listen and learn or present and profess your love for the creatures that populate our maps.
+Many of our maps are scattered with animals real and fantastical — come participate in a show and tell of favorite map monsters from the collections! In this chill lunch hour session for map lovers of any age, listen and learn or present and profess your love for the creatures that populate our maps.
 
 [Check out our map set here](https://collections.leventhalmap.org/map-sets/570) for inspiration and to choose your fighter!
 
