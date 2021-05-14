@@ -67,4 +67,4 @@ Northeast Big Data Innovation Hub
 
 Schrafft Charitable Trust
 
-**_*2020-2021_**
+**_*Funding for 2020-2021_**
