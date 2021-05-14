@@ -1,5 +1,5 @@
 +++
-backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/464,6972,1915,1129/full/0/default.jpg"
+backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/571,7368,1737,476/full/0/default.jpg"
 date = 2021-06-03T16:00:00Z
 fee = "Free"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/464,6972,1915,1129/full/0/default.jpg"
