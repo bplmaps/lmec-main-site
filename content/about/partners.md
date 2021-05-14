@@ -33,27 +33,29 @@ Massachusetts Historical Society
 
 ### **Funders**
 
-We are grateful to institutions who make our work possible through their support
+We are grateful to institutions who have made our work possible through their support in 2020-2021.
 
 #### **Major Support**
+
+Council on Library and Information Resources
 
 Boston Public Library
 
 Boston Public Library Fund
 
+Institute of Museum and Library Services
+
+Iron Mountain
+
 Mapping Boston Foundation
 
-#### **Other Support**
+National Endowment for the Humanities
+
+#### **Support**
 
 The Adelaide Breed Bayrd Foundation
 
 The Associates of the Boston Public Library
-
-Council on Library and Information Resources
-
-Institute of Museum and Library Services
-
-Iron Mountain
 
 Library of Congress Teaching with Primary Sources, Eastern Region
 
@@ -61,12 +63,8 @@ MacLean Foundation
 
 Massachusetts Foundation for the Humanities
 
-National Endowment for the Humanities
-
 Northeast Big Data Innovation Hub
 
 Schrafft Charitable Trust
-
-**_*Funding for 2020-2021_**
 
 ![](/uploads/2021-05-14/blue-timeline-cycle-presentation.jpg)
