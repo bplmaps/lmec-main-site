@@ -7,10 +7,6 @@ title = "Partners"
 weight = "1"
 
 +++
-## **Partners**
-
-We're grateful to all of our program partners and funders who make our work possible.
-
 ### **Program Partners**
 
 #### **K-12 Education**
@@ -35,7 +31,7 @@ MIT Department of Urban Studies & Planning, Data + Feminism Lab
 
 Massachusetts Historical Society
 
-### __Funders*__
+### **Funders**
 
 We are grateful to institutions who make our work possible through their support
 
@@ -49,7 +45,7 @@ Mapping Boston Foundation
 
 #### **Other Support**
 
-**The** Adelaide Breed Bayrd Foundation
+The Adelaide Breed Bayrd Foundation
 
 The Associates of the Boston Public Library
 
