@@ -68,3 +68,5 @@ Northeast Big Data Innovation Hub
 Schrafft Charitable Trust
 
 **_*Funding for 2020-2021_**
+
+![](/uploads/2021-05-14/blue-timeline-cycle-presentation.jpg)
