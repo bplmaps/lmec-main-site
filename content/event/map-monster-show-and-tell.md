@@ -11,7 +11,9 @@ title = "Map Monster Show and Tell!"
 +++
 **Join us for a lunchtime event of perusing maps and meeting the monsters who live on them!**
 
-## About this event
+### About this event
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm45k/3774,1884,2358,2136/full/0/default.jpg" caption="" class="figure-right" >}}
 
 Many of our maps are scattered with animals real and fantastical -- come participate in a show and tell of favorite map monsters from the collections! In this chill lunch hour session for map lovers of any age, listen and learn or present and profess your love for the creatures that populate our maps.
 
