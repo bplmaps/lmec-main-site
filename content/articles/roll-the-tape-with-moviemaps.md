@@ -10,9 +10,9 @@ title = "Roll the tape with Moviemaps"
 +++
 When we're in the library in person, there are few activities as rewarding as peering at a map spread out on a table with a group of students, researchers, or visitors, talking about what we can see and inviting everyone to look closely while we explore historical geography.
 
-Hopefully within the next several months, we'll be back to seeing maps in this way. But luckily for us, we have an amazing collection of digitized materials—which makes it possible to experiment with research, narration, and interpretation framed through the window of a web browser.
+Hopefully within the next several months, we'll be back to seeing maps in this way. But luckily for us, we have an incredible collection of digitized materials—which makes it possible to experiment with research, narration, and interpretation framed through the window of a web browser rather than framed by a table in the reading room.
 
-Our latest tool that we've built for exploring our collections online is called "Moviemaps." It's built to solve a challenge: how can we narrate around a digitized map while still giving the viewer freedom to control and explore the view themselves? Embedding an image of a map into a video itself can be interesting, but it lacks depth; often the resolution is too low to see the map's detail, and of course the viewer can't change what's in view.
+The latest tool that we've built for exploring our collections online is called "Moviemaps." It's built to solve a challenge: how can we narrate around a digitized map while still giving the viewer freedom to control and explore the view themselves? Embedding an image of a map into a video itself can be interesting, but it lacks depth; often the resolution is too low to see the map's detail, and of course the viewer can't change what's in view.
 
 ![A screenshot of a web browser watching the trolley wayfinder Moviemap](/uploads/2021-05-18/moviemaps-screenshot.png)
 
