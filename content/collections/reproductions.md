@@ -19,7 +19,7 @@ Our reproductions are serviced by a third-party vendor. For more information, or
 
 ## Requesting a low or no cost reproduction
 
-We support the work of cultural, educational, and environmental nonprofits by offering low or no cost reproductions printed in-house. Requests for subvented reproductions should be made by nonprofit organizations who plan to display the objects in a public or classroom setting, such as a trailhead kiosk, bulletin board, classroom table, or similar display.
+We support the work of cultural, educational, and environmental nonprofits and government agencies by offering low or no cost reproductions printed in-house. Requests for subvented reproductions should be made by nonprofit organizations who plan to display the objects in a public or classroom setting, such as a trailhead kiosk, bulletin board, classroom table, or similar display.
 
 We generally include bibliographic information and a QR code link to the collections object in these complimentary  reproductions. You can request in-house reproductions printed on both heavy stock paper and adhesive vinyl.
 
