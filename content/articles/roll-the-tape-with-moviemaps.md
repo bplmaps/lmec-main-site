@@ -14,7 +14,11 @@ Hopefully within the next several months, we'll be back to seeing maps in this w
 
 The latest tool that we've built for exploring our collections online is called "Moviemaps." It's built to solve a challenge: how can we narrate observations about a digitized map while still giving the viewer freedom to control and explore the view themselves? Embedding an image of a map into a video itself can be interesting, but it lacks depth; often the resolution is too low to see the map's detail, and of course the viewer can't change what's in view.
 
+<a href="https://geoservices.leventhalmap.org/movie-maps/#trolley-wayfinder">
+  
 ![A screenshot of a web browser watching the trolley wayfinder Moviemap](/uploads/2021-05-18/moviemaps-screenshot.png)
+  
+</a>
 
 With Moviemaps, we pair a video discussion with digital collections objects that zoom and pan while synchronized with the video. But in Moviemaps, the viewer can also explore on their own, dragging the map around or pausing the video to get deeper into a different part of the map.
 
