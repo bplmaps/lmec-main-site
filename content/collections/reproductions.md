@@ -1,29 +1,28 @@
 +++
-aliases = ["/about/permissions"]
-backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc71j/2872,2546,3136,1438/,800/0/default.jpg"
-cardImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc71j/2872,2546,3136,1438/,800/0/default.jpg"
-description = "How to use our collections in your own work"
-draft = true
-title = "Reproductions"
-weight = 4
+aliases = []
+backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cx430/1643,2480,3840,2074/,1200/0/default.jpg"
+cardImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cx430/1643,2480,3840,2074/,1200/0/default.jpg"
+description = "How to purchase a high-quality reproduction, or request a complimentary copy for your institution"
+title = "Printed Reproductions"
+weight = "6"
 
 +++
-## Rights to digital images
+## Purchasing a reproduction
 
-High-resolution imagery for most maps and objects in our [Digital Collections](/collections/digital-collections) is available for download directly from each object's record page in TIFF and JPEG format. Unless otherwise noted, all images are in the public domain and have no restrictions on use. We provide no warranty as to the copyright status of the objects themselves.
+We offer fine art quality reproductions of all the maps in our Digital Collections which are not under copyright.
 
-Maps from partner institutions are not available for download or reproduction through our Digital Collections portal. Contact the holding institution for permissions and reproductions.
+To purchase a reproduction, visit our [Digital Collections portal](https://collections.leventhalmap.org). (For more information about searching our digitized material, see [Searching the Collections](https://www.leventhalmap.org/collections/searching/)). If a map in the Digital Collections portal is available for reproduction, you will see a link with the text "Buy a Reproduction" in the "Share" panel. Clicking this button will take you to our reproduction purchase form, where you can select dimensions and paper stock.
 
-## Attribution and credit
+Our reproductions are serviced by a third-party vendor. For more information, or to check on the status of an existing order, please email us at [frontdesk@leventhalmap.org](mailto:frontdesk@leventhalmap.org).
 
-If you reproduce an object from our collections in your own work, please credit both the Norman B. Leventhal Map & Education Center at the Boston Public Library for the image and, if the "Collection" field indicates a partner institution, that institution's name as well.
+![Screenshot of a Digital Collections page with the Buy a Reproduction button highlighted](/uploads/2021-05-18/reproduction-screenshot.png)
 
-**Examples**
+## Requesting a low or no cost reproduction
 
-> Reproduction courtesy of the Norman B. Leventhal Map & Education Center at the Boston Public Library
+We support the work of cultural, environmental, and educational nonprofits by offering low or no cost reproductions printed in-house. Requests for subvented reproductions should be made by nonprofit organizations who plan to display the objects in a public or educational setting, such as a trailhead kiosk, bulletin board, classroom table, or similar display.
 
-> Reproduction from the Richard H. Brown Revolutionary War Collection, imagery courtesy of the Norman B. Leventhal Map & Education Center at the Boston Public Library
+We generally include bibliographic information and a QR code link to the collections object in these complimentary  reproductions. You can request in-house reproductions printed on both heavy stock paper and adhesive vinyl.
 
-We appreciate notification when you use our images in your own work, whether a teaching slideshow or a scholarly monograph, so that we can track usage. Please email our [Reference & Cataloging Librarian](/about/people/lauren-chen/) to let us know if our images have been useful to you.
+Please fill out this form to submit a request for a low or now cost reproduction.
 
-Should the image(s) appear in a print publication, please send one copy to the Center to be added to the collection. [Visit the Contact & Connect page](/about/contact-connect) for mailing information.
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrGmoZaVLy4QCWQA?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
