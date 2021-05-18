@@ -8,7 +8,7 @@ tags = ["interactives", "collections", "moviemaps"]
 title = "Roll the tape with Moviemaps"
 
 +++
-When we're in the library in person, there are few activities as rewarding as looking at a map spread out on a table, talking about what we can see and inviting students, researchers, or visitors to look closely while we explore historical geography.
+When we're in the library in person, there are few activities as rewarding as peering at a map spread out on a table with a group of students, researchers, or visitors, talking about what we can see and inviting everyone to look closely while we explore historical geography.
 
 Hopefully within the next several months, we'll be back to seeing maps in this way. But luckily for us, we have an amazing collection of digitized materials—which makes it possible to experiment with research, narration, and interpretation framed through the window of a web browser.
 
