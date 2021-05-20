@@ -37,7 +37,7 @@ This is a [manuscript map](https://collections.leventhalmap.org/search/commonwea
 
 ### Great Fires
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fh913/full/,1200/0/default.jpg" caption="" class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fh913/full/,1200/0/default.jpg" caption="[_Plan of the city of Quebec_](https://collections.leventhalmap.org/search/commonwealth:4m90fh90t), 1845" class="figure-left" >}}
 
 Two fires took place in Quebec City a month apart from each other in 1845: one on May 28th, and the next on June 28th. The black area on [this map](https://collections.leventhalmap.org/search/commonwealth:4m90fh90t) shows the burned district from May, and the lighter shading is what burned in June. [These fires killed at least 23 people and left at least 15,000 homeless](https://www.thecanadianencyclopedia.ca/en/article/fire-disasters). Like several other of the maps in this set, north is not oriented towards the top of the map. Instead, it is in the lower right corner.
 
