@@ -49,6 +49,6 @@ Two fires took place in Quebec City a month apart from each other in 1845: one o
 
 ### An American Expo
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f228n/full/,1200/0/default.jpg" caption="Gies & Co., [_Plan of the Pan-American Exposition..._](https://collections.leventhalmap.org/search/commonwealth:4m90f227c) 1900" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f228n/full/,1200/0/default.jpg" caption="Gies & Co., [_Plan of the Pan-American Exposition..._](https://collections.leventhalmap.org/search/commonwealth:4m90f227c) (1900)" class="figure-right" >}}
 
 Finally, [here's a beautiful map](https://collections.leventhalmap.org/search/commonwealth:4m90f227c) of the fairgrounds for the Pan-American Expo held in Buffalo, NY starting in May 1901. Most of the buildings on the map no longer exist, including the Temple of Music where President William McKinley was assassinated in September of that year. I recommend clicking through the link to this map and checking out the beautiful scenery! All the maps here are digitized in our collections at high resolution, and you can click any of the links to them to go to their collections page. There, you can zoom and pan as well as learn more about the items, download the images, or request to purchase reproductions.
