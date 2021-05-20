@@ -43,3 +43,8 @@ Two fires took place in Quebec City a month apart from each other in 1845: one o
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n5799/full/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
+This 1870 lithograph depicts a celebration of the Fifteenth Amendment on May 19th of that year. The parade in the middle is surrounded by vignettes of famous figures of the time and important events in American history. While the tone of this image is celebratory, the amendment did little to practically extend voting rights to Black Americans.
+
+### 
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f228n/full/,1200/0/default.jpg" caption="" class="figure-right" >}}
