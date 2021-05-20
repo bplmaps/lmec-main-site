@@ -9,7 +9,7 @@ tags = ["map of the month", "america transformed", "may"]
 title = "Isle of May"
 
 +++
-Every month, I take a close look at the maps that pop up in a search of that month's name. For May, that search dredges up a good selection of historical maps from several centuries. Here's a look at a few favorites.
+Every month, I take a close look at the maps that pop up in a search of that month's name. For May, that search brings up an intriguing selection of historical maps from several centuries. Here's a look at a few favorites.
 
 ### Beyond the Blew-hills
 
