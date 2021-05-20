@@ -29,11 +29,13 @@ Every month, I take a close look at the maps that pop up in a search of that mon
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nc346/full/,1200/0/default.jpg" caption="" class="figure-right" >}}
 
-This is a [manuscript map](https://collections.leventhalmap.org/search/commonwealth:q524nc33x) of lands "ceded" by the Cherokee to South Carolina in May of 1777. Cession is a loaded term in American history. From our [America Transformed]() exhibit:
+This is a [manuscript map](https://collections.leventhalmap.org/search/commonwealth:q524nc33x) of lands "ceded" by the Cherokee to South Carolina in May of 1777. Cession is a loaded term in American history. From our [America Transformed](https://collections.leventhalmap.org/exhibits/25) exhibit:
 
 > “Cede” is a very gentle term to describe a deeply violent, forced, and uneasy process. As Native groups suffered losses from epidemics and the destruction of their food sources, they relinquished their lands to the U.S. government, often as a final resort. Native groups were forced to relocate from their homelands, either by treaty or executive orders promising them abundant resources in exchange for territory – none of which were fully realized.
+> 
+> _Chris Newell (Passamaquoddy); endawnis Spears (Navajo, Ojibwe, Chickasaw, Choctaw); Dr. Jason Mancini Ph.D. [Akomawt Educational Initiative](https://www.akomawt.org/)_
 
-– Chris Newell (Passamaquoddy); endawnis Spears (Navajo, Ojibwe, Chickasaw, Choctaw); Dr. Jason Mancini Ph.D. [Akomawt Educational Initiative](https://www.akomawt.org/)
+
 
 ### Great Fires
 
