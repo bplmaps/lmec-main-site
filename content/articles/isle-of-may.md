@@ -19,23 +19,21 @@ Every month, I take a close look at the maps that pop up in a search of that mon
 
 ### We Love May
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c45p/639,625,2414,1686/,1200/0/default.jpg" caption="" class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c45p/639,625,2414,1686/,1200/0/default.jpg" caption="Jacobus van der Schley, abbé Prévost, and Peter Abraham De Hondt, [_Isle de May..._](https://collections.leventhalmap.org/search/commonwealth:ht250c44d) 1747" class="figure-left" >}}
 
 [Here's a quarter of a map](https://collections.leventhalmap.org/search/commonwealth:ht250c44d) we have of the Cape Verdean Islands from 1747. This view shows Maio, one of the Sotavento Islands. The map is oriented to show a harbor on the northwest side of the island rather than a top-down view of the island. Maio is actually a roughly oval-shaped, not crescent-shaped.
 
----
+***
 
 ### Lost Lands
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nc346/full/,1200/0/default.jpg" caption="" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nc346/full/,1200/0/default.jpg" caption="[_A Map of the lands ceded by the Cherokee Indians to the State of South-Carolina_](https://collections.leventhalmap.org/search/commonwealth:q524nc33x), 1777" class="figure-right" >}}
 
 This is a [manuscript map](https://collections.leventhalmap.org/search/commonwealth:q524nc33x) of lands "ceded" by the Cherokee to South Carolina in May of 1777. Cession is a loaded term in American history. From our [America Transformed](https://collections.leventhalmap.org/exhibits/25) exhibit:
 
 > “Cede” is a very gentle term to describe a deeply violent, forced, and uneasy process. As Native groups suffered losses from epidemics and the destruction of their food sources, they relinquished their lands to the U.S. government, often as a final resort. Native groups were forced to relocate from their homelands, either by treaty or executive orders promising them abundant resources in exchange for territory – none of which were fully realized.
-> 
-> _Chris Newell (Passamaquoddy); endawnis Spears (Navajo, Ojibwe, Chickasaw, Choctaw); Dr. Jason Mancini Ph.D. [Akomawt Educational Initiative](https://www.akomawt.org/)_
-
-
+>
+> _Chris Newell (Passamaquoddy); endawnis Spears (Navajo, Ojibwe, Chickasaw, Choctaw); Dr. Jason Mancini Ph.D._ [_Akomawt Educational Initiative_](https://www.akomawt.org/)
 
 ### Great Fires
 
