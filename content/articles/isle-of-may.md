@@ -35,5 +35,11 @@ Here's a manuscript map of lands "ceded" by the Cherokee to South Carolina in Ma
 
 ### Great Fires
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fh913/full/,1200/0/default.jpg" caption="" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fh913/full/,1200/0/default.jpg" caption="" class="figure-left" >}}
+
+Two fires took place in Quebec City a month apart from each other in 1845: one on May 28th, and the next on June 28th. The black area shows the burned district from May, and the lighter shading is what burned in June. [These fires killed at least 23 people and left at least 15,000 homeless](https://www.thecanadianencyclopedia.ca/en/article/fire-disasters). Like several other of the maps in this set, north is not oriented towards the top of the map. Instead, it is in the lower right corner.
+
+### May Celebrations
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n5799/full/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
