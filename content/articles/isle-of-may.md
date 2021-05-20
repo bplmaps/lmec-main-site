@@ -1,11 +1,11 @@
 +++
 author = "Rachel Mead"
-backgroundImage = ""
+backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fh913/full/,1200/0/default.jpg"
 date = 2021-05-20T14:32:29Z
-description = ""
+description = "Maps from Mays in years past!"
 draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j089/full/,1200/0/default.jpg"
-tags = []
+tags = ["map of the month", "america transformed", "may"]
 title = "Isle of May"
 
 +++
