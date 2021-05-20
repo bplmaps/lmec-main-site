@@ -23,6 +23,8 @@ Every month, I take a close look at the maps that pop up in a search of that mon
 
 [Here's a quarter of a map](https://collections.leventhalmap.org/search/commonwealth:ht250c44d) we have of the Cape Verdean Islands from 1747. This view shows Maio, one of the Sotavento Islands. The map is oriented to show a harbor on the northwest side of the island rather than a top-down view of the island. Maio is actually a roughly oval-shaped, not crescent-shaped.
 
+---
+
 ### Lost Lands
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nc346/full/,1200/0/default.jpg" caption="" class="figure-right" >}}
