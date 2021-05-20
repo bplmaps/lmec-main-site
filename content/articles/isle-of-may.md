@@ -27,7 +27,7 @@ Here's a quarter of a map we have of the Cape Verdean Islands from 1747. This vi
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nc346/full/,1200/0/default.jpg" caption="" class="figure-right" >}}
 
-Here's a manuscript map of lands "ceded" by the Cherokee to South Carolina in May of 1777. Cession is a loaded term in American history. From our [America Transformed]() exhibit: 
+Here's a manuscript map of lands "ceded" by the Cherokee to South Carolina in May of 1777. Cession is a loaded term in American history. From our [America Transformed]() exhibit:
 
 > “Cede” is a very gentle term to describe a deeply violent, forced, and uneasy process. As Native groups suffered losses from epidemics and the destruction of their food sources, they relinquished their lands to the U.S. government, often as a final resort. Native groups were forced to relocate from their homelands, either by treaty or executive orders promising them abundant resources in exchange for territory – none of which were fully realized.
 
@@ -49,3 +49,4 @@ This 1870 lithograph depicts a celebration of the Fifteenth Amendment on May 19t
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f228n/full/,1200/0/default.jpg" caption="" class="figure-right" >}}
 
+Finally, here's a beautiful map of the fairgrounds for the Pan-American Expo held in Buffalo, NY starting in May 1901. 
