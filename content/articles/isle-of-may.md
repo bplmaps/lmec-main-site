@@ -13,7 +13,7 @@ Every month, I take a close look at the maps that pop up in a search of that mon
 
 ### Beyond the Blew-hills
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j089/full/,1200/0/default.jpg" caption="" class="figure-center" caption="James Blake and Frederic Endicott, [_A map or plot of the twenty-five divisions of land...](https://collections.leventhalmap.org/search/commonwealth:js956j071) (1895 \[1730\])" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j089/full/,1200/0/default.jpg" caption="" class="figure-center" caption="James Blake and Frederic Endicott, [_A map or plot of the twenty-five divisions of land..._](https://collections.leventhalmap.org/search/commonwealth:js956j071) (1895 \[1730\])" >}}
 
 [This map](https://collections.leventhalmap.org/search/commonwealth:js956j071) is of a portion of Stoughton that was formerly Dorchester. It's an 1895 copy of a much earlier, May 8th, 1730 map originally by James Blake (no, not that James Blake). The plot has a lot of text on it explaining how the lots on it are numbered and how to use it. It's also littered with compass roses showing that the map is oriented with south at the top.
 
