@@ -2,14 +2,14 @@
 author = "Rachel Mead"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fh913/full/,1200/0/default.jpg"
 date = 2021-05-20T14:32:29Z
-description = "Maps of Mays from years past!"
+description = "Maps of Mays from years past"
 draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j089/full/,1200/0/default.jpg"
 tags = ["map of the month", "america transformed", "may"]
 title = "Isle of May"
 
 +++
-Every month, I take a close look at the maps that pop up in a search of that month's name! For May, we've got a good selection of historical maps from over the centuries, from the 18th through the 20th.
+Every month, I take a close look at the maps that pop up in a search of that month's name. For May, that search dredges up a good selection of historical maps from several centuries. Here's a look at a few favorites.
 
 ### Beyond the Blew-hills
 
