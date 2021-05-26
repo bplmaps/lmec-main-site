@@ -9,6 +9,10 @@ registration = "https://www.eventbrite.com/e/morgan-currie-on-cultural-mapping-f
 title = "Angles on Bending Lines: Morgan Currie on cultural mapping for cultural equity"
 
 +++
+### Event video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/krby8EzEFQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Part of the How Data Can Warp Our World series of conversations
 
 Our exhibition [Bending Lines: Maps and Data from Distortion to Deception](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) examines how visual representations of the world can shape what people believe. But sometimes biases and distortions are built into the data that is used to produce a map. Far from offering a perfectly objective, all-encompassing view of the world, data sets of all kinds are deeply shaped by human choices.
