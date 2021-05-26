@@ -377,6 +377,26 @@ textarea.form-control{
     margin: 20px 0;
   }
 
+  aside {
+    max-width: 100%;
+    padding: 10px 20px;
+    border-top: 2px solid $primary-color;
+    border-bottom: 2px solid $primary-color;
+    background-color: $light;
+
+    p {    font-size: 1.4em;
+      font-style: italic;
+    }
+
+
+    @media (min-width: 500px) {
+
+      float: right;
+      width: 50%;
+      margin-left: 20px;
+    }
+  }
+
   a.btn {
     text-decoration: none;
   }
