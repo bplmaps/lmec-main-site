@@ -129,7 +129,7 @@ One thing I wished the Census was better at is maintaining consistency from year
 
 {{< /carousel >}}
 
-**BL:** Thank you. Let's talk now about how geography and GIS play a role in the interpretation of housing data? Why does geography matter? Why are the spatial components so important here from your perspective?
+**BL:** Thank you. Let's talk now about how geography and GIS play a role in the interpretation of housing data. Why does geography matter? Why are the spatial components so important here from your perspective?
 
 **TH:** Yeah, and this is also a great opportunity to talk about equity and race, because housing is one of the primary ways that we've embedded racism and segregation into our physical spaces. We've manifested that into physical separation. So if we're not talking about geography, and we're not talking about that spatial separation of demographics and housing needs, then we're missing the point.
 
