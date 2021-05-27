@@ -130,7 +130,7 @@ One thing I wished the Census was better at is maintaining consistency from year
 
 
 
-**TH:** No, they haven't, and we'd love it if they would. And I think that's part of why it's important for us to think about putting this in a Github repository, or just putting our entire process out there so people can grab it. I think other research teams are doing similar things with scripts and APIs, and the [Metropolitan Area Planning Council (MAPC)](https://www.mapc.org/) stands out as one that's has done a lot. And they have a similar set of data tools on their [Data Common](https://datacommon.mapc.org/), which is fantastic. So we would like to share that information because if one person can do it, then everybody could share that process, and not have to duplicate that work.
+**TH:** No, they haven't, and we'd love it if they would. And I think that's part of why it's important for us to think about putting this in a Github repository, or just putting our entire process out there so people can grab it. I think other research teams are doing similar things with scripts and APIs, and the [Metropolitan Area Planning Council (MAPC)](https://www.mapc.org/) stands out as one that's has done a lot. And they have a similar set of data tools on their [DataCommon](https://datacommon.mapc.org/), which is fantastic. So we would like to share that information because if one person can do it, then everybody could share that process, and not have to duplicate that work.
 
 
 {{< carousel >}}
