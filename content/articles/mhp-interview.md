@@ -31,7 +31,7 @@ A few years ago, MHP started the [Center for Housing Data](https://www.mhp.net/a
 
 {{< /carousel >}}
 
-Each of these tools makes it easy (and, dare we say, fun!) to compare locations in Massachusetts, and investigate how various factors affect housing shortages in the state. We talk to Tom about the practical creation of these tools, the reasons why GIS and geography are so important when studying housing, and ask about how MHP sees their work as a public data provider.
+Each of these tools makes it easy (and, dare we say, fun!) to compare locations in Massachusetts, and investigate how various factors affect housing shortages in the state. We talked to Tom about the practical creation of these tools, the reasons why GIS and geography are so important when studying housing, and asked about how MHP sees their work as a public data provider.
 
 ### Interview
 
