@@ -387,6 +387,20 @@ textarea.form-control {
 .content p > img {
   margin: 20px 0; }
 
+.content aside {
+  max-width: 100%;
+  padding: 10px 20px;
+  border-top: 2px solid #054571;
+  border-bottom: 2px solid #054571;
+  background-color: #f8f9fe; }
+  .content aside p {
+    font-size: 1.4em;
+    font-style: italic; }
+  @media (min-width: 500px) {
+    .content aside {
+      float: right;
+      width: 50%;
+      margin-left: 20px; } }
 .content a.btn {
   text-decoration: none; }
 
