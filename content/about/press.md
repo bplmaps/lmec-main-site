@@ -34,6 +34,10 @@ John Michael Kennedy, JMKPR
 
 ## Press Releases
 
+**2021**
+
+* 2021-06-01: [Leventhal Map & Education Center Announces Garrett Dash Nelson As Its New President](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EXZbh4GltnZFschmGbh8XMABK2n7XaW7wgZcOHN7inQZPw)
+
 **2020**
 
 * 20-05-18: [With New Exhibition _Bending Lines_, Leventhal Center Spotlights the Persuasive Power of Maps and Data, from Colonial Advertisements to Present-Day Politics](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EWNW3t6Pr_BFqKSCaLiOa8EBAbbyXiKn0G-HssNjFD6aOg?e=HJhwrd)
