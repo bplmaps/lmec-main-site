@@ -16,3 +16,5 @@ title = "Map Monsters"
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw55k/4195,4270,877,591/full/0/default.jpg" caption="Frederik de Wit and Hendrick Doncker. [Nova totius terrarum orbis tabula](https://collections.leventhalmap.org/search/commonwealth:st74cw549). 1660." class="figure-right" >}}
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462t26p/2261,371,1000,1092/full/0/default.jpg" caption="Henri Abraham Chatelain. [Carte tres curieuse de la Mer du Sud, contenant des remarques nouvelles et tres utiles non seulement sur les ports et iles de cette mer](https://collections.leventhalmap.org/search/commonwealth:3f462t25d). 1719." class="figure-right" >}}
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm68w/6826,2571,534,447/full/0/default.jpg" caption="Charles Turzak, Henry T. Chapman,  Houghton Mifflin Company, and Tudor Press. [An illustrated map of Chicago](https://collections.leventhalmap.org/search/commonwealth:0r96fm67m). 1931." class="figure-right" >}}
