@@ -6,11 +6,21 @@ description: Information about Map Center programs, activities, and services whi
 type: singleton
 
 ---
-### In-person access remains closed
+### Information about our phased reopening
 
-Currently, no in-person access to the Map Center's gallery, learning center, or research collections is available. The Boston Public Library is closed for regular service; however, holds pickup for circulating material is available under the BPL To Go program. Learn more about BPL To Go and the status of the BPL system at [the BPL website](https://www.bpl.org/news/bpl-to-go/).
+Beginning on June 1, the Boston Public Library launches its phased reopening with limited walk-up services and special services by appointment. [Read more about the BPL's reopening plans here](https://www.bpl.org/news/reopening/).
 
-The BPL is currently in discussions about its phased reopening, and, while no dates have yet been set, we expect to gradually resume services through the summer and fall. [Read more about the BPL’s reopening plans here](https://www.bpl.org/news/bpl-to-go/).
+### Bending Lines opens in September; gallery closed until then
+
+Our major exhibition **Bending Lines: Maps and Data from Distortion to Deception** is currently being prepared for a September opening. Until that time, our gallery and learning center remain closed for in-person access. We will announce the opening date for Bending Lines by the end of June.
+
+Meanwhile, you can visit the [Bending Lines digital exhibition](https://www.leventhalmap.org/digital-exhibitions/bending-lines/), which was designed for an immersive online experience, where you can discover high-resolution maps, interpretive content, and interactive material.
+
+### Limited research appointments begin June 14
+
+Beginning the week of June 14, we will make it possible for researchers to visit the Rare Maps Reading Room by special appointment. Appointments will be limited in time and duration. We also ask that researchers who can effectively use a digitized item, or who can put off their research visit until September, to strongly consider doing so.
+
+For more information, see the [Research Appointments](https://www.leventhalmap.org/research/appointments/) page.
 
 ### Digital and remote services available
 
@@ -24,8 +34,4 @@ The Map Center has made extensive efforts to continue research, educational, and
 * A list of our [Digital Projects](/projects/digital-projects), including the new [Atlascope](https://atlascope.leventhalmap.org) portal for exploring Boston's historical geography
 * All of our [events](/event) are being broadcast digitally for free
 
-### For more information
-
-Check this page for updates about our plans for reopening in-person service. As of Spring 2021, we do not currently have further guidance on the timing of our return to in-person activities.
-
-{{< alert-box type="info" >}} This information was last updated May 13, 2021. {{< /alert-box >}}
+{{< alert-box type="info" >}} This information was last updated June 2, 2021. {{< /alert-box >}}
