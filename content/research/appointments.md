@@ -15,6 +15,8 @@ Our reference library staff can help you find material in our Digital Collection
 
 {{< alert-box type="warning" icon="fas fa-exclamation-triangle" title="Limited research appointments beginning June 14" >}} {{< /alert-box >}}
 
+Researchers can make appointments to view materials beginning on June 14. Appointments will be limited in duration. We ask that researchers who can effectively use a digitized item, or who can put off their research visit until September, to consider doing so.
+
 #### Access to the Collections
 
 Our collections are free and open to the public. Access to rare materials is available by appointment, and requires the researcher to hold a Boston Public Library card. Standard library cards are available to any resident of Massachusetts, and more information about obtaining a borrowing card is available at the [BPL website](https://www.bpl.org/ecard/).
@@ -23,7 +25,9 @@ Non-Massachusetts residents can apply for a research card for the purpose of usi
 
 #### Request an In-Person Appointment
 
-Researchers can make appointments to view materials beginning on June 14. Appointments will be limited in duration. We ask that researchers who can effectively use a digitized item, or who can put off their research visit until September, to consider doing so.
+{{< alert-box type="warning" icon="fas fa-exclamation-triangle" title="No in-person appointments" >}}
+
+We are currently not open to the public. Please see above to make a remote reference appointment. {{< /alert-box >}}
 
 <!--
 Once you have obtained a library card and have identified the material that you would like to access, please fill out the following form to request an appointment. Please note that not all material can be paged on demand, and you should allow for several days between placing your request before your items can be paged.
