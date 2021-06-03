@@ -39,4 +39,4 @@ These are real animals doing something that looks suspiciously fake! They're bea
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm68w/6826,2571,534,447/full/0/default.jpg" caption="Charles Turzak, Henry T. Chapman,  Houghton Mifflin Company, and Tudor Press. [An illustrated map of Chicago](https://collections.leventhalmap.org/search/commonwealth:0r96fm67m). 1931." class="figure-right" >}}
 
-This illustrated map of Chicago has so much on it to talk about, but one thing is its cute talking monsters. More on this map [on our Instagram](https://www.instagram.com/p/CPDqg13nWwd/).
+This illustrated map of Chicago has so much on it to talk about, but one thing is its cute talking monsters. In this scene, a man drinking in a rowboat encounters an encouraging and friendly sea monster, and is shocked because he "thought he was drinking government stuff," as opposed to moonshine. More on this map [on our Instagram](https://www.instagram.com/p/CPDqg13nWwd/).
