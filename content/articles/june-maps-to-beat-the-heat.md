@@ -15,7 +15,7 @@ It's been a hot few days in New England, and what better way to chill out than w
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463833z/full/,1200/0/default.jpg" caption="Mildred Giddings Burrage. [The attack on Bunker Hill in the peninsula of Charlestown the 17th of June 1775.](https://collections.leventhalmap.org/search/commonwealth:3f463832p) 1926." class="figure-right" >}}
 
-The Battle of Bunker Hill was June 17, 1775. This painting of the battle is done by Maine artist Mildred Burrage, who used gesso to create topography in the map. It's a very beautiful piece with a satisfying texture. We have a lot of battleground maps in our collection, but this is one in particular that rides the line between a piece of art and a map. In fact, we did a whole exhibit on the overlap between art and maps, [which you can still see online](https://collections.leventhalmap.org/exhibits/23).
+The Battle of Bunker Hill was June 17, 1775. This painting done 151 years later of the battle is by Maine artist Mildred Burrage, who used gesso to create topography in the map. It's a very beautiful piece with a satisfying texture. We have a lot of battleground maps in our collection, but this is one in particular that rides the line between a piece of art and a map. In fact, we did a whole exhibit on the overlap between art and maps, [which you can still see online](https://collections.leventhalmap.org/exhibits/23).
 
 ### A Swing and a Miss at the Park
 
