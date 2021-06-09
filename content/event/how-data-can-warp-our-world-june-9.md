@@ -9,6 +9,10 @@ registration = "https://www.eventbrite.com/e/angles-on-bending-lines-brian-jeffe
 title = "Angles on Bending Lines: Brian Jefferson on geographic information systems and the war on crime and drugs"
 
 +++
+### Event Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cG8SbH3dOH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Part of the How Data Can Warp Our World series of conversations
 
 Our exhibition [Bending Lines: Maps and Data from Distortion to Deception](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) examines how visual representations of the world can shape what people believe. But sometimes biases and distortions are built into the data that is used to produce a map. Far from offering a perfectly objective, all-encompassing view of the world, data sets of all kinds are deeply shaped by human choices.
