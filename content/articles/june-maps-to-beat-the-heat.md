@@ -19,7 +19,7 @@ The Battle of Bunker Hill was June 17, 1775. This painting of the battle is done
 
 ### A Walk in the Park
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463833z/full/,1200/0/default.jpg" caption="Mildred Giddings Burrage. [The attack on Bunker Hill in the peninsula of Charlestown the 17th of June 1775.](https://collections.leventhalmap.org/search/commonwealth:3f463832p) 1926." class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4632803/full/,1200/0/default.jpg" caption="Egbert Ludovicus Viele. [Plan for the improvement of the Central Park, adopted by the Commissioners, June 3rd, 1856](https://collections.leventhalmap.org/search/commonwealth:3f463279b 1856). 1926." class="figure-right" >}}
 
 https://geo.leventhalmap.org/maps/tile/2648/{z}/{x}/{y}.png
 
