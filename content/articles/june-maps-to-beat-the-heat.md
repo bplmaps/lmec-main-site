@@ -38,3 +38,11 @@ From June 22, 1942 comes this map of seasonal fishing in Japan. It was produced 
 ### Solstice Celebrations
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149v867/109,4975,1050,1212/,1200/0/default.jpg" caption="Alexander Gleason and Buffalo Electrotype and Engraving Co. [Gleason's new standard map of the world](https://collections.leventhalmap.org/search/commonwealth:7h149v85z). 1892." class="figure-left" >}}
+
+June is the month of the summer solstice, when days are the longest in the Northern Hemisphere. Here's a diagram from [Gleason's flattened, top-down map of the world](https://collections.leventhalmap.org/search/commonwealth:7h149v85z), where you can see "the Sun's position in his respective months." On June 21, the Arctic Circle falls entirely within the sun's range for the entire 24 hour period. There's another diagram on the other side of the map for the winter solstice in December.
+
+### Take a Stroll!
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cb094/full/,1200/0/default.jpg" caption="Freeman Richardson. [Environs of Boston, from Corey's Hill, Brookline, Mass](https://collections.leventhalmap.org/search/commonwealth:x059cb08v). 1864." class="figure-center" >}}
+
+With cooler temperatures rolling in over the next few days, the weather will be perfect for checking out this view of Boston from Corey Hill. Bird's eye view maps like this one were popular in the second half of the 19th century. You can see people hanging out alongside horses and cows in the foreground, enjoying what we hope is balmy weather, while in the background there's a glimpse of downtown Boston and the unfilled Back Bay. Richardson spent his May and June of 1865 in Virginia rather than Boston, "[sketching scenery, military installations, and urban structures following the close of the Civil War](https://collections.leventhalmap.org/search/commonwealth:x059cb08v)."
