@@ -17,8 +17,7 @@ It's been a hot few days in New England, and what better way to chill out than w
 
 The Battle of Bunker Hill was June 17, 1775. This painting of the battle is done by Maine artist Mildred Burrage, who used gesso to create topography in the map. It's a very beautiful piece with a satisfying texture. We have a lot of battleground maps in our collection, but this is one in particular that rides the line between a piece of art and a map. In fact, we did a whole exhibit on the overlap between art and maps, [which you can still see online](https://collections.leventhalmap.org/exhibits/23).
 
-### A Walk in the Park
+### A Swing and a Miss at the Park
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4632803/full/,1200/0/default.jpg" caption="Egbert Ludovicus Viele. [Plan for the improvement of the Central Park, adopted by the Commissioners, June 3rd, 1856](https://collections.leventhalmap.org/search/commonwealth:3f463279b). 1856. 1926." class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4632803/full/,1200/0/default.jpg" caption="Egbert Ludovicus Viele. [Plan for the improvement of the Central Park, adopted by the Commissioners, June 3rd, 1856](https://collections.leventhalmap.org/search/commonwealth:3f463279b). 1856." class="figure-right" >}}
 
-https://geo.leventhalmap.org/maps/tile/2648/{z}/{x}/{y}.png
