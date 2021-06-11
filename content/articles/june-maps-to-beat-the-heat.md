@@ -44,6 +44,8 @@ From June 22, 1942 comes this map of seasonal fishing in Japan. It was produced 
 
 June is the month of the summer solstice, when days are the longest in the Northern Hemisphere. Here's a diagram from [Gleason's flattened, top-down map of the world](https://collections.leventhalmap.org/search/commonwealth:7h149v85z), where you can see "the Sun's position in his respective months." On June 21, the Arctic Circle falls entirely within the sun's range for the entire 24 hour period. There's another diagram on the other side of the map for the winter solstice in December.
 
+***
+
 ### Take a Stroll!
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cb094/full/,1200/0/default.jpg" caption="Freeman Richardson. [Environs of Boston, from Corey's Hill, Brookline, Mass](https://collections.leventhalmap.org/search/commonwealth:x059cb08v). 1864." class="figure-center" >}}
