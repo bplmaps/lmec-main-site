@@ -3,7 +3,7 @@ title: "Job Posting: Assistant Director"
 menu: false
 ---
 
-{{< alert-box type="success" >}} This job listing is currently **open**. {{< /alert-box >}}
+{{< alert-box type="success" >}} This search is currently **open**. {{< /alert-box >}}
 
 The **Leventhal Map & Education Center at the Boston Public Library** seeks
 to hire for the position of **Assistant Director.** The Assistant Director,
