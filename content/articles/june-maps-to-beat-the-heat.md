@@ -16,6 +16,8 @@ It's been a hot few days in New England, and what better way to chill out than w
 
 The Battle of Bunker Hill was June 17, 1775. This painting done 151 years later of the battle is by Maine artist Mildred Burrage, who used gesso to create topography in the map. It's a very beautiful piece with a satisfying texture. We have a lot of battleground maps in our collection, but this is one in particular that rides the line between a piece of art and a map. In fact, we did a whole exhibit on the overlap between art and maps, [which you can still see online](https://collections.leventhalmap.org/exhibits/23).
 
+***
+
 ### A Swing and a Miss at the Park
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4632803/full/,1200/0/default.jpg" caption="Egbert Ludovicus Viele. [Plan for the improvement of the Central Park, adopted by the Commissioners, June 3rd, 1856](https://collections.leventhalmap.org/search/commonwealth:3f463279b). 1856." class="figure-center" >}}
@@ -33,6 +35,8 @@ In June 1926 in Tulsa, there was a real estate conference for which this celebra
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0z709748t/full/,1200/0/default.jpg" caption="United States. Office of Strategic Services. Geography Division. [Japanese fishing, areas and seasons](https://collections.leventhalmap.org/search/commonwealth:0z709747j). 1942." class="figure-right" >}}
 
 From June 22, 1942 comes this map of seasonal fishing in Japan. It was produced by the Office of Strategic Services, WWII predecessor to the CIA. We have [several maps made by the OSS](https://collections.leventhalmap.org/search?f%5Bname_facet_ssim%5D%5B%5D=United+States.+Office+of+Strategic+Services.+Geography+Division) in our collections, including a [mineral resource map of Morocco](https://collections.leventhalmap.org/search/commonwealth:ht250c05q), [German freight traffic movement](https://collections.leventhalmap.org/search/commonwealth:ht250791z), and [land use in Korea](https://collections.leventhalmap.org/search/commonwealth:ht250b81b). The strategic uses of maps and geographical knowledge is on clear display in this subset of the collection.
+
+***
 
 ### Solstice Celebrations
 
