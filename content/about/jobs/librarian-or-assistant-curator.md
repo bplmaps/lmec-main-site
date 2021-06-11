@@ -123,7 +123,7 @@ This position is subject to a CORI check.
 
 ### To apply
 
-Please submit the following at \<link\>:
+Please submit the following at [via this application form](https://airtable.com/shrKdzN8mttdO8Qml):
 
 -   A cover letter of no more than two pages (PDF, DOCX, or MD format)
 -   A CV or résumé
@@ -147,6 +147,8 @@ Please submit the following at \<link\>:
 Applications will be reviewed on a rolling basis, and the position will
 remain open until filled. **For full consideration, please submit
 application materials by June 28, 2021.**
+
+<a class="btn btn-lg btn-primary-outline" href="https://airtable.com/shrKdzN8mttdO8Qml">Submit application online</a>
 
 ### For more information
 
