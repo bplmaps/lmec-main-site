@@ -109,7 +109,7 @@ The Center places great value on an organizational culture in which staff member
 
 ### Remote options and residency requirement
 
-The Assistant Director will be expected to work primarily in-person at
+The Librarian or Curator will be expected to work primarily in-person at
 the Central Library in Copley Square, at 700 Boylston St. in Boston.
 After an initial transitional period, 1--2 days of remote work per week
 may be possible by approval from supervisors.
