@@ -48,11 +48,8 @@ Robert M. Melzer
 
 ### Board of Review
 
-James R. Akerman  
-Paul B. Cote  
 Alex Krieger, _Chair_  
 Alan Leventhal, _ex officio_  
 Margaret Pearce  
 Richard Pegg  
-Julie Sweetkind-Singer  
 Tim Wallace
