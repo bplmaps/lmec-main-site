@@ -9,6 +9,10 @@ registration = "https://www.eventbrite.com/e/brookline-by-map-tickets-1487840500
 title = "Brookline By Map"
 
 +++
+### Event video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6NS5lhB2glY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Join the LMEC and the Public Library of Brookline for a dive into the historical geography of Brookline, and using maps for research!**
 
 ### About this Event
