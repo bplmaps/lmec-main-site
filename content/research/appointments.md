@@ -13,9 +13,11 @@ Our reference library staff can help you find material in our Digital Collection
 
 ## In-Person Access to Rare Maps
 
-{{< alert-box type="warning" icon="fas fa-exclamation-triangle" title="Limited research appointments beginning June 14" >}} {{< /alert-box >}}
+{{< alert-box type="warning" icon="fas fa-exclamation-triangle" title="Limited research appointments beginning June 14" >}}
 
 Researchers can make appointments to view materials beginning on June 14. Appointments will be limited in duration. We ask that researchers who can effectively use a digitized item, or who can put off their research visit until September, to consider doing so.
+
+{{< /alert-box >}}
 
 #### Access to the Collections
 
@@ -25,16 +27,10 @@ Non-Massachusetts residents can apply for a research card for the purpose of usi
 
 #### Request an In-Person Appointment
 
-{{< alert-box type="warning" icon="fas fa-exclamation-triangle" title="No in-person appointments" >}}
 
-We are currently not open to the public. Please see above to make a remote reference appointment. {{< /alert-box >}}
-
-<!--
 Once you have obtained a library card and have identified the material that you would like to access, please fill out the following form to request an appointment. Please note that not all material can be paged on demand, and you should allow for several days between placing your request before your items can be paged.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrNQnmeAwjyCl6AX?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc; margin-bottom: 50px;"></iframe>
-
-\-->
 
 #### Reading Room Policy
 
