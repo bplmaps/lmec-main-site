@@ -47,9 +47,9 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Press release
-    text: LMEC announces Garrett Dash Nelson as its new President and Head Curator
-    link: https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EXZbh4GltnZFschmGbh8XMABK2n7XaW7wgZcOHN7inQZPw
+  - badge: Job search
+    text: Assistant Director
+    link: https://www.leventhalmap.org/about/jobs/assistant-director/
   - badge: Event series
     text: 'Wednesdays at noon in May and June: a free series of conversations on critical
       geospatial data'
