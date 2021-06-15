@@ -120,9 +120,8 @@ frontpageFeature:
   enable: true
   bg_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xj67p/933,1316,4326,2613/,1200/0/default.jpg
   title: Visit a map this summer
-  content: 'Our digital exhibition, **Bending Lines: Maps and Data from Distortion
-    to Deception**, looks at how maps and visual information construct the truth —
-    or at least what the mapmaker wants you to believe is the truth.'
+  content: Beginning in June, we're making it possible to book research appointments
+    to see rare maps by advance appointment
   button:
     enable: true
     label: Make an appointment
