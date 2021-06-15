@@ -120,8 +120,8 @@ frontpageFeature:
   enable: true
   bg_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xj67p/933,1316,4326,2613/,1200/0/default.jpg
   title: Visit a map this summer
-  content: Beginning in June, we're making it possible to book research appointments
-    to see rare maps by advance appointment
+  content: Beginning in June, we're making it possible to book research visits to
+    see rare maps by advance appointment
   button:
     enable: true
     label: Make an appointment
