@@ -47,6 +47,10 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Job posting
+    text: Geospatial & Cartographic Information Librarian or Assistant Curator of
+      Digital & Participatory Geography
+    link: https://www.leventhalmap.org/about/jobs/librarian-or-assistant-curator/
   - badge: Job search
     text: Assistant Director
     link: https://www.leventhalmap.org/about/jobs/assistant-director/
