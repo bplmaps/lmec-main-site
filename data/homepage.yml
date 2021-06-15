@@ -54,13 +54,9 @@ cta:
     text: Geospatial & Cartographic Information Librarian or Assistant Curator of
       Digital & Participatory Geography
     link: https://www.leventhalmap.org/about/jobs/librarian-or-assistant-curator/
-  - badge: Event series
-    text: 'Wednesdays at noon in May and June: a free series of conversations on critical
-      geospatial data'
-    link: https://www.leventhalmap.org/event/
-  - badge: New acquisition
-    text: An 1880 manuscript map used for planning Back Bay Park
-    link: https://bpl.bibliocommons.com/item/show/7694805075
+  - badge: Learning resource
+    text: Follow along yourself with our Making Sense of Maps & Data digital coursebook
+    link: https://cartinal.leventhalmap.org/guides/making-sense-maps-data/
 audiences:
   enable: true
   audienceGroups:
