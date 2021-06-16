@@ -1,0 +1,14 @@
++++
+author = "Rachel Mead"
+backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vn51h/full/,1200/0/default.jpg"
+date = 2021-06-16T19:30:02Z
+description = "An exploration of one cartographer's work mapping French Louisiana"
+draft = true
+image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vn51h/full/,1200/0/default.jpg"
+tags = ["louisiana"]
+title = "The Maps of Dumont de Montigny"
+
++++
+Dumont de Montigny was a French colonial officer stationed in Louisiana in the early 18th century. He spent nearly 18 years there and wrote an extensive history of the place, published in 1747, which included these beautiful maps of encampments, forts, farmland, and more. These maps are in the physical collection at the [Newberry Library](https://www.newberry.org/).
+
+{{< figure src="" caption="" class="figure-right" >}}
