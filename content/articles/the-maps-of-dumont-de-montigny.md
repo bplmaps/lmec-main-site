@@ -2,7 +2,7 @@
 author = "Rachel Mead"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vn51h/full/,1200/0/default.jpg"
 date = 2021-06-16T19:30:02Z
-description = "An exploration of one cartographer's work mapping French Louisiana"
+description = "An exploration of one cartographer's work mapping French colonial sites in Louisiana"
 draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vn51h/full/,1200/0/default.jpg"
 tags = ["louisiana"]
