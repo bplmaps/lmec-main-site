@@ -3,7 +3,6 @@ author = "Lynn Brown"
 backgroundImage = "/uploads/2021-06-17/maptivist-screenshot.png"
 date = 2021-06-17T14:43:33Z
 description = "High school students working with our educators explored the question of how racial ideas become spatial practice in Boston"
-draft = true
 image = "/uploads/2021-06-17/maptivist-screenshot.png"
 tags = ["maptivists", "K-12", "race", "Boston Public Schools"]
 title = "Highlights from Maptivist student projects"
