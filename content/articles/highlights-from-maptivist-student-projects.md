@@ -1,10 +1,10 @@
 +++
 author = "Lynn Brown"
-backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53jx842/2422,1365,2855,1593/,1200/0/default.jpg"
+backgroundImage = "/uploads/2021-06-17/maptivist-screenshot.png"
 date = 2021-06-17T14:43:33Z
-description = "High school students working with our educators explore the question of how racial ideas become spatial practice in Boston"
+description = "High school students working with our educators explored the question of how racial ideas become spatial practice in Boston"
 draft = true
-image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53jx842/2422,1365,2855,1593/,1200/0/default.jpg"
+image = "/uploads/2021-06-17/maptivist-screenshot.png"
 tags = ["maptivists", "K-12", "race", "Boston Public Schools"]
 title = "Highlights from Maptivist student projects"
 
