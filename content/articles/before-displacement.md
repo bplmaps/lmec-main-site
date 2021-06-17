@@ -18,12 +18,12 @@ In the Spring 2021 semester, my urban history students at College of the
 Holy Cross undertook a semester-long research project focused on the
 history of the land currently filled by Boston's Rose Kennedy Greenway.
 Before this land became the Greenway in recent years, it hosted an elevated highway—the
-Central Artery—and before that, it was filled with buildings and
+Central Artery, completed in 1959—and before that, it was filled with buildings and
 streets.
 
 We wanted to learn about the buildings, business owners,
 residents, community groups, and infrastructure that occupied this land
-before the construction of the highway. One of the most invaluable tools in our collective research project as the [Atlascope tool](https://atlascope.leventhalmap.org) built by the Leventhal Map & Education Center. Each student investigated a single parcel of
+before the construction of the highway. One of the most invaluable tools in our collective research project was the [Atlascope tool](https://atlascope.leventhalmap.org) built by the Leventhal Map & Education Center. Each student investigated a single parcel of
 land, and thanks to Atlascope, they were able to mine historic maps for
 information about the buildings, businesses, and landowners on their
 parcel. These findings empowered further research in historic
