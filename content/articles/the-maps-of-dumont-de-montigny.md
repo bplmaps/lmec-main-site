@@ -18,7 +18,7 @@ Dumont de Montigny was a French colonial officer stationed in Louisiana in the e
 Fort Maurepas, on the Gulf of Mexico, was also known as Fort Biloxi, spelled a variety of ways. In this sort of organically laid out [map](https://collections.leventhalmap.org/search/commonwealth:z603vn507), Dumont has labeled residential barracks, the government building (which may have been the seat of French Louisiana, when Biloxi was the capital), the well, cypress marshes, and more. The time he depicts is 1720; today the fort is within the town of Ocean Springs, Mississippi.
 ___
 
-### Land "cessions"
+### Land "Cessions"
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vn69z/full/,1200/0/default.jpg" caption="Dumont de Montigny. [Concession des Chaoüachas appartenante cy devant a Mgr. le duc de Belleisle et associez](https://collections.leventhalmap.org/search/commonwealth:z603vn68p). 1747." class="figure-left" >}}
 
