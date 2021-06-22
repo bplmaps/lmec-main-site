@@ -6,19 +6,16 @@ description: Help support the Center's mission with a donation or gift
 type: singleton
 
 ---
+
+<div style="text-align: center;">
+<a href="#XDTSZHTC" tyle="display: none"></a>
+</div>
+
 ## Donations
 
-As a non-profit that offers services "free to all," we rely on the support of donors like you to keep our exhibitions and educational programs running. Please consider making a gift today.
+Your support is crucial in keeping our programs free, creative, and welcoming for all of our audiences. Donate instantly with a credit card or bank account from the form above. For more donation options, please [contact Rachel Sharer](mailto:rsharer@leventhalmap.org).
 
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="532DUV9J8WUZ8" />
-<input type="submit" class="btn btn-primary btn-lg btn-block" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" value="Donate with Paypal now" title="Donate with PayPal button" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
-
-<a href="https://mapsbpl.thankyou4caring.org" class="btn btn-sm btn-outline-primary btn-block mt-3">Give to our Annual Fund</a>
-
-_Please note that the Leventhal Map & Education Center is an independent nonprofit in a longstanding partnership with the Boston Public Library, and we are dependent on your generous support. We are a separate entity from the Boston Public Library Fund and the Associates of the Boston Public Library._
+Please note that the Leventhal Map & Education Center is an independent nonprofit in a longstanding partnership with the Boston Public Library, and we are dependent on your generous support. We are a separate entity from the Boston Public Library Fund and the Associates of the Boston Public Library.
 
 ## Gifts of collections
 
