@@ -1,9 +1,8 @@
 +++
 author = "LMEC Staff"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vn51h/full/,1200/0/default.jpg"
-date = 2021-06-19T04:00:00Z
+date = 2021-06-19T03:59:00Z
 description = "An exploration of one cartographer's work mapping French colonial sites in Louisiana"
-draft = false
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vn51h/full/,1200/0/default.jpg"
 tags = ["Louisiana", "American Revolution", "Newberry Library", "partner collection"]
 title = "The Maps of Dumont de Montigny"
@@ -24,7 +23,7 @@ ___
 
 This map title begins "Concession des Chaoüachas," which means Chaoüacha land grant or ceded land. It is unlikely that the Chaoüachas saw themselves as willingly ceding land to the French. On the contrary, [Alan Gallay describes](https://books.google.com/books?id=ikISTgwRAYMC&pg=PA297&lpg=PA297&dq=Chaou%CC%88achas&source=bl&ots=N85Q9aOaHV&sig=ACfU3U3BgxFH6rbV2-sjNNXAuulNUkxWKw&hl=en&sa=X&ved=2ahUKEwi81pLR_57xAhV7RzABHSMfCLsQ6AEwEnoECAUQAw#v=onepage&q=Chaou%CC%88achas&f=false) them as one of the "petite nations" that was raided and attacked, and its inhabitants enslaved, by other native groups on behalf of the English. [The map](https://collections.leventhalmap.org/search/commonwealth:z603vn68p) itself is much more geometric than the previous one, with irrigation systems flowing at right angles through square fields. It shows a plantation on Saint Catherine Creek in Natchez, Mississippi. The plantation formed part of Charles Louis Auguste Fouquet, duc de Belle-Isle's land concessions in provincial Louisiana.
 
-___
+***
 
 ### Battle Map
 
