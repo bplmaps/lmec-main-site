@@ -6,6 +6,13 @@ description: Our new postdoctoral fellow joins the ARGO team and tells us a bit 
 date: 2021-06-22T03:59:00Z
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z550p/5470,938,5289,2252/,1200/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z550p/5470,938,5289,2252/,1200/0/default.jpg
+tags:
+ - interview
+ - ARGO
+ - American Revolution
+ - history
+ - announcement
+ - Nova Scotia
 
 ---
 
@@ -19,7 +26,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z5
   
 My research interests came out of a similar story. I grew up in Halifax, Nova Scotia, which was founded in 1749 as kind of imperial experiment, part of a larger effort to make the far northeast of North America more "British" as less Indigenous and French. I first started digging into that history at another summer job during undergrad. I was a tour guide at [Halifax's oldest burying ground][5], and I became completely fascinated by that early period and especially the links between the new settlers in Halifax and New England, which eventually became my master's thesis.  
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z0373/full/,1200/0/default.jpg" caption="A [1760 view of Halifax](https://collections.leventhalmap.org/search/commonwealth:hx11z036t) from the British Library collections" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vk157/482,3221,7116,2268/,1200/0/default.jpg" caption="A [view of Halifax in the _Atlantic Neptune_](https://collections.leventhalmap.org/search/commonwealth:z603vk14z) from the Library of Congress collection" >}}
 
 My PhD research came out of questions I had about Halifax's founding. Very uncharacteristically for the British, Halifax was founded using Parliamentary money and initially settled with folks directly recruited by the Board of Trade. In my book-in-progress I argue that what the British were doing there was trying to harness and weaponize the dispossessive power of settler families in order to weaken Indigenous and French power and stake a stronger claim to the region. In my work I call this "weaponized settlement." What I mean by that is that folks in power saw white settler families as a means of winning territory and deciding geopolitical disputes in a way analogous to battles. I think it was an idea that actually had broad currency throughout both the British, French, and early American empires and states, but a place like Nova Scotia and elsewhere in Maritime Canada and northern New England makes these kinds of ideas more obvious because they were getting less un-subsidized white migrants than agriculturally rich regions like the Ohio Country. Within that, I'm especially interested in how conflict over where and how white settlers should live in North America influenced the break between the colonies and the Crown in the 1760s and 70s.
 
