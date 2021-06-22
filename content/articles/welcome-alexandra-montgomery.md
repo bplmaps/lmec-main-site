@@ -1,6 +1,6 @@
 ---
 title: An interview with Alexandra Montgomery
-draft: true
+draft: false
 author: Alexandra Montgomery and Garrett Dash Nelson
 description: Our new postdoctoral fellow joins the ARGO team and tells us a bit about how maps have shaped her perspective as a historian
 date: 2021-06-22T03:59:00Z
