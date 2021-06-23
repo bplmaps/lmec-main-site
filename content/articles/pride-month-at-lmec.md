@@ -34,9 +34,9 @@ ___
 
 ___
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149x51j/full/,1200/0/default.jpg" caption="Charles Henry Hitchcock and William Phipps Blake.  [Geological map of the United States](https://collections.leventhalmap.org/search/commonwealth:7h149x508). 1872." class="figure-left" >}}
-
 ### A Rocky Rainbow
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149x51j/full/,1200/0/default.jpg" caption="Charles Henry Hitchcock and William Phipps Blake.  [Geological map of the United States](https://collections.leventhalmap.org/search/commonwealth:7h149x508). 1872." class="figure-left" >}}
 
 [This geological map of the US](https://collections.leventhalmap.org/search/commonwealth:7h149x508) was done by the State Geologist of Maine and later New Hampshire, Charles H. Hitchcock. From 1872, this map represents an increased interest in the geology of the area west of the Mississippi in the late 19th century. The map was completed for an 1870 statistical atlas of the US and uses incredibly bright colors coded to different geologic time periods, from the pink representing the Eozoic (Precambrian), through the rainbow to the red representing the volcanic Cenozoic activity.
 
