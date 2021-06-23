@@ -14,9 +14,7 @@ title = "Dawnland & Dear Georgina Live Online Film Screening and Q & A"
 
 ### About this event
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="[https://player.vimeo.com/video/227346667?title=0&byline=0&portrait=0](https://player.vimeo.com/video/227346667?title=0&byline=0&portrait=0 "https://player.vimeo.com/video/227346667?title=0&byline=0&portrait=0")" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="[https://player.vimeo.com/api/player.js](https://player.vimeo.com/api/player.js "https://player.vimeo.com/api/player.js")"></script>
-
-<p><a href="[https://vimeo.com/227346667](https://vimeo.com/227346667 "https://vimeo.com/227346667")">DAWNLAND Official Trailer</a> from <a href="[https://vimeo.com/upstander](https://vimeo.com/upstander "https://vimeo.com/upstander")">Upstander Project</a> on <a href="[https://vimeo.com](https://vimeo.com "https://vimeo.com")">Vimeo</a>.</p>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/227346667?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 For decades, child welfare authorities have been removing Native American children from their homes to save them from being Indian. In Maine, the first official “truth and reconciliation commission” in the United States begins a historic investigation. DAWNLAND goes behind-the-scenes as this historic body grapples with difficult truths, redefines reconciliation, and charts a new course for state and tribal relations.
 
