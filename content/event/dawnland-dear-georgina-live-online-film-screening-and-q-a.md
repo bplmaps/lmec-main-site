@@ -26,84 +26,84 @@ Learn more about the films and watch the trailer at [upstanderproject.org](https
 
 Note the screening begins with the 54-minute broadcast edition of DAWNLAND followed by DEAR GEORGINA.
 
-EVENT SCHEDULE (all times Eastern)
+**EVENT SCHEDULE (all times Eastern)**
 
-7:00 PM - 7:10 PM
-
-Welcoming Videos and Film Introduction
-
-7:11 PM - 8:05 PM
-
-Dawnland Film (Emmy®-winning broadcast edition)
-
-8:06 PM - 8:20 PM
-
-Dear Georgina Film
-
-8:21 PM - 9:00 PM
-
-Film Team Q & A
+> 7:00 PM - 7:10 PM
+>
+> Welcoming Videos and Film Introduction
+>
+> 7:11 PM - 8:05 PM
+>
+> Dawnland Film (Emmy®-winning broadcast edition)
+>
+> 8:06 PM - 8:20 PM
+>
+> Dear Georgina Film
+>
+> 8:21 PM - 9:00 PM
+>
+> Film Team Q & A
 
 Thank you to the following organizations for supporting the creation of DAWNLAND and DEAR GEORGINA:
 
-W.K. Kellogg Foundation
+> W.K. Kellogg Foundation
+>
+> Vision Maker Media
+>
+> The Charles G Wright Endowment For Humanity
+>
+> Mass Humanities
+>
+> Morton-Kelly Charitable Trust
+>
+> Bertha Foundation
+>
+> Schwab Charitable Fund
+>
+> The Mara & Ricky Sandler Foundation
+>
+> Maine Humanities Council
+>
+> The LEF Foundation
+>
+> Maine Community Foundation
+>
+> Maine Initiatives
+>
+> Points North Institute
+>
+> Good Pitch
+>
+> Doc Society
+>
+> IFP
+>
+> and all our generous Kickstarter backers!
 
-Vision Maker Media
-
-The Charles G Wright Endowment For Humanity
-
-Mass Humanities
-
-Morton-Kelly Charitable Trust
-
-Bertha Foundation
-
-Schwab Charitable Fund
-
-The Mara & Ricky Sandler Foundation
-
-Maine Humanities Council
-
-The LEF Foundation
-
-Maine Community Foundation
-
-Maine Initiatives
-
-Points North Institute
-
-Good Pitch
-
-Doc Society
-
-IFP
-
-and all our generous Kickstarter backers!
-
-FAQs
+**FAQs**
 
 How will I access the screening?
 
-The screening will occur on the OVEE website. Once you register we will automatically send you a link to access the streaming. This link will be sent a couple of days prior to the event.
+> The screening will occur on the OVEE website. Once you register we will automatically send you a link to access the streaming. This link will be sent a couple of days prior to the event.
 
-If you have not received your link the day before the event, please check your spam folder for the email containing the link.
+> If you have not received your link the day before the event, please check your spam folder for the email containing the link.
 
 What device can I use to watch the live stream?
 
-A computer or large screen device that you use to watch movies is ideal. As long as your device is able to stream video from the internet you are all set. A tablet or phone that can stream video will also work. Please test that your device is compatible with the screening platform here: [https://ovee.itvs.org/diagnostics](https://ovee.itvs.org/diagnostics "https://ovee.itvs.org/diagnostics")
+> A computer or large screen device that you use to watch movies is ideal. As long as your device is able to stream video from the internet you are all set. A tablet or phone that can stream video will also work. Please test that your device is compatible with the screening platform here: [https://ovee.itvs.org/diagnostics](https://ovee.itvs.org/diagnostics "https://ovee.itvs.org/diagnostics")
 
 How do I know if I am in the right place for the screening?
 
-Using the link we will provide to you via email prior to the event you will land in a virtual waiting room and once the screening is opened you will automatically begin seeing the video content that is playing there. After you follow the link for the screening you are all set, no further action is needed.
+> Using the link we will provide to you via email prior to the event you will land in a virtual waiting room and once the screening is opened you will automatically begin seeing the video content that is playing there. After you follow the link for the screening you are all set, no further action is needed.
 
 Why does the platform say I am too young to enter the screening?
 
-If you see a message that says you are too young to enter the screening, this is because you have entered a birthdate that puts you under 18 years old. If you have done this by mistake, you must clear the cookies on your current browser, or you may open the screening link in a different browser and enter the correct birthdate.
+> If you see a message that says you are too young to enter the screening, this is because you have entered a birthdate that puts you under 18 years old. If you have done this by mistake, you must clear the cookies on your current browser, or you may open the screening link in a different browser and enter the correct birthdate.
 
 What's the refund policy?
 
-As this event is accepting donations only we do not typically offer refunds. If you are unable to access the screening and would like a refund please email us.
+> As this event is accepting donations only we do not typically offer refunds. If you are unable to access the screening and would like a refund please email us.
 
 Why do I have to enter my birthday on the OVEE streaming platform?
 
-This is to ensure that you are over 18 years old.
+> This is to ensure that you are over 18 years old.
