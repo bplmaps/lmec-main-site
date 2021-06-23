@@ -9,7 +9,7 @@ tags = ["pride", "rainbows", "pictorial maps"]
 title = "Pride Month at LMEC"
 
 +++
-June is Pride month for LGBT+ people, and the BPL has been celebrating. If you've been to the Central Library at Copley, which is now open to visitors, you've seen the large beautiful rainbow flags waving away in the wind. We don't have flags at the Map Center, but we do have maps full of rainbows! Check out this handful of rainbow-y maps for some celebratory summer fun.
+June is Pride month for LGBTQ+ people, and the BPL has been celebrating. If you've been to the Central Library at Copley, which is now open to visitors, you've seen the large beautiful rainbow flags waving away in the wind. We don't have flags at the Map Center, but we do have maps full of rainbows! Check out this handful of rainbow-y maps for some celebratory summer fun.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463863p/3418,510,1453,1168/full/0/default.jpg" caption="Ernest Dudley Chase and Houghton Mifflin Company. [Mercator map of the world](https://collections.leventhalmap.org/search/commonwealth:3f463862d). 1931." class="figure-right" >}}
 
