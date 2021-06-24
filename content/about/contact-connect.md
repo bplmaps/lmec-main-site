@@ -10,9 +10,6 @@ aliases:
 - "/contact_us"
 
 ---
-## Join our mailing list
-
-Our monthly mailing list is a great way to keep track of what's going on at the Center. [Click here](https://visitor.r20.constantcontact.com/manage/optin?v=001ty3slyDjv8WLvGvwSdG8euspYmx7UP1YNPw2RbQHz_d15WTFIS4Ksb90bD2Fx0OBYbhpfZ896VoKbMS6m87TTQGTPsIpdO4e29yiAmPsALE%3D) to subscribe to either or both of our General Interest and Education lists. We will never sell or share your contact information without your permission.
 
 ## Follow us on social media
 
@@ -21,6 +18,13 @@ We post many times a week on social media, with stories and images about maps an
 * [Instagram @bplmaps](https://instagram.com/bplmaps)
 * [Twitter @bplmaps](https://twitter.com/bplmaps)
 * [Facebook @bplmaps](https://facebook.com/bplmaps)
+
+## Join our mailing list
+
+<!-- Begin Constant Contact Inline Form Code -->
+<div class="ctct-inline-form" data-form-id="f678243f-590b-44ec-b039-c05cebf05665"></div>
+<!-- End Constant Contact Inline Form Code -->
+
 
 ## General inquiries
 
