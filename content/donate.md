@@ -7,7 +7,7 @@ type: singleton
 
 ---
 
-<div style="text-align: center;">
+<div style="text-align: center;" class="my-2">
 <a href="#XDTSZHTC" tyle="display: none"></a>
 </div>
 
