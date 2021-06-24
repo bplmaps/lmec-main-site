@@ -13,7 +13,7 @@ title = "Michele Navakas on Liquid Landscapes and the Edges of America, From the
 
 {{< figure src="/uploads/2021-03-31/navakas_headshot.jpeg" caption="" class="figure-right" >}}
 
-Join scholar Michele Navakas as she explores the "liquid landscapes" of places like Florida in the eighteenth century, helping us reframe our understanding of the American Revolutionary period through cartography and landcape history. Navakas examines a rich archive of historical documents that show how diverse groups of people met, struggled, and mixed in regions where boundaries themselves were hard to define.
+Join scholar Michele Navakas as she explores the "liquid landscapes" of places like Florida in the eighteenth century, helping us reframe our understanding of the American Revolutionary period through cartography and landscape history. Navakas examines a rich archive of historical documents that show how diverse groups of people met, struggled, and mixed in regions where boundaries themselves were hard to define.
 
 Michele Currie Navakas is Associate Professor of English at Miami University (Ohio) where she teaches early American literature and environmental humanities. She is the author of [_Liquid Landscape: Geography and Settlement at the Edge of Early America_](https://www.upenn.edu/pennpress/book/15716.html) (University of Pennsylvania Press, 2018), which won the Florida Historical Society's Rembert Patrick Award and Stetson Kennedy Award.
 
