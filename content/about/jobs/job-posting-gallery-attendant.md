@@ -100,15 +100,11 @@ As a mission-driven organization, LMEC endorses the following values:
 -   Commit to integrity, excellence, respect in all our relationships,
     and professional library ethics (including the ALA's Code of Ethics
     and the ACRL Code of Ethics for Special Collections Librarians)
-
 -   Listen to and include community voices, especially those who have
     been less represented
-
 -   Increase diversity, equity, and inclusion in our organization and
     our work with others
-
 -   Work to advance a more just and equitable society
-
 -   Keep our spaces and community services open, welcoming, and "free to
     all"
 
@@ -123,9 +119,7 @@ world.
 Please submit the following via [this application form](https://airtable.com/shroOeIak1a05xJom)
 
 -   A cover letter of no more than two pages (PDF, DOCX, or MD format)
-
--   A CV or résumé
-
+-   A CV or résumé (PDF, DOCX, or MD format)
 -   A list of two references with email and telephone contact
     information
 
