@@ -41,21 +41,15 @@ are 11 am -- 5 pm MTRFS, and 1 pm -- 7 pm W.
 -   Serve as the first face of the Map Center, greeting guests, and
     engaging with them as appropriate on topics related to maps,
     exhibitions, and the library.
-
 -   Maintain visual appearance of gallery and Learning Center by
     refilling brochure racks, reshelving atlases, monitoring visitors'
     behavior, and checking on custodial tasks as necessary.
-
 -   Provide light reference support to visitors, directing questions to
     library staff as necessary.
-
 -   Engage with digital collections in helping patrons explore their own
     interests and questions.
-
 -   Lead gallery tours and occasional talks or workshops
-
 -   Perform general administrative and library tasks
-
 -   Adhere to the policies of the Leventhal Map & Education Center and
     the Boston Public Library.
 
@@ -65,13 +59,10 @@ are 11 am -- 5 pm MTRFS, and 1 pm -- 7 pm W.
     urban planning, architecture, archaeology, political science,
     environmental science, computer science, education, library science,
     museum studies, or a related field.
-
 -   Ability to complete detailed work with a high degree of consistency
     and accuracy
-
 -   Able to respectfully and effectively work with diverse visitors and
     staff
-
 -   Interest in and ability to learn unfamiliar tools, software, and
     hardware
 
