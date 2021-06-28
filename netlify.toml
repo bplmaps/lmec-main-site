@@ -1,5 +1,5 @@
 [build]
-    command = "hugo --config config.toml,hugo-config-netlify.toml
+    command = "hugo --config config.toml,hugo-config-netlify.toml"
     public = "public"
 
 [build.environment]
