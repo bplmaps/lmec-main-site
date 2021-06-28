@@ -83,7 +83,7 @@ weight = 1
 address = "Central Library in Copley Square   \n700 Boylston Street   \nBoston, MA 02116 USA"
 author = "Leventhal Map & Education Center"
 constant_contact_page = "https://visitor.r20.constantcontact.com/manage/optin?v=001ty3slyDjv8WLvGvwSdG8euspYmx7UP1YNPw2RbQHz_d15WTFIS4Ksb90bD2Fx0OBYbhpfZ896VoKbMS6m87TTQGTPsIpdO4e29yiAmPsALE%3D"
-copyright = "All material on this website is licensed under a [Creative Commons BY-NC 2.0 license](]https://creativecommons.org/licenses/by-nc/2.0/) unless specified otherwise.\n"
+copyright = "All material on this website is licensed under a [Creative Commons BY-ND 2.0 license](https://creativecommons.org/licenses/by-nd/2.0/) unless specified otherwise.\n"
 description = "We use maps, geography, and history to explore the connections between places and people in Boston, New England, and beyond. Our collection of a quarter million goegraphic objects, our educational programs, and free exhibitions bring the power of historical geography to everyone."
 email = "info@leventhalmap.org"
 google_analytics_id = "UA-812961-1"

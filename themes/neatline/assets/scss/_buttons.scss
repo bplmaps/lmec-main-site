@@ -107,3 +107,13 @@
     color: $white;
   }
 }
+
+.btn-primary-gradient {
+  background-image: linear-gradient(to right bottom, $primary-color 0%, rgb(160, 28, 28) 51%, $primary-color 100%);
+  transition: 0.5s;
+  background-size: 200% auto;
+
+  &:hover {
+    background-position: right center;
+  }
+}
