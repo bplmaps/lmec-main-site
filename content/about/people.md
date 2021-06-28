@@ -20,6 +20,7 @@ aliases:
 Janet P. Atkins  
 Michael G. Contompasis  
 Charles Cooney  
+Michelle Knight  
 Alex Krieger  
 Khurram Jamil  
 Theodore Landsmark  
@@ -27,6 +28,9 @@ Alan Leventhal, _Chair_
 Alexander Leventhal  
 Ronald P. O’Hanley  
 Richard Pegg  
+Barry L. Ruderman  
+Oscar Santos  
+William J. Schnoor, Esq.  
 Natacha Scott  
 Christian J. Westra, Esq.
 
@@ -48,8 +52,9 @@ Robert M. Melzer
 
 ### Board of Review
 
-Alex Krieger, _Chair_  
+Alex Krieger  
+Sierra Laddusaw  
 Alan Leventhal, _ex officio_  
 Margaret Pearce  
-Richard Pegg  
+Richard Pegg, _Chair_  
 Tim Wallace
