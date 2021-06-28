@@ -29,37 +29,31 @@ h1, .h1 {
   @media (max-width: 575px) {
     h1, .h1 {
       font-size: 35px; } }
-
 h2, .h2 {
   font-size: 40px; }
   @media (max-width: 575px) {
     h2, .h2 {
       font-size: 30px; } }
-
 h3, .h3 {
   font-size: 25px; }
   @media (max-width: 575px) {
     h3, .h3 {
       font-size: 20px; } }
-
 h4, .h4 {
   font-size: 20px; }
   @media (max-width: 575px) {
     h4, .h4 {
       font-size: 18px; } }
-
 h5, .h5 {
   font-size: 18px; }
   @media (max-width: 575px) {
     h5, .h5 {
       font-size: 16px; } }
-
 h6, .h6 {
   font-size: 16px; }
   @media (max-width: 575px) {
     h6, .h6 {
       font-size: 14px; } }
-
 code {
   color: #501966; }
 
@@ -102,7 +96,7 @@ code {
   .btn-primary:hover {
     background-color: #004055; }
 
-.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary.active:not(:disabled):not(.disabled),
 .btn-primary:not(:disabled):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
@@ -136,6 +130,13 @@ code {
   .btn-primary-outline:active {
     background: #054571;
     color: #fff; }
+
+.btn-primary-gradient {
+  background-image: linear-gradient(to right bottom, #054571 0%, #a01c1c 51%, #054571 100%);
+  transition: 0.5s;
+  background-size: 200% auto; }
+  .btn-primary-gradient:hover {
+    background-position: right center; }
 
 body {
   background-color: #fff;
@@ -356,8 +357,7 @@ textarea.form-control {
       background: #054571;
       color: #fff;
       border-color: #054571; }
-    .pagination .page-item:first-child .page-link,
-    .pagination .page-item:last-child .page-link {
+    .pagination .page-item:first-child .page-link, .pagination .page-item:last-child .page-link {
       border-radius: 0; }
     .pagination .page-item .page-link {
       color: #313131; }
@@ -408,7 +408,6 @@ textarea.form-control {
       float: right;
       width: 50%;
       margin-left: 20px; } }
-
 .content a.btn {
   text-decoration: none; }
 
@@ -637,6 +636,9 @@ textarea.form-control {
 .airtable-embed {
   margin: 20px 0 40px 0; }
 
+.donation-card p {
+  font-size: 1.0em; }
+
 .top-header {
   font-size: 12px;
   transition: transform .2s ease;
@@ -652,7 +654,6 @@ textarea.form-control {
   @media (max-width: 991px) {
     .navigation {
       background: #1a1a37; } }
-
 .navbar-brand {
   max-width: 70%; }
 
@@ -667,7 +668,6 @@ textarea.form-control {
     .navbar-nav {
       padding-left: 0;
       background: #1a1a37; } }
-
 .nav-bg {
   background-color: #1a1a37; }
 
@@ -716,7 +716,6 @@ link:focus,
   @media (max-width: 991px) {
     .navbar-expand-lg .navbar-nav .nav-link {
       padding: 20px; } }
-
 .sticky {
   position: fixed;
   top: 0;
@@ -759,7 +758,6 @@ link:focus,
       .navbar .dropdown-menu.show {
         visibility: visible;
         display: block; } }
-
 .navbar .dropdown-item {
   position: relative;
   color: #1e1e4b;
@@ -959,7 +957,6 @@ link:focus,
     @media (max-width: 575px) {
       .newsletter-block {
         padding-left: 15px; } }
-
 .input-wrapper {
   position: relative; }
   .input-wrapper button {
