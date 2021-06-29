@@ -48,12 +48,8 @@ cta:
   enable: true
   announcements:
   - badge: Job posting
-    text: Assistant Director
-    link: https://www.leventhalmap.org/about/jobs/assistant-director/
-  - badge: Job posting
-    text: Geospatial & Cartographic Information Librarian or Assistant Curator of
-      Digital & Participatory Geography
-    link: https://www.leventhalmap.org/about/jobs/librarian-or-assistant-curator/
+    text: Gallery Attendant
+    link: https://www.leventhalmap.org/about/jobs/gallery-attendant/
   - badge: Learning resource
     text: Follow along yourself with our Making Sense of Maps & Data digital coursebook
     link: https://cartinal.leventhalmap.org/guides/making-sense-maps-data/
