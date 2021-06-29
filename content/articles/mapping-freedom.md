@@ -20,4 +20,4 @@ Perhaps most obviously, many people in the colonies were still enslaved in 1776.
 
 Discussions of slavery often focus on the south, including in [this famous map](https://collections.leventhalmap.org/search/commonwealth:w9505r836) of enslaved populations in southern states. Even in states without people enslaved, lots of wealth came from enslavement. In Massachusetts, for example, although slavery was illegal starting in 1783, the clothing mills still operated based on slave-picked cotton, rum for distilleries came from plantations in the Caribbean, and many more of the goods that were shipped through Boston and made it a wealthy port city were created through slave labor.
 
-{{< figure src="https://fedora.digitalcommonwealth.org/fedora/objects/commonwealth:xg94j212b/datastreams/access800/content" caption="" class="figure-right" >}}
+{{< figure src="https://fedora.digitalcommonwealth.org/fedora/objects/commonwealth:q524n5799/datastreams/access800/content" caption="" class="figure-right" >}}
