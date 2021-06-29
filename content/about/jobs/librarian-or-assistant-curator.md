@@ -1,13 +1,13 @@
 ---
-title: "Job Posting: Geospatial & Cartographic Information Librarian or Assistant Curator of Digital & Participatory Geography"
-menu: false
----
+title: 'Job Posting: Geospatial & Cartographic Information Librarian or Assistant
+  Curator of Digital & Participatory Geography'
 
-{{< alert-box type="success" >}} This search is currently **open**. {{< /alert-box >}}
+---
+{{< alert-box type="warning" >}} This search is currently **under review**. The deadline for full consideration has passed, and we are actively reviewing candidates. However, we still welcome applications, though we cannot guarantee full consideration. {{< /alert-box >}}
 
 The **Leventhal Map & Education Center at the Boston Public Library** seeks
-to hire for the position of *either* **Geospatial & Cartographic Information
-Librarian** *or* **Assistant Curator of Digital and Participatory Geography**.
+to hire for the position of _either_ **Geospatial & Cartographic Information
+Librarian** _or_ **Assistant Curator of Digital and Participatory Geography**.
 The title and balance of duties will be determined by the candidate's
 prior training and expertise.
 
@@ -64,19 +64,19 @@ metadata.
 
 ### Required qualifications and skills
 
--   Bachelor's degree
--   *If filled as Cartographic & Geospatial Information Librarian*
-    -   An MLS, MLIS or equivalent degree with a specialization in GIS,
-        cartography, digital data, or similar subject area
--   *If filled as Assistant Curator of Digital & Participatory Geography*
-    -   A PhD or equivalent degree in human geography, GIS, cartography,
-        spatial analysis, media studies, or similar field
--  In exceptional circumstances, a candidate may demonstrate a record of leadership, organizational, and creative skills as a substitute for an advanced degree
--   Demonstrated success working with geospatial information and digital
-    cartography in collaboration with non-expert audiences, including the general public, students of all levels, community groups, and similar audiences
--   Expertise with both proprietary and open-source GIS and cartography
-    software environments, including the Arc suite, QGIS, web mapping
-    tools such as Leaflet or OpenLayers
+* Bachelor's degree
+* _If filled as Cartographic & Geospatial Information Librarian_
+  * An MLS, MLIS or equivalent degree with a specialization in GIS,
+    cartography, digital data, or similar subject area
+* _If filled as Assistant Curator of Digital & Participatory Geography_
+  * A PhD or equivalent degree in human geography, GIS, cartography,
+    spatial analysis, media studies, or similar field
+* In exceptional circumstances, a candidate may demonstrate a record of leadership, organizational, and creative skills as a substitute for an advanced degree
+* Demonstrated success working with geospatial information and digital
+  cartography in collaboration with non-expert audiences, including the general public, students of all levels, community groups, and similar audiences
+* Expertise with both proprietary and open-source GIS and cartography
+  software environments, including the Arc suite, QGIS, web mapping
+  tools such as Leaflet or OpenLayers
 
 ### About the LMEC
 
@@ -94,16 +94,16 @@ relationship between people and places.
 As a mission-driven organization, the Center endorses the following
 values:
 
--   Commit to integrity, excellence, respect in all our relationships,
-    and professional library ethics (including the ALA's Code of Ethics
-    and the ACRL Code of Ethics for Special Collections Librarians)
--   Listen to and include community voices, especially those who have
-    been less represented
--   Increase diversity, equity, and inclusion in our organization and
-    our work with others
--   Work to advance a more just and equitable society
--   Keep our spaces and community services open, welcoming, and "free to
-    all"
+* Commit to integrity, excellence, respect in all our relationships,
+  and professional library ethics (including the ALA's Code of Ethics
+  and the ACRL Code of Ethics for Special Collections Librarians)
+* Listen to and include community voices, especially those who have
+  been less represented
+* Increase diversity, equity, and inclusion in our organization and
+  our work with others
+* Work to advance a more just and equitable society
+* Keep our spaces and community services open, welcoming, and "free to
+  all"
 
 The Center places great value on an organizational culture in which staff members have the flexibility and openness to work with a diverse group of audiences, constituencies, and colleagues. Our work is committed to public service and to innovation that fosters positive change in the world.
 
@@ -125,24 +125,24 @@ This position is subject to a CORI check.
 
 Please submit the following at [via this application form](https://airtable.com/shrKdzN8mttdO8Qml):
 
--   A cover letter of no more than two pages (PDF, DOCX, or MD format)
--   A CV or résumé
--   A list of static or interactive examples of at least 3 of the
-    following types of materials for which you have been a primary
-    contributor:
-    -   Web-based map
-    -   Map or other creative geographic project in print or other
-        physical format
-    -   Participatory data collection effort
-    -   Courses or workshops on data, mapmaking, or information literacy
-    -   Original data sets
-    -   Schema or systems for organizing, describing, and presenting
-        data
-    -   Data analyses or visualizations
-    -   Video, lecture, or other similar presentations for
-        non-specialist audiences
--   A list of 3 professional references, including telephone numbers and
-    email
+* A cover letter of no more than two pages (PDF, DOCX, or MD format)
+* A CV or résumé
+* A list of static or interactive examples of at least 3 of the
+  following types of materials for which you have been a primary
+  contributor:
+  * Web-based map
+  * Map or other creative geographic project in print or other
+    physical format
+  * Participatory data collection effort
+  * Courses or workshops on data, mapmaking, or information literacy
+  * Original data sets
+  * Schema or systems for organizing, describing, and presenting
+    data
+  * Data analyses or visualizations
+  * Video, lecture, or other similar presentations for
+    non-specialist audiences
+* A list of 3 professional references, including telephone numbers and
+  email
 
 Applications will be reviewed on a rolling basis, and the position will
 remain open until filled. **For full consideration, please submit
