@@ -26,4 +26,6 @@ The Fifteenth Amendment is one of the amendments to the Constitution made during
 
 {{< figure src="https://fedora.digitalcommonwealth.org/fedora/objects/commonwealth:js957750m/datastreams/access800/content" caption="" class="figure-left" >}}
 
+The news from Canada recently about the bodies of children found at residential schools is -APPROPRIATE ADJECTIVE-, but Canada is not alone in its genocidal practices against Indigenous people in the Americas. The US also had residential schools which functioned as a way to "kill the Indian, save the man" in each child torn from their families and culture and forced to assimilate or suffer the consequences. 
+
 {{< figure src="https://fedora.digitalcommonwealth.org/fedora/objects/commonwealth:9g54xm053/datastreams/access800/content" caption="" class="figure-right" >}}
