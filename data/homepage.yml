@@ -47,6 +47,9 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Local history event
+    text: South Boston by Map
+    link: https://www.leventhalmap.org/event/south-boston-by-map/
   - badge: Job posting
     text: Gallery Attendant
     link: https://www.leventhalmap.org/about/jobs/gallery-attendant/
