@@ -3,7 +3,6 @@ author = "Rachel Mead"
 backgroundImage = "https://fedora.digitalcommonwealth.org/fedora/objects/commonwealth:9g54xm053/datastreams/access800/content"
 date = 2021-06-29T18:48:36Z
 description = "July 4th is a day we celebrate \"freedom\" in the US. Whose freedom are we celebrating? How has that changed over more than two centuries?"
-draft = true
 image = "https://fedora.digitalcommonwealth.org/fedora/objects/commonwealth:9g54xm053/datastreams/access800/content"
 tags = ["july", "freedom", "independence day"]
 title = "The geography of an incomplete freedom"
