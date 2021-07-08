@@ -14,7 +14,7 @@ The Leventhal Map & Education Center stands on land that was once a water-based 
 
 _Adopted June 17, 2020_
 
-The Norman B. Leventhal Map & Education Center at the Boston Public Library shall inspire curiosity and learning, and foster geographic perspectives on the relationships between people and places, through free and accessible collections and resources, critical interpretation and research, and K-12 and public education.
+The Norman B. Leventhal Map & Education Center at the Boston Public Library inspires curiosity and learning, and fosters geographic perspectives on the relationships between people and places, through free and accessible collections and resources, critical interpretation and research, and K-12 and public education.
 
 ### Values
 
@@ -38,7 +38,7 @@ We are renewed in our commitment to listen and educate ourselves more deeply abo
 * The [Mapping Police Violence](https://mappingpoliceviolence.org/%22%20/t%20%22_blank) project shows how Black people bear a disproportionate share of harm from police violence
 * Closer to home, the Metropolitan Area Planning Commission’s [State of Equity](https://equityagenda.mapc.org/indicators%22%20/t%20%22_blank) report maps patterns of racialized inequity in the Boston region
 
-In our own programs, we commit to examining and confronting these geographic patterns of injustice. We will address the ways that maps have been used as instruments of oppression and tools of dominance, and explore how maps can be used to engender positive change. We will engage and amplify the voices of people of color in our interpretative programs. We will use maps to open discussion of the role of racism in the past and present. Perhaps most importantly, we will connect with and listen to communities of color, ask what more can we do, and do it humbly and justly.
+In our own programs, we commit to examining and confronting these geographic patterns of injustice. We address the ways that maps have been used as instruments of oppression and tools of dominance, and explore how maps can be used to engender positive change. We will engage and amplify the voices of people of color in our interpretative programs. We will use maps to open discussion of the role of racism in the past and present. Perhaps most importantly, we will connect with and listen to communities of color, ask what more can we do, and do it humbly and justly.
 
 This is a process which will take not only individual reflection but a collective effort. We will work with colleagues in libraries, museums, educational institutions, and community groups around the world to build efforts actively dedicated to a more just society.
 
