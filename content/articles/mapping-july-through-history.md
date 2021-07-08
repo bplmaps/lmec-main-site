@@ -15,4 +15,6 @@ title = "Mapping July Through History"
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:dz010v43f/full/,1200/0/default.jpg" caption="[La destruction de la statue royale a Nouvelle Yorck](https://collections.leventhalmap.org/search/commonwealth:dz010v425) (1778)" class="figure-left" >}}
 
-More than a century earlier, the American colonies had gained their independence from Great Britain.
+More than a century earlier, the American colonies had gained their independence from Great Britain. [This print](https://collections.leventhalmap.org/search/commonwealth:dz010v425) imagines the scene after George Washington read the Declaration of Independence to his troops on July 9, 1776, and New Yorkers gathered to tear down this statue of King George III. The card is a vue d'optique, a popular mode of 3d art at the time. A viewer would use a magnifying machine called a zograscope to see the image with the illusion of depth. The perspective and saturated colors of this piece are typical of the form, although often the words would also have been backwards to be read forwards through the zograscope, which usually flipped an image.
+
+{{< figure src="" caption="" class="figure-left" >}}
