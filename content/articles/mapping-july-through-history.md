@@ -2,7 +2,7 @@
 author = "Rachel Mead"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vr29m/full/,1200/0/default.jpg"
 date = 2021-07-08T13:22:47Z
-description = ""
+description = "Let's take a closer look at some July maps from years past"
 draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vr29m/full/,1200/0/default.jpg"
 tags = ["maps of the month", "july", "july 4th"]
