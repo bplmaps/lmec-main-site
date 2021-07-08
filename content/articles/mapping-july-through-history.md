@@ -23,3 +23,7 @@ ___
 
 A popular form from the late 19th century is the bird's-eye view. This type of map looks down at an angle from above a landscape, and often focuses on a specific city. [This bird's-eye view](https://collections.leventhalmap.org/search/commonwealth:wd376400v) is of Camp Wetmore on Oakland Beach, the camp of the Rhode Island militia July 7-11, 1885. Many states maintained militias after the Revolutionary War, and Rhode Island's in particular was used several times to quell labor union strikes.
 ___
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vr29m/full/,1200/0/default.jpg" caption="Christian Friedrich von der Heiden, [Plan der gegend des Ohio Flusses, wo ohnweit da von am 9 July 1755, zwischen denen Franzofichen u. Engl trouppen ein hiziges treffen vorgeffallen, und der Engl Gen. Braddock nebst 1000 geblieben](https://collections.leventhalmap.org/search/commonwealth:z603vr28b) (1760)" class="figure-left" >}}
+
+Jumping back to the 18th century is a map from earlier conflict, [this beautiful plan](https://collections.leventhalmap.org/search/commonwealth:z603vr28b) of the Battle of the Monongahela on July 9, 1755 reveals the failures of English troops to adapt to the new style of warfare in the New World. There were nearly 1000 English casualties, more than two-thirds of the combatants on the English side. George Washington served as a civilian aide-de-camp to General Braddock in the battle.
