@@ -31,4 +31,4 @@ ___
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:xg94j2023/full/,1200/0/default.jpg" caption="[Panoramic view of the Gettysburg battlefield](https://collections.leventhalmap.org/search/commonwealth:xg94j201t) (1866)" class="figure-right" >}}
 
-If you bet on Gettysburg, you'd be right! There are approximately 150 different maps of the Battle of Gettysburg, the turning point of the Civil War. [This panoramic one](https://collections.leventhalmap.org/search/commonwealth:xg94j201t) maps landmarks, locations of specific regiments, and sites of selected casualties. 
+If you bet on Gettysburg, you'd be right! There are approximately 150 different maps of the Battle of Gettysburg, the turning point of the Civil War. [This panoramic one](https://collections.leventhalmap.org/search/commonwealth:xg94j201t) maps landmarks, locations of specific regiments, and sites of selected casualties. It shows a 360 degree view of the events of the battle, marked with numbers that correspond to a key in the center. The Battle of Gettysburg was three days, July 1-3, 1863, and was one of the most significant engagements of the war.
