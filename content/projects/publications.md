@@ -30,6 +30,8 @@ Read the [latest review of the America Transformed catalog](https://bostonpublic
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+_If you would like to order multiple copies in a shipment, please call our office._
+
 ### We Are One
 
 We Are One maps the American road to independence. It explores the tumultuous events that led thirteen colonies to join to forge a new nation. The exhibition takes its title from Benjamin Franklin’s early design for a note of American currency containing the phrase “We Are One.” This presaged the words “E Pluribus Unum” found on the seal of the United States (adopted in 1782) and on all U.S. coins.
