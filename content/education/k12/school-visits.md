@@ -9,7 +9,7 @@ quicklinks:
   linkType: jump
 
 ---
-{{< alert-box type="warning" icon="fas fa-laptop-house" title="Remote Instruction Only" >}} We will be offering in-person on-site and outreach programming in the fall, subject to change if unforeseen restrictions are reestablished. If you are interested in a field trip to the Map Center or having an educator visit your classroom, please fill out the reservation form below and we will get back to you. We have missed you! {{< /alert-box >}}
+{{< alert-box type="warning" icon="fas fa-laptop-house">}} We will be offering in-person on-site and outreach programming in the fall, subject to change if unforeseen restrictions are reestablished. If you are interested in a field trip to the Map Center or having an educator visit your classroom, please fill out the reservation form below and we will get back to you. We have missed you! {{< /alert-box >}}
 
 The Leventhal Map & Education Center offers a menu of pre-designed programs for field trips to our Learning Center, virtual class visits, or in-person outreach to classrooms. Using maps from our collection, students practice using cartographic tools to read maps and think about what maps can and can't tell us about our relationships to places in the past and present. Programs related to our current exhibition are also available. Explore our program topics below. If you don't see quite what you're looking for, we are happy to work with you to create programming that works with your curriculum.
 
