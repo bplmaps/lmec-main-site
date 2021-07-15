@@ -26,7 +26,11 @@ We welcome university teachers to [bring your students to the Map Center](#class
 
 ## Visiting the Map Center with a class{#class-visits}
 
-{{< alert-box type="warning" icon="fas fa-laptop-house" title="Remote instruction only" >}}Due to the continued closure of the BPL and LMEC for the COVID-19 pandemic, all instruction in Spring 2021 will take place remotely.{{</ alert-box >}}
+{{< alert-box type="warning" icon="fas fa-laptop-house" title="Remote instruction until Fall 2021" >}}
+
+In-person visits resume in Fall 2021.
+
+{{</ alert-box >}}
 
 The LMEC curatorial and library team welcomes university classes to “visit” our collections and exhibition remotely. We offer **broad overview lessons** on historical geography, critical cartography, Boston history, and research in the map collections, as well as **thematically-focused discussions** of specific groups of objects or exhibition topics. We also offer **instruction in digital methods** for geography and cartography.
 
@@ -40,11 +44,11 @@ Teaching and learning visits are provided without fee. However, if you have acce
 
 ## Collaborative learning in the digital humanities{#collaborative-learning}
 
-We encourage and support student projects that engage with our physical and digital materials—both historic maps as well as information and data derived from maps. In particular, we partner with teachers and students to produce new interpretive frames around the collection that can then become a part of our own public programs. 
+We encourage and support student projects that engage with our physical and digital materials—both historic maps as well as information and data derived from maps. In particular, we partner with teachers and students to produce new interpretive frames around the collection that can then become a part of our own public programs.
 
 For courses where technical training is not the primary earning objective, we offer highly-scaffolded assignments involving pre-built [digital tools](/projects/digital-projects/) such as [Atlascope](https://atlascope.leventhalmap.org), [Panel Truck](https://geoservices.leventhalmap.org/panel-truck/example.html), and the [Collections Georeferencer](https://collections.leventhalmap.org/georeferencing). In addition to supporting such exercises, we also like to showcase student work in our [articles](https://www.leventhalmap.org/articles/), offering students an opportunity to create pieces which will become part of a creative portfolio.
 
-For courses where students are expected to work with more sophisticated digital and technical skills, we offer numerous resources, from IIIF image API endpoints to interactive maps built in OpenLayers, Leaflet, or Mapbox. 
+For courses where students are expected to work with more sophisticated digital and technical skills, we offer numerous resources, from IIIF image API endpoints to interactive maps built in OpenLayers, Leaflet, or Mapbox.
 
 Contact the [Curator](/about/people/garrett-nelson) to discuss possibilities for collaboration on student digital humanities projects.
 
