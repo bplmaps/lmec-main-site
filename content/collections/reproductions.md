@@ -9,9 +9,9 @@ weight = "6"
 +++
 ## Purchasing a reproduction
 
-{{< alert-box type="warning" title="Reproductions temporarily unavailbale" >}}
+{{< alert-box type="warning" title="Reproductions temporarily unavailable" icon="fas  >}}
 
-In Summer 2021, our reproduction for purchase service will be temporarily unavailable. Please check back in Fall 2021 for updates.
+In Summer 2021, our reproduction for purchase service will be temporarily unavailable. Please check back in Fall 2021 for updates. Reproductions at low or no cost for nonprofit and government agencies are still available through the form below.
 
 {{</ alert-box >}}
 
