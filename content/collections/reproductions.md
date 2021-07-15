@@ -9,6 +9,13 @@ weight = "6"
 +++
 ## Purchasing a reproduction
 
+{{< alert-box type="warning" title="Reproductions temporarily unavailbale" >}}
+
+In Summer 2021, our reproduction for purchase service will be temporarily unavailable. Please check back in Fall 2021 for updates.
+
+{{</ alert-box >}}
+
+<!--
 We offer fine art quality reproductions of all the maps in our Digital Collections which are not under copyright.
 
 To purchase a reproduction, visit our [Digital Collections portal](https://collections.leventhalmap.org). (For more information about searching our digitized material, see [Searching the Collections](https://www.leventhalmap.org/collections/searching/)). If a map in the Digital Collections portal is available for reproduction, you will see a link with the text "Buy a Reproduction" in the "Share" panel. Clicking this button will take you to our reproduction purchase form, where you can select dimensions and paper stock.
@@ -16,6 +23,7 @@ To purchase a reproduction, visit our [Digital Collections portal](https://colle
 Our reproductions are serviced by a third-party vendor. For more information, or to check on the status of an existing order, please email us at [frontdesk@leventhalmap.org](mailto:frontdesk@leventhalmap.org).
 
 ![Screenshot of a Digital Collections page with the Buy a Reproduction button highlighted](/uploads/2021-05-18/reproduction-screenshot.png)
+-->
 
 ## Requesting a low or no cost reproduction
 
