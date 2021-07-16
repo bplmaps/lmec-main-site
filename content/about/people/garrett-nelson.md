@@ -1,6 +1,6 @@
 ---
 title: Garrett Dash Nelson
-description: Curator of Maps & Director of Geographic Scholarship
+description: President & Head Curator
 headshot: images/headshots/garrett-nelson.jpg
 type: person
 contact:
