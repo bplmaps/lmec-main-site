@@ -4,6 +4,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4633
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4634466/2291,2158,3532,2116/1200,/0/default.jpg
 description: Help support the Center's mission with a donation or gift
 type: singleton
+suppressEmailPopup: true
 
 ---
 

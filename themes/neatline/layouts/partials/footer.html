@@ -101,7 +101,9 @@
 <script> var _ctct_m = "d1ed44eb685b1f933362e12e4ae5d103"; </script> -->
 
 
+{{ if not .Params.suppressEmailPopup }}
 <!-- Begin Constant Contact Active Forms -->
 <script> var _ctct_m = "d1ed44eb685b1f933362e12e4ae5d103"; </script>
 <script id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js" async defer></script>
 <!-- End Constant Contact Active Forms -->
+{{ end }}
