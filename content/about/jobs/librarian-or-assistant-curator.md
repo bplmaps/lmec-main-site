@@ -1,7 +1,7 @@
 ---
 title: 'Job Posting: Geospatial & Cartographic Information Librarian or Assistant
   Curator of Digital & Participatory Geography'
-
+menu: false
 ---
 {{< alert-box type="warning" >}} This search is currently **under review**. The deadline for full consideration has passed, and we are actively reviewing candidates. However, we still welcome applications, though we cannot guarantee full consideration. {{< /alert-box >}}
 

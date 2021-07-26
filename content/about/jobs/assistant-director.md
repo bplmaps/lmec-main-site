@@ -1,8 +1,9 @@
 ---
 title: 'Job Posting: Assistant Director'
+menu: false
 
 ---
-{{< alert-box type="warning" >}} This search is currently **under review**. The deadline for full consideration has passed, and we are actively reviewing candidates. However, we still welcome applications, though we cannot guarantee full consideration. {{< /alert-box >}}
+{{< alert-box type="danger" >}} This search is currently **closed.** {{< /alert-box >}}
 
 The **Leventhal Map & Education Center at the Boston Public Library** seeks
 to hire for the position of **Assistant Director.** The Assistant Director,
@@ -123,7 +124,7 @@ timing around relocation.
 
 ### To apply
 
-Please submit the following [via this application form](https://airtable.com/shrBuc7R4iE57CRjR):
+Please submit the following.
 
 * A cover letter of no more than two pages (PDF, DOCX, or MD format)
 * A CV or résumé
@@ -144,7 +145,7 @@ Applications will be reviewed on a rolling basis, and the position will
 remain open until filled. **For full consideration, please submit
 application materials by June 28, 2021.**
 
-<a class="btn btn-lg btn-primary-outline" href="https://airtable.com/shrBuc7R4iE57CRjR">Submit application online</a>
+<a class="btn btn-lg btn-primary-outline disabled">Application closed</a>
 
 ### For more information
 
