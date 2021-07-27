@@ -12,18 +12,21 @@ quicklinks:
   linkType: jump
 
 ---
-{{< alert-box type="warning" icon="fas fa-exclamation-triangle" title="Gallery closed" >}} In-person access to the Map Center gallery remains closed. We anticipate a September 2021 opening of the _Bending Lines_ exhibition. Please visit our [COVID updates page](/covid-info) for more information.
-{{< /alert-box >}}
-
 ## Hours
 
 #### Gallery Hours
+
+{{< alert-box title="Reopening in the fall" >}}
+
+Our gallery reopens to the public on **September 10, 2021** with a physical installation of [_Bending Lines_](https://www.leventhalmap.org/event/exhibition-opening-bending-lines/).
+
+{{</ alert-box >}}
 
 _Currently closed_. Please visit our [Digital Exhibitions](/exhibitions/digital-exhibitions) for a virtual experience of our gallery. Our new exhibition, [_Bending Lines: Maps and Data from Distortion to Deception_](/digital-exhibitions/bending-lines), has been designed for an immersive online-first experience.
 
 #### Research Hours
 
-_Available by advance appointment beginning June 14._ In-person access to the Rare Maps Reading Room is available by advance appointment on limited hours. Please see our [Research Appointments](/research/appointments/) page for more information.
+_Available by advance appointment on weekdays._ In-person access to the Rare Maps Reading Room is available by advance appointment on limited hours. Please see our [Research Appointments](/research/appointments/) page for more information.
 
 ## Directions
 
