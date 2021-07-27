@@ -6,19 +6,15 @@ description: Information about Map Center programs, activities, and services whi
 type: singleton
 
 ---
-### Information about our phased reopening
+### Bending Lines opens September 10; gallery closed until then
 
-Beginning on June 1, the Boston Public Library launches its phased reopening with limited walk-up services and special services by appointment. [Read more about the BPL's reopening plans here](https://www.bpl.org/news/reopening/).
-
-### Bending Lines opens in September; gallery closed until then
-
-Our major exhibition **Bending Lines: Maps and Data from Distortion to Deception** is currently being prepared for a September opening. Until that time, our gallery and learning center remain closed for in-person access. We will announce the opening date for Bending Lines by the end of June.
+Our major exhibition **Bending Lines: Maps and Data from Distortion to Deception** will be available for free public access in our gallery beginning on **Friday, September 10**. Until that time, our gallery and learning center remain closed for in-person access.
 
 Meanwhile, you can visit the [Bending Lines digital exhibition](https://www.leventhalmap.org/digital-exhibitions/bending-lines/), which was designed for an immersive online experience, where you can discover high-resolution maps, interpretive content, and interactive material.
 
-### Limited research appointments begin June 14
+### Research appointments available
 
-Beginning the week of June 14, we will make it possible for researchers to visit the Rare Maps Reading Room by special appointment. Appointments will be limited in time and duration. We also ask that researchers who can effectively use a digitized item, or who can put off their research visit until September, to strongly consider doing so.
+Research appointments in the Rare Maps Reading Room are by advance appointment on weekdays. Appointments will be limited in time and duration. We also ask that researchers who can effectively use a digitized item, or who can put off their research visit until September, to strongly consider doing so.
 
 For more information, see the [Research Appointments](https://www.leventhalmap.org/research/appointments/) page.
 
@@ -34,4 +30,4 @@ The Map Center has made extensive efforts to continue research, educational, and
 * A list of our [Digital Projects](/projects/digital-projects), including the new [Atlascope](https://atlascope.leventhalmap.org) portal for exploring Boston's historical geography
 * All of our [events](/event) are being broadcast digitally for free
 
-{{< alert-box type="info" >}} This information was last updated June 2, 2021. {{< /alert-box >}}
+{{< alert-box type="info" >}} This information was last updated July 27, 2021. {{< /alert-box >}}
