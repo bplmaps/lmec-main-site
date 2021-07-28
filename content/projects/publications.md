@@ -16,21 +16,10 @@ During the 19th century, the United States expanded dramatically westward. Immig
 
 Read the [latest review of the America Transformed catalog](https://bostonpubliclibrary.sharepoint.com/sites/LeventhalMap/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2FLeventhalMap%2FShared%20Documents%2FPR%20and%20Communications%2FAmerica%20Transformed&FolderCTID=0x012000591F239531855844A72F90B322794269) in _Imago Mundi_, or purchase the catalog below. Soft and hard cover bindings are available. Please note that these prices do not yet include shipping.
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="HRFUP73C7EQP2">
-<table>
-<tr><td><input type="hidden" name="on0" value="Types">Types</td></tr><tr><td><select name="os0">
-<option value="Hard Cover Catalog">Hard Cover Catalog $40.00 USD</option>
-<option value="Soft Cover Catalog">Soft Cover Catalog $30.00 USD</option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+<a class="btn btn-primary btn-primary-outline" href="https://buy.stripe.com/3cscPsgAm3Iw4KY000" target="_blank" >Buy Hardcover $40.00</a>
 
-_If you would like to order multiple copies in a shipment, please call our office._
+<a class="btn btn-primary btn-primary-outline" href="https://buy.stripe.com/8wM16K97UbaYdhu8wx" target="_blank" >Buy Softcover $30.00</a>
+
 
 ### We Are One
 
