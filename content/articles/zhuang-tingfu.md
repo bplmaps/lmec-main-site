@@ -31,7 +31,9 @@ edition, now in the MacLean Collection, led to additional encounters, and the pr
 nineteenth century.
 
 {{< figure src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3200:g3200:ct003384/full/pct:10/90/default.jpg"
+
 class="figure-left"
+
 caption="Zhuang Tingfu, 大清統屬職貢萬國經緯地球式方輿古今圖 \[=_The Great Qing Dynasty world map of tribute bearing countries with spherical coordinates, past and present_\] (1794). China, Qing dynasty, Qianlong era, hanging scroll, ink and color on paper, 147 × 105 cm., [Library of Congress](http://hdl.loc.gov/loc.gmd/g3200.ct003384)."
 
 > }}
