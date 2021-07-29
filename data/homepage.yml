@@ -47,15 +47,12 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Local history event
-    text: South Boston by Map
-    link: https://www.leventhalmap.org/event/south-boston-by-map/
+  - badge: Digital tool
+    text: Try out our Insizeor tool for making scale comparisons across the globe
+    link: https://www.leventhalmap.org/projects/insizeor/
   - badge: Job posting
     text: Gallery Attendant
     link: https://www.leventhalmap.org/about/jobs/gallery-attendant/
-  - badge: Learning resource
-    text: Follow along yourself with our Making Sense of Maps & Data digital coursebook
-    link: https://cartinal.leventhalmap.org/guides/making-sense-maps-data/
 audiences:
   enable: true
   audienceGroups:
@@ -117,14 +114,15 @@ audiences:
       link: https://geoservices.leventhalmap.org/cartinal
 frontpageFeature:
   enable: true
-  bg_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xj67p/933,1316,4326,2613/,1200/0/default.jpg
-  title: Visit a map this summer
-  content: Beginning in June, we're making it possible to book research visits to
-    see rare maps by advance appointment
+  bg_image: https://tile.loc.gov/image-services/iiif/service:gmd:gmd376:g3764:g3764b:pm002791/608,834,7037,2742/,1200/0/default.jpg
+  title: The truth is in there
+  content: 'On September 10, our exhibition *Bending Lines: Maps and Data from Distortion
+    to Deception* opens in our free gallery in Copley Square. Learn more about whether
+    maps tell the truth, spin a lie—or something in between.'
   button:
     enable: true
-    label: Make an appointment
-    link: https://www.leventhalmap.org/research/appointments/
+    label: Visit in September
+    link: https://www.leventhalmap.org/event/exhibition-opening-bending-lines/
 event:
   enable: true
   title: Upcoming Events

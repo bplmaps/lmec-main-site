@@ -46,8 +46,8 @@ Our annotated map stories bring our collection alive through narrative, zoomable
 
 ## Georeferencing
 
-Our Digital Collections portal includes a [georeferencing module](https://collections.leventhalmap.org/georeferencing) for transforming historic objects so that they match onto real-world geographies. This crowd-sourced system allows participants to help us enrich our collections so that they can be overlaid onto modern maps and compared with one another. You can also [browse maps that have already been georeferenced](https://collections.leventhalmap.org/search?f%5Bgeoreferenced_bsi%5D%5B%5D=yes).
+{{< alert-box >}}
 
-#### Watch a video about how to georeference
+As of August 2021, our crowdsourced georeferencing interface is being phased out for a next generation replacement. You can still [browse maps that have been georeferenced](https://collections.leventhalmap.org/search?f%5Bgeoreferenced_bsi%5D%5B%5D=yes) or explore the fully-geotransformed [Atlascope collection](https://atlascope.leventhalmap.org).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kIm4X4AVLeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{</ alert-box >}}
