@@ -11,6 +11,14 @@ draft: false
 
 > This is the second in a series of Map Chats by Richard Pegg, Director and Curator of the [MacLean Collection](https://www.macleancollection.com) in Illinois. For more, see the first Map Chat, examining [Kyoto maps of the Tokugawa period](./kyoto-perspectives).
 
+{{< figure 
+ src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3200:g3200:ct003384/full/pct:10/90/default.jpg"
+class="figure-left constrast-120"
+ caption="Zhuang Tingfu, 大清統屬職貢萬國經緯地球式方輿古今圖 \[=*The Great Qing Dynasty world map of tribute bearing countries with spherical coordinates, past and present*\] (1794). China, Qing dynasty, Qianlong era, hanging scroll, ink and color on paper, 147 × 105 cm., [Library of Congress](http://hdl.loc.gov/loc.gmd/g3200.ct003384)."
+
+>}}
+
+
 In 1794 the Chinese scholar Zhuang Tingfu (莊廷尃, 1728--1800) produced a
 large manuscript map of the world with the long title *The Great Qing
 Dynasty world map of tribute bearing countries with spherical
@@ -22,12 +30,6 @@ copied in an abridged manuscript edition. The creation of that later
 edition, now in the MacLean Collection, led to additional encounters, and the printing of these cartographic echoes continued for decades into the middle
 nineteenth century.
 
-{{< figure 
- src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3200:g3200:ct003384/full/pct:10/0/default.jpg"
-
- caption="Zhuang Tingfu, 大清統屬職貢萬國經緯地球式方輿古今圖 \[=*The Great Qing Dynasty world map of tribute bearing countries with spherical coordinates, past and present*\] (1794). China, Qing dynasty, Qianlong era, hanging scroll, ink and color on paper, 147 × 105 cm., [Library of Congress](http://hdl.loc.gov/loc.gmd/g3200.ct003384)."
-
->}}
 
 From the second paragraph of the lengthy lower inscription of Zhuang's 1794
 map, we learn that a British envoy had arrived in Beijing in 1793 to pay

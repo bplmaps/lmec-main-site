@@ -513,6 +513,12 @@ textarea.form-control{
       display: block;
     }
 
+    &.constrast-120 {
+      img {
+        filter: contrast(1.2);
+      }
+    }
+
     @media (min-width: 500px) {
     &.figure-right {
       float: right;
