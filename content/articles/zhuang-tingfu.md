@@ -96,7 +96,7 @@ In 1800 in China, Zhuang abridged his original map and produced a copy using the
 same title: _The Great Qing Dynasty world map of tribute bearing
 countries with spherical coordinates, past and present_. This newly revised
 copy of the map included the
-lower double-hemisphere globular projection maps and the lengthy lower`
+lower double-hemisphere globular projection maps and the lengthy lower
 inscription, here presented with the inscription above the maps. This
 manuscript map, currently in the MacLean Collection, is now mounted as a
 hanging scroll drawn in ink and color on paper.
