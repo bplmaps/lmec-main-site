@@ -57,7 +57,7 @@ src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wp968/full/,12
 caption="Robert Sayer, _A General Map of the World or Terraqueous Globe_, (1787). Wall map, copperplate, 107.5 × 127 cm., [MacLean Collection 26743](https://collections.leventhalmap.org/search/commonwealth:v405wp950)."
 class="figure-right"
 
-> }}
+>}}
 
 One possible map candidate exchanged was Robert Sayer's (ca.
 1724-94) _A General Map of the World or Terraqueous Globe_ from 1787, like this one
@@ -73,7 +73,7 @@ figure
 src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wp968/1387,6427,2360,1211/,1200/0/default.jpg"
 caption="Detail of Bougainville and Cook's routes on Sayer's [_General Map of the World_](https://collections.leventhalmap.org/search/commonwealth:v405wp950)"
 
-> }}
+>}}
 
 Surrounding the maps themselves are insets, typical of European maps of
 the period. These insets cover a wide range of geological topics and celestial mechanics
@@ -85,7 +85,7 @@ figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wp968/9
 caption="Detail of Sayer's [_General Map of the World_](https://collections.leventhalmap.org/search/commonwealth:v405wp950)"
 class="figure-right"
 
-> }}
+>}}
 
 This diagram, entitled the "The Vicissitude of Seasons Explained,"
 illustrates and describes the relative light and darkness according to
@@ -96,7 +96,7 @@ In 1800 in China, Zhuang abridged his original map and produced a copy using the
 same title: _The Great Qing Dynasty world map of tribute bearing
 countries with spherical coordinates, past and present_. This newly revised
 copy of the map included the
-lower double-hemisphere globular projection maps and the lengthy lower
+lower double-hemisphere globular projection maps and the lengthy lower`
 inscription, here presented with the inscription above the maps. This
 manuscript map, currently in the MacLean Collection, is now mounted as a
 hanging scroll drawn in ink and color on paper.
@@ -106,7 +106,7 @@ figure
 src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wp98t/full/,1200/0/default.jpg"
 caption="Zhuang Tingfu, 大清統職貢萬國經緯地球式方輿古今圖 \[=_Great Qing Dynasty world map of tribute bearing countries with spherical coordinates, past and present_\] (1800). China, Qing dynasty, Jiajing period (1796-1821), hanging scroll, ink and color on paper, 60 × 93 cm (image), 211 × 104 cm (overall), [MacLean Collection 29773](https://collections.leventhalmap.org/search/commonwealth:v405wp97j)."
 
-> }}
+>}}
 
 The map was dated and signed, "Jiajing (reign) fifth year (1800), the
 _gengshen_ (year), last month of summer (August). Maps and descriptions
@@ -119,7 +119,7 @@ src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wp98t/97,256,1
 caption="Detail of date and signature on Tingfu's _Great Qing Dynasty world map_"
 class="figure-left"
 
-> }}
+>}}
 > \-->
 
 {{<
@@ -128,7 +128,7 @@ src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wp98t/564,3052
 caption="Detail of South Pacific in Tingfu's [_Great Qing Dynasty world map_](https://collections.leventhalmap.org/search/commonwealth:v405wp97j)"
 class="figure-left"
 
-> }}
+>}}
 
 According to the closing inscription, the map was created in 1800 as
 part of an imperial edition of 31 records prepared exclusively
@@ -160,7 +160,7 @@ figure
 src="/uploads/2021-07-27/Collection_map_016.jpg"
 caption="Kim Jeongho and Choe Hangi, 地球前後圖 \[=_Maps of the front and back \[hemispheres\] of the globe_\], (1834). Korea, Joseon dynasty, woodblock print, ink on paper, 88.2 × 42 cm., [Sungshin Women's University Collection, Seoul](https://www.sungshin.ac.kr/museum/14949/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbXVzZXVtJTJGNDE3MSUyRjg1NjA5JTJGYXJ0Y2xWaWV3LmRvJTNGcGFnZSUzRDElMjZzcmNoQ29sdW1uJTNEJTI2c3JjaFdyZCUzRCUyNmJic0NsU2VxJTNEJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2cmdzRW5kZGVTdHIlM0QlMjZpc1ZpZXdNaW5lJTNEZmFsc2UlMjZwYXNzd29yZCUzRCUyNg%3D%3D)."
 
-> }}
+>}}
 
 Kim and Choe produced a set of four maps consisting of a pair of
 terrestrial maps and a pair of celestial maps. These were entitled _Maps of the
@@ -202,7 +202,7 @@ figure
 src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wq00n/full/,1200/0/default.jpg"
 caption="Zhuang Tingfu, 大清統職貢萬國經緯地球式方輿古今圖 \[_=Great Qing Dynasty world map of tribute bearing countries with spherical coordinates, past and present_\] (1800). China, Qing dynasty, sheet map, ink and color on paper, [MacLean Collection 33486](https://collections.leventhalmap.org/search/commonwealth:v405wp993)"
 
-> }}
+>}}
 
 {{<
 figure
@@ -210,7 +210,7 @@ src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wq00n/11347,15
 caption="Hand-written annotation on the [_Great Qing Dynasty world map_](https://collections.leventhalmap.org/search/commonwealth:v405wp993)"
 class="figure-right"
 
-> }}
+>}}
 
 There is an informative hand-written annotation in English on this map
 confirming a European missionary's encounter with Zhuang's 1800
@@ -232,7 +232,7 @@ figure
 src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wq026/full/,1200/0/default.jpg"
 caption="萬國與圖 \[_=Map of the world_\] (1858). China, Qing dynasty, woodblock print, ink, color and gold on paper, 127 × 75 cm (each), [MacLean Collection 31582](https://collections.leventhalmap.org/search/commonwealth:v405wq01x)"
 
-> }}
+>}}
 
 There are numerous similarities and differences both visually and
 textually between Zhuang's 1800 map and this 1858 map. Visually, the
@@ -260,10 +260,10 @@ Australia, discovered by Europeans in the 1840s.
 {{<
 figure
 src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wq026/1906,756,1421,1606/full/0/default.jpg"
-caption="Chinese character for "map" (_Tu_) in the title of [_Map of the World_](https://collections.leventhalmap.org/search/commonwealth:v405wq01x)"
+caption="Chinese character for \"map\" (_Tu_) in the title of [_Map of the World_](https://collections.leventhalmap.org/search/commonwealth:v405wq01x)"
 class="figure-right"
 
-> }}
+>}}
 
 The 1858 map also has differences that enhance the overall presentation.
 The large separated characters of the title itself are each a pastiche
@@ -290,7 +290,7 @@ src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wq026/291,6649
 caption="Inset detail of [_Map of the World_](https://collections.leventhalmap.org/search/commonwealth:v405wq01x)"
 class="figure-left"
 
-> }}
+>}}
 
 Boldly colored, also resembling a blooming flower, here the sun is red with a
 gold-leaf character for "sun" in the center while the outer ring depicts
