@@ -4,8 +4,8 @@ description: In the late eighteenth century, an encounter between European and C
   cartography left clues about the diffusion of geographic knowledge
 author: Richard Pegg
 date: 2021-07-30T04:00:00.000+00:00
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh344160s/1519,52,6007,2518/,1200/0/default.jpg
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh344160s/1519,52,6007,2518/,1200/0/default.jpg
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wp98t/150,1539,7823,3446/,1200/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wp98t/150,1539,7823,3446/,1200/0/default.jpg
 tags:
 - guest post
 - China
