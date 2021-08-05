@@ -9,6 +9,10 @@ registration = "https://www.eventbrite.com/e/michele-navakas-on-liquid-landscape
 title = "Michele Navakas on Liquid Landscapes and the Edges of America, From the Revolutionary Era to Today"
 
 +++
+### Event video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/zcaOe_X-roc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### A scholar of early America's watery landscapes takes us to the edges of the American Revolutionary Era, with lessons about people and place that resonate today
 
 {{< figure src="/uploads/2021-03-31/navakas_headshot.jpeg" caption="" class="figure-right" >}}
