@@ -3,13 +3,12 @@ author = "Garrett Dash Nelson"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j313/861,1044,4562,1994/,1200/0/default.jpg"
 date = 2021-08-06T19:50:20Z
 description = "Looking at red and blue America in a chart can sometimes be more helpful than seeing it on a conventional geographic map"
-draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j313/861,1044,4562,1994/,1200/0/default.jpg"
 tags = ["dataviz", "political geography", "geospatial", "political mapping"]
 title = "A map-less map of political geography in the US"
 
 +++
-One of the most familiar maps of the United States today is the notorious red and blue map of political geography. It's a visual depiction that seemingly demonstrates how the United States has become polarized along political lines, and it's been used to reinforce stereotypes about what kinds of people live in the se-called "red America" and "blue America."
+One of the most familiar maps of the United States today is the notorious red and blue map of political geography. It's a visual depiction that demonstrates how the United States has become polarized along political lines, and it's been used to reinforce stereotypes about what kinds of people live in so-called "red America" and "blue America."
 
 But is a map really always the best way of showing how voting matches up with other measures of social and economic identity? Maps can present major problems for visual communication: to take just one example, congressional districts in the United States are sized very differently, meaning that a vast district like Wyoming's at-large district looks much more visually prominent on a map than a small urban district in a place like New York.
 
