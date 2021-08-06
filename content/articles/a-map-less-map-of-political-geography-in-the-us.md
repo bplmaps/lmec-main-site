@@ -9,3 +9,12 @@ tags = ["dataviz", "political geography", "geospatial", "political mapping"]
 title = "A map-less map of political geography in the US"
 
 +++
+
+<div class="glitch-embed-wrap" style="height: 600px; width: 100%;">
+  <iframe
+    allow="geolocation; microphone; camera; midi; encrypted-media"
+    src="https://glitch.com/embed/#!/embed/every-different-district?previewSize=100&previewFirst=true&sidebarCollapsed=true"
+    alt="every-different-district on Glitch"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>
