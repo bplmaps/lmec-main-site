@@ -18,10 +18,12 @@ Another challenge with maps is that they can make it difficult to think about wh
 That's why a chart like [the one Alasdair Rae created for UK constituences](https://twitter.com/undertheraedar/status/1390632762105806856?lang=en) can help us see things that a map obscures. In the visualization below, we've taken the 435 Congressional districts in the United States and lined them up in rank order according to several different demographic variables. Try exploring it yourself:
 
 <div class="glitch-embed-wrap" style="height: 600px; width: 100%;">
-  <iframe
-    allow="geolocation; microphone; camera; midi; encrypted-media"
-    src="https://glitch.com/embed/#!/embed/every-different-district?previewSize=100&previewFirst=true&sidebarCollapsed=true"
-    alt="every-different-district on Glitch"
-    style="height: 100%; width: 100%; border: 0;">
-  </iframe>
+<iframe
+allow="geolocation; microphone; camera; midi; encrypted-media"
+src="https://glitch.com/embed/#!/embed/every-different-district?previewSize=100&previewFirst=true&sidebarCollapsed=true"
+alt="every-different-district on Glitch"
+style="height: 100%; width: 100%; border: 0;">
+</iframe>
 </div>
+
+Because this visualization is on Glitch, you can [check out the code and remix it yourself](https://glitch.com/\~every-different-district). Are there any other variables that you think would tell a better story about political polarization in the United States? [Tag us @bplmaps](https://twitter.com/bplmaps) and let us know.
