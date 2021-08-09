@@ -2,7 +2,7 @@
 title = "Job Posting: Gallery Attendant"
 
 +++
-{{< alert-box type="success" >}} This search is currently **open**. {{< /alert-box >}}
+{{< alert-box type="warning" >}} This search is currently **under review**. The deadline for full consideration has passed, and we are actively reviewing candidates. However, we still welcome applications, though we cannot guarantee full consideration. {{< /alert-box >}}
 
 The **Norman B. Leventhal Map & Education Center at the Boston Public
 Library** (LMEC) seeks to hire for the position of **gallery attendant**.
@@ -13,13 +13,13 @@ Map Center's spaces.
 
 This is a **fixed-term position** beginning September 6, 2021 and ending
 on January 21, 2022. The position is hourly, for 14--18 hours per week,
-paid at \$**17.50/hour**.
+paid at $**17.50/hour**.
 
 Gallery attendants staff the front desk of the Map Center gallery,
 greeting and orienting patrons, answering questions, and occasionally
 facilitating interpretive programs in the gallery. For the duration of
-this position, the gallery will be hosting the exhibition *Bending
-Lines: Maps & Data From Distortion to Deception*, which explores the
+this position, the gallery will be hosting the exhibition _Bending
+Lines: Maps & Data From Distortion to Deception_, which explores the
 relationship between maps, truth, and belief. Attendants will report
 directly to the LMEC's Public Engagement & Interpretation Coordinator.
 
@@ -37,33 +37,33 @@ are 11 am -- 5 pm MTRFS, and 1 pm -- 7 pm W.
 
 **Responsibilities**
 
--   Serve as the first face of the Map Center, greeting guests, and
-    engaging with them as appropriate on topics related to maps,
-    exhibitions, and the library.
--   Maintain visual appearance of gallery and Learning Center by
-    refilling brochure racks, reshelving atlases, monitoring visitors'
-    behavior, and checking on custodial tasks as necessary.
--   Provide light reference support to visitors, directing questions to
-    library staff as necessary.
--   Engage with digital collections in helping patrons explore their own
-    interests and questions.
--   Lead gallery tours and occasional talks or workshops
--   Perform general administrative and library tasks
--   Adhere to the policies of the Leventhal Map & Education Center and
-    the Boston Public Library.
+* Serve as the first face of the Map Center, greeting guests, and
+  engaging with them as appropriate on topics related to maps,
+  exhibitions, and the library.
+* Maintain visual appearance of gallery and Learning Center by
+  refilling brochure racks, reshelving atlases, monitoring visitors'
+  behavior, and checking on custodial tasks as necessary.
+* Provide light reference support to visitors, directing questions to
+  library staff as necessary.
+* Engage with digital collections in helping patrons explore their own
+  interests and questions.
+* Lead gallery tours and occasional talks or workshops
+* Perform general administrative and library tasks
+* Adhere to the policies of the Leventhal Map & Education Center and
+  the Boston Public Library.
 
 **Required Qualifications**
 
--   Interest in any of the following disciplines: history, geography,
-    urban planning, architecture, archaeology, political science,
-    environmental science, computer science, education, library science,
-    museum studies, or a related field.
--   Ability to complete detailed work with a high degree of consistency
-    and accuracy
--   Able to respectfully and effectively work with diverse visitors and
-    staff
--   Interest in and ability to learn unfamiliar tools, software, and
-    hardware
+* Interest in any of the following disciplines: history, geography,
+  urban planning, architecture, archaeology, political science,
+  environmental science, computer science, education, library science,
+  museum studies, or a related field.
+* Ability to complete detailed work with a high degree of consistency
+  and accuracy
+* Able to respectfully and effectively work with diverse visitors and
+  staff
+* Interest in and ability to learn unfamiliar tools, software, and
+  hardware
 
 **Work Location**
 
@@ -77,7 +77,7 @@ regarding COVID-19 prevention.
 
 **Compensation**
 
-Hourly, \$17.50/hour.
+Hourly, $17.50/hour.
 
 This position is not eligible for health benefits.
 
@@ -96,16 +96,16 @@ people and places.
 
 As a mission-driven organization, LMEC endorses the following values:
 
--   Commit to integrity, excellence, respect in all our relationships,
-    and professional library ethics (including the ALA's Code of Ethics
-    and the ACRL Code of Ethics for Special Collections Librarians)
--   Listen to and include community voices, especially those who have
-    been less represented
--   Increase diversity, equity, and inclusion in our organization and
-    our work with others
--   Work to advance a more just and equitable society
--   Keep our spaces and community services open, welcoming, and "free to
-    all"
+* Commit to integrity, excellence, respect in all our relationships,
+  and professional library ethics (including the ALA's Code of Ethics
+  and the ACRL Code of Ethics for Special Collections Librarians)
+* Listen to and include community voices, especially those who have
+  been less represented
+* Increase diversity, equity, and inclusion in our organization and
+  our work with others
+* Work to advance a more just and equitable society
+* Keep our spaces and community services open, welcoming, and "free to
+  all"
 
 LMEC places great value on an organizational culture in which staff
 members have the flexibility and openness to work with a diverse group
@@ -117,16 +117,16 @@ world.
 
 Please submit the following via [this application form](https://airtable.com/shroOeIak1a05xJom)
 
--   A cover letter of no more than two pages (PDF, DOCX, or MD format)
--   A CV or résumé (PDF, DOCX, or MD format)
--   A list of two references with email and telephone contact
-    information
+* A cover letter of no more than two pages (PDF, DOCX, or MD format)
+* A CV or résumé (PDF, DOCX, or MD format)
+* A list of two references with email and telephone contact
+  information
 
 For full consideration, please submit your application by **August 6,
 2021**.
 
 For questions or more information about this search, please contact
-<info@leventhalmap.org>.
+[info@leventhalmap.org](mailto:info@leventhalmap.org).
 
 <a class="btn btn-lg btn-primary-outline" href="https://airtable.com/shroOeIak1a05xJom">Submit application online</a>
 
