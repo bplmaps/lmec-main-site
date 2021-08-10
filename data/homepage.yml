@@ -47,12 +47,13 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Newly digitized
+    text: See the Boston Redevelopment Authority collections of 20th century planning
+      maps
+    link: https://collections.leventhalmap.org/collections/commonwealth:7h14cv132
   - badge: Digital tool
     text: Try out our Insizeor tool for making scale comparisons across the globe
     link: https://www.leventhalmap.org/projects/insizeor/
-  - badge: Job posting
-    text: Gallery Attendant
-    link: https://www.leventhalmap.org/about/jobs/gallery-attendant/
 audiences:
   enable: true
   audienceGroups:
