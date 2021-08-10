@@ -26,13 +26,16 @@ _Currently closed_. Please visit our [Digital Exhibitions](/exhibitions/digital-
 
 We will be open on the following days beginning **September 10**:
 
-|Monday|11 am – 5 pm|
-|Tuesday|11 am – 5 pm|
-|Wednesday|1 pm – 7 pm|
-|Thursday|11 am – 5 pm|
-|Friday|11 am – 5 pm|
-|Saturday|11 am – 5 pm|
-|Sunday|Closed|
+| Day  | Hours  |
+| --------- | ------------ |
+| Monday    | 11 am – 5 pm |
+| Tuesday   | 11 am – 5 pm |
+| Wednesday | 1 pm – 7 pm  |
+| Thursday  | 11 am – 5 pm |
+| Friday    | 11 am – 5 pm |
+| Saturday  | 11 am – 5 pm |
+| Sunday  | Closed |
+
 
 #### Research Hours
 
