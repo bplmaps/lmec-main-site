@@ -24,6 +24,16 @@ Our gallery reopens to the public on **September 10, 2021** with a physical inst
 
 _Currently closed_. Please visit our [Digital Exhibitions](/exhibitions/digital-exhibitions) for a virtual experience of our gallery. Our new exhibition, [_Bending Lines: Maps and Data from Distortion to Deception_](/digital-exhibitions/bending-lines), has been designed for an immersive online-first experience.
 
+We will be open on the following days beginning **September 10**:
+
+|Monday|11 am – 5 pm|
+|Tuesday|11 am – 5 pm|
+|Wednesday|1 pm – 7 pm|
+|Thursday|11 am – 5 pm|
+|Friday|11 am – 5 pm|
+|Saturday|11 am – 5 pm|
+|Sunday|Closed|
+
 #### Research Hours
 
 _Available by advance appointment on weekdays._ In-person access to the Rare Maps Reading Room is available by advance appointment on limited hours. Please see our [Research Appointments](/research/appointments/) page for more information.
