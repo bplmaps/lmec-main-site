@@ -20,7 +20,7 @@ This event is co-presented by [BPL Adult Programs](https://bpl.bibliocommons.com
 
 {{< figure src="https://bpl.bibliocommons.com/events/uploads/images/full/c06ce63181bd5b75dbcca38d0012c54a/2021.10.27%20White%20Borders.jpg" class="figure-right" >}}
 
-Reece Jones, the author of **_White Borders: The History of Race and Immigration in the United States from Chinese Exclusion to the Border Wall_** will be in conversation with Garrett Dash Nelson, President & Head Curator, LMEC.
+Reece Jones, the author of _White Borders: The History of Race and Immigration in the United States from Chinese Exclusion to the Border Wall_ will be in conversation with Garrett Dash Nelson, President & Head Curator, LMEC.
 
 #### About the book
 
