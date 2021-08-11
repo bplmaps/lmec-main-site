@@ -32,6 +32,6 @@ Connecting past to present, Jones uncovers the link between the Chinese Exclusio
 
 #### About the author
 
-![img](https://bpl.bibliocommons.com/events/uploads/images/full/d964764f0f1eff1d41c1b7afe350bfe5/2021.10.27%20Reece%20Jones.jpg)
+{{< figure src="https://bpl.bibliocommons.com/events/uploads/images/full/d964764f0f1eff1d41c1b7afe350bfe5/2021.10.27%20Reece%20Jones.jpg" class="figure-left" alt="Headshot of Reece Jones" >}}
 
 **Reece Jones** is a 2021 Guggenheim Fellow and a professor in and the chair of the Department of Geography and Environment at the University of Hawai‘i. He has researched immigration for over 20 years and is the author of _Border Walls_ and _Violent Borders_, over 2 dozen journal articles, and 4 edited books. He is editor in chief of the journal _Geopolitics_ and lives in Honolulu with his family. Connect with him on Twitter at [@ReeceJonesUH](https://twitter.com/ReeceJonesUH).
