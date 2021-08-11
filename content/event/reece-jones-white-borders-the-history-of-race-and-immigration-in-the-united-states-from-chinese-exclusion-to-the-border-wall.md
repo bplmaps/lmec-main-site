@@ -10,7 +10,7 @@ registration = "https://boston-public-library.zoom.us/webinar/register/WN_KNxcsS
 title = "Reece Jones: White Borders: The History of Race and Immigration in the United States from Chinese Exclusion to the Border Wall"
 
 +++
-{{< alert-box title="Co-presented event" class="dark" >}}
+{{< alert-box title="Co-presented event" type="dark" >}}
 
 This event is co-presented by [BPL Adult Programs](https://bpl.bibliocommons.com/events/6112dc258b2801380049766d)
 
