@@ -16,13 +16,13 @@ This event is co-presented by [BPL Adult Programs](https://bpl.bibliocommons.com
 
 {{< /alert-box >}}
 
-#### _White Borders: The History of Race and Immigration in the United States from Chinese Exclusion to the Border Wall_ shows that immigration laws in the US have always been motivated by racial exclusion and the desire to save the idea of a white America.
+#### Geographer Reece Jones shows that immigration laws in the US have always been motivated by racial exclusion and the desire to save the idea of a white America.
 
 {{< figure src="https://bpl.bibliocommons.com/events/uploads/images/full/c06ce63181bd5b75dbcca38d0012c54a/2021.10.27%20White%20Borders.jpg" class="figure-right" >}}
 
-Author Reece Jones will be in conversation with **Garrett Dash Nelson**, President & Head Curator, LMEC.
+Reece Jones, the author of **_White Borders: The History of Race and Immigration in the United States from Chinese Exclusion to the Border Wall_** will be in conversation with Garrett Dash Nelson, President & Head Curator, LMEC.
 
-**About the book**
+#### About the book
 
 “With eloquent prose and masterful storytelling, Reece Jones narrates the hard history of immigration policies of the US settler colonial state that was founded and rooted in white supremacy, from Chinese exclusion to the border wall.” *—Roxanne Dunbar-Ortiz, author of _An Indigenous Peoples’ History of the United States_
 
@@ -30,7 +30,7 @@ Racist anti-immigration policies, from the border wall to the Muslim ban, have l
 
 Connecting past to present, Jones uncovers the link between the Chinese Exclusion laws of the 1880s, the “Keep America American” nativism of the 1920s, and the “Build the Wall” chants initiated by former president Trump in 2016. Along the way, we meet a bizarre cast of characters, such as John Tanton, Cordelia Scaife May, and Stephen Miller, who moved fringe ideas about “white genocide” and “race suicide” into mainstream political discourse. Through gripping stories and in-depth analysis, Jones explores the connections between anti-immigration hate groups and the Republican Party, exposing the lasting impacts of white supremacist ideas on United States law.
 
-**About the author**
+#### About the author
 
 ![img](https://bpl.bibliocommons.com/events/uploads/images/full/d964764f0f1eff1d41c1b7afe350bfe5/2021.10.27%20Reece%20Jones.jpg)
 
