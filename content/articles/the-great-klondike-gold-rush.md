@@ -50,7 +50,7 @@ _The Statist_, a late 19th century British magazine, says in an August 1898 arti
 
 It is also clear throughout history that the conquering of land and the greed for wealth and resources often leads to the dispossession of native peoples; our Leventhal Center educators teach many lessons about land upheaval and native presence, settler colonialism, and land dispossession throughout American history.
 
-{{< figure src="/uploads/2021-08-13/han-territory.png" caption="This [Native Land Map](https://native-land.ca/) shows Indigenous territories and languages across the world. In this image, you can see the traditional Hän lands encompassing the Yukon territory across the border of Alaska and Canada." class="figure-right" >}}
+{{< figure src="/uploads/2021-08-13/han-territory.png" caption="This [Native Land Map](https://native-land.ca/) shows Indigenous territories and languages across the world. In this image, you can see the traditional Hän lands right in the center, encompassing the Yukon territory across the border of Alaska and Canada." class="figure-right" >}}
 
 So what did the gold rush and the development of the mining industry mean for the original inhabitants of the territory? In the Klondike, ingenious groups such as the Native Hän people, semi-nomadic hunters and fishermen, suffered directly as a result of the from the gold rush, facing dispossession, disenfranchisement, and marginalization.
 
