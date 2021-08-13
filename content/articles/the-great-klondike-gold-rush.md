@@ -42,7 +42,7 @@ Philip’s sketch not only lists travel routes, but also a table of distances, t
 
 Scholarly research suggests that the influx of miners to the Yukon region created anxieties among Canadian officials over their possession of parts of the Yukon territory, as they (rightly) expected economic and territorial threats from the United States. In 1898, a man named William Ogilvie, the Canadian Dominions Surveyor and Commissioner of the Yukon, traveled to Great Britain in an effort to mitigate these fears, by tying Canada more closely to the British Empire, creating economic links across the Atlantic, and marketing the Yukon gold fields to British investors, all as an attempt to ward off American influence.
 
- {{< figure src="/uploads/2021-08-13/statist.png" caption="In this excerpt from _The Statist_The Klondyke Parent Pioneer Corp. is listed near the bottom on the right hand side list of investment companies, with its capital listed at £125,000." class="figure-left" >}}
+ {{< figure src="/uploads/2021-08-13/statist.png" caption="In this excerpt from The Statist, the Klondyke Parent Pioneer Corp. is listed near the bottom on the right hand side list of investment companies, with its capital listed at £125,000." class="figure-left" >}}
 
 _The Statist_, a late 19th century British magazine, says in an 1898 article that in July of 1987, “gold mining in the Klondyke region was brought prominently under the notice of British investors,” and that companies quickly formed to “take advantage of the furore.”
 
@@ -51,9 +51,9 @@ _The Statist_, a late 19th century British magazine, says in an 1898 article tha
 
 It is also clear throughout history that the conquering of land and the greed for wealth and resources often leads to the dispossession of native peoples; our Leventhal Center educators teach many lessons about land upheaval and native presence, settler colonialism, and land dispossession throughout American history.
 
-So what did the gold rush and the development of the mining industry mean for the original inhabitants of the territory? In the Klondike, ingenious groups such as the Native Hän people, semi-nomadic hunters and fishermen, suffered directly as a result of the from the gold rush, facing dispossession, disenfranchisement, and marginalization.
-
 {{< figure src="/uploads/2021-08-13/han-territory.png" caption="This Native Land Map shows Indigenous territories and languages across the world. In this image, you can see the traditional Hän lands encompassing the Yukon territory across the border of Alaska and Canada." class="figure-right" >}}
+
+So what did the gold rush and the development of the mining industry mean for the original inhabitants of the territory? In the Klondike, ingenious groups such as the Native Hän people, semi-nomadic hunters and fishermen, suffered directly as a result of the from the gold rush, facing dispossession, disenfranchisement, and marginalization.
 
 They were forcibly moved out of their traditional hunting grounds and into a reserve to make way for the prospectors, who exploited the land by cutting down all the timber and leaving the Hän without resources and in poverty.
 
