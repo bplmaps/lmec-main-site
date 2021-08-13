@@ -18,3 +18,13 @@ On August 16, 1896, three men discovered gold nuggets in the river while camping
 The men staked their claim on that plot of land the following day. News of the gold strike spread fast across Canada and the United States; Rabbit Creek was renamed Bonanza Creek, and even more gold was discovered in a nearby Klondike tributary named Eldorado.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:b5645n31n/2177,433,1777,1526/,1200/0/default.jpg" caption="Prospectors bound for the Klondike gold fields, in Chilkoot Pass, Alaska, 1898. From Digital Commonwealth." class="figure-left" >}}
+
+**Economics, Transportation, Advertising**
+
+Another Gold Rush had begun, and “Klondike Fever” reached its height in the United States in mid-July 1897. Thousands of eager, ordinary people made their way north. For everyday folks, the gold rush was a new chance to turn their lives around; the potential discovery of gold promised a better life for families plagued by financial insecurity and recovering from the Panic of 1893 and Panic of 1896.
+
+For the United States Economy, too, the rush was an opportunity. The U.S. was in the midst of an economic recession and facing high unemployment levels, and the economy benefited both from the spending and innovation during the gold rush – on infrastructure such as railways, steamships and dams; on supplies, goods, and mining machinery, as individuals who didn’t strike it rich sold their stakes to mining companies; and the rapid development of boom towns like Dawson City, where some rich prospectors spent their earnings on lavish lifestyles and entertainment.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc03n/4234,2140,1051,732/,1200/0/default.jpg" caption="\“The Gold and Coalfields of Alaska\” from the U.S. Geological Survey in 1898 shows deposits of resources (both gold and coal in this case), as well as steamer routes and trails. " class="figure-right" >}}
+
+The rush also led to the development and use of newly constructed railway and steamship routes, with railroads and steamer companies competing for travelers. (A newly constructed Yukon Route Railway, built in 1899, cost 25 cents per mile, and was estimated at the time to be the most expensive train in the world.) Both the US government and private companies were doing everything they could to promote the Yukon territory as a land of opportunity, and maps were an important tool to do so. As we discuss in our _Bending Lines_ exhibition, companies throughout time have used maps to advertise products, lure in financial investment, and gain customers and consumers. Several maps in our collection show that this is the case, too, in regards to the Klondike Gold Rush. Two maps illustrate this well:
