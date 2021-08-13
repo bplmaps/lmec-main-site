@@ -17,4 +17,4 @@ On August 16, 1896, three men discovered gold nuggets in the river while camping
 
 The men staked their claim on that plot of land the following day. News of the gold strike spread fast across Canada and the United States; Rabbit Creek was renamed Bonanza Creek, and even more gold was discovered in a nearby Klondike tributary named Eldorado.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:b5645n31n/85,88,4189,2056/,1200/0/default.jpg" caption="Prospectors bound for the Klondike gold fields, in Chilkoot Pass, Alaska, 1898. From Digital Commonwealth." class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:b5645n31n/2177,433,1777,1526/,1200/0/default.jpg" caption="Prospectors bound for the Klondike gold fields, in Chilkoot Pass, Alaska, 1898. From Digital Commonwealth." class="figure-left" >}}
