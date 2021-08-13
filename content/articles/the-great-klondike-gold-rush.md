@@ -43,13 +43,16 @@ The Statist, a late 19th century British magazine, says in an 1898 article that 
 
 **Native Peoples and Land Dispossession**
 
-It is also clear throughout history that the conquering of land and the greed for wealth and resources often leads to the dispossession of native peoples; our Leventhal Center educators teach many lessons about land upheaval and native presence, settler colonialism, and land dispossession throughout American history. 
+It is also clear throughout history that the conquering of land and the greed for wealth and resources often leads to the dispossession of native peoples; our Leventhal Center educators teach many lessons about land upheaval and native presence, settler colonialism, and land dispossession throughout American history.
 
-So what did the gold rush and the development of the mining industry mean for the original inhabitants of the territory? In the Klondike, ingenious groups such as the Native Hän people, semi-nomadic hunters and fishermen, suffered directly as a result of the from the gold rush, facing dispossession, disenfranchisement, and marginalization. They were forcibly moved out of their traditional hunting grounds and into a reserve to make way for the prospectors, who exploited the land by cutting down all the timber and leaving the Hän without resources and in poverty.
+So what did the gold rush and the development of the mining industry mean for the original inhabitants of the territory? In the Klondike, ingenious groups such as the Native Hän people, semi-nomadic hunters and fishermen, suffered directly as a result of the from the gold rush, facing dispossession, disenfranchisement, and marginalization. 
+
+{{< figure src="/uploads/2021-08-13/han-territory.png" caption="This Native Land Map shows Indigenous territories and languages across the world. In this image, you can see the traditional Hän lands encompassing the Yukon territory across Alaska and Canada." class="figure-right" >}}
+
+They were forcibly moved out of their traditional hunting grounds and into a reserve to make way for the prospectors, who exploited the land by cutting down all the timber and leaving the Hän without resources and in poverty.
 
 **Conclusion**
 
 In the summer of 1899, news arrived that gold dust had been discovered in Nome, Alaska, triggering a mass exodus from the Yukon. America’s last gold rush was over. Carmack and his family became rich off his initial discovery, leaving the Yukon with $1 million worth of gold, but many other individuals left with nothing. Large-scale gold mining in the Yukon Territory didn’t end until 1966, and today some small gold mines still operate there. Like previous gold booms of the West, the Klondike rush ended almost as quickly as it began, and these maps remain relics of a short-lived moment of mass migration and individual opportunity, but also the longer-term stories of aggressive economic competition, questions of land and resource possession, and the unfortunate legacy of the displacement and abuse of indigenous populations.
 
-  
- You can view these maps in detail in our Digital Collections, and explore the interactive Native Land map at: [https://native-land.ca/](https://native-land.ca/ "https://native-land.ca/")
+You can view these maps in detail in our Digital Collections, and explore the interactive Native Land map at: [https://native-land.ca/](https://native-land.ca/ "https://native-land.ca/")
