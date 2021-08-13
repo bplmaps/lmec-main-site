@@ -44,7 +44,7 @@ Scholarly research suggests that the influx of miners to the Yukon region create
 
  {{< figure src="/uploads/2021-08-13/statist.png" caption="In this excerpt from The Statist, the Klondyke Parent Pioneer Corp. is listed near the bottom on the right hand side list of investment companies, with its capital listed at £125,000." class="figure-left" >}}
 
-_The Statist_, a late 19th century British magazine, says in an August 1898 article that in July of 1897, “gold mining in the Klondyke region was brought prominently under the notice of British investors,” and that companies quickly formed to “take advantage of the furore" that was taking place for both individuals and mining companies on both sides of the Atlantic.
+_The Statist_, a late 19th century British magazine, says in an August 1898 article that in July of 1897, “gold mining in the Klondyke region was brought prominently under the notice of British investors,” and that companies quickly formed to “take advantage of the furore" that was taking place in both individuals and mining companies on both sides of the Atlantic.
 
 **Native Peoples and Land Dispossession**
 
@@ -56,7 +56,7 @@ So what did the gold rush and the development of the mining industry mean for th
 
 They were forcibly moved out of their traditional hunting grounds and into a reserve to make way for the prospectors, who exploited the land by cutting down all the timber and leaving the Hän without resources and in poverty.
 
-**Conclusion**
+**The End of the Rush**
 
 In the summer of 1899, news arrived that gold dust had been discovered in Nome, Alaska, triggering a mass exodus from the Yukon. America’s last gold rush was over. Carmack and his family became rich off his initial discovery, leaving the Yukon with $1 million worth of gold, but many other individuals left with nothing. Large-scale gold mining in the Yukon Territory didn’t end until 1966, and today some small gold mines still operate there. Like previous gold booms of the West, the Klondike rush ended almost as quickly as it began, and these maps remain relics of a short-lived moment of mass migration and individual opportunity, but also the longer-term stories of aggressive economic competition, questions of land and resource possession, and the unfortunate legacy of the displacement and abuse of indigenous populations.
 
