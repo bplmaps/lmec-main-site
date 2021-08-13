@@ -44,7 +44,8 @@ Scholarly research suggests that the influx of miners to the Yukon region create
 
  {{< figure src="/uploads/2021-08-13/statist.png" caption="The Klondyke Parent Pioneer Corp. is listed near the bottom on the right hand side, with its capital listed at £125,000." class="figure-left" >}}
 
-The Statist, a late 19th century British magazine, says in an 1898 article that in July of 1987, “gold mining in the Klondike was brought prominently under the notice of British investors,” and that companies quickly formed to “take advantage of the furore” and attract investors.
+The Statist, a late 19th century British magazine, says in an 1898 article that in July of 1987, “gold mining in the Klondyke region was brought prominently under the notice of British investors,” and that companies quickly formed to “take advantage of the furore.”
+
 
 **Native Peoples and Land Dispossession**
 
