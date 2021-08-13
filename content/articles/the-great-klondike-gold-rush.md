@@ -47,7 +47,7 @@ It is also clear throughout history that the conquering of land and the greed fo
 
 So what did the gold rush and the development of the mining industry mean for the original inhabitants of the territory? In the Klondike, ingenious groups such as the Native Hän people, semi-nomadic hunters and fishermen, suffered directly as a result of the from the gold rush, facing dispossession, disenfranchisement, and marginalization. 
 
-{{< figure src="/uploads/2021-08-13/han-territory.png" caption="This Native Land Map shows Indigenous territories and languages across the world. In this image, you can see the traditional Hän lands encompassing the Yukon territory across Alaska and Canada." class="figure-right" >}}
+{{< figure src="/uploads/2021-08-13/han-territory.png" caption="This Native Land Map shows Indigenous territories and languages across the world. In this image, you can see the traditional Hän lands encompassing the Yukon territory across the border of Alaska and Canada." class="figure-right" >}}
 
 They were forcibly moved out of their traditional hunting grounds and into a reserve to make way for the prospectors, who exploited the land by cutting down all the timber and leaving the Hän without resources and in poverty.
 
