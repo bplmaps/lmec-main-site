@@ -25,6 +25,8 @@ Another Gold Rush had begun, and “Klondike Fever” reached its height in the 
 
 For the United States Economy, too, the rush was an opportunity. The U.S. was in the midst of an economic recession and facing high unemployment levels, and the economy benefited both from the spending and innovation during the gold rush – on infrastructure such as railways, steamships and dams; on supplies, goods, and mining machinery, as individuals who didn’t strike it rich sold their stakes to mining companies; and the rapid development of boom towns like Dawson City, where some rich prospectors spent their earnings on lavish lifestyles and entertainment.
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc03n/1549,643,2537,1543/,1200/0/default.jpg" caption="" class="figure-right" >}}
+
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc03n/4234,2140,1051,732/,1200/0/default.jpg" caption="“The Gold and Coalfields of Alaska” map from the U.S. Geological Survey in 1898 shows deposits of resources (both gold and coal in this case), as well as steamer routes and trails. " class="figure-right" >}}
 
 The rush also led to the development and use of newly constructed railway and steamship routes, with railroads and steamer companies competing for travelers. (A newly constructed Yukon Route Railway, built in 1899, cost 25 cents per mile, and was estimated at the time to be the most expensive train in the world.) Both the US government and private companies were doing everything they could to promote the Yukon territory as a land of opportunity, and maps were an important tool to do so. As we discuss in our _Bending Lines_ exhibition, companies throughout time have used maps to advertise products, lure in financial investment, and gain customers and consumers, just as these examples do.
@@ -44,7 +46,7 @@ The Statist, a late 19th century British magazine, says in an 1898 article that 
 
 It is also clear throughout history that the conquering of land and the greed for wealth and resources often leads to the dispossession of native peoples; our Leventhal Center educators teach many lessons about land upheaval and native presence, settler colonialism, and land dispossession throughout American history.
 
-So what did the gold rush and the development of the mining industry mean for the original inhabitants of the territory? In the Klondike, ingenious groups such as the Native Hän people, semi-nomadic hunters and fishermen, suffered directly as a result of the from the gold rush, facing dispossession, disenfranchisement, and marginalization. 
+So what did the gold rush and the development of the mining industry mean for the original inhabitants of the territory? In the Klondike, ingenious groups such as the Native Hän people, semi-nomadic hunters and fishermen, suffered directly as a result of the from the gold rush, facing dispossession, disenfranchisement, and marginalization.
 
 {{< figure src="/uploads/2021-08-13/han-territory.png" caption="This Native Land Map shows Indigenous territories and languages across the world. In this image, you can see the traditional Hän lands encompassing the Yukon territory across the border of Alaska and Canada." class="figure-right" >}}
 
