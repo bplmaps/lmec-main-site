@@ -47,6 +47,7 @@ Scholarly research suggests that the influx of miners to the Yukon region create
 _The Statist_, a late 19th century British magazine, says in an 1898 article that in July of 1987, “gold mining in the Klondyke region was brought prominently under the notice of British investors,” and that companies quickly formed to “take advantage of the furore.”
 
 
+
 **Native Peoples and Land Dispossession**
 
 It is also clear throughout history that the conquering of land and the greed for wealth and resources often leads to the dispossession of native peoples; our Leventhal Center educators teach many lessons about land upheaval and native presence, settler colonialism, and land dispossession throughout American history.
