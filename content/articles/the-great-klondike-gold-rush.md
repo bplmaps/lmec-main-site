@@ -13,9 +13,9 @@ On August 16, 1896, gold was discovered in Alaska, sparking the last great gold 
 
 Maps, of course, have always played a role in the exploration of new lands. Both of our most recent exhibitions, _Bending Lines,_ and _America Transformed,_ emphasize how maps have long been used not only as a tool used to claim territory, but to find and exploit resources, attain wealth, and even gain control of people. This article will show how these themes played out during the short-lived Klondike Gold Rush of the 1890s, using several maps from the Leventhal Collections.
 
-On August 16, 1896, three men discovered gold nuggets in the river while camping and fishing near Rabbit Creek in the Klondike River territory: American prospector George Carmack, and two Tagish First Nation members, Keish (Skookum Jim), who was Carmack’s brother-in-law, and Káa Goox (Dawson Charlie). It is unclear which man made the discovery of the gold nuggets; most historians believe that Skookum Jim spotted it first, but that Carmack was named as the “official” finder, as the men feared authorities would not recognize an indigenous claimant.
-
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:b5645n31n/2177,433,1777,1526/,1200/0/default.jpg" caption="Prospectors bound for the Klondike gold fields, in Chilkoot Pass, Alaska, 1898. From Digital Commonwealth." class="figure-left" >}}
+
+On August 16, 1896, three men discovered gold nuggets in the river while camping and fishing near Rabbit Creek in the Klondike River territory: American prospector George Carmack, and two Tagish First Nation members, Keish (Skookum Jim), who was Carmack’s brother-in-law, and Káa Goox (Dawson Charlie). It is unclear which man made the discovery of the gold nuggets; most historians believe that Skookum Jim spotted it first, but that Carmack was named as the “official” finder, as the men feared authorities would not recognize an indigenous claimant.
 
 The men staked their claim on that plot of land the following day. News of the gold strike spread fast across Canada and the United States; Rabbit Creek was renamed Bonanza Creek, and even more gold was discovered in a nearby Klondike tributary named Eldorado.
 
