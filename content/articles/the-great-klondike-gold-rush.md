@@ -42,9 +42,9 @@ Philip’s sketch not only lists travel routes, but also a table of distances, t
 
 Scholarly research suggests that the influx of miners to the Yukon region created anxieties among Canadian officials over their possession of parts of the Yukon territory, as they (rightly) expected economic and territorial threats from the United States. In 1898, a man named William Ogilvie, the Canadian Dominions Surveyor and Commissioner of the Yukon, traveled to Great Britain in an effort to mitigate these fears, by tying Canada more closely to the British Empire, creating economic links across the Atlantic, and marketing the Yukon gold fields to British investors, all as an attempt to ward off American influence.
 
- {{< figure src="/uploads/2021-08-13/statist.png" caption="The Klondyke Parent Pioneer Corp. is listed near the bottom on the right hand side, with its capital listed at £125,000." class="figure-left" >}}
+ {{< figure src="/uploads/2021-08-13/statist.png" caption="In this excerpt from _The Statist_The Klondyke Parent Pioneer Corp. is listed near the bottom on the right hand side list of investment companies, with its capital listed at £125,000." class="figure-left" >}}
 
-The Statist, a late 19th century British magazine, says in an 1898 article that in July of 1987, “gold mining in the Klondyke region was brought prominently under the notice of British investors,” and that companies quickly formed to “take advantage of the furore.”
+_The Statist_, a late 19th century British magazine, says in an 1898 article that in July of 1987, “gold mining in the Klondyke region was brought prominently under the notice of British investors,” and that companies quickly formed to “take advantage of the furore.”
 
 
 **Native Peoples and Land Dispossession**
