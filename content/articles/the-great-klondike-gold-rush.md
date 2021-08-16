@@ -9,7 +9,6 @@ tags = ["collections", "US History", "native lands", "territory", "gold rush"]
 title = "The Great Klondike Gold Rush"
 
 +++
-
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:b5645n31n/2177,433,1777,1526/,1200/0/default.jpg" caption="Prospectors bound for the Klondike gold fields, in Chilkoot Pass, Alaska, 1898. [Digital Commonwealth](https://www.digitalcommonwealth.org/search/commonwealth:b5645n30c)." class="figure-left" >}}
 
 On August 16, 1896, three men discovered gold nuggets in the river while camping and fishing near Rabbit Creek in the Klondike River territory: American prospector George Carmack, and two Tagish people, Keish (Skookum Jim), who was Carmack’s brother-in-law, and Káa Goox (Dawson Charlie). It's unclear which man made the discovery of the gold nuggets; most historians believe that Skookum Jim spotted it first, but that Carmack was named as the “official” finder, as the men feared authorities would not recognize an indigenous claimant.
@@ -41,8 +40,7 @@ Philip’s sketch not only lists travel routes, but also a table of distances, t
 
 Scholarly research suggests that the influx of miners to the Yukon region created anxieties among Canadian officials over their possession of parts of the Yukon territory, as they (rightly) expected economic and territorial threats from the United States. In 1898, a man named William Ogilvie, the Canadian Dominions Surveyor and Commissioner of the Yukon, traveled to Great Britain in an effort to mitigate these fears, by tying Canada more closely to the British Empire, creating economic links across the Atlantic, and marketing the Yukon gold fields to British investors, all as an attempt to ward off American influence.
 
-
-_The Statist_, a late 19th century British magazine, wrote in an August 1898 article that in July of 1897, “gold mining in the Klondyke region was brought prominently under the notice of British investors,” and that companies quickly formed to “take advantage of the furore" that was taking place in both individuals and mining companies on both sides of the Atlantic.
+_The Statist_, a late 19th century British magazine, wrote in an [August 1898 article](https://books.google.com/books?id=y-pAAQAAMAAJ&pg=PA273&lpg=PA273&dq=Klondyke+Parent+Pioneer+Corporation&source=bl&ots=SnI1zb7fmy&sig=ACfU3U3uVHJ5TlzHMPLJmX1h3K_W4t1X1w&hl=en&sa=X&ved=2ahUKEwjU_O-n8ZzyAhVtElkFHTubBioQ6AF6BAgWEAM#v=onepage&q=Klondyke%20Parent%20Pioneer%20Corporation&f=false) that in July of 1897, “gold mining in the Klondyke region was brought prominently under the notice of British investors,” and that companies quickly formed to “take advantage of the furore" that was taking place in both individuals and mining companies on both sides of the Atlantic.
 
 {{< figure src="/uploads/2021-08-13/statist.png" caption="In this excerpt from The Statist, the Klondyke Parent Pioneer Corp. is listed near the bottom on the right hand side list of investment companies, with its capital listed at £125,000." >}}
 
