@@ -9,6 +9,13 @@ slider:
   - https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp87h/2014,670,3931,2970/,2000/0/default.jpg
   - https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fb18t/1721,2483,2741,2239/,2000/0/default.jpg
   slider_item:
+  - title: Maps can open new worlds
+    animation_in: left
+    animation_out: right
+    button:
+      enable: true
+      label: Donate to our matching campaign
+      link: "http://www.leventhalmap.org/donate/?form=MATCHCAMPAIGN"
   - title: Preserving the past and advancing the future of maps
     content: A quarter million maps from the fifteenth century to the present tell
       the stories of Boston and the world
@@ -47,13 +54,12 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Newly digitized
-    text: See the Boston Redevelopment Authority collections of 20th century planning
-      maps
-    link: https://collections.leventhalmap.org/collections/commonwealth:7h14cv132
-  - badge: Digital tool
-    text: Try out our Insizeor tool for making scale comparisons across the globe
-    link: https://www.leventhalmap.org/projects/insizeor/
+  - badge: Now booking
+    text: Plan a school visit in Fall 2021
+    link: /education/k12/school-visits/
+  - badge: Data visualization
+    text: See how demographics and politics align in the United States with our Every Different District interactive
+    link: https://every-different-district.glitch.me
 audiences:
   enable: true
   audienceGroups:

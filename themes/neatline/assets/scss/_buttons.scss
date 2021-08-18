@@ -117,3 +117,21 @@
     background-position: right center;
   }
 }
+
+.btn-emphasis-bounce {
+
+    animation-name: bounce1;
+    animation-timing-function: linear;
+    animation-duration: 0.5s;
+    animation-iteration-count: 3;
+
+}
+
+@keyframes bounce1 {
+  0%   { transform: translateY(0); }
+  25%  { transform: translateY(-3px); }
+  50% { transform: translateY(0); }
+  75% { transform: translateY(3px); }
+  100% { transform: translateY(0px); }
+
+}
