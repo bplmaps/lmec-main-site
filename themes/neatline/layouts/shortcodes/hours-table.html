@@ -1,0 +1,27 @@
+<div>
+    <table>
+        <thead>
+            <tr>
+                <td>Day</td>
+                <td>Hours</td>
+            </tr>
+        </thead>
+        <tbody>
+            {{ range .Site.Data.hours.weekly }}
+
+            <tr>
+                <td>{{ .day }}</td>
+                <td>
+                    {{ with .special }}
+                     {{ . }}
+                    {{ else }}
+                    {{ .open }} – {{ .close }}
+                    {{ end }}</td>
+            </tr>
+ 
+{{ end }}
+
+        </tbody>
+    </table>
+
+</div>

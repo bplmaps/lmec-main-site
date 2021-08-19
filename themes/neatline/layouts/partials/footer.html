@@ -31,7 +31,7 @@
       </div>
       <div class="row">
 
-        <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
+        <div class="col-lg-3 col-sm-6 mb-5 mb-lg-0">
           
           
           <ul class="list-unstyled">
@@ -40,8 +40,24 @@
             <li class="mb-4">{{ site.Params.mobile | markdownify }}</li>
           </ul>
         </div>
+
+        <div class="col-lg-3 col-sm-6 mb-5">
+          <div class="mb-3">Gallery Hours {{ with .Site.Data.hours.specialNote }}<i>{{ . }}</i>{{ end }}</div>
+          <ul class="list-unstyled">
+          {{ range .Site.Data.hours.weekly }}
+          <li class="mb-1">
+{{ .day }}: 
+
+                {{ with .special }}
+                 {{ . }}
+                {{ else }}
+                {{ .open }} – {{ .close }}
+                {{ end }}</li>
+          {{ end }}
+          </ul>
+        </div>
         <!-- company -->
-        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+        <div class="col-lg-3 col-sm-6 mb-5 mb-md-0">
 
           <ul class="list-unstyled">
             {{ range site.Menus.main }}
@@ -52,7 +68,7 @@
           </ul>
         </div>
         <!-- links -->
-        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+        <div class="col-lg-3 col-sm-6 col-6 mb-5 mb-md-0">
           <ul class="list-unstyled text-light">
             {{ range site.Menus.footer }}
             <li class="mb-3"><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>

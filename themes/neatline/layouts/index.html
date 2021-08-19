@@ -67,6 +67,11 @@
           <a href="{{ .link }}">{{ .text | markdownify }}</a></li>
 
           {{ end }}
+          
+          {{ if $data.homepage.todaysHours }}
+          {{ $today := now.Format "Monday"}}
+          <li class="mb-3"><span class="badge badge-secondary badge-light font-secondary  whats-new-badge">Today’s hours</span> {{ $today }} {{ range $.Site.Data.hours.weekly }} {{ if eq .day $today }}{{ if .special }}{{ . }}{{ else }}{{ .open }} – {{.close }}{{ end }} {{ end }}{{ end }} · <a href="./about/hours-directions">More hours</a></a></li>
+          {{ end }}
         </ul>
       </div>
     </div>
