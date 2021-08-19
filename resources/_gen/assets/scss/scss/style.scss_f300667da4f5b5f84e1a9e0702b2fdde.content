@@ -96,7 +96,7 @@ code {
   .btn-primary:hover {
     background-color: #004055; }
 
-.btn-primary.active:not(:disabled):not(.disabled),
+.btn-primary:not(:disabled):not(.disabled).active,
 .btn-primary:not(:disabled):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
@@ -137,6 +137,24 @@ code {
   background-size: 200% auto; }
   .btn-primary-gradient:hover {
     background-position: right center; }
+
+.btn-emphasis-bounce {
+  animation-name: bounce1;
+  animation-timing-function: linear;
+  animation-duration: 0.5s;
+  animation-iteration-count: 3; }
+
+@keyframes bounce1 {
+  0% {
+    transform: translateY(0); }
+  25% {
+    transform: translateY(-3px); }
+  50% {
+    transform: translateY(0); }
+  75% {
+    transform: translateY(3px); }
+  100% {
+    transform: translateY(0px); } }
 
 body {
   background-color: #fff;
@@ -496,6 +514,8 @@ textarea.form-control {
     margin-left: auto;
     margin-right: auto;
     display: block; }
+  .content figure.constrast-120 img {
+    filter: contrast(1.2); }
   @media (min-width: 500px) {
     .content figure.figure-right {
       float: right;
