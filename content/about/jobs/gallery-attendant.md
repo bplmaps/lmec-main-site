@@ -1,8 +1,9 @@
 +++
 title = "Job Posting: Gallery Attendant"
-
+menu = false
 +++
-{{< alert-box type="warning" >}} This search is currently **under review**. The deadline for full consideration has passed, and we are actively reviewing candidates. However, we still welcome applications, though we cannot guarantee full consideration. {{< /alert-box >}}
+{{< alert-box type="danger" >}} This search is currently **closed.** {{< /alert-box >}}
+
 
 The **Norman B. Leventhal Map & Education Center at the Boston Public
 Library** (LMEC) seeks to hire for the position of **gallery attendant**.

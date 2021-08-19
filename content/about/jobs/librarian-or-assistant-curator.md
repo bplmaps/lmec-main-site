@@ -3,7 +3,8 @@ title: 'Job Posting: Geospatial & Cartographic Information Librarian or Assistan
   Curator of Digital & Participatory Geography'
 menu: false
 ---
-{{< alert-box type="warning" >}} This search is currently **under review**. The deadline for full consideration has passed, and we are actively reviewing candidates. However, we still welcome applications, though we cannot guarantee full consideration. {{< /alert-box >}}
+{{< alert-box type="danger" >}} This search is currently **closed.** {{< /alert-box >}}
+
 
 The **Leventhal Map & Education Center at the Boston Public Library** seeks
 to hire for the position of _either_ **Geospatial & Cartographic Information
