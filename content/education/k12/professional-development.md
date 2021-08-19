@@ -18,18 +18,15 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 ### Upcoming Workshops
 
-##### Mapping a New World: Places of Conflict and Colonization in 17th-Century New England
+**Coming soon!**
 
-July 12-16, 2021  
-July 26-30, 2021
+**_Small Bites_**: An after-school series of gatherings for educators interested in teaching about Boston through a geospatial and social justice lens.
 
-The [Norman B. Leventhal Map Center at Boston Public Library](http://leventhalmap.org/) is pleased to invite 3rd-12th grade teachers from around the country to apply to participate in our summer [2021 NEH Landmarks of American History and Culture](https://www.neh.gov/grants/education/landmarks-american-history-and-culture-workshops-school-teachers) teacher workshop: _Mapping a New World: Places of Conflict and Colonization in 17th-Century New England_. **This workshop will be offered in a remote format, fully online.**
+Our first get-together is an opportunity for you to meet us and each other, tour our new exhibition [Bending Lines: Maps and Data from Distortion to Deception](), load up your vehicle with free classroom maps (from class sets to beautiful large wall maps of the world), and enjoy some small bites!
 
-During this week of virtual learning, participants will explore the history and landscape of 1600s New England, with an emphasis on the role of geography and place. The course will be a blend of synchronous and asynchronous opportunities for participants to engage meaningfully with our partners at the workshop's featured landmarks including Plimoth Patuxet Museums, the Mashantucket Pequot Museum, and the Museum of Fine Arts, Boston.
-
-Teachers will engage with leading scholars and primary source materials, including period maps, letters, land deeds, and narratives that are grounded in their geographic location. These materials illuminate how the different ways and perspectives with which English settlers and multifaceted Native communities viewed the New England region shaped their relationships and interactions throughout the 1600s.
-
-{{< alert-box type="warning" >}} The deadline to apply for this workshop has passed. {{</ alert-box >}}
+> **_The Educator Social at the Leventhal Map & Education Center_**
+>
+> Thursday, September 23 from 3:00 to 5:30. Drop in when you can and stay as long, or as little, as you like!
 
 ### Past Workshops
 
@@ -37,6 +34,4 @@ See a [list of past workshops here](/education/k12/past-workshops), with links t
 
 ## Carolyn A. Lynch Summer Teacher Fellowship
 
-Applications are [now available](/education/k12/2021-lynch-summer-teacher-fellowship) for the 2021 Carolyn A. Lynch Summer Teacher Fellowship, which will be held remotely.
-
-<a class="btn btn-primary-outline" href="/education/k12/2021-lynch-summer-teacher-fellowship">Apply by May 5, 2021</a>
+Check back in the spring for information on the 2022 Fellowship cycle.

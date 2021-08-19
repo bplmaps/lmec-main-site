@@ -1,11 +1,15 @@
 ---
 title: Past Workshops
 backgroundImage: images/page-header-backgrounds/education-programs.jpg
-description: List of K-12 teacher professional development workshops hosted at the Map Center
-menu: false
-
+description: List of K-12 teacher professional development workshops hosted at the
+  Map Center
 
 ---
+**2021**
+
+* [2021 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/ETe30elG0mVOhcz5wd6cSecB9XR1S3-VRO0w2Lbq_HpkPw?e=hWFQk7 "2021 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History")
+* [Mapping a New World: Places of Conflict and Colonization in 17th Century New England, NEH Landmarks of American History and Culture Workshop](https://sites.google.com/seed-ed.com/leventhal-newworld/home?authuser=0 "Mapping a New World: Places of Conflict and Colonization in 17th Century New England, NEH Landmarks of American History and Culture Workshop")
+
 **2020**
 
 * [Introduction to Digital Mapping in the Classroom](https://www.leventhalmap.org/wp-content/uploads/2017/03/Digital-Mapping-In-Classroom-Agenda.pdf)
