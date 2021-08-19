@@ -25,6 +25,8 @@ The gallery reopens to the public on **September 10, 2021**.
 
 ## Directions
 
+See [Hours & Directions](/about/hours-directions/) for a map to the Map Center and information about transportation and parking.
+
 ## Group and Education Visits
 
 We welcome groups of visitors both from the general public and from educational institutions. For more information about K-12 visits, see our [K-12 School Visits](/education/k12/school-visits/) page. For university-level visits, see the [University Programs](/education/university/) page.
@@ -32,3 +34,5 @@ We welcome groups of visitors both from the general public and from educational 
 ## Accessibility and Translation
 
 Our physical spaces are ADA accessible via a lift from the main level of the BPL's McKim Building. Most, though not all, spaces in the Central Library in Copley Square are accessible. For more information, see the BPL's [Resources and Services for Users with Disabilities](https://www.bpl.org/users-with-disabilities/).
+
+Occassional tours are offered in languages other than English.
