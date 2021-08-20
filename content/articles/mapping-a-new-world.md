@@ -1,17 +1,17 @@
 +++
 author = "Nyssa Patten"
-backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463b75w/2667,1606,3799,2137/,1200/0/default.jpg"
-date = 2021-08-19T17:05:46Z
+backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s94m/full/,1200/0/default.jpg"
+date = 2021-08-20T04:05:46Z
 description = "A participant in our summer NEH workshop for teachers discusses the new ways she looks at maps, the erasure of Native people, and how she’ll be teaching this fall. "
-draft = true
-image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463b75w/2667,1606,3799,2137/,1200/0/default.jpg"
+draft = false
+image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s94m/full/,1200/0/default.jpg"
 tags = ["NEH", "teacher workshop", "native lands"]
-title = "Mapping a New World"
+title = "Unlearning and Relearning the Colonization of New England"
 
 +++
 This summer I was excited to be accepted into a 2021 [NEH Landmarks of American History and Culture](https://www.neh.gov/taxonomy/term/3906) virtual teacher workshop hosted by the Leventhal Map & Education Center called [_Mapping a New World: Places of Conflict and Colonization in 17th-Century New England_](https://newworld.leventhalmap.org/). I took the class for several reasons. First, I needed professional development points to renew my license. Graduate credits are always nice, but the main reason I was excited to take this workshop was because I wanted to have a fascinating, thought-provoking, fun, intellectually stimulating experience that also met my personal goals of continuing to make my classes more anti-racist. I was so excited to learn more about Indigenous presence ... and less excited with the idea of working with maps. _What can I learn from maps?_ I wondered. _They are just physical representations of facts and data and spaces._
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m301k/436,315,4899,3731/,1200/0/default.jpg" caption="A [ca. 1900 facsimile](https://collections.leventhalmap.org/search/commonwealth:cj82m298g) of John Foster's 1677 “A map of New-England: being the first that ever was here cut...” This map was used to illustrate a book detailing King Philip’s War⁠." class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s94m/full/,1200/0/default.jpg" caption="John Foster's 1677 “[A map of New-England: being the first that ever was here cut...](https://collections.leventhalmap.org/search/commonwealth:3f462s93b)” This map was used to illustrate a book detailing King Philip’s War⁠." class="figure-left" >}}
 
 What a world opened up for me! It was eye-opening to delve into the complexities of maps: It isn’t always what is _on_ the map that is important; often it’s what _isn’t_ on the map. And more importantly, it's important to pay attention to who created the map and how that affected what they chose to include and how they chose to label and name places. Evidence of white supremacy and erasure of native peoples was clear from the [earliest European maps](https://collections.leventhalmap.org/search/commonwealth:cj82m3009) of Turtle Island.
 
