@@ -11,7 +11,11 @@ aliases:
 ---
 ## Staff
 
-{{< staff-list >}}
+{{< staff-list staff_category="staff" >}}
+
+## Fellows
+
+{{< staff-list staff_category="fellow" >}}
 
 ## Boards
 

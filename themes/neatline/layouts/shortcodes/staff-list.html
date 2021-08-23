@@ -1,7 +1,8 @@
+{{ $staff_category := .Get "staff_category" }}
 <div class="row">
-{{ range (where .Site.RegularPages "Type" "person") }}
+{{ range where (where .Site.RegularPages "Type" "person") "Params.staff_category" "==" $staff_category }}
 
-    {{ $person := . }}
+{{ $person := . }}
    <div class="staff-list-card col-sm-12 col-md-4">
        
            {{ with .Params.headshot }}

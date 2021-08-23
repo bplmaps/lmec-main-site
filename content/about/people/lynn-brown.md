@@ -3,6 +3,7 @@ title: Lynn Brown
 description: K-12 Education Manager
 headshot: "/uploads/screen-shot-2020-11-12-at-12-35-19-pm.png"
 type: person
+staff_category: staff
 contact:
 - method: Phone
   details: 617.859.2264

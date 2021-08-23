@@ -4,6 +4,7 @@ description: Reference & Cataloging Librarian
 headshot: 'https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463863p/736,6892,514,514/,600/0/default.jpg'
 type: person
 menu: false
+staff_category: staff
 contact:
 - method: Phone
   details: "617.859.2320"

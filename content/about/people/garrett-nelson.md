@@ -3,6 +3,7 @@ title: Garrett Dash Nelson
 description: President & Head Curator
 headshot: images/headshots/garrett-nelson.jpg
 type: person
+staff_category: staff
 contact:
 - method: Phone
   details: 617.859.2139

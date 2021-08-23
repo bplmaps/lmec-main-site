@@ -16,6 +16,16 @@ fields:
   label: type
   default: person
   hidden: true
+- type: select
+  name: staff_category
+  label: Staff Category
+  hidden: false
+  config:
+    source:
+      type: custom
+    options:
+      - "staff"
+      - "fellow"
 - type: field_group_list
   name: contact
   label: contact
