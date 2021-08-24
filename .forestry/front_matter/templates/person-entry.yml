@@ -24,8 +24,8 @@ fields:
     source:
       type: custom
     options:
-      - "staff"
-      - "fellow"
+    - staff
+    - fellow
 - type: field_group_list
   name: contact
   label: contact

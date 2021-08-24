@@ -1,23 +1,25 @@
 ---
 title: Visit the Gallery
-backgroundImage: "images/page-header-backgrounds/gallery.jpg"
-description: "Information for visiting our gallery in person in Copley Square"
-weight: 1
+backgroundImage: images/page-header-backgrounds/gallery.jpg
+description: Information for visiting our gallery in person in Copley Square
+weight: "1"
 aliases:
-    - /visit
+- "/visit"
 
 ---
-
-
-
 Our exhibitions gallery is free to the public, and no advance booking is necessary to view exhibitions. Plan to set aside between 30 minutes and 1½ hours for a full experience in the Gallery, though you are always welcome to spend more or less time, and to come back for multiple visits. The Gallery features captions and activities for children and families as well as adults.
-
 
 ## Visiting Hours
 
 {{< alert-box type="warning" >}}
 
 The gallery reopens to the public on **September 10, 2021**.
+
+{{</ alert-box >}}
+
+{{< alert-box type="danger" title="Masks required" >}}
+
+Face masks must be work at all times by all staff and visitors in the Central Library.
 
 {{</ alert-box >}}
 
