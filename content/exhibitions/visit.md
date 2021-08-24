@@ -11,7 +11,7 @@ Our exhibitions gallery is free to the public, and no advance booking is necessa
 
 ## Visiting Hours
 
-{{< alert-box type="warning" >}}
+{{< alert-box type="warning" title="Reopening in September" >}}
 
 The gallery reopens to the public on **September 10, 2021**.
 
@@ -19,7 +19,7 @@ The gallery reopens to the public on **September 10, 2021**.
 
 {{< alert-box type="danger" title="Masks required" >}}
 
-Face masks must be work at all times by all staff and visitors in the Central Library.
+Face masks must be worn at all times by all staff and visitors in the Central Library.
 
 {{</ alert-box >}}
 
