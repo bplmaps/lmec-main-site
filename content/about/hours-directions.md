@@ -22,12 +22,15 @@ Our gallery reopens to the public on **September 10, 2021** with a physical inst
 
 {{</ alert-box >}}
 
-_Currently closed_. Please visit our [Digital Exhibitions](/exhibitions/digital-exhibitions) for a virtual experience of our gallery. Our new exhibition, [_Bending Lines: Maps and Data from Distortion to Deception_](/digital-exhibitions/bending-lines), has been designed for an immersive online-first experience.
+{{< alert-box type="danger" title="Masks required" >}}
+
+Face masks must be worn at all times by all staff and visitors in the Central Library.
+
+{{</ alert-box >}}
 
 We will be open on the following days beginning **September 10**:
 
 {{< hours-table >}}
-
 
 #### Research Hours
 
