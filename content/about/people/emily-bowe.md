@@ -1,6 +1,6 @@
 ---
 title: Emily Bowe
-description: Assitant Director
+description: Assistant Director
 headshot: images/headshots/emily-bowe.jpg
 type: person
 staff_category: staff
