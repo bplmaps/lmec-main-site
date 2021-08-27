@@ -1,0 +1,14 @@
+{{ $unique_id := now.UnixNano }}
+
+<div id="maplibre-gl-map-{{ $unique_id }}" style="width:{{ .Get "width" }};height:{{ .Get "height" }}">
+  </div>
+  <script>
+    // You can remove the following line if you don't need support for RTL (right-to-left) labels:
+    maplibregl.setRTLTextPlugin('https://cdn.maptiler.com/mapbox-gl-js/plugins/mapbox-gl-rtl-text/v0.1.2/mapbox-gl-rtl-text.js');
+    var map = new maplibregl.Map({
+      container: 'maplibre-gl-map-{{ $unique_id }}',
+      style: 'https://api.maptiler.com/maps/streets/style.json?key=1HCKO0pQuPEfNXXzGgSM',
+      center: [{{ .Get "lon"}}, {{ .Get "lat"}}],
+      zoom: {{ .Get "zoom" }}
+    });
+  </script>

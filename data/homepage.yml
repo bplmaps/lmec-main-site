@@ -68,6 +68,8 @@ audiences:
       public
     color: "#d54062"
     links:
+    - title: Visit our gallery in person
+      link: exhibitions/visit
     - title: See our calendar of upcoming events
       link: event
     - title: Browse our digital exhibitions

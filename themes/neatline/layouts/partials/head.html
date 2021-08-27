@@ -54,4 +54,10 @@
   })(window,document,'script','FundraiseUp','AGBYXHFF');</script>
   <!-- End Fundraise Up -->
 
+
+  {{ if .HasShortcode "maplibre-gl-map" }}
+  <script src="https://cdn.maptiler.com/maplibre-gl-js/v1.14.0/maplibre-gl.js"></script>
+  <link href="https://cdn.maptiler.com/maplibre-gl-js/v1.14.0/maplibre-gl.css" rel="stylesheet" />
+  {{ end }}
+
 </head>

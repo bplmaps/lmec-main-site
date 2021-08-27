@@ -40,6 +40,14 @@ _Available by advance appointment on weekdays._ In-person access to the Rare Map
 
 We are located at the **Central Library in Copley Square**, at **700 Boylston Street** in Boston. Inside the library, we are located on the ground floor of the McKim Building, on the north side of the Courtyard and near the Glass Elevator of the Johnson Building. Look for arrows to the Leventhal Map Center in the library's wayfinding signs. Note that the McKim building also features the Map Room Café, which is a restaurant and bar that is not associated with the Map Center.
 
+{{< maplibre-gl-map lat="42.34934" lon="-71.07814" zoom="16" width="100%" height="600px" >}}
+
+<div class="btn-group my-3" role="group" aria-label="Map service links">
+  <a class="btn btn-primary btn-primary-outline" href="https://g.page/bplmaps?share">Google Maps</a>
+  <a class="btn btn-primary btn-primary-outline" href="https://maps.apple.com/?address=700%20Boylston%20St,%20Boston,%20MA%20%2002116,%20United%20States&auid=15060890376334979304&ll=42.349240,-71.078659&lsp=9902&q=Leventhal%20Map%20Education%20Center&_ext=CjIKBQgEEOIBCgQIBRADCgQIBhAQCgQIChAACgQIUhACCgQIVRAQCgQIWRAECgUIpAEQARImKcEQ3rQgLEVAMUS60FNsxVHAOT/mAxFHLUVAQRjJNy6lxFHAUAQ%3D">Apple Maps</a>
+  <a class="btn btn-primary btn-primary-outline" href="https://www.openstreetmap.org/node/4786907848">OpenStreetMap</a>
+</div>
+
 #### By public transit
 
 The library is conveniently located near many public transit stations, including the [Copley](https://www.mbta.com/stops/place-coecl) station of the Green Line, the [Back Bay](https://www.mbta.com/stops/place-bbsta) station of the Orange Line and Commuter Rail, and bus lines 9, 10, 55, 39, 504, 57, 553, and 501.
