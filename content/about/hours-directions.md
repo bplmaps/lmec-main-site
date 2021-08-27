@@ -16,9 +16,9 @@ quicklinks:
 
 #### Gallery Hours
 
-{{< alert-box title="Reopening in the fall" >}}
+{{< alert-box title="Reopening in September" >}}
 
-Our gallery reopens to the public on **September 10, 2021** with a physical installation of [_Bending Lines_](https://www.leventhalmap.org/event/exhibition-opening-bending-lines/).
+Our gallery reopens to the public on **September 10, 2021**.
 
 {{</ alert-box >}}
 
@@ -43,19 +43,23 @@ We are located at the **Central Library in Copley Square**, at **700 Boylston St
 {{< maplibre-gl-map lat="42.34934" lon="-71.07814" zoom="16" width="100%" height="600px" >}}
 
 <div class="btn-group my-3" role="group" aria-label="Map service links">
-  <a class="btn btn-primary btn-primary-outline" href="https://g.page/bplmaps?share">Google Maps</a>
-  <a class="btn btn-primary btn-primary-outline" href="https://maps.apple.com/?address=700%20Boylston%20St,%20Boston,%20MA%20%2002116,%20United%20States&auid=15060890376334979304&ll=42.349240,-71.078659&lsp=9902&q=Leventhal%20Map%20Education%20Center&_ext=CjIKBQgEEOIBCgQIBRADCgQIBhAQCgQIChAACgQIUhACCgQIVRAQCgQIWRAECgUIpAEQARImKcEQ3rQgLEVAMUS60FNsxVHAOT/mAxFHLUVAQRjJNy6lxFHAUAQ%3D">Apple Maps</a>
-  <a class="btn btn-primary btn-primary-outline" href="https://www.openstreetmap.org/node/4786907848">OpenStreetMap</a>
+<a class="btn btn-primary btn-primary-outline" href="https://g.page/bplmaps?share">Google Maps</a>
+<a class="btn btn-primary btn-primary-outline" href="https://maps.apple.com/?address=700%20Boylston%20St,%20Boston,%20MA%20%2002116,%20United%20States&auid=15060890376334979304&ll=42.349240,-71.078659&lsp=9902&q=Leventhal%20Map%20Education%20Center&_ext=CjIKBQgEEOIBCgQIBRADCgQIBhAQCgQIChAACgQIUhACCgQIVRAQCgQIWRAECgUIpAEQARImKcEQ3rQgLEVAMUS60FNsxVHAOT/mAxFHLUVAQRjJNy6lxFHAUAQ%3D">Apple Maps</a>
+<a class="btn btn-primary btn-primary-outline" href="https://www.openstreetmap.org/node/4786907848">OpenStreetMap</a>
 </div>
 
 #### By public transit
 
-The library is conveniently located near many public transit stations, including the [Copley](https://www.mbta.com/stops/place-coecl) station of the Green Line, the [Back Bay](https://www.mbta.com/stops/place-bbsta) station of the Orange Line and Commuter Rail, and bus lines 9, 10, 55, 39, 504, 57, 553, and 501.
+The library is conveniently located near many public transit stations, including the [Copley](https://www.mbta.com/stops/place-coecl) station of the Green Line, the [Back Bay](https://www.mbta.com/stops/place-bbsta) station of the Orange Line and Commuter Rail, and bus lines 9, 10, 55, 39, 504, 57, 553, and 501. Use the [MBTA Trip Planner](https://www.mbta.com/trip-planner) for more information on traveling by transit. 
 
 #### By bicycle
 
-Bicycle racks are available near the library at the corner of Blagden Street and Dartmouth Street, and along the west side of the Johnson Building on Exeter Street. A [Bluebikes](https://www.bluebikes.com) station is located on the corenr of Dartmouth Street and Boylston Street.
+Bicycle racks are available near the library at the corner of Blagden Street and Dartmouth Street, and along the west side of the Johnson Building on Exeter Street. A [Bluebikes](https://www.bluebikes.com) station is located on the corner of Dartmouth Street and Boylston Street.
 
 #### By automobile
 
-Limited street parking is available in the Back Bay neighborhood.
+Limited street parking is available in the Back Bay neighborhood. Nearby hotels and shopping centers in Copley Square also offer paid garage parking.
+
+#### By foot
+
+The library is located just two blocks from the southwestern corner of the Public Garden. It is 0.9 mi (1.4 km) from the starting point of the Freedom Trail in Boston Common.
