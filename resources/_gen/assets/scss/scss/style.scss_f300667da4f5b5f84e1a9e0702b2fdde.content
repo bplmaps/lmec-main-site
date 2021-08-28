@@ -332,6 +332,9 @@ a h4:hover {
 .page-title-section {
   padding: 200px 0 80px;
   background-size: cover; }
+  .page-title-section.page-title-section-tight {
+    padding: 180px 0 30px;
+    background-color: #1a1a37; }
   .page-title-section .page-subheader {
     font-weight: 700; }
 
@@ -820,6 +823,15 @@ link:focus,
   .section-sidebar .section-toplevel-link:hover::before, .section-sidebar .section-toplevel-link.active::before {
     transform: scaleY(1);
     transform-origin: bottom; }
+
+.paneltruck-section {
+  padding-bottom: 100px;
+  background-color: #1a1a37; }
+
+.paneltruck-iframe {
+  border: 0;
+  width: 100%;
+  height: calc(100vh - 200px); }
 
 .hero-section {
   padding: 250px 0 120px; }

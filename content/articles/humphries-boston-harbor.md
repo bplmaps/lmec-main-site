@@ -1,6 +1,6 @@
 ---
-title: 'Where the city meets the water'
-description: An interactive tour of one of the most important maps in the environmental management of Boston Harbor
+title: Negotiating the shoreline
+description: An interactive tour of one of the most important maps in the history of Boston Harbor's environmental management
 author: Courtney Humphries
 date: 2021-08-31T04:00:00.000+00:00
 layout: paneltruck
