@@ -2,7 +2,7 @@
 title: Negotiating the shoreline
 description: An interactive tour of one of the most important maps in the history of Boston Harbor's environmental management
 author: Courtney Humphries
-date: 2021-08-31T04:00:00.000+00:00
+date: 2021-08-30T04:00:00.000+00:00
 layout: paneltruck
 paneltruck:
     src: humphries-boston-harbor
