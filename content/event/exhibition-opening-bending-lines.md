@@ -9,4 +9,12 @@ registration = ""
 title = "Exhibition Opening: Bending Lines"
 
 +++
+
 ### Bending Lines comes to our in-person gallery
+
+After a year as a digital exhibition, our [award-winning](https://ishmap.wordpress.com/2021/06/11/ishmap-prize-in-map-history-2021/) show _Bending Lines: Maps and Data From Distortion to Deception_ arrives for in-person viewing at our gallery at the Central Library in Copley Square.
+
+For information on visiting, including hours and direcitons, see our [Visit the Gallery](/exhibitions/visit) page.
+
+To browse the _Bending Lines_ online, [visit the digital exhibition](https://leventhalmap.org/digital-exhibitions/bending-lines).
+
