@@ -7,7 +7,6 @@ layout: paneltruck
 paneltruck:
     src: humphries-boston-harbor
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rj430k847/1682,2388,4551,2332/,1200/0/default.jpg
-draft: true
 
 ---
 
