@@ -5,8 +5,8 @@ headshot: images/headshots/emily-bowe.jpg
 type: person
 staff_category: staff
 contact:
-# - method: Phone
-#   details: 617.859.2139
+- method: Phone
+  details: 617.859.2506
 - method: Email
   details: "<ebowe@leventhalmap.org>"
 - method: Twitter
