@@ -91,7 +91,7 @@ images = ["https://fedora.digitalcommonwealth.org/fedora/objects/commonwealth:3f
 logo = "images/MapCenter_allwhite.png"
 mobile = "+1 617.859.2387"
 top_header = true
-emailPopup = false
+emailPopup = true
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
