@@ -18,8 +18,6 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 ### Upcoming Workshops
 
-**Coming soon!**
-
 **_Small Bites_**: An after-school series of gatherings for educators interested in teaching about Boston through a geospatial and social justice lens.
 
 For the 2021-22 school year the Map Center is offering a series of FREE “small bites” professional development sessions. These 6 sessions will run after school and will be a mix of in-person and Zoom sessions designed to send you off with great map-based lessons and resources to immediately implement in your classroom. All K-12 teachers are welcome. Sign up for one or all of them!
@@ -30,7 +28,7 @@ Our first get-together is an opportunity for you to meet us and each other, tour
 
 {{<title="Thursday, October 7, 2021, 3:00 to 4:30 pm" subtitle="**_Visualizing Change in Boston (Virtual)_**" description="Come try out our lesson developed for Boston high school students that explores four case studies using maps and other resources that show community action and change in Boston, from the Southwest Corridor to the Dudley Triangle. You can take away this ready-to-go lesson along with other versions of _Visualizing Boston_ and use it right away in your classroom.">}}
 
-> 
+{{<title="Thursday, November 18, 2021, 3:00 to 4:30 pm" subtitle="**_Redlining Maps & their Legacy (Virtual)_**" description="Explore Home Owners Loan Corporation (HOLC) maps of the 1930s and 40s and try out a lesson developed for the classroom using the [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58) interactive website. We will also look at the legacy of redlining with supplemental resources that explain the persistent disinvestment that resulted from the anti-Black and anti-immigrant bias accepted by the banking and real estate sectors at the time and the ways discrimination in these sectors continues today.">}}
 
 ### Past Workshops
 
