@@ -4,6 +4,7 @@ backgroundImage: images/page-header-backgrounds/education-programs.jpg
 description: Opportunities for teachers to learn how to teach with maps, geography,
   and history
 weight: "4"
+draft: true
 
 ---
 > “Maps to me are now dynamic, vibrant, alive and worth engaging” –Teacher Workshop Participant
@@ -27,6 +28,10 @@ Our first get-together is an opportunity for you to meet us and each other, tour
 {{<title="**_Visualizing Change in Boston (Virtual)_**" subtitle="Thursday, October 7, 2021, 3:00 to 4:30 pm" description="Come try out our lesson developed for Boston high school students that explores four case studies using maps and other resources that show community action and change in Boston, from the Southwest Corridor to the Dudley Triangle. You can take away this ready-to-go lesson along with other versions of _Visualizing Boston_ and use it right away in your classroom.">}}
 
 {{<title="**_Redlining Maps & their Legacy (Virtual)_**" subtitle="Thursday, November 18, 2021, 3:00 to 4:30 pm" description="Explore Home Owners Loan Corporation (HOLC) maps of the 1930s and 40s and try out a lesson developed for the classroom using the [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58) interactive website. We will also look at the legacy of redlining with supplemental resources that explain the persistent disinvestment that resulted from the anti-Black and anti-immigrant bias accepted by the banking and real estate sectors at the time and the ways discrimination in these sectors continues today.">}}
+
+{{<title="**_Critical Map Reading & Media Literacy (Virtual)_**" subtitle="Thursday, January 13, 2022, 3:00 - 4:30 pm" description="Maps are a type of media students will come across often. Try out a mini-lesson designed to give students the tools to be critical map readers. We'll also share a research protocol for students looking for maps online to help them assess if they trust what the map is showing and how to ask critical questions.">}}
+
+{{<title="**_Learn to Make a Digital Map Mini-session (in-person)_**" subtitle="Thursday, November 18, 2021, 3:00 to 4:30 pm" description="Explore Home Owners Loan Corporation (HOLC) maps of the 1930s and 40s and try out a lesson developed for the classroom using the [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58) interactive website. We will also look at the legacy of redlining with supplemental resources that explain the persistent disinvestment that resulted from the anti-Black and anti-immigrant bias accepted by the banking and real estate sectors at the time and the ways discrimination in these sectors continues today.">}}
 
 ### Past Workshops
 
