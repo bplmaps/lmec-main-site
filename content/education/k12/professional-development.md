@@ -24,11 +24,11 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 For the 2021-22 school year the Map Center is offering a series of FREE “small bites” professional development sessions. These 6 sessions will run after school and will be a mix of in-person and Zoom sessions designed to send you off with great map-based lessons and resources to immediately implement in your classroom. All K-12 teachers are welcome. Sign up for one or all of them!
 
-{{< course-listing image="/uploads/wiam.png" title="What Is A Map?" subtitle="Grades 1–3" description="Students practice how to interpret maps by reading the stories being told by mapmakers. Students create a map of their own, receive a short interactive lesson about maps and mapping, and work in small groups to answer questions about some of the maps in our collection.">}}
-
 {{< title="Thursday, September 23 from 3:00 to 5:30" subtitle="**_The Educator Social and Map Giveaway at the Leventhal Map & Education Center (in person)_**" description="Drop in when you can and stay as long, or as little, as you like!
 
 Our first get-together is an opportunity for you to meet us and each other, tour our new exhibition [Bending Lines: Maps and Data from Distortion to Deception](https://www.leventhalmap.org/education/k12/professional-development/), load up your vehicle with free classroom maps (from class sets to beautiful large wall maps of the world), and enjoy some small bites!">}}
+
+{{<title="Thursday, October 7, 2021, 3:00 to 4:30 pm" subtitle="**_Visualizing Change in Boston (Virtual)_**" description="Come try out our lesson developed for Boston high school students that explores four case studies using maps and other resources that show community action and change in Boston, from the Southwest Corridor to the Dudley Triangle. You can take away this ready-to-go lesson along with other versions of _Visualizing Boston_ and use it right away in your classroom.">}}
 
 > 
 
