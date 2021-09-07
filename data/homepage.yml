@@ -9,13 +9,6 @@ slider:
   - https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp87h/2014,670,3931,2970/,2000/0/default.jpg
   - https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fb18t/1721,2483,2741,2239/,2000/0/default.jpg
   slider_item:
-  - title: Maps can open new worlds
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Donate to our matching campaign
-      link: "http://www.leventhalmap.org/donate/?form=MATCHCAMPAIGN"
   - title: Preserving the past and advancing the future of maps
     content: A quarter million maps from the fifteenth century to the present tell
       the stories of Boston and the world

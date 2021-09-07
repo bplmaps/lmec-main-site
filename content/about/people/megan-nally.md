@@ -1,14 +1,14 @@
 +++
 description = "Gallery Attendant"
-draft = true
 headshot = "/uploads/2021-08-22/img_0103.jpeg"
 menu = false
 title = "Megan Nally"
 type = "person"
+staff_category = "staff"
 [[contact]]
 details = "mnally@leventhalmap.org"
 method = "Email"
-staff_category = "staff"
+
 
 
 +++
