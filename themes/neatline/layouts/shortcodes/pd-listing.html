@@ -1,0 +1,12 @@
+<div class="media pd-listing my-4">
+    <img src="{{ .Get "image" | relURL }}" class="mr-3" alt="{{ .Get "title" }}" width="150px">
+    <div class="media-body">
+      <h4 class="mt-0">{{ .Get "title" }}</h4>
+      <h6 class="text-muted">{{ .Get "subtitle" }}</h6>
+      {{ .Get "description" | markdownify }}
+      {{ with .Get "signUpLink" }}
+      <br>
+      <a class="btn btn-xs btn-outline-primary mt-2" href="{{ . }}" target="_blank"><i class="fas fa-file-download"></i> Sign up here!</a>
+      {{ end }}
+    </div>
+  </div>
