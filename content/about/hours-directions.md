@@ -16,19 +16,13 @@ quicklinks:
 
 #### Gallery Hours
 
-{{< alert-box title="Reopening in September" >}}
-
-Our gallery reopens to the public on **September 10, 2021**.
-
-{{</ alert-box >}}
-
 {{< alert-box type="danger" title="Masks required" >}}
 
 Face masks must be worn at all times by all staff and visitors in the Central Library.
 
 {{</ alert-box >}}
 
-We will be open on the following days beginning **September 10**:
+We are open on the following days:
 
 {{< hours-table >}}
 
