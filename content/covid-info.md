@@ -6,11 +6,11 @@ description: Information about Map Center programs, activities, and services whi
 type: singleton
 
 ---
-### Bending Lines opens September 10; gallery closed until then
+### Bending Lines is open
 
-Our major exhibition **Bending Lines: Maps and Data from Distortion to Deception** will be available for free public access in our gallery beginning on **Friday, September 10**. Until that time, our gallery and learning center remain closed for in-person access.
+Our major exhibition **Bending Lines: Maps and Data from Distortion to Deception** is available for free public access in our gallery beginning. Face masks must be worn at all times by all staff and visitors in the Central Library.
 
-Meanwhile, you can visit the [Bending Lines digital exhibition](https://www.leventhalmap.org/digital-exhibitions/bending-lines/), which was designed for an immersive online experience, where you can discover high-resolution maps, interpretive content, and interactive material.
+You can also visit the [Bending Lines digital exhibition](https://www.leventhalmap.org/digital-exhibitions/bending-lines/), which was designed for an immersive online experience, where you can discover high-resolution maps, interpretive content, and interactive material.
 
 ### Research appointments available
 
