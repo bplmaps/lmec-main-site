@@ -118,8 +118,8 @@ frontpageFeature:
   enable: true
   bg_image: https://tile.loc.gov/image-services/iiif/service:gmd:gmd376:g3764:g3764b:pm002791/608,834,7037,2742/,1200/0/default.jpg
   title: The truth is in there
-  content: 'On September 10, our exhibition *Bending Lines: Maps and Data from Distortion
-    to Deception* opens in our free gallery in Copley Square. Learn more about whether
+  content: 'Our exhibition *Bending Lines: Maps and Data from Distortion
+    to Deception* is open in our free gallery in Copley Square. Learn more about whether
     maps tell the truth, spin a lie—or something in between.'
   button:
     enable: true
