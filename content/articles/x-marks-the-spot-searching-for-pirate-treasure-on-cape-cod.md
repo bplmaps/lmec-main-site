@@ -27,23 +27,27 @@ Southack hired a whaleboat and crew near Provincetown to make the journey out to
 
 Of the crew, two did survive and managed to make it ashore. Of those who perished and washed ashore, the town of Eastham buried them in a pit and then billed Southack for the expense. Between the scant booty found on the beach and the bill for burial, Southack brought nothing back for the Crown.
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kk91fq614/2976,5156,4829,3438/,1200/0/default.jpg" caption="Detail from [Southack’s survey of the coast](https://collections.leventhalmap.org/search/commonwealth:kk91fq60v) extending “from New York to Cape Briton”" class="figure-right" >}}
+
 Southack extensively documented his expedition in letters and maps to the governor (now in the Massachusetts State Archives). [Southack's map](https://collections.leventhalmap.org/search/commonwealth:kk91fq60v) was published in book form as “The New England Coasting Pilot” between 1729 and 1734. This later version features more detailed views of various harbors and annotations, including Southack’s own account of the Whydah expedition and the point where the ship went down (spelled Whido here):
 
 > The Place where I came
+>
+> through with a Whale Boat
+>
+> being ordered by ye Governmt
+>
+> to look after ye Pirate Ship
+>
+> Whido Bellame Commandr
+>
+> castaway ye 26 of April 1717
+>
+> where I buried One Hundred
+>
+> & Two Men Drowned
 
-through with a Whale Boat
-
-being ordered by ye Governmt
-
-to look after ye Pirate Ship
-
-Whido Bellame Commandr
-
-castaway ye 26 of April 1717
-
-where I buried One Hundred
-
-& Two Men Drowned
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kk91fq614/7224,7134,750,508/,1200/0/default.jpg" caption="In this this detail Southack denoted where the pirate ship Whydah went down as well as where the whale boat he hired traveled from Provincetown to Eastham through a natural canal called Jeremiah’s Gutter. The canal no longer exists due to shifting sands and erosion." class="figure-left" >}}
 
 In 1984, underwater archeological explorer Barry Clifford and his team located the Whydah using Southack’s maps and notes after years of searching (and having to account for erosion over the course of hundreds of years.) The discovery of the ship amounts today to the largest collection of pirate artifacts from any shipwreck in the world. If you visit the [Whydah Pirate Museum](https://www.discoverpirates.com/) in West Yarmouth you can see pistols, cannons, gold and silver coins and jewels amongst a wide range of objects that give life to not only the pirate crew but also the Whydah’s role in the slave trade and the empires vying for control of the Americas.
 
