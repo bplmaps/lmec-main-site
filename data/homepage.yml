@@ -47,12 +47,12 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Now booking
-    text: Plan a school visit in Fall 2021
-    link: /education/k12/school-visits/
-  - badge: Data visualization
-    text: See how demographics and politics align in the United States with our Every Different District interactive
-    link: https://every-different-district.glitch.me
+  - badge: K-12 professional development
+    text: Sign up for the "Small Bites" Fall 2021 series
+    link: /education/k12/professional-development/
+  - badge: Map story
+    text: Follow the map of a conflict over regulating Boston Harbor
+    link: /articles/humphries-boston-harbor/
 audiences:
   enable: true
   audienceGroups:
@@ -119,12 +119,11 @@ frontpageFeature:
   bg_image: https://tile.loc.gov/image-services/iiif/service:gmd:gmd376:g3764:g3764b:pm002791/608,834,7037,2742/,1200/0/default.jpg
   title: The truth is in there
   content: 'Our exhibition *Bending Lines: Maps and Data from Distortion
-    to Deception* is open in our free gallery in Copley Square. Learn more about whether
-    maps tell the truth, spin a lie—or something in between.'
+    to Deception* is now available in person at our free gallery at the Central Library in Copley Square.'
   button:
     enable: true
-    label: Visit in September
-    link: https://www.leventhalmap.org/event/exhibition-opening-bending-lines/
+    label: Information for visitors
+    link: https://www.leventhalmap.org/exhibitions/visit/
 event:
   enable: true
   title: Upcoming Events
