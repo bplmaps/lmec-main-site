@@ -47,16 +47,14 @@ Southack extensively documented his expedition in letters and maps to the govern
 >
 > & Two Men Drowned
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kk91fq614/7224,7134,750,508/,1200/0/default.jpg" caption="In this this detail Southack denoted where the pirate ship Whydah went down as well as where the whale boat he hired traveled from Provincetown to Eastham through a natural canal called Jeremiah’s Gutter. The canal no longer exists due to shifting sands and erosion." >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kk91fq614/7224,7134,750,508/,1200/0/default.jpg" caption="In this this detail Southack denoted where the pirate ship Whydah went down as well as where the whale boat he hired traveled from Provincetown to Eastham through a natural canal called Jeremiah’s Gutter. The canal no longer exists due to shifting sands and erosion." class="figure-right" >}}
 
 In 1984, underwater archeological explorer Barry Clifford and his team located the Whydah using Southack’s maps and notes after years of searching (and having to account for erosion over the course of hundreds of years.) The discovery of the ship amounts today to the largest collection of pirate artifacts from any shipwreck in the world. If you visit the [Whydah Pirate Museum](https://www.discoverpirates.com/) in West Yarmouth you can see pistols, cannons, gold and silver coins and jewels amongst a wide range of objects that give life to not only the pirate crew but also the Whydah’s role in the slave trade and the empires vying for control of the Americas.
 
 Sometimes maps can unearth treasure.
 
-**Want to learn more?**
-
-Check out [all available digitized maps by Cyprian Southack](https://collections.leventhalmap.org/search?f%5Bname_facet_ssim%5D%5B%5D=Southack%2C+Cyprian%2C+1662-1745) on our collections page.
-
-[https://southwellfleet.wordpress.com/2017/01/02/when-cyprian-southack-came-to-south-wellfleet-to-recover-the-whydah/](https://southwellfleet.wordpress.com/2017/01/02/when-cyprian-southack-came-to-south-wellfleet-to-recover-the-whydah/ "https://southwellfleet.wordpress.com/2017/01/02/when-cyprian-southack-came-to-south-wellfleet-to-recover-the-whydah/")
-
-[http://archive.fieldmuseum.org/pirates/index.html](http://archive.fieldmuseum.org/pirates/index.html "http://archive.fieldmuseum.org/pirates/index.html")
+> **Want to learn more?**
+>
+> Check out [all available digitized maps by Cyprian Southack](https://collections.leventhalmap.org/search?f%5Bname_facet_ssim%5D%5B%5D=Southack%2C+Cyprian%2C+1662-1745) on our collections page.
+>
+> Learn more about the Whydah from this [South Wellfleet blog post](https://southwellfleet.wordpress.com/2017/01/02/when-cyprian-southack-came-to-south-wellfleet-to-recover-the-whydah/) or from the ["Real Pirates" Exhibition](http://archive.fieldmuseum.org/pirates/index.html) at the Field Museum.
