@@ -35,7 +35,7 @@ Southack extensively documented his expedition in letters and maps to the govern
 >
 > through with a Whale Boat
 >
-> being ordered by y<sup>e</sup> Governmt
+> being ordered by ye Governmt
 >
 > to look after ye Pirate Ship
 >
