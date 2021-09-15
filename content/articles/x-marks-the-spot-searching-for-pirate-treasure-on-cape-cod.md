@@ -1,10 +1,10 @@
 +++
 author = "Michelle LeBlanc"
-backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kk91fq614/11872,221,11374,4754/full/0/default.jpg"
+backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kk91fq614/3000,5186,6377,3352/full/0/default.jpg"
 date = 2021-09-19T04:00:00Z
 description = "For international “Talk like a Pirate Day,” we use maps in our collection to examine the story of Captain Southack and his mandate to recover the wreck of the pirate ship Whydah off the coast of Cape Cod in 1717."
 draft = true
-image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kk91fq614/11872,221,11374,4754/full/0/default.jpg"
+image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kk91fq614/3000,5186,6377,3352/full/0/default.jpg"
 tags = []
 title = "“X” Marks the Spot: Searching for Pirate Treasure on Cape Cod"
 
@@ -25,9 +25,9 @@ After the April 26 wreck, colonial governor Samuel Shute received word that a sh
 
 Southack hired a whaleboat and crew near Provincetown to make the journey out to where the wreck lay. They passed through a spot called “Jeremiah’s Gutter” that would be along the Eastham/Orleans border today. This passage no longer exists due to the shifting sands of Cape Cod, but it’s marked on Southack’s map. While they could see the wreck being battered by the waves, the strong currents made it too dangerous to reach. The whaleboat crew collected whatever they could from the beach (which amounted to very little). Southack also came to discover that the locals had beat him to the beach days earlier and had likely collected whatever valuables washed up on their own or on the bodies of the pirates who washed ashore. Despite orders for the locals to turn over any valuables to the Crown, as well as turn in their neighbors who had scavenged, unsurprisingly very few stepped forward.
 
-Of the crew, two did survive and managed to make it ashore. Of those who perished and washed ashore, the town of Eastham buried them in a pit and then billed Southack for the expense. Between the scant booty found on the beach and the bill for burial, Southack brought nothing back for the Crown.
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kk91fq614/2976,5156,4829,3438/,1200/0/default.jpg" caption="Detail from [Southack’s survey of the coast](https://collections.leventhalmap.org/search/commonwealth:kk91fq60v) extending “from New York to Cape Briton”" class="figure-left" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kk91fq614/2976,5156,4829,3438/,1200/0/default.jpg" caption="Detail from [Southack’s survey of the coast](https://collections.leventhalmap.org/search/commonwealth:kk91fq60v) extending “from New York to Cape Briton”" class="figure-right" >}}
+Of the crew, two did survive and managed to make it ashore. Of those who perished and washed ashore, the town of Eastham buried them in a pit and then billed Southack for the expense. Between the scant booty found on the beach and the bill for burial, Southack brought nothing back for the Crown.
 
 Southack extensively documented his expedition in letters and maps to the governor (now in the Massachusetts State Archives). [Southack's map](https://collections.leventhalmap.org/search/commonwealth:kk91fq60v) was published in book form as “The New England Coasting Pilot” between 1729 and 1734. This later version features more detailed views of various harbors and annotations, including Southack’s own account of the Whydah expedition and the point where the ship went down (spelled Whido here):
 
