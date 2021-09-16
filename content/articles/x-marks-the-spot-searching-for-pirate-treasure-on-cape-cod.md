@@ -33,10 +33,10 @@ Southack extensively documented his expedition in letters and maps to the govern
 
 > The Place where I came   
 > through with a Whale Boat   
-> being ordered by ye Governmt   
-> to look after ye Pirate Ship  
-> Whido Bellame Commandr   
-> castaway ye 26 of April 1717   
+> being ordered by y<sup>e</sup> Govern<sup>mt</sup>   
+> to look after y<sup>e</sup> Pirate Ship  
+> Whido Bellame Command<sup>r</sup>   
+> castaway y<sup>e</sup> 26 of April 1717   
 > where I buried One Hundred  
 > & Two Men Drowned
 
