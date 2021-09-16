@@ -1,7 +1,7 @@
 +++
 author = "Elizabeth Borneman, Lily Xie, and Hua Xi"
 backgroundImage = "https://jcb.lunaimaging.com/luna/servlet/iiif/JCBMAPS~1~1~2249~111180002/463,457,5875,2376/,1200/0/default.jpg"
-date = 2021-09-16T04:00:00Z
+date = 2021-09-17T04:00:00Z
 description = "A brief history of protests, takedowns and counter-proposals to the commemoration of Christopher Columbus in the United States"
 image = "https://jcb.lunaimaging.com/luna/servlet/iiif/JCBMAPS~1~1~2249~111180002/463,457,5875,2376/,1200/0/default.jpg"
 tags = ["Bending Lines", "counter-cartography", "Christopher Columbus", "cross-post", "data feminism"]
