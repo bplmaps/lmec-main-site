@@ -3,13 +3,11 @@ author = "Elizabeth Borneman, Lily Xie, and Hua Xi"
 backgroundImage = "https://jcb.lunaimaging.com/luna/servlet/iiif/JCBMAPS~1~1~2249~111180002/463,457,5875,2376/,1200/0/default.jpg"
 date = 2021-09-16T04:00:00Z
 description = "A brief history of protests, takedowns and counter-proposals to the commemoration of Christopher Columbus in the United States"
-draft = true
 image = "https://jcb.lunaimaging.com/luna/servlet/iiif/JCBMAPS~1~1~2249~111180002/463,457,5875,2376/,1200/0/default.jpg"
 tags = ["Bending Lines", "counter-cartography", "Christopher Columbus", "cross-post", "data feminism"]
 title = "\"We Never Wanted Him Here\""
 
 +++
-
 {{< alert-box type="secondary" title="Cross-posted article" icon="fas fa-exchange-alt" >}}
 
 This article is cross-posted from the [Data + Feminism Blog](https://medium.com/data-feminism-lab-mit/we-never-wanted-him-here-d6f1af2a5b5) on Medium. The zine map _We Never Wanted Him Here_ appears in [our current exhibition](/exhibitions).
