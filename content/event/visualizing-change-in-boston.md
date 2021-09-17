@@ -9,7 +9,7 @@ registration = "https://www.leventhalmap.org/education/k12/professional-developm
 title = "Visualizing Change in Boston"
 
 +++
-### **_Visualizing Change in Boston_**
+### **_Small Bites: Visualizing Change in Boston_**
 
 For the 2021-22 school year the Map Center is offering a series of FREE “small bites” professional development sessions foregrounding teaching about Boston through a social justice lens, though the sessions are easily adaptable to other municipalities. These 6 sessions will run after school and will be a mix of in-person and Zoom sessions designed to send you off with great map-based lessons and resources to immediately implement in your classroom. All K-12 teachers are welcome. Sign up for one or all of them!
 
