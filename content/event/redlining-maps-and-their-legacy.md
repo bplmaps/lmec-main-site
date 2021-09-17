@@ -6,7 +6,7 @@ image = "/uploads/2021-09-03/holc.jpg"
 location = "Virtual Zoom session"
 publishDate = 2021-09-17T13:57:23Z
 registration = "https://www.leventhalmap.org/education/k12/professional-development/"
-title = "Redlining Maps and Their Legacy"
+title = "Small Bites: Redlining Maps and Their Legacy"
 
 +++
 ### Small Bites: Redlining Maps and Their Legacy
