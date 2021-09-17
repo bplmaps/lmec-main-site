@@ -2,11 +2,11 @@
 backgroundImage = ""
 date = 2022-01-13T20:00:00Z
 draft = true
-fee = ""
+fee = "Free!"
 image = ""
-location = ""
+location = "Virtual Zoom Session"
 publishDate = 2021-09-17T14:05:04Z
-registration = ""
+registration = "https://www.leventhalmap.org/education/k12/professional-development/"
 title = "Critical Map Reading & Media Literacy"
 
 +++
