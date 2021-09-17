@@ -7,6 +7,7 @@ quicklinks:
 - text: Submit a request to book a class visit
   link: "#booking"
   linkType: jump
+draft: true
 
 ---
 {{< alert-box type="warning" icon="fas fa-laptop-house">}} We will be offering in-person on-site and outreach programming in the fall, subject to change if unforeseen restrictions are reestablished. If you are interested in a field trip to the Map Center or having an educator visit your classroom, please fill out the reservation form below and we will get back to you. We have missed you! {{< /alert-box >}}
@@ -30,6 +31,8 @@ The Leventhal Map & Education Center offers a menu of pre-designed programs for 
 {{< course-listing image="/uploads/world.png" title="World Maps Over Time" subtitle="Grades 6-8" description="Students practice being critical map readers using a range of world maps, from the oldest in our collection to the present. After an interactive lesson on map projections, students work in small groups to analyze what mapmakers include on their maps and why.">}}
 
 {{< course-listing image="/uploads/civics.png" title="Civics Topics" subtitle="Grade 8" description="We will work with you to support your Civics curriculum with map-based lessons on topics, from red-lining to immigration to Boston-based neighborhood advocacy.">}}
+
+{{< course-listing image="" title="Kids Count!: Mapping Children in Boston" subtitle="Grades 3-8" description="Students explore different ways cartographers have represented the presence of children in Boston for different purposes. Along the way they learn about geospatial data and GIS (geographic information systems), the power of symbology, and the importance of considering a mapmakers purpose. They also try their hand at geospatial data visualization.">}}
 
 ## Booking a Program {#booking}
 
