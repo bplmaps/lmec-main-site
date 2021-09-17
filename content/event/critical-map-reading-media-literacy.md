@@ -1,7 +1,6 @@
 +++
 backgroundImage = ""
 date = 2022-01-13T20:00:00Z
-draft = true
 fee = "Free!"
 image = "/uploads/2021-09-03/makeamap.jpg"
 location = "Virtual Zoom Session"
