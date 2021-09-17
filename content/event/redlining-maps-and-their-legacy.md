@@ -1,12 +1,11 @@
 +++
 backgroundImage = ""
 date = 2021-11-18T20:00:00Z
-draft = true
-fee = ""
+fee = "Free!"
 image = "/uploads/2021-09-03/holc.jpg"
-location = ""
+location = "Virtual Zoom session"
 publishDate = 2021-09-17T13:57:23Z
-registration = ""
+registration = "https://www.leventhalmap.org/education/k12/professional-development/"
 title = "Redlining Maps and Their Legacy"
 
 +++
