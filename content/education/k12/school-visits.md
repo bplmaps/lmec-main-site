@@ -32,7 +32,7 @@ The Leventhal Map & Education Center offers a menu of pre-designed programs for 
 
 {{< course-listing image="/uploads/civics.png" title="Civics Topics" subtitle="Grade 8" description="We will work with you to support your Civics curriculum with map-based lessons on topics, from red-lining to immigration to Boston-based neighborhood advocacy.">}}
 
-{{< course-listing image="/uploads/kidscount.png" title="Kids Count!: Mapping Children in Boston" subtitle="Grades 3-8" description="Students explore different ways cartographers have represented the presence of children in Boston for different purposes. Along the way they learn about geospatial data and GIS (geographic information systems), the power of symbology, and the importance of considering a mapmakers purpose. They also try their hand at geospatial data visualization.">}}
+{{< course-listing image="/uploads/2021-09-17/kidscount.png" title="Kids Count!: Mapping Children in Boston" subtitle="Grades 3-8" description="Students explore different ways cartographers have represented the presence of children in Boston for different purposes. Along the way they learn about geospatial data and GIS (geographic information systems), the power of symbology, and the importance of considering a mapmakers purpose. They also try their hand at geospatial data visualization.">}}
 
 ## Booking a Program {#booking}
 
