@@ -1,7 +1,6 @@
 +++
 backgroundImage = ""
 date = 2022-03-10T20:00:00Z
-draft = true
 fee = "Free!"
 image = "/uploads/2021-09-03/makeamap.jpg"
 location = "Leventhal Map & Education Center: Learnin Center"
