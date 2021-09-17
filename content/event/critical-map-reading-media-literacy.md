@@ -6,7 +6,7 @@ image = "/uploads/2021-09-17/screen-shot-2021-09-17-at-10-28-11-am.png"
 location = "Virtual Zoom Session"
 publishDate = 2021-09-17T14:05:04Z
 registration = "https://www.leventhalmap.org/education/k12/professional-development/"
-title = "Critical Map Reading & Media Literacy"
+title = "Small Bites: Critical Map Reading & Media Literacy"
 
 +++
 ### Small Bites: Critical Map Reading & Media Literacy
