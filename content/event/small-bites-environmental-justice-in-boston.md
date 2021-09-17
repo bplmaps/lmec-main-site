@@ -1,9 +1,8 @@
 +++
 backgroundImage = ""
 date = 2022-05-12T04:00:00Z
-draft = true
 fee = "Free!"
-image = ""
+image = "/uploads/2021-09-03/sealevel.jpg"
 location = "Virtual Zoom session"
 publishDate = 2021-09-17T14:36:10Z
 registration = "https://www.leventhalmap.org/education/k12/professional-development/"
