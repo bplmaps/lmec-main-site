@@ -1,7 +1,6 @@
 +++
 backgroundImage = ""
 date = 2021-09-23T19:00:00Z
-draft = true
 fee = "Free!"
 image = "/uploads/2021-09-03/mapgiveaway.jpg"
 location = "Leventhal Map & Education Center/In-person event"
