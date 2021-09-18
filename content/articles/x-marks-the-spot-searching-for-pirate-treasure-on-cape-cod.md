@@ -3,7 +3,6 @@ author = "Michelle LeBlanc"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kk91fq614/3000,5186,6377,3352/full/0/default.jpg"
 date = 2021-09-19T04:00:00Z
 description = "For international “Talk like a Pirate Day,” we use maps in our collection to examine the story of Captain Southack and his mandate to recover the wreck of the pirate ship Whydah off the coast of Cape Cod in 1717."
-draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kk91fq614/3000,5186,6377,3352/full/0/default.jpg"
 tags = []
 title = "“X” Marks the Spot: Searching for Pirate Treasure on Cape Cod"
