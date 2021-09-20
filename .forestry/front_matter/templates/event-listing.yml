@@ -38,7 +38,7 @@ fields:
   name: registration
   label: Registration URL
   description: Enter the link to a registration site, such as Eventbrite or Bibliocommons
-- type: tags
+- type: tag_list
   name: tags
   label: Tags
   description: Enter a list of tags that can be used for identifying this event
