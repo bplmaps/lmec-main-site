@@ -22,13 +22,15 @@ Face masks must be worn at all times by all staff and visitors in the Central Li
 
 {{</ alert-box >}}
 
-We are open on the following days:
-
 {{< hours-table >}}
 
 #### Research Hours
 
 _Available by advance appointment on weekdays._ In-person access to the Rare Maps Reading Room is available by advance appointment on limited hours. Please see our [Research Appointments](/research/appointments/) page for more information.
+
+#### BPL Hours
+
+For the general opening hours of the Central Library in Copley Square, see the [BPL website](https://www.bpl.org/locations/3/).
 
 ## Directions
 

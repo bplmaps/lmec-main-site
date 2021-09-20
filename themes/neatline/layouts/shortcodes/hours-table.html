@@ -23,5 +23,36 @@
 
         </tbody>
     </table>
+</div>
 
+<div>
+    <table>
+        <thead>
+            <tr>
+                <td colspan="3">Special Hours</td>
+            </tr>
+            <tr>
+                <td>Day</td>
+                <td>Holiday</td>
+                <td>Hours</td>
+            </tr>
+        </thead>
+        <tbody>
+            {{ range .Site.Data.hours.exceptions }}
+
+            <tr>
+                <td>{{ .date }}</td>
+                <td>{{ .name }}</td>
+                <td>
+                    {{ with .special }}
+                     {{ . }}
+                    {{ else }}
+                    {{ .open }} – {{ .close }}
+                    {{ end }}</td>
+            </tr>
+ 
+{{ end }}
+
+        </tbody>
+    </table>
 </div>
