@@ -47,10 +47,12 @@
         </ul>
       </div>
       {{ if ge .Date now }}
-      {{ if ne .Params.Registration "" }}
+      {{ with .Params.Registration }}
+      {{ if ne . "" }}
       <div class="col-lg-3 text-lg-right text-left">
-        <a href="{{ .Params.Registration | safeURL }}" class="btn btn-primary">Register</a>
+        <a href="{{ . | safeURL }}" class="btn btn-primary">Register</a>
       </div>
+      {{ end }}
       {{ end }}
       {{ end }}
       <!-- border -->
@@ -58,14 +60,24 @@
         <div class="border-bottom border-primary"></div>
       </div>
     </div>
+
     <!-- event details -->
     <div class="row">
-      <div class="col-12 mb-50 content">
+      <div class="col-12 content">
         {{ if lt .Date now }}
         <div class="alert alert-warning"><div class="h4 font-secondary"><i class="fas fa-history mr-2"></i>Past event</div>This event has already taken place.</div>
         {{ end }}
         {{ .Content }}
+        
       </div>
+
+      <div class="col-12 mt-5">
+      <p class="h4"> {{- range .Params.tags }}
+      <span class="badge badge-pill badge-light">{{ . }}</span>
+      {{- end }}
+    </p>
+      </div>
+
     </div>
     
   </div>

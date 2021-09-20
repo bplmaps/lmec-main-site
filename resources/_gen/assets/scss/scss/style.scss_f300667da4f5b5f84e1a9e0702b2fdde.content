@@ -96,7 +96,7 @@ code {
   .btn-primary:hover {
     background-color: #004055; }
 
-.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary.active:not(:disabled):not(.disabled),
 .btn-primary:not(:disabled):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
@@ -491,16 +491,16 @@ textarea.form-control {
 .content ol {
   padding-left: 20px; }
 
-.content ul {
+.content ul:not(.list-unstyled) {
   padding-left: 0; }
-  .content ul li {
+  .content ul:not(.list-unstyled) li {
     position: relative;
     padding-left: 25px;
     margin-bottom: 5px;
     list-style-type: none;
     font-size: 17px;
     line-height: 1.55; }
-    .content ul li::before {
+    .content ul:not(.list-unstyled) li::before {
       content: "⊛ ";
       font-size: 80%;
       margin-left: -12px;
@@ -661,6 +661,16 @@ textarea.form-control {
 
 .donation-card p {
   font-size: 1.0em; }
+
+.badge-pill {
+  font-family: hero-new, sans-serif;
+  font-weight: 300;
+  padding: 10px 20px; }
+
+.event-tag-listing img {
+  width: 128px;
+  height: 64px;
+  object-fit: cover; }
 
 .top-header {
   font-size: 12px;

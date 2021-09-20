@@ -1,0 +1,7 @@
+<li class="media">
+  <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" class="mr-4">
+  <div class="media-body">
+    <h5>{{ dateFormat "2 Jan" .Date.Local }}</h5>
+    <h4><a href="{{ .Permalink }}" class="font-weight-normal">{{ .Title }}</a></h4>
+  </div>
+</li>

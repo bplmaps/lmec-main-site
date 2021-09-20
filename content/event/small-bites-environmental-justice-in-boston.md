@@ -7,6 +7,7 @@ location = "Virtual Zoom session"
 publishDate = 2021-09-17T14:36:10Z
 registration = "https://www.leventhalmap.org/education/k12/professional-development/"
 title = "Small Bites: Environmental Justice in Boston"
+tags = ["K-12 Professional Development"]
 
 +++
 ### **_Small Bites: Environmental Justice in Boston_**

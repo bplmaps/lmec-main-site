@@ -484,7 +484,7 @@ textarea.form-control{
     padding-left: 20px;
   }
 
-  ul {
+  ul:not(.list-unstyled) {
     padding-left: 0;
 
     li {
@@ -502,6 +502,7 @@ textarea.form-control{
         position: relative;
         bottom: 2px;
       }
+
     }
   }
 
@@ -743,5 +744,19 @@ p { font-size: 14px; line-height: 14px; }
 .donation-card {
   p {
     font-size: 1.0em;
+  }
+}
+
+.badge-pill {
+  font-family: $secondary-font;
+  font-weight: 300;
+  padding: 10px 20px;
+}
+
+.event-tag-listing {
+  img {
+    width: 128px;
+    height: 64px;
+    object-fit: cover;
   }
 }

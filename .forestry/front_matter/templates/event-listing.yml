@@ -4,7 +4,8 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
+  description: The title of the event
 - type: datetime
   name: date
   label: date
@@ -20,19 +21,27 @@ fields:
     required: true
 - type: textarea
   name: image
-  label: image
+  label: Image
+  description: The image that will appear in the listing gallery
 - type: textarea
   name: backgroundImage
-  label: backgroundImage
+  label: Background image
+  description: The image that will appear in the background of the header
 - type: text
   name: location
-  label: location
+  label: Location
+  description: For virtual events, enter Online
 - type: text
   name: fee
-  label: fee
+  label: Fee
 - type: text
   name: registration
-  label: registration
+  label: Registration URL
+  description: Enter the link to a registration site, such as Eventbrite or Bibliocommons
+- type: tags
+  name: tags
+  label: Tags
+  description: Enter a list of tags that can be used for identifying this event
 pages:
 - content/event/ashland-by-map.md
 - content/event/bending-lines-map-back-at-you-with-the-community-care-cooperative.md

@@ -7,6 +7,8 @@ location = "Leventhal Map & Education Center/In-person event"
 publishDate = 2021-09-17T13:32:41Z
 registration = "https://www.leventhalmap.org/education/k12/professional-development/"
 title = "Small Bites: The Educator Social and Map Giveaway"
+tags = ["K-12 Professional Development"]
+
 
 +++
 ### **_Small Bites: Educator Social and Map Giveaway_**

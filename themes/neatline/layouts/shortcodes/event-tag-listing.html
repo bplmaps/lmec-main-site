@@ -1,0 +1,11 @@
+{{ $selectedTag := .Get "tag"}}
+<ul class="list-unstyled event-tag-listing">
+    <!-- event -->
+    {{ $events := where (where site.RegularPages.ByDate "Type" "event") "Date" "ge" now }}
+
+    {{ range $events }}
+    {{ if in .Params.tags $selectedTag }}
+      {{ .Render "event-small" }}
+    {{ end }}
+    {{ end }}
+</ul>

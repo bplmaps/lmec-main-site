@@ -7,6 +7,8 @@ location = "Leventhal Map & Education Center: Learnin Center"
 publishDate = 2021-09-17T14:15:13Z
 registration = "https://www.leventhalmap.org/education/k12/professional-development/"
 title = "Small Bites: Learn to Make a Digital Map Mini-session"
+tags = ["K-12 Professional Development"]
+
 
 +++
 ### **_Small Bites: Learn to Make a Digital Map Mini-session_**

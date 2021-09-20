@@ -23,6 +23,10 @@ Face masks must be worn at all times by all staff and visitors in the Central Li
 
 See [Hours & Directions](/about/hours-directions/) for a map to the Map Center and information about transportation and parking.
 
+## Exhibition Events 
+
+{{< event-tag-listing tag="exhibition" >}}
+
 ## Group and Education Visits
 
 We welcome groups of visitors both from the general public and from educational institutions. For more information about K-12 visits, see our [K-12 School Visits](/education/k12/school-visits/) page. For university-level visits, see the [University Programs](/education/university/) page.
