@@ -1,0 +1,28 @@
+---
+label: Digital Project
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: file
+  name: backgroundImage
+  label: backgroundImage
+- type: file
+  name: cardImage
+  label: cardImage
+- type: text
+  name: description
+  label: description
+- type: text
+  name: resourceUrl
+  label: resourceUrl
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: type
+  label: type
+- type: number
+  name: weight
+  label: weight
