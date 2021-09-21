@@ -5,6 +5,7 @@ cardImage: images/page-header-backgrounds/education-programs.jpg
 description: Our K-12 programs reach thousands of students each year, and we offer
   resources and training for teachers around the world
 weight: "1"
+parentCard: true
 quicklinks:
 - text: Book a remote visit for my class with Map Center educators
   link: education/k12/school-visits

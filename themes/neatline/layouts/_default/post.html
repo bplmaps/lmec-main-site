@@ -6,8 +6,7 @@
       <!-- post date -->
       <li class="list-inline-item mr-3 ml-0"><i class="ti-calendar"></i> {{ .PublishDate.Format "Jan 2, 2006" }}</li>
       <!-- author -->
-      <li class="list-inline-item mr-3 ml-0"><i class="ti-user"></i> <a
-        href="{{ `author` | relURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></li>
+      <li class="list-inline-item mr-3 ml-0"><i class="ti-user"></i>{{ .Params.Author | title }}</li>
     </ul>
       <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
     <p class="card-text">{{ .Params.description  }}</p>

@@ -7,6 +7,7 @@ location = "Online"
 publishDate = 2021-09-17T10:00:00Z
 registration = "https://www.eventbrite.com/e/brighton-by-map-tickets-173813489827"
 title = "Brighton By Map"
+tags = ["Atlascope","Neighborhood By Map"]
 
 +++
 ### **Join the Leventhal Map & Education Center and Brighton Branch of the Boston Public Library as we explore history through maps**

@@ -749,8 +749,9 @@ p { font-size: 14px; line-height: 14px; }
 
 .badge-pill {
   font-family: $secondary-font;
-  font-weight: 300;
-  padding: 10px 20px;
+  font-weight: 400;
+  padding: 8px 15px;
+  color: #6c757d;
 }
 
 .event-tag-listing {
@@ -758,5 +759,12 @@ p { font-size: 14px; line-height: 14px; }
     width: 128px;
     height: 64px;
     object-fit: cover;
+  }
+}
+
+.alt-gallery-card {
+  .badge {
+    background-color: #e2ecf3;
+    color: $secondary-color;
   }
 }

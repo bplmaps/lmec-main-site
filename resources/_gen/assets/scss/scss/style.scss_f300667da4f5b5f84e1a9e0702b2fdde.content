@@ -664,13 +664,18 @@ textarea.form-control {
 
 .badge-pill {
   font-family: hero-new, sans-serif;
-  font-weight: 300;
-  padding: 10px 20px; }
+  font-weight: 400;
+  padding: 8px 15px;
+  color: #6c757d; }
 
 .event-tag-listing img {
   width: 128px;
   height: 64px;
   object-fit: cover; }
+
+.alt-gallery-card .badge {
+  background-color: #e2ecf3;
+  color: #1a1a37; }
 
 .top-header {
   font-size: 12px;

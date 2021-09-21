@@ -1,0 +1,62 @@
+{{ define "main" }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-lg-8 order-1 order-lg-1">
+        <div class="row">
+          <div class="col-12 mb-5 content">
+                      {{ with .Params.resourceURL }}
+            <a href="{{ . }}" target="_blank" class="btn btn-outline-primary mb-5"><i class="fas fa-external-link-square-alt mr-2"></i> Go to project </a>
+            {{ end }}
+
+
+            {{ .Content }}
+          </div>
+
+          
+       
+    </div>
+  </div>
+  <aside class="col-lg-4 order-2 order-lg-2 section-sidebar">
+    
+  
+
+<div class="bg-white mb-5">
+  <h4 class="mb-4">Tags</h4>
+  <p>
+
+    {{- range .Params.tags }}
+    <span class="badge badge-pill badge-light">{{ . }}</span>
+    {{- end }}
+
+</p>
+</div>
+
+<div class="bg-white">
+  <h4 class="mb-4">Other Digital Projects</h4>
+  {{ "<!-- post-item -->" | safeHTML }}
+  {{ $thisArticle := . }}
+  {{ $otherArticles := where site.Pages "Type" "digital-project" }}
+  {{ $otherArticles := $otherArticles | intersect ( where $otherArticles "Permalink" "!=" $thisArticle.Permalink ) | first 4 }}
+  {{ range $otherArticles }}
+  <div class="media border-bottom border-color pb-3 mb-3">
+    <a href="{{ .Permalink }}"><img class="mr-3 post-thumb-sm" src="{{ .Params.cardImage | absURL }}"></a>
+    <div class="media-body">
+      <a href="{{ .Permalink }}">
+        <h5 class="mt-0">{{ .Title }}</h5>
+      </a>
+    </div>
+  </div>
+  {{ end }}
+</div>
+  
+  
+
+ </aside>
+  </div>
+  </div>
+</section>
+
+{{ end }}

@@ -22,6 +22,8 @@ quicklinks:
 
 The Leventhal Map & Education Center has one of the most significant digital collections of any North American map library. We encourage all kinds of research and exploration into our collections through digital access, and seek to make digital material available on the most permissive licenses possible.
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761139/672,648,9487,3411/1000,/0/default.jpg" alt="Map of libraries in Massachusetts" caption="This [early twentieth century map of the libraries of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:wd3761121) celebrated the statewide circulation of nine million volumes of library material." >}}
+
 ### Digital repositories
 
 Our materials are mainly available on two online repositories, both of which are free to access without registration.
@@ -29,7 +31,6 @@ Our materials are mainly available on two online repositories, both of which are
 * **Digital Collections portal.** Nearly 10,000 objects, primarily flat maps but also including some bound atlases, ephemera, and series, are available on our [Digital Collections portal](https://collections.leventhalmap.org). The Digital Collections portal features an [advanced search](https://collections.leventhalmap.org/advanced) for filtering material by date and theme, as well as many maps that have been [georeferenced](https://collections.leventhalmap.org/search?f%5Bgeoreferenced_bsi%5D%5B%5D=yes) for display on top of a modern map layer. <a href="https://collections.leventhalmap.org/" class="btn btn-outline-primary btn-xs mr-2"><i class="fas fa-eye"></i> Go to the Digital Collections portal</a>
 * **Internet Archive.** Over 300 atlases and books, consisting of bound format, non-oversize materials, are scanned and uploaded to the [Internet Archive](https://archive.org/details/normanbleventhalmapcenter). <a href="https://archive.org/details/normanbleventhalmapcenter" class="btn btn-outline-primary btn-xs mr-2"><i class="fas fa-eye"></i> Go to the Internet Archive collection</a>
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761139/672,648,9487,3411/1000,/0/default.jpg" alt="Map of libraries in Massachusetts" caption="This [early twentieth century map of the libraries of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:wd3761121) celebrated the statewide circulation of nine million volumes of library material." >}}
 
 ### Other digital discovery tools
 
@@ -39,13 +40,8 @@ Our materials are mainly available on two online repositories, both of which are
 
 ## Searching the digital collections {#quick-search}
 
-This quick search tool will allow you to run a keyword search across the Digital Collections portal and Internet Archive. For more information on advanced searches of the full scope of our collections, see the [Searching the Collections](/collections/searching) page.
+{{< digital-collections-union-search >}}
 
-<script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
-
-<script src="https://geoservices.leventhalmap.org/lmec-union-search-webcomponent/lmec-union-search.min.js"></script>
-<lmec-union-search></lmec-union-search>
 
 ## Advanced access to digital objects
 

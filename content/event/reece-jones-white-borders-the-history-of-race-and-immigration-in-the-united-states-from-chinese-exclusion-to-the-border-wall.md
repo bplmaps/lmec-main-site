@@ -7,6 +7,7 @@ location = "Online"
 publishDate = 2021-08-11T20:28:29Z
 registration = "https://boston-public-library.zoom.us/webinar/register/WN_KNxcsS-_Qd-HYmonh_ikFg"
 title = "Reece Jones on White Borders: The History of Race and Immigration in the United States from Chinese Exclusion to the Border Wall"
+tags = ["lecture","book talk"]
 
 +++
 {{< alert-box title="Co-presented event" type="dark" >}}

@@ -4,12 +4,14 @@
   <div class="card-body">
     <h3 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
     <p class="card-text">{{ .Description | markdownify }}</p>
+    {{ if .Params.parentCard }}
     {{ with .Pages }}
     <ul class="font-secondary m-0 p-0">
     {{ range where . "Params.menu" "ne" false }}
     <li class="mb-1"><i class="fas fa-caret-right mr-1"></i><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ end }}
     </ul>
+    {{ end }}
     {{ end }}
   </div>
 </div>

@@ -58,15 +58,8 @@ While we make every effort to ensure that our online catalog matches our holding
 
 Our digital collections are found on several different repositories; see the [Digital Collections](/collections/digital-collections) section for more information about how our digitized material is divided across these systems.
 
-#### Quick search 
 
-To make a quick keyword search across both the Digital Collections portal and Internet Archive, use the quick search tool.
-
-<script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
-
-<script src="https://geoservices.leventhalmap.org/lmec-union-search-webcomponent/lmec-union-search.min.js"></script>
-<lmec-union-search></lmec-union-search>
+{{< digital-collections-union-search >}}
 
 #### Advanced searches
 

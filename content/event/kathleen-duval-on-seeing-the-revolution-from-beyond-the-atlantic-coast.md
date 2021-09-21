@@ -6,7 +6,8 @@ image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053n92q/204,
 location = "Online"
 publishDate = 2021-06-15T17:57:47Z
 registration = "https://www.eventbrite.com/e/kathleen-duval-on-seeing-the-revolution-from-beyond-the-atlantic-coast-tickets-159874680473"
-title = "Kathleen DuVal on seeing the Revolution from beyond the Atlantic coast"
+title = "Kathleen DuVal on Seeing the Revolution From Beyond the Atlantic Coast"
+tags = ["seminar","American Revolutionary War Era"]
 
 +++
 ### An award-winning historian whose work reorients the geography of the Revolutionary period joins us for a free conversation
