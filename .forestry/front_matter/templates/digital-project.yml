@@ -30,3 +30,5 @@ fields:
 - type: number
   name: weight
   label: weight
+pages:
+- content/projects/digital-projects/mapping-a-world-of-cities.md
