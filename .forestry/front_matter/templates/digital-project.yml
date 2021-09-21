@@ -23,6 +23,10 @@ fields:
 - type: text
   name: type
   label: type
+  hidden: true
+  default: digital-project
+  config:
+    required: false
 - type: number
   name: weight
   label: weight
