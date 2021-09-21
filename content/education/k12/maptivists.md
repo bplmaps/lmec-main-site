@@ -20,4 +20,6 @@ The resources on this site are organized to help educators find ways to introduc
 
 If you have questions about these materials or if you work at a Boston high school and want to learn more about becoming one of our _Maptivist_ partners, please contact our [Director of Education](people/michelle-leblanc) or [Education Coordinator](people/lynn-brown) for more information.
 
-### More resources coming soon.
+### Explore Lessons
+
+{{< resources-list >}}
