@@ -14,6 +14,8 @@ You can also visit the [Bending Lines digital exhibition](https://www.leventhalm
 
 ### Research appointments available
 
+{{< alert-box type="warning" >}} Due to limited staff presence in the library, we are not scheduling any research appointments between 9/27—10/4. {{< /alert-box >}}
+
 Research appointments in the Rare Maps Reading Room are by advance appointment on weekdays. Appointments will be limited in time and duration. We also ask that researchers who can effectively use a digitized item, or who can put off their research visit until September, to strongly consider doing so.
 
 For more information, see the [Research Appointments](https://www.leventhalmap.org/research/appointments/) page.

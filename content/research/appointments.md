@@ -7,6 +7,8 @@ weight: "1"
 ---
 ## Remote Research Appointments
 
+{{< alert-box type="warning" >}} Due to limited staff presence in the library, we are not scheduling any research appointments between 9/27—10/4. {{< /alert-box >}}
+
 Our reference library staff can help you find material in our Digital Collections, and conduct research related to historical geography.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrUU7FiIqgOQf1HK?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc; margin-bottom: 50px;"></iframe>
