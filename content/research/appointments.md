@@ -7,8 +7,6 @@ weight: "1"
 ---
 ## Remote Research Appointments
 
-{{< alert-box type="warning" >}} Due to limited staff presence in the library, we are not scheduling any research appointments between 9/27—10/4. {{< /alert-box >}}
-
 Our reference library staff can help you find material in our Digital Collections, and conduct research related to historical geography.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrUU7FiIqgOQf1HK?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc; margin-bottom: 50px;"></iframe>
@@ -29,6 +27,7 @@ Non-Massachusetts residents can apply for a research card for the purpose of usi
 
 #### Request an In-Person Appointment
 
+{{< alert-box type="warning" >}} Due to limited staff presence in the library, we are not scheduling any research appointments between 9/27—10/4. {{< /alert-box >}}
 
 Once you have obtained a library card and have identified the material that you would like to access, please fill out the following form to request an appointment. Please note that not all material can be paged on demand, and you should allow for several days between placing your request before your items can be paged.
 
