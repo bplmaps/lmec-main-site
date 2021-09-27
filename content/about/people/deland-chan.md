@@ -1,6 +1,6 @@
 ---
 title: Deland Chan
-description: Public Research Fellow 2020–2021
+description: Public Research Fellow 2021–2022
 headshot: "/images/headshots/deland-chan.jpg"
 type: person
 contact:

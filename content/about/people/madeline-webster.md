@@ -1,6 +1,6 @@
 ---
 title: Madeline Webster
-description: Public Research Fellow 2020–2021
+description: Public Research Fellow 2021–2022
 headshot: "/images/headshots/madeline-webster.jpg"
 type: person
 contact:
