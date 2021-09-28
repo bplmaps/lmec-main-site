@@ -1621,50 +1621,6 @@
   URL: https://collections.leventhalmap.org/map-sets/336
   airtable_createdTime: '2020-11-06T20:00:22.000Z'
   airtable_id: recXxK9a3j3JqdJDX
-- Description: "This lesson introduces students to the Home Owners Loan Corporation\
-    \ (HOLC) maps of the 1930s and 40s, encouraging them to consider what qualities\
-    \ make a good neighborhood and in what ways those qualities can and can\u2019\
-    t be measured. The legacy of redlining is also addressed with supplemental resources\
-    \ that explain the persistent disinvestment that resulted from the anti-Black\
-    \ and anti-immigrant bias accepted by the banking and real estate sectors at the\
-    \ time and the ways discrimination in these sectors continues today."
-  Grade_Level:
-  - 7-9
-  - 10-12
-  Image:
-  - filename: commonwealth_00000x40j_access800.jpg
-    height: 800
-    id: attYUPq8W7HmTNNNX
-    size: 444557
-    thumbnails:
-      full:
-        height: 3000
-        url: https://dl.airtable.com/.attachmentThumbnails/ac882239018c455d8c812e7ff8d76071/af5441f1
-        width: 3000
-      large:
-        height: 512
-        url: https://dl.airtable.com/.attachmentThumbnails/76af9fbe1085682473a8aeaf21427710/4cc1e65a
-        width: 631
-      small:
-        height: 36
-        url: https://dl.airtable.com/.attachmentThumbnails/64f52f09f93499fea625c4992fe4a351/9774c48c
-        width: 44
-    type: image/jpeg
-    url: https://dl.airtable.com/.attachments/96adaf7b0b086d50ce617bd36a5d42ba/5a736d00/commonwealth_00000x40j_access800.jpg
-    width: 986
-  Last Updated: '2021-09-13'
-  Name: Redlining Maps and Their Legacy
-  Open URL:
-    label: Open URL
-    url: https://collections.leventhalmap.org/educators/curriculum-materials/130
-  Theme:
-  - Redlining
-  - Social Issues
-  - Maptivist
-  Type: Map Sets and Lesson Plans
-  URL: https://collections.leventhalmap.org/educators/curriculum-materials/130
-  airtable_createdTime: '2021-05-20T14:56:41.000Z'
-  airtable_id: recZM5AO0E9v9CDix
 - Description: This exercise can serve as an introduction for students to think about
     how maps show information and the different types of maps they might encounter.
   Grade_Level:
@@ -2570,6 +2526,52 @@
   URL: https://collections.leventhalmap.org/map-sets/482
   airtable_createdTime: '2020-11-13T19:03:37.000Z'
   airtable_id: recvfyjVrNszmakK1
+- Description: "This lesson introduces students to the Home Owners Loan Corporation\
+    \ (HOLC) maps of the 1930s and 40s, encouraging them to consider what qualities\
+    \ make a good neighborhood and in what ways those qualities can and can\u2019\
+    t be measured. The legacy of redlining is also addressed with supplemental\nresources\
+    \ that explore the persistent disinvestment that resulted from the anti-Black\
+    \ and anti-immigrant bias accepted by the banking and real estate sectors at the\
+    \ time and the ways discrimination in these sectors continues today."
+  Grade_Level:
+  - 7-9
+  - 10-12
+  Image:
+  - filename: Screen Shot 2021-09-28 at 2_50_59 PM.png
+    height: 1222
+    id: attsLauSq4tftQlzq
+    size: 5014492
+    thumbnails:
+      full:
+        height: 3000
+        url: https://dl.airtable.com/.attachmentThumbnails/fa24994c938e9f8ec37a32fe4cd825b9/f1f6ffcb
+        width: 3000
+      large:
+        height: 512
+        url: https://dl.airtable.com/.attachmentThumbnails/3349cdf7bfd20f8627875c1ce7cae1e3/c4bff27e
+        width: 629
+      small:
+        height: 36
+        url: https://dl.airtable.com/.attachmentThumbnails/08b023afabb968ebbfcef30ebe264717/7ad1ee51
+        width: 44
+    type: image/png
+    url: https://dl.airtable.com/.attachments/61e70f0b6b78a6f2f98711146af97299/5cf913f0/ScreenShot2021-09-28at2_50_59PM.png
+    width: 1502
+  Last Updated: '2021-09-28'
+  Name: Redlining Maps and Their Legacy
+  Open URL:
+    label: Open URL
+    url: https://collections.leventhalmap.org/educators/curriculum-materials/133
+  Theme:
+  - Redlining
+  - 'Boston '
+  - Maptivist
+  - Social Issues
+  - US History
+  Type: Map Sets and Lesson Plans
+  URL: https://collections.leventhalmap.org/educators/curriculum-materials/133
+  airtable_createdTime: '2021-09-28T18:44:44.000Z'
+  airtable_id: recvuaHitaspKpu9O
 - Description: This map set is a sample collection of maps that can be used across
     time periods to teach AP United States history.
   Grade_Level:
