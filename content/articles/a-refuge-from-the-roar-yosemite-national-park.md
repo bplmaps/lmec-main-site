@@ -19,13 +19,13 @@ Indigenous peoples had lived in the Yosemite Valley and the Sierra Nevada mounta
 
 In 1864, budding conservationists led by a man named Galen Clark convinced President Lincoln to protect part of the land in Yosemite Valley, and he declared the area a public trust of the state of California. This was an important stepping stone for the establishment of the national and state park systems; less than 10 years later, in 1872, Wyoming’s Yellowstone became the country’s first national park.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14b296w/313,335,4577,5258/,1200/0/default.jpg" caption="[This beautiful relief map](https://collections.leventhalmap.org/search/commonwealth:7h14b295m) is of Yellowstone National Park in Wyoming, the nation’s first established national park." class="figure-right" >}}
-
 Famed conservationist John Muir spent extensive time in Yosemite and was awed by the beauty and serenity of the landscape.
 
 > Yosemite Park is a place of rest, a refuge from the roar and dust and weary, nervous, wasting work of the lowlands, in which one gains the advantages of both solitude and society.... This one noble park is big enough and rich enough for a whole life of study and aesthetic enjoyment.”
 >
 > \- [_John of the Mountains: The Unpublished Journals of John Muir_](https://vault.sierraclub.org/john_muir_exhibit/bibliographic_resources/book_jackets/john_of_the_mtns_wolfe_j.aspx) (1938)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14b296w/313,335,4577,5258/,1200/0/default.jpg" caption="[This beautiful relief map](https://collections.leventhalmap.org/search/commonwealth:7h14b295m) is of Yellowstone National Park in Wyoming, the nation’s first established national park." class="figure-right" >}}
 
 In 1889, Muir and others successfully lobbied for the protection of 1,500 square miles of wilderness in the Yosemite Valley. On October 1, 1890, Congress voted to protect this land and establish it as Yosemite National Park, signed into law by President Harrison; the portion of the valley that had been previously state-controlled joined as part of the park in 1906. In total, the national park today covers 1,187 square miles.
 
