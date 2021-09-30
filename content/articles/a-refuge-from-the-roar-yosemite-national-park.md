@@ -11,15 +11,15 @@ title = "A Refuge from the Roar: Yosemite National Park "
 +++
 On this day in 1890, Congress created Yosemite National Park in California, the third park to join America’s National Park System.
 
-Yosemite today is famous for its stunning views, ancient sequoia trees, massive waterfalls, and granite cliffs of El Capitan and Half Dome known to hikers and rock climbers across the world. Its history is also rich with culture and conflict.
-
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc59h/697,515,5227,4348/1200,/0/default.jpg" caption="This map in our collections is an early map of the Yosemite Valley from the 1870s, after it had been declared a public trust of the state of California by President Lincoln, but before it would become an official National Park." class="figure-left" >}}
+
+Yosemite today is famous for its stunning views, ancient sequoia trees, massive waterfalls, and granite cliffs of El Capitan and Half Dome known to hikers and rock climbers across the world. Its history is also rich with culture and conflict. 
 
 Indigenous peoples had lived in the Yosemite Valley and the Sierra Nevada mountains for centuries, which [we’ve written about before,](https://www.leventhalmap.org/articles/public-lands-day/) but those of European descent didn’t enter the region until the mid-19th century, when a gold rush brought an influx of miners and settlers to California. Damage to the surrounding land and native populations followed, and this, along with anxieties about modernism, led to the growth of the environmentalist movement in the region.
 
 In 1864, budding conservationists led by a man named Galen Clark convinced President Lincoln to protect part of the land in Yosemite Valley, and he declared the area a public trust of the state of California. This was an important stepping stone for the establishment of the national and state park systems; less than 10 years later, in 1872, Wyoming’s Yellowstone became the country’s first national park.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14b296w/313,335,4577,5258/,1200/0/default.jpg" caption="This beautiful map is of Yellowstone National Park in Wyoming, the nation’s first established national park. It's part of a series of topographic relief maps created by John Renshawe and the United States Geological Survey." class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14b296w/313,335,4577,5258/,1200/0/default.jpg" caption="This beautiful map is of Yellowstone National Park in Wyoming, the nation’s first established national park." class="figure-right" >}}
 
 Famed conservationist John Muir spent extensive time in Yosemite and was awed by the beauty and serenity of the landscape.
 
