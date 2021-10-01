@@ -26,7 +26,7 @@ The K-12 Leventhal Map & Education team piloted a semester-long elective at the 
 
 Our framing question for the class was _How do racial ideas become spatial practice?_ Using Boston as the focus, students explored their own and other Boston neighborhoods, in the past and present, and investigated the role of race in housing and real estate policy and practice, development, gentrification, police violence and resistance, public art and a number of other topics using maps and digital mapping. However, this course could be adjusted to address MANY different kinds of questions: for example, _What does environmental justice and injustice look like in Boston? What is food justice and what does that look like in Boston? What kinds of housing exists in Boston and where, and who has access to different kinds of housing under what circumstances? What is the relationship between income and education in Boston?_
 
-We used many of the lessons and resources below in the elective. If you would like any additional information about the elective or any particular lesson, resource or topic, just reach out!
+We used many of the lessons and resources listed here in the elective. If you would like any additional information about the elective or any particular lesson, resource or topic, just reach out! We'd love to talk to you.
 
 **_education@leventhalmap.org_**
 
