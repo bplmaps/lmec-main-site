@@ -32,15 +32,11 @@ At the Leventhal Map & Education Center, we believe that maps are powerful tools
     
     {{< carousel-figure src="/uploads/eliot3.jpg" >}} {{< /carousel-figure >}}
 
-  {{< /carousel >}}
+{{< /carousel >}}
 
 ### Bringing your class to the Map Center, or the Map Center to your class
 
 See our [School Visits](/education/k12/school-visits) page for more information on how to bring your class to the Map Center.
-
-{{< alert-box type="warning" icon="fas fa-laptop-house" title="Remote Instruction" >}}
-We are currently offering remote lessons by Map Center educators during our closure for the COVID-19 pandemic.
-{{< /alert-box >}}
 
 ### Resources for teachers
 
