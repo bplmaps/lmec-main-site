@@ -16,9 +16,9 @@ In _Maptivist_ classrooms, students work with a variety of historical and modern
 
 Students also learn the basics of geospatial data and how they can use maps to better understand trends in their city and propose possible solutions.
 
-Here you'll find information about our elective pilot and a list of resources, from websites on redlining to lessons about how to be a critical map reader using Boston Wi-Fi data as a subject. 
+Here you'll find information about our elective pilot and a list of resources, from websites on redlining to lessons about how to be a critical map reader using Boston Wi-Fi data as a subject.
 
-If you have questions about these materials or if you work at a Boston high school and want to learn more about becoming one of our _Maptivist_ partners, please contact our [Director of Education](people/michelle-leblanc) or [K-12 Education Manager](people/lynn-brown "K-12 Education Manager") for more information.
+If you have questions about these materials or if you work at a Boston high school and want to learn more about becoming one of our _Maptivist_ partners, please contact our [Director of Education](https://www.leventhalmap.org/about/people/michelle-leblanc/) or [K-12 Education Manager](https://www.leventhalmap.org/about/people/lynn-brown/ "K-12 Education Manager") for more information.
 
 ### Elective
 
