@@ -6,13 +6,13 @@ image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w367/791,
 location = "Online"
 publishDate = 2021-08-11T20:28:29Z
 registration = "https://boston-public-library.zoom.us/webinar/register/WN_KNxcsS-_Qd-HYmonh_ikFg"
+tags = ["lecture", "book talk"]
 title = "Reece Jones on White Borders: The History of Race and Immigration in the United States from Chinese Exclusion to the Border Wall"
-tags = ["lecture","book talk"]
 
 +++
 {{< alert-box title="Co-presented event" type="dark" >}}
 
-This event is co-presented by [BPL Adult Programs](https://bpl.bibliocommons.com/events/6112dc258b2801380049766d)
+This event is co-presented by [BPL Adult Programs](https://bpl.bibliocommons.com/events/6112dc258b2801380049766d) and the [State Library of Massachusetts](https://www.mass.gov/orgs/state-library-of-massachusetts)
 
 {{< /alert-box >}}
 
