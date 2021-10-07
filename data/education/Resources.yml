@@ -2446,6 +2446,49 @@
   URL: https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58
   airtable_createdTime: '2020-07-24T15:14:51.000Z'
   airtable_id: recuMpIORnkRi1UMK
+- Description: The Map Center has created several different versions of Visualizing
+    Boston. In these lessons, students go through the process of closely reading two
+    individual maps that show some kind of information about Boston and then look
+    at the maps side by side to think about how they inform or complicate one another.
+    These lessons ask students to slow down their examination of each map and consider
+    how the map is showing information and what it can tell them and NOT tell them
+    about some aspect of Boston, from demographics to the climate crisis.
+  Grade_Level:
+  - 6-9
+  - 10-12
+  Image:
+  - filename: commonwealth_q524n632m_access800.jpg
+    height: 800
+    id: attJPZV4xy3CWeIBE
+    size: 257062
+    thumbnails:
+      full:
+        height: 3000
+        url: https://dl.airtable.com/.attachmentThumbnails/36c7f49b421f63ca03be9bdda290f8a0/9be1ca98
+        width: 3000
+      large:
+        height: 512
+        url: https://dl.airtable.com/.attachmentThumbnails/d9238d7571d7c1acce5a2ade27bb924d/10800a41
+        width: 633
+      small:
+        height: 36
+        url: https://dl.airtable.com/.attachmentThumbnails/e1ca1b3ed365184c371858252e710277/cc076045
+        width: 45
+    type: image/jpeg
+    url: https://dl.airtable.com/.attachments/0a7a4f9337de062fbb1cdf66c69b9568/74bfcc54/commonwealth_q524n632m_access800.jpg
+    width: 989
+  Last Updated: '2021-10-07'
+  Name: Visualizing Boston
+  Open URL:
+    label: Open URL
+    url: https://collections.leventhalmap.org/educators/curriculum-materials/134
+  Theme:
+  - 'Boston '
+  - Maptivist
+  Type: Map Sets and Lesson Plans
+  URL: https://collections.leventhalmap.org/educators/curriculum-materials/134
+  airtable_createdTime: '2021-10-07T18:29:03.000Z'
+  airtable_id: recugJj64WQFQLxzZ
 - Description: Understanding the coordinate plane and how to locate objects on it
     is essential to higher level mathematics. By connecting this concept to maps,
     students have a framework through which to grasp the importance of this foundational
