@@ -141,4 +141,4 @@ twitter = "bplmaps"
 link = "/about/hours-directions"
 icon = "fas fa-store-alt-slash"
 text = "Closed Monday, October 11"
-enabled = true
+enabled = false
