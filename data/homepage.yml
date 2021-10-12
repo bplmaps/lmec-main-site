@@ -47,12 +47,9 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: K-12 professional development
-    text: Sign up for the "Small Bites" Fall 2021 series
-    link: /education/k12/professional-development/
-  - badge: Map story
-    text: Follow the map of a conflict over regulating Boston Harbor
-    link: /articles/humphries-boston-harbor/
+  - badge: Seminar series
+    text: Join Kathleen DuVal for a discussion on the less-familiar geographies of the American Revolutionary Era
+    link: /event/kathleen-duval-on-seeing-the-revolution-from-beyond-the-atlantic-coast/
 audiences:
   enable: true
   audienceGroups:
