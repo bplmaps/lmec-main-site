@@ -47,9 +47,13 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Gallery tours
+    text: Join a free tour of _Bending Lines_, offered every Monday, Friday, and Saturday
+    link: "/exhibitions/visit"
   - badge: Seminar series
-    text: Join Kathleen DuVal for a discussion on the less-familiar geographies of the American Revolutionary Era
-    link: /event/kathleen-duval-on-seeing-the-revolution-from-beyond-the-atlantic-coast/
+    text: Join Kathleen DuVal for a discussion on the less-familiar geographies of
+      the American Revolutionary Era
+    link: "/event/kathleen-duval-on-seeing-the-revolution-from-beyond-the-atlantic-coast/"
 audiences:
   enable: true
   audienceGroups:
@@ -115,8 +119,9 @@ frontpageFeature:
   enable: true
   bg_image: https://tile.loc.gov/image-services/iiif/service:gmd:gmd376:g3764:g3764b:pm002791/608,834,7037,2742/,1200/0/default.jpg
   title: The truth is in there
-  content: 'Our exhibition *Bending Lines: Maps and Data from Distortion
-    to Deception* is now available in person at our free gallery at the Central Library in Copley Square.'
+  content: 'Our exhibition *Bending Lines: Maps and Data from Distortion to Deception*
+    is now available in person at our free gallery at the Central Library in Copley
+    Square.'
   button:
     enable: true
     label: Information for visitors
