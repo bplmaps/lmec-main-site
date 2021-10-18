@@ -48,7 +48,8 @@ cta:
   enable: true
   announcements:
   - badge: Gallery tours
-    text: Join a free tour of _Bending Lines_, offered every Monday, Friday, and Saturday
+    text: Take a free interpretive tour of _Bending Lines_, offered every Monday,
+      Friday, and Saturday
     link: "/exhibitions/visit"
   - badge: Seminar series
     text: Join Kathleen DuVal for a discussion on the less-familiar geographies of
