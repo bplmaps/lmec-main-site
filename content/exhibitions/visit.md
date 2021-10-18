@@ -25,7 +25,7 @@ See [Hours & Directions](/about/hours-directions/) for a map to the Map Center a
 
 ## Gallery Tours
 
-Gallery tours last approximately 30 minutes and do not require advance registration. To join a gallery tour, meet at the gallery front desk at the scheduled time.
+Our free gallery tours last approximately 30 minutes and do not require advance registration. To join a gallery tour, meet at the gallery front desk at the scheduled time.
 
 | Day      | Gallery tour hours |
 |----------|--------------------|
