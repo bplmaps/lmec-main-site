@@ -23,7 +23,17 @@ Face masks must be worn at all times by all staff and visitors in the Central Li
 
 See [Hours & Directions](/about/hours-directions/) for a map to the Map Center and information about transportation and parking.
 
-## Exhibition Events 
+## Gallery Tours
+
+Gallery tours last approximately 30 minutes and do not require advance registration. To join a gallery tour, meet at the gallery front desk at the scheduled time.
+
+| Day      | Gallery tour hours |
+|----------|--------------------|
+| Monday   | 11:30 am           |
+| Friday   | 11:30 am           |
+| Saturday | 11:30 am           |
+
+## Special Exhibition Events
 
 {{< event-tag-listing tag="exhibition" >}}
 
