@@ -47,6 +47,10 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Schedule change
+    text: The Central Library and Map Center will be closed on Saturday, October 23
+      to accommodate early voting
+    link: ''
   - badge: Gallery tours
     text: Take a free interpretive tour of _Bending Lines_, offered every Monday,
       Friday, and Saturday
