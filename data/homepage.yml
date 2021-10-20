@@ -55,10 +55,6 @@ cta:
     text: Take a free interpretive tour of _Bending Lines_, offered every Monday,
       Friday, and Saturday
     link: "/exhibitions/visit"
-  - badge: Seminar series
-    text: Join Kathleen DuVal for a discussion on the less-familiar geographies of
-      the American Revolutionary Era
-    link: "/event/kathleen-duval-on-seeing-the-revolution-from-beyond-the-atlantic-coast/"
 audiences:
   enable: true
   audienceGroups:
