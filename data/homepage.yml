@@ -108,12 +108,14 @@ audiences:
       from home
     color: "#440047"
     links:
-    - title: See all of our digital projects and interactives
-      link: "/projects/digital-projects/"
     - title: Browse thousands of digitized maps in our Digital Collections
       link: collections/digital-collections
+    - title: See all of our digital projects and interactives
+      link: "/projects/digital-projects/"
     - title: Explore Boston's history with Atlascope
       link: https://atlascope.leventhalmap.org
+    - title: See digital experiments and remix your own code on Glitch
+      link: https://glitch.com/@bplmaps/
     - title: Read guides and tutorials on digital mapping
       link: https://geoservices.leventhalmap.org/cartinal
 frontpageFeature:
