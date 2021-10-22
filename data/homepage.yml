@@ -93,8 +93,6 @@ audiences:
       around the world, and we welcome researchers from all walks of life
     color: "#056676"
     links:
-    - title: Get permission to reproduce our maps in your work
-      link: "/collections/permissions/"
     - title: Learn more about the collections
       link: collections
     - title: Make a research appointment
@@ -103,6 +101,8 @@ audiences:
       link: research/geospatial
     - title: Browse our guides and finding aids
       link: research/guides
+    - title: Get permission to reproduce our maps in your work
+      link: "/collections/permissions/"
   - name: Digital tools
     description: Explore our collections and discover the world of historical geography
       from home
