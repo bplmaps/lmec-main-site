@@ -13,12 +13,12 @@ Map Center staff are frequent contributors to journals and conferences in the fi
 
 Included here are a few excerpts from the article. If you are interested in reading it in its entirety, [you can get access here](https://www.tandfonline.com/doi/full/10.1080/15420353.2021.1944949).
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3x8177423/full/,1200/0/default.jpg" caption="The Leventhal Center's Maptivist initiative uses Boston-focused data maps like this one to challenge students to think critically about how data can be interpreted." class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:s4657c413/full/,1200/0/default.jpg" caption="" class="figure-right" >}}
+
 **_Data Hub Project and public course:_**
 
 _During this grant project, the LMEC is devising a three-part course free to all public library patrons with reserved seats for K-12 teachers, with the aim of setting up participants to start thinking spatially. We define a spatially literate person broadly as someone with the ability to operate thoughtfully within each phase of the data information lifecycle. The free course, which is explicitly not a mapmaking course, focuses on the earliest stages of the data lifecycle: data collection, acquisition, description and cleaning. The learning objectives are stated so that after taking the course, participants will be well-positioned to begin engaging in the latter phases of the spatial data lifecycle. The premise is that far too many mapmaking courses focus on the “exciting” aspects of the craft, that is, analysis and visualization. Our course takes a step back, and prepares participants to be able to more thoughtfully engage with GIS data._
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3x8177423/full/,1200/0/default.jpg" caption="The Leventhal Center's Maptivist initiative uses Boston-focused data maps like this one to challenge students to think critically about how data can be interpreted." class="figure-left" >}}
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:s4657c413/full/,1200/0/default.jpg" caption="" class="figure-right" >}}
 
 **_On next steps for geospatial training and outreach:_**
 
