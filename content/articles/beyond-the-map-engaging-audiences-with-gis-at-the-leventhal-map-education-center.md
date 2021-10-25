@@ -1,7 +1,7 @@
 +++
 author = "Michelle LeBlanc"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3x8177423/302,629,2688,1322/,1200/0/default.jpg"
-date = 2021-10-26T11:00:00Z
+date = 2021-10-26T06:00:00Z
 description = "Map Center staff recently published an article in the Journal of Map & Geography Libraries that highlights the Center’s geospatial data work, including use of our public data portal and our Maptivists initiative with Boston high schools. "
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3x8177423/302,629,2688,1322/,1200/0/default.jpg"
 tags = ["geospatial", "data portal", "GIS", "Maptivists"]
