@@ -25,6 +25,6 @@ Included here are a few excerpts from the article. If you are interested in read
 
 {{< alert-box type="info" >}}
 
-For additonal guides and resources on GIS, data, and mapmaking, you can visit the [LMEC Data Portal](https://data.leventhalmap.org/#/)  or our [Cartinal database](https://cartinal.leventhalmap.org/).
+For additonal guides and resources on GIS, data, and mapmaking, you can visit the [LMEC Data Portal](https://data.leventhalmap.org/#/)  or our [Cartinal documentation portal](https://cartinal.leventhalmap.org/).
 
 {{</ alert-box >}}
