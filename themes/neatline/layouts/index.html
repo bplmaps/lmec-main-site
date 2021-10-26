@@ -44,6 +44,31 @@
 {{ end }}
 <!-- /hero slider -->
 
+
+{{ if site.Data.homepage.upcomingLivestream.enable }}
+<section class="section bg-dark d-none p-4" id="livestream-section">
+  <div class="container">
+
+    <div class="row" id="streaming-now-badge"><h2 class="mx-auto"><span class="badge badge-info"><i class="fas fa-video mr-2"></i>Streaming live now</span></h2></div>
+    <div class="row">
+      <div class="mx-auto" id="livestream-container"></div>
+    </div>
+    <script>
+      let startTime = new Date("{{site.Data.homepage.upcomingLivestream.startTime}}");
+      let endTime = new Date("{{site.Data.homepage.upcomingLivestream.endTime}}");
+      let n = new Date();
+      if(n >= startTime && n <= endTime) {
+        document.getElementById("livestream-section").classList.remove("d-none");
+        document.getElementById("livestream-container").innerHTML = "{{- site.Data.homepage.upcomingLivestream.embedLink -}}";
+      }
+    </script>
+
+  </div>
+</section>
+
+{{ end }}
+
+
 <!-- cta -->
 {{ if $data.homepage.cta.enable }}
 {{ with $data.homepage.cta }}
