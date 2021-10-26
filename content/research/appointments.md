@@ -5,19 +5,7 @@ description: Information on setting up an in-person or remote research appointme
 weight: "1"
 
 ---
-## Remote Research Appointments
-
-Our reference library staff can help you find material in our Digital Collections, and conduct research related to historical geography.
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrUU7FiIqgOQf1HK?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc; margin-bottom: 50px;"></iframe>
-
 ## In-Person Access to Rare Maps
-
-{{< alert-box type="warning" icon="fas fa-exclamation-triangle" title="Limited research appointments beginning June 14" >}}
-
-Researchers can make appointments to view materials beginning on June 14. Appointments will be limited in duration. We ask that researchers who can effectively use a digitized item, or who can put off their research visit until September, to consider doing so.
-
-{{< /alert-box >}}
 
 #### Access to the Collections
 
@@ -26,8 +14,6 @@ Our collections are free and open to the public. Access to rare materials is ava
 Non-Massachusetts residents can apply for a research card for the purpose of using research materials (in-library use only). This can be obtained with photo identification that shows your name and address and has your signature. The easiest form of ID is a driver’s license or State ID card showing your current address. For more information about obtaining a research card, visit the [BPL website](https://www.bpl.org/faq/getting-a-library-card/#faq_167906).
 
 #### Request an In-Person Appointment
-
-{{< alert-box type="warning" >}} Due to limited staff presence in the library, we are not scheduling any research appointments between 9/27—10/4. {{< /alert-box >}}
 
 Once you have obtained a library card and have identified the material that you would like to access, please fill out the following form to request an appointment. Please note that not all material can be paged on demand, and you should allow for several days between placing your request before your items can be paged.
 
@@ -55,3 +41,9 @@ Items **not** permitted in the reading room include but are not limited to:
 * Bags of any kind or size
 * Food, drink, or chewing gum
 * Strollers
+
+## Remote Research Appointments
+
+Our reference library staff can help you find material in our Digital Collections, and conduct research related to historical geography.
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrUU7FiIqgOQf1HK?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc; margin-bottom: 50px;"></iframe>

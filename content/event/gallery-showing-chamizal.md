@@ -1,6 +1,6 @@
 +++
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c45p/7386,1785,3559,2078/,1200/0/default.jpg"
-date = 2021-10-20T18:30:00Z
+date = 2021-11-03T18:30:00Z
 fee = "Free"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c45p/7386,1785,3559,2078/,1200/0/default.jpg"
 location = "Learning Center"
@@ -11,9 +11,9 @@ title = "Behind Bending Lines: More Maps of the Chamizal Dispute"
 +++
 ### See more maps of an infamous border dispute
 
-{{< alert-box >}}
+{{< alert-box type="warning" icon="fas fa-calendar-minus" title="Rescheduled" >}}
 
-This event has been rescheduled from October 13 to October 20.
+This event has been rescheduled to November 3.
 
 {{</ alert-box >}}
 

@@ -47,9 +47,13 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Seminar series
-    text: Join Kathleen DuVal for a discussion on the less-familiar geographies of the American Revolutionary Era
-    link: /event/kathleen-duval-on-seeing-the-revolution-from-beyond-the-atlantic-coast/
+  - badge: New acquisition
+    text: A map of American folklore that was the target of an anti-Communist investigation
+    link: https://bpl.bibliocommons.com/v2/record/S75C8038083
+  - badge: Gallery tours
+    text: Take a free interpretive tour of _Bending Lines_, offered every Monday,
+      Friday, and Saturday
+    link: "/exhibitions/visit"
 audiences:
   enable: true
   audienceGroups:
@@ -96,27 +100,30 @@ audiences:
       link: research/geospatial
     - title: Browse our guides and finding aids
       link: research/guides
-    - title: Apply for a Public Research Fellowship
-      link: research/fellowships
+    - title: Get permission to reproduce our maps in your work
+      link: "/collections/permissions/"
   - name: Digital tools
     description: Explore our collections and discover the world of historical geography
       from home
     color: "#440047"
     links:
-    - title: See thousands of digitized maps in our Digital Collections
+    - title: Browse thousands of digitized maps in our Digital Collections
       link: collections/digital-collections
+    - title: See all of our digital projects and interactives
+      link: "/projects/digital-projects/"
     - title: Explore Boston's history with Atlascope
       link: https://atlascope.leventhalmap.org
-    - title: Dig deeper into a map with an annotated story
-      link: projects/digital-projects/#annotated-map-stories
+    - title: See digital experiments and remix your own code on Glitch
+      link: https://glitch.com/@bplmaps/
     - title: Read guides and tutorials on digital mapping
       link: https://geoservices.leventhalmap.org/cartinal
 frontpageFeature:
   enable: true
   bg_image: https://tile.loc.gov/image-services/iiif/service:gmd:gmd376:g3764:g3764b:pm002791/608,834,7037,2742/,1200/0/default.jpg
   title: The truth is in there
-  content: 'Our exhibition *Bending Lines: Maps and Data from Distortion
-    to Deception* is now available in person at our free gallery at the Central Library in Copley Square.'
+  content: 'Our exhibition *Bending Lines: Maps and Data from Distortion to Deception*
+    is now available in person at our free gallery at the Central Library in Copley
+    Square.'
   button:
     enable: true
     label: Information for visitors

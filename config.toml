@@ -138,7 +138,7 @@ title = "github"
 facebook = "bplmaps"
 twitter = "bplmaps"
 [params.specialButton]
-link = "/about/hours-directions"
+link = "https://www.bpl.org/locations/3/"
 icon = "fas fa-store-alt-slash"
-text = "Closed Monday, October 11"
+text = "Closed Saturday, October 23"
 enabled = false
