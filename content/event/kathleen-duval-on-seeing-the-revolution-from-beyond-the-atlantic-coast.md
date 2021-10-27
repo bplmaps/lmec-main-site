@@ -6,10 +6,14 @@ image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053n92q/204,
 location = "Online"
 publishDate = 2021-06-15T17:57:47Z
 registration = "https://www.eventbrite.com/e/kathleen-duval-on-seeing-the-revolution-from-beyond-the-atlantic-coast-tickets-159874680473"
+tags = ["seminar", "American Revolutionary War Era"]
 title = "Kathleen DuVal on Seeing the Revolution From Beyond the Atlantic Coast"
-tags = ["seminar","American Revolutionary War Era"]
 
 +++
+### Event video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/0jGA636-hq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### An award-winning historian whose work reorients the geography of the Revolutionary period joins us for a free conversation
 
 {{< figure src="https://kathleenduval.web.unc.edu/wp-content/uploads/sites/10340/2015/08/004416_duval_kathleen001-1024x700-768x525.jpg" alt="Kathleen DuVal headshot" class="figure-right" >}}
