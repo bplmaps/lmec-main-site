@@ -147,8 +147,11 @@ blog:
   title: Articles
 todaysHours: true
 upcomingLivestream:
-  enable: true
-  embedLink: >
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/0jGA636-hq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  enable: false
+  embedLink: '<iframe width="560" height="315" src="https://www.youtube.com/embed/0jGA636-hq0"
+    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+    encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+'
   startTime: 2021-10-26T18:55:00.000-04:00
   endTime: 2021-10-26T20:00:00.000-04:00
