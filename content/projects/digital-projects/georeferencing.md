@@ -5,8 +5,7 @@ cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149v336/73
 description: Transform images of historic maps into layers that match onto modern web maps
 tags: ["collections","GIS","interactive"]
 type: "digital-project"
-weight: 5
-
+weight: 6
 ---
 
 {{< alert-box >}}
