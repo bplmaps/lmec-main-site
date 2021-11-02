@@ -1,7 +1,7 @@
 ---
 title: An interview with Ian Spangler
 draft: true
-author: Ian Spangler, Emily Bowe and Garrett Dash Nelson
+author: Ian Spangler and Garrett Dash Nelson
 description: Welcome to the newest member of the LMEC team!
 date: 2021-11-03T01:30:00Z
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx798/3552,749,6043,3268/full/0/default.jpg
@@ -9,7 +9,6 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx
 tags:
  - interview
  - announcement
- -
 
 ---
 
