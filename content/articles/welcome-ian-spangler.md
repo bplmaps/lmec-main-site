@@ -16,7 +16,7 @@ tags:
 
 > As part of his first week of work, we spoke with [Ian Spangler](/about/people/ian-spangler), the new Assistant Curator of Digital & Participatory Geography at the Leventhal Map & Education Center. Ian holds an MA in Geography from the University of Kentucky, and is currently completing his dissertation on the politics of digital real estate information.
 >
-> In his role as Assistant Curator of Digital & Participatory Geography, Ian will be continuing to strengthen and develop our work in the geospatial humanities. That will involve everything from projects in our digitized historic collections all the way through experiments with modern mapping and critical spatial analysis. 
+> In his role as Assistant Curator of Digital & Participatory Geography, Ian will be continuing to strengthen and develop our work in the geospatial humanities. That will involve everything from projects in our digitized historic collections all the way through experiments with modern mapping and critical spatial analysis.
 
 {{<
 figure src="/images/headshots/spangler-headshot.jpeg" class="figure-right" >}}
