@@ -29,7 +29,7 @@ I think the combination of those two fields of study fits with the work at the M
 
 Anyway, I've always been fascinated by the power of narrative to shape space, and vice versa. In 2014, under the guidance of some really wonderful people at UMW, I got involved in a [research project that examined representations of slavery at US plantation museums](https://www.umw.edu/news/2015/03/16/umw-team-examines-slavery-narratives/). This was a pretty formative experience for me, and in many ways it set the stage for the kinds of things I'd be interested in many years later: namely, how racialized landscapes in the US are produced, remembered, and sometimes forgotten.
 
-In 2016, I entered the graduate program at the University of Kentucky, where I became more interested in digital technologies and urban housing, and that's more where my research sits nowadays. The GIS skills that I had picked up in college proved quite useful for investigating topics like short-term rental listings in New Orleans, where I conducted research on the uneven impacts of Airbnb listings. While my research isn't focused on New Orleans anymore, I'm still really fond of the city.
+In 2016, I entered the graduate program at the University of Kentucky, where I became more interested in digital technologies and urban housing, and that's more where my research sits nowadays. The GIS skills that I had picked up in college proved quite useful for investigating topics like short-term rental listings in New Orleans, where I conducted research on the uneven impacts of Airbnb listings. Even though my research isn't focused on New Orleans anymore, I'm still really fond of the city.
 
 {{< figure
 src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n1743/full/full/0/default.jpg"
