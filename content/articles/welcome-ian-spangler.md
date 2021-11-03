@@ -19,7 +19,7 @@ tags:
 > In his role as Assistant Curator of Digital & Participatory Geography, Ian will be continuing to strengthen and develop our work in the geospatial humanities. That will involve everything from projects in our digitized historic collections all the way through experiments with modern mapping and critical spatial analysis.
 
 {{<
-figure src="/images/headshots/spangler-headshot.jpeg" class="figure-right" >}}
+figure src="/uploads/2021-11-03/ian-spangler-gallery.jpg" class="figure-right" caption="Ian has been learning his way through the _Bending Lines_ gallery in his first week on the job.">}}
 
 **Garrett Dash Nelson**: Ian, we're so excited to have you on board here at the Leventhal Map & Education Center. Tell us a little bit about your background—what led up to your new role with us?
 
