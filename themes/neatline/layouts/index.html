@@ -80,11 +80,11 @@
         <ul>
           <li class="mb-3"><span class="badge badge-light font-secondary whats-new-badge">Next event</span>{{ range first 1 ($events)}}
               <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> <span class="text-secondary">{{ dateFormat "Jan 2, 2006" .Page.Params.date.Local }}</span>
-            {{ end }}</li>
+            {{ end }} · <a href="./event/">More events</a></li>
 
             <li class="mb-3"><span class="badge badge-light font-secondary whats-new-badge">Latest article</span>{{ range first 1 (where site.RegularPages "Type" "articles")}}
               <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> <span class="text-secondary">{{  dateFormat "Jan 2, 2006" .Page.Params.date.Local }}</span>
-            {{ end }}</li>
+            {{ end }} · <a href="./articles/">More articles</a></li>
 
           {{ range .announcements }}
           <li class="mb-3">
@@ -96,7 +96,7 @@
           {{ if $data.homepage.todaysHours }}
 
           {{ $today := now.Format "Monday"}}
-          <li class="mb-3"><span class="badge badge-secondary badge-light font-secondary  whats-new-badge">Today’s hours</span> {{ $today }} {{ range $.Site.Data.hours.weekly }} {{ if eq .day $today }}{{ if .special }}{{ .special }}{{ else }}{{ .open }} – {{.close }}{{ end }} {{ end }}{{ end }} · <a href="./about/hours-directions">More hours</a></a></li>
+          <li class="mb-3"><span class="badge badge-secondary badge-light font-secondary  whats-new-badge">Today’s hours</span> {{ $today }} {{ range $.Site.Data.hours.weekly }} {{ if eq .day $today }}{{ if .special }}{{ .special }}{{ else }}{{ .open }} – {{.close }}{{ end }} {{ end }}{{ end }} · <a href="./about/hours-directions">More hours</a></li>
           {{ end }}
         </ul>
       </div>
