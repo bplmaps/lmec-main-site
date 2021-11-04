@@ -1,7 +1,7 @@
 ---
 title: An interview with Ian Spangler
 author: Ian Spangler & Garrett Dash Nelson
-description: Welcome to the newest member of the LMEC team!
+description: Welcome to our new Assistant Curator for Digital and Participatory Geography!
 date: 2021-11-03T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n1743/661,702,8449,4015/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n1743/661,702,8449,4015/full/0/default.jpg
