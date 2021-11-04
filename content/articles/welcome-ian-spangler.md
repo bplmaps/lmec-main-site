@@ -1,19 +1,17 @@
 ---
 title: An interview with Ian Spangler
-draft: true
 author: Ian Spangler & Garrett Dash Nelson
 description: Welcome to the newest member of the LMEC team!
-date: 2021-11-03T01:30:00Z
+date: 2021-11-03T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n1743/661,702,8449,4015/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n1743/661,702,8449,4015/full/0/default.jpg
 tags:
- - interview
- - announcement
- - staff
- - GIS
+- interview
+- announcement
+- staff
+- GIS
 
 ---
-
 > As part of his first week of work, we spoke with [Ian Spangler](/about/people/ian-spangler), the new Assistant Curator of Digital & Participatory Geography at the Leventhal Map & Education Center. Ian holds an MA in Geography from the University of Kentucky, and is currently completing his dissertation on the politics of digital real estate information.
 >
 > In his role as Assistant Curator of Digital & Participatory Geography, Ian will be continuing to strengthen and develop our work in the geospatial humanities. That will involve everything from projects in our digitized historic collections all the way through experiments with modern mapping and critical spatial analysis.
