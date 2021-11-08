@@ -21,10 +21,7 @@ We post many times a week on social media, with stories and images about maps an
 
 ## Join our mailing list
 
-<!-- Begin Constant Contact Inline Form Code -->
-<div class="ctct-inline-form" data-form-id="f678243f-590b-44ec-b039-c05cebf05665"></div>
-<!-- End Constant Contact Inline Form Code -->
-
+<script async src="https://eomail5.com/form/0429e168-40a3-11ec-96e5-06b4694bee2a.js" data-form="0429e168-40a3-11ec-96e5-06b4694bee2a"></script>
 
 ## General inquiries
 

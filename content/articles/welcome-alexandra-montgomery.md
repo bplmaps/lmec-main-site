@@ -49,7 +49,7 @@ My PhD research came out of questions I had about Halifax's founding. Very uncha
 
 ---
 
-_Want to keep track of future ARGO developments? [Follow us](http://localhost:1313/about/contact-connect/) or the [Washington Library](https://twitter.com/GWBooks) on social media, or [join our mailing list](https://visitor.r20.constantcontact.com/manage/optin?v=001ty3slyDjv8WLvGvwSdG8euspYmx7UP1YNPw2RbQHz_d15WTFIS4Ksb90bD2Fx0OBYbhpfZ896VoKbMS6m87TTQGTPsIpdO4e29yiAmPsALE%3D)._
+_Want to keep track of future ARGO developments? [Follow us](http://localhost:1313/about/contact-connect/) or the [Washington Library](https://twitter.com/GWBooks) on social media, or [join our mailing list](/subscribe)._
 
 [1]:https://www.iona.edu/academics/schools-institutes/institute-thomas-paine-studies
 [2]:https://www.library.upenn.edu/kislak
