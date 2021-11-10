@@ -47,6 +47,9 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Holiday closure
+    text: Closed Thursday, November 11 for Veterans Day
+    link: https://www.leventhalmap.org/about/hours-directions/
   - badge: New acquisition
     text: A map of American folklore that was the target of an anti-Communist investigation
     link: https://bpl.bibliocommons.com/v2/record/S75C8038083
