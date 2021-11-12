@@ -25,13 +25,20 @@ exceptions:
 - date: November 25, 2021
   name: Thanksgiving
   special: Closed
-- date: December 24
+- date: December 24, 2021
   name: Christmas Eve
   special: Closed
-- date: December 25
+- date: December 25, 2021
   name: Christmas Day
   special: Closed
-- date: December 31
+- date: December 31, 2021
   name: New Year's Eve
   open: 9 am
   close: 1 pm
+  special: Closed
+- date: January 1, 2022
+  name: New Year's Day
+  special: Closed
+- date: January 17, 2022
+  name: Martin Luther King Day
+  special: Closed
