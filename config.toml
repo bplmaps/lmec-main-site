@@ -140,4 +140,4 @@ twitter = "bplmaps"
 link = "https://www.leventhalmap.org/about/hours-directions/"
 icon = "fas fa-store-alt-slash"
 text = "Closed Thursday, November 11"
-enabled = true
+enabled = false

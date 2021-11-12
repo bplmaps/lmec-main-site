@@ -148,7 +148,7 @@ funfacts:
 blog:
   enable: true
   title: Articles
-todaysHours: false
+todaysHours: true
 upcomingLivestream:
   enable: false
   embedLink: '<iframe width="560" height="315" src="https://www.youtube.com/embed/0jGA636-hq0"
