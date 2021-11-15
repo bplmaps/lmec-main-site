@@ -13,7 +13,7 @@ November is Indigenous People’s Heritage Month. As we countdown to the Thanksg
 
 Here at the Map Center, we ask K-12 students to always consider whose story a map is telling and what stories are left out. Many of our education programs and materials center ideas of land and power and look closely at the ways Euro-American maps feature or erase Native people and nations.
 
-{{< figure src="https://content.libraries.wsu.edu/digital/api/singleitem/image/mcwhorter/381/default.jpg" caption="[This hand-drawn image](https://content.libraries.wsu.edu/digital/collection/mcwhorter/id/381), from the digital collections at Washington State University and drawn by Peo-peo Tholekt, shows combat at the Bear Paw Battle (top), and the Battle of Big Hole (bottom)." class="figure-left" >}}
+{{< figure src="https://content.libraries.wsu.edu/digital/api/singleitem/image/mcwhorter/381/default.jpg" caption="[This hand-drawn image](https://content.libraries.wsu.edu/digital/collection/mcwhorter/id/381), from the digital collections at Washington State University and drawn by Peo-peo Tholekt, shows combat at the Bear Paw Battle (top), and a scene at the Battle of Big Hole (bottom)." class="figure-left" >}}
 
 In this spirit, we are highlighting a collection of our K-12 lessons and resources that center maps and primary sources for teaching about Indigenous people across several centuries. We invite everyone to begin by exploring [NativeLand.ca: Our Home on native land](https://native-land.ca/) to see how Indigenous communities represent themselves spatially and consider this way of looking at the land whenever you explore other kinds of maps. Then, take a look at some of our map sets and lessons below for students starting in grade 2 through high school.
 
