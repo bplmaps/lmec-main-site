@@ -1,11 +1,11 @@
 +++
 author = "Richard Pegg"
-backgroundImage = ""
+backgroundImage = "/uploads/2021-11-15/screen-shot-2021-11-15-at-3-30-24-pm.png"
 date = 2021-11-16T07:00:00Z
-description = "In the late eighteenth century, an encounter between European and Chinese cartography left clues about the diffusion of geographic knowledge"
+description = "A video tour through an intriguing \"pie chart\" navigational diagram for a ship in the South China Sea"
 draft = true
-image = ""
-tags = ["guest post", "China", "Korea", "Qing Dynasty", "East Asia", "collections", "map chat", "MacLean Collection"]
+image = "/uploads/2021-11-15/screen-shot-2021-11-15-at-3-30-24-pm.png"
+tags = ["guest post", "East Asia", "collections", "map chat", "MacLean Collection", "China"]
 title = "A Chinese Navigation Map of the Sea and Stars"
 
 +++
