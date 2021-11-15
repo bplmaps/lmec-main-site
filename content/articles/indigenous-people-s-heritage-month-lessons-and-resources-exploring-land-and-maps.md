@@ -17,6 +17,7 @@ Here at the Map Center, we ask K-12 students to always consider whose story a ma
 
 In this spirit, we are highlighting a collection of our K-12 lessons and resources that center maps and primary sources for teaching about Indigenous people across several centuries. We invite everyone to begin by exploring [NativeLand.ca: Our Home on native land](https://native-land.ca/) to see how Indigenous communities represent themselves spatially and consider this way of looking at the land whenever you explore other kinds of maps. Then, take a look at map sets and lessons below for students starting in grade 2 through high school.
 
+
 [**Exploring Plymouth Before the Pilgrims**](https://collections.leventhalmap.org/map-sets/332)
 
 This map set and lesson for grades 2 and 3 focuses on a map of Patuxet made by Samuel de Champlain during his exploration of New England in 1605, 15 years before the arrival of the Pilgrims. This lesson also includes a comprehensive, annotated bibliography of books for young people about Native peoples, the 17th century and the Pilgrims. (Created by Carolyn A. Lynch teacher fellow Theresa Garcia de Quevedo)
