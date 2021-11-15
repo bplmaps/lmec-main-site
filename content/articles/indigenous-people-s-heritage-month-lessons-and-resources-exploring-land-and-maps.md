@@ -1,7 +1,7 @@
 +++
 author = "Michelle LeBlanc"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js957750m/1074,525,6892,3985/1200,/0/default.jpg"
-date = 2021-11-15T14:35:13Z
+date = 2021-11-15T17:00:13Z
 description = "November is Indigenous People’s Heritage Month, a chance to unlearn entrenched narratives and relearn the complex history and modern presence of Native people across North America."
 draft = true
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js957750m/1074,525,6892,3985/1200,/0/default.jpg"
