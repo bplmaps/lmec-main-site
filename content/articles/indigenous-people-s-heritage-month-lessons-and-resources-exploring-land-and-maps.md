@@ -17,7 +17,6 @@ Here at the Map Center, we ask K-12 students to always consider whose story a ma
 
 In this spirit, we are highlighting a collection of our K-12 lessons and resources that center maps and primary sources for teaching about Indigenous people across several centuries. We invite everyone to begin by exploring [NativeLand.ca: Our Home on native land](https://native-land.ca/) to see how Indigenous communities represent themselves spatially and consider this way of looking at the land whenever you explore other kinds of maps. Then, take a look at map sets and lessons below for students starting in grade 2 through high school.
 
-
 [**Exploring Plymouth Before the Pilgrims**](https://collections.leventhalmap.org/map-sets/332)
 
 This map set and lesson for grades 2 and 3 focuses on a map of Patuxet made by Samuel de Champlain during his exploration of New England in 1605, 15 years before the arrival of the Pilgrims. This lesson also includes a comprehensive, annotated bibliography of books for young people about Native peoples, the 17th century and the Pilgrims. (Created by Carolyn A. Lynch teacher fellow Theresa Garcia de Quevedo)
@@ -26,7 +25,7 @@ This map set and lesson for grades 2 and 3 focuses on a map of Patuxet made by S
 
 The first part of this lesson introduces students to an 1837 map created by members of the Báxoje/Ioway tribal community and asks them to compare it with one made in 1902 by a Euro-American cartographer to discuss the meaning of land and how it is understood and visualized by both. Part Two has students working in small groups with a series of 19th century Euro-American maps to answer questions that uncover how Native communities are portrayed and represented on the land, including how Native communities visualize their presence and relationship to the land through mapping today. Special thanks to Akomawt Educational Initiative for consulting with Map Center staff for this lesson.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js957750m/297,319,9145,5865/,1200/0/default.jpg" caption="This map depicts Indian Reservations in the United States as they existed in the 1890s." class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js957750m/297,319,9145,5865/,1200/0/default.jpg" caption="[This map in our digital collections](https://collections.leventhalmap.org/search/commonwealth:js957749v) depicts Indian Reservations in the United States as they existed in the 1890s." class="figure-right" >}}
 
 [**Native American Removal and U.S. Expansion: 1800-1840**](https://collections.leventhalmap.org/map-sets/453)
 
