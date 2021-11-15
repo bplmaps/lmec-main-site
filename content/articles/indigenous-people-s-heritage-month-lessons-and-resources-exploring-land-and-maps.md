@@ -11,11 +11,9 @@ title = "Indigenous People’s Heritage Month: Lessons and Resources Exploring L
 +++
 November is Indigenous People’s Heritage Month. As we countdown to the Thanksgiving holiday, this month brings a chance to reinvigorate the constant work of unlearning entrenched narratives, such as that of the Pilgrims landing at Plymouth Rock, and relearning the complex history and modern presence of Native people across North America.
 
-{{< figure src="https://content.libraries.wsu.edu/digital/collection/mcwhorter/id/381" caption="This image is from Washington State University" class="figure-right" >}}
-
 Here at the Map Center, we ask K-12 students to always consider whose story a map is telling and what stories are left out. Many of our education programs and materials center ideas of land and power and look closely at the ways Euro-American maps feature or erase Native people and nations.
 
-In this spirit, we are highlighting a collection of our K-12 lessons and resources that center maps and primary sources for teaching about Indigenous people across several centuries. We invite everyone to begin by exploring [NativeLand.ca: Our Home on native land](https://native-land.ca/) to see how Indigenous communities represent themselves spatially and consider this way of looking at the land whenever you explore other kinds of maps. Then, take a look at map sets and lessons below for students starting in grade 2 through high school.
+![](/uploads/2021-11-15/bearpaw.jpeg)In this spirit, we are highlighting a collection of our K-12 lessons and resources that center maps and primary sources for teaching about Indigenous people across several centuries. We invite everyone to begin by exploring [NativeLand.ca: Our Home on native land](https://native-land.ca/) to see how Indigenous communities represent themselves spatially and consider this way of looking at the land whenever you explore other kinds of maps. Then, take a look at map sets and lessons below for students starting in grade 2 through high school.
 
 [Exploring Plymouth Before the Pilgrims](https://collections.leventhalmap.org/map-sets/332)
 
