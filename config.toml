@@ -3,6 +3,7 @@ description = "The LMEC uses maps and geography to explore the connections betwe
 locale = "en_US"
 theme = "neatline"
 title = "Leventhal Map & Education Center at the Boston Public Library"
+metaDataFormat = "yaml"
 [markup.goldmark.extensions]
 definitionList = true
 footnote = true
