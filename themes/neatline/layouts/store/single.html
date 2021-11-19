@@ -1,0 +1,114 @@
+{{ define "main" }}
+
+<!-- event single -->
+<section class="section-sm">
+  <div class="container">
+
+    <!-- event info -->
+    <div class="row align-items-center mb-5">
+      <div class="col-lg-9">
+        <ul class="list-inline">
+          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+            <div class="d-flex align-items-center">
+              <i class="fas fa-map-pin text-muted icon-md mr-3"></i>
+              <div class="text-left">
+                <h6 class="mb-0">Location</h6>
+                <p class="mb-0">{{ .Params.Location | markdownify }}</p>
+              </div>
+            </div>
+          </li>
+          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+            <div class="d-flex align-items-center">
+              <i class="fa fa-calendar-alt text-muted icon-md mr-3"></i>
+              <div class="text-left">
+                <h6 class="mb-0">Date</h6>
+                <p class="mb-0">{{ dateFormat "Jan 2, 2006" .Date.Local }}</p>
+              </div>
+            </div>
+          </li>
+          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+            <div class="d-flex align-items-center">
+              <i class="fas fa-clock text-muted icon-md mr-3"></i>
+              <div class="text-left">
+                <h6 class="mb-0">Time</h6>
+                <p class="mb-0">{{ dateFormat "3:04 MST" .Date.Local }}</p>
+              </div>
+            </div>
+          </li>
+          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+            <div class="d-flex align-items-center">
+              <i class="fas fa-wallet text-muted icon-md mr-3"></i>
+              <div class="text-left">
+                <h6 class="mb-0">Cost</h6>
+                <p class="mb-0">{{ .Params.Fee | markdownify }}</p>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+      {{ if ge .Date now }}
+      {{ with .Params.Registration }}
+      {{ if ne . "" }}
+      <div class="col-lg-3 text-lg-right text-left">
+        <a href="{{ . | safeURL }}" class="btn btn-primary">Register</a>
+      </div>
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      <!-- border -->
+      <div class="col-12 mt-4 order-4">
+        <div class="border-bottom border-primary"></div>
+      </div>
+    </div>
+
+    <!-- event details -->
+    <div class="row">
+      <div class="col-12 content">
+        {{ if lt .Date now }}
+        <div class="alert alert-warning"><div class="h4 font-secondary"><i class="fas fa-history mr-2"></i>Past event</div>This event has already taken place.</div>
+        {{ end }}
+        {{ .Content }}
+        
+      </div>
+
+      <div class="col-12 mt-5">
+      <p class="h4"> {{- range .Params.tags }}
+      <span class="badge badge-pill badge-light">{{ . }}</span>
+      {{- end }}
+    </p>
+      </div>
+
+    </div>
+    
+  </div>
+</section>
+<!-- /event single -->
+
+<!-- more event -->
+<section class="section pt-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 mb-4">
+        <div class="border-bottom border-primary"></div>
+      </div>
+      <div class="col-12">
+        <h3 class="section-title">More events</h3>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <!-- event -->
+      {{ $related := (where site.RegularPages "Type" "event") }}
+      {{ $related := $related | intersect (where $related "Date" "ge" now) }}
+      {{ $related := $related | intersect (where $related "Permalink" "!=" .Permalink ) }}
+
+      {{ range first 3 $related }}
+      <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
+        {{ .Render "event" }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- /more event -->
+
+{{ end }}
