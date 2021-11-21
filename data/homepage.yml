@@ -47,6 +47,9 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Job search
+    text: Exhibition Design & Fabrication Coordinator
+    link: https://www.leventhalmap.org/about/jobs/exhibition-design-and-fabrication/
   - badge: New acquisition
     text: A map of American folklore that was the target of an anti-Communist investigation
     link: https://bpl.bibliocommons.com/v2/record/S75C8038083
