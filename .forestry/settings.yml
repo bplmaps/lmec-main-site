@@ -51,7 +51,7 @@ sections:
   create: all
   match: "**/*"
   templates:
-    - "event-listing"
+  - event-listing
 - type: directory
   path: content/about
   label: About
@@ -63,7 +63,7 @@ sections:
   create: all
   match: "**/*"
   templates:
-    - store
+  - store
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
