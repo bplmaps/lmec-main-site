@@ -1,0 +1,53 @@
+{{ define "main" }}
+
+<!-- event single -->
+<section class="section-sm">
+  <div class="container">
+
+
+    <div class="row align-items-center mb-5">
+        <ul class="list-inline">
+          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+            <div class="d-flex align-items-center">
+              <i class="fas fa-cash-register text-muted icon-md mr-3"></i>
+              <div class="text-left">
+                <h6 class="mb-0">Price</h6>
+                <p class="mb-0">{{ .Params.store.item_text_price }}</p>
+              </div>
+            </div>
+          </li>
+          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+            <div class="d-flex align-items-center">
+              <button class="snipcart-add-item btn btn-primary mb-2"
+              data-item-id="{{ .Params.store.item_id }}"
+              data-item-price="{{ .Params.store.item_price }}"
+            data-item-url="{{ .Permalink }}"
+          data-item-description="{{ .Description }}"
+          data-item-image="{{ .Params.product_image }}"
+          data-item-name="{{ .Title }}"
+          {{ with .Params.store.custom }}
+        
+         {{ range $index, $custom := . }}
+         data-item-custom{{ $index }}-name="{{ $custom.name }}"
+         data-item-custom{{ $index }}-options="{{ $custom.options }}"
+        {{ end }}
+        
+          {{ end }}
+            >Add to cart</button>
+            </div>
+          </li>
+        </ul>
+      </div>
+
+      <div class="row">
+        <div class="col-4"><img src="{{ .Params.product_image }}" class="img-fluid"></div>
+        <div class="col-8 content">
+       
+          {{ .Content }}
+          
+        </div>
+
+    </div>
+  </section>
+
+    {{ end }}

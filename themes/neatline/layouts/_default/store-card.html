@@ -1,0 +1,27 @@
+{{ $page := . }}
+<div class="card rounded-0 hover-shadow border-top-0 border-left-0 border-right-0 page-card alt-gallery-card">
+  {{ with $page.Params.product_image }}<a href="{{ $page.Permalink }}"><img class="card-img-top rounded-0" src="{{ . | relURL }}" alt="{{ $page.Title }}"></a>{{ end }}
+  <div class="card-body">
+    <h3 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <h5>{{ .Params.store.item_text_price }}</h5>
+    <p class="card-text">{{ .Description | markdownify }}</p>
+
+    <button class="snipcart-add-item btn btn-primary mb-2"
+      data-item-id="{{ $page.Params.store.item_id }}"
+      data-item-price="{{ $page.Params.store.item_price }}"
+    data-item-url="{{ .Permalink }}"
+  data-item-description="{{ .Description }}"
+  data-item-image="{{ $page.Params.product_image }}"
+  data-item-name="{{ .Title }}"
+  {{ with .Params.store.custom }}
+
+ {{ range $index, $custom := . }}
+ data-item-custom{{ $index }}-name="{{ $custom.name }}"
+ data-item-custom{{ $index }}-options="{{ $custom.options }}"
+{{ end }}
+
+  {{ end }}
+    >Add to cart</button>
+    <a class="btn btn-primary-outline" href="{{ .Permalink }}">Details</a>
+  </div>
+</div>
