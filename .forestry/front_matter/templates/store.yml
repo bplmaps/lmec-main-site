@@ -1,0 +1,36 @@
+---
+label: Store product
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: file
+  name: product_image
+  label: Product Image
+  description: An image of the product
+- type: text
+  name: description
+  label: description
+  description: Short description of the product
+- type: text
+  name: weight
+  label: weight
+- type: field_group
+  name: store
+  label: Product Details
+  description: information about the product
+  fields: 
+    - type: text
+      name: item_id
+      label: Item ID
+      description: string to identify the item in Snipcart (no spaces)
+    - type: text
+      name: item_price
+      label: Base Price
+      description: Base price, number with two decimal points (no dollar sign)
+    - type: text
+      name: item_text_price
+      label: Price description
+      description: Description of the price, formattable with dollar sign or special notes
+pages:
