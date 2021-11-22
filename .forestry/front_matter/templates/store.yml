@@ -34,3 +34,5 @@ fields:
     label: Price description
     description: Description of the price, formattable with dollar sign or special
       notes
+pages:
+- content/store/map-coasters.md
