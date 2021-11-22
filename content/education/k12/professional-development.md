@@ -4,7 +4,6 @@ backgroundImage: images/page-header-backgrounds/education-programs.jpg
 description: Opportunities for teachers to learn how to teach with maps, geography,
   and history
 weight: "4"
-draft: true
 
 ---
 > “Maps to me are now dynamic, vibrant, alive and worth engaging” –Teacher Workshop Participant
@@ -15,7 +14,7 @@ The Leventhal Map & Education Center offers a variety of professional developmen
 Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com/manage/optin?v=001ty3slyDjv8WLvGvwSdG8euspYmx7UP1YNPw2RbQHz_d15WTFIS4Ksb90bD2Fx0OBYbhpfZ896VoKbMS6m87TTQGTPsIpdO4e29yiAmPsALE%3D) for news on professional development opportunities.
 {{</ alert-box >}}
 
-## Workshops
+## Workshops and Courses
 
 ### **_Small Bites_**: An after-school series of gatherings for educators interested in teaching about Boston through a geospatial and social justice lens.
 
