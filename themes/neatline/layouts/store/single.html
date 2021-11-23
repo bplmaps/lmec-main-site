@@ -6,7 +6,7 @@
 
 
     <div class="row align-items-center mb-5">
-      <div class="col-6">
+      <div class="col-md-4">
         <div class="d-flex align-items-center">
           <i class="fas fa-cash-register text-muted icon-md mr-3"></i>
           <div class="text-left">
@@ -15,7 +15,7 @@
           </div>
         </div>
       </div>
-      <div class="col-6">
+      <div class="col-md-4">
         <button class="snipcart-add-item btn btn-primary mb-2" data-item-id="{{ .Params.store.item_id }}"
           data-item-price="{{ .Params.store.item_price }}" data-item-url="{{ .Permalink }}"
           data-item-description="{{ .Description }}" data-item-image="{{ .Params.product_image }}"
@@ -25,8 +25,11 @@
           data-item-custom{{ $index }}-name="{{ $custom.name }}"
           data-item-custom{{ $index }}-options="{{ $custom.options }}"
           {{ end }}
-          {{ end }}>Add to cart</button>
+          {{ end }}><i class="fas fa-plus-circle mr-2"></i> Add to cart</button>
 
+      </div>
+
+      <div class="col-md-4"><a href="/store" class="btn btn-primary-outline"><i class="fas fa-level-up-alt mr-3"></i> Back to all products</a>
       </div>
 
     </div>
@@ -39,9 +42,7 @@
 
       </div>
 
-      <div class="col-12">
-        <a href="/store" class="btn btn-primary-outline">All Store Products</a>
-      </div>
+
 
     </div>
 </section>

@@ -26,14 +26,14 @@
     <div class="container">
       <div class="row">
         <div class="col-12 mb-5">
-        <a class="sitename-footer" href="{{ site.BaseURL }}">{{ site.Title }}</a>
+          <a class="sitename-footer" href="{{ site.BaseURL }}">{{ site.Title }}</a>
         </div>
       </div>
       <div class="row">
 
         <div class="col-lg-3 col-sm-6 mb-5 mb-lg-0">
-          
-          
+
+
           <ul class="list-unstyled">
             <li class="mb-4">{{ site.Params.address | markdownify }}</li>
             <li class="mb-4">{{ site.Params.email | markdownify }}</li>
@@ -44,16 +44,17 @@
         <div class="col-lg-3 col-sm-6 mb-5">
           <div class="mb-3">Gallery Hours {{ with .Site.Data.hours.specialNote }}<i>{{ . }}</i>{{ end }}</div>
           <ul class="list-unstyled">
-          {{ range .Site.Data.hours.weekly }}
-          <li class="mb-1">
-{{ .day }}: 
+            {{ range .Site.Data.hours.weekly }}
+            <li class="mb-1">
+              {{ .day }}:
 
-                {{ with .special }}
-                 {{ . }}
-                {{ else }}
-                {{ .open }} – {{ .close }}
-                {{ end }}</li>
-          {{ end }}
+              {{ with .special }}
+              {{ . }}
+              {{ else }}
+              {{ .open }} – {{ .close }}
+              {{ end }}</li>
+            {{ end }}
+            <li class="my-2"><a href="/about/hours-directions">All hours</a></li>
           </ul>
         </div>
         <!-- company -->
@@ -75,7 +76,7 @@
             {{ end }}
           </ul>
         </div>
-       
+
 
       </div>
     </div>
@@ -90,7 +91,8 @@
         <div class="col-sm-5 text-sm-right text-center">
           <ul class="list-inline">
             {{ range site.Params.social }}
-            <li class="list-inline-item"><a class="d-inline-block p-2" href="{{ .link | safeURL }}"><i class="{{ .icon }} text-white"></i></a></li>
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="{{ .link | safeURL }}"><i
+                  class="{{ .icon }} text-white"></i></a></li>
             {{ end }}
           </ul>
         </div>
@@ -102,12 +104,11 @@
 
 
 
-{{ "<!-- JS Plugins -->" | safeHTML }}
+
 {{ range site.Params.plugins.js}}
 <script src="{{ .link | absURL }}"></script>
 {{ end }}
 
-{{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
 
@@ -125,7 +126,8 @@
 {{ if site.Params.emailPopup }}
 {{ if not .Params.suppressEmailPopup }}
 
-<script async src="https://eomail5.com/form/1a74691e-40a4-11ec-96e5-06b4694bee2a.js" data-form="1a74691e-40a4-11ec-96e5-06b4694bee2a"></script>
+<script async src="https://eomail5.com/form/1a74691e-40a4-11ec-96e5-06b4694bee2a.js"
+  data-form="1a74691e-40a4-11ec-96e5-06b4694bee2a"></script>
 
 {{ end }}
 {{ end }}
