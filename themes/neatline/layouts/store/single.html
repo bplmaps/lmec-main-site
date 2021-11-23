@@ -19,9 +19,13 @@
         <button class="snipcart-add-item btn btn-primary mb-2" data-item-id="{{ .Params.store.item_id }}"
           data-item-price="{{ .Params.store.item_price }}" data-item-url="{{ .Permalink }}"
           data-item-description="{{ .Description }}" data-item-image="{{ .Params.product_image }}"
-          data-item-name="{{ .Title }}" {{ with .Params.store.custom }} {{ range $index, $custom :=. }}
-          data-item-custom{{ $index }}-name="{{ $custom.name }}" data-item-custom{{ $index
-          }}-options="{{ $custom.options }}" {{ end }} {{ end }}>Add to cart</button>
+          data-item-name="{{ .Title }}"
+          {{ with .Params.store.custom }}
+          {{ range $index, $custom :=. }}
+          data-item-custom{{ $index }}-name="{{ $custom.name }}"
+          data-item-custom{{ $index }}-options="{{ $custom.options }}"
+          {{ end }}
+          {{ end }}>Add to cart</button>
 
       </div>
 
