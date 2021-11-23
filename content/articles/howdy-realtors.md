@@ -15,7 +15,7 @@ tags:
 
 ### Meet "The NAREB Map"
 
-During my second week at the LMEC, I came across a curious thing in our digital collections. Pseudo-Gothic lettering, striking primary colors, a pair of coats of arms: a quick glance made it easy to mistake this [1926 map by Ignatz Sahula](https://collections.leventhalmap.org/search/commonwealth:3f4638304map) for something a bit more, well, *medieval* than it actually is.
+During my second week at the LMEC, I came across a curious thing in our digital collections. Pseudo-Gothic lettering, striking primary colors, a pair of coats of arms: at first glance, it was easy to mistake this [1926 map by Ignatz Sahula](https://collections.leventhalmap.org/search/commonwealth:3f4638304map) for something a bit more, well, *medieval* than it actually is.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/full/full/0/default.jpg" caption="From our collections, the NAREB map: a [pictorial map advertising the 19th annual convention of the National Association of Real Estate Boards](https://collections.leventhalmap.org/search/commonwealth:3f4638304)." class="figure-center" >}}
 
@@ -59,11 +59,11 @@ In an era where urban populations were rapidly increasing, and [city planning wa
 
 ### The Ballad of the "Binder Boys"
 
-Tulsa wasn't the only place in the midst of a realty boom in 1926 -- in fact, it wasn't even the only boom town explicitly depicted on the NAREB map. Take a look at the annotation just off the coast of southeastern Florida, in which a real estate man kicks the pants off a pair of "binder boys":
+Tulsa wasn't the only place in the midst of a realty boom in 1926 -- in fact, it wasn't even the only boom town depicted on the NAREB map. Just take a look at southern Florida:
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/11598,9078,1879,1180/full/0/default.jpg" caption="L.C. Crow kicks a pair of binder boys out of Miami." class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/11598,9078,1879,1180/full/0/default.jpg" caption="L.W. Crow kicks a pair of binder boys out of Miami." class="figure-center" >}}
 
-Associated with the Miami land boom of the mid-1920s, the binder boys were consummate curbstoners. After "binding" the purchase of a property parcel with a ten percent down payment, on which the remainder wasn't due for thirty days, the boy would turn around and sell his binder at a markup. Sometimes the same note of ownership would be transacted 7 or 8 times in a single day, each time the price going up.[^7712]
+In proper comic book fashion, Tampa and Miami are booming *literally, while nearby, a real estate man kicks the pants off a pair of "binder boys." Associated with the Miami land boom of the mid-1920s, the binder boys were consummate curbstoners. After "binding" the purchase of a property parcel with a ten percent down payment, on which the remainder wasn't due for thirty days, the boy would turn around and sell his binder at a markup. Sometimes the same note of ownership would be transacted 7 or 8 times in a single day, each time the price going up.[^7712]
 
 The binder boys operated for 5 months during the summer of 1925, but their feverish day trading of real estate serves as a microcosm for Miami's wider urban politics. At the turn of the century, Miami was still a new US city, and many -- not just the binder boys -- viewed its real estate as a guaranteed profit machine.[^2efe] As [Julio Capó Jr. has explained](https://uncpress.org/book/9781469635200/welcome-to-fairyland/), turn of the century Miami was aggressively marketed by urban boosters as a transgressive "fairyland." As it turned out, the fairyland was a bubble in disguise, and in 1926, it [did what bubbles do](https://en.wikipedia.org/wiki/1926_Miami_hurricane). Nevertheless, the real estate industry churned forward. Surely it's no coincidence that the 1927 NAREB convention would be in -- you guessed it! -- Miami.
 

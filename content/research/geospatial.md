@@ -9,77 +9,55 @@ quicklinks:
 - text: Visit Cartinal for documentation, tutorials, and guides
   link: https://geoservices.leventhalmap.org/cartinal
   linkType: offsite
-- text: Find GIS data in the LMEC data portal 
+- text: Find GIS data in the LMEC data portal
   link: "#data-portal"
-  linkType: jump
-- text: See examples of projects I could create with geospatial tools
-  link: "#example-projects"
   linkType: jump
 
 ---
-{{< alert-box type="warning" icon="fas fa-laptop-house" title="Temporary Limited Services" >}}
-Due to limited staff availability in Summer 2021, one-on-one consultations for geospatial requests are not available. For general reference and research inquiries, please visit the [Ask a librarian form.](/research/appointments) 
+{{< alert-box type="success" icon="fas fa-globe-americas fa-spin" title="Full Geospatial Services Now Available!" >}}
+**One-on-one consultations for geospatial services have returned to the Leventhal Map & Education Center!** To schedule an appointment, simply fill our our [Geospatial reference request form](#make-request). For general reference and research inquiries, please visit the [Ask a librarian form.](/research/appointments)
 {{< /alert-box >}}
 
-Most of the maps that are produced today and over the course of the past two decades consist of computer-based geographic information. The Leventhal Map & Education Center offers geospatial information services to help you create, find, manipulate and preserve information stored in digital formats compatible with mapping software and GIS (Geographic Information Systems).
+The Leventhal Map & Education Center offers **geospatial information services** to help you create, find, manipulate and preserve information stored in digital formats compatible with mapping software and GIS (Geographic Information Systems).
 
-## Cartinal: The LMEC Documentation Database
+At this page, you'll find:
+* Cartinal, our [guides & documentation portal](#cartinal);
+* A robust [data portal](#data-portal) with special focus on Boston & New England;
+* Some [examples of digital projects](https://leventhalmap.org/projects/digital-projects/) we've made in-house;
+* Some [examples of projects](#example-projects) we can help *you* make; and
+* The [geospatial library staff](#make-request) appointment request form.
 
-We maintain a portal called [Cartinal](https://geoservices.leventhalmap.org/cartinal/) with numerous guides, tutorial, and documentation sources for geospatial data and projects. Cartinal includes both step-by-step guides that are suitable for beginners who have never worked with GIS before, as well as more technical documentation for data services and resources provided by LMEC.
+<i class="fas fa-map" style="color: firebrick"></i> Happy mapping! <i class="fas fa-map" style="color: firebrick"></i>
+
+## Cartinal: The LMEC Documentation Database {#cartinal}
+
+>[Cartinal](https://geoservices.leventhalmap.org/cartinal/) includes numerous guides, tutorial, and documentation sources for geospatial data and projects. You'll find both step-by-step guides that are suitable for beginners, as well as more advanced documentation for our data services and resources.
+
+**What kinds of resources can I find in Cartinal?**
+
+* The digital textbook for our newest GIS course, [Making Sense of Maps and Data](https://cartinal.leventhalmap.org/guides/making-sense-maps-data/)
+* A guide explaining [common geospatial data formats](https://cartinal.leventhalmap.org/guides/file-formats.html)
+* Documentation on [how to use the Atlascope portal](https://cartinal.leventhalmap.org/guides/atlascope-tool-guide.html) to access our geotransformed atlas layers
+* And much more!
 
 <a class="btn btn-outline-primary btn-large" href="https://cartinal.leventhalmap.org/">Visit Cartinal</a>
 
-Some examples of resources you can find in Cartinal:
+</details>
 
-* The digital textbook for our **newest GIS course**: [Making Sense of Maps and Data](https://cartinal.leventhalmap.org/guides/making-sense-maps-data/)
-* A guide explaining [common geospatial data formats](https://cartinal.leventhalmap.org/guides/file-formats.html)
-* Documentation on [how to use the Atlascope portal](https://cartinal.leventhalmap.org/guides/atlascope-tool-guide.html) to access our geotransformed atlas layers
+## The LMEC Data Portal {#data-portal}
 
-## LMEC Data Portal {#data-portal}
+>As part of a [public data project](https://www.leventhalmap.org/articles/introducing-our-public-data-project/), the LMEC makes a wide variety of geospatial datasets publicly available. We also developed [our own metadata schema](https://cartinal.leventhalmap.org/documentation/schema/) for describing GIS data.
 
-The LMEC makes geospatial datasets available via the [LMEC Data Portal](http://data.leventhalmap.org/). 
-
-### What kinds of data can I find in the LMEC portal?
+**What kinds of data can I find in the LMEC portal?**
 * Datasets related to [Boston or New England](https://data.leventhalmap.org/#/catalog/dkmv00o45) cleaned up or preserved by the LMEC
 * Datasets that are [useful for teaching](https://data.leventhalmap.org/#/catalog/dkhm2yhrb)
 * Datasets [created during LMEC projects](https://data.leventhalmap.org/#/catalog/dkgsk7g8m), programs, or publications
 * Datasets relating to [historical geography](https://data.leventhalmap.org/#/catalog/dkircu2ol) or BPL map collections
 
-To learn more about the data portal project, you can read about it [here](https://www.leventhalmap.org/articles/introducing-our-public-data-project/).
-
-To access documentation for the LMEC metadata schema for describing GIS data, you can visit the [schema documentation](https://cartinal.leventhalmap.org/documentation/schema/) made available on Cartinal. 
-
-## What kinds of questions can I ask?
-
-Our geospatial information library staff can help you with:
-
-* Personalized, **one-on-one research consultations** about your GIS data or mapping project
-* Someone to talk with about where to find online data and software resources
-* Tips for structuring your own data or reformatting existing data for new purposes
-* Access to important or useful datasets, especially those related to Boston and Massachusetts
-* Guides and tutorials on how to find and work with GIS data
-* Documentation about LMEC's geospatial humanities projects
-* A friendly resource for best practices on managing geographic information in historic archives
-
-### GIS Data Formats
-
-We can help you create, find, manipulate and preserve geospatial data formatted as:
-
-* Points, lines or polygons
-* Images of maps transformed to real-life geographies
-* Spreadsheets or tabular data with records containing locations
-
-### GIS Mapping Software
-
-We can point you to learning resources for GIS mapping software such as:
-
-* QGIS free desktop software
-* ArcGIS commercial desktop suite
-* Cloud mapping platforms like ArcGIS Online
-* Custom web map development environments like Leaflet
+<a class="btn btn-outline-primary btn-large" href="https://data.leventhalmap.org/">Visit The Data Portal</a>
 
 
-## Geospatial Project Examples {#example-projects}
+<!-- ## Geospatial Project Examples {#example-projects}
 
 Still not sure if you're in the right place? Here are some example projects we can help with:
 
@@ -124,4 +102,22 @@ Still not sure if you're in the right place? Here are some example projects we c
 ### Following Up
 
 * You attended one of our mapmaking workshops and have followup questions
-* You have used our tool [Atlascope](https://atlascope.leventhalmap.org) and want to use some of the historic data layers
+* You have used our tool [Atlascope](https://atlascope.leventhalmap.org) and want to use some of the historic data layers -->
+
+
+## Make a Request {#make-request}
+
+>Whether you're new to the world of digital mapping, or you've been around the geospatial block more than once, we're here to help! Please reach out with GIS questions, project ideas, dataset inquiries, and any other cartographic .
+
+**What can our geospatial information library staff provide?**
+
+* Research consultations about your GIS data or mapping project
+* Assistance with finding online data and software resources
+* Tips for structuring your own data or reformatting existing data for new purposes
+* Guides and tutorials on how to find and work with GIS data
+* Resources for best practices on managing geographic information in historic archives
+
+Please reach out to us using the form below:
+
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrcdzwSN1YMw97G2?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>

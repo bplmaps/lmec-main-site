@@ -73,7 +73,7 @@ a h4{
 
 .slick-slide {
   outline: 0;
-  
+
   .slider-caption {
     color: white;
     font-weight: 700;
@@ -336,11 +336,11 @@ textarea.form-control{
 
 
     &:not(.btn) {
-    background-image: linear-gradient(0deg, adjust-color($button-primary-color, $alpha: -0.8) 10%,transparent 0); 
+    background-image: linear-gradient(0deg, adjust-color($button-primary-color, $alpha: -0.8) 10%,transparent 0);
 
 
     &:hover {
-      background-image: linear-gradient(0deg, adjust-color($button-primary-color, $alpha: -0.8) 35%,transparent 0); 
+      background-image: linear-gradient(0deg, adjust-color($button-primary-color, $alpha: -0.8) 35%,transparent 0);
     }
   }
   }
@@ -373,11 +373,11 @@ textarea.form-control{
 
 
     &:not(.btn) {
-    background-image: linear-gradient(0deg, adjust-color($button-primary-color, $alpha: -0.8) 10%,transparent 0); 
+    background-image: linear-gradient(0deg, adjust-color($button-primary-color, $alpha: -0.8) 10%,transparent 0);
 
 
     &:hover {
-      background-image: linear-gradient(0deg, adjust-color($button-primary-color, $alpha: -0.8) 35%,transparent 0); 
+      background-image: linear-gradient(0deg, adjust-color($button-primary-color, $alpha: -0.8) 35%,transparent 0);
     }
   }
   }
@@ -517,7 +517,7 @@ textarea.form-control{
     border-bottom: 2px solid $primary-color;
     background-color: $light;
 
-    img {      
+    img {
       margin-left: auto;
       margin-right: auto;
       display: block;
@@ -573,7 +573,7 @@ textarea.form-control{
       height: 450px;
       .carousel-item {
         height: 100%;
-        p { background-color: rgba(250,250,250,0.7); 
+        p { background-color: rgba(250,250,250,0.7);
           font-weight: 300;
           font-size: 0.9em;
           margin: 0;
@@ -584,7 +584,7 @@ textarea.form-control{
         }
       }
     }
-    
+
   }
 
 
@@ -627,7 +627,7 @@ textarea.form-control{
     background-color: #eeeeee;
     padding: 1em;
     border-left: 2px solid #ccc;
-    
+
     p {
       margin-bottom: 0.5em;
       color: $text-color;
