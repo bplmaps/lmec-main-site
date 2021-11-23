@@ -13,3 +13,4 @@ weight: 3
 ### See interactive articles built with Panel Truck
 
 * [Negotiating the Shoreline](/articles/humphries-boston-harbor/) by Courtney Humphries
+* [Cartographies of "improvement"](/articles/mccann-east-boston/) by Tess D. McCann
