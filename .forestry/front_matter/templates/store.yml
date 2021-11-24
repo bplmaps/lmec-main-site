@@ -13,7 +13,7 @@ fields:
   name: description
   label: description
   description: Short description of the product
-- type: text
+- type: number
   name: weight
   label: weight
 - type: field_group
