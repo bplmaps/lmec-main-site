@@ -11,4 +11,4 @@ store:
 ---
 Torn in Two: 150th Anniversary of the Civil War, the fourth gallery exhibition of the Norman B. Leventhal Map Center at the Boston Public Library, commemorates one of the major events in America’s history.
 
-Catalog, 152pp. (2011).
+Soft-cover catalog, 152pp. (2011).
