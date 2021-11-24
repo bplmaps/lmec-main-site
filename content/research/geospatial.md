@@ -7,8 +7,8 @@ aliases:
 - "/research/gis"
 quicklinks:
 - text: Visit Cartinal for documentation, tutorials, and guides
-  link: https://geoservices.leventhalmap.org/cartinal
-  linkType: offsite
+  link: "#cartinal"
+  linkType: jump
 - text: Find GIS data in the LMEC data portal
   link: "#data-portal"
   linkType: jump
@@ -29,6 +29,8 @@ Our specific services include:
 
 ## Cartinal: The LMEC Documentation Database {#cartinal}
 
+[{{< figure src="/uploads/cartinal.png" class="figure-center" >}}](https://cartinal.leventhalmap.org)
+
 >[Cartinal](https://geoservices.leventhalmap.org/cartinal/) includes numerous guides, tutorial, and documentation sources for geospatial data and projects. You'll find both step-by-step guides that are suitable for beginners, as well as more advanced documentation for our data services and resources.
 
 **What kinds of resources can I find in Cartinal?**
@@ -43,6 +45,8 @@ Our specific services include:
 </details>
 
 ## The LMEC Data Portal {#data-portal}
+
+[{{< figure src="/uploads/dataportal.png" class="figure-center">}}](https://data.leventhalmap.org)
 
 >As part of a [public data project](https://www.leventhalmap.org/articles/introducing-our-public-data-project/), the LMEC makes a wide variety of geospatial datasets publicly available. We also developed [our own metadata schema](https://cartinal.leventhalmap.org/documentation/schema/) for describing GIS data.
 
