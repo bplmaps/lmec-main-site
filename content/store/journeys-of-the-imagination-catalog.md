@@ -11,4 +11,4 @@ weight:
 ---
 Journeys of the Imagination is an exhibition designed to explore the various ways that mapmakers from the 15th century until today have created and translated their real and imagined world views. They recorded these diverse and ever changing images on various media including paper, globes, and computer screens.
 
-Catalog, 115pp. (2006)
+Soft-cover catalog, 115pp. (2006)
