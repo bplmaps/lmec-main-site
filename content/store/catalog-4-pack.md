@@ -9,7 +9,7 @@ store:
 weight: 2
 
 ---
-Consists of:
+Get four of our full-color exhibition catalogs for the price of three! Each full of dozens of maps and essays, these books are great for your coffee table or as a gift to a map-loving friend. The The four-pack consists of the following catalogs:
 
 * [_America Transformed: Mapping the Nineteenth Century_](/store/america-transformed-catalog/)(2019)
 * [_We are One: Mapping America's Road to Independence_](/store/we-are-one-catalog/)(2016)
