@@ -1,6 +1,6 @@
 ---
 title: Geospatial Information Services
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f990b/5729,2050,4101,1915/,800/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n558j/34,3774,14328,3856/full/0/default.jpg
 description: Access information, data, and guides for geospatial information
 weight: "3"
 aliases:
@@ -25,7 +25,7 @@ Our specific services include:
 * A robust [data portal](#data-portal) with special focus on Boston & New England; and
 * One-on-one consultations with [geospatial library staff](#make-request).
 
-<i class="fas fa-map" style="color: firebrick"></i> Happy mapping!
+<i class="fas fa-map" style="color: firebrick"></i><i class="fas fa-map" style="color: firebrick"></i><i class="fas fa-map" style="color: firebrick"></i> Happy mapping!
 
 ## Cartinal: The LMEC Documentation Database {#cartinal}
 
