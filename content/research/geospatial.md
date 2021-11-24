@@ -20,14 +20,12 @@ quicklinks:
 
 The Leventhal Map & Education Center offers **geospatial information services** to help you create, find, manipulate and preserve information stored in digital formats compatible with mapping software and GIS (Geographic Information Systems).
 
-At this page, you'll find:
+Our specific services include:
 * Cartinal, our [guides & documentation portal](#cartinal);
-* A robust [data portal](#data-portal) with special focus on Boston & New England;
-* Some [examples of digital projects](https://leventhalmap.org/projects/digital-projects/) we've made in-house;
-* Some [examples of projects](#example-projects) we can help *you* make; and
-* The [geospatial library staff](#make-request) appointment request form.
+* A robust [data portal](#data-portal) with special focus on Boston & New England; and
+* One-on-one consultations with [geospatial library staff](#make-request).
 
-<i class="fas fa-map" style="color: firebrick"></i> Happy mapping! <i class="fas fa-map" style="color: firebrick"></i>
+<i class="fas fa-map" style="color: firebrick"></i> Happy mapping!
 
 ## Cartinal: The LMEC Documentation Database {#cartinal}
 
@@ -107,7 +105,7 @@ Still not sure if you're in the right place? Here are some example projects we c
 
 ## Make a Request {#make-request}
 
->Whether you're new to the world of digital mapping, or you've been around the geospatial block more than once, we're here to help! Please reach out with GIS questions, project ideas, dataset inquiries, and any other cartographic .
+>Whether you've been around the , we're here to help! Please reach out with GIS questions, project ideas, dataset inquiries, and any other cartographic .
 
 **What can our geospatial information library staff provide?**
 
