@@ -9,3 +9,4 @@ store:
 weight: 4
 
 ---
+These 9 x 6 map envelopes are decorated with snippets of old topographic maps. They come in several different styles and are perfect for mailing out holiday cards.
