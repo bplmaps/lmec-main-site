@@ -7,6 +7,5 @@ store:
   item_id: torn-in-two-exhibition
   item_price: '35.00'
   item_text_price: "$35"
-draft: true
 
 ---

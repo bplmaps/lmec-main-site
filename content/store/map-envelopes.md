@@ -7,6 +7,5 @@ store:
   item_price: '5.00'
   item_text_price: "$5/pack"
 weight: 4
-draft: true
 
 ---
