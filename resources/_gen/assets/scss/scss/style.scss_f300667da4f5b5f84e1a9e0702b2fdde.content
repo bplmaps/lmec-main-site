@@ -608,6 +608,9 @@ textarea.form-control {
   max-height: 150px;
   object-fit: cover; }
 
+.store-card .card-img-top {
+  max-height: 375px; }
+
 .staff-list-card {
   text-align: center; }
   .staff-list-card img.staff-headshot-circle.card-img-top {
