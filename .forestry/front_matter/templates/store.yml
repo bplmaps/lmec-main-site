@@ -35,6 +35,7 @@ fields:
     description: Description of the price, formattable with dollar sign or special
       notes
 pages:
+- content/store/catalog-five-pack.md
 - content/store/journeys-of-the-imagination-catalog.md
 - content/store/map-coasters.md
 - content/store/map-envelopes.md
