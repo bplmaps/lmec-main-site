@@ -103,9 +103,9 @@ Still not sure if you're in the right place? Here are some example projects we c
 * You have used our tool [Atlascope](https://atlascope.leventhalmap.org) and want to use some of the historic data layers -->
 
 
-## Make a Request {#make-request}
+## Make an Appointment or Request {#make-request}
 
->Whether you've been around the , we're here to help! Please reach out with GIS questions, project ideas, dataset inquiries, and any other cartographic .
+>Whether you're a seasoned mapmaker looking for project feedback, or a newcomer to the world of digital cartography, we're here to help! Please reach out with GIS questions, project ideas, dataset inquiries, and all other things geospatial.
 
 **What can our geospatial information library staff provide?**
 

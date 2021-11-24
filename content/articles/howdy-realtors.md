@@ -19,7 +19,9 @@ During my second week at the LMEC, I came across a curious thing in our digital 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/full/full/0/default.jpg" caption="From our collections, the NAREB map: a [pictorial map advertising the 19th annual convention of the National Association of Real Estate Boards](https://collections.leventhalmap.org/search/commonwealth:3f4638304)." class="figure-center" >}}
 
-[Pictorial maps were popular throughout the twentieth century](https://bpl.bibliocommons.com/v2/record/S75C6209142), but this map -- let's just call it **the NAREB map**, short for National Association of Real Estate Boards -- was one of the "earliest, largest, and most colorful of all American pictorial maps."[^104f]
+[Pictorial maps were popular throughout the twentieth century](https://bpl.bibliocommons.com/v2/record/S75C6209142), but this one -- let's just call it **the NAREB map**, short for National Association of Real Estate Boards -- has been called one of the "earliest, largest, and most colorful of all American pictorial maps."[^104f]
+
+That statement is probably a little exaggerated, since [that style of pictorial map had been around for decades](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kv761/full/full/0/default.jpg), but the NAREB map remains a fascinating object for all sorts of reasons.
 
 In it, we find Realtors[^1a46] across North America flocking to Tulsa, Oklahoma for NAREB's annual convention. Local board representatives wisecrack about their colleagues, and each state spotlights a well-known trope (or two) for which it's known. Watchful eyes pockmark, literally, a sack of Idahoan potatoes; in Wyoming, [horses draw a covered wagon east](wagon). Sun shines, corn grows, and this year, "[all roads lead to Tulsa](roads)."
 
