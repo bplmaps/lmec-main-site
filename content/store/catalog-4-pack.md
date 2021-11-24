@@ -1,11 +1,11 @@
 ---
 title: Catalog Four-Pack
-product_image: ''
-description: Four of our full-color catalogs for the price of three
+product_image: "/uploads/2021-11-24/catalog-4-pack.jpg"
+description: Four of our full-color exhibition catalogs for the price of three
 store:
   item_id: catalog-four-pack
   item_price: '100.00'
-  item_text_price: "$100/set of 5"
+  item_text_price: "$100/set of 4"
 weight: 2
 
 ---
