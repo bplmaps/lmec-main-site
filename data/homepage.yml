@@ -47,11 +47,6 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Special hours
-    text: Gallery open 11 am – 5 pm on Wednesday, November 23
-    link: |-
-      https://www.bpl.org/locations/3/
-      https://www.bpl.org/locations/3/
   - badge: Job search
     text: Exhibition Design & Fabrication Coordinator
     link: https://www.leventhalmap.org/about/jobs/exhibition-design-and-fabrication/
@@ -153,13 +148,11 @@ funfacts:
 blog:
   enable: true
   title: Articles
-todaysHours: false
+todaysHours: true
 upcomingLivestream:
   enable: false
   embedLink: '<iframe width="560" height="315" src="https://www.youtube.com/embed/0jGA636-hq0"
     title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-    encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-'
+    encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
   startTime: 2021-10-26T18:55:00.000-04:00
   endTime: 2021-10-26T20:00:00.000-04:00
