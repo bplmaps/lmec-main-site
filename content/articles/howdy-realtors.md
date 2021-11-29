@@ -48,7 +48,7 @@ By 1908, a National Association of Real Estate Exchanges had held its formative 
 
 *"The Realtor cartographer has made a discovery that wasn't in the old school atlas. And he has put it down, in striking blue and Chinese red and yellow, in an interpretative map of the United States which has just been issued by the National Association of Real Estate Boards."*
 
-As Jeffery Hornstein argues, "The annual convention played a central role in the development of a national orientation and professional consciousness... The journey to and from the convention was an expressive rite of passage, a trip away from everyday domestic and business concerns for the large majority of men who left wife and children for the exclusive world of real estate men."[^f965] No wonder, then, that the roads to Tulsa are so prominently highlighted in the NAREB map -- professionalization, it seems, was as much about the journey as the destination.
+As Jeffrey Hornstein argues, "The annual convention played a central role in the development of a national orientation and professional consciousness... The journey to and from the convention was an expressive rite of passage, a trip away from everyday domestic and business concerns for the large majority of men who left wife and children for the exclusive world of real estate men."[^f965] No wonder, then, that the roads to Tulsa are so prominently highlighted in the NAREB map -- professionalization, it seems, was as much about the journey as the destination.
 
 ### The Destination
 
@@ -103,7 +103,7 @@ Eventually, NAREB became the National Association of Realtors. It remains the le
 
 [^104f]: Hornsby, Stephen J. 2017. *Picturing America: the Golden Age of Pictorial Maps*. Chicago, IL: The University of Chicago Press, pp. 186.
 [^1a46]: As of 1950, the term REALTOR® was trademarked with the US Patent Office by the National Association of REALTORS®. In this article, for ease of reading, I'm simply going to type "Realtor."
-[^f26f]: Hornstein, Jeffery. 2005. *A Nation of Realtors®: A Cultural History of the Twentieth-Century American Middle Class"*. Durham, NC: Duke University Press, pp. 13-15.
+[^f26f]: Hornstein, Jeffrey. 2005. *A Nation of Realtors®: A Cultural History of the Twentieth-Century American Middle Class"*. Durham, NC: Duke University Press, pp. 13-15.
 [^f965]: Hornstein, p. 32-35.
 [^dd30]: It's worth noting that the 1926 convention came just five years after a white mob's destruction of "Black Wall Street" in [Tulsa's Greenwood neighborhood](https://www.history.com/topics/roaring-twenties/tulsa-race-massacre), more commonly known as the Tulsa Race Massacre.
 [^fc47]: The depiction of the Native American man on the cartouche is consistent with [noble savage](https://en.wikipedia.org/wiki/Noble_savage) stereotypes that were common at this time.
