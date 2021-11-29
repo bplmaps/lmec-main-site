@@ -25,7 +25,7 @@ Our specific services include:
 * A robust [data portal](#data-portal) with special focus on Boston & New England; and
 * One-on-one consultations with [geospatial library staff](#make-request).
 
-<i class="fas fa-map" style="color: firebrick"></i><i class="fas fa-map" style="color: firebrick"></i><i class="fas fa-map" style="color: firebrick"></i> Happy mapping!
+Happy mapping!
 
 ## Cartinal: The LMEC Documentation Database {#cartinal}
 
