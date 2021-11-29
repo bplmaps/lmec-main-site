@@ -1,6 +1,4 @@
-{{ $unique_id := now.UnixNano }}
-
-<style>
+<!-- <style>
   #popupTooltip {
     position: absolute;
     border: 1px solid #ccc;
@@ -11,30 +9,29 @@
     max-height: 500px;
     max-width: 500px;
   }
-</style>
-
-<a id="popup-{{ $unique_id }}" href="{{ .Get `src`}}" class="popupTooltip" target="blank">{{.Inner}}</a>
-
-<script>
+</style> -->
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
+<a id="popup" href="{{ .Get `src`}}" class="popupTooltip" target="blank">{{.Inner}}</a>
+<!-- <script>
   this.iiifPreview = function() {
     xOffset = 200;
     yOffset = 30;
     $("a.popup").hover(function(e) {
         this.t = this.title;
         this.title = "";
-        var c = (this.t != "") ? "<br/>" + this.t : "";
+        let c = (this.t != "") ? "<br/>" + this.t : "";
         $("body").append("<p id='popup'><img src='" + this.href + "' alt='url preview' />" + c + "</p>");
-        $("#popup")
+        $("#popupTooltip")
           .css("top", (e.pageY - xOffset) + "px")
           .css("left", (e.pageX + yOffset) + "px")
           .fadeIn("fast");
       },
       function() {
         this.title = this.t;
-        $("#popup").remove();
+        $("#popupTooltip").remove();
       });
     $("a.popup").mousemove(function(e) {
-      $("#popup")
+      $("#popupTooltip")
         .css("top", (e.pageY - xOffset) + "px")
         .css("left", (e.pageX + yOffset) + "px");
     });
@@ -42,4 +39,4 @@
   $(document).ready(function() {
     iiifPreview();
   });
-</script>
+</script> -->

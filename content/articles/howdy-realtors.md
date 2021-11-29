@@ -2,7 +2,7 @@
 title: Howdy, Realtors!
 draft: true
 author: Ian Spangler
-description: What one map can tell us about the politics of property in the early twentieth century United States 
+description: What one map can tell us about the politics of property in the early twentieth century United States
 date: 2021-11-29T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/767,440,14004,6047/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/12635,9620,1447,571/,1200/0/default.jpg
@@ -26,7 +26,7 @@ During my second week at the LMEC, I came across a curious object in our digital
 
 That statement is probably a little exaggerated, since [this style of pictorial map had been around for decades](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kv761/full/full/0/default.jpg) by 1926, but the NAREB map remains a fascinating object for all sorts of reasons.
 
-In it, we find Realtors[^1a46] across North America flocking to Tulsa, Oklahoma for NAREB's annual convention. Local board representatives wisecrack about their colleagues, and each state spotlights a well-known trope (or two) for which it's known. Watchful eyes pockmark, literally, {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/full/full/0/default.jpg" >}} a sack {{< /popup >}} of Idahoan potatoes; in Wyoming, [horses draw a covered wagon east](wagon). Sun shines, corn grows, and this year, "[all roads lead to Tulsa](roads)."
+In it, we find Realtors[^1a46] across North America flocking to Tulsa, Oklahoma for NAREB's annual convention. Local board representatives wisecrack about their colleagues, and each state spotlights a well-known trope (or two) for which it's known. [Watchful eyes pockmark](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/2650,3172,1643,1021/full/0/default.jpg) a sack of Idahoan potatoes; in Wyoming, [horses draw a covered wagon east](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/4296,3269,1426,1028/full/0/default.jpg). Sun shines, corn grows, and this year, "all roads lead to Tulsa."
 
 Landing at [the intersection between mapping and art](https://www.jstor.org/stable/40233956?seq=1#metadata_info_tab_contents), pictorial maps like these were often produced to be eye-catching and attention-grabbing. It doesn't really matter that Ignatz Sahula omits geographic features like Virginia's Eastern Shore; his primary objective isn't [preserving shape or area](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/projections/), but rather connecting emotionally with an audience. He doesn't need the Eastern Shore to convince the nation's Realtors that, if they miss this year's convention in Tulsa, they'll be missing out on much, much more.
 
@@ -44,7 +44,7 @@ These tools were meant to standardize a form of professional behavior in the rea
 
 {{< figure src="/uploads/nrej-tulsa.png" caption="The 1926 *NREJ* contains a reprint of the NAREB map, with text encouraging Realtors to come to Tulsa. Courtesy of the [National Association of Realtors' archives](https://nar.realtor/library-archives)." class="figure-left" >}}
 
-By 1908, the National Association of Real Estate Exchanges had held its formative meeting in Chicago---the first of many annual conventions to come. These conventions were heavily publicized in the NAREB's flagship journal, the *[National Real Estate Journal](https://www.worldcat.org/title/national-real-estate-journal/oclc/7474556)*, through features like songbooks, postcards, and of course, the NAREB map. In a 1926 edition of the *NREJ*, the editors reprinted this 1924 map above the following text:
+By 1908, the National Association of Real Estate Exchanges had held its formative meeting in Chicago---the first of many annual conventions to come. These conventions were heavily publicized in the NAREB's flagship journal, the *[National Real Estate Journal](https://www.worldcat.org/title/national-real-estate-journal/oclc/7474556)*, through features like songbooks, postcards, and of course, the NAREB map. In a 1926 edition of the *NREJ*, the editors reprinted Sahula's map above the following text:
 
 > "The Realtor cartographer has made a discovery that wasn't in the old school atlas. And he has put it down, in striking blue and Chinese red and yellow, in an interpretative map of the United States which has just been issued by the National Association of Real Estate Boards."
 
@@ -56,7 +56,7 @@ Tulsa in 1926 was significant for a number of reasons. For one, at the time this
 
 {{< figure src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd404:g4041:g4041p:ct011629/full/,1200/0/default.jpg" caption=" This 1923 map of [Highways through the great oil, gas, mining, industrial, & agricultural areas of the United States](https://www.loc.gov/resource/g4041p.ct011629/), from the Library of Congress' collections, features Tulsa prominently." class="figure-center" >}}
 
-At what cost this happened is hard to overstate. What's known today as Tulsa was settled by the Lochapoka Tribe in 1828 after the forcible expulsion from their native land in present-day Alabama during the [violent period of Indian removal](https://www.npr.org/templates/story/story.php?storyId=12261992). "Real estate"---that is, the concept of land as a discrete and bounded commodity---always comes from somewhere, and indigenous dispossession is [baked into the very DNA](https://d1wqtxts1xzle7.cloudfront.net/49328002/Park-2016-Law___Social_Inquiry-with-cover-page-v2.pdf?Expires=1637611943&Signature=RifbLg3VPemxOpmp2bo5TPOjKQpiULfx3FJlEca2XAXIdA~Ou2Bdi33ij56nDo3PqbrYlGR-sEIogZSyiC5DyXgelT1Q~CwxWM2AxnAa7CA4dHzruZ5e5mr7kEW4RGzN1SDEHtQvNTjUIn5plCILRsHaVLzVSB9oV3~Z61g8UJnIl8yRW2Pwy8nwSmEhtufdIMAP7Usf1EynbBeikwNP41L3Q4NuAkNOjOFoWQ44F2nBUtL7pwI-zc-TrSArLMp2xojG~O1kF2sWFCghLd9esbzD-LKxRp3ajFf0CDYohf1regBOnQm933wy~pHlBR0ax5XUxNO2rJfJbenLtNCrWQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) of the real estate industry.
+At what cost this happened is hard to overstate. What's known today as Tulsa was settled by the Lochapoka Tribe in 1828 after the forcible expulsion from their native land in present-day Alabama during the [violent period of Indian removal](https://www.npr.org/templates/story/story.php?storyId=12261992). "Real estate"---that is, the concept of land as a discrete and bounded commodity---always comes from somewhere, and indigenous dispossession is [baked into the very DNA](https://onlinelibrary.wiley.com/doi/abs/10.1111/lsi.12222) of the real estate industry.
 
 Furthermore, the 1926 convention came just five years after the Tulsa Race Massacre, when a white mob destroyed ["Black Wall Street" in Tulsa's Greenwood neighborhood](https://www.nytimes.com/interactive/2021/05/24/us/tulsa-race-massacre.html). The Greenwood district is conspicuously left off of the NAREB map's Tulsa inset, despite being less than one mile from the Mayo Hotel, where the convention was held. All that to say: while real estate in Tulsa may have been booming, these kinds of booms come with a lot of baggage.
 
@@ -74,7 +74,7 @@ In proper comic book fashion, Tampa and Miami are *literally* booming, while nea
 
 The binder boys operated for 5 months during the summer of 1925, but their feverish day trading of real estate serves as a microcosm for Miami's wider urban politics. At the turn of the century, Miami was still a new US city, and many---not just the binder boys---viewed its real estate as a guaranteed profit machine.[^2efe] As [Julio Capó Jr. has explained](https://uncpress.org/book/9781469635200/welcome-to-fairyland/), turn of the century Miami was aggressively marketed by urban boosters as a transgressive "fairyland." As it turned out, the fairyland was a bubble in disguise, and in 1926, it [did what bubbles do](https://en.wikipedia.org/wiki/1926_Miami_hurricane). Nevertheless, the real estate industry churned forward. Surely it's no coincidence that the 1927 NAREB convention would be in---you guessed it!---Miami.
 
-In 1926 Miami, "The butcher, the baker, the candlestick maker, and their wives, will buy a lot for you, or sell you one."[^dad0] I think the binder boys earned their spot on the NAREB map not because of what they did, but rather for how they did it: *without professionalism*.
+According to one account of the Miami land boom, "The butcher, the baker, the candlestick maker, and their wives, will buy a lot for you, or sell you one."[^dad0] If everybody was hustling for real estate, then why were the binder boys singled out as bad actors? Perhaps those consummate curbstoners earned their spot on the NAREB map not because of what they did (e.g., land speculation), but rather because of how they did it: *without professionalism*.
 
 ### Cartography and the nation
 
@@ -86,17 +86,15 @@ Looking to the northern border, we can presume that Canada was well-integrated i
 
 While we only get a small glimpse of the Canadian state, it's stylistically rendered just like the rest of the US. It has named characters, snowy mountains, little houses, and pine trees. Despite being separated by a national border, Sahula uses style and color to imply that Canada and the US are connected by climate, culture, and commerce. He does the same in Cuba, where a fedora-clad Roberto Salmon exclaims, "We want Realtors in Havana in 1927."
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/11421,9559,2668,1471/full/0/default.jpg" caption="Cuba on the NAREB map." class="figure-center" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/11450,10191,2671,735/full/0/default.jpg" caption="Cuba on the NAREB map." class="figure-center" >}}
 
-In 1926, NAREB clearly viewed Canada and Cuba as potentially profitable real estate markets. The same cannot be said of Mexico. The basic cartographic design principle of [contrast](https://en.wikipedia.org/wiki/Figure-ground_(cartography)) instructs us to use bright colors to attract attention, and dull ones to avoid it. Here, everything south of the Rio Grande is drawn in a pallid gray-brown. Compositionally, Mexico is also given a flyover status. In addition to being positioned underneath the title cartouche[^fc47] and the Tulsa inset map, Mexico is *literally being flown over* by a plane coming in from Hawai'i. Even though the term "flyover country" wasn't coined until long after this map was made, the implication here remains clear: in a scene bursting with busy-ness, Mexico is left to quietly fade into the background.
+In 1926, NAREB clearly viewed Canada and Cuba as potentially profitable real estate markets. The same cannot be said of Mexico. The basic cartographic design principle of [contrast](https://en.wikipedia.org/wiki/Figure-ground_(cartography)) instructs us to use bright colors to attract attention, and dull ones to avoid it. Here, everything south of the Rio Grande is painted in a pallid gray-brown. Compositionally, Mexico is also given a flyover status. In addition to being positioned underneath the title cartouche[^fc47] and the Tulsa inset map, Mexico is *literally being flown over* by a plane coming in from Hawai'i. Even though the term "flyover country" wasn't coined until long after this map was made, the implication here remains clear: in a scene bursting with busy-ness, Mexico is left to quietly fade into the background.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/2727,7465,4181,2796/full/0/default.jpg" caption="The US-Mexico border on the NAREB map, designed to be unobtrusive." class="figure-center" >}}
 
 ### All roads lead to...
 
-Eventually, NAREB became the National Association of Realtors. It remains the leading organization for professional real estate brokerage, and they still hold their annual convention each year. Since 1926, however, I'm not sure if they've made another map quite like this.
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/full/,1200/0/default.jpg" caption="From our collections, the NAREB map: a [pictorial map advertising the 19th annual convention of the National Association of Real Estate Boards](https://collections.leventhalmap.org/search/commonwealth:3f4638304)." class="figure-center" >}}
+Eventually, NAREB became the National Association of Realtors. It remains the leading organization for professional real estate brokerage, and they still hold their annual convention in a different city each year. Since 1926, however, I'm not sure if they've made another map quite like this.
 
 
 ### Notes
