@@ -1,0 +1,45 @@
+{{ $unique_id := now.UnixNano }}
+
+<style>
+  #popupTooltip {
+    position: absolute;
+    border: 1px solid #ccc;
+    background: #333;
+    padding: 5px;
+    display: none;
+    color: #fff;
+    max-height: 500px;
+    max-width: 500px;
+  }
+</style>
+
+<a id="popup-{{ $unique_id }}" href="{{ .Get `src`}}" class="popupTooltip" target="blank">{{.Inner}}</a>
+
+<script>
+  this.iiifPreview = function() {
+    xOffset = 200;
+    yOffset = 30;
+    $("a.popup").hover(function(e) {
+        this.t = this.title;
+        this.title = "";
+        var c = (this.t != "") ? "<br/>" + this.t : "";
+        $("body").append("<p id='popup'><img src='" + this.href + "' alt='url preview' />" + c + "</p>");
+        $("#popup")
+          .css("top", (e.pageY - xOffset) + "px")
+          .css("left", (e.pageX + yOffset) + "px")
+          .fadeIn("fast");
+      },
+      function() {
+        this.title = this.t;
+        $("#popup").remove();
+      });
+    $("a.popup").mousemove(function(e) {
+      $("#popup")
+        .css("top", (e.pageY - xOffset) + "px")
+        .css("left", (e.pageX + yOffset) + "px");
+    });
+  };
+  $(document).ready(function() {
+    iiifPreview();
+  });
+</script>
