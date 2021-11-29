@@ -1,6 +1,6 @@
 ---
 title: Howdy, Realtors!
-draft: true
+draft: false
 author: Ian Spangler
 description: What one map can tell us about the politics of property in the early twentieth century United States
 date: 2021-11-29T01:30:00.000+00:00
@@ -12,9 +12,6 @@ tags:
 - pictorial maps
 - early 20th century
 ---
-<!-- {{< alert-box type="success" >}}
-1. Different colored links do different things on this page. **Click** on [red links](#) to visit another resource, and **hover** your mouse over blue links for a zoomed image!
-{{< /alert-box >}} -->
 
 ### Meet "The NAREB Map"
 
