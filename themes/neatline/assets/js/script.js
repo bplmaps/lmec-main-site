@@ -1,8 +1,6 @@
 (function ($) {
   'use strict';
 
-
-
   // Sticky Menu
   $(window).scroll(function () {
     var height = $('.top-header').innerHeight();
@@ -19,9 +17,10 @@
 
   $(document).on('click', 'a[href^="#"]', function (event) {
     event.preventDefault();
-    $('html, body').animate({
-        scrollTop: $($.attr(this, 'href')).offset().top + -140
-    }, 1000);
+    let anchor = $(this).attr('href').substring(1);
+    let offset = document.getElementById(anchor).scrollIntoView(
+      {behavior: "smooth", block: "center"}
+    );
   });
 
   // Background-images
