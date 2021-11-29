@@ -96,7 +96,7 @@ code {
   .btn-primary:hover {
     background-color: #004055; }
 
-.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary.active:not(:disabled):not(.disabled),
 .btn-primary:not(:disabled):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
@@ -607,6 +607,9 @@ textarea.form-control {
 .page-card .card-img-top {
   max-height: 150px;
   object-fit: cover; }
+
+.store-card .card-img-top {
+  max-height: 375px; }
 
 .staff-list-card {
   text-align: center; }

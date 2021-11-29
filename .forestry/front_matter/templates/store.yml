@@ -13,7 +13,7 @@ fields:
   name: description
   label: description
   description: Short description of the product
-- type: text
+- type: number
   name: weight
   label: weight
 - type: field_group
@@ -35,8 +35,8 @@ fields:
     description: Description of the price, formattable with dollar sign or special
       notes
 pages:
-- content/store/catalog-five-pack.md
 - content/store/journeys-of-the-imagination-catalog.md
+- content/store/map-cards-postcards.md
 - content/store/map-coasters.md
 - content/store/map-envelopes.md
 - content/store/torn-in-two-catalog.md

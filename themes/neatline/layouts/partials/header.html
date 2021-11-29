@@ -15,8 +15,10 @@
         <div class="col-lg-8 text-center text-lg-right">
           {{ if site.Params.specialButton.enabled }}
           <a href="{{ site.Params.specialButton.link | relURL }}" class="btn btn-warning btn-xs mb-1"><i class="{{ site.Params.specialButton.icon }}"></i> {{ site.Params.specialButton.text }}</a>
-          {{ end }} <a href="/subscribe" target="_blank" class="btn btn-primary btn-xs mb-1"><i class="fas fa-envelope-square"></i> Subscribe</a>
-          <a href="{{ "donate/?form=GENCAMPAIGN" | relURL }}" class="btn btn-primary btn-xs mb-1 btn-primary-gradient"><i class="fas fa-gift"></i> Donate Now</a> 
+          {{ end }} 
+          <a href="/store" class="btn btn-primary btn-xs mb-1"><i class="fas fa-gift"></i> Gift Store</a>
+          <a href="/subscribe" class="btn btn-primary btn-xs mb-1"><i class="fas fa-envelope-square"></i> Subscribe</a>
+          <a href="{{ "donate/?form=GENCAMPAIGN" | relURL }}" class="btn btn-primary btn-xs mb-1 btn-primary-gradient"><i class="fas fa-hand-holding-heart"></i> Donate Now</a> 
         </div>
       </div>
 

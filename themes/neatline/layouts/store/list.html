@@ -1,8 +1,21 @@
 {{ define "main" }}
 
+{{ with .Content }}
+<section class="section-sm">
+  <div class="container">
+    <div class="col-12 mb-3 content">
+      {{ . }}
+    </div>
+  </div>
+</section>
+
+
+{{ end }}
 
 <section class="section pb-3">
   <div class="container">
+
+
     <div class="row">
       {{ range .Pages.ByWeight }}
       <div class="col-lg-4 col-sm-6 mb-4">
