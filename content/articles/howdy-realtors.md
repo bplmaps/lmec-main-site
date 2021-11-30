@@ -1,8 +1,8 @@
 ---
 title: Howdy, Realtors!
-draft: false
 author: Ian Spangler
-description: What one map can tell us about the politics of property in the early twentieth century United States
+description: What one map can tell us about the politics of property in the early
+  twentieth century United States
 date: 2021-11-29T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/767,440,14004,6047/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/12635,9620,1447,571/,1200/0/default.jpg
@@ -11,8 +11,8 @@ tags:
 - NAREB
 - pictorial maps
 - early 20th century
----
 
+---
 ### Meet "The NAREB Map"
 
 During my second week at the LMEC, I came across a curious object in our digital collections. Pseudo-Gothic lettering, striking primary colors, a pair of coats of arms: at first glance, it was easy to mistake this [1926 map by Ignatz Sahula](https://collections.leventhalmap.org/search/commonwealth:3f4638304map) for something a bit more, well, *medieval* than it actually is.
