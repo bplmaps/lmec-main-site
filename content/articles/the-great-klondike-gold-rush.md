@@ -55,6 +55,8 @@ The Hän were forcibly moved out of their traditional hunting grounds and into a
 
 ### The End of the Rush
 
-In the summer of 1899, news arrived that gold dust had been discovered in Nome, Alaska, triggering a mass exodus from the Yukon. America’s last gold rush was over. Carmack and his family became rich off his initial discovery, leaving the Yukon with $1 million worth of gold, but most other individuals left with nothing. Large-scale gold mining in the Yukon Territory didn’t end until 1966, and today some small gold mines still operate there.
+By the end of 1898, there was a mass exodus from the Yukon territory, and America’s last gold rush was over. Carmack and his family became rich off his initial discovery, leaving the Yukon with $1 million worth of gold, but most other individuals left with nothing. Large-scale gold mining in the Yukon Territory didn’t end until 1966, and today some small gold mines still operate there.
 
 Like previous gold booms of the West, the Klondike rush ended almost as quickly as it began, and these maps remain relics of a short-lived moment of mass migration and individual opportunity, but also the longer-term stories of aggressive economic competition, questions of land and resource exploitation, and the challenging legacy of the displacement and abuse of indigenous populations.
+
+_*This article was updated on November 30, 2021 to reflect that the Klondike gold rush ended in 1898, not 1899. Thanks to our keen-eyed reader MJ Kirchhoff from Juneau who pointed out  that data from two censuses shows rapid decline in Dawson's population by the end of 1898, signaling the end of the rush._
