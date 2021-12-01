@@ -1,0 +1,178 @@
+---
+label: Homepage Config
+hide_body: true
+fields:
+- type: field_group
+  name: slider
+  label: slider
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: image_gallery
+    name: bg_images
+    label: bg_images
+  - type: field_group_list
+    name: slider_item
+    label: slider_item
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: content
+      label: content
+    - type: text
+      name: animation_in
+      label: animation_in
+    - type: text
+      name: animation_out
+      label: animation_out
+    - type: field_group
+      name: button
+      label: button
+      fields:
+      - type: boolean
+        name: enable
+        label: enable
+      - type: text
+        name: label
+        label: label
+      - type: text
+        name: link
+        label: link
+- type: field_group
+  name: cta
+  label: cta
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: field_group_list
+    name: announcements
+    label: announcements
+    fields:
+    - type: text
+      name: badge
+      label: badge
+    - type: text
+      name: text
+      label: text
+    - type: text
+      name: link
+      label: link
+- type: field_group
+  name: audiences
+  label: audiences
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: field_group_list
+    name: audienceGroups
+    label: audienceGroups
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: description
+      label: description
+    - type: text
+      name: color
+      label: color
+    - type: field_group_list
+      name: links
+      label: links
+      fields:
+      - type: text
+        name: title
+        label: title
+      - type: text
+        name: link
+        label: link
+- type: field_group
+  name: frontpageFeature
+  label: frontpageFeature
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: file
+    name: bg_image
+    label: bg_image
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: boolean
+      name: enable
+      label: enable
+    - type: text
+      name: label
+      label: label
+    - type: text
+      name: link
+      label: link
+- type: field_group
+  name: event
+  label: event
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+- type: field_group
+  name: funfacts
+  label: funfacts
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: field_group_list
+    name: funfact_item
+    label: funfact_item
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: count
+      label: count
+- type: field_group
+  name: blog
+  label: blog
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+- type: boolean
+  name: todaysHours
+  label: todaysHours
+- type: field_group
+  name: upcomingLivestream
+  label: upcomingLivestream
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: textarea
+    name: embedLink
+    label: embedLink
+  - type: datetime
+    name: startTime
+    label: startTime
+  - type: datetime
+    name: endTime
+    label: endTime
