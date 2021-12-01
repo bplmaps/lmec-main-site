@@ -81,8 +81,6 @@ The Leventhal Map & Education Center is not an agency of the City of Boston. The
 
 **To Apply**
 
-Please submit the following via [this application form](https://airtable.com/shrU06QzibJffnXdL)
-
 * A cover letter of no more than two pages (PDF, DOCX, or MD format)
 * A CV or résumé (PDF, DOCX, or MD format)
 * A list of two references with email and telephone contact
@@ -95,7 +93,6 @@ For full consideration, please submit your application by **November 30,
 For questions or more information about this search, please contact
 [info@leventhalmap.org](mailto:info@leventhalmap.org).
 
-<a class="btn btn-lg btn-primary-outline" href="https://airtable.com/shrU06QzibJffnXdL">Submit application online</a>
 
 ### For more information
 
