@@ -2,10 +2,16 @@
 title = "Job Posting: Exhibition Design & Fabrication Coordinator"
 
 +++
+{{< alert-box type="warning" title="Deadline passed" >}}
+
+The deadline for applying to this vacancy has passed.
+
+{{</ alert-box >}}
+
 The **Norman B. Leventhal Map & Education Center at the Boston Public
 Library** (LMEC) seeks to hire for the position of **Exhibition Design & Fabrication Coordinator**.
 
-This is a **fixed-term position** beginning as early as December 6, 2022 and ending on March 11, 2022. The position is hourly, for 10--20 hours per week, paid at $**22.50/hour**. Some, though not all, of the responsibilities of this position may be conducted through remote work, and with flexible working hours, according to the preference of the candidate. 
+This is a **fixed-term position** beginning as early as December 6, 2022 and ending on March 11, 2022. The position is hourly, for 10--20 hours per week, paid at $**22.50/hour**. Some, though not all, of the responsibilities of this position may be conducted through remote work, and with flexible working hours, according to the preference of the candidate.
 
 The **Exhibition Design & Fabrication Coordinator** will assist with the preparation, design, and installation of the Center's 2022 exhibition _More or Less in Common: Environment and Justice in the Human Landscape_. (Read more about the exhibit [here](https://www.leventhalmap.org/articles/environmental-justice-exhibition-preview/) and [here](https://olmstednow.org/more-or-less-in-common-environment-and-justice-in-the-human-landscape/).) Working closely with curatorial and exhibition personnel on the Center's permanent staff, the Coordinator will implement the design of original exhibition material, including captions, graphics, wayfinding signage, reproduced collections objects, and other interpretive material. The Coordinator will work with vendors and Library staff to produce visual materials for the exhibition and facilitate their installation in the Center's gallery. The Coordinator will also assist Center staff in facilitating the preparation and installation of historic objects from the collection.
 
