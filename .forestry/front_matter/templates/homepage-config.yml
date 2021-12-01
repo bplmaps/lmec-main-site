@@ -4,21 +4,23 @@ hide_body: true
 fields:
 - type: field_group
   name: slider
-  label: slider
+  label: Top Hero Slider
   fields:
   - type: boolean
     name: enable
-    label: enable
+    label: Enable Hero Slider?
   - type: image_gallery
     name: bg_images
-    label: bg_images
+    label: Background Images
+    description: An array of possible images, one of which will be randomly selected
+      each page load.
   - type: field_group_list
     name: slider_item
-    label: slider_item
+    label: Slider Headline Text
     fields:
     - type: text
       name: title
-      label: title
+      label: Headline
     - type: textarea
       name: content
       label: content
@@ -43,7 +45,7 @@ fields:
         label: link
 - type: field_group
   name: cta
-  label: cta
+  label: What's New Section
   fields:
   - type: boolean
     name: enable
@@ -63,7 +65,7 @@ fields:
       label: link
 - type: field_group
   name: audiences
-  label: audiences
+  label: Audience Callouts
   fields:
   - type: boolean
     name: enable
@@ -159,7 +161,8 @@ fields:
     label: title
 - type: boolean
   name: todaysHours
-  label: todaysHours
+  label: Show Today's Hours
+  default: true
 - type: field_group
   name: upcomingLivestream
   label: upcomingLivestream
