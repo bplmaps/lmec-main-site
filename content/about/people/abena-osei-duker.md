@@ -4,6 +4,7 @@ headshot = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463863p/7
 staff_category = "staff"
 title = "Abena Osei Duker"
 type = "person"
+menu = false
 [[contact]]
 details = "aduker@leventhalmap.org"
 method = "Email"
