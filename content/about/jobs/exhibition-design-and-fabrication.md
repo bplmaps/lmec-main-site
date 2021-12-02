@@ -2,6 +2,10 @@
 title = "Job Posting: Exhibition Design & Fabrication Coordinator"
 
 +++
+---
+menu: false
+---
+
 {{< alert-box type="warning" title="Deadline passed" >}}
 
 The deadline for applying to this vacancy has passed.
