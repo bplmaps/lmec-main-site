@@ -179,3 +179,5 @@ fields:
   - type: datetime
     name: endTime
     label: endTime
+pages:
+- data/homepage.yml
