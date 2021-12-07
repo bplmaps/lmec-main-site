@@ -1,13 +1,13 @@
 +++
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fd83j/803,1045,6864,3267/,1200/0/default.jpg"
-date = 2021-12-07T19:00:00+07:00
+date = 2021-12-08T00:00:00Z
 fee = "Free"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fd83j/803,1045,6864,3267/,1200/0/default.jpg"
 location = "Online"
 publishDate = 2021-09-16T17:24:24Z
 registration = "https://www.eventbrite.com/e/ashland-by-map-tickets-173710050437"
+tags = ["Atlascope", "Neighborhood By Map"]
 title = "Ashland By Map"
-tags = ["Atlascope","Neighborhood By Map"]
 
 +++
 ### **The Leventhal Map & Education Center and the Ashland Public Library explore Ashland's history and present through maps**
