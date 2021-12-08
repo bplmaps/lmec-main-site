@@ -10,6 +10,10 @@ tags = ["Atlascope", "Neighborhood By Map"]
 title = "Ashland By Map"
 
 +++
+### Event video 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/seG_AunUBbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### **The Leventhal Map & Education Center and the Ashland Public Library explore Ashland's history and present through maps**
 
 How has Ashland, Massachusetts changed over time? Where can we find the names and locations of buildings and landscapes that have now vanished? How can maps tell geographic stories?
