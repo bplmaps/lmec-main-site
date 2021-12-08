@@ -1,6 +1,8 @@
 {{ define "main" }}
 
-<!-- event single -->
+{{ partial "store-topbar.html" }}
+
+
 <section class="section-sm">
   <div class="container">
 
@@ -11,7 +13,7 @@
         <div class="d-flex align-items-center">
           <i class="fas fa-cash-register text-muted icon-md mr-3"></i>
           <div class="text-left">
-            <h6 class="mb-0">Price</h6>
+            <h3 class="mb-0">Price</h3>
             <p class="mb-0">{{ .Params.store.item_text_price }}</p>
           </div>
         </div>
