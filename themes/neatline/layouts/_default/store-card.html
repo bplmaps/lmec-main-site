@@ -13,6 +13,7 @@
   data-item-description="{{ .Description }}"
   data-item-image="{{ $page.Params.product_image }}"
   data-item-name="{{ .Title }}"
+  data-item-weight="{{ .Params.store.item_weight }}"
   {{ with .Params.store.custom }}
 
  {{ range $index, $custom := . }}
