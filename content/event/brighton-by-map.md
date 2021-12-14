@@ -6,10 +6,13 @@ image = "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F150847769%
 location = "Online"
 publishDate = 2021-09-17T10:00:00Z
 registration = "https://www.eventbrite.com/e/brighton-by-map-tickets-173813489827"
+tags = ["Atlascope", "Neighborhood By Map"]
 title = "Brighton By Map"
-tags = ["Atlascope","Neighborhood By Map"]
 
 +++
+### Event video 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LEdC8fQAS2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### **Join the Leventhal Map & Education Center and Brighton Branch of the Boston Public Library as we explore history through maps**
 
 What was the name of the building that once housed the Brighton Branch? What was Brighton like in the late 19th and early 20th centuries? How has the area changed, and how has it stayed the same? Using [Atlascope](https://atlascope.leventhalmap.org/), the Leventhal Map & Education Center’s user-friendly portal for exploring urban atlases, we’ll dive into the historical geography of Brighton. Come learn about how the community has changed over time, and discover how to research the history of your own house and neighborhood.
