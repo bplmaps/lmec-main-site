@@ -23,6 +23,7 @@
           data-item-price="{{ .Params.store.item_price }}" data-item-url="{{ .Permalink }}"
           data-item-description="{{ .Description }}" data-item-image="{{ .Params.product_image }}"
           data-item-name="{{ .Title }}"
+          data-item-weight="{{ .Params.store.item_weight }}" 
           {{ with .Params.store.custom }}
           {{ range $index, $custom :=. }}
           data-item-custom{{ $index }}-name="{{ $custom.name }}"

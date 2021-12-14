@@ -6,6 +6,7 @@ store:
   item_id: catalog-four-pack
   item_price: '100.00'
   item_text_price: "$100/set of 4"
+  item_weight: "3550"
 weight: 2
 
 ---

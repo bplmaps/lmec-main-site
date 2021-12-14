@@ -8,6 +8,7 @@ store:
   item_id: at-catalog-hardcover
   item_price: '30.00'
   item_text_price: "$30 softcover, $40 hardcover"
+  item_weight: "1635"
   custom:
   - name: Binding
     options: Softcover|Hardcover[+10.00]

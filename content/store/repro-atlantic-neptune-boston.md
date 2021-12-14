@@ -7,6 +7,7 @@ store:
   item_id: repro-atlantic-neptune-boston
   item_price: '65.00'
   item_text_price: "$65 small, $83 large"
+  item_weight: "100"
   custom:
   - name: Size
     options: Small 21.4 × 15.0|Large 32.0 × 22.4[+18.00]

@@ -7,6 +7,7 @@ store:
   item_id: torn-in-two-exhibition
   item_price: '35.00'
   item_text_price: "$35"
+  item_weight: "932"
 
 ---
 Torn in Two: 150th Anniversary of the Civil War, the fourth gallery exhibition of the Norman B. Leventhal Map Center at the Boston Public Library, commemorates one of the major events in America’s history.

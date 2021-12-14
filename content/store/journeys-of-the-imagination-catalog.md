@@ -6,6 +6,7 @@ store:
   item_id: journeys-of-the-imagination-catalog
   item_price: '35.00'
   item_text_price: "$35"
+  item_weight: "721"
 weight: 
 
 ---
