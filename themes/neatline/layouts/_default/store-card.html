@@ -9,19 +9,19 @@
     <button class="snipcart-add-item btn btn-primary mb-2"
       data-item-id="{{ $page.Params.store.item_id }}"
       data-item-price="{{ $page.Params.store.item_price }}"
-    data-item-url="{{ .Permalink }}"
-  data-item-description="{{ .Description }}"
-  data-item-image="{{ $page.Params.product_image }}"
-  data-item-name="{{ .Title }}"
-  data-item-weight="{{ .Params.store.item_weight }}"
-  {{ with .Params.store.custom }}
+      data-item-url="{{ .Permalink }}"
+      data-item-description="{{ .Description }}"
+      data-item-image="{{ $page.Params.product_image }}"
+      data-item-name="{{ .Title }}"
+      data-item-weight="{{ $page.Params.store.item_weight }}"
+      {{ with .Params.store.custom }}
 
- {{ range $index, $custom := . }}
- data-item-custom{{ $index }}-name="{{ $custom.name }}"
- data-item-custom{{ $index }}-options="{{ $custom.options }}"
-{{ end }}
+    {{ range $index, $custom := . }}
+    data-item-custom{{ $index }}-name="{{ $custom.name }}"
+    data-item-custom{{ $index }}-options="{{ $custom.options }}"
+    {{ end }}
 
-  {{ end }}
+    {{ end }}
     ><i class="fas fa-plus-circle mr-2"></i> Add to cart</button><br>
     <a class="btn btn-primary-outline btn-sm mb-2" href="{{ .Permalink }}">Details</a>
   </div>
