@@ -1,7 +1,7 @@
 ---
 title: Catalog Four-Pack
 product_image: "/uploads/2021-11-24/catalog-4-pack.jpg"
-description: Four of our full-color exhibition catalogs for the price of three
+description: Four of our full-color exhibition catalogs for the price of three catalogs
 store:
   item_id: catalog-four-pack
   item_price: '100.00'
