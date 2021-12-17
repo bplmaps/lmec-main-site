@@ -679,6 +679,50 @@
   URL: https://collections.leventhalmap.org/educators/curriculum-materials/129
   airtable_createdTime: '2021-04-13T15:30:40.000Z'
   airtable_id: recBigJBk7sM27UMZ
+- Description: "In the Map Center\u2019s work with students, we use a variety of tools\
+    \ to map our city, from a blank paper map of Boston to a survey tool that creates\
+    \ map layers that can be visualized in a variety of different ways. We\u2019ve\
+    \ included these examples here. "
+  Grade_Level:
+  - 7-9
+  - 10-12
+  - 6-9
+  Image:
+  - filename: Screen Shot 2021-11-30 at 3_48_20 PM.png
+    height: 494
+    id: attLWWu8Skbt9I3hq
+    size: 134961
+    thumbnails:
+      full:
+        height: 3000
+        url: https://dl.airtable.com/.attachmentThumbnails/e7e4f8e8abd4f43b0e342a7d51a3acc9/f1c9f237
+        width: 3000
+      large:
+        height: 494
+        url: https://dl.airtable.com/.attachmentThumbnails/3af42b1feedfef728bc7f90534a072fb/246bf71b
+        width: 488
+      small:
+        height: 36
+        url: https://dl.airtable.com/.attachmentThumbnails/aaf8c9d898f28df69d07c2785362794a/d2688a7a
+        width: 36
+    type: image/png
+    url: https://dl.airtable.com/.attachments/cfbc678a242c0aba1fb72dcf0add8364/4c513e75/ScreenShot2021-11-30at3_48_20PM.png
+    width: 488
+  Last Updated: '2021-12-17'
+  Name: Mapping Our Boston
+  Open URL:
+    label: Open URL
+    url: https://collections.leventhalmap.org/educators/curriculum-materials/137
+  Theme:
+  - 'Boston '
+  - General Map and Geography
+  - Data Mapping and GIS
+  - Social Issues
+  - Maptivist
+  Type: Map Sets and Lesson Plans
+  URL: https://collections.leventhalmap.org/educators/curriculum-materials/137
+  airtable_createdTime: '2021-12-17T21:15:12.000Z'
+  airtable_id: recCC6O8ClgPyPnSO
 - Description: Practice using a map scale to determine the dimensions of rooms in
     a house.
   Grade_Level:
