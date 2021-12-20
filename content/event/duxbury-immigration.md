@@ -14,6 +14,6 @@ registration: https://duxbury.assabetinteractive.com/calendar/immigration-on-the
 
 ####  About this event
 
-Join Assistant Curator Ian Spangler for a discussion about immigration on the South Shore with our event partner, the Duxbury Free Library. We'll explore the historic collections of the Leventhal Map & Education Center and the Digital Commonwealth and also look at census data over time using resources from various cultural institutions around Boston and Massachusetts. 
+Join Assistant Curator Ian Spangler for a discussion about immigration on the South Shore with with our event partner, the Duxbury Free Library. We'll explore the historic collections of the [Leventhal Map & Education Center](https://www.leventhalmap.org/collections/) and the [Digital Commonwealth](https://www.digitalcommonwealth.org/) and also look at census data over time using resources from various cultural institutions around Boston and Massachusetts. 
 
 This program will be on Zoom, but the event will also be streamed in the Setter Room at the Duxbury Free Library (77 Alden Street, Duxbury, MA, 02332). 
