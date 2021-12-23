@@ -34,7 +34,7 @@ For the general opening hours of the Central Library in Copley Square, see the [
 
 ## Directions
 
-We are located at the **Central Library in Copley Square**, at **700 Boylston Street** in Boston. Inside the library, we are located on the ground floor of the McKim Building, on the west side of the Courtyard and near the Glass Elevator of the Johnson Building. Look for arrows to the Leventhal Map Center in the library's wayfinding signs. Note that the McKim Building also features the Map Room Café, which is a restaurant and bar that is not associated with the Map Center.
+We are located at the **Central Library in Copley Square**, at **700 Boylston Street** in Boston. Inside the library, we are located on the ground floor of the McKim Building, on the west side of the Courtyard and near the Glass Elevator of the Boylston Street Building. Look for arrows to the Leventhal Map Center in the library's wayfinding signs. Note that the McKim Building also features the Map Room Café, which is a restaurant and bar that is not associated with the Map Center.
 
 {{< maplibre-gl-map lat="42.34934" lon="-71.07814" zoom="16" width="100%" height="600px" >}}
 
@@ -50,7 +50,7 @@ The library is conveniently located near many public transit stations, including
 
 #### By bicycle
 
-Bicycle racks are available near the library at the corner of Blagden Street and Dartmouth Street, and along the west side of the Johnson Building on Exeter Street. A [Bluebikes](https://www.bluebikes.com) station is located on the corner of Dartmouth Street and Boylston Street.
+Bicycle racks are available near the library at the corner of Blagden Street and Dartmouth Street near the McKim Building, and along the west side of the Boylston Street Building on Exeter Street. A [Bluebikes](https://www.bluebikes.com) station is located on the corner of Dartmouth Street and Boylston Street.
 
 #### By automobile
 
