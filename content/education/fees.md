@@ -17,10 +17,12 @@ Cost should not present a barrier for bringing our educational programs to your 
 
 |                            | Visits to LMEC    | Remote Class Visit | Outreach visit to school |
 |----------------------------|---------------------|------------------|----|
-| Public and private schools | $100 |  $100  | $175 plus mileage |
 | Boston Public Schools | Free  | Free | Free |
+| Public schools other than BPS | $100 |  $100  | $175 plus mileage |
+
 
 * **Multiple same-day sessions** of a single outreach visit are charged at a discounted rate.
+* **Mileage** is charged at 55¢ per mile driving distance from Copley Square.
 
 
 ## University programs
@@ -32,5 +34,5 @@ Cost should not present a barrier for bringing our educational programs to your 
 | Under-resourced institutions (tuition <$20,000) | $100 | $200 |
 | Special relationships (including community and tribal colleges) | Free  | Free |
 
-* **Standard Programs** refer to programs of **up to one hour in duration**, with **up to 14 students for in-person activities** or **unlimited students for remote activities**, featuring presentations on **topics relating to broad overviews of collections, geographic research, and digital geography.**
+* **Standard Programs** refer to programs of **up to one hour in duration**, with **up to 14 students for in-person activities** or **unlimited students for remote activities**, featuring presentations on **themes relating to broad overviews of our collections, geographic research, and digital geography.**
 * **Extended Programs** refer to programs which require **greater length**, **classroom capacity**, or **thematic customization** than standard programs.
