@@ -10,7 +10,6 @@ registration: https://www.eventbrite.com/e/geographic-data-and-you-an-enrichment
 tags:
 - Data
 - K-12
-draft: true
 
 ---
 #### About this event
