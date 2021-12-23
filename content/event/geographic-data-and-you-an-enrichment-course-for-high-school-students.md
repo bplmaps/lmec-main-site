@@ -7,7 +7,9 @@ backgroundImage: "/uploads/2021-12-23/microsoftteams-image.png"
 location: 'Central Library (Commonwealth Salon) '
 fee: Free
 registration: https://www.eventbrite.com/e/geographic-data-and-you-an-enrichment-course-for-high-school-students-tickets-232217387457
-tags: []
+tags:
+- Data
+- K-12
 draft: true
 
 ---
