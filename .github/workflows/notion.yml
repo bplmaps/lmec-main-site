@@ -16,7 +16,6 @@ jobs:
       with:
         args: >
            -X POST 'https://api.notion.com/v1/databases/75b1a5efc8d14087a4d8f714a0246ef6/query' -H 'Authorization: Bearer '"${{ secrets.NOTION_READONLY_API_SECRET }}"'' -H 'Notion-Version: 2021-08-16' -H 'Content-Type: application/json' -o data/reproductions.json
-           - name: Commit and push if it changed
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
