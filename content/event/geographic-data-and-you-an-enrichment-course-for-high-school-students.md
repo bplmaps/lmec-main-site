@@ -13,12 +13,10 @@ tags:
 draft: true
 
 ---
-### Geographic Data and You: An Enrichment Course for High School Students
-
 #### About this event
 
 What does this application know about me? Where should services go? Where did that street get its name?
 
-This enrichment course, designed for **grades 9-12**, will introduce students to key concepts in **mapping** and **data science** using examples drawn from Boston---no experience needed! Students will develop informed perspectives on the relationship between widespread data collection and democracy; statistical bias and mapping; and urgent questions about race, place names and historical memory. 
+This enrichment course, designed for **students in grades 9-12**, will introduce students to key concepts in **mapping** and **data science** using examples drawn from Boston---no experience needed! Students will develop informed perspectives on the relationship between widespread data collection and democracy; statistical bias and mapping; and urgent questions about race, place names and historical memory.
 
 Participants will receive a $25 gift card. This enrichment course was developed with the [**Data + Feminism Lab at the Massachusetts Institute of Technology (MIT)**](https://dataplusfeminism.mit.edu/) and was supported by the [**Abdul Latif Jameel World Education Lab**](https://jwel.mit.edu/).
