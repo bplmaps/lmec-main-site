@@ -1,6 +1,6 @@
 ---
 title: Immigration on the South Shore
-date: 2022-01-11T04:00:00.000-05:00
+date: 2022-01-11T16:00:00-05:00
 publishDate: 2021-12-20T00:00:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:gb19h989c/537,178,2510,1515/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:gb19h989c/537,178,2510,1515/full/0/default.jpg
