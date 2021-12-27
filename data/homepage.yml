@@ -48,7 +48,7 @@ cta:
   enable: true
   announcements:
   - badge: Holiday hours
-    text: Closed on Friday, December 24 and Saturday, December 25
+    text: Closed on Friday, December 31 and Saturday, January 1
     link: https://www.leventhalmap.org/about/hours-directions/
   - badge: Gift store
     text: Order catalogs, maps, and cartographic curiosities from our online gift
