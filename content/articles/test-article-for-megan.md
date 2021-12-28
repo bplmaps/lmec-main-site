@@ -9,6 +9,3 @@ backgroundImage: https://collections.leventhalmap.org/search/commonwealth:ht250b
 draft: true
 
 ---
-Hey there text test
-
-[content](https://fedora.digitalcommonwealth.org/fedora/objects/commonwealth:ht250b888/datastreams/access800/content "japan map")
