@@ -14,7 +14,7 @@ draft: true
 
 **Happy New Year** from all of us here at the Map Center! We wish you a 2022 full of good health and happiness.
 
-> To celebrate, we’ve rounded up some of our favorite **maps created or published in the ‘22s of centuries past**. See our [collections](https://collections.leventhalmap.org/) for even more. 
+> To celebrate, we’ve rounded up some of our favorite **maps created or published in the ‘22s of centuries past**. See our [collections page](https://collections.leventhalmap.org/) for  more!
 
 #### 1722
 
