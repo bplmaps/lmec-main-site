@@ -28,6 +28,10 @@ During **World War** II, Gropper worked with the [U.S. Treasury Department and t
 
 Upon first glance, the map paints a whimsical portrayal of American folklore, highlighting the figures of Paul Bunyan, Johnny Appleseed, Daniel Boone, Davy Crockett, Huck Finn, and many, many more. Within these figures, the State Department saw an opportunity to promote the United States as a “[fun-loving, welcoming, and, most important, free land](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore).”
 
+During the early 1950s, Roy Cohn––the chief counsel to Senator Joseph McCarthy––visited many libraries included in the Overseas Library Program and identifed Gropper as a “[fringe \[supporter\] and \[sympathizer\]](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore)” and his work as “[Communist-directed.](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore)”
+
+Although Gropper was not actually a Communist, his map was declared [un-American](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore) and
+
 ##### An Interesting World in an Interesting Time
 
 {{< figure src="/uploads/2021-12-29/its-an-interesting-world.jpeg" caption="R. M. Chapin Jr., “[It’s an interesting world in an interesting time / TIME map by R.M. Chapin, Jr. and J. Donovan; Time, Inc.](https://bpl.bibliocommons.com/v2/record/S75C8079826),” (\[New York\] : Time Inc., \[1959\])." class="figure-left" >}}
