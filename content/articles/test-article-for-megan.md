@@ -20,7 +20,7 @@ These new acquisitions range from early depictions of New England to original ma
 
 #### Tropical Disease 
 
-{{< figure src="" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2021-12-29/major-tropical-disease.jpeg" caption="Boris Artzybasheff, “[World map of the major tropical diseases: LIFE map by Artzybasheff](https://bpl.bibliocommons.com/v2/record/S75C8038086),” (\[Chicago, Illinois\]: Life, \[1944\])." class="figure-left" >}}
 
 #### Folklore (Gropper's Version) 
 
