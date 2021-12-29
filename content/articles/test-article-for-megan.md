@@ -26,6 +26,8 @@ As we move into 2022, we are thrilled for the opening of our forthcoming exhibit
 
 The exhibition is timed to coincide with the bicentennial anniversary of one of Boston’s most influential environmental planners, the landscape architect **Frederick Law Olmsted**. Olmsted’s famous [Emerald Necklace](https://www.emeraldnecklace.org/) forms (in some places) the dividing line between communities that are amongst the richest in the country and others that are languishing in poverty.
 
+This 1877 [map](https://bpl.bibliocommons.com/v2/record/S75C7694805) published by the Boston Park Department presents a manuscript plan of **Back Bay Fens** and surrounding area derived from Olmsted’s 1878 plan of the park.
+
 #### Global Change & Infectious Disease
 
 {{< figure src="/uploads/2021-12-29/major-tropical-disease.jpeg" caption="Boris Artzybasheff, “[World map of the major tropical diseases: LIFE map by Artzybasheff](https://bpl.bibliocommons.com/v2/record/S75C8038086),” (\[Chicago, Illinois\]: Life, \[1944\])." class="figure-left" >}}
