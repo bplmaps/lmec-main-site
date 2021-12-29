@@ -22,6 +22,6 @@ These new acquisitions range from early depictions of New England to original ma
 
 {{< figure src="/uploads/2021-12-29/its-an-interesting-world.jpeg" caption="R. M. Chapin Jr., “It’s an interesting world in an interesting time / TIME map by R.M. Chapin, Jr. and J. Donovan; Time, Inc.,” (\[New York\] : Time Inc., \[1959\])." class="figure-left" >}}
 
-May you live in an interesting world in an interesting time! This cartoony [poster](https://bpl.bibliocommons.com/v2/record/S75C8079826) comes right from the pages of a 1959 edition of TIME Magazine. Although the map’s aesthetic style suggests a sense of lightheartedness, the graphics depict some quite frightening developments of the Cold War and Space Race; we see Khrushchev raising a fist toward Europe, various political leaders facing off, references to atomic explosions in parts of Russia and the United States, and oversized space crafts circling the globe.
+May you live in an interesting world in an interesting time! This cartoony [poster](https://bpl.bibliocommons.com/v2/record/S75C8079826) comes right from the pages of a 1959 edition of **TIME Magazine**. Although the map’s aesthetic style suggests a sense of lightheartedness, the graphics depict some quite frightening developments of the **Cold War** and **Space Race**; we see Khrushchev raising a fist toward Europe, various political leaders facing off, references to atomic explosions in parts of Russia and the United States, and oversized space crafts circling the globe.
 
-The projection choice of this map is particularly clever.
+The projection choice of this map is particularly clever. The armadillo projection 
