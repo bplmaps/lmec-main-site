@@ -16,7 +16,7 @@ draft: true
 
 These new acquisitions range from early depictions of New England to original maps created by underrepresented cartographers in the twentieth century. Our active acquisition program allows us to diversify the voices in our collection, support researchers’ interests, and enhance our exhibitions and programs.
 
-> Let's take a closer look a few new additions to the LMEC collection. Let us know which one is your favorite!
+> Let's take a closer look a few new additions to the LMEC collection. Which is your favorite? 
 
 #### More or Less in Common 
 
