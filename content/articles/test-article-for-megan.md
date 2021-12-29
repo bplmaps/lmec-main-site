@@ -38,6 +38,8 @@ More information on **More or Less in Common** coming soon!
 
 Over the past few years, public health has maintained a foregrounded position in conversations from global media and within households. This pictorial [map](https://bpl.bibliocommons.com/v2/record/S75C8038086) from 1944 contextualizes a series of public health crises from a more distant past.
 
+The base of the map includes brief descriptions of **15 diseases**, including malaria, yellow fever, dengue, typhus, plague, cholera, sleeping sickness, tularemia, Rocky Mountain fever, Japanese river fever, relapsing fever, helminthic disease, yaws, leprosy, and leishmaniasis.
+
 #### Folklore (Gropper's Version)
 
 Taylor Swift’s [Folklore](https://g.co/kgs/jcZGEi) was one of the biggest albums of 2020, and William Gropper’s “[America, Its Folklore](https://bpl.bibliocommons.com/v2/record/S75C8038083)” is one of our favorite finds from 2021. Like Swift's album, Gropper’s map has tricky history of trust, betrayal, and misunderstanding.
