@@ -20,15 +20,3 @@ These new acquisitions range from early depictions of New England to original ma
 #### Section Title
 
 {{< figure src="/uploads/2021-12-29/back-bay-park.png" caption="“Back Bay Park / Parks Department City of Boston,” (Boston: Park Department, \[1880\])." class="figure-right" >}}
-
-#### Section Title
-
-{{< figure src="/uploads/2021-12-29/major-tropical-disease.jpeg" caption="“Back Bay Park / Parks Department City of Boston,” (Boston: Park Department, \[1880\])." class="figure-left" >}}
-
-#### Section Title
-
-{{< figure src="/uploads/2021-12-29/folklore.jpeg" caption="“Back Bay Park / Parks Department City of Boston,” (Boston: Park Department, \[1880\])." class="figure-right" >}}
-
-#### Section Title
-
-{{< figure src="/uploads/2021-12-29/its-an-interesting-world.jpeg" caption="“Back Bay Park / Parks Department City of Boston,” (Boston: Park Department, \[1880\])." class="figure-right" >}}
