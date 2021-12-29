@@ -33,7 +33,7 @@ As Boston’s Back Bay developed in the late-19th century, residents complained 
 
     {{< carousel-figure src="/uploads/2021-12-29/olmsted-bridge.jpeg" >}}{{< /carousel-figure >}}
     
-    {{< carousel-figure src="images/carousels/at_gallery09.jpg" >}}{{< /carousel-figure >}}
+    {{< carousel-figure src="/uploads/2021-12-29/back-bay-fens.jpeg" >}}{{< /carousel-figure >}}
     
     {{< carousel-figure src="images/carousels/DSC_0018s.jpg" >}}{{< /carousel-figure >}}
 
