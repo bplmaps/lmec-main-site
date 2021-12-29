@@ -10,7 +10,7 @@ backgroundImage: "/uploads/2021-12-29/its-an-interesting-world.jpeg"
 draft: true
 
 ---
-### Article Title
+### 2021 Acquisition Roundup 
 
 2021 was a busy year for the Map Center! We welcomed tens of thousands of visitors to our [digital](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) and in-person Bending Lines exhibition, engaged with over 150 K-12 educators, introduced new faces to our team, and brought 85 new physical materials into our [collection](https://www.leventhalmap.org/collections/).
 
