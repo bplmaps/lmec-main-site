@@ -1,5 +1,5 @@
 ---
-date: 2021-12-28T16:07:52-05:00
+date: 2021-12-28T16:07:52.000-05:00
 title: 2021 Acquisition Roundup!
 description: Let's take a closer look at a few new additions to the LMEC collection!
 image: "/uploads/2021-12-29/its-an-interesting-world.jpeg"
@@ -64,6 +64,6 @@ This cartoony [poster](https://airtable.com/shr0RgG4AfpROgnqH/tbl8n5HBE6rTSSiap/
 
 The projection choice of this map is particularly fitting. Created in [1943](https://www.wired.com/2014/01/projection-raisz-armadillo/) by Hungarian cartographer Erwin Raisz, the **armadillo projection** attempts to display a map with the “[lively look of a globe](https://www.wired.com/2014/01/projection-raisz-armadillo/),” that is, to make a “[flat map... look 3-dimensional](https://www.wired.com/2014/01/projection-raisz-armadillo/).” As placed within the context of the year 1959, the projection allows for a display of all critical world events, both on the surface of the Earth and in the atmosphere of space.
 
-#### Supply Chain Woes 
+#### Supply Chain Woes & Foes 
 
 {{< figure src="/uploads/2021-12-29/food-source.jpg" caption="Armour and Company, “[Armour food source map / Lehnhardt](https://bpl.bibliocommons.com/v2/record/S75C8073960),” (Chicago: Armour and Co., \[1950\])." class="figure-left" >}}
