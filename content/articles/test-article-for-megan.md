@@ -20,7 +20,7 @@ These new acquisitions range from early depictions of New England to original ma
 
 #### More or Less in Common
 
-As we move into 2022, we are thrilled for the opening of our forthcoming exhibition [More or Less in Common](https://www.leventhalmap.org/articles/environmental-justice-exhibition-preview/), a show that will explore the geographic relationship between environmental management and historic patterns of injustice.
+As we move into 2022, we are thrilled to open our forthcoming exhibition [More or Less in Common](https://www.leventhalmap.org/articles/environmental-justice-exhibition-preview/), a show that will explore the geographic relationship between environmental management and historic patterns of injustice.
 
 The exhibition is timed to coincide with the bicentennial anniversary of one of Boston’s most influential environmental planners, the landscape architect **Frederick Law Olmsted**. Olmsted’s famous [Emerald Necklace](https://www.emeraldnecklace.org/) forms (in some places) the dividing line between communities that are amongst the richest in the country and others that are languishing in poverty.
 
