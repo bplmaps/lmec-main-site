@@ -16,7 +16,7 @@ draft: true
 
 These new acquisitions range from early depictions of New England to original maps created by underrepresented cartographers in the twentieth century. Our active acquisition program allows us to diversify the voices in our collection, support researchers’ interests, and enhance our exhibitions and programs.
 
-> The 85 new additions to the LMEC collection span from **1548 to 2020** and range from early depictions of New England to original maps created by underrepresented cartographers in the twentieth century. Let's take a closer look at a few. Which is your favorite? 
+> The 85 new additions to the LMEC collection span from **1548 to 2020** and range from early depictions of New England to original maps created by underrepresented cartographers in the twentieth century. Let's take a closer look at a few. Which is your favorite?
 
 #### More or Less in Common
 
@@ -30,9 +30,9 @@ As Boston’s Back Bay developed in the late-19th century, residents complained 
 
 This 1880 [map](https://airtable.com/shr0RgG4AfpROgnqH/tbl8n5HBE6rTSSiap/viwvcR4MTOqT8GAnT/recg7pZ8Toq0V8U86?backgroundColor=green&viewControls=on) was published by the Boston Park Department and displays a manuscript plan of Olmsted's proposed [Back Bay Park](https://www.tclf.org/landscapes/back-bay-fens). Although the park was [modified](https://www.asla.org/guide/site.aspx?id=40840) by 1910 construction of the Charles River Dam, Back Bay Fens includes an “[eclectic mix of formal and community gardens, ball fields, memorials and historic structures](https://www.emeraldnecklace.org/park-overview/back-bay-fens/).”
 
-More information on **More or Less in Common** coming soon! 
+More information on **More or Less in Common** coming soon!
 
-#### An Urgent, Global Situation
+#### A Global Health Emergency
 
 {{< figure src="/uploads/2021-12-29/major-tropical-disease.jpeg" caption="Boris Artzybasheff, “[World map of the major tropical diseases: LIFE map by Artzybasheff](https://bpl.bibliocommons.com/v2/record/S75C8038086),” (\[Chicago, Illinois\]: Life, \[1944\])." class="figure-right" >}}
 
