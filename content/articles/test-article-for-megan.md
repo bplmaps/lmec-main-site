@@ -26,11 +26,13 @@ The exhibition is timed to coincide with the bicentennial anniversary of one of 
 
 {{< figure src="/uploads/2021-12-29/back-bay-park.png" caption="“[Back Bay Park / Parks Department City of Boston](https://bpl.bibliocommons.com/v2/record/S75C7694805),” (Boston: Park Department, \[1880\])." class="figure-left" >}}
 
-As Boston’s Back Bay developed in the late-19th century, residents complained of “[sewage outfalls](https://www.tclf.org/landscapes/back-bay-fens)”, a “[stagnant saltwater marsh that flooded and threatened public health](https://www.emeraldnecklace.org/park-overview/back-bay-fens/),” and “[a foul-smelling tidal creek and swamp](https://www.emeraldnecklace.org/park-overview/back-bay-fens/).” In 1878, Olmsted proposed a plan to address these concerns, maintain the “[character of the land](https://www.boston.gov/parks/back-bay-fens),” and meet “[the needs of the growing population](https://www.boston.gov/parks/back-bay-fens)” through dual sanitation and recreation solutions.
+As Boston’s Back Bay developed in the late-19th century, residents complained of “[sewage outfalls](https://www.tclf.org/landscapes/back-bay-fens)”, a “[stagnant saltwater marsh that flooded and threatened public health](https://www.emeraldnecklace.org/park-overview/back-bay-fens/),” and “[a foul-smelling tidal creek and swamp](https://www.emeraldnecklace.org/park-overview/back-bay-fens/).” In 1878, Olmsted proposed a plan to address these concerns, maintain the “[character](https://www.boston.gov/parks/back-bay-fens)” of the terrain, and meet “[the needs of the growing population](https://www.boston.gov/parks/back-bay-fens)” through dual sanitation and recreation solutions.
 
-This 1880 [map](https://bpl.bibliocommons.com/v2/record/S75C7694805) was published by the Boston Park Department and displays a manuscript plan of Olmsted's proposed [Back Bay Park](https://www.tclf.org/landscapes/back-bay-fens). Although the park was “[dramatically altered](https://www.asla.org/guide/site.aspx?id=40840)” altered by 1910 construction of the Charles River Dam, Back Bay Fens includes an “[eclectic mix of formal and community gardens, ball fields, memorials and historic structures](https://www.emeraldnecklace.org/park-overview/back-bay-fens/).”
+This 1880 [map](https://bpl.bibliocommons.com/v2/record/S75C7694805) was published by the Boston Park Department and displays a manuscript plan of Olmsted's proposed [Back Bay Park](https://www.tclf.org/landscapes/back-bay-fens). Although the park was [modified](https://www.asla.org/guide/site.aspx?id=40840) by 1910 construction of the Charles River Dam, Back Bay Fens includes an “[eclectic mix of formal and community gardens, ball fields, memorials and historic structures](https://www.emeraldnecklace.org/park-overview/back-bay-fens/).”
 
 More information on **More or Less in Common** coming soon! 
+
+#### Global Change & Infectious Disease 
 
 #### Folklore (Gropper's Version)
 
