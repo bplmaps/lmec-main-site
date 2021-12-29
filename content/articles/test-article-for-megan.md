@@ -30,7 +30,7 @@ As Boston’s Back Bay developed in the late-19th century, residents complained 
 
 This 1880 [map](https://bpl.bibliocommons.com/v2/record/S75C7694805) was published by the Boston Park Department and displays a manuscript plan of Olmsted's proposed "[Back Bay Park](https://www.tclf.org/landscapes/back-bay-fens)." Although the park was “[dramatically altered](https://www.asla.org/guide/site.aspx?id=40840)” altered by 1910 construction of the Charles River Dam, Back Bay Fens includes an “[eclectic mix of formal and community gardens, ball fields, memorials and historic structures](https://www.emeraldnecklace.org/park-overview/back-bay-fens/).”
 
-{{< figure src="/uploads/2021-12-29/olmsted-bridge.jpeg" caption="Olmsted's [proposed bridge](https://www.digitalcommonwealth.org/search/commonwealth:2801pr06d) still stands today." class="figure-right" >}}
+{{< figure src="/uploads/2021-12-29/olmsted-bridge.jpeg" caption="Olmsted's [proposed bridge](https://www.digitalcommonwealth.org/search/commonwealth:2801pr06d) still stands today." class="figure-left" >}}
 
 #### Global Change & Infectious Disease
 
