@@ -20,7 +20,7 @@ These new acquisitions range from early depictions of New England to original ma
 
 #### More or Less in Common
 
-As we move into 2022, we are thrilled for the opening of our forthcoming exhibition [More or Less in Common](https://www.leventhalmap.org/articles/environmental-justice-exhibition-preview/), a show that will explore the geographic relationship between environmental management and historic patterns of injustice.
+As we move into 2022, we are thrilled to open our forthcoming exhibition [More or Less in Common](https://www.leventhalmap.org/articles/environmental-justice-exhibition-preview/), a show that will explore the geographic relationship between environmental management and historic patterns of injustice.
 
 The exhibition is timed to coincide with the bicentennial anniversary of one of Boston’s most influential environmental planners, the landscape architect **Frederick Law Olmsted**. Olmsted’s famous [Emerald Necklace](https://www.emeraldnecklace.org/) forms (in some places) the dividing line between communities that are amongst the richest in the country and others that are languishing in poverty.
 
@@ -34,13 +34,13 @@ More information on **More or Less in Common** coming soon!
 
 #### A Global Health Emergency
 
-Over the past few years, public health has maintained a foregrounded position in global media, conversations within households, and space in mental real estate. This pictorial [map](https://airtable.com/shr0RgG4AfpROgnqH/tbl8n5HBE6rTSSiap/viwvcR4MTOqT8GAnT/recJJHUjpbBcKUpmM?backgroundColor=green&viewControls=on) from 1944 contextualizes a series of **public health crises** from a more distant past.
+During recent years, public health has maintained a foregrounded position in global media, conversations within households, and space in mental real estate. This pictorial [map](https://airtable.com/shr0RgG4AfpROgnqH/tbl8n5HBE6rTSSiap/viwvcR4MTOqT8GAnT/recJJHUjpbBcKUpmM?backgroundColor=green&viewControls=on) from 1944 contextualizes a series of **public health crises** from a more distant past.
 
 {{< figure src="/uploads/2021-12-29/major-tropical-disease.jpeg" caption="Boris Artzybasheff, “[World map of the major tropical diseases: LIFE map by Artzybasheff](https://bpl.bibliocommons.com/v2/record/S75C8038086),” (\[Chicago, Illinois\]: Life, \[1944\])." class="figure-left" >}}
 
 The base of the map includes brief descriptions of **15 diseases**, including malaria, yellow fever, dengue, typhus, plague, cholera, sleeping sickness, tularemia, Rocky Mountain fever, Japanese river fever, relapsing fever, helminthic disease, yaws, leprosy, and leishmaniasis, each accompanied by a pictorial form of their respective vector.
 
-This aesthetic choice––to sprawl countless “[insects, pests, and deformed humans”](https://hist1952.omeka.fas.harvard.edu/exhibits/show/galleriesmain/item/184) across the global landscape––forms a visual message of **alarm and urgency.** 
+This aesthetic choice––to sprawl countless “[insects, pests, and deformed humans”](https://hist1952.omeka.fas.harvard.edu/exhibits/show/galleriesmain/item/184) across the global landscape––forms a visual message of **alarm and urgency.**
 
 #### Folklore (Gropper's Version)
 
@@ -56,7 +56,7 @@ During the early 1950s, Roy Cohn––the chief counsel to **Senator Joseph McCa
 
 #### An Interesting World in an Interesting Time
 
-May you live in an interesting world in an interesting time! 
+May you live in an interesting world in an interesting time!
 
 {{< figure src="/uploads/2021-12-29/its-an-interesting-world.jpeg" caption="R. M. Chapin Jr., “[It’s an interesting world in an interesting time / TIME map by R.M. Chapin, Jr. and J. Donovan; Time, Inc.](https://bpl.bibliocommons.com/v2/record/S75C8079826),” (\[New York\] : Time Inc., \[1959\])." class="figure-right" >}}
 
@@ -64,6 +64,6 @@ This cartoony [poster](https://airtable.com/shr0RgG4AfpROgnqH/tbl8n5HBE6rTSSiap/
 
 The projection choice of this map is particularly fitting. Created in [1943](https://www.wired.com/2014/01/projection-raisz-armadillo/) by Hungarian cartographer Erwin Raisz, the **armadillo projection** attempts to display a map with the “[lively look of a globe](https://www.wired.com/2014/01/projection-raisz-armadillo/),” that is, to make a “[flat map... look 3-dimensional](https://www.wired.com/2014/01/projection-raisz-armadillo/).” As placed within the context of the year 1959, the projection allows for a display of all critical world events, both on the surface of the Earth and in the atmosphere of space.
 
-#### Supply Chain Woes 
+#### Supply Chain Woes & Foes
 
 {{< figure src="/uploads/2021-12-29/food-source.jpg" caption="Armour and Company, “[Armour food source map / Lehnhardt](https://bpl.bibliocommons.com/v2/record/S75C8073960),” (Chicago: Armour and Co., \[1950\])." class="figure-left" >}}
