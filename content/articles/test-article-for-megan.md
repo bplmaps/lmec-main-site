@@ -18,9 +18,9 @@ These new acquisitions range from early depictions of New England to original ma
 
 > Let's take a closer look a few new additions to the LMEC collection!
 
-#### The Fens 
+#### Folklore 
 
-{{< figure src="/uploads/2021-12-29/back-bay-park.png" caption="“[Back Bay Park / Parks Department City of Boston](https://bpl.bibliocommons.com/v2/record/S75C7694805),” (Boston: Park Department, \[1880\])." class="figure-right" >}}
+{{< figure src="/uploads/2021-12-29/folklore.jpeg" caption="William Gropper, “[William Gropper’s America, its folklore](https://bpl.bibliocommons.com/v2/record/S75C8038083),” (\[New York\]: \[Associated American Artists\], 1946)." class="figure-right" >}}
 
 #### An Interesting World in an Interesting Time
 
