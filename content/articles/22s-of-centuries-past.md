@@ -22,8 +22,8 @@ We begin in the 18th century. Many maps produced during this period shift away f
 
 {{< figure src="/uploads/2021-12-29/guillaume.png" caption="[Guillaume de I'Isle, engraving](https://www.britannica.com/biography/Guillaume-Delisle)" class="figure-right" >}}
 
-A good deal of 18th century maps in our collection come from French cartographer [Guillaume de I’Isle](https://collections.leventhalmap.org/search?f%5Bname_facet_ssim%5D%5B%5D=L%27Isle%2C+Guillaume+de%2C+1675-1726). De I’Isle published his first works in the year 1700 and, in 1718, became the chief geographer to King Louis XV of France.
-
 {{< figure src="/uploads/2021-12-29/carte-d-amerique.jpeg" caption="[Carte d’Amerique: dressée pour l’usage du Roy](https://collections.leventhalmap.org/search/commonwealth:2514p1363)" class="figure-right" >}}
+
+A good deal of 18th century maps in our collection come from French cartographer [Guillaume de I’Isle](https://collections.leventhalmap.org/search?f%5Bname_facet_ssim%5D%5B%5D=L%27Isle%2C+Guillaume+de%2C+1675-1726). De I’Isle published his first works in the year 1700 and, in 1718, became the chief geographer to King Louis XV of France.
 
 This 1722 [Carte d’Amerique: dressée pour l’usage du Roy](https://collections.leventhalmap.org/search/commonwealth:2514p1363) is addressed to the King and cites De I’Isle’s title as “premier Geographe de sa Majesté de l’Académie Royale de Sciences.”
