@@ -20,7 +20,7 @@ To celebrate, we’ve rounded up some of our favorite maps created or published 
 
 We begin in the 18th century. Many maps produced during this period shift away from the beloved [whimsical features](https://www.britannica.com/science/map/18th-century-to-the-present) of the 16th and 17th century––map monsters, sea creatures, decorative details––and instead largely focus on newly-developed [scientific methods](https://www.bac-lac.gc.ca/eng/discover/exploration-settlement/pathfinders-passageways/Pages/mapmakers-essay.aspx) of cartography.
 
-{{< figure src="/uploads/2021-12-29/guillaume.png" caption="[Guillaume Delisle, engraving](https://www.britannica.com/biography/Guillaume-Delisle)" class="figure-right" >}}
+{{< figure src="/uploads/2021-12-29/guillaume.png" caption="[Guillaume de I'Isle, engraving](https://www.britannica.com/biography/Guillaume-Delisle)" class="figure-right" >}}
 
 A good deal of 18th century maps in our collection come from French cartographer [Guillaume de I’Isle](https://collections.leventhalmap.org/search?f%5Bname_facet_ssim%5D%5B%5D=L%27Isle%2C+Guillaume+de%2C+1675-1726). De I’Isle published his first works in the year 1700 and, in 1718, became the chief geographer to King Louis XV of France.
 
