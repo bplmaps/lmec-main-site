@@ -34,11 +34,11 @@ This 1880 [map](https://bpl.bibliocommons.com/v2/record/S75C7694805) was publish
 
 #### Folklore (Gropper's Version)
 
-{{< figure src="/uploads/2021-12-29/folklore.jpeg" caption="William Gropper, “[William Gropper’s America, its folklore](https://bpl.bibliocommons.com/v2/record/S75C8038083),” (\[New York\]: \[Associated American Artists\], 1946)." class="figure-center" >}}
-
 Taylor Swift’s [Folklore](https://g.co/kgs/jcZGEi) was one of the biggest albums of 2020, and William Groppers’ “[America, Its Folkore](https://bpl.bibliocommons.com/v2/record/S75C8038083)” is one of our favorite finds from 2021. Like Swift's album, Gropper’s map has tricky history of trust, betrayal, and misunderstanding.
 
 During **World War II**, Gropper worked with the [U.S. Treasury Department and the White House’s Office of War Information](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore) to present “[specific war information objectives](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore)” in pictorial form on propaganda materials. Gropper was recognized and praised for his contributions, and included in the [State Department’s Overseas Library Program](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore) from 1946 to 1953; as part of the program, over 1,700 copies of his 1946 [map](https://bpl.bibliocommons.com/v2/record/S75C8038083) were distributed to libraries across the globe.
+
+{{< figure src="/uploads/2021-12-29/folklore.jpeg" caption="William Gropper, “[William Gropper’s America, its folklore](https://bpl.bibliocommons.com/v2/record/S75C8038083),” (\[New York\]: \[Associated American Artists\], 1946)." class="figure-center" >}}
 
 Upon first glance, the map paints a whimsical portrayal of **American folklore**, highlighting the figures of Paul Bunyan, Johnny Appleseed, Daniel Boone, Davy Crockett, Huck Finn, and many, many more. Within these figures, the State Department saw an opportunity to promote the United States as a “[fun-loving, welcoming, and, most important, free land](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore).”
 
