@@ -32,10 +32,6 @@ This 1880 [map](https://bpl.bibliocommons.com/v2/record/S75C7694805) was publish
 
 {{< figure src="/uploads/2021-12-29/olmsted-bridge.jpeg" caption="Olmsted's [proposed bridge](https://www.digitalcommonwealth.org/search/commonwealth:2801pr06d) still stands today." class="figure-left" >}}
 
-#### Global Change & Infectious Disease
-
-{{< figure src="/uploads/2021-12-29/major-tropical-disease.jpeg" caption="Boris Artzybasheff, “[World map of the major tropical diseases: LIFE map by Artzybasheff](https://bpl.bibliocommons.com/v2/record/S75C8038086),” (\[Chicago, Illinois\]: Life, \[1944\])." class="figure-left" >}}
-
 #### Folklore (Gropper's Version)
 
 {{< figure src="/uploads/2021-12-29/folklore.jpeg" caption="William Gropper, “[William Gropper’s America, its folklore](https://bpl.bibliocommons.com/v2/record/S75C8038083),” (\[New York\]: \[Associated American Artists\], 1946)." class="figure-right" >}}
