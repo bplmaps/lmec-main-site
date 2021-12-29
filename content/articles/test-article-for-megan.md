@@ -20,15 +20,15 @@ These new acquisitions range from early depictions of New England to original ma
 
 #### More or Less in Common
 
-{{< figure src="/uploads/2021-12-29/back-bay-park.png" caption="“[Back Bay Park / Parks Department City of Boston](https://bpl.bibliocommons.com/v2/record/S75C7694805),” (Boston: Park Department, \[1880\])." class="figure-right" >}}
-
 As we move into 2022, we are thrilled for the opening of our forthcoming exhibition [More or Less in Common](https://www.leventhalmap.org/articles/environmental-justice-exhibition-preview/), a show that will explore the geographic relationship between environmental management and historic patterns of injustice.
 
 The exhibition is timed to coincide with the bicentennial anniversary of one of Boston’s most influential environmental planners, the landscape architect **Frederick Law Olmsted**. Olmsted’s famous [Emerald Necklace](https://www.emeraldnecklace.org/) forms (in some places) the dividing line between communities that are amongst the richest in the country and others that are languishing in poverty.
 
 As Boston’s Back Bay developed in the late-19th century, residents complained of “[sewage outfalls](https://www.tclf.org/landscapes/back-bay-fens)”, a “[stagnant saltwater marsh that flooded and threatened public health](https://www.emeraldnecklace.org/park-overview/back-bay-fens/),” and “[a foul-smelling tidal creek and swamp](https://www.emeraldnecklace.org/park-overview/back-bay-fens/).” In 1878, Olmsted proposed a plan to address these concerns, maintain the “[character of the land](https://www.boston.gov/parks/back-bay-fens),” and meet “[the needs of the growing population](https://www.boston.gov/parks/back-bay-fens)” through dual sanitation and recreation solutions.
 
-The Boston Park Department published this [map](https://bpl.bibliocommons.com/v2/record/S75C7694805) in 1880 as derived that original proposal.
+{{< figure src="/uploads/2021-12-29/back-bay-park.png" caption="“[Back Bay Park / Parks Department City of Boston](https://bpl.bibliocommons.com/v2/record/S75C7694805),” (Boston: Park Department, \[1880\])." class="figure-right" >}}
+
+This 1880 [map](https://bpl.bibliocommons.com/v2/record/S75C7694805) was published by the Boston Park Department and displays a manuscript plan of Olmsted's proposed "[Back Bay Park](https://www.tclf.org/landscapes/back-bay-fens)." 
 
 #### Global Change & Infectious Disease
 
