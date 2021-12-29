@@ -38,7 +38,9 @@ Over the past few years, public health has maintained a foregrounded position in
 
 {{< figure src="/uploads/2021-12-29/major-tropical-disease.jpeg" caption="Boris Artzybasheff, “[World map of the major tropical diseases: LIFE map by Artzybasheff](https://bpl.bibliocommons.com/v2/record/S75C8038086),” (\[Chicago, Illinois\]: Life, \[1944\])." class="figure-right" >}}
 
-The base of the map includes brief descriptions of **15 diseases**, including malaria, yellow fever, dengue, typhus, plague, cholera, sleeping sickness, tularemia, Rocky Mountain fever, Japanese river fever, relapsing fever, helminthic disease, yaws, leprosy, and leishmaniasis.
+The base of the map includes brief descriptions of **15 diseases**, including malaria, yellow fever, dengue, typhus, plague, cholera, sleeping sickness, tularemia, Rocky Mountain fever, Japanese river fever, relapsing fever, helminthic disease, yaws, leprosy, and leishmaniasis, each accompanied by a pictorial form of their respective vector.
+
+This aesthetic choice––to sprawl countless “[insects, pests, and deformed humans”](https://hist1952.omeka.fas.harvard.edu/exhibits/show/galleriesmain/item/184) across the global landscape––forms a visual message of alarm and urgency.
 
 #### Folklore (Gropper's Version)
 
