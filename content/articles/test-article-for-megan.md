@@ -34,9 +34,9 @@ More information on **More or Less in Common** coming soon!
 
 #### A Global Health Emergency
 
-{{< figure src="/uploads/2021-12-29/major-tropical-disease.jpeg" caption="Boris Artzybasheff, “[World map of the major tropical diseases: LIFE map by Artzybasheff](https://bpl.bibliocommons.com/v2/record/S75C8038086),” (\[Chicago, Illinois\]: Life, \[1944\])." class="figure-right" >}}
+Over the past few years, public health has maintained a foregrounded position in global media, conversations within households, and space in mental real estate. This pictorial [map](https://airtable.com/shr0RgG4AfpROgnqH/tbl8n5HBE6rTSSiap/viwvcR4MTOqT8GAnT/recJJHUjpbBcKUpmM?backgroundColor=green&viewControls=on) from 1944 contextualizes a series of public health crises from a more distant past.
 
-Over the past few years, public health has maintained a foregrounded position in conversations from global media and within households. This pictorial [map](https://bpl.bibliocommons.com/v2/record/S75C8038086) from 1944 contextualizes a series of public health crises from a more distant past.
+{{< figure src="/uploads/2021-12-29/major-tropical-disease.jpeg" caption="Boris Artzybasheff, “[World map of the major tropical diseases: LIFE map by Artzybasheff](https://bpl.bibliocommons.com/v2/record/S75C8038086),” (\[Chicago, Illinois\]: Life, \[1944\])." class="figure-right" >}}
 
 The base of the map includes brief descriptions of **15 diseases**, including malaria, yellow fever, dengue, typhus, plague, cholera, sleeping sickness, tularemia, Rocky Mountain fever, Japanese river fever, relapsing fever, helminthic disease, yaws, leprosy, and leishmaniasis.
 
