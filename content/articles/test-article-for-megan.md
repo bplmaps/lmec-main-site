@@ -28,7 +28,7 @@ As Boston’s Back Bay developed in the late-19th century, residents complained 
 
 {{< figure src="/uploads/2021-12-29/back-bay-park.png" caption="“[Back Bay Park / Parks Department City of Boston](https://bpl.bibliocommons.com/v2/record/S75C7694805),” (Boston: Park Department, \[1880\])." class="figure-right" >}}
 
-This 1880 [map](https://bpl.bibliocommons.com/v2/record/S75C7694805) was published by the Boston Park Department and displays a manuscript plan of Olmsted's proposed "[Back Bay Park](https://www.tclf.org/landscapes/back-bay-fens)." 
+This 1880 [map](https://bpl.bibliocommons.com/v2/record/S75C7694805) was published by the Boston Park Department and displays a manuscript plan of Olmsted's proposed "[Back Bay Park](https://www.tclf.org/landscapes/back-bay-fens)." Although the park was “[dramatically altered](https://www.asla.org/guide/site.aspx?id=40840)” altered by 1910 construction of the Charles River Dam, Back Bay Fens includes an “[eclectic mix of formal and community gardens, ball fields, memorials and historic structures](https://www.emeraldnecklace.org/park-overview/back-bay-fens/).”
 
 #### Global Change & Infectious Disease
 
