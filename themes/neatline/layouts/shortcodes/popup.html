@@ -6,7 +6,7 @@
 <script>
   this.iiifPreview = function() {
     xOffset = 500;
-    yOffset = 0;
+    yOffset = -180;
     $("a.popupTooltip").hover(function(e) {
         $("<div id='iiif-popup' style='position:absolute; background:#333; padding:5px; color:#fff; max-height:500px; max-width:500px; display:none;'><img style='border:none; max-width:500px; max-height:500px;' src='" + this.href +
           "' alt='url preview' />" + "</div>").appendTo($(this).parent());
