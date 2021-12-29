@@ -28,3 +28,5 @@ These new acquisitions range from early depictions of New England to original ma
 #### Section Title
 
 {{< figure src="/uploads/2021-12-29/folklore.jpeg" caption="“Back Bay Park / Parks Department City of Boston,” (Boston: Park Department, \[1880\])." class="figure-right" >}}
+
+#### Section Title 
