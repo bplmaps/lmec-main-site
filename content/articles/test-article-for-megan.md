@@ -16,11 +16,11 @@ draft: true
 
 These new acquisitions range from early depictions of New England to original maps created by underrepresented cartographers in the twentieth century. Our active acquisition program allows us to diversify the voices in our collection, support researchers’ interests, and enhance our exhibitions and programs.
 
-> Let's take a closer look a few new additions to the LMEC collection. Which is your favorite? 
+> Let's take a closer look a few new additions to the LMEC collection. Which is your favorite?
 
-#### More or Less in Common 
+#### More or Less in Common
 
-{{< figure src="" caption="“[Back Bay Park / Parks Department City of Boston](https://bpl.bibliocommons.com/v2/record/S75C7694805),” (Boston: Park Department, \[1880\])." class="figure-right" >}}
+{{< figure src="/uploads/2021-12-29/back-bay-park.png" caption="“[Back Bay Park / Parks Department City of Boston](https://bpl.bibliocommons.com/v2/record/S75C7694805),” (Boston: Park Department, \[1880\])." class="figure-right" >}}
 
 As we move into 2022, we are thrilled for the opening of our forthcoming exhibition [More or Less in Common](https://www.leventhalmap.org/articles/environmental-justice-exhibition-preview/), a show that will explore the geographic relationship between environmental management and historic patterns of injustice.
 
@@ -30,7 +30,7 @@ The exhibition is timed to coincide with the bicentennial anniversary of one of 
 
 {{< figure src="/uploads/2021-12-29/major-tropical-disease.jpeg" caption="Boris Artzybasheff, “[World map of the major tropical diseases: LIFE map by Artzybasheff](https://bpl.bibliocommons.com/v2/record/S75C8038086),” (\[Chicago, Illinois\]: Life, \[1944\])." class="figure-left" >}}
 
-#### Folklore (Gropper's Version) 
+#### Folklore (Gropper's Version)
 
 {{< figure src="/uploads/2021-12-29/folklore.jpeg" caption="William Gropper, “[William Gropper’s America, its folklore](https://bpl.bibliocommons.com/v2/record/S75C8038083),” (\[New York\]: \[Associated American Artists\], 1946)." class="figure-right" >}}
 
@@ -40,7 +40,7 @@ During **World War II**, Gropper worked with the [U.S. Treasury Department and t
 
 Upon first glance, the map paints a whimsical portrayal of **American folklore**, highlighting the figures of Paul Bunyan, Johnny Appleseed, Daniel Boone, Davy Crockett, Huck Finn, and many, many more. Within these figures, the State Department saw an opportunity to promote the United States as a “[fun-loving, welcoming, and, most important, free land](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore).”
 
-During the early 1950s, Roy Cohn––the chief counsel to **Senator Joseph McCarthy**––visited many libraries included in the Overseas Library Program and identifed Gropper as a “[fringe \[supporter\] and \[sympathizer\]](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore)” and his work as “[Communist-directed.](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore)” Although Gropper was not actually a Communist, his map was declared [un-American](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore) and consequently destroyed. Just a few existing copies remain today. 
+During the early 1950s, Roy Cohn––the chief counsel to **Senator Joseph McCarthy**––visited many libraries included in the Overseas Library Program and identifed Gropper as a “[fringe \[supporter\] and \[sympathizer\]](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore)” and his work as “[Communist-directed.](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore)” Although Gropper was not actually a Communist, his map was declared [un-American](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore) and consequently destroyed. Just a few existing copies remain today.
 
 #### An Interesting World in an Interesting Time
 
