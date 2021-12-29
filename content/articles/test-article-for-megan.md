@@ -26,9 +26,9 @@ As we move into 2022, we are thrilled for the opening of our forthcoming exhibit
 
 The exhibition is timed to coincide with the bicentennial anniversary of one of Boston’s most influential environmental planners, the landscape architect **Frederick Law Olmsted**. Olmsted’s famous [Emerald Necklace](https://www.emeraldnecklace.org/) forms (in some places) the dividing line between communities that are amongst the richest in the country and others that are languishing in poverty.
 
-As Boston’s Back Bay developed in the late-19th century, residents complained of “[sewage outfalls](https://www.tclf.org/landscapes/back-bay-fens)”, “[stagnant saltwater marsh that flooded and threatened public health](https://www.emeraldnecklace.org/park-overview/back-bay-fens/),” and “[a foul-smelling tidal creek and swamp](https://www.emeraldnecklace.org/park-overview/back-bay-fens/).” 
+As Boston’s Back Bay developed in the late-19th century, residents complained of “[sewage outfalls](https://www.tclf.org/landscapes/back-bay-fens)”, “[stagnant saltwater marsh that flooded and threatened public health](https://www.emeraldnecklace.org/park-overview/back-bay-fens/),” and “[a foul-smelling tidal creek and swamp](https://www.emeraldnecklace.org/park-overview/back-bay-fens/).” In 1878, Olmsted proposed a plan to maintain the “[character of the land](https://www.boston.gov/parks/back-bay-fens)” and address “[the needs of the growing population](https://www.boston.gov/parks/back-bay-fens).” 
 
-This 1877 [map](https://bpl.bibliocommons.com/v2/record/S75C7694805) published by the Boston Park Department presents a manuscript plan of **Back Bay Fens** and surrounding area derived from Olmsted’s 1878 plan of the park.
+The Boston Park Department published this [map](https://bpl.bibliocommons.com/v2/record/S75C7694805) in 1880 as derived that original proposal.
 
 #### Global Change & Infectious Disease
 
