@@ -24,7 +24,7 @@ As we move into 2022, we are thrilled for the opening of our forthcoming exhibit
 
 The exhibition is timed to coincide with the bicentennial anniversary of one of Boston’s most influential environmental planners, the landscape architect **Frederick Law Olmsted**. Olmsted’s famous [Emerald Necklace](https://www.emeraldnecklace.org/) forms (in some places) the dividing line between communities that are amongst the richest in the country and others that are languishing in poverty.
 
-{{< figure src="/uploads/2021-12-29/back-bay-park.png" caption="“[Back Bay Park / Parks Department City of Boston](https://bpl.bibliocommons.com/v2/record/S75C7694805),” (Boston: Park Department, \[1880\])." class="figure-right" >}}
+{{< figure src="/uploads/2021-12-29/back-bay-park.png" caption="“[Back Bay Park / Parks Department City of Boston](https://bpl.bibliocommons.com/v2/record/S75C7694805),” (Boston: Park Department, \[1880\])." class="figure-center" >}}
 
 As Boston’s Back Bay developed in the late-19th century, residents complained of “[sewage outfalls](https://www.tclf.org/landscapes/back-bay-fens)”, a “[stagnant saltwater marsh that flooded and threatened public health](https://www.emeraldnecklace.org/park-overview/back-bay-fens/),” and “[a foul-smelling tidal creek and swamp](https://www.emeraldnecklace.org/park-overview/back-bay-fens/).” In 1878, Olmsted proposed a plan to address these concerns, maintain the “[character of the land](https://www.boston.gov/parks/back-bay-fens),” and meet “[the needs of the growing population](https://www.boston.gov/parks/back-bay-fens)” through dual sanitation and recreation solutions.
 
@@ -34,7 +34,7 @@ This 1880 [map](https://bpl.bibliocommons.com/v2/record/S75C7694805) was publish
 
 #### Folklore (Gropper's Version)
 
-{{< figure src="/uploads/2021-12-29/folklore.jpeg" caption="William Gropper, “[William Gropper’s America, its folklore](https://bpl.bibliocommons.com/v2/record/S75C8038083),” (\[New York\]: \[Associated American Artists\], 1946)." class="figure-right" >}}
+{{< figure src="/uploads/2021-12-29/folklore.jpeg" caption="William Gropper, “[William Gropper’s America, its folklore](https://bpl.bibliocommons.com/v2/record/S75C8038083),” (\[New York\]: \[Associated American Artists\], 1946)." class="figure-center" >}}
 
 Taylor Swift’s [Folklore](https://g.co/kgs/jcZGEi) was one of the biggest albums of 2020, and William Groppers’ “[America, Its Folkore](https://bpl.bibliocommons.com/v2/record/S75C8038083)” is one of our favorite finds from 2021. Like Swift's album, Gropper’s map has tricky history of trust, betrayal, and misunderstanding.
 
@@ -46,7 +46,7 @@ During the early 1950s, Roy Cohn––the chief counsel to **Senator Joseph McCa
 
 #### An Interesting World in an Interesting Time
 
-{{< figure src="/uploads/2021-12-29/its-an-interesting-world.jpeg" caption="R. M. Chapin Jr., “[It’s an interesting world in an interesting time / TIME map by R.M. Chapin, Jr. and J. Donovan; Time, Inc.](https://bpl.bibliocommons.com/v2/record/S75C8079826),” (\[New York\] : Time Inc., \[1959\])." class="figure-left" >}}
+{{< figure src="/uploads/2021-12-29/its-an-interesting-world.jpeg" caption="R. M. Chapin Jr., “[It’s an interesting world in an interesting time / TIME map by R.M. Chapin, Jr. and J. Donovan; Time, Inc.](https://bpl.bibliocommons.com/v2/record/S75C8079826),” (\[New York\] : Time Inc., \[1959\])." class="figure-center" >}}
 
 May you live in an interesting world in an interesting time! This cartoony [poster](https://bpl.bibliocommons.com/v2/record/S75C8079826) comes right from the pages of a 1959 edition of **TIME Magazine**. Although the map’s aesthetic style suggests a sense of lightheartedness, the graphics depict some quite frightening developments of the **Cold War** and **Space Race**; we see Khrushchev raising a fist toward Europe, various political leaders facing off, references to atomic explosions in parts of Russia and the United States, and oversized space crafts circling the globe.
 
