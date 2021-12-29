@@ -10,7 +10,7 @@ backgroundImage: "/uploads/2021-12-29/its-an-interesting-world.jpeg"
 draft: true
 
 ---
-### 2021 Acquisition Roundup
+### 2021 Acquisition Roundup!
 
 2021 was a busy year for the Map Center! We welcomed tens of thousands of visitors to our [digital](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) and in-person Bending Lines exhibition, engaged with over 150 K-12 educators, introduced new faces to our team, and brought 85 new physical materials into our [collection](https://www.leventhalmap.org/collections/).
 
@@ -43,7 +43,7 @@ This 1880 [map](https://bpl.bibliocommons.com/v2/record/S75C7694805) was publish
 
 #### Folklore (Gropper's Version)
 
-Taylor Swift’s [Folklore](https://g.co/kgs/jcZGEi) was one of the biggest albums of 2020, and William Groppers’ “[America, Its Folkore](https://bpl.bibliocommons.com/v2/record/S75C8038083)” is one of our favorite finds from 2021. Like Swift's album, Gropper’s map has tricky history of trust, betrayal, and misunderstanding.
+Taylor Swift’s [Folklore](https://g.co/kgs/jcZGEi) was one of the biggest albums of 2020, and William Gropper’s “[America, Its Folkore](https://bpl.bibliocommons.com/v2/record/S75C8038083)” is one of our favorite finds from 2021. Like Swift's album, Gropper’s map has tricky history of trust, betrayal, and misunderstanding.
 
 During **World War II**, Gropper worked with the [U.S. Treasury Department and the White House’s Office of War Information](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore) to present “[specific war information objectives](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore)” in pictorial form on propaganda materials. Gropper was recognized and praised for his contributions, and included in the [State Department’s Overseas Library Program](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore) from 1946 to 1953; as part of the program, over 1,700 copies of his 1946 [map](https://bpl.bibliocommons.com/v2/record/S75C8038083) were distributed to libraries across the globe.
 
@@ -51,7 +51,7 @@ During **World War II**, Gropper worked with the [U.S. Treasury Department and t
 
 Upon first glance, the map paints a whimsical portrayal of **American folklore**, highlighting the figures of Paul Bunyan, Johnny Appleseed, Daniel Boone, Davy Crockett, Huck Finn, and many, many more. Within these figures, the State Department saw an opportunity to promote the United States as a “[fun-loving, welcoming, and, most important, free land](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore).”
 
-During the early 1950s, Roy Cohn––the chief counsel to **Senator Joseph McCarthy**––visited many libraries included in the Overseas Library Program and identifed Gropper as a “[fringe \[supporter\] and \[sympathizer\]](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore)” and his work as “[Communist-directed.](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore)” Although Gropper was not actually a Communist, his map was declared [un-American](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore) and consequently destroyed. Just a few existing copies remain today.
+During the early 1950s, Roy Cohn––the chief counsel to **Senator Joseph McCarthy**––visited many libraries included in the Overseas Library Program and identified Gropper as a “[fringe \[supporter\] and \[sympathizer\]](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore)” and his work as “[Communist-directed.](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore)” Although Gropper was not actually a Communist, his map was declared [un-American](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore) and consequently destroyed. Just a few existing copies remain today.
 
 #### An Interesting World in an Interesting Time
 
