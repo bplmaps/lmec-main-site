@@ -18,6 +18,10 @@ These new acquisitions range from early depictions of New England to original ma
 
 > Let's take a closer look a few new additions to the LMEC collection!
 
+#### The Fens 
+
+{{< figure src="/uploads/2021-12-29/back-bay-park.png" caption="“[Back Bay Park / Parks Department City of Boston](https://bpl.bibliocommons.com/v2/record/S75C7694805),” (Boston: Park Department, \[1880\])." class="figure-right" >}}
+
 #### An Interesting World in an Interesting Time
 
 {{< figure src="/uploads/2021-12-29/its-an-interesting-world.jpeg" caption="R. M. Chapin Jr., “[It’s an interesting world in an interesting time / TIME map by R.M. Chapin, Jr. and J. Donovan; Time, Inc.](https://bpl.bibliocommons.com/v2/record/S75C8079826),” (\[New York\] : Time Inc., \[1959\])." class="figure-left" >}}
