@@ -22,8 +22,6 @@ These new acquisitions range from early depictions of New England to original ma
 
 {{< figure src="/uploads/2021-12-29/folklore.jpeg" caption="William Gropper, “[William Gropper’s America, its folklore](https://bpl.bibliocommons.com/v2/record/S75C8038083),” (\[New York\]: \[Associated American Artists\], 1946)." class="figure-right" >}}
 
-communism 
-
 #### An Interesting World in an Interesting Time
 
 {{< figure src="/uploads/2021-12-29/its-an-interesting-world.jpeg" caption="R. M. Chapin Jr., “[It’s an interesting world in an interesting time / TIME map by R.M. Chapin, Jr. and J. Donovan; Time, Inc.](https://bpl.bibliocommons.com/v2/record/S75C8079826),” (\[New York\] : Time Inc., \[1959\])." class="figure-left" >}}
