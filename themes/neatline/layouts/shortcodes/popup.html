@@ -1,37 +1,25 @@
-<!-- <style>
-  #popupTooltip {
-    position: absolute;
-    border: 1px solid #ccc;
-    background: #333;
-    padding: 5px;
-    display: none;
-    color: #fff;
-    max-height: 500px;
-    max-width: 500px;
-  }
-</style> -->
-<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
-<a id="popup" href="{{ .Get `src`}}" class="popupTooltip" target="blank">{{.Inner}}</a>
-<!-- <script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<a id="popup" href="{{ .Get `src`}}" class="popupTooltip" target="blank">
+  &#128269; {{.Inner}}</a>
+
+<script>
   this.iiifPreview = function() {
-    xOffset = 200;
-    yOffset = 30;
-    $("a.popup").hover(function(e) {
-        this.t = this.title;
-        this.title = "";
-        let c = (this.t != "") ? "<br/>" + this.t : "";
-        $("body").append("<p id='popup'><img src='" + this.href + "' alt='url preview' />" + c + "</p>");
-        $("#popupTooltip")
+    xOffset = 500;
+    yOffset = 0;
+    $("a.popupTooltip").hover(function(e) {
+        $("<div id='iiif-popup' style='position:absolute; background:#333; padding:5px; color:#fff; max-height:500px; max-width:500px; display:none;'><img style='border:none; max-width:500px; max-height:500px;' src='" + this.href +
+          "' alt='url preview' />" + "</div>").appendTo($(this).parent());
+        $("#iiif-popup")
           .css("top", (e.pageY - xOffset) + "px")
           .css("left", (e.pageX + yOffset) + "px")
           .fadeIn("fast");
       },
       function() {
-        this.title = this.t;
-        $("#popupTooltip").remove();
+        $("#iiif-popup").remove();
       });
-    $("a.popup").mousemove(function(e) {
-      $("#popupTooltip")
+    $("a.popupTooltip").mousemove(function(e) {
+      $("#iiif-popup")
         .css("top", (e.pageY - xOffset) + "px")
         .css("left", (e.pageX + yOffset) + "px");
     });
@@ -39,4 +27,4 @@
   $(document).ready(function() {
     iiifPreview();
   });
-</script> -->
+</script>
