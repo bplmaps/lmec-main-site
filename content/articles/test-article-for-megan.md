@@ -4,7 +4,8 @@ title: '2021 Acquisition Roundup '
 description: Let's take a closer look at a few new additions to the LMEC collection!
 image: "/uploads/2021-12-29/its-an-interesting-world.jpeg"
 author: Megan Nally
-tags: []
+tags:
+- Acquisitions
 backgroundImage: "/uploads/2021-12-29/its-an-interesting-world.jpeg"
 draft: true
 
