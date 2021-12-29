@@ -26,11 +26,11 @@ We welcome university teachers to [bring your students to the Map Center](#class
 
 ## Visiting the Map Center with a class{#class-visits}
 
-{{< alert-box type="warning" icon="fas fa-laptop-house" title="Remote instruction until Fall 2021" >}}
+<!-- {{< alert-box type="warning" icon="fas fa-laptop-house" title="Remote instruction until Fall 2021" >}}
 
 In-person visits resume in Fall 2021.
 
-{{</ alert-box >}}
+{{</ alert-box >}} -->
 
 The LMEC curatorial and library team welcomes university classes to “visit” our collections and exhibition remotely. We offer **broad overview lessons** on historical geography, critical cartography, Boston history, and research in the map collections, as well as **thematically-focused discussions** of specific groups of objects or exhibition topics. We also offer **instruction in digital methods** for geography and cartography.
 
