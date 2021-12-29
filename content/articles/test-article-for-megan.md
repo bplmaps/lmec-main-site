@@ -32,6 +32,8 @@ As Boston’s Back Bay developed in the late-19th century, residents complained 
 
 This 1880 [map](https://bpl.bibliocommons.com/v2/record/S75C7694805) was published by the Boston Park Department and displays a manuscript plan of Olmsted's proposed "[Back Bay Park](https://www.tclf.org/landscapes/back-bay-fens)." Although the park was “[dramatically altered](https://www.asla.org/guide/site.aspx?id=40840)” altered by 1910 construction of the Charles River Dam, Back Bay Fens includes an “[eclectic mix of formal and community gardens, ball fields, memorials and historic structures](https://www.emeraldnecklace.org/park-overview/back-bay-fens/).”
 
+More information on **More or Less in Common** coming soon! 
+
 #### Folklore (Gropper's Version)
 
 Taylor Swift’s [Folklore](https://g.co/kgs/jcZGEi) was one of the biggest albums of 2020, and William Gropper’s “[America, Its Folkore](https://bpl.bibliocommons.com/v2/record/S75C8038083)” is one of our favorite finds from 2021. Like Swift's album, Gropper’s map has tricky history of trust, betrayal, and misunderstanding.
