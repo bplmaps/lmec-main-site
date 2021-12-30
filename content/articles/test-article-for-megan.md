@@ -1,8 +1,8 @@
 ---
 date: 2021-12-28T16:07:52.000-05:00
 title: 'Mapping 2021 in our Latest Acquisitions '
-description: We added many new maps to the collections in 2021 — and some of them
-  are particularly resonant with what happened in 2021
+description: 'We added many new maps to the collections in 2021 — and some of them
+  are particularly resonant events of 2021. '
 image: "/uploads/2021-12-29/its-an-interesting-world.jpeg"
 author: Megan Nally
 tags:
