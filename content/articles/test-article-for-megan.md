@@ -1,8 +1,8 @@
 ---
 date: 2021-12-30T16:00:52-05:00
 title: 'Mapping 2021 in our Latest Acquisitions '
-description: 'We added many new maps to the collections in 2021 — and some of them
-  are particularly resonant events of 2021. '
+description: We added many new maps to the collections this year—and some of them
+  are particularly resonant with the events of 2021
 image: "/uploads/2021-12-29/its-an-interesting-world.jpeg"
 author: Megan Nally
 tags:
@@ -68,4 +68,4 @@ This cartoon-like [poster](https://bpl.bibliocommons.com/v2/record/S75C8079826) 
 
 The projection choice of this map is particularly fitting. Created in [1943](https://www.wired.com/2014/01/projection-raisz-armadillo/) by Hungarian cartographer Erwin Raisz, the **armadillo projection** attempts to display a map with the “[lively look of a globe](https://www.wired.com/2014/01/projection-raisz-armadillo/),” that is, to make a “[flat map... look 3-dimensional](https://www.wired.com/2014/01/projection-raisz-armadillo/).” Placed into the context of the year 1959, the projection allows for a display of all critical world events, both on the surface of the Earth as well as outside of it in orbit. Raisz's armadillo projection does make for an interesting challenge in depicting the Arctic---and here you can see nuclear submarines trying to jump across the projection's gap as they making their way to the North Pole!
 
-> Keep an eye out as we add these additions to our [Digital Collections](https://collections.leventhalmap.org/) portal!
+> Keep an eye out as we digitize these new maps and add them to our [Digital Collections](https://collections.leventhalmap.org/) portal!
