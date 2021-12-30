@@ -1,11 +1,13 @@
 ---
-date: 2021-12-29T16:56:46-05:00
+date: 2021-12-29T16:56:46.000-05:00
 title: "'22s of Centuries Past"
-description: We’ve rounded up some of our favorite maps created or published in the
-  ‘22s of centuries past to celebrate the New Year!
+description: 'We’ve rounded up some of our favorite maps created or published in the
+  ‘22s of centuries past to celebrate the New Year. '
 image: "/uploads/2021-12-29/boston-wharf.jpeg"
 author: 'Megan Nally '
-tags: []
+tags:
+- 'Collections '
+- New Year
 backgroundImage: "/uploads/2021-12-29/boston-wharf.jpeg"
 draft: true
 
