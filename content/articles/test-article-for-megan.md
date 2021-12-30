@@ -12,11 +12,11 @@ backgroundImage: "/uploads/2021-12-29/its-an-interesting-world.jpeg"
 draft: true
 
 ---
-Despite the closures and challenges of an ongoing pandemic, 2021 was still a busy year for collections at the Map Center! While we temporarily slowed our acquisitions during the time that we couldn't access the library, we still brought [121 new items](https://www.leventhalmap.org/collections/acquisitions/) into our [collections](https://www.leventhalmap.org/collections/) in 2021.
+Despite the closures and challenges of an ongoing pandemic, 2021 was still a busy year for collections at the Map Center! While we temporarily slowed our acquisitions during the time that we couldn't access the library, we still brought [121 new items](https://www.leventhalmap.org/collections/acquisitions/) into our [collections](https://www.leventhalmap.org/collections/) in 2021. 
 
-These new acquisitions range from early depictions of New England to original maps created by underrepresented cartographers in the twentieth century. Our active acquisition program allows us to diversify the voices in our collection, support researchers’ interests, and enhance our exhibition and teaching programs. And sometimes, we acquire maps simply out of curiosity and whim, bringing in maps that we find striking for one reason or another.
+These new acquisitions span from **1548 to 2020** and range from early depictions of New England to original maps created by underrepresented cartographers in the twentieth century. Our active acquisition program allows us to diversify the voices in our collection, support researchers’ interests, and enhance our exhibition and teaching programs. And sometimes, we acquire maps simply out of curiosity and whim, bringing in maps that we find striking for one reason or another.
 
-The new additions to the LMEC collection span from **1548 to 2020** and range from early depictions of New England to original maps created by underrepresented cartographers in the twentieth century. You can always take a look at our [new acquisitions page](https://www.leventhalmap.org/collections/acquisitions/) to see what we've recently added. And while there are plenty of themes to explore, some of the maps that we acquired echo with themes that are familiar to this year. Let's take a closer look at a few. Which is your favorite?
+You can always take a look at our [new acquisitions page](https://www.leventhalmap.org/collections/acquisitions/) to see what we've recently added. And while there are plenty of themes to explore, some of the maps that we acquired echo with themes that are familiar to this year. Let's take a closer look at a few. Which is your favorite?
 
 #### Excavating the history of Back Bay Park
 
