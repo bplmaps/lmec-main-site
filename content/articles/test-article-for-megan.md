@@ -16,7 +16,7 @@ Despite the closures and challenges of an ongoing pandemic, 2021 was still a bus
 
 These new acquisitions span from **1548 to 2020** and range from early depictions of New England to original maps created by underrepresented cartographers in the twentieth century. Our active acquisition program allows us to diversify the voices in our collection, support researchers’ interests, and enhance our exhibition and teaching programs. And sometimes, we acquire maps simply out of curiosity and whim, bringing in maps that we find striking for one reason or another.
 
-You can always take a look at our [new acquisitions page](https://www.leventhalmap.org/collections/acquisitions/) to see what we've recently added. And while there are plenty of themes to explore, some of the maps that we acquired echo with themes that are familiar to this year. Let's take a closer look at a few. Which is your favorite?
+You can always take a look at our [new acquisitions page](https://www.leventhalmap.org/collections/acquisitions/) to see what we've recently added. And while there are plenty of themes to explore, **some of the maps that we acquired echo with themes that are familiar to this year**. Let's take a closer look at a few. Which is your favorite?
 
 #### Excavating the history of Back Bay Park
 
