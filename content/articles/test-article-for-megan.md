@@ -1,7 +1,8 @@
 ---
 date: 2021-12-28T16:07:52.000-05:00
-title: Telling the stories of 2021 through our acquisitions
-description: We added many new maps to the collections in 2021 — and some of them are particularly resonant with what happened in 2021
+title: Telling the Stories of 2021 through our Acquisitions
+description: We added many new maps to the collections in 2021 — and some of them
+  are particularly resonant with what happened in 2021
 image: "/uploads/2021-12-29/its-an-interesting-world.jpeg"
 author: Megan Nally
 tags:
@@ -9,8 +10,8 @@ tags:
 - 2021 Year-End
 backgroundImage: "/uploads/2021-12-29/its-an-interesting-world.jpeg"
 draft: true
----
 
+---
 Even though we continued to deal with the closures and challenges of an ongoing pandemic, 2021 was still a busy year for collections at the Map Center! While we temporarily slowed our acquisitions during the time that we couldn't access the library, we still brought brought [121 new items](https://www.leventhalmap.org/collections/acquisitions/) into our [collections](https://www.leventhalmap.org/collections/) in 2021.
 
 These new acquisitions range from early depictions of New England to original maps created by underrepresented cartographers in the twentieth century. Our active acquisition program allows us to diversify the voices in our collection, support researchers’ interests, and enhance our exhibition and teaching programs. And sometimes, we acquire maps simply out of curiosity and whim, bringing in maps that we find striking for one reason or another.
