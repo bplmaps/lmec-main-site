@@ -58,13 +58,13 @@ During the early 1950s, Roy Cohn---the chief counsel to **Senator Joseph McCarth
 
 #### An interesting world in an interesting time
 
-May you live in an interesting world in an interesting time!
-
 {{< figure src="/uploads/2021-12-29/its-an-interesting-world.jpeg" caption="Subscribers to _Time_ Magazine would have received [this map](https://bpl.bibliocommons.com/v2/record/S75C8079826) in 1959." class="figure-center" >}}
 
-This cartoon-like [poster](https://bpl.bibliocommons.com/v2/record/S75C8079826) was distributed to subscribers as part of a 1959 edition of _Time_ Magazine. Although the map’s aesthetic style suggests a sense of lightheartedness, the graphics depict some quite frightening developments of the **Cold War** and **Space Race**; we see Khrushchev raising a fist toward Europe, various political leaders facing off, references to atomic explosions in parts of Russia and the United States, and oversized space crafts circling the globe.
+May you live in an interesting world in an interesting time!
 
 {{< figure src="/uploads/2021-12-30/1511.jpeg" caption="This 1511 [map](https://collections.leventhalmap.org/search/commonwealth:j38608355) of the world forms a similar armadillo shape, but is actually a cordiform projection as it closely mirrors the shape of a heart." class="figure-left" >}}
+
+This cartoon-like [poster](https://bpl.bibliocommons.com/v2/record/S75C8079826) was distributed to subscribers as part of a 1959 edition of _Time_ Magazine. Although the map’s aesthetic style suggests a sense of lightheartedness, the graphics depict some quite frightening developments of the **Cold War** and **Space Race**; we see Khrushchev raising a fist toward Europe, various political leaders facing off, references to atomic explosions in parts of Russia and the United States, and oversized space crafts circling the globe.
 
 The projection choice of this map is particularly fitting. Created in [1943](https://www.wired.com/2014/01/projection-raisz-armadillo/) by Hungarian cartographer Erwin Raisz, the **armadillo projection** attempts to display a map with the “[lively look of a globe](https://www.wired.com/2014/01/projection-raisz-armadillo/),” that is, to make a “[flat map... look 3-dimensional](https://www.wired.com/2014/01/projection-raisz-armadillo/).” Placed into the context of the year 1959, the projection allows for a display of all critical world events, both on the surface of the Earth as well as outside of it in orbit. Raisz's armadillo projection does make for an interesting challenge in depicting the Arctic---and here you can see nuclear submarines trying to jump across the projection's gap as they making their way to the North Pole!
 
