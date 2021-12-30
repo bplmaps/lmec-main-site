@@ -42,7 +42,7 @@ During recent years, public health has maintained a foregrounded position in glo
 
 The base of the map includes brief descriptions of **15 diseases**, including malaria, yellow fever, dengue, typhus, plague, cholera, sleeping sickness, tularemia, Rocky Mountain fever, Japanese river fever, relapsing fever, helminthic disease, yaws, leprosy, and leishmaniasis, each accompanied by a pictorial form of their respective vector.
 
-{{< figure src="![](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8336hc349/full/full/0/default.jpg)" caption="cholera" class="figure-right" >}}
+{{< figure src="[https://collections.leventhalmap.org/search/commonwealth:8336hc331](https://collections.leventhalmap.org/search/commonwealth:8336hc331 "https://collections.leventhalmap.org/search/commonwealth:8336hc331")" caption="cholera" class="figure-right" >}}
 
 The aesthetic choice of such gruesome iconography––to sprawl countless “[insects, pests, and deformed humans”](https://hist1952.omeka.fas.harvard.edu/exhibits/show/galleriesmain/item/184) across the global landscape––forms a visual message of **alarm and urgency.** As discussed in our Bending Lines exhibition, "[these kinds of symbolization can be more easily understood at a glance](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/cartographic-techniques/)" and while the accompanying text is useful, it is by no means necessary to understand the map's message.
 
