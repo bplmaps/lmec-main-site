@@ -12,7 +12,7 @@ backgroundImage: "/uploads/2021-12-29/its-an-interesting-world.jpeg"
 draft: true
 
 ---
-Even though we continued to deal with the closures and challenges of an ongoing pandemic, 2021 was still a busy year for collections at the Map Center! While we temporarily slowed our acquisitions during the time that we couldn't access the library, we still brought brought [121 new items](https://www.leventhalmap.org/collections/acquisitions/) into our [collections](https://www.leventhalmap.org/collections/) in 2021.
+Even though we continued to deal with the closures and challenges of an ongoing pandemic, 2021 was still a busy year for collections at the Map Center! While we temporarily slowed our acquisitions during the time that we couldn't access the library, we still brought [121 new items](https://www.leventhalmap.org/collections/acquisitions/) into our [collections](https://www.leventhalmap.org/collections/) in 2021.
 
 These new acquisitions range from early depictions of New England to original maps created by underrepresented cartographers in the twentieth century. Our active acquisition program allows us to diversify the voices in our collection, support researchers’ interests, and enhance our exhibition and teaching programs. And sometimes, we acquire maps simply out of curiosity and whim, bringing in maps that we find striking for one reason or another.
 
@@ -58,7 +58,7 @@ During the early 1950s, Roy Cohn---the chief counsel to **Senator Joseph McCarth
 
 May you live in an interesting world in an interesting time!
 
-{{< figure src="/uploads/2021-12-29/its-an-interesting-world.jpeg" caption="Subscribers to *Time* Magazine would have received [this map](https://bpl.bibliocommons.com/v2/record/S75C8079826) in 1959" class="figure-center" >}}
+{{< figure src="/uploads/2021-12-29/its-an-interesting-world.jpeg" caption="Subscribers to _Time_ Magazine would have received [this map](https://bpl.bibliocommons.com/v2/record/S75C8079826) in 1959" class="figure-center" >}}
 
 This cartoon-like [poster](https://bpl.bibliocommons.com/v2/record/S75C8079826) was distributed to subscribers as part of a 1959 edition of _Time_ Magazine. Although the map’s aesthetic style suggests a sense of lightheartedness, the graphics depict some quite frightening developments of the **Cold War** and **Space Race**; we see Khrushchev raising a fist toward Europe, various political leaders facing off, references to atomic explosions in parts of Russia and the United States, and oversized space crafts circling the globe.
 
