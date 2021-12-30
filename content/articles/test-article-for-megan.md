@@ -31,7 +31,6 @@ As Boston’s Back Bay developed in the late nineteenth century, residents compl
 
 This [1880 map](https://bpl.bibliocommons.com/v2/record/S75C7694805) was published by the Boston Park Department. It's drawn on top of a map published by the Park Department in 1877, which formed a key document for Olmsted's 1878 plan of Back Bay Park. This particular manuscript copy of the map shows details and annotations that don't appear on any other map. It was probably used during the layout and construction of the park, as city engineers worked to implement Olmsted's plans in the shifting, complicated flats where the Muddy River met the Charles River. Although the park was [modified](https://www.asla.org/guide/site.aspx?id=40840) by 1910 construction of the Charles River Dam, **Back Bay Fens** includes an “[eclectic mix of formal and community gardens, ball fields, memorials and historic structures.](https://www.emeraldnecklace.org/park-overview/back-bay-fens/)”
 
-
 #### A global health emergency
 
 During recent years, public health has maintained a foregrounded position in global media, conversations within households, and space in mental real estate. This [pictorial map](https://bpl.bibliocommons.com/v2/record/S75C8038086) from 1944 contextualizes a series of **public health crises** from a more distant past.
