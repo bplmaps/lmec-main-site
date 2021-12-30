@@ -1,5 +1,5 @@
 ---
-date: 2021-12-30T16:00:52-05:00
+date: 2021-12-30T15:00:52-05:00
 title: 'Mapping 2021 in our Latest Acquisitions '
 description: We added many new maps to the collections this year—and some of them
   are particularly resonant with the events of 2021
@@ -9,7 +9,7 @@ tags:
 - Acquisitions
 - 2021 Year-End
 backgroundImage: "/uploads/2021-12-29/its-an-interesting-world.jpeg"
-draft: true
+draft: false
 
 ---
 Despite the closures and challenges of an ongoing pandemic, 2021 was still a busy year for collections at the Map Center! While we temporarily slowed our acquisitions during the library's closure, we still brought [121 new items](https://www.leventhalmap.org/collections/acquisitions/) into our [collections](https://www.leventhalmap.org/collections/).
