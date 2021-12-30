@@ -12,7 +12,7 @@ backgroundImage: "/uploads/2021-12-29/its-an-interesting-world.jpeg"
 draft: true
 
 ---
-Despite the closures and challenges of an ongoing pandemic, 2021 was still a busy year for collections at the Map Center! While we temporarily slowed our acquisitions during the library's closure, we still brought [121 new items](https://www.leventhalmap.org/collections/acquisitions/) into our [collections](https://www.leventhalmap.org/collections/). 
+Despite the closures and challenges of an ongoing pandemic, 2021 was still a busy year for collections at the Map Center! While we temporarily slowed our acquisitions during the library's closure, we still brought [121 new items](https://www.leventhalmap.org/collections/acquisitions/) into our [collections](https://www.leventhalmap.org/collections/).
 
 These new acquisitions span from **1548 to 2020** and range from early depictions of New England to original maps created by underrepresented cartographers in the twentieth century. Our active acquisition program allows us to diversify the voices in our collection, support researchers’ interests, and enhance our exhibition and teaching programs. And sometimes, we acquire maps simply out of curiosity and whim, bringing in maps that we find striking for one reason or another.
 
@@ -39,6 +39,8 @@ During recent years, public health has maintained a foregrounded position in glo
 {{< figure src="/uploads/2021-12-29/major-tropical-disease.jpeg" caption="Boris Artzybasheff's eclectic illustrations show tropical diseases in this [1944 map](https://bpl.bibliocommons.com/v2/record/S75C8038086)" class="figure-center" >}}
 
 The base of the map includes brief descriptions of **15 diseases**, including malaria, yellow fever, dengue, typhus, plague, cholera, sleeping sickness, tularemia, Rocky Mountain fever, Japanese river fever, relapsing fever, helminthic disease, yaws, leprosy, and leishmaniasis, each accompanied by a pictorial form of their respective vector.
+
+{{< figure src="/uploads/2021-12-30/cholera.jpeg" caption="Course of cholera in Boston in 1849" class="figure-right" >}}
 
 The aesthetic choice of such gruesome iconography---to spread countless “[insects, pests, and deformed humans”](https://hist1952.omeka.fas.harvard.edu/exhibits/show/galleriesmain/item/184) across the global landscape---forms a visual message of **alarm and urgency.** As discussed in our _Bending Lines_ exhibition, "[these kinds of symbolization can be more easily understood at a glance](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/cartographic-techniques/)" and while the accompanying text is useful, it is by no means necessary to understand the map's message. You can read more about Artzybasheff and his visual techniques in [this 2019 article](https://makingmaps.net/2019/01/17/boris-artzybasheffs-maps/) by John Krygier.
 
