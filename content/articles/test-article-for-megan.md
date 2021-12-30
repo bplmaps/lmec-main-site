@@ -22,9 +22,9 @@ These new acquisitions range from early depictions of New England to original ma
 
 As we move into 2022, we are thrilled to open our forthcoming exhibition [More or Less in Common](https://www.leventhalmap.org/articles/environmental-justice-exhibition-preview/), a show that will explore the geographic relationship between environmental management and historic patterns of injustice.
 
-The exhibition is timed to coincide with the bicentennial anniversary of one of Boston’s most influential environmental planners, the landscape architect **Frederick Law Olmsted**. Olmsted’s famous [Emerald Necklace](https://www.emeraldnecklace.org/) forms (in some places) the dividing line between communities that are amongst the richest in the country and others that are languishing in poverty.
-
 {{< figure src="/uploads/2021-12-30/olmsted.jpeg" caption="[Frederick Law Olmsted](https://www.digitalcommonwealth.org/search/commonwealth:sq87ft46v), \[ca. 1865–1965\]" class="figure-right" >}}
+
+The exhibition is timed to coincide with the bicentennial anniversary of one of Boston’s most influential environmental planners, the landscape architect **Frederick Law Olmsted**. Olmsted’s famous [Emerald Necklace](https://www.emeraldnecklace.org/) forms (in some places) the dividing line between communities that are amongst the richest in the country and others that are languishing in poverty.
 
 As Boston’s Back Bay developed in the late-19th century, residents complained of “[sewage outfalls](https://www.tclf.org/landscapes/back-bay-fens)”, a “[stagnant saltwater marsh that flooded and threatened public health](https://www.emeraldnecklace.org/park-overview/back-bay-fens/),” and “[a foul-smelling tidal creek and swamp](https://www.emeraldnecklace.org/park-overview/back-bay-fens/).” In 1878, Olmsted proposed a plan to address these concerns, maintain the “[character](https://www.boston.gov/parks/back-bay-fens)” of the terrain, and meet the [needs](https://www.boston.gov/parks/back-bay-fens) of the surrounding community through dual sanitation and recreation solutions.
 
