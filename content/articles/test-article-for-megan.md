@@ -22,7 +22,7 @@ You can always take a look at our [new acquisitions page](https://www.leventhalm
 
 As we move into 2022, we are looking forward to the March opening of our next exhibition [_More or Less in Common_](https://www.leventhalmap.org/articles/environmental-justice-exhibition-preview/), a show that will explore the geographic relationship between environmental management and historic patterns of injustice.
 
-{{< figure src="/uploads/2021-12-30/olm2.jpeg" caption="[Frederick Law Olmsted](https://www.digitalcommonwealth.org/search/commonwealth:sq87ft46v), from the Brookline Photograph Collection." class="figure-right" >}}
+{{< figure src="/uploads/2021-12-30/olm2.jpeg" caption="[Frederick Law Olmsted](https://www.digitalcommonwealth.org/search/commonwealth:sq87ft46v), from the Brookline Photograph Collection." class="figure-left" >}}
 
 The exhibition is timed to coincide with the bicentennial anniversary of one of Boston’s most influential environmental planners, the landscape architect **Frederick Law Olmsted**. Olmsted’s famous [Emerald Necklace](https://www.emeraldnecklace.org/) is one of the region's most beautiful parks systems. But in some places, it also forms the dividing line between communities that are amongst the richest in the country and others that are languishing in poverty.
 
