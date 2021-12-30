@@ -22,13 +22,13 @@ You can always take a look at our [new acquisitions page](https://www.leventhalm
 
 As we move into 2022, we are looking forward to the March opening of our next exhibition [_More or Less in Common_](https://www.leventhalmap.org/articles/environmental-justice-exhibition-preview/), a show that will explore the geographic relationship between environmental management and historic patterns of injustice.
 
-{{< figure src="/uploads/2021-12-30/olm2.jpeg" caption="[Frederick Law Olmsted](https://www.digitalcommonwealth.org/search/commonwealth:sq87ft46v), from the Brookline Photograph Collection" class="figure-right" >}}
+{{< figure src="/uploads/2021-12-30/olm2.jpeg" caption="[Frederick Law Olmsted](https://www.digitalcommonwealth.org/search/commonwealth:sq87ft46v), from the Brookline Photograph Collection." class="figure-right" >}}
 
 The exhibition is timed to coincide with the bicentennial anniversary of one of Boston’s most influential environmental planners, the landscape architect **Frederick Law Olmsted**. Olmsted’s famous [Emerald Necklace](https://www.emeraldnecklace.org/) is one of the region's most beautiful parks systems. But in some places, it also forms the dividing line between communities that are amongst the richest in the country and others that are languishing in poverty.
 
 As Boston’s Back Bay developed in the late nineteenth century, residents complained of “[sewage outfalls,](https://www.tclf.org/landscapes/back-bay-fens)” a “[stagnant saltwater marsh that flooded and threatened public health,](https://www.emeraldnecklace.org/park-overview/back-bay-fens/)” and “[a foul-smelling tidal creek and swamp.](https://www.emeraldnecklace.org/park-overview/back-bay-fens/)” In 1878, Olmsted proposed a plan to address these concerns, maintain the “[character](https://www.boston.gov/parks/back-bay-fens)” of the terrain, and meet the needs of the surrounding community through dual sanitation and recreation solutions.
 
-{{< figure src="/uploads/2021-12-29/back-bay-park.png" caption="This [1880 planning map of Back Bay Park](https://bpl.bibliocommons.com/v2/record/S75C7694805) shows landscape designs that don't appear on any other maps of this period" class="figure-center" >}}
+{{< figure src="/uploads/2021-12-29/back-bay-park.png" caption="This [1880 planning map of Back Bay Park](https://bpl.bibliocommons.com/v2/record/S75C7694805) shows landscape designs that don't appear on any other maps of this period." class="figure-center" >}}
 
 This [1880 map](https://bpl.bibliocommons.com/v2/record/S75C7694805) was published by the Boston Park Department. It's drawn on top of a map published by the Park Department in 1877, which formed a key document for Olmsted's 1878 plan of Back Bay Park. This particular manuscript copy of the map shows details and annotations that don't appear on any other map. It was probably used during the layout and construction of the park, as city engineers worked to implement Olmsted's plans in the shifting, complicated flats where the Muddy River met the Charles River. Although the park was [modified](https://www.asla.org/guide/site.aspx?id=40840) by 1910 construction of the Charles River Dam, **Back Bay Fens** includes an “[eclectic mix of formal and community gardens, ball fields, memorials and historic structures.](https://www.emeraldnecklace.org/park-overview/back-bay-fens/)”
 
@@ -36,7 +36,7 @@ This [1880 map](https://bpl.bibliocommons.com/v2/record/S75C7694805) was publish
 
 During recent years, public health has maintained a foregrounded position in global media, conversations within households, and space in mental real estate. This [pictorial map](https://bpl.bibliocommons.com/v2/record/S75C8038086) from 1944 contextualizes a series of **public health crises** from a more distant past.
 
-{{< figure src="/uploads/2021-12-29/major-tropical-disease.jpeg" caption="Boris Artzybasheff's eclectic illustrations show tropical diseases in this [1944 map](https://bpl.bibliocommons.com/v2/record/S75C8038086)" class="figure-center" >}}
+{{< figure src="/uploads/2021-12-29/major-tropical-disease.jpeg" caption="Boris Artzybasheff's eclectic illustrations show tropical diseases in this [1944 map](https://bpl.bibliocommons.com/v2/record/S75C8038086)." class="figure-center" >}}
 
 The base of the map includes brief descriptions of **15 diseases**, including malaria, yellow fever, dengue, typhus, plague, cholera, sleeping sickness, tularemia, Rocky Mountain fever, Japanese river fever, relapsing fever, helminthic disease, yaws, leprosy, and leishmaniasis, each accompanied by a pictorial form of their respective vector.
 
@@ -50,7 +50,7 @@ Taylor Swift’s [Folklore](https://g.co/kgs/jcZGEi) was one of the biggest albu
 
 During **World War II**, Gropper worked with the [U.S. Treasury Department and the White House’s Office of War Information](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore) to present “[specific war information objectives](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore)” in pictorial form on propaganda materials. Gropper was recognized and praised for his contributions, and his work was included in the [State Department’s Overseas Library Program](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore) from 1946 to 1953. As part of this program, over **1,700 copies** of his 1946 [map](https://bpl.bibliocommons.com/v2/record/S75C8038083) were distributed to libraries across the globe.
 
-{{< figure src="/uploads/2021-12-29/folklore.jpeg" caption="William Gropper, [William Gropper’s America, its folklore](https://bpl.bibliocommons.com/v2/record/S75C8038083), 1946" class="figure-center" >}}
+{{< figure src="/uploads/2021-12-29/folklore.jpeg" caption="William Gropper, [William Gropper’s America, its folklore](https://bpl.bibliocommons.com/v2/record/S75C8038083), 1946." class="figure-center" >}}
 
 Upon first glance, the map paints a whimsical portrayal of **American folklore**, highlighting the figures of Paul Bunyan, Johnny Appleseed, Daniel Boone, Davy Crockett, Huck Finn, and many, many more. Within these figures, the State Department saw an opportunity to promote the United States as a “[fun-loving, welcoming, and, most important, free land](https://www.atlasobscura.com/articles/william-gropper-map-american-folklore).”
 
@@ -60,7 +60,7 @@ During the early 1950s, Roy Cohn---the chief counsel to **Senator Joseph McCarth
 
 May you live in an interesting world in an interesting time!
 
-{{< figure src="/uploads/2021-12-29/its-an-interesting-world.jpeg" caption="Subscribers to _Time_ Magazine would have received [this map](https://bpl.bibliocommons.com/v2/record/S75C8079826) in 1959" class="figure-center" >}}
+{{< figure src="/uploads/2021-12-29/its-an-interesting-world.jpeg" caption="Subscribers to _Time_ Magazine would have received [this map](https://bpl.bibliocommons.com/v2/record/S75C8079826) in 1959." class="figure-center" >}}
 
 This cartoon-like [poster](https://bpl.bibliocommons.com/v2/record/S75C8079826) was distributed to subscribers as part of a 1959 edition of _Time_ Magazine. Although the map’s aesthetic style suggests a sense of lightheartedness, the graphics depict some quite frightening developments of the **Cold War** and **Space Race**; we see Khrushchev raising a fist toward Europe, various political leaders facing off, references to atomic explosions in parts of Russia and the United States, and oversized space crafts circling the globe.
 
