@@ -1,33 +1,4 @@
-<a id="popup" href="{{ .Get `src`}}" class="popupTooltip" target="blank" style="background-image: linear-gradient(0deg, rgba(128, 0, 0, 0.21) 10%, transparent 0)">
-  &#128269; {{.Inner}}
-</a>
+{{ $unique_id := now.UnixNano }}
 
-<script defer>
-  document.addEventListener("DOMContentLoaded", function(event) { 
-    function iiifPreview() {
-    xOffset = 500;
-    yOffset = -100;
-    $("a.popupTooltip").hover(function(e) {
-        $("<div id='iiif-popup' style='position:absolute; background:#333; padding:5px; color:#fff; max-height:500px; max-width:500px; display:none;'><img style='border:none; max-width:500px; max-height:500px;' src='" + this.href +
-          "' alt='url preview' />" + "</div>").appendTo($(this).parent());
-        $("#iiif-popup")
-          // .css("top", (e.pageY - xOffset) + "px")
-          // .css("left", (e.pageX + yOffset) + "px")
-          .css("top", (e.pageY) + "px")
-          .css("left", (e.pageX) + "px")
-          .fadeIn("fast");
-      },
-      function() {
-        $("#iiif-popup").remove();
-      });
-    $("a.popupTooltip").mousemove(function(e) {
-      $("#iiif-popup")
-        .css("top", (e.pageY - xOffset) + "px")
-        .css("left", (e.pageX + yOffset) + "px");
-    });
-    };
-    $(document).ready(function() {
-      iiifPreview();
-    });
-  }); 
-</script>
+<span id="popup-anchor-{{ $unique_id }}" href="{{ .Get `src`}}" class="popupTooltip">
+  <i class="fas fa-binoculars mr-2"></i>{{.Inner}}</span>
