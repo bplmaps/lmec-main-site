@@ -22,6 +22,10 @@ Cost should not present a barrier for bringing our educational programs to your 
 
 
 * **Multiple same-day sessions** of a single outreach visit are charged at a discounted rate.
+  * One session: $175
+  * Two sessions: $300
+  * Three sessions: $400
+  * Each additional session: +$50
 * **Mileage** is charged at 55¢ per mile driving distance from Copley Square.
 
 

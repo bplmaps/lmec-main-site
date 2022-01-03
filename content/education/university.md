@@ -40,7 +40,7 @@ To schedule a remote visit or talk for your class, please fill out this form:
 
 #### Cost
 
-Please see our [table of education program fees](/education/fees) for information on costs. We strive to make our programs and resources available to all institutions without cost presenting a barrier. Individual reference and research services for students and educators, as well as admission to the exhibitions gallery, is always free.
+Please see our [table of education program fees](/education/fees) for information on costs. We strive to make our programs and resources available to all institutions without cost presenting a barrier. Individual reference and research services for students and educators, as well as admission to the exhibitions gallery, are always free.
 
 ## Collaborative learning in the digital humanities{#collaborative-learning}
 

@@ -39,7 +39,9 @@ To book a program, fill out the reservation form. Someone from the K-12 educatio
 
 <iframe class="airtable-embed mb-5" src="https://airtable.com/embed/shrBJNwz49WB8i2jH?backgroundColor=yellow\](https://airtable.com/embed/shrBJNwz49WB8i2jH?backgroundColor=yellow " frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-#### Program Fees
+#### Cost
+
+Please see our [table of education program fees](/education/fees) for information on costs. We strive to make our programs and resources available to all institutions without cost presenting a barrier.
 
 _Map Center Field Trips or Remote class visits_: With the exception of Boston Public Schools groups, the Leventhal Map Center charges a $100 fee per program visit to the Map Center to support educational programming and conservation work. Remote sessions are charged at the $100 rate. We provide _all_ of our programming free of charge to Boston Public Schools.
 
