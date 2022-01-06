@@ -47,7 +47,7 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Today's hours
+  - badge: Announcement
     text: 'The Map Center gallery will be closed Friday, January 7th '
     link: ''
   - badge: For high school students
