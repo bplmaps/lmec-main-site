@@ -47,6 +47,9 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Today's hours
+    text: 'The Map Center gallery will be closed Friday, January 7th '
+    link: ''
   - badge: For high school students
     text: Sign up for our enrichment program on critical data maps
     link: "/event/geographic-data-and-you-an-enrichment-course-for-high-school-students/"
