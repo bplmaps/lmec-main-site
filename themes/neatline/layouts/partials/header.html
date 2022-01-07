@@ -4,15 +4,15 @@
   {{ if site.Params.top_header }}
   <div class="top-header py-2 bg-white">
     <div class="container">
-      <div class="row no-gutters align-items-center">
-        <div class="col-lg-4 text-center text-lg-left">
+      <div class="row g-0 align-items-center">
+        <div class="col-lg-4 text-center text-lg-start">
           <ul class="list-inline">
             {{ range site.Params.social }}
             <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="{{ .link | safeURL }}" target="_blank"><i class="{{ .icon }}"></i></a></li>
             {{ end }}
           </ul>
         </div>
-        <div class="col-lg-8 text-center text-lg-right">
+        <div class="col-lg-8 text-center text-lg-end">
           {{ if site.Params.specialButton.enabled }}
           <a href="{{ site.Params.specialButton.link | relURL }}" class="btn btn-warning btn-xs mb-1"><i class="{{ site.Params.specialButton.icon }}"></i> {{ site.Params.specialButton.text }}</a>
           {{ end }} 
@@ -36,7 +36,7 @@
           <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse text-center" id="navigation">
+        <div class="collapse navbar-collapse text-end" id="navigation">
           <ul class="navbar-nav ml-auto">
             {{ range site.Menus.main }}
             {{ if .HasChildren }}
