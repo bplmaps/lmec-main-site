@@ -400,7 +400,8 @@ textarea.form-control {
 
 .frontpage-content .whats-new-badge {
   padding: 5px 8px;
-  border: 1px solid #054571; }
+  border: 1px solid #054571;
+  color: #1a1a37; }
 
 .frontpage-content .frontpage-audience-card li {
   line-height: 1.4; }
@@ -668,7 +669,7 @@ textarea.form-control {
 .donation-card p {
   font-size: 1.0em; }
 
-.badge-pill {
+.rounded-pill {
   font-family: hero-new, sans-serif;
   font-weight: 400;
   padding: 8px 15px;

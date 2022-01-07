@@ -348,8 +348,9 @@ textarea.form-control{
   .whats-new-badge {
     padding: 5px 8px;
     border: 1px solid $primary-color;
+    color: $secondary-color;
   }
-
+  
   .frontpage-audience-card {
 
     li {
@@ -757,7 +758,7 @@ p { font-size: 14px; line-height: 14px; }
   }
 }
 
-.badge-pill {
+.rounded-pill {
   font-family: $secondary-font;
   font-weight: 400;
   padding: 8px 15px;

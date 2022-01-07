@@ -8,7 +8,7 @@
   {{- if not (eq (len site.Taxonomies.tags) 0) }}
   
     {{- range .Params.tags }}
-    <span class="badge badge-pill badge-light">{{ . }}</span>
+    <span class="badge rounded-pill bg-light text-secondary mb-1">{{ . }}</span>
     {{- end }}
   {{- end }}
   {{- end }}
@@ -22,15 +22,19 @@
   {{ $otherArticles := where site.Pages "Type" "articles" }}
   {{ $otherArticles := $otherArticles | intersect ( where $otherArticles "Permalink" "!=" $thisArticle.Permalink ) | first 4 }}
   {{ range $otherArticles }}
-  <div class="media border-bottom border-color pb-3 mb-3">
-    <a href="{{ .Permalink }}"><img class="mr-3 post-thumb-sm" src="{{ .Params.Image | absURL }}"></a>
-    <div class="media-body">
+
+  <div class="d-flex mb-4">
+    <div class="flex-shrink-0">
+      <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" alt="Thumbnail image for event {{ .Title }}" class="post-thumb-sm"></a>
+    </div>
+    <div class="flex-grow-1 ms-3">
       <a href="{{ .Permalink }}">
         <h5 class="mt-0">{{ .Title }}</h5>
       </a>
       {{ .PublishDate.Format "Jan 2, 2006" }}
     </div>
   </div>
+
   {{ end }}
 </div>
   
