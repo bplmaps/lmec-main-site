@@ -49,7 +49,7 @@
 <section class="section bg-dark d-none p-4" id="livestream-section">
   <div class="container">
 
-    <div class="row" id="streaming-now-badge"><h2 class="mx-auto"><span class="badge badge-info"><i class="fas fa-video mr-2"></i>Streaming live now</span></h2></div>
+    <div class="row" id="streaming-now-badge"><h2 class="mx-auto"><span class="badge badge-info"><i class="fas fa-video me-2"></i>Streaming live now</span></h2></div>
     <div class="row">
       <div class="mx-auto" id="livestream-container"></div>
     </div>
@@ -122,7 +122,7 @@
             <div class="card-subtitle text-secondary pb-3">{{ .description }}</div>
             <ul class="p-0">
             {{ range .links }}
-              <li class="mx-0 my-2"><i class="fas fa-angle-right"></i> <a href="{{ .link }}" class="card-link font-secondary mr-4">  {{ .title | markdownify }}</a></li>
+              <li class="mx-0 my-2"><i class="fas fa-angle-right"></i> <a href="{{ .link }}" class="card-link font-secondary me-4">  {{ .title | markdownify }}</a></li>
             {{ end }}
           </ul>
           </div>
@@ -210,10 +210,10 @@ function submitFrontpageSearch(){
     <div class="row">
       <div class="col-12">
         <div class="d-flex align-items-center section-title justify-content-between">
-          <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.event.title }}</h2>
+          <h2 class="mb-0 text-nowrap me-3">{{ $data.homepage.event.title }}</h2>
           <div class="border-top w-100 border-primary d-none d-sm-block"></div>
           <div>
-            <a href="{{`event` | relURL }}" class="btn btn-sm btn-primary-outline ml-sm-3 d-none d-sm-block text-nowrap"><i class="fas fa-calendar-alt mr-2"></i> All events</a>
+            <a href="{{`event` | relURL }}" class="btn btn-sm btn-primary-outline ms-sm-3 d-none d-sm-block text-nowrap"><i class="fas fa-calendar-alt me-2"></i> All events</a>
           </div>
         </div>
       </div>
@@ -232,7 +232,7 @@ function submitFrontpageSearch(){
     <!-- mobile see all button -->
     <div class="row">
       <div class="col-12 text-center">
-        <a href="{{`event` | relURL }}" class="btn btn-md btn-primary-outline d-sm-none d-inline-block"><i class="fas fa-calendar-alt mr-2"></i> All events</a>
+        <a href="{{`event` | relURL }}" class="btn btn-md btn-primary-outline d-sm-none d-inline-block"><i class="fas fa-calendar-alt me-2"></i> All events</a>
       </div>
     </div>
   </div>
@@ -272,10 +272,10 @@ function submitFrontpageSearch(){
     <div class="row">
       <div class="col-12">
         <div class="d-flex align-items-center section-title justify-content-between">
-          <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.blog.title }}</h2>
+          <h2 class="mb-0 text-nowrap me-3">{{ $data.homepage.blog.title }}</h2>
           <div class="border-top w-100 border-primary d-none d-sm-block"></div>
           <div>
-            <a href="{{ `articles` | relURL }}" class="btn btn-sm btn-primary-outline ml-sm-3 d-none d-sm-block text-nowrap"><i class="far fa-newspaper mr-2"></i> All articles</a>
+            <a href="{{ `articles` | relURL }}" class="btn btn-sm btn-primary-outline ms-sm-3 d-none d-sm-block text-nowrap"><i class="far fa-newspaper me-2"></i> All articles</a>
           </div>
         </div>
       </div>
@@ -291,7 +291,7 @@ function submitFrontpageSearch(){
     <!-- mobile see all button -->
     <div class="row">
       <div class="col-12 text-center">
-        <a href="{{`articles` | relURL }}" class="btn btn-md btn-primary-outline d-sm-none d-inline-block"><i class="far fa-newspaper mr-2"></i> All articles</a>
+        <a href="{{`articles` | relURL }}" class="btn btn-md btn-primary-outline d-sm-none d-inline-block"><i class="far fa-newspaper me-2"></i> All articles</a>
       </div>
     </div>
   </div>

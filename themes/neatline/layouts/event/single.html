@@ -8,36 +8,36 @@
     <div class="row align-items-center mb-5">
       <div class="col-lg-9">
         <ul class="list-inline">
-          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+          <li class="list-inline-item me-xl-5 me-4 mb-3 mb-lg-0">
             <div class="d-flex align-items-center">
-              <i class="fas fa-map-pin text-muted icon-md mr-3"></i>
+              <i class="fas fa-map-pin text-muted icon-md me-3"></i>
               <div class="text-left">
                 <h6 class="mb-0">Location</h6>
                 <p class="mb-0">{{ .Params.Location | markdownify }}</p>
               </div>
             </div>
           </li>
-          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+          <li class="list-inline-item me-xl-5 me-4 mb-3 mb-lg-0">
             <div class="d-flex align-items-center">
-              <i class="fa fa-calendar-alt text-muted icon-md mr-3"></i>
+              <i class="fa fa-calendar-alt text-muted icon-md me-3"></i>
               <div class="text-left">
                 <h6 class="mb-0">Date</h6>
                 <p class="mb-0">{{ dateFormat "Jan 2, 2006" .Date.Local }}</p>
               </div>
             </div>
           </li>
-          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+          <li class="list-inline-item me-xl-5 me-4 mb-3 mb-lg-0">
             <div class="d-flex align-items-center">
-              <i class="fas fa-clock text-muted icon-md mr-3"></i>
+              <i class="fas fa-clock text-muted icon-md me-3"></i>
               <div class="text-left">
                 <h6 class="mb-0">Time</h6>
                 <p class="mb-0">{{ dateFormat "3:04 MST" .Date.Local }}</p>
               </div>
             </div>
           </li>
-          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+          <li class="list-inline-item me-xl-5 me-4 mb-3 mb-lg-0">
             <div class="d-flex align-items-center">
-              <i class="fas fa-wallet text-muted icon-md mr-3"></i>
+              <i class="fas fa-wallet text-muted icon-md me-3"></i>
               <div class="text-left">
                 <h6 class="mb-0">Cost</h6>
                 <p class="mb-0">{{ .Params.Fee | markdownify }}</p>
@@ -65,7 +65,7 @@
     <div class="row">
       <div class="col-12 content">
         {{ if lt .Date now }}
-        <div class="alert alert-warning"><div class="h4 font-secondary"><i class="fas fa-history mr-2"></i>Past event</div>This event has already taken place.</div>
+        <div class="alert alert-warning"><div class="h4 font-secondary"><i class="fas fa-history me-2"></i>Past event</div>This event has already taken place.</div>
         {{ end }}
         {{ .Content }}
         

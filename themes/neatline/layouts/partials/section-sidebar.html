@@ -6,17 +6,17 @@
     <h5 class="mb-3 section-toplevel-link"><a href="{{ .FirstSection.Permalink }}">{{ $section | upper }}</a></h5>
     <ul class="font-secondary text-secondary m-0 p-0">
     {{ range .FirstSection.Sections }}
-        <li class="mb-2">{{- if eq . $current -}}<i class="fas fa-arrow-right mr-1"></i>{{- end -}}  <a href="{{ .Permalink }}">{{ .Params.title | title }}</a></li>
+        <li class="mb-2">{{- if eq . $current -}}<i class="fas fa-arrow-right me-1"></i>{{- end -}}  <a href="{{ .Permalink }}">{{ .Params.title | title }}</a></li>
         {{ $subsection := . }}
         {{ range (where .Site.RegularPages.ByWeight "Section" $section ) }}
         {{ if and (.IsDescendant $subsection) (ne .Params.menu false) }}
-        <li class="subsection-page-list-item mb-2 ml-4">{{- if eq . $current -}}<i class="fas fa-arrow-right mr-1"></i>{{- end -}}  <a href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a></li>
+        <li class="subsection-page-list-item mb-2 ms-4">{{- if eq . $current -}}<i class="fas fa-arrow-right me-1"></i>{{- end -}}  <a href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a></li>
         {{ end }}
         {{ end }}
     {{ end }}
     {{ range (where .Site.RegularPages.ByWeight "Section" $section) }}
     {{ if and (ne .Params.menu false) (eq .Parent .FirstSection) }}
-    <li class="section-page-list-item mb-2">{{- if eq . $current -}}<i class="fas fa-arrow-right mr-1"></i>{{- end -}}  <a href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a></li>{{ end }}
+    <li class="section-page-list-item mb-2">{{- if eq . $current -}}<i class="fas fa-arrow-right me-1"></i>{{- end -}}  <a href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a></li>{{ end }}
 
     {{ end }}
     </ul>

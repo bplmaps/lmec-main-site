@@ -1,7 +1,7 @@
 <div class="alert {{ if .Get "type" }}alert-{{ .Get "type"}}{{ else }}alert-primary{{ end }}">
     
     {{ if .Get "title" }}
-    <div class="h4 font-secondary">{{ if .Get "icon" }}<i class="{{ .Get "icon" }} mr-1"></i>{{ end }}{{ .Get "title" }}</div>
+    <div class="h4 font-secondary">{{ if .Get "icon" }}<i class="{{ .Get "icon" }} me-1"></i>{{ end }}{{ .Get "title" }}</div>
     {{ end }}
     
     {{ .Inner | markdownify }}

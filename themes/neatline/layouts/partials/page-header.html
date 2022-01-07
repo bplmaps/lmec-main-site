@@ -7,7 +7,7 @@
 
         <h2 class="text-white animate__animated animate__fadeInDown">
 {{ .Title | markdownify }}</h2>
-        <p class="text-lighten animate__animated animate__fadeIn page-subheader">{{ if eq .Section "articles" }}<span class="badge badge-light font-secondary mr-3">Article</span>{{ else if eq .Section "event" }}<span class="badge badge-light font-secondary mr-3">Event</span>{{ else if eq .Section "store" }}<span class="badge badge-light font-secondary mr-3">Store</span>{{ end }}{{ .Params.Description | markdownify }}</p>
+        <p class="text-lighten animate__animated animate__fadeIn page-subheader">{{ if eq .Section "articles" }}<span class="badge badge-light font-secondary me-3">Article</span>{{ else if eq .Section "event" }}<span class="badge badge-light font-secondary me-3">Event</span>{{ else if eq .Section "store" }}<span class="badge badge-light font-secondary me-3">Store</span>{{ end }}{{ .Params.Description | markdownify }}</p>
       </div>
     </div>
   </div>
@@ -21,7 +21,7 @@
 
         <h2 class="text-white animate__animated animate__fadeInDown">
 {{ .Title }}</h2>
-<p class="text-lighten animate__animated animate__fadeIn page-subheader"><span class="badge badge-light font-secondary mr-3">Interactive</span></p>
+<p class="text-lighten animate__animated animate__fadeIn page-subheader"><span class="badge badge-light font-secondary me-3">Interactive</span></p>
 
       </div>
     </div>

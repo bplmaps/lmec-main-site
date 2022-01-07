@@ -8,7 +8,7 @@
     {{ with .Pages }}
     <ul class="font-secondary m-0 p-0">
     {{ range where . "Params.menu" "ne" false }}
-    <li class="mb-1"><i class="fas fa-caret-right mr-1"></i><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    <li class="mb-1"><i class="fas fa-caret-right me-1"></i><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ end }}
     </ul>
     {{ end }}

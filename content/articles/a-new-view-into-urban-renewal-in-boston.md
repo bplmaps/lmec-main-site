@@ -17,7 +17,7 @@ Probably no single organization in Boston's history is responsible for producing
 
 For all of those reasons and more, we’re very excited to announce the availability of 124 newly-digitized historic maps and plans from the [Boston Redevelopment Authority Collection](https://collections.leventhalmap.org/collections/commonwealth:7h14cv132). These materials, spanning from the 1920s to the early 1990s, offer an extraordinary look into the way that municipal planners shaped not only the physical form of the City of Boston, but also its social life, economic patterns, and community characteristics as well. As examples of the history of cartography, these maps document the emergence of social-scientific methods for mapping human geography in the middle twentieth century. As records of Boston's urban history, they show how some of the most influential projects in the city's modern development, like the construction of Government Center, came to be.
 
-<a class="btn btn-outline-primary btn-block" href="https://collections.leventhalmap.org/collections/commonwealth:7h14cv132"><i class="fas fa-eye mr-2"></i> Visit the BRA Collection</a>
+<a class="btn btn-outline-primary btn-block" href="https://collections.leventhalmap.org/collections/commonwealth:7h14cv132"><i class="fas fa-eye me-2"></i> Visit the BRA Collection</a>
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2f75r9222/full/,1200/0/default.jpg" caption="A [1959 plan](https://collections.leventhalmap.org/search/commonwealth:7h14cv71z) showing a vision for Government Center, which would become one of the most influential BRA-led projects and symbolized the height of urban renewal in Boston"  >}}
 

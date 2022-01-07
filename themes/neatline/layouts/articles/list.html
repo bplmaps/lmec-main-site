@@ -17,10 +17,10 @@
                 <!-- post meta -->
                 <ul class="list-inline mb-3">
                   <!-- post date -->
-                  <li class="list-inline-item mr-3 ml-0"><i class="ti-calendar"></i>
+                  <li class="list-inline-item me-3 ms-0"><i class="ti-calendar"></i>
                     {{ .PublishDate.Format "Jan 2, 2006" }}</li>
                   <!-- author -->
-                  <li class="list-inline-item mr-3 ml-0"><i class="ti-user"></i> <a
+                  <li class="list-inline-item me-3 ms-0"><i class="ti-user"></i> <a
                       href="{{ `author/` | relURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a>
                   </li>
                 </ul>

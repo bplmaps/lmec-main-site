@@ -6,7 +6,7 @@ description: Exhibitions at the Leventhal Center bring maps and geography to lif
 
 ---
 <p class="text-center">
-<a class="btn btn-primary btn-primary-outline mb-2" href="./visit"><i class="fas fa-walking mr-1"></i> Visit in Person</a> <a class="btn btn-primary btn-primary-outline mb-2" href="./digital-exhibitions"><i class="fas fa-desktop mr-1 "></i> Visit Online</a>
+<a class="btn btn-primary btn-primary-outline mb-2" href="./visit"><i class="fas fa-walking me-1"></i> Visit in Person</a> <a class="btn btn-primary btn-primary-outline mb-2" href="./digital-exhibitions"><i class="fas fa-desktop me-1 "></i> Visit Online</a>
 </p>
 
 
@@ -33,7 +33,7 @@ Because they seem to show the world how it “really is,” maps produce a power
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4638479/3319,2201,4840,3321/,800/0/default.jpg" caption="This [1926 map of Tokyo](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/2.2.1/) shows how statistics and demographic information can be portrayed in a cartographic representation." >}}
 
 <p class="text-center">
-<a class="btn btn-primary btn-primary-outline mb-2" href="./visit"><i class="fas fa-walking mr-1"></i> Visit in Person</a> <a class="btn btn-primary btn-primary-outline mb-2" href="./digital-exhibitions"><i class="fas fa-desktop mr-1 "></i> Visit Online</a>
+<a class="btn btn-primary btn-primary-outline mb-2" href="./visit"><i class="fas fa-walking me-1"></i> Visit in Person</a> <a class="btn btn-primary btn-primary-outline mb-2" href="./digital-exhibitions"><i class="fas fa-desktop me-1 "></i> Visit Online</a>
 </p>
 
 

@@ -8,7 +8,7 @@
         <div class="row">
           <div class="col-12 mb-5 content">
                       {{ with .Params.resourceURL }}
-            <a href="{{ . }}" target="_blank" class="btn btn-outline-primary mb-5"><i class="fas fa-external-link-square-alt mr-2"></i> Go to project </a>
+            <a href="{{ . }}" target="_blank" class="btn btn-outline-primary mb-5"><i class="fas fa-external-link-square-alt me-2"></i> Go to project </a>
             {{ end }}
 
 
@@ -44,7 +44,7 @@
 
   <div class="d-flex mb-4">
     <div class="flex-shrink-0">
-      <a href="{{ .Permalink }}"><img class="mr-3 post-thumb-sm" src="{{ .Params.cardImage | absURL }}"></a>
+      <a href="{{ .Permalink }}"><img class="me-3 post-thumb-sm" src="{{ .Params.cardImage | absURL }}"></a>
     </div>
     <div class="flex-grow-1 ms-3">
       <a href="{{ .Permalink }}">
