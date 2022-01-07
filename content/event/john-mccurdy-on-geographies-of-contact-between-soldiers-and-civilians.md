@@ -10,7 +10,6 @@ registration: https://www.eventbrite.com/e/john-mccurdy-on-geographies-of-contac
 tags:
 - American Revolutionary War Era
 - Seminar
-draft: true
 
 ---
 ### Learn about how the urban military spaces of colonial cities shaped the course of the Revolutionary War
