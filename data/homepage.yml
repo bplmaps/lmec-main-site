@@ -48,7 +48,8 @@ cta:
   enable: true
   announcements:
   - badge: Announcement
-    text: 'The Map Center gallery will be closed Friday, January 7th '
+    text: 'The Map Center gallery will be closed Friday, January 7th and Saturday,
+      January 8th '
     link: ''
   - badge: For high school students
     text: Sign up for our enrichment program on critical data maps
