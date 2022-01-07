@@ -6,7 +6,7 @@ image: "/uploads/2022-01-07/event.jpeg"
 backgroundImage: "/uploads/2022-01-07/event.jpeg"
 location: Online
 fee: Free
-registration: ''
+registration: https://www.eventbrite.com/e/john-mccurdy-on-geographies-of-contact-between-soldiers-and-civilians-tickets-241160977977
 tags:
 - American Revolutionary War Era
 - Seminar
