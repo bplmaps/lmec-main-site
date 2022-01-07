@@ -58,8 +58,8 @@ The Leventhal Map & Education Center is ranked among the top ten in the United S
 
 Our Annual Reports can be accessed through each link below. The Leventhal Center's fiscal year runs July 1 - June 30.
 
-[Fiscal Year 2021 Annual Report](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/ETtkr5Rt8XtDjooO9dcyWo4BeowleFw1JOwDJvGM_gV2sw?e=JBvl6B)
+[Fiscal Year 2021 Annual Report](https://s3.us-east-2.wasabisys.com/lmec-public-files/annual-reports/FY21_AnnualReport_spreads.pdf)
 
-[Fiscal Year 2020 Annual Report](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EZjOX6dmLl9Cgks_bVW_1HYB_TFNVzG35gesWfED1sjbgw?e=Lnq1ZP)
+[Fiscal Year 2020 Annual Report](https://s3.us-east-2.wasabisys.com/lmec-public-files/annual-reports/FY20%20Donor%20Report%20-%20for%20website%2001-2021.pdf)
 
-[Fiscal Year 2019 Annual Report](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EbC9vQfpE79DpshxYtXIJM0B54F6NDQNgLLaYhFYm3qD9A?e=M565zc)
+[Fiscal Year 2019 Annual Report](https://s3.us-east-2.wasabisys.com/lmec-public-files/annual-reports/FY19%20Annual%20Report.pdf)
