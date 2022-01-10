@@ -23,7 +23,7 @@ Let’s explore four early 20th century National Geographic maps in our digital 
 
 [**Birds Eye-View of the Panama Canal**](https://collections.leventhalmap.org/search/commonwealth:9s1619499) **(1912)**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s1619502/98,24,4531,2355/,1200/0/default.jpg" caption="" class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s1619502/98,24,4531,2355/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fn730/506,658,837,2772/,1200/0/default.jpg" caption="" class="figure-right" >}}
 
