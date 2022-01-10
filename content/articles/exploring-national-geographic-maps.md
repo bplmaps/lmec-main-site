@@ -25,8 +25,6 @@ Let’s explore four early 20th century National Geographic maps in our digital 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s1619502/98,24,4531,2355/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fn730/506,658,837,2772/,1200/0/default.jpg" caption="" class="figure-right" >}}
-
 This beautiful aerial view of the Panama Canal was a “supplement” to the National Geographic magazine in February of 1912. Two years before the Panama Canal opened, this image illustrated relevant canal engineering details, including locks, breakwater, and a spillway, as well as the Panama railroad. The Panama Canal created a passageway between the Atlantic and Pacific oceans, revolutionizing early 20th-century shipping and trade.
 
 [**Map of the races of Europe and adjoining portions of Asia and Africa**](https://collections.leventhalmap.org/search/commonwealth:4m90fn72q) **(1919)**
@@ -38,6 +36,8 @@ This map attempts to show the distribution of various "races" in Europe just aft
 The writing on the map itself shows even more detailed classifications: for example, people in northern and southern France are divided into “langue d’oui” and “langue d’oc,” respectively – with “d’oc” being “oui” or “yes” in the spoken language of Occitan, a form of medieval French spoken south of the Loire river.
 
 [**Map of China and its Territories**](https://collections.leventhalmap.org/search/commonwealth:x633f939c) **(1912)**
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n789k/115,112,4996,3791/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
 This 1912 National Geographic magazine Map of China was published at a significant turning point in Chinese history. On February 4, 1912, the last emperor of China abdicated the throne after thousands of years of imperial rule and China became a constitutional republic. National Geographic Magazine devoted its entire October 1912 issue to China , highlighting its geography as well as its artistic, cultural, and architectural feats, and offering Westerners insight into a world and territory previously somewhat unknown to them. This map was included with that issue as a special supplement and was based on the cartography of the British firm J.G. Bartholomew.
 
