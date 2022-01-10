@@ -29,6 +29,8 @@ This beautiful aerial view of the Panama Canal was a “supplement” to the Nat
 
 [**Map of the races of Europe and adjoining portions of Asia and Africa**](https://collections.leventhalmap.org/search/commonwealth:4m90fn72q) **(1919)**
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fn730/356,367,6627,5445/,1200/0/default.jpg" caption="" class="figure-center" >}}
+
 This map attempts to show the distribution of various "races" in Europe just after the end of World War I. At a time of shifting populations and changing boundaries, the mapmakers attempt to classify groups based on ethnicity and language. This is done at several levels: the colors of the legend indicate broader “racial” categories, such as “Greco-Latins,” which consists of smaller groups (Albanians, Greeks, Italians, French).
 
 The writing on the map itself shows even more detailed classifications: for example, people in northern and southern France are divided into “langue d’oui” and “langue d’oc,” respectively – with “d’oc” being “oui” or “yes” in the spoken language of Occitan, a form of medieval French spoken south of the Loire river.
