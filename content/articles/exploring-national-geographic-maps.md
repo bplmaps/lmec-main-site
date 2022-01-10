@@ -23,7 +23,7 @@ Let’s explore four early 20th century National Geographic maps in our digital 
 
 [**Birds Eye-View of the Panama Canal**](https://collections.leventhalmap.org/search/commonwealth:9s1619499) **(1912)**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s1619502/98,24,4531,2355/,1200/0/default.jpg" caption="" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s1619502/98,24,4531,2355/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
 This beautiful aerial view of the Panama Canal was a “supplement” to the National Geographic magazine in February of 1912. Two years before the Panama Canal opened, this image illustrated relevant canal engineering details, including locks, breakwater, and a spillway, as well as the Panama railroad. The Panama Canal created a passageway between the Atlantic and Pacific oceans, revolutionizing early 20th-century shipping and trade.
 
