@@ -6,7 +6,10 @@ description: In honor of the January 1888 birthday of the National Geographic So
   in our collection.
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s1619502/433,761,2809,1320/1200,/0/default.jpg
 author: Rachel Sharer
-tags: []
+tags:
+- "#nationalgeographic"
+- "#onthisday"
+- "#collections"
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s1619502/433,761,2809,1320/1200,/0/default.jpg
 draft: true
 
