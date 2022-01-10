@@ -43,4 +43,6 @@ This 1912 National Geographic magazine Map of China was published at a significa
 
 [**White Mountains Relief Map**](https://collections.leventhalmap.org/search/commonwealth:st74cw30q) **(1937)**
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw310/162,204,8918,7565/,1200/0/default.jpg" caption="" class="figure-center" >}}
+
 This map appeared in the July 1937 issue of National Geographic magazine. Appears as a tourist map, highlighting scenic landmarks and showing vignettes of outdoor activities to be enjoyed in all seasons. It also does an excellent job of depicting the topography, or physical relief, of the mountainous area using shading techniques and labeling mountain elevations.
