@@ -7,7 +7,7 @@ aliases:
 - research/research-fellows
 
 ---
-> We are a participating institution in the New England Regional Fellowship Consortium. To apply for a 2022-23 fellowship, [visit the NERFC site](https://www.masshist.org/fellowships/nerfc "NERFC Fellowship Application").
+{{< alert-box type="success" icon="fas fa-calendar" title="NERFC Research Fellowships" >}} We are a participating institution in the New England Regional Fellowship Consortium. To apply for a 2022-23 fellowship, [visit the NERFC site](https://www.masshist.org/fellowships/nerfc "NERFC Fellowship Application"). {{< /alert-box >}}
 
 ## Public Research Fellow Program
 
