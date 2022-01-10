@@ -25,7 +25,7 @@ Let’s explore four early 20th century National Geographic maps in our digital 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s1619502/98,24,4531,2355/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
-This beautiful aerial view of the Panama Canal was a “supplement” to the National Geographic magazine in February of 1912. Two years before the Panama Canal opened, this image illustrated relevant canal engineering details, including locks, breakwater, and a spillway, as well as the Panama railroad. The Panama Canal created a passageway between the Atlantic and Pacific oceans, revolutionizing early 20th-century shipping and trade.
+This beautiful aerial view of the Panama Canal was a “supplement” to the National Geographic magazine issue of February 1912. The Panama Canal created a passageway between the Atlantic and Pacific oceans, revolutionizing early 20th-century shipping and trade. Published two years before the Panama Canal was officially completed and opened, this map illustrated relevant canal engineering details, including locks, breakwater, and a spillway, as well as the Panama railroad running across in yellow. The funky black and white compass at the bottom adds to the uniqueness of this map. 
 
 [**Map of the races of Europe and adjoining portions of Asia and Africa**](https://collections.leventhalmap.org/search/commonwealth:4m90fn72q) **(1919)**
 
@@ -39,10 +39,10 @@ The writing on the map itself shows even more detailed classifications: for exam
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n789k/115,112,4996,3791/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
-This 1912 National Geographic magazine Map of China was published at a significant turning point in Chinese history. On February 4, 1912, the last emperor of China abdicated the throne after thousands of years of imperial rule and China became a constitutional republic. National Geographic Magazine devoted its entire October 1912 issue to China , highlighting its geography as well as its artistic, cultural, and architectural feats, and offering Westerners insight into a world and territory previously somewhat unknown to them. This map was included with that issue as a special supplement and was based on the cartography of the British firm J.G. Bartholomew.
+This 1912 National Geographic magazine Map of China was published at a significant turning point in Chinese history. On February 4, 1912, the last emperor of China abdicated the throne after thousands of years of imperial rule and China became a constitutional republic. National Geographic Magazine devoted its entire October 1912 issue to China , highlighting its geography as well as its artistic, cultural, and architectural feats, and offering Westerners insight into a world and territory previously somewhat unknown to them. This map was included with that issue as a special supplement and was based on the cartography of the British firm J.G. Bartholomew. It's packed full of information, including the names of regions and cities, the locations of major railways and sea ports, and even a Chinese etymology section on the bottom right.
 
 [**White Mountains Relief Map**](https://collections.leventhalmap.org/search/commonwealth:st74cw30q) **(1937)**
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw310/162,204,8918,7565/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
-This map appeared in the July 1937 issue of National Geographic magazine. Appears as a tourist map, highlighting scenic landmarks and showing vignettes of outdoor activities to be enjoyed in all seasons. It also does an excellent job of depicting the topography, or physical relief, of the mountainous area using shading techniques and labeling mountain elevations.
+This map appeared in the July 1937 issue of National Geographic magazine. Appears as a tourist map, highlighting scenic landmarks and showing vignettes of outdoor activities to be enjoyed in all seasons. The map itself marks foot trails, ski trails, highways, waterfalls, summits, and even landing fields for airplanes. It also does an excellent job of depicting the topography, or physical relief, of the mountainous area using shading techniques and labeling each and every mountain elevation.
