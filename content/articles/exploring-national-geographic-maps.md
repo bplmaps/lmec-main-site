@@ -1,5 +1,5 @@
 ---
-date: 2022-01-10T11:05:53-05:00
+date: 2022-01-13T00:00:00-05:00
 title: Exploring National Geographic Maps
 description: In honor of the January 1888 birthday of the National Geographic Society,
   we explore the history of its founding and some of the National Geographic maps
