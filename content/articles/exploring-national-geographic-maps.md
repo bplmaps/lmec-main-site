@@ -22,7 +22,7 @@ Maps, of course, have always been an indispensable part of National Geographic's
 
 Before including photographs, early publications of the Society included maps. The very first issue of the magazine in 1888 included a meteorological map depicting the severe “Great White Hurricane” blizzard. (You can see an image of this map, as well as read about other early National Geographic map, [in this article](https://www.nationalgeographic.com/adventure/article/map-of-the-day-cartography-vintage-archive-culture)). Today, National Geographic continues to push the boundaries of geography and mapmaking both on and beyond the surface of our globe, including [defining new oceans](https://www.nationalgeographic.com/environment/article/theres-a-new-ocean-now-can-you-name-all-five-southern-ocean) and [remapping the solar system.](https://nationalgeographicpartners.com/2021/09/national-geographic-remaps-solar-system-through-a-brand-new-digital-interactive-experience/)
 
-Let’s explore four early 20th century National Geographic maps in our digital collection, each of which display unique geographic features and lend significance to their historical time periods.
+Let’s explore four early 20th-century National Geographic maps in our digital collection, each of which display unique geographic features and lend significance to their historical time periods.
 
 [**Birds Eye-View of the Panama Canal**](https://collections.leventhalmap.org/search/commonwealth:9s1619499) **(1912)**
 
