@@ -7,6 +7,8 @@ aliases:
 - research/research-fellows
 
 ---
+> We are a participating institution in the New England Regional Fellowship Consortium. To apply for a 2022-23 fellowship, [visit the NERFC site](https://www.masshist.org/fellowships/nerfc "NERFC Fellowship Application").
+
 ## Public Research Fellow Program
 
 ### Environmental Justice in Boston and Beyond
