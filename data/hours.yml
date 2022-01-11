@@ -22,23 +22,39 @@ weekly:
 - day: Sunday
   special: Closed
 exceptions:
-- date: November 25, 2021
-  name: Thanksgiving
-  special: Closed
-- date: December 24, 2021
-  name: Christmas Eve
-  special: Closed
-- date: December 25, 2021
-  name: Christmas Day
-  special: Closed
-- date: December 31, 2021
-  name: New Year's Eve
-  open: 9 am
-  close: 1 pm
-  special: Closed
-- date: January 1, 2022
-  name: New Year's Day
-  special: Closed
 - date: January 17, 2022
   name: Martin Luther King Day
+  special: Closed
+- date: February 21, 2022
+  name: Presidents Day
+  special: Closed
+- date: April 18, 2022
+  name: Patriot's Day
+  special: Closed
+- date: May 30, 2022
+  name: Memorial Day
+  special: Closed
+- date: June 20, 2022
+  name: Juneteenth (observed)
+  special: Closed
+- date: July 4, 2022
+  name: Independence Day
+  special: Closed
+- date: September 5, 2022
+  name: Labor Day
+  special: Closed
+- date: October 10, 2022
+  name: Indigenous People's Day
+  special: Closed
+- date: November 11, 2022
+  name: Veterans Day
+  special: Closed
+- date: November 24, 2022
+  name: Thanksgiving
+  special: Closed
+- date: December 26, 2022
+  name: Christmas (observed)
+  special: Closed
+- date: January 2, 2023
+  name: New Year's Day (observed)
   special: Closed
