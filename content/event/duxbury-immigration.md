@@ -7,6 +7,8 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:gb19h9
 location: Online
 fee: Free
 registration: https://duxbury.assabetinteractive.com/calendar/immigration-on-the-south-shore-with-the-leventhal-map-center/
+tags:
+- Thinking Spatially
 
 ---
 ### Join us as we explore a history of immigration on the South Shore with the Duxbury Free Library
