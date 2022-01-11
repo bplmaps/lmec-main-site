@@ -11,6 +11,10 @@ tags:
 - Thinking Spatially
 
 ---
+### Event video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PsfCv4tTK04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Join us as we explore a history of immigration on the South Shore with the Duxbury Free Library
 
 #### About this event
@@ -18,7 +22,3 @@ tags:
 Join Assistant Curator Ian Spangler for a discussion about immigration on the South Shore with with our event partner, the Duxbury Free Library. We'll explore the historic collections of the [Leventhal Map & Education Center](https://www.leventhalmap.org/collections/) and the [Digital Commonwealth](https://www.digitalcommonwealth.org/) and also look at census data over time using resources from various cultural institutions around Boston and Massachusetts.
 
 This program will be on Zoom, but the event will also be streamed in the Setter Room at the Duxbury Free Library (77 Alden Street, Duxbury, MA, 02332).
-
-### Event video
-
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/PsfCv4tTK04](https://www.youtube.com/embed/PsfCv4tTK04 "https://www.youtube.com/embed/PsfCv4tTK04")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
