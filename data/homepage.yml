@@ -147,7 +147,7 @@ blog:
   title: Articles
 todaysHours: true
 upcomingLivestream:
-  enable: true
+  enable: false
   embedLink: <iframe width="560" height="315" src="https://www.youtube.com/embed/PsfCv4tTK04"
     title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
     encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
