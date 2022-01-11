@@ -19,6 +19,6 @@ Join Assistant Curator Ian Spangler for a discussion about immigration on the So
 
 This program will be on Zoom, but the event will also be streamed in the Setter Room at the Duxbury Free Library (77 Alden Street, Duxbury, MA, 02332).
 
-### Event video 
+### Event video
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/PsfCv4tTK04?start=380](https://www.youtube.com/embed/PsfCv4tTK04?start=380 "https://www.youtube.com/embed/PsfCv4tTK04?start=380")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/PsfCv4tTK04](https://www.youtube.com/embed/PsfCv4tTK04 "https://www.youtube.com/embed/PsfCv4tTK04")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
