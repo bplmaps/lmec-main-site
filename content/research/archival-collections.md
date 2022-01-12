@@ -16,7 +16,7 @@ The Applied Geographics, Inc. records consists of documents produced or held by 
 
 ### Auctioneer Plans Collection
 
-The auctioneer plans collections consists 
+Auctioneer plans advertise lots to be auctioned for sale, usually by cities or real estate companies. Some auctioneer plans are annotated with sale information.
 
 ### C.L. Berger & Sons Records
 
@@ -24,7 +24,7 @@ The C.L. Berger & Sons records consists of documents and objects produced by the
 
 ### Dana F. Perkins, Inc. Records
 
-The Dana F. Perkins, Inc. records consists of maps and survey plans of three surveying firms that were acquired by Dana F. Perkins, Inc., a civil engineering and land surveying firm in Massachusetts. The three companies are W.A. Mason & Son (1839-1949), the William H. Whitney Company (1860-1906), and the Fuller-Whitney Corporation (1880-1912). This collection includes surveys of lands in the Metropolitan Boston area, outlying towns in Massachusetts and New Hampshire, and the landmark ‘Back Bay Filling Project,’ 1882-1891.
+This collection includes documentation created by 3 Metropolitan Boston surveying companies giving a snapshot view of how their survey work was done from mid-19th century to mid-20th century (1839-1949). Maps, sketches, and drawings are represented from the W.A. Mason & Sons surveying company (1839-1947), the William H. Whitney surveying company (1886-1906), and the Fuller-Whitney Corporation (1882-1891). The materials include surveys of lands in the Metropolitan Boston area, outlying towns in Massachusetts and New Hampshire and the landmark ‘Back Bay Filling Project,’ 1882-1891.
 
 ### Annie Olmstead Peet Papers
 
@@ -35,3 +35,5 @@ The Annie Olmstead Peet papers consists of manuscript, pre-production and publis
 The John Roman papers consist of pictorial maps produced from 1984-2012 by John Roman (1950-), an American map illustrator, author, and college art professor. The collection comprises 54 items representing 30 pictorial map commissions of Roman’s illustration studio in Scituate, Massachusetts. It includes original hand-drawn ink illustrations colored with watercolor, either directly on the illustration or incorporated into the black and white map digitally; sketches; published maps; photos of installations; and magazines, booklets, posters and brochures in which the maps were published. Maps were commissioned for education, advertisements, and to illustrate articles, and depict nature trails, college campuses, tourist destinations, and cities. <a href="https://archives.bpl.org/repositories/2/resources/144" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to finding aid</a>
 
 ### Robert Severy Collection
+
+This collection comprises over 600 surveys from mid-19th to mid-20th century for towns across Massachusetts, with a handful covering other New England towns. The most represented surveyors are Robert Bayard Bellamy (1879-1962) and Frederic Endicott (1839-1918).
