@@ -1,5 +1,5 @@
 +++
-description = "Gallery Attendant and Public Engagement Coordinator"
+description = "Public Engagement Coordinator"
 headshot = "/uploads/2021-08-22/img_0103.jpeg"
 menu = false
 staff_category = "staff"
