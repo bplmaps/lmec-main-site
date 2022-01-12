@@ -18,11 +18,11 @@ City atlases published for the fire insurance and real estate industries in the 
 
 ### Administrative Boundaries of Boston and Massachusetts
 
-This guide lists resources for researching boundaries of wards, cities, counties, and other administrative or legislative divisions. <a href="[https://guides.bpl.org/boston-mass-boundaries](https://guides.bpl.org/boston-mass-boundaries "https://guides.bpl.org/boston-mass-boundaries")" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to guide</a>
+This guide lists resources for researching boundaries of wards, cities, counties, and other administrative or legislative divisions. <a href="https://guides.bpl.org/boston-mass-boundaries" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to guide</a>
 
 ### Boston Urban Planning
 
-This guide covers maps and urban planning resources of Boston and Massachusetts towns at the Boston Public Library. There is also a brief list of other institutions with Boston and Massachusetts urban planning materials. <a href="[https://guides.bpl.org/urban-planning](https://guides.bpl.org/urban-planning "https://guides.bpl.org/urban-planning")" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to guide</a>
+This guide covers maps and urban planning resources of Boston and Massachusetts towns at the Boston Public Library. There is also a brief list of other institutions with Boston and Massachusetts urban planning materials. <a href="https://guides.bpl.org/urban-planning" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to guide</a>
 
 ### Topographic Maps from the U.S. Geological Survey
 
