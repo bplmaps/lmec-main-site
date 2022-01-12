@@ -1,5 +1,5 @@
 ---
-date: 2022-01-13T00:00:00-05:00
+date: 2022-01-13T00:00:00.000-05:00
 title: Exploring National Geographic Maps
 description: In honor of the January 1888 birthday of the National Geographic Society,
   we explore the history of its founding and some of the National Geographic maps
@@ -42,7 +42,7 @@ The writing on the map itself shows even more detailed classifications: for exam
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n789k/115,112,4996,3791/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
-This 1912 National Geographic Magazine Map of China was published at a significant turning point in Chinese history. On February 4, 1912, the last emperor of China abdicated the throne after thousands of years of imperial rule and China became a constitutional republic. National Geographic Magazine devoted its entire October 1912 issue to China, highlighting its geography as well as its artistic, cultural, and architectural feats, and offering Westerners insight into a world and territory previously somewhat unknown to them. This map was included with that issue as a special supplement and pulls from the cartography of British firm J.G. Bartholomew. It is packed full of information, including the names of regions and cities, the locations of major railways and sea ports, and even a Chinese etymology section on the bottom right.
+This 1912 National Geographic Magazine Map of China was published at a significant turning point in Chinese history. On February 4, 1912, the last emperor of China abdicated the throne after thousands of years of imperial rule and China became a constitutional republic. National Geographic Magazine devoted its entire October 1912 issue to China, highlighting its geography as well as its artistic, cultural, and architectural feats, and offering Westerners insight into a world and territory previously somewhat unknown to them. This map was included with that issue as a special supplement and pulls from the cartography of Edinburgh-based cartographer [J.G. Bartholomew and his Edinburgh Geographical Institute](https://www.johnbartholomew.com/john_george_bartholomew.html). It is packed full of information, including the names of regions and cities, the locations of major railways and sea ports, and even a Chinese etymology guide on the bottom right.
 
 [**White Mountains Relief Map**](https://collections.leventhalmap.org/search/commonwealth:st74cw30q) **(1937)**
 
