@@ -11,7 +11,6 @@ tags:
 - On this day
 - Collections
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s1619502/433,761,2809,1320/1200,/0/default.jpg
-draft: true
 
 ---
 On January 13, 1888, a group of 33 men came together in Washington D.C. and decided to found a society with a mission “to increase and diffuse geographic knowledge.” The Society consisted of explorers, scholars, scientists, and cartographers, as well as lawyers and businessmen, who all shared an interest in geographic learning and lived at a time of incredible global exploration, discovery, and technological change. On January 27, a certificate of incorporation was signed, bringing the small elite society into existence and kicking off an era of geographic research. Today, [National Geographic](https://www.nationalgeographic.com/) is one of the largest educational organizations in the world. It is known not only for its geographic writings, but for its stunning photojournalism, environmental and archaeological conservation efforts, scientific research expeditions, and multimedia productions.
