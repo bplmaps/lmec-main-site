@@ -1,7 +1,7 @@
 ---
 title: Archival Collections
 backgroundImage: ''
-description: Information on our archival collections
+description: ''
 weight: ''
 draft: true
 
