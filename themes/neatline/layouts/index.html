@@ -94,9 +94,19 @@
           {{ end }}
           
           {{ if $data.homepage.todaysHours }}
+          {{ $exception := false }}
+          {{ $todaysDate := now.Format "January 2, 2006"}}
 
+          {{ range where $.Site.Data.hours.exceptions "date" $todaysDate }}
+            <li class="mb-3"><span class="badge bg-light font-secondary whats-new-badge">Today’s hours</span> {{ $todaysDate }} · <strong>{{ .special }}</strong> ({{ .name }}) · <a href="./about/hours-directions">More hours</a></li>
+          {{ $exception = true }}
+          {{ end }}
+
+          {{ if not $exception }}
           {{ $today := now.Format "Monday"}}
-          <li class="mb-3"><span class="badge bg-light font-secondary  whats-new-badge">Today’s hours</span> {{ $today }} {{ range $.Site.Data.hours.weekly }} {{ if eq .day $today }}{{ if .special }}{{ .special }}{{ else }}{{ .open }} – {{.close }}{{ end }} {{ end }}{{ end }} · <a href="./about/hours-directions">More hours</a></li>
+          <li class="mb-3"><span class="badge bg-light font-secondary  whats-new-badge">Today’s hours</span> {{ $today }} {{ range where $.Site.Data.hours.weekly "day" $today }} {{ if .special }}{{ .special }}{{ else }}{{ .open }} – {{.close }}{{ end }} {{ end }} · <a href="./about/hours-directions">More hours</a></li>
+          
+          {{ end }}
           {{ end }}
         </ul>
       </div>
