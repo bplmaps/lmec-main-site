@@ -2,21 +2,34 @@
 title: An interview with Scott Markley
 author: Ian Spangler & Scott Markley
 draft: true
-description: Welcome to our new Assistant Curator for Digital and Participatory Geography!
+description: We spoke to geographer Scott Markley about his new dataset on redlining maps
 date: 2021-11-03T01:30:00.000+00:00
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n1743/661,702,8449,4015/full/0/default.jpg
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n1743/661,702,8449,4015/full/0/default.jpg
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x54w/63,5464,14311,5904/full/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x54w/63,5464,14311,5904/full/0/default.jpg
 tags:
-- interview
-- announcement
-- staff
+- HOLC maps
+- redlining
 - GIS
 
 ---
 
 > This article is a part of the **Get to Know Your Data** series, where we talk to the people and institutions that create, store, and share geospatial data. In this series, we ask about how data managers engage with public audiences and grapple with the social lives of the data that they manage.
 
-**Ian Spangler**: I would love to to kick this interview off by just having you tell us a little bit about yourself. What brought you into the world of maps and geography, and in particular, the data set that will be talking about today?
+### About HOLC Maps
+
+At the Leventhal Map & Education Center, we've always been fascinated by Homeowners Loan Corporation (HOLC) maps, more commonly known as "redlining" maps. We've [written about them](https://www.dissentmagazine.org/online_articles/redlining-race-and-the-color-of-money), we've [taught about them](https://collections.leventhalmap.org/educators/curriculum-materials/133), and we even have a [dedicated collection for them](https://collections.leventhalmap.org/collections/commonwealth:00000x35p).
+
+The HOLC was established in 1933 to provide mortgage assistance to homeowners or would-be homeowners through loans or refinancing mortgages. To determine where to make loans, HOLC evaluated areas based on multiple factors, the most impactful of which were the racial and ethnic identity and class of residents. Areas with African Americans, immigrants, and working-class whites were judged as having lower economic value and less safe to invest in. Of particular interest are the area description sheets
+
+Through their *[Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)* project, the University of Richmond's Digital Scholarship Lab (DSL) has . We sat down to talk with geographer Scott Markley, who parsed data the DSL's publicly available data and created a dataset which unlocks 
+
+### The Dataset
+
+### Interview
+
+*The text of this interview was edited for length and clarity.*
+
+**Ian Spangler**: I would love to to kick this off by just having you tell us a little bit about yourself. What brought you into the world of maps and geography, and in particular, the dataset that will be talking about today?
 
 **Scott Markley**: Okay. I think I'm probably a rare breed of someone who was a geography major as an undergrad, and the reason why was, I didn't know what I wanted to do in college. I took a geography class and I really enjoyed it, so I signed up for that, and in doing  what is required for the major I started taking geographic information systems (GIS) courses, like many of us do. I had never heard of GIS, and I really enjoyed that as well.
 
