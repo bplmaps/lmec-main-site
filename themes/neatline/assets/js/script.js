@@ -78,21 +78,12 @@
         // console.log("testing new hover", $(this ).attr('href'))
         $("<div id='popup-{{ $unique_id }}' class='iiif-popup'><img src='" + $(this).attr('href') + "' alt='url preview' />" + "</div>").appendTo($(this).parent());
         $(".iiif-popup")
-          // .css("top", (
-          //   if (e.pageY - xOffset > ) {
-
-          //   } else {
-
-          //   };
-          // ) + "px")
-          .css("top", (event.pageY - xOffset) + "px")
-          .css("left", (event.pageX - yOffset) + "px")
-          // .css("top", (event.pageY) + "px")
-          // .css("left", (event.pageX) + "px")
+          .css("top", (e.pageY - xOffset) + "px")
+          .css("left", (e.pageX - yOffset) + "px")
           .fadeIn("fast");
       },
       function() {
-        $(".iiif-popup").remove();
+        // $(".iiif-popup").remove();
       });
       $("span.popupTooltip").mousemove(function(e) {
         $(".iiif-popup")
