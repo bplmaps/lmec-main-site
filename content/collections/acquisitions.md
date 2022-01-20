@@ -1,14 +1,12 @@
 ---
 title: Acquisitions
-# page title background image
-cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765932/1197,2952,7553,3500/1800,/0/default.jpg"
-backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765932/1197,2952,7553,3136/1800,/0/default.jpg"
-# about image
-# meta description
-description : "The latest material to enter our collections, and information on our collection development areas"
-weight: 3
----
+cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765932/1197,2952,7553,3500/1800,/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765932/1197,2952,7553,3136/1800,/0/default.jpg
+description: The latest material to enter our collections, and information on our
+  collection development areas
+weight: "4"
 
+---
 ## Newly acquired objects 
 
 This database lists the objects most recently added to our collections. For more information about an object, click the "Catalog Record" button. This table may not show the fully authoritative bibliographic information for items, and may include items which are still being processed and not yet available to patrons. The images in this database are for identifying purposes only, and do not represent the archival-quality images in our [Digital Collections](/collections/digital-collections).
