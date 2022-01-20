@@ -1,27 +1,24 @@
 ---
 title: Searching the Collections
-# page title background image
-cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n782n/416,1060,6719,3000/1800,/0/default.jpg"
-backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n782n/416,1060,6719,2819/1800,/0/default.jpg"
-# about image
-# meta description
-description : "How to find what we have using our catalogs and digital repositories"
-weight: 2
+cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n782n/416,1060,6719,3000/1800,/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n782n/416,1060,6719,2819/1800,/0/default.jpg
+description: How to find what we have using our catalogs and digital repositories
+weight: "3"
 quicklinks:
-  - text: "Search the catalog for objects in the Map Center collections"
-    link: "#bibliocommons-search-entry"
-    linkType: jump
-  - text: "Search the digital collections for objects available online"
-    link: "#search-digital-collections"
-    linkType: jump
-  - text: "Get help finding objects by contacting a reference librarian"
-    link: "research/appointments"
-    linkType: onsite
-  - text: "Browse finding aids and other guides to the collections"
-    link: "research/guides"
-    linkType: onsite
----
+- text: Search the catalog for objects in the Map Center collections
+  link: "#bibliocommons-search-entry"
+  linkType: jump
+- text: Search the digital collections for objects available online
+  link: "#search-digital-collections"
+  linkType: jump
+- text: Get help finding objects by contacting a reference librarian
+  link: research/appointments
+  linkType: onsite
+- text: Browse finding aids and other guides to the collections
+  link: research/guides
+  linkType: onsite
 
+---
 ## Catalog search
 
 Our holdings are cataloged in the BPL's online search portal, Bibliocommons. You can enter an advanced search in the [Bibliocommons search interface](https://bpl.bibliocommons.com/search), but your result may return many non-LMEC objects such as downloadable audiobooks. 
