@@ -794,16 +794,16 @@ div.iiif-popup {
   position:absolute; 
   background:#1a1a37; 
   padding:5px; color:#1a1a37; 
-  max-height:510px; 
-  max-width:510px; 
+  max-height:410px; 
+  max-width:410px; 
   display:none;
 }
 
 div.iiif-popup {
   img {
     border:none; 
-    max-width:500px; 
-    max-height:500px; 
+    max-width:400px; 
+    max-height:400px; 
   }
 }
 

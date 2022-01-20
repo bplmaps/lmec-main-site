@@ -72,8 +72,8 @@
 
   // Image Popup
   $(document).ready(function () {
-    let xOffset = 490;
-    let yOffset = -500;
+    let xOffset = 100;
+    let yOffset = -20;
     $("span.popupTooltip").hover(function(e) {
         // console.log("testing new hover", $(this ).attr('href'))
         $("<div id='popup-{{ $unique_id }}' class='iiif-popup'><img src='" + $(this).attr('href') + "' alt='url preview' />" + "</div>").appendTo($(this).parent());
@@ -83,12 +83,12 @@
           .fadeIn("fast");
       },
       function() {
-        // $(".iiif-popup").remove();
+        $(".iiif-popup").remove();
       });
       $("span.popupTooltip").mousemove(function(e) {
         $(".iiif-popup")
           .css("top", (e.pageY - xOffset) + "px")
-          .css("left", (e.pageX + yOffset) + "px");
+          .css("left", (e.pageX - yOffset) + "px");
       });
   });
 
