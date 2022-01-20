@@ -2,8 +2,8 @@
 publishDate: 2022-01-20T16:43:02-05:00
 title: Redistricting Roundtable
 date: 2022-02-16T15:30:00-05:00
-image: "/uploads/2022-01-20/commonwealth_js956j32c_accessfull.jpg"
-backgroundImage: "/uploads/2022-01-20/commonwealth_js956j32c_accessfull.jpg"
+image: "/uploads/2022-01-20/redistricting.jpeg"
+backgroundImage: "/uploads/2022-01-20/redistricting.jpeg"
 location: Online
 fee: Free
 registration: https://www.eventbrite.com/e/redistricting-roundtable-tickets-252359362647
