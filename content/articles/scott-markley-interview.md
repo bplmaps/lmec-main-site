@@ -14,7 +14,7 @@ tags:
 
 ---
 
-> This article is a part of the **Get to Know Your Data** series, where we talk to the people and institutions that create, store, and share geospatial data. In this series, we ask about the creation of redlining maps, and what those maps fail to tell us about race and space in US cities.
+> This article is a part of the **Get to Know Your Data** series, where we talk to the people and institutions that create, store, and share geospatial data. In this installment, we ask about the creation of redlining maps, and what those maps fail to tell us about race and space in US cities.
 
 ### About Redlining Maps
 
