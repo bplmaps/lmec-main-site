@@ -22,14 +22,11 @@ weekly:
 - day: Sunday
   special: Closed
 exceptions:
-- date: January 17, 2022
-  name: Martin Luther King Day
-  special: Closed
 - date: February 21, 2022
   name: Presidents Day
   special: Closed
 - date: April 18, 2022
-  name: Patriot's Day
+  name: Patriots' Day
   special: Closed
 - date: May 30, 2022
   name: Memorial Day
