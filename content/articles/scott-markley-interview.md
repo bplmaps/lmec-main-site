@@ -2,9 +2,10 @@
 title: >
     Reporting on redlining: an interview with Scott Markley
 author: Ian Spangler and Scott Markley
-draft: true
+draft: false
 description: How can we make historic data about segregation, redlining, and real estate more useful and accessible? In this Get to Know Your Data interview, we dive into a new data set derived from HOLC maps.
-date: 2022-01-20T01:30:00.000+00:00
+date: 2022-01-23T01:30:00.000+00:00
+publishDate: 2022-01-23T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x54w/63,5464,14311,5904/1200,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x54w/63,5464,14311,5904/1200,/0/default.jpg
 tags:
@@ -47,6 +48,9 @@ We sat down to talk with geographer **Scott Markley**, who created a user-friend
 
 I converted eight of the most consequential variables from 129 cities into an accessible and analyzable tabular format. These include the Black population percentage, “foreign-born” population percentage and group, family income, occupation class, average building age, home repair status, and mortgage availability.
 
+{{< figure src="/images/blog/qual_charts.png" caption="Bar graph analyzing neighborhood grades by area description variables from redlining maps. Courtesy of [Scott Markley](https://osf.io/yzfg9/)." class="figure-center" >}}
+
+
 **IS**: What made you interested in HOLC maps, redlining, and working with those in a geographic information system (GIS)?
 
 **SM**: As a geographer, a lot of my interests are about integrating GIS and spatial analysis with critiques of racial capitalism. That was really my interest coming into grad school, and GIS was kind of a secondary thing. I think what brought me to maps, really, was teaching about the legacies of racism, how they shape these geographies of segregation, and what that means for how we think about racial wealth inequality.
@@ -68,11 +72,17 @@ There's a ton of useful data at that website that dovetail nicely with my doctor
  
 Around this time (the 1930s), you've got a revolution in how appraisal values of homes were being carried out, with a growing emphasis placed on more “scientific” approaches. Relatedly, government agencies and the private sector were collaborating to better incorporate data analytics into how they made their financial decisions. All these forces come together---the HOLC’s previously established contacts in the cities, people who work in the real estate and lending industries, local understandings of where money can be made and property should be purchased or sold---these forces come together to create these elaborate maps with detailed notes all about, essentially, where they think profitable investments can be made. With these maps and notes, you've got this powerful visual representation tied to incredibly detailed quantitative and qualitative information about urban neighborhoods that vividly depicts the governing ideology of the real estate industry of the time, and how they think about the temporal geographies of value.
 
-**IS**: You're saying that we can look back on these maps from the 1930's, and get a glimpse in time, both of how these representatives of the real estate industry or the state saw space, but also how they envisioned it would be in the future.
+**IS**: You're saying that we can look back on these maps from the 1930's, and get a glimpse in time---both of how real estate industry representatives and federal agencies saw space, but also how they envisioned it would be in the future.
+
+<aside>
+
+... the dataset provides an opportunity to break down the neighborhood grades altogether.
+
+</aside>
 
 **SM**: Yeah. That's the thing I think is missed a lot. People think of HOLC maps as this sort of static spatial representation, but they're as much indicators of *space in time*. The grades themselves are informed by this idea that neighborhoods are inevitably going to deteriorate---that's sort of the [dominant theory of the day](https://www.bloomberg.com/news/articles/2017-02-16/why-we-talk-about-urban-blight)---and so these maps also arrange city space by time. The C grade is called "Definitely declining," so it's projecting further decline through time, whereas B neighborhoods are called "Still desirable," which also refers to time. Redlined areas represent many older parts of the city thought to have already done their declining. But there's also an important racial component to this conception of time; if black folks were moving into a white neighborhood, it would be considered by neighborhood appraisers as "in decline" because black residential presence was thought to speed up the neighborhood aging process, so to speak.
 
-**IS**: Redlining maps have been catapulted into the public consciousness in recent years, largely through the *Mapping Inequality* project. Most commonly, they're used to demonstrate the histories and geographies of racial discrimination in US cities. As you've alluded to, there were lots of interlocking factors impacting why a neighborhood was graded a D. Your dataset starts to help us visualize the relationships between variables like race, class, housing structure and building age. How does this perspective give us a better understanding of how those decisions were being made by HOLC, and what their implications are today?
+**IS**: Redlining maps have been catapulted into the public consciousness in recent years, largely through the *Mapping Inequality* project. Most commonly, they're used to demonstrate the histories and geographies of racial discrimination in US cities. As you've alluded to, there were lots of interlocking factors impacting why a neighborhood was graded a D, or redlined. Your dataset starts to help us visualize the relationships between variables like race, class, housing structure and building age. How does this perspective give us a better understanding of how those decisions were being made by HOLC, and what their implications are today?
 
 **SM**: You could, for example, run a regression to get an idea of which variables---race, nationality, building age, family income, occupational class, repair status, and so on--- contributed to the neighborhood grade assignment in different regions. That's one way you could think about it. Perhaps more interestingly, for me, the dataset provides an opportunity to break down the neighborhood grades altogether. With HOLC maps and redlining, so much attention is just given to the A through D grades, but there's a lot of intra-grade variability.
  
@@ -86,7 +96,7 @@ For example, I think there might be a categorical difference between redlined ar
  
 So you bring that GeoJSON into a GIS, but it's all globbed up: the area descriptions are in one single cell. You can imagine bringing that into Excel and having one cell with all of the text in an area description sheet squeezed together inside. Not very useful.
  
-But studying that, you can see patterns. You can see, for example, they have description sheet numbers: 1A, 1B, 2A, 2B, 2C, and those are associated with different variables. So you can see, when you bring it into R, for example, that you've got those numbers, a colon, and then the text that corresponds with what's on the sheet. Really what you need is just to identify what variable those numbers represent, like, foreign-born or Black population, or income, or whatever they're associated with. Then, you can separate those out into different columns. For the technical people, I used R, and relied primarily on the [stringr package](https://stringr.tidyverse.org/), which is part of Tidyverse.
+But studying that, you can see patterns. The records have description sheet numbers: 1A, 1B, 2A, 2B, 2C, and those are associated with different variables. You can see---when you bring it into R, for example---that you've got those numbers, a colon, and then the text that corresponds with what's on the scanned sheet. Really what you need is just to identify what variable those numbers represent, like, foreign-born or Black population, or income, or whatever they're associated with. Then, you can separate those out into different columns. For the technical people, I used [R](https://www.r-project.org/), and relied primarily on the [stringr package](https://stringr.tidyverse.org/), which is part of Tidyverse.
 
 {{< figure src="/images/blog/dsl-vs-scott.png" caption="A comparison of QGIS attribute tables between DSL's one-field area description sheets (*left*) and Scott's tabulated dataset (*right*)." class="figure-center" >}}
 
@@ -101,16 +111,22 @@ After that, it was a matter of cleaning up the form. The actual field agents who
 {{< figure src="/images/blog/charts.png" caption="Bar graphs analyzing neighborhood grades by area description variables from redlining maps. Courtesy of [Scott Markley](https://osf.io/yzfg9/)." class="figure-center" >}}
 
 When I get into some of the other variables like income and age of buildings, they're also all over the place. In some cases, the sheets asked for "average" and the field agent just put a single number: "average age is 20 years old." Others would do a range: "Oh, between 1 and 100 years old." The same goes for income. Some people make $2,000 a year, some people make $10,000 a year so what I had to do was simply just take the midpoint of these values since there’s not usually information on distribution. In the case of income, almost a quarter of field agents didn't put any income because of the sheet formatting, so I had to impute those missing values using other variables.
- 
+
 I mean, this is the same with all data. I think a good lesson is in data processing, there's a million little decisions that I make, and if it was someone else they might make them differently. Or if I had revisited this six months after I did it and I was in a different mood, I might have made a different decision!
- 
+
+<aside>
+
+... there's a million little decisions that I make, and if it was someone else they might make them differently.
+
+</aside>
+
 That said, I think overall you can still use the data to get at some interesting questions---but there's always that giant grain of salt.
 
 **IS**: Is there anything, whether during the data creation process or afterwards, that struck you as particularly surprising or unexpected?
 
-{{< figure src="https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/3028/default.jpg" caption="HOLC map of Milwaukee Co., courtesy of [University of Milwaukee-Wisconsin Libraries](https://collections.lib.uwm.edu/digital/collection/agdm/id/3028/)." class="figure-left" >}}
-
 **SM**: What's gotten my interest now is breaking up the HOLC grades by racial composition. A lot of times when you look at these neighborhoods in the 1930s, you can look forward and say, "Okay, the Black population in redlined areas is higher than yellow which is higher than blue, which is higher than green," and so on. But if you break that down, you'll see that the postwar Black population increase in many places was  not actually in redlined areas *as a whole*, but in redlined areas that *already had Black residents*. For example, a lot of people forget that these maps are drawn in northern cities before the bulk of the Great Migration. Milwaukee is one city I've looked at in particular. There were only one or two neighborhoods in the entire city that had any Black population at all in the 1930s according to the description sheets---the vast majority of the Black population in Milwaukee arrived after World War Two. So where did Black residents move within the city when they moved to Milwaukee then? Primarily not redlined areas as a whole, as some have suggested, but the specific redlined areas that already had Black residents, as well as their adjacent neighborhoods.
+
+{{< figure src="https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/3028/default.jpg" caption="HOLC map of Milwaukee Co., courtesy of [University of Milwaukee-Wisconsin Libraries](https://collections.lib.uwm.edu/digital/collection/agdm/id/3028/)." class="figure-left" >}}
  
 So one story these description sheet data can help tell is that it's primarily in redlined areas that *already had a Black population* where you'll find an increase in the Black population during the Second Great Migration. Just looking at those four grades misses that and probably a lot of other things as well.
 
@@ -118,4 +134,8 @@ So one story these description sheet data can help tell is that it's primarily i
 
 **SM**: In the immediate term, this data can be used by researchers or in classrooms---anyone that's looking into the HOLC maps or has an interest in them. These data can also potentially be used to supplement other historical datasets. I've talked to some classes at the University of Georgia about using this data, and the upcoming workshop at the LMEC will be a good example of using it too.
 
-> See more about Scott's work at his [website](https://snmarkley1.github.io/), and check out a preprint of his forthcoming paper [here](https://osf.io/preprints/socarxiv/dktah/).
+<br></br>
+
+> *Want to learn more about how you can use this dataset? **Stay tuned for an upcoming workshop**, hosted by Ian and Scott, where they take a deep dive into the dataset, and show you how to work with it in a GIS!*
+>
+>*Read more about Scott's work at his [website](https://snmarkley1.github.io/), and check out a preprint of his forthcoming paper [here](https://osf.io/preprints/socarxiv/dktah/)*.
