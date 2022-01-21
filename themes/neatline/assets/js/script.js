@@ -75,7 +75,6 @@
     let xOffset = 100;
     let yOffset = -20;
     $("span.popupTooltip").hover(function(e) {
-        // console.log("testing new hover", $(this ).attr('href'))
         $("<div id='popup-{{ $unique_id }}' class='iiif-popup'><img src='" + $(this).attr('href') + "' alt='url preview' />" + "</div>").appendTo($(this).parent());
         $(".iiif-popup")
           .css("top", (e.pageY - xOffset) + "px")
