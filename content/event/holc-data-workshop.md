@@ -1,6 +1,7 @@
 ---
 title: > 
     Get To Know Your Data Workshops: Reporting on Redlining
+draft: true
 date: 2022-01-23T01:30:00.000+00:00
 publishDate: 2022-01-23T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x54w/63,5464,14311,5904/1200,/0/default.jpg
