@@ -1,33 +1,41 @@
 ---
-title: An interview with Scott Markley
-author: Ian Spangler & Scott Markley
+title: >
+    Reporting on redlining: an interview with Scott Markley
+author: Ian Spangler and Scott Markley
 draft: true
-description: We spoke to geographer Scott Markley about his new dataset on redlining maps
+description: How can we make historic data about segregation, redlining, and real estate more useful and accessible? In this Get to Know Your Data interview, we dive into a new data set derived from HOLC maps.
 date: 2022-01-20T01:30:00.000+00:00
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x54w/63,5464,14311,5904/full/0/default.jpg
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x54w/63,5464,14311,5904/full/0/default.jpg
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x54w/63,5464,14311,5904/1200,/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x54w/63,5464,14311,5904/1200,/0/default.jpg
 tags:
 - HOLC maps
 - redlining
 - GIS
-- Get to know your data
+- Get to Know Your Data
 
 ---
 
-> This article is a part of the **Get to Know Your Data** series, where we talk to the people and institutions that create, store, and share geospatial data. In this installment, we ask about the creation of redlining maps, and what those maps fail to tell us about race and space in US cities.
+> This article is a part of the **Get to Know Your Data** series, where we talk to the people and institutions that create, store, and share geospatial data. In this installment, we talk to [Scott Markley](https://snmarkley1.github.io), a PhD candidate in the Department of Geography at the University of Georgia, about the creation of redlining maps, and what those maps fail to tell us about race and space in US cities.
 
-### About Redlining Maps
+### What is a "redlining" map?
 
-At the Leventhal Map & Education Center, we've always been fascinated by Homeowners Loan Corporation (HOLC) maps, more commonly known as "redlining" maps. We've [written about them](https://www.dissentmagazine.org/online_articles/redlining-race-and-the-color-of-money), we've [taught about them](https://collections.leventhalmap.org/educators/curriculum-materials/133), and we even have a [dedicated collection for them](https://collections.leventhalmap.org/collections/commonwealth:00000x35p).
+At the Leventhal Map & Education Center, we've always been fascinated by Homeowners Loan Corporation (HOLC) maps, more commonly known as "redlining" maps. We've [written about them](https://www.dissentmagazine.org/online_articles/redlining-race-and-the-color-of-money), we've [taught about them](https://collections.leventhalmap.org/educators/curriculum-materials/133), and we even have a [dedicated digital collection for them](https://collections.leventhalmap.org/collections/commonwealth:00000x35p), based on images scanned by the Digital Scholarship Lab at the University of Richmond.
 
-HOLC was established in 1933 to provide mortgage assistance to homeowners or would-be homeowners through loans or refinancing mortgages. To determine where to make loans, HOLC evaluated areas based on multiple factors. The University of Richmond's Digital Scholarship Lab (DSL) has made geospatial data about redlining maps publicly available through their *[Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/#loc=4/40.886/-105.499&text=downloads)* project:
+{{< figure 
+    class="figure-right"
+    src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x66p/full/,1200/0/default.jpg"
+    caption="The [*Mapping Inequality*](https://dsl.richmond.edu/panorama/redlining/) project offers digital access to thousands of redlining maps" 
+>}}
 
-<iframe title="HOLC Area Description Map" width="800" height="500" src="https://dsl.richmond.edu/panorama/redlining/#loc=4/36.448/-95.228"></iframe>
-<br></br>
+[HOLC](https://en.wikipedia.org/wiki/Home_Owners%27_Loan_Corporation) was a federal agency established in 1933 to provide mortgage assistance to homeowners or would-be homeowners through loans or refinancing mortgages. To determine where to make loans, HOLC evaluated urban areas based on multiple factors. HOLC maps have become widely used in recent years thaks to the efforts of the *[Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)* project.
 
-While the most impactful variables were racial and ethnic identity of residents, HOLC field agents recorded many other factors in area description sheets, including building age, household income, and immigrant population. We sat down to talk with geographer **Scott Markley**, who created a user-friendly geospatial dataset from the DSL's data by parsing eight of the most important factors captured by HOLC into distinct fields. Visit our [Data Portal](https://data.leventhalmap.org/#/catalog/dkyajewyh) to download the data itself, or stick around to learn more about its creation---and its limitations---from our interview below with Scott.
+The term "redlining" comes from the fact that the agency marked areas that were risky for investment using red ink. These red areas were very often the places where nonwhite people lived, though HOLC field agents also recorded many other factors in area description sheets, including building age, household income, and immigrant population.
 
-### Interview
+<a href="https://data.leventhalmap.org/#/catalog/dkyajewyh" class="btn btn-large btn-primary-outline"><i class="fas fa-server me-3"></i> Browse the data discussed in this interview</a>
+
+We sat down to talk with geographer **Scott Markley**, who created a user-friendly geospatial dataset from the DSL's data by parsing eight of the most important factors captured by HOLC into distinct fields. Visit our [Data Portal](https://data.leventhalmap.org/#/catalog/dkyajewyh) to download the data itself, or read on to learn more about its creation---and its limitations---from our interview with Scott.
+
+## Interview
 
 *The text of this interview was edited for length and clarity.*
 
@@ -35,7 +43,9 @@ While the most impactful variables were racial and ethnic identity of residents,
 
 **Ian Spangler**: Scott, thanks for joining me today to discuss your work with this dataset. First, could you describe what your dataset is, and how it's different from the spatial data available through the *Mapping Inequality* project?
 
-**Scott Markley**: Researchers at *Mapping Inequality* have made HOLC neighborhood grade data  publicly available in shapefile and GeoJSON format. However, the field notes used to assign risk grades—--available as scanned documents for most cities in their “area description” sheets on *Mapping Inequality*’s [website](https://dsl.richmond.edu/panorama/redlining/)--—remain virtually unusable for statistical analysis. I converted eight of the most consequential variables from 129 cities into an accessible and analyzable tabular format. These include the Black population percentage, “foreign-born” population percentage and group, family income, occupation class, average building age, home repair status, and mortgage availability.
+**Scott Markley**: Researchers at *Mapping Inequality* have made HOLC neighborhood grade data publicly available in Shapefile and GeoJSON format. However, the field notes used to assign risk grades---available as scanned documents for most cities in their “area description” sheets on *Mapping Inequality*’s [website](https://dsl.richmond.edu/panorama/redlining/)---remain virtually unusable for statistical analysis.
+
+I converted eight of the most consequential variables from 129 cities into an accessible and analyzable tabular format. These include the Black population percentage, “foreign-born” population percentage and group, family income, occupation class, average building age, home repair status, and mortgage availability.
 
 **IS**: What made you interested in HOLC maps, redlining, and working with those in a geographic information system (GIS)?
 
@@ -50,7 +60,7 @@ There's a ton of useful data at that website that dovetail nicely with my doctor
 {{< figure src="/images/blog/scott-markley-interview_C5.jpg" caption="Area description sheet for Boston's Back Bay neighborhood, courtesy of [*Mapping Inequality*](https://dsl.richmond.edu/panorama/redlining/#loc=4/40.886/-105.499&text=downloads)" class="figure-right" >}}
 
 
-**SM**: Well, this project really got me thinking about how the HOLC mapping in the 1930's was a GIS project in itself. The maps were produced by professional cartographers who were hired by a State Agency in partnership with the lending and real-estate industries to map a version of urban space for their use. In that regard, HOLC maps illustrate the [real estate industry's imagination](https://www.leventhalmap.org/articles/howdy-realtors/) of how these places were changing at the time---and how they could use that information to guide their investment decisions.
+**SM**: Well, this project really got me thinking about how the HOLC mapping in the 1930s was a GIS project in itself. The maps were produced by professional cartographers who were hired by a State Agency in partnership with the lending and real-estate industries to map a version of urban space for their use. In that regard, HOLC maps illustrate the [real estate industry's imagination](https://www.leventhalmap.org/articles/howdy-realtors/) of how these places were changing at the time---and how they could use that information to guide their investment decisions.
 
 **IS**: That's a great segue into talking about the Home Owners Loan Corporation itself, and the histories of racism that these maps capture. Could you describe why the HOLC made these maps?
 
