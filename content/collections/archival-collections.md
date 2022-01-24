@@ -19,7 +19,7 @@ Auctioneer plans advertise lots to be auctioned for sale, usually by cities or r
 
 ### C.L. Berger & Sons Records
 
-The C.L. Berger & Sons records consists of documents and objects produced by the surveying instrument manufacturing company from 1919-1948. The collection includes product catalogs, product manuals, field manuals, instructional manuals, technical manuals, photographs, pamphlets, company stationary, and three small models of instruments. Also included are texts of speeches by co-owner Louis H. Berger and other materials related to trade conferences. <a href="https://archives.bpl.org/repositories/2/resources/144" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to finding aid</a>
+The C.L. Berger & Sons records consists of documents and objects produced by the surveying instrument manufacturing company from 1919-1948. The collection includes product catalogs, product manuals, field manuals, instructional manuals, technical manuals, photographs, pamphlets, company stationary, and three small models of instruments. Also included are texts of speeches by co-owner Louis H. Berger and other materials related to trade conferences. <a href="https://archives.bpl.org/repositories/2/resources/147" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to finding aid</a>
 
 ### Dana F. Perkins, Inc. Records
 
@@ -31,7 +31,7 @@ The Annie Olmstead Peet papers consists of manuscript, pre-production and publis
 
 ### John Roman Papers
 
-The John Roman papers consist of pictorial maps produced from 1984-2012 by John Roman (1950-), an American map illustrator, author, and college art professor. The collection comprises 54 items representing 30 pictorial map commissions of Roman’s illustration studio in Scituate, Massachusetts. It includes original hand-drawn ink illustrations colored with watercolor, either directly on the illustration or incorporated into the black and white map digitally; sketches; published maps; photos of installations; and magazines, booklets, posters and brochures in which the maps were published. Maps were commissioned for education, advertisements, and to illustrate articles, and depict nature trails, college campuses, tourist destinations, and cities. <a href="https://archives.bpl.org/repositories/2/resources/144" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to finding aid</a>
+The John Roman papers consist of pictorial maps produced from 1984-2012 by John Roman (1950-), an American map illustrator, author, and college art professor. The collection comprises 54 items representing 30 pictorial map commissions of Roman’s illustration studio in Scituate, Massachusetts. It includes original hand-drawn ink illustrations colored with watercolor, either directly on the illustration or incorporated into the black and white map digitally; sketches; published maps; photos of installations; and magazines, booklets, posters and brochures in which the maps were published. Maps were commissioned for education, advertisements, and to illustrate articles, and depict nature trails, college campuses, tourist destinations, and cities. <a href="https://archives.bpl.org/repositories/2/resources/151" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to finding aid</a>
 
 ### Robert Severy Collection
 
