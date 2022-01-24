@@ -15,7 +15,7 @@ draft: true
 ---
 During the first two weeks of January, the Map Center education team led a special intersession class for a small group of seniors at the [Margarita Muñiz Academy](https://munizacademy.org/), Boston’s first dual language (Spanish/English) high school. 
 
-{{< figure src="/uploads/2022-01-24/img-4594.jpg" caption="LMEC Director of Education [Michelle LeBlanc](https://www.leventhalmap.org/about/people/michelle-leblanc/) stands with Margarita Muñiz Academy student while labelling a blank map of Boston." class="figure-right" >}}
+{{< figure src="/uploads/2022-01-24/img-4594.jpg" caption="LMEC Director of Education [Michelle LeBlanc](https://www.leventhalmap.org/about/people/michelle-leblanc/) stands with [Margarita Muñiz Academy](https://munizacademy.org/) student while labeling a blank map of Boston." class="figure-right" >}}
 
 Part of our Boston Maptivisits Initiative, this class introduced students to critical map literacy as well as taught essential skills to create data maps using ArcGIS online.
 
@@ -31,7 +31,7 @@ They also learned about the petition and successful removal of [“The Emancipat
 
 For their senior research projects, students are exploring concepts of nature and accessibility. The remainder of the course was spent mapping demographic environmental data, using both the [EPA’s EJScreen](https://www.epa.gov/ejscreen) mapping tool as well as [ArcGIS online](https://www.arcgis.com/index.html). 
 
-{{< figure src="/uploads/2022-01-24/screenshot-2022-01-24-121604.png" caption="test" class="figure-left" >}}
+{{< figure src="/uploads/2022-01-24/untitled.png" caption="Snapshot of a student's final [Storymap](https://storymaps.arcgis.com/stories/4ab268560b834a65818070537a740af8) exploring the relationship between Traffic Proximity and Respiratory Hazard" class="figure-right" >}}
 
 Students learned basic data visualization and created maps to add to their final Storymaps that outlined what they had explored in the class. Their work in the intersession will hopefully inform aspects of their final projects to be completed later in the spring semester.
 
