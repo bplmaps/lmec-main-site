@@ -15,11 +15,13 @@ draft: true
 ---
 During the first two weeks of January, the Map Center education team led a special intersession class for a small group of seniors at the [Margarita Muñiz Academy](https://munizacademy.org/), Boston’s first dual language (Spanish/English) high school. 
 
-{{< figure src="/uploads/2022-01-24/img-4594.jpg" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2022-01-24/img-4594.jpg" caption="test" class="figure-right" >}}
 
 Part of our Boston Maptivisits Initiative, this class introduced students to critical map literacy as well as taught essential skills to create data maps using ArcGIS online.
 
 Students began by mapping their city, from [labeling the different neighborhoods of Boston](https://collections.leventhalmap.org/educators/curriculum-materials/137) on a blank map to creating a collaborative Google My Map showing a variety of places they go (or don’t go) in their daily lives. 
+
+{{< figure src="/uploads/2022-01-24/img-4600.jpg" caption="test" class="figure-right" >}}
 
 Students explored ideas of boundaries in Boston and created maps where they divided up the city in new ways based on their own experiences or other criteria. 
 
@@ -29,7 +31,7 @@ They also learned about the petition and successful removal of [“The Emancipat
 
 For their senior research projects, students are exploring concepts of nature and accessibility. The remainder of the course was spent mapping demographic environmental data, using both the [EPA’s EJScreen](https://www.epa.gov/ejscreen) mapping tool as well as [ArcGIS online](https://www.arcgis.com/index.html). 
 
-{{< figure src="/uploads/2022-01-24/screenshot-2022-01-24-121604.png" caption="" class="figure-left" >}}
+{{< figure src="/uploads/2022-01-24/screenshot-2022-01-24-121604.png" caption="test" class="figure-left" >}}
 
 Students learned basic data visualization and created maps to add to their final Storymaps that outlined what they had explored in the class. Their work in the intersession will hopefully inform aspects of their final projects to be completed later in the spring semester.
 
