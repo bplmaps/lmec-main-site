@@ -21,9 +21,13 @@ Part of our Boston Maptivisits Initiative, this class introduced students to cri
 
 Students began by mapping their city, from [labeling the different neighborhoods of Boston](https://collections.leventhalmap.org/educators/curriculum-materials/137) on a blank map to creating a collaborative Google My Map showing a variety of places they go (or don’t go) in their daily lives. 
 
-{{< figure src="/uploads/2022-01-24/img-4600.jpg" caption="Margarita Muñiz Academy student labels their own map of Boston. During this activity, students explore questions like 'Why would a hotel located in the Roxbury neighborhood claim to be in the South End, across Roxbury's northern boundary? Who designated Boston's neighborhood boundaries? How does our understanding of where our neighborhood ends and another begins shape our sense of belonging?'" class="figure-left" >}}
+{{< figure src="/uploads/2022-01-24/img-4600.jpg" caption="Margarita Muñiz Academy student labels their own map of Boston. During this activity, students explored questions like 'Why would a hotel located in the Roxbury neighborhood claim to be in the South End? Who designated Boston's neighborhood boundaries? How does our understanding of where our neighborhood ends and another begins shape our sense of belonging?'" class="figure-left" >}}
 
-Students explored ideas of boundaries in Boston and created maps where they divided up the city in new ways based on their own experiences or other criteria. They also learned about the petition and successful removal of [“The Emancipation Group” statue](https://www.boston.gov/departments/arts-and-culture/emancipation-group) and discussed how we memorialize people and events in Boston and around the country, including the naming of their own school after educational leader Margarita Muñiz.
+Students explored ideas of boundaries in Boston and created maps where they divided up the city in new ways based on their own experiences or other criteria. 
+
+**insert mural picture here**
+
+They also learned about the petition and successful removal of [“The Emancipation Group” statue](https://www.boston.gov/departments/arts-and-culture/emancipation-group) and discussed how we memorialize people and events in Boston and around the country, including the naming of their own school after educational leader Margarita Muñiz.
 
 For their senior research projects, students are exploring concepts of nature and accessibility. The remainder of the course was spent mapping demographic environmental data, using both the [EPA’s EJScreen](https://www.epa.gov/ejscreen) mapping tool as well as [ArcGIS online](https://www.arcgis.com/index.html). 
 
@@ -31,4 +35,4 @@ For their senior research projects, students are exploring concepts of nature an
 
 Students learned basic data visualization and created maps to add to their final Storymaps that outlined what they had explored in the class. Their work in the intersession will hopefully inform aspects of their final projects to be completed later in the spring semester.
 
-If you want to learn more about our Maptivists initiative as well as access the [Mapping our Boston](https://collections.leventhalmap.org/educators/curriculum-materials/137) lessons, check out our [Maptivists page.](https://www.leventhalmap.org/education/k12/maptivists/)
+> If you want to learn more about our Maptivists initiative as well as access the [Mapping our Boston](https://collections.leventhalmap.org/educators/curriculum-materials/137) lessons, check out our [Maptivists page.](https://www.leventhalmap.org/education/k12/maptivists/)
