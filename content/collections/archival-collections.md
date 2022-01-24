@@ -1,6 +1,6 @@
 ---
 title: Archival Collections
-backgroundImage: ''
+backgroundImage: "/uploads/2022-01-24/perkins.jpg"
 description: ''
 weight: "3"
 
