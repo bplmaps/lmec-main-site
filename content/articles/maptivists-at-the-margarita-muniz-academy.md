@@ -21,7 +21,7 @@ Part of our Boston Maptivisits Initiative, this class introduced students to cri
 
 Students began by mapping their city, from [labeling the different neighborhoods of Boston](https://collections.leventhalmap.org/educators/curriculum-materials/137) on a blank map to creating a collaborative Google My Map showing a variety of places they go (or don’t go) in their daily lives. 
 
-{{< figure src="/uploads/2022-01-24/img-4600.jpg" caption="Margarita Muñiz Academy student labels their own map of Boston. During this activity, students explore questions like "Why would a hotel located in the Roxbury neighborhood of Boston claim to be in the South End, across Roxbury's northern boundary? Who designated Boston's neighborhood boundaries anyway? How does our understanding of where our neighborhood ends and another begins shape our sense of belonging?"" class="figure-right" >}}
+{{< figure src="/uploads/2022-01-24/img-4600.jpg" caption="Margarita Muñiz Academy student labels their own map of Boston. During this activity, students explore questions like "Why would a hotel located in the Roxbury neighborhood claim to be in the South End, across Roxbury's northern boundary? Who designated Boston's neighborhood boundaries? How does our understanding of where our neighborhood ends and another begins shape our sense of belonging?"" class="figure-right" >}}
 
 Students explored ideas of boundaries in Boston and created maps where they divided up the city in new ways based on their own experiences or other criteria. 
 
