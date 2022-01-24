@@ -21,7 +21,7 @@ Part of our Boston Maptivisits Initiative, this class introduced students to cri
 
 Students began by mapping their city, from [labeling the different neighborhoods of Boston](https://collections.leventhalmap.org/educators/curriculum-materials/137) on a blank map to creating a collaborative Google My Map showing a variety of places they go (or don’t go) in their daily lives. 
 
-{{< figure src="/uploads/2022-01-24/img-4600.jpg" caption="Margarita Muñiz Academy student labels their own map of Boston." class="figure-right" >}}
+{{< figure src="/uploads/2022-01-24/img-4600.jpg" caption="Margarita Muñiz Academy student labels their own map of Boston. During this activity, students explore questions like "Why would a hotel located in the Roxbury neighborhood of Boston claim to be in the South End, across Roxbury's northern boundary? Who designated Boston's neighborhood boundaries anyway? How does our understanding of where our neighborhood ends and another begins shape our sense of belonging?"" class="figure-right" >}}
 
 Students explored ideas of boundaries in Boston and created maps where they divided up the city in new ways based on their own experiences or other criteria. 
 
@@ -31,7 +31,7 @@ They also learned about the petition and successful removal of [“The Emancipat
 
 For their senior research projects, students are exploring concepts of nature and accessibility. The remainder of the course was spent mapping demographic environmental data, using both the [EPA’s EJScreen](https://www.epa.gov/ejscreen) mapping tool as well as [ArcGIS online](https://www.arcgis.com/index.html). 
 
-{{< figure src="/uploads/2022-01-24/untitled.png" caption="Snapshot of a student's final [Storymap](https://storymaps.arcgis.com/stories/4ab268560b834a65818070537a740af8) exploring the relationship between Traffic Proximity and Respiratory Hazard" class="figure-right" >}}
+{{< figure src="/uploads/2022-01-24/untitled.png" caption="Snapshot of a student's final [Storymap](https://storymaps.arcgis.com/stories/4ab268560b834a65818070537a740af8) exploring the relationship between Traffic Proximity and Respiratory Hazard." class="figure-right" >}}
 
 Students learned basic data visualization and created maps to add to their final Storymaps that outlined what they had explored in the class. Their work in the intersession will hopefully inform aspects of their final projects to be completed later in the spring semester.
 
