@@ -15,13 +15,13 @@ draft: true
 ---
 During the first two weeks of January, the Map Center education team led a special intersession class for a small group of seniors at the [Margarita Muñiz Academy](https://munizacademy.org/), Boston’s first dual language (Spanish/English) high school. 
 
-{{< figure src="/uploads/2022-01-24/img-4594.jpg" caption="LMEC Director of Education [Michelle LeBlanc](https://www.leventhalmap.org/about/people/michelle-leblanc/) stands with Margarita Muñiz Academy student while labelling a blank map of Bosotn." class="figure-right" >}}
+{{< figure src="/uploads/2022-01-24/img-4594.jpg" caption="LMEC Director of Education [Michelle LeBlanc](https://www.leventhalmap.org/about/people/michelle-leblanc/) stands with Margarita Muñiz Academy student while labelling a blank map of Boston." class="figure-right" >}}
 
 Part of our Boston Maptivisits Initiative, this class introduced students to critical map literacy as well as taught essential skills to create data maps using ArcGIS online.
 
 Students began by mapping their city, from [labeling the different neighborhoods of Boston](https://collections.leventhalmap.org/educators/curriculum-materials/137) on a blank map to creating a collaborative Google My Map showing a variety of places they go (or don’t go) in their daily lives. 
 
-{{< figure src="/uploads/2022-01-24/img-4600.jpg" caption="test" class="figure-right" >}}
+{{< figure src="/uploads/2022-01-24/img-4600.jpg" caption="Margarita Muñiz Academy student labels their own map of Boston." class="figure-right" >}}
 
 Students explored ideas of boundaries in Boston and created maps where they divided up the city in new ways based on their own experiences or other criteria. 
 
