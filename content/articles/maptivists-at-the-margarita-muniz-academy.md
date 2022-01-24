@@ -3,13 +3,13 @@ date: 2022-01-24T17:08:08-05:00
 title: Maptivists at the Margarita Muñiz Academy
 description: 'Our education team spent the first two weeks of January teaching critical
   map literacy to a small group of seniors at the Margarita Muñiz Academy. '
-image: "/uploads/2022-01-24/neighborhoods.png"
+image: "/uploads/2022-01-24/img_20220113_104320813.jpg"
 author: 'Michelle LeBlanc '
 tags:
 - K-12 Education
 - Maptivists
 - Mapping our Boston
-backgroundImage: "/uploads/2022-01-24/neighborhoods.png"
+backgroundImage: "/uploads/2022-01-24/img_20220113_104320813.jpg"
 draft: true
 
 ---
