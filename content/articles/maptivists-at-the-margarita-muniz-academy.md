@@ -23,11 +23,7 @@ Students began by mapping their city, from [labeling the different neighborhoods
 
 {{< figure src="/uploads/2022-01-24/img-4600.jpg" caption="Margarita Muñiz Academy student labels their own map of Boston. During this activity, students explore questions like 'Why would a hotel located in the Roxbury neighborhood claim to be in the South End, across Roxbury's northern boundary? Who designated Boston's neighborhood boundaries? How does our understanding of where our neighborhood ends and another begins shape our sense of belonging?'" class="figure-right" >}}
 
-Students explored ideas of boundaries in Boston and created maps where they divided up the city in new ways based on their own experiences or other criteria. 
-
-{{< figure src="/uploads/2022-01-24/img_20220113_104320813.jpg" caption="" class="figure-right" >}}
-
-They also learned about the petition and successful removal of [“The Emancipation Group” statue](https://www.boston.gov/departments/arts-and-culture/emancipation-group) and discussed how we memorialize people and events in Boston and around the country, including the naming of their own school after educational leader Margarita Muñiz.
+Students explored ideas of boundaries in Boston and created maps where they divided up the city in new ways based on their own experiences or other criteria. They also learned about the petition and successful removal of [“The Emancipation Group” statue](https://www.boston.gov/departments/arts-and-culture/emancipation-group) and discussed how we memorialize people and events in Boston and around the country, including the naming of their own school after educational leader Margarita Muñiz.
 
 For their senior research projects, students are exploring concepts of nature and accessibility. The remainder of the course was spent mapping demographic environmental data, using both the [EPA’s EJScreen](https://www.epa.gov/ejscreen) mapping tool as well as [ArcGIS online](https://www.arcgis.com/index.html). 
 
