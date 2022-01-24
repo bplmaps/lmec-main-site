@@ -21,8 +21,6 @@ Part of our Boston Maptivisits Initiative, this class introduced students to cri
 
 Students began by mapping their city, from [labeling the different neighborhoods of Boston](https://collections.leventhalmap.org/educators/curriculum-materials/137) on a blank map to creating a collaborative Google My Map showing a variety of places they go (or don’t go) in their daily lives. 
 
-{{< figure src="/uploads/2022-01-24/img-4600.jpg" caption="" class="figure-right" >}}
-
 Students explored ideas of boundaries in Boston and created maps where they divided up the city in new ways based on their own experiences or other criteria. 
 
 {{< figure src="/uploads/2022-01-24/img_20220113_104320813.jpg" caption="" class="figure-right" >}}
