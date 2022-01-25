@@ -14,7 +14,7 @@ backgroundImage: "/uploads/2022-01-24/img_20220113_104320813.jpg"
 draft: true
 
 ---
-{{< figure src="/uploads/2022-01-24/img-4594.jpg" caption="LMEC Director of Education [Michelle LeBlanc](https://www.leventhalmap.org/about/people/michelle-leblanc/) stands with [Margarita Muñiz Academy](https://munizacademy.org/) student while labeling a blank map of Boston. During this activity, students explored questions like 'Who designated Boston's neighborhood boundaries? How does our understanding of where our neighborhood ends and another begins shape our sense of belonging?'" class="figure-right" >}}
+{{< figure src="/uploads/2022-01-24/img-4594.jpg" caption="LMEC Director of Education [Michelle LeBlanc](https://www.leventhalmap.org/about/people/michelle-leblanc/) stands with [Margarita Muñiz Academy](https://munizacademy.org/) student while labeling a blank map of Boston." class="figure-right" >}}
 
 During the first two weeks of January, the Map Center education team led a special intersession class for a small group of seniors at the [Margarita Muñiz Academy](https://munizacademy.org/), Boston’s first dual language (Spanish/English) high school. Part of our Boston Maptivisits Initiative, this class introduced students to critical map literacy as well as taught essential skills to create data maps using ArcGIS online.
 
