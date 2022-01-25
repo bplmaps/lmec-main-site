@@ -13,7 +13,7 @@ Archival collections at the LMEC are listed below. We are currently processing t
 
 {{< figure src="/uploads/2022-01-24/appgeo.jpg" alt="Manuscript map of Neponset River Estuary" caption="Manuscript map of the Neponset River Estuary by Applied Geographics Inc. for the Metropolitan District Commission" class="figure-right" >}}
 
-The Applied Geographics, Inc. records consists of documents produced or held by Applied Geographics, Inc. (AppGeo), a GIS, cartography and data consulting firm located in Boston, Massachusetts.
+The Applied Geographics, Inc. records consist of maps dated 1982-2012 that were created by or held by Applied Geographics, Inc., a GIS consulting firm in Boston, Massachusetts. A large portion of the collection consists of maps created for government agencies. The collection also includes maps produced by AppGeo staff while employed at MassGIS before the establishment of AppGeo, maps produced by other GIS firms, and published maps that were used for reference by the company.
 
 ### Auctioneer Plans Collection
 
