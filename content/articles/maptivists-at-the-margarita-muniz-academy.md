@@ -1,5 +1,5 @@
 ---
-date: 2022-02-01T00:00:08.000-05:00
+date: 2022-01-31T00:00:08-05:00
 title: Maptivists at the Margarita Muñiz Academy
 description: 'Our education team spent the first two weeks of January teaching an
   intersession on critical map literacy to a small group of seniors at the Margarita
@@ -11,7 +11,6 @@ tags:
 - Maptivists
 - Mapping our Boston
 backgroundImage: "/uploads/2022-01-24/img_20220113_104320813.jpg"
-draft: true
 
 ---
 {{< figure src="/uploads/2022-01-24/img-4594.jpg" caption="LMEC Director of Education [Michelle LeBlanc](https://www.leventhalmap.org/about/people/michelle-leblanc/) stands with [Margarita Muñiz Academy](https://munizacademy.org/) student while labeling a blank map of Boston." class="figure-left" >}}
