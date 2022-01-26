@@ -1,5 +1,5 @@
 ---
-date: 2022-01-31T00:00:08-05:00
+date: 2022-01-31T01:00:08-05:00
 title: Maptivists at the Margarita Muñiz Academy
 description: 'Our education team spent the first two weeks of January teaching an
   intersession on critical map literacy to a small group of seniors at the Margarita
