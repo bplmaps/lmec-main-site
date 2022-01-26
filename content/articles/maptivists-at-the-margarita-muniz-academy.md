@@ -1,5 +1,5 @@
 ---
-date: 2022-02-01T00:00:08-05:00
+date: 2022-02-01T00:00:08.000-05:00
 title: Maptivists at the Margarita Muñiz Academy
 description: 'Our education team spent the first two weeks of January teaching an
   intersession on critical map literacy to a small group of seniors at the Margarita
@@ -20,7 +20,7 @@ During the first two weeks of January, the Map Center education team led a speci
 
 Students began by mapping their city, from [labeling the different neighborhoods of Boston](https://collections.leventhalmap.org/educators/curriculum-materials/137) on a blank map to creating a collaborative Google My Map showing a variety of places they go (or don’t go) in their daily lives. Students explored ideas of boundaries in Boston and created maps where they divided up the city in new ways based on their own experiences or other criteria. They also learned about the petition and successful removal of [“The Emancipation Group” statue](https://www.boston.gov/departments/arts-and-culture/emancipation-group) and discussed how we memorialize people and events in Boston and around the country, including the naming of their own school after educational leader Margarita Muñiz.
 
-{{< figure src="/uploads/2022-01-24/untitled.png" caption="Snapshot of a student's final [Storymap](https://storymaps.arcgis.com/stories/4ab268560b834a65818070537a740af8) exploring the relationship between Traffic Proximity and Respiratory Hazard." class="figure-right" >}}
+{{< figure src="/uploads/2022-01-26/size.png" caption="Snapshot of a student's final [Storymap](https://storymaps.arcgis.com/stories/4ab268560b834a65818070537a740af8) exploring the relationship between Traffic Proximity and Respiratory Hazard." class="figure-right" >}}
 
 For senior research projects, students are exploring concepts of nature and accessibility. The remainder of our course was dedicated to mapping demographic environmental data, using both the [EPA’s EJScreen](https://www.epa.gov/ejscreen) mapping tool as well as [ArcGIS online](https://www.arcgis.com/index.html). Students learned basic data visualization and created maps to add to their final Storymaps that outlined what they had explored in the class. Their work in the intersession will hopefully inform aspects of their final projects to be completed later in the spring semester.
 
