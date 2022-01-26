@@ -15,8 +15,6 @@ To make an appointment to see a recently acquired object, [see our research appo
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr0RgG4AfpROgnqH?backgroundColor=green&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-
-
 ## Services for Collectors and Dealers
 
 The Map Center typically does not accept unsolicited bids for the purchase of new objects. If you have a collection of maps or other geographic material that you would like to donate to our permanent collections, please [contact us](/about/contact) to set up a discussion.

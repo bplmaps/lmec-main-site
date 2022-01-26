@@ -3,7 +3,7 @@ title: Digital Collections
 cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd376655v/540,7397,17681,9000/1800,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd376655v/540,7397,17681,7127/1800,/0/default.jpg
 description: Thousands of maps and images available for free digital access
-weight: "1"
+weight: "3"
 quicklinks:
 - text: Quick search across the digital collections
   link: "#quick-search"

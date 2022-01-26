@@ -3,7 +3,7 @@ title: Searching the Collections
 cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n782n/416,1060,6719,3000/1800,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n782n/416,1060,6719,2819/1800,/0/default.jpg
 description: How to find what we have using our catalogs and digital repositories
-weight: "3"
+weight: "2"
 quicklinks:
 - text: Search the catalog for objects in the Map Center collections
   link: "#bibliocommons-search-entry"
@@ -46,6 +46,10 @@ Use the search below to begin a custom query that will search only for LMEC item
 #### Alternative catalog
 
 Some users may prefer to use the alternative [MBLN catalog](http://catalog.mbln.org/polaris/) for searching, which in some cases offers access to more detailed record information.
+
+#### Searching archival collections
+
+Not all archival collections are cataloged at the item level. For more information about archival collections held at the Center, including links to finding aids, see [Archival Collections](../archival-collections).
 
 #### Caveats regarding catalog searches
 
