@@ -1,8 +1,9 @@
 ---
 title: Archival Collections
-cardImage: /uploads/2022-01-24/perkins.jpg
+cardImage: "/uploads/2022-01-24/perkins.jpg"
 backgroundImage: "/uploads/2022-01-24/perkins.jpg"
-description: 'Archival collections are groups of related materials that document the activities of an individual, family, or organization'
+description: Our archival collections include personal papers of cartographers, records
+  of mapping or surveying firms, and subject-based collections.
 weight: "4"
 
 ---
