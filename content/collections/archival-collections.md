@@ -1,5 +1,6 @@
 ---
 title: Archival Collections
+cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765932/1197,2952,7553,3500/1800,/0/default.jpg
 backgroundImage: "/uploads/2022-01-24/perkins.jpg"
 description: ''
 weight: "3"
