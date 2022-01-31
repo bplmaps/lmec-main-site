@@ -47,10 +47,9 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Weather closure
-    text: The Map Center and Central Library will be closed Saturday, January 29 for
-      winter weather
-    link: https://www.bpl.org
+  - badge: New acquisition
+    text: A 1617 German copy of John Smith's famous map of New England
+    link: https://bpl.bibliocommons.com/v2/record/S75C8095924
   - badge: For high school students
     text: Sign up for our enrichment program on critical data maps
     link: "/event/geographic-data-and-you-an-enrichment-course-for-high-school-students/"
@@ -149,7 +148,7 @@ funfacts:
 blog:
   enable: true
   title: Articles
-todaysHours: false
+todaysHours: true
 upcomingLivestream:
   enable: false
   embedLink: <iframe width="560" height="315" src="https://www.youtube.com/embed/PsfCv4tTK04"
