@@ -50,9 +50,9 @@ cta:
   - badge: New acquisition
     text: A 1617 German copy of John Smith's famous map of New England
     link: https://bpl.bibliocommons.com/v2/record/S75C8095924
-  - badge: For high school students
-    text: Sign up for our enrichment program on critical data maps
-    link: "/event/geographic-data-and-you-an-enrichment-course-for-high-school-students/"
+  - badge: Interactive event
+    text: Learn more about maps and democracy in our Redistricting Roundtable
+    link: https://www.leventhalmap.org/event/redistricting-roundtable/
   - badge: Gallery tours
     text: Take a free interpretive tour of _Bending Lines_, offered every Monday,
       Friday, and Saturday
