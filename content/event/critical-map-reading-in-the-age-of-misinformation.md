@@ -10,7 +10,6 @@ registration: https://www.eventbrite.com/e/critical-map-reading-in-the-age-of-mi
 tags:
 - Thinking Spatially
 - Workshop
-draft: true
 
 ---
 #### **Join us for a public workshop on media literacy in the historic and contemporary cartographic landscape.**
