@@ -12,7 +12,7 @@ tags:
 draft: true
 
 ---
-##### **Join us for a workshop on geospatial data and redlining maps, the latest edition of our Get to Know Your Data series**
+#### **Join us for a workshop on geospatial data and redlining maps, the latest edition of our Get to Know Your Data series**
 
 Join Scott Markley, a PhD Candidate in the Department of Geography at the University of Georgia, and LMEC Assistant Curator Ian Spangler for a workshop exploring the **spatial histories of redlining**. This workshop is a part of the **Get to Know Your Data** series, where we talk with and learn from the people and institutions that create, store, and share geospatial data. Participants will come away from the workshop with 1) a richer knowledge of the politics of data creation surrounding redlining maps, and 2) a basic understanding of how to explore and compare data in a geographic information system (GIS).
 
