@@ -13,12 +13,12 @@ draft: true
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< /alert-box >}}
 
-#### Join us for a talk with the BU Initiative on Cities 
+#### Join the [BU Initiative on Cities](https://www.bu.edu/ioc/) and LMEC President and Head Curator [Garrett Dash Nelson](https://www.leventhalmap.org/about/people/garrett-nelson/) for a discussion on the history of name and boundary shifting in Upper Roxbury. 
 
-What’s in a name? Why have place names and geographical boundaries changed over time, and how have they resulted in significant real-world changes in communities of color? How has informal place naming by activists and others countered urban planners’ top-down decisions?
-
-LMEC President and Head Curator [Garrett Dash Nelson](https://www.leventhalmap.org/about/people/garrett-nelson/) joins the [BU Initiative on Cities](https://www.bu.edu/ioc/) for a discussion on the history of name and boundary shifting in Upper Roxbury. 
+Join the [BU Initiative on Cities](https://www.bu.edu/ioc/) and LMEC President and Head Curator [Garrett Dash Nelson](https://www.leventhalmap.org/about/people/garrett-nelson/) for a discussion on the history of name and boundary shifting in Upper Roxbury. 
 
 In 2019, Roxbury residents made their voices heard, voting to rename Dudley Square to Nubian Square. This transition was the latest in a long and storied history of name and boundary shifting. Over the 20th century, neighborhoods within Upper Roxbury have been known as Elm Hill, Sugar Hill, and Washington Park, and arbitrary decisions incorporated part of the area into Dorchester despite residents’ preferred Roxbury identities.
+
+Panelists will explore questions like: What’s in a name? Why have place names and geographical boundaries changed over time, and how have they resulted in significant real-world changes in communities of color? How has informal place naming by activists and others countered urban planners’ top-down decisions?
 
 ##### This event is free and all are welcome to join.
