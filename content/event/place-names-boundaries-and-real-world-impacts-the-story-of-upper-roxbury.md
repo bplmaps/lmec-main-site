@@ -12,7 +12,7 @@ tags: []
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< /alert-box >}}
 
-#### Join us with the [BU Initiative on Cities](https://www.bu.edu/ioc/) for a discussion on the history of name and boundary shifting in Upper Roxbury
+#### Join us for a talk hosted by [BU Initiative on Cities](https://www.bu.edu/ioc/) on the history of name and boundary shifting in Upper Roxbury
 
 Join the [BU Initiative on Cities](https://www.bu.edu/ioc/) and LMEC President and Head Curator [Garrett Dash Nelson](https://www.leventhalmap.org/about/people/garrett-nelson/) for a discussion on the history of name and boundary shifting in Upper Roxbury. 
 
