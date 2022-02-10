@@ -23,12 +23,11 @@ aliases:
 
 Janet P. Atkins  
 Michael G. Contompasis  
-Charles Cooney  
+Charles Cooney, PhD, _Chair_  
 Michelle Knight  
 Alex Krieger  
 Khurram Jamil  
 Theodore Landsmark  
-Alan Leventhal, _Chair_  
 Alexander Leventhal  
 Ronald P. O’Hanley  
 Richard Pegg  
