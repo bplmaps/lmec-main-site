@@ -24,7 +24,7 @@ aliases:
 Janet P. Atkins  
 Michael G. Contompasis  
 Charles Cooney, PhD, _Chair_  
-Michelle Knight  
+Michelle Knight, _Treasurer_  
 Alex Krieger  
 Khurram Jamil  
 Theodore Landsmark  
