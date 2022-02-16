@@ -16,7 +16,9 @@ John Michael Kennedy, JMKPR
 
 ## Recent Press
 
-**Recent Press for _Bending Lines_**
+[The Boston Globe - When Boston gave America some sugar](https://www.bostonglobe.com/2022/02/12/opinion/when-boston-gave-america-some-sugar/)
+
+**Press for _Bending Lines_**
 
 [WBZ New England Weekend](https://bostonpubliclibrary.sharepoint.com/sites/LeventhalMap/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FLeventhalMap%2FShared%20Documents%2FPR%20and%20Communications%2FBending%20Lines%2FLMC%20WBZ%2DAM%20NE%20WKND%20%2D%20BENDING%20LINES%2Emp3&parent=%2Fsites%2FLeventhalMap%2FShared%20Documents%2FPR%20and%20Communications%2FBending%20Lines&p=true&originalPath=aHR0cHM6Ly9ib3N0b25wdWJsaWNsaWJyYXJ5LnNoYXJlcG9pbnQuY29tLzp1Oi9zL0xldmVudGhhbE1hcC9FZXhEU0IzekZRQk1xQUhPUGwxdzhKRUI0VE5oWFNIZUJhcG5DX2tsZjBxY2xnP3J0aW1lPW1PLThMQmw4MkVn)
 
@@ -26,7 +28,7 @@ John Michael Kennedy, JMKPR
 
 [CityLab](https://www.bloomberg.com/news/articles/2020-05-28/how-to-deconstruct-and-interpret-maps)
 
-**Recent Press for _Atlascope_**
+**Press for _Atlascope_**
 
 [Boston Business Journal](https://www.bizjournals.com/boston/news/2020/01/26/five-things-you-need-to-know-today-and-the-coolest.html)
 
@@ -35,6 +37,7 @@ John Michael Kennedy, JMKPR
 ## Press Releases
 
 **2021**
+
 * 2021-08-24: [Bending Lines, An Exploration of Truth and Lies Through Centuries of Maps and Data, Opens at Leventhal Map & Education Center September 10, 2021](/about/press-releases/bending-lines-opens-in-person/)
 * 2021-06-01: [Leventhal Map & Education Center Announces Garrett Dash Nelson As Its New President](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EXZbh4GltnZFschmGbh8XMABK2n7XaW7wgZcOHN7inQZPw)
 
