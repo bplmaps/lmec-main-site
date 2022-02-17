@@ -9,7 +9,6 @@ fee: Free
 registration: https://www.eventbrite.com/e/reporting-on-redlining-get-to-know-your-data-with-scott-markley-tickets-264559182637
 tags:
 - Get to Know Your Data
-draft: true
 
 ---
 ### About this event
