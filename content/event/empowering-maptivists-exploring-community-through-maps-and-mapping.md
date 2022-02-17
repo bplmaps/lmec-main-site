@@ -14,8 +14,8 @@ draft: true
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< /alert-box >}}
 
-##### Part of Massachusetts Civic Learning Week
+##### Hosted by the Massachusetts Civic Learning Coalition as part of Massachusetts Civic Learning Week
 
-###### Massachusetts Civic Learning Week seeks to empower all of us to see ourselves as participants and changemakers in our democracy. The week’s events will highlight the voices of youth and teachers.
+[Massachusetts Civic Learning Week ](https://www.macivicsforall.org/clw2022)seeks to empower all of us to see ourselves as participants and changemakers in our democracy. The week’s events will highlight the voices of youth and teachers.
 
-In this session we'll discuss how maps and digital mapping are used by the Map Center to work with high school students in Boston to explore ideas of community and addressing social issues. Educators from the Map Center will focus on a recent 2-week course working with seniors at the Margarita Muniz Academy and will highlight several lessons and student projects.
+ role of maps and digital mapping when exploring ideas of community and addressing social issues. LMEC K-12 Education staff will focus on a recent 2-week course working with seniors at the Margarita Muniz Academy and will highlight several lessons and student projects.
