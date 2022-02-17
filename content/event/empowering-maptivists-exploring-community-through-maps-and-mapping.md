@@ -9,7 +9,6 @@ fee: Free
 registration: https://www.macivicsforall.org/clw2022
 tags:
 - Massachusetts Civic Learning Week
-draft: true
 
 ---
 ### About this event
