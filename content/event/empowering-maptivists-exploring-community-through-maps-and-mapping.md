@@ -2,8 +2,8 @@
 publishDate: 2022-02-17T12:57:42-05:00
 title: 'Empowering Maptivists: Exploring Community Through Maps and Mapping '
 date: 2022-03-09T18:00:00-05:00
-image: "/uploads/2022-02-17/screen-shot-2022-02-17-at-1-03-29-pm.png"
-backgroundImage: "/uploads/2022-02-17/screen-shot-2022-02-17-at-1-03-29-pm.png"
+image: "/uploads/2022-02-17/neighbor.jpeg"
+backgroundImage: "/uploads/2022-02-17/neighbor.jpeg"
 location: Online
 fee: Free
 registration: https://www.macivicsforall.org/clw2022
