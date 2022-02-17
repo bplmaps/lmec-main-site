@@ -16,6 +16,6 @@ draft: true
 
 ##### Hosted by the Massachusetts Civic Learning Coalition as part of Massachusetts Civic Learning Week
 
-[Massachusetts Civic Learning Week ](https://www.macivicsforall.org/clw2022)seeks to empower all of us to see ourselves as participants and changemakers in our democracy. The week’s events will highlight the voices of youth and teachers.
+[Massachusetts Civic Learning Week](https://www.macivicsforall.org/clw2022) seeks to empower all of us to see ourselves as participants and changemakers in our democracy. The week’s events will highlight the voices of youth and teachers.
 
- role of maps and digital mapping when exploring ideas of community and addressing social issues. LMEC K-12 Education staff will focus on a recent 2-week course working with seniors at the Margarita Muniz Academy and will highlight several lessons and student projects.
+This session will discuss the role of maps and digital mapping when exploring ideas of community and addressing social issues. We'll touch on a recent 2-week course with seniors at the [Margarita Muniz Academy](https://munizacademy.org/), highlight several lessons plans, and spotlight student projects.
