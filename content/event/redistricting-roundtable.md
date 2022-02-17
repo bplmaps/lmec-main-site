@@ -17,9 +17,7 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Ww_aMQI36Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### **Join us for a talk on redistricting, digital mapping tools, and organizing efforts on the local and national scale.**
-
-##### About this event
+### About this event
 
 Join LMEC and [Beth Huang](https://mavotertable.org/team) from the [Massachusetts Voter Table](https://mavotertable.org/) as we speak with  [Gladys Vega](https://la-colaborativa.org/about/staff/) from Boston-based nonprofit [La Colaborativa](https://la-colaborativa.org/) and [Steven Romalewski](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Centers-and-Institutes/Center-for-Urban-Research/About/People/Steven-Romalewski) from the [CUNY Mapping Service](https://www.gc.cuny.edu/urbanresearchmaps?gclid=Cj0KCQiAraSPBhDuARIsAM3Js4p3iDZexCXuOKSsfw7ePDVBEbRebiXgdxVvwYWCEzQlTmLegA2g_WcaAm9mEALw_wcB) about redistricting, digital mapping tools, and organizing efforts locally and nationally.
 
