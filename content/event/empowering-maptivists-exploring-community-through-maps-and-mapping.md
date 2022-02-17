@@ -12,7 +12,7 @@ tags:
 draft: true
 
 ---
-### About this event 
+### About this event
 
 ##### Part of **Massachusetts Civic Learning Week.** Massachusetts Civic Learning Week seeks to empower all of us to see ourselves as participants and changemakers in our democracy. The week’s events will highlight the voices of youth and teachers.
 
