@@ -9,7 +9,6 @@ fee: Free
 registration: https://www.educatingforamericandemocracy.org/newsandevents/professional-development/#intro-series
 tags:
 - Professional Development
-draft: true
 
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< /alert-box >}}
