@@ -1,7 +1,7 @@
 ---
-publishDate: 2022-02-22T16:06:26-05:00
+publishDate: 2022-02-23T09:00:26-05:00
 title: 'Interview Series: A Chat with Alex Hill'
-date: 2022-03-09T03:00:00-05:00
+date: 2022-03-09T15:00:00-05:00
 image: "/uploads/2022-02-22/screen-shot-2021-05-19-at-12-46-36-pm.png"
 backgroundImage: "/uploads/2022-02-22/screen-shot-2021-05-19-at-12-46-36-pm.png"
 location: Online
