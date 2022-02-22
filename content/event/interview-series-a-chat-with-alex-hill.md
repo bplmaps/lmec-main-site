@@ -12,8 +12,10 @@ tags:
 draft: true
 
 ---
-### About this event 
+**Sit down for a conversation with critical cartographer Alex B. Hill on mapping and the history of cities.** 
 
-Join critical cartographer [Alex B. Hill](https://alexbhill.org/), the creator of _Detroit in 50 Maps_ and numerous other map and design projects, for an information conversation with the Leventhal Map & Education Center. Alex will discuss his work bringing maps and digital information to bear on the social issues of Detroit, and explain how mapping is crucial for understanding the history of cities.
+### About this event
 
 {{< figure src="/uploads/2022-02-22/alex.jpeg" caption="" class="figure-right" >}}
+
+Join critical cartographer [Alex B. Hill](https://alexbhill.org/), the creator of _Detroit in 50 Maps_ and numerous other map and design projects, for an information conversation with the Leventhal Map & Education Center. Alex will discuss his work bringing maps and digital information to bear on the social issues of Detroit, and explain how mapping is crucial for understanding the history of cities.
