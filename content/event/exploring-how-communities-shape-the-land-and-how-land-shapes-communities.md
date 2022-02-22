@@ -18,6 +18,6 @@ draft: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bIu4Pi42fHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### About this event
+### About this event
 
 This program is the latest in [Educating for American Democracy's](https://www.educatingforamericandemocracy.org/) free workshop series [_Roadmap to Educating for American Democracy_](https://www.educatingforamericandemocracy.org/newsandevents/professional-development/#intro-series)_._ LMEC Director of Education Michelle LeBlanc joins EAD to discuss the story of land and maps, specifically the practice of mapping indigenous presence. 
