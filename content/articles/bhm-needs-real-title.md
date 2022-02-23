@@ -22,7 +22,7 @@ This seemingly-cheerful pictorial map of Chicago from 1931 includes racist image
 
 #### Race and space
 
-{{< figure src="/uploads/2022-02-23/1.jpeg" caption="" class="figure-left" >}}
+{{< figure src="/uploads/2022-02-23/1.jpeg" caption="Assistant Curator Ian Spangler [interviewed](https://www.leventhalmap.org/articles/scott-markley-interview/) PhD candidate Scott Markley as part of our Get To Know Your Data series" class="figure-left" >}}
 
 The previously discussed logics fueling racial and spatial segregation are deeply rooted in U.S. property and loan practices. Last month, LMEC Assistant Curator [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/) sat down with PhD candidate [Scott Markley](https://snmarkley1.github.io/) to discuss these histories and legacies within Homeowners Loan Corporation (HOLC) “redlining” maps, commonly referenced today to demonstrate the histories and geographies of racial discrimination in U.S. cities.
 
