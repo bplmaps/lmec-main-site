@@ -14,7 +14,7 @@ draft: true
 ---
 ### About this event
 
-{{< figure src="/uploads/2022-02-22/alex.jpeg" caption="[Learn more](https://alexbhill.org/) about Alex." class="figure-right" >}}
+{{< figure src="/uploads/2022-02-23/alex.jpeg" caption="[Learn more](https://alexbhill.org/) about Alex." class="figure-right" >}}
 
 {{< figure src="/uploads/2022-02-23/det_midcass_v3.png" caption="" class="figure-right" >}}
 
