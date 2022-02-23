@@ -122,11 +122,10 @@ audiences:
       link: https://geoservices.leventhalmap.org/cartinal
 frontpageFeature:
   enable: true
-  bg_image: https://tile.loc.gov/image-services/iiif/service:gmd:gmd376:g3764:g3764b:pm002791/608,834,7037,2742/,1200/0/default.jpg
-  title: The truth is in there
-  content: 'Our exhibition *Bending Lines: Maps and Data from Distortion to Deception*
-    is now available in person at our free gallery at the Central Library in Copley
-    Square.'
+  bg_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw59w/272,313,6880,2393/,1200/0/default.jpg
+  title: A shared environment?
+  content: 'Our exhibition *More or Less in Common: Environment and Justice in the Human Landscape* 
+  opens March 18 at our free gallery at the Central Library in Copley Square.'
   button:
     enable: true
     label: Information for visitors
