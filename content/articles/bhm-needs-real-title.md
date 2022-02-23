@@ -38,7 +38,7 @@ One such study came from Ida B. Wells, a Black journalist and activist born into
 
 On February 12, 1909, Ida B. Wells joined an interracial group of activists—including W.E.B Du Bois, Mary Church Terrell, Archibald Grimke, Mary White Ovington, Oswald Garrison Villard, William English Walling, and Dr. Henry Moscowitz—to form the [National Association of Colored People](https://naacp.org/) (NAACP). The group’s formation came as a response to race riots and disturbing trends of lynching during and following the Civil War and Reconstruction era.
 
-{{< figure src="/uploads/2022-02-23/571a080e-1.png" caption="" class="figure-left" >}}
+{{< figure src="/uploads/2022-02-23/571a080e-1.png" caption="[The NAACP's Thirty Years of Lynching in the United States, 1889-1919](https://archive.org/details/thirtyyearsoflyn00nati) offers lynching statistics by number, year, state, color, sex, and alleged offense." class="figure-left" >}}
 
 In 1919, the NAACP published one of their most influential works, [Thirty Years of Lynching in the United States](https://catalog.loc.gov/vwebv/holdingsInfo?searchId=12706&recCount=25&recPointer=0&bibId=8720588), to present a comprehensive study of lynching in response to anti-Black violence, racial inequalities, and regional differences during the period of time from 1889 to 1918. Similar to Wells’ _Red Record_, the NAACP’s publication tracks geographic distribution of lynching from 1909 to 1918, but presents the data visually on [this map](https://www.loc.gov/static/classroom-materials/naacp-a-century-in-the-fight-for-freedom/documents/lynching.pdf) using a discernible scale of hatching, striping, and shading.
 
