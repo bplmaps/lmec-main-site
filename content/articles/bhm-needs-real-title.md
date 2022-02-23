@@ -10,7 +10,7 @@ backgroundImage: "/uploads/2022-02-23/571a080e-1.png"
 draft: true
 
 ---
-Many in the United States observe the month of February as Black History Month to celebrate the “[too-often neglected accomplishments of black Americans...throughout history](https://blackhistorymonth.gov/about/)” and coordinate the “[teaching of Black history in public schools](https://www.npr.org/2022/02/01/1075623826/why-is-february-black-history-month).” To recognize Black History Month—and acknowledge that teachings of Black history should not be limited to just the 28 days of February—we’ve rounded up some materials that reflect on historical figures, geographies, and cartographies that worked to either enable and inhibit the empowerment of Black communities.
+Many in the United States observe the month of February as Black History Month to celebrate the “[too-often neglected accomplishments of black Americans...throughout history](https://blackhistorymonth.gov/about/).” To recognize Black History Month—and acknowledge that teachings of Black history should not be limited to just the 28 days of February—we’ve rounded up some materials that reflect on historical figures, geographies, and cartographies that worked to either enable and inhibit the empowerment of Black communities.
 
 #### Geographies of exclusion
 
@@ -36,7 +36,7 @@ While limited by efforts of geographic exclusion, many Black activists drew on t
 
 One such study came from Ida B. Wells, a Black journalist and activist born into slavery in 1862 Holly Springs, Mississippi. In the late-nineteenth century, Wells began tracking lynching statistics from newspaper records by alleged offense, date, name of individual (if known), and relative location. In 1895, she published the resulting report, a 100-page pamphlet, [_A Red Record_](https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=2020446877&searchType=1&permalink=y)_,_ drawing on “[geographically rectified data](https://blogs.loc.gov/maps/2022/01/visualizing-injustice-early-naacp-cartographers-and-racial-inequality-in-america/)” to detail over 10,000 cases of lynching in the United States from 1864 to 1894. This comprehensive study presented a [geographic distribution](https://www.nypl.org/events/exhibitions/galleries/beginnings/item/3548) of lynchings and thus introduced the possibility of visually translating such data in map form.
 
-On February 12, 1909, Ida B. Wells joined an interracial group of activists––including W.E.B Du Bois, Mary Church Terrell, Archibald Grimke, Mary White Ovington, Oswald Garrison Villard, William English Walling, and Dr. Henry Moscowitz––to form the National Association of Colored People (NAACP). The group’s formation came as a response to race riots and disturbing trends of lynching during and following the Civil War and Reconstruction era.
+On February 12, 1909, Ida B. Wells joined an interracial group of activists—including W.E.B Du Bois, Mary Church Terrell, Archibald Grimke, Mary White Ovington, Oswald Garrison Villard, William English Walling, and Dr. Henry Moscowitz—to form the [National Association of Colored People](https://naacp.org/) (NAACP). The group’s formation came as a response to race riots and disturbing trends of lynching during and following the Civil War and Reconstruction era.
 
 {{< figure src="/uploads/2022-02-23/571a080e-1.png" caption="" class="figure-left" >}}
 
