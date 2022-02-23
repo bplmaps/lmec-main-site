@@ -28,6 +28,10 @@ The previously discussed logics fueling racial and spatial segregation are deepl
 
 [HOLC maps](https://collections.leventhalmap.org/collections/commonwealth:00000x35p) were created to evaluate investment risk for mortgage assistance and loans in urban areas based on factors like Black population percentage, “foreign-born” population percentage and group, family income, occupation class, average building age, home repair status, and mortgage availability. The resulting maps often produced implicit claims on the relationship between value and race in cities: if Black folks were moving into a white neighborhood, it would be considered by neighborhood appraisers as “in decline” because Black residential presence was thought to speed up the neighborhood aging process, so to speak.
 
+{{< figure src="/uploads/2022-02-23/cover.png" caption="" class="figure-right" >}}
+
+Confronted with the dangers and exclusions of such geographic practices, a Black “[tool of resistance](https://link.springer.com/chapter/10.1007/978-3-030-37569-0_4)” emerged in the mid-twentieth century “[to spatially subvert white supremacy](https://link.springer.com/chapter/10.1007/978-3-030-37569-0_4).” Between 1936 and 1966, over 30 editions of [_The Green Book _](https://digitalcollections.nypl.org/collections/the-green-book#/?tab=navigation&scroll=3)were published as safe travel guides for Black travelers when passing through “[hostile areas](https://link.springer.com/chapter/10.1007/978-3-030-37569-0_4)” of the country. Today, the guidebooks offer an insight into the understudied geographic spaces and behaviors of Black travelers during the Jim Crow era.
+
 #### Mapping racial inequality, violence, and progress
 
 {{< figure src="/uploads/2022-02-23/red-record.png" caption="Ida B. Wells' [A Red Record ](https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=2020446877&searchType=1&permalink=y)was the first statistical analysis of nationwide lynchings." class="figure-right" >}}
