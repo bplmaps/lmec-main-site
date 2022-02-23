@@ -19,7 +19,7 @@ draft: true
 
     {{< carousel-figure src="/uploads/2022-02-23/alex.jpeg" >}}{{< /carousel-figure >}}
     
-    {{< carousel-figure src="/uploads/2022-02-23/det_midcass_v3.png" >}}{{< /carousel-figure >}}
+    {{< carousel-figure src="/uploads/2022-02-23/det_midcass_v3-1.png" >}}{{< /carousel-figure >}}
 
 {{< /carousel >}}
 
