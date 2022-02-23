@@ -1,5 +1,5 @@
 ---
-date: 2022-02-23T14:09:42-05:00
+date: 2022-02-23T14:09:42.000-05:00
 title: A long history of Black geographies and cartographies
 description: 'To recognize Black History Month and acknowledge our commitment to share
   Black histories year round, we’ve rounded up some materials that reflect on Black
@@ -34,7 +34,7 @@ The previously discussed logics fueling racial and spatial segregation are deepl
 
 {{< figure src="/uploads/2022-02-23/red-record.png" caption="Ida B. Wells' [A Red Record ](https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=2020446877&searchType=1&permalink=y)was the first statistical analysis of nationwide lynchings." class="figure-right" >}}
 
-While limited by efforts of geographic exclusion, many Black activists drew on their own geographic analyses and visualizations as a mode to communicate racial injustices.
+In addition to space navigation, many Black activists drew on their own geographic analyses and visualizations as a mode to communicate racial injustices.
 
 One such study came from Ida B. Wells, a Black journalist and activist born into slavery in 1862 Holly Springs, Mississippi. In the late-nineteenth century, Wells began tracking lynching statistics from newspaper records by alleged offense, date, name of individual (if known), and relative location. In 1895, she published the resulting report, a 100-page pamphlet titled [_A Red Record_](https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=2020446877&searchType=1&permalink=y)_,_ drawing on “[geographically rectified data](https://blogs.loc.gov/maps/2022/01/visualizing-injustice-early-naacp-cartographers-and-racial-inequality-in-america/)” to detail over 10,000 cases of lynching in the United States from 1864 to 1894. This comprehensive study presented a [geographic distribution](https://www.nypl.org/events/exhibitions/galleries/beginnings/item/3548) of lynchings and thus introduced the possibility of visually translating such data in map form.
 
