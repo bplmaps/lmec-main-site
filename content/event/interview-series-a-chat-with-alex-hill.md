@@ -14,6 +14,10 @@ draft: true
 ---
 ### About this event
 
+{{< figure src="/uploads/2022-02-23/det_midcass_v3.png" caption="" class="figure-right" >}}
+
+{{< figure src="/uploads/2022-02-23/alex.jpeg" caption="" class="figure-right" >}}
+
 Join critical cartographer [Alex B. Hill](https://alexbhill.org/), the creator of _Detroit in 50 Maps_ and numerous other map and design projects, for an information conversation with the Leventhal Map & Education Center. Alex will discuss his work bringing maps and digital information to bear on the social issues of Detroit, and explain how mapping is crucial for understanding the history of cities.
 
 This program is free and open to the public.
