@@ -30,7 +30,7 @@ HOLC maps were created to evaluate investment risk for mortgage assistance and l
 
 #### Mapping racial inequality, violence, and progress
 
-{{< figure src="/uploads/2022-02-23/screen-shot-2022-02-23-at-2-37-44-pm.png" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2022-02-23/red-record.png" caption="" class="figure-right" >}}
 
 While limited by efforts of geographic exclusion, many Black activists drew on their own geographic analyses and visualizations as a mode to communicate racial injustices.
 
