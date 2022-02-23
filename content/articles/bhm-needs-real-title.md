@@ -45,7 +45,7 @@ In 1919, the NAACP published one of their most influential works, [Thirty Years 
 Earlier in the twentieth-century, NAACP member W.E.B Du Bois published a series of maps for an exhibit at the 1900 [Exposition Universell](https://blogs.loc.gov/maps/2022/01/visualizing-injustice-early-naacp-cartographers-and-racial-inequality-in-america/)e in Paris. Highlighting Black ownership of land, migration, and population distribution, Du Bois hoped his maps would inform the international community about the gains Black communities had made in “[income, education, and land ownership since slavery and in face of continuing racism](https://theconversation.com/how-black-cartographers-put-racism-on-the-map-of-america-155081).”
 
 {{< carousel >}}
-{{< carousel-figure src="images/page-header-backgrounds/gallery.jpg" >}}{{< /carousel-figure >}}
+{{< carousel-figure src="/uploads/2022-02-23/media-literacy.png" >}}{{< /carousel-figure >}}
 
     {{< carousel-figure src="/uploads/2022-02-23/untitled.png" >}}{{< /carousel-figure >}}
     
