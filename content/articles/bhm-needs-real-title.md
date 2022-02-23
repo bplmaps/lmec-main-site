@@ -2,8 +2,8 @@
 date: 2022-02-23T14:09:42-05:00
 title: A long history of Black geographies and cartographies
 description: 'To recognize Black History Month and acknowledge our commitment to share
-  Black histories year round, we’ve rounded up some materials that reflect on historical
-  figures, geographies, and cartographies. '
+  Black histories year round, we’ve rounded up some materials that reflect on Black
+  historical figures, geographies, and cartographies. '
 image: "/uploads/2022-02-23/571a080e-1.png"
 author: Megan Nally
 tags:
