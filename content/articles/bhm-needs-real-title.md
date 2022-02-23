@@ -22,8 +22,6 @@ In the autobiographical writings of "To Be Young, Gifted and Black," Lorraine Ha
 
 This seemingly-cheerful [pictorial map of Chicag](https://collections.leventhalmap.org/search/commonwealth:0r96fm67m)o from 1931 includes racist imagery of Black and Asian residents as it boasts of the city's youthful vigor and industriousness. These visual representations accompany the racial divisions orchestrated by the banking and real estate industries as Black Americans poured into Chicago from the South during the Great Migration and reflect the ideas that provoked the violence faced by those families, like Hansberry's, that risked crossing the lines.
 
-#### Race and space
-
 {{< figure src="/uploads/2022-02-23/1.jpeg" caption="Assistant Curator Ian Spangler [interviewed](https://www.leventhalmap.org/articles/scott-markley-interview/) PhD candidate Scott Markley as part of our Get To Know Your Data series. View the full set of residential security maps [here](https://collections.leventhalmap.org/collections/commonwealth:00000x35p)." class="figure-right" >}}
 
 The previously discussed logics fueling racial and spatial segregation are deeply rooted in U.S. property and loan practices. Last month, LMEC Assistant Curator [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/) sat down with PhD candidate [Scott Markley](https://snmarkley1.github.io/) to discuss these histories and legacies within Homeowners Loan Corporation (HOLC) “redlining” maps, commonly referenced today to demonstrate the histories and geographies of racial discrimination in U.S. cities.
