@@ -1,7 +1,9 @@
 ---
 date: 2022-02-23T14:09:42-05:00
 title: 'BHM (needs real title) '
-description: ''
+description: 'In acknowledgement of Black History Month and our commitment to teach
+  Black history year round, we''re sharing a few materials that reflect on Black historical
+  figures, geographies, and cartographies.  '
 image: "/uploads/2022-02-23/571a080e-1.png"
 author: Megan Nally
 tags:
