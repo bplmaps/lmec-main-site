@@ -14,17 +14,17 @@ Many in the United States observe the month of February as Black History Month t
 
 #### Geographies of exclusion
 
-In the autobiographical writings of "To Be Young, Gifted and Black," Lorraine Hansberry recollects her childhood experiences growing up in Chicago’s Washington Park, specifically the violence endured by her family at the hands of their white neighbors. Hansberry’s father purchased their Washington Park home through a white intermediary and soon became the subject of a lawsuit by a resident intent on preserving the racial integrity of his neighborhood.
-
 {{< figure src="/uploads/2022-02-23/img_5863.jpg" caption="" class="figure-right" >}}
+
+In the autobiographical writings of "To Be Young, Gifted and Black," Lorraine Hansberry recollects her childhood experiences growing up in Chicago’s Washington Park, specifically the violence endured by her family at the hands of their white neighbors. Hansberry’s father purchased their Washington Park home through a white intermediary and soon became the subject of a lawsuit by a resident intent on preserving the racial integrity of his neighborhood.
 
 This seemingly-cheerful pictorial map of Chicago from 1931 includes racist imagery of Black and Asian residents as it boasts of the city's youthful vigor and industriousness. These visual representations accompany the racial divisions orchestrated by the banking and real estate industries as Black Americans poured into Chicago from the South during the Great Migration and reflect the ideas that provoked the violence faced by those families, like Hansberry's, that risked crossing the lines.
 
 #### Race and space
 
-The previously discussed logics fueling racial and spatial segregation are deeply rooted in U.S. property and loan practices. Last month, LMEC Assistant Curator [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/) sat down with PhD candidate [Scott Markley](https://snmarkley1.github.io/) to discuss these histories and legacies within [Homeowners Loan Corporation (HOLC) “redlining” maps](https://www.leventhalmap.org/articles/scott-markley-interview/), commonly referenced today to demonstrate the histories and geographies of racial discrimination in U.S. cities.
-
 {{< figure src="/uploads/2022-02-23/img_5862.jpg" caption="" class="figure-left" >}}
+
+The previously discussed logics fueling racial and spatial segregation are deeply rooted in U.S. property and loan practices. Last month, LMEC Assistant Curator [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/) sat down with PhD candidate [Scott Markley](https://snmarkley1.github.io/) to discuss these histories and legacies within [Homeowners Loan Corporation (HOLC) “redlining” maps](https://www.leventhalmap.org/articles/scott-markley-interview/), commonly referenced today to demonstrate the histories and geographies of racial discrimination in U.S. cities.
 
 HOLC maps were created to evaluate investment risk for mortgage assistance and loans in urban areas based on factors like Black population percentage, “foreign-born” population percentage and group, family income, occupation class, average building age, home repair status, and mortgage availability. The resulting maps often produced implicit claims on the relationship between value and race in cities: if Black folks were moving into a white neighborhood, it would be considered by neighborhood appraisers as “in decline” because Black residential presence was thought to speed up the neighborhood aging process, so to speak.
 
