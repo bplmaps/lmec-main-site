@@ -22,9 +22,9 @@ This seemingly-cheerful pictorial map of Chicago from 1931 includes racist image
 
 #### Race and space
 
-{{< figure src="/uploads/2022-02-23/img_124bb77bd5b8-1.jpeg" caption="" class="figure-left" >}}
+{{< figure src="/uploads/2022-02-23/1.jpeg" caption="" class="figure-left" >}}
 
-The previously discussed logics fueling racial and spatial segregation are deeply rooted in U.S. property and loan practices. Last month, LMEC Assistant Curator [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/) sat down with PhD candidate [Scott Markley](https://snmarkley1.github.io/) to discuss these histories and legacies within [Homeowners Loan Corporation (HOLC) “redlining” maps](https://www.leventhalmap.org/articles/scott-markley-interview/), commonly referenced today to demonstrate the histories and geographies of racial discrimination in U.S. cities.
+The previously discussed logics fueling racial and spatial segregation are deeply rooted in U.S. property and loan practices. Last month, LMEC Assistant Curator [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/) sat down with PhD candidate [Scott Markley](https://snmarkley1.github.io/) to discuss these histories and legacies within Homeowners Loan Corporation (HOLC) “redlining” maps, commonly referenced today to demonstrate the histories and geographies of racial discrimination in U.S. cities.
 
 HOLC maps were created to evaluate investment risk for mortgage assistance and loans in urban areas based on factors like Black population percentage, “foreign-born” population percentage and group, family income, occupation class, average building age, home repair status, and mortgage availability. The resulting maps often produced implicit claims on the relationship between value and race in cities: if Black folks were moving into a white neighborhood, it would be considered by neighborhood appraisers as “in decline” because Black residential presence was thought to speed up the neighborhood aging process, so to speak.
 
