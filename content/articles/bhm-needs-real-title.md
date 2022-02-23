@@ -22,7 +22,7 @@ This seemingly-cheerful [pictorial map of Chicag](https://collections.leventhalm
 
 #### Race and space
 
-{{< figure src="/uploads/2022-02-23/1.jpeg" caption="Assistant Curator Ian Spangler [interviewed](https://www.leventhalmap.org/articles/scott-markley-interview/) PhD candidate Scott Markley as part of our Get To Know Your Data series" class="figure-right" >}}
+{{< figure src="/uploads/2022-02-23/1.jpeg" caption="Assistant Curator Ian Spangler [interviewed](https://www.leventhalmap.org/articles/scott-markley-interview/) PhD candidate Scott Markley as part of our Get To Know Your Data series." class="figure-right" >}}
 
 The previously discussed logics fueling racial and spatial segregation are deeply rooted in U.S. property and loan practices. Last month, LMEC Assistant Curator [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/) sat down with PhD candidate [Scott Markley](https://snmarkley1.github.io/) to discuss these histories and legacies within Homeowners Loan Corporation (HOLC) “redlining” maps, commonly referenced today to demonstrate the histories and geographies of racial discrimination in U.S. cities.
 
@@ -30,7 +30,7 @@ HOLC maps were created to evaluate investment risk for mortgage assistance and l
 
 #### Mapping racial inequality, violence, and progress
 
-{{< figure src="/uploads/2022-02-23/red-record.png" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2022-02-23/red-record.png" caption="Ida B. Wells' [A Red Record ](https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=2020446877&searchType=1&permalink=y)was the first statistical analysis of nationwide lynchings." class="figure-right" >}}
 
 While limited by efforts of geographic exclusion, many Black activists drew on their own geographic analyses and visualizations as a mode to communicate racial injustices.
 
