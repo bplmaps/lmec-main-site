@@ -10,7 +10,7 @@ backgroundImage: "/uploads/2022-02-23/571a080e-1.png"
 draft: true
 
 ---
-Many in the United States observe the month of February as Black History Month to celebrate the “[too-often neglected accomplishments of black Americans...throughout history](https://blackhistorymonth.gov/about/)” and coordinate the “[teaching of Black history in public schools](https://www.npr.org/2022/02/01/1075623826/why-is-february-black-history-month).” To recognize Black History Month––and acknowledge that teachings of Black history should not be limited to just the 28 days of February––we’ve rounded up some materials that reflect on historical figures, geographies, and cartographies that worked to either enable and inhibit the empowerment of Black communities.
+Many in the United States observe the month of February as Black History Month to celebrate the “[too-often neglected accomplishments of black Americans...throughout history](https://blackhistorymonth.gov/about/)” and coordinate the “[teaching of Black history in public schools](https://www.npr.org/2022/02/01/1075623826/why-is-february-black-history-month).” To recognize Black History Month—and acknowledge that teachings of Black history should not be limited to just the 28 days of February—we’ve rounded up some materials that reflect on historical figures, geographies, and cartographies that worked to either enable and inhibit the empowerment of Black communities.
 
 #### Geographies of exclusion
 
