@@ -30,9 +30,9 @@ HOLC maps were created to evaluate investment risk for mortgage assistance and l
 
 ### Mapping Racial Inequality, Violence, & Progress
 
-While limited by efforts of geographic exclusion, many Black activists drew on their own geographic analyses and visualizations as a mode to communicate racial injustices.
-
 {{< figure src="/uploads/2022-02-23/red-record.png" caption="" class="figure-right" >}}
+
+While limited by efforts of geographic exclusion, many Black activists drew on their own geographic analyses and visualizations as a mode to communicate racial injustices.
 
 One such study came from Ida B. Wells, a Black journalist and activist born into slavery in 1862 Holly Springs, Mississippi. In the late-nineteenth century, Wells began tracking lynching statistics from newspaper records by alleged offense, date, name of individual (if known), and relative location. In 1895, she published the resulting report, a 100-page pamphlet, [_A Red Record_](https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=2020446877&searchType=1&permalink=y)_,_ drawing on “[geographically rectified data](https://blogs.loc.gov/maps/2022/01/visualizing-injustice-early-naacp-cartographers-and-racial-inequality-in-america/)” to detail over 10,000 cases of lynching in the United States from 1864 to 1894. This comprehensive study presented a [geographic distribution](https://www.nypl.org/events/exhibitions/galleries/beginnings/item/3548) of lynchings and thus introduced the possibility of visually translating such data in map form.
 
