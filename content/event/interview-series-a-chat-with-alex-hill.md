@@ -15,7 +15,7 @@ draft: true
 ### About this event
 
 {{< carousel >}}
-{{< carousel-figure src="images/page-header-backgrounds/gallery.jpg" >}}{{< /carousel-figure >}}
+{{< carousel-figure src="/uploads/2022-02-23/det_nhoodagreement.jpg" >}}{{< /carousel-figure >}}
 
     {{< carousel-figure src="/uploads/2022-02-23/alex.jpeg" >}}{{< /carousel-figure >}}
     
