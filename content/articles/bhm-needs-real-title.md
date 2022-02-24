@@ -64,3 +64,5 @@ Earlier in the twentieth-century, NAACP member W.E.B Du Bois and a group of [Atl
     {{< carousel-figure src="/uploads/2022-02-23/untitled-2.png" >}}{{< /carousel-figure >}}
 
 {{< /carousel >}}
+
+#### Celebrations o black art and culture 
