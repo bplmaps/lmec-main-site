@@ -72,4 +72,4 @@ In 1900, NAACP member W.E.B Du Bois and a group of [Atlanta University](https://
 
 Later in the twentieth century, illustrator Louise E. Jefferson created a series of maps during the [Harlem Renaissance](https://blogs.loc.gov/maps/2022/02/louise-e-jefferson-a-hidden-african-american-cartographer/?loclr=twloc) of the 1920s and 1930s that highlight prominent people and places of less visible histories. In this [1946 map](https://lccn.loc.gov/2014593079), Jefferson scatters pictorial representations of people and places important to Black culture across the United States and southern Canada. She recognizes Benjamin Banneker for his making of the first clock, Hattie McDaniel for her Academy award win, and Dr. Charles Drew of Howard University Medical School for his work on blood plasma use and preservation, to name a few.
 
-{{< figure src="/uploads/2022-02-24/jazz.jpeg" caption="" class="figure-left" >}}
+{{< figure src="/uploads/2022-02-24/jazz.jpeg" caption="" class="figure-right" >}}
