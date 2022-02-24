@@ -74,6 +74,8 @@ Later in the twentieth century, illustrator Louise E. Jefferson created a series
 
 With heightened emphasis on the arts, the Harlem Renaissance also produced the Jazz Age, celebrated in this 1998 [map](http://digitalarchives.queenslibrary.org/browse/queens-jazz-trail-full-color-illustrated-map-homes-jazz-legends-past-and-present-places) of Queens. Made by cartoonist Tony Millionaire, the pictorial map celebrates “jazz legends past and present” and “places of interest for jazz fans.” Cartoon portraits of figures such as Ella Fitzgerald, Louis Armstrong, and Dizzy Gillespie are placed along a route of venues and homes of other artists.
 
-{{< figure src="/uploads/2022-02-24/jazz.jpeg" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2022-02-24/jazz.jpeg" caption="The Jazz Age produced and popularized new styles of music and dance." class="figure-right" >}}
 
-{{< figure src="/uploads/2022-02-24/iiif-service_gmd_gmd380_g3804_g3804n_ct007809-full-pct_25-0-default.jpeg" caption="" class="figure-right" >}}
+A host of other entertainment venues, restaurants, and speakeasy facilities are pictured on this 1933 [map](https://www.loc.gov/resource/g3804n.ct007809/?r=0.076,-0.116,1.111,0.889,0) of Harlem by visual artist Elmer Simms Campbell. The map includes pictorial representations and labels of places such as the Savoy Ballroom, Lafayette Theatre, and Club Hot-Cha; it also references piano player Garland Wilson, tap dancer Bill “Bojangles” Robinson, and the Don Redman’s Band.
+
+{{< figure src="/uploads/2022-02-24/iiif-service_gmd_gmd380_g3804_g3804n_ct007809-full-pct_25-0-default.jpeg" caption=“According to this night-club [map](https://www.loc.gov/resource/g3804n.ct007809/?r=0.076,-0.116,1.111,0.889,0), there are clubs opening and closing at all times in Harlem. ” class="figure-right" >}}
