@@ -30,9 +30,9 @@ The previously discussed logics fueling racial and spatial segregation are deepl
 
 {{< carousel >}} {{< carousel-figure src="/uploads/2022-02-24/5207618.jpeg" >}}{{< /carousel-figure >}}
 
-    {{< carousel-figure src="/uploads/2022-02-23/5207620.jpeg" >}}{{< /carousel-figure >}}
+    {{< carousel-figure src="/uploads/2022-02-24/5212859.jpeg" >}}{{< /carousel-figure >}}
     
-    {{< carousel-figure src="uploads/2022-02-23/5207618.jpeg" >}}{{< /carousel-figure >}}
+    {{< carousel-figure src="/uploads/2022-02-24/5206347.jpeg" >}}{{< /carousel-figure >}}
 
 {{< /carousel >}}
 
