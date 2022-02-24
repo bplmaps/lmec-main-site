@@ -75,3 +75,5 @@ Later in the twentieth century, illustrator Louise E. Jefferson created a series
 With heightened emphasis on the arts, the Harlem Renaissance also produced the Jazz Age, celebrated in this [1998 map](http://digitalarchives.queenslibrary.org/browse/queens-jazz-trail-full-color-illustrated-map-homes-jazz-legends-past-and-present-places) of Queens. Made by cartoonist Tony Millionaire, the pictorial map celebrates “jazz legends past and present” and “places of interest for jazz fans.” Cartoon portraits of figures such as Ella Fitzgerald, Louis Armstrong, and Dizzy Gillespie are placed along a route of venues and homes of other artists.
 
 {{< figure src="/uploads/2022-02-24/jazz.jpeg" caption="" class="figure-right" >}}
+
+{{< figure src="/uploads/2022-02-24/iiif-service_gmd_gmd380_g3804_g3804n_ct007809-full-pct_25-0-default.jpeg" caption="" class="figure-right" >}}
