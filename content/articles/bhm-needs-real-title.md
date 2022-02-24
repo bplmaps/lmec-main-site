@@ -28,13 +28,7 @@ The previously discussed logics fueling racial and spatial segregation are deepl
 
 [HOLC maps](https://collections.leventhalmap.org/collections/commonwealth:00000x35p) were created to evaluate investment risk for mortgage assistance and loans in urban areas based on factors like Black population percentage, “foreign-born” population percentage and group, family income, occupation class, average building age, home repair status, and mortgage availability. The resulting maps often produced implicit claims on the relationship between value and race in cities: if Black folks were moving into a white neighborhood, it would be considered by neighborhood appraisers as “in decline” because Black residential presence was thought to speed up the neighborhood aging process, so to speak.
 
-{{< carousel >}} {{< carousel-figure src="/uploads/2022-02-24/5207618.jpeg" >}}{{< /carousel-figure >}}
-
-    {{< carousel-figure src="/uploads/2022-02-24/5212859.jpeg" >}}{{< /carousel-figure >}}
-    
-    {{< carousel-figure src="/uploads/2022-02-24/5206347.jpeg" >}}{{< /carousel-figure >}}
-
-{{< /carousel >}}
+{{< figure src="/uploads/2022-02-24/media-literacy-1.png" caption="Cover pages of The Green Book from [1940](https://digitalcollections.nypl.org/items/dc858e50-83d3-0132-2266-58d385a7b928), [1947](https://digitalcollections.nypl.org/items/29219280-892b-0132-4271-58d385a7bbd0), and [1952](https://digitalcollections.nypl.org/items/42c15a10-92c7-0132-cf89-58d385a7b928)." class="figure-right" >}}
 
 Confronted with the dangers and exclusions of such geographic practices, a Black “[tool of resistance](https://link.springer.com/chapter/10.1007/978-3-030-37569-0_4)” emerged in the mid-twentieth century “[to spatially subvert white supremacy](https://link.springer.com/chapter/10.1007/978-3-030-37569-0_4).” Between 1936 and 1966, over 30 editions of [_The Green Book_](https://digitalcollections.nypl.org/collections/the-green-book#/?tab=navigation&scroll=1) were published as safe travel guides for Black travelers when passing through “[hostile areas](https://link.springer.com/chapter/10.1007/978-3-030-37569-0_4)” of the country. By state, each edition lists hotels, tourist homes, garages, restaurants, service stations, beauty parlors, barber shops, and night clubs. Today, the guidebooks offer an insight into the understudied geographic spaces and behaviors of Black travelers during the Jim Crow era.
 
