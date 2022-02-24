@@ -54,6 +54,8 @@ In 1919, the NAACP published one of their most influential works, [Thirty Years 
 
 #### Celebrations of community, art, and culture 
 
+While certain maps were used to visualize injustices, others were created to celebrate art, culture, and social progress within Black communities.
+
 In 1900, NAACP member W.E.B Du Bois and a group of [Atlanta University](https://thegeorgiareview.com/posts/georgia-in-line-and-color-w-e-b-du-boiss-data-portraits/) graduate students contributed over [30 statistical charts](https://www.loc.gov/collections/african-american-photographs-1900-paris-exposition/?c=150&dates=1900/1999&fa=contributor:atlanta+university&st=list) and visualizations for the Exhibit of American Negroes as part of the [Exposition Universelle](https://blogs.loc.gov/maps/2022/01/visualizing-injustice-early-naacp-cartographers-and-racial-inequality-in-america/) in Paris. Highlighting Black ownership of [land](https://loc.gov/resource/ppmsca.33882/?loclr=blogmap), [migration](https://www.loc.gov/item/2013650427/), and [population distribution](https://www.loc.gov/item/2013650425/), these maps aimed to display “[a wide spectrum of Black experience](https://bpl.bibliocommons.com/v2/record/S75C6981809)” and inform the international community about the gains Black communities had made in “[since slavery and in face of continuing racism](https://theconversation.com/how-black-cartographers-put-racism-on-the-map-of-america-155081).”
 
 {{< carousel >}} {{< carousel-figure src="/uploads/2022-02-23/media-literacy.png" >}}{{< /carousel-figure >}}
@@ -65,5 +67,3 @@ In 1900, NAACP member W.E.B Du Bois and a group of [Atlanta University](https://
     {{< carousel-figure src="/uploads/2022-02-23/untitled-2.png" >}}{{< /carousel-figure >}}
 
 {{< /carousel >}}
-
-#### 
