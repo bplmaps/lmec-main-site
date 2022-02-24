@@ -28,7 +28,7 @@ The previously discussed logics fueling racial and spatial segregation are deepl
 
 [HOLC maps](https://collections.leventhalmap.org/collections/commonwealth:00000x35p) were created to evaluate investment risk for mortgage assistance and loans in urban areas based on factors like Black population percentage, “foreign-born” population percentage and group, family income, occupation class, average building age, home repair status, and mortgage availability. The resulting maps often produced implicit claims on the relationship between value and race in cities: if Black folks were moving into a white neighborhood, it would be considered by neighborhood appraisers as “in decline” because Black residential presence was thought to speed up the neighborhood aging process, so to speak.
 
-{{< carousel >}} {{< carousel-figure src="/uploads/2022-02-23/5206347.jpeg" >}}{{< /carousel-figure >}}
+{{< carousel >}} {{< carousel-figure src="/uploads/2022-02-24/5207618.jpeg" >}}{{< /carousel-figure >}}
 
     {{< carousel-figure src="/uploads/2022-02-23/5207620.jpeg" >}}{{< /carousel-figure >}}
     
