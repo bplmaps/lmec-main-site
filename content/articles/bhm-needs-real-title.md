@@ -70,12 +70,12 @@ In 1900, NAACP member W.E.B Du Bois and a group of [Atlanta University](https://
 
 {{< figure src="/uploads/2022-02-24/americans-of-negro-lineage.jpeg" caption="Jefferson's [Americans of Negro lineage](https://blogs.loc.gov/maps/2022/02/louise-e-jefferson-a-hidden-african-american-cartographer/?loclr=twloc) map is just one from a series highlighting marginalized communities in the United States." class="figure-right" >}}
 
+{{< figure src="/uploads/2022-02-24/jazz.jpeg" caption="The Jazz Age produced and popularized new styles of music and dance." class="figure-right" >}}
+
+{{< figure src="/uploads/2022-02-24/iiif-service_gmd_gmd380_g3804_g3804n_ct007809-full-pct_25-0-default.jpeg" caption=“According to this night-club [map](https://www.loc.gov/resource/g3804n.ct007809/?r=0.076,-0.116,1.111,0.889,0), there are clubs opening and closing at all times in Harlem. ” class="figure-right" >}}
+
 Later in the twentieth century, illustrator Louise E. Jefferson created a series of maps during the [Harlem Renaissance](https://blogs.loc.gov/maps/2022/02/louise-e-jefferson-a-hidden-african-american-cartographer/?loclr=twloc) of the 1920s and 1930s that highlight prominent people and places of less visible histories. In this 1946 [map](https://lccn.loc.gov/2014593079), Jefferson scatters pictorial representations of people and places important to Black culture across the United States and southern Canada. She recognizes Benjamin Banneker for his making of the first clock, Hattie McDaniel for her Academy award win, and Dr. Charles Drew of Howard University Medical School for his work on blood plasma use and preservation, to name a few.
 
 With heightened emphasis on the arts, the Harlem Renaissance also produced the Jazz Age, celebrated in this 1998 [map](http://digitalarchives.queenslibrary.org/browse/queens-jazz-trail-full-color-illustrated-map-homes-jazz-legends-past-and-present-places) of Queens. Made by cartoonist Tony Millionaire, the pictorial map celebrates “jazz legends past and present” and “places of interest for jazz fans.” Cartoon portraits of figures such as Ella Fitzgerald, Louis Armstrong, and Dizzy Gillespie are placed along a route of venues and homes of other artists.
 
-{{< figure src="/uploads/2022-02-24/jazz.jpeg" caption="The Jazz Age produced and popularized new styles of music and dance." class="figure-right" >}}
-
 A host of other entertainment venues, restaurants, and speakeasy facilities are pictured on this 1933 [map](https://www.loc.gov/resource/g3804n.ct007809/?r=0.076,-0.116,1.111,0.889,0) of Harlem by visual artist Elmer Simms Campbell. The map includes pictorial representations and labels of places such as the Savoy Ballroom, Lafayette Theatre, and Club Hot-Cha; it also references piano player Garland Wilson, tap dancer Bill “Bojangles” Robinson, and the Don Redman’s Band.
-
-{{< figure src="/uploads/2022-02-24/iiif-service_gmd_gmd380_g3804_g3804n_ct007809-full-pct_25-0-default.jpeg" caption=“According to this night-club [map](https://www.loc.gov/resource/g3804n.ct007809/?r=0.076,-0.116,1.111,0.889,0), there are clubs opening and closing at all times in Harlem. ” class="figure-right" >}}
