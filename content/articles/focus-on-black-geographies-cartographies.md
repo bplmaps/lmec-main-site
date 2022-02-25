@@ -1,9 +1,10 @@
 ---
-date: 2022-02-25T09:30:00-05:00
+date: 2022-02-25T09:30:00.000-05:00
 title: A focus on Black geographies and cartographies
-description: 'To recognize Black History Month and acknowledge our commitment to share
+description: To recognize Black History Month and acknowledge our commitment to share
   Black histories year round, we’ve collected a set of materials that reflect on Black
-  historical figures, geographies, and cartographies, as an inspiration for further inspiration and research.'
+  historical figures, geographies, and cartographies, as an inspiration for further
+  consideration and research.
 image: "/uploads/2022-02-24/americans-of-negro-lineage.jpeg"
 author: Megan Nally
 tags:
@@ -12,10 +13,8 @@ tags:
 - pictorial maps
 - data visualization
 backgroundImage: "/uploads/2022-02-24/americans-of-negro-lineage.jpeg"
-draft: false
 
 ---
-
 Many in the United States observe the month of February as Black History Month to celebrate the “[the importance of Black history in the drama of the American story](https://blackhistorymonth.gov/about/).” To recognize Black History Month and acknowledge our commitment to share Black histories year round, we're focusing on some materials that reflect on historical figures, geographies, and cartographies that document these stories. From difficult stories about oppression to portraits of liberation, maps can lead us into many different ways of commemorating Black culture and history in the United States.
 
 #### Geographies of exclusion
