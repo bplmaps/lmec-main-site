@@ -57,7 +57,7 @@ Robert M. Melzer
 
 Alex Krieger  
 Sierra Laddusaw  
-Alan Leventhal, _ex officio_  
+Charles Cooney, _ex officio_  
 Margaret Pearce  
 Richard Pegg, _Chair_  
 Tim Wallace
