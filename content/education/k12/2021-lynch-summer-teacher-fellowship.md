@@ -31,11 +31,7 @@ Any K-12 teacher or library media specialist who has an interest in teaching abo
 ### **Expectations**
 
 * As a cohort, teachers will meet in person 3 times over the summer (dates TBD). Dates will all be in June/July/August and will be coordinated with Map Center staff. LMEC education staff will also schedule check-ins individually with fellows over the course of the summer.
-
-
 * A final project must be completed by the end of August. Final projects can be lessons and activities incorporating primary sources, including maps, from the collections of the Leventhal Map & Education Center and Boston Public Library as well as other resources.
-
-
 * Fellows must be willing to have their projects shared with the larger teaching community, online, and in person to other teachers as part of professional development (TBD).
 
 ### **To apply**
