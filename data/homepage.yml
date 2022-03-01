@@ -47,6 +47,10 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Gallery closure
+    text: The Map Center gallery will be closed from March 5–March 17 for the installation
+      of our new exhibition More or Less in Common
+    link: https://www.leventhalmap.org/exhibitions/
   - badge: New acquisition
     text: A mechanical map from the late nineteenth century showing the US's territorial
       expansion
