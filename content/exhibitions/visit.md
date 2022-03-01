@@ -11,6 +11,12 @@ Our exhibitions gallery is free to the public, and no advance booking is necessa
 
 ## Visiting Hours
 
+{{< alert-box type="danger" title="Temporary closure" >}}
+
+The Map Center gallery will be **closed from March 5 through March 18** to install our new exhibition, _More or Less in Common: Environment and Justice in the Human Landscape_.
+
+{{</ alert-box >}}
+
 {{< alert-box type="danger" title="Masks required" >}}
 
 Face masks must be worn at all times by all staff and visitors in the Central Library.
@@ -27,11 +33,11 @@ See [Hours & Directions](/about/hours-directions/) for a map to the Map Center a
 
 Our free gallery tours last approximately 30 minutes and do not require advance registration. To join a gallery tour, meet at the gallery front desk at the scheduled time.
 
-| Day      | Gallery tour hours |
-|----------|--------------------|
-| Monday   | 11:30 am           |
-| Friday   | 11:30 am           |
-| Saturday | 11:30 am           |
+| Day | Gallery tour hours |
+| --- | --- |
+| Monday | 11:30 am |
+| Friday | 11:30 am |
+| Saturday | 11:30 am |
 
 ## Special Exhibition Events
 
