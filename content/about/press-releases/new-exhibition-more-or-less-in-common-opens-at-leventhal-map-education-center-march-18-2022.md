@@ -1,6 +1,6 @@
 ---
-title: New Exhibition More or Less In Common opens at Leventhal Map & Education Center
-  March 18, 2022
+title: 'New Exhibition More or Less In Common: Environment and Justice in the Human
+  Landscape opens at Leventhal Map & Education Center March 18, 2022'
 type: singleton
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw59w/1007,258,5974,2430/,1200/0/default.jpg
 description: 
