@@ -22,9 +22,7 @@ Here's a riddle for you. What has no shape, takes no form, and greatly impacts o
 
 Is it sunlight? Noise? Greenhouse gas emissions? Yes, yes, yes: all of these make for excellent answers. They shape how we move through and engage with cities, even though we don't see, feel, or touch them in the same way we might touch the dirt in a park or the bricks on a building.
 
-And sometimes, they can be rather unsavory.
-
-In the late 19th century, a number of areas in Boston had been deemed “nuisances” due to another such ephemeral quality---**odor**---as depicted in this 1878 Board of Health map.
+In the late 19th century, a number of areas in Boston had been deemed “nuisances” due to another ephemeral quality---**odor**---as depicted in this 1878 Board of Health map:
 
 {{< figure src="https://64.media.tumblr.com/c5029ba38e97ce5dee1b89c3e0456255/tumblr_osocpkt19h1rrufk0o1_1280.jpg" caption="[1878 Board of Health map](https://bpl.bibliocommons.com/v2/record/S75C6601328) depicting offensive odors ([original image here](https://collections.leventhalmap.org/search/commonwealth:3f4638304))." class="figure-center" >}}
 
