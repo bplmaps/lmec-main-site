@@ -47,9 +47,6 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Gallery changeover
-    text: Our gallery will be closed March 5-17 for gallery changeover
-    link: https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/
   - badge: Gallery closure
     text: The Map Center gallery will be closed from March 5–March 17 for the installation
       of our new exhibition More or Less in Common
