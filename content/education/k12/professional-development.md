@@ -33,7 +33,3 @@ Join us for this self-paced online professional development course hosted by the
 ### Past Workshops
 
 See a [list of past workshops here](/education/k12/past-workshops), with links to workshop materials.
-
-## Carolyn A. Lynch Summer Teacher Fellowship
-
-Check back in the spring for information on the 2022 Fellowship cycle.

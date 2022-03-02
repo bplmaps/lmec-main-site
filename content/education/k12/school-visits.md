@@ -9,7 +9,7 @@ quicklinks:
   linkType: jump
 
 ---
-{{< alert-box type="warning" icon="fas fa-laptop-house">}} We will be offering in-person on-site and outreach programming in the fall, subject to change if unforeseen restrictions are reestablished. If you are interested in a field trip to the Map Center or having an educator visit your classroom, please fill out the reservation form below and we will get back to you. We have missed you! {{< /alert-box >}}
+{{< alert-box type="warning" icon="fas fa-laptop-house">}} We offer in-person on-site and outreach programming. If you are interested in a field trip to the Map Center or having an educator visit your classroom, please fill out the reservation form below and we will get back to you. We have missed you! {{< /alert-box >}}
 
 The Leventhal Map & Education Center offers a menu of pre-designed programs for field trips to our Learning Center, virtual class visits, or in-person outreach to classrooms. Using maps from our collection, students practice using cartographic tools to read maps and think about what maps can and can't tell us about our relationships to places in the past and present. Programs related to our current exhibition are also available. Explore our program topics below. If you don't see quite what you're looking for, we are happy to work with you to create programming that works with your curriculum.
 
@@ -42,18 +42,6 @@ To book a program, fill out the reservation form. Someone from the K-12 educatio
 #### Cost
 
 Please see our [table of education program fees](/education/fees) for information on costs. We strive to make our programs and resources available to all institutions without cost presenting a barrier.
-
-_Map Center Field Trips or Remote class visits_: With the exception of Boston Public Schools groups, the Leventhal Map Center charges a $100 fee per program visit to the Map Center to support educational programming and conservation work. Remote sessions are charged at the $100 rate. We provide _all_ of our programming free of charge to Boston Public Schools.
-
-_Outreach visits to schools:_ Outreach fees are calculated based on the total number of sessions booked per program topic.  
-One session: $175  
-Two sessions: $300  
-Three sessions: $400  
-Four or more sessions: $400 for the first 3 sessions + $50 for each additional session
-
-This is no additional charge if multiple days are needed to accommodate the total number of sessions per outreach program.
-
-We will travel to any school that is within the I-495 corridor of Massachusetts, but additional travel fees of $0.55/mile apply if travel distance is over 25 miles from the Leventhal Map & Education Center.
 
 #### Notes on Field Trips to the Map Center
 

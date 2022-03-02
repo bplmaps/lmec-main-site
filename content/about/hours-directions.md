@@ -16,6 +16,12 @@ quicklinks:
 
 #### Gallery Hours
 
+{{< alert-box type="danger" title="Temporary closure" >}}
+
+The Map Center gallery will be **closed from March 5 through March 18** to install our new exhibition, _More or Less in Common: Environment and Justice in the Human Landscape_.
+
+{{</ alert-box >}}
+
 {{< alert-box type="danger" title="Masks required" >}}
 
 Face masks must be worn at all times by all staff and visitors in the Central Library.
@@ -46,7 +52,7 @@ We are located at the **Central Library in Copley Square**, at **700 Boylston St
 
 #### By public transit
 
-The library is conveniently located near many public transit stations, including the [Copley](https://www.mbta.com/stops/place-coecl) station of the Green Line, the [Back Bay](https://www.mbta.com/stops/place-bbsta) station of the Orange Line and Commuter Rail, and bus lines 9, 10, 55, 39, 504, 57, 553, and 501. Use the [MBTA Trip Planner](https://www.mbta.com/trip-planner) for more information on traveling by transit. 
+The library is conveniently located near many public transit stations, including the [Copley](https://www.mbta.com/stops/place-coecl) station of the Green Line, the [Back Bay](https://www.mbta.com/stops/place-bbsta) station of the Orange Line and Commuter Rail, and bus lines 9, 10, 55, 39, 504, 57, 553, and 501. Use the [MBTA Trip Planner](https://www.mbta.com/trip-planner) for more information on traveling by transit.
 
 #### By bicycle
 

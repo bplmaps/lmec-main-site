@@ -47,16 +47,14 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Gallery closure
+    text: The Map Center gallery will be closed from March 5–March 17 for the installation
+      of our new exhibition More or Less in Common
+    link: https://www.leventhalmap.org/exhibitions/
   - badge: New acquisition
-    text: A 1617 German copy of John Smith's famous map of New England
-    link: https://bpl.bibliocommons.com/v2/record/S75C8095924
-  - badge: Interactive event
-    text: Learn more about maps and democracy in our Redistricting Roundtable
-    link: https://www.leventhalmap.org/event/redistricting-roundtable/
-  - badge: Gallery tours
-    text: Take a free interpretive tour of _Bending Lines_, offered every Monday,
-      Friday, and Saturday
-    link: "/exhibitions/visit"
+    text: A mechanical map from the late nineteenth century showing the US's territorial
+      expansion
+    link: https://bpl.bibliocommons.com/v2/record/S75C8129750
 audiences:
   enable: true
   audienceGroups:
@@ -122,11 +120,11 @@ audiences:
       link: https://geoservices.leventhalmap.org/cartinal
 frontpageFeature:
   enable: true
-  bg_image: https://tile.loc.gov/image-services/iiif/service:gmd:gmd376:g3764:g3764b:pm002791/608,834,7037,2742/,1200/0/default.jpg
-  title: The truth is in there
-  content: 'Our exhibition *Bending Lines: Maps and Data from Distortion to Deception*
-    is now available in person at our free gallery at the Central Library in Copley
-    Square.'
+  bg_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw59w/272,313,6880,2393/,1200/0/default.jpg
+  title: A shared environment?
+  content: 'Our exhibition *More or Less in Common: Environment and Justice in the
+    Human Landscape* opens March 18 at our free gallery at the Central Library in
+    Copley Square.'
   button:
     enable: true
     label: Information for visitors
@@ -154,5 +152,5 @@ upcomingLivestream:
   embedLink: <iframe width="560" height="315" src="https://www.youtube.com/embed/7Ww_aMQI36Y"
     title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
     encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  startTime: 2022-02-16T15:25:00-05:00
-  endTime: 2022-02-16T16:35:00-05:00
+  startTime: 2022-02-16T15:25:00.000-05:00
+  endTime: 2022-02-16T16:35:00.000-05:00
