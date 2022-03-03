@@ -24,7 +24,7 @@ The Map Center gallery will be **closed from March 5 through March 18** to insta
 
 {{< alert-box type="danger" title="Masks required" >}}
 
-Face masks must be worn at all times by all staff and visitors in the Central Library.
+Face masks must be worn at all times by all staff and visitors in the Central Library. This requirement extends through **March 5, 2022**.
 
 {{</ alert-box >}}
 
