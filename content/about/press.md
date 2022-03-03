@@ -38,7 +38,7 @@ John Michael Kennedy, JMKPR
 
 **2021**
 
-* 2021-03-03:
+* 2021-03-03: [New Exhibition More or Less In Common: Environment and Justice in the Human Landscape opens at Leventhal Map & Education Center March 18, 2022]()
 * 2021-08-24: [Bending Lines, An Exploration of Truth and Lies Through Centuries of Maps and Data, Opens at Leventhal Map & Education Center September 10, 2021](/about/press-releases/bending-lines-opens-in-person/)
 * 2021-06-01: [Leventhal Map & Education Center Announces Garrett Dash Nelson As Its New President](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EXZbh4GltnZFschmGbh8XMABK2n7XaW7wgZcOHN7inQZPw)
 
