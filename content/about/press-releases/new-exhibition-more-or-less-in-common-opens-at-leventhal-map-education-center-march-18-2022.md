@@ -21,8 +21,6 @@ draft: true
 
 Nelson says _More or Less in Common_ shows how the differences between degraded environments and healthy ones can often be tied to which communities have political and economic power. The exhibition also underscores the role of cartography in documenting and visualizing relationships between people and places. “Instances of environmental and social exclusion quite often map onto one another,” Nelson says.
 
-![](/uploads/2022-03-03/shared-problem-unequal-burden-200.jpg)
-
 Among the exhibition highlights:
 
 * “A Shared Problem. An Unequal Burden.” \[Above; larger image available\] Two large maps created by the Leventhal Center highlight contemporary environmental justice struggles. One shows the global imbalance between the nations responsible for carbon emissions and the nations most likely to be harmed by consequences of climate change. A second shows the City of Boston’s assessments of social vulnerability to climate risks.
