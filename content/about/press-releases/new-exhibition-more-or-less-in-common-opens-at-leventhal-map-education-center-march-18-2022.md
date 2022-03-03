@@ -7,7 +7,7 @@ description:
 draft: true
 
 ---
-<a class="btn btn-primary btn-primary-outline mb-3" href="">View this release as a PDF</a>
+<a class="btn btn-primary btn-primary-outline mb-3" href="https://s3.us-east-2.wasabisys.com/lmec-public-files/press-releases/2022-03-03_More_or_Less_in_Common.pdf">View this release as a PDF</a>
 
 ### A new, free exhibition at Leventhal Map & Education Center combines historic and future-facing maps and visuals that shine light on how the environment is part of social struggles.
 
