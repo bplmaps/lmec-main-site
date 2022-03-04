@@ -69,3 +69,5 @@ fields:
     labelField: 
   label: Content Block
   description: A block of standard content
+pages:
+- content/newsletters/2022-03-07.md
