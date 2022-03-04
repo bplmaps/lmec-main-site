@@ -1,4 +1,71 @@
 ---
 label: Newsletter
 hide_body: true
-fields: []
+fields:
+- name: newsletter_publication_date
+  type: datetime
+  label: Newsletter publication Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: banner_iiif_image
+  type: text
+  config:
+    required: false
+  label: Banner IIIF image
+  description: fully resolved IIIF image crop to appear in banner<br>
+- name: introductory_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Introductory Text
+- name: content_block
+  type: field_group_list
+  fields:
+  - name: content_block_header
+    type: text
+    config:
+      required: false
+    label: Content Block Header
+  - name: content_block_text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Content Block Text
+  - name: content_block_button_url
+    type: text
+    config:
+      required: false
+    label: Content Block Button URL
+  - name: content_block_button_text
+    type: text
+    config:
+      required: false
+    label: Content Block Button Text
+  - name: content_block_image_url
+    type: text
+    config:
+      required: false
+    label: Content Block Image URL
+  - name: content_block_image_alt_text
+    type: text
+    config:
+      required: false
+    label: Content Block Image Alt Text
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Content Block
+  description: A block of standard content
