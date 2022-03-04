@@ -4,7 +4,6 @@ title: 'New Exhibition More or Less In Common: Environment and Justice in the Hu
 type: singleton
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw59w/1007,258,5974,2430/,1200/0/default.jpg
 description: 
-draft: true
 
 ---
 <a class="btn btn-primary btn-primary-outline mb-3" href="https://s3.us-east-2.wasabisys.com/lmec-public-files/press-releases/2022-03-03_More_or_Less_in_Common.pdf">View this release as a PDF</a>
