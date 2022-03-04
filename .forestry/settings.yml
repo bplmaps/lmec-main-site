@@ -64,6 +64,13 @@ sections:
   match: "**/*"
   templates:
   - store
+- type: directory
+  path: content/newsletters
+  label: Newsletters
+  create: documents
+  match: "**/*"
+  templates:
+  - newsletter
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
