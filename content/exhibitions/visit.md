@@ -17,7 +17,7 @@ The Map Center gallery will be **closed from March 5 through March 18** to insta
 
 {{</ alert-box >}}
 
-{{< alert-box type="danger" title="Masks required" >}}
+{{< alert-box type="danger" title="COVID-19 Guidance" >}}
 
 Although it is not required, please consider wearing a face covering while inside BPL buildings. We recommend that patrons practice social distancing where possible. Please reschedule your visit if you have any symptoms of illness, or if you have received a positive COVID-19 test result in the past 10 days.
 
