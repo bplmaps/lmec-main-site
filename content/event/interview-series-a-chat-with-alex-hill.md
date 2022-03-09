@@ -11,6 +11,10 @@ tags:
 - Interview
 
 ---
+### Event video 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gHyuIXdJr4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 {{< carousel >}}
 {{< carousel-figure src="/uploads/2022-02-23/det_nhoodagreement.jpg" >}}{{< /carousel-figure >}}
 
