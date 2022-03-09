@@ -47,14 +47,14 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: 'Coming soon '
-    text: Our More or Less in Common exhibition on environmental justice opens March
-      18th!
-    link: https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/
   - badge: Gallery closure
     text: 'The Map Center gallery will be closed from March 5–March 17 for exhibition
       changeover '
     link: https://www.leventhalmap.org/exhibitions/
+  - badge: 'Coming soon '
+    text: '"More or Less in Common: Environment and Justice in the Human Landscape"
+      opens March 18th'
+    link: https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/
   - badge: New acquisition
     text: A mechanical map from the late nineteenth century showing the US's territorial
       expansion
@@ -156,5 +156,5 @@ upcomingLivestream:
   embedLink: <iframe width="560" height="315" src="https://www.youtube.com/embed/gHyuIXdJr4A"
     title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
     encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  startTime: 2022-03-09T14:55:00-05:00
-  endTime: 2022-03-09T16:05:00-05:00
+  startTime: 2022-03-09T14:55:00.000-05:00
+  endTime: 2022-03-09T16:05:00.000-05:00
