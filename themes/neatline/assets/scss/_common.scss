@@ -784,10 +784,12 @@ span.popupTooltip {
   background-image: linear-gradient(0deg, rgba(5, 70, 113, 0.30) 100%, transparent 0);
   border-radius: 8px;
   padding: 2px 8px;
+  z-index: 1000;
 }
 
 span.popupTooltip:hover {
   background-image: linear-gradient(0deg, rgba(5, 70, 113, 0.10) 100%, transparent 0);
+  z-index: 1000;
 }
 
 div.iiif-popup {
@@ -797,6 +799,7 @@ div.iiif-popup {
   max-height:410px; 
   max-width:410px; 
   display:none;
+  z-index: 1000;
 }
 
 div.iiif-popup {
@@ -804,6 +807,7 @@ div.iiif-popup {
     border:none; 
     max-width:400px; 
     max-height:400px; 
+    z-index: 1000;
   }
 }
 
