@@ -8,7 +8,7 @@ weight: "2"
 ---
 <div class="callout my-3">More or Less in Common: Environment and Justice in the Human Landscape</div>
 
-{{< figure src="" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2022-03-10/chelsea.jpeg" caption="This 1976 environmental regulation plan shows interventions to mitigate flooding in Sales Creek, on the border between East Boston and Revere. The aerial photograph shows the petrochemical tanks and parking lots following the creek’s highly engineered route, as well as a manufactured home community." class="figure-center" >}}
 
 The digital exhibition for our upcoming show, **More or Less in Common**, features zoomable, high-resolution images of all of the exhibition objects; interactive features like a... 
 
