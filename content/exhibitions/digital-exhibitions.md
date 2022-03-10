@@ -12,9 +12,9 @@ weight: "2"
 
 {{< figure src="/uploads/2022-03-10/oil.jpeg" caption="This [1922 fire insurance atlas](https://collections.leventhalmap.org/search/commonwealth:1257c139z) shows the East Boston side of Chelsea Creek, with the Standard Oil Company's circular tanks prominently displayed in the center" class="figure-center" >}}
 
-The digital exhibition for our upcoming show, **More or Less in Common**, features zoomable, high-resolution images of all of the exhibition objects; interactive features like original, digital maps; interviews with advocates from the local, national, and global environmental justice movement; and lesson plans and activities designed specially for K-12 students. 
+The digital exhibition for our upcoming show, **More or Less in Common**, features zoomable, high-resolution images of all of the exhibition objects; interactive features like original, digital maps; interviews with advocates from the local, national, and global environmental justice movement; and lesson plans and activities designed specially for K-12 students.
 
-<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for More or Less in Common</a> 
+<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for More or Less in Common</a>
 
 ## Past digital exhibitions
 
