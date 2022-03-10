@@ -8,7 +8,9 @@ weight: "2"
 ---
 <div class="callout my-3">More or Less in Common: Environment and Justice in the Human Landscape</div>
 
-The digital exhibition for our upcoming show, **More or Less in Common**, 
+The digital exhibition for our upcoming show, **More or Less in Common**, features zoomable, high-resolution images of all of the exhibition objects; interactive features like a... 
+
+<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for More or Less in Common</a> 
 
 <div class="callout my-3">Bending Lines: Maps and Data from Distortion to Deception</div>
 
