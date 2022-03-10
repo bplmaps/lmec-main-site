@@ -2,7 +2,7 @@
 title: Of Odors and Esplanades
 author: Ian Spangler
 description: When it comes to urban ecological changes, there's more to smell than meets the nose
-draft: true
+draft: false
 date: 2022-03-10T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71r300q/321,2602,3393,1013/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71r300q/321,2602,3393,1013/full/0/default.jpg
@@ -20,7 +20,7 @@ tags:
 
 Here's a riddle for you. What has no shape, takes no form, and greatly impacts our experiences of urban space?
 
-Is it sunlight? Noise? Greenhouse gas emissions? Yes, yes, yes: all of these ephemeral qualities make for excellent answers (and they also feature prominently in our latest exhibition, ["More or Less in Common"](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/)). They shape how we move through and engage with cities, even though we don't see, feel, or touch them in the same way we might touch the dirt in a park or the bricks on a building. Today, I want to focus on one of these ephemeral qualities in particular: **smell**.
+Is it sunlight? Noise? Greenhouse gas emissions? Yes, yes, yes: all of these ephemeral qualities make for excellent answers (and they also feature prominently in our upcoming exhibition, ["More or Less in Common"](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/)). They shape how we move through and engage with cities, even though we don't see, feel, or touch them in the same way we might touch the dirt in a park or the bricks on a building. Today, I want to focus on one of these ephemeral qualities in particular: **smell**.
 
 Urban geographers and historians have spilled a [good](https://journals.sagepub.com/doi/pdf/10.1177/0096144214566981) [bit](https://richcampanella.com/wp-content/uploads/2020/02/article_Campanella_Preservation-in-Print_2012_Nov_Streets-PartI-1.pdf) [of](https://richcampanella.com/wp-content/uploads/2020/02/article_Campanella_Preservation-in-Print_2012_Dec_Streets-PartII-1.pdf) [ink](https://www.bloomberg.com/news/articles/2015-03-27/this-19th-century-stench-map-shows-how-smells-reshaped-new-york-city) documenting the smell of cities. For example, bad smells impacted property values, public perception, and urban growth in ["animal suburbs"](https://journals.sagepub.com/doi/pdf/10.1177/00961442211018188) like Brighton, where the ["inexpressibly offensive"](https://www.bpl.org/blogs/post/inexpressibly-offensive-the-brighton-abattoir-part-iii/) odors of the [Brighton Abbatoir](https://atlascope.leventhalmap.org/#view:share$base:000$overlay:39999059010668$zoom:17.09$center:-7920379.4721955415,5215039.743373809$mode:glass$pos:607) frequently riled up citizens and the Board of Health.
 
@@ -29,7 +29,7 @@ Bad smells were apparently so problematic in a number of Boston neighborhoods th
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71r300q/full/full/0/default.jpg" caption="[1878 Board of Health map](https://www.digitalcommonwealth.org/search/commonwealth:w3765q66z) depicting \"offensive odors.\" Featured in *More or Less in Common*." class="figure-center" >}}
 
 
-Let's do some sniffing around: what can this map teach us about ecological change, environmental perception, and urban form near the turn of the 20th century? 
+Let's do some sniffing around: what can this map teach us about ecological change, environmental perception, and urban form near the turn of the 20th century?
 
 ### A case of "bad air"
 
