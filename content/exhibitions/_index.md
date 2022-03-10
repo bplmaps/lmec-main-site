@@ -27,23 +27,6 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 
 **Opening March 18, 2022**
 
-In _More or Less in Common: Environment and Justice in the Human Landscape_, we take a look at how questions of social justice and injustice are essential topics to confront when trying to understand the human landscape. These questions must also be at the center of our attention as we challenge ourselves to build better, healthier environments in the future. Through maps as well as photographs, images, and data visualizations, this exhibition encourages you to confront stories about how environmental conditions have sometimes served to worsen inequalities along lines of social division. At the same time, our shared environment offers the possibility to bring people together across differences and the inspiration to forge new kinds of common action. 
+In _More or Less in Common: Environment and Justice in the Human Landscape_, we take a look at how questions of social justice and injustice are essential topics to confront when trying to understand the human landscape. These questions must also be at the center of our attention as we challenge ourselves to build better, healthier environments in the future. Through maps as well as photographs, images, and data visualizations, this exhibition encourages you to confront stories about how environmental conditions have sometimes served to worsen inequalities along lines of social division. At the same time, our shared environment offers the possibility to bring people together across differences and the inspiration to forge new kinds of common action.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m030d/973,1648,4819,2184/,800/0/default.jpg" caption="As the Back Bay neighborhood of Boston was filled to make new land, nineteenth-century Bostonians were forced to consider the natural geographies that connected land and water. The Stony Brook watershed, shown in blue on [this 1860s map](https://collections.leventhalmap.org/search/commonwealth:cj82m029n), crossed multiple then-independent towns, raising questions about what happens when social and ecological boundaries cross each other." >}}
-
-## Currently on Exhibit
-
-**Now Through March 4, 2022**
-
-Because they seem to show the world how it “really is,” maps produce a powerful sense of trust and belief. But maps and data visualizations can never communicate a truth without any perspective at all. They are social objects whose meaning and power are produced by written and symbolic language and whose authority is determined by the institutions and contexts in which they circulate. **Bending Lines: Maps and Data from Distortion to Deception** examines the many ways in which maps and data can bend the lines of reality.
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4638479/3319,2201,4840,3321/,800/0/default.jpg" caption="This [1926 map of Tokyo](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/2.2.1/) shows how statistics and demographic information can be portrayed in a cartographic representation." >}}
-
-<p class="text-center">
-<a class="btn btn-primary btn-primary-outline mb-2" href="./visit"><i class="fas fa-walking me-1"></i> Visit in Person</a> <a class="btn btn-primary btn-primary-outline mb-2" href="./digital-exhibitions"><i class="fas fa-desktop me-1 "></i> Visit Online</a>
-</p>
-
-## Upcoming Exhibitions
-
-* March 2022: [More or Less in Common: Environment and Justice in the Human Landscape](https://www.leventhalmap.org/articles/environmental-justice-exhibition-preview/)
-* January 2023: Building Up: Community History from the Atlas Collections
