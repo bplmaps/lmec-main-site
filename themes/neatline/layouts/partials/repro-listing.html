@@ -8,24 +8,24 @@
 {{ $title := index (index (index . "Title").rich_text 0) "plain_text"  }}
 {{ $store_id := index (index (index . "Identifier").title 0) "plain_text" }}
 {{ $price := (index . "Price").number }}
-{{ $image_height := (index . "Image Height").number }}
-{{ $image_width := (index . "Image Width").number }}
+{{ $collections_url := (index . "Digital Collections URL").url }}
 
 <div class="card rounded-0 hover-shadow border-top-0 border-left-0 border-right-0 page-card store-card">
     <img class="card-img-top rounded-0" src="{{ $thumbnail_image }}"></a>
     <div class="card-body">
       <h3 class="card-title">{{ $title }}</a></h3>
-      <h5>{{ .Params.store.item_text_price }}</h5>
-      <p class="card-text">{{ $image_height }} in.</p>
-  
+      <h5>{{ $price | lang.FormatCurrency 2 "USD" }}</h5>
+      <p class="card-text">Image: {{ (div $extent3 300) | lang.FormatNumber 2 }} inches wide × {{ (div $extent4 300) | lang.FormatNumber 2 }} inches high </p>
+      <p class="card-text">Paper: {{ (add (div $extent3 300) 6) | lang.FormatNumber 2}} inches wide × {{( add (div $extent4 300) 6) | lang.FormatNumber 2 }} inches high </p>
       <button class="snipcart-add-item btn btn-primary mb-2"
         data-item-id="repro-{{ $store_id }}"
         data-item-price="{{ $price }}"
-        data-item-url="{{ .Permalink }}"
-        data-item-description="Custom reproduction of {{ $title }}"
+        data-item-description="Printed reproduction of {{ $title }}, {{ div $extent3 300 }} inches wide × {{ div $extent4 300 }} inches high with 6 inch margins"
         data-item-image="{{ $thumbnail_image }}"
-        data-item-name="Reproduction of {{ $title }}"
+        data-item-name="Reproduction: {{ $title }}"
 
       ><i class="fas fa-plus-circle me-2"></i> Add to cart</button><br>
+      <a class="btn btn-primary-outline btn-sm mb-2" href="{{ $collections_url }}">Digital Collections Record</a>
+
     </div>
   </div>
