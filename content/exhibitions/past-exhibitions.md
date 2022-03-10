@@ -12,7 +12,7 @@ _September 10, 2021 - March 4, 2022_
 
 Because they seem to show the world how it “really is,” maps produce a powerful sense of trust and belief. But maps and data visualizations can never communicate a truth without any perspective at all. They are social objects whose meaning and power are produced by written and symbolic language and whose authority is determined by the institutions and contexts in which they circulate. This exhibition examines the many ways in which maps and data can bend the lines of reality.
 
-[Visit the digital exhibition of _Bending Lines_.](https://www.leventhalmap.org/digital-exhibitions/bending-lines/)
+[Visit the digital exhibition of _Bending Lines_](https://www.leventhalmap.org/digital-exhibitions/bending-lines/)
 
 ### America Transformed: Mapping the 19th Century
 
