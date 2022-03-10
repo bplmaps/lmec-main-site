@@ -6,7 +6,7 @@ description: Interactive and immersive digital exhibitions bring our gallery to 
 weight: "2"
 
 ---
-## Current exhibition
+## Current digital exhibition
 
 <div class="callout my-3">More or Less in Common: Environment and Justice in the Human Landscape</div>
 
