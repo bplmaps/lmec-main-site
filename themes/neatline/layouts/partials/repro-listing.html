@@ -1,0 +1,31 @@
+
+{{ $iiif_endpoint := (index . "IIIF Image Endpoint").url }}
+{{ $extent1 :=  (index . "Extent 1").number  }}
+{{ $extent2 :=  (index . "Extent 2").number  }}
+{{ $extent3 :=  (index . "Extent 3").number  }}
+{{ $extent4 :=  (index . "Extent 4").number  }}
+{{ $thumbnail_image := print $iiif_endpoint "/" $extent1 "," $extent2 "," $extent3 "," $extent4 "/pct:25/0/default.jpg" }}
+{{ $title := index (index (index . "Title").rich_text 0) "plain_text"  }}
+{{ $store_id := index (index (index . "Identifier").title 0) "plain_text" }}
+{{ $price := (index . "Price").number }}
+{{ $image_height := (index . "Image Height").number }}
+{{ $image_width := (index . "Image Width").number }}
+
+<div class="card rounded-0 hover-shadow border-top-0 border-left-0 border-right-0 page-card store-card">
+    <img class="card-img-top rounded-0" src="{{ $thumbnail_image }}"></a>
+    <div class="card-body">
+      <h3 class="card-title">{{ $title }}</a></h3>
+      <h5>{{ .Params.store.item_text_price }}</h5>
+      <p class="card-text">{{ $image_height }} in.</p>
+  
+      <button class="snipcart-add-item btn btn-primary mb-2"
+        data-item-id="repro-{{ $store_id }}"
+        data-item-price="{{ $price }}"
+        data-item-url="{{ .Permalink }}"
+        data-item-description="Custom reproduction of {{ $title }}"
+        data-item-image="{{ $thumbnail_image }}"
+        data-item-name="Reproduction of {{ $title }}"
+
+      ><i class="fas fa-plus-circle me-2"></i> Add to cart</button><br>
+    </div>
+  </div>
