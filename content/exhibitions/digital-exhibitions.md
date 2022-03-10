@@ -6,7 +6,9 @@ description: Interactive and immersive digital exhibitions bring our gallery to 
 weight: "2"
 
 ---
-<div class="callout my-3">More or Less in Common: Environment & Justice in the Human Landscape</div>
+<div class="callout my-3">More or Less in Common: Environment and Justice in the Human Landscape</div>
+
+The digital exhibition for our upcoming show, **More or Less in Common**, 
 
 <div class="callout my-3">Bending Lines: Maps and Data from Distortion to Deception</div>
 
