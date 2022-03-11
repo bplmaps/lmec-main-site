@@ -29,4 +29,4 @@ Jumping forward 400 years, Megan speaks to the methods and motives of persuasive
 
 </a>
 
-Watch [Miranda's video](https://geoservices.leventhalmap.org/movie-maps/#ruysch), Megan's video, and explore the accompanying maps yourself. When you’re done, let us know what maps you want to see us discuss next: tag us [@bplmaps](https://twitter.com/bplmaps) or [send us a message](https://www.leventhalmap.org/about/contact-connect).
+Watch [Miranda's video](https://geoservices.leventhalmap.org/movie-maps/#ruysch), [Megan's video](https://geoservices.leventhalmap.org/movie-maps/#beach-claridge), and explore the accompanying maps yourself. When you’re done, let us know what maps you want to see us discuss next: tag us [@bplmaps](https://twitter.com/bplmaps) or [send us a message](https://www.leventhalmap.org/about/contact-connect).
