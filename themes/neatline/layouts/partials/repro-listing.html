@@ -7,7 +7,7 @@
 {{ $thumbnail_image := print $iiif_endpoint "/" $extent1 "," $extent2 "," $extent3 "," $extent4 "/pct:25/0/default.jpg" }}
 {{ $title := index (index (index . "Title").rich_text 0) "plain_text"  }}
 {{ $store_id := index (index (index . "Identifier").title 0) "plain_text" }}
-{{ $price := (index . "Price").number }}
+{{ $price := float (index . "Price").number }}
 {{ $collections_url := (index . "Digital Collections URL").url }}
 
 <div class="card rounded-0 hover-shadow border-top-0 border-left-0 border-right-0 page-card store-card">
