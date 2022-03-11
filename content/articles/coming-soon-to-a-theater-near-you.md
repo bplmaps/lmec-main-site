@@ -15,4 +15,6 @@ Moviemaps are back! For those who may be new to this interactive, Moviemaps was 
 
 In the latest editions, Gallery Attendant [Miranda Fernandez](https://www.leventhalmap.org/about/people/miranda-fernandez/) and Public Engagement Coordinator [Megan Nally](https://www.leventhalmap.org/about/people/megan-nally/) take a look at two of the most popular maps from our [Bending Lines](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) exhibition. 
 
+{{< figure src="/uploads/2022-03-11/birds-eye.jpg" caption="This [1902 map of Boston](https://lccn.loc.gov/75694559) projects the city from an uncommon perspective." class="figure-right" >}}
+
 Watch the videos and explore the accompanying maps yourself. When you’re done, let us know what maps you want to see us discuss next: tag us [@bplmaps](https://twitter.com/bplmaps) or [send us a message](https://www.leventhalmap.org/about/contact-connect).
