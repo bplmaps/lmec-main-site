@@ -23,6 +23,10 @@ In the latest editions, Gallery Attendant [Miranda Fernandez](https://www.levent
 
 Jumping forward 400 years, Megan speaks to the methods and motives of persuasive cartography, specifically the practices of cartographic advertising in [this 1902 map of Boston](https://www.leventhalmap.org/digital-exhibitions/bending-lines/4.2.1/). 
 
-{{< figure src="/uploads/2022-03-11/birds-eye.jpg" caption="This [1902 map of Boston](https://lccn.loc.gov/75694559) projects the city from an uncommon perspective." class="figure-left" >}}
+<a href="https://geoservices.leventhalmap.org/movie-maps/#beach-claridge">
+
+![](/uploads/2022-03-11/screen-shot-2022-03-11-at-1-01-17-pm.png)
+
+</a>
 
 Watch [Miranda's video](https://geoservices.leventhalmap.org/movie-maps/#ruysch), Megan's video, and explore the accompanying maps yourself. When you’re done, let us know what maps you want to see us discuss next: tag us [@bplmaps](https://twitter.com/bplmaps) or [send us a message](https://www.leventhalmap.org/about/contact-connect).
