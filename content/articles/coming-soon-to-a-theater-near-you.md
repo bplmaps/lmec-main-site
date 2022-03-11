@@ -17,6 +17,12 @@ Moviemaps are back! For those who may be new to this interactive, Moviemaps was 
 
 {{< figure src="/uploads/2022-03-11/birds-eye.jpg" caption="This [1902 map of Boston](https://lccn.loc.gov/75694559) projects the city from an uncommon perspective." class="figure-right" >}}
 
+<a href="https://geoservices.leventhalmap.org/movie-maps/#ruysch">
+
+![](/uploads/2022-03-11/screen-shot-2022-03-11-at-12-37-04-pm.png)
+
+</a>
+
 In the latest editions, Gallery Attendant [Miranda Fernandez](https://www.leventhalmap.org/about/people/miranda-fernandez/) and Public Engagement Coordinator [Megan Nally](https://www.leventhalmap.org/about/people/megan-nally/) take a look at two of the most popular maps from our [Bending Lines](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) exhibition. 
 
 In her discussion, Fernandez examines the impact of [authority in mapmaking](https://www.leventhalmap.org/digital-exhibitions/bending-lines/power-belief/truth-society/) through the oldest map in the Bending Lines exhibit, [a 1507 map of the world](https://collections.leventhalmap.org/search/commonwealth:3f462s18s) by Dutch cartographer Johannes Ruysch. Jumping forward 400 years, Megan speaks to the methods and motives of persuasive cartography, specifically the practices of cartographic advertising in [this 1902 map of Boston](https://www.leventhalmap.org/digital-exhibitions/bending-lines/4.2.1/). 
