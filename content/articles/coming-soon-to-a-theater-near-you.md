@@ -3,11 +3,11 @@ date: 2022-03-11T12:12:24-05:00
 title: 'Coming soon to a theater near you '
 description: 'Our digital Moviemaps platform recreates the in-person experience of
   map viewing '
-image: "/uploads/2022-03-11/download-1.jpg"
+image: "/uploads/2022-03-11/screen-shot-2022-03-11-at-12-58-23-pm.png"
 author: Megan Nally and Miranda Fernandez
 tags:
 - Moviemaps
-backgroundImage: "/uploads/2022-03-11/download-1.jpg"
+backgroundImage: "/uploads/2022-03-11/screen-shot-2022-03-11-at-12-58-23-pm.png"
 draft: true
 
 ---
