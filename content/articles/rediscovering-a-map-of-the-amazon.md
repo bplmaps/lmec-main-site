@@ -2,9 +2,9 @@
 title: Rediscovering a Map of the Amazon
 description: A 1755 map created by a German Jesuit missionary for the Portuguese Empire casts new light on early European efforts to map the Amazon River valley
 author: Mirela Altic
-date: 2022-02-01T04:00:00.000+00:00
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wp98t/150,1539,7823,3446/,1200/0/default.jpg
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wp98t/150,1539,7823,3446/,1200/0/default.jpg
+date: 2022-03-15T04:00:00.000+00:00
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:mw22xp469/230,1577,3923,2086/,1200/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:mw22xp469/230,1577,3923,2086/,1200/0/default.jpg
 draft: true
 tags:
 - guest post
@@ -22,31 +22,30 @@ tags:
 A map of the Amazon long thought to be lost has been found in the MacLean Collection Map Library. This manuscript map of the Amazon region was made in 1755 by Anselm Franz Eckart (1721--1809) after a map compiled by János Nepomuk Szluha (1723--1803) in 1753.
 
 {{< figure
-  src=""
-  caption="Aselm Eckart, *Map of the Amazon* (1755). MacLean Collection, MC 9222"
+  src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:mw22xp469/full/,1200/0/default.jpg"
+  caption="Aselm Eckart, *[Map of the Amazon](https://collections.leventhalmap.org/search/commonwealth:5d86rj916)* (1755). MacLean Collection, MC 9222"
 >}}
 
 ### Treaty of Madrid
 
-In 1750, Spain and Portugal signed the [Treaty of Madrid](https://en.wikipedia.org/wiki/Treaty_of_Madrid_(13_January_1750)), which assigned a large territorial expansion to Portugal. This area, later to become the northern borderland of Brazil, included the Amazon River valley.
-
 {{<
   figure
-  src=""
-  caption="Jean Baptiste Bourguignon d\'Anville, *Carte de l'Amérique Méridionale* (1748) MacLean Collection MC 22938"
-  class="figure-left"
->}}
-
-As part of the negotiations, a *Mapa das Cortes* was created in Lisbon in 1749, under the direction of Alexandre de Gusmão (1695--1753), a Brazilian diplomat and private secretary of King João V of Portugal.  Gusmão was known for his crucial role in the negotiations. The *Mapa das Cortes* was a compilation based on numerous sources of Portuguese, French and Spanish origin, among which Jean Baptiste Bourguignon d'Anville's (1697-1782) *Carte de l'Amérique Méridionale* (1748) played a major role.
-
-{{<
-  figure
-  src=""
-  caption="Detail of the Amazon River valley in d\'Anville's 1748 map"
+  src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9593xd713/full/,1200/0/default.jpg"
+  caption="Jean Baptiste Bourguignon d\'Anville, [*Amérique Méridionale*](https://collections.leventhalmap.org/search/commonwealth:bz60gd390) (1748) MacLean Collection MC 22938"
   class="figure-right"
 >}}
 
+In 1750, Spain and Portugal signed the [Treaty of Madrid](https://en.wikipedia.org/wiki/Treaty_of_Madrid_(13_January_1750)), which assigned a large territorial expansion to Portugal. This area, later to become the northern borderland of Brazil, included the Amazon River valley.
+
+As part of the negotiations, a *Mapa das Cortes* was created in Lisbon in 1749, under the direction of Alexandre de Gusmão (1695--1753), a Brazilian diplomat and private secretary of King João V of Portugal.  Gusmão was known for his crucial role in the negotiations. The *Mapa das Cortes* was a compilation based on numerous sources of Portuguese, French and Spanish origin, among which Jean Baptiste Bourguignon d'Anville's (1697-1782) *Carte de l'Amérique Méridionale* (1748) played a major role.
+
 D'Anville was a French geographer and cartographer. He had become the king's geographer at age twenty-two, and utilized the extensive surveys of members of the Society of Jesus (Jesuits) for his maps. His 1748 map is part of a two-part set of maps of North and South America. The future inverted triangular shape and relatively unknown interior of Brazil is easily distinguished. Looking in more detail at the map, one can see the extensive network of tributaries that make up the Amazon River Valley.
+
+{{<
+  figure
+  src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9593xd713/3604,2866,7496,4233/,1200/0/default.jpg"
+  caption="Detail of the Amazon River valley in [d\'Anville's 1748 map](https://collections.leventhalmap.org/search/commonwealth:bz60gd390)"
+>}}
 
 The *Mapa das Cortes*, although it played a major role in the negotiations, was not sufficiently detailed for demarcating the most contentious parts of the border. It was clear that new maps based on field observation would be essential instruments, especially for the little-known but potentially economically lucrative area of the Amazon. Soon after the Treaty of Madrid was signed, the Portuguese King José I (who took the throne after João V's death in July 1750) began recruiting Jesuit cartographers.
 
@@ -60,7 +59,7 @@ Szluha was a distinguished mathematician, astronomer, and cartographer. From 175
 
 {{<
   figure
-  src=""
+  src="/uploads/2022-03-13/szluha-map.jpg"
   caption="Facsimile map by Johann Nepomuk Szluha compiled in 1753, showing the misattribution assigned by Leite in 1943"
   class="figure-right"
 >}}
@@ -75,37 +74,38 @@ In Eckart's *Map of the Amazon*, the importance of the Society of Jesus is parti
 
 {{<
   figure 
-  src=""
+  src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:mw22xp469/2094,4653,3433,1440/,1200/0/default.jpg"
   caption="Title detail in Eckart's 1755 map"
-  class="figure-left"
 >}}
 
 The title depicts shells topped by the Jesuit star and the figure "IHS," a Christogram for the name Jesus. The title of the map translates in English as "Map of the Vice Province of Maragnonii, Society of Jesus, with some adjacent territories of the Spanish, Gauls (English) and the Dutch."
 
-{{<
-  figure
-  src=""
-  caption="Details of the key and the Xingu River in Eckart's 1755 map"
-  class="figure-right"
->}}
+
 
 In addition to Jesuit missions, Eckart intentionally highlighted the extensive presence of the Society of Jesus and their central role in maintaining colonial power in this remote place. The map key is also topped with the insignia of the Society of Jesus and includes symbols for towns and villages, Portuguese settlements, Jesuit and Carmelite missions, and forts as well as capital letters indicating colleges, seminaries, residences, missions, rivers, islands and lakes. This detail of the Xingu River clearly shows the use of these symbols and capital letters.
 
-{{<
-figure
-src=""
-caption="Detail of the Pinaré River valley in Eckart's 1755 map"
-class="figure-right"
->}}
+
+{{< carousel >}}
+
+{{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:mw22xp469/5829,4506,1470,1470/,1200/0/default.jpg" >}}Details of the key in Eckart's 1755 map{{</ carousel-figure>}}
+
+{{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:mw22xp469/4164,1801,645,728/,1200/0/default.jpg" >}}Detail of the Xingu River{{</ carousel-figure>}}
+
+{{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:mw22xp469/5881,1370,1623,1827/,1200/0/default.jpg" >}}Detail of the Pinaré River valley{{</ carousel-figure>}}
+
+
+{{</ carousel >}}
 
 The map is north-oriented and accompanied by a graticule of longitude (east of Ferro) and latitude with a scale (approximately 1:3,000,000). Although the map is undoubtedly based on original observations, its cartographic predecessors like d'Anville\'s *Carte de lʼAmérique Méridionale* is clearly visible, especially in the presentation of the main course of the Amazon as well of its southern tributaries. Significant new information on the map is evident in the area around the Pinaré River where Szluha served as a missionary.
+
+
 
 Given that Szluha also made significant contributions in the mapping of the Xingu and Tapajós rivers, it is likely that he incorporated Kaulen's data into his map as well.
 
 {{<
 figure
-src=""
-class="figure-left"
+src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:mw22xp469/2439,2133,1028,1011/,1200/0/default.jpg"
+class="figure-right"
 caption="Madeira River detail"
 >}}
 
@@ -122,7 +122,7 @@ Mirela Altic, "Missionary Cartography of the Amazon after the Treaty of Madrid (
 
 Júnia Ferreira Furtado, *Oráculos da Geografia iluminista: Dom Luís da Cunha e Jean-Baptiste Bourguignon D'Anville na construção da cartografia do Brasil* (Belo Horizonte: UFMG, 2012).
 
-únia Ferreira Furtado, *The Map that Invented Brazil.* (São Paulo: Versal Editores for the Fundação Odebrecht, 2013).
+Júnia Ferreira Furtado, *The Map that Invented Brazil.* (São Paulo: Versal Editores for the Fundação Odebrecht, 2013).
 
 Serafim Leite, *História da Companhia de Jesus no Brasil*, 10 vols. (Rio de Janeiro: Livraria Portugália, 1938--1950).
 
