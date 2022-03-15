@@ -2,11 +2,11 @@
 date: 2022-03-15T14:57:33-04:00
 title: Lower Neponset River
 description: ''
-image: "/uploads/2022-03-15/neponset.png"
+image: "/uploads/2022-03-15/screen-shot-2022-03-15-at-3-10-30-pm.png"
 author: Megan Nally
 tags:
 - Atlascope
-backgroundImage: "/uploads/2022-03-15/neponset.png"
+backgroundImage: "/uploads/2022-03-15/screen-shot-2022-03-15-at-3-10-30-pm.png"
 draft: true
 
 ---
