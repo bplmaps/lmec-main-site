@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style>
+			@import url("https://use.typekit.net/hnl4gif.css"); p > a {
+				color: maroon; background-image: linear-gradient(0deg, rgba(0, 102, 136, 0.2) 10%, transparent 0); text-decoration: none;
+			}
+			
+			a.button {
+				background-color: #006688; padding: 5px 10px; border-radius: 3px; color: white; text-decoration: none; font-family: hero-new, serif;
+			}
+			
+			.doubleblock-holder {
+				width: 100%; padding: 20px 0; border-top: 1px dashed #999;
+			}
+			
+			.doubleblock-inner {
+				width: 49%; display: inline-block; vertical-align: middle;
+			}
+			
+			.doubleblock-contents {
+				padding: 10px;
+			}
+			
+			.doubleblock-contents img {
+				max-width: 100%; height: auto;
+			}
+			
+			@media screen and (max-width: 500px) {
+				.doubleblock-inner {
+					width: 100%;
+				}
+			}
+
+		</style>
+	</head>
+	<body>
+
+        {{ block "main" . }}
+
+		{{ end }}
+
+	</body>
+</html>
+

@@ -1,0 +1,123 @@
+{{ define "main" }}
+
+<table style="width: 100%; max-width: 1000px; margin-left: auto; margin-right: auto;">
+    <tbody>
+        <tr>
+            <td style="width: 100%; background-color: #1a1a37; font-family: hero-new, sans-serif;">
+                <a href="https://leventhalmap.org"><img src="https://www.leventhalmap.org/images/MapCenter_allwhite.png"
+                        alt="LMEC Logo" style="max-height: 40px; width: auto; margin: 15px;"></a>
+            </td>
+        </tr>
+
+        <tr>
+            <td style="width: 100%; margin: 0; padding: 0; background-color: #222;">
+                <div style="font-family: hero-new, sans-serif; color: #fff; padding: 15px; font-size: 1.8em;">News from
+                    the <span
+                        style="font-weight: 800; background-image: linear-gradient(0deg, #054571 40%, transparent 0); padding: 0 3px;">Leventhal
+                        Map &amp; Education Center</span>
+                    <br>
+                    <span style="font-family: freight-micro-pro, serif; font-size: 0.9em; font-style: italic;">{{ .Params.newsletter_publication_date  | time.Format ":date_long" }}</span>
+                </div>
+
+                <img src="{{ .Params.banner_iiif_image }}"
+                    style="width: 100%; max-width: 100%; max-height: 150px; height: auto; margin: 0px; padding: 0px; border: 0px; object-fit: cover;" width="100%">
+            </td>
+        </tr>
+
+        <tr>
+            <td
+                style="width: 100%; font-family: freight-micro-pro, serif; font-size: 0.8em; text-align: right; background-color: #ddd; padding: 10px;">
+
+            {{ with .Params.banner_image_caption }}
+             {{ . | markdownify }}
+            {{ end }}
+            </td>
+        </tr>
+
+
+        <tr>
+            <td class="content"
+                style="padding: 15px; font-size: 1.1em; font-family: freight-micro-pro, georgia, serif; border-bottom: 1px solid #1a1a37;">
+
+                <div style="font-size: 1.2em;">
+
+                    {{ with .Params.introductory_text }}
+                    <div style="padding-bottom: 15px;">
+                        {{ . | markdownify}}
+                    </div>
+                    {{ end }}
+
+
+                    {{ range .Params.content_block}}
+                    <div class="doubleblock-holder">
+                        <div class="doubleblock-inner">
+                            <div class="doubleblock-contents">
+
+                                {{ if ne .content_block_image_url "" }}
+                                <img src="{{ .content_block_image_url }}"
+                                style="width: 424px;" alt="{{ .content_block_image_alt_text }}" height="262" width="426">
+                                {{ end }}
+                                
+                            </div>
+                        </div>
+                        <div class="doubleblock-inner">
+                            <div class="doubeblock-contents">
+
+                                <p> </p>
+
+                                <p> <strong>{{ .content_block_header }}</strong></p>
+
+                                {{ .content_block_text | markdownify }}
+
+                                <p><a class="button" href="{{ .content_block_image }}" rel="noopener noreferrer"
+                                        target="_blank">{{ .content_block_button_text }} →</a>&nbsp;
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    {{ end }}
+
+                </div>
+
+
+            </td>
+        </tr>
+
+        <tr>
+            <td style="font-family: freight-micro-pro; text-align: center;">
+
+                <p>The Leventhal Map &amp; Education Center is an independent nonprofit. We rely on the contributions of
+                    donors like you to support our mission of preserving the past and advancing the future of maps and
+                    geography.</p>
+
+                <p><a class="button" href="https://www.leventhalmap.org/donate/?form=GENCAMPAIGN">Donate online now</a>
+                </p>
+            </td>
+        </tr>
+
+        <tr>
+            <td style="font-family: hero-new, sans-serif; color: #333333; font-weight: 300; font-size: 0.8em;">
+
+
+                <p style="text-align: center;"><a href="/{/{UnsubscribeURL}}" style="color: #333333;">Unsubscribe from
+                        this list</a></p>
+
+                <p style="text-align: center;"><a href="/{/{WebVersionURL}}">View this email in your browser</a></p>
+
+                <p style="text-align: center;">Leventhal Map &amp; Education Center at the Boston Public Library</p>
+
+                <p style="text-align: center;">617.859.2387 · <a
+                        href="mailto:info@leventhalmap.org">info@leventhalmap.org</a></p>
+
+                <p style="text-align: center;">/{/{SenderInfoLine}}</p>
+
+                <p style="text-align: center;"><a href="https://www.leventhalmap.org/privacy/" rel="noopener noreferrer"
+                        target="_blank">Privacy Policy</a></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+{{ end }}

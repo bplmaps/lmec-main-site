@@ -7,16 +7,26 @@ fields:
   label: Newsletter publication Date
   description: ''
   config:
-    required: false
+    required: true
     date_format: 
     time_format: 
     display_utc: false
 - name: banner_iiif_image
   type: text
   config:
-    required: false
+    required: true
   label: Banner IIIF image
-  description: fully resolved IIIF image crop to appear in banner<br>
+  description: fully resolved IIIF image crop to appear in banner
+- name: banner_image_caption
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Banner caption
+  description: Citation for banner image
 - name: introductory_text
   type: textarea
   default: ''
@@ -53,7 +63,7 @@ fields:
     config:
       required: false
     label: Content Block Button Text
-  - name: content_block_image_url
+  - name: content_block_image
     type: text
     config:
       required: false
