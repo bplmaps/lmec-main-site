@@ -16,7 +16,7 @@ tags:
 
 ---
 
-> This is the third in a series of Map Chats commissioned by Richard Pegg, Director and Curator of the [MacLean Collection](https://www.macleancollection.com) in Illinois. This Map Chat is written by Mirela Altic during a fellowship at the MacLean Collection.
+> This is the fourth in a series of Map Chats commissioned by Richard Pegg, Director and Curator of the [MacLean Collection](https://www.macleancollection.com) in Illinois. This Map Chat is written by Mirela Altic during a fellowship at the MacLean Collection.
 
 
 A map of the Amazon long thought to be lost has been found in the MacLean Collection Map Library. This manuscript map of the Amazon region was made in 1755 by Anselm Franz Eckart (1721--1809) after a map compiled by János Nepomuk Szluha (1723--1803) in 1753.
@@ -56,7 +56,7 @@ These Jesuits were vital to carrying out cartographic activities for the purpose
 
 The first significant Portuguese effort to map the region was begun around 1752 by Jesuit missionairies who were serving along the Xingu and Tapajós rivers. Particularly significant was the German Jesuit Lorenz Wilhelm Kaulen, who, while serving in missions along the Xingu River around this time, produced a map showing the flow of the Xingu and Tapajós rivers. A Hungarian Jesuit serving in the Portuguese service, János Nepomuk Szluha (1723--1803), also worked on the reconnaissance of the entire Amazon and its tributaries.
 
-Szluha was a distinguished mathematician, astronomer, and cartographer. From 1753--1759, he worked as a missionary on the Pinaré River (the Province of Maranhão) and taught at the Jesuit College of Belém do Pará.In 1753 Szluha drafted a map of the Jesuit Vice-Province of Marañón which showed the spatial scope of the Portuguese missions in the Amazon region, a map preserved today in the Library of Evora (Portugal). In 1755, Anselm Franz Eckart, a Jesuit who had arrived in the region in 1753, made a manuscript copy of Szluha's 1753 map, and noted this copy in his journals.
+Szluha was a distinguished mathematician, astronomer, and cartographer. From 1753--1759, he worked as a missionary on the Pinaré River (the Province of Maranhão) and taught at the Jesuit College of Belém do Pará. In 1753 Szluha drafted a map of the Jesuit Vice-Province of Marañón which showed the spatial scope of the Portuguese missions in the Amazon region, a map preserved today in the Library of Evora (Portugal). In 1755, Anselm Franz Eckart, a Jesuit who had arrived in the region in 1753, made a manuscript copy of Szluha's 1753 map, and noted this copy in his journals.
 
 {{<
   figure
@@ -80,7 +80,7 @@ In Eckart's *Map of the Amazon*, the importance of the Society of Jesus is parti
   class="figure-left"
 >}}
 
-The title depicts shells topped by the Jesuit star and the figure "IHS," a Christogram for the name Jesus. The title of the map translates in English as "Map of the Vice Province of Maragnonii, Society of Jesus, with some adjacent territories of the Spanish, Gauls (English) and the Dutch."
+The title border depicts shells topped by the Jesuit star and the figure "IHS," a Christogram for the name Jesus. The title of the map translates in English as "Map of the Vice Province of Maragnonii, Society of Jesus, with some adjacent territories of the Spanish, Gauls (English) and the Dutch."
 
 {{<
   figure
@@ -98,7 +98,7 @@ caption="Detail of the Pinaré River valley in Eckart's 1755 map"
 class="figure-right"
 >}}
 
-The map is north-oriented and accompanied by a graticule of longitude (east of Ferro) and latitude with a scale (approximately 1:3,000,000). Although the map is undoubtedly based on original observations, its cartographic predecessors like d'Anville\'s *Carte de lʼAmérique Méridionale* is clearly visible, especially in the presentation of the main course of the Amazon as well of its southern tributaries. Significant new information on the map is evident in the area around the Pinaré River where Szluha served as a missionary.
+The map is north-oriented and accompanied by a graticule of longitude (east of Ferro) and latitude with a scale (approximately 1:3,000,000). Although the map is undoubtedly based on original observations, its references to cartographic predecessors like d'Anville\'s *Carte de lʼAmérique Méridionale* are clearly visible, especially in the presentation of the main course of the Amazon as well of its southern tributaries. Significant new information on the map is evident in the area around the Pinaré River where Szluha served as a missionary.
 
 Given that Szluha also made significant contributions in the mapping of the Xingu and Tapajós rivers, it is likely that he incorporated Kaulen's data into his map as well.
 
