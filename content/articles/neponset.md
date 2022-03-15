@@ -2,11 +2,11 @@
 date: 2022-03-15T14:57:33.000-04:00
 title: Lower Neponset River
 description: ''
-image: "/uploads/2022-03-15/default.jpeg"
+image: "/uploads/2022-03-15/commonwealth_x633ff663_image_access_800.jpg"
 author: Megan Nally
 tags:
 - Atlascope
-backgroundImage: "/uploads/2022-03-15/default.jpeg"
+backgroundImage: "/uploads/2022-03-15/commonwealth_x633ff663_image_access_800.jpg"
 draft: true
 
 ---
@@ -16,4 +16,4 @@ On Monday, March 14, 2022, the U.S. Environmental Protection Agency (EPA) [annou
 
 The EPA’s decision draws from studies conducted in the early 2000s that determined “the river contains sediment contaminated with elevated levels of polychlorinated biphenyls (PCBs) that may pose a risk to human health and/or the environment.” PCBs, "[man-made organic chemicals consisting of carbon, hydrogen and chlorine atoms](https://www.epa.gov/pcbs/learn-about-polychlorinated-biphenyls-pcbs#what),” first came into production in 1929 and were mainly used in industrial and commercial applications. Although banned in 1979, PCBs can remain in environments for long periods of time—generally accumulating in air, water, soil, plants, and fish—and have been linked to serious health effects. 
 
-> See [here](https://www.neponset.org/superfund-lower-neponset-river/) for more on PCBs and permitted recreation along the Neponset.
+> See [here](https://www.neponset.org/superfund-lower-neponset-river/) for more information on PCBs and permitted recreation along the Neponset.
