@@ -2,15 +2,15 @@
 date: 2022-03-15T14:57:33-04:00
 title: Lower Neponset River
 description: ''
-image: "/uploads/2022-03-15/superfund-2_24_20-epa-meeting_flyer_page_2.jpeg"
+image: "/uploads/2022-03-15/neponset.png"
 author: Megan Nally
 tags:
 - Atlascope
-backgroundImage: "/uploads/2022-03-15/superfund-2_24_20-epa-meeting_flyer_page_2.jpeg"
+backgroundImage: "/uploads/2022-03-15/neponset.png"
 draft: true
 
 ---
-{{< figure src="/uploads/2022-03-15/superfund-2_24_20-epa-meeting_flyer_page_2.jpeg" caption="[This EPA map](https://www.neponset.org/superfund-lower-neponset-river/) defines the Lower Neponset River as the 3.7-mile stretch of the Neponset River from the confluence with Mother Brook to the Walter Baker Dam." class="figure-right" >}}
+{{< figure src="/uploads/2022-03-15/super.jpeg" caption="[This EPA map](https://www.neponset.org/superfund-lower-neponset-river/) defines the Lower Neponset River as the 3.7-mile stretch of the Neponset River from the confluence with Mother Brook to the Walter Baker Dam." class="figure-right" >}}
 
 On Monday, March 14, 2022, the U.S. Environmental Protection Agency (EPA) [announced](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0102204&doc=Y&colid=39520&region=01&type=SC) the addition of the Lower Neponset River to the [Superfund National Priorities List](https://www.epa.gov/superfund/superfund-national-priorities-list-npl) (NPL)––a designation that comes after decades of local advocacy efforts and will provide federal resources for a thorough environmental hazard investigation and cleanup project.
 
