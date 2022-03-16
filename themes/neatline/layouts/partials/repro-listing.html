@@ -20,7 +20,7 @@
       <button class="snipcart-add-item btn btn-primary mb-2"
         data-item-id="repro-{{ $store_id }}"
         data-item-price="{{ $price }}"
-        data-item-description="Printed reproduction of {{ $title }}, {{ div $extent3 300 }} inches wide × {{ div $extent4 300 }} inches high with 6 inch margins"
+        data-item-description="Printed reproduction of {{ $title }}, image {{ (div $extent3 300) | lang.FormatNumber 2 }} inches wide × {{ (div $extent4 300) | lang.FormatNumber 2 }} inches high with 3 inch margins on all sides"
         data-item-image="{{ $thumbnail_image }}"
         data-item-name="Reproduction: {{ $title }}"
 
