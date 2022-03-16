@@ -14,7 +14,7 @@ draft: true
 ---
 **Join us for a curatorial introduction to our new exhibition, More or Less in Common: Environment and Justice in the Human Landscape**
 
-## About this event
+### About this event
 
 As part of the National Park Service’s [Olmsteds: Landscapes and Legacies](https://www.nps.gov/articles/000/olmsteds-landscapes-and-legacies-march-30-april-2-2022-boston-ma.htm) symposium, the Leventhal Map & Education Center presents a curatorial introduction to the new [More or Less in Common: Environment and Justice in the Human Landscape](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common) exhibition. This event will feature a 30 minute behind-the-scenes tour of the exhibition, followed by an opportunity to explore the material on display.
 
