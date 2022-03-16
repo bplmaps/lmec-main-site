@@ -2,10 +2,9 @@
 title: Rediscovering a Map of the Amazon
 description: A 1755 map created by a German Jesuit missionary for the Portuguese Empire casts new light on early European efforts to map the Amazon River valley
 author: Mirela Altic
-date: 2022-03-15T04:00:00.000+00:00
+date: 2022-03-16T04:00:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:mw22xp469/230,1577,3923,2086/,1200/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:mw22xp469/230,1577,3923,2086/,1200/0/default.jpg
-draft: true
 tags:
 - guest post
 - Amazon
@@ -113,7 +112,7 @@ The importance of the Jesuit presence in the Amazon region during the mid-eighte
 
 The colonial government demanded a new, more detailed map that would more precisely demarcate the northern border of Brazil. It would soon appear after the Portuguese demarcation commission led by Francisco Xavier de Mendonça (1701--1769) completed a survey in 1755, resulting in the first hydrographic map of the Amazon River.
 
-> Mirela Altic is a professor of history and lectures on map history and historical geography. Over the last decade she has published extensively on the explorative and missionary cartography of the New World. In 2019, she was a MacLean Collection Map Fellow. Her latest book [*Encounters in the New World: Jesuit Cartography of the Americas*](https://press.uchicago.edu/ucp/books/book/chicago/E/bo95833620.html), scheduled to be published by the University of Chicago Press in early 2022, is based in and supported by the MacLean Collection.
+> Mirela Altic is a professor of history and lectures on map history and historical geography at the University of Zagreb, Croatia. Over the last decade she has published extensively on the explorative and missionary cartography of the New World. In 2019, she was a MacLean Collection Map Fellow. Her latest book [*Encounters in the New World: Jesuit Cartography of the Americas*](https://press.uchicago.edu/ucp/books/book/chicago/E/bo95833620.html), scheduled to be published by the University of Chicago Press in early 2022, is based in and supported by the MacLean Collection.
 
 
 ### References
