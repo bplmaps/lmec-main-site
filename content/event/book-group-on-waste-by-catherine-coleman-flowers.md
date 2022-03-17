@@ -17,7 +17,7 @@ draft: true
 
 Join us for **three in-person book group sessions** on Catherine Coleman Flowers’s _Waste_, exploring "the largely invisible problem of inadequate waste and water sanitation infrastructure in rural communities in the United States.” In her book, Coleman Flowers—environmental health advocate, 2020 MacArthur Fellow, and rural development manager for Bryan Stevenson’s Equal Justice Initiative—unpacks the effects of structural poverty and what the struggle to undo it requires.
 
-{{< figure src="/uploads/2022-03-17/waste.jpeg" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2022-03-17/waste1.jpeg" caption="" class="figure-right" >}}
 
 In conjunction with the Map Center’s current exhibition [_More or Less in Common: Environment and Justice in the Human Landscape_](https://www.leventhalmap.org/exhibitions/), we will look at maps as we read, looking at the ways cartographers create visual representations of the unequal burdens of environmental dangers in our communities.
 
