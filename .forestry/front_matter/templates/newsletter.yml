@@ -36,6 +36,7 @@ fields:
     schema:
       format: markdown
   label: Introductory Text
+  description: Optional, leave blank for no intro text
 - name: content_block
   type: field_group_list
   fields:
@@ -68,6 +69,8 @@ fields:
     config:
       required: false
     label: Content Block Image URL
+    description: Use a IIIF or Wasabi image URL if available. Leave blank if you want
+      to later upload an image into EmailOctopus.
   - name: content_block_image_alt_text
     type: text
     config:
