@@ -5,10 +5,10 @@ fields:
 - name: newsletter_publication_date
   type: datetime
   label: Newsletter publication Date
-  description: ''
+  description: The date that should appear in the newsletter banner. Time is ignored
   config:
     required: true
-    date_format: 
+    date_format: MM/DD/YYYY
     time_format: 
     display_utc: false
 - name: banner_iiif_image
