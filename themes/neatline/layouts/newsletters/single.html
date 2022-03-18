@@ -42,8 +42,12 @@
                 <div style="font-size: 1.2em;">
 
                     {{ with .Params.introductory_text }}
-                    <div style="padding-bottom: 15px;">
-                        {{ . | markdownify}}
+                    <div style="padding-bottom: 15px; padding-left: 20px; padding-right: 20px;">
+                        {{ if in (string .) "\n\n" }}
+  {{ . | markdownify }}
+{{ else }}
+  <p>{{ . | markdownify }}</p>
+{{ end }}
                     </div>
                     {{ end }}
 
@@ -53,10 +57,14 @@
                         <div class="doubleblock-inner">
                             <div class="doubleblock-contents">
 
-                                {{ if ne .content_block_image_url "" }}
-                                <img src="{{ .content_block_image_url }}"
-                                style="width: 424px;" alt="{{ .content_block_image_alt_text }}" height="262" width="426">
+                                <a href="{{ .content_block_button_url }}" rel="noopener noreferrer">
+                                {{ if ne .content_block_image "" }}
+                                <img src="{{ .content_block_image }}"
+                                style="width: 424px; height: auto;" alt="{{ .content_block_image_alt_text }}" width="424" alt="{{ .content_block_image_alt }}">
+                                {{ else }}
+                                <img style="width: 424px; height: auto;" width="424" src="https://s3.us-east-2.wasabisys.com/lmec-public-files/newsletters/placeholder-image.png" alt="">
                                 {{ end }}
+                            </a>
                                 
                             </div>
                         </div>
@@ -67,9 +75,13 @@
 
                                 <p> <strong>{{ .content_block_header }}</strong></p>
 
+                                {{ if in (string .content_block_text) "\n\n" }}
                                 {{ .content_block_text | markdownify }}
+                              {{ else }}
+                                <p>{{ .content_block_text | markdownify }}</p>
+                              {{ end }}
 
-                                <p><a class="button" href="{{ .content_block_image }}" rel="noopener noreferrer"
+                                <p><a class="button" href="{{ .content_block_button_url }}" rel="noopener noreferrer"
                                         target="_blank">{{ .content_block_button_text }} →</a>&nbsp;
                                 </p>
                             </div>
