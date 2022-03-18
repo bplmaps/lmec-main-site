@@ -101,17 +101,17 @@
             <td style="font-family: hero-new, sans-serif; color: #333333; font-weight: 300; font-size: 0.8em;">
 
 
-                <p style="text-align: center;"><a href="/{/{UnsubscribeURL}}" style="color: #333333;">Unsubscribe from
+                <p style="text-align: center;"><a href="{{ "{{UnsubscribeURL}}" }}" style="color: #333333;">Unsubscribe from
                         this list</a></p>
 
-                <p style="text-align: center;"><a href="/{/{WebVersionURL}}">View this email in your browser</a></p>
+                <p style="text-align: center;"><a href="{{ htmlUnescape "{{WebVersionURL}}" }}">View this email in your browser</a></p>
 
                 <p style="text-align: center;">Leventhal Map &amp; Education Center at the Boston Public Library</p>
 
                 <p style="text-align: center;">617.859.2387 · <a
                         href="mailto:info@leventhalmap.org">info@leventhalmap.org</a></p>
 
-                <p style="text-align: center;">/{/{SenderInfoLine}}</p>
+                <p style="text-align: center;">{{ htmlUnescape "{{SenderInfoLine}}" }}</p>
 
                 <p style="text-align: center;"><a href="https://www.leventhalmap.org/privacy/" rel="noopener noreferrer"
                         target="_blank">Privacy Policy</a></p>
