@@ -47,10 +47,6 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Gallery closure
-    text: 'The Map Center gallery will be closed from March 5–March 17 for exhibition
-      changeover '
-    link: https://www.leventhalmap.org/exhibitions/
   - badge: 'Coming soon '
     text: '"More or Less in Common: Environment and Justice in the Human Landscape"
       opens March 18th'
@@ -150,7 +146,7 @@ funfacts:
 blog:
   enable: true
   title: Articles
-todaysHours: false
+todaysHours: true
 upcomingLivestream:
   enable: true
   embedLink: <iframe width="560" height="315" src="https://www.youtube.com/embed/gHyuIXdJr4A"
