@@ -23,9 +23,11 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 
 {{< /carousel >}}
 
-## Coming Soon
+## Currently on Exhibit
 
-**Opening March 18, 2022**
+### More or Less in Common: Environment and Justice in the Human Landscape
+
+**March 18–December 28, 2022**
 
 In [_More or Less in Common: Environment and Justice in the Human Landscape_,](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/) we take a look at how questions of social justice and injustice are essential topics to confront when trying to understand the human landscape. These questions must also be at the center of our attention as we challenge ourselves to build better, healthier environments in the future. Through maps as well as photographs, images, and data visualizations, this exhibition encourages you to confront stories about how environmental conditions have sometimes served to worsen inequalities along lines of social division. At the same time, our shared environment offers the possibility to bring people together across differences and the inspiration to forge new kinds of common action.
 
