@@ -30,6 +30,7 @@ Our free gallery tours last approximately 30 minutes and do not require advance 
 | Day | Gallery tour hours |
 | --- | --- |
 | Monday | 11:30 am |
+| Wednesday | 5:30 pm |
 | Friday | 11:30 am |
 | Saturday | 11:30 am |
 
