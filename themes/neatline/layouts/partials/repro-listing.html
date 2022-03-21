@@ -16,7 +16,7 @@
       <h3 class="card-title">{{ $title }}</a></h3>
       <h5>${{ $price | lang.FormatNumber 2 }}</h5>
       <p class="card-text">Image: {{ (div $extent3 300) | lang.FormatNumber 2 }} inches wide × {{ (div $extent4 300) | lang.FormatNumber 2 }} inches high </p>
-      <p class="card-text">Paper: {{ (add (div $extent3 300) 2) | lang.FormatNumber 2}} inches wide × {{( add (div $extent4 300) 2) | lang.FormatNumber 2 }} inches high </p>
+      <p class="card-text">Paper: {{ (add (div $extent3 300) 4) | lang.FormatNumber 2}} inches wide × {{( add (div $extent4 300) 4) | lang.FormatNumber 2 }} inches high </p>
       <button class="snipcart-add-item btn btn-primary mb-2"
         data-item-id="repro-{{ $store_id }}"
         data-item-price="{{ $price }}"
