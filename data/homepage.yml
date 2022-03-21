@@ -48,8 +48,8 @@ cta:
   enable: true
   announcements:
   - badge: On display
-    text: 'Our "More or Less in Common: Environment and Justice in the Human Landscape"
-      exhibition is open now through December '
+    text: '"More or Less in Common: Environment and Justice in the Human Landscape"
+      is open now through December '
     link: https://www.leventhalmap.org/exhibitions/
   - badge: New acquisition
     text: A mechanical map from the late nineteenth century showing the US's territorial
