@@ -27,10 +27,10 @@ The image on the right shows Union Square in an 1895 Bromley fire insurance atla
 
 Finally, this image is from our friends at Historic New England showing a street car at the intersection of Union Square and Bow Street from an unknown year. While a large number of greater Boston streetcar lines once existed, only a few remain - most notably on the Green Line.
 
-What we've laid out in this article only scratches the surface of the rich history of Somerville and the important topic of environmental justice that we can't cover in this article. If you're interested, more resources to explore are below.
+What we've laid out in this article only scratches the surface of the rich history of Somerville and the important topic of environmental justice. If you're interested, more resources to explore are below.
 
-> A [2014 research study](https://www.mapc.org/wp-content/uploads/2017/09/DimensionsOfDisplacement_ExecSumm_2_11_14_0.pdf) from the Metropolitan Area Planning Council (MAPC) on gentrification and displacement in Somerville.
+> * Browse [Atlascope]() to learn more history surrounding Union Square and the Greater Boston area.
+> * A [2014 research study](https://www.mapc.org/wp-content/uploads/2017/09/DimensionsOfDisplacement_ExecSumm_2_11_14_0.pdf) from the Metropolitan Area Planning Council (MAPC) on gentrification and displacement in Somerville.
 >
-> Browse [Atlascope]() to learn more history surrounding Union Square and the Greater Boston area.
 >
-> Explore the digital exhibition of [_More or Less in Common_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/) or visit it in person at our gallery in Copley Square. If you are an advocate for issues of transit or housing justice, and are interested in exploring these topics with us, please [get in touch](mailto:info@leventhalmap.org).
+> * Explore the digital exhibition of [_More or Less in Common_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/) or visit it in person at our gallery in Copley Square. If you are an advocate for issues of transit or housing justice, and are interested in exploring these topics with us, please [get in touch](mailto:info@leventhalmap.org).
