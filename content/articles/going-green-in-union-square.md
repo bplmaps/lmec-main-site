@@ -23,7 +23,7 @@ The image above is from an atlas by the Boston Elevated Railway Company and the 
 
 The image on the left shows Union Square in an 1895 Bromley fire insurance atlas. In [this overlay from our Atlascope tool](https://atlascope.leventhalmap.org/#view:share$base:000$overlay:39999059015998$zoom:17.67$center:-7914221.51466886,5217555.864032405$mode:glass$pos:324), we can see that what is now the location of the Union Square T stop used to be a glassworks factory. Started in 1851 by the Houghton business family, the Union Glass Company grew in size and capacity over the decades to employ over 200 people, many of them immigrants, and manufactured everything from doorknobs and windows to ornamental and decorative objects like vases. It was closed in 1927. You can read more about the historic Somerville glassworks factory in [this article from the Somerville Times](https://www.thesomervilletimes.com/archives/59178).
 
-{{< figure src="https://hne-rs.s3.amazonaws.com/filestore/1/9/2/7/8_e1c24c96f399f4a/19278scr_97c019967391f70.jpg" caption="A street car glides down Bow Street. Image from Historic New England, via Digital Commonwealth." class="figure-right" >}}
+{{< figure src="https://hne-rs.s3.amazonaws.com/filestore/1/9/2/7/8_e1c24c96f399f4a/19278scr_97c019967391f70.jpg" caption="A street car glides down Bow Street. Image from Historic New England, via Digital Commonwealth." class="figure-left" >}}
 
 Finally, this image is from our friends at Historic New England showing an street car on Bow Street in Union Square, from an unknown year.
 
