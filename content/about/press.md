@@ -18,6 +18,14 @@ John Michael Kennedy, JMKPR
 
 [The Boston Globe - When Boston gave America some sugar](https://www.bostonglobe.com/2022/02/12/opinion/when-boston-gave-america-some-sugar/)
 
+**Press for _More or Less in Common_**
+
+[WBUR Radio Clip](https://bostonpubliclibrary.sharepoint.com/:u:/s/LeventhalMap/EXbsq6OQEnREvvB_7M0cHoYBjqdaJae9vFtZDZCBb_2MmA?e=eBH9qT)
+
+[Boston Globe, The Ticket - _Things to do around Boston this weekend_](https://www.bostonglobe.com/2022/03/17/arts/things-do-around-boston-this-weekend-beyond/)
+
+[WBUR, _5 things to do this weekend_](https://www.wbur.org/news/2022/03/17/weekend-revels-spring-sing-st-patricks-day-parade)
+
 **Press for _Bending Lines_**
 
 [WBZ New England Weekend](https://bostonpubliclibrary.sharepoint.com/sites/LeventhalMap/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FLeventhalMap%2FShared%20Documents%2FPR%20and%20Communications%2FBending%20Lines%2FLMC%20WBZ%2DAM%20NE%20WKND%20%2D%20BENDING%20LINES%2Emp3&parent=%2Fsites%2FLeventhalMap%2FShared%20Documents%2FPR%20and%20Communications%2FBending%20Lines&p=true&originalPath=aHR0cHM6Ly9ib3N0b25wdWJsaWNsaWJyYXJ5LnNoYXJlcG9pbnQuY29tLzp1Oi9zL0xldmVudGhhbE1hcC9FZXhEU0IzekZRQk1xQUhPUGwxdzhKRUI0VE5oWFNIZUJhcG5DX2tsZjBxY2xnP3J0aW1lPW1PLThMQmw4MkVn)
