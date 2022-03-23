@@ -1,9 +1,9 @@
 ---
-date: 2022-03-23T13:30:00-04:00
+date: 2022-03-24T00:00:00-04:00
 title: Going Green In Union Square
-description: With the opening of the Union Square T stop on the Green Line extension
-  this week, this article explores how it relates to transit justice, as well as unpacks
-  the history of Union Square.
+description: This past Monday marked the historic opening of the new Union Square
+  stop on the MBTA's Green Line extension. In  this article, we unpack the history
+  of Union Square and explore how transit relates to broader social justice issues.
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8336h321k/5769,3284,917,438/1200,/0/default.jpg
 author: Rachel Sharer
 tags: []
@@ -20,6 +20,8 @@ The opening of the extension has been met with much celebration, but many of the
 This image on the left is from an atlas by the Boston Elevated Railway Company and the Department of Civil Engineering, showing Union Square in 1915 along the Fitchburg Railroad line. Originally Prospect Street Station, it was renamed Union Square in 1875. The station closed in 1938 and was demolished. You can [browse the full atlas](https://collections.leventhalmap.org/search/commonwealth:pc28d1265) in our digital collections, which was created to show the track lengths of Boston area surface lines and subways.
 
 This image shows Union Square in an 1895 Bromley fire insurance atlas. In [this overlay from our Atlascope tool](https://atlascope.leventhalmap.org/#view:share$base:000$overlay:39999059015998$zoom:17.67$center:-7914221.51466886,5217555.864032405$mode:glass$pos:324), we can see that what is now the location of the Union Square T stop used to be a glassworks factory. Started in 1851 by the Houghton business family, the Union Glass Company grew in size and capacity over the decades to employ over 200 people, many of them immigrants, and manufactured everything from doorknobs and windows to ornamental and decorative objects like vases. It was closed in 1927. You can read more about the historic Somerville glassworks factory in [this article from the Somerville Times](https://www.thesomervilletimes.com/archives/59178).
+
+{{< figure src="https://hne-rs.s3.amazonaws.com/filestore/1/9/2/7/8_e1c24c96f399f4a/19278scr_97c019967391f70.jpg" caption="A street car glides down Bow Street. Image from Historic New England, via Digital Commonwealth." class="figure-right" >}} 
 
 Finally, this image is from our friends at Historic New England showing an street car on Bow Street in Union Square, from an unknown year.
 
