@@ -32,5 +32,6 @@ Finally, this image is from our friends at Historic New England showing a street
 What we've laid out in this article only scratches the surface of the rich history of Somerville and the important topic of environmental justice. If you're interested, more resources to explore are below.
 
 > * Browse [Atlascope]() to learn more history surrounding Union Square and the Greater Boston area.
-> * A [2014 research study](https://www.mapc.org/wp-content/uploads/2017/09/DimensionsOfDisplacement_ExecSumm_2_11_14_0.pdf) from the Metropolitan Area Planning Council (MAPC) on gentrification and displacement in Somerville.
+> * Read a [rich history and self-guided tour](https://s3.amazonaws.com/ifa.somervillema.gov/documents/historic/UnionSquareSelf-GuidedTour.pdf) of Union Square from the Victorian Society in America's New England Chapter.
+> * Read a [2014 research study](https://www.mapc.org/wp-content/uploads/2017/09/DimensionsOfDisplacement_ExecSumm_2_11_14_0.pdf) from the Metropolitan Area Planning Council (MAPC) on gentrification and displacement in Somerville.
 > * Explore the digital exhibition of [_More or Less in Common_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/) or visit it in person at our gallery in Copley Square. If you are an advocate for issues of transit or housing justice, and are interested in exploring these topics with us, please [get in touch](mailto:info@leventhalmap.org).
