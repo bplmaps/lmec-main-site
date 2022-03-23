@@ -11,3 +11,22 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8336h3
 draft: true
 
 ---
+If you're in the Greater Boston Area, you probably heard about the historic opening of the Union Square stop on the MBTA's Green Line extension Monday. Local activists and community members in Somerville and Medford played a key role in getting the project completed after repeated promises from the State of Massachusetts since the 1990s. (The agreement to extend the line was made to mitigate impacts from the infamous Big Dig and to increase direct access to the city). 
+
+The opening of the extension has been met with much celebration, but many of the long-time residents of Somerville and Medford are also worried about displacement due to a growing trend of gentrification and rising rents. As public transportation hubs cause neighborhoods to slowly gentrify, lower-income communities are often pushed out – the same people who most need public transportation access in the first place.
+
+Transit justice and housing justice issues are important topics in the much broader theme of Environmental Justice, which we focus on in our new exhibition, [_More or Less in Common_.](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/)  
+
+This image is from an atlas by the Boston Elevated Railway Company and the Department of Civil Engineering, showing Union Square in 1915 along the Fitchburg Railroad line. Originally Prospect Street Station, it was renamed Union Square in 1875. The station closed in 1938 and was demolished. You can [browse the full atlas](https://collections.leventhalmap.org/search/commonwealth:pc28d1265) in our digital collections, which was created to show the track lengths of Boston area surface lines and subways.
+
+This image shows Union Square in an 1895 Bromley fire insurance atlas. In [this overlay from our Atlascope tool](https://atlascope.leventhalmap.org/#view:share$base:000$overlay:39999059015998$zoom:17.67$center:-7914221.51466886,5217555.864032405$mode:glass$pos:324), we can see that what is now the location of the Union Square T stop used to be a glassworks factory. Started in 1851 by the Houghton business family, the Union Glass Company grew in size and capacity over the decades to employ over 200 people, many of them immigrants, and manufactured everything from doorknobs and windows to ornamental and decorative objects like vases. It was closed in 1927. You can read more about the historic Somerville glassworks factory in [this article from the Somerville Times](https://www.thesomervilletimes.com/archives/59178).
+
+Finally, this image is from our friends at Historic New England showing an street car on Bow Street in Union Square, from an unknown year.
+
+There's much more to explore in these topics that we can't cover in this article. Some further reading includes: 
+
+ [A 2014 research study from the Metropolitan Area Planning Council (MAPC) on the gentrification and displacement of Somerville](https://www.mapc.org/wp-content/uploads/2017/09/DimensionsOfDisplacement_ExecSumm_2_11_14_0.pdf).
+
+Explore Union Square and more history of the Greater Boston area in [Atlascope]().
+
+We encourage you to explore the digital exhibition of [_More or Less in Common_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/) or visit it in person at our gallery in Copley Square. If you are an advocate for issues of transit or housing justice, and are interested in exploring these topics with us, please [get in touch](mailto:info@leventhalmap.org).
