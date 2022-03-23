@@ -11,11 +11,11 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8336h3
 draft: true
 
 ---
-If you're in the Greater Boston Area, you probably heard about the historic opening of the Union Square stop on the MBTA's Green Line extension Monday. Local activists and community members in Somerville and Medford played a key role in getting the project completed after repeated promises from the State of Massachusetts since the 1990s. (The agreement to extend the line was made to mitigate impacts from the infamous Big Dig and to increase direct access to the city). 
+If you're in the Greater Boston Area, you probably heard about the historic opening of the Union Square stop on the MBTA's Green Line extension Monday. Local activists and community members in Somerville and Medford played a key role in getting the project completed after repeated promises from the State of Massachusetts since the 1990s. (The agreement to extend the line was made to mitigate impacts from the infamous Big Dig and to increase direct access to the city).
 
-The opening of the extension has been met with much celebration, but many of the long-time residents of Somerville and Medford are also worried about displacement due to a growing trend of gentrification and rising rents. As public transportation hubs cause neighborhoods to slowly gentrify, lower-income communities are often pushed out – the same people who most need public transportation access in the first place. Transit justice and housing justice are important topics in the much broader theme of Environmental Justice, which we focus on in our new exhibition, [_More or Less in Common_.](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/)  
+The opening of the extension has been met with much celebration, but many of the long-time residents of Somerville and Medford are also worried about displacement due to a growing trend of gentrification and rising rents. As public transportation hubs cause neighborhoods to slowly gentrify, lower-income communities are often pushed out – the same people who most need public transportation access in the first place. Transit justice and housing justice are important topics in the much broader theme of Environmental Justice, which we focus on in our new exhibition, [_More or Less in Common_.](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jd475d72b/6632,927,3878,2651/full/0/default.jpg" caption="Union Square in 1915 along the elevated rail lines in Somerville." class="figure-left" >}} 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jd475d72b/7274,1555,2150,1396/full/0/default.jpg" caption="Union Square in 1915 along the elevated rail lines in Somerville." class="figure-left" >}}
 
 This image is from an atlas by the Boston Elevated Railway Company and the Department of Civil Engineering, showing Union Square in 1915 along the Fitchburg Railroad line. Originally Prospect Street Station, it was renamed Union Square in 1875. The station closed in 1938 and was demolished. You can [browse the full atlas](https://collections.leventhalmap.org/search/commonwealth:pc28d1265) in our digital collections, which was created to show the track lengths of Boston area surface lines and subways.
 
@@ -25,7 +25,7 @@ Finally, this image is from our friends at Historic New England showing an stree
 
 And there's much more to the rich history of Somerville and the important topic of environmental justice that we can't cover in this article. If you're interested, here are some more resources to explore:
 
- A [2014 research study](https://www.mapc.org/wp-content/uploads/2017/09/DimensionsOfDisplacement_ExecSumm_2_11_14_0.pdf) from the Metropolitan Area Planning Council (MAPC) on gentrification and displacement in Somerville.
+A [2014 research study](https://www.mapc.org/wp-content/uploads/2017/09/DimensionsOfDisplacement_ExecSumm_2_11_14_0.pdf) from the Metropolitan Area Planning Council (MAPC) on gentrification and displacement in Somerville.
 
 Browse [Atlascope]() to learn more history surrounding Union Square and the Greater Boston area.
 
