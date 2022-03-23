@@ -2,16 +2,17 @@
 date: 2022-03-24T00:00:00-04:00
 title: Going Green In Union Square
 description: This past Monday marked the historic opening of the new Union Square
-  stop on the MBTA's Green Line extension. In  this article, we unpack the history
+  stop on the MBTA's Green Line extension. In this article, we unpack the history
   of Union Square and explore how transit relates to broader social justice issues.
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8336h321k/5769,3284,917,438/1200,/0/default.jpg
 author: Rachel Sharer
-tags: []
+tags:
+- Transit Justice
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8336h321k/5769,3284,917,438/1200,/0/default.jpg
 draft: true
 
 ---
-If you're in the Greater Boston Area, you probably heard about the historic opening of the Union Square stop on the MBTA's Green Line extension Monday. Local activists and community members in Somerville and Medford played a key role in getting the project completed after repeated promises from the State of Massachusetts since the 1990s. (The agreement to extend the line was made to mitigate impacts from the infamous Big Dig and to increase direct access to the city).
+If you're in the Greater Boston Area, you probably heard about Monday's historic opening of the Union Square stop on the MBTA's Green Line extension. Local activists and community members in Somerville and Medford played a key role in the project's completion after repeated promises from the State of Massachusetts since the 1990s (The agreement to extend the line was made to mitigate impacts from the infamous Big Dig and to increase direct access to the city).
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jd475d72b/7274,1555,2150,1396/full/0/default.jpg" caption="Union Square in 1915 along the elevated rail lines in Somerville." class="figure-left" >}}
 
