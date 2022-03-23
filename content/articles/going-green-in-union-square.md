@@ -9,7 +9,6 @@ author: Rachel Sharer
 tags:
 - Transit Justice
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8336h321k/5769,3284,917,438/1200,/0/default.jpg
-draft: true
 
 ---
 If you're in the Greater Boston Area, you probably heard about Monday's historic opening of the Union Square stop on the MBTA's Green Line extension. Local activists and community members in Somerville and Medford played a key role in the project's completion after repeated promises from the State of Massachusetts since the 1990s. (The agreement to extend the line was made to mitigate impacts from the infamous Big Dig and to increase direct access to the city)
