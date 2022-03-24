@@ -1,7 +1,11 @@
 ---
 date: 2022-03-24T14:57:33-04:00
 title: Lower Neponset River
-description: ''
+description: 'On March 14, 2022, the EPA announced the addition of the Lower Neponset
+  River to the Superfund National Priorities List—a designation that will provide
+  federal resources for a long-awaited environmental hazard investigation and cleanup
+  project. Here, we map the history of this local success story of environmental justice
+  organizing '
 image: "/uploads/2022-03-15/commonwealth_x633ff663_image_access_800.jpg"
 author: Megan Nally
 tags:
