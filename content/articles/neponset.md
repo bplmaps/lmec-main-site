@@ -26,4 +26,4 @@ The EPA’s decision draws from studies conducted in the early 2000s that determ
 
 ### An industrial river
 
-{{< figure src="" caption="" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n6124/323,1556,643,631/full/0/default.jpg" caption="" class="figure-right" >}}
