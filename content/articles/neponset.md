@@ -24,4 +24,6 @@ The EPA’s decision draws from studies conducted in the early 2000s that determ
 
 > See [here](https://www.neponset.org/superfund-lower-neponset-river/) for more information on PCBs and permitted recreation along the Neponset.
 
-### An industrial river 
+### An industrial river
+
+{{< figure src="" caption="" class="figure-right" >}}
