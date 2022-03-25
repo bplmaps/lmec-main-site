@@ -1,7 +1,7 @@
 ---
-publishDate: 2022-03-16T10:02:13-04:00
+publishDate: 2022-03-16T10:02:13.000-04:00
 title: 'Landscapes of Social Change: Curatorial Introduction to More or Less in Common'
-date: 2022-03-30T18:00:00-04:00
+date: 2022-03-30T18:00:00.000-04:00
 image: "/uploads/2022-03-16/download-2.png"
 backgroundImage: "/uploads/2022-03-16/download-2.png"
 location: 'Commonwealth Salon, Central Library in Copley Square '
@@ -20,4 +20,4 @@ As part of the National Park Service’s [Olmsteds: Landscapes and Legacies](htt
 
 This program is free and open to all members of the public.
 
-Co-presented by the [Frederick Law Olmsted National Historic Site](https://www.nps.gov/frla/index.htm) and [Olmsted200](https://olmsted200.org/).
+Co-presented by the [Frederick Law Olmsted National Historic Site](https://www.nps.gov/frla/index.htm), [Olmsted200](https://olmsted200.org/), and [Olmsted Now](https://olmstednow.org).
