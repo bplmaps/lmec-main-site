@@ -5,10 +5,21 @@ description: List of K-12 teacher professional development workshops hosted at t
   Map Center
 
 ---
+**2022**
+
+* Small Bites: An after-school series of gatherings for educators interested in teaching about Boston through a geospatial and social justice lens
+  * Learn to Make a Digital Map Mini-session
+  * Environmental Justice in Boston
+
 **2021**
 
 * [2021 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/ETe30elG0mVOhcz5wd6cSecB9XR1S3-VRO0w2Lbq_HpkPw?e=hWFQk7 "2021 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History")
 * [Mapping a New World: Places of Conflict and Colonization in 17th Century New England, NEH Landmarks of American History and Culture Workshop](https://sites.google.com/seed-ed.com/leventhal-newworld/home?authuser=0 "Mapping a New World: Places of Conflict and Colonization in 17th Century New England, NEH Landmarks of American History and Culture Workshop")
+* Small Bites: An after-school series of gatherings for educators interested in teaching about Boston through a geospatial and social justice lens
+  * Educator Social and Map Giveaway
+  * Visualizing Change in Boston
+  * Redlining Maps and Their Legacy
+  * Critical Map Reading and Literacy
 
 **2020**
 
