@@ -6,7 +6,7 @@ image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw26b/816,14
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw26b/816,1408,3263,2912/full/0/default.jpg
 location: Online
 fee: Free
-registration: ''
+registration: https://www.eventbrite.com/e/continued-conversations-urban-development-and-community-resilience-tickets-310530905297
 tags:
 - exhibition
 - Continued Conversations
