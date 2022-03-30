@@ -47,6 +47,9 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Digital exhibition
+    text: Browse the accompanying digital exhibition for "More or Less in Common"
+    link: https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/
   - badge: On display
     text: '"More or Less in Common: Environment and Justice in the Human Landscape"
       is open now through December '
