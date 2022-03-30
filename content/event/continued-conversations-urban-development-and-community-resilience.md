@@ -10,7 +10,6 @@ registration: https://www.eventbrite.com/e/continued-conversations-urban-develop
 tags:
 - exhibition
 - Continued Conversations
-draft: true
 
 ---
 ### About this event
