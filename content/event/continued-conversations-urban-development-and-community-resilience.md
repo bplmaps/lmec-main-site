@@ -17,7 +17,7 @@ draft: true
 
 Join us for a conversation with the [Dudley Street Neighborhood Initiative (DSNI)](https://www.dsni.org/) on community land trusts, sustainable development, and community resilience.
 
-For over 35 years, DSNI has been empowering Dudley residents to organize, plan for, create and control a vibrant, diverse and high-quality urban village. Their efforts prioritize development without displacement, community power, and collective control. DSNI's Executive Director, **John Smith**, and Director of Community Organizing, **René Mardones**, will talk us through DSNI's origins and current initiatives as we walk through the neighborhood's history through maps from our collections.
+For over 38 years, DSNI has been empowering Dudley residents to organize, plan for, create and control a vibrant, diverse and high-quality urban village. Their efforts prioritize development without displacement, community power, and collective control. DSNI's Executive Director, **John Smith**, and Director of Community Organizing, **René Mardones**, will talk us through DSNI's origins and current initiatives as we walk through the neighborhood's history through maps from our collections.
 
 This talk is virtual, free, open to the public, and will feature a Q&A session with our speakers.
 
