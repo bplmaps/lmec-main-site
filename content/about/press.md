@@ -20,6 +20,8 @@ John Michael Kennedy, JMKPR
 
 **Press for _More or Less in Common_**
 
+[The Harvard Crimson](https://www.thecrimson.com/article/2022/3/29/bpl-maps-exhibit-article/)
+
 [WBUR Radio Clip](https://bostonpubliclibrary.sharepoint.com/:u:/s/LeventhalMap/EXbsq6OQEnREvvB_7M0cHoYBjqdaJae9vFtZDZCBb_2MmA?e=eBH9qT)
 
 [Boston Globe, The Ticket - _Things to do around Boston this weekend_](https://www.bostonglobe.com/2022/03/17/arts/things-do-around-boston-this-weekend-beyond/)
