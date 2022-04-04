@@ -4,8 +4,7 @@ title: Lower Neponset River
 description: 'On March 14, 2022, the EPA announced the addition of the Lower Neponset
   River to the Superfund National Priorities List—a designation that will provide
   federal resources for a long-awaited environmental hazard investigation and cleanup
-  project. Here, we map the history of this local success story of environmental justice
-  organizing '
+  project. '
 image: "/uploads/2022-03-15/commonwealth_x633ff663_image_access_800.jpg"
 author: Megan Nally
 tags:
@@ -28,9 +27,7 @@ The EPA’s decision draws from studies conducted in the early 2000s that determ
 
 ### An early industrial river
 
-The Neponset River has been home to a string of local industries since the seventeenth century. These early industries—including flour, gun powder, paper, lumber, and chocolate—relied on the river as both a power source for manufacturing and dumping ground for waste. 
-
-Two major pieces of infrastructure sprung up in support... mills and damns 
+The Neponset River has been home to a string of local industries since the seventeenth century. These early industries—including flour, gun powder, paper, lumber, and chocolate—relied on the river for water, power, and dumping. Two major pieces of infrastructure sprung up in support... mills and damns 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/full/full/0/default.jpg" caption="This 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of Lower Mills documents a handful of early local industries" class="figure-center" >}}
 
