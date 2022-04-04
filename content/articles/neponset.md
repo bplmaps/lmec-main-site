@@ -24,12 +24,14 @@ The EPA’s decision draws from studies conducted in the early 2000s that determ
 
 > See [here](https://www.neponset.org/superfund-lower-neponset-river/) for more information on PCBs and permitted recreation along the Neponset.
 
-### An industrial river
+### An early industrial river
 
-The Neponset River has long been home to a string of local industries, including flour, gun powder, paper making, and lumber, since the early-seventeenth century, 
+The Neponset River has long been home to a string of local industries, including flour, gun powder, paper making, and lumber, since the early-seventeenth century. Though PCBs didn't enter the picture until the 1930s, these local industries emitted other pollutants that have long 
 
- dating back to the early-seventeenth century: the river’s water power was––quite literally––the driving force of local industries. 
+{{< figure src="" caption="" class="figure-right" >}}
 
 Although PCBs did not enter the environment until the 1930s, the Neponset River has long been home to a string of industries dating back to the early-seventeenth century: the river’s water power was––quite literally––the driving force of local industries. 
 
 Starting in 1634, mills for flour, gun powder, paper making, and lumber were constructed along the river 
+
+{{< figure src="/uploads/2022-04-04/industries.jpg" caption="A 1954 [study](https://www.jstor.org/stable/25080477?seq=1) by Edward Pierce Hamilton estimates 18 mills lined the Neponset by 1800." class="figure-right" >}}
