@@ -28,4 +28,4 @@ The EPA’s decision draws from studies conducted in the early 2000s that determ
 
 {{< figure src="/uploads/2022-04-04/industries.jpg" caption="A 1954 [study](https://www.jstor.org/stable/25080477?seq=1) by Edward Pierce Hamilton estimates 18 mills lined the Neponset by 1800." class="figure-right" >}}
 
-The Neponset River has been home to a string of local industries—including flour, gun powder, paper making, and lumber—since the early-seventeenth century. Though PCBs didn't enter the picture until the 1930s, these early industries relied on the river as both a source of water power and a space for dumping waste, leaving behind a lingering legacy of 
+The Neponset River has been home to a string of local industries—including flour, gun powder, paper making, and lumber—since the early-seventeenth century. Though PCBs didn't enter the picture until the 1930s, these early industries relied on the river for both a power source and dumping ground, leaving behind a lingering legacy of 
