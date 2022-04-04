@@ -20,6 +20,8 @@ John Michael Kennedy, JMKPR
 
 **Press for _More or Less in Common_**
 
+[WBZ New England Weekend](https://bostonpubliclibrary.sharepoint.com/:u:/s/LeventhalMap/Ef61zuWf6ChJqsWb4dze5xQBXV-_qZuQrmITXF5t-UKxsA?e=wzyJQf)
+
 [The Harvard Crimson](https://www.thecrimson.com/article/2022/3/29/bpl-maps-exhibit-article/)
 
 [WBUR Radio Clip](https://bostonpubliclibrary.sharepoint.com/:u:/s/LeventhalMap/EXbsq6OQEnREvvB_7M0cHoYBjqdaJae9vFtZDZCBb_2MmA?e=eBH9qT)
