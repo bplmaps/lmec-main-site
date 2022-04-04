@@ -30,4 +30,6 @@ The EPA’s decision draws from studies conducted in the early 2000s that determ
 
 The Neponset River has been home to a string of local industries—including flour, gun powder, paper making, and lumber—since the early-seventeenth century. Though PCBs didn't enter the picture until the 1930s, these early industries relied on the river as both a power source and dumping ground, each disrupting the physical landscape in their own respective way. 
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/227,5395,1334,657/full/0/default.jpg" class="popupTooltip" target="blank" >}} Mason Regulator Co. {{</popup>}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/full/full/0/default.jpg" caption="" class="figure-right" >}}
+
+This 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of Lower Mills documents a handful of early local industries including, {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/227,5395,1334,657/full/0/default.jpg" class="popupTooltip" target="blank" >}} Mason Regulator Co., {{</popup>}} {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/2484,4661,4378,1073/full/0/default.jpg" class="popupTooltip" target="blank" >}} the Walter Baker & Company's chocolate mills, {{</popup>}}
