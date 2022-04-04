@@ -27,3 +27,5 @@ The EPA’s decision draws from studies conducted in the early 2000s that determ
 ### An industrial river
 
 Although PCBs did not enter the environment until the 1930s, the Neponset River has long been home to a string of industries dating back to the early-seventeenth century. 
+
+Starting in 1634, mills for flour, gun powder, paper making, and lumber were constructed along the river 
