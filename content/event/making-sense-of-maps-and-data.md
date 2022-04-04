@@ -8,7 +8,6 @@ location: Online
 fee: Free
 registration: https://www.eventbrite.com/e/making-sense-of-maps-and-data-tickets-304931978757
 tags: []
-draft: true
 
 ---
 **Join us for a three-part course on digital geospatial information interpretation**
@@ -21,13 +20,10 @@ Have you ever wanted to make a map of data to explore and visualize the world ar
 
 **These sessions will be delivered remotely. Participants should be able to commit to all three sessions in the sequence**.
 
-* **Session 1**: Tuesday, April 12, 4:30PM – 5:30PM
+1. **Session 1**: Tuesday, April 12, 4:30PM – 5:30PM 
 
-(Break for Boston Public Schools vacation week)
-
-* **Session 2**: Tuesday, April 26, 4:30PM – 5:30PM
-
-
-* **Session 3**: Tuesday, May 3, 4:30PM – 5:30PM
+   (Break for Boston Public Schools vacation week)
+2. **Session 2**: Tuesday, April 26, 4:30PM – 5:30PM
+3. **Session 3**: Tuesday, May 3, 4:30PM – 5:30PM
 
 This project was supported by the [Northeast Big Data Hub](https://nebigdatahub.org/).
