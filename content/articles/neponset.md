@@ -29,12 +29,12 @@ PCB contamination of the Neponset likely comes as a result of [industrial operat
 
 ### An early industrial river
 
-The Neponset River has been home to a string of local industries since the seventeenth century. Early industries—producing flour, gun powder, paper, lumber, and chocolate—relied on the river for a supply of water, a space for dumping waste, and a source of power for manufacturing infrastructure like mills and dams. 
+The Neponset River has been home to a string of local industries since the seventeenth century. Early industries—producing flour, gun powder, paper, lumber, and chocolate—relied on the river for a supply of water, a space for dumping waste, and a source of power for manufacturing infrastructure like mills and dams.
 
 Many of these mills were concentrated in today's historically-designated Dorchester-Milton Lower Mills Industrial District, which appears in great detail on this 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of by O.H Bailey & Co.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/full/full/0/default.jpg" caption="This 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of Lower Mills documents a handful of early local industries." class="figure-center" >}}
 
-The {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3044,4783,3016,936/full/0/default.jpg" class="popupTooltip" target="blank" >}} Walter Baker Chocolate Company{{</popup>}} was a 
+The {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3044,4783,3016,936/full/0/default.jpg" class="popupTooltip" target="blank" >}} Walter Baker Chocolate Company{{</popup>}} was a
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/227,5395,1334,657/full/0/default.jpg" class="popupTooltip" target="blank" >}} the Mason Regulator Co., {{</popup>}} 
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/227,5395,1334,657/full/0/default.jpg" class="popupTooltip" target="blank" >}} the Mason Regulator Co., {{</popup>}}
