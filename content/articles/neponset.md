@@ -24,9 +24,9 @@ The EPA’s decision draws from studies conducted in the early 2000s that determ
 
 > See [here](https://www.neponset.org/superfund-lower-neponset-river/) for more information on PCBs and permitted recreation along the Neponset.
 
-### An early industrial river
-
 {{< figure src="/uploads/2022-04-04/industries.jpg" caption="A 1954 [study](https://www.jstor.org/stable/25080477?seq=1) by Edward Pierce Hamilton estimates 18 mills lined the Neponset by 1800." class="figure-right" >}}
+
+### An early industrial river
 
 The Neponset River has been home to a string of local industries—including flour, gun powder, paper making, and lumber—since the early-seventeenth century. These early industries relied on the river as both a power source for manufacturing and dumping ground for waste.   
 
