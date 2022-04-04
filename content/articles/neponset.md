@@ -27,9 +27,11 @@ The EPA’s decision draws from studies conducted in the early 2000s that determ
 
 ### An early industrial river
 
-The Neponset River has been home to a string of local industries since the seventeenth century. These early industries—producing flour, gun powder, paper, lumber, and chocolate—relied on the river for water, power, and dumping, and erected accompanying mills and dams to support their manufacturing. 
+The Neponset River has been home to a string of local industries since the seventeenth century; the first 
 
-Many of these mills were concentrated in today's historically-designated Dorchester-Milton Lower Mills Industrial District, which appears on this 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of Lower Mills by O.H Bailey & Co.  
+Early industries—producing flour, gun powder, paper, lumber, and chocolate—relied on the river for a supply of water, a space for dumping waste, and a source of power for manufacturing infrastructure like mills and dams.
+
+Many of these mills were concentrated in today's historically-designated Dorchester-Milton Lower Mills Industrial District, which appears in great detail on this 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of by O.H Bailey & Co.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/full/full/0/default.jpg" caption="This 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of Lower Mills documents a handful of early local industries." class="figure-center" >}}
 
