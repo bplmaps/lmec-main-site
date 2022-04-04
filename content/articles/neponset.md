@@ -27,9 +27,9 @@ The EPA’s decision draws from studies conducted in the early 2000s that determ
 
 ### An early industrial river
 
-The Neponset River has been home to a string of local industries since the seventeenth century. These early industries—producing flour, gun powder, paper, lumber, and chocolate—relied on the river for water, power, and dumping, and erected accompanying mills and damns along the river to support their manufacturing. The first mill was constructed in 1634 by a settler named Israel Stoughton to support 
+The Neponset River has been home to a string of local industries since the seventeenth century. These early industries—producing flour, gun powder, paper, lumber, and chocolate—relied on the river for water, power, and dumping, and erected accompanying mills and damns along the river to support their manufacturing. Many of these early mills were concentrated in today's historically-designated Dorchester-Milton Lower Mills Industrial District, which appears on this 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of Lower Mills by O.H Bailey & Co. 
 
-This 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of Lower Mills documents the locations of these industries along the river and includes detailed, pictorial representations along the map's margins. 
+documents the locations of these industries along the river and includes detailed, pictorial representations along the map's margins. 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/full/full/0/default.jpg" caption="This 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of Lower Mills documents a handful of early local industries." class="figure-center" >}}
 
