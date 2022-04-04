@@ -23,7 +23,7 @@ The EPA’s decision draws from studies conducted in the early 2000s that determ
 
 > See [here](https://www.neponset.org/superfund-lower-neponset-river/) for more information on PCBs and permitted recreation along the Neponset.
 
-PCB contamination of the Neponset is likely "[the result of industrial operations...along the river](https://www.mass.gov/info-details/lower-neponset-river-site)" dating back to the 1930s. 
+PCB contamination of the Neponset likely comes as a result of [industrial operations](https://www.mass.gov/info-details/lower-neponset-river-site) dating back to the 1930s. 
 
 {{< figure src="/uploads/2022-04-04/industries.jpg" caption="A 1954 [study](https://www.jstor.org/stable/25080477?seq=1) by Edward Pierce Hamilton estimates 18 mills lined the Neponset by 1800." class="figure-right" >}}
 
