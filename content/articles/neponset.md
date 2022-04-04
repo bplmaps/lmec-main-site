@@ -25,3 +25,5 @@ The EPA’s decision draws from studies conducted in the early 2000s that determ
 > See [here](https://www.neponset.org/superfund-lower-neponset-river/) for more information on PCBs and permitted recreation along the Neponset.
 
 ### An industrial river
+
+Although PCBs did not enter the environment until the 1930s, the Neponset River has long been home to a string of industries 
