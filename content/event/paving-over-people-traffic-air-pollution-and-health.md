@@ -10,6 +10,14 @@ registration: https://www.eventbrite.com/e/paving-over-people-traffic-air-pollut
 tags:
 - exhibition
 - Continued Conversations
-draft: true
 
 ---
+### About this event
+
+Join us for a conversation with folks from the [Community Assessment of Freeway Exposure and Health Study](https://www.cafehresearch.org/) (CAFEH) on the health risks of highway pollution.
+
+We'll sit down with Lydia Lowe of the [Chinatown Community Land Trust](https://chinatownclt.org/), [Doug Brugge](https://facultydirectory.uchc.edu/profile?profileId=Brugge-Douglas) of the University of Connecticut School of Medicine, and Ellin Reisner of the [Somerville Transportation Equity Partnership](https://www.somervillestep.org/) to discuss their community-based participatory research (CBPR) air pollution studies. We'll also take a look at maps from our collection that document the local history of freeway construction during the mid-twentieth century.
+
+This talk is virtual, free, open to the public, and will feature a Q&A session with our speakers.
+
+This talk is part of our **Continued Conversations** series in conjunction with our current environmental justice exhibition, [_More or Less in Common: Environment and Justice in the Human Landscape_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/).
