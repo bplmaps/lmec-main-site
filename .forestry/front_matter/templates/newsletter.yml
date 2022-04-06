@@ -26,7 +26,7 @@ fields:
     schema:
       format: markdown
   label: Banner caption
-  description: Citation for banner image
+  description: Citation for banner image - Name, *Title* (YYYY) 
 - name: introductory_text
   type: textarea
   default: ''
