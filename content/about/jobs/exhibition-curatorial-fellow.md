@@ -1,6 +1,8 @@
 ---
 title: 'Job Posting Exhbition Curatorial Fellow'
 menu: true
+backgroundImage: https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg
+cardImage: https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg
 
 ---
 The Leventhal Map & Education Center at the Boston Public Library seeks
