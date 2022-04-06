@@ -4,8 +4,8 @@ author: Ian Spangler
 description: 'When it comes to urban ecological changes, there''s more to smell than
   meets the nose. '
 date: 2022-03-10T01:30:00.000+00:00
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71r300q/321,2602,3393,1013/full/0/default.jpg
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71r300q/321,2602,3393,1013/full/0/default.jpg
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71r300q/321,2602,3393,1013/1200,/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71r300q/321,2602,3393,1013/1200,/0/default.jpg
 tags:
 - More or Less in Common
 - Odors
