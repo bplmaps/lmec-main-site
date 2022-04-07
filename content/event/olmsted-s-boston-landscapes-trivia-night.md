@@ -1,7 +1,7 @@
 ---
-publishDate: 2022-04-07T11:18:43-04:00
+publishDate: 2022-04-07T11:18:43.000-04:00
 title: Olmsted's Boston Landscapes Trivia Night
-date: 2022-06-23T18:00:00-04:00
+date: 2022-06-23T18:00:00.000-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k90g/full/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k90g/full/full/0/default.jpg
 location: Newsfeed Café, Central Library in Copley Square
@@ -19,6 +19,8 @@ What do you know about Frederick Law Olmsted and his legacies in Boston landscap
 
 Trivia rounds will feature a geographic scavenger hunt using Atlascope, knowledge about Olmsted's projects, life, and more!
 
-Registration is encouraged but not required. You may participate individually or as a member of a team. This event will be held in person in the Newsfeed Café at the Central Library in Copley Square.
+Registration is encouraged but not required. You may participate individually or as a member of a team. This event will be held in person in the Newsfeed Café at the [Central Library](https://www.bpl.org/locations/3/) in Copley Square.
 
 Prizes of maps will be awarded to winning teams!
+
+This trivia series is in conjunction with our current environmental justice exhibition, [More or Less in Common: Environment and Justice in the Human Landscape]().
