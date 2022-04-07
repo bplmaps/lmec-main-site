@@ -13,6 +13,10 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 {{< carousel-figure src="images/page-header-backgrounds/gallery.jpg" >}}
 {{< /carousel-figure >}}
 
+    {{< carousel-figure src="images/carousels/molic_gallery01.jpg" >}}{{< /carousel-figure >}}
+    
+    {{< carousel-figure src="images/carousels/molic_gallery02.jpg" >}}{{< /carousel-figure >}}
+
     {{< carousel-figure src="images/carousels/at_gallery03.jpg" >}}{{< /carousel-figure >}}
     
     {{< carousel-figure src="images/carousels/at_gallery09.jpg" >}}{{< /carousel-figure >}}
