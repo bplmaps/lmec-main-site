@@ -7,7 +7,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n1
 location: Online
 fee: Free
 registration: https://www.eventbrite.com/e/making-sense-of-maps-and-data-tickets-304931978757
-tags: []
+tags: [Atlascope]
 
 ---
 **Join us for a three-part course on digital geospatial information interpretation**
