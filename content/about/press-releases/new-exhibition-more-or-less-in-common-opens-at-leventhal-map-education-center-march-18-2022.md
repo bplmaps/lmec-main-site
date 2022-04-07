@@ -3,7 +3,8 @@ title: 'New Exhibition More or Less In Common: Environment and Justice in the Hu
   Landscape opens at Leventhal Map & Education Center March 18, 2022'
 type: singleton
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw59w/1007,258,5974,2430/,1200/0/default.jpg
-description: 
+description: A new, free exhibition at Leventhal Map & Education Center combines historic and future-facing maps and visuals that shine light on how the environment is part of social struggles
+menu: false
 
 ---
 <a class="btn btn-primary btn-primary-outline mb-3" href="https://s3.us-east-2.wasabisys.com/lmec-public-files/press-releases/2022-03-03_More_or_Less_in_Common.pdf">View this release as a PDF</a>
