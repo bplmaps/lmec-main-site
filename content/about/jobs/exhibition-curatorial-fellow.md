@@ -1,6 +1,5 @@
 ---
-title: "Job Posting: Exhbition Curatorial Fellow"
-menu: true
+title: 'Job Posting: Exhibition Curatorial Fellow'
 backgroundImage: https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg
 cardImage: https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg
 
