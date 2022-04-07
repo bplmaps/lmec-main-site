@@ -15,7 +15,7 @@ tags:
 ---
 ### About this event
 
-What do you know about about Charles River history and surrounding geographies? Join us with the [Charles River Conservancy](https://thecharles.org/) for a trivia night on all things Charles River!
+What do you know about Charles River history and surrounding geographies? Join us with the [Charles River Conservancy](https://thecharles.org/) for a trivia night on all things Charles River!
 
 Trivia rounds will feature a geographic scavenger hunt using [Atlascope](https://atlascope.leventhalmap.org/), knowledge about the historic Charles River, pop culture, and more!
 
