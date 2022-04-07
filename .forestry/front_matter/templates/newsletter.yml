@@ -26,7 +26,7 @@ fields:
     schema:
       format: markdown
   label: Banner caption
-  description: Citation for banner image - Name, *Title* (YYYY) 
+  description: Citation for banner image - Name, *Title* (YYYY)
 - name: introductory_text
   type: textarea
   default: ''
@@ -84,3 +84,4 @@ fields:
   description: A block of standard content
 pages:
 - content/newsletters/2022-03-21.md
+- content/newsletters/2022-04-11.md
