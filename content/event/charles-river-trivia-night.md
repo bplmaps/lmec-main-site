@@ -11,6 +11,14 @@ tags:
 - exhibition
 - atlascope
 - trivia
-draft: true
 
 ---
+### About this event
+
+What do you know about about Charles River history and surrounding geographies? Join us with the [Charles River Conservancy](https://thecharles.org/) for a trivia night on all things Charles River!
+
+Trivia rounds will feature a geographic scavenger hunt using [Atlascope](https://atlascope.leventhalmap.org/), knowledge about the historic Charles River, pop culture, and more!
+
+Registration is encouraged but not required. You may participate individually or as a member of a team. This event will be held in person in the Newsfeed Café at the [Central Library](https://www.bpl.org/locations/3/) in Copley Square.
+
+Prizes of maps will be awarded to winning teams!
