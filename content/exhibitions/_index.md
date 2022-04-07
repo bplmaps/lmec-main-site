@@ -10,12 +10,12 @@ description: Exhibitions at the Leventhal Center bring maps and geography to lif
 We regularly mount exhibitions in our gallery, [located in the historic McKim Building](about/hours-directions) the Boston Public Library in Copley Square. Exhibitions topics range from collections-centered shows on [Boston bird's eye views](https://collections.leventhalmap.org/exhibits/16) and [women mapmakers](https://collections.leventhalmap.org/exhibits/6) to theme-centered shows on the [American Revolution](https://collections.leventhalmap.org/exhibits/3), [Boston immigration](https://collections.leventhalmap.org/exhibits/19), and [public landscapes](https://collections.leventhalmap.org/exhibits/19). All of our exhibitions feature scholarly research as well as activities for families, children, and educators.
 
 {{< carousel >}}
-{{< carousel-figure src="images/page-header-backgrounds/gallery.jpg" >}}
+{{< carousel-figure src="images/carousels/molic_gallery01.jpg" >}}
 {{< /carousel-figure >}}
-
-    {{< carousel-figure src="images/carousels/molic_gallery01.jpg" >}}{{< /carousel-figure >}}
     
     {{< carousel-figure src="images/carousels/molic_gallery02.jpg" >}}{{< /carousel-figure >}}
+    
+    {{< carousel-figure src="images/carousels/molic_gallery03.jpg" >}}{{< /carousel-figure >}}
 
     {{< carousel-figure src="images/carousels/at_gallery03.jpg" >}}{{< /carousel-figure >}}
     
