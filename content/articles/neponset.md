@@ -25,13 +25,11 @@ The EPA’s decision draws from studies conducted in the early 2000s that determ
 
 ### An early industrial river
 
-PCB contamination of the Neponset is particularly concentrated at the [Tileston and Hollingsworth Dam in Hyde Park and the Baker Dam in Milton/Lower Mills](https://www.notion.so/bplmaps/Outline-Draft-32e61d8a6e4f4ecaab3bf1304790096e) and likely comes as a result of [industrial operations](https://www.mass.gov/info-details/lower-neponset-river-site) dating back to the 1930s.
-
 {{< figure src="/uploads/2022-04-04/industries.jpg" caption="A 1954 [study](https://www.jstor.org/stable/25080477?seq=1) by Edward Pierce Hamilton estimates 18 mills lined the Neponset by 1800." class="figure-right" >}}
 
-Before the introduction of PCBs, the Neponset River had been home to a string of local industries since the seventeenth century. Early industries—producing flour, gun powder, paper, lumber, and chocolate—relied on the river for a supply of water, a space for dumping waste, and a source of power for manufacturing infrastructure like mills and dams.
+The Neponset River has long been home to local industries, dating back centuries before the introduction of PBCs in the twentieth century. Early local industries—producing flour, gun powder, paper, lumber, and chocolate—relied on the river for a supply of water, a space for dumping waste, and a source of power for manufacturing infrastructure like mills and dams.
 
-Many of these mills were concentrated in today's historically-designated Dorchester-Milton Lower Mills Industrial District, which appears in great detail on this 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of by O.H Bailey & Co.
+Many of these mills were concentrated in today's historically-designated Dorchester-Milton Lower Mills Industrial District, which appears in great detail on this 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of by the O.H Bailey & Co.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/full/full/0/default.jpg" caption="This 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of Lower Mills documents a handful of early local industries." class="figure-center" >}}
 
