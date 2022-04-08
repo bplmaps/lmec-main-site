@@ -27,12 +27,12 @@ The EPA’s decision draws from studies conducted in the early 2000s that determ
 
 {{< figure src="/uploads/2022-04-04/industries.jpg" caption="A 1954 [study](https://www.jstor.org/stable/25080477?seq=1) by Edward Pierce Hamilton estimates 18 mills lined the Neponset by 1800." class="figure-right" >}}
 
-The Neponset River has long been home to local industries, dating back centuries before the introduction of PBCs in the twentieth century. Early local industries—producing flour, gun powder, paper, lumber, and chocolate—relied on the river for a supply of water, a space for dumping waste, and a source of power for manufacturing infrastructure like mills and dams.
+Industrial activity along the Neponset dates back centuries before the introduction of PCBs in the twentieth century. Early local industries relied on the river for a supply of water, a space for dumping waste, and a source of power for manufacturing infrastructure like mills and dams.
 
-Many of these mills were concentrated in today's historically-designated Dorchester-Milton Lower Mills Industrial District, which appears in great detail on this 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of by the O.H Bailey & Co.. Let’s take a closer look at a few factories with sustained presence along the Neponset.
+Many of these mills—supporting the production of flour, gun powder, paper, lumber, and chocolate—were concentrated in today's historically-designated Dorchester-Milton Lower Mills Industrial District and appear in great detail on this 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of by the O.H Bailey & Co.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/full/full/0/default.jpg" caption="This 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of Lower Mills documents a handful of early local industries." class="figure-center" >}}
 
-The {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3044,4783,3016,936/full/0/default.jpg" class="popupTooltip" target="blank" >}} Walter Baker Chocolate Company{{</popup>}} was a
+The {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3044,4783,3016,936/full/0/default.jpg" class="popupTooltip" target="blank" >}} Walter Baker Chocolate Company{{</popup>}} was a 
 
 {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/227,5395,1334,657/full/0/default.jpg" class="popupTooltip" target="blank" >}} the Mason Regulator Co., {{</popup>}}
