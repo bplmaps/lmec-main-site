@@ -71,9 +71,7 @@
                         <div class="doubleblock-inner">
                             <div class="doubeblock-contents">
 
-                                <p> </p>
-
-                                <p> <strong>{{ .content_block_header }}</strong></p>
+                                <p><strong style="font-family: hero-new, sans-serif; color: #1a1a37; font-size: 1.3em;">{{ .content_block_header }}</strong></p>
 
                                 {{ if in (string .content_block_text) "\n\n" }}
                                 {{ .content_block_text | markdownify }}
