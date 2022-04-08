@@ -48,8 +48,8 @@ cta:
   enable: true
   announcements:
   - badge: Job posting
-    text: 'We''re hiring an Exhibition Curatorial Fellow for our 2023 exhibition focused
-      on urban change   '
+    text: 'We''re hiring an Exhibition Curatorial Fellow for our 2023 exhibition on
+      urban change   '
     link: https://www.leventhalmap.org/about/jobs/exhibition-curatorial-fellow/
   - badge: On display
     text: '"More or Less in Common: Environment and Justice in the Human Landscape"
