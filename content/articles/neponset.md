@@ -33,6 +33,6 @@ Many of these mills—supporting the production of flour, gun powder, paper, lum
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/full/full/0/default.jpg" caption="This 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of Lower Mills documents a handful of early local industries." class="figure-center" >}}
 
-The {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3044,4783,3016,936/full/0/default.jpg" class="popupTooltip" target="blank" >}} Walter Baker Chocolate Company{{</popup>}} was a 
+For example, the Walter Baker Chocolate Company is picture {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3044,4783,3016,936/full/0/default.jpg" class="popupTooltip" target="blank" >}} here{{</popup>}} was a 
 
 {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/227,5395,1334,657/full/0/default.jpg" class="popupTooltip" target="blank" >}} the Mason Regulator Co., {{</popup>}}
