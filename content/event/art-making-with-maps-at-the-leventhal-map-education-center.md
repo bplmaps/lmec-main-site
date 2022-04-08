@@ -8,6 +8,7 @@ location: Leventhal Map and Education Center at the Boston Public Library
 fee: Free
 registration: ''
 tags: []
+draft: true
 
 ---
 ### **Art Making with Maps** 
