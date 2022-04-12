@@ -28,9 +28,9 @@ The EPA’s decision draws from studies conducted in the early 2000s that determ
 
 Industrial activity along the Neponset dates back centuries before the introduction of PCBs in the 1930s. Early local industries relied on the river for a supply of water, a space for dumping waste, and a source of power for manufacturing infrastructure like mills and dams. 
 
-Many of these mills—supporting the production of flour, gun powder, paper, lumber, and chocolate—were concentrated in today's Dorchester-Milton Lower Mills Industrial District and Upper Falls area. 
+Many of these mills—supporting the production of flour, gun powder, paper, lumber, and chocolate—were concentrated in today's Dorchester-Milton Lower Mills Industrial District and Upper Falls area, and appear in great detail on this 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) by the O.H Bailey & Co. 
 
-and appear in great detail on this 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) by the O.H Bailey & Co.
+The map also labels 49 points of interest, including a branch of the Boston Public Library (#48), the Milton School of Music (#25), Milton _News_ Office (#43), and A. Hobbs, Jeweler (#44). 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/full/full/0/default.jpg" caption="This 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of Lower Mills documents a handful of early local industries." class="figure-center" >}}
 
