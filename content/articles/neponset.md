@@ -34,9 +34,9 @@ Many of these mills—supporting the production of flour, gun powder, paper, lum
 
 ##### Papermaking
 
-One the river's longest legacies lies in the papermaking industry. Paper production first began in 1729 , the Massachusetts Assembly passed the "Act for the Encouragement of Making Paper" and 
+One the river's longest legacies lies in the papermaking industry, as initial operations began in 1729 after the 1728 passing of the "Act for the Encouragement of Making Paper"
 
-was constructed by a publisher and bookseller named Daniel Henchman 
+ Paper production first began in 1729 by a group led by publisher and bookseller Daniel Henchman 
 
 {{< figure src="/uploads/2022-04-12/paper-mill1.jpeg" caption="This [map](https://www.dorchesteratheneum.org/project/neponset-river-mills/) from Howard Wallingford's _Papermaking on the Neponset_ cites the 1728 "Act for the Encouragement of Making Paper" as a catalyst of the 1730 paper mill opening." class="figure-right" >}}
 
@@ -48,7 +48,7 @@ Tileston & Hollingsworth Co.
 
 ##### Willy Wonka and the Neponset River
 
-Boston's very own Wonka Chocolate Factory (a.k.a. the Walter Baker Chocolate Company) is prominently featured along the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3044,4783,3016,936/full/0/default.jpg" class="popupTooltip" target="blank" >}} map's border{{</popup>}} and distinguished by the numbers {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/5107,3062,1360,1196/full/0/default.jpg" class="popupTooltip" target="blank" >}} 14,{{</popup>}} {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3883,3478,744,728/full/0/default.jpg" class="popupTooltip" target="blank" >}} 15, and 16 {{</popup>}} on the map's physical landscape.
+Moving downstream, Boston's very own Wonka Chocolate Factory (a.k.a. the Walter Baker Chocolate Company) is prominently featured along the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3044,4783,3016,936/full/0/default.jpg" class="popupTooltip" target="blank" >}} map's border{{</popup>}} and distinguished by the numbers {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/5107,3062,1360,1196/full/0/default.jpg" class="popupTooltip" target="blank" >}} 14,{{</popup>}} {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3883,3478,744,728/full/0/default.jpg" class="popupTooltip" target="blank" >}} 15, and 16 {{</popup>}} on the map's physical landscape.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7m01bp374/full/full/0/default.jpg" caption="This [advertising card](https://www.digitalcommonwealth.org/search/commonwealth:7m01bp36v) from the late nineteenth lists the Walter Baker & Co. as manufacturers of chocolate and cocoa preparation." class="figure-left" >}}
 
