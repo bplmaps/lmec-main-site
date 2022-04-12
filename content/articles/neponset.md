@@ -46,7 +46,7 @@ How did this early chocolate business come to settle along the Neponset? In 1764
 >
 >     {{< carousel-figure src="/uploads/2022-04-12/baker1889.jpeg" >}}{{< /carousel-figure >}}
 >     
->     {{< carousel-figure src="images/carousels/at_gallery09.jpg" >}}{{< /carousel-figure >}}
+>     {{< carousel-figure src="/uploads/2022-04-12/baker1910.jpeg" >}}{{< /carousel-figure >}}
 >     
 >     {{< carousel-figure src="images/carousels/DSC_0018s.jpg" >}}{{< /carousel-figure >}}
 >
