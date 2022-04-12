@@ -26,7 +26,7 @@ The EPA’s decision draws from studies conducted in the early 2000s that determ
 
 {{< figure src="/uploads/2022-04-04/industries.jpg" caption="A 1954 [study](https://www.jstor.org/stable/25080477?seq=1) by Edward Pierce Hamilton estimates 18 mills lined the Neponset by 1800." class="figure-right" >}}
 
-Industrial activity along the Neponset dates back centuries before the introduction of PCBs in the twentieth century. Early local industries relied on the river for a supply of water, a space for dumping waste, and a source of power for manufacturing infrastructure like mills and dams.
+Industrial activity along the Neponset dates back centuries before the introduction of PCBs in the 1930s. Early local industries relied on the river for a supply of water, a space for dumping waste, and a source of power for manufacturing infrastructure like mills and dams.
 
 Many of these mills—supporting the production of flour, gun powder, paper, lumber, and chocolate—were concentrated in today's historically-designated Dorchester-Milton Lower Mills Industrial District and appear in great detail on this 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of by the O.H Bailey & Co.
 
