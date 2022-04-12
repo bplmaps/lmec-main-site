@@ -34,11 +34,11 @@ Many of these mills—supporting the production of flour, gun powder, paper, lum
 
 ##### Papermaking
 
-One the river's longest legacies lies in the papermaking industry, as initial operations began in 1729 after the 1728 passing of the "Act for the Encouragement of Making Paper"
+One the river's longest legacies lies in the papermaking industry. Initial operations began in 1729 by a local publisher and bookseller Daniel Henchman after the 1728 passing of the "Act for the Encouragement of Making Paper." 
 
- Paper production first began in 1729 by a group led by publisher and bookseller Daniel Henchman 
+* Something about how papermaking was a huge activity; began in 1729 but the company with the longest existing operations is Hollingsworth
 
-{{< figure src="/uploads/2022-04-12/paper-mill1.jpeg" caption="This [map](https://www.dorchesteratheneum.org/project/neponset-river-mills/) from Howard Wallingford's _Papermaking on the Neponset_ cites the 1728 "Act for the Encouragement of Making Paper" as a catalyst of the 1730 paper mill opening." class="figure-right" >}}
+ {{< figure src="/uploads/2022-04-12/paper-mill1.jpeg" caption="This [map](https://www.dorchesteratheneum.org/project/neponset-river-mills/) from Howard Wallingford's _Papermaking on the Neponset_ cites the 1728 "Act for the Encouragement of Making Paper" as a catalyst of the 1730 paper mill opening." class="figure-right" >}}
 
 Tileston & Hollingsworth Co. 
 
