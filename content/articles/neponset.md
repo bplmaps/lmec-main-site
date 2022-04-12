@@ -32,7 +32,9 @@ Many of these mills—supporting the production of flour, gun powder, paper, lum
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/full/full/0/default.jpg" caption="This 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of Lower Mills documents a handful of early local industries." class="figure-center" >}}
 
-##### Paper making 
+##### Paper making
+
+ 
 
 {{< figure src="/uploads/2022-04-12/paper-mill1.jpeg" caption="This [map](https://www.dorchesteratheneum.org/project/neponset-river-mills/) from Howard Wallingford's _Papermaking on the Neponset_ cites the 1728 Act for the Encouragement of Making Paper as a catalyst of the 1730 paper mill opening." class="figure-right" >}}
 
