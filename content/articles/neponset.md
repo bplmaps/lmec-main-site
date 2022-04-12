@@ -30,7 +30,11 @@ Industrial activity along the Neponset dates back centuries before the introduct
 
 Many of these mills—supporting the production of flour, gun powder, paper, lumber, and chocolate—were concentrated in today's Dorchester-Milton Lower Mills Industrial District and Upper Falls area, and appear in great detail on this 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) by the O.H Bailey & Co. 
 
-The map also labels 49 points of interest, including a branch of the Boston Public Library (#48), the Milton School of Music (#25), Milton _News_ Office (#43), and A. Hobbs, Jeweler (#44). 
+The map also labels 49 points of interest, including a branch of the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/7046,2982,636,585/full/0/default.jpg" class="popupTooltip" target="blank" >}} Boston Public Library, {{</popup>}} 
+
+the Milton School of Music (#25),and A. Hobbs, Jeweler (#44). 
+
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3758,3901,539,304/full/0/default.jpg" class="popupTooltip" target="blank" >}} Milton _News_ Office,{{</popup>}} and 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/full/full/0/default.jpg" caption="This 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of Lower Mills documents a handful of early local industries." class="figure-center" >}}
 
