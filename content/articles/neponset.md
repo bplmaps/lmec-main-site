@@ -42,7 +42,7 @@ Papermaking operations are one of the river's oldest industrial histories, datin
 >
 > {{< carousel >}} {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rs79h/1768,3848,1885,1243/full/0/default.jpg" >}}{{< /carousel-figure >}}
 >
->     {{< carousel-figure src="/uploads/2022-04-12/tileston1889.jpeg" >}}{{< /carousel-figure >}}
+>     {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54z419q/5910,1371,2142,2788/full/90/default.jpg" >}}{{< /carousel-figure >}}
 >     
 >     {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rx09n/5910,1371,2142,2788/full/90/default.jpg" >}}{{< /carousel-figure >}}
 >
