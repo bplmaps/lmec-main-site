@@ -52,7 +52,4 @@ How did this early chocolate business come to settle along the Neponset? In 1764
 >
 > {{< /carousel >}}
 
-* physical infrastructure remains
-* tracked on atlascope 
-
 {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/227,5395,1334,657/full/0/default.jpg" class="popupTooltip" target="blank" >}} the Mason Regulator Co., {{</popup>}}
