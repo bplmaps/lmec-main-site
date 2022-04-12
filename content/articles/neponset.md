@@ -40,4 +40,20 @@ Boston's very own Wonka Chocolate Factory (actually named Walter Baker Chocolate
 
 How did this early chocolate business come to settle along the Neponset? In 1764, a young Irish immigrant named John Hannon [approached local mill owners](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fearlybirdpower.com%2Fwp-content%2Fuploads%2F2014%2F04%2FSWEET_HISTORY_2005.pdf&chunk=true) with a request to harness water power for a new chocolate-making technique he learned in London. No mill owners were particularly enthusiastic about the idea, but a general store owner named James Baker jumped on the idea as a prospective business opportunity, and on March 8, 1765, Hannon began making chocolate in a saw mill financed by Baker and powered by the Neponset. Baker took full ownership of the business after Hannon disappeared in 1779, and the Baker name ran the Boston chocolate scene until 1965, when operations moved to Delaware. 
 
+> Click through these atlas plates from documenting the Baker family and Baker business throughout the nineteenth and twentieth centuries. 
+>
+> {{< carousel >}}
+> {{< carousel-figure src="images/page-header-backgrounds/gallery.jpg" >}}{{< /carousel-figure >}}
+>
+>     {{< carousel-figure src="images/carousels/at_gallery03.jpg" >}}{{< /carousel-figure >}}
+>     
+>     {{< carousel-figure src="images/carousels/at_gallery09.jpg" >}}{{< /carousel-figure >}}
+>     
+>     {{< carousel-figure src="images/carousels/DSC_0018s.jpg" >}}{{< /carousel-figure >}}
+>
+> {{< /carousel >}}
+
+* physical infrastructure remains
+* tracked on atlascope 
+
 {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/227,5395,1334,657/full/0/default.jpg" class="popupTooltip" target="blank" >}} the Mason Regulator Co., {{</popup>}}
