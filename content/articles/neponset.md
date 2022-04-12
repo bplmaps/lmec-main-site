@@ -32,7 +32,7 @@ Many of these mills—supporting the production of flour, gun powder, paper, lum
 
 The map also labels 49 points of interest, including a branch of the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/7046,2982,636,585/full/0/default.jpg" class="popupTooltip" target="blank" >}} Boston Public Library, {{</popup>}} the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/5170,3101,416,442/full/0/default.jpg" class="popupTooltip" target="blank" >}} Milton School of Music, {{</popup>}} and the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3758,3901,539,304/full/0/default.jpg" class="popupTooltip" target="blank" >}} Milton News Office.{{</popup>}}
 
-Let's take a closer look a some of the early industries that lined the Neponset. 
+Let's take a closer look at two of the river's early industrial facilities. 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/full/full/0/default.jpg" caption="This 1890 pictorial [map](https://collections.leventhalmap.org/search/commonwealth:x633ff663) of Lower Mills documents a handful of early local industries." class="figure-center" >}}
 
