@@ -34,15 +34,9 @@ Many of these mills—supporting the production of flour, gun powder, paper, lum
 
 ##### Papermaking
 
-Papermaking operations are one of the river's oldest industrial histories, dating back to 1728 when the [Massachusetts legislature](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fwww.americanantiquarian.org%2FFindingaids%2Fdaniel_henchman.pdf&clen=415479&chunk=true) chartered the first paper mill north of New Jersey. 
-
  {{< figure src="/uploads/2022-04-12/paper-mill1.jpeg" caption="This [map](https://www.dorchesteratheneum.org/project/neponset-river-mills/) from Howard Wallingford's _Papermaking on the Neponset_ cites the 1728 Act for the Encouragement of Making Paper." class="figure-right" >}}
 
-legacies lies in the papermaking industry. Initial operations began in 1729 by local publisher and bookseller Daniel Henchman after the 1728 passing of the "Act for the Encouragement of Making Paper." Almost 50 years later, 
-
-Tileston & Hollingsworth Co. 
-
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/6798,4660,1428,880/full/0/default.jpg" class="popupTooltip" target="blank" >}} Tileston & Hollingsworth Co.{{</popup>}}
+Papermaking operations are one of the river's oldest industrial histories, dating back to 1728 when the [Massachusetts legislature](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fwww.americanantiquarian.org%2FFindingaids%2Fdaniel_henchman.pdf&clen=415479&chunk=true) chartered the first paper mill north of New Jersey. Almost 50 years later, in 1773, a man named [George Clark](https://www.google.com/books/edition/American_Paper_Mills_1690_1832/vrbuwbBJZrQC?hl=en&gbpv=1&dq=george+clark+paper+mill+boston&pg=PA94&printsec=frontcover) began construction of a paper mill on the remnants of a lumber mill but did not have much business success. Over the next 30 years, the mill bounded from Abigail Quincy, to Patrick Connor and William Sumner, and finally to Edmund Tileston and Mark Hollingsworth of the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/6798,4660,1428,880/full/0/default.jpg" class="popupTooltip" target="blank" >}} Tileston & Hollingsworth Co.{{</popup>}}
 
 {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/1833,2611,1321,994/full/0/default.jpg" class="popupTooltip" target="blank" >}} paper mill{{</popup>}}
 
