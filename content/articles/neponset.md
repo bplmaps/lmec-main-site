@@ -42,10 +42,9 @@ How did this early chocolate business come to settle along the Neponset? In 1764
 
 > Click through these atlas plates from documenting the Baker family and Baker business throughout the nineteenth and twentieth centuries. 
 >
-> {{< carousel >}}
-> {{< carousel-figure src="images/page-header-backgrounds/gallery.jpg" >}}{{< /carousel-figure >}}
+> {{< carousel >}} {{< carousel-figure src="/uploads/2022-04-12/baker1874.jpeg" >}}{{< /carousel-figure >}}
 >
->     {{< carousel-figure src="images/carousels/at_gallery03.jpg" >}}{{< /carousel-figure >}}
+>     {{< carousel-figure src="/uploads/2022-04-12/baker1889.jpeg" >}}{{< /carousel-figure >}}
 >     
 >     {{< carousel-figure src="images/carousels/at_gallery09.jpg" >}}{{< /carousel-figure >}}
 >     
