@@ -36,6 +36,8 @@ Many of these mills—supporting the production of flour, gun powder, paper, lum
 
 Tileston & Hollingsworth Co. 
 
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/6798,4660,1428,880/full/0/default.jpg" class="popupTooltip" target="blank" >}} Eagle Paper Mills{{</popup>}}
+
 ##### Willy Wonka and the Neponset River
 
 Boston's very own Wonka Chocolate Factory (a.k.a. the Walter Baker Chocolate Company) is prominently featured along the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3044,4783,3016,936/full/0/default.jpg" class="popupTooltip" target="blank" >}} map's border{{</popup>}} and distinguished by the numbers {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/5107,3062,1360,1196/full/0/default.jpg" class="popupTooltip" target="blank" >}} 14,{{</popup>}} {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3883,3478,744,728/full/0/default.jpg" class="popupTooltip" target="blank" >}} 15, and 16 {{</popup>}} on the map's physical landscape.
@@ -55,5 +57,3 @@ How did this early chocolate business come to settle along the Neponset? In 1764
 >     {{< carousel-figure src="/uploads/2022-04-12/baker1918.jpeg" >}}{{< /carousel-figure >}}
 >
 > {{< /carousel >}}
-
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/227,5395,1334,657/full/0/default.jpg" class="popupTooltip" target="blank" >}} the Mason Regulator Co., {{</popup>}}
