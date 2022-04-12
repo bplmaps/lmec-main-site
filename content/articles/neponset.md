@@ -36,13 +36,13 @@ Many of these mills—supporting the production of flour, gun powder, paper, lum
 
 Tileston & Hollingsworth Co. 
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/6798,4660,1428,880/full/0/default.jpg" class="popupTooltip" target="blank" >}} Tilestone & Hollingsowrth Co.{{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/6798,4660,1428,880/full/0/default.jpg" class="popupTooltip" target="blank" >}} Tileston & Hollingsworth Co.{{</popup>}}
 
 {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/1833,2611,1321,994/full/0/default.jpg" class="popupTooltip" target="blank" >}} paper mill{{</popup>}}
 
 ##### Willy Wonka and the Neponset River
 
-Moving further up the river, Boston's very own Wonka Chocolate Factory (a.k.a. the Walter Baker Chocolate Company) is prominently featured along the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3044,4783,3016,936/full/0/default.jpg" class="popupTooltip" target="blank" >}} map's border{{</popup>}} and distinguished by the numbers {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/5107,3062,1360,1196/full/0/default.jpg" class="popupTooltip" target="blank" >}} 14,{{</popup>}} {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3883,3478,744,728/full/0/default.jpg" class="popupTooltip" target="blank" >}} 15, and 16 {{</popup>}} on the map's physical landscape.
+Moving upstream, Boston's very own Wonka Chocolate Factory (a.k.a. the Walter Baker Chocolate Company) is prominently featured along the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3044,4783,3016,936/full/0/default.jpg" class="popupTooltip" target="blank" >}} map's border{{</popup>}} and distinguished by the numbers {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/5107,3062,1360,1196/full/0/default.jpg" class="popupTooltip" target="blank" >}} 14,{{</popup>}} {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/3883,3478,744,728/full/0/default.jpg" class="popupTooltip" target="blank" >}} 15, and 16 {{</popup>}} on the map's physical landscape.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7m01bp374/full/full/0/default.jpg" caption="This [advertising card](https://www.digitalcommonwealth.org/search/commonwealth:7m01bp36v) from the late nineteenth lists the Walter Baker & Co. as manufacturers of chocolate and cocoa preparation." class="figure-left" >}}
 
