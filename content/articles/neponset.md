@@ -34,6 +34,8 @@ Many of these mills—supporting the production of flour, gun powder, paper, lum
 
 ##### Paper making 
 
+{{< figure src="/uploads/2022-04-12/paper-mill1.jpeg" caption="" class="figure-right" >}}
+
 Tileston & Hollingsworth Co. 
 
 {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/6798,4660,1428,880/full/0/default.jpg" class="popupTooltip" target="blank" >}} Tileston & Hollingsworth Co.{{</popup>}}
