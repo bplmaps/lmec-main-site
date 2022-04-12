@@ -36,7 +36,9 @@ Many of these mills—supporting the production of flour, gun powder, paper, lum
 
 Tileston & Hollingsworth Co. 
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/6798,4660,1428,880/full/0/default.jpg" class="popupTooltip" target="blank" >}} Eagle Paper Mills{{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/6798,4660,1428,880/full/0/default.jpg" class="popupTooltip" target="blank" >}} Tilestone & Hollingsowrth Co.{{</popup>}}
+
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/1833,2611,1321,994/full/0/default.jpg" class="popupTooltip" target="blank" >}} paper mill{{</popup>}}
 
 ##### Willy Wonka and the Neponset River
 
