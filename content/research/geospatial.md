@@ -27,7 +27,7 @@ Our specific services include:
 
 Happy mapping!
 
-## Cartinal: The LMEC Documentation Database {#cartinal}
+### Cartinal: The LMEC Documentation Database {#cartinal}
 
 [{{< figure src="/uploads/cartinal.png" class="figure-center" >}}](https://cartinal.leventhalmap.org)
 
@@ -44,7 +44,7 @@ Happy mapping!
 
 </details>
 
-## The LMEC Data Portal {#data-portal}
+### The LMEC Data Portal {#data-portal}
 
 [{{< figure src="/uploads/dataportal.png" class="figure-center">}}](https://data.leventhalmap.org)
 
@@ -58,56 +58,7 @@ Happy mapping!
 
 <a class="btn btn-outline-primary btn-large" href="https://data.leventhalmap.org/">Visit The Data Portal</a>
 
-
-<!-- ## Geospatial Project Examples {#example-projects}
-
-Still not sure if you're in the right place? Here are some example projects we can help with:
-
-### Making Use of Online Resources
-
-* You find an online resource difficult to navigate and want to chat with a person
-
-### Getting the Data
-
-* You want direct access to data that speaks to geographic trends. Example topics:
-  * public health
-  * climate
-  * demographic
-  * economic
-  * education
-  * transportation
-  * cartographic (borders, prominent features, labels)
-
-### Making a Map
-
-* You'd like to make a map displaying your team's geographic reach or impact
-* You are gathering your own data and would like advice on structuring the spatial attributes
-
-### Picking Software
-
-* You want to know the best way to get started learning a free mapping software like QGIS
-
-### Piecing Together the Past
-
-* You are interested in combining different historical sources to investigate the history of a place
-* You want to georeference a map or use one of our georeferenced maps
-
-### Managing Collections
-
-* You are working with historic cartographic materials and want to chat about best practices
-* You have an important Boston dataset you think should be preserved or discoverable
-
-### Teaching with GIS
-
-* You teach with GIS data and would like to collaborate about resources
-
-### Following Up
-
-* You attended one of our mapmaking workshops and have followup questions
-* You have used our tool [Atlascope](https://atlascope.leventhalmap.org) and want to use some of the historic data layers -->
-
-
-## Make an Appointment or Request {#make-request}
+### Make an Appointment or Request {#make-request}
 
 >Whether you're a seasoned mapmaker looking for project feedback, or a newcomer to the world of digital cartography, we're here to help! Please reach out with GIS questions, project ideas, dataset inquiries, and all other things geospatial.
 
