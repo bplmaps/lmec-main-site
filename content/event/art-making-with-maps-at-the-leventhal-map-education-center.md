@@ -19,6 +19,8 @@ Explore grids, circles, imaginary landscapes, and of course maps! Four different
 
 Drop in anytime before 2:00PM. Designed for ages 5 and up.
 
+{{< figure src="/uploads/2022-04-13/kids1.jpeg" caption="" class="figure-right" >}}
+
 ### Mapping Layers of Information
 
 ##### Thursday, April 21 10:30AM – 12:30PM
