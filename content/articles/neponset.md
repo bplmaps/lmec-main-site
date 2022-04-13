@@ -38,11 +38,11 @@ Let's take a closer look at two of the river's early industrial facilities.
 
  {{< figure src="/uploads/2022-04-12/paper-mill1.jpeg" caption="This [map](https://www.dorchesteratheneum.org/project/neponset-river-mills/) from Howard Wallingford's _Papermaking on the Neponset_ cites the 1728 Act for the Encouragement of Making Paper." class="figure-right" >}}
 
-Paper production, though one of the river's oldest and most successful industries, was first born out of necessity. 
-
-is one of the river's oldest industries. In 1728, the [Massachusetts legislature](https://digital.hagley.org/08009787_Tileston_Hollingsworth?solr_nav%5Bid%5D=841a10b040f90636a0a5&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0) "issued a charter to Thomas Hancock...and others...to set up a paper mill on the Neponset." Production began in 1731 and papermaking has had a home along the river ever since. 
+Though one of the oldest and most successful industries, paper production along the river was born out of necessity during 
 
 * paper shortage? 
+
+is one of the river's oldest industries. In 1728, the [Massachusetts legislature](https://digital.hagley.org/08009787_Tileston_Hollingsworth?solr_nav%5Bid%5D=841a10b040f90636a0a5&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0) "issued a charter to Thomas Hancock...and others...to set up a paper mill on the Neponset." Production began in 1731 and papermaking has had a home along the river ever since. 
 
 Almost 50 years later, in 1773, a new name entered the picture. [George Clark](https://www.google.com/books/edition/American_Paper_Mills_1690_1832/vrbuwbBJZrQC?hl=en&gbpv=1&dq=george+clark+paper+mill+boston&pg=PA94&printsec=frontcover) began construction of a paper mill on the remnants of a lumber mill but did not have much business success. Over the next 30 years, the mill bounced from [Abigail Quincy](https://www.google.com/books/edition/American_Paper_Mills_1690_1832/vrbuwbBJZrQC?hl=en&gbpv=0), to Patrick Connor and William Sumner, and finally to Edmund Tileston and Mark Hollingsworth of the Tileston and Hollingsworth Co., pictured on the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/6798,4660,1428,880/full/0/default.jpg" class="popupTooltip" target="blank" >}} map's border {{</popup>}} and {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/1833,2611,1321,994/full/0/default.jpg" class="popupTooltip" target="blank" >}} along the river.{{</popup>}} The partnership saw overwhelming success and continued to [buy, lease, and build](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fwww.americanantiquarian.org%2FFindingaids%2Ftileston_and_hollingsworth.pdf&clen=34949&chunk=true) additional mills on the river to support paper production into the twentieth century. 
 
