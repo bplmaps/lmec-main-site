@@ -74,4 +74,4 @@ How did this early chocolate business come to settle along the Neponset? In 1764
 >
 > {{< /carousel >}}
 
-### PCB pollution 
+### PCB pollution and geographic concentration
