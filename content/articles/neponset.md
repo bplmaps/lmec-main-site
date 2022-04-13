@@ -74,6 +74,6 @@ How did this early chocolate business come to settle along the Neponset? In 1764
 >
 > {{< /carousel >}}
 
-### PCB pollution and geographic concentration
+### Geographic concentration of PCBs
 
-While these early industrial facilities were likely not the source of PCBs, PCB concentration 
+* Early industrial facilities were not the polluters, but today the pollutants are concentrated at both of their geographic lcoations 
