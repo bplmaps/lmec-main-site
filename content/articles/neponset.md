@@ -74,7 +74,7 @@ How did this early chocolate business come to settle along the Neponset? In 1764
 >
 > {{< /carousel >}}
 
-### Geographic concentration of PCBs
+### Present-day geographic concentration of PCBs
 
 While these early industrial facilities were not responsible for the Neponset's current PCB levels, the concentration of such pollutants are 
 
