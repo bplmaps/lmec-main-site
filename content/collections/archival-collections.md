@@ -13,11 +13,11 @@ Archival collections at the LMEC are listed below. We are currently processing t
 
 ### Applied Geographics, Inc. Records
 
-{{< figure src="/uploads/2022-01-24/appgeo.jpg" alt="Manuscript map of Neponset River Estuary" caption="Manuscript map of the Neponset River Estuary by Applied Geographics Inc. for the Metropolitan District Commission" class="figure-right" >}}
+{{< figure src="/uploads/2022-01-24/appgeo.jpg" alt="Pen plot map of Neponset River Estuary" caption="Pen plot map of the Neponset River Estuary by Applied Geographics Inc. for the Metropolitan District Commission" class="figure-right" >}}
 
 The Applied Geographics, Inc. records consist of maps dated 1982-2012 that were created by or held by Applied Geographics, Inc., a GIS consulting firm in Boston, Massachusetts. A large portion of the collection consists of maps created for government agencies. The collection also includes maps produced by AppGeo staff while employed at MassGIS before the establishment of AppGeo, maps produced by other GIS firms, and published maps that were used for reference by the company.
 
----
+***
 
 ### Auctioneer Plans Collection
 
@@ -25,7 +25,7 @@ The Applied Geographics, Inc. records consist of maps dated 1982-2012 that were 
 
 Auctioneer plans advertise lots to be auctioned for sale, usually by cities or real estate companies. Some auctioneer plans are annotated with sale information.
 
----
+***
 
 ### C.L. Berger & Sons Records
 
@@ -35,7 +35,7 @@ The C.L. Berger & Sons records consists of documents and objects produced by the
 
 <a href="https://archives.bpl.org/repositories/2/resources/147" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to finding aid</a>
 
----
+***
 
 ### Dana F. Perkins, Inc. Records
 
@@ -43,7 +43,7 @@ The C.L. Berger & Sons records consists of documents and objects produced by the
 
 This collection includes documentation created by 3 Metropolitan Boston surveying companies giving a snapshot view of how their survey work was done from mid-19th century to mid-20th century (1839-1949). Maps, sketches, and drawings are represented from the W.A. Mason & Sons surveying company (1839-1947), the William H. Whitney surveying company (1886-1906), and the Fuller-Whitney Corporation (1882-1891). The materials include surveys of lands in the Metropolitan Boston area, outlying towns in Massachusetts and New Hampshire and the landmark ‘Back Bay Filling Project,’ 1882-1891.
 
----
+***
 
 ### Annie Olmstead Peet Papers
 
@@ -53,7 +53,7 @@ The Annie Olmstead Peet papers consists of manuscript, pre-production and publis
 
 <a href="https://archives.bpl.org/repositories/2/resources/144" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to finding aid</a>
 
----
+***
 
 ### John Roman Papers
 
@@ -63,7 +63,7 @@ The John Roman papers consist of pictorial maps produced from 1984-2012 by John 
 
 <a href="https://archives.bpl.org/repositories/2/resources/151" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to finding aid</a>
 
----
+***
 
 ### Robert Severy Collection
 
