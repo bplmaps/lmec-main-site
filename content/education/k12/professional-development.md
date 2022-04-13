@@ -22,6 +22,10 @@ For the 2021-22 school year the Map Center is offering a series of FREE “small
 
 {{<pd-listing image="/uploads/2021-09-03/sealevel.jpg" title="Environmental Justice in Boston (virtual)" subtitle="Thursday, May 12, 2022, 3:00 to 4:30" description="For our final session of the school year, we’ll explore education connections to our upcoming exhibition _More or Less in Common: Environment and Justice in the Human Landscape._ Explore how environmental harm is borne unequally by different communities, both in the past and the present, and consider how to foster placed-based environmental thinking in students that is coupled with social justice via a map-based lesson." signUpLink="https://forms.gle/dmYd6GKtwbkBC7uo8">}}
 
+### **_More or Less in Common_: Teaching Environmental Justice and Activism in Massachusetts and Beyond**
+
+Who benefits when the natural world is flourishing and healthy? By contrast, who is harmed by a dangerous and degraded environment? This three-day workshop for educators in grades 3-12, hosted in Boston and Lowell, will focus on past and present ideas of environmental justice, looking closely at eastern Massachusetts and the reality of its post-industrial landscape. Through local case studies that incorporate maps, data, documents, and physical landscapes, participants will learn about activists' work and develop their own lessons/activities to use in the classroom. This workshop will feature ideas and models for student-led civics projects connected to environmental justice.
+
 ### Empowering Maptivists: Using Maps & Data to Examine Social Issues in the Humanities Classroom
 
 Maps are instruments of power and can affect our understanding of issues and data depending on who is telling the story. It is our job as map consumers and educators to think critically about what maps are showing us (and what they aren’t). In _Empowering Maptivists_, course participants will explore the unique power of maps to make sense of the world around us. The course will provide clear pathways for helping students explore issues in their own communities and use spatial understanding to advocate for change.
