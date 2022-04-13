@@ -30,6 +30,8 @@ More information and registration coming soon!
 
 ### Empowering Maptivists: Using Maps & Data to Examine Social Issues in the Humanities Classroom
 
+###### July 11 - 13
+
 Maps are instruments of power and can affect our understanding of issues and data depending on who is telling the story. It is our job as map consumers and educators to think critically about what maps are showing us (and what they aren’t). In _Empowering Maptivists_, course participants will explore the unique power of maps to make sense of the world around us. The course will provide clear pathways for helping students explore issues in their own communities and use spatial understanding to advocate for change.
 
 Join us for this self-paced online professional development course hosted by the National Humanities Center. It's all virtual and you will earn 35 professional development hours. There are two six-week windows. [**Register here**](https://nationalhumanitiescenter.org/education-programs/courses/empowering-maptivists-using-maps-data-to-examine-social-issues-humanities-classroom/) for the time frame that works best for you.
