@@ -2,7 +2,7 @@
 publishDate: 2022-04-13T15:13:44.000-04:00
 title: 'More or Less in Common: Teaching Environmental Justice and Activism in Massachusetts
   and Beyond'
-date: 2022-07-11T09:00:00.000-04:00
+date: 2022-07-11T09:00:00-04:00
 image: "/uploads/2022-04-13/commonwealth_1257c139z_image_access_800-1-2.jpg"
 backgroundImage: "/uploads/2022-04-13/commonwealth_1257c139z_image_access_800-1-2.jpg"
 location: In-person
@@ -11,7 +11,6 @@ registration: ''
 tags:
 - K-12
 - Professional Development
-draft: true
 
 ---
 ### K-12 Professional Development Workshop 
