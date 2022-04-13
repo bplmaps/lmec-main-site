@@ -38,7 +38,7 @@ Let's take a closer look at two of the river's early industrial facilities.
 
  {{< figure src="/uploads/2022-04-12/paper-mill1.jpeg" caption="This [map](https://www.dorchesteratheneum.org/project/neponset-river-mills/) from Howard Wallingford's _Papermaking on the Neponset_ cites the 1728 Act for the Encouragement of Making Paper." class="figure-right" >}}
 
-* Colonial paper shortage
+* Colonial paper shortage, some sort of 
 
 Though one of the oldest and most successful industries, paper production along the river was born out of necessity during 
 
