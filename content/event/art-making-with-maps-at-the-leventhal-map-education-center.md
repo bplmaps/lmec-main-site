@@ -11,15 +11,15 @@ tags:
 - K-12
 
 ---
-### **Art Making with Maps** 
+### **Art Making with Maps**
 
 ##### Tuesday, April 19 11:00AM - 2:30PM
 
-Explore grids, circles, imaginary landscapes, and of course maps! Four different map-based art activities explore map concepts and use maps as materials. Make something to take home with you! 
+Explore grids, circles, imaginary landscapes, and of course maps! Four different map-based art activities explore map concepts and use maps as materials. Make something to take home with you!
 
 Drop in anytime before 2:00PM. Designed for ages 5 and up.
 
-### Mapping Layers of Information 
+### Mapping Layers of Information
 
 ##### Thursday, April 21 10:30AM – 12:30PM
 
