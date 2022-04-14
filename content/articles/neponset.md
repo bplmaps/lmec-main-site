@@ -76,8 +76,4 @@ How did this early chocolate business come to settle along the Neponset? In 1764
 
 ### Present-day geographic concentration of PCBs
 
-Though the Walter Baker and Tileston/Hollingsworth facilities were not responsible for PCB pollution, the highest concentration of pollutants today are located at the geographic sites
-
-While these early industrial facilities were not responsible for the Neponset's current PCB levels, the concentration of such pollutants are
-
-* Early industrial facilities were not the polluters, but today the pollutants are concentrated at both of their geographic locations
+Though the Walter Baker and Tileston & Hollingsworth facilities were likely not responsible for PCB pollution, their historic geographic sites are home to the highest concentration of pollutants today. According to a [report](https://www.neponset.org/archived-pages/public-health/) from the [Neponset River Watershed Association](https://www.neponset.org/), concentrations are the highest "in Hyde Park behind the T&H Dam... \[and\] lower, but still quite high, behind the Baker Dam and in the area known as the 'braided channel' between the two dams." Both the Baker Dam and T&H Dam were reconstructed in the [mid-1960s](https://www.neponset.org/archived-pages/historic-resources/#:\~:text=As%20a%20relatively%20small%20river,in%201634%20by%20Israel%20Stoughton.) to replace damaged infrastructure after [Hurricanes Connie and Diane](https://www.waymarking.com/waymarks/WMEEG5_Tileston_Hollingsworth_TH_Dam_Boston_Milton_MA) and manage flood control of the river. 
