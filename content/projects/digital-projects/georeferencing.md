@@ -10,7 +10,7 @@ weight: 6
 
 {{< alert-box title="Retirement of Map Warper" >}}
 
-As of August 2021, our crowdsourced georeferencing interface, Map Warper, is being phased out. Since then, the Map Center team has been supporting Bert Spaan's work on a next generation web georeferencing interface called [Allmaps](https://allmaps.org/). You can still [browse maps that have been georeferenced](https://collections.leventhalmap.org/search?f%5Bgeoreferenced_bsi%5D%5B%5D=yes) or explore the fully-geotransformed [Atlascope collection](https://atlascope.leventhalmap.org).
+As of August 2021, our crowdsourced georeferencing interface, Map Warper, is being phased out. Since then, the Map Center team has been supporting Bert Spaan's work on a next generation web georeferencing interface called [Allmaps](https://allmaps.org/), which will be ready for public use in fall 2022. You can still [browse maps that have been georeferenced](https://collections.leventhalmap.org/search?f%5Bgeoreferenced_bsi%5D%5B%5D=yes) or explore the fully-geotransformed [Atlascope collection](https://atlascope.leventhalmap.org).
 
 {{</ alert-box >}}
 
