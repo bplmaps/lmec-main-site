@@ -76,6 +76,8 @@ How did this early chocolate business come to settle along the Neponset? In 1764
 
 ### Present-day geographic concentration of PCBs
 
+Though the Walter Baker and Tileston/Hollingsworth facilities were not responsible for PCB pollution, the highest concentration of pollutants today are located at the geographic sites
+
 While these early industrial facilities were not responsible for the Neponset's current PCB levels, the concentration of such pollutants are
 
 * Early industrial facilities were not the polluters, but today the pollutants are concentrated at both of their geographic locations
