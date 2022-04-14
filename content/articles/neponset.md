@@ -74,7 +74,7 @@ How did this early chocolate business come to settle along the Neponset? In 1764
 >
 > {{< /carousel >}}
 
-### Present-day geographic concentration of PCBs
+### Geographic concentration of PCBs
 
 {{< figure src="/uploads/2022-04-14/diane-1.jpg" caption="This 1956 [photograph](https://www.neponset.org/archived-pages/historic-resources/#:\~:text=As%20a%20relatively%20small%20river,in%201634%20by%20Israel%20Stoughton.) documents the original Tileston & Hollingsworth Dam after the 1955 Hurricane Diane." class="figure-left" >}}
 
