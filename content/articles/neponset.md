@@ -11,7 +11,7 @@ tags:
 - exhibition
 - Environmental Justice
 backgroundImage: "/uploads/2022-03-15/commonwealth_x633ff663_image_access_800.jpg"
-draft: true
+draft: false
 
 ---
 {{< figure src="/uploads/2022-03-15/super.jpeg" caption="[This EPA map](https://www.neponset.org/superfund-lower-neponset-river/) defines the Lower Neponset River as the 3.7-mile stretch of the Neponset River from the confluence with Mother Brook to the Walter Baker Dam." class="figure-right" >}}
