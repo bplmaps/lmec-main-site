@@ -26,6 +26,8 @@ Georeferencing is the process of attaching coordinate data (latitude and longitu
 
 It's easy! Here at the Map Center, we have a portal for guides and documentation called [Cartinal](https://cartinal.leventhalmap.org). We've prepared a handy guide with instructions and resources for getting started with georeferencing.
 
+In October 2021, we partnered with [Bert Spaan](https://bertspaan.nl/) to support his development of [Allmaps](https://allmaps.org/), a next-generation web georeferencing platform. By fall 2022, a custom implementation of Allmaps will be available for georeferencing LMEC materials. Stay tuned for updates!
+
 <a class="btn btn-outline-primary btn-block" href="https://cartinal.leventhalmap.org/guides/georeference.html"><i class="fa fa-map-pin" target="blank"></i> Start georeferencing </a>
 
 ### Where can I browse georeferenced LMEC maps?
