@@ -62,10 +62,6 @@ cta:
     text: A mechanical map from the late nineteenth century showing the US's territorial
       expansion
     link: https://bpl.bibliocommons.com/v2/record/S75C8129750
-  - badge: Closure
-    text: The Map Center will be closed on Monday, April 18th in observance of Patriots'
-      Day
-    link: https://www.leventhalmap.org/about/hours-directions/
 audiences:
   enable: true
   audienceGroups:
