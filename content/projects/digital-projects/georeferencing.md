@@ -40,6 +40,6 @@ That's easy too! At Cartinal, we also have a guide for accessing, browsing, and 
 
 ### I have another question...
 
-... and we'll have another answers! Don't hesitate to reach out directly to our geospatial support team.
+... and we'll have another answer! Don't hesitate to reach out directly to our geospatial support team.
 
 <a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/research/geospatial/#make-request"><i class="fa fa-rocket" target="blank"></i> Make an appointment</a>
