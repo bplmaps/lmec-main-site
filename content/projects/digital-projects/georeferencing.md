@@ -14,10 +14,6 @@ As of August 2021, our crowdsourced georeferencing interface, Map Warper, is bei
 
 {{</ alert-box >}}
 
-## Georeferencing FAQ
-
-
-
 ### What is georeferencing?
 
 Georeferencing is the process of attaching coordinate data (latitude and longitude) to scanned images of maps. This allows anyone to easily compare scanned maps with modern geographies. Check out the Map Center's [Atlascope tool](http://leventhalmap.org/projects/digital-projects/atlascope/) for an example of georeferencing in action.
