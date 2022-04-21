@@ -11,6 +11,15 @@ fields:
     date_format: MM/DD/YYYY
     time_format: 
     display_utc: false
+- name: subject_line
+  type: text
+  label: Email Subject Line
+  description: Subject line for Email Octopus
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
 - name: banner_iiif_image
   type: text
   config:
