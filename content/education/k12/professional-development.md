@@ -30,7 +30,7 @@ Who benefits when the natural world is flourishing and healthy? By contrast, who
 
 Co-presented by the Norman B. Leventhal Map and Education Center and Tsongas Industrial History Center
 
-{{<pd-listing image="/uploads/2022-04-22/mills-with-smog_1.png" title="Teaching Environmental Justice and Activism in Massachusetts and Beyond" subtitle="July 11-13, 9:00AM - 3:00PM" description="This three-day workshop for educators in grades 3-12, hosted in Boston and Lowell, will focus on past and present ideas of environmental justice, looking closely at eastern Massachusetts and the reality of its post-industrial landscape." signUpLink="https://www.eventbrite.com/e/more-or-less-in-common-teaching-environmental-justice-and-activism-tickets-320876579487">}}
+{{<pd-listing image="/uploads/2022-04-22/smog.png" title="Teaching Environmental Justice and Activism in Massachusetts and Beyond" subtitle="July 11-13, 9:00AM - 3:00PM" description="This three-day workshop for educators in grades 3-12, hosted in Boston and Lowell, will focus on past and present ideas of environmental justice, looking closely at eastern Massachusetts and the reality of its post-industrial landscape." signUpLink="https://www.eventbrite.com/e/more-or-less-in-common-teaching-environmental-justice-and-activism-tickets-320876579487">}}
 
 ### Empowering Maptivists: Using Maps & Data to Examine Social Issues in the Humanities Classroom
 
