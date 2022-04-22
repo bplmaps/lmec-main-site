@@ -28,9 +28,9 @@ For the 2021-22 school year the Map Center is offering a series of FREE “small
 
 Who benefits when the natural world is flourishing and healthy? By contrast, who is harmed by a dangerous and degraded environment? This three-day workshop for educators in grades 3-12, hosted in Boston and Lowell, will focus on past and present ideas of environmental justice, looking closely at eastern Massachusetts and the reality of its post-industrial landscape. Through local case studies that incorporate maps, data, documents, and physical landscapes, participants will learn about activists' work and develop their own lessons/activities to use in the classroom. This workshop will feature ideas and models for student-led civics projects connected to environmental justice.
 
-More information and registration coming soon!
-
 Co-presented by the Norman B. Leventhal Map and Education Center and Tsongas Industrial History Center
+
+{{<pd-listing image="/uploads/2021-09-03/sealevel.jpg" title="Teaching Environmental Justice and Activism in Massachusetts and Beyond" subtitle="July 11-13, 9:00AM - 3:00PM" description="This three-day workshop for educators in grades 3-12, hosted in Boston and Lowell, will focus on past and present ideas of environmental justice, looking closely at eastern Massachusetts and the reality of its post-industrial landscape." signUpLink="https://www.eventbrite.com/e/more-or-less-in-common-teaching-environmental-justice-and-activism-tickets-320876579487">}}
 
 ### Empowering Maptivists: Using Maps & Data to Examine Social Issues in the Humanities Classroom
 
