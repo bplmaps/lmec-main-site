@@ -9,11 +9,7 @@ weight = "6"
 +++
 ## Purchasing a reproduction
 
-{{< alert-box type="warning" title="Reproductions temporarily unavailable"  >}}
-
-In Summer 2021, our reproduction for purchase service will be temporarily unavailable. Please check back in Fall 2021 for updates. Reproductions at low or no cost for nonprofit and government agencies are still available through the form below.
-
-{{</ alert-box >}}
+We offer a handfull of fine art quality reproductions for purchase in our [online store](https://www.leventhalmap.org/store/). 
 
 <!--
 We offer fine art quality reproductions of all the maps in our Digital Collections which are not under copyright.
