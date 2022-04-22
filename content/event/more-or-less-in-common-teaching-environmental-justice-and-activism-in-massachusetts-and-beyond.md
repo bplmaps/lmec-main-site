@@ -23,6 +23,6 @@ Who benefits when the natural world is flourishing and healthy? By contrast, who
 
 * **Locations**: Leventhal Map & Education Center, Boston Public Library (July 11 and 13) & Tsongas Industrial History Center, Lowell, MA (July 12)
 * **Audience**: Teachers of grades 3-12
-* **PDPs/Graduate Credi**t: 22.5 PDPs or 1 graduate credit optional
+* **PDPs/Graduate Credi**t: 22.5 PDPs or 1 graduate credit optional (additional $150 payable to Westfield State University) 
 
 **Co-presented by the Leventhal Map and Education Center and Tsongas Industrial History Center**
