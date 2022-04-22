@@ -13,7 +13,7 @@ tags:
 - Professional Development
 
 ---
-{{< figure src="/uploads/2022-04-22/pd-workshop-2.png" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2022-04-22/pd-workshop-3.png" caption="" class="figure-right" >}}
 
 ### K-12 Professional Development Workshop
 
