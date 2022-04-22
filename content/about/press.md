@@ -20,6 +20,8 @@ John Michael Kennedy, JMKPR
 
 **Press for _More or Less in Common_**
 
+[The Boston Globe](https://www.bostonglobe.com/2022/04/22/opinion/mapping-environmental-justice/)
+
 [The Huntington News, Northeastern University](https://huntnewsnu.com/68402/city-pulse/new-exhibit-at-leventhal-map-and-education-center-centers-of-environmental-injustice/)
 
 [WBZ New England Weekend](https://bostonpubliclibrary.sharepoint.com/:u:/s/LeventhalMap/Ef61zuWf6ChJqsWb4dze5xQBXV-_qZuQrmITXF5t-UKxsA?e=wzyJQf)
