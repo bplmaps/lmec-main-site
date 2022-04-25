@@ -11,7 +11,7 @@ tags:
 backgroundImage: "/uploads/2022-04-25/olm2.jpeg"
 
 ---
-{{< figure src="/uploads/2022-04-25/olm5.jpeg" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2022-04-25/olm5.jpeg" caption="This [print](https://ark.digitalcommonwealth.org/ark:/50959/sq87ft46v) of Frederick Law Olmsted comes from the Public Library of Brookline collection" class="figure-right" >}}
 
 A birthday celebration is in order! Frederick Law Olmsted was born on this day in 1822 in Hartford, CT. Today, he is remembered as the founder of landscape architecture and celebrated for his contributions to landscapes across the country. For those in Boston, we have Olmsted to thank for many of the city’s most widely-used green spaces, including Back Bay Fens, the Riverway, Olmsted Park, Jamaica Pond, the Arnold Arboretum, Franklin Park, and many more. 
 
