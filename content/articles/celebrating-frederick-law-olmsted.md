@@ -13,7 +13,7 @@ backgroundImage: "/uploads/2022-04-25/olm2.jpeg"
 ---
 {{< figure src="/uploads/2022-04-25/olm5.jpeg" caption="This [print](https://ark.digitalcommonwealth.org/ark:/50959/sq87ft46v) of Frederick Law Olmsted comes from the Public Library of Brookline collection" class="figure-right" >}}
 
-A birthday celebration is in order! Frederick Law Olmsted was born on this day in 1822 in Hartford, CT. Today, he is remembered as the founder of landscape architecture and celebrated for his contributions to landscapes across the country. For those in Boston, we have Olmsted to thank for many of the city’s most widely-used green spaces, including Back Bay Fens, the Riverway, Olmsted Park, Jamaica Pond, the Arnold Arboretum, Franklin Park, and many more. 
+A birthday celebration is in order! Frederick Law Olmsted was born on this day in 1822 in Hartford, CT. Today, he is remembered as the founder of landscape architecture and celebrated for his contributions to landscapes across the country. For those in Boston, we have Olmsted to thank for many of the city’s most widely-used green spaces, including Back Bay Fens, the Riverway, Olmsted Park, Jamaica Pond, the Arnold Arboretum, Franklin Park, and more. 
 
 Our current exhibition, [More or Less in Common: Environment and Justice in the Human Landscape](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/), has been timed to coincide with this bicentennial anniversary. Let's take a closer look at a few maps from our current exhibition and in our digital collections that document Olmsted's projects in Boston. 
 
@@ -40,4 +40,4 @@ The next series of 4 maps—documenting [Back Bay Fens](https://collections.leve
 
 See more on the bicentennial celebration of Olmsted's birthday at [Olmsted200](https://olmsted200.org/), [Olmsted Now](https://olmstednow.org/), and the [Frederick Law Olmsted National Historic Site](https://www.nps.gov/frla/index.htm). 
 
-> Want to see any of these maps in person? [Visit our gallery](https://www.leventhalmap.org/exhibitions/visit/) Monday-Saturday or [book an appointment](https://www.leventhalmap.org/research/appointments/) in our Rare Maps Reading Room. 
+> Want to see any of these maps in person? [Visit our gallery](https://www.leventhalmap.org/exhibitions/visit/) Monday-Saturday or [book an appointment](https://www.leventhalmap.org/research/appointments/) in our Rare Maps Reading Room! 
