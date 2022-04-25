@@ -22,3 +22,14 @@ The above 1877 [map](https://collections.leventhalmap.org/search/commonwealth:js
 {{< figure src="/uploads/2022-04-25/olm3.jpeg" caption="This 1900 [map](https://collections.leventhalmap.org/search/commonwealth:9s161f59c) of Arnold Arboretum includes a key to over 60 types of trees scattered across the park" class="figure-center" >}}
 
 Created in 1900, the above [map](https://collections.leventhalmap.org/search/commonwealth:9s161f59c) shows the locations of trees, shrubs, and pathways in Arnold Arboretum. Arnold Arboretum’s design was the result of a collaboration between Frederick Law Olmsted and amateur horticulturalist Charles Sargent. Situated on the former site of the Bussey family farm, the Arboretum was established in 1872 with the bequest of James Arnold, a New Bedford whaling merchant. In 1882, Harvard and the City of Boston reached a unique arrangement: Harvard transferred the Arboretum’s land to the City as part of its public park system and in turn, the City leased the property to Harvard for a thousand years, leaving control of the collections with Arboretum staff. 
+
+{{< carousel >}}
+{{< carousel-figure src="/uploads/2022-04-25/fens-1.jpeg" >}}{{< /carousel-figure >}}
+
+    {{< carousel-figure src="/uploads/2022-04-25/olmsted-park.jpeg" >}}{{< /carousel-figure >}}
+    
+    {{< carousel-figure src="/uploads/2022-04-25/jp-pond.jpeg" >}}{{< /carousel-figure >}}
+    
+    {{< carousel-figure src="/uploads/2022-04-25/riverway.jpeg" >}}{{< /carousel-figure >}}
+
+{{< /carousel >}}
