@@ -23,7 +23,7 @@ Created in 1900, the [map](https://collections.leventhalmap.org/search/commonwea
 
 {{< figure src="/uploads/2022-04-25/olm3.jpeg" caption="This 1900 [map](https://collections.leventhalmap.org/search/commonwealth:9s161f59c) of Arnold Arboretum includes a key to over 60 types of trees scattered across the park" class="figure-center" >}}
 
-The next series of 4 maps—documenting [Back Bay Fens](https://collections.leventhalmap.org/search/commonwealth:1831g286f), [Olmsted Park](https://collections.leventhalmap.org/search/commonwealth:gx41q246j), [Jamaica Pond](https://collections.leventhalmap.org/search/commonwealth:8w32tn93q), and [Riverway](https://collections.leventhalmap.org/search/commonwealth:8336kj69s)—
+The next series of 4 maps—documenting [Back Bay Fens](https://collections.leventhalmap.org/search/commonwealth:1831g286f), [Olmsted Park](https://collections.leventhalmap.org/search/commonwealth:gx41q246j), [Jamaica Pond](https://collections.leventhalmap.org/search/commonwealth:8w32tn93q), and [Riverway](https://collections.leventhalmap.org/search/commonwealth:8336kj69s)—were published in 1986 by the Commonwealth of Massachusetts Department of Environmental Management as part of the Olmsted Historic Landscape Preservation Program. The program was born in the 1980s out of "[a national awareness of how remarkable the Olmsted firm's contribution to American history and the urban environment had been](https://archives.lib.state.ma.us/handle/2452/835786)." Created under the program, each map "document\[s\] the original design intent, use, appearance and integrity of the parks" as part of the 1989 Master Plan, which "provides a preservation framework to guide all future planning and action" of Olmsted parks. 
 
 {{< carousel >}}
 {{< carousel-figure src="/uploads/2022-04-25/fens-1.jpeg" >}}{{< /carousel-figure >}}
@@ -35,3 +35,5 @@ The next series of 4 maps—documenting [Back Bay Fens](https://collections.leve
     {{< carousel-figure src="/uploads/2022-04-25/riverway.jpeg" >}}{{< /carousel-figure >}}
 
 {{< /carousel >}}
+
+> Want to see any of these maps in person? [Visit our gallery](https://www.leventhalmap.org/exhibitions/visit/) Monday-Saturday or [book an appointment](https://www.leventhalmap.org/research/appointments/) in our Rare Maps Reading Room. 
