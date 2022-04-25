@@ -9,7 +9,6 @@ author: Megan Nally
 tags:
 - exhibition
 backgroundImage: "/uploads/2022-04-25/olm2.jpeg"
-draft: true
 
 ---
 {{< figure src="/uploads/2022-04-25/olm5.jpeg" caption="This [print](https://ark.digitalcommonwealth.org/ark:/50959/sq87ft46v) of Frederick Law Olmsted comes from the Public Library of Brookline collection" class="figure-right" >}}
