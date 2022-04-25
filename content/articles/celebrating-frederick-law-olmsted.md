@@ -38,4 +38,6 @@ The next series of 4 maps—documenting [Back Bay Fens](https://collections.leve
 
 {{< /carousel >}}
 
+See more on the bicentennial celebration of Olmsted's birthday at [Olmsted200](https://olmsted200.org/), [Olmsted Now](https://olmstednow.org/), and the [Frederick Law Olmsted National Historic Site](https://www.nps.gov/frla/index.htm). 
+
 > Want to see any of these maps in person? [Visit our gallery](https://www.leventhalmap.org/exhibitions/visit/) Monday-Saturday or [book an appointment](https://www.leventhalmap.org/research/appointments/) in our Rare Maps Reading Room. 
