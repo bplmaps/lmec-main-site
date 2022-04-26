@@ -1,14 +1,14 @@
 ---
-date: 2022-04-26T01:15:35-04:00
+date: 2022-04-26T01:15:35.000-04:00
 title: Celebrating Frederick Law Olmsted
 description: Today—April 26th, 2022—marks the 200th anniversary of the birth of Frederick
   Law Olmsted. Join us in celebrating his legacy and contributions to landscapes across
   the country!
-image: "/uploads/2022-04-25/olm2.jpeg"
+image: "/uploads/2022-04-25/olm3.jpeg"
 author: Megan Nally
 tags:
 - exhibition
-backgroundImage: "/uploads/2022-04-25/olm2.jpeg"
+backgroundImage: "/uploads/2022-04-25/olm3.jpeg"
 
 ---
 {{< figure src="/uploads/2022-04-25/olm5.jpeg" caption="This [print](https://ark.digitalcommonwealth.org/ark:/50959/sq87ft46v) of Frederick Law Olmsted comes from the Public Library of Brookline collection" class="figure-right" >}}
@@ -44,4 +44,4 @@ The next series of 4 maps—documenting [Back Bay Fens](https://collections.leve
 
 See more on the bicentennial celebration of Olmsted's birthday at [Olmsted200](https://olmsted200.org/), [Olmsted Now](https://olmstednow.org/), and the [Frederick Law Olmsted National Historic Site](https://www.nps.gov/frla/index.htm). 
 
-> Want to see any of these maps in person? [Visit our gallery](https://www.leventhalmap.org/exhibitions/visit/) Monday-Saturday or [book an appointment](https://www.leventhalmap.org/research/appointments/) in our Rare Maps Reading Room! 
+> Want to see any of these maps in person? [Visit our gallery](https://www.leventhalmap.org/exhibitions/visit/) Monday-Saturday or [book an appointment](https://www.leventhalmap.org/research/appointments/) in our Rare Maps Reading Room!
