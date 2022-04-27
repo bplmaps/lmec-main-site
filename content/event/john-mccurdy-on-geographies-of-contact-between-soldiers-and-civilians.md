@@ -1,7 +1,7 @@
 ---
-publishDate: 2022-01-07T10:13:39-05:00
+publishDate: 2022-01-07T10:13:39.000-05:00
 title: John McCurdy on Geographies of Contact between Soldiers and Civilians
-date: 2022-04-26T19:00:00-04:00
+date: 2022-04-26T19:00:00.000-04:00
 image: "/uploads/2022-01-07/event.jpeg"
 backgroundImage: "/uploads/2022-01-07/event.jpeg"
 location: Online
@@ -12,6 +12,10 @@ tags:
 - Seminar
 
 ---
+### Event video 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FOuu1TJvsCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Learn about how the urban military spaces of colonial cities shaped the course of the Revolutionary War
 
 Join scholar John McCurdy as we learn about the geographies of contact between soldiers and civilians—from urban squares to barracks and lodging houses—during the Revolutionary War. McCurdy’s work examines the small-scale spaces where the everyday realities of life during an imperial conflict became personalized.
