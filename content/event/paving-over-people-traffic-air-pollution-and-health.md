@@ -1,7 +1,7 @@
 ---
-publishDate: 2022-04-05T12:24:31-04:00
+publishDate: 2022-04-05T12:24:31.000-04:00
 title: 'Paving Over People: Traffic, Air Pollution, and Health'
-date: 2022-05-03T18:00:00-04:00
+date: 2022-05-03T18:00:00.000-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9019vk684/full/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9019vk684/full/full/0/default.jpg
 location: Online
@@ -12,6 +12,10 @@ tags:
 - Continued Conversations
 
 ---
+### Event video 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sJcWRJMgoxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### About this event
 
 Join us for a conversation with folks from the [Community Assessment of Freeway Exposure and Health Study](https://www.cafehresearch.org/) (CAFEH) on the health risks of highway pollution.
