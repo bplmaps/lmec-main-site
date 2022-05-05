@@ -2,8 +2,8 @@
 publishDate: 2022-05-05T13:41:29-04:00
 title: 'Trains, Planes, and Automobiles: Boston Transit Trivia'
 date: 2022-07-28T18:00:00-04:00
-image: "/uploads/2022-04-25/olm3.jpeg"
-backgroundImage: "/uploads/2022-04-25/olm3.jpeg"
+image: "/uploads/2022-05-05/transit.jpeg"
+backgroundImage: "/uploads/2022-05-05/transit.jpeg"
 location: Newsfeed Café, Central Library in Copley Square
 fee: Free
 registration: https://www.eventbrite.com/e/trains-planes-and-automobiles-boston-transit-trivia-tickets-334668411227
