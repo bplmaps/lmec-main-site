@@ -24,6 +24,6 @@ Registration is encouraged but not required. You may participate individually or
 
 Prizes of maps will be awarded to winning teams!
 
-\~Hint\~ You may want to review [this video](https://www.leventhalmap.org/event/steven-beaucher-on-boston-in-transit/) in preparation.
+You _may_ want to review [this video](https://www.leventhalmap.org/event/steven-beaucher-on-boston-in-transit/) in preparation.
 
 **Made possible by the research and work of** [**Steven Beaucher**](https://bostonintransit.com/)**.** 
