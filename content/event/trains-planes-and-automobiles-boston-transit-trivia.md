@@ -26,4 +26,4 @@ Prizes of maps will be awarded to winning teams!
 
 \~Hint\~ You may want to review [this video](https://www.leventhalmap.org/event/steven-beaucher-on-boston-in-transit/) in preparation.
 
-**Supported by the research and work of** [**Steven Beaucher**](https://bostonintransit.com/)**.** 
+**Made possible by the research and work of** [**Steven Beaucher**](https://bostonintransit.com/)**.** 
