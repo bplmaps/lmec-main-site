@@ -16,7 +16,7 @@ tags:
 
 What was Boston's first public transit line? In what year did it begin operations?
 
-Join the [Leventhal Map and Education Center](https://www.leventhalmap.org/) with the [Massachusetts Historical Society](https://www.masshist.org/) for a trivia night on Boston's transit history.
+Join the [Leventhal Map and Education Center](https://www.leventhalmap.org/) with the [Massachusetts Historical Society](https://www.masshist.org/) and [Steven Beaucher](https://bostonintransit.com/) for a trivia night on Boston's transit history.
 
 Trivia rounds will feature a geographic scavenger hunt using [Atlascope](https://atlascope.leventhalmap.org/), knowledge about the city's rails, routes, streets, stations, and more!
 
