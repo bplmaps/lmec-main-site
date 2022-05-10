@@ -1,13 +1,13 @@
 +++
 backgroundImage = ""
-date = 2022-05-12T04:00:00Z
+date = 2022-05-12T19:00:00Z
 fee = "Free!"
 image = "/uploads/2021-09-03/sealevel.jpg"
 location = "Virtual Zoom session"
 publishDate = 2021-09-17T14:36:10Z
 registration = "https://www.leventhalmap.org/education/k12/professional-development/"
-title = "Small Bites: Environmental Justice in Boston"
 tags = ["K-12 Professional Development"]
+title = "Small Bites: Environmental Justice in Boston"
 
 +++
 ### **_Small Bites: Environmental Justice in Boston_**
