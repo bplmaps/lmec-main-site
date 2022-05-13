@@ -2,8 +2,8 @@
 publishDate: 2022-05-12T15:13:14.000-04:00
 title: Preserving Roxbury’s Housing Through Adaptive Reuse
 date: 2022-06-15T16:00:00.000-04:00
-image: "/uploads/2022-05-12/washington-park.jpeg"
-backgroundImage: "/uploads/2022-05-12/washington-park.jpeg"
+image: "/uploads/2022-05-13/houses.jpeg"
+backgroundImage: "/uploads/2022-05-13/houses.jpeg"
 location: Roxbury Branch of the Boston Public Library
 fee: Free
 registration: https://www.eventbrite.com/preview?eid=339078973337/
