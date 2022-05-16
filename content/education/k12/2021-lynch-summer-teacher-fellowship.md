@@ -5,7 +5,7 @@ title = "2022 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Commun
 weight = ""
 
 +++
-**Applications due:** May 2, 2022
+**Applications due:** **APPLICATION PROCESS CLOSED FOR 2022**
 
 **Stipend:** $1000
 
@@ -35,7 +35,7 @@ Any K-12 teacher or library media specialist who has an interest in teaching abo
 
 ### **To apply**
 
-#### **Deadline: Monday, May 2nd, 2022**
+#### **Deadline: APPLICATION PROCESS CLOSED FOR 2022**
 
 _To apply, please send:_
 
@@ -44,8 +44,6 @@ _To apply, please send:_
 * A letter of support from your school principal or department head.
 
 Please email all documents to: [mleblanc@leventhalmap.org](mailto:mleblanc@leventhalmap.org)
-
-Recipients will be announced by **May 11, 2022**.
 
 **Don’t take our word for it! Ask our 2021 Fellows:**
 
