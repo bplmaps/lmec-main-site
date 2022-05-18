@@ -5,7 +5,6 @@ author: Anne-Sophie Pratte
 date: 2022-05-18T04:00:00.000+00:00
 image: /uploads/2022-05-13/manchu-map-excerpt.png
 backgroundImage: /uploads/2022-05-13/manchu-map-excerpt.png
-draft: true
 tags:
 - guest post
 - map chat
