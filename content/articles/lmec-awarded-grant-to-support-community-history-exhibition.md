@@ -1,5 +1,5 @@
 ---
-date: 2022-05-20T13:08:34-04:00
+date: 2022-05-25T00:00:00-04:00
 title: LMEC Awarded Grant to Support Community History Exhibition
 description: The Leventhal Center has been awarded a Library of Congress Teaching
   with Primary Sources (TPS) Regional Grant to support a 2023 urban atlas exhibition.
