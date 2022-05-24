@@ -47,10 +47,6 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Job posting
-    text: 'We''re hiring an Exhibition Curatorial Fellow for our 2023 exhibition on
-      urban change   '
-    link: https://www.leventhalmap.org/about/jobs/exhibition-curatorial-fellow/
   - badge: On display
     text: '"More or Less in Common: Environment and Justice in the Human Landscape"
       is open now through December '
@@ -59,9 +55,8 @@ cta:
     text: Browse the accompanying digital exhibition for "More or Less in Common"
     link: https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/
   - badge: New acquisition
-    text: A mechanical map from the late nineteenth century showing the US's territorial
-      expansion
-    link: https://bpl.bibliocommons.com/v2/record/S75C8129750
+    text: An 1886 map showing communications cables laid under the Atlantic
+    link: https://bpl.bibliocommons.com/v2/record/S75C8203455
 audiences:
   enable: true
   audienceGroups:
@@ -159,5 +154,5 @@ upcomingLivestream:
   embedLink: <iframe width="560" height="315" src="https://www.youtube.com/embed/sJcWRJMgoxQ"
     title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
     encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  startTime: 2022-05-03T17:55:00-04:00
-  endTime: 2022-05-03T19:05:00-04:00
+  startTime: 2022-05-03T17:55:00.000-04:00
+  endTime: 2022-05-03T19:05:00.000-04:00
