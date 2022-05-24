@@ -2,8 +2,15 @@
 title: 'Job Posting: Exhibition Curatorial Fellow'
 backgroundImage: https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg
 cardImage: https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg
-
+menu: false
 ---
+
+{{< alert-box type="warning" title="Deadline passed" >}}
+
+The deadline for applying to this vacancy has passed.
+
+{{</ alert-box >}}
+
 The Leventhal Map & Education Center at the Boston Public Library seeks
 to hire an **Exhibition Curatorial Fellow** for the period July 2022
 through January 2023, extensible through June 2023. The Curatorial
@@ -132,7 +139,7 @@ interviewing.
 
 Applications due May 23, 2022
 
-<a class="btn btn-lg btn-primary-outline" href="https://airtable.com/shrJHrhzHdf2VrKEA">Application Link</a>
+<a class="btn btn-lg btn-primary-outline disabled">Application closed</a>
 
 ### For more information
 
