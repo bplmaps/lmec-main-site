@@ -35,7 +35,7 @@ I started out by working with [statewide data on Massachusetts](https://www.mass
 
 The built environment is full of similar large features with recognizable land use patterns. Here's every controlled-access highway interchange in Massachusetts:
 
-{{< figure src="" >}}
+{{< figure src="/uploads/2022-05-25/birds_eye_cards_highways.jpg" >}}
 
 Then I began to wonder about natural features. While many elements of physical geography, like soil types or topographic features like eskers, are more easily visualized on a drawn map than in aerial imagery, I was curious about one kind of glacial landscape that should be fairly recognizable from the air: [glacial kettle lakes](https://en.wikipedia.org/wiki/Kettle_(landform)). I couldn't find a GIS data set specifically identifying kettles, so instead I tried a bit of geospatial computation by calculating the "roundness" of every inland waterbody in the state. That produced this set of images, in which many kettles are represented:
 
