@@ -14,6 +14,8 @@ tags: []
 
 How can historic maps be used for genealogical research? What sorts of clues do maps provide for piecing together local history? 
 
-In this edition of the Boston Public Library's [Local & Family History Lecture Series](https://www.bpl.org/local-and-family-history-series/), LMEC Assistant Curator of Digital & Participatory Geography [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/) and Public Engagement Coordinator [Megan Nally](https://www.leventhalmap.org/about/people/megan-nally/) will discuss the use of historic maps for genealogical research. The Boston Public Library's Local & Family History Lecture Series shares information about the history of Boston and its diverse neighborhoods along with tips and guides for those beginning their own genealogical research. This talk will feature a demonstration of the Map Center's [Atlascope tool](https://atlascope.leventhalmap.org/), which overlays historic maps on top of modern-day ones so you can easily compare past and present.
+In this edition of the Boston Public Library's [Local & Family History Lecture Series](https://www.bpl.org/local-and-family-history-series/), LMEC Assistant Curator of Digital & Participatory Geography [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/) and Public Engagement Coordinator [Megan Nally](https://www.leventhalmap.org/about/people/megan-nally/) will discuss the use of historic maps for genealogical research. This talk will also feature a demonstration of the Map Center's [Atlascope tool](https://atlascope.leventhalmap.org/), which overlays historic maps on top of modern-day ones so you can easily compare past and present.
 
 We hope you're able to join us!
+
+_The Boston Public Library's Local & Family History Lecture Series shares information about the history of Boston and its diverse neighborhoods along with tips and guides for those beginning their own genealogical research._
