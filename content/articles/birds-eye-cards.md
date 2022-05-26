@@ -1,7 +1,8 @@
 ---
-date: 2022-05-26T15:00:52-05:00
+date: 2022-05-26T15:00:52.000-05:00
 title: Landscapes of visual repetition in "Bird's Eye Cards"
-description: A new map visualization invites you to look at patterns in the landscape as seen from above
+description: A new map visualization invites you to look at patterns in the landscape
+  as seen from above
 image: "/uploads/2022-05-25/birds_eye_cards_screenshot.jpg"
 author: Garrett Dash Nelson
 tags:
@@ -13,23 +14,22 @@ backgroundImage: "/uploads/2022-05-25/birds_eye_cards_screenshot.jpg"
 draft: true
 
 ---
-
 The allure of seeing the world from above is so closely associated with the discipline of geography that [some  degree programs](https://ceoas.oregonstate.edu/how-do-i-know-if-i-want-be-geographer) even suggest that students who “prefer the window seats on airplanes” might be potential future geographers. And while there are many reasons to be [cautious about the totalizing perspective](https://journals.sagepub.com/doi/abs/10.1068/d100199) of the “God’s-eye view,” aerial images still nevertheless invite us to observe spatial structures both grand and intimate, and to interrogate how the [patterned ground](http://www.worldcat.org/oclc/718608208) on which we live came to take on its visual form.
 
-Some of the most interesting aerial observations emerge from repetition in the landscape—both built and natural forms that occur time and time again. When I was working on developing our [Insizeor](https://insizeor.netlify.app) tool, I tried out a few different processing techniques for clipping out sections from an aerial image layer. Using one of these techniques that I didn’t eventually need for Insizeor, I started to experiment with what it would look like if I created [rapid animations](https://twitter.com/en_dash/status/1479893349515599874) based on repetitive features.
+Some of the most interesting aerial observations emerge from repetition in the landscape—both built and natural forms that occur time and time again. When I was working on developing our [Insizeor](https://insizeor.netlify.app) tool, I tried a few different processing techniques for clipping out sections from an aerial image layer. Using one of these techniques that I didn’t eventually need for Insizeor, I started to experiment with what it would look like if I created [rapid animations](https://twitter.com/en_dash/status/1479893349515599874) based on repetitive features.
 
 Animations are eye-catching, but I quickly realized that it would be more interesting to array these aerial cut-outs next to one another, in order to create a visual pattern system that also allows the viewer to identify and explore each one of the images. And so _Bird’s Eye Cards,_ the latest [@bplmaps Glitch visualization](https://glitch.com/@bplmaps), was born:
 
 <div class="glitch-embed-wrap" style="height: 486px; width: 100%; margin-top: 15px; margin-bottom: 40px;">
-  <iframe
-    allow="geolocation; microphone; camera; midi; encrypted-media"
-    src="https://glitch.com/embed/#!/embed/birds-eye-cards?previewSize=100&previewFirst=true&sidebarCollapsed=true"
-    alt="birds-eye-cards on Glitch"
-    style="height: 100%; width: 100%; border: 0;">
-  </iframe>
+<iframe
+allow="geolocation; microphone; camera; midi; encrypted-media"
+src="https://glitch.com/embed/#!/embed/birds-eye-cards?previewSize=100&previewFirst=true&sidebarCollapsed=true"
+alt="birds-eye-cards on Glitch"
+style="height: 100%; width: 100%; border: 0;">
+</iframe>
 </div>
 
-I started out by working with [statewide data on Massachusetts](https://www.mass.gov/info-details/massgis-data-building-structures-2-d), zooming in on the state's largest buildings. (The largest of all is the [MWRA wastewater plant](https://www.mwra.com/03sewer/html/DeerIslandWindow.htm) on Deer Island.) Some interesting patterns already begin to emerge here: we see malls, surrounded by enormous moats of parking; warehouses, with semi trucks lined up at their sides; and, in a few cases, solar panels that have been installed to make use of what would otherwise be wasted empty roof space. 
+I started out by working with [statewide data on Massachusetts](https://www.mass.gov/info-details/massgis-data-building-structures-2-d), zooming in on the state's largest buildings (The largest of all is the [MWRA wastewater plant](https://www.mwra.com/03sewer/html/DeerIslandWindow.htm) on Deer Island). Some interesting patterns already begin to emerge here: we see malls, surrounded by enormous moats of parking; warehouses, with semi trucks lined up at their sides; and, in a few cases, solar panels that have been installed to make use of what would otherwise be wasted empty roof space.
 
 {{< figure src="/uploads/2022-05-25/birds_eye_cards_screenshot.jpg" >}}
 
@@ -55,10 +55,10 @@ By contrast, the lowest income blocks are almost entirely institutional land use
 Want to explore more yourself? Try out the full [_Bird's Eye Cards_](https://glitch.com/@bplmaps) visualization or remix the code on Glitch! Have an idea for a feature that you'd like to see us add to the visualization? [Drop us a note](/about/contact-connect/) or tag us on social media @bplmaps.
 
 <div class="glitch-embed-wrap" style="height: 486px; width: 100%; margin-top: 15px; margin-bottom: 40px;">
-  <iframe
-    allow="geolocation; microphone; camera; midi; encrypted-media"
-    src="https://glitch.com/embed/#!/embed/birds-eye-cards?previewSize=100&previewFirst=true&sidebarCollapsed=true"
-    alt="birds-eye-cards on Glitch"
-    style="height: 100%; width: 100%; border: 0;">
-  </iframe>
+<iframe
+allow="geolocation; microphone; camera; midi; encrypted-media"
+src="https://glitch.com/embed/#!/embed/birds-eye-cards?previewSize=100&previewFirst=true&sidebarCollapsed=true"
+alt="birds-eye-cards on Glitch"
+style="height: 100%; width: 100%; border: 0;">
+</iframe>
 </div>
