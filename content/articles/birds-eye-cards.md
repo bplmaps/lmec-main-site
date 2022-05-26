@@ -11,10 +11,9 @@ tags:
 - aerial imagery
 - landscape
 backgroundImage: "/uploads/2022-05-25/birds_eye_cards_screenshot.jpg"
-draft: true
 
 ---
-The allure of seeing the world from above is so closely associated with the discipline of geography that [some  degree programs](https://ceoas.oregonstate.edu/how-do-i-know-if-i-want-be-geographer) even suggest that students who “prefer the window seats on airplanes” might be potential future geographers. And while there are many reasons to be [cautious about the totalizing perspective](https://journals.sagepub.com/doi/abs/10.1068/d100199) of the “God’s-eye view,” aerial images still nevertheless invite us to observe spatial structures both grand and intimate, and to interrogate how the [patterned ground](http://www.worldcat.org/oclc/718608208) on which we live came to take on its visual form.
+The allure of seeing the world from above is so closely associated with the discipline of geography that [some degree programs](https://ceoas.oregonstate.edu/how-do-i-know-if-i-want-be-geographer) even suggest that students who “prefer the window seats on airplanes” might be potential future geographers. And while there are many reasons to be [cautious about the totalizing perspective](https://journals.sagepub.com/doi/abs/10.1068/d100199) of the “God’s-eye view,” aerial images still nevertheless invite us to observe spatial structures both grand and intimate, and to interrogate how the [patterned ground](http://www.worldcat.org/oclc/718608208) on which we live came to take on its visual form.
 
 Some of the most interesting aerial observations emerge from repetition in the landscape—both built and natural forms that occur time and time again. When I was working on developing our [Insizeor](https://insizeor.netlify.app) tool, I tried a few different processing techniques for clipping out sections from an aerial image layer. Using one of these techniques that I didn’t eventually need for Insizeor, I started to experiment with what it would look like if I created [rapid animations](https://twitter.com/en_dash/status/1479893349515599874) based on repetitive features.
 
