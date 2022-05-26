@@ -1,7 +1,7 @@
 ---
-publishDate: 2022-03-30T11:00:28-04:00
+publishDate: 2022-03-30T11:00:28.000-04:00
 title: Urban Development and Community Resilience in Roxbury
-date: 2022-05-24T18:00:00-04:00
+date: 2022-05-24T18:00:00.000-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw26b/816,1408,3263,2912/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw26b/816,1408,3263,2912/full/0/default.jpg
 location: Online
@@ -12,6 +12,10 @@ tags:
 - Continued Conversations
 
 ---
+### Event video 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hvvMPWMarEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### About this event
 
 Join us for a conversation with the [Dudley Street Neighborhood Initiative (DSNI)](https://www.dsni.org/) on community land trusts, sustainable development, and community resilience in Roxbury.
