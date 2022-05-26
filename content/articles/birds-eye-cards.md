@@ -1,5 +1,5 @@
 ---
-date: 2022-05-26T15:00:52.000-05:00
+date: 2022-05-26T16:00:52-04:00
 title: Landscapes of visual repetition in "Bird's Eye Cards"
 description: A new map visualization invites you to look at patterns in the landscape
   as seen from above
