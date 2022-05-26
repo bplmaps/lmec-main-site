@@ -1,5 +1,5 @@
 ---
-date: 2022-05-27T00:00:00-04:00
+date: 2022-05-27T00:00:00.000-04:00
 title: LMEC Awarded Grant to Support Community History Exhibition
 description: The Leventhal Center has been awarded a Library of Congress Teaching
   with Primary Sources (TPS) Regional Grant to support a 2023 urban atlas exhibition.
@@ -10,7 +10,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c3
 draft: true
 
 ---
-We are thrilled to announce that we have been awarded a **Library of Congress Teaching with Primary Sources (TPS) Regional Grant!** The Library’s [TPS Regional program](https://www.loc.gov/programs/teachers/about-this-program/teaching-with-primary-sources-partner-program/tps-regional-grant-program/) promotes the widespread, sustained and effective use of primary sources from the Library of Congress by increasing access to the Library and to TPS program resources. Our award is from the Eastern Region Program, coordinated by Waynesburg University.
+We are thrilled to announce that we have been awarded a **Library of Congress Teaching with Primary Sources (TPS) Regional Grant!** The [TPS Regional program](https://www.loc.gov/programs/teachers/about-this-program/teaching-with-primary-sources-partner-program/tps-regional-grant-program/) promotes the widespread, sustained and effective use of primary sources from the Library of Congress by increasing access to the Library and to TPS program resources. Our award is from the Eastern Region Program, coordinated by Waynesburg University.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg237/1504,899,3157,2150/,1200/0/default.jpg" caption="This snippet of a 1894 Bromley atlas plate shows property ownership around Fields Corner in Dorchester." class="figure-right" >}}
 
