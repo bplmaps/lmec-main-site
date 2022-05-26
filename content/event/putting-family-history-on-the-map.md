@@ -10,12 +10,8 @@ registration: https://bpl.bibliocommons.com/events/620fa903bdf53f3600d6fca8
 tags: []
 
 ---
-{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< /alert-box >}}
+### About this event
 
-### About this event 
-
-How can 
-
-How can we use historic maps for genealogical research? 
+How can we use historic maps for genealogical research?
 
 Join Ian Spangler and Megan Nally from the Leventhal Map & Education Center as they discuss the use of historic maps for genealogical research. They will provide a demo of Leventhal Center's [Atlascope tool](https://atlascope.leventhalmap.org/), which overlays historic maps on top of modern-day ones so you can easily compare past and present.
