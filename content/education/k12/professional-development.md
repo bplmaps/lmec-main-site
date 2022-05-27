@@ -20,7 +20,11 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 ###### July 11 - 13, 2022, 9:00AM - 3:00PM
 
+$75 regisration fee
+
 Who benefits when the natural world is flourishing and healthy? By contrast, who is harmed by a dangerous and degraded environment? This three-day workshop for educators in grades 3-12, hosted in Boston and Lowell, will focus on past and present ideas of environmental justice, looking closely at eastern Massachusetts and the reality of its post-industrial landscape. Through local case studies that incorporate maps, data, documents, and physical landscapes, participants will learn about activists' work and develop their own lessons/activities to use in the classroom. This workshop will feature ideas and models for student-led civics projects connected to environmental justice.
+
+Participants are eligible for one-graduate credit (with an additional $150 payable to Westfield State University) or 22.5 Professional Development Points.
 
 Co-presented by the Norman B. Leventhal Map and Education Center and Tsongas Industrial History Center
 
