@@ -35,4 +35,4 @@ We'll be adding more as we get them updated, so check back.
 
 ### Teaching with our Current Exhibition
 
-Explore education activities related to [Bending Lines: Maps and Data from Distortion to Deception](https://www.leventhalmap.org/digital-exhibitions/bending-lines/education-activities/ "Bending Lines: Maps and Data from Distortion to Deception")
+Explore education activities and lesson plans related to [_More or Less in Common: Environment and Justice in the Human Landscape._](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/lessons/)
