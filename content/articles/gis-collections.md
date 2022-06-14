@@ -1,5 +1,5 @@
 ---
-title: Growing our collections the history of computer cartography
+title: Growing our collections in the history of computer cartography
 author: Ian Spangler
 description: At the Map Center, exciting donations have motivated a new collections interest
 date: 2022-05-18T01:30:00.000+00:00

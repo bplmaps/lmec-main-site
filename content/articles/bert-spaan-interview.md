@@ -29,9 +29,9 @@ Many maps that you encounter online---like this [map of the Russian invasion of 
     caption="See this view of downtown Boston in [Atlascope](https://atlascope.leventhalmap.org/#view:share$base:000$overlay:39999059011260$zoom:16.90$center:-7910726.693603568,5214225.985323061$mode:glass$pos:320)" 
 >}} -->
 
-Thankfully, we can attach geographic coordinates to digital map images through a process known as [georeferencing](https://cartinal.leventhalmap.org/guides/georeference.html). We rely on georeferencing in a lot of our work at the Map Center. In making [Atlascope](https://atlascope.leventhalmap.org/), for example, we georeferenced over a hundred atlases of the Greater Boston area.
+Thankfully, we can attach geographic coordinates to digital map images through a process known as [georeferencing](https://cartinal.leventhalmap.org/guides/georeference.html). We rely on georeferencing in a lot of our work at the Map Center. In making [Atlascope](https://atlascope.leventhalmap.org/), for example, we georeferenced and stitched together over a hundred atlases of the Greater Boston area.
 
-You can access nearly [a thousand georeferenced maps in our collections portal](https://collections.leventhalmap.org/search?f%5Bgeoreferenced_bsi%5D%5B%5D=yes&q=). This may seem like a lot, but it represents less than 10% of our digital collections, and a tiny fraction of the hundreds of thousands of maps at the Boston Public Library overall.
+You can access nearly a thousand more georeferenced maps in our [digital collections portal](https://collections.leventhalmap.org/search?f%5Bgeoreferenced_bsi%5D%5B%5D=yes&q=). This may seem like a lot, but it represents less than 10% of our digital collections, and a tiny fraction of the hundreds of thousands of maps at the Boston Public Library overall.
 
 {{< figure 
     class="figure-center"
