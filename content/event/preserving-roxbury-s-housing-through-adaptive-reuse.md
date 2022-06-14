@@ -20,4 +20,4 @@ This talk will feature a series of case studies to demonstrate how maps, buildin
 
 Audience members whose families engaged in this form of adaptive reuse, or who rented a unit in a subdivided home, are encouraged to come with stories to share in a discussion to follow.
 
-This talk will be held **in-person** in the main conference room on the 1st floor of the Roxbury Branch of the Boston Public Library.
+This talk will be held **in person** in the main conference room on the 1st floor of the Roxbury Branch of the Boston Public Library.
