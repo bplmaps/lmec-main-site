@@ -65,7 +65,7 @@ One of the other things I don’t like about many existing tools is that they’
 
 **IS:** I know that the international image interoperability framework (IIIF) plays a major role in Allmaps' technical stack---could you talk about what it means and why it's important to use IIIF and some of the other components that comprise Allmaps?
 
-**BS:** Before IIIF, every institution used a different technology to access their digitized collections (if it was possible at all). Creating cross-institutional tools that worked with digitized images was very difficult - a lot of the work had to be put in first accessing the images. IIIF makes this part of Allmaps very easy by standardizing how to access images and also standardizing the accessing metadata and creating collections of images.
+**BS:** Before IIIF, every institution used a different technology to access their digitized collections (if it was possible at all). Creating cross-institutional tools that worked with digitized images was very difficult - a lot of the work had to be put into first accessing the images. IIIF makes this part of Allmaps very easy by standardizing how to access images and also standardizing the accessing metadata and creating collections of images.
 
 What I hope is that projects like Allmaps can be a reason for institutions to start a IIIF server. There’s lots of other great examples of tools being built with IIIF (link here to the examples) so maybe this will help inspire
 
