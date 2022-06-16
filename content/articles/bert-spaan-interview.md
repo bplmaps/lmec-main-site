@@ -75,7 +75,7 @@ What I hope is that projects like Allmaps can be a reason for institutions to st
 
 There’s no need to create derivative images on the server. It all works by using URL’s; you can use the Allmaps viewer by using the URL and the same works for the Editor, which makes it really easy to share whether it’s original, georeferenced, warped, etc; you can just take the URL and share it. (In the web render maps of Boston, all the examples of warped maps are coming from the DC servers in Boston, and we’re not looking at GeoTIFFs – just looking at a map image that’s been warped online by control points that are stored at Allmaps).
 
-It’s based on open standards and all components of Allmaps communicate by using this open standard, which is the IIIF georeferencer extension. It’s not a closed ecosystem. People can adapt parts of it, create new tools, and use this open standard to create other things. In general it uses modern web technology, and while this may not be modern 5 years from now, it allows us to do things that we couldn’t do 5 years ago.
+It’s based on open standards and all components of Allmaps communicate by using this open standard, which is the IIIF georeferencer extension. It’s not a closed ecosystem. People can adapt parts of it, create new tools, and use this open standard to create other things. In general, it uses modern web technology, and while this may not be modern 5 years from now, it allows us to do things that we couldn’t do 5 years ago.
 
 **IS:** So far, what's been the most exciting thing about developing Allmaps?
 
@@ -86,7 +86,7 @@ caption="Demo of new Allmaps viewer that can load many maps of a single place at
 
 > }}
 
-**BS:** I’m currently working on a new version of Allmaps Viewer, it can draw hundreds (if not more) maps at the same time.
+**BS:** I’m currently working on a new version of Allmaps Viewer; it can draw hundreds (if not more) maps at the same time.
 
 I'm also hopeful that the georeferencing metadata—the information that can be produced by annotating these maps and linking the annotations to the map's existing metadata—can be preserved in archives, along with the existing digital maps. New tools will probably be developed to search, georeference, and view digitized maps in the coming years, but the georeferencing metadata that can come out of use of Allmaps will still be useful.
 
