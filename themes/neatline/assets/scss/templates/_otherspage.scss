@@ -14,13 +14,13 @@
 
 .tag-list{
   a{
-    display: block;
-    padding: 5px 10px;
+    // display: block;
+    // padding: 5px 10px;
     background: $light;
     color: $text-color;
     &:hover{
-      background-color: $primary-color;
-      color: $white;
+      // background-color: $primary-color;
+      color: $link-color;
     }
   }
 }

@@ -1081,10 +1081,7 @@ link:focus,
     color: #054571; }
 
 .tag-list a {
-  display: block;
-  padding: 5px 10px;
   background: #f8f9fe;
   color: #313131; }
   .tag-list a:hover {
-    background-color: #054571;
-    color: #fff; }
+    color: maroon; }

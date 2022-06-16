@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+<section class="section">
+    <div class="container">
+    {{ if eq .RelPermalink "/tags/"}}
+      <div class="row">
+        <div class="col-12 order-2 order-lg-1">
+            {{ range $.Site.Taxonomies.tags.ByCount }}
+            <span class="badge rounded-pill bg-light text-secondsry mb-1">
+                <a href="/tags/{{ .Name | urlize }}">{{.Name | humanize}}</a>
+                <span class="badge bg-info">{{.Count}}</span>
+            </span>
+            {{end}}
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+        <h5>Event Tags</h5>
+        <div class="col-12 order-2 order-lg-1">
+                {{ range $.Site.Taxonomies.tags.ByCount }}
+                <span class="badge rounded-pill bg-light text-secondsry mb-1">
+                    <a href="/tags/{{ .Name | urlize }}">{{.Name | humanize}}</a>
+                    <span class="badge bg-info">{{.Count}}</span>
+                </span>
+            {{end}}
+            </div>
+        </div>
+        {{end}}
+</section>
+
+{{ end }}

@@ -6,21 +6,10 @@
     <div class="row">
       <div class="col-12 order-2 order-lg-1">
         <div class="row">
-          <h3>Filter articles by tag</h3>
-          <div>
-            {{ range (first 20 $.Site.Taxonomies.tags.ByCount) }}
-          <span class="badge rounded-pill bg-light text-secondsry mb-1">
-            <a href="/tags/{{ .Name | urlize }}">{{.Name | humanize}}</a>
-            <span class="badge bg-info">{{.Count}}</span>
-          </span>
-          {{ end }}
-          </div>
-        </div>
-        <hr>
-        <div class="row">
           <!-- blog post -->
           {{ $paginator := .Paginate ( where .Data.Pages "Type" "articles") }}
           {{ range $paginator.Pages }}
+          
           <div class="col-sm-6 mb-5">
             <article
               class="card rounded-0 border-bottom border-primary border-top-0 border-left-0 border-right-0 hover-shadow">

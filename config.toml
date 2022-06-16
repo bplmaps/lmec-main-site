@@ -4,6 +4,9 @@ locale = "en_US"
 theme = "neatline"
 title = "Leventhal Map & Education Center at the Boston Public Library"
 metaDataFormat = "yaml"
+[taxonomies]
+author = "author"
+tag = "tags"
 [markup.goldmark.extensions]
 definitionList = true
 footnote = true
