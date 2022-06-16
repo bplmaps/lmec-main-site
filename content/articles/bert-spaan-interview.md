@@ -37,11 +37,6 @@ After graduate school, I worked for a company which made GPS and geolocation dev
     caption="[Map](http://code.waag.org/buildings/) of all buildings in the Netherlands, colored by building age" 
 >}}
 
-<<<<<<< Updated upstream
-Thankfully, we can attach geographic coordinates to digital map images through a process known as [georeferencing](https://cartinal.leventhalmap.org/guides/georeference.html). We rely on georeferencing in a lot of our work at the Map Center. In making [Atlascope](https://atlascope.leventhalmap.org/), for example, we georeferenced and stitched together over a hundred atlases of the Greater Boston area.
-
-You can access nearly a thousand more georeferenced maps in our [digital collections portal](https://collections.leventhalmap.org/search?f%5Bgeoreferenced_bsi%5D%5B%5D=yes&q=). This may seem like a lot, but it represents less than 10% of our digital collections, and a tiny fraction of the hundreds of thousands of maps at the Boston Public Library overall.
-=======
 From there, I ended up working at [Waag](https://waag.org/en), a Dutch non-profit research institute for arts, science and technology. The projects I worked on mostly focused on the ethics of technology and open source data/software. I did get to create [a map](http://code.waag.org/buildings/) of all buildings in the Netherlands, which led to working on many more cartography projects. 
 
 One project looked at the history of Dutch place names (because Amsterdam wasn't always referred to as Amsterdam). We ended up turning this into a service called [Histograph](http://histograph.io/) that ended up being used particularly by historians. It was during this whole time that I helped organize the Dutch chapter of [Maptime](https://maptime.io/), which introduced me to the community of people working across the world in open-source geospatial web development.
@@ -52,7 +47,6 @@ I left the Netherlands for New York City to take a job at NYPL Labs—the digita
 
  
 **BS:** Allmaps is a collection of software tools that make it easier and more inspiring to explore, georeference and work with collections of digitized maps. I really want there to be an easier way to find, explore, and view digitized maps.
->>>>>>> Stashed changes
 
 {{< figure 
     class="figure-center"
