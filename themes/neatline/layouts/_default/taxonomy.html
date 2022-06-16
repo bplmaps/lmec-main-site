@@ -1,31 +1,33 @@
 {{ define "main" }}
 
 <section class="section">
-    <div class="container">
-    {{ if eq .RelPermalink "/tags/"}}
-      <div class="row">
-        <div class="col-12 order-2 order-lg-1">
-            {{ range $.Site.Taxonomies.tags.ByCount }}
-            <span class="badge rounded-pill bg-light text-secondsry mb-1">
-                <a href="/tags/{{ .Name | urlize }}">{{.Name | humanize}}</a>
-                <span class="badge bg-info">{{.Count}}</span>
+
+<div class="container tagcloud">
+    {{ if ne (len $.Site.Taxonomies.tags) 0 }}
+      {{ $largestFontSize := 1.4 }}
+      {{ $smallestFontSize := 0.7 }}
+      {{ $fontSpread := sub $largestFontSize $smallestFontSize }}
+      {{ $max := add (len (index $.Site.Taxonomies.tags.ByCount 0).Pages) 1 }}
+      {{ $min := len (index $.Site.Taxonomies.tags.ByCount.Reverse 0).Pages }}
+      {{ $spread := sub $max $min }}
+      {{ $fontStep := div $fontSpread $spread }}
+        {{ range $name, $taxonomy := $.Site.Taxonomies.tags }}
+          {{ $tagCount := len $taxonomy.Pages }}
+          {{ if gt $tagCount 0}}
+          {{ $currentFontSize := (add $smallestFontSize (mul (sub $tagCount $min) $fontStep) ) }}
+          {{ $weight := div (sub (math.Log $tagCount) (math.Log $min)) (sub (math.Log $max) (math.Log $min)) }}
+          {{ $currentFontSize := (add $smallestFontSize (mul (sub $largestFontSize $smallestFontSize) $weight)) }}
+            <!-- <a href="{{ "/tags/" | relURL }}{{ $name | urlize }}">
+              {{ $name }}<sup>{{ $tagCount }}</sup>
+            </a> -->
+            <span class="badge rounded-pill bg-light text-secondsry mb-1 tagcloud-item" style="font-size: {{ $currentFontSize }}rem;">
+                <a href="/tags/{{ $name | urlize }}">{{$name | humanize}}</a>
+                <span class="badge bg-info" >{{ $tagCount }}</span>
             </span>
             {{end}}
-            </div>
-        </div>
-        <hr>
-        <div class="row">
-        <h5>Event Tags</h5>
-        <div class="col-12 order-2 order-lg-1">
-                {{ range $.Site.Taxonomies.tags.ByCount }}
-                <span class="badge rounded-pill bg-light text-secondsry mb-1">
-                    <a href="/tags/{{ .Name | urlize }}">{{.Name | humanize}}</a>
-                    <span class="badge bg-info">{{.Count}}</span>
-                </span>
-            {{end}}
-            </div>
-        </div>
-        {{end}}
+        {{ end }}
+    {{ end }}
+</div>
 </section>
 
 {{ end }}
