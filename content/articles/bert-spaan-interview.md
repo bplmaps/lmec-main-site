@@ -44,7 +44,6 @@ One project looked at the history of Dutch place names (because Amsterdam wasn't
 I left the Netherlands for New York City to take a job at NYPL Labs—the digital humanities research lab at the New York Public Library—to work in their NYC Space/Time directory, which a digital atlas of the history of NYC. At the NYPL, I had the chance to work with the Library’s amazing collections of digitized maps and create new tools and websites to make maps easier to find and access, but it only worked for the NYPL and not for other institutions with similar collections. Because of my work at NYPL Labs, I was introduced to the International Image Interoperability Framework (IIIF), which was created to try and make sharing images and metadata from institutional collections more streamlined. That was ultimately what led me to working on Allmaps with my collaborator [Jules Schoonman](https://twitter.com/sammeltassen?lang=en). 
  
 **IS:** Georeferencing, or the process of associating a pixel of a digital image with coordinates in geographic space, is something we're really excited about here at the Map Center, given our very large collection of digitized maps. We've been so thrilled to partner with you to help migrate our georeferencing workflow into Allmaps. Could you tell us a little bit about what Allmaps is, and explain the major problem that you were trying to solve by developing it?
-
  
 **BS:** Allmaps is a collection of software tools that make it easier and more inspiring to explore, georeference and work with collections of digitized maps. I really want there to be an easier way to find, explore, and view digitized maps.
 
@@ -54,7 +53,6 @@ I left the Netherlands for New York City to take a job at NYPL Labs—the digita
     caption="Georeferencing a map of Cambridge in [Allmaps](https://editor.allmaps.org/#/)" 
 >}}
 
- 
 Before I started working on Allmaps, I was doing lots of small projects as a freelancer. I worked with different institutions in the Netherlands that had digitized maps, and I always had to start from scratch because every institution worked in a different way. There was never good software or tools that would make working with collections of maps easier. At NYPL, I made this one tool called [Maps by Decade](http://spacetime.nypl.org/maps-by-decade/#/) and wanted to replicate it for the Netherlands, but I couldn’t work with Dutch collections in the same manner when I got back.
  
 At that point I heard about IIIF and started thinking about how to make a tool that could help people find maps of one place that might be spread across many collections. I started Allmaps really out of wanting something to exist that didn’t, so I figured I’d just start making it. Many existing georeferencing projects focus on producing GeoTIFFs (image files with geospatial coordinates) or warped maps only, while I’m much more interested in the metadata. With the metadata, I can use that to make data in a different way, or create an application that does something slightly different but metadata would save me from only being able to access warped tile layers and GeoTIFFs. 
@@ -73,14 +71,20 @@ What I hope is that projects like Allmaps can be a reason for institutions to st
  
 There’s no need to create derivative images on the server. It all works by using URL’s; you can use the Allmaps viewer by using the URL and the same works for the Editor, which makes it really easy to share whether it’s original, georeferenced, warped, etc; you can just take the URL and share it. (in the web render maps of Boston, all the examples of warped maps are coming from the DC servers in Boston, and we’re not lookimgn at GeoTIFFs – just looking at a map image that’s been warped online by control points that are stored at Allmaps)
  
-It’s based on open standards nad all components of Allmaps comunicate by using this open standard, which is the IIIF georeferencer extension. It’s not a closed ecosystem. People can adapt parts of it, create new tools, and use this open standard to create other things. In general it uses modern web technology, and while this may not be modern 5 years from now, it allows us to do things that we couldn’t do 5 years ago.
+It’s based on open standards and all components of Allmaps comunicate by using this open standard, which is the IIIF georeferencer extension. It’s not a closed ecosystem. People can adapt parts of it, create new tools, and use this open standard to create other things. In general it uses modern web technology, and while this may not be modern 5 years from now, it allows us to do things that we couldn’t do 5 years ago.
  
 **IS:** So far, what's been the most exciting thing about developing Allmaps?
+
+{{< figure 
+    class="figure-right"
+    src="/images/blog/allmaps.gif"
+    caption="Demo of new Allmaps viewer that can load many maps of a single place at one time" 
+>}}
  
 **BS:** I’m currently working on a new version of Allmaps Viewer, it can draw hundreds (if not more) maps at the same time.
 
 I'm also hopeful that the georeferencing metadata—the information that can be produced by annotating these maps and linking the annotations to the map's existing metadata—can be prserved in archives, along with the existing digital maps. New tools will probably be developed to search, georeference, and view digizited maps in the coming years, but the georeferencing metadata that can come out of use of Allmaps will still be useful.
  
-**IS:** We'll be posting regular updates about Allmaps in our Map Center newsletters and on the website, but for folks who are excited about your work, what's the best way to stay in touch with you? (e.g., Twitter)
+**IS:** We'll be posting regular updates about Allmaps in our Map Center newsletters and on the website, but for folks who are excited about your work, what's the best way to stay in touch with you?
  
 **BS:** For now, the best way to keep updated about the project is to follow me on [Twitter](https://twitter.com/bertspaan). And at some point, I’ll start publishing blog posts on the homepage of Allmaps and there’ll be a tool to discover collections of maps from different institutions.
