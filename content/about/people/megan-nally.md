@@ -10,4 +10,4 @@ details = "mnally@leventhalmap.org"
 method = "Email"
 
 +++
-Megan Nally is a recent graduate from Wesleyan University and holds a B.A. in Government and Hispanic Literatures & Cultures as well as a certificate in International Relations. She has a strong interest in primary source documentation and local history.
+Megan recently graduated from Wesleyan University ('21) with a B.A. in Government,  Hispanic Literatures & Cultures, and a certificate in International Relations. She has a strong interest in primary source documentation and local history.
