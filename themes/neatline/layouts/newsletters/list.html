@@ -14,7 +14,9 @@
         {{if gt $prev (dateFormat "2006" .Params.newsletter_publication_date)}}
         {{ if ne $prev 3000}}
         {{ end }}
-        <h2>{{ dateFormat "2006" .Params.newsletter_publication_date }}</h2>
+        <div class="cta mb-4">
+          <h2 class="cta-popper col-lg-4">{{ dateFormat "2006" .Params.newsletter_publication_date }}</h2>
+        </div>
         
         {{end}}
         {{ $prev = dateFormat "2006" .Params.newsletter_publication_date}}
