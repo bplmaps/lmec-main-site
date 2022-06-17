@@ -6,6 +6,9 @@ staff_category = "staff"
 title = "Megan Nally"
 type = "person"
 [[contact]]
+details = "617-859-2383"
+method = "Phone"
+[[contact]]
 details = "mnally@leventhalmap.org"
 method = "Email"
 
