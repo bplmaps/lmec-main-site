@@ -18,8 +18,6 @@ tags:
 >
 > Since late 2021, the LMEC has collaborated with [Bert Spaan](https://bertspaan.nl/), a map enthusiast and software engineer based in the Netherlands, to support his development of [Allmaps](https://allmaps.org/), a tool to support georeferencing of digitized historic maps. We sat down with Bert to learn all about Allmaps: where it came from, where it's going, and what's been most exciting along the way.
 
-<!-- {{<glossary-def "georeference" class="glossaryTooltip">}}georeferencing{{</glossary-def>}} -->
-
 **Ian Spangler:** Tell me a little bit about yourself. How did you find yourself doing this kind of work at the intersection of geography, librarianship, and the digital humanities?
 
 **Bert Spaan:** Sometime in studying computer science, I discovered I could combine my interest in maps and cartography with my knowledge of programming. As a kid, was always looking at maps and thinking about faraway places. Computer science became a way for me to make maps while using my love of programming and databases, which I learned to be pretty handy with.
