@@ -1,7 +1,5 @@
 ---
-title: 'All the maps, all the time: an interview with Bert Spaan
-
-  '
+title: 'All the maps, all the time: an interview with Bert Spaan'
 author: Bert Spaan & Ian Spangler
 description: Digitized maps—especially georeferenced ones—can be tough to find,
   hard to access, and difficult to bring to life. With his Allmaps project, Bert Spaan
@@ -21,6 +19,8 @@ draft: true
 >
 > Since late 2021, the LMEC has collaborated with [Bert Spaan](https://bertspaan.nl/), a map enthusiast and software engineer based in the Netherlands, to support his development of [Allmaps](https://allmaps.org/), a tool to support georeferencing of digitized historic maps. We sat down with Bert to learn all about Allmaps: where it came from, where it's going, and what's been most exciting along the way.
 
+<!-- {{<glossary-def "georeference" class="glossaryTooltip">}}georeferencing{{</glossary-def>}} -->
+
 **Ian Spangler:** Tell me a little bit about yourself. How did you find yourself doing this kind of work at the intersection of geography, librarianship, and the digital humanities?
 
 **Bert Spaan:** Sometime in studying computer science, I discovered I could combine my interest in maps and cartography with my knowledge of programming. As a kid, was always looking at maps and thinking about faraway places. Computer science became a way for me to make maps while using my love of programming and databases, which I learned to be pretty handy with.
@@ -33,9 +33,9 @@ src="/images/blog/bert-spaan-blgmap.png"
 caption="[Map](http://code.waag.org/buildings/) of all buildings in the Netherlands, colored by building age" 
 >}}
 
-From there, I ended up working at [Waag](https://waag.org/en), a Dutch non-profit research institute for arts, science and technology. The projects I worked on mostly focused on the ethics of technology and open source data/software. I did get to create [a map](http://code.waag.org/buildings/) of all buildings in the Netherlands, which led to working on many more cartography projects.
+From there, I ended up working at [Waag](https://waag.org/en), a Dutch non-profit research institute for arts, science and technology. The projects I worked on mostly focused on open data and software that made accessing open data easier. When I could, I always tried to sneak in some cartography. For one of the projects, I made [a map](http://code.waag.org/buildings/) of all buildings in the Netherlands, which led to working on many more cartography projects.
 
-One project looked at the history of Dutch place names (because Amsterdam wasn't always referred to as Amsterdam). We ended up turning this into a service called [Histograph](http://histograph.io/) that was used primarily by historians. It was during this whole time that I helped organize the Dutch chapter of [Maptime](https://maptime.io/), which introduced me to the community of people working across the world in open-source geospatial web development.
+Another project looked at the history of Dutch place names (because Amsterdam wasn't always referred to as Amsterdam). We ended up turning this into a service called [Histograph](http://histograph.io/) that was used primarily by historians. It was during this whole time that I helped organize the Dutch chapter of [Maptime](https://maptime.io/), which introduced me to the community of people working across the world in open-source geospatial web development.
 
 I left the Netherlands for New York City to take a job at NYPL Labs—the digital humanities research lab at the New York Public Library—to work in their NYC Space/Time directory, which is a digital atlas of the history of NYC. At the NYPL, I had the chance to work with the Library’s amazing collections of digitized maps and create new tools and websites to make maps easier to find and access, but it only worked for the NYPL and not for other institutions with similar collections. Because of my work at NYPL Labs, I was introduced to the International Image Interoperability Framework (IIIF), which was created to try and make sharing images and metadata from institutional collections more streamlined. That was ultimately what led me to working on Allmaps with my collaborator [Jules Schoonman](https://twitter.com/sammeltassen?lang=en).
 
