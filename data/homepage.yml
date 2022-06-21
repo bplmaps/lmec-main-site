@@ -47,10 +47,6 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Holiday closure
-    text: The BPL and LMEC will be closed this Sunday, June 19th and Monday, June
-      20th in observation of the Juneteenth holiday
-    link: ''
   - badge: On display
     text: '"More or Less in Common: Environment and Justice in the Human Landscape"
       is open now through December '
