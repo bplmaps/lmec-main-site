@@ -20,7 +20,7 @@ tags:
 
 **Ian Spangler:** Tell me a little bit about yourself. How did you find yourself doing this kind of work at the intersection of geography, librarianship, and the digital humanities?
 
-**Bert Spaan:** Sometime in studying computer science, I discovered I could combine my interest in maps and cartography with my knowledge of programming. As a kid, was always looking at maps and thinking about faraway places. Computer science became a way for me to make maps while using my love of programming and databases, which I learned to be pretty handy with.
+**Bert Spaan:** Sometime while studying computer science, I discovered I could combine my interest in maps and cartography with my knowledge of programming. As a kid, was always looking at maps and thinking about faraway places. Computer science became a way for me to make maps while using my love of programming and databases, which I turned out to be pretty handy with.
 
 After graduate school, I worked for a company which made GPS and geolocation devices, a web development company, and then a big Dutch GIS company. None of these jobs were perfect, but they taught me a lot that serves as foundations for the work I've done since.
 
@@ -32,7 +32,7 @@ caption="[Map](http://code.waag.org/buildings/) of all buildings in the Netherla
 
 From there, I ended up working at [Waag](https://waag.org/en), a Dutch non-profit research institute for arts, science and technology. The projects I worked on mostly focused on open data and software that made accessing open data easier. When I could, I always tried to sneak in some cartography. For one of the projects, I made [a map](http://code.waag.org/buildings/) of all buildings in the Netherlands, which led to working on many more cartography projects.
 
-Another project looked at the history of Dutch place names (because Amsterdam wasn't always referred to as Amsterdam). We ended up turning this into a service called [Histograph](http://histograph.io/) that was used primarily by historians. It was during this whole time that I helped organize the Dutch chapter of [Maptime](https://maptime.io/), which introduced me to the community of people working across the world in open-source geospatial web development.
+Another project looked at the history of Dutch place names (because Amsterdam wasn't always referred to as Amsterdam). We ended up turning this into a service called [Histograph](http://histograph.io/) that was used primarily by historians. It was during this period that I helped organize the Dutch chapter of [Maptime](https://maptime.io/), which introduced me to the community of people working across the world in open-source geospatial web development.
 
 I left the Netherlands for New York City to take a job at NYPL Labs—the digital humanities research lab at the New York Public Library—to work in their NYC Space/Time directory, which is a digital atlas of the history of NYC. At the NYPL, I had the chance to work with the Library’s amazing collections of digitized maps and create new tools and websites to make maps easier to find and access, but it only worked for the NYPL and not for other institutions with similar collections. Because of my work at NYPL Labs, I was introduced to the International Image Interoperability Framework (IIIF), which was created to try and make sharing images and metadata from institutional collections more streamlined. That was ultimately what led me to working on Allmaps with my collaborator [Jules Schoonman](https://twitter.com/sammeltassen?lang=en).
 
@@ -52,9 +52,9 @@ At that point I heard about IIIF and started thinking about how to make a tool t
 
 One of the other things I don’t like about many existing tools is that they’re all about history. There are still beautiful maps being made today, and I think it would be great to show people other modern maps besides Google Maps – it doesn’t need to be Google or historical maps, there are others and I’d love to increase access to them. Allmaps is primarily about the metadata and about open data, so that developers can build on top of it without only having access to the imagery.
 
-**IS:** I know that the International Image Interoperability Framework (IIIF) plays a major role in Allmaps' technical stack---could you talk about what it means and why it's important to use IIIF and some of the other components that comprise Allmaps?
+**IS:** I know that the [International Image Interoperability Framework (IIIF)](https://iiif.io) plays a major role in Allmaps' technical stack---could you talk about what it means and why it's important to use IIIF and some of the other components that comprise Allmaps?
 
-**BS:** Before IIIF, every institution used a different technology to access their digitized collections (if it was possible at all). Creating cross-institutional tools that worked with digitized images was very difficult - a lot of the work had to be put into first accessing the images. IIIF makes this part of Allmaps very easy by standardizing how to access images and also standardizing the accessing metadata and creating collections of images.
+**BS:** Before IIIF, every institution used a different technology to access their digitized collections (if it was possible at all). Creating cross-institutional tools that worked with digitized images was very difficult---a lot of the work had to be put into first accessing the images. IIIF makes this part of Allmaps very easy by standardizing how to access images and also standardizing accessing the metadata and creating collections of images.
 
 What I hope is that projects like Allmaps can be a reason for institutions to start a IIIF server. There’s lots of other great examples of [tools being built with IIIF](https://github.com/IIIF/awesome-iiif), so maybe this project can help inspire increased use of IIIF. 
 
