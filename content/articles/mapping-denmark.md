@@ -1,5 +1,5 @@
 ---
-date: 2022-06-24T05:00:52-05:00
+date: 2022-07-01T05:00:52-05:00
 title: 'A cartographic trip to Denmark'
 description: In celebration of Alan Leventhal's appointment as US Ambassador to Denmark, we take a look at some Danish connections in our collections
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cb25h/512,424,6080,2811/,1200/0/default.jpg
