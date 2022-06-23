@@ -17,7 +17,7 @@ tags:
 
 Here at the Map Center, we're thrilled to welcome two new archival collections which help narrate the history of computer cartography: the **[Applied Geographics, Inc. Records](https://www.leventhalmap.org/collections/archival-collections/)** and the **David J. Weaver Collection**.
 
-Donated by David Weaver, [founder and former president of Applied Geographics (AppGeo)](https://www.appgeo.com/tribute-to-a-benevolent-founder/), these collections encompass hundreds of cartographic objects including maps, data creation tools, software manuals, and more. See below for some photos taken during our time processing the archival collections. 
+Donated by David Weaver, [co-founder and former Vice President of Applied Geographics (AppGeo)](https://www.appgeo.com/tribute-to-a-benevolent-founder/), these collections encompass hundreds of cartographic objects including maps, data creation tools, software manuals, and more. See below for some photos taken during our time processing the archival collections. 
 
 {{< carousel >}}
 
