@@ -17,6 +17,10 @@ aliases:
 
 {{< staff-list staff_category="fellow" >}}
 
+## Interns 
+
+{{< staff-list staff_category="intern" >}}
+
 ## Boards
 
 ### Board of Directors
