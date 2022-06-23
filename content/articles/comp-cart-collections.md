@@ -3,7 +3,7 @@ title: Growing our collections in the history of computer cartography
 author: Ian Spangler
 description: At the Map Center, exciting donations have motivated a new collections interest
 date: 2022-06-22T01:30:00.000+00:00
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/767,440,14004,6047/full/0/default.jpg
+image: images/blog/gis5-crop.png
 backgroundImage: images/blog/gis5-crop.png
 tags:
 - GIS
