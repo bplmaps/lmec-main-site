@@ -1,10 +1,11 @@
 ---
-date: 2022-06-21T10:31:38.000-04:00
+date: 2022-06-27T10:31:38.000-04:00
 title: Interview with Kyler
 description: 'Welcome to LMEC summer intern Kyler Hoogendoorn-Ecker!'
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250b888/2291,3151,6519,1974/full/0/default.jpg
 author: Kyler Hoogendoorn-Ecker & Ian Spangler
-tags: []
+tags: 
+ - interview
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250b888/2291,3151,6519,1974/full/0/default.jpg
 draft: true
 
