@@ -1,5 +1,5 @@
 ---
-date: 2022-06-24T05:00:52-05:00
+date: 2022-07-02T05:00:52-05:00
 title: 'A cartographic trip to Denmark'
 description: In celebration of Alan Leventhal's appointment as US Ambassador to Denmark, we take a look at some Danish connections in our collections
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cb25h/512,424,6080,2811/,1200/0/default.jpg
@@ -8,9 +8,20 @@ tags:
 - Denmark
 - Copenhagen
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cb25h/512,424,6080,2811/,1200/0/default.jpg
+draft: true
 ---
 
 Alan Leventhal—the son of our founder Norman B. Leventhal, a long-time supporter of our work, and the Chair of our Board of Directors from 2020 to 2022—was recently [sworn in as the U.S. Ambassador to Denmark](https://www.majorityleader.gov/content/hoyer-statement-senate-confirmation-alan-leventhal-ambassador-denmark). To celebrate Alan’s new role, let's take a tour of maps and materials about Denmark from the Leventhal Center and BPL collections. 
+
+
+### Ptolemaic Scandinavia
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14b059b/full/,1200/0/default.jpg" >}}
+
+This circa 1482 plate from a Ptolemaic atlas is one of the oldest maps in our collections showing what we now call Denmark. It's labeled here with "Dacia" on the Jutland peninsula—an [provincial term to refer to what later became both Denmark and Sweden](https://www.jggj.dk/Dacia.htm)—and "Selandia" on the island of Zealand, where Copenhagen sits. This map also shows Iceland in the upper left hand corner, which came under Danish rule at the beginning of the sixteenth century and remained a territory of Denmark until the middle twentieth century.
+
+<a href="https://collections.leventhalmap.org/search/commonwealth:7h14b0582" class="btn btn-primary-outline">See this map in our collections portal</a>
+
 
 ### Copenhagen under siege
 
@@ -34,7 +45,7 @@ This caricature map of Denmark appeared in Lilian Lancaster and William Harvey�
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cb25h/full/,1200/0/default.jpg" >}}
 
-While the titular topic of this 1870 map is “Berlin and its defenses,” this unique bird’s eye perspective gives an excellent window into the geographic relationship between Denmark, Germany, and the Scandinavian countries. With its complicated structure of peninsulas and islands dividing the North Sea from the Baltic Sea, Denmark has always been played a key role in the geopolitics of northern Europe. Maritime traffic from important cities like St. Petersburg, Gdańsk, and Lübeck must pass through one of three passages: the Øresund near Copenhagen (labeled here as “The Sound”), the Great Belt separating the island of Zealand from Funen, or the Little Belt separating Funen from the Jutland peninsula. During the climatological period known as the [Little Ice Age](https://en.wikipedia.org/wiki/Little_Ice_Age), the Swedish army was able to [cross the Little Belt when it froze in 1658](https://www.jstor.org/stable/26219050?seq=1), setting up the siege described in the first map and offering an early example of how the global climate system can impact political conflicts.
+While the titular topic of this 1870 map is “Berlin and its defenses,” this unique bird’s eye perspective gives an excellent window into the geographic relationship between Denmark, Germany, and the Scandinavian countries. With its complicated structure of peninsulas and islands dividing the North Sea from the Baltic Sea, Denmark has always played a key role in the geopolitics of northern Europe. Maritime traffic from important cities like St. Petersburg, Gdańsk, and Lübeck must pass through one of three passages: the Øresund near Copenhagen (labeled here as “The Sound”), the Great Belt separating the island of Zealand from Funen, or the Little Belt separating Funen from the Jutland peninsula. During the climatological period known as the [Little Ice Age](https://en.wikipedia.org/wiki/Little_Ice_Age), the Swedish army was able to [cross the Little Belt when it froze in 1658](https://www.jstor.org/stable/26219050?seq=1), setting up the siege described in the first map and offering an early example of how the global climate system can impact political conflicts.
 
 <a href="https://collections.leventhalmap.org/search/commonwealth:x059cb247" class="btn btn-primary-outline">See this map in our collections portal</a>
 
