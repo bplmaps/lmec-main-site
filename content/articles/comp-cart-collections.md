@@ -45,4 +45,4 @@ Since dedicated collections of maps produced during the early days of computer c
 * **Methodological changes in spatial analysis**. *How did computer cartography and geographic information systems (GIS) transform the kinds of questions we could ask (and answer) with maps? To what extent did this change the relationship between the map, the mapmaker, and the audience?*
 * **Early technical workflows or data creation techniques**. *What novel data creation techniques did advances in computation allow? How was this data analyzed in the form of maps?*
 
-In short: we're interested in maps that bring the process of early computer cartography to life. If you're interested in learning more about this initiative---or if you think you have some maps that fit the above criteria---don't hesitate to [reach out to us](https://www.leventhalmap.org/research/geospatial/).
+In short: we're interested in maps that bring the process of early computer cartography to life. If you want to learn more about this initiative---or if you think you have some maps that fit the above criteria---don't hesitate to [reach out to us](https://www.leventhalmap.org/research/geospatial/).
