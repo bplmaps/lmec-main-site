@@ -42,7 +42,7 @@ While the collections have a special focus on maps made by AppGeo, many other au
 Since dedicated collections of maps produced during the early days of computer cartography still remain rare, we're eager to collect maps---especially ones created between 1960 and 2000---that reflect:
 
 * **Changes in cartographic practice**. *How did advances in computation affect the look of maps? What conventions and standards were introduced (or erased) as the mapmaking process was increasingly computerized?*
-* **Changes methods in spatial analysis**. *How did computer cartography and geographic information systems (GIS) transform the kinds of questions we could ask (and answer) with maps? To what extent did this change the relationship between the map, the mapmaker, and the audience?*
+* **Methodological changes in spatial analysis**. *How did computer cartography and geographic information systems (GIS) transform the kinds of questions we could ask (and answer) with maps? To what extent did this change the relationship between the map, the mapmaker, and the audience?*
 * **Early technical workflows or data creation techniques**. *What novel data creation techniques did advances in computation allow? How was this data analyzed in the form of maps?*
 
 In short: we're interested in maps that bring the process of early computer cartography to life. If you're interested in learning more about this initiative---or if you think you have some maps that fit the above criteria---don't hesitate to [reach out to us](https://www.leventhalmap.org/research/geospatial/).
