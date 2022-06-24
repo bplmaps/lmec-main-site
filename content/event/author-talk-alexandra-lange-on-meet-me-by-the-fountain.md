@@ -14,6 +14,8 @@ draft: true
 ---
 ### About this event 
 
+Meet me by the fountain...or the arcade...or the foot court 
+
 Join us for a talk with design critic Alexandra Lange on her latest book, [_Meet Me by the Fountain: An Inside History of the Mall_](https://www.bloomsbury.com/us/meet-me-by-the-fountain-9781635576023/). 
 
 For this book talk, Alexandra will be joined by [Sara Jensen Carr](https://camd.northeastern.edu/faculty/sara-jensen-carr/), Assistant Professor of Architecture and the Program Director for the [Master of Design in Sustainable Urban Environments at Northeastern University](https://camd.northeastern.edu/program/design-for-sustainable-urban-environments-mdes-suen/). Professor Carr teaches courses in architecture and landscape visualization, research methods, public engagement, resilient design, and seminars on built environment and health.
