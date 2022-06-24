@@ -1,5 +1,5 @@
 ---
-date: 2022-06-27T10:31:38.000-04:00
+date: 2022-06-27T08:00:38.000-04:00
 title: An interview with Kyler Hoogendorn-Ecker
 description: 'Welcome to our new summer intern and Seevak Fellow!'
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250b888/2291,3151,6519,1974/full/0/default.jpg
@@ -7,11 +7,11 @@ author: Kyler Hoogendoorn-Ecker & Ian Spangler
 tags: 
  - welcome interview
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250b888/2291,3151,6519,1974/full/0/default.jpg
-draft: true
+draft: false
 
 ---
 
-> We sat down with [Kyler Hoogendorn-Ecker](https://www.leventhalmap.org/about/people/kyler-hoogendoorn-ecker/), a rising senior at the Boston Latin School's [Seevak Fellowship program](https://www.learntoquestion.com/seevak-human-rights-social-justice) who is joining us as an LMEC intern for the summer. In addition to learning about our collections and services, Kyler will lend a hand to various LMEC projects at the intersection of historical geography, modern mapping tools, and public programs.
+> We sat down with [Kyler Hoogendorn-Ecker](https://www.leventhalmap.org/about/people/kyler-hoogendoorn-ecker/), a rising senior and [Seevak Fellow](https://www.learntoquestion.com/seevak-human-rights-social-justice) at the Boston Latin School, to reflect on his first week as an LMEC summer intern. In addition to learning about our collections and services, Kyler will lend a hand to various LMEC projects at the intersection of historical geography, modern mapping tools, and public programs. Read on to learn about his interests in geography, creative writing, and more!
 
 {{< figure src="/images/headshots/kyler-h-e.jpg" class="figure-left" >}}
 
