@@ -14,12 +14,6 @@ draft: true
 ---
 ### About this event 
 
-Sit down with [Alexandra Lange](https://www.alexandralange.net/) and [Sara Jensen Carr](https://camd.northeastern.edu/faculty/sara-jensen-carr/) for a conversation on Lange's latest book project, [_Meet Me by the Fountain: An Inside History of the Mall_](https://www.bloomsbury.com/us/meet-me-by-the-fountain-9781635576023/). 
-
-Lange’s new book considers the [rise, fall, and dicey future](https://www.nytimes.com/2022/06/15/books/review-meet-me-by-fountain-mall-history-alexandra-lange.html) of an iconic American institution: the shopping mall. 
-
-An iconic American institution, shopping malls are an "[ambiguous blend of public and private space — open to all in theory but inaccessible to many in practice](https://www.nytimes.com/2022/06/15/books/review-meet-me-by-fountain-mall-history-alexandra-lange.html)." They offer 
-
 This talk is free, open to the public, and will be held in person at the [Central Library in Copley Square](https://www.bpl.org/locations/3/). 
 
 #### About our speakers
