@@ -18,6 +18,8 @@ draft: true
 
 ### About this event
 
+{{< figure src="/uploads/2022-06-24/9781635576030.jpeg" caption="" class="figure-right" >}}
+
 Sit down with [Alexandra Lange](https://www.alexandralange.net/) and [Sara Jensen Carr](https://camd.northeastern.edu/faculty/sara-jensen-carr/) for a conversation on Lange's latest book project, _Meet Me by the Fountain: An Inside History of the Mall_. This talk is **free, open to the public**, and will be held in person at the [Central Library in Copley Square](https://www.bpl.org/locations/3/).
 
 **Alexandra Lange** is an architecture and design critic based in Brooklyn. Her essays, reviews and profiles have appeared in numerous design publications including _Architect_, _Harvard Design Magazine_, _Metropolis_, and _T Magazine_, as well as in _The Atlantic_, _New York Magazine_, _The New Yorker_, and the _New York Times_. She is a columnist for _Bloomberg CityLab_, and has been a featured writer at _Design Observer_, an opinion columnist at _Dezeen_, and the architecture critic for _Curbed_.
