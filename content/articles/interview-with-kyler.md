@@ -21,7 +21,7 @@ I'm Kyler Hoogendoorn-Ecker, and I'm a rising senior at the Boston Latin School.
 
 **Have you had any experiences that has made you particularly curious about maps and geography?**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250697d/full/full/0/default.jpg" class="figure-right" caption="[Plan de la ville d'Amsterdam](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250697d/full/full/0/default.jpg) from the LMEC collections">}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250697d/full/full/0/default.jpg" class="figure-right" caption="[Plan de la ville d'Amsterdam](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250697d/full/full/0/default.jpg), a map of the Netherlands from LMEC collections">}}
 
 
 One thing that made me especially curious about geography was competing on the [WGBH show _High School Quiz Show_](https://www.wgbh.org/high-school-quiz-show), because in studying for it I spent a lot of time memorizing geographical trivia: capitals, mountains, rivers, national parks, you name it. Often, however, I found it hard to focus on the things I was trying to study, because I would spend so much time reading deeper into the geographical or historical information and get sidetracked. That experience definitely gave me a stronger interest in maps and geography and gave me a desire to learn more about the world.
