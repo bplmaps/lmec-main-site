@@ -26,4 +26,4 @@ Sit down with [Alexandra Lange](https://www.alexandralange.net/) and [Sara Jense
 
 **Sara Jensen Carr** is an Assistant Professor of Architecture and the Program Director for the Master of [Design in Sustainable Urban Environments](https://camd.northeastern.edu/program/design-for-sustainable-urban-environments-mdes-suen/) at Northeastern University. Professor Carr teaches courses in architecture and landscape visualization, research methods, public engagement, resilient design, and seminars on built environment and health. Her work and research on the connections between urban landscape, human health, and social equity has been recognized by the Graham Foundation, Mellon Foundation, and the J.M. Kaplan Fund as well as published in Preventive Medicine, LA+ Journal, and Journal of Architectural Education, among others. 
 
-{{< figure src="/uploads/2022-06-24/sarajensencarr1400_002-1-590x886.webp" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2022-06-24/sarajensencarr1400_002-1-590x886-copy.jpg" caption="" class="figure-right" >}}
