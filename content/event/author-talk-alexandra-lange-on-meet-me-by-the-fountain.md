@@ -16,9 +16,7 @@ draft: true
 
 "Few places have been as nostalgized, or as maligned, as malls. Since their birth in the 1950s, they have loomed large as temples of commerce, the agora of the suburbs. In their prime, they proved a powerful draw for creative thinkers such as Joan Didion, Ray Bradbury, and George Romero, who understood the mall's appeal as both critics and consumers. Yet today, amid the aftershocks of financial crises and a global pandemic, as well as the rise of online retail, the dystopian husk of an abandoned shopping center has become one of our era's defining images. Conventional wisdom holds that the mall is dead. But what was the mall, really? And have rumors of its demise been greatly exaggerated?" –– Bloomsbury Publishing, on [_Meet Me by the Fountain: An Inside History of the Mall_](https://www.bloomsbury.com/us/meet-me-by-the-fountain-9781635576023/).
 
-Sit down with [Alexandra Lange](https://www.alexandralange.net/) and [Sara Jensen Carr](https://camd.northeastern.edu/faculty/sara-jensen-carr/) for a conversation on Lange's latest book project, [_Meet Me by the Fountain: An Inside History of the Mall_](https://www.bloomsbury.com/us/meet-me-by-the-fountain-9781635576023/).
-
-This talk is free, open to the public, and will be held in person at the [Central Library in Copley Square](https://www.bpl.org/locations/3/). 
+Sit down with [Alexandra Lange](https://www.alexandralange.net/) and [Sara Jensen Carr](https://camd.northeastern.edu/faculty/sara-jensen-carr/) for a conversation on Lange's latest book project, _Meet Me by the Fountain: An Inside History of the Mall_. This talk is free, open to the public, and will be held in person at the [Central Library in Copley Square](https://www.bpl.org/locations/3/). 
 
 #### About our speakers
 
