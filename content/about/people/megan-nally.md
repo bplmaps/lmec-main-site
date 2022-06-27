@@ -13,4 +13,4 @@ details = "mnally@leventhalmap.org"
 method = "Email"
 
 +++
-Megan (she/her) is the Map Center's Public Engagement Coordinator. She recently graduated from Wesleyan University ('21) with a B.A. in Government, Hispanic Literatures & Cultures, and a certificate in International Relations. Her interests range from urban sociology to collections research and beyond!
+Megan (_she/her)_ is the Map Center's Public Engagement Coordinator. She recently graduated from Wesleyan University ('21) with a B.A. in Government, Hispanic Literatures & Cultures, and a certificate in International Relations. Her interests range from urban sociology to collections research and beyond!
