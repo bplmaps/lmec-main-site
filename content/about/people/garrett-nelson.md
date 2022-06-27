@@ -16,4 +16,4 @@ contact:
 menu: false
 
 ---
-Garrett Dash Nelson is a historical geographer whose work focuses on the relationship between community structure, geographic units, and political ideology. He holds an AB from Harvard College in Social Studies and Visual & Environmental Studies, an MA from the University of Nottingham in Landscape & Culture, and a PhD from the University of Wisconsin-Madison in Geography.
+Garrett Dash Nelson (he/him) is a historical geographer whose work focuses on the relationship between community structure, geographic units, and political ideology. He holds an AB from Harvard College in Social Studies and Visual & Environmental Studies, an MA from the University of Nottingham in Landscape & Culture, and a PhD from the University of Wisconsin-Madison in Geography.
