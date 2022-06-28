@@ -1,17 +1,15 @@
 ---
 date: 2022-06-27T08:00:38.000-04:00
-title: An interview with Kyler Hoogendorn-Ecker
-description: 'Welcome to our new summer intern and Seevak Fellow!'
+title: An interview with Kyler Hoogendoorn-Ecker
+description: Welcome to our new summer intern and Seevak Fellow!
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250b888/2291,3151,6519,1974/full/0/default.jpg
 author: Kyler Hoogendoorn-Ecker & Ian Spangler
-tags: 
- - welcome interview
+tags:
+- welcome interview
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250b888/2291,3151,6519,1974/full/0/default.jpg
-draft: false
 
 ---
-
-> We sat down with [Kyler Hoogendorn-Ecker](https://www.leventhalmap.org/about/people/kyler-hoogendoorn-ecker/), a rising senior and [Seevak Fellow](https://www.learntoquestion.com/seevak-human-rights-social-justice) at the Boston Latin School, to reflect on his first week as an LMEC summer intern. In addition to learning about our collections and services, Kyler will lend a hand to various LMEC projects at the intersection of historical geography, modern mapping tools, and public programs. Read on to learn about his interests in geography, creative writing, and more!
+> We sat down with [Kyler Hoogendoorn-Ecker](https://www.leventhalmap.org/about/people/kyler-hoogendoorn-ecker/), a rising senior and [Seevak Fellow](https://www.learntoquestion.com/seevak-human-rights-social-justice) at the Boston Latin School, to reflect on his first week as an LMEC summer intern. In addition to learning about our collections and services, Kyler will lend a hand to various LMEC projects at the intersection of historical geography, modern mapping tools, and public programs. Read on to learn about his interests in geography, creative writing, and more!
 
 {{< figure src="/images/headshots/kyler-h-e.jpg" class="figure-left" >}}
 
@@ -23,7 +21,6 @@ I'm Kyler Hoogendoorn-Ecker, and I'm a rising senior at the Boston Latin School.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250697d/full/full/0/default.jpg" class="figure-right" caption="[Plan de la ville d'Amsterdam](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250697d/full/full/0/default.jpg), a map of the Netherlands from LMEC collections">}}
 
-
 One thing that made me especially curious about geography was competing on the [WGBH show _High School Quiz Show_](https://www.wgbh.org/high-school-quiz-show), because in studying for it I spent a lot of time memorizing geographical trivia: capitals, mountains, rivers, national parks, you name it. Often, however, I found it hard to focus on the things I was trying to study, because I would spend so much time reading deeper into the geographical or historical information and get sidetracked. That experience definitely gave me a stronger interest in maps and geography and gave me a desire to learn more about the world.
 
 An experience that made me more curious about _local_ geography was working with the [Massachusetts Coalition for Occupational Safety and Health](http://www.masscosh.org/) to discuss and spread awareness about environmental injustice in Boston. I found it especially impactful to visually see the distribution of heat islands, green space, and industry in the city and how it corresponds with the locations of marginalized communities, especially communities of color. This work makes me especially enjoy [_More or Less in Common_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/) and really showed me how deeply entwined geography is with issues of justice, equity, and human rights.
@@ -34,10 +31,10 @@ I love to venture out into the parks of Boston with no specific plan in mind and
 
 **Do you have a favorite map in the LMEC collections?**
 
-There's so many fascinating ones and it's so hard to choose, but one of my favorite ones so far is a Latin map of Central Africa by Willem Blaeu entitled ["Aethiopia Superior vel Interior; Vulgo Abissinorum sive Presbiteri Ioannis Imperium"](https://collections.leventhalmap.org/search/commonwealth:cj82kx509) (which translates to *"Upper or Inner Ethiopia \[that is, Africa\]; Commonly (known as) the Empire of the Abyssinians or of Prester John"*). 
+There's so many fascinating ones and it's so hard to choose, but one of my favorite ones so far is a Latin map of Central Africa by Willem Blaeu entitled ["Aethiopia Superior vel Interior; Vulgo Abissinorum sive Presbiteri Ioannis Imperium"](https://collections.leventhalmap.org/search/commonwealth:cj82kx509) (which translates to _"Upper or Inner Ethiopia \[that is, Africa\]; Commonly (known as) the Empire of the Abyssinians or of Prester John"_).
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx51k/full/1200,/0/default.jpg" caption="Willem Janszoon Blaeu. [Aethiopia superior vel interior](https://collections.leventhalmap.org/search/commonwealth:3f463279b). 1634." class="figure-center" >}}
 
-It's full of intriguing notes, for example, {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx51k/2479,4400,871,444/1200,/0/default.jpg" class="popupTooltip" target="blank">}}"...Sirens [mythical nymphs thought to lure sailors to their deaths] are said to be in this lake"{{</popup>}}, and because of my experience with Latin, it's all the more fun to decode them. It also shows just how profoundly ignorant 17th-century Europeans were of the interior regions of Africa and the myths and stories they developed about them. While I'm also very interested in map work a little more close to home in time and space, I enjoy seeing how my interests and knowledge can intersect like this. This map is only one example of the thousands of incredible pieces at the Leventhal Center and I'm looking forward to being able to delve deeper into them.
+It's full of intriguing notes, for example, {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx51k/2479,4400,871,444/1200,/0/default.jpg" class="popupTooltip" target="blank">}}"...Sirens \[mythical nymphs thought to lure sailors to their deaths\] are said to be in this lake"{{</popup>}}, and because of my experience with Latin, it's all the more fun to decode them. It also shows just how profoundly ignorant 17th-century Europeans were of the interior regions of Africa and the myths and stories they developed about them. While I'm also very interested in map work a little more close to home in time and space, I enjoy seeing how my interests and knowledge can intersect like this. This map is only one example of the thousands of incredible pieces at the Leventhal Center and I'm looking forward to being able to delve deeper into them.
 
 **What kinds of longer term plans do you think your upcoming work at the Map Center might help you prepare for?**
 
