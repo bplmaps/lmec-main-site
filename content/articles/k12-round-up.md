@@ -1,0 +1,25 @@
+---
+date: 2022-06-30T09:34:20-04:00
+title: 'K12 Round Up '
+description: 'This past year, the Map Center K-12 Education Team worked directly with
+  33 schools. '
+image: "/uploads/2022-06-30/school.jpeg"
+author: Lynn Brown
+tags:
+- education
+- k12
+backgroundImage: "/uploads/2022-06-30/school.jpeg"
+draft: true
+
+---
+The Map Center’s [K-12 education](https://www.leventhalmap.org/education/k12/) department often revisits our core programs to make them more relevant and engaging, as well as developing new initiatives to bring cartographic literacy to students as they wrestle with the challenges presented by the past, present and future. One important way we work is to collaborate with educators to integrate geographic materials and approaches into the curriculum they design for their classes.
+
+This past school year we worked directly with 33 schools. Some programs were held remotely and some in person in schools or here at the Map Center. Among these, five partner teachers from Boston Public Schools incorporated Map Center resources into Boston-based units of study that resulted in interesting student projects.
+
+At the [Haley Pilot School](https://www.haleypilotschool.org/) in Roslindale, middle school students explored different aspects of Mayor Wu’s “Planning for a Boston Green New Deal & Just Recovery.” In groups, students researched the plan’s proposals for an urban climate corps, transportation justice, food justice, the urban tree canopy, and renewable energy. As part of the research process, the Map Center presented a lesson in which students practiced their map interpretation and evaluation skills while investigating two maps related to their topics, looking for useful information and thinking about how one map relates to the next. At the conclusion of their study, student groups created short magazines to inform readers about their subjects, including maps from our lesson and those they discovered in other resources.
+
+Also this past year, Lilla G. Frederick Pilot Middle School teachers partnered with the [Boston Preservation Alliance](https://www.bostonpreservation.org/) for a class project in which students visited neighborhood businesses—Merengue Dominican restaurant, Kim’s Flower Shop, Vietnamese restaurant Phở Hòa, and Humphreys Street Studios. Students heard from small business owners and artists and wrote “tiny stories” featuring these Dorchester landmarks. As part of the project, the Leventhal Map & Education Center team taught students how to use our digital historical atlas tool [Atlascope](https://atlascope.leventhalmap.org/) to explore the history of their locations. Students considered how our city has changed over time and learned how to make sense of historical maps. The final result is a set of cards (available from the Alliance) that encourages readers to visit local businesses and to recognize their value in keeping communities together. Details from Atlascope show up in the cards as part of Dorchester’s small business story, and you can hear more about the project from the students themselves in [this short video](https://youtu.be/Ak0nDQpNOe0).
+
+Seniors at the Margarita Muñiz Academy, Boston’s only two-way Spanish-English high school, spent the last part of their school year reflecting on the importance of nature in their lives, spending part of their weeks at [Hale Education’s Intrepid Academy](https://hale1918.org/climb-the-mountain/intrepid/). For their final projects, Director of Education Michelle LeBlanc introduced students to Esri StoryMaps, a presentation platform that makes integrating GIS maps into a digital narrative easy to do. The Map Center K-12 team has had a long-term relationship with the Muñiz Academy, from teaching weeks-long mini classes to showing students how to map data sets using ArcGIS Online to leading workshop sessions on how to find and evaluate digitally-produced data maps. Among this year’s final projects, students’ StoryMaps address u[rban wildlife,](https://storymaps.arcgis.com/stories/8ae11cd46d4c4f46800535b8b8954063) [biophilic design](https://storymaps.arcgis.com/stories/401a49f186314773940b535f93af3fa3), the benefits of [curanderismo,](https://storymaps.arcgis.com/stories/ef285da78b4c46669aa4a1ac6eb0087c) and [integrating nature in prison rehabilitation programs.](https://storymaps.arcgis.com/stories/d07f711435f547f4a797fa0f863c896a)
+
+As the 2021-2022 school year wraps up, we want to recognize the creative and enriching curriculum being developed in the Boston Public Schools. Our partner teachers are committed to their students learning important skills while creating projects that matter to our city, preparing them for roles of active citizenship. We are honored to be part of the process as young people consider how to imagine the world, its challenges and gifts, through a geographic lens.
