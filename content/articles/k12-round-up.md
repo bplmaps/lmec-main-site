@@ -22,6 +22,17 @@ At the [Haley Pilot School](https://www.haleypilotschool.org/) in Roslindale, mi
 
 {{< figure src="/uploads/2022-06-30/haley1.jpeg" caption="" class="figure-right" >}}
 
+{{< carousel >}}
+{{< carousel-figure src="/uploads/2022-06-30/screen-shot-2022-06-30-at-9-59-10-am.png" >}}{{< /carousel-figure >}}
+
+    {{< carousel-figure src="/uploads/2022-06-30/screen-shot-2022-06-30-at-9-59-48-am.png" >}}{{< /carousel-figure >}}
+    
+    {{< carousel-figure src="images/carousels/at_gallery09.jpg" >}}{{< /carousel-figure >}}
+    
+    {{< carousel-figure src="images/carousels/DSC_0018s.jpg" >}}{{< /carousel-figure >}}
+
+{{< /carousel >}}
+
 ### Tour your Boston
 
 Also this past year, [Lilla G. Frederick Pilot Middle School](https://www.bostonpublicschools.org/frederick) teachers partnered with the [Boston Preservation Alliance](https://www.bostonpreservation.org/) for a class project in which students visited neighborhood businesses—[Merengue Dominican restaurant](http://merenguerestaurant.com/), [Kim’s Flower Shop](https://kimflowershop.com/), Vietnamese restaurant [Phở Hòa](https://www.phohoarestaurant.com/), and [Humphreys Street Studios](https://www.humphreysstreetstudio.com/). Students heard from small business owners and artists and wrote “tiny stories” featuring these Dorchester landmarks. As part of the project, the Leventhal Map & Education Center team taught students how to use our digital historical atlas tool [Atlascope](https://atlascope.leventhalmap.org/) to explore the history of their locations. Students considered how our city has changed over time and learned how to make sense of historical maps. The final result is a set of cards (available from the Alliance) that encourages readers to visit local businesses and to recognize their value in keeping communities together. Details from Atlascope show up in the cards as part of Dorchester’s small business story, and you can hear more about the project from the students themselves in [this short video](https://youtu.be/Ak0nDQpNOe0).
