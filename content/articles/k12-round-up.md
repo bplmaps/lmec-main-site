@@ -1,6 +1,6 @@
 ---
 date: 2022-07-05T09:00:20-04:00
-title: School's out
+title: '2021-2022 School Projects: From Classroom to Community'
 description: 'The 2021-2022 school year has come to a close. Our K-12 Education Team,
   partner schools, educators, and students sure were busy! '
 image: "/uploads/2022-06-30/school.jpeg"
