@@ -1,8 +1,7 @@
 ---
 date: 2022-06-30T09:34:20-04:00
 title: 'K12 Round Up '
-description: 'This past year, the Map Center K-12 Education Team worked directly with
-  33 schools. '
+description: 'The 2021-2022 school year has come to a close. '
 image: "/uploads/2022-06-30/school.jpeg"
 author: Lynn Brown
 tags:
