@@ -1,6 +1,6 @@
 ---
 date: 2022-07-05T09:00:20-04:00
-title: '2021-2022 Cartographic School Projects '
+title: '2021-2022 School Projects '
 description: 'The 2021-2022 school year has come to a close, and our K-12 Education
   Team sure was busy! '
 image: "/uploads/2022-06-30/school.jpeg"
