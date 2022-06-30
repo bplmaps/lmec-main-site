@@ -1,6 +1,6 @@
 ---
 date: 2022-07-05T09:00:20-04:00
-title: 'K12 Round Up '
+title: '2021-2022 Cartographic School Projects '
 description: 'The 2021-2022 school year has come to a close, and our K-12 Education
   Team sure was busy! '
 image: "/uploads/2022-06-30/school.jpeg"
@@ -14,7 +14,7 @@ draft: true
 ---
 The Map Center’s [K-12 education](https://www.leventhalmap.org/education/k12/) department often revisits our core programs to make them more relevant and engaging, as well as develops new initiatives to bring cartographic literacy to students as they wrestle with the challenges presented by the past, present, and future. One important way we work is to collaborate with educators to integrate geographic materials and approaches into the curriculum they design for their classes.
 
-This past school year, we worked directly with 33 schools. Some programs were held remotely while others were held at schools or here at the Map Center. Among these, five partner teachers from Boston Public Schools incorporated Map Center resources into Boston-based units of study that resulted in interesting student projects.
+This past school year, we worked directly with 33 schools. Some programs were held remotely while others were held at schools or here at the Map Center. Among these, five partner teachers from Boston Public Schools incorporated Map Center resources into Boston-based units of study that resulted in interesting student projects. 
 
 ### Mapping proposals for the future 
 
