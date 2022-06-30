@@ -12,9 +12,9 @@ backgroundImage: "/uploads/2022-06-30/school.jpeg"
 draft: true
 
 ---
-The Map Center’s [K-12 education](https://www.leventhalmap.org/education/k12/) department often revisits our core programs to make them more relevant and engaging, as well as developing new initiatives to bring cartographic literacy to students as they wrestle with the challenges presented by the past, present and future. One important way we work is to collaborate with educators to integrate geographic materials and approaches into the curriculum they design for their classes.
+The Map Center’s [K-12 education](https://www.leventhalmap.org/education/k12/) department often revisits our core programs to make them more relevant and engaging, as well as develops new initiatives to bring cartographic literacy to students as they wrestle with the challenges presented by the past, present, and future. One important way we work is to collaborate with educators to integrate geographic materials and approaches into the curriculum they design for their classes.
 
-This past school year, we worked directly with 33 schools. Some programs were held remotely and some in person in schools or here at the Map Center. Among these, five partner teachers from Boston Public Schools incorporated Map Center resources into Boston-based units of study that resulted in interesting student projects.
+This past school year, we worked directly with 33 schools. Some programs were held remotely while others were held at schools or here at the Map Center. Among these, five partner teachers from Boston Public Schools incorporated Map Center resources into Boston-based units of study that resulted in interesting student projects.
 
 ### Mapping proposals for the future 
 
