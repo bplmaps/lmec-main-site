@@ -39,7 +39,7 @@ Details from Atlascope show up in the cards as part of Dorchester’s small busi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ak0nDQpNOe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 
+### StoryMaps by students
 
 Seniors at the [Margarita Muñiz Academy](https://munizacademy.org/), Boston’s only two-way Spanish-English high school, spent the last part of their school year reflecting on the importance of nature in their lives, spending part of their weeks at [Hale Education’s Intrepid Academy](https://hale1918.org/climb-the-mountain/intrepid/). For their final projects, Director of Education Michelle LeBlanc introduced students to Esri StoryMaps, a presentation platform that makes integrating GIS maps into a digital narrative easy to do. The Map Center K-12 team has had a long-term relationship with the Muñiz Academy, from teaching weeks-long mini classes to showing students how to map data sets using ArcGIS Online to leading workshop sessions on how to find and evaluate digitally-produced data maps. Among this year’s final projects, students’ StoryMaps address [u](https://storymaps.arcgis.com/stories/8ae11cd46d4c4f46800535b8b8954063)[rban wildlife,](https://storymaps.arcgis.com/stories/8ae11cd46d4c4f46800535b8b8954063) [biophilic design](https://storymaps.arcgis.com/stories/401a49f186314773940b535f93af3fa3), the benefits of [curanderismo,](https://storymaps.arcgis.com/stories/ef285da78b4c46669aa4a1ac6eb0087c) and [integrating nature in prison rehabilitation programs.](https://storymaps.arcgis.com/stories/d07f711435f547f4a797fa0f863c896a)
 
