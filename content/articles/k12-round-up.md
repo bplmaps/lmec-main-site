@@ -20,16 +20,12 @@ This past school year, we worked directly with 33 schools. Some programs were he
 
 At the [Haley Pilot School](https://www.haleypilotschool.org/) in Roslindale, middle school students researched different aspects of Mayor Wu’s [_Planning for a Boston Green New Deal & Just Recovery_](https://www.michelleforboston.com/plans/gnd), including proposals for an urban climate corps, transportation justice, food justice, the urban tree canopy, and renewable energy. As part of the research process, Map Center educators presented a map interpretation and evaluation lesson, asking students to investigate two topic-relevant maps, look for useful information, and think about how one map relates to the next.  At the conclusion of their study, student groups created short magazines to inform readers about their subjects, showcase maps from our lesson and those they discovered in other resources.
 
-{{< figure src="/uploads/2022-06-30/haley1.jpeg" caption="" class="figure-right" >}}
-
 {{< carousel >}}
 {{< carousel-figure src="/uploads/2022-06-30/screen-shot-2022-06-30-at-9-59-10-am.png" >}}{{< /carousel-figure >}}
 
     {{< carousel-figure src="/uploads/2022-06-30/screen-shot-2022-06-30-at-9-59-48-am.png" >}}{{< /carousel-figure >}}
     
-    {{< carousel-figure src="images/carousels/at_gallery09.jpg" >}}{{< /carousel-figure >}}
-    
-    {{< carousel-figure src="images/carousels/DSC_0018s.jpg" >}}{{< /carousel-figure >}}
+    {{< carousel-figure src="/uploads/2022-06-30/screen-shot-2022-06-30-at-10-00-59-am.png" >}}{{< /carousel-figure >}}
 
 {{< /carousel >}}
 
