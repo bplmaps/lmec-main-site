@@ -2,7 +2,7 @@
 date: 2022-06-27T08:00:38.000-04:00
 title: An interview with Kyler Hoogendoorn-Ecker
 description: Welcome to our new summer intern and Seevak Fellow!
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250b888/2291,3151,6519,1974/full/0/default.jpg
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250b888/2091,3151,6519,3974/full/0/default.jpg
 author: Kyler Hoogendoorn-Ecker & Ian Spangler
 tags:
 - welcome interview
