@@ -7,11 +7,11 @@ author: Megan Nally
 tags:
 - K12
 - Maptivists
+- Collections
 backgroundImage: "/uploads/2022-07-01/screen-shot-2022-07-01-at-11-29-58-am.png"
 draft: true
 
 ---
-
 #### Southwest Corridor
 
 The Southwest Expressway and Inner Belt Highway projects were both proposed in the Master Highway Plan for the Boston Metropolitan Area in 1948. Designed to span through densely-populated areas inside and outside of Boston, both projects were eventually halted and abandoned in the early 1970s.
