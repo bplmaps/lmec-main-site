@@ -9,7 +9,6 @@ tags:
 - education
 - k12
 backgroundImage: "/uploads/2022-06-30/school.jpeg"
-draft: true
 
 ---
 The Map Center’s [K-12 education](https://www.leventhalmap.org/education/k12/) department often revisits our core programs to make them more relevant and engaging, as well as develops new initiatives to bring cartographic literacy to students as they wrestle with the challenges presented by the past, present, and future. One important way we work is to collaborate with educators to integrate geographic materials and approaches into the curriculum they design for their classes.
