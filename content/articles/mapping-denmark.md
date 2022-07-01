@@ -10,7 +10,7 @@ tags:
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cb25h/512,424,6080,2811/,1200/0/default.jpg
 ---
 
-Alan Leventhal—the son of our founder Norman B. Leventhal, a long-time supporter of our work, and the Chair of our Board of Directors from 2020 to 2022—was recently [sworn in as the U.S. Ambassador to Denmark](https://www.majorityleader.gov/content/hoyer-statement-senate-confirmation-alan-leventhal-ambassador-denmark). To celebrate Alan’s new role, let's take a tour of maps and materials about Denmark from the Leventhal Center and BPL collections. 
+Alan Leventhal—the son of our founder Norman B. Leventhal, a longtime supporter of our work, and the Chair of our Board of Directors from 2020 to 2022—was recently [sworn in as the U.S. Ambassador to Denmark](https://www.majorityleader.gov/content/hoyer-statement-senate-confirmation-alan-leventhal-ambassador-denmark). To celebrate Alan’s new role, let's take a tour of maps and materials about Denmark from the Leventhal Center and BPL collections. 
 
 
 ### Ptolemaic Scandinavia
