@@ -47,10 +47,6 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Holiday closure
-    text: The Map Center and all BPL locations will be closed on Monday, July 4th
-      in observance of Independence Day
-    link: ''
   - badge: On display
     text: '"More or Less in Common: Environment and Justice in the Human Landscape"
       is open now through December '
