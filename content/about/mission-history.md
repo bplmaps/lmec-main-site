@@ -36,7 +36,7 @@ We are renewed in our commitment to listen and educate ourselves more deeply abo
 
 * The [Racial Dot Map](https://demographics.coopercenter.org/racial-dot-map/%22%20/t%20%22_blank) of the United States allows you to see how strikingly segregated our cities remain in the present day
 * The [Mapping Police Violence](https://mappingpoliceviolence.org/%22%20/t%20%22_blank) project shows how Black people bear a disproportionate share of harm from police violence
-* Closer to home, the Metropolitan Area Planning Commission’s [State of Equity](https://equityagenda.mapc.org/indicators%22%20/t%20%22_blank) report maps patterns of racialized inequity in the Boston region
+* Closer to home, the Metropolitan Area Planning Commission’s [State of Equity](https://equityagenda.mapc.org/) report maps patterns of racialized inequity in the Boston region
 
 In our own programs, we commit to examining and confronting these geographic patterns of injustice. We address the ways that maps have been used as instruments of oppression and tools of dominance, and explore how maps can be used to engender positive change. We will engage and amplify the voices of people of color in our interpretative programs. We will use maps to open discussion of the role of racism in the past and present. Perhaps most importantly, we will connect with and listen to communities of color, ask what more can we do, and do it humbly and justly.
 
