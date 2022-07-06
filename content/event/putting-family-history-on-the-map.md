@@ -10,6 +10,10 @@ registration: https://bpl.bibliocommons.com/events/620fa903bdf53f3600d6fca8
 tags: []
 
 ---
+### Event video 
+
+The recorded event is available for viewing on the Boston Public Library's YouTube page [here](https://youtu.be/S_edoX_9Hwk). 
+
 ### About this event
 
 How can historic maps be used for genealogical research? What sorts of clues do maps provide for piecing together local history?
