@@ -6,6 +6,7 @@ image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250b888/2091,3
 author: Kyler Hoogendoorn-Ecker & Ian Spangler
 tags:
 - welcome interview
+- staff
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250b888/2291,3151,6519,1974/full/0/default.jpg
 
 ---

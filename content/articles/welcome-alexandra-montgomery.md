@@ -7,7 +7,8 @@ date: 2021-06-22T03:59:00Z
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z550p/5470,938,5289,2252/,1200/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z550p/5470,938,5289,2252/,1200/0/default.jpg
 tags:
- - interview
+ - welcome interview
+ - staff
  - ARGO
  - American Revolution
  - history

@@ -7,8 +7,8 @@ image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n1743/661,70
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n1743/661,702,8449,4015/full/0/default.jpg
 tags:
 - interview
-- announcement
 - staff
+- announcement
 - GIS
 
 ---
