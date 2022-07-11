@@ -61,8 +61,15 @@ Robert M. Melzer
 
 Charles Cooney, _ex officio_  
 Sierra Laddusaw_  
-_Miriam Olivares  
+Miriam Olivares  
 Margaret Pearce  
 Richard Pegg, _Chair_  
 Tim Wallace  
 Sarah Williams
+
+### Education Committee
+
+Faroqua Abuzeit  
+Ashlyn Crossfield  
+Natalia Cuadra-Saez  
+Dr. Marcos Luna
