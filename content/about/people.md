@@ -59,10 +59,11 @@ Robert M. Melzer
 
 ### Board of Review
 
-Charles Cooney, _ex officio_  
-Sierra Laddusaw_  
+Charles Cooney, _ex officio  
+_Alex Krieger  
+Sierra Laddusaw  
 Miriam Olivares  
-Margaret Pearce  
+Margaret Wickens Pearce  
 Richard Pegg, _Chair_  
 Tim Wallace  
 Sarah Williams
