@@ -22,15 +22,6 @@ weekly:
 - day: Sunday
   special: Closed
 exceptions:
-- date: May 30, 2022
-  name: Memorial Day
-  special: Closed
-- date: June 20, 2022
-  name: Juneteenth (observed)
-  special: Closed
-- date: July 4, 2022
-  name: Independence Day
-  special: Closed
 - date: July 29, 2022
   name: Staff Development Day
   special: Closed
