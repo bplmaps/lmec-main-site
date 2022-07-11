@@ -17,7 +17,7 @@ aliases:
 
 {{< staff-list staff_category="fellow" >}}
 
-## Interns 
+## Interns
 
 {{< staff-list staff_category="intern" >}}
 
@@ -59,9 +59,10 @@ Robert M. Melzer
 
 ### Board of Review
 
-Alex Krieger  
-Sierra Laddusaw  
 Charles Cooney, _ex officio_  
+Sierra Laddusaw_  
+_Miriam Olivares  
 Margaret Pearce  
 Richard Pegg, _Chair_  
-Tim Wallace
+Tim Wallace  
+Sarah Williams
