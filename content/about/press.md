@@ -18,13 +18,15 @@ John Michael Kennedy, JMKPR
 
 [The Boston Globe - _When Boston gave America some sugar_](https://www.bostonglobe.com/2022/02/12/opinion/when-boston-gave-america-some-sugar/)
 
+[WBUR - _8 Maps That Explain Boston's Changing Shoreline_](https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline)
+
 **Press for _More or Less in Common_**
 
 [The Boston Globe - _Maps: What Boston could have looked like_](https://www.bostonglobe.com/2022/06/12/arts/maps-what-boston-could-have-looked-like-if-olmsteds-original-plans-were-realized/)
 
 [The Boston Globe - _At 200, Frederick Law Olmsted continues to shape public space_](https://www.bostonglobe.com/2022/06/11/arts/200-frederick-law-olmsted-continues-shape-public-space/)
 
-[The Boston Globe - _Mapping environmental injustice_](https://www.bostonglobe.com/2022/04/22/opinion/mapping-environmental-justice/) 
+[The Boston Globe - _Mapping environmental injustice_](https://www.bostonglobe.com/2022/04/22/opinion/mapping-environmental-justice/)
 
 [Museum Open House](https://vimeo.com/708404724)
 
