@@ -59,8 +59,8 @@ Robert M. Melzer
 
 ### Board of Review
 
-Charles Cooney, _ex officio  
-_Alex Krieger  
+Charles Cooney, _ex officio_  
+Alex Krieger  
 Sierra Laddusaw  
 Miriam Olivares  
 Margaret Wickens Pearce  
