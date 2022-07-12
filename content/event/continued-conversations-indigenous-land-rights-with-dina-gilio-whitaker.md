@@ -6,10 +6,10 @@ image: "/uploads/2022-07-12/dina.jpeg"
 backgroundImage: "/uploads/2022-07-12/dina.jpeg"
 location: Boston Public Library, Rabb Hall
 fee: 'Free '
-registration: ''
+registration: https://www.eventbrite.com/preview?eid=378019676027
 tags:
-- exhibitions
 - Continued Conversations
+- exhibition
 draft: true
 
 ---
