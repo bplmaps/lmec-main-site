@@ -1,10 +1,10 @@
 ---
 title: Remixing our Climate Ready Boston map
 author: Emily Bowe
-description: 
+description: Reflections from the mapmaker...and a chance to remix the map yourself
 date: 2022-07-06T01:30:00.000+00:00
-image: 
-backgroundImage: 
+image: '/images/blog/crb-sv-maps.png'
+backgroundImage: '/images/blog/crb-sv-maps.png'
 tags:
 - climate change
 - environmental justice
