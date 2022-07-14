@@ -46,3 +46,5 @@ I’m also helping to shape and produce a more permanent exhibition that will be
 I don’t think I’ve found a _favorite_ map yet (there’s just too many to choose from!), but I am incredibly fond of this map of all the public libraries in Massachusetts in 1904. I love libraries and this map is a really beautiful representation of the distribution of libraries at the time. It’s a cool example of a data set being turned into something very visually detailed and appealing. I’m also a big fan of it because I recognize a fair number of the libraries, many of them are still in the same buildings, including my hometown library!
 
 {{< figure src="![](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761139/full/full/0/default.jpg)" caption="The public libraries of Massachusetts, a 1904 from LMEC collections">}}
+
+{{< figure src="/images/headshots/ezra-acevedo.jpg" class="figure-right" caption="">}} 
