@@ -29,7 +29,7 @@ There’s this one particular map I love of all the green line train lines on th
 
 **You’re finishing up your second full week of working in our gallery at the Central Library. Are there any parts of the current exhibition** **_More or Less in Common_** **that you’re especially drawn to?**
 
-{{< figure src="https://collections.leventhalmap.org/search/commonwealth:w3765q66z" class="figure-left" caption="Map showing the sources of some of the offensive odors perceived in Boston, 1878 from LMEC collections">}}
+{{< figure src="https://www.digitalcommonwealth.org/search/commonwealth:w3765q66z" class="figure-left" caption="Map showing the sources of some of the offensive odors perceived in Boston, 1878 from LMEC collections">}}
 
 I’ve found myself interested in our maps from the 1800s depicting Managing People, Managing Nature part of the exhibit, because it reveals a side of Boston’s history I was unaware of. I’m very familiar with the Back Bay Fens due to it’s proximity to Northeastern, but I wasn’t familiar with the former South Bay, nor its history. The maps in _More of Less in Common_ reveal that while both of these Bays were once huge dumping grounds for sewage and industry, one was turned into the Back Bay Fens - the beautiful park and upper class neighborhood - while the South Bay, which was experiencing the same problems, was allowed to continue to industrialize and be polluted. Despite living in Boston for a number of years now, I had never heard the second half of the story and seen how these historical roots influence our current realities of people’s access to green space and exposure to ecological hazards.
 
