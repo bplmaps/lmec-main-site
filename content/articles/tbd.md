@@ -23,6 +23,8 @@ The classic MBTA map that you see at all the stations is what first comes to min
 
 There’s this one particular map I love of all the green line train lines on the platform at Hynes Convention Center station. It was a curiosity for me for quite some time because it displayed stops that are no longer there. It shows a discontinued section of the E line extending all the way to the Arborway station - right next to Forest Hills. That map prompted me to learn more about the history of the MBTA and how the lines have changed over the years - in this case, how the E branch was cut back to its current terminus at Heath Street. I think that was one of the first few times that I went looking for answers when a map made me curious about the story behind it.
 
+{{< figure src="[https://collections.leventhalmap.org/search/](https://collections.leventhalmap.org/search/ "https://collections.leventhalmap.org/search/")[commonwealth:xs55pv17h](https://collections.leventhalmap.org/search/commonwealth:xs55pv17hcommonwealth:xs55pv17h "commonwealth:xs55pv17hcommonwealth:xs55pv17h")" class="figure-right" caption="1977 MBTA map of Boston showing the Green Line's extention to Arborway/Forest Hills">}}
+
 1. [MBTA Map Showing the Green Line’s extention to Arborway/Forest Hills](https://collections.leventhalmap.org/search/commonwealth:xs55pv17h)
 
    [commonwealth:xs55pv17hcommonwealth:xs55pv17h](https://collections.leventhalmap.org/search/commonwealth:xs55pv17hcommonwealth:xs55pv17h "commonwealth:xs55pv17hcommonwealth:xs55pv17h")
