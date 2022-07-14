@@ -11,6 +11,8 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761
 draft: true
 
 ---
+> Ezra is student at Northeastern University studying International Affairs and is on co-op at the Map Center until December 2022.
+
 {{< figure src="/images/headshots/ezra-acevedo.jpg" class="figure-right" caption="">}}
 
 **Tell us a bit about your background. What are you currently studying at Northeastern and what made you choose to work at the Map Center during your co-op experience?**
@@ -29,7 +31,7 @@ There’s this one particular map I love of all the green line train lines on th
 
 **You’re finishing up your second full week of working in our gallery at the Central Library. Are there any parts of the current exhibition** **_More or Less in Common_** **that you’re especially drawn to?**
 
-{{< figure src="https://www.digitalcommonwealth.org/search/commonwealth:w3765q66z" class="figure-left" caption="Map showing the sources of some of the offensive odors perceived in Boston, 1878 from LMEC collections">}}
+{{< figure src="![](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71r300q/full/full/0/default.jpg)" class="figure-left" caption="Map showing the sources of some of the offensive odors perceived in Boston, 1878 from LMEC collections">}}
 
 I’ve found myself interested in our maps from the 1800s depicting Managing People, Managing Nature part of the exhibit, because it reveals a side of Boston’s history I was unaware of. I’m very familiar with the Back Bay Fens due to it’s proximity to Northeastern, but I wasn’t familiar with the former South Bay, nor its history. The maps in _More of Less in Common_ reveal that while both of these Bays were once huge dumping grounds for sewage and industry, one was turned into the Back Bay Fens - the beautiful park and upper class neighborhood - while the South Bay, which was experiencing the same problems, was allowed to continue to industrialize and be polluted. Despite living in Boston for a number of years now, I had never heard the second half of the story and seen how these historical roots influence our current realities of people’s access to green space and exposure to ecological hazards.
 
@@ -43,4 +45,4 @@ I’m also helping to shape and produce a more permanent exhibition that will be
 
 I don’t think I’ve found a _favorite_ map yet (there’s just too many to choose from!), but I am incredibly fond of this map of all the public libraries in Massachusetts in 1904. I love libraries and this map is a really beautiful representation of the distribution of libraries at the time. It’s a cool example of a data set being turned into something very visually detailed and appealing. I’m also a big fan of it because I recognize a fair number of the libraries, many of them are still in the same buildings, including my hometown library!
 
-{{< figure src="https://collections.leventhalmap.org/search/commonwealth:wd3761121" caption="The public libraries of Massachusetts, a 1904 from LMEC collections">}}
+{{< figure src="![](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761139/full/full/0/default.jpg)" caption="The public libraries of Massachusetts, a 1904 from LMEC collections">}}
