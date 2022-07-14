@@ -25,9 +25,7 @@ I think I’ve always been incredibly fascinated by geography and maps and how w
 
 The classic MBTA map that you see at all the stations is what first comes to mind. I’ve been visiting Boston using the commuter rail and the T since I was young, but ever since I moved to Boston, it’s like my whole life revolves around that MBTA map. It’s a very important map when you’re getting to know the city, but it warps the distances between stations for obvious practical reasons (to make it all fit and to look nice). Despite the warped scales between the lines, it was still really useful for me in learning how to get around the city, and where everything is in relation to one another.
 
-{{< figure src="![](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039np39s/608,1868,2371,1072/full/0/default.jpg)![](/uploads/2022-07-14/commonwealth_wd3761121_access_full.jpg)" class="figure-right" caption="1977 MBTA map of Boston showing the Green Line's extension to Arborway/Forest Hills">}}
-
-{{< figure src="![](/uploads/2022-07-14/commonwealth_wd3761121_access_full.jpg)" class="figure-right" caption="1977 MBTA map of Boston showing the Green Line's extension to Arborway/Forest Hills">}}
+{{< figure src="![](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039np39s/608,1868,2371,1072/full/0/default.jpg)" class="figure-right" caption="1977 MBTA map of Boston showing the Green Line's extension to Arborway/Forest Hills">}}
 
 There’s this one particular map I love of all the green line train lines on the platform at Hynes Convention Center station. It was a curiosity for me for quite some time because it displayed stops that are no longer there. It shows a discontinued section of the E line extending all the way to the Arborway station - right next to Forest Hills. That map prompted me to learn more about the history of the MBTA and how the lines have changed over the years - in this case, how the E branch was cut back to its current terminus at Heath Street. I think that was one of the first few times that I went looking for answers when a map made me curious about the story behind it.
 
@@ -48,5 +46,3 @@ I’m also helping to shape and produce a more permanent exhibition that will be
 I don’t think I’ve found a _favorite_ map yet (there’s just too many to choose from!), but I am incredibly fond of this map of all the public libraries in Massachusetts in 1904. I love libraries and this map is a really beautiful representation of the distribution of libraries at the time. It’s a cool example of a data set being turned into something very visually detailed and appealing. I’m also a big fan of it because I recognize a fair number of the libraries, many of them are still in the same buildings, including my hometown library!
 
 {{< figure src="![](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761139/full/full/0/default.jpg)" caption="The public libraries of Massachusetts, a 1904 from LMEC collections">}}
-
-{{< figure src="/images/headshots/ezra-acevedo.jpg" class="figure-right" caption="">}} 
