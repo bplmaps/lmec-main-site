@@ -1,16 +1,15 @@
 ---
-publishDate: 2022-07-12T15:29:11.000-04:00
+publishDate: 2022-07-14T13:00:11-04:00
 title: 'Continued Conversations: Indigenous Land Rights with Dina Gilio-Whitaker'
 date: 2022-08-01T18:00:00.000-04:00
 image: "/uploads/2022-07-12/dina.jpeg"
 backgroundImage: "/uploads/2022-07-12/dina.jpeg"
 location: Boston Public Library, Rabb Hall
 fee: 'Free '
-registration: https://www.eventbrite.com/preview?eid=378019676027
+registration: https://www.eventbrite.com/e/continued-conversations-indigenous-land-rights-with-dina-gilio-whitaker-tickets-378019676027
 tags:
 - Continued Conversations
 - exhibition
-draft: true
 
 ---
 ### About this event
@@ -21,4 +20,4 @@ Join us with Dina Gilio-Whitaker for a conversation on indigenous land rights, e
 
 This talk is part of our **Continued Conversations** series in conjunction with our current environmental justice exhibition, [_More or Less in Common: Environment and Justice in the Human Landscape_.](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/)
 
-To be held in person at the [Central Library](https://www.bpl.org/locations/3/) in Copley Square.
+To be held **in person** at the [Central Library](https://www.bpl.org/locations/3/) in Copley Square.
