@@ -2,7 +2,7 @@
 date: 2022-07-12T10:21:52.000-04:00
 title: An interview with Ezra Acevedo
 description: 'Welcome to '
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039np39s/608,1868,2371,1072/full/0/default.jpg
+image: 'https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039np39s/608,1868,2371,1072/full/0/default.jpg '
 author: Ezra Acevedo
 tags:
 - welcome interview
