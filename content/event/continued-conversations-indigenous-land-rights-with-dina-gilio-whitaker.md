@@ -14,7 +14,7 @@ tags:
 ---
 ### About this event
 
-Join us with Dina Gilio-Whitaker for a conversation on indigenous land rights, environmental justice, and forms of resilience, featuring maps from our collections and recent documentary materials..
+Join us with Dina Gilio-Whitaker for a conversation on indigenous land rights, environmental justice, and forms of resilience, featuring maps from our collections and recent documentary materials.
 
 [Dina Gilio-Whitaker](https://dgwconsulting.org/#bio) (Colville Confederated Tribes descendant) is a renowned scholar, educator, journalist, and author in American Indian studies. In her most recent book _As Long As Grass Grows: The Indigenous Fight for Environmental Justice from Colonization to Standing Rock_ (Beacon Press, 2019), Dina applies her expertise in environmental justice to create a foundation for thinking through what environmental justice policy means in Indian country. The only book of its kind, it stands as a primer for governments and organizations of all kinds who are engaging in environmental justice work with Indigenous peoples.
 
