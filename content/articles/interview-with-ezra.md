@@ -1,19 +1,19 @@
 ---
 date: 2022-07-12T10:21:52-04:00
-title: TBD
+title: An interview with Ezra Acevedo
 description: ''
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039np39s/608,1868,2371,1072/full/0/default.jpg
+image: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039np39s/608,1868,2371,1072/full/0/default.jpg"
 author: Ezra Acevedo
 tags:
 - welcome interview
 - staff
-backgroundImage: commonwealth:wd3761121
+backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761139/full/1200,/0/default.jpg"
 draft: true
 
 ---
-**Tell us a bit about your background. What are you currently studying at Northeastern and what made you choose to work at the Map Center during your co-op experience?**
+{{< figure src="/images/headshots/ezra-acevedo.jpg" class="figure-right" caption="">}}
 
-{{< figure src="Image of Ezra" class="figure-right" caption=" ">}}
+**Tell us a bit about your background. What are you currently studying at Northeastern and what made you choose to work at the Map Center during your co-op experience?**
 
 I’m originally from Massachusetts and I’ve lived in the area my whole life, which I think instilled in me a love of traveling and a need to see more of the world. I’m an International Affairs major at Northeastern University, which at first might seem like an odd fit for a museum centered around cartography and geography, but I feel like my background and interests actually align themselves very well to this work. (After all, if you’re interested in anything international, you should know your world geography.) I approach International Affairs from a cultural perspective, which means that I focus on taking a lot more Area Studies and History classes than most similar majors.
 
