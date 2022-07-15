@@ -1,16 +1,16 @@
 ---
 date: 2022-07-14T10:21:52.000-04:00
 title: An interview with Ezra Acevedo
-description: 'An interview with Fall 2022 Northeastern co-op, Ezra Acevedo'
-image: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039np39s/608,1868,2371,1072/full/0/default.jpg"
+description: An interview with Fall 2022 Northeastern co-op, Ezra Acevedo
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039np39s/608,1868,2371,1072/full/0/default.jpg
 author: Ezra Acevedo
 tags:
 - welcome interview
 - staff
-backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761139/full/1200,/0/default.jpg"
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761139/full/1200,/0/default.jpg
 
 ---
-> We're excited to welcome Ezra Acevedo to the team as the Fall 2022 co-op student serving as Visitor Services & Exhibition Assistant. Ezra is a student at Northeastern University studying International Affairs and will be working at the Map Center until December 2022. We sat down with Ezra to learn more about their interests and work on upcoming Map Center exhibitions. 
+> We're excited to welcome Ezra Acevedo to the team as the Fall 2022 co-op student serving as Visitor Services & Exhibition Assistant. Ezra is a student at Northeastern University studying International Affairs and will be working at the Map Center until December 2022. We sat down with Ezra to learn more about their interests and work on upcoming Map Center exhibitions.
 
 {{< figure src="/images/headshots/ezra-acevedo.jpg" class="figure-right" caption="">}}
 
@@ -32,7 +32,7 @@ There’s this one particular map I love of all the green line train lines on th
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71r300q/full/full/0/default.jpg" class="figure-left" caption="Map showing the sources of some of the offensive odors perceived in Boston, 1878 from LMEC collections">}}
 
-I’ve found myself interested in our maps from the 1800s depicting Managing People, Managing Nature part of the exhibit, because it reveals a side of Boston’s history I was unaware of. I’m very familiar with the Back Bay Fens due to it’s proximity to Northeastern, but I wasn’t familiar with the former South Bay, nor its history. The maps in _More of Less in Common_ reveal that while both of these Bays were once huge dumping grounds for sewage and industry, one was turned into the Back Bay Fens - the beautiful park and upper class neighborhood - while the South Bay, which was experiencing the same problems, was allowed to continue to industrialize and be polluted. Despite living in Boston for a number of years now, I had never heard the second half of the story and seen how these historical roots influence our current realities of people’s access to green space and exposure to ecological hazards.
+I’ve found myself interested in our maps from the 1800s depicting Managing People, Managing Nature part of the exhibit, because it reveals a side of Boston’s history I was unaware of. I’m very familiar with the Back Bay Fens due to it’s proximity to Northeastern, but I wasn’t familiar with the former South Bay, nor its history. The maps in [_More of Less in Common_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/) reveal that while both of these Bays were once huge dumping grounds for sewage and industry, one was turned into the Back Bay Fens - the beautiful park and upper class neighborhood - while the South Bay, which was experiencing the same problems, was allowed to continue to industrialize and be polluted. Despite living in Boston for a number of years now, I had never heard the second half of the story and seen how these historical roots influence our current realities of people’s access to green space and exposure to ecological hazards.
 
 **What are you excited about working on in the next six months?**
 
