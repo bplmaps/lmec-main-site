@@ -3,7 +3,7 @@ type: person
 title: Laura Lee Schmidt
 description: Exhibition Curatorial Fellow
 headshot: "/uploads/2022-07-14/lls_photo.jpeg"
-staff_category: fellow
+staff_category: staff
 contact:
 - details: lschmidt@leventhalmap.org
   method: Email
