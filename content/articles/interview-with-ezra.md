@@ -10,7 +10,7 @@ tags:
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761139/full/1200,/0/default.jpg
 
 ---
-> We're excited to welcome Ezra Acevedo to the team as the Fall 2022 \[co-op student\]([https://careers.northeastern.edu/cooperative-education/](https://careers.northeastern.edu/cooperative-education/ "https://careers.northeastern.edu/cooperative-education/")) serving as Visitor Services & Exhibition Assistant. Ezra is a student at Northeastern University studying International Affairs and will be working at the Map Center until December 2022. We sat down with Ezra to learn more about their interests and work on upcoming Map Center exhibitions.
+> We're excited to welcome Ezra Acevedo to the team as the Fall 2022 [co-op student](https://careers.northeastern.edu/cooperative-education/) serving as Visitor Services & Exhibition Assistant. Ezra is a student at Northeastern University studying International Affairs and will be working at the Map Center until December 2022. We sat down with Ezra to learn more about their interests and work on upcoming Map Center exhibitions.
 
 {{< figure src="/images/headshots/ezra-acevedo.jpg" class="figure-right" caption="Ezra Acevedo">}}
 
