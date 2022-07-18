@@ -11,13 +11,6 @@ quicklinks:
   linkType: onsite
 
 ---
-
-{{< alert-box type="info" title="Reference unavailable" >}}
-
-Reference services are unavailable from July 11 through July 15.
-
-{{</ alert-box >}}
-
 ## Research at the Map Center
 
 The Leventhal Map & Education Center offers research services free to the public. We welcome all researchers, whether you are a scholar working on a book manuscript, a Boston resident looking to discover more about the history of your home or neighborhood, or a data analyst looking to find geospatial information about demographic patterns.
