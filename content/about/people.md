@@ -59,7 +59,8 @@ Robert M. Melzer
 
 ### Board of Review
 
-Charles Cooney, _ex officio_  
+Charles Cooney, _ex officio  
+_Diana Greenwald  
 Alex Krieger  
 Sierra Laddusaw  
 Miriam Olivares  
