@@ -4,6 +4,7 @@ description: Visitor Services & Exhibition Assistant
 headshot: images/headshots/ezra-acevedo.jpg
 type: person
 staff_category: staff
+menu: false
 contact:
 - method: Email
   details: "<eacevedo@leventhalmap.org>"
