@@ -8,11 +8,7 @@ weight: "5"
 ---
 ## Press Contact
 
-For interviews and other press requests, please contact:
-
-John Michael Kennedy, JMKPR  
-[jmk@jmkpr.com](mailto:jmk@jmkpr.com)  
-781-620-1761
+Please contact <info@leventhalmap.org> or call +1 617.859.2387 for press inquiries.
 
 ## Recent Press
 

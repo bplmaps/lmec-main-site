@@ -5,6 +5,7 @@ headshot = "/images/headshots/joelle-riffle.png"
 staff_category = "staff"
 title = "Joelle Riffle"
 type = "person"
+menu = false
 [[contact]]
 details = "jriffle@leventhalmap.org"
 method = "Email"
