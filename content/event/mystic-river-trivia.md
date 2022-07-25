@@ -9,6 +9,7 @@ fee: Free
 registration: https://www.eventbrite.com/e/mystic-river-trivia-tickets-337353843427
 tags:
 - exhibition
+draft: true
 
 ---
 Join the [Leventhal Map and Education Center](https://www.leventhalmap.org/) with the [Mystic River Watershed Association](https://mysticriver.org/) (MyRWA) for a conversation on the historic Mystic River and MyRWA's past and present efforts to protect it.
