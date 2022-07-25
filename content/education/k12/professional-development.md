@@ -17,8 +17,7 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 ## Workshops and Courses
 
 ### Visualizing Change in Boston:   
-Using Digital Commonwealth Collections   
-to Tell Stories of Places and Activism
+Using Digital Commonwealth Collections to Tell Stories of Places and Activism
 
 Digital Commonwealth's Membership and Outreach & Education Committees invite you to register for the following workshop:
 
@@ -36,8 +35,7 @@ Register at: [https://membership.digitalcommonwealth.org/event-4863384](https://
 
 [**Explore the primary source sets “Activism in Boston Over Time”**](https://www.digitalcommonwealth.org/for_educators/primary_source_sets/activism_in_boston_over_time) 
 
-###   
-Empowering Maptivists: Using Maps & Data to Examine Social Issues in the Humanities Classroom
+### Empowering Maptivists: Using Maps & Data to Examine Social Issues in the Humanities Classroom
 
 Maps are instruments of power and can affect our understanding of issues and data depending on who is telling the story. It is our job as map consumers and educators to think critically about what maps are showing us (and what they aren’t). In _Empowering Maptivists_, course participants will explore the unique power of maps to make sense of the world around us. The course will provide clear pathways for helping students explore issues in their own communities and use spatial understanding to advocate for change.
 
