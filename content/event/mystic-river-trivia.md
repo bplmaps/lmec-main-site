@@ -1,25 +1,20 @@
 ---
-publishDate: 2022-05-10T12:51:34-04:00
-title: Mystic River Trivia
-date: 2022-08-18T18:00:00-04:00
+publishDate: 2022-05-10T12:51:34.000-04:00
+title: 'Continued Conversations: Mapping the Mystic River'
+date: 2022-08-18T18:00:00.000-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff47w/full/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff47w/full/full/0/default.jpg
-location: Newsfeed Café, Central Library in Copley Square
+location: Online
 fee: Free
 registration: https://www.eventbrite.com/e/mystic-river-trivia-tickets-337353843427
 tags:
 - exhibition
-- atlascope
 
 ---
-### About this event
+Join the [Leventhal Map and Education Center](https://www.leventhalmap.org/) with the [Mystic River Watershed Association](https://mysticriver.org/) (MyRWA) for a conversation on the historic Mystic River and MyRWA's past and present efforts to protect it.
 
-The Mystic River Watershed covers approximately how many square miles? What wildlife lives in the Mystic River watershed?
+The Mystic River Watershed Association (MyRWA) was founded in 1972 with a mission to protect and restore the Mystic River, its tributaries and watershed lands for the benefit of present and future generations and to celebrate the value, importance and great beauty of these natural resources. Our vision is a vibrant, healthy and resilient Mystic River watershed for the benefit of all our community members. To achieve this, the Mystic River Watershed Association is protecting water quality, restoring important habitat, building climate resilience, transforming parks and paths, and inspiring youth and community members.
 
-Join the [Leventhal Map and Education Center](https://www.leventhalmap.org/) with the [Mystic River Watershed Association](https://mysticriver.org/) for a trivia night on all things Mystic River!
+This talk is virtual, free, open to the public, and will feature a Q&A session with our speakers.
 
-Trivia rounds will feature a geographic scavenger hunt using [Atlascope](https://atlascope.leventhalmap.org/), knowledge about surrounding geographies, pop culture, and more!
-
-Registration is encouraged but not required. You may participate individually or as a member of a team. This event will be held in person in the [Newsfeed Café](https://www.newsfeedcafe.com/) at the [Central Library](https://www.bpl.org/locations/3/) in Copley Square.
-
-Prizes of maps will be awarded to winning teams!
+This talk is part of our **Continued Conversations** series in conjunction with our current environmental justice exhibition, [_More or Less in Common: Environment and Justice in the Human Landscape_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/).
