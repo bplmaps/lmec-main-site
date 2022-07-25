@@ -16,7 +16,8 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 ## Workshops and Courses
 
-### Visualizing Change in Boston:   
+### Visualizing Change in Boston: Using Digital Commonwealth Collections to Tell Stories of Places and Activism
+
 Using Digital Commonwealth Collections to Tell Stories of Places and Activism
 
 Digital Commonwealth's Membership and Outreach & Education Committees invite you to register for the following workshop:
@@ -33,7 +34,7 @@ Come prepared to participate as we'll be trying out the lesson together!
 
 Register at: [https://membership.digitalcommonwealth.org/event-4863384](https://membership.digitalcommonwealth.org/event-4863384 "https://membership.digitalcommonwealth.org/event-4863384")
 
-[**Explore the primary source sets “Activism in Boston Over Time”**](https://www.digitalcommonwealth.org/for_educators/primary_source_sets/activism_in_boston_over_time) 
+[**Explore the primary source sets “Activism in Boston Over Time”**](https://www.digitalcommonwealth.org/for_educators/primary_source_sets/activism_in_boston_over_time)
 
 ### Empowering Maptivists: Using Maps & Data to Examine Social Issues in the Humanities Classroom
 
