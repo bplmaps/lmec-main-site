@@ -24,7 +24,7 @@ The Honorable Mayor of Boston **Michelle Wu** will be giving the opening remarks
 
 According to **Rob Whitney**, Co-Chair of the Board of Trustees of the Boston Groundwater Trust: “The potential impact of climate change on ground water levels is just now being discussed. This forum will explore how climate change and rising temperatures in the future may limit the amount of water to replenish groundwater, and the adverse effect that could have on the wooden pilings that support many of our Boston buildings and homes.”
 
-_This program, presented in partnership with the **Leventhal Map & Education Center at the Boston Public Library** (LMEC), will be offered to in-person and virtual audiences. Please visit the "Registration Required" box for more information. To learn more about the Boston Groundwater Trust,_ [_visit their website_](https://www.bostongroundwater.org/)_._
+_This program, presented in partnership with the **Leventhal Map & Education Center at the Boston Public Library** (LMEC), will be offered to in-person and virtual audiences. To learn more about the Boston Groundwater Trust,_ [_visit their website_](https://www.bostongroundwater.org/)_._
 
 **BPL COVID-19 health and safety protocols:**
 
