@@ -43,6 +43,7 @@ fields:
   label: Tags
   description: Enter a list of tags that can be used for identifying this event
 pages:
+- content/event/2022-boston-groundwater-trust-forum-how-climate-change-may-threaten-the-foundations-of-boston.md
 - content/event/art-making-with-maps-at-the-leventhal-map-education-center.md
 - content/event/ashland-by-map.md
 - content/event/author-talk-alexandra-lange-on-meet-me-by-the-fountain.md
