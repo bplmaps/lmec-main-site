@@ -3,8 +3,8 @@ publishDate: 2022-07-27T13:00:00-04:00
 title: '2022 Boston Groundwater Trust Forum: How Climate Change May Threaten the Foundations
   of Boston'
 date: 2022-09-20T17:30:00-04:00
-image: "/uploads/2022-07-27/groundwatertrust.png"
-backgroundImage: "/uploads/2022-07-27/groundwatertrust.png"
+image: "/uploads/2022-07-27/bost.jpeg"
+backgroundImage: "/uploads/2022-07-27/bost.jpeg"
 location: Central Library, Copley Square
 fee: Free
 registration: https://www.eventbrite.com/e/2022-boston-groundwater-trust-forum-tickets-385874770827
