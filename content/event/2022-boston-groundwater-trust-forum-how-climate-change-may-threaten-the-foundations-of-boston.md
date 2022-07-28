@@ -1,13 +1,13 @@
 ---
-publishDate: 2022-07-27T13:00:00-04:00
+publishDate: 2022-07-27T13:00:00.000-04:00
 title: '2022 Boston Groundwater Trust Forum: How Climate Change May Threaten the Foundations
   of Boston'
-date: 2022-09-20T17:30:00-04:00
+date: 2022-09-20T17:30:00.000-04:00
 image: "/uploads/2022-07-27/bost.jpeg"
 backgroundImage: "/uploads/2022-07-27/bost.jpeg"
 location: Hybrid
 fee: Free
-registration: https://www.eventbrite.com/e/2022-boston-groundwater-trust-forum-tickets-385874770827
+registration: https://bpl.bibliocommons.com/events/62e022466250a154fbf79c45
 tags:
 - Exhibition
 
