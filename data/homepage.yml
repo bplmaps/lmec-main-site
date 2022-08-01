@@ -47,10 +47,6 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Upcoming Closure
-    text: The Leventhal Map and Education Center will be closed this Friday, July
-      29th for a professional development day
-    link: ''
   - badge: On display
     text: '"More or Less in Common: Environment and Justice in the Human Landscape"
       is open now through December '
