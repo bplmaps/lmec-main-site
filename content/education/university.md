@@ -26,15 +26,9 @@ We welcome university teachers to [bring your students to the Map Center](#class
 
 ## Visiting the Map Center with a class{#class-visits}
 
-<!-- {{< alert-box type="warning" icon="fas fa-laptop-house" title="Remote instruction until Fall 2021" >}}
+The LMEC curatorial and library team welcomes university classes to visit our collections and exhibition, either through an in-person trip to the Central Library in Copley Square or via a remote visit. We offer **broad overview lessons** on historical geography, critical cartography, Boston history, and research in the map collections, as well as **thematically-focused discussions** of specific groups of objects or exhibition topics. We also offer **instruction in digital methods** for geography and cartography.
 
-In-person visits resume in Fall 2021.
-
-{{</ alert-box >}} -->
-
-The LMEC curatorial and library team welcomes university classes to “visit” our collections and exhibition remotely. We offer **broad overview lessons** on historical geography, critical cartography, Boston history, and research in the map collections, as well as **thematically-focused discussions** of specific groups of objects or exhibition topics. We also offer **instruction in digital methods** for geography and cartography.
-
-To schedule a remote visit or talk for your class, please fill out this form:
+To schedule a visit or session for your class, please fill out this form:
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrO33Vhxfxs0SdOH?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="400" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
