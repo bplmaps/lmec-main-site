@@ -1,14 +1,13 @@
 ---
-date: 2022-08-01T15:16:48-04:00
-title: 'A trip to Vacationland'
-description: 'Travel with us to a land far, far away...just 2 hours up I-95.'
+date: 2022-08-01T15:16:48.000-04:00
+title: A trip to Vacationland
+description: Travel with us to a land far, far away...just 2 hours up I-95.
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7w62hz17g/full/1200,/0/default.jpg
 author: Emily Bowe
-tags: [staff]
+tags: []
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7w62hz17g/full/1200,/0/default.jpg
 
 ---
-
 Last week, our staff had the privilege of visiting our colleagues at the [Osher Map Library and Smith Center for Cartographic Education](https://oshermaps.org/) (OML) in Portland, Maine. OML is located on the Portland campus of the University of Southern Maine and is home to about a half million cartographic objects, including a collection of more than 300 historic globes. 
 
 With their focus on K-12 education and their committment to regional history and geography, we've found OML and its team to bear the closest resemblance of any other map library to the LMEC and the operations of our team. (We even have a number of the same maps in our collections...likely because the history of Maine was the history of Massachusetts until 1820.)

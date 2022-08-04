@@ -1,19 +1,16 @@
 ---
 author: Rachel Mead
-date: 2020-10-31T06:00:00-04:00
+date: 2020-10-31T06:00:00.000-04:00
 description: Just in time for Halloween, here's some trick-or-treating you can do
   without leaving your home!
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7m01bp420/full/,600/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7m01bp420/full/,600/0/default.jpg
 tags:
-- social media post
 - Atlascope
-- Boston history
+- Boston
 title: A Candy Tour of Boston
-draft: false
 
 ---
-
 <div class="alert alert-secondary">This article is also cross-posted on the <a href="https://www.bpl.org/blogs/post/a-candy-tour-of-boston/">BPL Blog</a>.</div>
 
 There were many candy factories in Greater Boston in the late nineteenth and early twentieth centuries. If we walked the streets, we'd smell the sweet air around these places. They'd be pleasant pockets within the overall stench of the city in that time. Using urban atlases of Boston in [Atlascope](http://atlascope.leventhalmap.org/) and historical documents in [Digital Commonwealth](https://www.digitalcommonwealth.org/), we can imagine how these industries would shape their neighborhoods. Today, we'll tour some of those neighborhoods and examine their candy making facilities.
