@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524
 date = 2021-02-18T21:11:07Z
 description = "A roundup of some of our Black history posts from over the years"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nh99v/33,1418,4052,2034/full/0/default.jpg"
-tags = ["Black History", "retrospective"]
+tags = ["Black History Month ", "Collections"]
 title = "Black History: more than just a month"
 
 +++

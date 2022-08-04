@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524
 date = 2021-03-04T05:02:00Z
 description = "How much of Boston's present-day property value would have been underwater in 1630?"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n431x/879,1852,2929,1694/,800/0/default.jpg"
-tags = ["data exploration", "shoreline"]
+tags = ["Data", "Boston", "Collections"]
 title = "Making water into gold"
 
 +++

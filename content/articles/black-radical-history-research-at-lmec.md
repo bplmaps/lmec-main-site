@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633
 date = 2021-02-23T19:56:01Z
 description = "An Interview with Dr. Kerri Greenidge"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc334/full/,1200/0/default.jpg"
-tags = ["Black History", "Interview", "Research", "Historical Geography", "Hyde Park"]
+tags = ["Black history month"]
 title = "Black Radical History Research at LMEC"
 
 +++
