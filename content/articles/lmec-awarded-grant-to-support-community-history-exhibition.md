@@ -7,6 +7,7 @@ image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c3668/407,33
 author: Rachel Sharer
 tags:
 - Exhibition
+- Grant
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c3668/407,337,7126,4765/,1200/0/default.jpg
 
 ---

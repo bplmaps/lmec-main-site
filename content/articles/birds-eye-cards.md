@@ -1,15 +1,12 @@
 ---
-date: 2022-05-26T16:00:52-04:00
+date: 2022-05-26T16:00:52.000-04:00
 title: Landscapes of visual repetition in "Bird's Eye Cards"
 description: A new map visualization invites you to look at patterns in the landscape
   as seen from above
 image: "/uploads/2022-05-25/birds_eye_cards_screenshot.jpg"
 author: Garrett Dash Nelson
 tags:
-- visualization
 - interactive
-- aerial imagery
-- landscape
 backgroundImage: "/uploads/2022-05-25/birds_eye_cards_screenshot.jpg"
 
 ---
