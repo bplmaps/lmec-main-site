@@ -8,11 +8,10 @@ description: A new grant-funded project in collaboration with faculty and studen
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5712mp81g/874,1346,3691,2210/,1200/0/default.jpg
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5712mp81g/874,1346,3691,2210/,1200/0/default.jpg
 tags:
-- pK-12 education
 - grant
-- geospatial data
 - GIS
-- collaboration
+- k12
+- education
 
 ---
 Bringing tools, insights, and critical perspectives to learners of all kinds is one of the goals we care most about at the Leventhal Center. For that reason, we’re thrilled to be partners on a grant from the [Abdul Lateef Jameel World Education Lab](https://jwel.mit.edu/) which will help us extend our ongoing work on geospatial data literacy for pK-12 teachers and young learners. We are also excited that this project will allow us to strengthen our existing relationships with MIT’s [Data + Feminism Lab](https://dataplusfeminism.mit.edu/) and its [Department of Urban Studies and Planning](dusp.mit.edu/).

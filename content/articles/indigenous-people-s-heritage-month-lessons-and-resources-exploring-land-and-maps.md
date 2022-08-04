@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js95
 date = 2021-11-15T16:00:00Z
 description = "November is Indigenous People’s Heritage Month, a chance to unlearn entrenched narratives and relearn the complex history and modern presence of Native people across North America"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js957750m/1074,525,6892,3985/1200,/0/default.jpg"
-tags = ["K-12 education", "Indigenous people", "Native people", "colonization"]
+tags = ["K12", "Education", "Collections"]
 title = "Indigenous People’s Heritage Month: Lessons and Resources Exploring Land and Maps"
 
 +++
