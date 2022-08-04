@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257
 date = 2021-02-23T05:00:00Z
 description = "Our forthcoming exhibition \"More or Less in Common\" will explore the geographic relationship between environmental management and historic patterns of injustice"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b898d/3154,909,1983,946/,1200/0/default.jpg"
-tags = ["exhibitions", "preview", "announcement", "environmental justice", "parks", "landscape"]
+tags = ["Exhibition"]
 title = "Coming in 2022: our exhibition on environmental justice"
 
 +++

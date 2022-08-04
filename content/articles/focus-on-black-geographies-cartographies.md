@@ -10,8 +10,6 @@ author: Megan Nally
 tags:
 - Black History Month
 - collections
-- pictorial maps
-- data visualization
 backgroundImage: "/uploads/2022-02-24/americans-of-negro-lineage.jpeg"
 
 ---
