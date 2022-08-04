@@ -3,9 +3,8 @@ author = "Garrett Dash Nelson and Lauren Chen"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2f75r9222/1083,967,4231,2478/,1200/0/default.jpg"
 date = 2021-01-28T17:44:47Z
 description = "Announcing 124 newly-digitized objects from the Boston Redevelopment Authority Collection"
-draft = false
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2f75r9222/1083,967,4231,2478/,1200/0/default.jpg"
-tags = ["twentieth century", "urban history", "urban planning", "collections", "Boston Redevelopment Authority"]
+tags = ["collections", "Boston"]
 title = "A new view into urban renewal in Boston"
 
 +++

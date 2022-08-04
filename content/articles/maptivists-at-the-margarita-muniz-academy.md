@@ -1,5 +1,5 @@
 ---
-date: 2022-01-31T01:00:08-05:00
+date: 2022-01-31T01:00:08.000-05:00
 title: Maptivists at the Margarita Muñiz Academy
 description: 'Our education team spent the first two weeks of January teaching an
   intersession on critical map literacy to a small group of seniors at the Margarita
@@ -7,9 +7,9 @@ description: 'Our education team spent the first two weeks of January teaching a
 image: "/uploads/2022-01-24/img_20220113_104320813.jpg"
 author: 'Michelle LeBlanc '
 tags:
-- K-12 Education
 - Maptivists
-- Mapping our Boston
+- K12
+- Education
 backgroundImage: "/uploads/2022-01-24/img_20220113_104320813.jpg"
 
 ---
