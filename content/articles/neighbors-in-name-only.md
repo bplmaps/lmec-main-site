@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js95
 date = 2021-05-13T15:36:02Z
 description = "A new interactive shows inequalities across borders in Massachusetts"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j59s/2484,6031,4191,1942/,1200/0/default.jpg"
-tags = ["data", "visualization", "cross-post", "Massachusetts", "inequality", "borders"]
+tags = ["data", "boston", "interactive"]
 title = "Neighbors in name only"
 
 +++

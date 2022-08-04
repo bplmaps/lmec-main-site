@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633
 date = 2021-05-06T17:01:20Z
 description = "A writeup about a study of our digital exhibition appears in the Spring 2021 edition of the New England Museum Association's journal"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff45b/3182,3087,3849,1727/,1200/0/default.jpg"
-tags = ["gallery", "museum studies", "cross-post", "evaluation", "Bending Lines"]
+tags = ["exhibition"]
 title = "Studying the Bending Lines exhibition in New England Museums Now"
 
 +++
