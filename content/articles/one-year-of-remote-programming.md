@@ -4,7 +4,7 @@ backgroundImage = "https://fedora.digitalcommonwealth.org/fedora/objects/commonw
 date = 2021-03-22T18:39:33Z
 description = "After being closed for a year, we've built up a wealth of online offerings for you to use anytime!"
 image = "https://fedora.digitalcommonwealth.org/fedora/objects/commonwealth:q524n594d/datastreams/access800/content"
-tags = ["online programming", "covid", "atlascope", "bending lines", "boston redevelopment authority", "education"]
+tags = ["atlascope", "education", "exhibition"]
 title = "One Year of Remote Programming"
 
 +++

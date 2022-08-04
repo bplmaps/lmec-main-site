@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x920
 date = 2021-03-08T15:45:38Z
 description = "Monopoly: an exciting and fun way to look at mapping a city, or an insidious history of commodification and segregation?"
 image = "https://upload.wikimedia.org/wikipedia/commons/5/52/Landlords_Game_1906_image_courtesy_of_T_Forsyth_owner_of_the_registered_trademark_20151119.jpg"
-tags = ["board games", "this day in history", "maps in the wild"]
+tags = ["Collections"]
 title = "Monopolizing Streets"
 
 +++

@@ -4,7 +4,7 @@ backgroundImage = "/uploads/2021-03-17/survey_stone.jpg"
 date = 2021-03-19T05:02:00Z
 description = "We spoke with Massachusetts Department of Transportation's lead developer to discuss what it means to oversee public data"
 image = "/uploads/2021-03-17/survey_stone.jpg"
-tags = ["GIS Data", "Data Curation", "Library Services", "Public Resources", "Get to Know Your Data"]
+tags = ["Get to Know Your Data", "gis", "data"]
 title = "Get to Know Your Data: A Conversation with MassDOT"
 
 +++

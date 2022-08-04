@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht25
 date = 2021-03-26T04:00:00Z
 description = "An archaeologist at the Andersonville prison camp describes how a map from the LMEC collections helped solve a puzzle about history"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250356j/997,3267,2722,961/,1200/0/default.jpg"
-tags = ["guest post", "Civil War", "research", "archaeology"]
+tags = ["Civil War", "collections"]
 title = "A Civil War map goes on trial"
 
 +++

@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257
 date = 2021-04-02T13:57:17Z
 description = "A selection of maps from Aprils past 💐"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bd02d/full/,1200/0/default.jpg"
-tags = ["collections", "april", "maps of the month"]
+tags = ["collections"]
 title = "April Showers Bring Map Flowers!"
 
 +++
