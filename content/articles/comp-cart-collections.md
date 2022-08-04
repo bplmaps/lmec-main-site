@@ -1,18 +1,15 @@
 ---
 title: Growing our collections in the history of computer cartography
 author: Ian Spangler
-description: At the Map Center, exciting donations have motivated a new collections interest
+description: At the Map Center, exciting donations have motivated a new collections
+  interest
 date: 2022-06-22T01:30:00.000+00:00
 image: images/blog/gis5-crop.png
 backgroundImage: images/blog/gis5-crop.png
 tags:
 - GIS
-- computer cartography
-- digital mapping
-- spatial data
 
 ---
-
 >The Map Center is **soliciting donations in the area of early computer cartography**, including maps, datasets (physical or born-digital), papers, and other cartographic objects produced between 1960 and 2000. In this post, we introduce **two new collections** that exemplify this interest.
 
 Here at the Map Center, we're thrilled to welcome two new archival collections which help narrate the history of computer cartography: the **[Applied Geographics, Inc. Records](https://www.leventhalmap.org/collections/archival-collections/)** and the **David J. Weaver Collection**.

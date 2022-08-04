@@ -7,10 +7,7 @@ date: 2021-11-29T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/767,440,14004,6047/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/12635,9620,1447,571/,1200/0/default.jpg
 tags:
-- real estate
-- NAREB
-- pictorial maps
-- early 20th century
+- Collections
 
 ---
 ### Meet "The NAREB Map"

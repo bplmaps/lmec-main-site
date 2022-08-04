@@ -5,7 +5,8 @@ description: The Leventhal Center has been awarded a Library of Congress Teachin
   with Primary Sources (TPS) Regional Grant to support a 2023 urban atlas exhibition.
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c3668/407,337,7126,4765/,1200/0/default.jpg
 author: Rachel Sharer
-tags: []
+tags:
+- Exhibition
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c3668/407,337,7126,4765/,1200/0/default.jpg
 
 ---

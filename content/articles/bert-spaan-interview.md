@@ -1,17 +1,15 @@
 ---
 title: 'All the maps, all the time: an interview with Bert Spaan'
 author: Bert Spaan & Ian Spangler
-description: Digitized maps—especially georeferenced ones—can be tough to find,
-  hard to access, and difficult to bring to life. With his Allmaps project, Bert Spaan
+description: Digitized maps—especially georeferenced ones—can be tough to find, hard
+  to access, and difficult to bring to life. With his Allmaps project, Bert Spaan
   is trying to change that.
 date: 2022-06-17T10:30:00.000+00:00
 image: images/blog/allmaps-card.png
 backgroundImage: images/blog/allmaps-banner.png
 tags:
 - GIS
-- georeferencing
-- digital humanities
-- map collections
+- Georeferencing
 
 ---
 > [Georeferencing](https://cartinal.leventhalmap.org/guides/georeference.html) helps take images of maps—like this [map of the Russian invasion of Ukraine](https://www.aljazeera.com/wp-content/uploads/2022/03/INTERACTIVE-Russia-Ukraine-map-Who-controls-what-in-Ukraine-DAY-8.png?resize=770%2C513), or the [Sanborn maps featured in this article](https://www.bloomberg.com/news/articles/2014-10-13/the-accidental-revelations-of-sanborn-maps)—and turns them into spatial data that can be read by modern mapping software like Google Maps, ArcGIS, or [QGIS](https://cartinal.leventhalmap.org/guides/get-started-qgis/). We rely on georeferencing in a lot of our work at the Map Center, with [Atlascope](https://atlascope.leventhalmap.org/) using with over one hundred georeferenced atlases of Greater Boston. 
