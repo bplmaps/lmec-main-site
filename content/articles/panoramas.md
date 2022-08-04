@@ -3,13 +3,11 @@ author = "Garrett Dash Nelson"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3763158/1778,456,4269,2313/,1200/0/default.jpg"
 date = 2021-01-29T11:58:53Z
 description = "Transforming our panoramic views into virtual reality offers an opportunity to jump inside the map's perspective"
-draft = false
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3763158/1778,456,4269,2313/,1200/0/default.jpg"
-tags = ["collections","virtual reality","panorama","interactive"]
+tags = ["collections", "interactive"]
 title = "Maps that will make your head spin"
 
 +++
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.css"/>
 <style>
     .pnlm-load-button > p, .pnlm-load-box > p { color: white !important; }
@@ -66,4 +64,3 @@ pannellum.viewer('bunker-hill-pano', {
     "panorama": "https://geoservices.leventhalmap.org/files/panoramas/bunker-hill-pano.jpg"
 });
 </script>
-

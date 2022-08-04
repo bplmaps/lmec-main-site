@@ -5,7 +5,7 @@ date = 2021-05-28T04:00:00Z
 description = "We spoke with the Massachusetts Housing Partnership about public access to housing data"
 image = "/uploads/2021-05-21/1.png"
 slug = "get-to-know-your-data-center-for-housing-data"
-tags = ["GIS", "geospatial", "data", "transit", "housing", "housing shortage", "segregation", "housing equity", "data management", "critical data studies"]
+tags = ["GIS", "data", "segregation", "Get to know your data"]
 title = "Get to Know Your Data: The Center for Housing Data"
 
 +++

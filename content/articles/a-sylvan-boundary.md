@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11
 date = 2020-11-23T17:00:00Z
 description = "Why the line between Massachusetts and New Hampshire pivots around a pine tree"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z5748/313,3088,2483,1172/,800/0/default.jpg"
-tags = ["30DayMapChallenge", "boundaries", "New England", "New Hampshire", "Massachusetts", "surveying"]
+tags = ["Collections"]
 title = "A sylvan boundary"
 
 +++

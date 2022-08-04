@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524
 date = 2021-06-02T20:16:22Z
 description = "Featuring a few of the creatures from the depths of our collections"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n362q/3173,3146,670,525/full/0/default.jpg"
-tags = ["map monsters", "fun"]
+tags = ["Collections"]
 title = "Map Monsters, Ahoy"
 
 +++
