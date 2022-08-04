@@ -5,7 +5,7 @@ date = 2021-04-16T04:00:00Z
 description = "We spoke with City of Boston analysts about creating and maintaining publicly engaging and socially responsible datasets"
 image = "/uploads/2021-04-06/1.png"
 slug = "get-to-know-your-data-boston-parks"
-tags = ["GIS", "geospatial", "data", "Responsible Data Governance", "Public Assets", "Get to Know Your Data", "Parks", "critical data studies"]
+tags = ["GIS", "data", "Get to Know Your Data"]
 title = "Get to Know Your Data: City of Boston Parks Department"
 
 +++
