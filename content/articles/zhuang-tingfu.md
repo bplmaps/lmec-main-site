@@ -7,11 +7,6 @@ date: 2021-07-30T04:00:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wp98t/150,1539,7823,3446/,1200/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wp98t/150,1539,7823,3446/,1200/0/default.jpg
 tags:
-- guest post
-- China
-- Korea
-- Qing Dynasty
-- East Asia
 - collections
 - map chat
 - MacLean Collection

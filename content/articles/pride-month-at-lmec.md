@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14
 date = 2021-06-23T19:01:04Z
 description = "Taking a look at the rainbows of our collection"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149x51j/full/,1200/0/default.jpg"
-tags = ["pride", "rainbows", "pictorial maps"]
+tags = ["Collections"]
 title = "Pride Month at LMEC"
 
 +++
