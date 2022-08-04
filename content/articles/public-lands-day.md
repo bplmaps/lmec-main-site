@@ -1,15 +1,13 @@
 +++
 author = "Rachel Mead"
+backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc57z/1638,1099,1729,1631/,800/0/default.jpg"
 date = 2020-09-24T10:00:00Z
 description = "Public lands are important to celebrate, but we should also think about who owned them first"
-draft = false
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc57z/1638,1099,1729,1631/,800/0/default.jpg"
-backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc57z/1638,1099,1729,1631/,800/0/default.jpg"
-tags = ["social media post", "Native history"]
+tags = ["Collections"]
 title = "Public Lands Day"
 
 +++
-
 On National Public Lands Day, take some time to celebrate the protection and preservation of lands set aside for the public good. But while you're doing so, it's worth considering how land in North America came to be "public" in the first place. Long before Euro-American governments acquired what would become their "public domain," the land of North America was home to millions of Native people.  
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc57z/1754,1106,1800,1512/,1200/0/default.jpg" caption="An [1890 map of Yosemite Valley](https://collections.leventhalmap.org/search/commonwealth:4m90fc56p) ">}}

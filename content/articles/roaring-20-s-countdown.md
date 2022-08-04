@@ -4,7 +4,7 @@ backgroundImage = ""
 date = 2021-01-04T20:39:29Z
 description = "These maps from our collections, one for each 20s decade starting in 1520, helped us count down to New Years 2021"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:k643f9016/184,166,4010,5821/,1200/90/default.jpg"
-tags = ["social media", "New Years", "centuries"]
+tags = ["Collections"]
 title = "Roaring Twenties Countdown"
 
 +++

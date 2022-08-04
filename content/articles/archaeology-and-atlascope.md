@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70
 date = 2021-02-10T10:22:00Z
 description = "How the City Archaeologist of Boston uses our tool to dig"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rw38w/1085,813,4500,2402/,1200/0/default.jpg"
-tags = ["Archaeology", "Joe Bagley", "Boston History", "Atlascope"]
+tags = ["Atlascope", "Boston"]
 title = "Archaeology and Atlascope"
 
 +++

@@ -4,7 +4,7 @@ backgroundImage = "https://digital.library.unt.edu/iiif/ark:/67531/metadc840/m1/
 date = 2020-12-30T14:02:31Z
 description = "A Newsmap from December 1945 shows how cartographic projection promoted the U.S. view of itself as a global power"
 image = "https://digital.library.unt.edu/iiif/ark:/67531/metadc840/m1/1/820,511,836,499/full/0/default.jpg"
-tags = ["Bending Lines", "projections", "Newsmap"]
+tags = ["Exhibition", "Collections"]
 title = "Stretching the world at the end of a war"
 
 +++
