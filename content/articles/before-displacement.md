@@ -1,19 +1,18 @@
 ---
-title: "Before Displacement: An Urban History"
-description: Undergraduates at the College of the Holy Cross used Atlascope to research the buildings and landscapes of Boston that were destroyed by the Central Artery
+title: 'Before Displacement: An Urban History'
+description: Undergraduates at the College of the Holy Cross used Atlascope to research
+  the buildings and landscapes of Boston that were destroyed by the Central Artery
 date: 2021-06-18T04:00:00.000+00:00
-author: Amy Finstein, Paige Epp, Sydney Fisher, Elyse Cote, Renata Palau, and Kristen Weber
+author: Amy Finstein, Paige Epp, Sydney Fisher, Elyse Cote, Renata Palau, and Kristen
+  Weber
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bx70n/2724,503,4696,2135/,1200/0/default.jpg
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bx70n/2724,503,4696,2135/,1200/0/default.jpg
 tags:
 - Atlascope
-- urban history
-- university teaching
-- student project
-- displacement
-- 20th century
----
+- Education
+- Boston
 
+---
 In the Spring 2021 semester, my urban history students at College of the
 Holy Cross undertook a semester-long research project focused on the
 history of the land currently filled by Boston's Rose Kennedy Greenway.

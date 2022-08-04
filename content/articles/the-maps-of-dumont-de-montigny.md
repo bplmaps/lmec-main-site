@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603
 date = 2021-06-19T03:59:00Z
 description = "An exploration of one cartographer's work mapping French colonial sites in Louisiana"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vn51h/full/,1200/0/default.jpg"
-tags = ["Louisiana", "American Revolution", "Newberry Library", "partner collection"]
+tags = ["American Revolution"]
 title = "The Maps of Dumont de Montigny"
 
 +++

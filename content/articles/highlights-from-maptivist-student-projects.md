@@ -3,13 +3,11 @@ author = "Lynn Brown"
 backgroundImage = "/uploads/2021-06-17/maptivist-screenshot.png"
 date = 2021-06-17T14:43:33Z
 description = "High school students working with our educators explored the question of how racial ideas become spatial practice in Boston"
-draft = false
 image = "/uploads/2021-06-17/maptivist-screenshot.png"
-tags = ["maptivists", "K-12", "race", "Boston Public Schools"]
+tags = ["maptivists", "K-12", "Education"]
 title = "Highlights from Maptivist student projects"
 
 +++
-
 Over the course of a semester, a small group of juniors and seniors in the [Maptivist elective course](https://www.leventhalmap.org/education/k12/maptivists/) explored the question _how do racial ideas become spatial practice in Boston?_ with educators from the Leventhal Map & Education Center team. After an introductory set of activities, readings and guest speakers, students chose three topics to look at more closely: 
 
 * segregation and integration by economics and choice
