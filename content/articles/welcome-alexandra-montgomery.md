@@ -1,22 +1,17 @@
 ---
 title: An interview with Alexandra Montgomery
-draft: false
 author: Alexandra Montgomery and Garrett Dash Nelson
-description: Our new postdoctoral fellow joins the ARGO team and tells us a bit about how maps have shaped her perspective as a historian
-date: 2021-06-22T03:59:00Z
+description: Our new postdoctoral fellow joins the ARGO team and tells us a bit about
+  how maps have shaped her perspective as a historian
+date: 2021-06-22T03:59:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z550p/5470,938,5289,2252/,1200/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11z550p/5470,938,5289,2252/,1200/0/default.jpg
 tags:
- - welcome interview
- - staff
- - ARGO
- - American Revolution
- - history
- - announcement
- - Nova Scotia
+- staff
+- ARGO
+- American Revolution
 
 ---
-
 > In this interview, we talk with the newest member of the extended Leventhal Map & Education Center team: Dr. Alexandra Montgomery, who joins the American Revolutionary Geographies Online project as a postdoctoral fellow. The project—ARGO for short—is a partnership between the Leventhal Center and the [Washington Library at Mount Vernon](https://www.mountvernon.org/library/). Together, we're building a new portal that brings historic collections and interpretation together to show how maps and geography can reshape our understanding of the era of the American Revolution.
 > 
 > Dr. Montgomery will be coordinating many of ARGO's first initiatives—and also providing her own expertise on the subject! She earned her PhD from the University of Pennsylvania in 2020, and has previously worked with the [Institute for Thomas Paine Studies][1], the [Kislak Center for Special Collections, Rare Books and Manuscripts][2], and the [American Philosophical Society][3], where she assisted in the creation of a book and [digital exhibition][4] on a collection of land deeds from Chester County, Pennsylvania. She'll be based at Mount Vernon, but working closely with the Boston team as well.

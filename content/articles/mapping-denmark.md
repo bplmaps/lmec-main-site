@@ -1,15 +1,15 @@
 ---
-date: 2022-07-02T05:00:52-05:00
-title: 'A cartographic trip to Denmark'
-description: In celebration of Alan Leventhal's appointment as US Ambassador to Denmark, we take a look at some Danish connections in our collections
+date: 2022-07-02T05:00:52.000-05:00
+title: A cartographic trip to Denmark
+description: In celebration of Alan Leventhal's appointment as US Ambassador to Denmark,
+  we take a look at some Danish connections in our collections
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cb25h/512,424,6080,2811/,1200/0/default.jpg
 author: Garrett Dash Nelson
 tags:
-- Denmark
-- Copenhagen
+- Collections
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cb25h/512,424,6080,2811/,1200/0/default.jpg
----
 
+---
 Alan Leventhal—the son of our founder Norman B. Leventhal, a longtime supporter of our work, and the Chair of our Board of Directors from 2020 to 2022—was recently [sworn in as the U.S. Ambassador to Denmark](https://www.majorityleader.gov/content/hoyer-statement-senate-confirmation-alan-leventhal-ambassador-denmark). To celebrate Alan’s new role, let's take a tour of maps and materials about Denmark from the Leventhal Center and BPL collections. 
 
 

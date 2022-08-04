@@ -3,16 +3,12 @@ title: A Japanese Map of the World
 description: In this interactive Map Chat from the MacLean Collection, learn more
   about how Japanese mapmakers saw the world in late 18th and early 19th centuries
 author: Elke Papelitzky
-date: 2022-06-30T00:00:00-04:00
+date: 2022-06-30T00:00:00.000-04:00
 image: "/uploads/2022-06-22/japan_map_chat_screenshot.png"
 backgroundImage: "/uploads/2022-06-22/japan_map_chat_screenshot.png"
 tags:
-- guest post
 - map chat
 - MacLean Collection
-- Japan
-- world map
-- Edo period
 
 ---
 > This is the sixth in a series of Map Chats commissioned by Richard Pegg, Director and Curator of the [MacLean Collection](https://www.macleancollection.com) in Illinois. This interactive Map Chat takes you into the cartographic perspective seen from a Japanese map of the world: 萬國全圖 or _Bankoku zenzu_."
