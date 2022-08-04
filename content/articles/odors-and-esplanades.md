@@ -6,11 +6,7 @@ description: 'When it comes to urban ecological changes, there''s more to smell 
 date: 2022-03-10T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71r300q/321,2202,3393,1913/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71r300q/321,2602,3393,1013/1200,/0/default.jpg
-tags:
-- More or Less in Common
-- Odors
-- Board of Health
-- Late 19th century
+tags: []
 
 ---
 > This article features objects from our upcoming exhibition on environmental justice, *[More or Less in Common](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/)*, opening March 18. We can't wait to see you there!

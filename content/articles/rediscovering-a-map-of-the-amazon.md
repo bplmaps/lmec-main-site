@@ -1,20 +1,17 @@
 ---
 title: Rediscovering a Map of the Amazon
-description: A 1755 map created by a German Jesuit missionary for the Portuguese Empire casts new light on early European efforts to map the Amazon River valley
+description: A 1755 map created by a German Jesuit missionary for the Portuguese Empire
+  casts new light on early European efforts to map the Amazon River valley
 author: Mirela Altic
 date: 2022-03-16T04:00:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:mw22xp469/230,1577,3923,2086/,1200/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:mw22xp469/230,1577,3923,2086/,1200/0/default.jpg
 tags:
-- guest post
-- Amazon
-- South America
 - collections
 - map chat
 - MacLean Collection
 
 ---
-
 > This is the fourth in a series of Map Chats commissioned by Richard Pegg, Director and Curator of the [MacLean Collection](https://www.macleancollection.com) in Illinois. This Map Chat is written by Mirela Altic during a fellowship at the MacLean Collection.
 
 

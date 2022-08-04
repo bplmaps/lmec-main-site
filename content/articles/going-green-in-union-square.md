@@ -1,5 +1,5 @@
 ---
-date: 2022-03-24T00:00:00-04:00
+date: 2022-03-24T00:00:00.000-04:00
 title: Going Green In Union Square
 description: This past Monday marked the historic opening of the new Union Square
   stop on the MBTA's Green Line extension. In this article, we unpack the history
@@ -7,7 +7,8 @@ description: This past Monday marked the historic opening of the new Union Squar
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8336h321k/5769,3284,917,438/1200,/0/default.jpg
 author: Rachel Sharer
 tags:
-- Transit Justice
+- Collections
+- Boston
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8336h321k/5769,3284,917,438/1200,/0/default.jpg
 
 ---

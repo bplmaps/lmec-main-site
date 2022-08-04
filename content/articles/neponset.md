@@ -1,6 +1,6 @@
 ---
-date: 2022-04-14T13:00:33-04:00
-title: "Power, Paper, and PCBs: An Environmental History of the Lower Neponset River"
+date: 2022-04-14T13:00:33.000-04:00
+title: 'Power, Paper, and PCBs: An Environmental History of the Lower Neponset River'
 description: 'Last month, the EPA announced the addition of the Lower Neponset River
   to the Superfund National Priorities List—a designation that will provide federal
   resources for a long-awaited environmental hazard investigation and cleanup project. '
@@ -9,9 +9,8 @@ author: Megan Nally
 tags:
 - Atlascope
 - exhibition
-- Environmental Justice
+- Boston
 backgroundImage: "/uploads/2022-03-15/commonwealth_x633ff663_image_access_800.jpg"
-draft: false
 
 ---
 {{< figure src="/uploads/2022-03-15/super.jpeg" caption="[This EPA map](https://www.neponset.org/superfund-lower-neponset-river/) defines the Lower Neponset River as the 3.7-mile stretch of the Neponset River from the confluence with Mother Brook to the Walter Baker Dam." class="figure-right" >}}
@@ -80,4 +79,4 @@ How did this early chocolate business come to settle along the Neponset? In 1764
 
 Though the Walter Baker and Tileston & Hollingsworth facilities were likely not responsible for PCB pollution, their historic geographic sites are home to the highest concentration of pollutants today. According to a [report](https://www.neponset.org/archived-pages/public-health/) from the [Neponset River Watershed Association](https://www.neponset.org/), concentrations are the highest "in Hyde Park behind the T&H Dam... \[and\] lower, but still quite high, behind the Baker Dam and in the area known as the 'braided channel' between the two dams." Both the Baker Dam and T&H Dam were reconstructed in the [mid-1960s](https://www.neponset.org/archived-pages/historic-resources/#:\~:text=As%20a%20relatively%20small%20river,in%201634%20by%20Israel%20Stoughton.) to replace damaged infrastructure after [Hurricanes Connie and Diane](https://www.waymarking.com/waymarks/WMEEG5_Tileston_Hollingsworth_TH_Dam_Boston_Milton_MA) and manage future flood control of the river. Today, PCB contamination from [post-1930](https://www.mass.gov/info-details/lower-neponset-river-site) industrial facilities have "bound to sediment particles...flowed downstream...\[and\] settled out behind the dams." 
 
-> See [here](https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0102204) for the latest news and updates on the Neponset site. 
+> See [here](https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0102204) for the latest news and updates on the Neponset site.
