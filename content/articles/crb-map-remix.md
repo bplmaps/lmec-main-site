@@ -5,10 +5,7 @@ description: Reflections from the mapmaker...and a chance to remix the map yours
 date: 2022-07-18T01:30:00.000+00:00
 image: "/images/blog/crb-sv-maps.png"
 backgroundImage: "/images/blog/crb-sv-maps.png"
-tags:
-- climate change
-- environmental justice
-- cartography
+tags: []
 
 ---
 When I'm making a map, I'm intimately aware of the power that I have over the final image. I get to decide what data layers, colors, symbols, and labels make their way into the frame. I make choices about what is "in" focus, so to speak, and what fades into the background (or what doesn't appear at all).

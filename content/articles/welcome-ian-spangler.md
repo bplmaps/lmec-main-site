@@ -6,10 +6,8 @@ date: 2021-11-03T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n1743/661,702,8449,4015/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n1743/661,702,8449,4015/full/0/default.jpg
 tags:
-- interview
-- staff
-- announcement
 - GIS
+- Staff
 
 ---
 > As part of his first week of work, we spoke with [Ian Spangler](/about/people/ian-spangler), the new Assistant Curator of Digital & Participatory Geography at the Leventhal Map & Education Center. Ian holds an MA in Geography from the University of Kentucky, and is currently completing his dissertation on the politics of digital real estate information.
@@ -74,4 +72,4 @@ Looking at his maps, I'm always struck by how they seem to represent multiple di
 
 **IS**: I loved my time in Lexington, but it's a landlocked state, and I did miss the water. I'm really looking forward to spending time along the coast, both in Boston and throughout New England more broadly. Maybe I'll even try learning how to sail!
 
-> _As I settle in, I'd love for anyone to [reach out to me](mailto:ispangler@leventhalmap.org). Feel free to drop a line with suggestions on what to explore in Boston, questions about the Map Center, or anything else! —Ian_
+> _As I settle in, I'd love for anyone to_ [_reach out to me_](mailto:ispangler@leventhalmap.org)_. Feel free to drop a line with suggestions on what to explore in Boston, questions about the Map Center, or anything else! —Ian_

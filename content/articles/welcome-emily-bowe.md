@@ -1,18 +1,13 @@
 ---
 title: An interview with Emily Bowe
-draft: false
 author: Emily Bowe and Garrett Dash Nelson
 description: Welcome to the newest member of the LMEC team!
-date: 2021-08-31T01:30:00Z
+date: 2021-08-31T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx798/3552,749,6043,3268/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx798/1904,1069,7976,2692/full/0/default.jpg
-tags:
- - welcome interview
- - staff
- - announcement
+tags: []
 
 ---
-
 > As part of her first week of work, we spoke with [Emily Bowe](/about/people/emily-bowe), the new Assistant Director at the Leventhal Map & Education Center. Emily is joining the team after finishing her master's degree at Parsons School of Design at The New School, where she focused on community data practices, urban infrastructure, and mapping. 
 >
 > In her role as Assistant Director, Emily will coordinate and manage key aspects of the Center's administration and operations, while also leading project-based work on themes connecting cartographic collections and geographic visualization to present-day issues on topics such as urban studies, community history, and the digital humanities.

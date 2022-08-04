@@ -4,7 +4,8 @@ title: A trip to Vacationland
 description: Travel with us to a land far, far away...just 2 hours up I-95.
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7w62hz17g/full/1200,/0/default.jpg
 author: Emily Bowe
-tags: []
+tags:
+- Staff
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7w62hz17g/full/1200,/0/default.jpg
 
 ---

@@ -5,8 +5,7 @@ description: An interview with Fall 2022 Northeastern co-op, Ezra Acevedo
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039np39s/608,1868,2371,1072/full/0/default.jpg
 author: Ezra Acevedo
 tags:
-- welcome interview
-- staff
+- Staff
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761139/full/1200,/0/default.jpg
 
 ---
