@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257
 date = 2021-01-20T00:21:46Z
 description = "Revisit some of the places we visited in our Atlascope tour of Jamaica Plain"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c174j/full/,1200/0/default.jpg"
-tags = ["Atlascope", "local history", "urban atlases"]
+tags = ["Atlascope", "Boston"]
 title = "Highlights from Jamaica Plain By Map"
 
 +++

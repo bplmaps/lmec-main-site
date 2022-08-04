@@ -4,7 +4,7 @@ backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3x81
 date = 2020-12-21T12:34:34Z
 description = "The Leventhal Map & Education Center is breaking new ground in bringing geospatial data empowerment to the public, supported by a grant from the Northeast Big Data Innovation Hub"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3x8177555/full/,1000/0/default.jpg"
-tags = ["grant", "geospatial data", "data empowerment", "new projects"]
+tags = ["grant", "Data"]
 title = "Introducing our Public Data project"
 
 +++
