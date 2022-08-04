@@ -13,7 +13,6 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x
 tags:
 - GIS
 - Get to Know Your Data
-
 ---
 > This article is a part of the **Get to Know Your Data** series, where we talk to the people and institutions that create, store, and share geospatial data. In this installment, we talk to [Scott Markley](https://snmarkley1.github.io), a PhD candidate in the Department of Geography at the University of Georgia, about the creation of redlining maps, and what those maps fail to tell us about race and space in US cities.
 
@@ -24,9 +23,7 @@ At the Leventhal Map & Education Center, we've always been fascinated by Homeown
 {{< figure
 class="figure-right"
 src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x66p/full/,1200/0/default.jpg"
-caption="The [_Mapping Inequality_](https://dsl.richmond.edu/panorama/redlining/) project offers digital access to thousands of redlining maps"
-
-> }}
+caption="The [_Mapping Inequality_](https://dsl.richmond.edu/panorama/redlining/) project offers digital access to thousands of redlining maps" >}}
 
 [HOLC](https://en.wikipedia.org/wiki/Home_Owners%27_Loan_Corporation) was a federal agency established in 1933 to provide mortgage assistance to homeowners or would-be homeowners through loans or refinancing mortgages. To determine where to make loans, HOLC evaluated urban areas based on multiple factors. HOLC maps have become widely used in recent years thanks to the efforts of the [_Mapping Inequality_](https://dsl.richmond.edu/panorama/redlining/) project.
 
