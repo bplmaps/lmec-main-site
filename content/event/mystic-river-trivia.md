@@ -9,6 +9,7 @@ fee: Free
 registration: https://www.eventbrite.com/e/mystic-river-trivia-tickets-337353843427
 tags:
 - exhibition
+- Continued Conversations
 
 ---
 Join us with the [Mystic River Watershed Association](https://mysticriver.org/) (MyRWA) for a conversation on the historic Mystic River and MyRWA's past and present efforts to protect it. This talk will map development along the Mystic River, touching on the need for public access and climate resilience planning.

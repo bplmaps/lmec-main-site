@@ -9,7 +9,6 @@ fee: Free
 registration: https://www.eventbrite.com/e/critical-map-reading-in-the-age-of-misinformation-tickets-262647524817
 tags:
 - Thinking Spatially
-- Workshop
 
 ---
 #### Event video 
