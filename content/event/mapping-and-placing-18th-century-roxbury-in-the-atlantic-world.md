@@ -6,6 +6,7 @@ image = "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F124250781%
 location = "Online"
 publishDate = 2021-03-12T13:01:10Z
 registration = "https://www.eventbrite.com/e/mapping-and-placing-18th-century-roxbury-in-the-atlantic-world-tickets-138498868845?aff=erelexpmlt"
+tags = ["Boston"]
 title = "Mapping and Placing 18th Century Roxbury in the Atlantic World"
 
 +++

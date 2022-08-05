@@ -6,6 +6,7 @@ image = "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F138824905%
 location = "Online"
 publishDate = 2021-06-15T20:35:56Z
 registration = "https://www.eventbrite.com/e/map-show-and-tell-bostons-changing-shoreline-tickets-159718384989"
+tags = ["Boston"]
 title = "Map Show and Tell: Boston's Changing Shoreline"
 
 +++

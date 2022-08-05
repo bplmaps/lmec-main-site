@@ -6,10 +6,13 @@ image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6969z355q/3985
 location = "Online"
 publishDate = 2021-02-04T14:09:25Z
 registration = "https://clements.umich.edu/event/leventhal-bending-lines-exhibit-tour/"
+tags = ["Exhibition"]
 title = "Maps as Text, Subtext, and Hypertext: A behind-the-scenes tour of Bending Lines at the Clements Library"
 
 +++
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< /alert-box >}}
+
+### Event video
 
 _This event has already taken place -- if you missed it, head to_ [_this link_](https://umich.zoom.us/rec/play/Ulaa_7E-njyMK9UVwmbIQc_swpyL7DSbEtxNOprVuEpT_sJBdypA_CO4xRac0lzIDq-gbsQdzz70I0CE.-gw8xXERGkfblaNo?continueMode=true&_x_zm_rtaid=umEYKK0sSu2v3v04igRJsg.1614360400870.6b579f7bd1b2c8a90cc0817155cb6a2b&_x_zm_rhtaid=322) _to watch the recorded Zoom!_
 
