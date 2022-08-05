@@ -7,7 +7,8 @@ backgroundImage: "/uploads/2022-05-26/image_access_800.jpeg"
 location: Online
 fee: Free
 registration: https://bpl.bibliocommons.com/events/620fa903bdf53f3600d6fca8
-tags: []
+tags:
+- Atlascope
 
 ---
 ### Event video 

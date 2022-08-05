@@ -8,11 +8,9 @@ location: Online
 fee: Free
 registration: https://www.eventbrite.com/e/redistricting-roundtable-tickets-252359362647
 tags:
-- Digital Mapping
-- Talk
+- Boston
 
 ---
-
 ### Event video 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Ww_aMQI36Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
