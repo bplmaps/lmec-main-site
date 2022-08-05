@@ -6,6 +6,7 @@ image = "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F130689379%
 location = "Online"
 publishDate = 2021-03-30T18:53:46Z
 registration = "https://www.eventbrite.com/e/brookline-by-map-tickets-148784050099"
+tags = ["Neighborhood by map", "atlascope"]
 title = "Brookline By Map"
 
 +++

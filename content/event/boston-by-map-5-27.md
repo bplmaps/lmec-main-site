@@ -6,6 +6,7 @@ image = "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F121834853%
 location = "Online"
 publishDate = 2021-05-18T12:55:59Z
 registration = "https://www.eventbrite.com/e/boston-by-map-tickets-134524152361"
+tags = ["boston by map", "boston"]
 title = "Boston By Map 5/27"
 
 +++

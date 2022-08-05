@@ -6,6 +6,7 @@ image = "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F125043489%
 location = "Online"
 publishDate = 2021-02-04T15:26:58Z
 registration = "https://www.eventbrite.com/e/cambridge-by-map-tickets-138693671505"
+tags = ["Neighborhood by map", "atlascope"]
 title = "Cambridge By Map"
 
 +++
