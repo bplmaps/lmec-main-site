@@ -1,8 +1,8 @@
 ---
-publishDate: 2022-07-25T11:20:14-04:00
+publishDate: 2022-07-25T11:20:14.000-04:00
 title: 'Visualizing Change in Boston: Using Digital Commonwealth Collections to Tell
   Stories of Places and Activism  '
-date: 2022-09-28T15:00:00-04:00
+date: 2022-09-28T15:00:00.000-04:00
 image: "/uploads/2022-07-25/dc.jpeg"
 backgroundImage: "/uploads/2022-07-25/dc.jpeg"
 location: Online
@@ -10,6 +10,8 @@ fee: Free
 registration: https://membership.digitalcommonwealth.org/event-4863384
 tags:
 - K12
+- Education
+- Boston
 
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< /alert-box >}}

@@ -5,7 +5,7 @@ fee = "Free"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c45p/7386,1785,3559,2078/,1200/0/default.jpg"
 location = "Learning Center"
 publishDate = 2021-09-20T04:00:00Z
-tags = ["exhibition", "Bending Lines", "collections"]
+tags = ["exhibition", "collections"]
 title = "Behind Bending Lines: More Maps of the Chamizal Dispute"
 
 +++

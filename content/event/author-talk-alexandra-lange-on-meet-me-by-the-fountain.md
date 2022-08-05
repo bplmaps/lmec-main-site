@@ -9,7 +9,6 @@ fee: Free
 registration: https://www.eventbrite.com/e/author-talk-alexandra-lange-on-meet-me-by-the-fountain-tickets-373389186107
 tags:
 - author talk
-- exhibition
 
 ---
 > Few places have been as nostalgized, or as maligned, as malls. Since their birth in the 1950s, they have loomed large as temples of commerce, the agora of the suburbs...Yet today, amid the aftershocks of financial crises and a global pandemic, as well as the rise of online retail, the dystopian husk of an abandoned shopping center has become one of our era's defining images. Conventional wisdom holds that the mall is dead. But what was the mall, really? And have rumors of its demise been greatly exaggerated?

@@ -1,7 +1,7 @@
 ---
-publishDate: 2022-03-17T09:14:27-04:00
+publishDate: 2022-03-17T09:14:27.000-04:00
 title: Book Group on "Waste" by Catherine Coleman Flowers
-date: 2022-04-28T18:00:00-04:00
+date: 2022-04-28T18:00:00.000-04:00
 image: "/uploads/2022-03-17/waste.jpeg"
 backgroundImage: "/uploads/2022-03-17/waste.jpeg"
 location: Leventhal Map and Education Center at the Boston Public Library
@@ -9,7 +9,6 @@ fee: Free
 registration: https://www.eventbrite.com/e/book-group-on-waste-by-catherine-coleman-flowers-tickets-300111941897
 tags:
 - exhibition
-- Reading Group
 
 ---
 ### About this event

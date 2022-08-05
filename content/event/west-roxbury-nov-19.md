@@ -1,12 +1,15 @@
 ---
 title: West Roxbury By Map
-date: 2020-11-19T19:00:00-05:00
-publishDate: 2020-10-10T00:00:00
+date: 2020-11-19T19:00:00.000-05:00
+publishDate: 2020-10-10T00:00:00.000+00:00
 image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F113040367%2F167762409652%2F1%2Foriginal.20200929-170855?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=94%2C0%2C1730%2C865&s=de52a372cf336489ee4ae7b1af7a3c76
 backgroundImage: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F113040367%2F167762409652%2F1%2Foriginal.20200929-170855?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=94%2C0%2C1730%2C865&s=de52a372cf336489ee4ae7b1af7a3c76
 location: Online
 fee: Free
 registration: https://www.eventbrite.com/e/west-roxbury-by-map-tickets-123211068623
+tags:
+- Atlascope
+- Neighborhood by map
 
 ---
 ### Event video
