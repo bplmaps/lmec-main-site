@@ -7,9 +7,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8c97m6
 location: Leventhal Map & Education Center
 fee: Free
 registration: https://forms.office.com/r/iWf0PvzCHY
-tags:
-- research
-- writing group
+tags: []
 
 ---
 ### Commit to working on your writing project this summer with an in-person writing group at the Leventhal Center

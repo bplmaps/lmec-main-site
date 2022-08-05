@@ -1,7 +1,7 @@
 ---
-publishDate: 2022-05-05T13:41:29-04:00
+publishDate: 2022-05-05T13:41:29.000-04:00
 title: 'Trains, Planes, and Automobiles: Boston Transit Trivia'
-date: 2022-07-28T18:00:00-04:00
+date: 2022-07-28T18:00:00.000-04:00
 image: "/uploads/2022-05-05/transit.jpeg"
 backgroundImage: "/uploads/2022-05-05/transit.jpeg"
 location: Newsfeed Café, Central Library in Copley Square
@@ -10,6 +10,7 @@ registration: https://www.eventbrite.com/e/trains-planes-and-automobiles-boston-
 tags:
 - exhibtion
 - atlascope
+- trivia
 
 ---
 ### About this event
@@ -26,4 +27,4 @@ Prizes of maps will be awarded to winning teams!
 
 You _may_ want to review [this video](https://www.leventhalmap.org/event/steven-beaucher-on-boston-in-transit/) in preparation.
 
-**Made possible by the research and work of** [**Steven Beaucher**](https://bostonintransit.com/)**.** 
+**Made possible by the research and work of** [**Steven Beaucher**](https://bostonintransit.com/)**.**

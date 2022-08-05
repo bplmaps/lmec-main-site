@@ -1,12 +1,15 @@
 ---
 title: Trivia Night with Emerald Necklace Conservancy
-date: 2020-11-12T19:00:00-05:00
-publishDate: 2020-10-10T00:00:00
+date: 2020-11-12T19:00:00.000-05:00
+publishDate: 2020-10-10T00:00:00.000+00:00
 image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F115889885%2F167762409652%2F1%2Foriginal.20201026-194423?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=26%2C202%2C2330%2C1165&s=5d5c88b38d8ca06cf0fabb0556197c12
 backgroundImage: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F115889885%2F167762409652%2F1%2Foriginal.20201026-194423?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=26%2C202%2C2330%2C1165&s=5d5c88b38d8ca06cf0fabb0556197c12
 location: Online
 fee: Free
 registration: https://www.eventbrite.com/e/leventhal-map-center-and-emerald-necklace-conservancy-trivia-night-tickets-126875673555
+tags:
+- Trivia
+- Atlascope
 
 ---
 ### Event video

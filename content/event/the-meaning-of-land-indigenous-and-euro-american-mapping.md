@@ -6,6 +6,7 @@ image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr380/1587
 location = "Online"
 publishDate = 2020-11-20T14:43:00Z
 registration = "https://forms.office.com/Pages/ResponsePage.aspx?id=2etliuh7d0S1RZtt-BrSowPdbtrrAQ9HsTepOOHgUOZUNThGMUpNR1FYREFSTVRVN0RIR1JPTEtWRC4u"
+tags = ["Education"]
 title = "The Meaning of Land: Indigenous and Euro-American Mapping "
 
 +++
