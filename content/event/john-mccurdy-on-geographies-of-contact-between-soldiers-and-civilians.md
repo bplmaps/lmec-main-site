@@ -8,8 +8,7 @@ location: Online
 fee: Free
 registration: https://www.eventbrite.com/e/john-mccurdy-on-geographies-of-contact-between-soldiers-and-civilians-tickets-241160977977
 tags:
-- American Revolutionary War Era
-- Seminar
+- Richard H. Brown Seminar
 
 ---
 ### Event video 

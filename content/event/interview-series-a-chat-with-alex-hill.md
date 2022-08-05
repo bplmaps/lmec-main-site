@@ -7,8 +7,7 @@ backgroundImage: "/uploads/2022-02-23/det_nhoodagreement.jpg"
 location: Online
 fee: Free
 registration: https://www.eventbrite.com/e/interview-series-a-chat-with-alex-hill-tickets-275172076087
-tags:
-- Interview
+tags: []
 
 ---
 ### Event video 

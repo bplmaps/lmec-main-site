@@ -6,6 +6,7 @@ image = "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F118519271%
 location = "Online"
 publishDate = 2020-12-18T15:01:22Z
 registration = "https://www.eventbrite.com/e/jamaica-plain-by-map-tickets-130323748841"
+tags = ["Atlascope", "Neighborhood by map"]
 title = "Jamaica Plain By Map"
 
 +++

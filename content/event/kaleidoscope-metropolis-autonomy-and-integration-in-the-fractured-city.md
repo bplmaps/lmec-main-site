@@ -6,6 +6,7 @@ image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c20t/346,
 location = "Online"
 publishDate = 2021-01-25T14:00:35Z
 registration = "https://www.masshist.org/calendar/event?event=3427"
+tags = ["Boston"]
 title = "Kaleidoscope Metropolis: Autonomy and Integration in the Fractured City"
 
 +++
