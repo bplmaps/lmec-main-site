@@ -6,6 +6,7 @@ image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv417/1471
 location = "Online"
 publishDate = 2021-03-02T14:58:57Z
 registration = "https://www.eventbrite.com/e/steven-beaucher-on-boston-in-transit-tickets-144003043981"
+tags = ["Boston"]
 title = "Steven Beaucher on \"Boston in Transit\""
 
 +++

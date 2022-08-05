@@ -6,6 +6,7 @@ image = "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F140176655%
 location = "Online"
 publishDate = 2021-06-29T13:35:53Z
 registration = "https://www.eventbrite.com/e/south-boston-by-map-tickets-161633942473"
+tags = ["Atlascope", "Neighborhood by map"]
 title = "South Boston By Map"
 
 +++
