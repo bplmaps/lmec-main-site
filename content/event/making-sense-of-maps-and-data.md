@@ -1,14 +1,14 @@
 ---
 publishDate: 2022-04-04T10:33:05.000-04:00
 title: Making Sense of Maps and Data
-date: 2022-04-26T16:30:00-04:00
+date: 2022-04-26T16:30:00.000-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n1743/full/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n1743/full/full/0/default.jpg
 location: Online
 fee: Free
 registration: https://www.eventbrite.com/e/making-sense-of-maps-and-data-tickets-304931978757
 tags:
-- Atlascope
+- Data
 
 ---
 **Join us for a three-part course on digital geospatial information interpretation**

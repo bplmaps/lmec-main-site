@@ -8,7 +8,6 @@ location: 'Commonwealth Salon, Central Library in Copley Square '
 fee: Free
 registration: https://www.eventbrite.com/e/landscapes-of-social-change-curatorial-intro-to-more-or-less-in-common-tickets-299183504917
 tags:
-- Gallery talk
 - exhibition
 
 ---
