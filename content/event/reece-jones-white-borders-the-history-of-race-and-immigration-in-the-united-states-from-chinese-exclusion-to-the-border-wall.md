@@ -6,7 +6,7 @@ image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w367/791,
 location = "Online"
 publishDate = 2021-08-11T20:28:29Z
 registration = "https://boston-public-library.zoom.us/webinar/register/WN_KNxcsS-_Qd-HYmonh_ikFg"
-tags = ["lecture", "book talk"]
+tags = ["Author Talk"]
 title = "Reece Jones on White Borders: The History of Race and Immigration in the United States from Chinese Exclusion to the Border Wall"
 
 +++
