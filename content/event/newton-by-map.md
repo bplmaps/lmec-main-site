@@ -6,6 +6,7 @@ image = "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F129371591%
 location = "Online"
 publishDate = 2021-03-22T18:24:36Z
 registration = "https://newtonfreelibrary.libcal.com/event/7600373"
+tags = ["Atlascope", "Neighborhood by map"]
 title = "Newton By Map"
 
 +++

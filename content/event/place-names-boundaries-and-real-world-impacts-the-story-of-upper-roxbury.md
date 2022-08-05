@@ -7,7 +7,8 @@ backgroundImage: "/uploads/2022-02-07/roxbury.jpeg"
 location: Online
 fee: Free
 registration: https://www.bu.edu/ioc/2022/01/31/place-names-boundaries-and-real-world-impacts-the-story-of-upper-roxbury/
-tags: []
+tags:
+- Boston
 
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< /alert-box >}}

@@ -7,7 +7,8 @@ backgroundImage: "/uploads/2022-05-13/houses.jpeg"
 location: Roxbury Branch of the Boston Public Library
 fee: Free
 registration: https://www.eventbrite.com/preview?eid=339078973337/
-tags: []
+tags:
+- Boston
 
 ---
 ### About this event

@@ -6,6 +6,7 @@ image = "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F113625257%
 location = "Online"
 publishDate = 2020-11-09T21:15:10Z
 registration = "https://www.eventbrite.com/e/north-end-by-map-tickets-124115269111"
+tags = ["Atlascope", "Neighborhood by map"]
 title = "North End By Map"
 
 +++

@@ -9,8 +9,8 @@ location: In-person
 fee: "$75 "
 registration: https://www.eventbrite.com/e/more-or-less-in-common-teaching-environmental-justice-and-activism-tickets-320876579487
 tags:
-- K-12
-- Professional Development
+- K-12 Professional Development
+- Exhibition
 
 ---
 {{< figure src="/uploads/2022-04-22/final.png" caption="" class="figure-right" >}}
