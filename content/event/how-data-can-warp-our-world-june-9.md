@@ -6,6 +6,7 @@ image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s833/286,
 location = "Online"
 publishDate = 2021-04-06T13:43:52Z
 registration = "https://www.eventbrite.com/e/angles-on-bending-lines-brian-jefferson-on-gis-the-war-on-crime-drugs-tickets-149749784637"
+tags = ["Exhibition"]
 title = "Angles on Bending Lines: Brian Jefferson on geographic information systems and the war on crime and drugs"
 
 +++

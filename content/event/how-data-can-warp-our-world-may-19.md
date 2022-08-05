@@ -6,6 +6,7 @@ image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s833/286,
 location = "Online"
 publishDate = 2021-04-06T13:43:52Z
 registration = "https://www.eventbrite.com/e/luis-alvarez-leon-on-how-maps-and-geog-data-underpin-the-digital-economy-tickets-149751864859"
+tags = ["Exhibition"]
 title = "Angles on Bending Lines: Luis Alvarez León on how maps and geographic data underpin the digital economy"
 
 +++

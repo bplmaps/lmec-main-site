@@ -6,6 +6,7 @@ image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s833/286,
 location = "Online"
 publishDate = 2021-04-06T13:43:52Z
 registration = "https://www.eventbrite.com/e/angles-on-bending-lines-matt-bui-on-how-communities-use-refuse-data-tickets-149751194855"
+tags = ["Exhibition"]
 title = "Angles on Bending Lines: Matt Bui on how communities use—and refuse—data about themselves"
 
 +++

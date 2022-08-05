@@ -6,6 +6,7 @@ image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s833/286,
 location = "Online"
 publishDate = 2021-04-06T13:43:52Z
 registration = "https://www.eventbrite.com/e/morgan-currie-on-cultural-mapping-for-cultural-equity-tickets-149753824721"
+tags = ["Exhibition"]
 title = "Angles on Bending Lines: Morgan Currie on cultural mapping for cultural equity"
 
 +++

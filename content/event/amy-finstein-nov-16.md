@@ -1,11 +1,13 @@
 ---
 title: Amy D. Finstein on Modern Mobility Aloft
-date: 2020-11-16T18:00:00-05:00
-publishDate: 2020-10-10T00:00:00
+date: 2020-11-16T18:00:00.000-05:00
+publishDate: 2020-10-10T00:00:00.000+00:00
 image: https://bpl.bibliocommons.com/events/uploads/images/full/eda64139b8b9dee2f85e2d754e2d1e63/2020.11.16%20Modern%20Ability%20Cover.jpg
 location: Online
 fee: Free
 registration: https://boston-public-library.zoom.us/webinar/register/WN_FCOt80b3SUKmx0d_GCcBqA
+tags:
+- Boston
 
 ---
 ### Event video
