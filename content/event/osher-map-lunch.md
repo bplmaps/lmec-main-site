@@ -1,13 +1,15 @@
 ---
 title: 'Don’t Believe Me On This: Engaging With Truth and Skepticism Through Maps
   & Data'
-date: 2021-09-13T12:00:00-04:00
+date: 2021-09-13T12:00:00.000-04:00
 publishDate: 2020-10-10T00:00:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c45p/7386,1785,3559,2078/,1200/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c45p/7386,1785,3559,2078/,1200/0/default.jpg
 location: Online
 fee: Free
 registration: https://www.eventbrite.com/e/monday-map-lunch-series-garrett-dash-nelson-of-the-leventhal-map-center-tickets-168133336335
+tags:
+- Exhibition
 
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< /alert-box >}}
