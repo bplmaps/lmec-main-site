@@ -1,12 +1,15 @@
 ---
 title: Fields Corner By Map
-date: 2020-11-04T19:00:00-05:00
-publishDate: 2020-10-10T00:00:00
+date: 2020-11-04T19:00:00.000-05:00
+publishDate: 2020-10-10T00:00:00.000+00:00
 image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F112555761%2F167762409652%2F1%2Foriginal.20200924-161748?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=98%2C0%2C1724%2C862&s=cd39c6a755ca5daf23bb69391068a2ac
 backgroundImage: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F112555761%2F167762409652%2F1%2Foriginal.20200924-161748?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=98%2C0%2C1724%2C862&s=cd39c6a755ca5daf23bb69391068a2ac
 location: Online
 fee: Free
 registration: https://www.eventbrite.com/e/fields-corner-by-map-tickets-122577124479
+tags:
+- Atlascope
+- Neighborhood by map
 
 ---
 ### Event video

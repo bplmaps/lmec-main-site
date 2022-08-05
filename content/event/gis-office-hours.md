@@ -4,13 +4,12 @@ date = 2021-01-29T16:00:00Z
 fee = "Free"
 image = "/uploads/noun_woman_1493332.png"
 location = "Online"
-registration = ""
-title = "GIS Office Hours"
 publishDate = 2020-11-09T21:15:10Z
-
+registration = ""
+tags = ["GIS"]
+title = "GIS Office Hours"
 
 +++
-
 #### Get help from our Geospatial Research team with a project or data request
 
 

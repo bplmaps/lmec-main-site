@@ -9,7 +9,8 @@ fee: Free
 registration: https://www.eventbrite.com/e/geographic-data-and-you-an-enrichment-course-for-high-school-students-tickets-232217387457
 tags:
 - Data
-- K-12
+- K12
+- Education
 
 ---
 #### About this event
