@@ -1,7 +1,8 @@
 ---
 title: Fees for Education Programs
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463248b/2539,2014,3647,1198/,1200/0/default.jpg
-cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/5059,2047,4782,3064/400,/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd376543v/447,1188,4692,2233/,1200/0/default.jpg
+cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd376543v/447,1188,4692,2233/,1200/0/default.jpg
+description: Our fee structure for class visits and lessons
 
 ---
 ## About our fee structure

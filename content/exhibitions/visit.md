@@ -42,6 +42,10 @@ Our free gallery tours last approximately 30 minutes and do not require advance 
 
 We welcome groups of visitors both from the general public and from educational institutions. For more information about K-12 visits, see our [K-12 School Visits](/education/k12/school-visits/) page. For university-level visits, see the [University Programs](/education/university/) page.
 
+For private exhibition tours for a group, pelase fill out the form below: 
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrgeimWWossNUt1p?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 ## Accessibility and Translation
 
 Our physical spaces are ADA accessible via a lift from the main level of the BPL's McKim Building. Most, though not all, spaces in the Central Library in Copley Square are accessible. For more information, see the BPL's [Resources and Services for Users with Disabilities](https://www.bpl.org/users-with-disabilities/).
