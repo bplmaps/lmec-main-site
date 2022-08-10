@@ -22,9 +22,6 @@ weekly:
 - day: Sunday
   special: Closed
 exceptions:
-- date: July 29, 2022
-  name: Staff Development Day
-  special: Closed
 - date: September 5, 2022
   name: Labor Day
   special: Closed
