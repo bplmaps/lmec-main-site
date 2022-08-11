@@ -5,11 +5,10 @@ description: 'What can pictorial maps from the mid-20th century tell us about Am
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/full/full/0/default.jpg
 author: Kyler Hoogendoorn-Ecker
 tags: []
-backgroundImage: ''
+backgroundImage: 'https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/full/full/0/default.jpg'
 draft: true
 
 ---
-## Pictorial Maps of Americana
 
 What is it to be “American”? This question, itself, is loaded: residents of the United States have co-opted a term that logically should refer to all inhabitants of the “Americas”. Moreover, the idea that anyone save the indigenous peoples of the area have a right to its territory or identity may in itself be flawed. To ask who is American, or what Americans are, requires geographical, historical, demographic, and cultural discourse on the United States. Three pictorial maps from our collections---Mary Ronin's *[The United States: the Land and its People](https://collections.leventhalmap.org/search/commonwealth:q811p344n)*, William Gropper's *[America, its Folkore](https://collections.leventhalmap.org/search/commonwealth:7w62hz166)*, and Louise E. Jefferson's *[Uprooted People of the U.S.A.](https://collections.leventhalmap.org/search/commonwealth:t722kt12g)*---provide exactly that.
 
