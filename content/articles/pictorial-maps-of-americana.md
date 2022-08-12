@@ -6,7 +6,7 @@ image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/full/f
 author: Kyler Hoogendoorn-Ecker
 tags: [pictorial maps]
 backgroundImage: 'https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/full/full/0/default.jpg'
-draft: true
+draft: false
 
 ---
 
