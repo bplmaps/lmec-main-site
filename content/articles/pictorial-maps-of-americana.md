@@ -1,10 +1,10 @@
 ---
-date: 2022-08-11T10:00:39-04:00
+date: 2022-08-12T10:00:39-04:00
 title: Pictorial Maps of Americana
 description: 'What can pictorial maps from the mid-twentieth century tell us about American identity?'
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/full/full/0/default.jpg
 author: Kyler Hoogendoorn-Ecker
-tags: []
+tags: [pictorial maps]
 backgroundImage: 'https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/full/full/0/default.jpg'
 draft: true
 
