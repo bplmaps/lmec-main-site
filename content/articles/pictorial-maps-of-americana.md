@@ -62,6 +62,4 @@ All in all, the map evokes a spirit of a united America casting aside its intern
 
 All three of these mid-twentieth-century pictorial maps depict the United States through different lenses, and were created for an international audience. They are far more than novelties: in fact, in many ways these maps are pieces of postwar American propaganda. Their parading of the United States as a liberal superpower implicitly invites other nations of the world to align with it, as with the Cold War brewing, American influence abroad became immensely important. Moreover, their synthesis of the vast array of American diversity into one nation provides a piercing insight into the ways these cartographers conceived of the United States, and how we might conceive of it now.
 
-  
-  
- 
+> Kyler Hoogendoorn-Ecker is a rising senior at the Boston Latin School who is [joining the LMEC this summer as part of the Seevak Fellowship Program](https://www.leventhalmap.org/articles/interview-with-kyler/).
