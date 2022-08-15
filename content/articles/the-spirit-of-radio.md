@@ -1,5 +1,5 @@
 ---
-date: 2022-08-12T00:00:03-04:00
+date: 2022-08-12T00:00:03.000-04:00
 title: The Spirit of Radio
 description: Explore some new and old radio maps in our collection, and learn a bit
   about the history of radio communications.
@@ -11,6 +11,8 @@ draft: true
 
 ---
 As a long-time radio-lover, I couldn’t help but smile when I saw this recently-digitized [Philips Radio map](https://collections.leventhalmap.org/search/commonwealth:xs55q1091) appear in our collections portal the other week. It shows international shortwave radio stations around the world, circa 1935. It includes a pictorial sketch of the world in a Mercator projection, an alphabetic index to radio stations across the bottom, and a small inset on the right side showing the radio stations as they relate to different time zones.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039nv56g/full/1200,/0/default.jpg" caption="Walter Eckhard, _Philips Radio_ \[ca. 1935\].">}}
 
 It makes sense that maps and radios go hand-in-hand: the invention of radio was, of course, all about going distances and crossing borders. Public radio first entered the public consciousness in 1920, after wartime restrictions on radio broadcasting were lifted at the end of World War I, and by 1922, a broadcasting boom swept the globe. Radio was not only used for news and weather, but offered expanded programming and entertainment. ([Listen to this recording from the British Library](https://www.bl.uk/collection-items/nellie-melba-singing-home-sweet-home) to hear what is considered one of the pioneering entertainment radio broadcasts, the “[voice around the world](https://earlyradiohistory.us/1920vox.htm)”: Singer Nellie Melba’s June 15, 1920 concert transmitted from Chelmsford, England, across European cities.)
 
