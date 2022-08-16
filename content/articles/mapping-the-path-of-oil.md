@@ -11,7 +11,7 @@ draft: true
 ---
 What’s the first thing you think of when you hear the word “environment”? If you live in the United States, the National Park system might be one of the first things to pop into your head. As a result of the conversation movement, many landscapes were ‘preserved’ into parks for future generations of people to explore… if they have access to a car. This 1950s pictorial map of the western United States shows the “Scenic West” dotted with idyllic scenes of each national park and encourages people to drive the “Chevron Trail” and let Standard Oil fuel the journey.
 
-\[Insert Map\]
+{{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/full/full/0/default.jpg" caption="The Mapping Inequality project offers digital access to thousands of redlining maps" >}}
 
 The colorful scenery depicted serves to gloss over the impacts of the corporations behind the map. At it's core, this map embodies a contradiction: it is an advertisement for companies trying to sell more oil, but the production of oil is a process that threatens natural environments and the communities that rely on them. Additionally, driving—which necessarily uses oil and creates a demand for more oil production—is the only way that many people will be able to even get to these national parks.
 
