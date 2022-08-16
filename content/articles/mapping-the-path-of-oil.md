@@ -13,6 +13,8 @@ What’s the first thing you think of when you hear the word “environment”? 
 
 {{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/full/full/0/default.jpg" caption="The Mapping Inequality project offers digital access to thousands of redlining maps" >}}
 
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/1636,5310,1327,351/full/0/default.jpg" class="popupTooltip" target="blank" >}} “Atomic Research” {{</popup>}}
+
 The colorful scenery depicted serves to gloss over the impacts of the corporations behind the map. At it's core, this map embodies a contradiction: it is an advertisement for companies trying to sell more oil, but the production of oil is a process that threatens natural environments and the communities that rely on them. Additionally, driving—which necessarily uses oil and creates a demand for more oil production—is the only way that many people will be able to even get to these national parks.
 
 In _More or Less in Common_, we explore the impact of oil production at a number of scales and geographies and look at the way maps are part of telling this story. Oil and its production are intertwined with environmental justice and the natural landscape. Oil has negative consequences on people and the environment in every part of its journey from the ground to the gas pump: from increased CO2 emissions to oil spills, air pollution and dangerous working conditions. These effects are often unequally distributed between people, just like access to the natural environment.
