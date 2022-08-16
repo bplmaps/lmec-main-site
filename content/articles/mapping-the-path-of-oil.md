@@ -1,0 +1,38 @@
+---
+date: 2022-08-12T14:48:50-04:00
+title: Mapping the Path of Oil
+description: ''
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/full/full/0/default.jpg
+author: Ezra Acevedo
+tags: []
+backgroundImage: ''
+draft: true
+
+---
+What’s the first thing you think of when you hear the word “environment”? If you live in the United States, the National Park system might be one of the first things to pop into your head. As a result of the conversation movement, many landscapes were ‘preserved’ into parks for future generations of people to explore… if they have access to a car. This 1950s pictorial map of the western United States shows the “Scenic West” dotted with idyllic scenes of each national park and encourages people to drive the “Chevron Trail” and let Standard Oil fuel the journey.
+
+\[Insert Map\]
+
+The colorful scenery depicted serves to gloss over the impacts of the corporations behind the map. At it's core, this map embodies a contradiction: it is an advertisement for companies trying to sell more oil, but the production of oil is a process that threatens natural environments and the communities that rely on them. Additionally, driving—which necessarily uses oil and creates a demand for more oil production—is the only way that many people will be able to even get to these national parks.
+
+In _More or Less in Common_, we explore the impact of oil production at a number of scales and geographies and look at the way maps are part of telling this story. Oil and its production are intertwined with environmental justice and the natural landscape. Oil has negative consequences on people and the environment in every part of its journey from the ground to the gas pump: from increased CO2 emissions to oil spills, air pollution and dangerous working conditions. These effects are often unequally distributed between people, just like access to the natural environment.
+
+Many of the ecological harms of oil are first realized at the site of extraction, where crude oil spills [pollute the natural environment](https://oilspillmonitor.ng/) often very far from the people who utilize the final product. This can be seen in [this map](https://collections.leventhalmap.org/search/commonwealth:4m90fm17f) of Venezuela where the land was divided up by oil companies, many of which come from overseas.
+
+\[Insert Map\]
+
+All over the world, oil is moved, from across America, Venezuela and the Middle east to Britain, Brazil and New York. This 1940 graphic from Standard Oil of New Jersey shows just a fraction of the oil that moved around the world at that time. Large enough to look like it’s own empire, Standard Oil sprawls over the world, extracting oil and moving it around, the yellow lines portraying oil traveling to it’s final destinations while the black represent it’s journey to be refined.
+
+Processing of crude oil also brings its own ecological harms. Along the lower Mississippi, from Baton Rouge to New Orleans, lay many industrial facilities that leak waste and pollution into communities and the lived environment around them – including ones that process petroleum.
+
+\[Insert Map\]
+
+This map from [_Petrochemical America _]()highlights the refineries and their products contributing to toxic air pollution, creating hazardous conditions for their employees and nearby communities. 
+
+This is a much more somber depiction of the use of oil. While the other two were commissioned to portray the oil companies in a positive light, this one was created to show the negatives - using the stark black, white, grey and blue, to portray the myriad of chemicals people are exposed to. There are many industries—not just those that process oil—that cause the pollution in these communities, with their logos floating around the river, and their factories as black dots surrounded by the chemicals they process or produce. 
+
+Chevron’s logo too, pops up on this piece, as a one of the ghostly specters behind the chemical pollution haunting the lower Mississippi. This area has often been called "Petrochemical America" or "Cancer Alley" because of the health impacts left behind by these prevalent facilities. It’s one example of a “[sacrifice zone](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/sacrifice-zones/)”, communities that have been repeatedly targeted by polluting industries – sites of environmental injustices.
+
+These places of environmental injustice are also found closer to home, in communities in Chelsea that have been the sites of storage for oil and jet fuel for the entire city’s consumption, while putting their own communities at the most risk. Chinatown similarly faces increased levels of [air pollution](https://www.wbur.org/news/2022/04/01/boston-chinatown-pollution) because of its proximity to Interstate 90 and 93.
+
+\[Explore the topic of air pollution in Boston more in this continued conversations recording\]
