@@ -21,13 +21,13 @@ Many of the ecological harms of oil are first realized at the site of extraction
 
 \[Insert Map\] ![](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/full/full/0/default.jpg)
 
-All over the world, oil is moved, from across America, Venezuela and the Middle east to Britain, Brazil and New York. This 1940 graphic from Standard Oil of New Jersey shows just a fraction of the oil that moved around the world at that time. Large enough to look like it’s own empire, Standard Oil sprawls over the world, extracting oil and moving it around, the yellow lines portraying oil traveling to it’s final destinations while the black represent it’s journey to be refined.
+All over the world, oil is moved, from across America, Venezuela and the Middle east to Britain, Brazil and New York. This 1940 graphic from Standard Oil of New Jersey shows just a fraction of the oil that moved around the world at that time. Large enough to look like it’s own empire, Standard Oil sprawls over the world, extracting oil and moving it around, the yellow lines portraying oil traveling to it’s final destinations while the black represent it’s journey to be refined in places like Louisiana.{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/3133,2209,718,567/full/0/default.jpg" class="popupTooltip" target="blank" >}} “Louisiana.” {{</popup>}}
 
 Processing of crude oil also brings its own ecological harms. Along the lower Mississippi, from Baton Rouge to New Orleans, lay many industrial facilities that leak waste and pollution into communities and the lived environment around them – including ones that process petroleum.
 
 \[Insert Map\]
 
-This map from [_Petrochemical America _]()highlights the and their products contributing to toxic air pollution, creating hazardous conditions for their employees and nearby communities. Little black dots represent the industrial facilities, surrounded with the names of chemicals they process or produce. 
+This map from [_Petrochemical America _]()highlights the and their products contributing to toxic air pollution, creating hazardous conditions for their employees and nearby communities. Little black dots represent the industrial facilities, surrounded with the names of chemicals they process or produce.
 
 This map is a more somber depiction of the use of oil. While the other two were commissioned to portray the oil companies in a positive, colorful light, this one was created to show the negatives - using the stark black, white, grey, and blue to portray the myriad of chemicals people are exposed to. There are many industries—not just those that process oil—that cause the pollution in these communities, with their logos floating around the river.
 
