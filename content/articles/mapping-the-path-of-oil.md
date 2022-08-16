@@ -1,6 +1,6 @@
 ---
 date: 2022-08-12T14:48:50-04:00
-title: Mapping the Path of Oil
+title: Mapping Depictions of Oil
 description: ''
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/478,316,9869,4947/full/0/default.jpg
 author: Ezra Acevedo
@@ -19,7 +19,7 @@ In _More or Less in Common_, we explore the impact of oil production at a number
 
 Many of the ecological harms of oil are first realized at the site of extraction, where crude oil spills [pollute the natural environment](https://oilspillmonitor.ng/) often very far from the people who utilize the final product. This can be seen in [this map](https://collections.leventhalmap.org/search/commonwealth:4m90fm17f) of Venezuela where the land was divided up by oil companies, many of which come from overseas.
 
-\[Insert Map\]
+\[Insert Map\] ![](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/full/full/0/default.jpg)
 
 All over the world, oil is moved, from across America, Venezuela and the Middle east to Britain, Brazil and New York. This 1940 graphic from Standard Oil of New Jersey shows just a fraction of the oil that moved around the world at that time. Large enough to look like it’s own empire, Standard Oil sprawls over the world, extracting oil and moving it around, the yellow lines portraying oil traveling to it’s final destinations while the black represent it’s journey to be refined.
 
