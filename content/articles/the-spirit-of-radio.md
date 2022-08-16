@@ -30,8 +30,10 @@ The two stations in Massachusetts are in Medford Hillside and Springfield, broad
 
 Radio would remain the most popular communication form for the next three decades. An excerpt from this 1944 map, which is showing a “pictorial history of transport and communications,” highlights how the radio developed from being only able to transport 50 feet in the late 19th century, to just 50 years later when radio “covers the earth” and “is in every home.” By the 1950s, television had become the broadcasting platform of choice.
 
-**Other radio maps in our collection include**:
+Other radio maps in our collection include: A [1922 map](https://collections.leventhalmap.org/search/commonwealth:1257b861r) created by the Radio Corporation of America (RCA) showing their “direct marine radio service to and from ships at sea,” (with northern stations 
 
-A [1922 map](https://collections.leventhalmap.org/search/commonwealth:1257b861r) created by the Radio Corporation of America (RCA) showing their “direct marine radio service to and from ships at sea,” (with northern stations located in Chatham and on Nantucket); and [this 1942 map](https://collections.leventhalmap.org/search/commonwealth:0z709771m) of radio stations and cables in the Philippines.
+{{< popup src="[https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b8621/3360,220,1321,940/full/0/default](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b8621/3360,220,1321,940/full/0/default.jpg "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b8621/3360,220,1321,940/full/0/default")" class="popupTooltip" target="blank" >}} located in Chatham and on Nantucket) {{</popup>}}
+
+; and [this 1942 map](https://collections.leventhalmap.org/search/commonwealth:0z709771m) of radio stations and cables in the Philippines.
 
 **Finally, a bonus:** I love [this website](http://radio.garden/visit/madison-wi/1UcAQN3y) (also available as an app) that lets you tune in live to radio stations around the world. Perfect for geography and radio lovers alike!
