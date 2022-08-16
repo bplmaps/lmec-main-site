@@ -2,7 +2,7 @@
 date: 2022-08-12T14:48:50-04:00
 title: Mapping the Path of Oil
 description: ''
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/full/full/0/default.jpg
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/478,316,9869,4947/full/0/default.jpg
 author: Ezra Acevedo
 tags: []
 backgroundImage: ''
@@ -27,12 +27,14 @@ Processing of crude oil also brings its own ecological harms. Along the lower Mi
 
 \[Insert Map\]
 
-This map from [_Petrochemical America _]()highlights the refineries and their products contributing to toxic air pollution, creating hazardous conditions for their employees and nearby communities. 
+This map from [_Petrochemical America _]()highlights the and their products contributing to toxic air pollution, creating hazardous conditions for their employees and nearby communities. Little black dots represent the industrial facilities, surrounded with the names of chemicals they process or produce. 
 
-This is a much more somber depiction of the use of oil. While the other two were commissioned to portray the oil companies in a positive light, this one was created to show the negatives - using the stark black, white, grey and blue, to portray the myriad of chemicals people are exposed to. There are many industries—not just those that process oil—that cause the pollution in these communities, with their logos floating around the river, and their factories as black dots surrounded by the chemicals they process or produce. 
+This map is a more somber depiction of the use of oil. While the other two were commissioned to portray the oil companies in a positive, colorful light, this one was created to show the negatives - using the stark black, white, grey, and blue to portray the myriad of chemicals people are exposed to. There are many industries—not just those that process oil—that cause the pollution in these communities, with their logos floating around the river.
 
-Chevron’s logo too, pops up on this piece, as a one of the ghostly specters behind the chemical pollution haunting the lower Mississippi. This area has often been called "Petrochemical America" or "Cancer Alley" because of the health impacts left behind by these prevalent facilities. It’s one example of a “[sacrifice zone](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/sacrifice-zones/)”, communities that have been repeatedly targeted by polluting industries – sites of environmental injustices.
+Chevron’s logo pops up on this piece too, as a one of the ghostly specters behind the chemical pollution haunting the lower Mississippi. This area has often been called "Petrochemical America" or "Cancer Alley" because of the health impacts left behind by these prevalent facilities. It’s one example of a “[sacrifice zone](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/sacrifice-zones/)”, communities that have been repeatedly targeted by polluting industries and sites of environmental injustices.
 
-These places of environmental injustice are also found closer to home, in communities in Chelsea that have been the sites of storage for oil and jet fuel for the entire city’s consumption, while putting their own communities at the most risk. Chinatown similarly faces increased levels of [air pollution](https://www.wbur.org/news/2022/04/01/boston-chinatown-pollution) because of its proximity to Interstate 90 and 93.
+Environmental injustice are also found closer to home, in communities in Chelsea that have been the sites of storage for oil and jet fuel for the entire city’s consumption, while putting their own communities at the most risk. Chinatown similarly faces increased levels of [air pollution](https://www.wbur.org/news/2022/04/01/boston-chinatown-pollution) because of its proximity to Interstate 90 and 93.
 
 \[Explore the topic of air pollution in Boston more in this continued conversations recording\]
+
+People who live closer to the sources of pollution, often not by choice, but by historical circumstances, bear the unequal burdens of its effects. Maps can often show snapshots that hint at the effects of today. Within these maps, there is a glimpse of a story about how oil moves through our landscape, and about how it is portrayed by the mapmaker. Seeing beyond the pretty colors of the map allows you to see something different. The path of oil through our landscapes has differing representations depending on who’s making the map, and whether their purpose is to appeal to consumers, or reveal the cost of consuming.
