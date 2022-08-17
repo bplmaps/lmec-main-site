@@ -1,15 +1,17 @@
 ---
 date: 2022-08-12T14:48:50.000-04:00
 title: Mapping Depictions of Oil
-description: ''
+description: 'How is the path of oil portrayed in maps in our current exhibition:More
+  of Less in Common? '
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/478,316,9869,4947/full/0/default.jpg
 author: Ezra Acevedo
-tags: []
+tags:
+- Exhibition
 backgroundImage: ''
 draft: true
 
 ---
-{{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/full/full/0/default.jpg" caption="The Mapping Inequality project offers digital access to thousands of redlining maps" >}}
+{{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/full/full/0/default.jpg" caption=""The Chevron Trail Through the Scenic West" poster focuses on the landscape rather than oil extraction and gasoline fumes." >}}
 
 What’s the first thing you think of when you hear the word “environment”? If you live in the United States, the National Park system might be one of the first things to pop into your head. As a result of the conversation movement, many landscapes were ‘preserved’ into parks for future generations of people to explore… if they have access to a car. This 1950s pictorial map of the western United States shows the “Scenic West” dotted with idyllic scenes of each national park and encourages people to drive the “Chevron Trail” and let Standard Oil {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/1636,5310,1327,351/full/0/default.jpg" class="popupTooltip" target="blank" >}} fuel the journey. {{</popup>}}
 
