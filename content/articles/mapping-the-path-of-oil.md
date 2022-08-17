@@ -1,5 +1,5 @@
 ---
-date: 2022-08-12T14:48:50-04:00
+date: 2022-08-12T14:48:50.000-04:00
 title: Mapping Depictions of Oil
 description: ''
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/478,316,9869,4947/full/0/default.jpg
@@ -21,7 +21,7 @@ Many of the ecological harms of oil are first realized at the site of extraction
 
 {{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/full/full/0/default.jpg" caption="The Mapping Inequality project offers digital access to thousands of redlining maps" >}}
 
-All over the world, oil is moved, from across America, Venezuela and the Middle east to Britain, Brazil and New York. This 1940 graphic from Standard Oil of New Jersey shows just a fraction of the oil that moved around the world at that time. Large enough to look like it’s own empire, Standard Oil sprawls over the world, extracting oil and moving it around, the yellow lines portraying oil traveling to it’s final destinations while the black represent it’s journey to be refined in places like {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/3120,2200,710,560/full/0/default.jpg" class="popupTooltip" target="blank" >}} Louisiana. {{</popup>}}
+All over the world, oil is moved, from across America, Venezuela and the Middle east to Britain, Brazil and New York. This 1940 graphic from Standard Oil of New Jersey shows just a fraction of the oil that moved around the world at that time. Large enough to look like it’s own empire, Standard Oil sprawls over the world, extracting oil and moving it around, the yellow lines portraying oil traveling to it’s final destinations while the black represent it’s journey to be refined in places like {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/2774,2211,1101,453/full/0/default.jpg" class="popupTooltip" target="blank" >}} Louisiana. {{</popup>}}
 
 Processing of crude oil also brings its own ecological harms. Along the lower Mississippi, from Baton Rouge to New Orleans, lay many industrial facilities that leak waste and pollution into communities and the lived environment around them – including ones that process petroleum.
 
