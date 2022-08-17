@@ -5,7 +5,6 @@ image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4634466/2291,2
 description: Help support the Center's mission with a donation or gift
 type: singleton
 suppressEmailPopup: true
-
 ---
 
 <div style="text-align: center;" class="my-2">
