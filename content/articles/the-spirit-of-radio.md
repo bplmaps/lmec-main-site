@@ -24,7 +24,7 @@ The Philips Radio map is not the only radio map in our collections: you may have
 
 The two stations in Massachusetts are in Medford Hillside and Springfield, broadcasting from the American Radio & Research Corporation and the Westinghouse Electric Company, respectively. You can even
 
-{{< popup src="[https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd974/253,98,594,332/full/0/default](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd974/253,98,594,332/full/0/default.jpg "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd974/253,98,594,332/full/0/default")" class="popupTooltip" target="blank" >}} see their daily schedule {{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd974/253,98,594,332/full/0/default" class="popupTooltip" target="blank" >}} see their daily schedule {{</popup>}}
 
  showing they are playing everything from news, lectures, and concerts, to children’s bedtime stories and Sunday church services. One Washington D.C. station has a special broadcast on “Reports on Stolen Automobiles,” while the University of Wisconsin hosts an evening “Exchange of Messages with Amateurs.” (Pre 1920, the term "amateurs" referred to all non-professionals interested in radio, and after broadcasting to the general public become common in the 1920s, "amateur" would [“come to have a narrower meaning, of persons who held amateur radio transmitting licenses.”](https://earlyradiohistory.us/sec015.htm))
 
@@ -32,7 +32,7 @@ Radio would remain the most popular communication form for the next three decade
 
 Other radio maps in our collection include: A [1922 map](https://collections.leventhalmap.org/search/commonwealth:1257b861r) created by the Radio Corporation of America (RCA) showing their “direct marine radio service to and from ships at sea,” (with northern stations 
 
-{{< popup src="[https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b8621/3360,220,1321,940/full/0/default](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b8621/3360,220,1321,940/full/0/default.jpg "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b8621/3360,220,1321,940/full/0/default")" class="popupTooltip" target="blank" >}} located in Chatham and on Nantucket) {{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b8621/3360,220,1321,940/full/0/default" class="popupTooltip" target="blank" >}} located in Chatham and on Nantucket) {{</popup>}}
 
 ; and [this 1942 map](https://collections.leventhalmap.org/search/commonwealth:0z709771m) of radio stations and cables in the Philippines.
 
