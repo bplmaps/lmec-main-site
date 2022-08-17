@@ -5,8 +5,8 @@ image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4634466/2291,2
 description: Help support the Center's mission with a donation or gift
 type: singleton
 suppressEmailPopup: true
----
 
+---
 <div style="text-align: center;" class="my-2">
 <a href="#XDTSZHTC" tyle="display: none"></a>
 </div>
@@ -14,6 +14,8 @@ suppressEmailPopup: true
 ## Donations
 
 Your support is crucial in keeping our programs free, creative, and welcoming for all of our audiences. Donate instantly with a credit card or bank account from the form above. For more donation options, please [contact Rachel Sharer](mailto:rsharer@leventhalmap.org).
+
+Donors who set up a monthly recurring donation of $12 or more will become part of our Map of the Month Club.
 
 Please note that the Leventhal Map & Education Center is an independent nonprofit in a longstanding partnership with the Boston Public Library, and we are dependent on your generous support. We are a separate entity from the Boston Public Library Fund and the Associates of the Boston Public Library.
 

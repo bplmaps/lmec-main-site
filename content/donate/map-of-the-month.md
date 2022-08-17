@@ -5,5 +5,6 @@ image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4634466/2291,2
 description: Give every month and join our Map of the Month Club
 type: singleton
 suppressEmailPopup: true
-menu: false
+
 ---
+<a href="#XMFDXMQK" style="display: none"></a>
