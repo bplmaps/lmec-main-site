@@ -25,7 +25,7 @@ All over the world, oil is moved, from across America, Venezuela and the Middle 
 
 Processing of crude oil also brings its own ecological harms. Along the lower Mississippi, from Baton Rouge to New Orleans, lay many industrial facilities that leak waste and pollution into communities and the lived environment around them – including ones that process petroleum.
 
-\[Insert Map\]
+{{< figure class="figure-center" src="https://www.scapestudio.com/wp-content/uploads/2016/08/petro_combined_v26_67-1740x683.jpg"caption="The Mapping Inequality project offers digital access to thousands of redlining m" >}}
 
 This map from [_Petrochemical America _]()highlights the and their products contributing to toxic air pollution, creating hazardous conditions for their employees and nearby communities. Little black dots represent the industrial facilities, surrounded with the names of chemicals they process or produce.
 
@@ -38,3 +38,9 @@ Environmental injustice are also found closer to home, in communities in Chelsea
 \[Explore the topic of air pollution in Boston more in this continued conversations recording\]
 
 People who live closer to the sources of pollution, often not by choice, but by historical circumstances, bear the unequal burdens of its effects. Maps can often show snapshots throughout time that hint at the realities of today. Within these maps, there is a glimpse of a story about how oil moves through our landscape, and about how it is portrayed by the mapmaker. Seeing beyond the pretty colors of the map allows you to see something different. The path of oil through our landscapes has differing representations depending on who’s making the map, and whether their purpose is to appeal to consumers, or reveal the cost of consuming.
+
+Links: 
+
+[https://projects.propublica.org/toxmap/](https://projects.propublica.org/toxmap/ "https://projects.propublica.org/toxmap/")
+
+[https://oilspillmonitor.ng/](https://oilspillmonitor.ng/ "https://oilspillmonitor.ng/")
