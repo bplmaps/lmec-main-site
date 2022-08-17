@@ -7,7 +7,7 @@ image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/478,31
 author: Ezra Acevedo
 tags:
 - Exhibition
-backgroundImage: ''
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/full/full/0/default.jpg
 draft: true
 
 ---
@@ -35,8 +35,8 @@ This map from [Petrochemical America](https://www.scapestudio.com/projects/petro
 
 This map is a more somber depiction of the use of oil. While the other two were commissioned to portray the oil companies in a positive, colorful light, this one was created to show the negatives - using the stark black, white, grey, and blue to portray the myriad of chemicals people are exposed to. There are many industries—not just those that process oil—that cause the pollution in these communities, with their logos floating around the river.
 
-{{< popup src="/uploads/2022-08-17/screenshot-2022-08-17-at-16-57-22-exhibition-objects.png" class="popupTooltip" target="blank" >}} Chevron’s logo {{</popup>}} pops up on this piece too, as a one of the ghostly specters behind the chemical pollution haunting the lower Mississippi. This area has often been called "Petrochemical America" or "Cancer Alley" because of the health impacts left behind by these prevalent facilities. It’s one example of a “[sacrifice zone](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/sacrifice-zones/)”, communities that have been repeatedly targeted by polluting industries and sites of environmental injustices.
+{{< popup src="/uploads/2022-08-17/screenshot-2022-08-17-at-16-57-22-exhibition-objects.png" class="popupTooltip" target="blank" >}} Chevron’s logo {{</popup>}} pops up on this piece too, as a one of the ghostly specters behind the chemical pollution haunting the lower Mississippi. This area has often been called "Petrochemical America" or "Cancer Alley" because of the health impacts left behind by these prevalent facilities. It’s one example of a “[sacrifice zone](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/sacrifice-zones/),” communities that have been repeatedly targeted by polluting industries and sites of environmental injustices.
 
-Environmental injustice are also found closer to home, in communities in Chelsea that have been the sites of storage for oil and jet fuel for the entire city’s consumption, while putting their own communities at the most risk. Chinatown similarly faces increased levels of [air pollution](https://www.wbur.org/news/2022/04/01/boston-chinatown-pollution) because of its proximity to Interstate 90 and 93. [\[Explore the topic of air pollution in Boston more in this Continued Conversations event recording\]](https://www.youtube.com/watch?v=sJcWRJMgoxQ)
+Environmental injustices are also found closer to home, in communities in Chelsea that have been the sites of storage for oil and jet fuel for the entire city’s consumption, while putting their own communities at the most risk. Chinatown similarly faces increased levels of [air pollution](https://www.wbur.org/news/2022/04/01/boston-chinatown-pollution) because of its proximity to Interstate 90 and 93. [\[Explore the topic of air pollution in Boston more in this Continued Conversations event recording\]](https://www.youtube.com/watch?v=sJcWRJMgoxQ)
 
 People who live closer to the sources of pollution, often not by choice, but by historical circumstances, bear the unequal burdens of its effects. Maps can often show snapshots throughout time that hint at the realities of today. Within these maps, there is a glimpse of a story about how oil moves through our landscape and is portrayed by the mapmaker. Looking beyond the pretty colors of the map allows you to notice the way these depictions are crafted. The path of oil through our landscapes has differing representations depending on who’s making the map, and whether their purpose is to appeal to consumers, or reveal the cost of consuming.
