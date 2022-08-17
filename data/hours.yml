@@ -22,6 +22,9 @@ weekly:
 - day: Sunday
   special: Closed
 exceptions:
+- date: 'November 25th - November 30th '
+  name: Gallery closure
+  special: Exhibition Installation
 - date: September 5, 2022
   name: Labor Day
   special: Closed
