@@ -25,7 +25,7 @@ All over the world, oil is moved, from across America, Venezuela and the Middle 
 
 Processing of crude oil also brings its own ecological harms. Along the lower Mississippi, from Baton Rouge to New Orleans, lay many industrial facilities that leak waste and pollution into communities and the lived environment around them – including ones that process petroleum.
 
-{{< figure class="figure-center" src="https://www.scapestudio.com/wp-content/uploads/2016/08/petro_combined_v26_67-1740x683.jpg"caption="The Mapping Inequality project offers digital access to thousands of redlining m" >}}
+{{< figure class="figure-center" src="https://www.scapestudio.com/wp-content/uploads/2016/08/petro_combined_v26_67-1740x683.jpg"caption="The Mapping Inequality project offers digital access to thousands of redlining " >}}
 
 This map from [_Petrochemical America _]()highlights the and their products contributing to toxic air pollution, creating hazardous conditions for their employees and nearby communities. Little black dots represent the industrial facilities, surrounded with the names of chemicals they process or produce.
 
