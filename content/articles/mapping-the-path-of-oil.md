@@ -9,9 +9,9 @@ backgroundImage: ''
 draft: true
 
 ---
-What’s the first thing you think of when you hear the word “environment”? If you live in the United States, the National Park system might be one of the first things to pop into your head. As a result of the conversation movement, many landscapes were ‘preserved’ into parks for future generations of people to explore… if they have access to a car. This 1950s pictorial map of the western United States shows the “Scenic West” dotted with idyllic scenes of each national park and encourages people to drive the “Chevron Trail” and let Standard Oil fuel the journey.
-
 {{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/full/full/0/default.jpg" caption="The Mapping Inequality project offers digital access to thousands of redlining maps" >}}
+
+What’s the first thing you think of when you hear the word “environment”? If you live in the United States, the National Park system might be one of the first things to pop into your head. As a result of the conversation movement, many landscapes were ‘preserved’ into parks for future generations of people to explore… if they have access to a car. This 1950s pictorial map of the western United States shows the “Scenic West” dotted with idyllic scenes of each national park and encourages people to drive the “Chevron Trail” and let Standard Oil fuel the journey.
 
 {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/1636,5310,1327,351/full/0/default.jpg" class="popupTooltip" target="blank" >}} “Atomic Research” {{</popup>}}
 
@@ -23,7 +23,7 @@ Many of the ecological harms of oil are first realized at the site of extraction
 
 {{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/full/full/0/default.jpg" caption="The Mapping Inequality project offers digital access to thousands of redlining maps" >}}
 
-All over the world, oil is moved, from across America, Venezuela and the Middle east to Britain, Brazil and New York. This 1940 graphic from Standard Oil of New Jersey shows just a fraction of the oil that moved around the world at that time. Large enough to look like it’s own empire, Standard Oil sprawls over the world, extracting oil and moving it around, the yellow lines portraying oil traveling to it’s final destinations while the black represent it’s journey to be refined in places like Louisiana.{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/3133,2209,718,567/full/0/default.jpg" class="popupTooltip" target="blank" >}} “Louisiana.” {{</popup>}}
+All over the world, oil is moved, from across America, Venezuela and the Middle east to Britain, Brazil and New York. This 1940 graphic from Standard Oil of New Jersey shows just a fraction of the oil that moved around the world at that time. Large enough to look like it’s own empire, Standard Oil sprawls over the world, extracting oil and moving it around, the yellow lines portraying oil traveling to it’s final destinations while the black represent it’s journey to be refined in places like {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/3133,2209,718,567/full/0/default.jpg" class="popupTooltip" target="blank" >}} Louisiana. {{</popup>}}
 
 Processing of crude oil also brings its own ecological harms. Along the lower Mississippi, from Baton Rouge to New Orleans, lay many industrial facilities that leak waste and pollution into communities and the lived environment around them – including ones that process petroleum.
 
