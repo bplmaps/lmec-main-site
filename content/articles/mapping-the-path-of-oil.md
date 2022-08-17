@@ -37,7 +37,7 @@ Environmental injustice are also found closer to home, in communities in Chelsea
 
 \[Explore the topic of air pollution in Boston more in this continued conversations recording\]
 
-People who live closer to the sources of pollution, often not by choice, but by historical circumstances, bear the unequal burdens of its effects. Maps can often show snapshots throughout time that hint at the realities of today. Within these maps, there is a glimpse of a story about how oil moves through our landscape, and about how it is portrayed by the mapmaker. Seeing beyond the pretty colors of the map allows you to see something different. The path of oil through our landscapes has differing representations depending on who’s making the map, and whether their purpose is to appeal to consumers, or reveal the cost of consuming.
+People who live closer to the sources of pollution, often not by choice, but by historical circumstances, bear the unequal burdens of its effects. Maps can often show snapshots throughout time that hint at the realities of today. Within these maps, there is a glimpse of a story about how oil moves through our landscape and is portrayed by the mapmaker. Looking beyond the pretty colors of the map allows you to notice the way these depictions are crafted. The path of oil through our landscapes has differing representations depending on who’s making the map, and whether their purpose is to appeal to consumers, or reveal the cost of consuming.
 
 Links: 
 
