@@ -19,7 +19,7 @@ In _More or Less in Common_, we explore the impact of oil production at a number
 
 Many of the ecological harms of oil are first realized at the site of extraction, where crude oil spills [pollute the natural environment](https://oilspillmonitor.ng/) often very far from the people who utilize the final product. This can be seen in [this map](https://collections.leventhalmap.org/search/commonwealth:4m90fm17f) of Venezuela where the land was divided up by oil companies, many of which come from overseas.
 
-{{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/full/full/0/default.jpg" caption="The Mapping Inequality project offers digital access to thousands of redlining maps" >}}
+{{< figure class="figure-center" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/full/full/0/default.jpg" caption="The Mapping Inequality project offers digital access to thousands of redlining maps" >}}
 
 All over the world, oil is moved, from across America, Venezuela and the Middle east to Britain, Brazil and New York. This 1940 graphic from Standard Oil of New Jersey shows just a fraction of the oil that moved around the world at that time. Large enough to look like it’s own empire, Standard Oil sprawls over the world, extracting oil and moving it around, the yellow lines portraying oil traveling to it’s final destinations while the black represent it’s journey to be refined in places like {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/2774,2211,1101,453/full/0/default.jpg" class="popupTooltip" target="blank" >}} Louisiana. {{</popup>}}
 
@@ -27,7 +27,7 @@ All over the world, oil is moved, from across America, Venezuela and the Middle 
 
 Processing of crude oil also brings its own ecological harms. Along the lower Mississippi, from Baton Rouge to New Orleans, lay many industrial facilities that leak waste and pollution into communities and the lived environment around them – including ones that process petroleum.
 
-{{< figure class="figure-center" src="https://www.scapestudio.com/wp-content/uploads/2016/08/petro_combined_v26_67-1740x683.jpg"caption="The Mapping Inequality project offers digital access to thousands of redlining " >}}
+{{< figure class="figure-center" src="https://www.scapestudio.com/wp-content/uploads/2016/08/petro_combined_v26_67-1740x683.jpg"caption="Map courtesy of Scape Studio, Richard Misrach and Kate Orff (2012) " >}}
 
 This map from [_Petrochemical America _]()highlights the and their products contributing to toxic air pollution, creating hazardous conditions for their employees and nearby communities. Little black dots represent the industrial facilities, surrounded with the names of chemicals they process or produce.
 
