@@ -23,6 +23,8 @@ Many of the ecological harms of oil are first realized at the site of extraction
 
 All over the world, oil is moved, from across America, Venezuela and the Middle east to Britain, Brazil and New York. This 1940 graphic from Standard Oil of New Jersey shows just a fraction of the oil that moved around the world at that time. Large enough to look like it’s own empire, Standard Oil sprawls over the world, extracting oil and moving it around, the yellow lines portraying oil traveling to it’s final destinations while the black represent it’s journey to be refined in places like {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/2774,2211,1101,453/full/0/default.jpg" class="popupTooltip" target="blank" >}} Louisiana. {{</popup>}}
 
+{{</popup>}} Louisiana. {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/2774,2211,1101,453/full/0/default.jpg" class="popupTooltip" target="blank" >}}
+
 Processing of crude oil also brings its own ecological harms. Along the lower Mississippi, from Baton Rouge to New Orleans, lay many industrial facilities that leak waste and pollution into communities and the lived environment around them – including ones that process petroleum.
 
 {{< figure class="figure-center" src="https://www.scapestudio.com/wp-content/uploads/2016/08/petro_combined_v26_67-1740x683.jpg"caption="The Mapping Inequality project offers digital access to thousands of redlining " >}}
