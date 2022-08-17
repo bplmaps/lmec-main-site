@@ -22,9 +22,6 @@ weekly:
 - day: Sunday
   special: Closed
 exceptions:
-- date: 'November 25th - November 30th '
-  name: Gallery closure
-  special: Exhibition Installation
 - date: September 5, 2022
   name: Labor Day
   special: Closed
@@ -37,6 +34,9 @@ exceptions:
 - date: November 24, 2022
   name: Thanksgiving
   special: Closed
+- date: November 25, 2022 - November 30, 2022
+  name: Exhibition Installation
+  special: Gallery closed
 - date: December 26, 2022
   name: Christmas (observed)
   special: Closed
