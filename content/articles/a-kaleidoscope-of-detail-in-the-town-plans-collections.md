@@ -2,7 +2,7 @@
 date: 2022-08-22T02:30:40-04:00
 title: A kaleidoscope of detail in the town plans collections
 description: ''
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2227nk39c/full/,1200/0/default.jpg
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2227nk39c/545,5348,4431,1654/,1200/0/default.jpg
 author: Garrett Dash Nelson
 tags:
 - town plans
@@ -10,7 +10,7 @@ tags:
 - Massachusetts
 - 18th century
 - 19th century
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2227nk39c/full/,1200/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2227nk39c/545,5348,4431,1654/,1200/0/default.jpg
 draft: true
 
 ---
@@ -31,7 +31,7 @@ The plans give an incredible window into how late eighteenth century residents o
 
 It wasn’t long before the young Commonwealth of Massachusetts realized that it had outgrown the accuracy of the 1794–1795 plans. So, in 1829, the General Court [again ordered the towns to create new surveys](https://archive.org/details/actsresolvespass182831mass/page/270/mode/1up) and deliver them to the capital. This time, reflecting the zeal for discovery and exploitation that characterized the nineteenth century, the legislators were even more explicit about what they wanted the surveyors to record, including:  
   
-\> … bridges; ferries; falls; ponds; shores; harbors; islands; mountains; hills; mills and manufactories; mines and minerals, and of what kind; iron works and furnaces; meadows (salt and fresh); and wood land …
+> … bridges; ferries; falls; ponds; shores; harbors; islands; mountains; hills; mills and manufactories; mines and minerals, and of what kind; iron works and furnaces; meadows (salt and fresh); and wood land …
 
 These 1830 plans were also later digitized by the Massachusetts Archives, and they too are [viewable in our digital collection](https://collections.leventhalmap.org/search?f%5Bcollection_name_ssim%5D%5B%5D=Town+plans%2C+1830). Compared to the series made 35 years earlier, the 1830 plans show just how far science, engineering, and printing had come in the first few decades of the new nation’s development. No longer consisting primarily of rough field sketches, many of these plans look much more like what we today expect to find in official cartography. (Though they are not without their vernacular curiosities—like Aaron Bliss’s [terrific multicolored survey of Monson](https://collections.leventhalmap.org/search/commonwealth:25152g94q) that would almost fit in to a twentieth century gallery of modern art.) And it also captures a new generation of mapmakers, like John Hales, who was not only responsible for [41 town plans](https://collections.leventhalmap.org/search?f%5Bcollection_name_ssim%5D%5B%5D=Town+plans%2C+1830&f%5Bname_facet_ssim%5D%5B%5D=Hales%2C+John+Groves) but also succeeded Carleton as Boston’s [most influential mapmaker](https://collections.leventhalmap.org/search/commonwealth:cj82m025j) of the time.
 
