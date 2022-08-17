@@ -1,5 +1,5 @@
 ---
-date: 2022-08-16T20:33:40-04:00
+date: 2022-08-22T02:30:40-04:00
 title: A kaleidoscope of detail in the town plans collections
 description: ''
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2227nk39c/full/,1200/0/default.jpg
