@@ -15,7 +15,7 @@ suppressEmailPopup: true
 
 Your support is crucial in keeping our programs free, creative, and welcoming for all of our audiences. Donate instantly with a credit card or bank account from the form above. For more donation options, please [contact Rachel Sharer](mailto:rsharer@leventhalmap.org).
 
-Donors who set up a monthly recurring donation of $12 or more will become part of our Map of the Month Club.
+Donors who set up a monthly recurring donation of $12 or more will become part of our [Map of the Month Club](88E7Enw1n3sdY92P).
 
 Please note that the Leventhal Map & Education Center is an independent nonprofit in a longstanding partnership with the Boston Public Library, and we are dependent on your generous support. We are a separate entity from the Boston Public Library Fund and the Associates of the Boston Public Library.
 
