@@ -7,7 +7,7 @@ image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/478,31
 author: Ezra Acevedo
 tags:
 - exhibition
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/full/full/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/full/full/0/default.jpg
 draft: true
 
 ---
