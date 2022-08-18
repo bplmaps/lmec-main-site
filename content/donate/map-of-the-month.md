@@ -15,6 +15,6 @@ The Leventhal Center relies on consistent contributions to sustain our work and 
 
 Donations go directly to our historical geography work with students, educators, researchers, and community members. **Set up your monthly donation today, and help further our mission all year long.**
 
-### Past Maps of the Month
+### Maps of the Month
 
-* **September 2022:** [Bartlett's illustrated map of Boston](https://collections.leventhalmap.org/search/commonwealth:9s161g99j)
+* **September 2022:** Coming Soon
