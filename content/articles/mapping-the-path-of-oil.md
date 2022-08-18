@@ -2,7 +2,7 @@
 date: 2022-08-12T14:48:50.000-04:00
 title: Mapping Depictions of Oil
 description: 'How is the path of oil portrayed in maps in our current exhibition:
-  <i>More of Less in Common? </i>'
+  More of Less in Common? '
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/478,316,9869,4947/full/0/default.jpg
 author: Ezra Acevedo
 tags:
