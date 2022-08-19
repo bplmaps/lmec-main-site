@@ -1,6 +1,6 @@
 ---
 date: 2022-04-14T13:00:33.000-04:00
-title: 'Power, Paper, and PCBs: An Environmental History of the Lower Neponset River'
+title: 'Power, paper, and PCBs: An environmental history of the Lower Neponset River'
 description: 'Last month, the EPA announced the addition of the Lower Neponset River
   to the Superfund National Priorities List—a designation that will provide federal
   resources for a long-awaited environmental hazard investigation and cleanup project. '

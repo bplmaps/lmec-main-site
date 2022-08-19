@@ -5,7 +5,7 @@ date = 2021-07-08T13:22:47Z
 description = "Let's take a closer look at some July maps from years past"
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vr29m/full/,1200/0/default.jpg"
 tags = ["Collections", "maps of the month"]
-title = "Mapping July Through History"
+title = "Mapping July through history"
 
 +++
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4637448/1822,1,1782,2153/,1200/0/default.jpg" caption="John George Bartholomew, E.P. Dutton,  and J.M. Dent & Sons, [Africa January rainfall -- Africa July rainfall](https://collections.leventhalmap.org/search/commonwealth:3f4637430) (1913)" class="figure-right" >}}
