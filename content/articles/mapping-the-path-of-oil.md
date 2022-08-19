@@ -15,7 +15,7 @@ In our current exhibition, [_More or Less in Common: Environment and Justice in 
 
 ##### Environmental costs and contradictions
 
-{{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/full/full/0/default.jpg" caption="This 1950's poster of the ["Chevron Trail"](https://collections.leventhalmap.org/search/commonwealth:ht250362p) highlights the scenic landscape rather than oil extraction and gasoline fumes." >}}
+{{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/full/full/0/default.jpg" caption="This 1950's poster of the [Chevron Trail](https://collections.leventhalmap.org/search/commonwealth:ht250362p) highlights the scenic landscape rather than oil extraction and gasoline fumes." >}}
 
 What’s the first thing you think of when you hear the word “environment”? If you live in the United States, the National Park system may come to mind. Following the conservation movement, many landscapes were ‘preserved’ into parks for future generations to enjoy and explore… that is, if they have access to a car. This [1950s pictorial map](https://collections.leventhalmap.org/search/commonwealth:ht250362p) of the western United States shows the “Scenic West” dotted with idyllic scenes of each national park and encourages people to drive the “Chevron Trail” and let Standard Oil {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/1636,5310,1327,351/full/0/default.jpg" class="popupTooltip" target="blank" >}} fuel the journey. {{</popup>}}
 
