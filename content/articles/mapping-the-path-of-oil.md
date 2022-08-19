@@ -12,11 +12,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht2503
 draft: true
 
 ---
-In our current exhibition, [_More or Less in Common: Environment and Justice in the Human Landscape_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common), we explore the impact of oil at various scales and geographies, and look at the role of maps in telling parts of this story. From the ground to the gas pump, 
-
-Oil and its production are inherently intertwined with environmental justice and the natural landscape
-
-, fostering negative consequences on people and the surrounding environment from the ground to the gas pump: from increased CO2 emissions to oil spills, air pollution and dangerous working conditions. These effects are often unequally distributed between people, just like access to the natural environment.
+In our current exhibition, [_More or Less in Common: Environment and Justice in the Human Landscape_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common), we explore the impact of oil at various scales and geographies, and look at the role of maps in telling parts of this story. From the ground to the gas pump, oil production creates serious consequences for surrounding communities and environments: from increased CO2 emissions to oil spills, air pollution and dangerous working conditions. These effects are often unequally distributed between people, just like access to the natural environment.
 
 {{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/full/full/0/default.jpg" caption="This 1950's poster of the ["Chevron Trail"](https://collections.leventhalmap.org/search/commonwealth:ht250362p) highlights on the scenic landscape rather than oil extraction and gasoline fumes." >}}
 
