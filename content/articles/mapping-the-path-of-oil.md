@@ -1,5 +1,5 @@
 ---
-date: 2022-08-12T14:48:50.000-04:00
+date: 2022-08-19T11:45:50-04:00
 title: Mapping depictions of oil
 description: 'From the ground to the gas pump, oil production poses serious environmental
   justice concerns. '
@@ -9,14 +9,13 @@ tags:
 - exhibition
 - collections
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/full/full/0/default.jpg
-draft: true
 
 ---
-In our current exhibition, [_More or Less in Common: Environment and Justice in the Human Landscape_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common), we explore the impact of oil at various scales and geographies, and look at the role of maps in telling parts of this story. From the ground to the gas pump, oil production creates serious consequences for surrounding communities and environments: from increased CO2 emissions to oil spills, from air pollution to dangerous working conditions. The maps in our [collections](https://www.leventhalmap.org/collections/) not only track the global oil economy, but also bear witness to this disparity between responsibility and burden. 
+In our current exhibition, [_More or Less in Common: Environment and Justice in the Human Landscape_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common), we explore the impact of oil at various scales and geographies, and look at the role of maps in telling parts of this story. From the ground to the gas pump, oil production creates serious consequences for surrounding communities and environments: from increased CO2 emissions to oil spills, from air pollution to dangerous working conditions. The maps in our [collections](https://www.leventhalmap.org/collections/) not only track the global oil economy, but also bear witness to this disparity between responsibility and burden.
 
 ##### Environmental costs and contradictions
 
-{{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/full/full/0/default.jpg" caption="This 1950's poster of the [&quot;Chevron Trail&quot;](https://collections.leventhalmap.org/search/commonwealth:ht250362p) highlights on the scenic landscape rather than oil extraction and gasoline fumes." >}}
+{{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/full/full/0/default.jpg" caption="This 1950's poster of the ["Chevron Trail"](https://collections.leventhalmap.org/search/commonwealth:ht250362p) highlights the scenic landscape rather than oil extraction and gasoline fumes." >}}
 
 What’s the first thing you think of when you hear the word “environment”? If you live in the United States, the National Park system may come to mind. Following the conservation movement, many landscapes were ‘preserved’ into parks for future generations to enjoy and explore… that is, if they have access to a car. This [1950s pictorial map](https://collections.leventhalmap.org/search/commonwealth:ht250362p) of the western United States shows the “Scenic West” dotted with idyllic scenes of each national park and encourages people to drive the “Chevron Trail” and let Standard Oil {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250363z/1636,5310,1327,351/full/0/default.jpg" class="popupTooltip" target="blank" >}} fuel the journey. {{</popup>}}
 
@@ -32,7 +31,7 @@ Many of the ecological harms of oil are first realized at the site of extraction
 
 All over the world, oil is moved, from across America, Venezuela and the Middle East to Britain, Brazil and New York. This [1940 graphic ](https://collections.leventhalmap.org/search/commonwealth:q524n1565)from Standard Oil of New Jersey shows just a fraction of the oil that moved around the world at that time. Large enough to look like its own empire, Standard Oil sprawls over the world, extracting oil and moving it around, the yellow lines portraying oil traveling to its final destinations while the black represent its journey to be refined in places like {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n157f/2774,2211,1101,453/full/0/default.jpg" class="popupTooltip" target="blank" >}} Louisiana. {{</popup>}}
 
-##### Sacrifice zones 
+##### Sacrifice zones
 
 The processing of crude oil brings its own ecological harms. Along the lower Mississippi, from Baton Rouge to New Orleans, lay many industrial facilities that leak waste and pollution into communities and the lived environment around them – including ones that process petroleum.
 
@@ -46,6 +45,6 @@ This map is a more somber depiction of the use of oil. While the other two were 
 
 Environmental injustices are also found closer to home, in communities in Chelsea and East Boston that have been the sites of storage for oil and jet fuel for the entire city’s consumption, while putting their own communities at the most risk. Chinatown similarly faces increased levels of [air pollution](https://www.wbur.org/news/2022/04/01/boston-chinatown-pollution) because of its proximity to Interstate 90 and 93.
 
-> Learn more about [the effects of highways and risks of air pollution](https://www.youtube.com/watch?v=sJcWRJMgoxQ) in Boston 
+> Learn more about [the effects of highways and risks of air pollution](https://www.youtube.com/watch?v=sJcWRJMgoxQ) in Boston
 
 People who live closer to the sources of pollution, often because of historical circumstances rather than choice, bear the unequal burdens of its effects. Within these highlighted maps, there are glimpses of a larger story about how oil moves through our landscape and is portrayed by the mapmaker. Looking beyond the pretty colors of the map allows you to notice the way these depictions are crafted. The path of oil through our landscapes has differing representations depending on who’s making the map, and whether their purpose is to appeal to consumers, or reveal the cost of consuming.
