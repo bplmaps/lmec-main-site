@@ -7,4 +7,5 @@ type: singleton
 suppressEmailPopup: true
 
 ---
-<a href="#XMFDXMQK" style="display: none"></a>
+
+<a class="btn btn-primary btn-primary-outline btn-sm" href="#/?form=MAPOFTHEMONTH">Set up a recurring donation now</a> 
