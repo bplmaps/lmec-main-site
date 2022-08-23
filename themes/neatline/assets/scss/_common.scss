@@ -545,14 +545,14 @@ textarea.form-control{
     }
 
     figcaption {
-      padding: 15px 5px;
+      padding: 10px 5px;
     }
 
     figcaption p {
       font-family: $sans;
       font-weight: 300;
       font-size: 0.9em;
-      line-height: 1.3em;
+      line-height: 1.5em;
       margin: 0;
     }
 
@@ -785,6 +785,8 @@ span.popupTooltip {
   border-radius: 8px;
   padding: 2px 8px;
   z-index: 1000;
+  cursor: pointer;
+  
 }
 
 span.popupTooltip:hover {
@@ -797,9 +799,13 @@ div.iiif-popup {
   background:#1a1a37; 
   padding:5px; color:#1a1a37; 
   max-height:410px; 
-  max-width:410px; 
+  max-width:410px;
+  min-width: 50px;
+  min-height: 50px;
   display:none;
   z-index: 1000;
+  box-shadow: 2px 2px 3px rgba(0,0,0,0.7);
+  border-radius: 2px;
 }
 
 div.iiif-popup {

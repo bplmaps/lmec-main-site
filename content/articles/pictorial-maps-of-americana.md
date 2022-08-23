@@ -17,7 +17,7 @@ While the history of pictorial maps stretches back all the way to the beginnings
 
 In the postwar world, the United States had taken its place as global superpower, and likely sought to parade its greatness to the nations of the globe. These maps prominently emphasize the many populations of immigrants who make up the American population to push an image of a welcoming, cosmopolitan United States. Of course, some groups are excluded, and even many groups who are included are not favorably depicted. These maps also display the power of American industry, picturing agriculture, mining, and manufacturing locations across the country. Many of these, like the 1958 Mary Ronin map, are intended for a global audience, and were commissioned for World’s Fairs or State Department campaigns. As the Cold War began to arise, the U.S. had to prove to the world that the West was the side to choose, and so an image of America that was economically strong and welcoming to people of all backgrounds became a necessary propaganda element. However, this also has a sinister undertone, as mentions of
 
-{{< popup src="[https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/2202,3859,259,253/full/0/default.jpg]()" class="popupTooltip" target="blank" >}} “Atomic Research” {{</popup>}}
+{{< popup src="[https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/2202,3859,259,253/full/0/default.jpg]()"  target="blank" >}} “Atomic Research” {{</popup>}}
 
 in New Mexico hint to posturing about American nuclear firepower.
 
@@ -29,21 +29,21 @@ Does (and should) the map represent many people, or _a_ people? This question is
 
 The states are shown with labels of the national origins found there, but this nomenclature isn’t always consistent. While each European and Asian group is labeled with its country of origin (French, Polish, Japanese, etc.), in several places there is simply written
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/2025,2057,544,285/full/0/default.jpg" class="popupTooltip" target="blank" >}} “Indian”{{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/2025,2057,544,285/full/0/default.jpg"  target="blank" >}} “Indian”{{</popup>}}
 
 , wrongly implying that indigenous people in the US are a monolith. The depiction of native people in this map are multifold, though problematic. Custer’s Last Stand is labeled alongside a rifle-toting soldier, suggesting that native people may not be as welcome as suggested.
 
 Examining how Black Americans are depicted serves as another example of misguided representation. In Alabama Black
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/3998,3455,473,342/full/0/default.jpg" class="popupTooltip" target="blank" >}} musicians {{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/3998,3455,473,342/full/0/default.jpg"  target="blank" >}} musicians {{</popup>}}
 
 can be seen performing, and the
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/4304,3882,208,160/full/0/default.jpg" class="popupTooltip" target="blank" >}} Carver museum {{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/4304,3882,208,160/full/0/default.jpg"  target="blank" >}} Carver museum {{</popup>}}
 
 is labeled, both attesting to achievements in Black culture and science. However, directly next to them are Black workers shown picking
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/3786,3887,448,278/full/0/default.jpg" class="popupTooltip" target="blank" >}} cotton{{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/3786,3887,448,278/full/0/default.jpg"  target="blank" >}} cotton{{</popup>}}
 
 , and “Old Plantations” are listed as a site in Georgia: the horrific legacy of slavery remains [a deep-seated part](https://ugapress.org/book/9780820360935/remembering-enslavement/) of American culture and industry.
 
@@ -57,21 +57,21 @@ A 1946 map by William Gropper illustrates various characters from American folkl
 
 While not outwardly subversive, the content of the map, which was drawn by Gropper as a commission for the State Department’s Overseas Library Program, holds a deeper image of America than red-white-and-blue patriotism. Many of the characters, like
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wp98c846g/2927,1728,853,672/full/0/default.jpg" class="popupTooltip" target="blank" >}} Febold Feboldson{{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wp98c846g/2927,1728,853,672/full/0/default.jpg"  target="blank" >}} Febold Feboldson{{</popup>}}
 
 , are described as “[_fakelore_](https://archive.org/details/americanfolklore00dors)_”_, a term coined by American folklorist Richard M. Dorson: they did not originate in genuine folkloric traditions but literary works only given the appearance of an oral history. Others are outright literary characters, like Washington Irving’s Rip van Winkle, or real historic people, like Davy Crockett, John Brown, and Juan Ponce de Leon, who became figures of folklore and legend. This is reflective of one of the many complications of “Americana”: the symbols and cultural conception of American life are often different from the genuine experiences lived by many actual Americans. The real-life
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wp98c846g/4548,2651,1110,585/full/0/default.jpg" class="popupTooltip" target="blank" >}} Davy Crockett {{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wp98c846g/4548,2651,1110,585/full/0/default.jpg"  target="blank" >}} Davy Crockett {{</popup>}}
 
 probably never wrestled an alligator, but the symbolic, folkloric version of Davy Crockett certainly did.
 
 The map of folklore also illustrates the processes of cultural [syncretism](https://en.wikipedia.org/wiki/Syncretism). Folk heroes adopted from or influenced by foreign traditions (like the Irish
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wp98c846g/1473,2426,741,976/full/0/default.jpg" class="popupTooltip" target="blank" >}} Finn Mac Cool {{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wp98c846g/1473,2426,741,976/full/0/default.jpg"  target="blank" >}} Finn Mac Cool {{</popup>}}
 
 or the Croatian
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wp98c846g/5890,1728,678,521/full/0/default.jpg" class="popupTooltip" target="blank" >}} Joe Magarac{{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wp98c846g/5890,1728,678,521/full/0/default.jpg"  target="blank" >}} Joe Magarac{{</popup>}}
 
 ). In the absence of a singular American cultural tradition, a more complex, more varied one grew out of the amalgamation of foreign cultures, historical heroes, and literary characters. This map also shows that this American mythos was not the same everywhere: each regional population has its own traditions, and only through weaving all of these together can we find (or perhaps, create) an “American” narrative. Gropper’s generally anti-American politics (at least, decrying the American state of the day) may seem to contrast with his participation in a seemingly nationalistic project, but in a sense folklore and folk culture are a celebration of working-class art and tradition. Rather than bourgeois fine art and literature, and its many associations with the trappings of wealth and capitalist modes of production, folk art seems more humble, authentic, and more in line with Gropper’s views on society. As we live in an increasingly connected and modernized age, regionalisms like this are gradually fading, making celebrations like this one a valuable piece of art, history, and culture.
 
@@ -79,35 +79,35 @@ or the Croatian
 
 The question of whose identities are represented and how they are portrayed is highly dependent on a map’s authorship. This pictorial map in the collections featuring various populations of the U.S. was drawn by Black cartographer Louise E. Jefferson. _Uprooted People of the U.S.A._ depicts the interaction between migrations of people, capital, and technology in service of the war effort. The map, with some exceptions, does not directly depict the migrations of people, but rather shows the depopulated places they were displaced from, and the urban industrial areas where they moved. Trains crisscross the U.S. landscape, some of them labeled (”Hospital Trains”, “Troop Trains”), others not, simply showing the speed and energy of so many people transversing such a vast country. The prominence of train travel (in contrast to cars, which there are much fewer of on the map) may evoke working-class, communal transportation, rather than individual travel by car. In keeping with the map’s emphasis on cooperation, trains involve a sense of community in going to the same place. While trains are efficient, communal, and generally work-centered, taking road trips by car suggests decadence and leisure. The one form of car travel that does take up space on the map is ride-sharing, which manages to capture the same spirit of shared, working-class transit.
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/6325,1601,711,1523/full/0/default.jpg" class="popupTooltip" target="blank" >}} Ships {{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/6325,1601,711,1523/full/0/default.jpg"  target="blank" >}} Ships {{</popup>}}
 
 carrying freight and troops also surround the coasts, symbolic of the projection of American power abroad. Within the country, factories, mines, and farms portray a nation hard at work.
 
 The map illustrates
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/5538,2753,419,253/full/0/default.jpg" class="popupTooltip" target="blank" >}} “Negro Migration”  {{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/5538,2753,419,253/full/0/default.jpg"  target="blank" >}} “Negro Migration”  {{</popup>}}
 
 to New York and California (part of the [Second Great Migration](https://lawrencemigration.phillipscollection.org/), as wartime urban industry pulled many black Americans toward the cities), as well as
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/1341,2985,475,311/full/0/default.jpg" class="popupTooltip" target="blank" >}} “Mexican Migration”  {{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/1341,2985,475,311/full/0/default.jpg"  target="blank" >}} “Mexican Migration”  {{</popup>}}
 
 to California. It also depicts abandoned homes, businesses, and towns—all examples of the displacement that accompanied the economic transformations of the war. In a more sinister vein,
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/1144,1721,717,237/full/0/default.jpg" class="popupTooltip" target="blank" >}} Japanese Relocation Centers {{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/1144,1721,717,237/full/0/default.jpg"  target="blank" >}} Japanese Relocation Centers {{</popup>}}
 
 remind of a dark history of displacement, and “Refugees” and “Prisoners of War” show that the U.S. is not insulated from the overseas conflicts and the displacement of bodies that is attached to it.
 
 All in all, the map evokes a spirit of a united America casting aside its internal differences in service of a national war effort. It highlights the efforts of ordinary people, whether by planting
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/2730,2167,471,232/full/0/default.jpg" class="popupTooltip" target="blank" >}} Victory Gardens{{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/2730,2167,471,232/full/0/default.jpg"  target="blank" >}} Victory Gardens{{</popup>}}
 
 ,
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/5613,2276,406,219/full/0/default.jpg" class="popupTooltip" target="blank" >}} sharing rides{{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/5613,2276,406,219/full/0/default.jpg"  target="blank" >}} sharing rides{{</popup>}}
 
 , or collecting
 
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/3040,1586,375,288/full/0/default.jpg" class="popupTooltip" target="blank" >}} waste paper{{</popup>}}
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/3040,1586,375,288/full/0/default.jpg"  target="blank" >}} waste paper{{</popup>}}
 
 , to support the country. However, it also shows the misgivings and difficulties of war, like “Japanese Relocation Centers”, abandoned communities, and refugees.
 

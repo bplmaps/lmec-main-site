@@ -36,7 +36,7 @@ So much happened behind the scenes to generate two little numbers. And two littl
 
 ### Why now? The paradox of new maps
 
-Despite undergoing radical changes over the years, many conceptual aspects of mapmaking have remained the same. Cartographers still rely on {{<popup src="https://www.esri.com/arcgis-blog/wp-content/uploads/2018/02/05-fig-5-4-v2.png" class="popupTooltip" target="blank">}}"cake-layering"{{</popup>}}---a method [popularized by Ian McHarg](https://metropolismag.com/viewpoints/mcharg-design-with-nature-50th-anniversary/---to represent distinct geographic features. Furthermore, GIS doesn't suitably capture the wide range of practices and theories associated with creating and storing spatial data over the long history of computer cartography. Many years 
+Despite undergoing radical changes over the years, many conceptual aspects of mapmaking have remained the same. Cartographers still rely on {{<popup src="https://www.esri.com/arcgis-blog/wp-content/uploads/2018/02/05-fig-5-4-v2.png"  target="blank">}}"cake-layering"{{</popup>}}---a method [popularized by Ian McHarg](https://metropolismag.com/viewpoints/mcharg-design-with-nature-50th-anniversary/---to represent distinct geographic features. Furthermore, GIS doesn't suitably capture the wide range of practices and theories associated with creating and storing spatial data over the long history of computer cartography. Many years 
 
 <!-- ### Why "early computer cartography?"
 
@@ -60,7 +60,7 @@ In addition to being GIS users, we're also fascinated by how GIS has transformed
 
 {{< figure src="https://community.esri.com/legacyfs/online/416793_pastedImage_4.png" caption="[Esri's color picker tool](https://community.esri.com/t5/arcgis-pro-ideas/arcgis-pro-eye-dropper-tool/idi-p/926402) in ArcGIS Pro" class="figure-right" >}} -->
 
-<!-- For example, this **shadeset** was used to {{<popup src="/images/blog/gis2-crop.png" class="popupTooltip" target="blank">}}select colors on an electrostatic plotter.{{</popup>}}Electrostatic plotters were commonly used for map printing in the 1980s and '90s, until laser printing became widely affordable and accessible.
+<!-- For example, this **shadeset** was used to {{<popup src="/images/blog/gis2-crop.png"  target="blank">}}select colors on an electrostatic plotter.{{</popup>}}Electrostatic plotters were commonly used for map printing in the 1980s and '90s, until laser printing became widely affordable and accessible.
 
 The shadeset bears a good deal of resemblance to modern cartography color pickers, like this editor in ArcGIS Pro or the popular [ColorBrewer tool](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).  At the same time, the shadeset is a hybrid: produced computationally, but . In other words, resources like the shadeset aren't mere nostalgia for a time when printers were a little different: they help illuminate the material histories and practices associated with geography, computation, and GIS. -->
 
