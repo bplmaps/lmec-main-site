@@ -1,21 +1,13 @@
 ---
-date: 2022-08-26T02:30:40.000-04:00
+date: 2022-08-25T02:30:40-04:00
 title: Surveying all of Massachusetts in the town plans collections
-description: 'Two digital collections from the Massachusetts Archives capture the micro-scaled geographies of Massachusetts towns in the Early Republic period'
+description: Two digital collections from the Massachusetts Archives capture the micro-scaled
+  geographies of Massachusetts towns in the Early Republic period
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2227nk39c/545,5348,4431,1654/,1200/0/default.jpg
 author: Garrett Dash Nelson
 tags:
-- town plans
-- collections
-- Massachusetts
-- 18th century
-- 19th century
-- Early Republic
-- surveys
-- Osgood Carleton
-- John Hales
+- Collections
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2227nk39c/545,5348,4431,1654/,1200/0/default.jpg
-draft: true
 
 ---
 ![](https://iiif.archivelab.org/iiif/actsresolvespass179495mass$208/424,2200,1543,417/full/0/default.jpg)
