@@ -10,7 +10,11 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039nv
 draft: true
 
 ---
-As a long-time radio-lover, I couldn’t help but smile when I saw this recently-digitized [Philips Radio map](https://collections.leventhalmap.org/search/commonwealth:xs55q1091) appear in our collections portal the other week. It shows international shortwave radio stations around the world, circa 1935. It includes a pictorial sketch of the world in a Mercator projection, an alphabetic index to radio stations across the bottom, and a {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039nv56g/7237,691,3329,2269/1200,/0/default.jpg"  target="blank" >}} small inset {{</popup>}} on the right side showing the radio stations as they relate to different time zones.
+As a long-time radio-lover, I couldn’t help but smile when I saw this recently-digitized [Philips Radio map](https://collections.leventhalmap.org/search/commonwealth:xs55q1091) appear in our collections portal the other week. It shows international shortwave radio stations around the world, circa 1935. It includes a pictorial sketch of the world in a Mercator projection, an alphabetic index to radio stations across the bottom, and a 
+
+{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039nv56g/7197,656,3374,2318/full/0/default.jpg"  target="blank" >}} small inset {{</popup>}}
+
+on the right side showing the radio stations as they relate to different time zones.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039nv56g/full/1200,/0/default.jpg" caption="Walter Eckhard, _Philips Radio_ \[ca. 1935\].">}}
 
