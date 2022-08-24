@@ -25,4 +25,4 @@ This event will be held **in person** in the Commonwealth Salon, [Central Librar
 
 **We invite you to visit the Map Center’s current exhibition, **[_More or Less in Common: Environment and Justice in the Human Landscape_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/)**, before the discussion.**
 
-> Presented as part of [Climate Preparedness Week 2022](https://www.climatecrew.org/climate_prep_week_2022?locale=en).
+> #### Presented as part of [Climate Preparedness Week 2022](https://www.climatecrew.org/climate_prep_week_2022?locale=en).
