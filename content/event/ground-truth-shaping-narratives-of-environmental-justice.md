@@ -6,7 +6,7 @@ image: "/uploads/2022-08-23/risk.jpeg"
 backgroundImage: "/uploads/2022-08-23/risk.jpeg"
 location: Boston Public Library, Commonwealth Salon
 fee: Free
-registration: ''
+registration: https://www.eventbrite.com/e/407566039997
 tags:
 - Exhibitions
 draft: true
