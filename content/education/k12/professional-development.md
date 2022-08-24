@@ -23,6 +23,8 @@ Map Center Teacher Social
 
 Come by any time between 3:00 and 5:30 pm for free maps for your classroom, snacks, good conversation, and an introduction to all the Leventhal Map & Education Center has to offer for students and educators. Take advantage of our "print-a-map offer": choose a map from the thousands in our digital collection to have us print on our large format printer for the wall of your classroom. We hope to see you there!
 
+Register at: [https://www.eventbrite.com/e/small-bites-2022-2023-map-center-teacher-social-tickets-407642498687](https://www.eventbrite.com/e/small-bites-2022-2023-map-center-teacher-social-tickets-407642498687 "https://www.eventbrite.com/e/small-bites-2022-2023-map-center-teacher-social-tickets-407642498687")
+
 ### Visualizing Change in Boston: Using Digital Commonwealth Collections to Tell Stories of Places and Activism
 
 Using Digital Commonwealth Collections to Tell Stories of Places and Activism
