@@ -16,9 +16,9 @@ draft: true
 
 Join the [Leventhal Map and Education Center](https://www.leventhalmap.org/) with a panel of invited guests for a roundtable discussion on narratives of environmental justice. The roundtable will discuss how investigating historical and present-day patterns of urban inequality, and documenting these patterns through narrative and visual works, bring an important perspective to bear on efforts for climate justice organizing.
 
-This event will be held **in person** in the Commonwealth Salon, [Central Library](https://www.bpl.org/locations/3/). We invite you to visit the Map Center’s current exhibition, [_More or Less in Common: Environment and Justice in the Human Landscape_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/), before the discussion**.**
+This event will be held **in person** in the Commonwealth Salon, [Central Library](https://www.bpl.org/locations/3/). We invite you to visit the Map Center’s current exhibition, [More or Less in Common: Environment and Justice in the Human Landscape](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/), before the discussion. 
 
-#### **For this roundtable, we’re thrilled to be joined by:**
+##### **For this roundtable, we’re thrilled to be joined by:**
 
 [Dr. Tracy Corley](https://www.clf.org/about/our-team/tracy-corley), Director of Research and Partnerships at [Conservation Law Foundation](https://www.clf.org/). Dr. Corley brings experience in research, public policy, law, and sustainability to the new role and thrives on bringing people together to tackle the complex issues that drive climate action and environmental justice. Dr. Corley also lectures part-time at [Northeastern University](https://www.northeastern.edu/), is a Grist Fixer, and is a Biden-administration appointee to the Social and Community Science subcommittee of the EPA’s [Board of Scientific Councilors](https://www.epa.gov/bosc) (BOSC). Dr. Corley holds a BA in Architecture, an MS in Public Policy, and a Ph.D. in Law and Public Policy.
 
