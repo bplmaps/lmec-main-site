@@ -16,7 +16,7 @@ draft: true
 
 Join the [Leventhal Map and Education Center](https://www.leventhalmap.org/) with a panel of invited guests for a roundtable discussion on narratives of environmental justice. The roundtable will discuss how investigating historical and present-day patterns of urban inequality, and documenting these patterns through narrative and visual works, bring an important perspective to bear on efforts for climate justice organizing.
 
-This event will be held **in person** in the Commonwealth Salon, [Central Library](https://www.bpl.org/locations/3/). We invite you to visit the Map Center’s current exhibition, [_More or Less in Common: Environment and Justice in the Human Landscape_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/), before the discussion**.**
+This event will be held **in person** in the Commonwealth Salon, [Central Library](https://www.bpl.org/locations/3/). We invite you to visit the Map Center’s current exhibition, [_More or Less in Common: Environment and Justice in the Human Landscape_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/), before the discussion.
 
 ##### **For this roundtable, we’re thrilled to be joined by:**
 
