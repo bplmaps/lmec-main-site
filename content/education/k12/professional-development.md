@@ -16,8 +16,7 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 ## Workshops and Courses
 
-### Small Bites 2022-2023  
-Map Center Teacher Social
+### Small Bites 2022-2023: Map Center Teacher Social
 
 #### Thursday, September 22, 2022, 3:00-5:30 pm
 
