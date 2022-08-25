@@ -50,7 +50,17 @@ Register at: [https://membership.digitalcommonwealth.org/event-4863384](https://
 
 The Leventhal Map & Education Center and the Tsongas Industrial History Center co-present a follow-up to their July teacher workshop focused around teaching environmental justice and activism with case studies from eastern Massachusetts – past and present. In this one-hour session, we will share resources, key lessons, and ideas for teaching this broad topic at a local level.
 
-### Empowering Maptivists: Using Maps & Data to Examine Social Issues in the Humanities Classroom
+{{< alert-box type="warning" icon="fas fa-laptop-house">}} 
+
+#### Online Professional Development Opportunity
+
+### Empowering Maptivists: Using Maps & Data to Teach Social Justice Topics
+
+Maps are instruments of power and can affect our understanding of issues and data depending on who is telling the story. It is our job as map consumers and educators to think critically about what maps are showing us (and what they aren’t). In _Empowering Maptivists_, course participants will explore the unique power of maps to make sense of the world around us. The course will provide clear pathways for helping students explore issues in their own communities and use spatial understanding to advocate for change.
+
+Join us for this self-paced online professional development course hosted by the National Humanities Center. It's all virtual and you will earn 35 professional development hours. There are two six-week windows. [**Register here**](https://nationalhumanitiescenter.org/education-programs/courses/empowering-maptivists-using-maps-data-to-examine-social-issues-humanities-classroom/) for the time frame that works best for you. {{< /alert-box >}}
+
+### Empowering Maptivists: Using Maps & Data to Teach Social Justice Topics
 
 Maps are instruments of power and can affect our understanding of issues and data depending on who is telling the story. It is our job as map consumers and educators to think critically about what maps are showing us (and what they aren’t). In _Empowering Maptivists_, course participants will explore the unique power of maps to make sense of the world around us. The course will provide clear pathways for helping students explore issues in their own communities and use spatial understanding to advocate for change.
 
