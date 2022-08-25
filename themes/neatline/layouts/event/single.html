@@ -76,7 +76,7 @@
 
       <div class="col-12 mt-5">
       <p class="h4"> {{- range .Params.tags }}
-      <span class="badge rounded-pill bg-light text-secondary mb-1">{{ . }}</span>
+        <span class="badge rounded-pill bg-light text-secondsry mb-1 tag-list"><a href="/tags/{{ . | urlize}}">{{ . }}</a></span>
       {{- end }}
     </p>
       </div>

@@ -6,7 +6,7 @@
   <div class="card-body">
     <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
     <h6>{{- range .Params.tags }}
-      <span class="badge rounded-pill bg-light text-secondary fw-normal mb-1">{{ . }}</span>
+      <span class="badge rounded-pill bg-light text-secondsry mb-1 tag-list"><a href="/tags/{{ . | urlize}}">{{ . }}</a></span>
       {{- end }}</h6>
   </div>
 </div>
