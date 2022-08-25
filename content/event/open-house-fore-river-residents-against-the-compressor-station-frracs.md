@@ -2,14 +2,13 @@
 publishDate: 2022-08-25T09:30:25-04:00
 title: 'Open House: Fore River Residents Against the Compressor Station (FRRACS)'
 date: 2022-09-21T18:00:00-04:00
-image: ''
-backgroundImage: ''
+image: "/uploads/2022-08-25/weymouth-aerial_of_compressor.jpeg"
+backgroundImage: "/uploads/2022-08-25/weymouth-aerial_of_compressor.jpeg"
 location: Leventhal Map and Education Center, Central Library
 fee: Free
-registration: ''
+registration: https://www.eventbrite.com/e/open-house-fore-river-residents-against-the-compressor-station-frracs-tickets-407996487477
 tags:
 - Exhibitions
-draft: true
 
 ---
 ### About this event
