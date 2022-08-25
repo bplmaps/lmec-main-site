@@ -7,14 +7,19 @@ aliases:
 - "/visit"
 
 ---
-Our exhibitions gallery is free to the public, and no advance booking is necessary to view exhibitions. Plan to set aside between 30 minutes and 1½ hours for a full experience in the Gallery, though you are always welcome to spend more or less time, and to come back for multiple visits. The Gallery features captions and activities for children and families as well as adults.
-
-## Visiting Hours
 
 {{< alert-box type="info" title="COVID-19 Guidance" >}}
 
 Although it is not required, please consider wearing a face covering while inside BPL buildings. We recommend that patrons practice social distancing where possible. Please reschedule your visit if you have any symptoms of illness, or if you have received a positive COVID-19 test result in the past 10 days.
 
+{{</ alert-box >}}
+
+Our exhibitions gallery is free to the public, and no advance booking is necessary to view exhibitions. Plan to set aside between 30 minutes and 1½ hours for a full experience in the Gallery, though you are always welcome to spend more or less time, and to come back for multiple visits. The Gallery features captions and activities for children and families as well as adults.
+
+## Visiting Hours
+
+{{< alert-box type="info" title="Fall Hours Change beginning Sept 11" >}}
+Beginning September 11, the Map Center will be open on Sundays from 1-5pm. Starting September 12, we will be closed to the public on Mondays, but [research appointments](/research/appointments/) and [class visits](/education/) will still be available on Mondays. 
 {{</ alert-box >}}
 
 {{< hours-table >}}
