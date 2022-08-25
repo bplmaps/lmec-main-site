@@ -8,7 +8,7 @@ location: Leventhal Map and Education Center, Central Library
 fee: Free
 registration: https://www.eventbrite.com/e/open-house-fore-river-residents-against-the-compressor-station-frracs-tickets-407996487477
 tags:
-- Exhibitions
+- Exhibition
 
 ---
 ### About this event

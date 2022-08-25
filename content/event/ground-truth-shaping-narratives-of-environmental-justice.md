@@ -8,7 +8,7 @@ location: Boston Public Library, Commonwealth Salon
 fee: Free
 registration: https://www.eventbrite.com/e/407566039997
 tags:
-- Exhibitions
+- Exhibition
 
 ---
 ### About this event
