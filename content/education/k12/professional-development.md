@@ -18,7 +18,7 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 ### Small Bites 2022-2023: Map Center Teacher Social
 
-#### Thursday, September 22, 2022, 3:00-5:30 pm
+##### Thursday, September 22, 2022, 3:00-5:30 pm
 
 Come by any time between 3:00 and 5:30 pm for free maps for your classroom, snacks, good conversation, and an introduction to all the Leventhal Map & Education Center has to offer for students and educators. Take advantage of our "print-a-map offer": choose a map from the thousands in our digital collection to have us print on our large format printer for the wall of your classroom. We hope to see you there!
 
@@ -44,9 +44,9 @@ Register at: [https://membership.digitalcommonwealth.org/event-4863384](https://
 
 [**Explore the primary source sets “Activism in Boston Over Time”**](https://www.digitalcommonwealth.org/for_educators/primary_source_sets/activism_in_boston_over_time)
 
-### Small Bites 2022-2023 Environmental Justice and Activism: Resource Sharing
+### Small Bites 2022-2023: Environmental Justice and Activism Resource Sharing
 
-#### Tuesday, October 25, 2022, 3:30-4:30 pm
+##### Tuesday, October 25, 2022, 3:30-4:30 pm
 
 The Leventhal Map & Education Center and the Tsongas Industrial History Center co-present a follow-up to their July teacher workshop focused around teaching environmental justice and activism with case studies from eastern Massachusetts – past and present. In this one-hour session, we will share resources, key lessons, and ideas for teaching this broad topic at a local level.
 
