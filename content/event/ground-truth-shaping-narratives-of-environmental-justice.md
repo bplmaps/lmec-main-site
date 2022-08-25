@@ -1,7 +1,7 @@
 ---
-publishDate: 2022-08-25T09:00:31-04:00
+publishDate: 2022-08-25T09:00:31.000-04:00
 title: 'Ground Truth: Shaping Narratives of Environmental Justice'
-date: 2022-09-28T17:30:00-04:00
+date: 2022-09-28T17:30:00.000-04:00
 image: "/uploads/2022-08-23/risk.jpeg"
 backgroundImage: "/uploads/2022-08-23/risk.jpeg"
 location: Boston Public Library, Commonwealth Salon
@@ -9,7 +9,6 @@ fee: Free
 registration: https://www.eventbrite.com/e/407566039997
 tags:
 - Exhibitions
-draft: true
 
 ---
 ### About this event
