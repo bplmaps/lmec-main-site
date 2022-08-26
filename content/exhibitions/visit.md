@@ -18,7 +18,7 @@ Our exhibitions gallery is free to the public, and no advance booking is necessa
 
 ## Visiting Hours
 
-{{< alert-box type="info" title="Fall Hours Change beginning Sept 11" >}}
+{{< alert-box type="info" title="New fall hours beginning Sept 11" >}}
 Beginning September 11, the Map Center will be open on Sundays from 1-5pm. Starting September 12, we will be closed to the public on Mondays, but [research appointments](/research/appointments/) and [class visits](/education/) will still be available on Mondays. 
 {{</ alert-box >}}
 
@@ -41,7 +41,7 @@ Our free gallery tours last approximately 30 minutes and do not require advance 
 
 ## Special Exhibition Events
 
-{{< event-tag-listing tag="exhibition" >}}
+{{< event-tag-listing tag="Exhibition" >}}
 
 ## Group and Education Visits
 
