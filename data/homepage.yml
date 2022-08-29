@@ -47,6 +47,10 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Labor Day Closure
+    text: 'The Map Center and all BPL locations will be closed on Monday, September
+      5th in observance of Labor Day '
+    link: https://www.leventhalmap.org/about/hours-directions/
   - badge: On display
     text: '"More or Less in Common: Environment and Justice in the Human Landscape"
       is open now through December '
@@ -154,5 +158,5 @@ upcomingLivestream:
   embedLink: <iframe width="560" height="315" src="https://www.youtube.com/embed/0P2GCaVMFU8"
     title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
     encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  startTime: 2022-08-18T17:55:00-04:00
-  endTime: 2022-08-18T19:05:00-04:00
+  startTime: 2022-08-18T17:55:00.000-04:00
+  endTime: 2022-08-18T19:05:00.000-04:00
