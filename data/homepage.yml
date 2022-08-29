@@ -47,10 +47,6 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Labor Day Closure
-    text: 'The Map Center and all BPL locations will be closed on Monday, September
-      5th in observance of Labor Day '
-    link: https://www.leventhalmap.org/about/hours-directions/
   - badge: On display
     text: '"More or Less in Common: Environment and Justice in the Human Landscape"
       is open now through December '
@@ -61,6 +57,10 @@ cta:
   - badge: New acquisition
     text: An 1886 map showing communications cables laid under the Atlantic
     link: https://bpl.bibliocommons.com/v2/record/S75C8203455
+  - badge: Labor Day Closure
+    text: 'The Map Center and all BPL locations will be closed on Monday, September
+      5th in observance of Labor Day '
+    link: https://www.leventhalmap.org/about/hours-directions/
 audiences:
   enable: true
   audienceGroups:
