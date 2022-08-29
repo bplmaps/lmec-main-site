@@ -1,11 +1,12 @@
 ---
-date: 2022-09-02T00:00:03-04:00
+date: 2022-09-02T00:00:03.000-04:00
 title: The Spirit of Radio
 description: Explore some new and old radio maps in our collection, and learn a bit
   about the history of radio communications.
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039nv56g/225,1645,6132,2891/1200,/0/default.jpg
 author: Rachel Sharer
-tags: []
+tags:
+- Collections
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039nv56g/225,1645,6132,2891/1200,/0/default.jpg
 draft: true
 
