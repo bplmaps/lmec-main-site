@@ -12,15 +12,15 @@ quicklinks:
   linkType: jump
 
 ---
-## Hours
-
-#### Gallery Hours
-
 {{< alert-box type="info" title="COVID-19 Guidance" >}}
 
 Although it is not required, please consider wearing a face covering while inside BPL buildings. We recommend that patrons practice social distancing where possible. Please reschedule your visit if you have any symptoms of illness, or if you have received a positive COVID-19 test result in the past 10 days.
 
 {{</ alert-box >}}
+
+## Hours
+
+#### Gallery Hours
 
 {{< alert-box type="info" title="New fall hours beginning Sept 11" >}} Beginning September 11, the Map Center will be open on Sundays from 1-5pm. Starting September 12, we will be closed to the public on Mondays, but [research appointments](/research/appointments/) and [class visits](/education/) will still be available on Mondays. {{</ alert-box >}}
 
