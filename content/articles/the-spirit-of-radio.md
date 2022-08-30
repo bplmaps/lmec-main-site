@@ -1,5 +1,5 @@
 ---
-date: 2022-09-02T00:00:03.000-04:00
+date: 2022-09-02T00:00:03-04:00
 title: The Spirit of Radio
 description: Explore some new and old radio maps in our collection, and learn a bit
   about the history of radio communications.
@@ -15,7 +15,7 @@ As a long-time radio-lover, I couldn’t help but smile when I saw this recently
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039nv56g/full/1200,/0/default.jpg" caption="Walter Eckhard, _Philips Radio_ \[ca. 1935\].">}}
 
-It makes sense that maps and radios go hand-in-hand: the invention of radio was, of course, all about going distances and crossing borders. Public radio first entered the public consciousness in 1920, after wartime restrictions on radio broadcasting were lifted at the end of World War I, and by 1922, a broadcasting boom swept the globe. Radio was not only used for news and weather, but offered expanded programming and entertainment. ([Listen to this recording from the British Library](https://www.bl.uk/collection-items/nellie-melba-singing-home-sweet-home) to hear what is considered one of the pioneering entertainment radio broadcasts, the “[voice around the world](https://earlyradiohistory.us/1920vox.htm)”: Singer Nellie Melba’s June 15, 1920 concert transmitted from Chelmsford, England, across European cities.)
+It makes sense that maps and radios go hand-in-hand: the invention of radio was, of course, all about going distances and crossing borders. Public radio first entered public consciousness in 1920, after wartime restrictions on radio broadcasting were lifted at the end of World War I, and by 1922, a broadcasting boom swept the globe. Radio was not only used for news and weather, but offered expanded programming and entertainment. ([Listen to this recording from the British Library](https://www.bl.uk/collection-items/nellie-melba-singing-home-sweet-home) to hear what is considered one of the pioneering entertainment radio broadcasts, the “[voice around the world](https://earlyradiohistory.us/1920vox.htm)”: Singer Nellie Melba’s June 15, 1920 concert transmitted from Chelmsford, England, across European cities.)
 
 In the [December 16, 1922 issue of _The Country Gentlemen_](https://babel.hathitrust.org/cgi/pt?id=osu.32435057764870&view=1up&seq=925&skin=2021), an agricultural and rural magazine, John R. McMahon writes: _"The radiophone is a marvel. After the automobile, it is to become the foremost agency of civilization. Anybody who feels discouraged about things in general should clamp on a pair of ear phones and tune up.”_
 
