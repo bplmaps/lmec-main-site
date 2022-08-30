@@ -10,6 +10,10 @@ weight: "5"
 
 Please contact <info@leventhalmap.org> or call +1 617.859.2387 for press inquiries.
 
+## Resources and Services for Journalists and the Media
+
+To learn more about what areas of topical expertise are covered by the Leventhal Map & Education Center and LMEC staff members, to find information about how to book an interview or comment, or to understand right management for the use and reproduction of objects from our collections, [see our Resources and Services for Journalists and the Media page](../press-resources/).
+
 ## Recent Press
 
 [The Boston Globe - _When Boston gave America some sugar_](https://www.bostonglobe.com/2022/02/12/opinion/when-boston-gave-america-some-sugar/)
