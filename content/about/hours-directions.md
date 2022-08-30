@@ -22,6 +22,8 @@ Although it is not required, please consider wearing a face covering while insid
 
 {{</ alert-box >}}
 
+{{< alert-box type="info" title="New fall hours beginning Sept 11" >}} Beginning September 11, the Map Center will be open on Sundays from 1-5pm. Starting September 12, we will be closed to the public on Mondays, but [research appointments](/research/appointments/) and [class visits](/education/) will still be available on Mondays. {{</ alert-box >}}
+
 {{< hours-table >}}
 
 #### Research Hours
