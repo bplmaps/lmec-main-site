@@ -3,7 +3,7 @@ description = "Public Engagement Coordinator"
 headshot = "/uploads/2021-08-22/img_0103.jpeg"
 menu = false
 staff_category = "staff"
-title = "Megan Nally "
+title = "Megan Nally"
 type = "person"
 [[contact]]
 details = "617-859-2383"
