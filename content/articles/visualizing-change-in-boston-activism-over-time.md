@@ -21,8 +21,8 @@ In 1948, the Commonwealth of Massachusetts released the [Metropolitan Master Hig
 
 The proposed [complete system of expressways](https://archive.org/details/masterhighwaypla00char/page/8/mode/1up) included a [Southwest Expressway](https://archive.org/details/masterhighwaypla00char/page/53/mode/1up), beginning at the business district of Boston and running through Roxbury, Dorchester, and Hyde Park through Milton and Dedham, and a [Belt Route](https://archive.org/details/masterhighwaypla00char/page/60/mode/1up) to serve as a by-pass of the central area for traffic east to west and north to south. Designed to span through densely-populated areas inside and outside of Boston, both projects were eventually halted and abandoned in the early 1970s. 
 
-The following maps, photographs, and reports document the course from proposal to abandonment, a decision that is heavily attributed to public opposition and action. 
+The following maps, photographs, and reports document the course from proposal to abandonment––a decision that can be attributed to widespread public opposition and action. 
 
-### Inner belt 
+### Inner Belt 
 
-### Southwest expressway 
+### Southwest Expressway 
