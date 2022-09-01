@@ -1,7 +1,7 @@
 ---
 date: 2022-09-08T09:15:01-04:00
 title: Visualizing Change in Boston
-description: 'The Southwest Expressway and Inner Belt were proposed '
+description: ''
 image: "/uploads/2022-09-01/masterhighwaypla00char_0015.jpeg"
 author: Megan Nally
 tags:
