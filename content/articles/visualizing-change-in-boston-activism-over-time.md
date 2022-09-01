@@ -1,6 +1,6 @@
 ---
 date: 2022-09-08T09:15:01-04:00
-title: From pavement to public park
+title: Proposed pavement to public park
 description: ''
 image: "/uploads/2022-09-01/masterhighwaypla00char_0015.jpeg"
 author: Megan Nally
