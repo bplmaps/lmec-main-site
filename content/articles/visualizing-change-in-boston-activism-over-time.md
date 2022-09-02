@@ -27,9 +27,7 @@ The following maps, photographs, and reports document the course from proposal t
 
 #### Inner Belt
 
-The Inner Belt was planned as an 8-lane expressway that, in tandem with the Central Artery, would form a [ring road](https://historycambridge.org/innerbelt/history.html) around the metropolitan area, cutting through Roxbury and Fenway, crossing the Charles River, and then running through [Cambridgeport, Central Square, and Somerville](https://www.wbur.org/radioboston/2012/03/26/inner-belt-highways). As depicted on this 1959 map of the "golden semicircle," the Inner Belt was designed to encircle the city 
-
-{{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c18s/2840,1021,1083,927/full/0/default.jpg"  target="blank" >}} encircle the city {{</popup>}}
+The Inner Belt was planned as an 8-lane expressway that, in tandem with the Central Artery, would form a [ring road](https://historycambridge.org/innerbelt/history.html) around the metropolitan area, cutting through Roxbury and Fenway, crossing the Charles River, and then running through [Cambridgeport, Central Square, and Somerville](https://www.wbur.org/radioboston/2012/03/26/inner-belt-highways). As depicted on [this 1959 map](https://collections.leventhalmap.org/search/commonwealth:fn107c17h) of the "golden semicircle," it was designed to {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c18s/2840,1021,1083,927/full/0/default.jpg"  target="blank" >}} encircle the city {{</popup>}} 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9019vk684/3985,3130,1365,1288/full/0/default.jpg" caption="The proposed Inner Belt appears on [this 1961 map](https://collections.leventhalmap.org/search/commonwealth:cn69pp161) in two dashed, green lines." class="figure-right" >}}
 
