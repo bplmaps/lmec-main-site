@@ -12,6 +12,7 @@ tags:
 draft: true
 
 ---
+### About this event 
 
 ##### Our speakers:
 
