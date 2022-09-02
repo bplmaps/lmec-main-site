@@ -27,8 +27,8 @@ The following maps, photographs, and reports document the course from proposal t
 
 #### Inner Belt
 
-The {{< popup src="https://iiif.archivelab.org/iiif/masterhighwaypla00char$76/1634,668,1570,1773/full/0/default.jpg"  target="blank" >}} proposed route {{</popup>}}  of the Inner Belt, 
+As stated in the Master Plan, the {{< popup src="https://iiif.archivelab.org/iiif/masterhighwaypla00char$76/1634,668,1570,1773/full/0/default.jpg"  target="blank" >}} proposed route {{</popup>}}  of the Inner Belt 
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9019vk684/3985,3130,1365,1288/full/0/default.jpg" caption="The proposed Inner Belt appears on [this 1961 map](https://collections.leventhalmap.org/search/commonwealth:cn69pp161) in a two dashed, green lines." class="figure-center" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9019vk684/3985,3130,1365,1288/full/0/default.jpg" caption="The proposed Inner Belt appears on [this 1961 map](https://collections.leventhalmap.org/search/commonwealth:cn69pp161) in two dashed, green lines." class="figure-center" >}}
 
 #### Southwest Expressway
