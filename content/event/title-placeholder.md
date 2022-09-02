@@ -1,7 +1,7 @@
 ---
-publishDate: 2022-08-26T09:58:05-04:00
-title: Title Placeholder (Lacy Johnson and Zoe Davis)
-date: 2022-09-29T16:00:00-04:00
+publishDate: 2022-09-03T09:30:05-04:00
+title: 'Visualizing Flood Risk: A Conversation Between Citites'
+date: 2022-09-29T16:00:00.000-04:00
 image: "/uploads/2022-08-26/flood.jpeg"
 backgroundImage: "/uploads/2022-08-26/flood.jpeg"
 location: Online
@@ -12,6 +12,7 @@ tags:
 draft: true
 
 ---
+
 ##### Our speakers:
 
 **Lacy M. Johnson** is a Houston-based professor, curator, activist and author of the essay collection _The Reckonings_ (Scribner, 2018) and the memoir _The Other Side_ (Tin House, 2014) — both National Book Critics Circle Award finalists — and the memoir _Trespasses_ (U Iowa Press, 2012). She is editor, with the graphic designer Cheryl Beckett, of [More City Than Water: A Houston Flood Atlas](https://utpress.utexas.edu/9781477325001/) (UT Press, 2022). She teaches creative nonfiction at Rice University and is the founding director of the [Houston Flood Museum](https://houstonfloodmuseum.org/).
