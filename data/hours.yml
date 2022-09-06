@@ -2,8 +2,7 @@
 specialNote: ''
 weekly:
 - day: Monday
-  open: 11 am
-  close: 5 pm
+  special: Closed
 - day: Tuesday
   open: 11 am
   close: 5 pm
@@ -20,7 +19,8 @@ weekly:
   open: 11 am
   close: 5 pm
 - day: Sunday
-  special: Closed
+  open: 1 pm
+  close: 5 pm
 exceptions:
 - date: September 5, 2022
   name: Labor Day
