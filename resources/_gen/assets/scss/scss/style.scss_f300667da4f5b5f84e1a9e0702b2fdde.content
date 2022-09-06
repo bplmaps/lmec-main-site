@@ -533,12 +533,12 @@ textarea.form-control {
       width: 50%;
       margin-right: 20px; } }
   .content figure figcaption {
-    padding: 15px 5px; }
+    padding: 10px 5px; }
   .content figure figcaption p {
     font-family: hero-new, sans-serif;
     font-weight: 300;
     font-size: 0.9em;
-    line-height: 1.3em;
+    line-height: 1.5em;
     margin: 0; }
   .content figure img {
     max-width: 100%; }
@@ -688,7 +688,8 @@ span.popupTooltip {
   background-image: linear-gradient(0deg, rgba(5, 70, 113, 0.3) 100%, transparent 0);
   border-radius: 8px;
   padding: 2px 8px;
-  z-index: 1000; }
+  z-index: 1000;
+  cursor: pointer; }
 
 span.popupTooltip:hover {
   background-image: linear-gradient(0deg, rgba(5, 70, 113, 0.1) 100%, transparent 0);
@@ -701,8 +702,12 @@ div.iiif-popup {
   color: #1a1a37;
   max-height: 410px;
   max-width: 410px;
+  min-width: 50px;
+  min-height: 50px;
   display: none;
-  z-index: 1000; }
+  z-index: 1000;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.7);
+  border-radius: 2px; }
 
 div.iiif-popup img {
   border: none;
