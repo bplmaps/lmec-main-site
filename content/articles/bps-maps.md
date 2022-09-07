@@ -1,6 +1,6 @@
 ---
 date: 2022-09-12T10:00:39-04:00
-title: "Inviting to all: Mapping the Boston Public School system's exam invitation system"
+title: "Inviting to all: Mapping Boston Public School's exam invitation system"
 description: In attempts to make the admissions process more equitable, the system for exam school invitations at BPS has changed three times in as many years. How can maps help us make sense of these changes?
 image: "../images/blog/bls.jpg"
 author: Kyler Hoogendoorn-Ecker
