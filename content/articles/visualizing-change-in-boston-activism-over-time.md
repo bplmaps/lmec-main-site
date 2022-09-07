@@ -1,7 +1,10 @@
 ---
 date: 2022-09-08T09:15:01.000-04:00
 title: 'The (Unrealized) Metropolitan Master Highway Plan of 1948 '
-description: ''
+description: The Southwest Expressway and Inner Belt Highway projects were both proposed
+  in the Master Highway Plan for the Boston Metropolitan Area in 1948. Designed to
+  span through densely-populated areas inside and outside of Boston, both projects
+  were eventually halted and abandoned in the early 1970s.
 image: "/uploads/2022-09-01/masterhighwaypla00char_0015.jpeg"
 author: Megan Nally
 tags:
