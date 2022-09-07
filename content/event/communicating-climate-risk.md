@@ -1,12 +1,12 @@
 ---
-publishDate: 2022-09-03T09:30:05.000-04:00
+publishDate: 2022-08-26T09:58:05-04:00
 title: 'The Challenges of Communicating Climate Risk: A Conversation Across Cities'
-date: 2022-09-29T16:00:00.000-04:00
-image: "/uploads/2022-08-26/flood.jpeg"
-backgroundImage: "/uploads/2022-08-26/flood.jpeg"
+date: 2022-09-29T16:00:00-04:00
+image: "/images/events/CPW-CommClimateRisk.png"
+backgroundImage: "/images/events/CPW-CommClimateRisk.png"
 location: Online
 fee: Free
-registration: https://www.eventbrite.com/e/the-challenges-of-communicating-climate-risk-tickets-408202363257
+registration: 'https://www.eventbrite.com/e/the-challenges-of-communicating-climate-risk-tickets-408202363257'
 tags:
 - Exhibition
 
