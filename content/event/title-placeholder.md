@@ -6,10 +6,9 @@ image: "/uploads/2022-08-26/flood.jpeg"
 backgroundImage: "/uploads/2022-08-26/flood.jpeg"
 location: Online
 fee: Free
-registration: ''
+registration: https://www.eventbrite.com/e/the-challenges-of-communicating-climate-risk-tickets-408202363257
 tags:
 - Exhibition
-draft: true
 
 ---
 ### About this event
