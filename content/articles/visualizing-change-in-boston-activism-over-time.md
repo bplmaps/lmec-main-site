@@ -1,6 +1,6 @@
 ---
-date: 2022-09-08T09:15:01-04:00
-title: 'Visualizing Change in Boston '
+date: 2022-09-08T09:15:01.000-04:00
+title: 'The [Unrealized] Metropolitan Master Highway Plan of 1948 '
 description: ''
 image: "/uploads/2022-09-01/masterhighwaypla00char_0015.jpeg"
 author: Megan Nally
