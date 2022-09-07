@@ -1,6 +1,6 @@
 ---
 date: 2022-09-08T09:15:01.000-04:00
-title: 'The [unrealized] Metropolitan Master Highway Plan of 1948 '
+title: 'The (Unrealized) Metropolitan Master Highway Plan of 1948 '
 description: ''
 image: "/uploads/2022-09-01/masterhighwaypla00char_0015.jpeg"
 author: Megan Nally
@@ -31,6 +31,6 @@ The Inner Belt was planned as an 8-lane expressway that, in tandem with the Cent
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9019vk684/3985,3130,1365,1288/full/0/default.jpg" caption="The proposed Inner Belt appears on [this 1961 map](https://collections.leventhalmap.org/search/commonwealth:cn69pp161) in two dashed, green lines." class="figure-right" >}}
 
-As depicted on [this 1959 map](https://collections.leventhalmap.org/search/commonwealth:fn107c17h) of the "golden semicircle," it was designed to {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c18s/2840,1021,1083,927/full/0/default.jpg"  target="blank" >}} encircle the city {{</popup>}} but in result, would completely destroy neighborhoods and uproot thousands. These populated areas were [described](https://archive.org/details/masterhighwaypla00char/page/44/mode/1up) by planners as neighborhoods where {{< popup src="https://iiif.archivelab.org/iiif/masterhighwaypla00char$60/145,501,1533,1140/full/0/default.jpg"  target="blank" >}} real estate values {{</popup>}} were "low and...still declining," and even suggested the "new service provided by the expressway" would "arrest the deterioration" and "aid in their rehabilitation." In many cases, the neighborhoods labelled as "declining" were racially and culturally diverse, working-class communities.
+As depicted on [this 1959 map](https://collections.leventhalmap.org/search/commonwealth:fn107c17h) of the "golden semicircle," it was designed to {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c18s/2840,1021,1083,927/full/0/default.jpg"  target="blank" >}} encircle the city {{</popup>}} but in result, would completely destroy neighborhoods and uproot thousands. These populated areas were [described](https://archive.org/details/masterhighwaypla00char/page/44/mode/1up) by planners as neighborhoods where {{< popup src="https://iiif.archivelab.org/iiif/masterhighwaypla00char$60/145,501,1533,1140/full/0/default.jpg"  target="blank" >}} real estate values {{</popup>}} were "low and...still declining," and even suggested the "new service provided by the expressway" would "arrest the deterioration" and "aid in their rehabilitation." In many cases, the neighborhoods labelled as "declining" were racially and culturally diverse, working-class communities. 
 
 #### Southwest Expressway
