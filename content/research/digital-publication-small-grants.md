@@ -27,9 +27,11 @@ This grant program supports emerging scholars who seek to make their own work ac
 * Projects which make extensive use of the Leventhal Map & Education Center collections, and the Boston Public Library's special and research collections
 * Projects which focus on geographies in Boston and New England, and which combine historic and contemporary elements
 
-Successful applicants will receive a stipend of $1,200, to be disbursed individually to the project's primary author in two parts, at the beginning of the project and after the completion of publication. Additionally, successful applicants will receive a commitment of research collaboration as well as technical development from LMEC staff, beginning with the project's initial roughing-out stage and continuing through to publication. Grantees will be asked to give a 30 minute presentation to the entire LMEC staff roughly midway through the completion of their project. 
+Successful applicants will receive a stipend of $1,200, to be disbursed individually to the project's primary author in two parts, at the beginning of the project and after the completion of publication. Additionally, successful applicants will receive a commitment of research collaboration as well as technical development from LMEC staff, beginning with the project's initial roughing-out stage and continuing through to publication. Technical assistance can include the coding and design needed to produce a publication in one of the formats described in the examples above, or limited assistance in creating another digital modality of the author's design. Grantees should not, however, expect LMEC staff to support entirely bespoke design and coding process for a one-off publication modality. 
 
-This grant has **no in-person requirement** and grants may be given to individuals who have no plans to travel to Boston during the project period. For those who do wish to work with the Center's phyiscal collections, priority access to the reading room will be provided.
+Grantees will be asked to give a 30 minute presentation to the entire LMEC staff roughly midway through the completion of their project. 
+
+This grant has **no in-person requirement** and grants may be issued to individuals who have no plans to travel to Boston during the project period. For those who do wish to work with the Center's phyiscal collections, priority access to the reading room will be provided.
 
 
 #### Eligibility
