@@ -1,28 +1,30 @@
 ---
-publishDate: 2022-07-25T11:20:14.000-04:00
+publishDate: 2022-09-06T11:20:14-04:00
 title: 'Author Talk: Olúfẹ́mi O. Táíwò on Elite Capture: How The Powerful Took Over
   Identity Politics (And Everything Else)'
-date: 2022-09-28T15:00:00.000-04:00
-image: "/uploads/2022-07-25/dc.jpeg"
-backgroundImage: "/uploads/2022-07-25/dc.jpeg"
-location: Online
+date: 2022-11-16T18:00:00-05:00
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947d369/377,803,3378,1405/,1200/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947d369/377,803,3378,1405/,1200/0/default.jpg
+location: Rabb Hall and Online
 fee: Free
-registration: https://membership.digitalcommonwealth.org/event-4863384
+registration: ''
 tags:
-- K12
-- Education
-- Boston
+- author talk
+- exhibition
+- BPL
 draft: true
 
 ---
-{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is co-organized with BPL Adult Programs.{{< /alert-box >}}
 
 ### About this event
 
-Educators from the [Norman B. Leventhal Map & Education Center](https://www.leventhalmap.org/) at the Boston Public Library will discuss [“Activism in Boston Over Time,”](https://www.digitalcommonwealth.org/for_educators/primary_source_sets/activism_in_boston_over_time) a new primary source set and an accompanying lesson they created for Digital Commonwealth. In this lesson, students use maps, photos and other resources to construct a narrative of how different locations in Boston changed over time and the role of activism in the change. This lesson can serve as a model for any educators across the Commonwealth considering how to teach about the role of citizen action in their local communities.
+Join the philosopher [Olúfẹ́mi O. Táíwò](http://www.olufemiotaiwo.com) for a discussion of his new book _Elite Capture: How the Powerful Took Over Identity Politics (And Everything Else)_. His work explores the process by which a radical concept can be stripped of its political substance and liberatory potential by becoming the victim of elite capture—deployed by political, social, and economic elites in the service of their own interests. 
 
-**Come prepared to participate as we'll be trying out the lesson together!**
+"I was waiting for this book without realizing I was waiting for this book." —Ruth Wilson Gilmore
 
-This workshop is designed for K-12 educators but anyone interested in this topic is invited to participate.
+![](http://www.olufemiotaiwo.com/uploads/1/0/2/1/102141076/editor/9781642596885-fc.jpg)
 
-The workshop is free of charge. Please register by Tuesday, September 27. You will receive the Zoom link when you register.
+![](http://www.olufemiotaiwo.com/uploads/1/0/2/1/102141076/headshot-by-jared-rodriguez-1-1_orig.jpg)_Headshot by_ [_Jared Rodríguez_](http://www.jaredrodriguez.com/)
+
+Olúfẹ́mi O. Táíwò is Assistant Professor of Philosophy at Georgetown University. He is the author of _Elite Capture: How the Powerful Took Over Identity Politics (And Everything Else)_ and _Reconsidering Reparations_. His work exploring the intersections of climate justice and colonialism has been featured in _The New Yorker, The Nation, Boston Review, Dissent, The Appeal, Slate, Al Jazeera, The New Republic, Aeon_, and _Foreign Policy_.
