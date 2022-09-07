@@ -1,7 +1,10 @@
 ---
-date: 2022-09-08T09:15:01-04:00
-title: 'Visualizing Change in Boston '
-description: ''
+date: 2022-09-08T09:15:01.000-04:00
+title: 'The (Unrealized) Metropolitan Master Highway Plan of 1948 '
+description: The Southwest Expressway and Inner Belt Highway projects were both proposed
+  in the Master Highway Plan for the Boston Metropolitan Area in 1948. Designed to
+  span through densely-populated areas inside and outside of Boston, both projects
+  were eventually halted and abandoned in the early 1970s.
 image: "/uploads/2022-09-01/masterhighwaypla00char_0015.jpeg"
 author: Megan Nally
 tags:
@@ -13,9 +16,9 @@ backgroundImage: "/uploads/2022-09-01/masterhighwaypla00char_0015.jpeg"
 draft: true
 
 ---
-> Hey, educators! This article digs into a case study from our latest [Digital Commonwealth](https://www.digitalcommonwealth.org/) primary source set, [Activism in Boston Over Time](https://www.digitalcommonwealth.org/for_educators/primary_source_sets/activism_in_boston_over_time). You will find a collection of maps, photographs, film, and documents that reveal change over time in different Boston neighborhoods and the role of activism in creating that change. Linked [here](https://docs.google.com/presentation/d/1PUi7o35Y-6EPGe0dOq8wi9jmj5C78Md7qrLn6ZVoIOE/edit#slide=id.p) is a lesson that incorporates many of these sources as well as others that can be used with students in grades 8-12.
+> Hey, educators! This article digs into a case study from our latest [Digital Commonwealth](https://www.digitalcommonwealth.org/) primary source set, [Activism in Boston Over Time](https://www.digitalcommonwealth.org/for_educators/primary_source_sets/activism_in_boston_over_time). In the set, you will find a collection of maps, photographs, film, and documents that reveal change over time in different Boston neighborhoods and the role of activism in creating that change. Linked [here](https://docs.google.com/presentation/d/1PUi7o35Y-6EPGe0dOq8wi9jmj5C78Md7qrLn6ZVoIOE/edit#slide=id.p) is a lesson that incorporates many of these sources as well as others that can be used with students in grades 8-12.
 
-### The Metropolitan Master Highway Plan
+### The Metropolitan Master Highway Plan of 1948 
 
 In 1948, the Commonwealth of Massachusetts released the [Metropolitan Master Highway Plan](https://archive.org/details/masterhighwaypla00char/page/n15/mode/1up), a “ten-year construction program for the relief of traffic congestion” detailing “a network of expressways of latest modern design and of sufficient capacity.” Included in the 204-page report are [cost estimates](https://archive.org/details/masterhighwaypla00char/page/102/mode/1up), [economic justifications](https://archive.org/details/masterhighwaypla00char/page/103/mode/1up), [traffic tables](https://archive.org/details/masterhighwaypla00char/page/114/mode/1up), and maps of [proposed expressways](https://archive.org/details/masterhighwaypla00char/page/124/mode/1up), [construction stages](https://archive.org/details/masterhighwaypla00char/page/106/mode/1up), and more.
 
