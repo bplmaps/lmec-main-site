@@ -3,8 +3,8 @@ publishDate: 2022-09-06T11:20:14-04:00
 title: 'Author Talk: Olúfẹ́mi O. Táíwò on Elite Capture: How The Powerful Took Over
   Identity Politics (And Everything Else)'
 date: 2022-11-16T18:00:00-05:00
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947d369/377,803,3378,1405/,1200/0/default.jpg
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947d369/377,803,3378,1405/,1200/0/default.jpg
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947d369/377,803,3378,1799/,1200/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947d369/377,803,3378,1799/,1200/0/default.jpg
 location: Rabb Hall and Online
 fee: Free
 registration: ''
