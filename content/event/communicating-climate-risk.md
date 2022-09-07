@@ -5,6 +5,7 @@ date: 2022-09-29T16:00:00-04:00
 image: "/images/events/CPW-CommClimateRisk.png"
 backgroundImage: "/images/events/CPW-CommClimateRisk.png"
 location: Online
+draft: true
 fee: Free
 registration: 'https://www.eventbrite.com/e/the-challenges-of-communicating-climate-risk-tickets-408202363257'
 tags:
