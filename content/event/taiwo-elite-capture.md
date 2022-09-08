@@ -19,7 +19,7 @@ draft: true
 
 "_I was waiting for this book without realizing I was waiting for this book_." — Ruth Wilson Gilmore
 
-{{< figure src="/uploads/2022-09-08/9781642596885-fc.jpeg" class="figure-right" >}}
+{{< figure src="/uploads/2022-09-08/book.jpeg" class="figure-right" >}}
 
 Join the philosopher [Olúfẹ́mi O. Táíwò](http://www.olufemiotaiwo.com) for a discussion of his new book _Elite Capture: How the Powerful Took Over Identity Politics (And Everything Else)_. His work explores the process by which a radical concept can be stripped of its political substance and liberatory potential by becoming the victim of elite capture—deployed by political, social, and economic elites in the service of their own interests.
 
