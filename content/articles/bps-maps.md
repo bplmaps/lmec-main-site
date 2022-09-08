@@ -4,7 +4,7 @@ title: "Inviting to all: The geography of the Boston Public Schools exam invitat
 description: In attempts to make the admissions process more equitable, the system for exam school invitations at BPS has changed three times in as many years. How can maps help us make sense of these changes?
 image: "../images/blog/bls.jpg"
 author: Kyler Hoogendoorn-Ecker
-tags: [Boston Public Schools, schools, geographic information systems, GIS, inequality, choropleth map]
+tags: [Boston Public Schools, Boston, schools, geographic information systems, GIS, inequality, choropleth map]
 backgroundImage: '../images/blog/bls.jpg'
 draft: true
 
