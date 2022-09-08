@@ -21,14 +21,14 @@ The Boston Public Schools (BPS) panel assigned to overseeing the restructuring o
 
 ### Mapping exam school admissions
 
-BPS publishes data sets on exam school invitations in [tabular form](https://www.bostonpublicschools.org/Page/9008). While these tables contains geographic information, like rates of student admission by zip code and neighborhood, it can be hard to draw conclusions about spatial patterns based on tables alone.
+BPS publishes data sets on exam school invitations in [tabular form](https://www.bostonpublicschools.org/Page/9008). While these tables contain geographic information, like rates of student admission by zip code and neighborhood, it can be hard to draw conclusions about spatial patterns based on tables alone.
 
 {{< figure
 class="figure-center"
 src="/images/blog/invitations.png"
 caption="Tabular data on exam school invitations, published by BPS." >}}
 
-Translating roughly to "quantity by area" (from the Latin *khṓra*, meaning “location”, and *plêthos* for “a great number”), [choropleth maps](https://www.axismaps.com/guide/choropleth) would better help us visualize how these attributes vary across space. Loading the BPS dataset into a [geographic information system](/articles/comp-cart-collections) allows us to comprehend spatial differences far more easily than in tabular form. 
+Translating roughly to "quantity by area" (from the Latin _khṓra_, meaning “location”, and _plêthos_ for “a great number”), [choropleth maps](https://www.axismaps.com/guide/choropleth) would better help us visualize how these attributes vary across space. Loading the BPS dataset into a [geographic information system](/articles/comp-cart-collections) allows us to comprehend spatial differences far more easily than in tabular form.
 
 {{< figure
 class="figure-center"
@@ -42,7 +42,7 @@ This [isn’t the first time](https://www.nytimes.com/1998/11/20/us/affirmative-
 To effectively discuss these policies, it’s essential to have an understanding of both their histories and their effects. Maps can help us make sense of the geographic impacts of such policies, for the sake of better informed public discourse and understanding.
 
 {{< carousel >}}
-    {{< carousel-figure src="/images/blog/bpsmap_2020-21.png" >}}{{< /carousel-figure >}}
-    {{< carousel-figure src="/images/blog/bpsmap_2021-22.png" >}}{{< /carousel-figure >}}
-    {{< carousel-figure src="/images/blog/bpsmap_2022-23.png" >}}{{< /carousel-figure >}}
+{{< carousel-figure src="/images/blog/bpsmap_2020-21.png" >}}{{< /carousel-figure >}}
+{{< carousel-figure src="/images/blog/bpsmap_2021-22.png" >}}{{< /carousel-figure >}}
+{{< carousel-figure src="/images/blog/bpsmap_2022-23.png" >}}{{< /carousel-figure >}}
 {{</ carousel >}}
