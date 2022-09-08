@@ -31,7 +31,7 @@ Successful applicants will receive a stipend of $1,200, to be disbursed individu
 
 Grantees will be asked to give a 30 minute presentation to the entire LMEC staff roughly midway through the completion of their project. 
 
-This grant has **no in-person requirement** and grants may be issued to individuals who have no plans to travel to Boston during the project period. For those who do wish to work with the Center's phyiscal collections, priority access to the reading room will be provided.
+This grant has **no in-person requirement** and grants may be issued to individuals who have no plans to travel to Boston during the project period. For those who do wish to work with the Center's physical collections, priority access to the reading room will be provided.
 
 
 #### Eligibility
@@ -41,18 +41,19 @@ Scholars of all professional backgrounds are encouraged to apply to the grant, b
 Applicants may apply individually or as part of a project group, though ordinarily project groups should consist of not more than three individuals.
 
 For the purposes of this grant, an **early career scholar** is defined as anyone who does *not* meet any of the following three criteria:
+
 * Faculty holding tenure or tenure-equivalent status at an academic institution;
 * Individuals with senior-level full-time or full-time-equivalent positions at another research, non-profit, or publishing institution;
 * Individuals who have published two or more books with a major press, or who have published 6 or more articles in publications with national or international circulation.
 
-Grants are available to all scholars regardless of citizenship; however, if the individual primarily responsible for the project does not have a United States tax identification, you should [contact us](info@leventhalmap.org) in advance to determine whether you will be able to receive the stipend.
+Grants are available to all scholars regardless of citizenship; however, if the individual primarily responsible for the project does not have a United States tax identification number, you should [contact us](info@leventhalmap.org) in advance to determine whether you will be able to receive the stipend.
 
 #### To Apply
 
 An application consists of the following material submitted by **October 24, 2022 at 10 pm EST**:
 
 * A pitch of no more than 500 words describing the proposed publication, including (a) major scholarly themes and (b) expected insights for a general audience readership
-* A description of no more than 300 words of the desired digital publication format, including an evaluation of the technical support which will be needed for publication
+* A description of no more than 300 words of the technical format and modality of the intended digital publication, including an evaluation of the technical support which will be needed for publication
 * (Optional) Links to 1-3 models of already completed digital publications, by any creator and in any format, which could serve as templates for the project
 * A full CV; PDF or Markdown
 

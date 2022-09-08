@@ -40,7 +40,7 @@ An application consists of the following material submitted by **Sunday, Novembe
 
 * A portfolio consisting of at least 3 pieces, emphasizing the applicant's work in cartographic and geographic modalities. (Uploads or URLs)
 * A CV or resume
-* A statement of not more than 500 words describing the applicant's creative response to one of the two theme areas for the 2023 residency
+* A statement of not more than 700 words describing the applicant's creative response to one of the two theme areas for the 2023 residency
 * A list of potential four-week periods proposed for residency
 
 Successful applicants will be notified by December 9, 2022.
