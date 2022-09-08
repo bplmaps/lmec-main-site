@@ -26,3 +26,11 @@ Join the philosopher [Olúfẹ́mi O. Táíwò](http://www.olufemiotaiwo.com) fo
 **Olúfẹ́mi O. Táíwò** is Assistant Professor of Philosophy at Georgetown University. He is the author of _Elite Capture: How the Powerful Took Over Identity Politics (And Everything Else)_ and _Reconsidering Reparations_. His work exploring the intersections of climate justice and colonialism has been featured in _The New Yorker, The Nation, Boston Review, Dissent, The Appeal, Slate, Al Jazeera, The New Republic, Aeon_, and _Foreign Policy_.
 
 {{< figure src="/uploads/2022-09-08/headshot.jpeg" caption="Headshot by [Jared Rodríguez](http://www.jaredrodriguez.com/)" class="figure-right" >}}
+
+{{< carousel >}}
+{{< carousel-figure src="/uploads/2022-09-08/headshot.jpeg" >}}{{< /carousel-figure >}}
+
+    {{< carousel-figure src="/uploads/2022-09-08/book.jpeg" >}}{{< /carousel-figure >}}
+    
+
+{{< /carousel >}}
