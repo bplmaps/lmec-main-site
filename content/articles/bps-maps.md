@@ -7,8 +7,8 @@ author: Kyler Hoogendoorn-Ecker
 tags: [Boston Public Schools, schools, geographic information systems, GIS, inequality, choropleth map]
 backgroundImage: '../images/blog/bls.jpg'
 draft: true
----
 
+---
 ### The exam school invitation system in Boston Public Schools
 
 In July 2021, the Boston School Committee voted to approve a new admissions policy for the city’s three exam schools. Under the new plan, applicants are evaluated from two angles: first, a composite score based on academic success, and second, the [socioeconomic situation of their neighborhood](https://experience.arcgis.com/experience/91a80d5ab92a464da30ce2ee94bbcf8d/). Students from a neighborhood with low levels of English proficiency and a high rate of poverty, for example, would be considered before one hailing from a high-income neighborhood of predominantly English-speaking, owner-occupied households.
@@ -17,14 +17,14 @@ The Boston Public Schools (BPS) panel assigned to overseeing the restructuring o
 
 ### Mapping exam school admissions
 
-BPS publishes data sets on exam school invitations in [tabular form](https://www.bostonpublicschools.org/Page/9008). While these tables contains geographic information, like rates of student admission by zip code and neighborhood, it can be hard to draw conclusions about spatial patterns based on tables alone.
+BPS publishes data sets on exam school invitations in [tabular form](https://www.bostonpublicschools.org/Page/9008). While these tables contain geographic information, like rates of student admission by zip code and neighborhood, it can be hard to draw conclusions about spatial patterns based on tables alone.
 
 {{< figure
 class="figure-center"
 src="/images/blog/invitations.png"
 caption="Tabular data on exam school invitations, published by BPS." >}}
 
-Translating roughly to "quantity by area" (from the Latin *khṓra*, meaning “location”, and *plêthos* for “a great number”), [choropleth maps](https://www.axismaps.com/guide/choropleth) would better help us visualize how these attributes vary across space. Loading the BPS dataset into a [geographic information system](/articles/comp-cart-collections) allows us to comprehend spatial differences far more easily than in tabular form. 
+Translating roughly to "quantity by area" (from the Latin _khṓra_, meaning “location”, and _plêthos_ for “a great number”), [choropleth maps](https://www.axismaps.com/guide/choropleth) would better help us visualize how these attributes vary across space. Loading the BPS dataset into a [geographic information system](/articles/comp-cart-collections) allows us to comprehend spatial differences far more easily than in tabular form.
 
 {{< figure
 class="figure-center"
@@ -38,7 +38,7 @@ This [isn’t the first time](https://www.nytimes.com/1998/11/20/us/affirmative-
 To effectively discuss these policies, it’s essential to have an understanding of both their histories and their effects. Maps can help us make sense of the geographic impacts of such policies, for the sake of better informed public discourse and understanding.
 
 {{< carousel >}}
-    {{< carousel-figure src="/images/blog/bpsmap_2020-21.png" >}}{{< /carousel-figure >}}
-    {{< carousel-figure src="/images/blog/bpsmap_2021-22.png" >}}{{< /carousel-figure >}}
-    {{< carousel-figure src="/images/blog/bpsmap_2022-23.png" >}}{{< /carousel-figure >}}
+{{< carousel-figure src="/images/blog/bpsmap_2020-21.png" >}}{{< /carousel-figure >}}
+{{< carousel-figure src="/images/blog/bpsmap_2021-22.png" >}}{{< /carousel-figure >}}
+{{< carousel-figure src="/images/blog/bpsmap_2022-23.png" >}}{{< /carousel-figure >}}
 {{</ carousel >}}
