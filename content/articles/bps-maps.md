@@ -1,5 +1,5 @@
 ---
-date: 2022-09-12T10:00:39.000-04:00
+date: 2022-09-09T10:00:39-04:00
 title: 'Inviting to all: Mapping Boston Public Schools'' exam invitation system'
 description: In attempts to make the admissions process more equitable, the system
   for exam school invitations at BPS has changed three times in as many years. How
