@@ -1,5 +1,5 @@
 ---
-publishDate: 2022-08-26T09:58:05.000-04:00
+publishDate: 2022-09-08T09:58:05-04:00
 title: 'The Challenges of Communicating Climate Risk: A Conversation Across Cities'
 date: 2022-09-29T16:00:00.000-04:00
 image: "/images/events/CPW-CommClimateRisk.png"
