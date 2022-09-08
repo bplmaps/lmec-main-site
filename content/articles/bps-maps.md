@@ -1,14 +1,18 @@
 ---
-date: 2022-09-12T10:00:39-04:00
-title: "Inviting to all: Mapping Boston Public Schools' exam invitation system"
-description: In attempts to make the admissions process more equitable, the system for exam school invitations at BPS has changed three times in as many years. How can maps help us make sense of these changes?
+date: 2022-09-12T10:00:39.000-04:00
+title: 'Inviting to all: Mapping Boston Public Schools'' exam invitation system'
+description: In attempts to make the admissions process more equitable, the system
+  for exam school invitations at BPS has changed three times in as many years. How
+  can maps help us make sense of these changes?
 image: "../images/blog/bls.jpg"
 author: Kyler Hoogendoorn-Ecker
-tags: [boston public schools, geographic information systems, choropleth mapping]
-backgroundImage: '../images/blog/bls.jpg'
+tags:
+- GIS
+- Boston
+backgroundImage: "../images/blog/bls.jpg"
 draft: true
----
 
+---
 ### The exam school invitation system in Boston Public Schools
 
 In July 2021, the Boston School Committee voted to approve a new admissions policy for the city’s three exam schools. Under the new plan, applicants are evaluated from two angles: first, a composite score based on academic success, and second, their [socioeconomic situation](https://experience.arcgis.com/experience/91a80d5ab92a464da30ce2ee94bbcf8d/). Students from a neighborhood with low levels of English proficiency and a high rate of poverty, for example, would be considered before a high-income neighborhood of predominantly English-speaking, owner-occupied households.
