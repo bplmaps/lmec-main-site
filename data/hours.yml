@@ -22,6 +22,9 @@ weekly:
   open: 1 pm
   close: 5 pm
 exceptions:
+- date: September 23, 2022
+  name: Staff Development
+  special: Closed
 - date: September 5, 2022
   name: Labor Day
   special: Closed
