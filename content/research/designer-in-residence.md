@@ -7,6 +7,8 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4633
 ---
 {{< alert-box type="success" title="Applications currently open" >}} Applications for this fellowship are open through **Sunday, November 27, 2022.**{{< /alert-box >}}
 
+#### Are you a designer working in cartographic or geographic media who would like to spend a month making maps with us?
+
 The Leventhal Map & Education Center's inaugural **Designer-in-Residence** fellowship supports designers working across all media and professional settings whose work is cartographic or geographic in nature. The Designer-in-Residence will spend time working with the LMEC collections, producing original material in collaboration with Center staff, and spend time dedicated to their own independent creative cartographic projects. Designers of all professional backgrounds working in primarily visual media are invited to apply, including cartographers, illustrators, graphic designers, those working in data visualization, and others who emphasize the geographic dimension of their practice.
 
 In 2023, two residencies will be offered, one each on the following themes:
@@ -16,6 +18,8 @@ In 2023, two residencies will be offered, one each on the following themes:
 
 Applicants should select *one* theme area in which to make an application.
 
+In addition to access to the LMEC cartographic collections, the Center will facilitate access to the other special and research collections of the Boston Public Library to the extent possible. If access to another BPL collection not held by the Leventhal Center is crucial to the planned residency project, please contact us in advance.
+
 The Designer-in-Residence will receive a $7000 stipend and is expected to be in residency at the Leventhal Map & Education Center in Boston, Massachusetts for four continuous weeks. On each of the residency weeks, the fellow should plan to spend three days in person at the Center, working in collaboration with Center staff, while the remainder of the week's time may be spent independently working at the Boston Public Library or remotely. The residency period may be planned for any four-week period from January 1 through August 31, 2023.  
 
 #### About the Residency
@@ -24,7 +28,7 @@ During the residency, the fellow will create at least one map in collaboration w
 
 Fellows should plan to hold at least two "open studios" for the public during the residency period during which they will demonstrate their cartographic and creative work in process.
 
-Fellows will have full access to the Center's collections, and we will additionally facilitate access where possible to the Boston Public Library's other Special Collections departments. Fellows will have access to Center workspaces, though any needs for special working conditions (e.g., large studio tables, specialized lighting, or access to a wet room) should be indicated in advance in the application material.
+Fellows will have full access to the Center's collections, and we will additionally facilitate access where possible to the Boston Public Library's other Special Collections departments. Fellows will have access to Center workspaces, and will expect to have use during the residency period of a standard desk, whiteboard, pin-up wall, and both standard and large-format printers. Access to the workspace will be available from 9 am to 5 pm on weekdays, and by advance request at other times. Computer equipment is not provided, but specialized software may be available if licenses are in place at the Center. Any needs for special working conditions (e.g., large studio tables, specialized lighting, or access to a wet room) or software should be indicated in advance in the application material. The Center is ADA accessible.
 
 Stipends will be paid in two parts, the first payment occuring two weeks before the beginning of the first week of residency, and the second occuring at the start of the third week of residency.
 
@@ -33,6 +37,9 @@ Stipends will be paid in two parts, the first payment occuring two weeks before 
 Designers of all professional backgrounds working in primarily visual media are invited to apply, including cartographers, illustrators, graphic designers, those working in data visualization, and others who emphasize the geographic dimension of their practice. Residents should not be employed at more than 0.2 full time equivalent in another capacity during their four weeks of their residency, or, if so employed, permission should be granted from the employing institution for a leave of absence.
 
 Residencies are available to all individuals regardles of citizenship who have legal permission to work in the United States. We cannot offer support or sponsorship for visa applications through this residency program.
+
+Special consideration will be given to applicants who belong to communities that have been historically excluded from the cartographic and design professions. 
+
 
 #### To Apply
 
@@ -44,3 +51,5 @@ An application consists of the following material submitted by **Sunday, Novembe
 * A list of potential four-week periods proposed for residency
 
 Successful applicants will be notified by December 9, 2022.
+
+For questions regarding the fellowship, please email [info@leventhalmap.org](mailto:info@leventhalmap.org) or call 617-859-2387.

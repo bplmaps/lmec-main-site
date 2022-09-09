@@ -7,9 +7,11 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4633
 ---
 {{< alert-box type="success" title="Applications currently open" >}} Applications for this grant are open through **Monday, October 24, 2022.**{{< /alert-box >}}
 
+#### Are you working on a scholarly project that would come alive for the public through an interactive digital publication?
+
 The Leventhal Map & Education Center's **Small Grants Fund for Early Career Digital Publications** supports scholars through the process of producing a publication for general audiences in a digital format. The program is designed to catalyze creative projects which utilize a digital medium to present scholarly work through engaging, accessible, and experimental communicative modalities.
 
-The grant consists of a **cash stipend of $1,200** together with **institutional research and technical support** from LMEC staff through the stages of the digital publication process. Projects may be conducted by scholars working both inside and outside of the academy on all topics related to geography, maps, history, and the humanistic spatial social sciences, either individually or in a group (though the stipend amount is fixed regardless of the number of scholars involved in the project). The primary author of the publication should be an early career scholar, as defined in the **Eligibility** section below. Digital publications produced through these grants will be published and hosted by LMEC on one or more of its digital portals, though projects will be licensed on a Creative Commons license and further publication, in digital or print formats, is not precluded by receipt of a grant. Projects may be conducted remotely, and grant recipients are not required to plan any in-person project time in Boston.
+The grant consists of an **stipend of $1,200** to support research and development time, together with **institutional research and technical support** from LMEC staff through the stages of the digital publication process. Projects may be conducted by scholars working both inside and outside of the academy on all topics related to geography, maps, history, and the humanistic spatial social sciences, either individually or in a group (though the stipend amount is fixed regardless of the number of scholars involved in the project). The primary author of the publication should be an early career scholar, as defined in the **Eligibility** section below. Digital publications produced through these grants will be published and hosted by LMEC on one or more of its digital portals, though projects will be licensed on a Creative Commons license and further publication, in digital or print formats, is not precluded by receipt of a grant. Projects may be conducted remotely, and grant recipients are not required to plan any in-person project time in Boston.
 
 #### About the Grant
 
@@ -24,8 +26,8 @@ The Leventhal Map & Education Center has produced numerous scholarly digital pub
 
 This grant program supports emerging scholars who seek to make their own work accessible, engaging, and interactive through similar digital publications. Any work related to topics in geography, maps, history, and the humanistic spatial social sciences is eligible for consideration under this grant, though we will prioritize projects of the following kind:
 
-* Projects which make extensive use of the Leventhal Map & Education Center collections, and the Boston Public Library's special and research collections
-* Projects which focus on geographies in Boston and New England, and which combine historic and contemporary elements
+* Projects that make extensive use of the Leventhal Map & Education Center collections, and the Boston Public Library's special and research collections
+* Projects that focus on geographies in Boston and New England, and which combine historic and contemporary elements
 
 Successful applicants will receive a stipend of $1,200, to be disbursed individually to the project's primary author in two parts, at the beginning of the project and after the completion of publication. Additionally, successful applicants will receive a commitment of research collaboration as well as technical development from LMEC staff, beginning with the project's initial roughing-out stage and continuing through to publication. Technical assistance can include the coding and design needed to produce a publication in one of the formats described in the examples above, or limited assistance in creating another digital modality of the author's design. Grantees should not, however, expect LMEC staff to support entirely bespoke design and coding process for a one-off publication modality. 
 

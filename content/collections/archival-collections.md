@@ -17,7 +17,7 @@ Archival collections at the LMEC are listed below. We are currently processing t
 
 The Applied Geographics, Inc. records consist of maps dated 1982-2012 that were created by or held by Applied Geographics, Inc., a GIS consulting firm in Boston, Massachusetts. A large portion of the collection consists of maps created for government agencies. The collection also includes maps produced by AppGeo staff while employed at MassGIS before the establishment of AppGeo, maps produced by other GIS firms, and published maps that were used for reference by the company.
 
-<a href="[https://archives.bpl.org/repositories/2/resources/152](https://archives.bpl.org/repositories/2/resources/152)" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to finding aid</a>
+<a href="https://archives.bpl.org/repositories/2/resources/152" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to finding aid</a>
 
 ***
 

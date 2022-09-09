@@ -7,52 +7,37 @@ aliases:
 - research/research-fellows
 
 ---
-#### NERFC Research Fellowships
 
-We are a participating institution in the New England Regional Fellowship Consortium. **To apply for a 2022-23 fellowship,** [**visit the NERFC site**](https://www.masshist.org/fellowships/nerfc "NERFC Fellowship Application")**.**
+## Small Grants for Early Career Digital Publications
 
-## Public Research Fellow Program
+<span class="badge bg-success font-secondary fw-normal">Open through October 24, 2022</span>
 
-### Environmental Justice in Boston and Beyond
+The Small Grants for Early Career Digital Publications offers a $1200 stipend and technical support for a digital publication on a cartographic or geographic topic which will be featured in the LMEC's digital platforms. Grantees are not required to work in person in Boston.
 
-{{< alert-box type="warning" icon="fas fa-calendar" title="Deadline passed" >}} The deadline for this fellowship application has passed. {{< /alert-box >}}
+<a href="../digital-publication-small-grants" class="btn btn-primary-outline btn-sm"><i class="fas fa-info-circle me-2"></i> Learn more and apply</a>
 
-The Leventhal Map & Education Center at the Boston Public Library is pleased to announce a call for **Public Research Fellows in History and Geography** for the 2021–2022 academic year.
+## Designer-in-Residence Fellowship
 
-The Public Research Fellows programs is a pilot initiative of the LMEC, and it is designed to support scholars whose work advances the following two goals:
+<span class="badge bg-success font-secondary fw-normal">Open through November 27, 2022</span>
 
-* _Productive research in the LMEC collections._ The LMEC stewards the Boston Public Library’s collection of over 200,000 maps, atlases, and other geographical objects. Particular strengths include Boston and New England, the American Revolution, urban atlases, and maritime charts; chronological coverage spans from the 16th century to the present. The LMEC’s location in the Boston Public Library also affords access to research materials in the library’s extensive historical and research collections.
-* _A public agenda for communication and engagement._ While fellows may also be working on traditional scholarly monographs or peer-reviewed journal articles, the Public Fellows Program specifically supports work committed to a broad audience, through formats such as newspaper and magazine articles, digital interactives, web publications, podcasts, multimedia, public art, advocacy and policy briefs, public data repositories, and other forms of engagement. Fellows should demonstrate the integral nature of public engagement in their work and emphasize their ability to translate scholarly material for a general audience.
 
-In 2021–2022, the LMEC seeks proposals on the topic of **Environmental Justice in Boston and Beyond.** In spring of 2022, the LMEC will launch the [More or Less in Common](https://www.leventhalmap.org/articles/environmental-justice-exhibition-preview/) exhibition in our gallery at the Central Library. This exhibition will explore how environmental management, landscape design, and spatial politics have been historically related to patterns of social, racial, economic, and ethnic exclusion and inclusion. Research proposals may focus on any topic related to environmental justice, but we particularly encourage:
+The Designer-in-Residence fellowship supports cartographers, visual designers, and others creating visual material with a geographic or cartographic theme. Residents receive $7000 and work with Center staff during a four-week residency.
 
-* Work that connects long periods of historical change to issues in the present and future
-* Work that involves collaborative research design with participants in ongoing environmental justice efforts
-* Projects that involve an overlap between historical cartographic materials and geospatial data sets
 
-#### About the Fellowship
+<a href="../designer-in-residence" class="btn btn-primary-outline btn-sm"><i class="fas fa-info-circle me-2"></i> Learn more and apply</a>
 
-Successful fellows will receive a stipend of $3,000. They are expected to spend between one and three weeks in residence at the LMEC. During this time, fellows will prepare a report on their ongoing research for publication on the LMEC website. Fellows will have access to curatorial and reference staff to assist their work in the collections, will interact intermittently with program sponsors, and will present at the end of their time in residence to LMEC board, donors and staff during an informal lunch conversation. Finally, fellows are expected to complete measurable progress towards their public engagement project within 9 months of their residence time.
 
-#### Eligible Candidates
+## NERFC Research Fellowships
 
-Researchers who have shown a professional commitment to scholarly understanding coupled with public communication are eligible to apply, including students and faculty housed in research institutions such as colleges and universities, as well as independent scholars and representatives of fields like journalism, design, and policy who can demonstrate a commitment to historical inquiry. Researchers housed at institutions with limited resources for advanced study will be given special consideration in the application process. K–12 teachers are not prohibited from applying to the Public Research Fellows program, but they will likely find our [Teacher Fellows program](https://www.leventhalmap.org/education/k12/professional-development/) more appropriate.
+<span class="badge bg-warning font-secondary fw-normal">Applications available Fall 2022</span>
 
-#### Information About Access to the Collections
+We are a participating institution in the New England Regional Fellowship Consortium. The NERFC fellowship offers a $5,000 stipend for historians who wish to work in at least three institutions represented in the consortium.
 
-As of spring 2021, in-person access to the Rare Maps Reading Room remains closed due to the COVID-19 pandemic. While we expect to be open for in-person service at some point during the 2021–2022 academic year, fellowship applicants should provide an explanation for how they might balance remote research with already-digitized collections and plan for contingencies regarding the
+The application period for 2022-2023 fellowships has closed. Applications for the 2023-2024 academic year are expected to open in late fall 2022. **To learn more about NERFC Research Fellowships, [visit the NERFC site](https://www.masshist.org/fellowships/nerfc "NERFC Fellowship Application").** 
 
-#### To Apply
+## Public Research Fellowships
 
-An application consists of the following material submitted by **April 12, 2021**:
+<span class="badge bg-danger font-secondary fw-normal">Not currently available</span>
 
-* A statement describing the proposed research project, with a specific evaluation of which objects or collections will be used; no more than 500 words.
-* A statement describing a plan for how the research project will reach a public audience through forms of publication and creative engagement; no more than 500 words.
-* A description of when and how the research will be undertaken, including a discussion of the balance of work between digitized and non-digitized collections; no more than 200 words.
-* A full CV; PDF format.
+The LMEC Public Research Fellowship is not active in the 2022-2023 year. Check back for more information about future application cycles.
 
-Final round applicants will additionally be required to submit a letter of support from a colleague or supervisor. Letters of support will be solicited by the end of April.
-
-Successful applicants will be notified by May 15, 2021 and must plan for a residency period between September 15, 2021 and August 15, 2022.
-
-For questions, please contact the [Curator of Maps & Director of Geographic Scholarship](https://www.leventhalmap.org/about/people/garrett-nelson/).
