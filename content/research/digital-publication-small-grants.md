@@ -51,7 +51,9 @@ Grants are available to all scholars regardless of citizenship; however, if the 
 
 #### To Apply
 
-An application consists of the following material submitted by **October 24, 2022 at 10 pm EST**:
+<a href="https://airtable.com/shr8fIdOJoBZ27KwG" class="btn btn-md btn-outline-primary">Online application</a>
+
+An application consists of the following material submitted by **October 24, 2022 at 10 pm ET**:
 
 * A pitch of no more than 500 words describing the proposed publication, including (a) major scholarly themes and (b) expected insights for a general audience readership
 * A description of no more than 300 words of the technical format and modality of the intended digital publication, including an evaluation of the technical support which will be needed for publication

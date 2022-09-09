@@ -42,6 +42,8 @@ Special consideration will be given to applicants who belong to communities that
 
 #### To Apply
 
+<a href="https://airtable.com/shrRvcB3ETke1Aiub" class="btn btn-md btn-outline-primary">Online application</a>
+
 An application consists of the following material submitted by **Sunday, November 27, 2022 by 10 pm ET**:
 
 * A portfolio consisting of at least 3 pieces, emphasizing the applicant's work in cartographic and geographic modalities. (Uploads or URLs)
