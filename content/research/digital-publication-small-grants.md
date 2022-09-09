@@ -1,6 +1,5 @@
 ---
 title: 'Small Grants for Early Career Digital Publications'
-draft: true
 menu: false
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg
 
