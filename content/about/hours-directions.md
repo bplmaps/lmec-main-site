@@ -22,7 +22,7 @@ Although it is not required, please consider wearing a face covering while insid
 
 #### Gallery Hours
 
-{{< alert-box type="info" title="New fall hours beginning Sept 11" >}} Beginning September 11, the Map Center will be open on Sundays from 1-5pm. Starting September 12, we will be closed to the public on Mondays, but [research appointments](/research/appointments/) and [class visits](/education/) will still be available on Mondays. {{</ alert-box >}}
+{{< alert-box type="info" title="New fall hours beginning Sept 11" >}} Beginning September 11, the Map Center will be open on Sundays from 1-5pm. Starting September 12, we will be closed to the public on Mondays, but [class visits](/education/) will still be available on Mondays. [Research appointments](/research/appointments/) will be available Tuesday - Friday. {{</ alert-box >}}
 
 {{< hours-table >}}
 
