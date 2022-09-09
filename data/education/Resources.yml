@@ -1534,6 +1534,46 @@
   URL: https://mappingprejudice.umn.edu/
   airtable_createdTime: '2020-11-04T15:41:36.000Z'
   airtable_id: recVzozPRfDBeEDWV
+- Description: This protocol document can be used to help students look critically
+    at maps they encounter as part of their research process. Questions ask students
+    to consider not only basic elements of the map, but also the source of the information
+    being mapped as well as mood, tone and possible audience.
+  Grade_Level:
+  - 7-9
+  - 10-12
+  Image:
+  - filename: commonwealth_3x817744n_image_access_800.jpg
+    height: 800
+    id: attFTu0nTih8bLsQ9
+    size: 137259
+    thumbnails:
+      full:
+        height: 3000
+        url: https://dl.airtable.com/.attachmentThumbnails/1f187a3ef92684489411e4c57f19a34b/a451468e
+        width: 3000
+      large:
+        height: 572
+        url: https://dl.airtable.com/.attachmentThumbnails/e8601c685f914d4d37503eebfd5ee69c/4608a9c9
+        width: 512
+      small:
+        height: 36
+        url: https://dl.airtable.com/.attachmentThumbnails/d028f52784814d5b5891d6bd465084f1/f66a3693
+        width: 32
+    type: image/jpeg
+    url: https://dl.airtable.com/.attachments/a96f467b8d8a206102ad12c401c1f475/bda85b43/commonwealth_3x817744n_image_access_800.jpg
+    width: 716
+  Last Updated: '2022-09-08'
+  Name: Interpreting and Evaluating Maps Protocol
+  Open URL:
+    label: Open URL
+    url: https://docs.google.com/document/d/1Lv7zSo44HCQScr41SCM8BTwzbyhp39eWEnYhRwO_Rdo/edit?usp=sharing
+  Theme:
+  - 'Boston '
+  - Maptivist
+  Type: Map Sets and Lesson Plans
+  URL: https://docs.google.com/document/d/1Lv7zSo44HCQScr41SCM8BTwzbyhp39eWEnYhRwO_Rdo/edit?usp=sharing
+  airtable_createdTime: '2022-09-08T19:11:45.000Z'
+  airtable_id: recW45RiPdyjVVpIZ
 - Description: "Maps lend themselves to exploring the concepts of perimeter and area\
     \ because they deal with the idea of distance and living space. To build their\
     \ understanding, students translate distance measurements to their corresponding\
@@ -1747,6 +1787,11 @@
   URL: https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EUTrAanNNx5KmusBmLOHZlMBgnPA87wVY1LsgJpPHNMSww?e=TVz5V8
   airtable_createdTime: '2020-11-04T15:18:20.000Z'
   airtable_id: reca9CsCjLPMq4ory
+- Open URL:
+    label: Open URL
+    url: ''
+  airtable_createdTime: '2022-09-08T19:11:02.000Z'
+  airtable_id: recaJXqsD6a8qeD12
 - Description: This micro-unit designed for students in grades 9 - 12 features four
     tasks related to maps of Indigenous people's presence and Euro-American westward
     expansion. Each task focuses on a map and may be supplemented with additional
