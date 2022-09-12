@@ -29,7 +29,7 @@ class="figure-center"
 src="/images/blog/invitations.png"
 caption="Tabular data on exam school invitations, published by BPS." >}}
 
-Translating roughly to "quantity by area" (from the Latin _khṓra_, meaning “location”, and _plêthos_ for “a great number”), [choropleth maps](https://www.axismaps.com/guide/choropleth) would better help us visualize how these attributes vary across space. Loading the BPS dataset into a [geographic information system](/articles/comp-cart-collections) allows us to comprehend spatial differences far more easily than in tabular form.
+Translating roughly to "quantity by area" (from the Greek _khṓra_, meaning “location”, and _plêthos_ for “a great number”), [choropleth maps](https://www.axismaps.com/guide/choropleth) would better help us visualize how these attributes vary across space. Loading the BPS dataset into a [geographic information system](/articles/comp-cart-collections) allows us to comprehend spatial differences far more easily than in tabular form.
 
 {{< figure
 class="figure-center"
