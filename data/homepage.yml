@@ -47,6 +47,10 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Fellowships and research support
+    text: We’ve just opened two new programs to support researchers and designers
+      working on geography and cartography
+    link: https://www.leventhalmap.org/research/fellowships/
   - badge: On display
     text: '"More or Less in Common: Environment and Justice in the Human Landscape"
       is open now through December '
