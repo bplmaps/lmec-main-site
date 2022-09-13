@@ -50,3 +50,13 @@ On February of 1966, a group of residents, led by {{< popup src="/uploads/2022-0
 {{< /carousel >}}
 
 Later that year, demonstrators organized again—this time at the inauguration ceremony of the new Massachusetts Institute of Technology president, Howard Johnson, where "[more than 4000 persons—including presidents of 57 U.S. universities and colleges](https://www.digitalcommonwealth.org/search/commonwealth:5138kc40t)" were in attendance. Again, adults and children, viewed as "[picketers](https://www.digitalcommonwealth.org/search/commonwealth:5138kc481),"marched with signs reading {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5138kc55f/1177,955,1307,1347/full/0/default.jpg"  target="blank" >}} Beat The Belt{{</popup>}}  and {{< popup src=""  target="blank" >}} text goes here {{</popup>}}
+
+{{< carousel >}} {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5138kc47r/full/full/0/default.jpg" >}}{{< /carousel-figure >}}
+
+    {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5138kc53w/full/full/0/default.jpg" >}}{{< /carousel-figure >}}
+    
+    {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5138kc43n/full/full/0/default.jpg" >}}{{< /carousel-figure >}}
+    
+    {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5138kc392/full/full/0/default.jpg" >}}{{< /carousel-figure >}}
+
+{{< /carousel >}}
