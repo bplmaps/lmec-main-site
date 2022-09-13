@@ -40,13 +40,13 @@ As depicted on [this 1959 map](https://collections.leventhalmap.org/search/commo
 
 As planned, the Inner Belt was projected to not only disrupt public transit and intensify noise pollution, but also displace over [13,000 people](https://www.cambridgema.gov/historic/cambridgehistory/innerbelthistory), local businesses, and fragment communities. With these concerns in mind, public opposition became vocal in the mid-1960s, with organized efforts in both Cambridge and Roxbury.
 
-On February 26, 1966 a group of Cambridge residents gathered in front of Cambridge City Hall to ... 
+On February of 1966, a group of residents, led by [Anstis "Ansti" Benfield](https://historycambridge.org/self-guided-tours/self-guided-tour-women-activists-of-riverside-50-years-after-suffrage/), gathered in front of Cambridge City Hall to ... 
 
 Adults and children, wrapped in winter layers, marched with signs that read {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k261r/3749,388,686,703/full/0/default.jpg"  target="blank" >}} Save Our Homes, {{</popup>}} {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k261r/2968,847,839,839/full/0/default.jpg"  target="blank" >}} Ain't I Worth More Than the Inner Belt,{{</popup>}} and {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k259q/848,1379,1344,1078/full/0/default.jpg"  target="blank" >}} 5,000 People Are Worth More Than Two Miles Of Road. {</popup>}} 
 
 {{< carousel >}} {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k259q/full/full/0/default.jpg" >}}{{< /carousel-figure >}}
 
-    {{< carousel-figure src="images/carousels/at_gallery03.jpg" >}}{{< /carousel-figure >}}
+    {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k261r/full/full/0/default.jpg" >}}{{< /carousel-figure >}}
     
     {{< carousel-figure src="images/carousels/at_gallery09.jpg" >}}{{< /carousel-figure >}}
     
