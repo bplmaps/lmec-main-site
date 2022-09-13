@@ -40,4 +40,6 @@ As depicted on [this 1959 map](https://collections.leventhalmap.org/search/commo
 
 As planned, the Inner Belt was projected to not only disrupt public transit and intensify noise pollution, but also displace [1,300 families](https://participedia.net/case/619) (in Cambridge alone), local businesses, and fragment communities. 
 
+ 
+
 #### Southwest Expressway
