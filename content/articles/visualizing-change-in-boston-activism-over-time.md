@@ -1,5 +1,5 @@
 ---
-date: 2022-09-08T09:15:01.000-04:00
+date: 2022-09-16T09:15:01-04:00
 title: 'The (Unrealized) Metropolitan Master Highway Plan of 1948 '
 description: The Southwest Expressway and Inner Belt Highway projects were both proposed
   in the Master Highway Plan for the Boston Metropolitan Area in 1948. Designed to
@@ -60,3 +60,5 @@ Later that year, demonstrators organized again—this time at the inauguration c
     {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5138kc392/full/full/0/default.jpg" >}}{{< /carousel-figure >}}
 
 {{< /carousel >}}
+
+South of the Charles River... (Black United Front, Roxbury)
