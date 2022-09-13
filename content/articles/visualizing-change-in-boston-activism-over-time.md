@@ -38,6 +38,6 @@ As depicted on [this 1959 map](https://collections.leventhalmap.org/search/commo
 
 > This geographic mismatch between one group of people’s needs and another group’s exposure is a key element of **environmental injustice**. Geographers use the term [**sacrifice zones**](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/sacrifice-zones/) to describe places that have been severely impaired by toxic landscapes.
 
-As planned, the Inner Belt was projected to not only disrupt public transit and intensify air and noise pollution, but also displace [1,300 families](https://participedia.net/case/619) (in Cambridge alone), local businesses, and fragment communities. With these concerns in mind, public opposition became vocal in the mid-1960s, with organized groups in both Cambridge and Roxbury. 
+As planned, the Inner Belt was projected to not only disrupt public transit and intensify noise pollution, but also displace over [13,000 people](https://www.cambridgema.gov/historic/cambridgehistory/innerbelthistory), local businesses, and fragment communities. With these concerns in mind, public opposition became vocal in the mid-1960s, with organized groups in both Cambridge and Roxbury.
 
 #### Southwest Expressway
