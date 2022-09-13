@@ -38,6 +38,20 @@ As depicted on [this 1959 map](https://collections.leventhalmap.org/search/commo
 
 > This geographic mismatch between one group of people’s needs and another group’s exposure is a key element of **environmental injustice**. Geographers use the term [**sacrifice zones**](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/sacrifice-zones/) to describe places that have been severely impaired by toxic landscapes.
 
-As planned, the Inner Belt was projected to not only disrupt public transit and intensify noise pollution, but also displace over [13,000 people](https://www.cambridgema.gov/historic/cambridgehistory/innerbelthistory), local businesses, and fragment communities. With these concerns in mind, public opposition became vocal in the mid-1960s, with organized groups in both Cambridge and Roxbury.
+As planned, the Inner Belt was projected to not only disrupt public transit and intensify noise pollution, but also displace over [13,000 people](https://www.cambridgema.gov/historic/cambridgehistory/innerbelthistory), local businesses, and fragment communities. With these concerns in mind, public opposition became vocal in the mid-1960s, with organized efforts in both Cambridge and Roxbury.
+
+On February 26, 1966 a group of Cambridge residents gathered in front of Cambridge City Hall to ... 
+
+Adults and children, wrapped in winter layers, marched with signs that read {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k261r/3749,388,686,703/full/0/default.jpg"  target="blank" >}} Save Our Homes, {{</popup>}} {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k261r/2968,847,839,839/full/0/default.jpg"  target="blank" >}} Ain't I Worth More Than the Inner Belt,{{</popup>}} and {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k259q/848,1379,1344,1078/full/0/default.jpg"  target="blank" >}} 5,000 People Are Worth More Than Two Miles Of Road. {</popup>}} 
+
+{{< carousel >}} {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k259q/full/full/0/default.jpg" >}}{{< /carousel-figure >}}
+
+    {{< carousel-figure src="images/carousels/at_gallery03.jpg" >}}{{< /carousel-figure >}}
+    
+    {{< carousel-figure src="images/carousels/at_gallery09.jpg" >}}{{< /carousel-figure >}}
+    
+    {{< carousel-figure src="images/carousels/DSC_0018s.jpg" >}}{{< /carousel-figure >}}
+
+{{< /carousel >}}
 
 #### Southwest Expressway
