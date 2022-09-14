@@ -62,7 +62,7 @@ Later that year, demonstrators organized again—this time at the inauguration c
 
 #### Southwest Expressway
 
-On the other side of the Charles River, residents in Roxbury mobilized efforts around not only the Inner Belt proposal, but also plans for the Southwest Expressway. As planned, the Expressway would run
+On the other side of the Charles River, residents in Roxbury mobilized efforts around not only the Inner Belt proposal, but also plans for the Southwest Expressway. As planned, the Expressway was designed as a [twelve-lane extension](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) of I-95 and would run through Milton, Hyde Park, Jamaica Plain, Roxbury, and the South End. 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv99n/full/full/0/default.jpg" caption="[This 1964 map](https://www.digitalcommonwealth.org/search/commonwealth:7h14cv973) accompanied a report to determine the extent displacement if the Southwest Expressway were completed." class="figure-center" >}}
 
