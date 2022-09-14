@@ -15,9 +15,13 @@ Non-Massachusetts residents can apply for a research card for the purpose of usi
 
 #### Requests to View Materials
 
-In order to best get our collections ready for your use, research appointments are required. 
+Appointments are required in order to make a visit to the Rare Maps Reading Room. As a standard, appointment require four days advance notice, though special accommodations can occassionally be granted.  
 
-Make appointments and submit materials requests at [readingroom.bpl.org](https://readingroom.bpl.org)
+Requests for materials and appointment scheduling is conducted through the online [Aeon system](https://readingroom.bpl.org/). You will need to register for an Aeon account (which is distinct from a BPL catalog library card account) online, and at your first visit you will need to validate your registration by showing your library research card.
+
+<a href="https://readingroom.bpl.org" class="btn btn-primary-outline btn-md"><i class="fas fa-calendar-week me-2"></i> Request materials and make an appointment</a>
+
+For assistance or questions, please [contact a librarian](/research/#ask-librarian).
 
 #### Reading Room Policy
 

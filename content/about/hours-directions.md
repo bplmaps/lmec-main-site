@@ -22,13 +22,11 @@ Although it is not required, please consider wearing a face covering while insid
 
 #### Gallery Hours
 
-{{< alert-box type="info" title="New fall hours beginning Sept 11" >}} Beginning September 11, the Map Center will be open on Sundays from 1-5pm. Starting September 12, we will be closed to the public on Mondays, but [class visits](/education/) will still be available on Mondays. [Research appointments](/research/appointments/) will be available Tuesday - Friday. {{</ alert-box >}}
-
 {{< hours-table >}}
 
 #### Research Hours
 
-_Available by advance appointment on weekdays._ In-person access to the Rare Maps Reading Room is available by advance appointment on limited hours. Please see our [Research Appointments](/research/appointments/) page for more information.
+_Available by advance appointment on weekdays._ In-person access to the Rare Maps Reading Room is available by advance appointment only. Bookings should be made at least 4 days in advance to provide time for paging items for use. Please see our [Research Appointments](/research/appointments/) page for more information and to make an appointment online.
 
 #### BPL Hours
 
