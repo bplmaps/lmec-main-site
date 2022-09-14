@@ -7,7 +7,6 @@ aliases:
 - "/visit"
 
 ---
-
 {{< alert-box type="info" title="COVID-19 Guidance" >}}
 
 Although it is not required, please consider wearing a face covering while inside BPL buildings. We recommend that patrons practice social distancing where possible. Please reschedule your visit if you have any symptoms of illness, or if you have received a positive COVID-19 test result in the past 10 days.
@@ -34,7 +33,6 @@ Our free gallery tours last approximately 30 minutes and do not require advance 
 
 | Day | Gallery tour hours |
 | --- | --- |
-| Monday | 11:30 am |
 | Wednesday | 5:30 pm |
 | Friday | 11:30 am |
 | Saturday | 11:30 am |
