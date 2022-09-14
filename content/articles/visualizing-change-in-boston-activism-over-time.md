@@ -60,6 +60,6 @@ Later that year, demonstrators organized again—this time at the inauguration c
 
 {{< /carousel >}}
 
-On the other side of the Charles River, residents in Roxbury mobilized around their own concerns and demands. Specifically, the {{< popup src="/uploads/2022-09-14/screen-shot-2022-09-14-at-10-43-38-am.png"  target="blank" >}} Black United Front{{</popup>}}  demanded: ![](/uploads/2022-09-14/screen-shot-2022-09-14-at-10-44-52-am.png)
+On the other side of the Charles River, residents in Roxbury mobilized around their own concerns and demands. Specifically, the {{< popup src="/uploads/2022-09-14/screen-shot-2022-09-14-at-10-43-38-am.png"  target="blank" >}} Black United Front{{</popup>}}  demanded: [![](/uploads/2022-09-14/screen-shot-2022-09-14-at-10-44-52-am.png)](https://repository.library.northeastern.edu/files/neu:cj82m3654)
 
 jjnjnjn
