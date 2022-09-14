@@ -62,6 +62,8 @@ Later that year, demonstrators organized again—this time at the inauguration c
 
 #### Southwest Expressway
 
-On the other side of the Charles River, residents in Roxbury mobilized efforts around both the proposed Inner Belt and Southwest Expressway. As planned, the Southwest Expressway
+On the other side of the Charles River, residents in Roxbury mobilized efforts around both the proposed Inner Belt and Southwest Expressway. As planned, the Southwest Expressway 
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv99n/full/full/0/default.jpg" caption="[This 1964 map](https://www.digitalcommonwealth.org/search/commonwealth:7h14cv973) accompanied a report to determine the extent displacement if the Southwest Expressway were completed." class="figure-center" >}}
 
 Specifically, the {{< popup src="/uploads/2022-09-14/screen-shot-2022-09-14-at-10-43-38-am.png"  target="blank" >}} Black United Front{{</popup>}}  [demanded](https://repository.library.northeastern.edu/files/neu:cj82m3654): "The Planned construction of the Inner Belt and South-west Expressway are to be halted immediately and their continued planning and construction negotiated with the Black Community since both of these highways projects will radically affect the lives of the people in this community." 
