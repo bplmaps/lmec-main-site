@@ -13,34 +13,17 @@ Our collections are free and open to the public. Access to rare materials is ava
 
 Non-Massachusetts residents can apply for a research card for the purpose of using research materials (in-library use only). This can be obtained with photo identification that shows your name and address and has your signature. The easiest form of ID is a driver’s license or State ID card showing your current address. For more information about obtaining a research card, visit the [BPL website](https://www.bpl.org/faq/getting-a-library-card/#faq_167906).
 
-#### Request an In-Person Appointment
+#### Requests to View Materials
 
-Once you have obtained a library card and have identified the material that you would like to access, please fill out the following form to request an appointment. Please note that not all material can be paged on demand, and you should allow for several days between placing your request before your items can be paged.
+In order to best get our collections ready for your use, research appointments are required. 
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrNQnmeAwjyCl6AX?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc; margin-bottom: 50px;"></iframe>
+Make appointments and submit materials requests at [readingroom.bpl.org](https://readingroom.bpl.org)
 
 #### Reading Room Policy
 
-For security purposes, only select personal items are permitted in the Rare Maps Reading Room. Coats, bags, books, notebooks, and other belongings can be stored in a locker in a secure staff area while using the reading room.
+For security purposes, only select personal items are permitted in the Rare Maps Reading Room. Coats, bags, and other belongings can be stored in a locker while using the reading room.
 
-The following items are permitted in the reading room:
-
-* Pencils
-* Laptops, cameras, and electronic accessories removed from their cases
-* Loose sheets of paper and notecards, though they must be kept to an absolute minimum and are subject to inspection by staff
-* Any materials brought into the reading room are subject to inspection. Patrons may be asked to open laptops, present loose papers for inspection, etc.
-
-Items **not** permitted in the reading room include but are not limited to:
-
-* Notebooks, notepads, folders, or envelopes of any kind
-* Paper clips, rubber bands, or other fasteners
-* Adhesive tapes, sticky notes
-* Pens, markers
-* Personal scanners
-* Hats, large coats, or jackets
-* Bags of any kind or size
-* Food, drink, or chewing gum
-* Strollers
+You are welcome to bring your laptop, silenced phone, camera and associated cords into the reading room. We have paper and pencils available for notetaking. If there’s anything else you would like to bring with you, please let us know when you submit your appointment request.
 
 ## Remote Research Appointments
 

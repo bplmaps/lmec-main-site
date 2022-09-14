@@ -1,12 +1,17 @@
 ---
-date: 2022-09-12T10:00:39-04:00
-title: "Inviting to all: The geography of the Boston Public Schools exam invitation system"
-description: In attempts to make the admissions process more equitable, the system for exam school invitations at BPS has changed three times in as many years. How can maps help us make sense of these changes?
+date: 2022-09-12T06:00:00-04:00
+title: 'Inviting to all: The geography of the Boston Public Schools exam invitation
+  system'
+description: In attempts to make the admissions process more equitable, the system
+  for exam school invitations at BPS has changed three times in as many years. How
+  can maps help us make sense of these changes?
 image: "../images/blog/bls.jpg"
 author: Kyler Hoogendoorn-Ecker
-tags: [Boston Public Schools, Boston, schools, geographic information systems, GIS, inequality, choropleth map]
-backgroundImage: '../images/blog/bls.jpg'
-draft: true
+tags:
+- Boston Public Schools
+- GIS
+- inequality
+backgroundImage: "../images/blog/bls.jpg"
 
 ---
 ### The exam school invitation system in Boston Public Schools
@@ -24,7 +29,7 @@ class="figure-center"
 src="/images/blog/invitations.png"
 caption="Tabular data on exam school invitations, published by BPS." >}}
 
-Translating roughly to "quantity by area" (from the Latin _khṓra_, meaning “location”, and _plêthos_ for “a great number”), [choropleth maps](https://www.axismaps.com/guide/choropleth) would better help us visualize how these attributes vary across space. Loading the BPS dataset into a [geographic information system](/articles/comp-cart-collections) allows us to comprehend spatial differences far more easily than in tabular form.
+Translating roughly to "quantity by area" (from the Greek _khṓra_, meaning “location”, and _plêthos_ for “a great number”), [choropleth maps](https://www.axismaps.com/guide/choropleth) would better help us visualize how these attributes vary across space. Loading the BPS dataset into a [geographic information system](/articles/comp-cart-collections) allows us to comprehend spatial differences far more easily than in tabular form.
 
 {{< figure
 class="figure-center"
