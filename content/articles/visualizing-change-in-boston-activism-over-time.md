@@ -20,7 +20,7 @@ draft: true
 
 ### The Metropolitan Master Highway Plan of 1948
 
-In 1948, the Commonwealth of Massachusetts released the [Metropolitan Master Highway Plan](https://archive.org/details/masterhighwaypla00char/page/n15/mode/1up), a “ten-year construction program for the relief of traffic congestion” detailing “a network of expressways of latest modern design and of sufficient capacity.” Included in the 204-page report are [cost estimates](https://archive.org/details/masterhighwaypla00char/page/102/mode/1up), [economic justifications](https://archive.org/details/masterhighwaypla00char/page/103/mode/1up), [traffic tables](https://archive.org/details/masterhighwaypla00char/page/114/mode/1up), and maps of [proposed expressways](https://archive.org/details/masterhighwaypla00char/page/124/mode/1up), [construction stages](https://archive.org/details/masterhighwaypla00char/page/106/mode/1up), and more.
+In 1948, the Massachusetts Department of Public Works released the [Metropolitan Master Highway Plan](https://archive.org/details/masterhighwaypla00char/page/n15/mode/1up), a “ten-year construction program for the relief of traffic congestion” detailing “a network of expressways of latest modern design and of sufficient capacity.” Included in the 204-page report are [cost estimates](https://archive.org/details/masterhighwaypla00char/page/102/mode/1up), [economic justifications](https://archive.org/details/masterhighwaypla00char/page/103/mode/1up), [traffic tables](https://archive.org/details/masterhighwaypla00char/page/114/mode/1up), and maps of [proposed expressways](https://archive.org/details/masterhighwaypla00char/page/124/mode/1up), [construction stages](https://archive.org/details/masterhighwaypla00char/page/106/mode/1up), and more.
 
 {{< figure src="https://iiif.archivelab.org/iiif/masterhighwaypla00char$13/full/2000,/0/default.jpg" caption="The [Plan](https://archive.org/details/masterhighwaypla00char/page/n15/mode/1up) was compiled by Charles A. Maguire and Associates of Boston, J. E. Greiner Company of Baltimore, and De Leuw, Cather & Company of Chicago." class="figure-right" >}}
 
@@ -62,7 +62,7 @@ Later that year, demonstrators organized again—this time at the inauguration c
 
 #### Southwest Expressway
 
-On the other side of the Charles River, residents in Roxbury mobilized efforts around not only the Inner Belt proposal, but also plans for the Southwest Expressway. As planned, the Expressway was designed as a [twelve-lane extension](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) of I-95 and would run through Milton, Hyde Park, Jamaica Plain, Roxbury, and the South End. 
+On the other side of the Charles River, residents in Roxbury mobilized efforts around not only the Inner Belt proposal, but also plans for the Southwest Expressway. As planned, the Expressway was designed as a [twelve-lane extension](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) of I-95 and would run through Milton, Hyde Park, Jamaica Plain, Roxbury, and the South End.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv99n/full/full/0/default.jpg" caption="[This 1964 map](https://www.digitalcommonwealth.org/search/commonwealth:7h14cv973) accompanied a report to determine the extent displacement if the Southwest Expressway were completed." class="figure-center" >}}
 
