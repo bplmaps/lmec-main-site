@@ -1,5 +1,5 @@
 ---
-date: 2022-09-16T09:15:01-04:00
+date: 2022-09-16T09:15:01.000-04:00
 title: 'The (Unrealized) Metropolitan Master Highway Plan of 1948 '
 description: The Southwest Expressway and Inner Belt Highway projects were both proposed
   in the Master Highway Plan for the Boston Metropolitan Area in 1948. Designed to
@@ -40,12 +40,11 @@ As depicted on [this 1959 map](https://collections.leventhalmap.org/search/commo
 
 As planned, the Inner Belt was projected to not only disrupt public transit and intensify noise pollution, but also displace over [13,000 people](https://www.cambridgema.gov/historic/cambridgehistory/innerbelthistory), local businesses, and fragment communities. With these concerns in mind, public opposition vocalized in the mid-1960s, with organized efforts in both Cambridge and Roxbury.
 
-On February of 1966, a group of residents, led by {{< popup src="/uploads/2022-09-13/screen-shot-2020-10-26-at-9-35-26-pm.png"  target="blank" >}} Anstis "Ansti" Benfield,{{</popup>}}  gathered in front of Cambridge City Hall to express their opposition. Adults and children, wrapped in winter layers, marched with signs that read {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k261r/3749,388,686,703/full/0/default.jpg"  target="blank" >}} Save Our Homes{{</popup>}}  or {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k261r/2968,847,839,839/full/0/default.jpg"  target="blank" >}} Ain't I Worth More Than the Inner Belt{{</popup>}}  and {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k259q/848,1379,1344,1078/full/0/default.jpg"  target="blank" >}} 5,000 People Are Worth More Than Two Miles Of Road.{{</popup>}}  Before concluding, the group presented City Councilor Walter Sullivan with a signed petition "[labeling the current plan 'inhumane'](https://historycambridge.org/self-guided-tours/self-guided-tour-women-activists-of-riverside-50-years-after-suffrage/)" and demanding the highway be relocated to displace fewer families. 
+On February of 1966, a group of residents, led by {{< popup src="/uploads/2022-09-13/screen-shot-2020-10-26-at-9-35-26-pm.png"  target="blank" >}} Anstis "Ansti" Benfield,{{</popup>}}  gathered in front of Cambridge City Hall to express their opposition. Adults and children, wrapped in winter layers, marched with signs that read {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k261r/3600,266,850,1127/full/0/default.jpg"  target="blank" >}} Save Our Homes{{</popup>}}  or {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k261r/2814,932,1045,1022/full/0/default.jpg"  target="blank" >}} Ain't I Worth More Than the Inner Belt{{</popup>}}  and {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k259q/681,1088,1774,1935/full/0/default.jpg"  target="blank" >}} 5,000 People Are Worth More Than Two Miles Of Road.{{</popup>}}  Before concluding, the group presented City Councilor Walter Sullivan with a signed petition "[labeling the current plan 'inhumane'](https://historycambridge.org/self-guided-tours/self-guided-tour-women-activists-of-riverside-50-years-after-suffrage/)" and demanding the highway be relocated to displace fewer families.
 
 {{< carousel >}} {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k259q/full/full/0/default.jpg" >}}{{< /carousel-figure >}}
 
     {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53k261r/full/full/0/default.jpg" >}}{{< /carousel-figure >}}
-    
 
 {{< /carousel >}}
 
