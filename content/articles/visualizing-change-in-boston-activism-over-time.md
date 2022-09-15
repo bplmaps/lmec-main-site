@@ -60,7 +60,7 @@ Later that year, demonstrators organized once again—this time at the inaugurat
 
 {{< /carousel >}}
 
-#### People before highways
+#### Stop I-95 
 
 On the other side of the Charles River, residents in Roxbury mobilized efforts around not only the Inner Belt proposal, but also plans for the Southwest Expressway. The Expressway was designed as a [twelve-lane extension](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) of I-95 to relieve traffic congestion on Washington Street and Blue Hill Avenue, running through Milton, Hyde Park, Jamaica Plain, Roxbury, and the South End.
 
@@ -72,7 +72,9 @@ Starting in 1966, more than [500 homes and businesses](https://www.bostonpreserv
 
 Based in Roxbury, the {{< popup src="/uploads/2022-09-14/screen-shot-2022-09-14-at-10-43-38-am.png"  target="blank" >}} Black United Front{{</popup>}}  identified the expressway as a [priority for action](https://repository.library.northeastern.edu/files/neu:cj82m3654). In a statement of demands, the group wrote: "The Planned construction of the Inner Belt and Southwest Expressway are to be halted immediately and their continued planning and construction negotiated with the Black Community since both of these highways projects will radically affect the lives of the people in this community."
 
-In neighboring Jamaica Plain, a group of residents formed the [JP Expressway Committee](https://www.jphs.org/20th-century/how-jamaica-plain-activists-created-the-southwest-corridor.html) and collectively attended public hearings, wrote letters, and were responsible for the well known {{< popup src="/uploads/2022-09-15/highways.jpeg"  target="blank" >}} People Before Highways{{</popup>}}  text that lined the parallel railroad embankment for over 20 years.
+In neighboring Jamaica Plain, a group of residents formed the [JP Expressway Committee](https://www.jphs.org/20th-century/how-jamaica-plain-activists-created-the-southwest-corridor.html) and collectively attended public hearings, wrote letters, and were responsible for the well known {{< popup src="/uploads/2022-09-15/highways.jpeg"  target="blank" >}} People Before Highways{{</popup>}}  text that lined the parallel railroad embankment for over 20 years. 
+
+### People before highways
 
 1968-69 greater boston commitee on transportation crisis
 
