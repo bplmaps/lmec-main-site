@@ -7,7 +7,7 @@ image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947d369/377,80
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947d369/377,803,3378,1799/,1200/0/default.jpg
 location: Rabb Hall and Online
 fee: Free
-registration: ''
+registration: https://www.eventbrite.com/e/author-talk-with-olufemi-o-taiwo-on-elite-capture-tickets-419828557517
 tags:
 - exhibition
 draft: true
@@ -19,10 +19,22 @@ draft: true
 
 "_I was waiting for this book without realizing I was waiting for this book_." — Ruth Wilson Gilmore
 
-{{< figure src="/uploads/2022-09-08/book.jpeg" class="figure-right" >}}
+{{< carousel >}}
+{{< carousel-figure src="/uploads/2022-09-08/book.jpeg" >}}{{< /carousel-figure >}}
+
+    {{< carousel-figure src="/uploads/2022-09-08/headshot.jpeg" >}}{{< /carousel-figure >}}
+    
+
+{{< /carousel >}}
 
 Join the philosopher [Olúfẹ́mi O. Táíwò](http://www.olufemiotaiwo.com) for a discussion of his new book _Elite Capture: How the Powerful Took Over Identity Politics (And Everything Else)_. His work explores the process by which a radical concept can be stripped of its political substance and liberatory potential by becoming the victim of elite capture—deployed by political, social, and economic elites in the service of their own interests.
 
-**Olúfẹ́mi O. Táíwò** is Assistant Professor of Philosophy at Georgetown University. He is the author of _Elite Capture: How the Powerful Took Over Identity Politics (And Everything Else)_ and _Reconsidering Reparations_. His work exploring the intersections of climate justice and colonialism has been featured in _The New Yorker, The Nation, Boston Review, Dissent, The Appeal, Slate, Al Jazeera, The New Republic, Aeon_, and _Foreign Policy_.
+Following the discussion, there will be an audience Q&A, and for in-person attendees, the program will conclude with an author signing facilitated by an independent community bookstore.
 
-{{< figure src="/uploads/2022-09-08/headshot.jpeg" caption="Headshot by [Jared Rodríguez](http://www.jaredrodriguez.com/)" class="figure-right" >}}
+**To register for in-person attendance**, please visit this [Eventbrite page](https://www.eventbrite.com/e/author-talk-with-olufemi-o-taiwo-on-elite-capture-tickets-419828557517). 
+
+**To register for online attendance**, please visit the forthcoming Zoom webinar registration page.
+
+##### About the author
+
+**Olúfẹ́mi O. Táíwò** is Assistant Professor of Philosophy at Georgetown University. He is the author of _Elite Capture: How the Powerful Took Over Identity Politics (And Everything Else)_ and _Reconsidering Reparations_. His work exploring the intersections of climate justice and colonialism has been featured in _The New Yorker, The Nation, Boston Review, Dissent, The Appeal, Slate, Al Jazeera, The New Republic, Aeon_, and _Foreign Policy_.
