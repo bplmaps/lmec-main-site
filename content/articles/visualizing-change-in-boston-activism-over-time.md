@@ -58,7 +58,7 @@ On February of 1966, a group of residents, led by {{< popup src="/uploads/2022-0
 
 Later that year, demonstrators organized once again—this time at the inauguration ceremony of the new Massachusetts Institute of Technology president, Howard Johnson, where over 4,000 people (including presidents of [57 U.S. universities and colleges](https://www.digitalcommonwealth.org/search/commonwealth:5138kc40t)) were in attendance. Again, adults and children, labelled as [picketers](https://www.digitalcommonwealth.org/search/commonwealth:5138kc481), marched with signs reading {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5138kc55f/1177,955,1307,1347/full/0/default.jpg"  target="blank" >}} Beat The Belt{{</popup>}}  and demanding support and action from {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5138kc51b/1925,499,692,843/full/0/default.jpg"  target="blank" >}} President Johnson.{{</popup>}}
 
-#### Stop I-95
+#### People before highways
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv99n/full/full/0/default.jpg" caption="[This 1964 map](https://www.digitalcommonwealth.org/search/commonwealth:7h14cv973) accompanied a report to determine the extent displacement if the Southwest Expressway were completed." class="figure-center" >}}
 
@@ -72,14 +72,10 @@ Based in Roxbury, the {{< popup src="/uploads/2022-09-14/screen-shot-2022-09-14-
 
 In neighboring Jamaica Plain, a group of residents formed the [JP Expressway Committee](https://www.jphs.org/20th-century/how-jamaica-plain-activists-created-the-southwest-corridor.html) and collectively attended public hearings, wrote letters, and were responsible for the well known {{< popup src="/uploads/2022-09-15/highways.jpeg"  target="blank" >}} People Before Highways{{</popup>}}  text that lined the parallel railroad embankment for over 20 years.
 
-### People before highways
-
 Efforts against the Inner Belt and Southwest Expressway started to blend toward the end of the 1960s, culminating in an organized People Before Highways Day at the State House on January 25, 1969.
 
 {{< figure src="/uploads/2022-09-15/highways-2.jpeg" caption="The [January 25th](https://socialjustice.library.northeastern.edu/people-before-highways/) protest gathered representatives from various neighborhoods." class="figure-right" >}}
 
-The rally
-
-1970 moratorium
-
-today
+* The rally
+* 1970 moratorium
+* today
