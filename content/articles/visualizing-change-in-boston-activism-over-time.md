@@ -68,4 +68,6 @@ On the other side of the Charles River, residents in Roxbury mobilized efforts a
 
 Starting in 1966, more than [500 homes and businesses](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) between Forest Hills and the South End, including Jackson Square and Roxbury Crossing, were cleared for the Expressway; once again, the affected residents were generally from "[lower income, multiracial communities](https://www.bu.edu/ioc/news/news-events/people-before-highways/)" who "did not drive cars," yet "it was their neighborhoods and communities that were...destroyed in an effort to make Boston more accessible to those living in the wealthier suburbs." 
 
+Opposition efforts were quick to mobilize across various groups. 
+
 ...the {{< popup src="/uploads/2022-09-14/screen-shot-2022-09-14-at-10-43-38-am.png"  target="blank" >}} Black United Front{{</popup>}}  [demanded](https://repository.library.northeastern.edu/files/neu:cj82m3654): "The Planned construction of the Inner Belt and South-west Expressway are to be halted immediately and their continued planning and construction negotiated with the Black Community since both of these highways projects will radically affect the lives of the people in this community."
