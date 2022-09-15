@@ -76,6 +76,8 @@ In neighboring Jamaica Plain, a group of residents formed the [JP Expressway Com
 
 ### People before highways
 
+Toward the end of the 1960s, anti-highway efforts spanned the entire metro area. In January of 1969, efforts fully culminated in 
+
 1968-69 greater boston commitee on transportation crisis
 
 1969 people before highways
