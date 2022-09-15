@@ -28,7 +28,7 @@ Included in the 204-page report are [cost estimates](https://archive.org/details
 
 The proposed [complete system](https://archive.org/details/masterhighwaypla00char/page/8/mode/1up) of expressways included the [Southwest Expressway](https://archive.org/details/masterhighwaypla00char/page/53/mode/1up), beginning at the business district of Boston and running through Roxbury, Dorchester, and Hyde Park through Milton and Dedham, and the [Belt Route](https://archive.org/details/masterhighwaypla00char/page/60/mode/1up) to serve as a bypass for traffic east to west and north to south. Designed to span through densely-populated areas inside and outside of Boston, both projects were eventually halted and abandoned in the early 1970s. The following maps, photographs, and reports document the course from proposal to abandonment—a decision that can be attributed to widespread public opposition, action, and grassroots organizing. 
 
-#### Beat the belt
+### Beat the Belt
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9019vk684/3985,3130,1365,1288/full/0/default.jpg" caption="The proposed Inner Belt appears on [this 1961 map](https://collections.leventhalmap.org/search/commonwealth:cn69pp161) in two dashed, green lines." class="figure-right" >}}
 
@@ -58,7 +58,7 @@ On February of 1966, a group of residents, led by {{< popup src="/uploads/2022-0
 
 Later that year, demonstrators organized once again—this time at the inauguration ceremony of the new Massachusetts Institute of Technology president, Howard Johnson, where over 4,000 people (including presidents of [57 U.S. universities and colleges](https://www.digitalcommonwealth.org/search/commonwealth:5138kc40t)) were in attendance. Again, adults and children, labelled as [picketers](https://www.digitalcommonwealth.org/search/commonwealth:5138kc481), marched with signs reading {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5138kc55f/1177,955,1307,1347/full/0/default.jpg"  target="blank" >}} Beat The Belt{{</popup>}}  and demanding support and action from {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5138kc51b/1925,499,692,843/full/0/default.jpg"  target="blank" >}} President Johnson.{{</popup>}}
 
-#### People before highways
+### Stop I-95
 
 On the other side of the Charles River, residents in Roxbury mobilized efforts around not only the Inner Belt proposal, but also plans for the Southwest Expressway. The Expressway was designed as a [twelve-lane extension](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) of I-95 to relieve traffic congestion on Washington Street and Blue Hill Avenue, running through Milton, Hyde Park, Jamaica Plain, Roxbury, and the South End.
 
@@ -72,10 +72,11 @@ Based in Roxbury, the {{< popup src="/uploads/2022-09-14/screen-shot-2022-09-14-
 
 In neighboring Jamaica Plain, a group of residents formed the [JP Expressway Committee](https://www.jphs.org/20th-century/how-jamaica-plain-activists-created-the-southwest-corridor.html) and collectively attended public hearings, wrote letters, and were responsible for the well known {{< popup src="/uploads/2022-09-15/highways.jpeg"  target="blank" >}} People Before Highways{{</popup>}}  text that lined the parallel railroad embankment for over 20 years.
 
+### People before Highways
+
 Efforts against the Inner Belt and Southwest Expressway started to blend toward the end of the 1960s, culminating in an organized People Before Highways Day at the State House on January 25, 1969.
 
 {{< figure src="/uploads/2022-09-15/highways-2.jpeg" caption="The [January 25th](https://socialjustice.library.northeastern.edu/people-before-highways/) protest brought together voices from various efforts." class="figure-center" >}}
 
-* The rally
 * 1970 moratorium
 * today
