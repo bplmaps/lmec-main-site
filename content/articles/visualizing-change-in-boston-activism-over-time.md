@@ -76,7 +76,7 @@ In neighboring Jamaica Plain, a group of residents formed the [JP Expressway Com
 
 ### People before highways
 
-Efforts against the Inner Belt and Southwest Expressway started to blend toward the end of the 1960s, culminating in a People Before Highways rally at Boston's City Hall on January 25, 1969. 
+Efforts against the Inner Belt and Southwest Expressway started to blend toward the end of the 1960s, culminating in an organized People Before Highways Day at the State House on January 25, 1969. 
 
 1969 people before highways
 
