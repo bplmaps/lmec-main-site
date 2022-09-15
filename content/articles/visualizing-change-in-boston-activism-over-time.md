@@ -72,7 +72,7 @@ In the face of such destruction and displacement, opposition efforts were quick 
 
 In Jamaica Plain, a group of residents formed the [JP Expressway Committee](https://www.jphs.org/20th-century/how-jamaica-plain-activists-created-the-southwest-corridor.html)
 
-### The 1968 Re-Study
+### The 1968 Restudy
 
 1968 re-study 
 
