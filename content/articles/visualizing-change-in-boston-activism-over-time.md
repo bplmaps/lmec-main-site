@@ -24,7 +24,9 @@ In 1948, the Massachusetts Department of Public Works released the [Metropolitan
 
 {{< figure src="https://iiif.archivelab.org/iiif/masterhighwaypla00char$13/full/2000,/0/default.jpg" caption="The [Plan](https://archive.org/details/masterhighwaypla00char/page/n15/mode/1up) was compiled by Charles A. Maguire and Associates of Boston, J. E. Greiner Company of Baltimore, and De Leuw, Cather & Company of Chicago." class="figure-right" >}}
 
-The proposed [complete system](https://archive.org/details/masterhighwaypla00char/page/8/mode/1up) of expressways included the [Southwest Expressway](https://archive.org/details/masterhighwaypla00char/page/53/mode/1up), beginning at the business district of Boston and running through Roxbury, Dorchester, and Hyde Park through Milton and Dedham, and the [Belt Route](https://archive.org/details/masterhighwaypla00char/page/60/mode/1up) to serve as a bypass for traffic east to west and north to south. Designed to span through densely-populated areas inside and outside of Boston, both projects were eventually halted and abandoned in the early 1970s. The following maps, photographs, and reports document the course from proposal to abandonment—a decision that can be attributed to widespread public opposition, action, and grassroots organizing. 
+The proposed [complete system](https://archive.org/details/masterhighwaypla00char/page/8/mode/1up) of expressways included the [Southwest Expressway](https://archive.org/details/masterhighwaypla00char/page/53/mode/1up), beginning at the business district of Boston and running through Roxbury, Dorchester, and Hyde Park through Milton and Dedham, and the [Belt Route](https://archive.org/details/masterhighwaypla00char/page/60/mode/1up) to serve as a bypass for traffic east to west and north to south. Designed to span through densely-populated areas inside and outside of Boston, both projects were eventually halted and abandoned in the early 1970s. 
+
+The following maps, photographs, and reports document the course from proposal to abandonment—a decision that can be attributed to widespread public opposition, action, and grassroots organizing. 
 
 ### Beat the Belt
 
@@ -72,13 +74,13 @@ In neighboring Jamaica Plain, a group of residents formed the [JP Expressway Com
 
 _something will have to go here to take up some space_ 
 
-### People before Highways
+### People Before Highways
 
 Efforts against the Inner Belt and Southwest Expressway started to blend toward the end of the 1960s, culminating in an organized People Before Highways Day at the State House on January 25, 1969.
 
 {{< figure src="/uploads/2022-09-15/highways-2.jpeg" caption="The [January 25th](https://socialjustice.library.northeastern.edu/people-before-highways/) protest brought together voices from various efforts." class="figure-center" >}}
 
-* 1970 moratorium
-* today
+* _1970 moratorium_
+* _today_
 
 > The anti-highway movement across the Boston metropolitan area included many efforts, actions, and stories that are not included in this article. We encourage you to continue your own research on the subject, using objects from our [collections](https://www.leventhalmap.org/collections/) and the collections housed on [Digital Commonwealth](https://www.digitalcommonwealth.org/). 
