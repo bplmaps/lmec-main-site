@@ -78,7 +78,7 @@ In neighboring Jamaica Plain, a group of residents formed the [JP Expressway Com
 
 Efforts against the Inner Belt and Southwest Expressway started to blend toward the end of the 1960s, culminating in an organized People Before Highways Day at the State House on January 25, 1969. 
 
-{{< figure src="/uploads/2022-09-15/highways-2.jpeg" caption="The January 25th protest was pivotal in halting construction." class="figure-right" >}}
+{{< figure src="/uploads/2022-09-15/highways-2.jpeg" caption="" class="figure-right" >}}
 
 The rally 
 
