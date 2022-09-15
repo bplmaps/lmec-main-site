@@ -72,11 +72,7 @@ Based in Roxbury, the {{< popup src="/uploads/2022-09-14/screen-shot-2022-09-14-
 
 In neighboring Jamaica Plain, a group of residents formed the [JP Expressway Committee](https://www.jphs.org/20th-century/how-jamaica-plain-activists-created-the-southwest-corridor.html) and collectively attended public hearings, wrote letters, and were responsible for the well known {{< popup src="/uploads/2022-09-15/highways.jpeg"  target="blank" >}} People Before Highways{{</popup>}}  text that lined the parallel railroad embankment for over 20 years.   
 
-In the summer of 1968, Boston Mayor Kevin White commissioned a [BRA evaluation](https://collections.leventhalmap.org/search/commonwealth:7h14cv59p) to consider alternative transit design and land use for the area designated for the Southwest Expressway. The restudy concluded the expressway "would have a significant negative impact on the neighborhood visually and economically."
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv60f/full/full/0/default.jpg" caption="The restudy includes this [series of four maps](https://collections.leventhalmap.org/search/commonwealth:7h14cv59p)." class="figure-right" >}}
-
-1968 re-study 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv60f/full/full/0/default.jpg" caption="In 1968, Boston Mayor Kevin White commissioned a [BRA evaluation](https://collections.leventhalmap.org/search/commonwealth:7h14cv59p) to consider alternative transit design and land use." class="figure-right" >}}
 
 1968-69 greater boston commitee on transportation crisis 
 
