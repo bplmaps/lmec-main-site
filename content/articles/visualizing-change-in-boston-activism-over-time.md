@@ -62,9 +62,9 @@ Later that year, demonstrators organized once again—this time at the inaugurat
 
 #### Stop I-95 
 
-On the other side of the Charles River, residents in Roxbury mobilized efforts around not only the Inner Belt proposal, but also plans for the Southwest Expressway. The Expressway was designed as a [twelve-lane extension](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) of I-95 to relieve traffic congestion on Washington Street and Blue Hill Avenue, running through Milton, Hyde Park, Jamaica Plain, Roxbury, and the South End.
-
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv99n/full/full/0/default.jpg" caption="[This 1964 map](https://www.digitalcommonwealth.org/search/commonwealth:7h14cv973) accompanied a report to determine the extent displacement if the Southwest Expressway were completed." class="figure-center" >}}
+
+On the other side of the Charles River, residents in Roxbury mobilized efforts around not only the Inner Belt proposal, but also plans for the Southwest Expressway. The Expressway was designed as a [twelve-lane extension](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) of I-95 to relieve traffic congestion on Washington Street and Blue Hill Avenue, running through Milton, Hyde Park, Jamaica Plain, Roxbury, and the South End.
 
 Starting in 1966, more than [500 homes and businesses](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) between Forest Hills and the South End, including Jackson Square and Roxbury Crossing, were cleared for the Expressway; once again, the affected residents were generally from [lower income, multiracial communities](https://www.bu.edu/ioc/news/news-events/people-before-highways/) who likely did not drive cars, yet "it was their neighborhoods and communities that were...destroyed in an effort to make Boston more accessible to those living in the wealthier suburbs." In the face of such destruction and displacement, opposition efforts were quick to mobilize.
 
@@ -78,7 +78,9 @@ In neighboring Jamaica Plain, a group of residents formed the [JP Expressway Com
 
 Efforts against the Inner Belt and Southwest Expressway started to blend toward the end of the 1960s, culminating in an organized People Before Highways Day at the State House on January 25, 1969. 
 
-1969 people before highways
+{{< figure src="/uploads/2022-09-15/highways-2.jpeg" caption="The January 25th protest was pivotal in halting construction." class="figure-right" >}}
+
+The rally 
 
 1970 moratorium
 
