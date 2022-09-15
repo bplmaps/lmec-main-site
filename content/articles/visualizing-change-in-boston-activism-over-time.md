@@ -70,7 +70,7 @@ Starting in 1966, more than [500 homes and businesses](https://www.bostonpreserv
 
 In the face of such destruction and displacement, opposition efforts were quick to mobilize. One group, the Roxbury-based {{< popup src="/uploads/2022-09-14/screen-shot-2022-09-14-at-10-43-38-am.png"  target="blank" >}} Black United Front,{{</popup>}}  in a statement of demands, [wrote](https://repository.library.northeastern.edu/files/neu:cj82m3654): {{< figure src="/uploads/2022-09-14/screen-shot-2022-09-14-at-10-44-52-am.png" caption="" class="figure-center" >}}
 
-In Jamaica Plain, a group of residents formed the [JP Expressway Committee](https://www.jphs.org/20th-century/how-jamaica-plain-activists-created-the-southwest-corridor.html) and collectively attended public hearings, wrote letters, and were responsible for the well known {{< popup src="/uploads/2022-09-15/highways.jpeg"  target="blank" >}} People Before Highways{{</popup>}}  text that lined the railroad for embankment for over 20 years.  
+In Jamaica Plain, a group of residents formed the [JP Expressway Committee](https://www.jphs.org/20th-century/how-jamaica-plain-activists-created-the-southwest-corridor.html) and collectively attended public hearings, wrote letters, and were responsible for the well known {{< popup src="/uploads/2022-09-15/highways.jpeg"  target="blank" >}} People Before Highways{{</popup>}}  text that lined the parallel railroad embankment for over 20 years.  
 
 ### The 1968 Restudy
 
