@@ -72,6 +72,8 @@ Based in Roxbury, the {{< popup src="/uploads/2022-09-14/screen-shot-2022-09-14-
 
 In neighboring Jamaica Plain, a group of residents formed the [JP Expressway Committee](https://www.jphs.org/20th-century/how-jamaica-plain-activists-created-the-southwest-corridor.html) and collectively attended public hearings, wrote letters, and were responsible for the well known {{< popup src="/uploads/2022-09-15/highways.jpeg"  target="blank" >}} People Before Highways{{</popup>}}  text that lined the parallel railroad embankment for over 20 years.
 
+_something will have to go here to take up some space_ 
+
 ### People before Highways
 
 Efforts against the Inner Belt and Southwest Expressway started to blend toward the end of the 1960s, culminating in an organized People Before Highways Day at the State House on January 25, 1969.
