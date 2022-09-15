@@ -28,7 +28,7 @@ The proposed [complete system](https://archive.org/details/masterhighwaypla00cha
 
 The following maps, photographs, and reports document the course from proposal to abandonment—a decision that can be attributed to widespread public opposition and action.
 
-#### Inner Belt
+#### Beat the belt
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9019vk684/3985,3130,1365,1288/full/0/default.jpg" caption="The proposed Inner Belt appears on [this 1961 map](https://collections.leventhalmap.org/search/commonwealth:cn69pp161) in two dashed, green lines." class="figure-right" >}}
 
@@ -60,7 +60,7 @@ Later that year, demonstrators organized once again—this time at the inaugurat
 
 {{< /carousel >}}
 
-#### Southwest Expressway
+#### People before highways
 
 On the other side of the Charles River, residents in Roxbury mobilized efforts around not only the Inner Belt proposal, but also plans for the Southwest Expressway. The Expressway was designed as a [twelve-lane extension](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) of I-95 to relieve traffic congestion on Washington Street and Blue Hill Avenue, running through Milton, Hyde Park, Jamaica Plain, Roxbury, and the South End.
 
