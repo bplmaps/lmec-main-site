@@ -48,7 +48,7 @@ On February of 1966, a group of residents, led by {{< popup src="/uploads/2022-0
 
 {{< /carousel >}}
 
-Later that year, demonstrators organized once again—this time at the inauguration ceremony of the new Massachusetts Institute of Technology president, Howard Johnson, where "[more than 4000 persons—including presidents of 57 U.S. universities and colleges](https://www.digitalcommonwealth.org/search/commonwealth:5138kc40t)" were in attendance. Again, adults and children, viewed as [picketers](https://www.digitalcommonwealth.org/search/commonwealth:5138kc481), marched with signs reading {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5138kc55f/1177,955,1307,1347/full/0/default.jpg"  target="blank" >}} Beat The Belt{{</popup>}}  and demanding support and action from {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5138kc51b/1925,499,692,843/full/0/default.jpg"  target="blank" >}} President Johnson.{{</popup>}}
+Later that year, demonstrators organized once again—this time at the inauguration ceremony of the new Massachusetts Institute of Technology president, Howard Johnson, where over 4,000 people ([including presidents of 57 U.S. universities and colleges](https://www.digitalcommonwealth.org/search/commonwealth:5138kc40t)) were in attendance. Again, adults and children, labelled as [picketers](https://www.digitalcommonwealth.org/search/commonwealth:5138kc481), marched with signs reading {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5138kc55f/1177,955,1307,1347/full/0/default.jpg"  target="blank" >}} Beat The Belt{{</popup>}}  and demanding support and action from {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5138kc51b/1925,499,692,843/full/0/default.jpg"  target="blank" >}} President Johnson.{{</popup>}}
 
 {{< carousel >}} {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5138kc47r/full/full/0/default.jpg" >}}{{< /carousel-figure >}}
 
@@ -62,7 +62,7 @@ Later that year, demonstrators organized once again—this time at the inaugurat
 
 #### Southwest Expressway
 
-On the other side of the Charles River, residents in Roxbury mobilized efforts around not only the Inner Belt proposal, but also plans for the Southwest Expressway. The Expressway was designed as a [twelve-lane extension](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) of I-95 and would run through Milton, Hyde Park, Jamaica Plain, Roxbury, and the South End.
+On the other side of the Charles River, residents in Roxbury mobilized efforts around not only the Inner Belt proposal, but also plans for the Southwest Expressway. The Expressway was designed as a [twelve-lane extension](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) of I-95 to relieve traffic congestion on Washington Street and Blue Hill Avenue, running through Milton, Hyde Park, Jamaica Plain, Roxbury, and the South End.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv99n/full/full/0/default.jpg" caption="[This 1964 map](https://www.digitalcommonwealth.org/search/commonwealth:7h14cv973) accompanied a report to determine the extent displacement if the Southwest Expressway were completed." class="figure-center" >}}
 
