@@ -20,9 +20,7 @@ draft: true
 
 ### The Metropolitan Master Highway Plan of 1948
 
-In 1948, the Massachusetts Department of Public Works released the [Metropolitan Master Highway Plan](https://archive.org/details/masterhighwaypla00char/page/n15/mode/1up), a “ten-year construction program for the relief of traffic congestion” detailing “a network of expressways of latest modern design and of sufficient capacity.” Included in the 204-page report are [cost estimates](https://archive.org/details/masterhighwaypla00char/page/102/mode/1up), [economic justifications](https://archive.org/details/masterhighwaypla00char/page/103/mode/1up), [traffic tables](https://archive.org/details/masterhighwaypla00char/page/114/mode/1up), and maps of [proposed expressways](https://archive.org/details/masterhighwaypla00char/page/124/mode/1up), [construction stages](https://archive.org/details/masterhighwaypla00char/page/106/mode/1up), and more.
-
-{{< figure src="https://iiif.archivelab.org/iiif/masterhighwaypla00char$13/full/2000,/0/default.jpg" caption="The [Plan](https://archive.org/details/masterhighwaypla00char/page/n15/mode/1up) was compiled by Charles A. Maguire and Associates of Boston, J. E. Greiner Company of Baltimore, and De Leuw, Cather & Company of Chicago." class="figure-right" >}}
+In 1948, the Massachusetts Department of Public Works released the [Metropolitan Master Highway Plan](https://archive.org/details/masterhighwaypla00char/page/n15/mode/1up), a “ten-year construction program for the relief of traffic congestion” detailing “a network of expressways of latest modern design and of sufficient capacity.” {{< figure src="https://iiif.archivelab.org/iiif/masterhighwaypla00char$13/full/2000,/0/default.jpg" caption="The [Plan](https://archive.org/details/masterhighwaypla00char/page/n15/mode/1up) was compiled by Charles A. Maguire and Associates of Boston, J. E. Greiner Company of Baltimore, and De Leuw, Cather & Company of Chicago." class="figure-left" >}} Included in the 204-page report are [cost estimates](https://archive.org/details/masterhighwaypla00char/page/102/mode/1up), [economic justifications](https://archive.org/details/masterhighwaypla00char/page/103/mode/1up), [traffic tables](https://archive.org/details/masterhighwaypla00char/page/114/mode/1up), and maps of [proposed expressways](https://archive.org/details/masterhighwaypla00char/page/124/mode/1up), [construction stages](https://archive.org/details/masterhighwaypla00char/page/106/mode/1up), and more.
 
 The proposed [complete system](https://archive.org/details/masterhighwaypla00char/page/8/mode/1up) of expressways included the [Southwest Expressway](https://archive.org/details/masterhighwaypla00char/page/53/mode/1up), beginning at the business district of Boston and running through Roxbury, Dorchester, and Hyde Park through Milton and Dedham, and the [Belt Route](https://archive.org/details/masterhighwaypla00char/page/60/mode/1up) to serve as a bypass for traffic east to west and north to south. Designed to span through densely-populated areas inside and outside of Boston, both projects were eventually halted and abandoned in the early 1970s.
 
@@ -74,7 +72,7 @@ In neighboring Jamaica Plain, a group of residents formed the [JP Expressway Com
 
 Efforts against the Inner Belt and Southwest Expressway started to blend toward the end of the 1960s, culminating in an organized People Before Highways Day at the State House on January 25, 1969.
 
-{{< figure src="/uploads/2022-09-15/highways-2.jpeg" caption="The [January 25th](https://socialjustice.library.northeastern.edu/people-before-highways/) protest gathered representatives from various neighborhoods." class="figure-right" >}}
+{{< figure src="/uploads/2022-09-15/highways-2.jpeg" caption="The [January 25th](https://socialjustice.library.northeastern.edu/people-before-highways/) protest brought together voices from various efforts." class="figure-right" >}}
 
 * The rally
 * 1970 moratorium
