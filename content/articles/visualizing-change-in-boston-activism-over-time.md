@@ -66,9 +66,9 @@ Later that year, demonstrators organized once again—this time at the inaugurat
 
 On the other side of the Charles River, residents in Roxbury mobilized efforts around not only the Inner Belt proposal, but also plans for the Southwest Expressway. The Expressway was designed as a [twelve-lane extension](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) of I-95 to relieve traffic congestion on Washington Street and Blue Hill Avenue, running through Milton, Hyde Park, Jamaica Plain, Roxbury, and the South End.
 
-Starting in 1966, more than [500 homes and businesses](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) between Forest Hills and the South End, including Jackson Square and Roxbury Crossing, were cleared for the Expressway; once again, the affected residents were generally from [lower income, multiracial communities](https://www.bu.edu/ioc/news/news-events/people-before-highways/) who likely did not drive cars, yet "it was their neighborhoods and communities that were...destroyed in an effort to make Boston more accessible to those living in the wealthier suburbs." In the face of such destruction and displacement, opposition efforts were quick to mobilize.
-
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv61q/150,10103,2924,3897/full/0/default.jpg" caption="In support of the expressway opponents, Boston Mayor Kevin White commissioned a [BRA evaluation](https://collections.leventhalmap.org/search/commonwealth:7h14cv59p) in 1968 to consider alternative transit design and land use." class="figure-right" >}}
+
+Starting in 1966, more than [500 homes and businesses](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) between Forest Hills and the South End, including Jackson Square and Roxbury Crossing, were cleared for the Expressway; once again, the affected residents were generally from [lower income, multiracial communities](https://www.bu.edu/ioc/news/news-events/people-before-highways/) who likely did not drive cars, yet "it was their neighborhoods and communities that were...destroyed in an effort to make Boston more accessible to those living in the wealthier suburbs." In the face of such destruction and displacement, opposition efforts were quick to mobilize.
 
 Based in Roxbury, the {{< popup src="/uploads/2022-09-14/screen-shot-2022-09-14-at-10-43-38-am.png"  target="blank" >}} Black United Front{{</popup>}}  identified the expressway as a [priority for action](https://repository.library.northeastern.edu/files/neu:cj82m3654). In a statement of demands, the group wrote: "The Planned construction of the Inner Belt and Southwest Expressway are to be halted immediately and their continued planning and construction negotiated with the Black Community since both of these highways projects will radically affect the lives of the people in this community."
 
@@ -78,7 +78,7 @@ In neighboring Jamaica Plain, a group of residents formed the [JP Expressway Com
 
 Efforts against the Inner Belt and Southwest Expressway started to blend toward the end of the 1960s, culminating in an organized People Before Highways Day at the State House on January 25, 1969. 
 
-{{< figure src="/uploads/2022-09-15/highways-2.jpeg" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2022-09-15/highways-2.jpeg" caption="The [January 25th](https://socialjustice.library.northeastern.edu/people-before-highways/) protest drew crowds across neighborhoods." class="figure-right" >}}
 
 The rally 
 
