@@ -81,4 +81,4 @@ Efforts against the Inner Belt and Southwest Expressway started to blend toward 
 * 1970 moratorium
 * today
 
-_The anti-highway movement across the Boston metropolitan area included many efforts, actions, and stories that are not included in this article. We encourage you to continue your own research on the subject, using objects from our_ [_collections_](https://www.leventhalmap.org/collections/) _and the collections housed on_ [_Digital Commonwealth_](https://www.digitalcommonwealth.org/)_._ 
+> The anti-highway movement across the Boston metropolitan area included many efforts, actions, and stories that are not included in this article. We encourage you to continue your own research on the subject, using objects from our [collections](https://www.leventhalmap.org/collections/) and the collections housed on [Digital Commonwealth](https://www.digitalcommonwealth.org/). 
