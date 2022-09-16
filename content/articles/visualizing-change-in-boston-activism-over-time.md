@@ -87,6 +87,6 @@ In 1974, the funds originally reserved for the expressways were reallocated to s
 * A Red Line extension from Harvard to Alewife, including a new station at Quincy Adams
 * A new $743 million Orange Line and Amtrak-commuter rail extension, as well as 4.1-mile linear park, along the proposed route of the Southwest Expressway. 
 
-Today, the [Southwest Corridor Park](https://www.mass.gov/locations/southwest-corridor-park) includes 11 playgrounds, 2 spray pools, 7 basketball courts, 5 tennis courts, 2 street hockey rinks, 2 amphitheaters, and 6 miles of trails for all to enjoy. 
+Today, the [Southwest Corridor Park](https://www.mass.gov/locations/southwest-corridor-park) includes 11 playgrounds, 2 spray pools, 7 basketball courts, 2 street hockey rinks, 2 amphitheaters, 5 tennis courts, and 6 miles of trails for all to enjoy. 
 
 > The anti-highway movement across the Boston metropolitan area included many efforts, actions, and stories that are not included in this article. We encourage you to continue your own research on the subject, using objects from our [collections](https://www.leventhalmap.org/collections/) and the collections housed on [Digital Commonwealth](https://www.digitalcommonwealth.org/).
