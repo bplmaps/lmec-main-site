@@ -87,6 +87,6 @@ In 1974, the funds originally reserved for the expressways were reallocated to s
 
 {{< figure src="/uploads/2022-09-16/full-corridor.jpeg" caption="This [Southwest Corridor Development Plan](https://collections.leventhalmap.org/search/commonwealth:7h14d598d) identifies development sites and choices made jointly by public agencies and local residents for each parcel. " class="figure-center" >}}
 
-**I may add some sort of conclusion here or an anecdote from Karilyn's Crockett's book** 
+**I may add some sort of conclusion here or an anecdote from Karilyn's Crockett's book, but I need to stop looking at this for a bit :)** 
 
 > The anti-highway movement across the Boston metropolitan area included many efforts, actions, and stories that are not included in this article. We encourage you to continue your own research on the subject, using objects from our [collections](https://www.leventhalmap.org/collections/) and the collections housed on [Digital Commonwealth](https://www.digitalcommonwealth.org/).
