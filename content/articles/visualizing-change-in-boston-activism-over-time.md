@@ -78,7 +78,7 @@ Efforts against the Inner Belt and Southwest Expressway started to blend toward 
 
 {{< figure src="/uploads/2022-09-15/highways-2.jpeg" caption="The [January 25th](https://socialjustice.library.northeastern.edu/people-before-highways/) protest brought together voices from various efforts." class="figure-center" >}}
 
-Approximately one year later, opposition efforts proved successful and Governor Sargent announced a [moratorium](http://swcpc.org/history.asp) on new expressway construction  to review alternative transit plans for the area. By 1972, 
+Approximately one year later, opposition efforts proved successful and Governor Sargent (once in favor of the highway) announced a [moratorium](http://swcpc.org/history.asp) on new expressway construction to review alternative transit plans for the area. By 1972, 
 
 * _Alternative decision_
 
