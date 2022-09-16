@@ -85,4 +85,6 @@ In 1974, the funds originally reserved for the expressways were reallocated to s
 * A Red Line extension from Harvard to Alewife, including a new station Quincy Adams 
 * A new $743 million Orange Line and Amtrak-commuter rail extension, as well as 4.1-mile linear park, along the proposed route of the Southwest Expressway 
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g158f1602/full/full/0/default.jpg" caption="" class="figure-center" >}}
+
 > The anti-highway movement across the Boston metropolitan area included many efforts, actions, and stories that are not included in this article. We encourage you to continue your own research on the subject, using objects from our [collections](https://www.leventhalmap.org/collections/) and the collections housed on [Digital Commonwealth](https://www.digitalcommonwealth.org/).
