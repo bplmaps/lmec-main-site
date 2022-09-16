@@ -78,9 +78,8 @@ Efforts against the Inner Belt and Southwest Expressway started to blend toward 
 
 {{< figure src="/uploads/2022-09-15/highways-2.jpeg" caption="The [January 25th](https://socialjustice.library.northeastern.edu/people-before-highways/) protest brought together voices from various efforts." class="figure-center" >}}
 
-In response to building public opposition, 
+Approximately one year later, opposition efforts proved successful and Governor Sargent announced a [moratorium](http://swcpc.org/history.asp) on new expressway construction. 
 
-* _1970 moratorium_
 * _Alternative decision_
 
 > The anti-highway movement across the Boston metropolitan area included many efforts, actions, and stories that are not included in this article. We encourage you to continue your own research on the subject, using objects from our [collections](https://www.leventhalmap.org/collections/) and the collections housed on [Digital Commonwealth](https://www.digitalcommonwealth.org/).
