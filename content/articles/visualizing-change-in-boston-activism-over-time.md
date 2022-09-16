@@ -80,12 +80,12 @@ Efforts against the Inner Belt and Southwest Expressway started to blend toward 
 
 Approximately one year later, opposition efforts proved successful and Governor Sargent (once [commissioner](https://newenglanddiary.com/home/c30o6b16zzgpoqs8gbok0r521f53xe/2/19/2020) of the Department of Public Works and in favor of the highway) announced a [moratorium](http://swcpc.org/history.asp) on new expressway construction to review alternative transit plans for the area. The restudy, known as the [Boston Transportation Planning Review](https://historycambridge.org/innerbelt/history.html), was initiated in [July of 1971](https://pubsindex.trb.org/view.aspx?id=132921) and by December of that year, had [concluded](https://archive.org/stream/bostontransporta00mass/bostontransporta00mass_djvu.txt) that "plans developed in the 1940s and 1950s \[were\] inappropriate for the 1970s and 1980s." And in a major win for anti-highway advocates, declared "the previously planned eight-lane facilities for the Southwest Expressway, 1-95 North, the Inner Belt, and Route 2 extension will no longer be considered," as well as "all previous plans for the Inner Belt through Cambridge and Somerville."
 
+{{< figure src="/uploads/2022-09-16/full-corridor.jpeg" caption="This [Southwest Corridor Development Plan](https://collections.leventhalmap.org/search/commonwealth:7h14d598d) identifies development sites and choices made jointly by public agencies and local residents for each parcel." class="figure-right">}}
+
 In 1974, the funds originally reserved for the expressways were reallocated to support public transit projects, [including](https://www.proquest.com/bostonglobe/docview/294482286/9B381B7014444861PQ/2?accountid=9675):
 
 * A Red Line extension from Harvard to Alewife, including a new station at Quincy Adams
 * A new $743 million Orange Line and Amtrak-commuter rail extension, as well as 4.1-mile linear park, along the proposed route of the Southwest Expressway. 
-
-{{< figure src="/uploads/2022-09-16/full-corridor.jpeg" caption="This [Southwest Corridor Development Plan](https://collections.leventhalmap.org/search/commonwealth:7h14d598d) identifies development sites and choices made jointly by public agencies and local residents for each parcel." class="figure-center">}}
 
 Today, the [Southwest Corridor Park](https://www.mass.gov/locations/southwest-corridor-park) includes 11 playgrounds, 2 spray pools, 7 basketball courts, 5 tennis courts, 2 street hockey rinks, 2 amphitheaters, and 6 miles of trails for all to enjoy. 
 
