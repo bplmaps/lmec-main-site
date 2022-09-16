@@ -83,7 +83,7 @@ Approximately one year later, opposition efforts proved successful and Governor 
 In 1974, the funds originally reserved for the expressways were reallocated to [fund](https://www.proquest.com/bostonglobe/docview/294482286/9B381B7014444861PQ/2?accountid=9675): 
 
 * A Red Line extension from Harvard to Alewife
-* A new $743 million Orange Line and Amtrak-commuter rail extension along the proposed route of the Southwest Expressway 
+* A new $743 million Orange Line and Amtrak-commuter rail extension, as well as 4.1-mile linear park, along the proposed route of the Southwest Expressway 
 * 
 * 
 * the route of the doomed Southwest Expressway to Forest Hills. It opened last May 4, replacing the elevated line down Washington Street, which is slated to be fully dismantled by next summer.
