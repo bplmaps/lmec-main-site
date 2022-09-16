@@ -74,9 +74,11 @@ In neighboring Jamaica Plain, a group of residents formed the [JP Expressway Com
 
 ### People Before Highways
 
-Efforts against the Inner Belt and Southwest Expressway started to blend toward the end of the 1960s, culminating in an organized People Before Highways Day at the State House on January 25, 1969.
+Efforts against the Inner Belt and Southwest Expressway started to blend toward the end of the 1960s, culminating in an organized People Before Highways Day at the State House on January 25, 1969. The rally attracted over [2,000 residents](https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?appid=1165&artguid=830c4a42-9473-413b-abf0-a8865c29d2ce) from across the metropolitan area, including the son of newly-inaugurated Governor Francis W. Sargent. 
 
 {{< figure src="/uploads/2022-09-15/highways-2.jpeg" caption="The [January 25th](https://socialjustice.library.northeastern.edu/people-before-highways/) protest brought together voices from various efforts." class="figure-center" >}}
+
+In response to building public opposition, 
 
 * _1970 moratorium_
 * _Alternative decision_
