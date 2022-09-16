@@ -82,10 +82,10 @@ Approximately one year later, opposition efforts proved successful and Governor 
 
 In 1974, the funds originally reserved for the expressways were reallocated to support public transit projects, [including](https://www.proquest.com/bostonglobe/docview/294482286/9B381B7014444861PQ/2?accountid=9675):
 
-{{< figure src="/uploads/2022-09-16/full-corridor.jpeg" caption="This [Southwest Corridor Development Plan](https://collections.leventhalmap.org/search/commonwealth:7h14d598d) identifies development sites and choices made jointly by public agencies and local residents for each parcel." class="figure-right" >}}
-
 * A Red Line extension from Harvard to Alewife, including a new station at Quincy Adams
 * A new $743 million Orange Line and Amtrak-commuter rail extension, as well as 4.1-mile linear park, along the proposed route of the Southwest Expressway. 
+
+{{< figure src="/uploads/2022-09-16/full-corridor.jpeg" caption="This [Southwest Corridor Development Plan](https://collections.leventhalmap.org/search/commonwealth:7h14d598d) identifies development sites and choices made jointly by public agencies and local residents for each parcel." class="figure-center">}}
 
 Today, the [Southwest Corridor Park](https://www.mass.gov/locations/southwest-corridor-park) includes 11 playgrounds, 2 spray pools, 7 basketball courts, 5 tennis courts, 2 street hockey rinks, 2 amphitheaters, and 6 miles of trails for all to enjoy. 
 
