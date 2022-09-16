@@ -60,7 +60,7 @@ Later that year, demonstrators organized once again—this time at the inaugurat
 
 ### Stop I-95
 
-On the other side of the Charles River, residents in Roxbury mobilized efforts around not only the Inner Belt proposal, but also plans for the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9019vk684/3498,3332,1304,3267/full/0/default.jpg"  target="blank" >}} Southwest Expressway.{{</popup>}  The Expressway was designed as a [twelve-lane extension](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) of I-95 to relieve traffic congestion on Washington Street and Blue Hill Avenue, running through Milton, Hyde Park, Jamaica Plain, Roxbury, and the South End.
+On the other side of the Charles River, residents in Roxbury mobilized efforts around not only the Inner Belt proposal, but also plans for the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9019vk684/3498,3332,1304,3267/full/0/default.jpg"  target="blank" >}} Southwest Expressway.{{</popup>}}  The Expressway was designed as a [twelve-lane extension](https://www.bostonpreservation.org/news-item/tiny-story-southwest-corridor-park) of I-95 to relieve traffic congestion on Washington Street and Blue Hill Avenue, running through Milton, Hyde Park, Jamaica Plain, Roxbury, and the South End.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv99n/full/full/0/default.jpg" caption="This [1964 map](https://www.digitalcommonwealth.org/search/commonwealth:7h14cv973) accompanied a report to determine the extent displacement if the Southwest Expressway were completed." class="figure-center" >}}
 
