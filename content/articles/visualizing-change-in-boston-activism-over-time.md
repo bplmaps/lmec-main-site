@@ -78,11 +78,7 @@ Efforts against the Inner Belt and Southwest Expressway started to blend toward 
 
 {{< figure src="/uploads/2022-09-15/highways-2.jpeg" caption="The [January 25th](https://socialjustice.library.northeastern.edu/people-before-highways/) protest brought together voices from various efforts." class="figure-center" >}}
 
-Approximately one year later, opposition efforts proved successful and Governor Sargent (once [commissioner](https://newenglanddiary.com/home/c30o6b16zzgpoqs8gbok0r521f53xe/2/19/2020) of the Department of Public Works and in favor of the highway) announced a [moratorium](http://swcpc.org/history.asp) on new expressway construction to review alternative transit plans for the area. The restudy, known as the [Boston Transportation Planning Review](https://historycambridge.org/innerbelt/history.html), was initiated in [July of 1971](https://pubsindex.trb.org/view.aspx?id=132921), and by December of that year, had [concluded](https://archive.org/stream/bostontransporta00mass/bostontransporta00mass_djvu.txt) that "plans developed in the 1940s and 1950s \[were\] inappropriate for the 1970s and 1980s." 
-
-dec 1972
-
-feb 1973 
+Approximately one year later, opposition efforts proved successful and Governor Sargent (once [commissioner](https://newenglanddiary.com/home/c30o6b16zzgpoqs8gbok0r521f53xe/2/19/2020) of the Department of Public Works and in favor of the highway) announced a [moratorium](http://swcpc.org/history.asp) on new expressway construction to review alternative transit plans for the area. The restudy, known as the [Boston Transportation Planning Review](https://historycambridge.org/innerbelt/history.html), was initiated in [July of 1971](https://pubsindex.trb.org/view.aspx?id=132921), and by December of that year, had [concluded](https://archive.org/stream/bostontransporta00mass/bostontransporta00mass_djvu.txt) that "plans developed in the 1940s and 1950s \[were\] inappropriate for the 1970s and 1980s." In a review of  Phase I of the Study, Sargent announced "the previously planned eight-lane facilities for the Southwest Expressway, 1-95 North, the Inner Belt,  and Route 2 extension will no longer be considered," as well as "all previous plans for the Inner Belt through Cambridge and Somerville." 
 
 * _Alternative decision_
 
