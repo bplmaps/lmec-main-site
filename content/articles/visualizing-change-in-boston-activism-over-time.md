@@ -80,16 +80,9 @@ Efforts against the Inner Belt and Southwest Expressway started to blend toward 
 
 Approximately one year later, opposition efforts proved successful and Governor Sargent (once [commissioner](https://newenglanddiary.com/home/c30o6b16zzgpoqs8gbok0r521f53xe/2/19/2020) of the Department of Public Works and in favor of the highway) announced a [moratorium](http://swcpc.org/history.asp) on new expressway construction to review alternative transit plans for the area. The restudy, known as the [Boston Transportation Planning Review](https://historycambridge.org/innerbelt/history.html), was initiated in [July of 1971](https://pubsindex.trb.org/view.aspx?id=132921) and by December of that year, had [concluded](https://archive.org/stream/bostontransporta00mass/bostontransporta00mass_djvu.txt) that "plans developed in the 1940s and 1950s \[were\] inappropriate for the 1970s and 1980s." Furthermore, Sargent announced "the previously planned eight-lane facilities for the Southwest Expressway, 1-95 North, the Inner Belt, and Route 2 extension will no longer be considered," as well as "all previous plans for the Inner Belt through Cambridge and Somerville." 
 
-In 1974, the funds originally reserved for the expressways were reallocated to [fund](https://www.proquest.com/bostonglobe/docview/294482286/9B381B7014444861PQ/2?accountid=9675): 
+In 1974, the funds originally reserved for the expressways were reallocated to support public transit projects, [including](https://www.proquest.com/bostonglobe/docview/294482286/9B381B7014444861PQ/2?accountid=9675): 
 
-* A Red Line extension from Harvard to Alewife
+* A Red Line extension from Harvard to Alewife, including a new station Quincy Adams 
 * A new $743 million Orange Line and Amtrak-commuter rail extension, as well as 4.1-mile linear park, along the proposed route of the Southwest Expressway 
-* 
-* 
-* the route of the doomed Southwest Expressway to Forest Hills. It opened last May 4, replacing the elevated line down Washington Street, which is slated to be fully dismantled by next summer.
-* The purchase of 10 branches of commuter rail line, five lines from North and South stations each, totalling 428 miles, as well as the equipment to run the service, which carries 26,000 people a day.
-* The Quincy Adams station on the Red Line off Route 3, with a 1,800-car garage, which opened in September 1983.
-* The completion of the last 13 miles of Interstate 495 between I-95 in Foxborough and Route 24 in Raynham, opened in 1981-2.
-* And $80 million more being used for so-called urban systems projects to improve inner-city intersections and road networks
 
 > The anti-highway movement across the Boston metropolitan area included many efforts, actions, and stories that are not included in this article. We encourage you to continue your own research on the subject, using objects from our [collections](https://www.leventhalmap.org/collections/) and the collections housed on [Digital Commonwealth](https://www.digitalcommonwealth.org/).
