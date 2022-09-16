@@ -17,15 +17,15 @@ draft: true
 
 ### About this event
 
-"_I was waiting for this book without realizing I was waiting for this book_." — Ruth Wilson Gilmore
-
 {{< figure src="/uploads/2022-09-15/untitled-design-10.png" caption="" class="figure-right" >}}
+
+"_I was waiting for this book without realizing I was waiting for this book_." — Ruth Wilson Gilmore
 
 Join the philosopher [Olúfẹ́mi O. Táíwò](http://www.olufemiotaiwo.com) for a discussion of his new book _Elite Capture: How the Powerful Took Over Identity Politics (And Everything Else)_. His work explores the process by which a radical concept can be stripped of its political substance and liberatory potential by becoming the victim of elite capture—deployed by political, social, and economic elites in the service of their own interests.
 
 Following the discussion, there will be an audience Q&A, and for in-person attendees, the program will conclude with an author signing facilitated by an independent community bookstore.
 
-**To register for in-person attendance**, please visit this [Eventbrite page](https://www.eventbrite.com/e/author-talk-with-olufemi-o-taiwo-on-elite-capture-tickets-419828557517). 
+**To register for in-person attendance**, please visit this [Eventbrite page](https://www.eventbrite.com/e/author-talk-with-olufemi-o-taiwo-on-elite-capture-tickets-419828557517).
 
 **To register for online attendance**, please visit the forthcoming Zoom webinar registration page.
 
