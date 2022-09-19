@@ -11,6 +11,8 @@ registration: bu.edu/ioc/communityandgovernance
 tags: []
 
 ---
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< /alert-box >}}
+
 ### About the event
 
 Join the BU Initiative on Cities, the BU American Politics Seminar Series, and the [Leventhal Map & Education Center](https://www.leventhalmap.org/ "https://www.leventhalmap.org/") at the Boston Public Library for a discussion on the role of nonprofit and community-based organizations in the City of Boston. The event will feature authors, Claire Dunning ([_Nonprofit Neighborhoods_](https://press.uchicago.edu/ucp/books/book/chicago/N/bo159872695.html "https://press.uchicago.edu/ucp/books/book/chicago/N/bo159872695.html"); University of Maryland, College Park) and Jeremy Levine ([_Constructing Community_](https://press.princeton.edu/books/paperback/9780691193649/constructing-community "https://press.princeton.edu/books/paperback/9780691193649/constructing-community"); University of Michigan), who will share insights from their recent books on the nonprofit sector’s impact on urban development and policy. _Lunch will be provided._ 
