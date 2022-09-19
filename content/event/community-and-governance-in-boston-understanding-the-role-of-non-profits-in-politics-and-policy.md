@@ -5,7 +5,7 @@ title: 'Community and Governance in Boston: Understanding the Role of Non-Profit
 date: 2022-10-06T12:30:00-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3768205/full/2000,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3768205/full/2000,/0/default.jpg
-location: BU Initiative On Cities
+location: BU Initiative On Cities,  75 Bay State Road
 fee: Free
 registration: bu.edu/ioc/communityandgovernance
 tags: []
