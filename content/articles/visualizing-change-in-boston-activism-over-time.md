@@ -1,5 +1,5 @@
 ---
-date: 2022-09-16T09:15:01.000-04:00
+date: 2022-09-19T11:15:00-04:00
 title: 'The (Unrealized) Metropolitan Master Highway Plan of 1948 '
 description: The Southwest Expressway and Inner Belt Highway projects were both proposed
   in the Master Highway Plan for the Boston Metropolitan Area in 1948. Designed to
@@ -13,7 +13,6 @@ tags:
 - Collections
 - Visualizing Change in Boston
 backgroundImage: "/uploads/2022-09-01/masterhighwaypla00char_0015.jpeg"
-draft: true
 
 ---
 > This article digs into a case study from our latest [Digital Commonwealth](https://www.digitalcommonwealth.org/) primary source set, [Activism in Boston Over Time](https://www.digitalcommonwealth.org/for_educators/primary_source_sets/activism_in_boston_over_time). In the set, you will find a collection of maps, photographs, film, and documents that reveal change over time in different Boston neighborhoods and the role of activism in driving those changes. You can also find a [lesson plan](https://docs.google.com/presentation/d/1PUi7o35Y-6EPGe0dOq8wi9jmj5C78Md7qrLn6ZVoIOE/edit#slide=id.p) for students in grades 8–12 that incorporates many of these sources as well as several others.
