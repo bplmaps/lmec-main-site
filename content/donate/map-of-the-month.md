@@ -7,7 +7,7 @@ type: singleton
 suppressEmailPopup: true
 
 ---
-<a class="btn btn-primary btn-primary-outline btn-sm" href="#/?form=MAPOFTHEMONTH">Set up a recurring donation now</a> 
+<a class="btn btn-primary btn-primary-outline btn-sm" href="#/?form=MAPOFTHEMONTH">Set up a recurring donation now</a>
 
 ### About Map of the Month Club
 
@@ -17,4 +17,5 @@ Donations go directly to our historical geography work with students, educators,
 
 ### Maps of the Month
 
-* **September 2022:** Coming Soon
+* **September 2022:** [Bartlett's illustrated map of Boston](https://collections.leventhalmap.org/search/commonwealth:9s161g99j)
+* **October 2022:** _Coming Soon_
