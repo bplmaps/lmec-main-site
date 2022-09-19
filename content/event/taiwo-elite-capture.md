@@ -10,7 +10,6 @@ fee: Free
 registration: https://www.eventbrite.com/e/author-talk-with-olufemi-o-taiwo-on-elite-capture-tickets-419828557517
 tags:
 - exhibition
-draft: true
 
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is co-organized with BPL Adult Programs.{{< /alert-box >}}
