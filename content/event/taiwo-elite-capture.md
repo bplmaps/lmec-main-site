@@ -5,7 +5,7 @@ title: 'Author Talk: Olúfẹ́mi O. Táíwò on Elite Capture: How The Powerful
 date: 2022-11-16T18:00:00.000-05:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947d369/377,803,3378,1799/,1200/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947d369/377,803,3378,1799/,1200/0/default.jpg
-location: Rabb Hall and Online
+location: 'Commonwealth Salon, Central Library in Copley Square '
 fee: Free
 registration: https://www.eventbrite.com/e/author-talk-with-olufemi-o-taiwo-on-elite-capture-tickets-419828557517
 tags:
@@ -25,8 +25,6 @@ Join the philosopher [Olúfẹ́mi O. Táíwò](http://www.olufemiotaiwo.com) fo
 Following the discussion, there will be an audience Q&A, and for in-person attendees, the program will conclude with an author signing facilitated by an independent community bookstore.
 
 **To register for in-person attendance**, please visit this [Eventbrite page](https://www.eventbrite.com/e/author-talk-with-olufemi-o-taiwo-on-elite-capture-tickets-419828557517).
-
-**To register for online attendance**, please visit the forthcoming Zoom webinar registration page.
 
 #### About the author
 
