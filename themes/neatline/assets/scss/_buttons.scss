@@ -118,6 +118,26 @@
   }
 }
 
+.btn-primary-white {
+  border: 1px solid $primary-color;
+  color: $primary-color;
+  background: white;
+
+  &::before {
+    background: $white;
+  }
+
+  &:hover {
+    background: adjust-color(white, $alpha: -0.2);
+    color: $primary-color;
+  }
+
+  &:active {
+    background: $primary-color;
+    color: $white;
+  }
+}
+
 .btn-emphasis-bounce {
 
     animation-name: bounce1;

@@ -8,6 +8,9 @@
       {{ .Get "description" | markdownify }}
       {{ with .Get "lessonFile" }}
       <br>
-      <a class="btn btn-xs btn-outline-primary mt-2" href="{{ . }}"><i class="fas fa-file-download"></i> Download lesson material</a>
+      <br>
+      <i>Download lesson to teach it yourself</i>
+      <br>
+      <a class="btn btn-xs btn-outline-primary mt-2" href="{{ . }}"><i class="fas fa-file-download"></i> Download</a>
       {{ end }}    </div>
   </div>

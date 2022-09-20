@@ -8,6 +8,9 @@
         <h2 class="text-white animate__animated animate__fadeInDown">
 {{ .Title | markdownify }}</h2>
         <p class="text-lighten animate__animated animate__fadeIn page-subheader">{{ if eq .Section "articles" }}<span class="badge badge-light font-secondary me-3">Article</span>{{ else if eq .Section "event" }}<span class="badge badge-light font-secondary me-3">Event</span>{{ else if eq .Section "store" }}<span class="badge badge-light font-secondary me-3">Store</span>{{ end }}{{ .Params.Description | markdownify }}</p>
+        {{ if eq .Title "Teach It Yourself"}}
+        <a class="btn btn-xs btn-primary-white mt-2" href="/education/k12/"><i class="fas fa-solid fa-arrow-left"></i> Back to main K-12 page</a>
+      {{end}}
       </div>
     </div>
   </div>

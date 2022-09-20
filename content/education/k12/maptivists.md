@@ -32,4 +32,4 @@ We used many of the lessons and resources listed here in the elective. If you wo
 
 ### Explore Lessons and Resources
 
-{{< resources-list >}}
+{{< resources-list tag-filter="Maptivist">}}

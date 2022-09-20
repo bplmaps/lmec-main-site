@@ -34,7 +34,7 @@ At the Leventhal Map & Education Center, we believe that maps are powerful tools
 
 {{< /carousel >}}
 
-### Bringing your class to the Map Center, or the Map Center to your class
+<!-- ### Bringing your class to the Map Center, or the Map Center to your class
 
 See our [School Visits](/education/k12/school-visits) page for more information on how to bring your class to the Map Center.
 
@@ -50,4 +50,4 @@ Our [Professional Development](/education/k12/professional-development) page off
 
 Are you looking for something you can't find here? Contact our [Director of Education](/about/people/michelle-leblanc) or [Education Coordinator](/about/people/lynn-brown) for more information.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f955r/278,204,10003,5349/1200,/0/default.jpg" alt="Map of the world with south on top" caption="An [map of the world with south at the top](https://collections.leventhalmap.org/search/commonwealth:x633f954g) encourages students to think about what perspectives we are used to seeing in our views of the world" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f955r/278,204,10003,5349/1200,/0/default.jpg" alt="Map of the world with south on top" caption="An [map of the world with south at the top](https://collections.leventhalmap.org/search/commonwealth:x633f954g) encourages students to think about what perspectives we are used to seeing in our views of the world" >}} -->

@@ -1,31 +1,34 @@
+{{ $tag := .Get "tag-filter"}}
+{{ $grade := .Get "grade-filter"}}
 <div class="container">
-  <div class="row">
+  <div class="row mt-10">
   {{ range $.Site.Data.education.Resources}}
-    {{ if in .Theme "Maptivist"}}
-      <div class="col-lg-6 col-sm-8 mb-5 mb-lg-0 mb-4">
-        <div class="card rounded-0 hover-shadow border-top-0 border-left-0 border-right-0 page-card alt-gallery-card">
-          <div>
-            {{ range .Image }}<br>
-            <img class="card-img-top rounded-0" src="{{ .url }}">
+    {{ if or (in .Grade_Level $grade) (in .Theme $tag)}}
+      <div class="col-lg-4 col-md-4 col-sm-6 mb-5 mb-lg-0 my-3">
+        <div class="card rounded-0 hover-shadow alt-gallery-card">
+          <div class="card-img position-relative">
+            {{ range .Image }}
+            <img class="card-img-top rounded-0" src="{{ .url }}" height="100px">
             {{ end }}
           </div>
           <div class="card-body">
-            <h3 class="card-title">{{ .Name}}</h3>
-            <!-- <i>{{ .Type }}</i><br>
-            Grade Level: <br>
+            <h5 class="card-title"><a href="{{ .URL }}" target="_blank">{{ .Name}}</a></h5>
+            <!-- <i>{{ .Type }}</i><br> -->
+            <!-- Grade Level: <br>
             {{ range .Grade_Level }}
               <span class="badge badge-pill badge-info mb-1">{{.}}</span>
-            {{ end }}<br>
+            {{ end }}<br> -->
+            
             Themes: <br>
             {{ range .Theme }}
               <span class="badge badge-pill badge-info mb-1">{{.}}</span>
-            {{ end }}<br><br> -->
+            {{ end }}<br><br>
             <!-- {{ .Description }} -->
-            <a href="{{ .URL }}" target="_blank" class="btn btn-primary btn-primary-outline btn-sm mb-2"><i class="fas fa-external-link-square-alt me-2"></i> See Resource </a>
+            <a href="{{ .URL }}" target="_blank" class="btn btn-primary btn-primary-outline btn-xs mb-2"><i class="fas fa-external-link-square-alt me-2"></i> See Resource </a>
           </div>
         </div>
       </div>
-  {{end}}
+    {{end}}
   {{ end }}
 </div>
 </div>

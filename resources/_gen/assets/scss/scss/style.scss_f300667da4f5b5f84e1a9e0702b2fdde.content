@@ -138,6 +138,19 @@ code {
   .btn-primary-gradient:hover {
     background-position: right center; }
 
+.btn-primary-white {
+  border: 1px solid #054571;
+  color: #054571;
+  background: white; }
+  .btn-primary-white::before {
+    background: #fff; }
+  .btn-primary-white:hover {
+    background: rgba(255, 255, 255, 0.8);
+    color: #054571; }
+  .btn-primary-white:active {
+    background: #054571;
+    color: #fff; }
+
 .btn-emphasis-bounce {
   animation-name: bounce1;
   animation-timing-function: linear;
