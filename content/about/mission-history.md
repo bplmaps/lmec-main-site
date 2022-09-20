@@ -34,7 +34,7 @@ We are called to take action to reveal and work towards ending these injustices.
 
 We are renewed in our commitment to listen and educate ourselves more deeply about the racial dimensions of ingrained systems of domination, and to offer materials, free to all, that may help in this conversation. Here are just a few resources that show some of the geographic stakes of this struggle:
 
-* The [Racial Dot Map](https://demographics.coopercenter.org/racial-dot-map/%22%20/t%20%22_blank) of the United States allows you to see how strikingly segregated our cities remain in the present day
+* The [Racial Dot Map](https://web.archive.org/web/20210103173119/https://demographics.coopercenter.org/racial-dot-map/) of the United States allows you to see how strikingly segregated our cities remain in the present day
 * The [Mapping Police Violence](https://mappingpoliceviolence.org/%22%20/t%20%22_blank) project shows how Black people bear a disproportionate share of harm from police violence
 * Closer to home, the Metropolitan Area Planning Commission’s [State of Equity](https://equityagenda.mapc.org/) report maps patterns of racialized inequity in the Boston region
 
