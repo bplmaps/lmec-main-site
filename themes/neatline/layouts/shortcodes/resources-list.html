@@ -8,7 +8,7 @@
         <div class="card rounded-0 hover-shadow alt-gallery-card">
           <div class="card-img position-relative">
             {{ range .Image }}
-            <img class="card-img-top rounded-0" src="{{ .url }}" height="100px">
+            <img class="card-img-top rounded-0" src="{{ .thumbnails.large.url }}" height="100px">
             {{ end }}
           </div>
           <div class="card-body">
