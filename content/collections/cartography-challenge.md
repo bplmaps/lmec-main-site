@@ -21,17 +21,15 @@ There is no expectation that maps be made using a particular software or program
 
 #### The Topic: Immigration in Greater Boston
 
-Right now, the Map Center has relatively few maps that depict immigration in the Greater Boston region. Most of them are cut and dry choropleth maps that depict the density of foreign-born population in a given area. We want to 
-
-"Greater Boston" can be interpreted flexibly.
+Right now, the Map Center has relatively few maps that depict immigration in the Greater Boston region. Most of them are cut and dry choropleth maps that depict the density of foreign-born population in a given area. "Greater Boston" can be interpreted flexibly.
 
 #### The Data: 2020 American Community Survey: 5-year (2016-2020)
 
 <!-- {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/full/pct:5/0/default.jpg" alt="Boston neighborhoods by foreign-born population" caption="[This map](https://collections.leventhalmap.org/search/commonwealth:h989r707c) proportionally represents the countries of origin for foreign-born populations by neighborhood in Boston." class="figure-right" >}} -->
 
-The 2020 Census brought us a wealth of new data, including data on immigration in the US. This Cartography Challenge focuses on foreign-born population data at the Census tract level from the American Community Survey's (ACS) 5-year estimates from 2016-2020. We've done some light processing to this tabular dataset in order to clarify field names and types. 
+The 2020 Census brought us a wealth of new data, including data on immigration in the US. This Cartography Challenge focuses on foreign-born population data at the Census tract level from the American Community Survey's (ACS) 5-year estimates from 2016-2020. We've done some light processing to this tabular dataset in order to clarify field names and types.
 
-Applicants need not limit their submission to *only* this dataset, but their submission must, at minimum, include it.
+To get started with the data, [download it from our Data Portal](https://data.leventhalmap.org) for free. Applicants need not limit their submission to *only* this dataset, but their submission must, at minimum, include it.
 
 {{< figure src="/images/blog/choropleth.png" alt="A screenshot of our digital collections portal with numerous choropleth maps" caption="Our [digital collections portal](https://collections.leventhalmap.org) is bursting at the seams with choropleth maps about immigration---help us!" class="figure-right" >}}
 
