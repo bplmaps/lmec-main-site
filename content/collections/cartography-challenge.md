@@ -29,7 +29,7 @@ Right now, the Map Center has relatively few maps that depict immigration in the
 
 The 2020 Census brought us a wealth of new data, including data on immigration in the US. This Cartography Challenge focuses on foreign-born population data at the Census tract level from the American Community Survey's (ACS) 5-year estimates from 2016-2020. We've done some light processing to this tabular dataset in order to clarify field names and types.
 
-To get started with the data, [download it from our Data Portal](https://data.leventhalmap.org) for free. Applicants need not limit their submission to *only* this dataset, but their submission must, at minimum, include it.
+To get started with the data, [download it from our Data Portal](https://data.leventhalmap.org) for free. Applicants need not limit their submission to *only* this dataset, and submissions are welcome to include additional data such as Census tables, user-generated data, and . At minimum, submissions must include this one.
 
 {{< figure src="/images/blog/choropleth.png" alt="A screenshot of our digital collections portal with numerous choropleth maps" caption="Our [digital collections portal](https://collections.leventhalmap.org) is bursting at the seams with choropleth maps about immigration---help us!" class="figure-right" >}}
 
