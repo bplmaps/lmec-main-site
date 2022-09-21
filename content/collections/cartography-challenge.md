@@ -37,9 +37,11 @@ Applicants need not limit their submission to *only* this dataset, but their sub
 
 #### The Challenge: No Choropleth, No Problem
 
-In our inaugural **Cartography Challenge**, we're looking for submissions that go beyond the choropleth map. While useful for visualizing differences across space, choropleth maps can [be especially misleading when it comes to data representation](https://www.bloomberg.com/news/articles/2015-06-25/how-to-avoid-being-fooled-by-bad-maps). At the Map Center, almost all of the immigration maps in our collections represent data through choropleth maps. We need a break from them, so for now, we're putting an embargo on choropleth. (Before you ask: yes, this embargo extends to bivariate maps.)
+In our inaugural **Cartography Challenge**, we're looking for submissions that go beyond the choropleth map. While useful for visualizing differences across space, choropleth maps can [be especially misleading when it comes to data representation](https://www.bloomberg.com/news/articles/2015-06-25/how-to-avoid-being-fooled-by-bad-maps). At the Map Center, almost all of the immigration maps in our collections represent data through choropleth maps. We need a break from them, so for now, we're putting an embargo on choropleth.
 
-We want to see maps that tell a story, maps that move and that move us. We're excited about submissions that creatively and elegantly visualize the source dataset; submissions that ; and submissions that .
+Before you ask: yes, this embargo extends to [bivariate maps](https://www.axismaps.com/guide/bivariate-choropleth).
+
+We want to see maps that tell a story, maps that move and that move us. We're excited about submissions that creatively and elegantly visualize the source dataset in unexpected ways. Don't hesitate to reach out if you have any questions about what counts and what doesn't.
 
 #### Evaluation rubric
 
