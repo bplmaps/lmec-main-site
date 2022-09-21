@@ -27,9 +27,9 @@ Right now, the Map Center has relatively few maps that depict immigration in the
 
 <!-- {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/full/pct:5/0/default.jpg" alt="Boston neighborhoods by foreign-born population" caption="[This map](https://collections.leventhalmap.org/search/commonwealth:h989r707c) proportionally represents the countries of origin for foreign-born populations by neighborhood in Boston." class="figure-right" >}} -->
 
-The 2020 Census brought us a wealth of new data, including data on immigration in the US. This Cartography Challenge focuses on foreign-born population data at the Census tract level from the American Community Survey's (ACS) 5-year estimates from 2016-2020. We've done some light processing to this tabular dataset in order to clarify field names and types.
+The 2020 Census brought us a wealth of new data, including data on immigration in the US. This Cartography Challenge focuses on foreign-born population data at the Census tract level from the American Community Survey's (ACS) 5-year estimates from 2016-2020. After downloading this data from [NHGIS](https://www.nhgis.org/), we did some light processing to clarify field names and types. For the most 
 
-To get started with the data, [download it from our Data Portal](https://data.leventhalmap.org) for free. Applicants need not limit their submission to *only* this dataset, and submissions are welcome to include additional data such as Census tables, user-generated data, and . At minimum, submissions must include this one.
+To get started with the data, [download it from our Data Portal](https://data.leventhalmap.org) for free. Applicants need not limit their submission to *only* this dataset, and submissions are welcome to include additional data such as other Census tables or user-generated data. At minimum, though, submissions must include the 2016-2020 ACS 5-year estimates for foreign-born population.
 
 {{< figure src="/images/blog/choropleth.png" alt="A screenshot of our digital collections portal with numerous choropleth maps" caption="Our [digital collections portal](https://collections.leventhalmap.org) is bursting at the seams with choropleth maps about immigration---help us!" class="figure-right" >}}
 
@@ -45,10 +45,9 @@ We want to see maps that tell a story, maps that move and that move us. We're ex
 
 Submissions will be evaluated according to these five criteria:
 * **Visual creativity**. Does the submission explore ?
-* **Data creativity.** Does the submission meet 
-* **Accessibility.** Does the submission follow best practices in accessible design, e.g., accounting for colorblind and other visually-impaired map readers?
+* **Data creativity.** Does the submission meet ...
 * **Educational capacity.** Is the submission visually engaging for both young learners and for adults? Can it be fruitfully used in teaching and public education?
-* **Design quality.** Is the submission 
+* **Design.** Does the submission follow good design principles? Does the submission follow best practices in accessible design, accounting for colorblind and other visually-impaired map readers?
 
 #### Eligibility
 
