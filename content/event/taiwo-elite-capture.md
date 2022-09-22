@@ -24,8 +24,6 @@ Join the philosopher [Olúfẹ́mi O. Táíwò](http://www.olufemiotaiwo.com) fo
 
 Following the discussion, there will be an audience Q&A, and for in-person attendees, the program will conclude with an author signing facilitated by an independent community bookstore.
 
-**To register for in-person attendance**, please visit this [Eventbrite page](https://www.eventbrite.com/e/author-talk-with-olufemi-o-taiwo-on-elite-capture-tickets-419828557517).
-
 #### About the author
 
 **Olúfẹ́mi O. Táíwò** is Assistant Professor of Philosophy at Georgetown University. He is the author of _Elite Capture: How the Powerful Took Over Identity Politics (And Everything Else)_ and _Reconsidering Reparations_. His work exploring the intersections of climate justice and colonialism has been featured in _The New Yorker, The Nation, Boston Review, Dissent, The Appeal, Slate, Al Jazeera, The New Republic, Aeon_, and _Foreign Policy_.
