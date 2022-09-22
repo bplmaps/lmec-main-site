@@ -28,7 +28,7 @@ In addition to the foreign-born population dataset, submissions should include a
 
 {{< figure src="/images/blog/choropleth.png" alt="A screenshot of our digital collections portal with numerous choropleth maps" caption="Our [digital collections portal](https://collections.leventhalmap.org) is bursting at the seams with choropleth maps about immigration---help us!" class="figure-right" >}}
 
-In our inaugural **Cartography Challenge**, we're looking for submissions that go beyond the choropleth map. While useful for visualizing differences across space, choropleth maps can [be especially misleading when it comes to data representation](https://www.bloomberg.com/news/articles/2015-06-25/how-to-avoid-being-fooled-by-bad-maps).
+In our inaugural Cartography Challenge, we're looking for submissions that go beyond the choropleth map. While useful for visualizing differences across space, choropleth maps can [be especially misleading when it comes to data representation](https://www.bloomberg.com/news/articles/2015-06-25/how-to-avoid-being-fooled-by-bad-maps).
 
 At the Map Center, almost all of the immigration maps in our collections represent data through choropleth maps. We need a break from them, so for now, we're putting an embargo on the choropleth.
 
