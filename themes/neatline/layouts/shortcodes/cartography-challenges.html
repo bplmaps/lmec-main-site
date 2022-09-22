@@ -1,0 +1,29 @@
+{{ $tag := .Get "tag-filter"}}
+{{ $cycle := .Get "cycle-filter"}}
+<div class="container">
+  <div class="row mt-10">
+  {{ range $.Site.Data.cartchallenges.Challenges}}
+    {{ if or (in .Cycle $cycle) (in .Theme $tag)}}
+      <div class="col-lg-5 col-md-5 col-sm-6 mb-5 mb-lg-0 my-3">
+        <div class="card rounded-0 hover-shadow alt-gallery-card">
+          <div class="card-img position-relative">
+            {{ range .Image }}
+            <img class="card-img-top rounded-0" src="{{ .url }}" height="100px">
+            {{ end }}
+          </div>
+          <div class="card-body">
+            <h5 class="card-title"><a href="{{ .Path }}" target="_blank">{{ .Name}}</a></h5>
+            {{ range .Deadline }}
+            <span class="badge bg-success font-secondary text-white fw-normal mt-1">Open through {{ .date }}</span>
+            {{ end }}<br><br>
+            {{ range .Theme }}
+              <span class="badge badge-pill badge-info mb-1">{{.}}</span>
+            {{ end }}<br><br>
+            <a href="{{ .Path }}" target="_blank" class="btn btn-primary btn-primary-outline btn-xs mb-2"><i class="fas fa-external-link-square-alt me-2"></i> See the rules </a>
+          </div>
+        </div>
+      </div>
+    {{end}}
+  {{ end }}
+</div>
+</div>
