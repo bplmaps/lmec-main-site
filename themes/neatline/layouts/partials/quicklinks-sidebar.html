@@ -5,6 +5,8 @@
     {{ range . }}
       {{ if eq .linkType "jump" }}
       <a href="javascript:Jump('{{ .link }}',{offset:-150});"><li class="mb-2">{{ .text | markdownify }}</li></a>
+      {{ else if eq .linkType "mailto"}}
+      <a href="{{ .link }}"><li class="mb-2">{{ .text | markdownify }}</li></a>
       {{ else }}
       <a href="{{ .link | relURL }}"><li class="mb-2">{{ .text | markdownify }}</li></a>
       {{ end }}

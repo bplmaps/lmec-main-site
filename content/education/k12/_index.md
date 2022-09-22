@@ -14,8 +14,8 @@ quicklinks:
   link: education/k12/teach-it-yourself
   linkType: onsite
 - text: Contact a member of the Map Center's education team
-  link: "#reach-out"
-  linkType: jump
+  link: "mailto:education@leventhalmap.org"
+  linkType: mailto
 
 ---
 ## Maps teach many lessons
