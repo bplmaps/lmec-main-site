@@ -14,7 +14,7 @@ tags: [immigration]
 
 #### Topic: Immigration in Greater Boston
 
-Your mission is simple: create a static map that creatively visualizes immigration patterns in the Greater Boston area ("Greater Boston" can be interpreted flexibly). The Center has relatively few maps that depict immigration in the Greater Boston region, and most of them are cut and dry choropleth maps that depict density by area. In this challenge, we're excited to see submissions that creatively and elegantly visualize immigration in unexpected ways.
+Your mission is simple: create a static map that creatively visualizes immigration patterns in the Greater Boston area ("Greater Boston" can be interpreted flexibly). The Center has relatively few maps that depict immigration in the Greater Boston region, and most of them are cut and dry choropleth maps that depict density by area. In this challenge, we're excited to see submissions that move beyond the choropleth map, creatively and elegantly visualizing Boston's immigration patterns in unexpected ways.
 
 #### Data: 2020 American Community Survey: 5-year (2016-2020)
 
