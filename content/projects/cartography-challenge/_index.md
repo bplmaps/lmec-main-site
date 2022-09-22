@@ -10,7 +10,7 @@ weight: "1"
 
 Numerous times each year, the Leventhal Map & Education Center welcomes submissions to our Cartography Challenge.
 
-The rules are simple: we provide the **Topic**, the **Dataset(s)**, and the **Challenge**. Submissions should be high-resolution maps (>=300 DPI) that respond to each of these criteria. The data for each Cartography Challenge can be downloaded for free from our [Data Portal](https://data.leventhalmap.org).
+The rules are simple: we provide a **Topic** you should map, the **Dataset(s)** you should use, and a **Challenge** that is meant to introduce some generative constraints on your cartographic imagination. Submissions should be high-resolution maps (>=300 DPI) that respond to each of these criteria. The data for each Cartography Challenge can be downloaded for free from our [Data Portal](https://data.leventhalmap.org).
 
 Submissions are evaluated by a combination of Map Center staff and guest judges, according to that submission cycle's criteria. In addition to receiving a $200 honorarium and being featured in the Map Center's digital exhibition, winners will have their work formally accessioned into the Center's digital collections portal under a [Creative Commons license](https://creativecommons.org/licenses/). While we can only make one monetary award per submission cycle, we are happy to display and accession Honorary Mentions into our collections.
 
