@@ -61,10 +61,6 @@ cta:
   - badge: New acquisition
     text: An 1886 map showing communications cables laid under the Atlantic
     link: https://bpl.bibliocommons.com/v2/record/S75C8203455
-  - badge: Upcoming closure
-    text: The Map Center and all BPL locations will be closed Friday, September 23,
-      for staff development.
-    link: ''
 audiences:
   enable: true
   audienceGroups:

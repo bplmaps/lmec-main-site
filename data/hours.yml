@@ -22,9 +22,6 @@ weekly:
   open: 1 pm
   close: 5 pm
 exceptions:
-- date: September 23, 2022
-  name: Staff Development
-  special: Closed
 - date: October 10, 2022
   name: Indigenous People's Day
   special: Closed
