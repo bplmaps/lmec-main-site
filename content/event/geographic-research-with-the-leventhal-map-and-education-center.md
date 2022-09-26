@@ -4,13 +4,13 @@ title: Geographic Research with the Leventhal Map and Education Center
 date: 2022-10-06T14:00:00-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c490j/full/1200,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c490j/full/1200,/0/default.jpg
-location: Central Library, Rabb Hall
+location: Central Library, Rabb Lecture Hall
 fee: Free
 registration: https://bpl.bibliocommons.com/events/6331c26b9754ac7dbf6fcfea
 tags: []
-draft: true
 
 ---
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized as part of the BPL Never Too Late programming.{{< /alert-box >}}
 
 ### About this event
 
