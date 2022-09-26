@@ -36,8 +36,6 @@ In this challenge, we're excited to see submissions that move beyond the choropl
 
 The [BPDA's "word cloud" map](https://collections.leventhalmap.org/search/commonwealth:h989r707c) of immigration across Boston's neighborhoods is a great example of a non-choropleth map that meets a lot of our criteria: it contains {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/1808,3548,1467,1157/full/0/default.jpg" class=popupTooltip target="blank">}}detailed and easy-to-read information,{{</popup>}} {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/972,793,3437,3883/full/0/default.jpg" class="popupTooltip" target="blank">}}vibrant, nicely contrasting colors,{{</popup>}} and a {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/2517,4631,2531,1284/full/0/default.jpg" class="popupTooltip" target="blank">}}graph providing further context.{{</popup>}}
 
-Other examples, 
-
 ## Evaluation
 
 #### Rubric & Application
