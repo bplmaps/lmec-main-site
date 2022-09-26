@@ -10,7 +10,7 @@ registration: https://bpl.bibliocommons.com/events/6331c26b9754ac7dbf6fcfea
 tags: []
 
 ---
-{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized as part of the BPL Never Too Late programming.{{< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized as part of the [BPL Never Too Late](https://www.bpl.org/never-too-late/) programming.{{< /alert-box >}}
 
 ### About this event
 
