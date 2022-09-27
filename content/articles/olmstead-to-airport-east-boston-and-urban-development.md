@@ -11,7 +11,7 @@ backgroundImage: https://collections.leventhalmap.org/search/commonwealth:3f4634
 draft: true
 
 ---
-#### Parks and Ports
+#### Airports and Parks
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161922w/full/full/0/default.jpg" caption="East Boston 1906" class="figure-right">}}
 
@@ -33,4 +33,4 @@ While Wood Island Park is no more, several parks now surround the airport to act
 
 The demographics of East Boston have shifted - it is now a predominately Latino community - but continues to face many of the same challenges today. Organizations like [Greenroots ](http://www.greenrootschelsea.org/news/2019/11/4/east-boston-and-power-an-environmental-justice-community-in-transition)have organized to address these Environmental Justice issues like access to clean air, water, and recreational space.
 
-\[^1\]: From Dorothy Nelkin's [Jetport: The Boston Airport Controversy](https://bpl.bibliocommons.com/v2/record/S75C3602554)
+\[1\]: From Dorothy Nelkin's [Jetport: The Boston Airport Controversy](https://bpl.bibliocommons.com/v2/record/S75C3602554)
