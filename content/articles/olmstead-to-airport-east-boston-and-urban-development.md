@@ -10,4 +10,4 @@ backgroundImage: ''
 draft: true
 
 ---
-Though now dominated by the Boston Logan Airport, the landscape of East Boston was once comprised of
+Though now dominated by the Boston Logan Airport, the landscape of East Boston was once comprised of marshes, coastlines, views of the harbor islands, and a few notable parks—including a park designed by [Frederick Law Olmsted](https://olmsted200.org/frederick-law-olmsted/), the “founder of landscape architecture.” In addition to the chain of Emerald Necklace parks, Olmsted designed his largest neighborhood park, Wood Island Park, in East Boston. 
