@@ -24,7 +24,7 @@ In 1923, a military [airfield](https://www.bostonmagazine.com/travel/2018/11/06/
 
 Loss of park space wasn't the only concern of East Boston residents. As airplanes landed and took off within miles of their homes, the sounds and fumes of jet engines would inundate their communities. Community members sought to address issues of encroachment and pollution but complaints were often met with little response from Massport, the entity tasked with constructing the airport. Homes, and eventually streets, that were located too close to the airport were bought out. Following close behind Wood Island Park was the removal of Neptune Road and the surrounding streets. Other construction projects like the East Boston expressway also brought more noise to East Boston. 
 
-{{< figure src= "link" caption="caption">}}
+{{< figure src= "https://s3.us-east-2.wasabisys.com/lmec-public-files/exhibitions/more-or-less-in-common/dot-noise.jpg" caption="caption">}}
 
 In Boston today, noise pollution from the airport disproportionately affects East Boston and Chelsea. Particulate pollution is also of concern among the residents, as well as [the storage of jet fuel](). 
 
