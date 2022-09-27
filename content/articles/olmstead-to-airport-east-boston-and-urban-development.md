@@ -2,7 +2,7 @@
 date: 2022-09-24T12:31:39-04:00
 title: 'Olmsted to Airport: East Boston and Urban Development'
 description: East Boston was once home to Fredrick Law Olmsted's largest neighborhood
-  park, now its home to Logan Airport
+  park, now it contains Logan Airport.
 image: https://collections.leventhalmap.org/search/commonwealth:3f4634491
 author: Ezra Acevedo
 tags: []
