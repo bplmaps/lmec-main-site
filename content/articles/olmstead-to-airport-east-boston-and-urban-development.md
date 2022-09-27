@@ -22,7 +22,7 @@ In 1923, a military [airfield](https://www.bostonmagazine.com/travel/2018/11/06/
 
 Too Much Noise
 
-Loss of park space wasn't the only concern of East Boston residents. As airplanes landed and took off within miles of their homes, the sounds and fumes of jet engines would inundate their communities. Community members sought to address issues of encroachment and pollution but complaints were often met with little response from Massport, the authority tasked with constructing the airport. Homes, and eventually streets, that were located too close to the airport were bought out. Following close behind Wood Island Park was the removal of Neptune Road and the surrounding streets. Other construction projects like the East Boston expressway also brought more noise to East Boston.
+Loss of park space wasn't the only concern of East Boston residents. As airplanes landed and took off within miles of their homes, the sounds and fumes of jet engines would inundate their communities. Community members sought to address issues of encroachment and pollution but complaints were often met with little response from Massport, the authority tasked with constructing the airport. Homes, and eventually streets, that were located too close to the airport were bought out. Following close behind Wood Island Park was the removal of Neptune Road {{< popup src="link" target="blank" >}}and the surrounding streets. Other construction projects like the East Boston expressway also brought more noise to East Boston.
 
 {{< figure src= "https://s3.us-east-2.wasabisys.com/lmec-public-files/exhibitions/more-or-less-in-common/dot-noise.jpg" caption="caption">}}
 
