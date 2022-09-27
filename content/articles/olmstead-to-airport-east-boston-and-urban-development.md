@@ -10,4 +10,22 @@ backgroundImage: ''
 draft: true
 
 ---
-Though now dominated by the Boston Logan Airport, the landscape of East Boston was once comprised of marshes, coastlines, views of the harbor islands, and a few notable parks—including a park designed by [Frederick Law Olmsted](https://olmsted200.org/frederick-law-olmsted/), the “founder of landscape architecture.” In addition to the chain of Emerald Necklace parks, Olmsted designed his largest neighborhood park, Wood Island Park, in East Boston. 
+Though now dominated by the Boston Logan Airport, the landscape of East Boston was once comprised of marshes, coastlines, views of the harbor islands, and a few notable parks—including a park designed by [Frederick Law Olmsted](https://olmsted200.org/frederick-law-olmsted/), the “founder of landscape architecture.” In addition to the chain of Emerald Necklace parks, Olmsted designed his largest neighborhood park, {{< popup src= "link" target="blank" >}} Wood Island Park {{</popup>}} in East Boston. Located in one of Boston’s more isolated neighborhoods, Wood Island Park provided important recreational space for the growing working class community, including a forested landscape, sports fields, and access to the water. The space was greatly appreciated by its residents, but during the construction of Logan Airport, Wood Island Park was destroyed. 
+
+The Airport
+
+In 1923, a military [airfield](https://www.bostonmagazine.com/travel/2018/11/06/logan-airport-east-boston/) opened in East Boston, and by 1929, was bought by the city and transitioned to passenger travel. Demand for air travel increased over the following decade, and in the 1940s, federal funds were earmarked for its expansion. The initial Airport was built on landfill, away from the community of East Boston. During the 1950s, the airport was expanded into Boston Harbor using more landfill to build up shallow areas between Governors Island and Bird island. As the airport grew, it encroached onto the existing neighborhoods. Continued expansions were met with resistance from the surrounding community of majority working-class Italian-Americans. Frustration grew significantly as further expansion cleared 70 acres of recreation space, including Wood Island Park in 1967. The airport was even likened to an octopus, sprawling across their community, taking up houses, parks and the like. Their complaints were seldom addressed, and promises to replace Wood Island Park’s recreational facilities were continuously deferred
+
+3. Too Much Noise
+
+Loss of park space wasn't the only concern of East Boston residents. As airplanes landed and took off within miles of their homes, the sounds and fumes of jet engines would inundate their communities. Community members sought to address issues of encroachment and pollution but complaints were often met with little response from Massport, the entity tasked with constructing the airport. Homes, and eventually streets, that were located too close to the airport were bought out. Following close behind Wood Island Park was the removal of Neptune Road and the surrounding streets.
+
+Other construction projects like the East Boston expressway also brought more noise to East Boston. 
+
+In Boston today, noise pollution from the airport disproportionately affects East Boston and Chelsea. Particulate pollution is also of concern among the residents, as well as the storage of jet fuel \[link\]. 
+
+4. Greenroots
+
+While Wood Island Park is no more, several parks now surround the airport to act as buffer zones between the airport and affected neighborhoods. East Boston Memorial Park and Bremen Street Community Park provide important space for recreation, including playgrounds, sports fields, walking paths, community gardens and a branch of the Boston Public Library. But noise from the airport, the highway, and the blue line linger over the beautiful green space. 
+
+The demographics of East Boston have shifted - it is now a predominately Latino community - but continues to face many of the same challenges today. Organizations like Greenroots have organized to address these Environmental Justice issues like access to clean air, water, and recreational space.
