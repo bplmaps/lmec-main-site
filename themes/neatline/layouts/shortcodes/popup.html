@@ -1,4 +1,4 @@
 {{ $unique_id := now.UnixNano }}
 
-<span id="popup-anchor-{{ $unique_id }}" href="{{ .Get `src`}}" class="popupTooltip">
+<span id="popup-anchor-{{ $unique_id }}" href="{{ .Get `src` | plainify }}" class="popupTooltip">
   <i class="fas fa-binoculars me-2"></i>{{.Inner}}</span>
