@@ -19,7 +19,7 @@ Though now dominated by the Boston Logan Airport, the landscape of East Boston w
 
 {{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956m05w/full/full/0/default.jpg" caption="Preliminary Plan for Wood Island Park">}}
 
-{{<figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nz40b/full/full/0/default.jpg" caption = "1925 Photo of Airfield">}}
+{{<figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nz40b/full/full/0/default.jpg" caption= "1925 Photo of Airfield">}}
 
 In 1923, a military [airfield](https://www.bostonmagazine.com/travel/2018/11/06/logan-airport-east-boston/) opened in East Boston, and by 1929, was bought by the city and transitioned to passenger travel. Demand for air travel increased over the following decade, and in the 1940s, federal funds were earmarked for its expansion. The initial airport was built on landfill, away from the community of East Boston. During the 1950s, the airport was expanded into Boston Harbor using more landfill to build up shallow areas {{<popup src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj472/4376,727,4621,3293/full/0/default.jpg" target="blank" >}} between Governors Island and Bird island {{</popup>}}. As Logan Airport grew, it encroached onto the existing neighborhoods. Continued expansions were met with resistance from the surrounding community of majority working-class Italian-Americans. Frustration grew significantly as further expansion cleared 70 acres of recreation space, including Wood Island Park in 1967. The airport was even likened to an octopus, sprawling across their community, taking up houses, parks and the like. Their complaints were seldom addressed, and promises to replace Wood Island Park’s recreational facilities were continuously deferred.
 
@@ -35,4 +35,4 @@ While Wood Island Park is no more, several parks now surround the airport to act
 
 The demographics of East Boston have shifted - it is now a predominately Latino community - but continues to face many of the same challenges today. Organizations like [Greenroots ](http://www.greenrootschelsea.org/news/2019/11/4/east-boston-and-power-an-environmental-justice-community-in-transition)have organized to address these Environmental Justice issues like access to clean air, water, and recreational space.
 
-  From Dorothy Nelkin's [Jetport: The Boston Airport Controversy](https://bpl.bibliocommons.com/v2/record/S75C3602554)
+From Dorothy Nelkin's [Jetport: The Boston Airport Controversy](https://bpl.bibliocommons.com/v2/record/S75C3602554)
