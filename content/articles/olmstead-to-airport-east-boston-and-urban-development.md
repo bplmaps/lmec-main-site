@@ -3,11 +3,11 @@ date: 2022-09-24T12:31:39-04:00
 title: 'Olmsted to Airport: East Boston and Urban Development'
 description: East Boston was once home to Fredrick Law Olmsted's largest neighborhood
   park, now it contains Logan Airport.
-image: https://collections.leventhalmap.org/search/commonwealth:3f4634491
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463450s/full/full/0/default.jpg
 author: Ezra Acevedo
 tags:
 - exhibition
-backgroundImage: https://collections.leventhalmap.org/search/commonwealth:3f4634491
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463450s/full/full/0/default.jpg
 draft: true
 
 ---
@@ -15,7 +15,7 @@ draft: true
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161922w/full/full/0/default.jpg" caption="East Boston 1906" class="figure-right">}}
 
-Though now dominated by the Boston Logan Airport, the landscape of East Boston was once comprised of marshes, coastlines, views of the harbor islands, and a few notable parks—including a park designed by [Fredrick Law Olmsted](https://olmsted200.org/frederick-law-olmsted/), the “founder of landscape architecture.” In addition to the chain of Emerald Necklace parks, Olmsted designed his largest neighborhood park, {{< popup src= "https://"iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161922w/3620,4656,1524,931/full/0/default.jpg" target="blank" >}} Wood Island Park {{</popup>}} in East Boston. Located in one of Boston’s more isolated neighborhoods, Wood Island Park provided important recreational space for the growing working class community, including a forested landscape, sports fields, and access to the water. The space was greatly appreciated by its residents, but during the construction of Logan Airport, Wood Island Park was destroyed.
+Though now dominated by the Boston Logan Airport, the landscape of East Boston was once comprised of marshes, coastlines, views of the harbor islands, and a few notable parks—including a park designed by [Fredrick Law Olmsted](https://olmsted200.org/frederick-law-olmsted/), the “founder of landscape architecture.” In addition to the chain of Emerald Necklace parks, Olmsted designed his largest neighborhood park, {{< popup src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161922w/3620,4656,1524,931/full/0/default.jpg" target="blank" >}} Wood Island Park {{</popup>}} in East Boston. Located in one of Boston’s more isolated neighborhoods, Wood Island Park provided important recreational space for the growing working class community, including a forested landscape, sports fields, and access to the water. The space was greatly appreciated by its residents, but during the construction of Logan Airport, Wood Island Park was destroyed.
 
 {{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956m04m/full/full/0/default.jpg" caption="Preliminary Plan for Wood Island Park">}}
 
@@ -36,5 +36,3 @@ While Wood Island Park is no more, several parks now surround the airport to act
 The demographics of East Boston have shifted - it is now a predominately Latino community - but continues to face many of the same challenges today. Organizations like [Greenroots ](http://www.greenrootschelsea.org/news/2019/11/4/east-boston-and-power-an-environmental-justice-community-in-transition)have organized to address these Environmental Justice issues like access to clean air, water, and recreational space.
 
 \[^1\]: From Dorothy Nelkin's [Jetport: The Boston Airport Controversy](https://bpl.bibliocommons.com/v2/record/S75C3602554)
-
-x
