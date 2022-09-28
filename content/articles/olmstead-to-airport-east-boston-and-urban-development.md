@@ -35,7 +35,9 @@ In Boston today, noise pollution from the airport disproportionately affects Eas
 
 While Wood Island Park is no more, several parks now surround the airport to act as buffer zones between the airport and affected neighborhoods. East Boston Memorial Park and Bremen Street Community Park provide important space for recreation, including playgrounds, sports fields, walking paths, community gardens and a branch of the Boston Public Library. But noise from the airport, the highway, and the MBTA's Blue Line linger over the beautiful green space.
 
-The demographics of East Boston have shifted - it is now a predominately Latino community - but it continues to face many of the same challenges today. Organizations like [Greenroots ](http://www.greenrootschelsea.org)have worked to address these Environmental Justice issues like access to clean air, water, and recreational space. 
- 
-Learn more about East Boston and the work that Greenroots engages in [here.](http://www.greenrootschelsea.org/news/2019/11/4/east-boston-and-power-an-environmental-justice-community-in-transition)
+The demographics of East Boston have shifted - it is now a predominately Latino community - but it continues to face many of the same challenges today. Organizations like [Greenroots ](http://www.greenrootschelsea.org)have worked to address these Environmental Justice issues like access to clean air, water, and recreational space.
+
+> Learn more about East Boston and the work that Greenroots engages in [here.](http://www.greenrootschelsea.org/news/2019/11/4/east-boston-and-power-an-environmental-justice-community-in-transition)
+
+
 [^1]: From Dorothy Nelkin's [Jetport: The Boston Airport Controversy](https://bpl.bibliocommons.com/v2/record/S75C3602554)
