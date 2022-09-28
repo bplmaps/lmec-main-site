@@ -5,9 +5,10 @@ date: 2022-10-07T14:00:00-04:00
 image: ''
 backgroundImage: ''
 location: Leventhal Map and Education Center, Learning Center
-fee: ''
+fee: Free
 registration: ''
-tags: []
+tags:
+- Collections
 draft: true
 
 ---
