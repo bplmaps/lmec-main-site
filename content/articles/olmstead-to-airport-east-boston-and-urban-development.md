@@ -8,7 +8,6 @@ author: Ezra Acevedo
 tags:
 - exhibition
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463450s/full/full/0/default.jpg
-draft: true
 
 ---
 #### Olmsted's Parks
