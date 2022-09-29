@@ -41,4 +41,4 @@ The demographics of East Boston have shifted - it is now a predominately Latino 
 > Learn more about East Boston and the work that GreenRoots engages in [here](http://www.greenrootschelsea.org/news/2019/11/4/east-boston-and-power-an-environmental-justice-community-in-transition).
 
 
-[^1]: From Dorothy Nelkin's [Jetport: The Boston Airport Controversy](https://bpl.bibliocommons.com/v2/record/S75C3602554)
+[^1]: From Dorothy Nelkin's [_Jetport: The Boston Airport Controversy_](https://bpl.bibliocommons.com/v2/record/S75C3602554)
