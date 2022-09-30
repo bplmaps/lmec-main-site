@@ -1,7 +1,7 @@
 ---
-publishDate: 2022-09-08T09:50:00-04:00
+publishDate: 2022-09-08T09:50:00.000-04:00
 title: 'The Challenges of Communicating Climate Risk: A Conversation Across Cities'
-date: 2022-09-29T16:00:00-04:00
+date: 2022-09-29T16:00:00.000-04:00
 image: "/images/events/CPW-CommClimateRisk.png"
 backgroundImage: "/images/events/CPW-CommClimateRisk.png"
 location: Online
@@ -11,6 +11,10 @@ tags:
 - Exhibition
 
 ---
+### Event video 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5-XbUBN63Ks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### About this event
 
 As part of [Climate Prep Week 2022](https://www.climatecrew.org/climate_prep_week_2022?locale=en), the [Rice University Fondren Library Green Team](https://library.rice.edu/) and the Leventhal Map & Education Center present a conversation about the challenges of communicating climate risks and impacts in two different geographic contexts. Rice professor and Houston-based author Lacy M. Johnson will discuss her new book, [_More City Than Water: A Houston Flood Atlas_](https://utpress.utexas.edu/9781477325001/), and the process of working with graphic designers to produce maps that document Hurricane Harvey’s impact on Houston. Based in Boston, Zoe Davis works for the City of Boston as a Climate Resilience Project Manager on the [Climate Ready Boston](https://www.boston.gov/departments/environment/preparing-climate-change) team, which informs local climate planning and helps residents visualize and prepare for the impacts of future climate risks. The conversation will help explore what’s at stake when communicating about climate change, whether as a historical record of a past disaster or as part of future-focused public policy.
