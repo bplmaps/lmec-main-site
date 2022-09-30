@@ -61,6 +61,10 @@ cta:
   - badge: New acquisition
     text: An 1886 map showing communications cables laid under the Atlantic
     link: https://bpl.bibliocommons.com/v2/record/S75C8203455
+  - badge: Upcoming closure
+    text: The Map Center and all BPL locations will be closed on Monday, October 10th
+      in observance of Indigenous Peoples' Day
+    link: ''
 audiences:
   enable: true
   audienceGroups:
@@ -158,5 +162,5 @@ upcomingLivestream:
   embedLink: <iframe width="560" height="315" src="https://www.youtube.com/embed/5-XbUBN63Ks"
     title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
     encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  startTime: 2022-09-29T15:55:00-04:00
-  endTime: 2022-09-29T17:05:00-04:00
+  startTime: 2022-09-29T15:55:00.000-04:00
+  endTime: 2022-09-29T17:05:00.000-04:00
