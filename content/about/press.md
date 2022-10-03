@@ -16,6 +16,8 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 ## Recent Press
 
+[Fenway News - _BPL Exhibit Explores How Maps Can Reveal Political, Social, and Environmental Meaning_](https://fenwaynews.org/wp-content/uploads/2022/09/Fenway-News_OCT-2022_web.pdf)
+
 [The Boston Globe - _We Need Rain: Drought threatens the very foundation of some Boston buildings_](https://www.bostonglobe.com/2022/09/03/science/we-need-rain-drought-threatens-very-foundation-some-boston-buildings/)
 
 [The Boston Globe - _When Boston gave America some sugar_](https://www.bostonglobe.com/2022/02/12/opinion/when-boston-gave-america-some-sugar/)
