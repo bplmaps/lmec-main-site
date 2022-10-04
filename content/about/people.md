@@ -62,6 +62,7 @@ Robert M. Melzer
 
 Charles Cooney, _ex officio_  
 Diana Greenwald  
+Matthew J. Kiefer  
 Alex Krieger  
 Sierra Laddusaw  
 Miriam Olivares  
@@ -72,7 +73,8 @@ Sarah Williams
 
 ### Education Committee
 
-Faroqua Abuzeit  
+Natacha Scott, _Chair  
+_Faroqua Abuzeit  
 Ashlyn Crossfield  
 Natalia Cuadra-Saez  
 Dr. Marcos Luna
