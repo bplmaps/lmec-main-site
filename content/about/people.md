@@ -73,8 +73,11 @@ Sarah Williams
 
 ### Education Committee
 
-Natacha Scott, _Chair  
-_Faroqua Abuzeit  
+Faroqua Abuzeit  
+Michael G. Contompasis  
 Ashlyn Crossfield  
 Natalia Cuadra-Saez  
-Dr. Marcos Luna
+Khurram Jamil  
+Dr. Marcos Luna  
+Oscar Santos  
+Natacha Scott, _Chair_
