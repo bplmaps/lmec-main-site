@@ -22,8 +22,7 @@ title="Small Bites 2022-2023: Map Center Teacher Social"
 subtitle="Thursday, September 22, 2022, 3:00-5:30 pm"
 description="Come by any time between 3:00 and 5:30 pm for free maps for your classroom, snacks, good conversation, and an introduction to all the Leventhal Map & Education Center has to offer for students and educators. Take advantage of our print-a-map offer: choose a map from the thousands in our digital collection to have us print on our large format printer for the wall of your classroom. We hope to see you there!"
 signUpLink="https://www.eventbrite.com/e/small-bites-2022-2023-map-center-teacher-social-tickets-407642498687"
-
-> }}
+>}}
 
 {{< pd-listing
 image="https://membership.digitalcommonwealth.org/resources/Pictures/maptivists%20image.jpg"
@@ -32,11 +31,11 @@ subtitle="Wed Sep 28 2022, 3:00-4:30 PM ET;  Register by Tuesday, September 27"
 description="Educators from the [Norman B. Leventhal Map & Education Center](https://www.leventhalmap.org/) at the Boston Public Library will discuss [“Activism in Boston Over Time,”](https://www.digitalcommonwealth.org/for_educators/primary_source_sets/activism_in_boston_over_time) a new primary source set and an accompanying lesson they created for Digital Commonwealth. In this lesson, students use maps, photos and other resources to construct a narrative of how different locations in Boston changed over time and the role of activism in the change. This lesson can serve as a model for any educators across the Commonwealth considering how to teach about the role of citizen action in their local communities. <br><br>This workshop is designed for K-12 educators but anyone interested in this topic is invited to participate. Come prepared to participate as we'll be trying out the lesson together!"
 signUpLink="https://membership.digitalcommonwealth.org/event-4863384"
 
-> }}
+>}}
 
-{{< pd-listing image="/uploads/2021-09-17/screen-shot-2021-09-17-at-10-28-11-am.png" title="Small Bites 2022-2023: Environmental Justice and Activism Resource Sharing" subtitle="Tuesday, October 25, 2022, 3:30-4:30 pm" description="The Leventhal Map & Education Center and the Tsongas Industrial History Center co-present a follow-up to their July teacher workshop focused around teaching environmental justice and activism with case studies from eastern Massachusetts – past and present. In this one-hour session, we will share resources, key lessons, and ideas for teaching this broad topic at a local level." signUpLink="[https://www.eventbrite.com/e/small-bites-2022-2023-environmental-justice-and-activism-resource-sharing-tickets-416100296187](https://www.eventbrite.com/e/small-bites-2022-2023-environmental-justice-and-activism-resource-sharing-tickets-416100296187 "https://www.eventbrite.com/e/small-bites-2022-2023-environmental-justice-and-activism-resource-sharing-tickets-416100296187")"
+{{< pd-listing image="/uploads/2021-09-17/screen-shot-2021-09-17-at-10-28-11-am.png" title="Small Bites 2022-2023: Environmental Justice and Activism Resource Sharing" subtitle="Tuesday, October 25, 2022, 3:30-4:30 pm" description="The Leventhal Map & Education Center and the Tsongas Industrial History Center co-present a follow-up to their July teacher workshop focused around teaching environmental justice and activism with case studies from eastern Massachusetts – past and present. In this one-hour session, we will share resources, key lessons, and ideas for teaching this broad topic at a local level." signUpLink="https://www.eventbrite.com/e/small-bites-2022-2023-environmental-justice-and-activism-resource-sharing-tickets-416100296187"
 
-> }}
+>}}
 
 {{< alert-box type="warning" title="Online Professional Development Opportunity" icon="fas fa-laptop-house">}}
 
