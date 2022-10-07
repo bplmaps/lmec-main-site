@@ -48,8 +48,8 @@ cta:
   enable: true
   announcements:
   - badge: Fellowships and research support
-    text: We’ve just opened two new programs to support researchers and designers
-      working on geography and cartography
+    text: Two new programs to support researchers and designers working on geography
+      and cartography
     link: https://www.leventhalmap.org/research/fellowships/
   - badge: On display
     text: '"More or Less in Common: Environment and Justice in the Human Landscape"
@@ -58,9 +58,6 @@ cta:
   - badge: Digital exhibition
     text: Browse the accompanying digital exhibition for "More or Less in Common"
     link: https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/
-  - badge: New acquisition
-    text: An 1886 map showing communications cables laid under the Atlantic
-    link: https://bpl.bibliocommons.com/v2/record/S75C8203455
   - badge: Upcoming closure
     text: The Map Center and all BPL locations will be closed on Monday, October 10th
       in observance of Indigenous Peoples' Day
