@@ -24,7 +24,7 @@ Join us for an opening to this pop-up exhibition, which will feature a talk from
 
 ![](https://freight.cargo.site/w/2400/q/75/i/1e1945328c393d3bacbd7d872bb7397c5e61daa5bc08fba0bef6b1306a53b164/SISS4984.jpg)
 
-{{< figure src="" caption="[East Boston in 1906](https://collections.leventhalmap.org/search/commonwealth:9s161921m), prior to the airport" class="figure-right">}}
+##### About Soft City and just practice
 
 According to the artists,
 
