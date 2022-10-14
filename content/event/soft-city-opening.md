@@ -14,6 +14,8 @@ draft: true
 ---
 The Leventhal Map & Education Center is excited to present a pop-up exhibition as part of _More or Less in Common_, which features _Soft City_, the work of local design collaborative [**_just practice_**](https://justpractice.work/), which was started by [Amanda Ugorji](https://architecture.mit.edu/people/amanda-ugorji) and [Sophie Weston Chien](https://sophiewestonchien.com/about). Soft City will be on display in the Map Center's gallery from December 1 to December 28.
 
+Join us for an opening to this pop-up exhibition, which will feature a talk from both the artists and a tour of the gallery. 
+
 ##### Opening Event Schedule:
 
 **5:30 pm - 6:30 pm:** Appetizers & Refreshments in the Newsfeed Café
