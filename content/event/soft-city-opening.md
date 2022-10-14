@@ -22,6 +22,8 @@ Join us for an opening to this pop-up exhibition, which will feature a talk from
 
 **6:30 pm - 7:30 pm:** Artists' talk in the Map Center Gallery
 
+##### More on _Soft City_ 
+
 {{< figure src="/uploads/2022-10-14/siss4984.jpeg" caption="" class="figure-right" >}}
 
 According to the artists,
