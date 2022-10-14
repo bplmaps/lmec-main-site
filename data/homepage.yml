@@ -58,10 +58,6 @@ cta:
   - badge: Digital exhibition
     text: Browse the accompanying digital exhibition for "More or Less in Common"
     link: https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/
-  - badge: Upcoming closure
-    text: The Map Center and all BPL locations will be closed on Monday, October 10th
-      in observance of Indigenous Peoples' Day
-    link: ''
 audiences:
   enable: true
   audienceGroups:
