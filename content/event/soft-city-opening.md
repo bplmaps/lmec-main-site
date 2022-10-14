@@ -16,15 +16,13 @@ The Leventhal Map & Education Center is excited to present a pop-up exhibition a
 
 Join us for an opening to this pop-up exhibition, which will feature a talk from both the artists and a tour of the gallery.
 
-##### Opening Event Schedule:
+##### Opening Reception Schedule:
 
 **5:30 pm - 6:30 pm:** Appetizers & Refreshments in the Newsfeed Café
 
 **6:30 pm - 7:30 pm:** Artists' talk in the Map Center Gallery
 
-![](https://freight.cargo.site/w/2400/q/75/i/1e1945328c393d3bacbd7d872bb7397c5e61daa5bc08fba0bef6b1306a53b164/SISS4984.jpg)
-
-##### About Soft City and just practice
+{{< figure src="/uploads/2022-10-14/siss4984.jpeg" caption="" class="figure-right" >}}
 
 According to the artists,
 
