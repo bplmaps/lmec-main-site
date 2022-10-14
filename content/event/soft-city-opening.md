@@ -12,7 +12,7 @@ tags:
 draft: true
 
 ---
-Join us for an evening reception to celebrate the opening of _Soft City_, a pop-up exhibition by local design collaborative [**_just practice _**](https://justpractice.work/)
+Join us for an evening reception to celebrate the opening of _Soft City_, a pop-up exhibition by [Amanda Ugorji](https://architecture.mit.edu/people/amanda-ugorji) and [Sophie Weston Chien](https://sophiewestonchien.com/about) of the local design collaborative [**_just practice_**](https://justpractice.work/)_._ 
 
 The Leventhal Map & Education Center is excited to present a pop-up exhibition as part of _More or Less in Common_, which features _Soft City_, the work of local design collaborative [**_just practice_**](https://justpractice.work/) by [Amanda Ugorji](https://architecture.mit.edu/people/amanda-ugorji) and [Sophie Weston Chien](https://sophiewestonchien.com/about). 
 
