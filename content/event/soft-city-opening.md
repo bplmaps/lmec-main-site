@@ -2,7 +2,7 @@
 publishDate: 2022-10-14T15:15:01-04:00
 title: '"Soft City" Opening'
 date: 2022-12-01T18:00:00-05:00
-image: https://freight.cargo.site/w/2400/q/75/i/1e1945328c393d3bacbd7d872bb7397c5e61daa5bc08fba0bef6b1306a53b164/SISS4984.jpg
+image: https://freight.cargo.site/w/1500/q/75/i/37f137ce98079eca8e9b566083745510055ed81bdeed2bb143bd3d5c693018c9/SISS4994_LOW-RES_CROP.jpg
 backgroundImage: https://freight.cargo.site/w/2500/q/75/i/b989335f4c671c5ae23bba9d1af731d33c953ac956a018293762a6c35228aa76/VERY-LARGE-ALL-THREE-1-copy.jpg
 location: Leventhal Map & Education Center
 fee: Free
@@ -12,19 +12,21 @@ tags:
 draft: true
 
 ---
-The Leventhal Map & Education Center is excited to present a pop-up exhibition as part of _More or Less in Common_, which features _Soft City_, the work of local design collaborative [**_just practice_**](https://justpractice.work/), which was started by [Amanda Ugorji](https://architecture.mit.edu/people/amanda-ugorji) and [Sophie Weston Chien](https://sophiewestonchien.com/about). Soft City will be on display in the Map Center's gallery from December 1 to December 28. 
+The Leventhal Map & Education Center is excited to present a pop-up exhibition as part of _More or Less in Common_, which features _Soft City_, the work of local design collaborative [**_just practice_**](https://justpractice.work/), which was started by [Amanda Ugorji](https://architecture.mit.edu/people/amanda-ugorji) and [Sophie Weston Chien](https://sophiewestonchien.com/about). Soft City will be on display in the Map Center's gallery from December 1 to December 28.
+
+##### Opening Event Schedule:
+
+**5:30 pm - 6:30 pm:** Appetizers & Refreshments in the Newsfeed Café
+
+**6:30 pm - 7:30 pm:** Artists' talk in the Map Center Gallery
+
+![](https://freight.cargo.site/w/2400/q/75/i/1e1945328c393d3bacbd7d872bb7397c5e61daa5bc08fba0bef6b1306a53b164/SISS4984.jpg)
 
 According to the artists,
 
 > "_Soft City_ is a large-scale textile series that maps the urban fabric of Black neighborhoods in the Boston area. The tapestries map historic (redlined) and contemporary Black neighborhoods, including Roxbury, Dorchester, and East Cambridge. The information mapped tells the story of the past, present and future of Black residents, and the ecological resilience of the neighborhoods they live in. Hard (impervious) and soft (pervious) land uses are codified using colors with overlays of Black residents and flood zones on the tapestries. The softness and materiality of tufting interrogates the traditional top-down approach to space planning and management in the city and offers new tactile ways to explore our understanding of urban space, at all ages."
 
-just practice spans architecture, landscape architecture, urban planning, textile, and graphic design, as well as activist and organizing work within the design field. We think about modes of practice, the spatialization of memory, Black feminist practices, the historical role of women in architecture, and strategies for collective care. They have exhibited has had the honor of being exhibited at Yale in [No White Walls](http://nowhitewalls.yaleschoolofart.org/), the MIT [Rotch Library](https://libraries.mit.edu/exhibits/Rotch-Library/), and the [Boston Society of Architects Gallery](https://www.architects.org/exhibitions/now-what-advocacy-activism-alliances-in-american-architecture-since-1968), as well as the Yale School of Art E.I.K. Gallery and individually in Fairbanks, AK, Providence, RI, and Rome, Italy. 
-
-##### Event Schedule:
-
-**5:30 pm - 6:30 pm:** Appetizers & Refreshments in the Newsfeed Café
-
-**6:30 pm - 7:30 pm:** Artists' talk in the Map Center Gallery 
+just practice spans architecture, landscape architecture, urban planning, textile, and graphic design, as well as activist and organizing work within the design field. We think about modes of practice, the spatialization of memory, Black feminist practices, the historical role of women in architecture, and strategies for collective care. They have exhibited has had the honor of being exhibited at Yale in [No White Walls](http://nowhitewalls.yaleschoolofart.org/), the MIT [Rotch Library](https://libraries.mit.edu/exhibits/Rotch-Library/), and the [Boston Society of Architects Gallery](https://www.architects.org/exhibitions/now-what-advocacy-activism-alliances-in-american-architecture-since-1968), as well as the Yale School of Art E.I.K. Gallery and individually in Fairbanks, AK, Providence, RI, and Rome, Italy.
 
 ##### Artist Bios:
 
