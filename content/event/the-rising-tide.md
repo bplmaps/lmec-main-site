@@ -6,6 +6,7 @@ image: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ns066w80d/283,9
 backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ns066w80d/283,953,4638,2516/,1200/0/default.jpg"
 location: Central Library in Copley Square
 fee: Free
+draft: true
 registration: 
 tags:
 - Exhibition
