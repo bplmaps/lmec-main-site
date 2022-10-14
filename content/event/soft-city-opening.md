@@ -14,7 +14,7 @@ draft: true
 ---
 The Leventhal Map & Education Center is excited to present a pop-up exhibition as part of _More or Less in Common_, which features _Soft City_, the work of local design collaborative [**_just practice_**](https://justpractice.work/), which was started by [Amanda Ugorji](https://architecture.mit.edu/people/amanda-ugorji) and [Sophie Weston Chien](https://sophiewestonchien.com/about). Soft City will be on display in the Map Center's gallery from December 1 to December 28.
 
-Join us for an opening to this pop-up exhibition, which will feature a talk from both the artists and a tour of the gallery. 
+Join us for an opening to this pop-up exhibition, which will feature a talk from both the artists and a tour of the gallery.
 
 ##### Opening Event Schedule:
 
@@ -24,11 +24,13 @@ Join us for an opening to this pop-up exhibition, which will feature a talk from
 
 ![](https://freight.cargo.site/w/2400/q/75/i/1e1945328c393d3bacbd7d872bb7397c5e61daa5bc08fba0bef6b1306a53b164/SISS4984.jpg)
 
+{{< figure src="" caption="[East Boston in 1906](https://collections.leventhalmap.org/search/commonwealth:9s161921m), prior to the airport" class="figure-right">}}
+
 According to the artists,
 
 > "_Soft City_ is a large-scale textile series that maps the urban fabric of Black neighborhoods in the Boston area. The tapestries map historic (redlined) and contemporary Black neighborhoods, including Roxbury, Dorchester, and East Cambridge. The information mapped tells the story of the past, present and future of Black residents, and the ecological resilience of the neighborhoods they live in. Hard (impervious) and soft (pervious) land uses are codified using colors with overlays of Black residents and flood zones on the tapestries. The softness and materiality of tufting interrogates the traditional top-down approach to space planning and management in the city and offers new tactile ways to explore our understanding of urban space, at all ages."
 
-just practice spans architecture, landscape architecture, urban planning, textile, and graphic design, as well as activist and organizing work within the design field. We think about modes of practice, the spatialization of memory, Black feminist practices, the historical role of women in architecture, and strategies for collective care. They have exhibited has had the honor of being exhibited at Yale in [No White Walls](http://nowhitewalls.yaleschoolofart.org/), the MIT [Rotch Library](https://libraries.mit.edu/exhibits/Rotch-Library/), and the [Boston Society of Architects Gallery](https://www.architects.org/exhibitions/now-what-advocacy-activism-alliances-in-american-architecture-since-1968), as well as the Yale School of Art E.I.K. Gallery and individually in Fairbanks, AK, Providence, RI, and Rome, Italy.
+just practice spans architecture, landscape architecture, urban planning, textile, and graphic design, as well as activist and organizing work within the design field. We think about modes of practice, the spatialization of memory, Black feminist practices, the historical role of women in architecture, and strategies for collective care. They have exhibited at Yale in [No White Walls](http://nowhitewalls.yaleschoolofart.org/), the MIT [Rotch Library](https://libraries.mit.edu/exhibits/Rotch-Library/), and the [Boston Society of Architects Gallery](https://www.architects.org/exhibitions/now-what-advocacy-activism-alliances-in-american-architecture-since-1968), as well as the Yale School of Art E.I.K. Gallery and individually in Fairbanks, AK, Providence, RI, and Rome, Italy.
 
 ##### Artist Bios:
 
