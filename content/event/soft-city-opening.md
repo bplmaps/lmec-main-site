@@ -12,6 +12,8 @@ tags:
 draft: true
 
 ---
+### About this event
+
 {{< figure src="/uploads/2022-10-14/siss4984.jpeg" caption="Sophie Weston Chien (left) and Amanda Ugorji (right)" class="figure-right" >}}
 
 Join us for an evening reception to celebrate the opening of _Soft City_, a pop-up exhibition by [Amanda Ugorji](https://architecture.mit.edu/people/amanda-ugorji) and [Sophie Weston Chien](https://sophiewestonchien.com/about) of the local design collaborative [**just practice**](https://justpractice.work/). 
