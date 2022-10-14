@@ -1,7 +1,7 @@
 ---
-publishDate: 2022-10-11T09:57:52-04:00
-title: 'From The Vault: Collections Showing'
-date: 2022-10-21T14:00:00-04:00
+publishDate: 2022-10-11T09:57:52.000-04:00
+title: 'From The Vault: Collections Showing (10/21)'
+date: 2022-10-21T14:00:00.000-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
 location: Leventhal Map and Education Center, Learning Center
