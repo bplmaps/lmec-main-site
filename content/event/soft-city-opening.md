@@ -12,7 +12,7 @@ tags:
 draft: true
 
 ---
-{{< figure src="/uploads/2022-10-14/siss4984.jpeg" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2022-10-14/siss4984.jpeg" caption="Sophie Weston Chien (left) and Amanda Ugorji (right)" class="figure-right" >}}
 
 Join us for an evening reception to celebrate the opening of _Soft City_, a pop-up exhibition by [Amanda Ugorji](https://architecture.mit.edu/people/amanda-ugorji) and [Sophie Weston Chien](https://sophiewestonchien.com/about) of the local design collaborative [**just practice**](https://justpractice.work/). 
 
@@ -26,7 +26,7 @@ _Soft City_ will be on display in the Map Center's gallery from December 1 to De
 
 **just practice** spans architecture, landscape architecture, urban planning, textile, and graphic design, as well as activist and organizing work within the design field. We think about modes of practice, the spatialization of memory, Black feminist practices, the historical role of women in architecture, and strategies for collective care. They have exhibited at Yale in [No White Walls](http://nowhitewalls.yaleschoolofart.org/), the MIT [Rotch Library](https://libraries.mit.edu/exhibits/Rotch-Library/), and the [Boston Society of Architects Gallery](https://www.architects.org/exhibitions/now-what-advocacy-activism-alliances-in-american-architecture-since-1968), as well as the Yale School of Art E.I.K. Gallery and individually in Fairbanks, AK, Providence, RI, and Rome, Italy.
 
-##### Artist Bios:
+##### About the artists
 
 **Amanda Ugorji** is a designer and artist interested in the potential for interdisciplinary design to act as a conduit for justice and equity. She is currently a second year candidate pursuing a Masters degree in Architecture at MIT. Pervious to her time at MIT, she worked in film and urban planning/community engagement. In her undergraduate degree, she investigated topics such as the many social-industrial complexes that dominate the economic structures in the US, the spatialization of memory, Black feminist practices, and the historical role of women in architecture. Her goal as a practitioner is to be able to utilize the wide variety of knowledge she has gained, as well as the knowledge and experiences of others, to apply herself to contextually specific problems - from the perspective of design. In 2021, she co-founded _just practice_ with Sophie Weston Chien.
 
