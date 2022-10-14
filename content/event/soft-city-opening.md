@@ -1,6 +1,6 @@
 ---
 publishDate: 2022-10-14T15:15:01-04:00
-title: '"Soft City" Opening'
+title: Opening Reception for "Soft City"
 date: 2022-12-01T18:00:00-05:00
 image: https://freight.cargo.site/w/1500/q/75/i/37f137ce98079eca8e9b566083745510055ed81bdeed2bb143bd3d5c693018c9/SISS4994_LOW-RES_CROP.jpg
 backgroundImage: https://freight.cargo.site/w/2500/q/75/i/b989335f4c671c5ae23bba9d1af731d33c953ac956a018293762a6c35228aa76/VERY-LARGE-ALL-THREE-1-copy.jpg
