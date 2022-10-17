@@ -9,7 +9,6 @@ fee: Free
 registration: ''
 tags:
 - Exhibition
-draft: true
 
 ---
 ### About this event
