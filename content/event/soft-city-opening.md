@@ -1,5 +1,5 @@
 ---
-publishDate: 2022-10-14T15:15:01.000-04:00
+publishDate: 2022-10-14T15:15:01-04:00
 title: Opening Reception for "Soft City"
 date: 2022-12-01T18:00:00.000-05:00
 image: https://freight.cargo.site/w/1500/q/75/i/37f137ce98079eca8e9b566083745510055ed81bdeed2bb143bd3d5c693018c9/SISS4994_LOW-RES_CROP.jpg
@@ -9,7 +9,6 @@ fee: Free
 registration: ''
 tags:
 - Exhibition
-draft: true
 
 ---
 ### About this event
