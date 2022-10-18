@@ -6,7 +6,7 @@ image: https://freight.cargo.site/w/1500/q/75/i/37f137ce98079eca8e9b566083745510
 backgroundImage: https://freight.cargo.site/w/2500/q/75/i/b989335f4c671c5ae23bba9d1af731d33c953ac956a018293762a6c35228aa76/VERY-LARGE-ALL-THREE-1-copy.jpg
 location: Leventhal Map & Education Center
 fee: Free
-registration: ''
+registration: https://www.eventbrite.com/e/opening-reception-for-soft-city-tickets-441904246497
 tags:
 - Exhibition
 
