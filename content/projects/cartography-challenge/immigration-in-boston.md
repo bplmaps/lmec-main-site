@@ -22,14 +22,13 @@ In addition to an award of $200 and exhibition in the Map Center's digital colle
 
 To compete in this Cartography Challenge, you must submit a map that uses foreign-born population data at the Census tract level from the ACS's 5-year estimates, 2016-2020. After downloading this data from [NHGIS](https://www.nhgis.org/), we did some light processing to standardize field names and data types. Otherwise, it's been unchanged.
 
-To get started with the data, [download it from our Data Portal](https://data.leventhalmap.org) for free. Applicants need not limit their submission to *only* this dataset---submissions are welcome to include additional data such as other Census tables or user-generated data. At minimum, though, submissions must include a representation of the 2016-2020 ACS 5-year estimates for foreign-born population.
+Applicants need not limit their submission to *only* this dataset---submissions are welcome to include additional data such as other Census tables or user-generated data. At minimum, though, submissions must include a representation of the 2016-2020 ACS 5-year estimates for foreign-born population.
 
-In addition to the foreign-born population dataset, submissions should include a representation of Boston's neighborhoods.
+In addition to the foreign-born population dataset, submissions should include a representation of Boston's neighborhoods. To get started with the data, download it for free from our Data Portal:
 
-> **Download the data:**
-> * Foreign-born population dataset
-> * [Boston neighborhoods](https://data.leventhalmap.org/#/catalog/dkhq7glpx)
-> * Inner Core Committee cities and towns
+* [Place of birth dataset](https://data.leventhalmap.org/#/catalog/dl9ea5foy)
+* [Boston neighborhoods](https://data.leventhalmap.org/#/catalog/dkhq7glpx)
+* [Greater Boston municipal boundaries](https://data.leventhalmap.org/#/catalog/dl9efr526)
 
 #### Challenge: No Choropleth, No Problem
 
