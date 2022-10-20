@@ -45,7 +45,7 @@ With these financial and spatial arguments, oil storage seemed almost like a pre
 
 {{< figure src="/uploads/2022-10-20/neu_m0472x016.png" caption="[Oil tanks](https://www.digitalcommonwealth.org/search/commonwealth-oai:dr278j59g) on Eastern Avenue in East Boston." class="figure-right" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70795813s/full/full/0/default.jpg" caption="" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70795813s/full/full/0/default.jpg" caption="The [Great Chelsea Fire of 1908](https://www.digitalcommonwealth.org/search/commonwealth:70795812h) claimed [23 oil tanks](https://www.wgbh.org/news/post/chelsea-fire-1908)" class="figure-right" >}}
 
 But contrary to this conveniently profitable rationalization, oil storage was not a “natural,” healthy, or predestined land use for this area. Not only would it require permanent changes to the landscape—like 25-foot high dikes and constant dredging of the shallow creek—but it also had already proved to be noxious and problematic.\[^11\] In 1908, a huge fire erupted at the Standard Oil tanks just south of Orient Heights, destroying homes and property of nearby residences.
 
