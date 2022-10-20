@@ -25,7 +25,7 @@ But that sense of inevitability is precisely why “sacrifice zones” like this
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rj430k847/full/,1200/0/default.jpg" caption="The [Harbor Commissioners' map of Boston Harbor](https://collections.leventhalmap.org/search/commonwealth:js956m10r) from 1852." >}}
 
-The 21st century development of a logistics center, and the echoes of a long-ago justification of a former  “highest and best use”, highlight the path dependency of harmful land uses and their attendant infrastructures, which were and continue to be built on sites with little perceived “value”  or challenging building conditions. Where once the marsh was marginal and problematic because of its soggy nature, now the oil tank site is marginal and problematic because of decades of pollution.
+The 21st century development of a logistics center, and the echoes of a long-ago justification of a former “highest and best use,” highlight the path dependency of harmful land uses and their attendant infrastructures, which were and continue to be built on sites with little perceived “value”  or challenging building conditions. Where once the marsh was marginal and problematic because of its soggy nature, now the oil tank site is marginal and problematic because of decades of pollution.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj64q/full/,1200/0/default.jpg" class="figure-left" caption="[An 1880 map](https://collections.leventhalmap.org/search/commonwealth:wd376689p) showing coastal destinations and the railroad links to Boston, and the empty space between them" >}}
 
