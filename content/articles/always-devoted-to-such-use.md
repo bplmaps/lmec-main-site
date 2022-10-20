@@ -2,8 +2,8 @@
 title: 'Always Devoted to Such Use: Sacrifice Zones and Storage on the Boston-Revere
   Border'
 author: Tess McCann
-description: 'A new logistics center tells a familiar story and poses the question:
-  how inextricable is land use from the land itself?'
+description: 'A new logistics center in Revere tells a familiar story and poses the
+  question: how inextricable is land use from the land itself?'
 date: 2022-10-22T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603t030n/829,136,5797,1953/,1200/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603t030n/829,136,5797,1953/,1200/0/default.jpg
