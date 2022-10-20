@@ -1,6 +1,6 @@
 ---
 publishDate: 2022-10-11T09:57:52.000-04:00
-title: 'From The Vault: Collections Showing (10/21)'
+title: 'From The Vault: Collections Showing (2022/10/21)'
 date: 2022-10-21T14:00:00.000-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
@@ -9,6 +9,7 @@ fee: Free
 registration: https://www.eventbrite.com/e/from-the-vault-10212022-tickets-439625340227
 tags:
 - Collections
+- from the vault
 
 ---
 ### About this event
