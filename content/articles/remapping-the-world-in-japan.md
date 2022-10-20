@@ -4,8 +4,8 @@ description: In this interactive Map Chat from the MacLean Collection, learn mor
   about how Japanese mapmakers saw the world in late 18th and early 19th centuries
 author: Elke Papelitzky
 date: 2022-06-30T00:00:00.000-04:00
-image: "/uploads/2022-06-22/japan_map_chat_screenshot.png"
-backgroundImage: "/uploads/2022-06-22/japan_map_chat_screenshot.png"
+image: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82nw85j/445,328,3450,1756/,1200/0/default.jpg"
+backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82nw85j/445,328,3450,1756/,1200/0/default.jpg"
 tags:
 - map chat
 - MacLean Collection
