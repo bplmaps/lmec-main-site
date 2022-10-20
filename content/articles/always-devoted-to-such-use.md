@@ -69,7 +69,7 @@ Distinct though they are, storage, warehousing, and logistics share one, foundat
 
 Land uses are not static; this slice of land between Revere and Boston won’t always be home to a logistics center. What could this area be used for next? Is it destined to always be marginalized, degraded with whatever land use some day replaces the logistics center? Even as we criticize the geographic determinism of development rhetoric on this site, it’s easy to be pulled into a cynical inevitability, where cycles of marginalization and degradation are destined to repeat themselves and the logistics center begets whatever noxious use will cater to consumer demand 100 years from now and make the low-value land valuable again.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js9592363/full/full/0/default.jpg" caption="" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js9592363/full/full/0/default.jpg" caption="This modern-day [map](https://collections.leventhalmap.org/search/commonwealth:4t64k502g) exhibits a city of unequal risks." class="figure-right" >}}
 
 Oddly, more pessimism—or realism—breaks us out of this cynical cycle. It may well be that in 100 years, this land is not land anymore, but water; not restored to a wetland, but rather inundated by rising seas. Projections show that Boston could see 5 feet of sea level rise by 2100, sending many low-lying areas, including the logistics center, underwater.
 
