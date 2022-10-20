@@ -43,7 +43,7 @@ The shoreline of Chelsea Creek was, in a certain light, a perfect place to store
 
 With these financial and spatial arguments, oil storage seemed almost like a predestined land use for the marsh. The landowner framed it as such at a public hearing in October, 1927, when he said that “the oil site is located at the southerly tip of the city of Revere in a section now devoted to heavy industry and _by its geographical makeup will always be devoted to such industry_.”\[^10\]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70795c698/full/full/0/default.jpg" caption="The Great Chelsea Fire 1908, though starting at the Boston Blacking Company, spread to neighboring [oil works](https://www.digitalcommonwealth.org/search/commonwealth:70795812h)." class="figure-right" >}}
+{{< figure src="/uploads/2022-10-20/neu_m0472x016.png" caption="[Oil tanks](https://www.digitalcommonwealth.org/search/commonwealth-oai:dr278j59g) on Eastern Avenue in East Boston." class="figure-right" >}}
 
 But contrary to this conveniently profitable rationalization, oil storage was not a “natural,” healthy, or predestined land use for this area. Not only would it require permanent changes to the landscape—like 25-foot high dikes and constant dredging of the shallow creek—but it also had already proved to be noxious and problematic.\[^11\] In 1908, a huge fire erupted at the Standard Oil tanks just south of Orient Heights, destroying homes and property of nearby residences.
 
