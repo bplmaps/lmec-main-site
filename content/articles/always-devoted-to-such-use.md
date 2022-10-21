@@ -119,7 +119,7 @@ Magazine_, 2016, [http://www.harvarddesignmagazine.org/issues/43/storage-flowslo
 
 [^17]: María Paula Rubiano A., “A ‘Warehouse’ By Any Other Name,” _Grist_, 25 May 2022, [https://grist.org/buildings/a-warehouse-by-any-other-name/](https://grist.org/buildings/a-warehouse-by-any-other-name/), accessed 4 August 2022.
 
-[^18]: Michael Waters, “Online Shopping Is Reshaping Real-World Cities,” _WIRED_, 22 February 2022, [https://www.wired.com/story/dark-stores-ecommerce-cities-urban-planning/](https://www.wired.com/story/dark-stores-ecommerce-cities-urban-planning/), accessed 4 August 2022. This is not the first time East Boston has faced truck traffic and noise pollution; Jeffries Point airport construction.
+[^18]: Michael Waters, “Online Shopping Is Reshaping Real-World Cities,” _WIRED_, 22 February 2022, [https://www.wired.com/story/dark-stores-ecommerce-cities-urban-planning/](https://www.wired.com/story/dark-stores-ecommerce-cities-urban-planning/), accessed 4 August 2022.
 
 [^19]: Garrett Dash Nelson, editor and curator, et al., More or Less in Common: Environment and Justice in the Human Landscape (Leventhal Map & Education Center at the Boston Public Library, 2022). [https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/sacrifice-zones/](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/sacrifice-zones/)
 
