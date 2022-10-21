@@ -4,13 +4,15 @@ title: 'Always Devoted to Such Use: Sacrifice Zones and Storage on the Boston-Re
 author: Tess D. McCann
 description: 'A new logistics center in Revere tells a familiar story and poses the
   question: how inextricable is land use from the land itself?'
-date: 2022-10-22T01:30:00.000+00:00
+date: 2022-10-21T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603t030n/829,136,5797,1953/,1200/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603t030n/829,136,5797,1953/,1200/0/default.jpg
 tags:
 - exhibition
 - Boston
-draft: true
+- environmental justice
+- environemtnal history
+- land use
 
 ---
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Revere_Aerial.jpg" class="figure-right" caption="Looking northeast over Chelsea Creek and Revere in 2019 ([Wikimedia Commons user Fletcher](https://commons.wikimedia.org/wiki/File:Revere_Aerial.jpg), CC-BY-4.0 License)" >}}
@@ -37,7 +39,7 @@ Filling in wetlands was common practice throughout the nineteenth century and in
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956m243/full/,1200/0/default.jpg" caption="An [1894 map](https://collections.leventhalmap.org/search/commonwealth:js956m23t) showing the residential subdivision then being built in Orient Heights." >}}
 
-Plans to fill in the marshes between East Boston’s upland, dubbed “Orient Heights” by a developer in the 1890s, and Revere’s Beachmont neighborhood had been proposed as early as the 1880s. Some plans showed this area as a residential enclave, like Back Bay; some a vast industrial area, with wharves stretching into the harbor. But filling a marsh is an expensive undertaking, and neither houses nor wharves would create enough value for developers to recoup any of the development costs, resulting in an uncertain economic calculus for these marginal lands. The marsh would sit unfilled until a more lucrative land use could be proposed to justify the capital costs of reclamation. This land use, it would turn out, was oil storage.
+Plans to fill in the marshes between East Boston’s upland, dubbed “Orient Heights” by a developer in the 1890s, and Revere’s Beachmont neighborhood had been proposed as early as the 1880s. Some plans showed this area as a {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f48v/282,1698,4070,4099/,1200/0/default.jpg" >}}residential enclave{{< /popup >}}, like Back Bay; some a vast industrial area, with wharves stretching into the harbor. But filling a marsh is an expensive undertaking, and neither houses nor wharves would create enough value for developers to recoup any of the development costs, resulting in an uncertain economic calculus for these marginal lands. The marsh would sit unfilled until a more lucrative land use could be proposed to justify the capital costs of reclamation. This land use, it would turn out, was oil storage.
 
 {{< figure src="/uploads/2022-10-20/neu_m0472x016.png" caption="[Oil tanks](https://www.digitalcommonwealth.org/search/commonwealth-oai:dr278j59g) line the shores of East Boston in 1960." class="figure-right" >}} 
 
@@ -49,7 +51,7 @@ With these financial and spatial arguments, oil storage seemed almost like a pre
 
 But contrary to this conveniently profitable rationalization, oil storage was not a “natural,” healthy, or predestined land use for this area. Not only would it require permanent changes to the landscape—like 25-foot high dikes and constant dredging of the shallow creek—but it also had already proved to be noxious and problematic.[^11] In 1908, a huge fire erupted at the Standard Oil tanks just south of Orient Heights, destroying homes and property of nearby residences.
 
-What’s most chilling about the landowner’s deterministic language, though, is that it turned out to be self-fulfilling. The statement created the reality it claimed to describe. It wasn’t the geographical makeup that ensured that this land would “always be devoted to such industry,” but rather the social and economic interest that demarcated this marginal and soggy land as low-value and unusable that condemned it to a status as a sacrifice zone. That’s in part what is so pernicious about sacrifice zones: they’re brought into being by the very gaze that views them as sacrificial, allowing the establishment of harmful industries that reinforce the initial definition. These cyclically degraded landscapes are often next door to communities that have also been deemed other or lesser-than, entrenching systems of injustice in the landscape.[^12] The new logistics center, then, isn’t a better or worse use than oil storage; it is not new, or forward-facing; it is simply the newest pernicious land use, the “highest and best use,” the oil storage of our one-day-delivery era.
+What’s most chilling about the landowner’s deterministic language, though, is that it turned out to be self-fulfilling. The statement created the reality it claimed to describe. It wasn’t the geographical makeup that ensured that this land would “always be devoted to such industry,” but rather the social and economic interest that demarcated this marginal and soggy land as low-value and unusable that condemned it to a status as a sacrifice zone. That’s in part what is so pernicious about sacrifice zones: they’re brought into being by the very gaze that views them as sacrificial, allowing the establishment of harmful industries that reinforce the initial definition. These cyclically degraded landscapes are often next door to communities that have also been deemed other or lesser-than, [entrenching systems of injustice in the landscape](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/recentering-the-margins/).[^12] The new logistics center, then, isn’t a better or worse use than oil storage; it is not new, or forward-facing; it is simply the newest pernicious land use, the “highest and best use,” the oil storage of our one-day-delivery era.
 
 Almost a century after the marshlands became an oil storage facility, global demand for oil is climbing ever higher. More planes, more cars, and more ships require fuel to travel locally and around the world; more houses means more need for heating oil to stay warm in winter. But because of declining transportation costs, the economics of proximity that rationalized the placement of oil storage in urban centers, close to the industries that used it, no longer holds. It now makes more financial sense to store oil outside of cities. 
 
@@ -67,7 +69,7 @@ Because the flow of goods is faster through these facilities, the flow of truck 
 
 Logistics centers do indeed create jobs, but we only need look into the stories of Amazon employees [falling ill](https://www.theverge.com/2021/6/1/22463132/amazon-injury-rate-warehouses-osha-data-report) or [dying](https://www.forbes.com/sites/richardnieva/2022/09/01/amazon-workers-urge-congress-to-summon-ceo-for-hearing-on-warehouse-safety-crisis/?sh=34542897c4c7) on the job to see how brutal the work is. Not only is it physically taxing, but logistics centers  also typically lower pay than manufacturing or service-sector jobs. Moreover, these low-wage jobs are often precarious: vulnerable to automation and easily dismissed during periods of [corporate belt-tightening](https://www.geekwire.com/2022/amazon-sheds-record-99000-employees-after-overstaffing-warehouses-plans-to-slow-office-hiring/). And while the Trident Logistics Center would certainly contribute to the tax revenue of Revere by increasing the rated value of the land, the question remains: how will that value be experienced by the people who live in the city and who work in the center?
 
-Distinct though they are, storage, warehousing, and logistics share one, foundational characteristic. Whether the storage of oil or the distribution of consumer goods, the negative impacts of these land uses only accumulate at the site of the storage, while the positive impacts are distributed broadly. From the early twentieth century, millions of people spread all across New England enjoyed the benefits of an oil facility in Revere, which made it possible to heat homes cheaply, or fly around the world to visit friends and family. Likewise, millions of online shoppers benefit from the convenience of buying lint rollers, glue sticks, and dog food online in a matter of clicks. But only the people who work in or live alongside the facility where the oil is stored or the glue sticks are being repackaged bear the cost of these things being stored. This uneven spatial distribution of cost and benefit is at the core of environmental injustice, and the sacrifice zones along Route 1A are one dramatic manifestation of this pattern.[^19]
+Distinct though they are, storage, warehousing, and logistics share one, foundational characteristic. Whether the storage of oil or the distribution of consumer goods, the negative impacts of these land uses only accumulate at the site of the storage, while the positive impacts are distributed broadly. From the early twentieth century, millions of people spread all across New England enjoyed the benefits of an oil facility in Revere, which made it possible to heat homes cheaply, or fly around the world to visit friends and family. Likewise, millions of online shoppers benefit from the convenience of buying lint rollers, glue sticks, and dog food online in a matter of clicks. But only the people who work in or live alongside the facility where the oil is stored or the glue sticks are being repackaged bear the cost of these things being stored. This uneven spatial distribution of cost and benefit is at the core of environmental injustice, and the [sacrifice zones](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/sacrifice-zones/) along Route 1A are one dramatic manifestation of this pattern.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js9592363/full/full/0/default.jpg" caption="This modern-day [map](https://collections.leventhalmap.org/search/commonwealth:4t64k502g) tracks social vulnerability and unequal risks of climate hazards." class="figure-right" >}}
 
@@ -88,38 +90,37 @@ Even as we look to a future where climate disaster is more than likely, looking 
 
 [^3]: George Washington Bromley and Walter Scott Bromley, _Atlas of the City of Chelsea and the Towns of Revere and Winthrop_, Plate N (Philadelphia: G.W. Bromley & Co., 1886), Norman B. Leventhal Map & Education Center, [https://collections.leventhalmap.org/search/commonwealth:tt44pv47z](https://collections.leventhalmap.org/search/commonwealth:tt44pv47z). Whitman & Howard, _Atlas of the Towns of Revere and Winthrop_, Suffolk County, Massachusetts. Sheet 7 (Whitman & Howard, 1906), Norman B. Leventhal Map & Education Center, [https://collections.leventhalmap.org/search/commonwealth:9g54z2270](https://collections.leventhalmap.org/search/commonwealth:9g54z2270). Bromley and Bromley, “Atlas of the City of Chelsea and the Towns of Revere & Winthrop, Massachusetts : Plate 17.” George Washington Bromley and Walter Scott Bromley, Atlas of the City of Chelsea and the Towns of Revere & Winthrop, Massachusetts : Plate 17 (Philadelphia: G.W. Bromley & Co., 1914), Norman B. Leventhal Map & Education Center, [https://collections.leventhalmap.org/search/commonwealth:tt44pw696](https://collections.leventhalmap.org/search/commonwealth:tt44pw696).
 
-[^4]: “More Revere Folk Uphold Oil ‘Farm,’” The Boston Globe, 18 October 1927.
+[^4]: “More Revere Folk Uphold Oil ‘Farm,’” _The Boston Globe_, 18 October 1927.
 
-[^5]: “Audience Against Oil Storage Plant,” The Boston Globe, 12 May 1931. “First Work is Done on Revere Oil Farm,”The Boston Globe, 19 November 1931.
+[^5]: “Audience Against Oil Storage Plant,” _The Boston Globe_, 12 May 1931. “First Work is Done on Revere Oil Farm,” _The Boston Globe_, 19 November 1931.
 
 [^6]: Ibid, emphasis added.
 
-[^7]: Garrett Dash Nelson, editor and curator, et al., More or Less in Common: Environment and Justice in the Human Landscape (Leventhal Map & Education Center at the Boston Public Library, 2022). https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/managing-nature-people/
+[^7]: Garrett Dash Nelson, editor and curator, et al.,_ More or Less in Common: Environment and Justice in the Human Landscape_ (Leventhal Map & Education Center at the Boston Public Library, 2022). https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/managing-nature-people/
 
-[^8]: “Home Seekers are Greatly Interested in the Great Auction Sale at Orient Heights,” The Boston Globe, 27 May 1894. Nelson, “Making the Single City.”
+[^8]: “Home Seekers are Greatly Interested in the Great Auction Sale at Orient Heights,” _The Boston Globe_, 27 May 1894. Nelson, “Making the Single City.”
 
 [^9]: “More Revere Folk Uphold Oil ‘Farm,’” “First Work is Done on Revere Oil Farm.”
 
 [^10]: Ibid, emphasis added.
 
-[^11]: “First Work is Done on Revere Oil Farm,” The Boston Globe, 19 November 1931.
+[^11]: “First Work is Done on Revere Oil Farm,” _The Boston Globe_, 19 November 1931.
 
-[^12]: Garrett Dash Nelson, editor and curator, et al., _More or Less in Common: Environment and Justice in the Human Landscape_ (Leventhal Map & Education Center at the Boston Public Library, 2022). [https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/recentering-the-margins/](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/recentering-the-margins/)
+[^12]: Garrett Dash Nelson, editor and curator, et al., _More or Less in Common: Environment and Justice in the Human Landscape_ (Leventhal Map & Education Center at the Boston Public Library, 2022). [https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/)
 
-[^13]: Will Parker, “Pandemic Delivery Boom Fuels Demand for ‘Last Mile’ Space,” The Wall Street Journal, 29 November 2021, [https://www.wsj.com/articles/pandemic-delivery-boom-fuels-demand-for-last-mile-space-11638277201](https://www.wsj.com/articles/pandemic-delivery-boom-fuels-demand-for-last-mile-space-11638277201), accessed 4 August 2022.
+[^13]: Will Parker, “Pandemic Delivery Boom Fuels Demand for ‘Last Mile’ Space,” _Wall Street Journal_, 29 November 2021, [https://www.wsj.com/articles/pandemic-delivery-boom-fuels-demand-for-last-mile-space-11638277201](https://www.wsj.com/articles/pandemic-delivery-boom-fuels-demand-for-last-mile-space-11638277201), accessed 4 August 2022.
 
-[^14]: Clare Lyster, “Storage Flows: Logistics as Urban Choreography,” Harvard Design
-Magazine, 2016, [http://www.harvarddesignmagazine.org/issues/43/storage-flowslogistics-as-urban-choreography](http://www.harvarddesignmagazine.org/issues/43/storage-flowslogistics-as-urban-choreography), accessed 4 August 2022.
+[^14]: Clare Lyster, “Storage Flows: Logistics as Urban Choreography,” _Harvard Design
+Magazine_, 2016, [http://www.harvarddesignmagazine.org/issues/43/storage-flowslogistics-as-urban-choreography](http://www.harvarddesignmagazine.org/issues/43/storage-flowslogistics-as-urban-choreography), accessed 4 August 2022.
 
-[^15]: Dara Orenstein, Out of Stock: The Warehouse in the History of Capitalism (Chicago: The University of Chicago Press, 2019), 35.
+[^15]: Dara Orenstein, _Out of Stock: The Warehouse in the History of Capitalism_ (Chicago: The University of Chicago Press, 2019), 35.
 
 [^16]: Lyster
 
-[^17]: María Paula Rubiano A., “A ‘Warehouse’ By Any Other Name,” 25 May 2022, [https://grist.org/buildings/a-warehouse-by-any-other-name/](https://grist.org/buildings/a-warehouse-by-any-other-name/), accessed 4 August 2022.
+[^17]: María Paula Rubiano A., “A ‘Warehouse’ By Any Other Name,” _Grist_, 25 May 2022, [https://grist.org/buildings/a-warehouse-by-any-other-name/](https://grist.org/buildings/a-warehouse-by-any-other-name/), accessed 4 August 2022.
 
-[^18]: Michael Waters, “Online Shopping Is Reshaping Real-World Cities,” WIRED, 22 February 2022, [https://www.wired.com/story/dark-stores-ecommerce-cities-urban-planning/](https://www.wired.com/story/dark-stores-ecommerce-cities-urban-planning/), accessed 4 August 2022. This is not the first time East Boston has faced truck traffic and noise pollution; Jeffries Point airport construction.
+[^18]: Michael Waters, “Online Shopping Is Reshaping Real-World Cities,” _WIRED_, 22 February 2022, [https://www.wired.com/story/dark-stores-ecommerce-cities-urban-planning/](https://www.wired.com/story/dark-stores-ecommerce-cities-urban-planning/), accessed 4 August 2022. This is not the first time East Boston has faced truck traffic and noise pollution; Jeffries Point airport construction.
 
 [^19]: Garrett Dash Nelson, editor and curator, et al., More or Less in Common: Environment and Justice in the Human Landscape (Leventhal Map & Education Center at the Boston Public Library, 2022). [https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/sacrifice-zones/](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/sacrifice-zones/)
 
-[^20]: “E. Boston Folk Storm City Hall in Oil Plant Protest,” The Boston Globe, 18 September 1929.
-“Revere Oil ‘Farm’ Hearings Closed,” The Boston Globe, 25 October 1927. “Two Protest Meetings in Fight on Oil Tank,” The Boston Globe, 8 May 1931. “Audience Against Oil Storage Plant,” The Boston Globe, 12 May 1931.
+[^20]: “E. Boston Folk Storm City Hall in Oil Plant Protest,” _The Boston Globe_, 18 September 1929; “Revere Oil ‘Farm’ Hearings Closed,” _The Boston Globe_, 25 October 1927; “Two Protest Meetings in Fight on Oil Tank,” _The Boston Globe_, 8 May 1931; “Audience Against Oil Storage Plant,” _The Boston Globe_, 12 May 1931.
