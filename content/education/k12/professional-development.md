@@ -16,13 +16,9 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 ## Workshops and Courses
 
-{{< pd-listing image="/uploads/world_crop.jpg" title="Small Bites 2022-2023: World Maps Over Time" subtitle="Thursday, November 17, 2022, 3:30-4:30 pm" description="Celebrate Geography Awareness Week! Join Map Center educators to try out one of our most popular lessons for middle school grades. Explore key concepts such as perspective, audience, and purpose through world maps that span the centuries and include thematic maps as well as more unusual examples such as a cartogram showing world population. At the end of the lesson, take away a ready-to-teach version of the lesson complete with slides and interactive digital map activities." signUpLink="https://www.eventbrite.com/x/small-bites-2022-2023-world-maps-over-time-tickets-440424881677"
+{{< pd-listing image="/uploads/2022-10-25/world_crop.jpg" title="Small Bites 2022-2023: World Maps Over Time" subtitle="Thursday, November 17, 2022, 3:30-4:30 pm" description="Celebrate Geography Awareness Week! Join Map Center educators to try out one of our most popular lessons for middle school grades. Explore key concepts such as perspective, audience, and purpose through world maps that span the centuries and include thematic maps as well as more unusual examples such as a cartogram showing world population. At the end of the lesson, take away a ready-to-teach version of the lesson complete with slides and interactive digital map activities." signUpLink="https://www.eventbrite.com/x/small-bites-2022-2023-world-maps-over-time-tickets-440424881677" >}}
 
-> }}
-
-> 
-
-{{< alert-box type="warning" title="Online Professional Development Opportunity" icon="fas fa-laptop-house">}}
+{{< alert-box type="warning" title="Online Professional Development Opportunity" icon="fas fa-laptop-house" >}}
 
 ##### Empowering Maptivists: Using Maps & Data to Teach Social Justice Topics
 
