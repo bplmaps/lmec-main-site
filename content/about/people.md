@@ -76,7 +76,6 @@ Sarah Williams
 Faroqua Abuzeit  
 Michael G. Contompasis  
 Ashlyn Crossfield  
-Natalia Cuadra-Saez  
 Khurram Jamil  
 Dr. Marcos Luna  
 Oscar Santos  
