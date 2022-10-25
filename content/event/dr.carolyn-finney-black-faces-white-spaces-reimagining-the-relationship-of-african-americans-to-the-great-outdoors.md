@@ -16,6 +16,8 @@ draft: true
 
 ### About this event
 
+{{< figure src="/uploads/2022-10-25/bfws_cover-scaled-copy.png" caption="" class="figure-right" >}}
+
 Storyteller, cultural geographer, and accidental environmentalist [Carolyn Finney, PhD](https://www.authorsoutside.com/carolyn-finney/) and Boston Public Library President **David Leonard** will discuss Dr. Finney's book **_Black Faces, White Spaces: Reimagining the Relationship of African Americans to the Great Outdoors_** (2014)**_._** **Garrett Dash Nelson**, President & Head Curator of the [Leventhal Map & Education Center](https://www.leventhalmap.org/) at the Boston Public Library, will provide opening remarks.
 
 After the conversation, there will be time for audience Q&A, and following that, there will be a chance for in-person attendees to purchase books from a soon to be determined local independent bookstore. Patrons who wish to purchase copies online may do so at the following link.
