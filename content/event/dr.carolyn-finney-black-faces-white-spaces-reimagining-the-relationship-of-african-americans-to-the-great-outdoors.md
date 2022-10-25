@@ -25,12 +25,12 @@ _This program will happen both in-person in the Rabb Lecture Hall at the Central
 
 _The_ [_GBH Forum Network_](https://www.wgbh.org/news/forum-network) _is assisting with the production of this program._
 
-##### **About the book**
+### **About _Black Faces, White Spaces: Reimagining the Relationship of African Americans to the Great Outdoors_**
 
 Why are African Americans so underrepresented when it comes to interest in nature, outdoor recreation, and environmentalism? In this thought-provoking study, Carolyn Finney looks beyond the discourse of the environmental justice movement to examine how the natural environment has been understood, commodified, and represented by both white and black Americans. Bridging the fields of environmental history, cultural studies, critical race studies, and geography, Finney argues that the legacies of slavery, Jim Crow, and racial violence have shaped cultural understandings of the “great outdoors” and determined who should and can have access to natural spaces.
 
 Drawing on a variety of sources from film, literature, and popular culture, and analyzing different historical moments, including the establishment of the Wilderness Act in 1964 and the aftermath of Hurricane Katrina, Finney reveals the perceived and real ways in which nature and the environment are racialized in America. Looking toward the future, she also highlights the work of African Americans who are opening doors to greater participation in environmental and conservation concerns.
 
-##### **About the author**
+##### **About Carolyn Finney**
 
 Carolyn Finney, PhD is a storyteller, author and a cultural geographer who is deeply interested in issues related to identity, difference, creativity, and resilience. The aim of her work is to develop greater cultural competency within environmental organizations and institutions, challenge media outlets on their representation of difference, and increase awareness of how privilege shapes who gets to speak to environmental issues and determine policy and action. Carolyn is grounded in both artistic and intellectual ways of knowing – she pursed an acting career for eleven years, but five years of backpacking trips through Africa and Asia, and living in Nepal changed the course of her life. Motivated by these experiences, Carolyn returned to school after a 15-year absence to complete a B.A., M.A. (both of these degrees focused on gender and environmental issues in Kenya and Nepal, respectively) and Ph.D. (which focused on African Americans and environmental issues in the US).
