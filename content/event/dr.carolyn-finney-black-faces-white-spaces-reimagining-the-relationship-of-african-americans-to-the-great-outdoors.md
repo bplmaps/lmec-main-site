@@ -9,7 +9,6 @@ location: 'Hybrid '
 fee: Free
 registration: https://www.eventbrite.com/e/author-talk-with-dr-carolyn-finney-black-faces-white-spaces-tickets-450623165017
 tags: []
-draft: true
 
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is co-organized with BPL Adult Programs.{{< /alert-box >}}
