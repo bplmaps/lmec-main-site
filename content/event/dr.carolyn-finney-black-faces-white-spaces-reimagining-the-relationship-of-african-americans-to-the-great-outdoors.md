@@ -4,7 +4,7 @@ title: 'Dr. Carolyn Finney — Black Faces, White Spaces: Reimagining the Relati
   of African Americans to the Great Outdoors'
 date: 2022-12-03T14:00:00-05:00
 image: "/uploads/2022-10-25/carolyn-finney-event2.jpeg"
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd69z/full/full/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd69z/full/1200,/0/default.jpg
 location: 'Hybrid '
 fee: Free
 registration: https://www.eventbrite.com/e/author-talk-with-dr-carolyn-finney-black-faces-white-spaces-tickets-450623165017
@@ -12,13 +12,14 @@ tags: []
 draft: true
 
 ---
+
 ### About this event
 
 Storyteller, cultural geographer, and accidental environmentalist [Carolyn Finney, PhD](https://www.authorsoutside.com/carolyn-finney/) and Boston Public Library President **David Leonard** will discuss Dr. Finney's book **_Black Faces, White Spaces: Reimagining the Relationship of African Americans to the Great Outdoors_** (2014)**_._** **Garrett Dash Nelson**, President & Head Curator of the [Leventhal Map & Education Center](https://www.leventhalmap.org/) at the Boston Public Library, will provide opening remarks.
 
 After the conversation, there will be time for audience Q&A, and following that, there will be a chance for in-person attendees to purchase books from a soon to be determined local independent bookstore. Patrons who wish to purchase copies online may do so at the following link.
 
-_This program will happen both in-person in the Rabb Lecture Hall at the Central Library in Copley Square as well as online over Zoom webinar._ 
+_This program will happen both in-person in the Rabb Lecture Hall at the Central Library in Copley Square as well as online over Zoom webinar._
 
 _The_ [_GBH Forum Network_](https://www.wgbh.org/news/forum-network) _is assisting with the production of this program._
 
