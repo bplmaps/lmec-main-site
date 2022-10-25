@@ -4,7 +4,8 @@ menu: false
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg
 
 ---
-{{< alert-box type="success" title="Applications currently open" >}} Applications for this grant are open through **Monday, October 24, 2022.**{{< /alert-box >}}
+{{< alert-box type="warning" title="Deadline passed" >}} Applications for 2022–2023 have closed. Information about the 2023–2024 cycle will be posted in summer 2023.{{< /alert-box >}}
+
 
 #### Are you working on a scholarly project that would come alive for the public through an interactive digital publication?
 
@@ -51,7 +52,7 @@ Grants are available to all scholars regardless of citizenship; however, if the 
 
 #### To Apply
 
-<a href="https://airtable.com/shr8fIdOJoBZ27KwG" class="btn btn-md btn-outline-primary">Online application</a>
+{{< alert-box type="warning" title="Deadline passed" >}} Applications for 2022–2023 have closed. Information about the 2023–2024 cycle will be posted in summer 2023.{{< /alert-box >}}
 
 An application consists of the following material submitted by **October 24, 2022 at 10 pm ET**:
 

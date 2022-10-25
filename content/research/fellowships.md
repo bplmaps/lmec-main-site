@@ -8,13 +8,7 @@ aliases:
 
 ---
 
-## Small Grants for Early Career Digital Publications
 
-<span class="badge bg-success font-secondary fw-normal">Open through October 24, 2022</span>
-
-The Small Grants for Early Career Digital Publications offers a $1200 stipend and technical support for a digital publication on a cartographic or geographic topic which will be featured in the LMEC's digital platforms. Grantees are not required to work in person in Boston.
-
-<a href="../digital-publication-small-grants" class="btn btn-primary-outline btn-sm"><i class="fas fa-info-circle me-2"></i> Learn more and apply</a>
 
 ## Designer-in-Residence Fellowship
 
@@ -29,11 +23,19 @@ The Designer-in-Residence fellowship supports cartographers, visual designers, a
 
 ## NERFC Research Fellowships
 
-<span class="badge bg-warning font-secondary fw-normal">Applications available Fall 2022</span>
+<span class="badge bg-success font-secondary fw-normal">Open through February 1, 2023</span>
 
 We are a participating institution in the New England Regional Fellowship Consortium. The NERFC fellowship offers a $5,000 stipend for historians who wish to work in at least three institutions represented in the consortium.
 
-The application period for 2022-2023 fellowships has closed. Applications for the 2023-2024 academic year are expected to open in late fall 2022. **To learn more about NERFC Research Fellowships, [visit the NERFC site](https://www.masshist.org/fellowships/nerfc "NERFC Fellowship Application").** 
+**To learn more about NERFC Research Fellowships and apply, [visit the NERFC site](https://www.masshist.org/fellowships/nerfc "NERFC Fellowship Application").** NERFC is administered by the Massachusetts Historical Society.
+
+## Small Grants for Early Career Digital Publications
+
+<span class="badge bg-danger font-secondary fw-normal">Applications closed for 2022</span>
+
+The Small Grants for Early Career Digital Publications offers a $1200 stipend and technical support for a digital publication on a cartographic or geographic topic which will be featured in the LMEC's digital platforms. Grantees are not required to work in person in Boston.
+
+<a href="../digital-publication-small-grants" class="btn btn-primary-outline btn-sm"><i class="fas fa-info-circle me-2"></i> Learn more and apply</a>
 
 ## Public Research Fellowships
 

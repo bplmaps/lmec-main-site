@@ -47,9 +47,8 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Fellowships and research support
-    text: Two new programs to support researchers and designers working on geography
-      and cartography
+  - badge: Fellowship deadline
+    text: Apply for our Designer-in-Residence fellowship by November 27
     link: https://www.leventhalmap.org/research/fellowships/
   - badge: On display
     text: '"More or Less in Common: Environment and Justice in the Human Landscape"
