@@ -19,3 +19,4 @@ Donations go directly to our historical geography work with students, educators,
 
 * **September 2022:** [Bartlett's illustrated map of Boston](https://collections.leventhalmap.org/search/commonwealth:9s161g99j)
 * **October 2022:** [Lynn Woods: Lynn, Massachusetts](https://collections.leventhalmap.org/search/commonwealth:x633fc04p)
+* **November 2022:** _Coming Soon_
