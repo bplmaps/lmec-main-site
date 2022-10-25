@@ -3,8 +3,8 @@ publishDate: 2022-10-25T15:28:30-04:00
 title: 'Dr. Carolyn Finney — Black Faces, White Spaces: Reimagining the Relationship
   of African Americans to the Great Outdoors'
 date: 2022-12-03T14:00:00-05:00
-image: ''
-backgroundImage: ''
+image: "/uploads/2022-10-25/carolyn-finney-event.jpeg"
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd69z/full/full/0/default.jpg
 location: 'Hybrid '
 fee: Free
 registration: https://www.eventbrite.com/e/author-talk-with-dr-carolyn-finney-black-faces-white-spaces-tickets-450623165017
