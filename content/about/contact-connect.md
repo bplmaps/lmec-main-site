@@ -10,7 +10,6 @@ aliases:
 - "/contact_us"
 
 ---
-
 ## Follow us on social media
 
 We post many times a week on social media, with stories and images about maps and historical geography, as well as quizzes, interactive material, and video streams. Follow us on:
@@ -39,10 +38,6 @@ Boston Public Library
 Boston, MA 02116 USA
 
 Our general telephone number is **+1 617.859.2387**
-
-{{< alert-box type="warning" >}}
-Please note that postal mail and telephone calls may receive slower responses while staff presence in the library is limited due to the COVID-19 pandemic.
-{{< /alert-box >}}
 
 ## Contact a staff member
 
