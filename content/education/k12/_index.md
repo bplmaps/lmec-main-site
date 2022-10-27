@@ -6,6 +6,8 @@ description: Our K-12 programs reach thousands of students each year, and we off
   resources and training for teachers around the world
 weight: "1"
 parentCard: true
+aliases:
+  - /k12
 quicklinks:
 - text: Book a remote visit for my class with Map Center educators
   link: education/k12/school-visits
