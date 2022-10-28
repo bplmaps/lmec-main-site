@@ -28,9 +28,9 @@ exceptions:
 - date: November 11, 2022
   name: Veterans Day
   special: Closed
-- date: November 23
-  name: Day before Thanksgiving
-  special: Close at 5pm
+- date: November 23, 2022
+  name: Day Before Thanksgiving
+  special: Closes at 5pm
 - date: November 24, 2022
   name: Thanksgiving
   special: Closed
