@@ -13,7 +13,7 @@ tags:
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< /alert-box >}}
 
-#### Event video 
+#### Event video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N216WPIeq98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
