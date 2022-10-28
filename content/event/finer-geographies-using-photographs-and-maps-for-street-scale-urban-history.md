@@ -10,7 +10,7 @@ registration: https://digitalhumanities.mit.edu/event/dr-garrett-dash-nelson-fin
 tags: []
 
 ---
-< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by MIT Programs in Digital Humanities.{{< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by MIT Programs in Digital Humanities.{{< /alert-box >}}
 
 ### About this event
 
