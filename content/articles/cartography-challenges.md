@@ -6,7 +6,7 @@ date: 2022-10-20T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/293,988,4644,1683/pct:50/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/293,988,4644,1683/pct:50/0/default.jpg
 tags: [GIS, cartography]
-draft: true
+draft: false
 
 ---
 
