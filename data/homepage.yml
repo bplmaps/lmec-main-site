@@ -47,6 +47,10 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Internship opportunity
+    text: Applications for our Spring 2023 Undergraduate Internships are open now
+      through November 16, 2022 at 12:00pm ET.
+    link: https://www.leventhalmap.org/about/jobs/2023-spring-internships/
   - badge: Fellowship deadline
     text: Apply for our Designer-in-Residence fellowship by November 27
     link: https://www.leventhalmap.org/research/fellowships/
