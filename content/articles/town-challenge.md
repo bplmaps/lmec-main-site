@@ -36,7 +36,7 @@ Speaking of APIs, the Mass Towns Challenge also makes use of Bert Spaan's new [A
 
 ## Map collections as guessing games
 
-Entering the cartographic archives of the LMEC---or any other map library, for that matter---can feel a lot like a guessing game. You don't always know what you're looking for, and sometimes what you find opens up more questions than it answers. We've built lots of tools, such as [@auto_mapic](https://www.leventhalmap.org/articles/automapic/) and [Atlascope](https://atlascope.leventhalmap.org), that approach this guessing game from different angles, but every approach is partial and imperfect. Our hope in building little games like the Mass Towns Challenge is to provide unexpected insights into the LMEC map collections.
+Entering the cartographic archives of the LMEC—or any other map library, for that matter—can feel a lot like a guessing game. You don't always know what you're looking for, and sometimes what you find opens up more questions than it answers. We've built lots of tools, such as [@auto_mapic](https://www.leventhalmap.org/articles/automapic/) and [Atlascope](https://atlascope.leventhalmap.org), that approach this guessing game from different angles, but every approach is partial and imperfect. Our hope in building little games like the Mass Towns Challenge is to provide unexpected insights into the LMEC map collections.
 
 After a bit of tinkering with the code, I realized it was working: town by town, I started to see things I'd never noticed before.
 
