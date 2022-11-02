@@ -1,20 +1,20 @@
 ---
-title: "How well do you know your Massachusetts towns?"
+title: How well do you know your Massachusetts towns?
 author: Ian Spangler
 description: Silly games can open new windows into map collections
 date: 2022-10-20T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj46s/3120,559,3215,831/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj46s/3120,559,3215,831/full/0/default.jpg
-tags: [collections, Massachusetts towns, Allmaps]
+tags:
+- collections
 draft: true
 
 ---
-
 ## A mass-ive challenge
 
-How well do you know your Massachusetts towns? Off the top of your head, could you name ten? Twenty? Fifty? 
+How well do you know your Massachusetts towns? Off the top of your head, could you name ten? Twenty? Fifty?
 
-With [this game from the LMEC](https://mass-towns-challenge.glitch.me), try your hand at guessing every town in Massachusetts. At 351 towns total, only the bravest and boldest will make it all the way. Thankfully, even if you never finish the challenge, you'll still be shown a map from our collections---and invited to georeference it in [Allmaps](https://allmaps.org)---for every town you answer correctly!
+With this [new game](https://mass-towns-challenge.glitch.me) from the Leventhal Map and Education Center, try your hand at guessing every town in Massachusetts. At 351 towns total, only the bravest and boldest will make it all the way. Thankfully, even if you never finish the challenge, you'll still be shown a map from our collections---and invited to georeference it in [Allmaps](https://allmaps.org)---for every town you answer correctly!
 
 {{< figure src="/uploads/masstownchallenge.png" class="figure-center" caption="How many towns can you make it through?" >}}
 
@@ -32,7 +32,7 @@ Technically speaking, the Mass Towns Challenge relies on a couple of public APIs
 
 {{< figure src="/uploads/allmaps.png" class="figure-left" caption="Easily georeference LMEC maps using [Allmaps Editor](https://editor.allmaps.org/#/)!" >}}
 
-Speaking of APIs, the Mass Towns Challenge also makes use of Bert Spaan's new [Allmaps API](https://observablehq.com/@allmaps/all-maps-in-allmaps), creating opportunities to georeference maps from LMEC collections for free in a web browser. Since October 2021, we've been supporting Bert's work on the [Allmaps platform](https://www.leventhalmap.org/articles/bert-spaan-interview/), and are thrilled to be able to leverage the free tools he's created to make it easier to access 
+Speaking of APIs, the Mass Towns Challenge also makes use of Bert Spaan's new [Allmaps API](https://observablehq.com/@allmaps/all-maps-in-allmaps), creating opportunities to georeference maps from LMEC collections for free in a web browser. Since October 2021, we've been supporting Bert's work on the [Allmaps platform](https://www.leventhalmap.org/articles/bert-spaan-interview/), and are thrilled to be able to leverage the free tools he's created to make it easier to access
 
 ## Map collections as guessing games
 
@@ -54,5 +54,4 @@ Finally, I learned that there's **at least one town in Massachusetts** that turn
 
 <a href="https://mass-towns-challenge.glitch.me/" class="btn btn-md btn-outline-primary">Play the Mass Towns Challenge</a>
 
->View the source code and remix it freely on [Glitch](https://glitch.com). 
-
+> View the source code and remix it freely on [Glitch](https://glitch.com).
