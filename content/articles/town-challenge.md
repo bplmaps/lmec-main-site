@@ -14,13 +14,13 @@ draft: true
 
 How well do you know your Massachusetts towns? Off the top of your head, could you name ten? Twenty? Fifty?
 
-With this [new game](https://mass-towns-challenge.glitch.me) from the Leventhal Map and Education Center, try your hand at guessing every town in Massachusetts. At 351 towns total, only the bravest and boldest will make it all the way. Thankfully, even if you never finish the challenge, you'll still be shown a map from our collections---and invited to georeference it in [Allmaps](https://allmaps.org)---for every town you answer correctly!
+With this [new game](https://mass-towns-challenge.glitch.me) from the Leventhal Map and Education Center, try your hand at guessing every town in Massachusetts. At 351 towns total, only the bravest and boldest will make it all the way. Thankfully, even if you never finish the challenge, you'll still be shown a map from our collections—and invited to georeference it in [Allmaps](https://allmaps.org)—for every town you answer correctly!
 
 {{< figure src="/uploads/masstownchallenge.png" class="figure-center" caption="How many towns can you make it through?" >}}
 
 ## Background & inspiration
 
-In July 2022, LMEC partnered with the UK-based digital agency [Cogapp](https://cogapp.com) to support one of their internal hack days. The goal was to devise interesting ways to visualize and engage with the 11,000+ maps in LMEC's digital collections. After a brief introduction on using our APIs, the Cogapp team was set loose, and we were delighted to see the results.
+In July 2022, the LMEC partnered with the UK-based digital agency [Cogapp](https://cogapp.com) to support one of their internal hack days. The goal was to devise interesting ways to visualize and engage with the 11,000+ maps in LMEC's digital collections. After a brief introduction on using our APIs, the Cogapp team was set loose, and we were delighted to see the results.
 
 {{< figure src="https://miro.medium.com/max/1400/1*GL2KiyKMOx-Gn5f55eF-ig.png" class="figure-right" caption="Hannah Baker's original state guessing game." >}}
 
