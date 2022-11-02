@@ -1,15 +1,15 @@
 ---
-title: "Now accepting submissions to LMEC's Cartography Challenges"
+title: Now accepting submissions to LMEC's Cartography Challenges
 author: Ian Spangler
-description: Submit your cartographic work for a chance at prize money & exhibition in the LMEC's digital collections!
+description: Submit your cartographic work for a chance at prize money & exhibition
+  in the LMEC's digital collections!
 date: 2022-10-20T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/293,988,4644,1683/pct:50/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/293,988,4644,1683/pct:50/0/default.jpg
-tags: [GIS, cartography]
-draft: false
+tags:
+- GIS
 
 ---
-
 ### Cartography Challenges
 
 As part of our ongoing commitment to [supporting researchers and designers](https://www.leventhalmap.org/research/fellowships/) who work at the intersection of geography and cartography, we're excited to announce a new initiative at the Map Center: **Cartography Challenges**!
@@ -24,6 +24,6 @@ There are a couple of reasons that we've set up our first Challenge in this way.
 
 Second, most of the modern immigration maps in the [Map Center's digital collections](https://collections.leventhalmap.org/search?per_page=100&q=immigration) are choropleth maps. This isn't a bad thing, per se, but we're cognizant that choropleth maps aren't perfect. They have a tendency to [generalize areas that shouldn't be generalized](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7151983/), and they aren't great at [accounting for density](https://populationeducation.org/limitations-to-choropleth-maps-a-warning-on-misleading-data/). That's why, in this Challenge, we need your help de-choroplething our collections and imagining some other ways of representing immigration in Greater Boston. We want to see maps that move: flow maps, cartograms, dot density, something else entirely.
 
-Submissions are due **December 19, 2022**. Check out the [Cartography Challenges](https://www.leventhalmap.org/projects/cartography-challenge/immigration-in-boston/) page to learn more about this initative, including where to download the required data. Don't hesitate to [reach out to us directly](https://leventhalmap.org/about/people/ian-spangler) if you have any questions
+Submissions are due **December 19, 2022**. Check out the [Cartography Challenges](https://www.leventhalmap.org/projects/cartography-challenge/immigration-in-boston/) page to learn more about this initiative, including where to download the required data. Don't hesitate to [reach out to us directly](https://leventhalmap.org/about/people/ian-spangler) if you have any questions.
 
 Happy mapping!
