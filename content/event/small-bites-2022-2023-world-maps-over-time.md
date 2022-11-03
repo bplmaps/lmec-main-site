@@ -2,13 +2,14 @@
 publishDate: 2022-11-03T10:31:28-04:00
 title: 'Small Bites 2022-2023: World Maps Over Time'
 date: 2022-11-17T15:30:00-05:00
-image: ''
-backgroundImage: ''
-location: ''
-fee: ''
-registration: ''
-tags: []
-draft: true
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n160r/full/1200,/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n160r/full/1200,/0/default.jpg
+location: Online
+fee: Free
+registration: https://www.eventbrite.com/e/small-bites-2022-2023-world-maps-over-time-tickets-440424881677
+tags:
+- K12
+- k12 professional development
 
 ---
 ### About this event
