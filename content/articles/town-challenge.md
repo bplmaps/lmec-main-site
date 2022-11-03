@@ -2,7 +2,7 @@
 title: How well do you know your Massachusetts towns?
 author: Ian Spangler
 description: Silly games can open new windows into map collections
-date: 2022-11-06T09:30:00-05:00
+date: 2022-11-04T09:30:00-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj46s/3120,559,3215,831/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj46s/3120,559,3215,831/full/0/default.jpg
 tags:
