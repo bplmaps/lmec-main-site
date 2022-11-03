@@ -16,7 +16,7 @@ How well do you know your Massachusetts towns? Off the top of your head, could y
 
 With this [new game](https://mass-towns-challenge.glitch.me) from the Leventhal Map and Education Center, try your hand at guessing every town in Massachusetts. At 351 towns total, only the bravest and boldest will make it all the way. Thankfully, even if you never finish the challenge, you'll still be shown a map from our collections—and invited to georeference it in [Allmaps](https://allmaps.org)—for every town you answer correctly!
 
-{{< figure src="/uploads/masstownchallenge.png" class="figure-center" caption="How many towns can you make it through?" >}}
+{{< figure src="/uploads/challenge.png" class="figure-center" caption="How many towns can you make it through?" >}}
 
 ## Background & inspiration
 
@@ -44,14 +44,14 @@ After a bit of tinkering with the code, I realized it was working: town by town,
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj46s/full/pct:50/0/default.jpg" class="figure-center" caption="A canal across Mass that would never be built" >}}
 
-Originally devised in the early 20th century, the Taunton-Weymouth canal was to span 35 miles and [cost over $10 million](https://archive.org/details/reportonshipcan00unkngoog/page/n8/mode/2up). The price tag was ultimately its downfall; instead, as [this map shows](https://collections.leventhalmap.org/search/commonwealth:jh343z21h), we got the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343z22s/1622,2613,860,629/pct:50/0/default.jpg" target="blank" >}}much shorter Cape Cod Canal. {{</popup>}}
+Originally devised in the early 20th century, the Taunton-Weymouth canal was to span 35 miles and [cost over $10 million](https://archive.org/details/reportonshipcan00unkngoog/page/n8/mode/2up). The price tag was ultimately its downfall; instead, as [this map shows](https://collections.leventhalmap.org/search/commonwealth:jh343z21h), we ended up with the canal that {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343z22s/1622,2613,860,629/pct:50/0/default.jpg" target="blank" >}}"makes the Cape an island" {{</popup>}}.
 
-Elsewhere, **Wilbraham** showed me a fascinating [map of the world](https://collections.leventhalmap.org/search/commonwealth:v979xk78h) from the early 19th century. I was confused why I was seeing it, until I realized that it was made by a "schoolboy" at the Wilbraham Wesleyan Seminary.
+Elsewhere, **Wilbraham** showed me a fascinating [map of the world](https://collections.leventhalmap.org/search/commonwealth:v979xk78h) from the early 19th century. I was confused why I was seeing it---"Aren't I supposed to be shown maps of the town?"---until I realized the author was a "schoolboy" at the Wilbraham Wesleyan Seminary.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tx31t1196/full/pct:50/0/default.jpg" class="figure-center" caption="A canal across Mass that would never be built" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tx31t1196/full/pct:50/0/default.jpg" class="figure-center" caption="*The map of the world*, by Graty P. Leonard" >}}
 
 Finally, I learned that there's **at least one town in Massachusetts** that turns up zero maps from our collections. Can you track it down, or maybe find even more gaps in our collections? Try it out, and [let us know](mailto:ispangler@leventhalmap.org) what you find!
 
 <a href="https://mass-towns-challenge.glitch.me/" class="btn btn-md btn-outline-primary">Play the Mass Towns Challenge</a>
 
-> View the source code and remix it freely on [Glitch](https://glitch.com).
+> View the source code and [remix it freely on Glitch](https://glitch.com/edit/#!/mass-towns-challenge).
