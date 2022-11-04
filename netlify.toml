@@ -4,3 +4,4 @@
 
 [build.environment]
     HUGO_VERSION = "0.93.3"
+    TZ='America/New_York'
