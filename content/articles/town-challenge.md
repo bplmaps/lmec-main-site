@@ -7,7 +7,6 @@ image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj46s/3120,5
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj46s/3120,559,3215,831/full/0/default.jpg
 tags:
 - collections
-draft: true
 
 ---
 ## A mass-ive challenge
