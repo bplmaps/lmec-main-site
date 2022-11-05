@@ -49,7 +49,13 @@ Elsewhere, **Wilbraham** showed me a fascinating [map of the world](https://coll
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tx31t1196/full/pct:50/0/default.jpg" class="figure-center" caption="*The map of the world*, by Graty P. Leonard" >}}
 
-Finally, I learned that there's **at least one town in Massachusetts** that turns up zero maps from our collections. Can you track it down, or maybe find even more gaps in our collections? Try it out, and [let us know](mailto:ispangler@leventhalmap.org) what you find!
+Finally, **Dedham** introduced me to a fascinating [advertising notice](https://collections.leventhalmap.org/search/commonwealth:q524n5692) for the release of an [1876 bird's-eye view of Dedham](https://collections.leventhalmap.org/search/commonwealth:x633fc822) by Edwin Whitefield. Today, bird's-eye view maps are helpful historical documents that capture a community's urban morphology, which---lacking tools like satellite imagery or flyover photos---had to be imagined by artists in the 19th century.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nh961/full/pct:20/0/default.jpg" class="figure-right" caption="Notice for Edward Whitefield's *View of Dedham* (1876)" >}}
+
+Unlike many bird's-eye maps of the day, {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc83b/211,421,7478,4607/pct:5/0/default.jpg" target="blank" >}}Whitefield's actual view{{</popup>}}includes no legend, indication of prominent buildings, or other alteration to the scene. Instead, important citizens like Dr. Stimson and Mr. Quincy, as well as significant places like the Court House and Memorial Hall, were {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nh961/2394,906,1938,922/pct:50/0/default.jpg" target="blank">}}noted in the ad.{{</popup>}}The notice helps contextualize the role bird's-eye view maps played in late 19th century civic life: they allowed people to see themselves as part of a larger whole, while at the same time authenticating class divisions between citizens of different social and economic standing.
+
+Through making and playing this game, I also learned that there's **at least one town in Massachusetts** that turns up zero maps. Can you track it down, or maybe find even more gaps in our collections? Try it out, and [let us know](mailto:ispangler@leventhalmap.org) what you discover!
 
 <a href="https://mass-towns-challenge.glitch.me/" class="btn btn-md btn-outline-primary">Play the Mass Towns Challenge</a>
 
