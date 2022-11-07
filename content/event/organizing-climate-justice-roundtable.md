@@ -1,17 +1,17 @@
 ---
 publishDate: 2022-10-16T15:30:00.000-05:00
-title: 'Justice Near and Far: A Roundtable on Organizing for Local and Global Climate Justice with Olúfẹ́mi O. Táíwò'
+title: 'Justice Near and Far: A Roundtable on Organizing for Local and Global Climate
+  Justice with Olúfẹ́mi O. Táíwò'
 date: 2022-11-16T15:30:00.000-05:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kt616/255,355,10397,5134/,1200/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kt616/255,355,10397,5134/,1200/0/default.jpg
-location: 'Commonwealth Salon, Central Library in Copley Square'
+location: Commonwealth Salon, Central Library in Copley Square
 fee: Free
-registration: 
+registration: https://www.eventbrite.com/e/a-roundtable-on-organizing-for-local-and-global-climate-justice-tickets-463615515487
 tags:
 - Exhibition
 
 ---
-
 ### About this event
 
 What would it look like if efforts to address climate change took seriously the relationship of the climate crisis to historic patterns of accumulated injustices? What kinds of political and economic conditions could offer the possibility for building a more just social order? And how do local movements for environmental and social justice situate themselves in the larger global geographies of climate change?
