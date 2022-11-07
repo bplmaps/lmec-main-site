@@ -29,7 +29,7 @@ What would it look like if efforts to address climate change took seriously the 
 
 **Na'tisha Mills** is a Program Manager at [Embrace Boston](https://www.embraceboston.org/), and is engaged with Embrace Boston's work to foster community conversation around reparations to atone for the historical and ongoing disenfranchisement of Black people in Boston.
 
-**Alexandra Bruns-Smith** is a graduate student worker at Northeastern University Law School who is involved with organizing her workplace with United Auto Workers. She is also a co-chair of Boston DSA's labor branch and has been involved in numerous worker organizing efforts.
+**Alexandra Bruns-Smith** is a graduate student worker at Northeastern University Law School who is involved with organizing her workplace with United Auto Workers. She is also on the national Democratic Socialists of America (DSA) Labor Steering Committee and has been involved in numerous worker organizing efforts in New England and nationally.
 
 ### Related
 
