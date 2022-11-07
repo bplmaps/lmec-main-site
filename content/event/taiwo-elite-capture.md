@@ -1,5 +1,5 @@
 ---
-publishDate: 2022-09-06T11:20:14.000-04:00
+publishDate: 2022-11-16T18:00:00.000-05:00
 title: 'Author Talk — Olúfẹ́mi O. Táíwò on Elite Capture: How The Powerful Took Over
   Identity Politics (And Everything Else)'
 date: 2022-11-16T18:00:00.000-05:00
@@ -9,7 +9,7 @@ location: 'Commonwealth Salon, Central Library in Copley Square '
 fee: Free
 registration: https://www.eventbrite.com/e/author-talk-with-olufemi-o-taiwo-on-elite-capture-tickets-419828557517
 tags:
-- exhibition
+- Exhibition
 
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is co-organized with BPL Adult Programs.{{< /alert-box >}}
