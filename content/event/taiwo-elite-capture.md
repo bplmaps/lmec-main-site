@@ -1,5 +1,5 @@
 ---
-publishDate: 2022-11-16T18:00:00.000-05:00
+publishDate: 2022-10-16T18:00:00.000-05:00
 title: 'Author Talk — Olúfẹ́mi O. Táíwò on Elite Capture: How The Powerful Took Over
   Identity Politics (And Everything Else)'
 date: 2022-11-16T18:00:00.000-05:00

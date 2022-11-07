@@ -1,5 +1,5 @@
 ---
-publishDate: 2022-11-16T15:30:00.000-05:00
+publishDate: 2022-10-16T15:30:00.000-05:00
 title: 'Justice Near and Far: A Roundtable on Organizing for Local and Global Climate Justice with Olúfẹ́mi O. Táíwò'
 date: 2022-11-16T15:30:00.000-05:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kt616/255,355,10397,5134/,1200/0/default.jpg
