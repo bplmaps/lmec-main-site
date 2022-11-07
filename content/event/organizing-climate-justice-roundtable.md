@@ -4,12 +4,11 @@ title: 'Justice Near and Far: A Roundtable on Organizing for Local and Global Cl
 date: 2022-11-16T15:30:00.000-05:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kt616/255,355,10397,5134/,1200/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kt616/255,355,10397,5134/,1200/0/default.jpg
-location: 'Commonwealth Salon, Central Library in Copley Square '
+location: 'Commonwealth Salon, Central Library in Copley Square'
 fee: Free
 registration: 
 tags:
 - exhibition
-draft: true
 
 ---
 
@@ -24,7 +23,7 @@ What would it look like if efforts to address climate change took seriously the 
 
 **Olúfẹ́mi O. Táíwò** is Assistant Professor of Philosophy at Georgetown University. He is the author of _Elite Capture: How the Powerful Took Over Identity Politics (And Everything Else)_ and _Reconsidering Reparations_. His work exploring the intersections of climate justice and colonialism has been featured in _The New Yorker, The Nation, Boston Review, Dissent, The Appeal, Slate, Al Jazeera, The New Republic, Aeon_, and _Foreign Policy_.
 
-**Maria Belen Power** oversees environmental justice campaigns and supports the work of the organizing team at [GreenRoots](http://www.greenrootschelsea.org/team). She represents GreenRoots in the Green Justice Coalition of the Greater Boston Area as well as in national movements for environmental and climate justice.
+**María Belén Power** oversees environmental justice campaigns and supports the work of the organizing team at [GreenRoots](http://www.greenrootschelsea.org/team).  She represents GreenRoots in local and statewide coalitions as well as in national movements for environmental and climate justice.
 
 **Oliver Sellers-Garcia** serves as Boston's first [Green New Deal Director](https://www.boston.gov/departments/mayors-office/oliver-sellers-garcia) and is a cabinet-level Senior Advisor to Boston Mayor Michelle Wu. In this role, Oliver works across the City to advance climate action through strategies that address social, racial, and economic inequality.
 
