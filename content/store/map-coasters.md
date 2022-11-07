@@ -7,7 +7,8 @@ store:
   item_id: map-coasters
   item_price: '15.00'
   item_text_price: "$15/set"
-  item_weight: "125"
+  item_weight: '125'
+draft: true
 
 ---
 This set of four decorative map coasters is the perfect gift for the map-lover in your life.
