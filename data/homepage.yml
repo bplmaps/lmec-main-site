@@ -47,6 +47,10 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Upcoming Closure
+    text: The Leventhal Map and Education Center and all BPL locations will be closed
+      Friday, November 11, in observance of Veterans Day.
+    link: https://www.leventhalmap.org/about/hours-directions/
   - badge: Internship opportunity
     text: Applications for our Spring 2023 Undergraduate Internships are open now
       through November 16
