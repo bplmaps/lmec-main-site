@@ -13,7 +13,7 @@ tags:
 
 How well do you know your Massachusetts towns? Off the top of your head, could you name ten? Twenty? Fifty?
 
-With this [new game](https://mass-towns-challenge.glitch.me) from the Leventhal Map and Education Center, try your hand at guessing every town in Massachusetts. At 351 towns total, only the bravest and boldest will make it all the way. Thankfully, even if you never finish the challenge, you'll still be shown a map from our collections—and invited to georeference it in [Allmaps](https://allmaps.org)—for every town you answer correctly!
+With this [new game](https://towns-challenge.glitch.me) from the Leventhal Map and Education Center, try your hand at guessing every town in Massachusetts. At 351 towns total, only the bravest and boldest will make it all the way. Thankfully, even if you never finish the challenge, you'll still be shown a map from our collections—and invited to georeference it in [Allmaps](https://allmaps.org)—for every town you answer correctly!
 
 {{< figure src="/uploads/challenge.png" class="figure-center" caption="How many towns can you make it through?" >}}
 
@@ -57,6 +57,6 @@ Unlike many bird's-eye maps of the day, {{< popup src="https://iiif.digitalcommo
 
 Through making and playing this game, I also learned that there's **at least one town in Massachusetts** that turns up zero maps. Can you track it down, or maybe find even more gaps in our collections? Try it out, and [let us know](mailto:ispangler@leventhalmap.org) what you discover!
 
-<a href="https://mass-towns-challenge.glitch.me/" class="btn btn-md btn-outline-primary">Play the Mass Towns Challenge</a>
+<a href="https://towns-challenge.glitch.me/" class="btn btn-md btn-outline-primary">Play the Mass Towns Challenge</a>
 
-> View the source code and [remix it freely on Glitch](https://glitch.com/edit/#!/mass-towns-challenge).
+> View the source code and [remix it freely on Glitch](https://glitch.com/edit/#!/towns-challenge).
