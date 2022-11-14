@@ -1,7 +1,7 @@
 ---
 title: Ian Spangler
 description: Assistant Curator of Digital & Participatory Geography
-headshot: images/headshots/spangler-headshot.jpeg
+headshot: images/headshots/spangler-headshot.jpg
 type: person
 staff_category: staff
 contact:

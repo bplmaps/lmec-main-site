@@ -1,6 +1,6 @@
 +++
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/5059,2047,4782,3064/1200,/0/default.jpg"
-cardImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2b88qf61q/532,1855,6919,3354/full/0/default.jpg"
+cardImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2b88qf61q/full/pct:20/0/default.jpg"
 description = "Our program partners and funders who make our work possible"
 draft = true
 title = "Partners"
