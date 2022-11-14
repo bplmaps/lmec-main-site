@@ -14,6 +14,8 @@ tags:
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is co-organized with BPL Adult Programs.{{< /alert-box >}}
 
+> At 3:30 pm the same day, join us for another event with Olúfẹ́mi O. Táíwò, [Justice Near and Far: A Roundtable on Organizing for Local and Global Climate Justice]()
+
 ### About this event
 
 {{< figure src="/uploads/2022-09-15/untitled-design-10.png" caption="" class="figure-right" >}}
