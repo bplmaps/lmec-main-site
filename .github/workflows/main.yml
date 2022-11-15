@@ -3,7 +3,7 @@ name: Update Teaching Resources from Airtable
 on:
   workflow_dispatch:
   schedule:
-  - cron: '0 1-23/2 * * *'
+  - cron: '57 1-23/2 * * *'
 
 jobs:
   build:
