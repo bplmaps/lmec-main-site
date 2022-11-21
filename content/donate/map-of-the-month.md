@@ -13,6 +13,8 @@ suppressEmailPopup: true
 
 The Leventhal Center relies on consistent contributions to sustain our work and help us plan for the future. Anyone who sets up a recurring monthly donation of as little as $12 or more will join our Map of the Month Club. Each month, we pick a random map from our digital collections. Each participant will receive a printed postcard of this map, and one lucky member will be randomly drawn to receive a full-size reproduction of the map.
 
+You can also join Map of the Month Club on behalf of someone else—they'll receive the monthly postcards as a gift, and we'll dedicate the contribution in their name. Just check "Dedicate this donation" in the online gift form, enter their name, and make sure to enter their address as the mailing address.
+
 Donations go directly to our historical geography work with students, educators, researchers, and community members. **Set up your monthly donation today, and help further our mission all year long.**
 
 ### Maps of the Month
