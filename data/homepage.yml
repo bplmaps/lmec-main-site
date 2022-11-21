@@ -47,6 +47,11 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Upcoming Closure
+    text: The Leventhal Map and Education Center will close early on Wednesday, November
+      23 at 5pm. The gallery will be closed as part of an exhibition turn over from
+      November 24-30 and will reopen with regular hours on December 1.
+    link: https://www.leventhalmap.org/about/hours-directions/
   - badge: Fellowship deadline
     text: Apply for our Designer-in-Residence fellowship by November 27
     link: https://www.leventhalmap.org/research/fellowships/
