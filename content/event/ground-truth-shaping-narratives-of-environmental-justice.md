@@ -11,6 +11,11 @@ tags:
 - Exhibition
 
 ---
+
+### Event video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dZpa7Q-RfD8?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### About this event
 
 Join the [Leventhal Map and Education Center](https://www.leventhalmap.org/) with a panel of invited guests for a roundtable discussion on narratives of environmental justice. The roundtable will discuss how investigating historical and present-day patterns of urban inequality, and documenting these patterns through narrative and visual works, bring an important perspective to bear on efforts for climate justice organizing.
