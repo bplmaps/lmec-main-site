@@ -16,11 +16,11 @@ tags:
 
 {{< figure src="/uploads/2022-10-14/siss4984.jpeg" caption="Soft City will be on display in our gallery for the month of December." class="figure-right" >}}
 
-Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at textile maps from our collections—embroidered, sewn, needlepoint, and more! 
+Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at textile maps from our collections—embroidered, sewn, needlepoint, and more. 
 
 Why textile maps? We're celebrating the recent opening of [Soft City](https://justpractice.work/), a pop-up exhibition of large-scale textiles that map the urban fabric of Boston. Soft City will be on display in our gallery for the month of December to accompany our ongoing exhibition, [_More or Less in Common: Environment and Justice in the Human Landscape_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/). 
 
-_Drop in any time between 2:00PM - 4:00PM!_ 
+_Drop in any time between 2:00PM - 4:00PM._ 
 
 ##### _From The Vault_
 
