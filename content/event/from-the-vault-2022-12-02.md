@@ -1,13 +1,15 @@
 ---
 publishDate: 2022-11-23T16:20:44-05:00
 title: 'From The Vault: Collections Showing (2022/12/02)'
-date: 2022-12-02T00:00:00-05:00
-image: ''
-backgroundImage: ''
-location: ''
-fee: ''
+date: 2022-12-02T14:00:00-05:00
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
+location: Leventhal Map and Education Center, Learning Center
+fee: Free
 registration: ''
-tags: []
+tags:
+- collections
+- from the vault
 draft: true
 
 ---
