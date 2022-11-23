@@ -55,10 +55,6 @@ cta:
   - badge: Fellowship deadline
     text: Apply for our Designer-in-Residence fellowship by November 27
     link: https://www.leventhalmap.org/research/fellowships/
-  - badge: On display
-    text: '"More or Less in Common: Environment and Justice in the Human Landscape"
-      is open now through December '
-    link: https://www.leventhalmap.org/exhibitions/
   - badge: Digital exhibition
     text: Browse the accompanying digital exhibition for "More or Less in Common"
     link: https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/
@@ -153,7 +149,7 @@ funfacts:
 blog:
   enable: true
   title: Articles
-todaysHours: true
+todaysHours: false
 upcomingLivestream:
   enable: true
   embedLink: <iframe width="560" height="315" src="https://www.youtube.com/embed/5-XbUBN63Ks"
