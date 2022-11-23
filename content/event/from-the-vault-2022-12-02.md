@@ -17,7 +17,7 @@ draft: true
 
 Looking to add more maps to your life? Join us for an afternoon of close map looking! 
 
-For this edition of _From The Vault_, we're celebrating the opening of [Soft City](https://justpractice.work/), a pop-up exhibition of large-scale textiles that map the urban fabric of Boston. To accompany the pop-up, we'll be taking a look at historic objects from our collections that have a similar textile nature. 
+For this edition of _From The Vault_, we're celebrating the opening of [Soft City](https://justpractice.work/), a pop-up exhibition of large-scale textiles that map the urban fabric of Boston. To accompany the new pop-up, we'll take a look at historic objects from our collections that have a similar textile materiality. 
 
 #### _From The Vault_
 
