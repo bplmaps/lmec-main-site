@@ -1,6 +1,6 @@
 ---
 publishDate: 2022-11-23T16:20:44-05:00
-title: From The Vault Collections Showing –– Textiles
+title: From The Vault Collections Showing — Textile Maps
 date: 2022-12-02T14:00:00-05:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
