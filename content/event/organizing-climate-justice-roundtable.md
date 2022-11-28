@@ -10,6 +10,7 @@ fee: Free
 registration: https://www.eventbrite.com/e/a-roundtable-on-organizing-for-local-and-global-climate-justice-tickets-463615515487
 tags:
 - Exhibition
+- More or Less in Common
 
 ---
 ### About this event

@@ -8,7 +8,8 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m7
 location: 'Hybrid '
 fee: Free
 registration: https://bpl.bibliocommons.com/events/635834ddc811c34100bae606
-tags: []
+tags:
+- More or Less in Common
 
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is co-organized with BPL Adult Programs.{{< /alert-box >}}

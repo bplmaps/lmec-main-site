@@ -9,6 +9,7 @@ fee: Free
 registration: https://www.eventbrite.com/e/the-challenges-of-communicating-climate-risk-tickets-408202363257
 tags:
 - Exhibition
+- More or Less in Common
 
 ---
 ### Event video 
