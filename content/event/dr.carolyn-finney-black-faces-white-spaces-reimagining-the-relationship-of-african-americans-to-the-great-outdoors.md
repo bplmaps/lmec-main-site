@@ -7,7 +7,7 @@ image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m7667/full/1
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m7667/full/1200,/0/default.jpg
 location: 'Hybrid '
 fee: Free
-registration: https://www.eventbrite.com/e/author-talk-with-dr-carolyn-finney-black-faces-white-spaces-tickets-450623165017
+registration: https://bpl.bibliocommons.com/events/635834ddc811c34100bae606
 tags: []
 
 ---
