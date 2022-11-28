@@ -9,6 +9,7 @@ fee: Free
 registration: https://www.eventbrite.com/e/book-group-on-waste-by-catherine-coleman-flowers-tickets-300111941897
 tags:
 - exhibition
+- More or Less in Common
 
 ---
 ### About this event
