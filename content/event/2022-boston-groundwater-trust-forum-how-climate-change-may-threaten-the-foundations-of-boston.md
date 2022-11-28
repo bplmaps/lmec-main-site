@@ -10,6 +10,7 @@ fee: Free
 registration: https://bpl.bibliocommons.com/events/62e022466250a154fbf79c45
 tags:
 - Exhibition
+- More or Less in Common
 
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by BPL Adult Programs.{{< /alert-box >}}

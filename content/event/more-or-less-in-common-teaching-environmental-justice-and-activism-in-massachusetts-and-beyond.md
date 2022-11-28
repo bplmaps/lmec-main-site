@@ -11,6 +11,7 @@ registration: https://www.eventbrite.com/e/more-or-less-in-common-teaching-envir
 tags:
 - K-12 Professional Development
 - Exhibition
+- More or Less in Common
 
 ---
 {{< figure src="/uploads/2022-04-22/final.png" caption="" class="figure-right" >}}

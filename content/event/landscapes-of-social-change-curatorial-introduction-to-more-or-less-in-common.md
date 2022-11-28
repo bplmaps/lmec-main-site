@@ -9,6 +9,7 @@ fee: Free
 registration: https://www.eventbrite.com/e/landscapes-of-social-change-curatorial-intro-to-more-or-less-in-common-tickets-299183504917
 tags:
 - exhibition
+- More or Less in Common
 
 ---
 **Join us for a curatorial introduction to our new exhibition, More or Less in Common: Environment and Justice in the Human Landscape**
