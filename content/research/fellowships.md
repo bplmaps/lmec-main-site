@@ -10,16 +10,6 @@ aliases:
 
 
 
-## Designer-in-Residence Fellowship
-
-<span class="badge bg-success font-secondary fw-normal">Open through November 27, 2022</span>
-
-
-The Designer-in-Residence fellowship supports cartographers, visual designers, and others creating visual material with a geographic or cartographic theme. Residents receive $7000 and work with Center staff during a four-week residency.
-
-
-<a href="../designer-in-residence" class="btn btn-primary-outline btn-sm"><i class="fas fa-info-circle me-2"></i> Learn more and apply</a>
-
 
 ## NERFC Research Fellowships
 
@@ -28,6 +18,18 @@ The Designer-in-Residence fellowship supports cartographers, visual designers, a
 We are a participating institution in the New England Regional Fellowship Consortium. The NERFC fellowship offers a $5,000 stipend for historians who wish to work in at least three institutions represented in the consortium.
 
 **To learn more about NERFC Research Fellowships and apply, [visit the NERFC site](https://www.masshist.org/fellowships/nerfc "NERFC Fellowship Application").** NERFC is administered by the Massachusetts Historical Society.
+
+
+## Designer-in-Residence Fellowship
+
+<span class="badge bg-danger font-secondary fw-normal">Applications closed for 2022</span>
+
+
+The Designer-in-Residence fellowship supports cartographers, visual designers, and others creating visual material with a geographic or cartographic theme. Residents receive $7000 and work with Center staff during a four-week residency.
+
+
+<a href="../designer-in-residence" class="btn btn-primary-outline btn-sm"><i class="fas fa-info-circle me-2"></i> Learn more and apply</a>
+
 
 ## Small Grants for Early Career Digital Publications
 

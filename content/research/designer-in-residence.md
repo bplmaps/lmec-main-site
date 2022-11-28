@@ -4,7 +4,8 @@ menu: false
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg
 
 ---
-{{< alert-box type="success" title="Applications currently open" >}} Applications for this fellowship are open through **Sunday, November 27, 2022.**{{< /alert-box >}}
+
+{{< alert-box type="warning" title="Deadline passed" >}} Applications for 2022–2023 have closed. Information about the 2023–2024 cycle will be posted in summer 2023.{{< /alert-box >}}
 
 #### Are you a designer working in cartographic or geographic media who would like to spend a month making maps with us?
 
@@ -42,7 +43,7 @@ Special consideration will be given to applicants who belong to communities that
 
 #### To Apply
 
-<a href="https://airtable.com/shrRvcB3ETke1Aiub" class="btn btn-md btn-outline-primary">Online application</a>
+{{< alert-box type="warning" title="Deadline passed" >}} Applications for 2022–2023 have closed. Information about the 2023–2024 cycle will be posted in summer 2023.{{< /alert-box >}}
 
 An application consists of the following material submitted by **Sunday, November 27, 2022 by 10 pm ET**:
 
