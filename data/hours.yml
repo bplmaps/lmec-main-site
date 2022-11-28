@@ -25,9 +25,12 @@ exceptions:
 - date: November 25, 2022 - November 30, 2022
   name: Exhibition Installation
   special: Gallery closed
+- date: December 25, 2022
+  name: Christmas (observed)
+  special: Closed
 - date: December 26, 2022
   name: Christmas (observed)
   special: Closed
-- date: December 29, 2022 - January 12, 2022
+- date: December 29, 2022 - January 12, 2023
   name: Exhibition Installation
   special: Closed
