@@ -19,7 +19,7 @@ This last month I was able to georeference this [Atlas of the towns of Topsfield
 
 Spending many hours poring over maps of such a well known place was quite exciting. My knowledge of the town coupled with its resistance to change meant that the historical maps of Ipswich we’re all that difficult to line up with the modern map. However I encountered four important lessons while georeferencing my hometown.
 
-1. Look for Familiar Streets
+##### Look for Familiar Streets
 
 Upon first glance at the \[downtown area\] and its tangle of streets, I knew that Ipswich hadn’t changed all that much since 1910. All the streets are paved now, but by the time the atlas was made many of them had changed into their final configurations and erected the buildings that still stand today. Ipswich is littered with houses built in the 18th and 19th century that are well documented by the \[local historical society\]. These historic building allow for plenty of places for me to lay down points to “stretch out” the map. These familiar places gave me a clearer starting point for the more densely organized parts of town. If you’re georeferencing a new town, finding out what kinds of historic landmarks or historic districts they have might be a good place to start - Ipswich has several Architectural Preservation Districts in the downtown that correspond to high numbers of still standing historical buildings - such as the Ipswich Hosiery Mills, half of which still stands as an office building today.
 
@@ -27,7 +27,7 @@ In addition to providing detailed depictions of the houses in Ipswich, the Atlas
 
 But with some of the other features on the map - it can be a good idea to think twice before trusting them.
 
-1. Sometimes, Houses Can Move
+###### Sometimes, Houses Can Move
 
 Using the familiar historic houses of Ipswich was very helping for georeferencing - but there’s also a caveat that prevented me from relying on it too much. In Ipswich, sometimes houses moved. The most famous example would be the 17th century Whipple House, which is conspicuously absent from the South Main Green on the \[1910 map\]. The house was actually moved to it’s current location from across the river in \[year\] in order to preserve it.
 
