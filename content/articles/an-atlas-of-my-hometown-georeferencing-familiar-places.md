@@ -4,9 +4,49 @@ title: 'An Atlas of My Hometown: Georeferencing Familiar Places '
 description: ''
 image: https://www.notion.so/bplmaps/An-Atlas-of-My-Hometown-Georeferencing-Familiar-Places-aac4e70d4c044c2d8044bdc668b62015#89bb520cf24145af8b3b67e4bc1fa305
 author: Ezra Acevedo
-tags: []
+tags:
+- Collections
+- Georeferencing
 backgroundImage: ''
 draft: true
 
 ---
-Look for Familiar Streets
+> Many people use our collections to look at old maps and atlases of familiar places. They want to see what the place looked like in the past, and the reverse is the same, people who look through old maps wonder what those places look like today. The Leventhal Map and Education Center has created tools like \[Atlascope\] to answer these questions, using \[georeferencing\] to line up the historic maps with modern ones. As older maps are often slightly inaccurate in their proportions, the maps must often be warped to match the modern landscape. To do this, points of alignment are chosen to correspond with each other on both maps, stretching or compressing the map so that each historic street aligns with it’s modern counterpart.
+
+This last month I was able to georeference this \[Atlas of the towns of Topsfield, Ipswich, Essex, Hamilton and Wenham\] from 1910. It was quite an exciting project to spend some time with because I’m very familiar with the areas that they depict. I grew up in Ipswich and spent a fair amount of time in the surrounding towns. Previously, I had used \[Allmaps\], a web tool specifically designed for georeferencing maps in digital collections, to georeference maps of East Boston but nothing I was as familar with as my own hometown.
+
+> \[Read more about Allmaps in this interview article\]
+
+Spending many hours poring over maps of such a well known place was quite exciting. My knowledge of the town coupled with its resistance to change meant that the historical maps of Ipswich we’re all that difficult to line up with the modern map. However I encountered four important lessons while georeferencing my hometown.
+
+1. Look for Familiar Streets
+
+Upon first glance at the \[downtown area\] and its tangle of streets, I knew that Ipswich hadn’t changed all that much since 1910. All the streets are paved now, but by the time the atlas was made many of them had changed into their final configurations and erected the buildings that still stand today. Ipswich is littered with houses built in the 18th and 19th century that are well documented by the \[local historical society\]. These historic building allow for plenty of places for me to lay down points to “stretch out” the map. These familiar places gave me a clearer starting point for the more densely organized parts of town. If you’re georeferencing a new town, finding out what kinds of historic landmarks or historic districts they have might be a good place to start - Ipswich has several Architectural Preservation Districts in the downtown that correspond to high numbers of still standing historical buildings - such as the Ipswich Hosiery Mills, half of which still stands as an office building today.
+
+In addition to providing detailed depictions of the houses in Ipswich, the Atlas also denotes building material, things like ponds, rivers, town boundaries and property lines. Many of these aren’t that helpful for placing the maps on the modern landscape - but once in a while, things line up. Mr. Palmer’s \[property lines of 1910\] line up exactly with the park boundaries on the modern Open Street map because he bequeathed his property to create Bradley Palmer State Park. (Same with \[Mrs. Pingree of Hamilton\] - where sections of her land are now stewarded by the Essex County Trail Association.
+
+But with some of the other features on the map - it can be a good idea to think twice before trusting them.
+
+1. Sometimes, Houses Can Move
+
+Using the familiar historic houses of Ipswich was very helping for georeferencing - but there’s also a caveat that prevented me from relying on it too much. In Ipswich, sometimes houses moved. The most famous example would be the 17th century Whipple House, which is conspicuously absent from the South Main Green on the \[1910 map\]. The house was actually moved to it’s current location from across the river in \[year\] in order to preserve it.
+
+Occasionally I would look for houses that I knew were built before 1910 only to discover that they weren’t in the same location on the Atlas. There are a number of historic houses along this stretch of \[East Street\] now called Jeffrey’s Neck Road that I was familiar with, but upon consulting my local historical societies website, I learned that they were actually moved to their current locations in the 40s or 50s. Talk about complicated!
+
+1. Look for Ghosts in the Landscape
+
+Of course, while some things that are there today, aren’t represented in the past, even more things that existed in the past have been removed, torn down or destroyed. Ipswich, Essex, and Hamilton all had \[streetcar lines\] that provided means for people to get around town, a interesting piece of history to see from a place where public transportation barely exists today. Some of these pieces of former infrastructure that are long gone from the modern street map have left their mark in the landscape like little ghosts.
+
+While long gone from Open Street maps, The Topsfield branch of the \[Boston and Maine RR\] which was converted into a bike trail is still visible on satellite maps. And while the Essex branch of the B&M did not get the same rails-to-trails treatment you can see see the ghost of the railroad tracks cutting a trail \[across the marsh\].
+
+One of the benefits of knowing the landscape you’re georefrencing is that sometimes there are “ghosts” that you wouldn’t think to look for unless you were familiar with it already. This was how I georeferenced \[Pineswamp road\], which once looped all the way around to Linebrook road but now stops in the middle of the forest. Unlike the Topsfield rail trail, there’s no easy way to see the remnants of the road from zoomed out above the trees - but my familiarity with the landscape allowed me to identify the small gap in the trees that marks the entrance to the road. A detail many wouldn’t have been able to identify unless they’d walked the wide unpaved trail themselves.
+
+One of the most surprising remnants I used to georeference this atlas was a little circular driveway located in front of a building once owned by a Professor… ?. In one hundred years, the people who’ve lived there have changed time and time again, but the driveway still curves \[the same little rotary\] into the landscape.
+
+1. Never Trust A River
+
+While georeferencing some of the more remote corners of the map, where streets were sparse and still-standing houses even sparser - I was tempted to use the winding path of a river to match points up. But remembering one of my favorite maps: the map of the mississippi river’s meandering path over time made me wary of such a thing \[link to map if possible\].
+
+In fact, water is one of the most notorious pieces of the map that you want to avoid using. Take a look at this plate here, where an entire lake was made between then and now: \[Atlas Plate
+
+Rivers have a tendency to meander over time - to change their shape and the landscape around them - when humans haven't intervened. Old bridges were rather useful for pinpointing places along the rivers path that have remained the same, just make sure it’s the same bridge and it wasn’t washed away by a flood like the bridge in front of the Ipswich Mills or replaced! The \[bridge\] over Old Essex Road (formally just Essex Road) was a helpful point in a very empty landscape.
