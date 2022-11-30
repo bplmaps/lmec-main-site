@@ -2,8 +2,8 @@
 publishDate: 2022-11-30T13:17:18-05:00
 title: 'Maps in the Classroom: American Revolution  '
 date: 2023-04-06T15:30:00-04:00
-image: ''
-backgroundImage: ''
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6108vt53p/418,410,3083,2473/2000,/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6108vt53p/418,410,3083,2473/2000,/0/default.jpg
 location: Online
 fee: Free
 registration: https://www.eventbrite.com/e/maps-in-the-classroom-american-revolution-tickets-478320428277?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb
