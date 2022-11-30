@@ -23,7 +23,7 @@ Spending many hours poring over maps of such a well known place was quite exciti
 
 ##### Look for Familiar Streets
 
-{
+{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f464t49b/2043,4164,1951,1704/full/0/default.jpg" caption="Downtown Ipswich closely resembles the streets I'm familiar with, minus the Opera House and several other establishments." class="figure-left" >}}
 
 Upon first glance at the \[downtown area\] and its tangle of streets, I knew that Ipswich hadn’t changed all that much since 1910. All the streets are paved now, but by the time the atlas was made many of them had changed into their final configurations and erected the buildings that still stand today. Ipswich is littered with houses built in the 18th and 19th century that are well documented by the [local historical society](historicipswich.org). These historic buildings create plenty of places to lay down points to “stretch out” the map. These familiar places gave me a clearer starting point for the more densely organized parts of town. If you’re georeferencing a new town, finding out what kinds of historic landmarks or historic districts they have might be a good place to start - Ipswich has several [Architectural Preservation Districts](https://www.ipswichma.gov/DocumentCenter/View/3446/Architectural-Preservation-District-Map?bidId=) in the downtown that correspond to high numbers of still standing historical buildings - such as the Ipswich Hosiery Mills, half of which still stands in use as an office building.
 
@@ -39,7 +39,9 @@ Occasionally I would look for houses that I knew were built before 1910 only to 
 
 Look for Ghosts in the Landscape
 
-Of course, while some things that are there today, aren’t represented in the past, even more things that existed in the past have been removed, torn down or destroyed. Ipswich, Essex, and Hamilton all had \[streetcar lines\] that provided means for people to get around town, a interesting piece of history to see from a place where public transportation barely exists today. Some of these pieces of former infrastructure that are long gone from the modern street map have left their mark in the landscape like little ghosts.
+Of course, while some things that are there today, aren’t represented in the past, even more things that existed in the past have been removed, torn down or destroyed. Ipswich, Essex, and Hamilton all had \[streetcar lines\] that provided means for people to get around town, a interesting piece of history to see from a place where public transportation barely exists today. Some of these pieces of former infrastructure that are long gone from the modern street map have left their mark in the landscape like little ghosts. 
+
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rb6912279/893,1611,2515,1787/full/0/default.jpg" caption="In this exerpt from downtown Essex, you can see the only Boston and Maine Railrroad, as well as the black and white dashed streetcard line ending in the Car Barn - Today, Essex has no public transportation routes." class="figure-right">}}
 
 While long gone from Open Street maps, The Topsfield branch of the {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:xp68p3798/2196,3773,1678,2574/full/0/default.jpg">}} Boston and Maine RR {{</popup>}} which was converted into a bike trail is still visible on satellite maps. And while the Essex branch of the B&M did not get the same rails-to-trails treatment you can see see the ghost of the railroad tracks cutting a trail \[across the marsh\].
 
