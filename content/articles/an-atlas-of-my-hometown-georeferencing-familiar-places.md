@@ -23,7 +23,7 @@ Spending many hours poring over maps of such a well known place was quite exciti
 
 ##### Look for Familiar Streets
 
-{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f464t49b/2043,4164,1951,1704/full/0/default.jpg" caption="Downtown Ipswich closely resembles the streets I'm familiar with, minus the Opera House and several other establishments." class="figure-left" >}}
+{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f464t49b/2043,4164,1951,1704/full/0/default.jpg" caption="Downtown Ipswich closely resembles the streets I'm familiar with, minus the Opera House and Box Mill." class="figure-left" >}}
 
 Upon first glance at the \[downtown area\] and its tangle of streets, I knew that Ipswich hadn’t changed all that much since 1910. All the streets are paved now, but by the time the atlas was made many of them had changed into their final configurations and erected the buildings that still stand today. Ipswich is littered with houses built in the 18th and 19th century that are well documented by the [local historical society](historicipswich.org). These historic buildings create plenty of places to lay down points to “stretch out” the map. These familiar places gave me a clearer starting point for the more densely organized parts of town. If you’re georeferencing a new town, finding out what kinds of historic landmarks or historic districts they have might be a good place to start - Ipswich has several [Architectural Preservation Districts](https://www.ipswichma.gov/DocumentCenter/View/3446/Architectural-Preservation-District-Map?bidId=) in the downtown that correspond to high numbers of still standing historical buildings - such as the Ipswich Hosiery Mills, half of which still stands in use as an office building.
 
@@ -35,7 +35,7 @@ But with some of the other features on the map - it can be a good idea to think 
 
 Using the familiar historic houses of Ipswich was very helping for georeferencing - but there’s also a caveat that prevented me from relying on it too much. In Ipswich, sometimes houses moved. The most famous example would be the 17th century Whipple House, which is conspicuously absent from the South Main Green on the \[1910 map\]. The house was actually moved to it’s current location from across the river in 1927 in order to preserve it.
 
-Occasionally I would look for houses that I knew were built before 1910 only to discover that they weren’t in the same location on the Atlas. There are a number of historic houses along this stretch of \[East Street\] now called Jeffrey’s Neck Road that I was familiar with, but upon consulting my local historical societies website, I learned that they were actually moved to their current locations in the 40s or 50s. Talk about complicated!
+Occasionally I would look for houses that I knew were built before 1910 only to discover that they weren’t in the same location on the Atlas. There are a number of historic houses along this stretch of {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:r207xc30h/7572,4530,2092,1973/full/0/default.jpg" >}} East Street{{/<popup>}}now called Jeffrey’s Neck Road that I was familiar with, but upon consulting my local historical societies website, I learned that they were actually moved to their current locations in the 40s or 50s. Talk about complicated!
 
 Look for Ghosts in the Landscape
 
