@@ -3,7 +3,6 @@ title: Exhibitions
 backgroundImage: images/page-header-backgrounds/gallery.jpg
 description: Exhibitions at the Leventhal Center bring maps and geography to life
   on themes connected to the present day
-draft: true
 
 ---
 <p class="text-center"> <a class="btn btn-primary btn-primary-outline mb-2" href="./visit"><i class="fas fa-walking me-1"></i> Visit in Person</a> <a class="btn btn-primary btn-primary-outline mb-2" href="../digital-exhibitions/more-or-less-in-common/"><i class="fas fa-desktop me-1 "></i> Visit Online</a> </p>
@@ -50,4 +49,4 @@ _Soft City_ by [just practice](https://justpractice.work/) is "a large-scale tex
 
 **January 13–August 19, 2023**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c330w/full/full/0/default.jpg" caption="Urban atlases, like the [1928 plate](https://collections.leventhalmap.org/search/commonwealth:1257c3294) shown here, are a collection of maps that are especially well-suited for discovering change by tracking small-scale interventions in the built environment. These atlases display property, street, utility, and building information—details which reflect their original purpose as maps for the fire insurance and real estate industries." class="figure-center" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c330w/261,135,4440,2653/full/0/default.jpg" caption="Urban atlases, like the [1928 plate](https://collections.leventhalmap.org/search/commonwealth:1257c3294) shown here, are a collection of maps that are especially well-suited for discovering change by tracking small-scale interventions in the built environment. These atlases display property, street, utility, and building information—details which reflect their original purpose as maps for the fire insurance and real estate industries." class="figure-center" >}}
