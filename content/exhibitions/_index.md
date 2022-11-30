@@ -49,4 +49,6 @@ _Soft City_ by [just practice](https://justpractice.work/) is "a large-scale tex
 
 **January 13–August 19, 2023**
 
+In the period spanning the Civil War to World War II, Boston’s urban fabric experienced profound changes. _Building Blocks_ travels to different areas of metropolitan Boston from the 1870s to the 1930s for an episodic view of history, illuminating the many stories that are preserved in the atlases. Beyond the stories narrated in this exhibition, the rich details of the atlases help modern viewers imagine what one’s own story in a rapidly developing city might have looked like during a moment steeped in change.
+
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c330w/424,379,3419,2163/2000,/0/default.jpg" caption="Urban atlases, like the [1928 plate](https://collections.leventhalmap.org/search/commonwealth:1257c3294) shown here, are a collection of maps that are especially well-suited for discovering change by tracking small-scale interventions in the built environment. These atlases display property, street, utility, and building information—details which reflect their original purpose as maps for the fire insurance and real estate industries." class="figure-center" >}}
