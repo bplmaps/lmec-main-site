@@ -3,6 +3,7 @@ title: Exhibitions
 backgroundImage: images/page-header-backgrounds/gallery.jpg
 description: Exhibitions at the Leventhal Center bring maps and geography to life
   on themes connected to the present day
+draft: true
 
 ---
 <p class="text-center"> <a class="btn btn-primary btn-primary-outline mb-2" href="./visit"><i class="fas fa-walking me-1"></i> Visit in Person</a> <a class="btn btn-primary btn-primary-outline mb-2" href="../digital-exhibitions/more-or-less-in-common/"><i class="fas fa-desktop me-1 "></i> Visit Online</a> </p>
@@ -12,11 +13,11 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 {{< carousel >}}
 {{< carousel-figure src="images/carousels/molic_gallery01.jpg" >}}
 {{< /carousel-figure >}}
-    
+
     {{< carousel-figure src="images/carousels/molic_gallery02.jpg" >}}{{< /carousel-figure >}}
     
     {{< carousel-figure src="images/carousels/molic_gallery03.jpg" >}}{{< /carousel-figure >}}
-
+    
     {{< carousel-figure src="images/carousels/at_gallery03.jpg" >}}{{< /carousel-figure >}}
     
     {{< carousel-figure src="images/carousels/at_gallery09.jpg" >}}{{< /carousel-figure >}}
@@ -26,6 +27,10 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 {{< /carousel >}}
 
 ## Currently on Exhibit
+
+### Soft City
+
+**December 1–December 28, 2022**
 
 ### More or Less in Common: Environment and Justice in the Human Landscape
 
