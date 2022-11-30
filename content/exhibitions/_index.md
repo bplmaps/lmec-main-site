@@ -27,7 +27,7 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 
 ## Currently on Exhibit
 
-### Soft City
+### Coming Soon: Soft City
 
 **December 1–December 28, 2022**
 
