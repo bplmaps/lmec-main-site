@@ -32,6 +32,8 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 
 **December 1–December 28, 2022**
 
+{{< figure src="/uploads/2022-10-14/siss4984.jpeg" caption="_Sophie Weston Chien (left) and Amanda Ugorji (right) sit on grass with three textile maps_"class="figure-right" >}}
+
 ### More or Less in Common: Environment and Justice in the Human Landscape
 
 **March 18–December 28, 2022**
