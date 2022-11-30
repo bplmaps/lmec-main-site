@@ -43,7 +43,7 @@ In [_More or Less in Common: Environment and Justice in the Human Landscape_,](h
 
 _Soft City_ by [just practice](https://justpractice.work/) is "a large-scale textile series that maps the urban fabric of Black neighborhoods in the Boston area. The tapestries map historic (redlined) and contemporary Black neighborhoods, including Roxbury, Dorchester, and East Cambridge. The information mapped tells the story of the past, present and future of Black residents, and the ecological resilience of the neighborhoods they live in. Hard (impervious) and soft (pervious) land uses are codified using colors with overlays of Black residents and flood zones on the tapestries. The softness and materiality of tufting interrogates the traditional top-down approach to space planning and management in the city and offers new tactile ways to explore our understanding of urban space, at all ages.”
 
-{{< figure src="/uploads/2022-11-30/all-three-1-copy.jpeg" caption="_Roxbury, Dorchester, and East Cambridge mapped as tapestries._" >}}
+{{< figure src="/uploads/2022-11-30/all-three-1-copy.jpeg" caption="Roxbury, Dorchester, and East Cambridge mapped as tapestries." >}}
 
 ### _Building Blocks: Boston Stories from Urban Atlases_
 
@@ -58,3 +58,5 @@ In the period spanning the Civil War to World War II, Boston’s urban fabric ex
 **Permanent Exhibition opens January 13, 2022**
 
 Maps trace out the complicated history of places, and we can use them to document geography in much the same way that we can use diaries and letters to document biography. In the eight cases of this exhibition, we follow the changing spatial forms of the place we now call Boston—from before the landscape carried that name all the way through the struggles, clashes, and dreams that continue to reshape the city today. These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/,2000/0/default.jpg" caption="As one of the most important centers of a newly independent nation, Boston spent the first half of the nineteenth century reimagining its urban form and building neighborhoods from scratch." class="figure-center" >}}
