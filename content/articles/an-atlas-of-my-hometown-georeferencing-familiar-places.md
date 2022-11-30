@@ -35,11 +35,11 @@ Using the familiar historic houses of Ipswich was very helping for georeferencin
 
 Occasionally I would look for houses that I knew were built before 1910 only to discover that they weren’t in the same location on the Atlas. There are a number of historic houses along this stretch of {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:r207xc30h/7572,4530,2092,1973/full/0/default.jpg" >}} East Street {{/<popup>}} now called Jeffrey’s Neck Road that I was familiar with, but upon consulting my local historical societies website, I learned that they were actually moved to their current locations in the 40s or 50s. Talk about complicated!
 
-#####Look for Ghosts in the Landscape
+##### Look for Ghosts in the Landscape
 
-Of course, while some things that are there today, aren’t represented in the past, even more things that existed in the past have been removed, torn down or destroyed. Ipswich, Essex, and Hamilton all had streetcar lines that provided means for people to get around town, a interesting piece of history to see from a place where public transportation barely exists today. Some of these pieces of former infrastructure that are long gone from the modern street map have left their mark in the landscape like little ghosts. 
+Of course, while some things that are there today, aren’t represented in the past, even more things that existed in the past have been removed, torn down or destroyed. Ipswich, Essex, and Hamilton all had streetcar lines that provided means for people to get around town, a interesting piece of history to see from a place where public transportation barely exists today. Some of these pieces of former infrastructure that are long gone from the modern street map have left their mark in the landscape like little ghosts.
 
-{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rb6912279/893,1611,2515,1787/full/0/default.jpg" caption="In this exerpt from downtown Essex, you can see the only Boston and Maine Railrroad, as well as the black and white dashed streetcard line ending in the Car Barn - Today, Essex has no public transportation routes." class="figure-right">}}
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rb6912279/893,1611,2515,1787/full/0/default.jpg" caption="In this excerpt from downtown Essex, you can see the Boston and Maine Railroad, as well as the black and white dashed streetcard line ending in the Car Barn. Today, Essex has no public transportation routes." class="figure-right">}}
 
 While long gone from Open Street maps, The Topsfield branch of the {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:xp68p3798/2196,3773,1678,2574/full/0/default.jpg">}} Boston and Maine RR {{</popup>}} which was converted into a bike trail is still visible on satellite maps. And while the Essex branch of the Boston and Maine did not get the same rails-to-trails treatment you can see see the ghost of the railroad tracks cutting a trail \[across the marsh\].
 
@@ -47,9 +47,9 @@ One of the benefits of knowing the landscape you’re georefrencing is that some
 
 One of the most surprising remnants I used to georeference this atlas was a little circular driveway located in front of a building once owned by a {{<popup src="htpps://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f464t49b/3975,1261,850,779/full/0/default.jpg" >}}Professor {{</popup>}}. In one hundred years, the people who’ve lived there have changed time and time again, but the driveway still curves \[the same little rotary\] into the landscape.
 
-###### Never Trust A River
+##### Never Trust A River
 
-While georeferencing some of the more remote corners of the map, where streets were sparse and still-standing houses even sparser - I was tempted to use the winding path of a river to match points up. But remembering one of my favorite maps: the map of the Mississippi River’s meandering path over time made me wary of such a thing. Rivers like to shift their courses over time unless constrained by human influence. Another example is this map of [the Rio Grande's course over just 50 years](https://collections.leventhalmap.org/search/commonwealth:fn107c44d) 
+While georeferencing some of the more remote corners of the map, where streets were sparse and still-standing houses even sparser - I was tempted to use the winding path of a river to match points up. But remembering one of my favorite maps: the map of the Mississippi River’s meandering path over time made me wary of such a thing. Rivers like to shift their courses over time unless constrained by human influence. Another example is this map of [the Rio Grande's course over just 50 years](https://collections.leventhalmap.org/search/commonwealth:fn107c44d)
 
 In fact, water is one of the most notorious pieces of the map that you want to avoid using. Take a look at this plate here, where an entire lake was made between then and now: \[Atlas Plate
 
