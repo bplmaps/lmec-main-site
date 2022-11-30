@@ -35,7 +35,7 @@ In [_More or Less in Common: Environment and Justice in the Human Landscape_,](h
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m030d/973,1648,4819,2184/,800/0/default.jpg" caption="As the Back Bay neighborhood of Boston was filled to make new land, nineteenth-century Bostonians were forced to consider the natural geographies that connected land and water. The Stony Brook watershed, shown in blue on [this 1860s map](https://collections.leventhalmap.org/search/commonwealth:cj82m029n), crossed multiple then-independent towns, raising questions about what happens when social and ecological boundaries cross each other." >}}
 
-## Coming Soon 
+## Coming Soon
 
 ### _Soft City_
 
@@ -52,3 +52,9 @@ _Soft City_ by [just practice](https://justpractice.work/) is "a large-scale tex
 In the period spanning the Civil War to World War II, Boston’s urban fabric experienced profound changes. _Building Blocks_ travels to different areas of metropolitan Boston from the 1870s to the 1930s for an episodic view of history, illuminating the many stories that are preserved in the atlases. Beyond the stories narrated in this exhibition, the rich details of the atlases help modern viewers imagine what one’s own story in a rapidly developing city might have looked like during a moment steeped in change.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c330w/424,379,3419,2163/2000,/0/default.jpg" caption="Urban atlases, like the [1928 plate](https://collections.leventhalmap.org/search/commonwealth:1257c3294) shown here, are a collection of maps that are especially well-suited for discovering change by tracking small-scale interventions in the built environment. These atlases display property, street, utility, and building information—details which reflect their original purpose as maps for the fire insurance and real estate industries." class="figure-center" >}}
+
+### _Becoming Boston: Eight Moments in the Geography of a Changing City_
+
+**Permanent Exhibition Opens January 13, 2022**
+
+Maps trace out the complicated history of places, and we can use them to document geography in much the same way that we can use diaries and letters to document biography. In the eight cases of this exhibition, we follow the changing spatial forms of the place we now call Boston—from before the landscape carried that name all the way through the struggles, clashes, and dreams that continue to reshape the city today. These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
