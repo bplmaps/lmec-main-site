@@ -29,13 +29,13 @@ Upon first glance at the \[downtown area\] and its tangle of streets, I knew tha
 
 In addition to providing detailed depictions of the houses in Ipswich, the Atlas also denotes building material, things like ponds, rivers, town boundaries and property lines. Many of these aren’t that helpful for placing the maps on the modern landscape - but once in a while, things line up. Mr. Palmer’s {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:r207xc30h/7572,4530,2092,1973/full/0/default.jpg" >}}property lines in 1910 {{</popup>}} line up exactly with the park boundaries on the modern Open Street map because he bequeathed his property to create Bradley Palmer State Park.  But with some of the other features on the map - it can be a good idea to double check before trusting them.
 
-###### Sometimes, Houses Can Move
+##### Sometimes, Houses Can Move
 
 Using the familiar historic houses of Ipswich was very helping for georeferencing - but there’s also a caveat that prevented me from relying on it too much. In Ipswich, sometimes houses moved. The most famous example would be the 17th century Whipple House, which is conspicuously absent from the South Main Green on the \[1910 map\]. The house was actually moved to it’s current location from across the river in 1927 in order to preserve it.
 
 Occasionally I would look for houses that I knew were built before 1910 only to discover that they weren’t in the same location on the Atlas. There are a number of historic houses along this stretch of {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:r207xc30h/7572,4530,2092,1973/full/0/default.jpg" >}} East Street {{/<popup>}} now called Jeffrey’s Neck Road that I was familiar with, but upon consulting my local historical societies website, I learned that they were actually moved to their current locations in the 40s or 50s. Talk about complicated!
 
-######Look for Ghosts in the Landscape
+#####Look for Ghosts in the Landscape
 
 Of course, while some things that are there today, aren’t represented in the past, even more things that existed in the past have been removed, torn down or destroyed. Ipswich, Essex, and Hamilton all had streetcar lines that provided means for people to get around town, a interesting piece of history to see from a place where public transportation barely exists today. Some of these pieces of former infrastructure that are long gone from the modern street map have left their mark in the landscape like little ghosts. 
 
