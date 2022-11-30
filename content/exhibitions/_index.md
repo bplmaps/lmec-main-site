@@ -3,6 +3,7 @@ title: Exhibitions
 backgroundImage: images/page-header-backgrounds/gallery.jpg
 description: Exhibitions at the Leventhal Center bring maps and geography to life
   on themes connected to the present day
+draft: true
 
 ---
 <p class="text-center"> <a class="btn btn-primary btn-primary-outline mb-2" href="./visit"><i class="fas fa-walking me-1"></i> Visit in Person</a> <a class="btn btn-primary btn-primary-outline mb-2" href="../digital-exhibitions/more-or-less-in-common/"><i class="fas fa-desktop me-1 "></i> Visit Online</a> </p>
