@@ -45,3 +45,9 @@ In [_More or Less in Common: Environment and Justice in the Human Landscape_,](h
 _Soft City_ by [just practice](https://justpractice.work/) is "a large-scale textile series that maps the urban fabric of Black neighborhoods in the Boston area. The tapestries map historic (redlined) and contemporary Black neighborhoods, including Roxbury, Dorchester, and East Cambridge. The information mapped tells the story of the past, present and future of Black residents, and the ecological resilience of the neighborhoods they live in. Hard (impervious) and soft (pervious) land uses are codified using colors with overlays of Black residents and flood zones on the tapestries. The softness and materiality of tufting interrogates the traditional top-down approach to space planning and management in the city and offers new tactile ways to explore our understanding of urban space, at all ages.”
 
 {{< figure src="/uploads/2022-10-14/siss4984.jpeg" caption="_Sophie Weston Chien (left) and Amanda Ugorji (right) sit on grass with three textile maps_"class="figure-center" >}}
+
+### Building Blocks: Boston Stories from Urban Atlases
+
+**January 13–August 19, 2023**
+
+{{< figure src="" caption="_Urban atlases_, like the 1928 plate shown here, are a collection of maps that are especially well-suited for discovering change by tracking small-scale interventions in the built environment. These atlases display property, street, utility, and building information—details which reflect their original purpose as maps for the fire insurance and real estate industries. The scale of these atlas plates (typically one inch on the map equals fifty feet in reality) brings viewers close to the scenes of blocks, streets, and buildings, and thus closer to the people whose stories made these spaces into vibrant neighborhoods." class="figure-right" >}}
