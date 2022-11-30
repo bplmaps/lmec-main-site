@@ -3,7 +3,6 @@ title: Exhibitions
 backgroundImage: images/page-header-backgrounds/gallery.jpg
 description: Exhibitions at the Leventhal Center bring maps and geography to life
   on themes connected to the present day
-draft: true
 
 ---
 <p class="text-center"> <a class="btn btn-primary btn-primary-outline mb-2" href="./visit"><i class="fas fa-walking me-1"></i> Visit in Person</a> <a class="btn btn-primary btn-primary-outline mb-2" href="../digital-exhibitions/more-or-less-in-common/"><i class="fas fa-desktop me-1 "></i> Visit Online</a> </p>
@@ -32,7 +31,7 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 
 **December 1–December 28, 2022**
 
-_Soft City_ by [**just practice**](https://justpractice.work/) is "a large-scale textile series that maps the urban fabric of Black neighborhoods in the Boston area. The tapestries map historic (redlined) and contemporary Black neighborhoods, including Roxbury, Dorchester, and East Cambridge. The information mapped tells the story of the past, present and future of Black residents, and the ecological resilience of the neighborhoods they live in. Hard (impervious) and soft (pervious) land uses are codified using colors with overlays of Black residents and flood zones on the tapestries. The softness and materiality of tufting interrogates the traditional top-down approach to space planning and management in the city and offers new tactile ways to explore our understanding of urban space, at all ages.”
+_Soft City_ by [**just practice **](https://justpractice.work/)is "a large-scale textile series that maps the urban fabric of Black neighborhoods in the Boston area. The tapestries map historic (redlined) and contemporary Black neighborhoods, including Roxbury, Dorchester, and East Cambridge. The information mapped tells the story of the past, present and future of Black residents, and the ecological resilience of the neighborhoods they live in. Hard (impervious) and soft (pervious) land uses are codified using colors with overlays of Black residents and flood zones on the tapestries. The softness and materiality of tufting interrogates the traditional top-down approach to space planning and management in the city and offers new tactile ways to explore our understanding of urban space, at all ages.”
 
 {{< figure src="/uploads/2022-10-14/siss4984.jpeg" caption="_Sophie Weston Chien (left) and Amanda Ugorji (right) sit on grass with three textile maps_"class="figure-center" >}}
 
