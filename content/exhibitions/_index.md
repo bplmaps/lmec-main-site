@@ -28,7 +28,7 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 
 ## Currently on Exhibit
 
-### More or Less in Common: Environment and Justice in the Human Landscape
+### _More or Less in Common: Environment and Justice in the Human Landscape_
 
 **March 18–December 28, 2022**
 
@@ -38,7 +38,7 @@ In [_More or Less in Common: Environment and Justice in the Human Landscape_,](h
 
 ## Coming Soon 
 
-### Soft City
+### _Soft City_
 
 **December 1–December 28, 2022**
 
@@ -46,8 +46,8 @@ _Soft City_ by [just practice](https://justpractice.work/) is "a large-scale tex
 
 {{< figure src="/uploads/2022-10-14/siss4984.jpeg" caption="_Sophie Weston Chien (left) and Amanda Ugorji (right) sit on grass with three textile maps_"class="figure-center" >}}
 
-### Building Blocks: Boston Stories from Urban Atlases
+### _Building Blocks: Boston Stories from Urban Atlases_
 
 **January 13–August 19, 2023**
 
-{{< figure src="" caption="_Urban atlases_, like the 1928 plate shown here, are a collection of maps that are especially well-suited for discovering change by tracking small-scale interventions in the built environment. These atlases display property, street, utility, and building information—details which reflect their original purpose as maps for the fire insurance and real estate industries. The scale of these atlas plates (typically one inch on the map equals fifty feet in reality) brings viewers close to the scenes of blocks, streets, and buildings, and thus closer to the people whose stories made these spaces into vibrant neighborhoods." class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c330w/full/full/0/default.jpg" caption="Urban atlases, like the 1928 plate shown here, are a collection of maps that are especially well-suited for discovering change by tracking small-scale interventions in the built environment. These atlases display property, street, utility, and building information—details which reflect their original purpose as maps for the fire insurance and real estate industries." class="figure-center" >}}
