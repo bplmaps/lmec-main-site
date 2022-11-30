@@ -43,10 +43,10 @@ In [_More or Less in Common: Environment and Justice in the Human Landscape_,](h
 
 _Soft City_ by [just practice](https://justpractice.work/) is "a large-scale textile series that maps the urban fabric of Black neighborhoods in the Boston area. The tapestries map historic (redlined) and contemporary Black neighborhoods, including Roxbury, Dorchester, and East Cambridge. The information mapped tells the story of the past, present and future of Black residents, and the ecological resilience of the neighborhoods they live in. Hard (impervious) and soft (pervious) land uses are codified using colors with overlays of Black residents and flood zones on the tapestries. The softness and materiality of tufting interrogates the traditional top-down approach to space planning and management in the city and offers new tactile ways to explore our understanding of urban space, at all ages.”
 
-{{< figure src="//uploads/2022-11-30/very-large-all-three-1-copy.jpeg" caption="" >}}
+{{< figure src="/uploads/2022-11-30/all-three-1-copy.jpeg" caption="" >}}
 
 ### _Building Blocks: Boston Stories from Urban Atlases_
 
 **January 13–August 19, 2023**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c330w/261,135,4440,2653/full/0/default.jpg" caption="Urban atlases, like the [1928 plate](https://collections.leventhalmap.org/search/commonwealth:1257c3294) shown here, are a collection of maps that are especially well-suited for discovering change by tracking small-scale interventions in the built environment. These atlases display property, street, utility, and building information—details which reflect their original purpose as maps for the fire insurance and real estate industries." class="figure-center" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c330w/full/2000,/0/default.jpg" caption="Urban atlases, like the [1928 plate](https://collections.leventhalmap.org/search/commonwealth:1257c3294) shown here, are a collection of maps that are especially well-suited for discovering change by tracking small-scale interventions in the built environment. These atlases display property, street, utility, and building information—details which reflect their original purpose as maps for the fire insurance and real estate industries." class="figure-center" >}}
