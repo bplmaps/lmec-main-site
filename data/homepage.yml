@@ -47,9 +47,9 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Opening soon
-    text: On Thursday, December 1, visit the new Soft City pop-up exhibition in our
-      gallery
+  - badge: Currently on display
+    text: 'The Soft City pop-up exhibition will be on display now through December
+      28 '
     link: "/exhibitions"
   - badge: Gallery closure
     text: Our gallery is closed through November 30 for exhibition installation. Reference,

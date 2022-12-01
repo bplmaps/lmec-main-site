@@ -27,6 +27,14 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 
 ## Currently on Exhibit
 
+### _Soft City_
+
+**December 1–December 28, 2022**
+
+_Soft City_ by [just practice](https://justpractice.work/) is "a large-scale textile series that maps the urban fabric of Black neighborhoods in the Boston area. The tapestries map historic (redlined) and contemporary Black neighborhoods, including Roxbury, Dorchester, and East Cambridge. The information mapped tells the story of the past, present and future of Black residents, and the ecological resilience of the neighborhoods they live in. Hard (impervious) and soft (pervious) land uses are codified using colors with overlays of Black residents and flood zones on the tapestries. The softness and materiality of tufting interrogates the traditional top-down approach to space planning and management in the city and offers new tactile ways to explore our understanding of urban space, at all ages.”
+
+{{< figure src="/uploads/2022-11-30/all-three-1-copy.jpeg" caption="Roxbury, Dorchester, and East Cambridge mapped as tapestries." >}}
+
 ### _More or Less in Common: Environment and Justice in the Human Landscape_
 
 **March 18–December 28, 2022**
@@ -36,14 +44,6 @@ In [_More or Less in Common: Environment and Justice in the Human Landscape_,](h
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m030d/973,1648,4819,2184/,800/0/default.jpg" caption="As the Back Bay neighborhood of Boston was filled to make new land, nineteenth-century Bostonians were forced to consider the natural geographies that connected land and water. The Stony Brook watershed, shown in blue on [this 1860s map](https://collections.leventhalmap.org/search/commonwealth:cj82m029n), crossed multiple then-independent towns, raising questions about what happens when social and ecological boundaries cross each other." >}}
 
 ## Coming Soon
-
-### _Soft City_
-
-**December 1–December 28, 2022**
-
-_Soft City_ by [just practice](https://justpractice.work/) is "a large-scale textile series that maps the urban fabric of Black neighborhoods in the Boston area. The tapestries map historic (redlined) and contemporary Black neighborhoods, including Roxbury, Dorchester, and East Cambridge. The information mapped tells the story of the past, present and future of Black residents, and the ecological resilience of the neighborhoods they live in. Hard (impervious) and soft (pervious) land uses are codified using colors with overlays of Black residents and flood zones on the tapestries. The softness and materiality of tufting interrogates the traditional top-down approach to space planning and management in the city and offers new tactile ways to explore our understanding of urban space, at all ages.”
-
-{{< figure src="/uploads/2022-11-30/all-three-1-copy.jpeg" caption="Roxbury, Dorchester, and East Cambridge mapped as tapestries." >}}
 
 ### _Building Blocks: Boston Stories from Urban Atlases_
 
