@@ -37,7 +37,7 @@ Occasionally I would look for houses that I knew were built before 1910 only to 
 
 ##### Look for Ghosts in the Landscape
 
-Of course, while some things that are there today, aren’t represented in the past, even more things that existed in the past have been removed, torn down or destroyed. Ipswich, Essex, and Hamilton all had streetcar lines that provided means for people to get around town, a interesting piece of history to see from a place where public transportation barely exists today. Some of these pieces of former infrastructure that are long gone from the modern street map have left their mark in the landscape like little ghosts.
+Of course, while some things that are there today aren’t represented in the past, even more things that existed in the past have been removed, torn down or destroyed. Ipswich, Essex, and Hamilton all had streetcar lines that provided means for people to get around town – an interesting piece of history to see from a place where public transportation barely exists today. Some of these pieces of former infrastructure that are long gone from the modern street map have left their mark in the landscape like little ghosts.
 
 {{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rb6912279/893,1611,2515,1787/full/0/default.jpg" caption="In this excerpt from downtown Essex, you can see the Boston and Maine Railroad, as well as the black and white dashed streetcard line ending in the Car Barn. Today, Essex has no public transportation routes." class="figure-right">}}
 
