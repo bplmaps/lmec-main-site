@@ -51,10 +51,6 @@ cta:
     text: 'The Soft City pop-up exhibition will be on display now through December
       28 '
     link: "/exhibitions"
-  - badge: Gallery closure
-    text: Our gallery is closed through November 30 for exhibition installation. Reference,
-      research, teaching, and digital services remain available.
-    link: "/about/hours-directions"
   - badge: Digital exhibition
     text: Browse the accompanying digital exhibition for "More or Less in Common"
     link: https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/
@@ -149,7 +145,7 @@ funfacts:
 blog:
   enable: true
   title: Articles
-todaysHours: false
+todaysHours: true
 upcomingLivestream:
   enable: true
   embedLink: <iframe width="560" height="315" src="https://www.youtube.com/embed/5-XbUBN63Ks"
