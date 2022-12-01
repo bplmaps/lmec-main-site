@@ -49,9 +49,9 @@ One of the most surprising remnants I used to georeference this atlas was a litt
 
 ##### Never Trust A River
 
-While georeferencing some of the more remote corners of the map, where streets were sparse and still-standing houses even sparser - I was tempted to use the winding path of a river to match points up. But remembering one of my favorite maps: the map of the Mississippi River’s meandering path over time made me wary of such a thing. Rivers like to shift their courses over time unless constrained by human influence. Another example is this map of [the Rio Grande's course over just 50 years](https://collections.leventhalmap.org/search/commonwealth:fn107c44d)
+While georeferencing some of the more remote corners of the map, where streets were sparse and still-standing houses even sparser - I was tempted to use the winding path of a river to match points up. But remembering one of my favorite maps: the map of the Mississippi River’s meandering path over time made me wary of such a thing. Rivers like to shift their courses over time unless constrained by human influence. Another example is this map of [the Rio Grande's course over just 50 years](https://collections.leventhalmap.org/search/commonwealth:fn107c44d). 
 
-In fact, water is one of the most notorious pieces of the map that you want to avoid using. Take a look at this plate here, where an entire lake was made between then and now: \[Atlas Plate
+In fact, water is one of the most notorious pieces of the map that you want to avoid using. Take a look at this plate here, where an entire lake was made between then and now: \[Atlas Plate\]. 
 
 Rivers have a tendency to meander over time - to change their shape and the landscape around them - when humans haven't intervened. Old bridges were rather useful for pinpointing places along the rivers path that have remained the same, just make sure it’s the same bridge and it wasn't replaced or washed away by a flood (like the bridge in front of the {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f464t49b/2301,5757,936,737/full/0/default.jpg" >}} Ipswich Mills){{</popup>}}  For instance, the \[bridge\] over Old Essex Road (formally just Essex Road) was a helpful point in a very empty landscape.
 
