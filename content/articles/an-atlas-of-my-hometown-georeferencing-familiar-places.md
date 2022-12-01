@@ -7,11 +7,11 @@ author: Ezra Acevedo
 tags:
 - Collections
 - Georeferencing
-backgroundImage: ''
+backgroundImage: https://www.notion.so/bplmaps/An-Atlas-of-My-Hometown-Georeferencing-Familiar-Places-aac4e70d4c044c2d8044bdc668b62015#89bb520cf24145af8b3b67e4bc1fa305
 draft: true
 
 ---
-> Many people often use our [collections](collections.leventhalmap.org) to look at geographic records of familiar places. They want to see what the place looked like in the past, and the reverse is the same, people who look through old maps wonder what those places look like today. The Leventhal Map and Education Center has created tools like [Atlascope](atlascope.leventhalmap.org) to answer these questions, using [georeferencing](leventhalmap.org/projects/digital-projects/georeferencing) to line up the historic maps with modern ones. As older maps are often slightly inaccurate in their proportions, the maps must often be warped to match the modern landscape. To do this, points of alignment are chosen to correspond with each other on both maps, stretching or compressing the map so that each historic street aligns with it’s modern counterpart.
+> Many people often use our [collections](collections.leventhalmap.org) to look at geographic records of familiar places. They want to see what the place looked like in the past, and the reverse is the same, people who look through old maps wonder what those places look like today. The Leventhal Map and Education Center has created tools like [Atlascope](atlascope.leventhalmap.org) to answer these questions, using [georeferencing](leventhalmap.org/projects/digital-projects/georeferencing) to line up the historic maps with modern ones. As older maps are often slightly inaccurate in their proportions, the maps must often be warped to match the modern landscape. To do this, points of alignment are chosen to correspond with each other on both maps, stretching or compressing the map so that each historic street aligns with its modern counterpart.
 
 {{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:b5647f763/5560,701,4364,4578/full/0/default.jpg" caption="The atlas was made in 1910 and contains 35 maps detailing information about the towns" class="figure-right" >}}
 
