@@ -17,9 +17,11 @@ tags:
 
 Join us for an evening reception to celebrate the opening of _Soft City_, a pop-up exhibition by [Amanda Ugorji](https://architecture.mit.edu/people/amanda-ugorji) and [Sophie Weston Chien](https://sophiewestonchien.com/about) of the local design collaborative [**just practice**](https://justpractice.work/).
 
-**5:30pm - 7:00pm:** Appetizers, Refreshments, and Artists' Talk in the Newsfeed Café
+**5:30 – Appetizers and Refreshments in Newsfeed Café**
 
-**7:00pm - 7:30pm:** Map Center Gallery
+**6:30 – Artists' Talk in Newsfeed Café**
+
+**Once the Artists' Talk has concluded, we will migrate to the Map Center Gallery to view Soft City.**
 
 _Soft City_ will be on display in the Map Center's gallery from December 1 to December 28 to accompany our ongoing exhibition, [_More or Less in Common: Environment and Justice in the Human Landscape_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/). According to the artists, "_Soft City_ is a large-scale textile series that maps the urban fabric of Black neighborhoods in the Boston area. The tapestries map historic (redlined) and contemporary Black neighborhoods, including Roxbury, Dorchester, and East Cambridge. The information mapped tells the story of the past, present and future of Black residents, and the ecological resilience of the neighborhoods they live in. Hard (impervious) and soft (pervious) land uses are codified using colors with overlays of Black residents and flood zones on the tapestries. The softness and materiality of tufting interrogates the traditional top-down approach to space planning and management in the city and offers new tactile ways to explore our understanding of urban space, at all ages."
 
