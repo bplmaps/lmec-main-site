@@ -48,8 +48,9 @@ cta:
   enable: true
   announcements:
   - badge: Currently on display
-    text: 'The Soft City pop-up exhibition will be on display now through December
-      28 '
+    text: 'The Soft City pop-up exhibition is now on display to accompany our ongoing
+      environmental justice exhibition, More or Less in Common: Environment and Justice
+      in the Human Landscape '
     link: "/exhibitions"
   - badge: Digital exhibition
     text: Browse the accompanying digital exhibition for "More or Less in Common"
