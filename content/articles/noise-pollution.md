@@ -8,7 +8,7 @@ backgroundImage: "uploads/noisepop.png"
 tags: [more or less in common, noise, airport, bivariate, pollution]
 
 ---
->*[More or Less in Common: Environment and Justice in the Human Landscape](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/)* is open through December 28, 2023.
+>*[More or Less in Common: Environment and Justice in the Human Landscape](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/)* is open through December 28, 2022.
 ## Noisy data
 
 The term ["noisy data"](https://en.wikipedia.org/wiki/Noisy_data) usually refers to unwanted, irrelevant, or otherwise corrupt information in a dataset. For mapmakers, separating the signal from the noise is a fundamental part of the analytic and cartographic process. However, when trying to map something like [noise pollution](https://www.vox.com/22550899/noise-pollution-vox-glad-you-asked)---or unwanted and excessively loud sounds in a particular environment---"noisy data" takes on an entirely different meaning.
