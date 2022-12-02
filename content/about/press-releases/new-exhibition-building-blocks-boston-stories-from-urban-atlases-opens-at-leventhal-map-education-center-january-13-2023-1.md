@@ -10,9 +10,9 @@ draft: true
 
 ---
 
-### A new, free exhibition at Leventhal Map & Education Center combines historic and future-facing maps and visuals that shine light on how the environment is part of social struggles.
+### A new, free exhibition at the Leventhal Map & Education Center explores an extraordinary moment in the urban transformation of Boston through the lens of the Center’s urban atlas collection.
 
-### In-person show opens March 18 in the Leventhal Center gallery at Boston Public Library with accompanying digital exhibition available everywhere.
+##### In-person show opens January 13 in the Leventhal Center gallery at the Boston Public Library with accompanying digital exhibition available soon.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw59w/full/,500/0/default.jpg" caption="A 1976 environmental management blueprint of Sales Creek in Revere, with oil facilities, housing, heavy infrastructure, and a highly engineered coastline, shows how the environment bears the mark of social decisions." class="figure-left" >}}
 
@@ -37,42 +37,38 @@ By emphasizing the use and power of digital data to understand environmental cha
 
 For those who can’t visit the exhibition at the Boston Public Library, the Leventhal Map and Education Center has created a digital exhibition that offers a chance to experience _More or Less in Common_ from anywhere. The online exhibition features a self-guided tour of the themes, issues and objects in the live show, links to related essays and resources, zoomable views of ultra-high-resolution historic objects, and lesson plans and classroom items for teachers. The online exhibition can be found [here](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/).
 
-#### Education and Public Access
+#### **Education and Public Access**
 
-_More or Less in Common_ has numerous opportunities to engage students, educators and families; its interpretative materials include examples of local and international contemporary environmental justice battles to provide context around the historical documents and objects. “This exhibition highlights a variety of ways that educators and young people can engage with maps and case studies focused on activism and environmental justice,” says Director of Education **Michelle LeBlanc.** “Young viewers from kindergarten through high school can connect with local environmental issues and consider how the needs of different communities can be balanced.” As the Center continues to welcome more in-person guests, it will once again offer access to more than a quarter million of the BPL’s historic and contemporary geographic objects by request, including many documents related to environmental justice in Boston and the region.
+_Building Blocks_ will feature a variety of ways for young people, educators and families to explore how Boston developed over time. Window nooks geared to young people will feature activities such as a matching game identifying the shapes of places in the atlases (such as the long-gone South End baseball grounds) with photos of those places. Young people and families can also follow the story of Florida Ruffin Ridley and her life as a young, Black Bostonian teacher, activist and writer at the turn of the 20th century. Ridley’s story connects with many of the larger themes in the exhibition and highlights many locations and work of Boston’s Black community at that time.
 
-#### Community Events
+### **Community Events**
 
-Public events and outreach programs during the run of _More or Less in Common_ will include talks, hands-on workshops, and field visits to sites in the Boston area where environmental justice struggles are ongoing.
+Public events and outreach programs during the run of _Building Blocks_ will include curatorial talks, local history deep dives, and hands-on workshops.
 
-Later this year, throughout the month of December, _More or Less in Common_ will feature a pop-up installation and educational outreach event featuring the “Soft Cities” textile maps of Boston’s Black neighborhoods created by artists Amanda Ugorji and Sophie Weston Chien. More details on this and all exhibition-related activities will be announced later this spring.
+More details on this and all exhibition-related activities will be announced later this spring.
 
-#### Olmsted Now / Olmsted 200
+### **Hours and Exhibition Details**
 
-_More or Less in Common_ is a featured program of the _Olmsted Now_ coalition of Greater Boston, a group of regional environmental design organizations commemorating the bicentennial of influential landscape architect and frequent Massachusetts resident Frederick Law Olmsted, who worked in Boston during the last part of his career and designed dozens of influential parks and gardens in the area. _Olmsted Now_ is part of the national _Olmsted 200_ network, which advocates “parks for all people” and the role of public spaces in democracy.
-
-#### Hours and Exhibition Details
-
-_More or Less in Common: Environment and Justice in the Human Landscape_ is open Mon., Tue., Thu., and Sat. from 11 am-5 pm and Wed. from 1-7 pm. Admission is free.
+_Building Blocks: Boston Stories from Urban Atlases_ is open Tuesdays, Thursdays, Fridays, and Saturdays from 11 am-5 pm, Wednesdays from 1-7 pm, and Sundays from 1-5pm. Admission is free.
 
 * More information on the exhibition, including directions, access and visitor requirements can be found at [leventhalmap.org/exhibitions](https://leventhalmap.org/exhibtions).
-* An updated calendar of events and programs associated with More or Less in Common can be found at [leventhalmap.org/event](https://leventhalmap.org/event).
+* An updated calendar of events and programs associated with _Building Blocks_ can be found at [leventhalmap.org/event](https://leventhalmap.org/event).
 
-#### Funding Information
+### **Funding Information**
 
-This project was made possible in part by the Institute of Museum and Library Services (grant MA-249587-OMS-21).
+This project is sponsored in part by the Library of Congress Teaching with Primary Sources Eastern Region Program, coordinated by Waynesburg University.
 
-#### Media Contact
+### **Media Contact**
 
-To arrange interviews about _More or Less in Common_, curator-guided visits to the Leventhal Map and Education Center, or for digital images of exhibition objects, contact Jennifer Astin, [ja@jmkpr.com](mailto:ja@jmkpr.com) / 424- 333-1718 or John Michael Kennedy, [jmk@jmkpr.com](mailto:jmk@jmkpr.com) / 781-620-1761.
+To arrange interviews about _Building Blocks_, curator-guided visits to the Leventhal Map and Education Center, or for digital images of exhibition objects, contact [Megan Nally](https://www.leventhalmap.org/about/people/megan-nally/), [mnally@leventhalmap.org](mailto:mnally@leventhalmap.org) / 617-859-2383.
 
-#### About the Leventhal Map & Education Center
+### **About the Leventhal Map & Education Center**
 
 The Norman B. Leventhal Map & Education Center at the Boston Public Library is an independent nonprofit organization that promotes the public use of more than a quarter million geographic objects for the enjoyment and education of all. Uniquely positioned in a public library, the Leventhal Center offers exhibitions and public talks, groundbreaking educational programs that promote geographic and data literacy, and extensive digital resources.
 
 The Leventhal Center is known for the size and significance of its collection, as well as its engagement with K-12 audiences. With a global scope and a regional specialization in Boston and New England, the Center is a leader in exploring the study of places, societies, landscapes and history through the lens of maps and geography.
 
-#### About the Boston Public Library
+### **About the Boston Public Library**
 
 The Boston Public Library (BPL) provides educational, cultural, and civic enrichment free to all through its collections, services, programs, and spaces. Established in 1848, the Boston Public Library is a pioneer of public library service in America. It was the first large free municipal library in the United States, the first public library to lend books, the first to have a branch library, and the first to have a children’s room.
 
