@@ -14,7 +14,7 @@ draft: true
 
 ##### In-person show opens January 13 in the Leventhal Center gallery at the Boston Public Library with accompanying digital exhibition available soon.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c490j/full/2000,/0/default.jpg" caption="A 1938 [atlas plate]() of Back Bay offers a detailed snapshot of the neighborhood's bustling businesses, residences, and transport." class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c490j/148,132,7657,5244/2000,/0/default.jpg" caption="A 1938 [atlas plate]() of Back Bay offers a detailed snapshot of the neighborhood's bustling businesses, residences, and transport." class="figure-left" >}}
 
 **BOSTON — December 5, 2022 —** A new exhibition that illuminates small scale stories of urban change opens this month at the Leventhal Map & Education Center at the Boston Public Library (BPL). _Building Blocks: Boston Stories from Urban Atlases_ includes rare materials from the BPL’s historic collection of geographic objects alongside lithographs, photographs, and sketches of familiar Boston landscapes. Visitors will find objects that range from nineteenth-century urban atlases by Somerville-born Daniel Sanborn, to early postcards of Revere Beach and photographs of the Tremont Street Cyclorama. _Building Blocks_ runs January 13 through August 19, 2023 and, like all exhibitions at the Leventhal Center, it is free to the public at the BPL Central Library in Copley Square.
 
