@@ -37,9 +37,7 @@ _Building Blocks_ will feature a variety of ways for young people, educators and
 
 #### Community Events
 
-Public events and outreach programs during the run of _Building Blocks_ will include curatorial talks, local history deep dives, and hands-on workshops.
-
-More details on this and all exhibition-related activities will be announced later this spring.
+Public events and outreach programs during the run of _Building Blocks_ will include curatorial talks, local history deep dives, and hands-on workshops. More details on this and all exhibition-related activities will be announced later this spring.
 
 #### Hours and Exhibition Details
 
