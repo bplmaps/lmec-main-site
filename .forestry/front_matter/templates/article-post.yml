@@ -38,7 +38,6 @@ fields:
   label: Background Image
   description: Will be shown behind the title in the banner
 pages:
-- content/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023.md
 - content/articles/a-civil-war-map-goes-on-trial.md
 - content/articles/a-map-less-map-of-political-geography-in-the-us.md
 - content/articles/a-new-view-into-urban-renewal-in-boston.md
