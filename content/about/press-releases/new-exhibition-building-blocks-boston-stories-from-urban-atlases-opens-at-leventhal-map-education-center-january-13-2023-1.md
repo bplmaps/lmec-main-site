@@ -2,7 +2,7 @@
 title: 'New Exhibition Building Blocks: Boston Stories from Urban Atlases opens at
   Leventhal Map & Education Center January 13, 2023'
 type: singleton
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c490j/full/1200,/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht24zx167/1700,2065,4591,2867/2000,/0/default.jpg
 description: 'A new, free exhibition at the Leventhal Map & Education Center explores
   an extraordinary moment in the urban transformation of Boston through the lens of
   the Center’s urban atlas collection. '
@@ -27,42 +27,42 @@ Among the exhibition highlights:
 * A collection of local histories uncovered and reconstructed by a team of teen curators…
 * An interwoven history of Florida Ruffin Ridley..
 
-### **A Digital and Physical Exhibition**
+#### A Digital and Physical Exhibition
 
 For those who can’t visit the exhibition at the Boston Public Library, the Leventhal Map and Education Center will create a digital exhibition that offers a chance to experience _Building Blocks_ from anywhere. The online exhibition will feature a self-guided tour of the themes and objects in the live show, links to related essays and resources, zoomable views of ultra-high-resolution historic objects, and lesson plans and classroom items for teachers.
 
-### **Education and Public Access**
+#### Education and Public Access
 
 _Building Blocks_ will feature a variety of ways for young people, educators and families to explore how Boston developed over time. Window nooks geared to young people will feature activities such as a matching game identifying the shapes of places in the atlases (such as the long-gone South End baseball grounds) with photos of those places. Young people and families can also follow the story of Florida Ruffin Ridley and her life as a young, Black Bostonian teacher, activist and writer at the turn of the 20th century. Ridley’s story connects with many of the larger themes in the exhibition and highlights many locations and work of Boston’s Black community at that time.
 
-### **Community Events**
+#### Community Events
 
 Public events and outreach programs during the run of _Building Blocks_ will include curatorial talks, local history deep dives, and hands-on workshops.
 
 More details on this and all exhibition-related activities will be announced later this spring.
 
-### **Hours and Exhibition Details**
+#### Hours and Exhibition Details
 
 _Building Blocks: Boston Stories from Urban Atlases_ is open Tuesdays, Thursdays, Fridays, and Saturdays from 11 am-5 pm, Wednesdays from 1-7 pm, and Sundays from 1-5pm. Admission is free.
 
 * More information on the exhibition, including directions, access and visitor requirements can be found at [leventhalmap.org/exhibitions](https://leventhalmap.org/exhibtions).
 * An updated calendar of events and programs associated with _Building Blocks_ can be found at [leventhalmap.org/event](https://leventhalmap.org/event).
 
-### **Funding Information**
+#### Funding Information
 
 This project is sponsored in part by the Library of Congress Teaching with Primary Sources Eastern Region Program, coordinated by Waynesburg University.
 
-### **Media Contact**
+#### Media Contact
 
 To arrange interviews about _Building Blocks_, curator-guided visits to the Leventhal Map and Education Center, or for digital images of exhibition objects, contact [Megan Nally](https://www.leventhalmap.org/about/people/megan-nally/), [mnally@leventhalmap.org](mailto:mnally@leventhalmap.org) / 617-859-2383.
 
-### **About the Leventhal Map & Education Center**
+#### About the Leventhal Map & Education Center
 
 The Norman B. Leventhal Map & Education Center at the Boston Public Library is an independent nonprofit organization that promotes the public use of more than a quarter million geographic objects for the enjoyment and education of all. Uniquely positioned in a public library, the Leventhal Center offers exhibitions and public talks, groundbreaking educational programs that promote geographic and data literacy, and extensive digital resources.
 
 The Leventhal Center is known for the size and significance of its collection, as well as its engagement with K-12 audiences. With a global scope and a regional specialization in Boston and New England, the Center is a leader in exploring the study of places, societies, landscapes and history through the lens of maps and geography.
 
-### **About the Boston Public Library**
+#### About the Boston Public Library
 
 The Boston Public Library (BPL) provides educational, cultural, and civic enrichment free to all through its collections, services, programs, and spaces. Established in 1848, the Boston Public Library is a pioneer of public library service in America. It was the first large free municipal library in the United States, the first public library to lend books, the first to have a branch library, and the first to have a children’s room.
 
