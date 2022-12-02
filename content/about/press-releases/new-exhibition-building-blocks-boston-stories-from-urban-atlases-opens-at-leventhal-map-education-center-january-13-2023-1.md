@@ -14,7 +14,7 @@ draft: true
 
 ##### In-person show opens January 13 in the Leventhal Center gallery at the Boston Public Library with accompanying digital exhibition available soon.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw59w/full/,500/0/default.jpg" caption="A 1976 environmental management blueprint of Sales Creek in Revere, with oil facilities, housing, heavy infrastructure, and a highly engineered coastline, shows how the environment bears the mark of social decisions." class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c490j/full/2000,/0/default.jpg" caption="A 1938 [atlas plate]() of Back Bay offers a detailed snapshot of the neighborhood's bustling businesses, residences, and transport." class="figure-left" >}}
 
 **BOSTON — March 3, 2022 —** An ambitious new exhibition that spotlights how environmental design and social inequality are intertwined in the past and present opens this month at the Leventhal Map & Education Center at the Boston Public Library (BPL). _More or Less in Common: Environment and Justice in the Human Landscape_ includes rare materials from the BPL’s historic collection alongside newly created visual investigations of environmental challenges from Boston and beyond. Visitors will find objects that range from nineteenth-century plans for Boston’s park system by Frederick Law Olmsted’s firm, to 1970s protest posters and future-facing contemporary designs for climate justice. _More or Less in Common_ runs March 18 through December 28, 2022 and, like all exhibitions at the Leventhal Center, it is free to the public at the BPL Central Library in Copley Square.
 
