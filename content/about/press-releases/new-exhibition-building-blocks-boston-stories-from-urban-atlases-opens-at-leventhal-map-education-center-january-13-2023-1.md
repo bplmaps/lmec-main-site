@@ -22,10 +22,10 @@ draft: true
 
 Among the exhibition highlights:
 
-* Wall 2
-* African meeting house..
-* A collection of local histories uncovered and reconstructed by a team of teen curators…
-* An interwoven history of Florida Ruffin Ridley..
+* 
+* 
+* 
+* 
 
 #### A Digital and Physical Exhibition
 
