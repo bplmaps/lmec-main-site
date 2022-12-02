@@ -3,7 +3,7 @@ title: The two ways to make something louder
 author: Ian Spangler
 description: How noise pollutes even when nobody's listening
 date: 2022-12-10T01:30:00.000+00:00
-image: "/uploads/noisepop.png"
+image: "/uploads/noisepop-boston.png"
 backgroundImage: "uploads/noisepop.png"
 tags: [more or less in common, noise, airport, bivariate, pollution]
 
