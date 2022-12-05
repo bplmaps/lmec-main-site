@@ -22,7 +22,7 @@ draft: true
 Among the exhibition highlights:
 
 * 
-* A collection of local histories uncovered and reconstructed by a team of teen curators, including the origins of Ronan Park in Dorchester, Kelleher Rose Garden in Back Bay Fens, and the once-bustling cattle industry of Brighton. \[Image 1; Image 2; Image 3\]
+* A collection of local histories uncovered and reconstructed by a team of teen curators, including the origins of Ronan Park in Dorchester, Kelleher Rose Garden in Back Bay Fens, and the once-bustling cattle industry of Brighton. \[Image 1; [Image 2](https://collections.leventhalmap.org/search/commonwealth:1257c3871); Image 3\]
 * An interwoven, biographic account of Florida Ruffin Ridley, a young, Black Bostonian teacher, activist and writer who worked, studied, played, and created within the landscapes on display. \[[Image](https://bostonpubliclibrary.sharepoint.com/sites/LeventhalMap/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FLeventhalMap%2FShared%20Documents%2FEducation%2FK%2D12%2FExhibitions%2FBuilding%20Blocks%2FFlorida%2FImages%20for%20design%2FCC%5Fconvention%2Ejpeg&parent=%2Fsites%2FLeventhalMap%2FShared%20Documents%2FEducation%2FK%2D12%2FExhibitions%2FBuilding%20Blocks%2FFlorida%2FImages%20for%20design&p=true&ga=1)\]
 
   #### A Digital and Physical Exhibition
