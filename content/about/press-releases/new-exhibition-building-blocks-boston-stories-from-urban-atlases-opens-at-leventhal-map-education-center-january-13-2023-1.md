@@ -9,7 +9,6 @@ description: 'A new, free exhibition at the Leventhal Map & Education Center exp
 draft: true
 
 ---
-
 ### A new, free exhibition at the Leventhal Map & Education Center explores an extraordinary moment in the urban transformation of Boston through the lens of the Center’s urban atlas collection.
 
 ##### In-person show opens January 13 in the Leventhal Center gallery at the Boston Public Library with accompanying digital exhibition available soon.
@@ -24,7 +23,7 @@ Among the exhibition highlights:
 
 * 
 * 
-* 
+* A collection of local histories uncovered and reconstructed by a team of teen curators, including the origins of Ronan Park in Dorchester, Kelleher Rose Garden in Back Bay Fens, and 
 * 
 
 #### A Digital and Physical Exhibition
