@@ -24,7 +24,7 @@ Among the exhibition highlights:
 * 
 * 
 * A collection of local histories uncovered and reconstructed by a team of teen curators, including the origins of Ronan Park in Dorchester, Kelleher Rose Garden in Back Bay Fens, and the once-bustling cattle industry of Brighton. 
-* An interwoven history of Florida Ruffin Ridley, a young, Black Bostonian teacher, activist and writer 
+* An interwoven, biographic account of Florida Ruffin Ridley, a young, Black Bostonian teacher, activist and writer who worked, studied, played, and created within the landscapes on display.
 
   #### A Digital and Physical Exhibition
 
