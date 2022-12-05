@@ -23,7 +23,7 @@ Among the exhibition highlights:
 
 * 
 * 
-* A collection of local histories uncovered and reconstructed by a team of teen curators, including the origins of Ronan Park in Dorchester, Kelleher Rose Garden in Back Bay Fens, and 
+* A collection of local histories uncovered and reconstructed by a team of teen curators, including the origins of Ronan Park in Dorchester, Kelleher Rose Garden in Back Bay Fens, and the once-bustling cattle industry of Brighton. 
 * 
 
 #### A Digital and Physical Exhibition
