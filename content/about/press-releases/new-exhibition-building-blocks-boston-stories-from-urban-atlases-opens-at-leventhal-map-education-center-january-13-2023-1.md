@@ -24,9 +24,9 @@ Among the exhibition highlights:
 * 
 * 
 * A collection of local histories uncovered and reconstructed by a team of teen curators, including the origins of Ronan Park in Dorchester, Kelleher Rose Garden in Back Bay Fens, and the once-bustling cattle industry of Brighton. 
-* 
+* An interwoven history of Florida Ruffin Ridley, a young, Black Bostonian teacher, activist and writer 
 
-#### A Digital and Physical Exhibition
+  #### A Digital and Physical Exhibition
 
 For those who can’t visit the exhibition at the Boston Public Library, the Leventhal Map and Education Center will create a digital exhibition that offers a chance to experience _Building Blocks_ from anywhere. The online exhibition will feature a self-guided tour of the themes and objects in the live show, links to related essays and resources, zoomable views of ultra-high-resolution historic objects, and lesson plans and classroom items for teachers.
 
