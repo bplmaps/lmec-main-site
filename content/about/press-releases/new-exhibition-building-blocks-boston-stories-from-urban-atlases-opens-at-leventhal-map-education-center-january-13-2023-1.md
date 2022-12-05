@@ -21,7 +21,7 @@ draft: true
 
 Among the exhibition highlights:
 
-* A ...
+* An encompassing look at the transforming city skyline 
 
 
 * A collection of local histories uncovered and reconstructed by a team of teen curators, including the origins of Ronan Park in Dorchester, Kelleher Rose Garden in Back Bay Fens, and the once-bustling cattle industry of Brighton. \[[Image 1](https://collections.leventhalmap.org/search/commonwealth:1257bz472); [Image 2](https://collections.leventhalmap.org/search/commonwealth:1257c3871); [Image 3](https://www.digitalcommonwealth.org/search/commonwealth:0c4862940)\]
