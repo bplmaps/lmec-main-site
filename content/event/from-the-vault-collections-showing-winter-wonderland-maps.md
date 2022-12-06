@@ -14,7 +14,7 @@ tags:
 ---
 ### About this event
 
-{{< figure src="/uploads/2022-10-14/siss4984.jpeg" caption="Soft City will be on display in our gallery for the month of December." class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cx138/full/2000,/0/default.jpg" caption="Can you find Old Man Winter on this \~1672 double hemisphere world map?" >}}
 
 Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at maps from our collections that speak to the spirit of winter. 
 
