@@ -47,10 +47,6 @@ slider:
 cta:
   enable: true
   announcements:
-  - badge: Deadline approaching
-    text: Applications for our inaugural Cartography Challenge are due by 10PM ET
-      on Monday, December 19
-    link: https://www.leventhalmap.org/projects/cartography-challenge/immigration-in-boston/
   - badge: Currently on display
     text: The Soft City pop-up exhibition is now on display to accompany our ongoing
       environmental justice exhibition
@@ -58,6 +54,10 @@ cta:
   - badge: Digital exhibition
     text: Browse the accompanying digital exhibition for "More or Less in Common"
     link: https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/
+  - badge: Deadline approaching
+    text: Applications for our Cartography Challenge, Visualizing Immigration in Greater
+      Boston, are due by 10PM on Monday, December 19
+    link: https://www.leventhalmap.org/projects/cartography-challenge/immigration-in-boston/
 audiences:
   enable: true
   audienceGroups:
