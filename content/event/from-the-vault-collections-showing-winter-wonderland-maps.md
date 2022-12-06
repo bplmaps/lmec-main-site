@@ -14,7 +14,7 @@ tags:
 ---
 ### About this event
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cx138/full/2000,/0/default.jpg" caption="Can you find Old Man Winter on this \~1672 double hemisphere [world map](https://collections.leventhalmap.org/search/commonwealth:st74cx120)?" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cx138/full/,1200/0/default.jpg" caption="Can you find Old Man Winter on this \~1672 double hemisphere [world map](https://collections.leventhalmap.org/search/commonwealth:st74cx120)?" class="figure-right" >}}
 
 Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at maps from our collections that speak to the spirit of winter. 
 
