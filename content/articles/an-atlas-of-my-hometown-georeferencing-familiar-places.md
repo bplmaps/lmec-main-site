@@ -1,5 +1,5 @@
 ---
-date: 2022-11-29T09:40:18-05:00
+date: 2022-11-29T09:40:18.000-05:00
 title: 'An Atlas of My Hometown: Georeferencing Familiar Places '
 description: ''
 image: https://www.notion.so/bplmaps/An-Atlas-of-My-Hometown-Georeferencing-Familiar-Places-aac4e70d4c044c2d8044bdc668b62015#89bb520cf24145af8b3b67e4bc1fa305
@@ -54,6 +54,7 @@ While georeferencing some of the more remote corners of the map, where streets w
 
 In fact, water is one of the most notorious pieces of the map that you want to avoid using. Take a look at this plate here, where an entire lake was made between then and now: \[Atlas Plate
 
-Rivers have a tendency to meander over time - to change their shape and the landscape around them - when humans haven't intervened. Old bridges were rather useful for pinpointing places along the rivers path that have remained the same, just make sure it’s the same bridge and it wasn't replaced or washed away by a flood (like the bridge in front of the {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f464t49b/2301,5757,936,737/full/0/default.jpg" >}} Ipswich Mills){{</popup>}}  For instance, the \[bridge\] over Essex Road (now Old Essex Road) was a helpful point in a very empty landscape.
+Rivers have a tendency to meander over time - to change their shape and the landscape around them - when humans haven't intervened. Old bridges were rather useful for pinpointing places along the rivers path that have remained the same, just make sure it’s the same bridge and it wasn't replaced or washed away by a flood (like the bridge in front of the {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f464t49b/2301,5757,936,737/full/0/default.jpg" >}} Ipswich Mills){{</popup>}}  For instance, this old
+{{<popup src ="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7s75h299w/3025,2886,1889,1246/full/0/default.jpg">}}bridge{{</popup>}} over the marshy Essex River on Essex Road (now Old Essex Road) was a helpful point in a very empty landscape.
 
 While poring over this atlas, I got the chance to notice all sorts of unique details about the history of my town - like {{< popup src ="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f464t49b/3193,5974,693,440/full/0/default.jpg" >}} 16 Elm Street, {{</popup>}} which was moved [to the Smithsonian in Washington D.C.](https://www.si.edu/exhibitions/within-these-walls:event-exhib-169) or the location of {{<popup src = "link" >}}gas works{{</popup>}} where a parking lot now is. I even encountered markings that I had never seen on a map before at the {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v979xs03p/2076,493,2455,1779/full/0/default.jpg" >}} Myopia Hunt Club {{</popup>}} which turned out to be the grounds of the golf course. You never know what you might find out while georeferencing!
