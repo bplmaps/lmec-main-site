@@ -4,11 +4,11 @@ author: Ian Spangler
 description: How noise pollutes even when nobody's listening
 date: 2022-12-10T01:30:00.000+00:00
 image: "/uploads/noisepop-boston.png"
-backgroundImage: "uploads/noisepop.png"
-tags: [more or less in common, noise, airport, bivariate, pollution]
+backgroundImage: uploads/noisepop.png
+tags:
+- more or less in common
 
 ---
-
 The term ["noisy data"](https://en.wikipedia.org/wiki/Noisy_data) usually refers to unwanted, irrelevant, or otherwise corrupt information in a dataset. For mapmakers, separating the signal from the noise is a fundamental part of the analytic and cartographic process. However, when trying to map something like [noise pollution](https://www.vox.com/22550899/noise-pollution-vox-glad-you-asked)---or unwanted and excessively loud sounds in a particular environment---"noisy data" takes on an entirely different meaning.
 
 {{< figure src="/uploads/noise-map-small.png" caption="[Our visualization](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/social-eco-boundaries/) of the DOT's [transportation noise map](https://maps.dot.gov/BTS/NationalTransportationNoiseMap/), focused on the Greater Boston region." class="figure-left">}}
