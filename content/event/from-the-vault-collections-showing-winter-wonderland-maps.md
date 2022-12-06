@@ -10,14 +10,13 @@ registration: ''
 tags:
 - collections
 - from the vault
-draft: true
 
 ---
 ### About this event
 
 {{< figure src="/uploads/2022-10-14/siss4984.jpeg" caption="Soft City will be on display in our gallery for the month of December." class="figure-right" >}}
 
-Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at maps from our collections that 
+Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at maps from our collections that speak to the spirit of winter. 
 
 _Drop in any time between 2:00PM - 4:00PM._
 
