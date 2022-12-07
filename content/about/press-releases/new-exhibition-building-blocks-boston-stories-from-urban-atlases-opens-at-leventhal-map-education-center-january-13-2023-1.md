@@ -3,13 +3,13 @@ title: 'New Exhibition Building Blocks: Boston Stories from Urban Atlases opens 
   Leventhal Map & Education Center January 13, 2023'
 type: singleton
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht24zx167/1700,2065,4591,2867/2000,/0/default.jpg
-description: 'A new, free exhibition at the Leventhal Map & Education Center explores
-  an extraordinary moment in the urban transformation of Boston through the lens of
-  the Center’s urban atlas collection. '
+description: 'A new exhibition at the Leventhal Map & Education Center explores an
+  extraordinary moment in the urban transformation of Boston through the lens of the
+  Center’s urban atlas collection. '
 draft: true
 
 ---
-### A new, free exhibition at the Leventhal Map & Education Center explores an extraordinary moment in the urban transformation of Boston through the lens of the Center’s urban atlas collection.
+### A new exhibition at the Leventhal Map & Education Center explores an extraordinary moment in the urban transformation of Boston through the lens of the Center’s urban atlas collection.
 
 ##### In-person show opens January 13 in the Leventhal Center gallery at the Boston Public Library with accompanying digital exhibition available soon.
 
