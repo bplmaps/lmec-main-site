@@ -16,9 +16,12 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 ## Workshops and Courses
 
-{{< pd-listing image="/uploads/2022-10-25/world_crop.jpg" title="Small Bites 2022-2023: Native People and Settler Colonialism: A Story of Land and Maps" subtitle="Thursday, January 12, 3:30-4:30 pm" description="Join Map Center K-12 educators to explore a variety of maps made by Indigenous and Euro-American cartographers to uncover Native presence and the dispossession of Native lands. Take away a lesson you can teach right away in your classroom.." signUpLink="[https://www.eventbrite.com/e/native-people-settler-colonialism-a-story-of-land-and-maps-tickets-476763040087]" >}}
+{{< pd-listing image="/uploads/2022-10-25/world_crop.jpg" title="Small Bites 2022-2023: Native People and Settler Colonialism: A Story of Land and Maps" subtitle="Thursday, January 12, 3:30-4:30 pm" description="Join Map Center K-12 educators to explore a variety of maps made by Indigenous and Euro-American cartographers to uncover Native presence and the dispossession of Native lands. Take away a lesson you can teach right away in your classroom." signUpLink="https://www.eventbrite.com/e/native-people-settler-colonialism-a-story-of-land-and-maps-tickets-476763040087" >}}
 
-{{< pd-listing image="/uploads/2022-10-25/world_crop.jpg" title="Small Bites 2022-2023: Map Learning for Elementary Students: What Is a Map?" subtitle="Thursday, March 9, 3:30-4:30 pm" description="Join Map Center K-12 educators to learn how we introduce young learners to maps and how to think about them. Take away a lesson you can teach right away in your classroom." signUpLink="[" >}}
+{{< pd-listing image="/uploads/2022-10-25/world_crop.jpg" title="Small Bites 2022-2023: Map Learning for Elementary Students: What Is a Map?" subtitle="Thursday, March 9, 3:30-4:30 pm" description="Join Map Center K-12 educators to learn how we introduce young learners to maps and how to think about them. Take away a lesson you can teach right away in your classroom." signUpLink="https://www.eventbrite.com/e/map-learning-for-elementary-students-what-is-a-map-tickets-478273227097" >}}
+
+{{< pd-listing image="/uploads/2022-10-25/world_crop.jpg" title="
+Maps in the Classroom: The American Revolution" subtitle="Thursday, April 6, 3:30-4:30 pm" description="Join Map Center K-12 educators to learn how we introduce young learners to maps and how to think about them. Take away a lesson you can teach right away in your classroom." signUpLink="https://www.eventbrite.com/e/maps-in-the-classroom-american-revolution-tickets-478320428277" >}}
 
 {{< alert-box type="warning" title="Online Professional Development Opportunity" icon="fas fa-laptop-house" >}}
 
