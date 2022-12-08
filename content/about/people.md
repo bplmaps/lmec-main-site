@@ -38,7 +38,7 @@ Ronald P. O’Hanley
 Richard Pegg  
 Barry L. Ruderman  
 Oscar Santos  
-William J. Schnoor, Esq.  
+William J. Schnoor  
 Natacha Scott  
 Christian J. Westra, Esq.
 
