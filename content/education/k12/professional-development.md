@@ -16,7 +16,9 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 ## Workshops and Courses
 
-{{< pd-listing image="/uploads/2022-10-25/world_crop.jpg" title="Small Bites 2022-2023: World Maps Over Time" subtitle="Thursday, November 17, 2022, 3:30-4:30 pm" description="Celebrate Geography Awareness Week! Join Map Center educators to try out one of our most popular lessons for middle school grades. Explore key concepts such as perspective, audience, and purpose through world maps that span the centuries and include thematic maps as well as more unusual examples such as a cartogram showing world population. At the end of the lesson, take away a ready-to-teach version of the lesson complete with slides and interactive digital map activities." signUpLink="https://www.eventbrite.com/x/small-bites-2022-2023-world-maps-over-time-tickets-440424881677" >}}
+{{< pd-listing image="/uploads/2022-10-25/world_crop.jpg" title="Small Bites 2022-2023: Native People and Settler Colonialism: A Story of Land and Maps" subtitle="Thursday, January 12, 3:30-4:30 pm" description="Join Map Center K-12 educators to explore a variety of maps made by Indigenous and Euro-American cartographers to uncover Native presence and the dispossession of Native lands. Take away a lesson you can teach right away in your classroom.." signUpLink="[https://www.eventbrite.com/e/native-people-settler-colonialism-a-story-of-land-and-maps-tickets-476763040087]" >}}
+
+{{< pd-listing image="/uploads/2022-10-25/world_crop.jpg" title="Small Bites 2022-2023: Map Learning for Elementary Students: What Is a Map?" subtitle="Thursday, March 9, 3:30-4:30 pm" description="Join Map Center K-12 educators to learn how we introduce young learners to maps and how to think about them. Take away a lesson you can teach right away in your classroom." signUpLink="[" >}}
 
 {{< alert-box type="warning" title="Online Professional Development Opportunity" icon="fas fa-laptop-house" >}}
 
