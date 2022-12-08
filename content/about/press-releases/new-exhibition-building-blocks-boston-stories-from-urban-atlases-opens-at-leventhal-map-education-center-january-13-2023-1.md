@@ -39,7 +39,7 @@ _Building Blocks_ utilizes the same collection of atlases that are accessible in
 
 #### Education and Public Access
 
-_Building Blocks_ will feature a variety of ways for young people, educators, and families to explore everyday life in Boston a century ago. Window nooks geared to young people will feature activities such as a matching game identifying the shapes of locations in the atlases (such as the vanished South End baseball grounds) with photos of those same places. Young people and families can also follow the story of Florida Ruffin Ridley and her life as a young, Black Bostonian teacher, activist and writer at the turn of the 20th century. Ridley’s story connects with many of the larger themes in the exhibition and highlights many locations of importance to Boston’s Black community at that time.
+_Building Blocks_ will feature a variety of ways for young people, educators, and families to explore everyday life in Boston a century ago. Window nooks geared to young people will feature activities such as a matching game identifying the shapes of locations in the atlases (such as the vanished South End baseball grounds) with photos of those same places. Young people and families can also follow the story of Florida Ruffin Ridley and her life as a young, Black Bostonian teacher, activist and writer at the turn of the twentieth century. Ridley’s story connects with many of the larger themes in the exhibition and highlights many locations of importance to Boston’s Black community at that time.
 
 #### Community Events
 
@@ -47,7 +47,7 @@ Public events and outreach programs during the run of _Building Blocks_ will inc
 
 #### Hours and Exhibition Details
 
-_Building Blocks: Boston Stories from Urban Atlases_ is open **Tuesdays, Thursdays, Fridays, and Saturdays from 11 am-5 pm, Wednesdays from 1-7 pm, and Sundays from 1-5pm. Admission is free.** Guided tours are available at all times by request.
+_Building Blocks_ is open **Tuesdays, Thursdays, Fridays, and Saturdays from 11 am-5 pm, Wednesdays from 1-7 pm, and Sundays from 1-5pm. Admission is free.** Guided tours are available at all times by request.
 
 * More information on the exhibition, including directions, access and visitor requirements can be found at [leventhalmap.org/exhibitions](https://leventhalmap.org/exhibtions).
 * An updated calendar of events and programs associated with _Building Blocks_ can be found at [leventhalmap.org/event](https://leventhalmap.org/event).
