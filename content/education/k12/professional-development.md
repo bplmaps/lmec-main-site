@@ -20,8 +20,7 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 {{< pd-listing image="/uploads/2022-12-08/wiam.png" title="Small Bites 2022-2023: Map Learning for Elementary Students: What Is a Map?" subtitle="Thursday, March 9, 3:30-4:30 pm" description="Join Map Center K-12 educators to learn how we introduce young learners to maps and how to think about them. Take away a lesson you can teach right away in your classroom." signUpLink="https://www.eventbrite.com/e/map-learning-for-elementary-students-what-is-a-map-tickets-478273227097" >}}
 
-{{< pd-listing image="/uploads/2022-10-25/world_crop.jpg" title="
-Maps in the Classroom: The American Revolution" subtitle="Thursday, April 6, 3:30-4:30 pm" description="Join Map Center K-12 educators to learn how we introduce young learners to maps and how to think about them. Take away a lesson you can teach right away in your classroom." signUpLink="https://www.eventbrite.com/e/maps-in-the-classroom-american-revolution-tickets-478320428277" >}}
+{{< pd-listing image="/uploads/2022-12-08/amrev.png" title="Maps in the Classroom: The American Revolution" subtitle="Thursday, April 6, 3:30-4:30 pm" description="Join Map Center K-12 educators to learn how we introduce young learners to maps and how to think about them. Take away a lesson you can teach right away in your classroom." signUpLink="https://www.eventbrite.com/e/maps-in-the-classroom-american-revolution-tickets-478320428277" >}}
 
 {{< alert-box type="warning" title="Online Professional Development Opportunity" icon="fas fa-laptop-house" >}}
 
