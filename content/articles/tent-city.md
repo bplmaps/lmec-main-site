@@ -17,4 +17,4 @@ draft: true
 
 {{< figure src="/uploads/2022-12-09/screen-shot-2022-12-09-at-2-50-33-pm.png" caption="" class="figure-right" >}}
 
-In August 1965, the Boston Redevelopment Authority released the [South End Urban Renewal Plan](http://www.bostonplans.org/documents/planning/urban-renewal/south-end/south-end-urban-renewal-plans-1965) following a wave of increased urban renewal enthusiasm from [federal and local governments](https://www.southendhistoricalsociety.org/south-end-history-part-iii-urban-renewal/) alike.
+In August 1965, the Boston Redevelopment Authority released the [South End Urban Renewal Plan](http://www.bostonplans.org/documents/planning/urban-renewal/south-end/south-end-urban-renewal-plans-1965) following a wave of increased urban renewal enthusiasm from [federal and local governments](https://www.southendhistoricalsociety.org/south-end-history-part-iii-urban-renewal/) alike. Objectives laid out in the \~50 page report are as follows:![](/uploads/2022-12-09/screen-shot-2022-12-09-at-2-52-22-pm.png)
