@@ -47,6 +47,9 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Coming soon
+    text: 'Building Blocks: Boston Stories from Urban Atlases opens January 13 '
+    link: https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/
   - badge: Currently on display
     text: The Soft City pop-up exhibition is now on display to accompany our ongoing
       environmental justice exhibition
