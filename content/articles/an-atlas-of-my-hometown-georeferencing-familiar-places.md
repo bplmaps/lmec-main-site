@@ -7,7 +7,7 @@ author: Ezra Acevedo
 tags:
 - Collections
 - Georeferencing
-backgroundImage: ''
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:bn99cx319/full/full/0/default.jpg
 draft: true
 
 ---
