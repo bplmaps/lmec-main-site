@@ -35,7 +35,7 @@ Using the familiar historic houses of Ipswich was very helping for georeferencin
 
 Occasionally I would look for houses that I knew were built before 1910 only to discover that they weren’t in the same location on the Atlas. There are a couple of historic houses along this stretch of {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:r207xc30h/7572,4530,2092,1973/full/0/default.jpg" >}} East Street {{</popup>}} now called Jeffrey’s Neck Road that I was familiar with, but upon consulting my local historical societies website, I learned that they were actually moved to their [current](https://historicipswich.org/ross-tavern) [locations](https://historicipswich.org/shatswell-planters-cottage-jeffreys-neck-road) in the 1940s. Talk about complicated!
 
-##### Look for Ghosts in the Landscape
+##### Finding Ghosts in the Landscape
 
 Of course, while some things that are there today, aren’t represented in the past, even more things that existed in the past have been removed, torn down or destroyed. Ipswich, Essex, and Hamilton all had streetcar lines that provided means for people to get around town, a interesting piece of history to see from a place where public transportation barely exists today. Some of these pieces of former infrastructure that are long gone from the modern street map have left their mark in the landscape like little ghosts.
 
