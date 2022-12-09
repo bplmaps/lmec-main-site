@@ -17,4 +17,4 @@ draft: true
 
 In August 1965, the Boston Redevelopment Authority released the [South End Urban Renewal Plan](http://www.bostonplans.org/documents/planning/urban-renewal/south-end/south-end-urban-renewal-plans-1965) following a wave of increased urban renewal enthusiasm from [federal and local governments](https://www.southendhistoricalsociety.org/south-end-history-part-iii-urban-renewal/) alike. The objectives of the plan, as outlined in the opening pages of the document, read as follows: 
 
-![](/uploads/2022-12-09/screen-shot-2022-12-09-at-2-52-22-pm.png)
+![](/uploads/2022-12-09/objectives.jpeg)
