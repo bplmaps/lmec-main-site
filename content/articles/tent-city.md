@@ -15,4 +15,6 @@ draft: true
 ---
 > This article digs into a case study from our latest [Digital Commonwealth](https://www.digitalcommonwealth.org/) primary source set, [Activism in Boston Over Time](https://www.digitalcommonwealth.org/for_educators/primary_source_sets/activism_in_boston_over_time). In the set, you will find a collection of maps, photographs, film, and documents that reveal change over time in different Boston neighborhoods and the role of activism in driving those changes. You can also find a [lesson plan](https://docs.google.com/presentation/d/1PUi7o35Y-6EPGe0dOq8wi9jmj5C78Md7qrLn6ZVoIOE/edit#slide=id.p) for students in grades 8–12 that incorporates many of these sources as well as several others.
 
-In August 1965, the Boston Redevelopment Authority released the [South End Urban Renewal Plan](http://www.bostonplans.org/documents/planning/urban-renewal/south-end/south-end-urban-renewal-plans-1965) 
+{{< figure src="/uploads/2022-12-09/screen-shot-2022-12-09-at-2-50-33-pm.png" caption="" class="figure-right" >}}
+
+In August 1965, the Boston Redevelopment Authority released the [South End Urban Renewal Plan](http://www.bostonplans.org/documents/planning/urban-renewal/south-end/south-end-urban-renewal-plans-1965) with goals to "achieve neighborhood, industrial, commercial and institutional stability" while eliminating "
