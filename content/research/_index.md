@@ -36,6 +36,6 @@ Maps and geographic material can be useful for answering countless different typ
 
 If you're unsure where to start, or have a general question about maps, historical geography, or geospatial data, please use the following form to contact a librarian.
 
-<iframe src="[https://ask.bpl.org/form?queue_id=6316](https://ask.bpl.org/form?queue_id=6316 "https://ask.bpl.org/form?queue_id=6316")" width="100%" height="400" title="LMEC reference question form">
+<iframe src="https://ask.bpl.org/form?queue_id=6316" width="100%" height="400" title="LMEC reference question form">
 
 </iframe>
