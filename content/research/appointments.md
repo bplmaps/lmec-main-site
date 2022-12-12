@@ -33,6 +33,6 @@ You are welcome to bring your laptop, silenced phone, camera and associated cord
 
 Our reference library staff can help you find material in our Digital Collections, and conduct research related to historical geography.
 
-<iframe src="[https://ask.bpl.org/form?queue_id=6316](https://ask.bpl.org/form?queue_id=6316 "https://ask.bpl.org/form?queue_id=6316")" width="100%" height="800" title="LMEC reference question form">
+<iframe src="[https://ask.bpl.org/form?queue_id=6316](https://ask.bpl.org/form?queue_id=6316 "https://ask.bpl.org/form?queue_id=6316")" width="100%" height="400" title="LMEC reference question form">
 
 </iframe>
