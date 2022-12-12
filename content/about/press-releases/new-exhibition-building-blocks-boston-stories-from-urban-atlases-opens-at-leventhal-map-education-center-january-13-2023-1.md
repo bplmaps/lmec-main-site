@@ -69,6 +69,10 @@ The Leventhal Center is known for the size and significance of its collection, a
 
 ### About the Boston Public Library
 
-The Boston Public Library (BPL) provides educational, cultural, and civic enrichment free to all through its collections, services, programs, and spaces. Established in 1848, the Boston Public Library is a pioneer of public library service in America. It was the first large free municipal library in the United States, the first public library to lend books, the first to have a branch library, and the first to have a children’s room.
+Established in 1848, the Boston Public Library is a pioneer of public library service in America. It was the first large, free municipal library in the United States; the first public library to lend books; the first to have a branch library; and the first to have a children’s room.
 
-The Boston Public Library of today encompasses the Central Library in Copley Square, which includes the newly-renovated and vibrant Boylston Street Building, 25 branches, the Norman B. Leventhal Map and Education Center, the Kirstein Business and Innovation Center, and an archival center. The Library provides access to world-class special collections of rare books, manuscripts, photographs, and prints, along with rich digital content and online services. BPL hosts thousands of free educational programs and exhibitions, and provides free library services online and in-person to millions of people each year.
+The Boston Public Library of today is a robust system that includes the Central Library in Copley Square, 25 neighborhood branches, the Norman B. Leventhal Map and Education Center, the Kirstein Business and Innovation Center, and an archival center, offering public access to world-class special collections of rare books, manuscripts, photographs, and prints, along with rich digital content and online services.
+
+The Boston Public Library serves nearly 4 million visitors per year and millions more online. All of its programs and exhibitions are free to all and open to the public.
+
+The Boston Public Library is a department of the City of Boston, under the leadership of Mayor Michelle Wu. To learn more, visit [bpl.org](http://bpl.org/).
