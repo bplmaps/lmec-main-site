@@ -15,7 +15,7 @@ Non-Massachusetts residents can apply for a research card for the purpose of usi
 
 #### Requests to View Materials
 
-Appointments are required in order to make a visit to the Rare Maps Reading Room. As a standard, appointments require four days advance booking, though special accommodations can occassionally be granted.  
+Appointments are required in order to make a visit to the Rare Maps Reading Room. As a standard, appointments require four days advance booking, though special accommodations can occassionally be granted.
 
 Requests for materials and appointment scheduling is conducted through the online [Aeon system](https://readingroom.bpl.org/). You will need to register for an Aeon account (which is distinct from a BPL catalog library card account) online, and at your first visit you will need to validate your registration by showing your library research card.
 
@@ -33,4 +33,6 @@ You are welcome to bring your laptop, silenced phone, camera and associated cord
 
 Our reference library staff can help you find material in our Digital Collections, and conduct research related to historical geography.
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrUU7FiIqgOQf1HK?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc; margin-bottom: 50px;"></iframe>
+<iframe src="[https://ask.bpl.org/form?queue_id=6316](https://ask.bpl.org/form?queue_id=6316 "https://ask.bpl.org/form?queue_id=6316")" width="100%" height="800" title="LMEC reference question form">
+
+</iframe>
