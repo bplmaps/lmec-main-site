@@ -45,7 +45,7 @@ In [_More or Less in Common: Environment and Justice in the Human Landscape_,](h
 
 ## Coming Soon: Rotating Exhibition
 
-### _Building Blocks: Boston Stories from Urban Atlases_
+### [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/)
 
 **January 13–August 19, 2023**
 
