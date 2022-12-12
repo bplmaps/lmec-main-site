@@ -74,6 +74,6 @@ Happy mapping!
 
 Please reach out to us using the form below:
 
-<iframe src="[https://ask.bpl.org/form?queue_id=6316](https://ask.bpl.org/form?queue_id=6316 "https://ask.bpl.org/form?queue_id=6316")" width="100%" height="400" title="LMEC reference question form">
+<iframe src="https://ask.bpl.org/form?queue_id=6316" width="100%" height="400" title="LMEC reference question form">
 
 </iframe>
