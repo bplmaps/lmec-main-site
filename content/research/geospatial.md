@@ -21,6 +21,7 @@ quicklinks:
 The Leventhal Map & Education Center offers **geospatial information services** to help you create, find, manipulate and preserve information stored in digital formats compatible with mapping software and GIS (Geographic Information Systems).
 
 Our specific services include:
+
 * Cartinal, our [guides & documentation portal](#cartinal);
 * A robust [data portal](#data-portal) with special focus on Boston & New England; and
 * One-on-one consultations with [geospatial library staff](#make-request).
@@ -31,7 +32,7 @@ Happy mapping!
 
 [{{< figure src="/uploads/cartinal.png" class="figure-center" >}}](https://cartinal.leventhalmap.org)
 
->[Cartinal](https://geoservices.leventhalmap.org/cartinal/) includes numerous guides, tutorial, and documentation sources for geospatial data and projects. You'll find both step-by-step guides that are suitable for beginners, as well as more advanced documentation for our data services and resources.
+> [Cartinal](https://geoservices.leventhalmap.org/cartinal/) includes numerous guides, tutorial, and documentation sources for geospatial data and projects. You'll find both step-by-step guides that are suitable for beginners, as well as more advanced documentation for our data services and resources.
 
 **What kinds of resources can I find in Cartinal?**
 
@@ -48,9 +49,10 @@ Happy mapping!
 
 [{{< figure src="/uploads/dataportal.png" class="figure-center">}}](https://data.leventhalmap.org)
 
->As part of a [public data project](https://www.leventhalmap.org/articles/introducing-our-public-data-project/), the LMEC makes a wide variety of geospatial datasets publicly available. We also developed [our own metadata schema](https://cartinal.leventhalmap.org/documentation/schema/) for describing GIS data.
+> As part of a [public data project](https://www.leventhalmap.org/articles/introducing-our-public-data-project/), the LMEC makes a wide variety of geospatial datasets publicly available. We also developed [our own metadata schema](https://cartinal.leventhalmap.org/documentation/schema/) for describing GIS data.
 
 **What kinds of data can I find in the LMEC portal?**
+
 * Datasets related to [Boston or New England](https://data.leventhalmap.org/#/catalog/dkmv00o45) cleaned up or preserved by the LMEC
 * Datasets that are [useful for teaching](https://data.leventhalmap.org/#/catalog/dkhm2yhrb)
 * Datasets [created during LMEC projects](https://data.leventhalmap.org/#/catalog/dkgsk7g8m), programs, or publications
@@ -60,7 +62,7 @@ Happy mapping!
 
 ### Make an Appointment or Request {#make-request}
 
->Whether you're a seasoned mapmaker looking for project feedback, or a newcomer to the world of digital cartography, we're here to help! Please reach out with GIS questions, project ideas, dataset inquiries, and all other things geospatial.
+> Whether you're a seasoned mapmaker looking for project feedback, or a newcomer to the world of digital cartography, we're here to help! Please reach out with GIS questions, project ideas, dataset inquiries, and all other things geospatial.
 
 **What can our geospatial information library staff provide?**
 
@@ -72,5 +74,6 @@ Happy mapping!
 
 Please reach out to us using the form below:
 
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrcdzwSN1YMw97G2?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe src="[https://ask.bpl.org/form?queue_id=6316](https://ask.bpl.org/form?queue_id=6316 "https://ask.bpl.org/form?queue_id=6316")" width="100%" height="800" title="LMEC reference question form">
+
+</iframe>
