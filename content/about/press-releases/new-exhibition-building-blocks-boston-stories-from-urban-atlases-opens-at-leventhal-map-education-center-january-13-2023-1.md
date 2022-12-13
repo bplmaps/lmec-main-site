@@ -8,6 +8,8 @@ description: 'A new exhibition at the Leventhal Map & Education Center explores 
   Center’s urban atlas collection. '
 
 ---
+<a class="btn btn-primary btn-primary-outline mb-3" href="https://s3.us-east-2.wasabisys.com/lmec-public-files/press-releases/2022-12-13_BuildingBlocks_PressRelease2022.pdf">View this release as a PDF</a>
+
 ### A new exhibition at the Leventhal Map & Education Center explores an extraordinary moment in the urban transformation of Boston through the lens of the Center’s urban atlas collection.
 
 ##### In-person show opens January 13 in the Leventhal Center gallery at the Boston Public Library with accompanying digital exhibition available soon.
