@@ -15,11 +15,11 @@ draft: true
 
 {{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:b5647f763/5560,701,4364,4578/full/0/default.jpg" caption="The atlas was made in 1910 and contains maps made from _Offical Plans and Actual Surveys_" class="figure-right" >}}
 
-This past month I was able to georeference this [Atlas of the towns of Topsfield, Ipswich, Essex, Hamilton and Wenham](https://collections.leventhalmap.org/search/commonwealth:4m90hk372) from 1910. The atlas contains 35 maps of the five towns and depicts the property lines, ownership and materials of the buildings, among other things. It was quite an exciting project to spend some time with because I’m very familiar with the areas that they depict. I grew up in Ipswich and spent a fair amount of time in the surrounding towns. Previously, I had used [Allmaps](allmaps.org), a web tool specifically designed for georeferencing maps in digital collections, to georeference maps of East Boston but nothing I was as familar with as my own hometown.
+This past month, I was able to georeference this [Atlas of the towns of Topsfield, Ipswich, Essex, Hamilton and Wenham](https://collections.leventhalmap.org/search/commonwealth:4m90hk372) from 1910. The atlas contains 35 maps of the five towns and depicts the property lines, ownership, and materials of the buildings, among other details. It was quite an exciting project to spend some time with because I’m very familiar with the areas that they depict. I grew up in Ipswich and spent a fair amount of time in the surrounding towns. Previously, I had used [Allmaps](allmaps.org), a web tool specifically designed for georeferencing maps in digital collections, to georeference maps of East Boston but nothing I was as familiar with as my own hometown.
 
 > Read more about Allmaps in this [interview with developer Bert Spaan](https://www.leventhalmap.org/articles/bert-spaan-interview)
 
-Spending many hours poring over maps of such a well known place was quite exciting. My knowledge of the town coupled with its resistance to change meant that the historical maps of Ipswich we’re all that difficult to line up with the modern map. However I encountered four important lessons while georeferencing my hometown.
+Spending many hours poring over maps of such a well known place was quite exciting. My knowledge of the town coupled with its resistance to change meant that the historical maps of Ipswich were all that difficult to line up with the modern map. However I encountered four important lessons while georeferencing my hometown.
 
 ##### Look for Familiar Streets
 
