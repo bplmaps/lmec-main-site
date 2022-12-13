@@ -15,9 +15,7 @@ The Leventhal Map & Education Center offers a menu of pre-designed programs for 
 
 ### Teaching with our Current Exhibition
 
-Explore education activities and lesson plans related to [_More or Less in Common: Environment and Justice in the Human Landscape._](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/lessons/)
-
-<a class="btn btn-sm btn-primary-outline mt-2" href="https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/lessons/" target="_blank">See exhibition lesson plans<a>
+Education pairings for our upcoming exhibition [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/) coming soon!
 
 ## Pre-Designed K-12 Programming
 
@@ -54,6 +52,8 @@ Please see our [table of education program fees](/education/fees) for informatio
 Programs are 75 – 90 minutes long. Longer sessions allow for more discussion and inquiry. We cannot accommodate groups larger than 40 at a time. As groups larger than 20 may require that we reserve extra space, please be as specific as possible when completing our reservation form.
 
 Please note that there is no designated lunch area for classes in the Boston Public Library.
+
+A visit to the Map Center can be combined with sessions conducted by BPL’s Teen Services Team in Teen Central (grades 6-12), or activities with its Children’s Library Team (grades K-5). [**_Click here_**](https://www.bpl.org/services-central-library/teen-central/) to learn more about Teen Central’s tours, research skills workshops and team-building activities, or [**_click here_**](https://www.bpl.org/services-central-library/childrens-library-at-the-central-library/) to discover the range of Children’s Library services provided at Central.
 
 #### Notes on Outreach Programs
 
