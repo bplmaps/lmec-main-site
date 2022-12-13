@@ -1,7 +1,7 @@
 ---
-date: 2022-11-29T09:40:18.000-05:00
+date: 2022-12-16T09:40:18-05:00
 title: 'An Atlas of My Hometown: Georeferencing Familiar Places '
-description: ''
+description: 'A behind the scenes look at the process of georeferencing '
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:bn99cx319/1392,2330,7911,4065/full/0/default.jpg
 author: Ezra Acevedo
 tags:
