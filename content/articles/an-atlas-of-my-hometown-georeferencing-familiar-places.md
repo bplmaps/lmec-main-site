@@ -19,7 +19,7 @@ This past month, I was able to georeference this [Atlas of the towns of Topsfiel
 
 > Read more about Allmaps in this [interview with developer Bert Spaan](https://www.leventhalmap.org/articles/bert-spaan-interview)
 
-Spending many hours poring over maps of such a well known place was quite exciting. My knowledge of the town coupled with its resistance to change meant that the historical maps of Ipswich were all that difficult to line up with the modern map. However I encountered four important lessons while georeferencing my hometown.
+Spending many hours poring over maps of such a well known place was really exciting. My knowledge of the town coupled with its resistance to change meant that the historic maps of Ipswich weren't all that difficult to line up with the modern map. However, I did learn four important lessons while georeferencing my hometown.
 
 ##### Look for Familiar Streets
 
