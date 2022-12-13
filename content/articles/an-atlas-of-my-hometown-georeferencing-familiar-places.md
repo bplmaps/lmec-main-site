@@ -8,7 +8,6 @@ tags:
 - Collections
 - Georeferencing
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:bn99cx319/full/full/0/default.jpg
-draft: true
 
 ---
 > Many people use our [collections](collections.leventhalmap.org) to look at old maps and atlases of familiar places. They want to see what the place looked like in the past, and the reverse is the same, people who look through old maps wonder what those places look like today. Here at the Leventhal Center, we've created tools like [Atlascope](atlascope.leventhalmap.org) to answer these questions, using [georeferencing](leventhalmap.org/projects/digital-projects/georeferencing) to line up the historic maps with modern ones. As older maps are often slightly inaccurate in their proportions, the maps must often be warped to match the modern landscape. To do this, points of alignment are chosen to correspond with each other on both maps, stretching or compressing the map so each historic street aligns with its modern counterpart.
