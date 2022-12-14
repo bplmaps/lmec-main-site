@@ -8,6 +8,12 @@ suppressEmailPopup: true
 
 ---
 
+## Year-End 2022 Campaign
+
+### Can you help us raise $2,023 in the final weeks before 2023?
+
+<a href="#XKVPMFWX" style="display: none"></a>
+
 
 <a href="#XXRXLNEN" style="display: none"></a>
 
