@@ -13,14 +13,12 @@ tags:
 draft: true
 
 ---
-### About this event 
+### About this event
 
-**Join us for a curatorial introduction to our new exhibition, _Building Blocks: Boston Stories from Urban Atlases._** 
-
-This event will feature a talk by Exhibition Curatorial Fellow **Laura Lee Schmidt**, a Q+A session, and an opportunity to explore the material on display. 
-
-_This program is free and open to all members of the public. Registration on Eventbrite is required._
+Join us for a curatorial introduction to our new exhibition, **_Building Blocks: Boston Stories from Urban Atlases_**_._ This event will feature a talk by Exhibition Curatorial Fellow **Laura Lee Schmidt**, a Q+A session, and an opportunity to explore the material on display.
 
 ##### About Building Blocks
 
 In the period spanning the Civil War to World War II, Boston’s urban fabric experienced profound changes. [_Building Blocks_](https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/) travels to different areas of metropolitan Boston from the 1870s to the 1930s for an episodic view of history, illuminating the many stories that are preserved in the urban atlas collection. Beyond the stories narrated in this exhibition, the rich details of the atlases help modern viewers imagine what one’s own story in a rapidly developing city might have looked like during a moment steeped in change.
+
+_This program is free and open to all members of the public. Registration on Eventbrite is **required**._
