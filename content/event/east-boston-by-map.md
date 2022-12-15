@@ -19,3 +19,5 @@ draft: true
 What was East Boston like in the 19th and 20th centuries? What schools and churches were around? Were any industries based in East Boston? Come learn about how the community has changed over time, and discover how to research the history of your own house and neighborhood.
 
 _Registration is **not** required. If you would like to receive event reminders, please register on Eventbrite_ [here](https://www.eventbrite.com/e/east-boston-by-map-tickets-488132335957). 
+
+> Please see [here](https://www.bpl.org/locations/east-boston/) for directions to the East Boston Branch. 
