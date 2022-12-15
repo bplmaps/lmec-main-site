@@ -1,5 +1,5 @@
 ---
-publishDate: 2022-12-13T15:05:46.000-05:00
+publishDate: 2022-12-15T13:00:46-05:00
 title: East Boston By Map
 date: 2023-02-23T18:00:00.000-05:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k33v/full/2000,/0/default.jpg
@@ -9,7 +9,6 @@ fee: Free
 registration: https://www.eventbrite.com/e/east-boston-by-map-tickets-488132335957
 tags:
 - Neighborhood by map
-draft: true
 
 ---
 ### About this event
