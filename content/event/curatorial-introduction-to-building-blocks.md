@@ -1,16 +1,15 @@
 ---
-publishDate: 2022-12-15T09:51:18-05:00
+publishDate: 2022-12-15T09:51:18.000-05:00
 title: Curatorial Introduction to Building Blocks
-date: 2023-01-18T18:00:00-05:00
+date: 2023-01-18T18:00:00.000-05:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:xp68kk89w/full/1200,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:xp68kk89w/full/1200,/0/default.jpg
 location: 'Commonwealth Salon, Central Library in Copley Square '
 fee: Free
-registration: ''
+registration: https://www.eventbrite.com/e/curatorial-introduction-to-building-blocks-tickets-489625843077
 tags:
 - Exhibition
 - Building Blocks
-draft: true
 
 ---
 ### About this event
