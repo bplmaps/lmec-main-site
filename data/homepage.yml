@@ -56,9 +56,6 @@ cta:
   - badge: Digital exhibition
     text: Browse the companion digital exhibition for "More or Less in Common"
     link: https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/
-  - badge: Deadline approaching
-    text: Apply for our Cartography Challenge by 10PM December 19
-    link: https://www.leventhalmap.org/projects/cartography-challenge/immigration-in-boston/
 audiences:
   enable: true
   audienceGroups:
