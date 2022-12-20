@@ -3,7 +3,7 @@ title: Digital Exhibitions
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fg63q/2690,6509,4326,2466/,1200/0/default.jpg
 description: Interactive and immersive digital exhibitions bring our gallery to your
   computer or phone
-weight: "2"
+weight: "3"
 
 ---
 ## Current digital exhibition

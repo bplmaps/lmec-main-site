@@ -3,7 +3,7 @@ title: Past Exhibitions
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149x907/2895,585,5890,3251/,800/0/default.jpg
 description: Information about our past exhibitions is preserved for teaching, research,
   and exploration
-weight: "3"
+weight: "4"
 
 ---
 ### Bending Lines: Maps and Data from Distortion to Deception
