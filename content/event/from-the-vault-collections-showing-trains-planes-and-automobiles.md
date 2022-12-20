@@ -16,7 +16,7 @@ tags:
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149v07k/246,246,3997,3643/full/0/default.jpg" caption="A [map](https://collections.leventhalmap.org/search/commonwealth:7h149v069) of steam railroads in Boston 1888" class="figure-right" >}}
 
-Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at objects from our collections that map the history of railroads in Boston and beyond.
+Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at objects from our collections that map histories of railroads in Boston and beyond.
 
 _Drop in any time between 2:00PM - 4:00PM._
 
