@@ -34,3 +34,9 @@ exceptions:
 - date: December 29, 2022 - January 12, 2023
   name: Exhibition Installation
   special: Closed
+- special: Closed
+  date: January 16, 2023
+  name: Martin Luther King Jr. Day
+- date: February 20, 2023
+  name: Presidents' Day
+  special: Closed
