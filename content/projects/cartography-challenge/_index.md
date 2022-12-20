@@ -20,6 +20,7 @@ There is no expectation that maps be made using a particular software or program
 
 {{< cartography-challenges cycle-filter="open">}}
 
+
 ### Challenge archive
 
->Nothing in the archives yet... check back later!
+{{< cartography-challenges cycle-filter="closed">}}
