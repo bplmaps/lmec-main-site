@@ -14,9 +14,9 @@ tags:
 ---
 ### About this event
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n3541/full/,1200/0/default.jpg" caption="The story [map](https://collections.leventhalmap.org/search/commonwealth:q524n353r) of flying chronicles the conquest of air travel." class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq51b/full/1200,/0/default.jpg" caption="The front of [this postcard](https://collections.leventhalmap.org/search/commonwealth:0r96fq502) includes an illustration of a Boeing 247-D and a map of United Air Line routes across the United States." class="figure-right" >}}
 
-Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at objects from our collections that map the history of air travel. 
+Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at objects from our collections that map histories of air travel. 
 
 _Drop in any time between 2:00PM - 4:00PM._
 
