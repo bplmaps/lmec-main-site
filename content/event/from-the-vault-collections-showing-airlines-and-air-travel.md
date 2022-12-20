@@ -14,7 +14,7 @@ tags:
 ---
 ### About this event
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n3541/full/full/0/default.jpg" caption="The story [map](https://collections.leventhalmap.org/search/commonwealth:q524n353r) of flying chronicles the conquest of air travel." class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n3541/full/,1200/0/default.jpg" caption="The story [map](https://collections.leventhalmap.org/search/commonwealth:q524n353r) of flying chronicles the conquest of air travel." class="figure-right" >}}
 
 Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at objects from our collections that map the history of air travel. 
 
