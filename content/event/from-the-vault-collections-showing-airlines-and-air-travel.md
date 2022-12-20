@@ -1,7 +1,7 @@
 ---
 publishDate: 2022-12-19T16:20:44-05:00
 title: From The Vault Collections Showing — Airlines and Air Travel
-date: 2023-01-20T14:00:00-05:00
+date: 2023-02-03T14:00:00-05:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
 location: Leventhal Map and Education Center, Learning Center
@@ -10,7 +10,6 @@ registration: ''
 tags:
 - collections
 - from the vault
-draft: true
 
 ---
 ### About this event
