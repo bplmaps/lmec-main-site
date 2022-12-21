@@ -15,7 +15,7 @@ As we move into the new year, we are eager to unveil not one, but two, new exhib
 
 ### Building Blocks: Boston Stories from Urban Atlases 
 
-**Rotating Exhibition**
+**Rotating Exhibition opens January 13**
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg440/full/1200,/0/default.jpg" caption="The cover page of this [1895 Atlas of the City of Boston](https://collections.leventhalmap.org/search/commonwealth:tt44pv85c) includes an index for hundreds of streets." class="figure-right" >}}
 
@@ -23,7 +23,7 @@ In the period spanning the Civil War to World War II, Boston’s urban fabric ex
 
 ### Becoming Boston: Eight Moments in the Geography of a Changing City
 
-**Permanent Exhibition** 
+**Permanent Exhibition opens January 13**
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/1200,/0/default.jpg" caption="This [map of Boston Old and New](https://collections.leventhalmap.org/search/commonwealth:x633f8662) superimposes the outline of the original Shawmut Peninsula onto an 1880 map of the city." class="figure-right" >}}
 
