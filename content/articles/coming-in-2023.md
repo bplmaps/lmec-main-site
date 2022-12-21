@@ -10,3 +10,5 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9w034r
 draft: true
 
 ---
+
+> Want to keep in touch with what we’re planning for the spring? [Follow us on social media or join our mailing list](https://www.leventhalmap.org/about/contact-connect/). 
