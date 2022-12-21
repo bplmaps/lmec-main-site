@@ -11,6 +11,6 @@ draft: true
 
 ---
 
-As we move into the new year, we are eager to unveil a new set up in our gallery space: two exhibitions instead of one! In past years, our gallery has housed one rotating exhibition at a time—
+As we move into the new year, we are eager to unveil not one, but two, new exhibitions! In past years, our gallery has housed one rotating exhibition at a time—Most recently, we exhibited [More or Less in Common](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/) in 2022 , [Bending Lines](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) in 2021-2022, and [America Transformed](https://collections.leventhalmap.org/exhibits/25) in 2019-2020. For the year 2023, we're experimenting with a split gallery model: 
 
 > Want to keep in touch with what we’re planning for the spring? [Follow us on social media or join our mailing list](https://www.leventhalmap.org/about/contact-connect/). 
