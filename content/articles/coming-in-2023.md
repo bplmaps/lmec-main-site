@@ -3,7 +3,7 @@ date: 2022-12-15T13:48:43.000-05:00
 title: 'A Preview of What''s to Come in 2023 '
 description: ''
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9w034r542/full/pct:30/0/default.jpg
-author: Megan Nally
+author: LMEC Staff
 tags:
 - Exhibition
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9w034r542/full/pct:30/0/default.jpg
@@ -15,6 +15,12 @@ As we move into the new year, we are eager to unveil not one, but two, new exhib
 
 ### Building Blocks: Boston Stories from Urban Atlases 
 
+**Rotating Exhibition**
+
 ### Becoming Boston: Eight Moments in the Geography of a Changing City
+
+**Permanent Exhibition** 
+
+Maps trace out the complicated history of places, and we can use them to document geography in the same way that we can use diaries and letters to document biography. In the eight cases of this exhibition, we follow the changing spatial forms of the place we now call Boston—from before the landscape carried that name all the way through the struggles, clashes, and dreams that continue to reshape the city today. These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
 
 > Keep in touch with what we’re planning for the spring! [Follow us on social media or join our mailing list](https://www.leventhalmap.org/about/contact-connect/). 
