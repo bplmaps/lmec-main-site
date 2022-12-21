@@ -17,6 +17,8 @@ As we move into the new year, we are eager to unveil not one, but two, new exhib
 
 **Rotating Exhibition**
 
+In the period spanning the Civil War to World War II, Boston’s urban fabric experienced profound changes. The city filled in new neighborhoods, annexed suburbs serviced by streetcars, and ventured on ambitious infrastructure to stake its claim as a metropolis worthy of the name. With each development, opportunities for new types of social interactions emerged in tandem. As communities and individuals responded to a shifting urban landscape, countless stories unfurled and brought life into the folds of a complex city. _Building Blocks_ explores this extraordinary moment of transformation through the lens of the Center's urban atlases, a collection of maps that display property, street, utility, and building information and are especially well-suited for discovering change by tracking small-scale interventions in the built environment. 
+
 ### Becoming Boston: Eight Moments in the Geography of a Changing City
 
 **Permanent Exhibition** 
