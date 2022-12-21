@@ -1,6 +1,6 @@
 ---
 date: 2022-12-15T13:48:43.000-05:00
-title: A preview of what's coming in 2023
+title: A 2023 Exhibition Preview
 description: ''
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9w034r542/full/pct:30/0/default.jpg
 author: Megan Nally
