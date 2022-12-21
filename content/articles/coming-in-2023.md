@@ -1,6 +1,6 @@
 ---
 date: 2022-12-15T13:48:43.000-05:00
-title: 'A Preview of What''s to Come in 2023 '
+title: A preview of what's coming in 2023
 description: ''
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9w034r542/full/pct:30/0/default.jpg
 author: Megan Nally
@@ -11,6 +11,6 @@ draft: true
 
 ---
 
-As we move into the new year, we are eager to unveil not one, but two, new exhibitions! In past years, our gallery has housed one rotating exhibition at a time—Most recently, we exhibited [More or Less in Common](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/) in 2022 , [Bending Lines](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) in 2021-2022, and [America Transformed](https://collections.leventhalmap.org/exhibits/25) in 2019-2020. For the year 2023, we're experimenting with a split gallery model: 
+As we move into the new year, we are eager to unveil not one, but two, new exhibitions! In past years, our gallery has housed one rotating exhibition at a time—Most recently, we exhibited [More or Less in Common](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/) in 2022 , [Bending Lines](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) in 2021-2022, and [America Transformed](https://collections.leventhalmap.org/exhibits/25) in 2019-2020. For the 2023 year, we're experimenting with a split gallery model: 
 
 > Want to keep in touch with what we’re planning for the spring? [Follow us on social media or join our mailing list](https://www.leventhalmap.org/about/contact-connect/). 
