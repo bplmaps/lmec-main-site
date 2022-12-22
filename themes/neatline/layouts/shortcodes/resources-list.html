@@ -7,9 +7,7 @@
       <div class="col-lg-4 col-md-4 col-sm-6 mb-5 mb-lg-0 my-3">
         <div class="card rounded-0 hover-shadow alt-gallery-card">
           <div class="card-img position-relative">
-            {{ range .Image }}
-            <img class="card-img-top rounded-0" src="{{ .thumbnails.large.url }}" height="100px">
-            {{ end }}
+            <img class="card-img-top rounded-0" src="/images/education-resources/{{.Lesson_Image}}.png" height="100px">
           </div>
           <div class="card-body">
             <h5 class="card-title"><a href="{{ .URL }}" target="_blank">{{ .Name}}</a></h5>
