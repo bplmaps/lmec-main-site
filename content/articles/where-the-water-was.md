@@ -5,7 +5,6 @@ description: Everyone wants to know where Boston's shoreline used to be
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/full/0/default.jpg
 author: Ezra Acevedo
 tags:
-- collections
 - Becoming Boston
 backgroundImage: ''
 draft: true
