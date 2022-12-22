@@ -24,7 +24,7 @@ With each development, opportunities for new types of social interactions emerge
 
 Visitors will discover how the atlas collections opens up a world of fascinating stories, with vignettes including the country’s first African Meeting House in the heart of Beacon Hill, landmarks of leisure like the “Derby Racer” and “Giant Safety Thriller” amusement rides in Revere, public health infrastructure on Gallops Island in the former South Bay, and many more. Beyond the stories narrated in this exhibition, the rich details of the atlases hint at thousands, or even millions, of others, and we invite visitors to discover stories of their own.
 
-* Florida 
+The maps in this exhibition tell stories that are ultimately about people, but the stories of some people are harder to find than others. In the case of Boston’s Black community, the urban atlases don’t always tell us as much as we might want to know. For example, the names of building owners are shown on the maps, but not those of renters. For various reasons, including racism, most Black Bostonians of the time did not own their own homes. However, they lived and worked throughout the city even though we may not see their names.
 
 ### Becoming Boston: Eight Moments in the Geography of a Changing City
 
