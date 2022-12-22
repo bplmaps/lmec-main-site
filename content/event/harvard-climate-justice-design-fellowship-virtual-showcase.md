@@ -19,6 +19,4 @@ Join us for a virtual project showcase of the inaugural [Climate Justice Design 
 
 The CJDF fellows are leaders in civil society and government institutions in Portland, OR; New Orleans, LA; Philadelphia, PA; Los Angeles, CA; Ann Arbor, MI; Washington, DC; Philadelphia, PA; and Harlem, NY. They have powerful insight into the most important issues facing these diverse locales. Supported by scholars and engineers from the Harvard University Institute for Quantitative Social Science, Graduate School of Design, and Salata Institute, their work uses the tools of data, design, and web technology to analyze patterns, visualize effects, and share individual stories of historical decisions, present day injustice, and alternative futures in a changing climate.
 
-**_Please register on Eventbrite to access the link to the livestream._**
-
-![](/uploads/2022-12-22/asset_5.png)
+**_Please register on_** [**_Eventbrite_**](https://www.eventbrite.com/e/harvard-climate-justice-design-fellowship-virtual-showcase-tickets-495251850617) **_to access the link to the livestream._**![](/uploads/2022-12-22/asset_5.png)
