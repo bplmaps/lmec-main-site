@@ -26,7 +26,9 @@ With each development, opportunities for new types of social interactions emerge
 
 Visitors will discover how the atlas collection opens up a world of fascinating stories, with vignettes including the country’s first {{< popup src="/uploads/2022-12-22/african-meeting-house.png"  target="blank" >}} African Meeting House{{</popup>}}  in the heart of Beacon Hill, landmarks of leisure like the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xx05z/7377,3143,1104,1108/full/0/default.jpg"  target="blank" >}} Derby Racer{{</popup>}}  and Giant Safety Thriller amusement rides in Revere, public {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj68t/10272,6295,1653,1332/full/0/default.jpg"  target="blank" >}} health infrastructure{{</popup>}}  on Gallops Island in the former South Bay, and many more. Beyond the stories narrated in this exhibition, the rich details of the atlases hint at thousands, or even millions, of others, and we invite visitors to discover stories of their own.
 
-The maps in this exhibition tell stories that are ultimately about people, but the stories of some people are harder to find than others. In the case of Boston’s Black community, the urban atlases don’t always tell us as much as we might want to know. To illuminate the lives and stories that sometimes run hidden through these maps, we follow the biography of an important Black Bostonian, Florida Ruffin Ridley, who worked, studied, played, and created within the landscapes on display. {{< figure src="/uploads/2022-12-22/cc_convention-1.jpeg" caption="Florida Ruffin Ridley is acknowledged as an officer of the first [National Conference of the Colored Women of America](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.lib.uchicago.edu/ead/pdf/ibwells-0009-006.pdf), held in Boston in 1895." class="figure-left" >}}
+{{< figure src="/uploads/2022-12-22/cc_convention-1.jpeg" caption="Florida Ruffin Ridley is acknowledged as an officer of the first [National Conference of the Colored Women of America](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.lib.uchicago.edu/ead/pdf/ibwells-0009-006.pdf), held in Boston in 1895." class="figure-right" >}}
+
+The maps in this exhibition tell stories that are ultimately about people, but the stories of some people are harder to find than others. In the case of Boston’s Black community, the urban atlases don’t always tell us as much as we might want to know. To illuminate the lives and stories that sometimes run hidden through these maps, _Building Blocks_ follows the biography of an important Black Bostonian, Florida Ruffin Ridley, who worked, studied, played, and created within the landscapes on display. 
 
 ### Becoming Boston: Eight Moments in the Geography of a Changing City
 
@@ -39,13 +41,3 @@ Maps trace out the complicated history of places, and we can use them to documen
 We begin ...
 
 > Keep in touch with what we’re planning for the spring! [Follow us on social media or join our mailing list](https://www.leventhalmap.org/about/contact-connect/).
-
-> **Popups in the order they appear:**
->
-> [Maps](https://collections.leventhalmap.org/search/commonwealth:tt44pv85c)
->
-> [African Meeting House](https://www.digitalcommonwealth.org/search/commonwealth-oai:mc87qd95t)
->
-> [Derby Racer](https://collections.leventhalmap.org/search/commonwealth:9g54xx04p)
->
-> [Health](https://collections.leventhalmap.org/search/commonwealth:wd3768095)
