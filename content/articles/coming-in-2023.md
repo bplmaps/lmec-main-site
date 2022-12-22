@@ -18,15 +18,15 @@ As we move into the new year, we are eager to unveil not one, but two, new exhib
 
 **Rotating Exhibition opens January 13**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg440/full/1200,/0/default.jpg" caption="The cover page of this [1895 Atlas of the City of Boston](https://collections.leventhalmap.org/search/commonwealth:tt44pv85c) includes an index for hundreds of streets." class="figure-right" >}}
-
 In the period spanning the Civil War to World War II, Boston’s urban fabric experienced profound changes. The city filled in new neighborhoods, annexed suburbs serviced by streetcars, and ventured on ambitious infrastructure to stake its claim as a metropolis worthy of the name.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg440/full/1200,/0/default.jpg" caption="The cover page of this [1895 Atlas of the City of Boston](https://collections.leventhalmap.org/search/commonwealth:tt44pv85c) includes an index for hundreds of streets." class="figure-right" >}}
 
 With each development, opportunities for new types of social interactions emerged in tandem. As communities and individuals responded to a shifting urban landscape, countless stories unfurled and brought life into the folds of a complex city. _Building Blocks_ explores this extraordinary moment of transformation through the lens of the Center's urban atlases, a collection of {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg55h/full/full/0/default.jpg"  target="blank" >}} maps{{</popup>}}  that display property, street, utility, and building information, and are especially well-suited for discovering change by tracking small-scale interventions in the built environment.
 
 Visitors will discover how the atlas collection opens up a world of fascinating stories, with vignettes including the country’s first {{< popup src="/uploads/2022-12-22/african-meeting-house.png"  target="blank" >}} African Meeting House{{</popup>}}  in the heart of Beacon Hill, landmarks of leisure like the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xx05z/7377,3143,1104,1108/full/0/default.jpg"  target="blank" >}} Derby Racer{{</popup>}}  and Giant Safety Thriller amusement rides in Revere, public {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj68t/10272,6295,1653,1332/full/0/default.jpg"  target="blank" >}} health infrastructure{{</popup>}}  on Gallops Island in the former South Bay, and many more. 
 
-{{< figure src="/uploads/2022-12-22/cc_convention-11.jpeg" caption="Florida Ruffin Ridley is acknowledged as an officer of the first [National Conference of the Colored Women of America](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.lib.uchicago.edu/ead/pdf/ibwells-0009-006.pdf), held in Boston in 1895." class="figure-right" >}}
+{{< figure src="/uploads/2022-12-22/cc_convention-2.jpeg" caption="Florida Ruffin Ridley is acknowledged as an officer of the first [National Conference of the Colored Women of America](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.lib.uchicago.edu/ead/pdf/ibwells-0009-006.pdf), held in Boston in 1895." class="figure-right" >}}
 
 The maps in this exhibition tell stories that are ultimately about people, but the stories of some people are harder to find than others. In the case of Boston’s Black community, the urban atlases don’t always tell us as much as we might want to know. To illuminate the lives and stories that sometimes run hidden through these maps, _Building Blocks_ follows the biography of an important Black Bostonian, Florida Ruffin Ridley, who worked, studied, played, and created within the landscapes on display. 
 
