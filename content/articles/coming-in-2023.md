@@ -24,6 +24,8 @@ With each development, opportunities for new types of social interactions emerge
 
 Visitors will discover how the atlas collections opens up a world of fascinating stories, with vignettes including the country’s first African Meeting House in the heart of Beacon Hill, landmarks of leisure like the “Derby Racer” and “Giant Safety Thriller” amusement rides in Revere, public health infrastructure on Gallops Island in the former South Bay, and many more. Beyond the stories narrated in this exhibition, the rich details of the atlases hint at thousands, or even millions, of others, and we invite visitors to discover stories of their own.
 
+* Florida 
+
 ### Becoming Boston: Eight Moments in the Geography of a Changing City
 
 **Permanent Exhibition opens January 13**
