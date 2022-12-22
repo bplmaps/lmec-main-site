@@ -8,7 +8,6 @@ location: Online
 fee: Free
 registration: https://www.eventbrite.com/e/harvard-climate-justice-design-fellowship-virtual-showcase-tickets-495251850617
 tags: []
-draft: true
 
 ---
 ### About this event
