@@ -58,9 +58,8 @@ cta:
     link: https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/
   - badge: Upcoming closures
     text: 'The Map Center and all BPL locations will close at 2 pm on Saturday, December
-      24. The Map Center and all BPL locations will be closed on Sunday, December
-      25 and Monday, December 26. The Map Center will be closed December 29, 2022
-      - January 12, 2023 for exhibition installation. '
+      24 and remain closed on Sunday, December 25 and Monday, December 26. The Map
+      Center will be closed December 29, 2022 - January 12, 2023 for exhibition installation. '
     link: https://www.leventhalmap.org/about/hours-directions/
 audiences:
   enable: true
