@@ -39,3 +39,13 @@ Maps trace out the complicated history of places, and we can use them to documen
 We begin ...
 
 > Keep in touch with what we’re planning for the spring! [Follow us on social media or join our mailing list](https://www.leventhalmap.org/about/contact-connect/).
+
+> **Popups in the order they appear:**
+>
+> [Maps](https://collections.leventhalmap.org/search/commonwealth:tt44pv85c)
+>
+> [African Meeting House](https://www.digitalcommonwealth.org/search/commonwealth-oai:mc87qd95t)
+>
+> [Derby Racer](https://collections.leventhalmap.org/search/commonwealth:9g54xx04p)
+>
+> [Public health infrastructure ](https://collections.leventhalmap.org/search/commonwealth:wd3768095)
