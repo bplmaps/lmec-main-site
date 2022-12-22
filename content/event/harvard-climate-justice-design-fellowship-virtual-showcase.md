@@ -17,4 +17,6 @@ draft: true
 
 Join us for a virtual project showcase of the inaugural [Climate Justice Design Fellowship](https://projects.iq.harvard.edu/climatefellowship/home) of the Harvard University Climate+Data Initiative. The projects of the seven fellows explore stories of climate displacement, impacts of hazardous waste contamination, opportunities to build adaptive infrastructure, visions for urban futures, and other aspects of environmental justice from around the country. 
 
+{{< figure src="/uploads/2022-12-22/cjdf-graphics-final-less-words-18.png" caption="" class="figure-right" >}}
+
 The CJDF fellows are leaders in civil society and government institutions in Portland, OR; New Orleans, LA; Philadelphia, PA; Los Angeles, CA; Ann Arbor, MI; Washington, DC; Philadelphia, PA; and Harlem, NY. They have powerful insight into the most important issues facing these diverse locales. Supported by scholars and engineers from the Harvard University Institute for Quantitative Social Science, Graduate School of Design, and Salata Institute, their work uses the tools of data, design, and web technology to analyze patterns, visualize effects, and share individual stories of historical decisions, present day injustice, and alternative futures in a changing climate.
