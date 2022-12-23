@@ -52,6 +52,6 @@ These maps don’t merely depict facts about how the city looked at different mo
 
 We begin in the 17th century at a point of colonial contact. For thousands of years, Native peoples have built their homes and nations around Massachusetts Bay, and today the region is still home to members of the Massachusett tribe as well as Indigenous people from across the Americas. [Maps of this period](https://collections.leventhalmap.org/search?_=1671809539848&f%5Bsubject_geographic_sim%5D%5B%5D=New+England&q=&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1600&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=1700&search_field=dummy_range) show New England as the Europeans wanted it to appear, with Native peoples receding into the hinterland and new territories forming the outlines of a colonial geography. 
 
-We then move into the revolutionary era, as Boston became the flashpoint for the American Revolution, with its urban spaces hosting some of the first skirmishes that would eventually lead to all-out warfare.
+Boston quickly developed into the region’s most important city at the intersection of networks in trade, power, and ideas. With growing resentment toward the increasingly centralized British imperial administration, Boston became the flashpoint for the American Revolution, with its urban spaces hosting some of the first skirmishes that would eventually lead to all-out warfare.
 
 > Keep in touch with what we’re planning for the spring! [Follow us on social media or join our mailing list](https://www.leventhalmap.org/about/contact-connect/).
