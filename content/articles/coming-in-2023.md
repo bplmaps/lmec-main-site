@@ -16,7 +16,7 @@ As we move into the new year, we are eager to unveil not one, but two, new exhib
 
 ### Building Blocks: Boston Stories from Urban Atlases
 
-**Rotating Exhibition opens January 13**
+**Featured Exhibition opens January 13**
 
 In the period spanning the Civil War to World War II, Boston’s urban fabric experienced profound changes. The city filled in new neighborhoods, annexed suburbs serviced by streetcars, and ventured on ambitious infrastructure to stake its claim as a metropolis worthy of the name.
 
@@ -40,6 +40,6 @@ Beyond the stories narrated in this exhibition, the rich details of the atlases 
 
 Maps trace out the complicated history of places, and we can use them to document geography in the same way that we can use diaries and letters to document biography. In the eight cases of this exhibition, we follow the changing spatial forms of the place we now call Boston—from before the landscape carried that name all the way through the struggles, clashes, and dreams that continue to reshape the city today. These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
 
-We begin ...
+The cases in this exhibition begin 
 
 > Keep in touch with what we’re planning for the spring! [Follow us on social media or join our mailing list](https://www.leventhalmap.org/about/contact-connect/).
