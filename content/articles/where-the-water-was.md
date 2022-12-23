@@ -27,7 +27,7 @@ Also visible on this map are the 'modern' car bars, railroad tracks and trails t
   
 The 19th century was a busy time for Boston when it came to landmaking - similarly to Winsor's map, other overlays were created to contrast the difference between Modern boston and the original Shawmut Peninsula. This 1895 map celebrates a century of Boston's expansion from 1793 to 1893. On this map Boston grows from the pink outline, then the green, and by 1893 - settling in the more familiar blue outline. On this map one can also see the two train lines, the Boston & Albany and the Boston & Providence, which {{<popup src = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k46x/526,870,2995,1914/full/0/default.jpg">}}crossed the Back Bay{{</popup>}}and allowed for landfill to be easily transported into the city.
 
-{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b902s/full/full/0/default.jpg" caption="Caption 1" class="figure-left" >}}
+{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b902s/full/full/0/default.jpg" caption="Caption 1" class="figure-right" >}}
 
 \[Intro sentance\] It overlays streetcar and subway lines in Boston. At the time, almost all of the subway lines were on the original land of the Shawmut peninsula. You can see {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b902s/1393,3023,716,484/full/0/default.jpg">}}here{{</popup>}} that the subway line extends off into filled land at the corner of the Boston Public Gardens before transitioning into a streetcar.
 
@@ -38,7 +38,7 @@ This map of Boston over time breaks the city's landfill into three sections: the
 
 As many people want to see what neighborhoods used to look like or what shorelines used to be in their specific neighborhoods, they may turn to these maps, or Atlascope, or maybe even georeferencing their own map from one of the ones in our collections.
 
-{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n701t/full/full/0/default.jpg" caption="Boston flooding impact with 36 inches of sea-level rise" class="figure-right" >}}
+{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n701t/full/full/0/default.jpg" caption="Boston flooding impact with 36 inches of sea-level rise from Climate Ready Boston report" class="figure-right" >}}
   
 Even in centuries past, People wanted to know what was under their feet, whether they were plotting out subway lines, or trying to catalog where people’s houses were in 1635. And today, the question of “where the water was” becomes more relevant, with rising seas having the potential to reclaim areas that were once water again. (map of sea level rise in Boston with caption, areas like the bullfinch triangle or the seaport are more succeptable to flooding, as they are closer to sea level than many of the original parts of Boston such as dorchester or the north end. [https://collections.leventhalmap.org/search/commonwealth:q524n632m](https://collections.leventhalmap.org/search/commonwealth:q524n632m "https://collections.leventhalmap.org/search/commonwealth:q524n632m") (use an example other than the seaport as it doesn’t show on this map). (You're not the first one to ask!)
 
