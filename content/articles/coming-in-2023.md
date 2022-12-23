@@ -52,11 +52,19 @@ We begin in the 17th century at a point of colonial contact. For thousands of ye
 
 Boston quickly developed into an important regional city at the intersection of networks in trade, power, and ideas. And as resentment grew toward the increasingly centralized British imperial administration, Boston soon became the flashpoint for the [American Revolution](https://collections.leventhalmap.org/search?f%5Bcollection_name_ssim%5D%5B%5D=American+Revolutionary+War-Era+Maps+%28Collection+of+Distinction%29), with its urban spaces hosting some of the first skirmishes that would eventually lead to all-out warfare.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/1200,/0/default.jpg" caption="This [map of Boston Old and New](https://collections.leventhalmap.org/search/commonwealth:x633f8662) superimposes the outline of the original Shawmut Peninsula onto an 1880 map of the city." class="figure-right" >}}
-
 After the revolutionary era, Boston entered into a moment of transition and expansion, reimagining its urban form and building neighborhoods from scratch. The city's surrounding tidelands were put to work as mill ponds and later as new districts [constructed on landfill](https://collections.leventhalmap.org/search/commonwealth:js956k44c). Industries, railroads, and rapid transit were soon to follow. 
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/1200,/0/default.jpg" caption="This [map of Boston Old and New](https://collections.leventhalmap.org/search/commonwealth:x633f8662) superimposes the outline of the original Shawmut Peninsula onto an 1880 map of the city." class="figure-right" >}}
+
 To many people living in Boston during its industrial boom years, the growth of the modern city seemed constantly at risk of spiraling out of control. Urban development led to issues ranging from [catastrophic fires](https://collections.leventhalmap.org/search/commonwealth:x059cb44q) and tangled streetcar traffic, to [waves of epidemics](https://collections.leventhalmap.org/search/commonwealth:8336hc374) and [environmental health](https://collections.leventhalmap.org/search/commonwealth:w3765q66z) concerns. Efforts to address these issues often involved interventions in the city’s spaces, like housing codes, park plans, the development of public infrastructure, and land use controls. 
+
+immigration
+
+race and resistance 
+
+making a city
+
+boston today 
 
 These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
 
