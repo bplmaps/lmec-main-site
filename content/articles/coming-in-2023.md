@@ -42,4 +42,6 @@ Maps trace out the complicated history of places, and we can use them to documen
 
 These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
 
+We begin in the seventeenth century at the point of colonial contact. For thousands of years, Native peoples have built their homes and nations around Massachusetts Bay, and today the region is still home to members of the Massachusett tribe as well as Indigenous people from across the Americas. Maps of this period show New England as the Europeans wanted it to appear, with Native peoples receding into the hinterland and new territories forming the outlines of a colonial geography. 
+
 > Keep in touch with what we’re planning for the spring! [Follow us on social media or join our mailing list](https://www.leventhalmap.org/about/contact-connect/).
