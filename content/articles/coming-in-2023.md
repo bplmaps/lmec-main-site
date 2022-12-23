@@ -56,13 +56,11 @@ After the revolutionary era, Boston entered into a moment of transition and expa
 
 To many people living in Boston during its industrial boom years, the growth of the modern city seemed constantly at risk of spiraling out of control. Urban development led to issues ranging from [catastrophic fires](https://collections.leventhalmap.org/search/commonwealth:x059cb44q) and tangled streetcar traffic, to [waves of epidemics](https://collections.leventhalmap.org/search/commonwealth:8336hc374) and [environmental health](https://collections.leventhalmap.org/search/commonwealth:w3765q66z) concerns. 
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x54w/full/1200,/0/default.jpg" caption="Starting in the 1930s, the Home Owners’ Loan Corporation (HOLC) assigned thousands of neighborhoods with rankings on a graded scale, from A to D, based on statistics about race, ethnicity, mortgage rates, and housing conditions." class="figure-left" >}}
-
-Starting in the 1930s, a federal agency known as the Home Owners’ Loan Corporation (HOLC) sent dozens of surveyors to neighborhoods across the country. Often relying on the knowledge of local realtors, banks, and city agencies, the surveyors tallied up statistics about race, ethnicity, mortgage rates, and housing conditions. From these notes, the HOLC stamped thousands of neighborhoods with rankings on a graded scale, from A to D, with D-grade neighborhoods marked on maps in red.
-
-It was this cartographic color palette that gave rise to the term “redlining.” In recent years, these maps and the broader phenomenon of redlining have become some of the most widely used and shocking demonstrations of institutional racism in American life. The maps seem to tell a straightforward story: [the federal government engineered racial segregation](https://www.npr.org/2017/05/03/526655831/a-forgotten-history-of-how-the-u-s-government-segregated-america) by specifically identifying Black neighborhoods and eliminating them from federal housing programs, setting these
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x54w/full/1200,/0/default.jpg" caption="Starting in the 1930s, the Home Owners’ Loan Corporation (HOLC) assigned [thousands of neighborhoods](https://collections.leventhalmap.org/search?f%5Bphysical_location_ssim%5D%5B%5D=Mapping+Inequality) with rankings on a graded scale, from A to D, based on statistics about race, ethnicity, mortgage rates, and housing conditions." class="figure-left" >}}
 
 As the physical landscape expanded and diversified, so did the city's population. Sometimes the city welcomed new arrivals, while during other periods formal and informal barriers constrained who could come to Boston and where they could live. The “color line,” which the Black scholar W. E. B. Du Bois described as “the problem of the twentieth century,” was not just a conceptual line between groups of people but very often a cartographic line, a space of both racist confrontation and demands for liberation. 
+
+* maps framing people; want to make their own maps 
 
 making a city
 
