@@ -58,6 +58,6 @@ Boston quickly developed into the region’s most important city at the intersec
 
 After the revolutionary era, Boston entered into a moment of transition and expansion, reimagining its urban form and building neighborhoods from scratch. The city's surrounding tidelands were put to work as mill ponds and later as new districts constructed on landfill. Industries, railroads, and rapid transit were soon to follow. 
 
-To many people living in Boston during its industrial boom years, the dynamism and growth of the modern city seemed constantly at risk of spiraling out of control
+To many people living in Boston during its industrial boom years, the dynamism and growth of the modern city seemed constantly at risk of spiraling out of control. Urban development led to issues ranging from catastrophic fires and tangled streetcar traffic, to waves of epidemics and environmental health concerns. Efforts to address these issues often involved interventions in the city’s spaces, like housing codes, park plans, the development of public infrastructure, and land use controls.
 
 > Keep in touch with what we’re planning for the spring! [Follow us on social media or join our mailing list](https://www.leventhalmap.org/about/contact-connect/).
