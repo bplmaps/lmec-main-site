@@ -54,9 +54,9 @@ We begin in the 17th century at a point of colonial contact. For thousands of ye
 
 Boston quickly developed into the region’s most important city at the intersection of networks in trade, power, and ideas. With growing resentment toward the increasingly centralized British imperial administration, Boston became the flashpoint for the [American Revolution](https://collections.leventhalmap.org/search?f%5Bcollection_name_ssim%5D%5B%5D=American+Revolutionary+War-Era+Maps+%28Collection+of+Distinction%29), with its urban spaces hosting some of the first skirmishes that would eventually lead to all-out warfare.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/1200,/0/default.jpg" caption="This [map of Boston Old and New](https://collections.leventhalmap.org/search/commonwealth:x633f8662) superimposes the outline of the original Shawmut Peninsula onto an 1880 map of the city." class="figure-left" >}}
+After the revolutionary era, Boston entered into a moment of transition and expansion, reimagining its urban form and building neighborhoods from scratch. The city's surrounding tidelands were put to work as mill ponds and later as new districts constructed on landfill.
 
-After the revolutionary era, Boston entered into a moment of transition and expansion, reimagining its urban form and building neighborhoods from scratch. The city's surrounding tidelands were put to work as mill ponds and later as new districts constructed on landfill. 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd376587x/674,477,9054,6459/1200,/0/default.jpg" caption="The signs of industrialization are clear across the city of Boston in [this 1873 birds-eye view](https://collections.leventhalmap.org/search/commonwealth:wd376586n)." class="figure-left" >}}
 
 Industries, railroads, and rapid transit were soon to follow. 
 
