@@ -56,7 +56,7 @@ After the revolutionary era, Boston entered into a moment of transition and expa
 
 To many people living in Boston during its industrial boom years, the growth of the modern city seemed constantly at risk of spiraling out of control. Urban development led to issues ranging from [catastrophic fires](https://collections.leventhalmap.org/search/commonwealth:x059cb44q) and tangled streetcar traffic, to [waves of epidemics](https://collections.leventhalmap.org/search/commonwealth:8336hc374) and [environmental health](https://collections.leventhalmap.org/search/commonwealth:w3765q66z) concerns. 
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x54w/full/1200,/0/default.jpg" caption="Starting in the 1930s, the Home Owners’ Loan Corporation (HOLC) produced maps " class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x54w/full/1200,/0/default.jpg" caption="Starting in the 1930s, the Home Owners’ Loan Corporation (HOLC) assigned thousands of neighborhoods with rankings on a graded scale, from A to D, based on statistics about race, ethnicity, mortgage rates, and housing conditions." class="figure-left" >}}
 
 Starting in the 1930s, a federal agency known as the Home Owners’ Loan Corporation (HOLC) sent dozens of surveyors to neighborhoods across the country. Often relying on the knowledge of local realtors, banks, and city agencies, the surveyors tallied up statistics about race, ethnicity, mortgage rates, and housing conditions. From these notes, the HOLC stamped thousands of neighborhoods with rankings on a graded scale, from A to D, with D-grade neighborhoods marked on maps in red.
 
