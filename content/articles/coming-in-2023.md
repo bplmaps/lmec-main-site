@@ -58,6 +58,6 @@ Boston quickly developed into the region’s most important city at the intersec
 
 After the revolutionary era, Boston entered into a moment of transition and expansion, reimagining its urban form and building neighborhoods from scratch. The city's surrounding tidelands were put to work as mill ponds and later as new districts constructed on landfill. 
 
-Then came regional railroads and 
+Industries, railroads, and rapid transit were soon to follow. 
 
 > Keep in touch with what we’re planning for the spring! [Follow us on social media or join our mailing list](https://www.leventhalmap.org/about/contact-connect/).

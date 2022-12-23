@@ -12,11 +12,9 @@ draft: true
 ---
 Many visitors to our Gallery come in with a question on their mind - what did Boston look like before it was filled in? When walking around Boston today, it might be hard to picture the tidal estuaries, shallow marshes, and mud flats that were filled in and topped with Brownstones and tall buildings.
 
-There are many questions to ask about filled land: How much of it is fill? When was it filled in? And what did the shoreline used to look like?
+There are many questions to ask about filled land: How much of it is fill? When was it filled in? And what did the shoreline used to look like? But 'Where the water used to be' isn't just a modern question, historians of the late 19th century were drawing depictions of the Shawmut peninsula and comparing the city of two centuries prior with it's then-current shape. 
 
-But "where did the water used to be" isn't just a modern question. In our collections we have many maps comparing Boston's past and well, it's more recent past.
-
-Even as early at 1722, colonists had started to change the outline of Boston. They built \[wharves into the harbor\] and created \[a mill dam\] over the northern inlet.
+Even as early at 1722, colonists had started to change the outline of Boston. They built \[wharves into the harbor\] and created \[a mill dam\] over the northern inlet. By the turn of the 19th century, Boston's landfilling project had changed the shape of the coatline almost in its entirety. 
 
 In 1880, historian, librarian, and cartographer Justin Winsor created a map of Boston Old and New. It overlayed the original Shawmut peninsula with the modern reach of Boston, emphasizing {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/2153,1006,1449,1300/full/0/default.jpg">}}the hills{{</popup>}} that {{<popup src ="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6h441121b/full/full/0/default.jpg">}}were shortened{{</popup>}} too fill in sections of harbor and the distinctions between {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/4734,3586,1548,922/full/0/default.jpg" >}} marshy and level ground {{</popup>}}.
 
