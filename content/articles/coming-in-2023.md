@@ -48,7 +48,7 @@ Maps trace out the complicated history of places, and we can use them to documen
 
 We begin in the 17th century at a point of colonial contact. For thousands of years, Native peoples have built their homes and nations around Massachusetts Bay, and today the region is still home to members of the Massachusett tribe as well as Indigenous people from across the Americas. [Maps of this period](https://collections.leventhalmap.org/search?_=1671809539848&f%5Bsubject_geographic_sim%5D%5B%5D=New+England&q=&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1600&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=1700&search_field=dummy_range) show New England as the Europeans wanted it to appear, with Native peoples receding into the hinterland and new territories forming the outlines of a colonial geography. 
 
-Boston quickly developed into an important regional city at the intersection of networks in trade, power, and ideas. And as resentment grew toward the increasingly centralized British imperial administration, Boston soon became the flashpoint for the [American Revolution](https://collections.leventhalmap.org/search?f%5Bcollection_name_ssim%5D%5B%5D=American+Revolutionary+War-Era+Maps+%28Collection+of+Distinction%29), with its urban spaces hosting some of the first skirmishes that would eventually lead to all-out warfare.
+Boston quickly developed into an important regional city at the intersection of networks in trade, power, and ideas. And as resentment grew toward an increasingly-centralized British imperial administration, Boston soon became the flashpoint for the [American Revolution](https://collections.leventhalmap.org/search?f%5Bcollection_name_ssim%5D%5B%5D=American+Revolutionary+War-Era+Maps+%28Collection+of+Distinction%29), with its urban spaces hosting some of the first skirmishes that would eventually lead to all-out warfare.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/1200,/0/default.jpg" caption="This [map of Boston Old and New](https://collections.leventhalmap.org/search/commonwealth:x633f8662) superimposes the outline of the original Shawmut Peninsula onto an 1880 map of the city." class="figure-left" >}} 
 
@@ -57,6 +57,8 @@ After the revolutionary era, Boston entered into a moment of transition and expa
 To many people living in Boston during its industrial boom years, the growth of the modern city seemed constantly at risk of spiraling out of control. Urban development led to issues ranging from [catastrophic fires](https://collections.leventhalmap.org/search/commonwealth:x059cb44q) and tangled streetcar traffic, to [waves of epidemics](https://collections.leventhalmap.org/search/commonwealth:8336hc374) and [environmental health](https://collections.leventhalmap.org/search/commonwealth:w3765q66z) concerns. 
 
 As the physical landscape expanded and diversified, so did the city's population. Sometimes the city welcomed new arrivals, while during other periods formal and informal barriers constrained who could come to Boston and where they could live. The “color line,” which the Black scholar W. E. B. Du Bois described as “the problem of the twentieth century,” was not just a conceptual line between groups of people but very often a cartographic line, a space of both racist confrontation and demands for liberation. 
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x54w/840,1138,3718,3619/1200,/0/default.jpg" caption="" class="figure-right" >}}
 
 making a city
 
