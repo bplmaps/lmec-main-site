@@ -60,6 +60,6 @@ As the physical landscape expanded and diversified, so did the city's population
 
 With the twenty-first century on the horizon, the city saw a shift in the politics of design, planning, participation, and democracy. Both politicians and community groups were demanding more opportunities to draw maps in a more democratic fashion, bringing people from all walks of life into the decision-making processes that determine how the city’s geographies look today and in the future. As Boston continues to evolve, how will maps document and determine the future of this ever-changing city?
 
-The maps in this exhibition don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
+The maps in this exhibition don’t merely depict facts about how the city looked at different moments in its history, but invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us—through large and small transformations that have transpired over many centuries.
 
 > **Mark your calendar for the January 13 openings of _Building Blocks_ and _Becoming Boston_!** [**Follow us on social media or join our mailing list**](https://www.leventhalmap.org/about/contact-connect/) **to keep in touch with what we’re planning for the spring.**
