@@ -29,6 +29,7 @@ The 19th century was a busy time for Boston when it came to landmaking - similar
 \[Intro sentance\] It overlays streetcar and subway lines in Boston. At the time, almost all of the subway lines were on the original land of the Shawmut peninsula. You can see {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b902s/1393,3023,716,484/full/0/default.jpg">}}here{{</popup>}} that the subway line extends off into filled land at the corner of the Boston Public Gardens before transitioning into a streetcar.
 
 \[Were there any concerns about putting trains underground in filled land??\]
+  When they extended the subway down Boyston Street, different considerations of construction had to be made because of the groundwater level and softer soil (had to use pilings, info from bosintransit)
 
 This map of Boston over time breaks the city's landfill into three sections: the original land, land added before 1880 (incidentally the same year Winsor created his map) and land added after - up until 199...??. Some of the last areas to be filled in were the \[airport\] and the South Boston Waterfront - also called the Seaport - which has been extended beyond the outlines of this 1990s\[?\] sattelite photograph.
 
