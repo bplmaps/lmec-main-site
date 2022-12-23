@@ -42,11 +42,11 @@ Beyond these narrated stories, the rich details of the atlases hint at thousands
 
 Maps trace out the complicated history of places, and we can use them to document geography in the same way that we can use diaries and letters to document biography. In the eight cases of this exhibition, we follow the changing spatial forms of the place we now call Boston—from before the landscape carried that name all the way through the struggles, clashes, and dreams that continue to reshape the city today. 
 
-##### From colonial contact to 21st-century Boston
+##### From colonial contact to Boston today 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s91s/full/1200,/0/default.jpg" caption="Note colonial place names on this \~1675 [map of New England](https://collections.leventhalmap.org/search/commonwealth:3f462s90h)." class="figure-right" >}}
 
-We begin in the 17th century at a point of colonial contact. For thousands of years, Native peoples have built their homes and nations around Massachusetts Bay, and today the region is still home to members of the Massachusett tribe as well as Indigenous people from across the Americas. [Maps of this period](https://collections.leventhalmap.org/search?_=1671809539848&f%5Bsubject_geographic_sim%5D%5B%5D=New+England&q=&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1600&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=1700&search_field=dummy_range) show New England as the Europeans wanted it to appear, with Native peoples receding into the hinterland and new territories forming the outlines of a colonial geography. 
+We begin in the seventeenth century at a point of colonial contact. For thousands of years, Native peoples have built their homes and nations around Massachusetts Bay, and today the region is still home to members of the Massachusett tribe as well as Indigenous people from across the Americas. [Maps of this period](https://collections.leventhalmap.org/search?_=1671809539848&f%5Bsubject_geographic_sim%5D%5B%5D=New+England&q=&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1600&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=1700&search_field=dummy_range) show New England as the Europeans wanted it to appear, with Native peoples receding into the hinterland and new territories forming the outlines of a colonial geography. 
 
 Boston quickly developed into an important regional city at the intersection of networks in trade, power, and ideas. And as resentment grew toward an increasingly-centralized British imperial administration, Boston soon became the flashpoint for the [American Revolution](https://collections.leventhalmap.org/search?f%5Bcollection_name_ssim%5D%5B%5D=American+Revolutionary+War-Era+Maps+%28Collection+of+Distinction%29), with its urban spaces hosting some of the first skirmishes that would eventually lead to all-out warfare.
 
@@ -60,17 +60,7 @@ To many people living in Boston during its industrial boom years, the growth of 
 
 As the physical landscape expanded and diversified, so did the city's population. Sometimes the city welcomed new arrivals, while during other periods formal and informal barriers constrained who could come to Boston and where they could live. The “color line,” which the Black scholar W. E. B. Du Bois described as “the problem of the twentieth century,” was not just a conceptual line between groups of people but very often a cartographic line, a space of both racist confrontation and demands for liberation. 
 
-The late-twentieth century saw a shift in the politics of design, planning, participation, and democracy. 
-
-both politicians and community groups were demanding more opportunities to draw maps in a more democratic fashion, bringing people from all walks of life into the decision-making processes that determine how the city’s geographies look today and in the future. From the lines drawn for voting districts to routes for new transportation networks and plans for addressing environmental crises, Bostonians began to take a more plural approach to mapping the city. The computer revolution in cartography also introduced possibilities for mapping the city in new ways. As Boston continues to evolve, how will maps document and determine the future of this ever-changing city?
-
-City planning, identity, etc. framing people on their own terms 
-
-* maps framing people; want to make their own maps 
-
-making a city
-
-boston today 
+With the twenty-first century on the horizon, the city saw a shift in the politics of design, planning, participation, and democracy. Both politicians and community groups were demanding more opportunities to draw maps in a more democratic fashion, bringing people from all walks of life into the decision-making processes that determine how the city’s geographies look today and in the future. As Boston continues to evolve, how will maps document and determine the future of this ever-changing city?
 
 These maps in this exhibition don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
 
