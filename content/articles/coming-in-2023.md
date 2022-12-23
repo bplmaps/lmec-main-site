@@ -44,8 +44,6 @@ Beyond these narrated stories, the rich details of the atlases hint at thousands
 
 Maps trace out the complicated history of places, and we can use them to document geography in the same way that we can use diaries and letters to document biography. In the eight cases of this exhibition, we follow the changing spatial forms of the place we now call Boston—from before the landscape carried that name all the way through the struggles, clashes, and dreams that continue to reshape the city today. 
 
-These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
-
 ##### From colonial contact to 21st-century Boston
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s91s/full/1200,/0/default.jpg" caption="Note colonial place names on this \~1675 [map of New England](https://collections.leventhalmap.org/search/commonwealth:3f462s90h)." class="figure-right" >}}
@@ -59,5 +57,7 @@ Boston quickly developed into an important regional city at the intersection of 
 After the revolutionary era, Boston entered into a moment of transition and expansion, reimagining its urban form and building neighborhoods from scratch. The city's surrounding tidelands were put to work as mill ponds and later as new districts [constructed on landfill](https://collections.leventhalmap.org/search/commonwealth:js956k44c). Industries, railroads, and rapid transit were soon to follow. 
 
 To many people living in Boston during its industrial boom years, the growth of the modern city seemed constantly at risk of spiraling out of control. Urban development led to issues ranging from [catastrophic fires](https://collections.leventhalmap.org/search/commonwealth:x059cb44q) and tangled streetcar traffic, to [waves of epidemics](https://collections.leventhalmap.org/search/commonwealth:8336hc374) and [environmental health](https://collections.leventhalmap.org/search/commonwealth:w3765q66z) concerns. Efforts to address these issues often involved interventions in the city’s spaces, like housing codes, park plans, the development of public infrastructure, and land use controls. 
+
+These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
 
 > Keep in touch with what we’re planning for the spring! [Follow us on social media or join our mailing list](https://www.leventhalmap.org/about/contact-connect/).
