@@ -58,7 +58,7 @@ To many people living in Boston during its industrial boom years, the growth of 
 
 As the physical landscape expanded and diversified, so did the city's population. Sometimes the city welcomed new arrivals, while during other periods formal and informal barriers constrained who could come to Boston and where they could live. The “color line,” which the Black scholar W. E. B. Du Bois described as “the problem of the twentieth century,” was not just a conceptual line between groups of people but very often a cartographic line, a space of both racist confrontation and demands for liberation. 
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x54w/840,1138,3718,3619/1200,/0/default.jpg" caption="" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x54w/840,1138,3718,3619/1200,/0/default.jpg" caption="" class="figure-left" >}}
 
 making a city
 
