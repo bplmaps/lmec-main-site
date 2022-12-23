@@ -16,11 +16,9 @@ As we move into the new year, we are eager to unveil not one, but two, new exhib
 
 ### Building Blocks: Boston Stories from Urban Atlases
 
-**Featured Exhibition opens January 13**
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg440/full/1200,/0/default.jpg" caption="The cover page of this [1895 Atlas of the City of Boston](https://collections.leventhalmap.org/search/commonwealth:tt44pv85c) includes an index for hundreds of streets." class="figure-right" >}}
 
 In the period spanning the Civil War to World War II, Boston’s urban fabric experienced profound changes. The city filled in new neighborhoods, annexed suburbs serviced by streetcars, and ventured on ambitious infrastructure to stake its claim as a metropolis worthy of the name.
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg440/full/1200,/0/default.jpg" caption="The cover page of this [1895 Atlas of the City of Boston](https://collections.leventhalmap.org/search/commonwealth:tt44pv85c) includes an index for hundreds of streets." class="figure-right" >}}
 
 With each development, opportunities for new types of social interactions emerged in tandem. As communities and individuals responded to a shifting urban landscape, countless stories unfurled and brought life into the folds of a complex city. _Building Blocks_ explores this extraordinary moment of transformation through the lens of the Center's urban atlases, a collection of {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg55h/full/full/0/default.jpg"  target="blank" >}}maps{{</popup>}}  that display property, street, utility, and building information, and are especially well-suited for discovering change by tracking small-scale interventions in the built environment.
 
@@ -30,13 +28,13 @@ Visitors will discover how the atlas collection opens up a world of fascinating 
 
 Among these vignettes are a collection of local histories uncovered and reconstructed by a team of teen curators from Boston Public Schools, including the origins of {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bz48b/363,1820,2174,2333/full/0/default.jpg"  target="blank" >}}Ronan Park{{</popup>}}  in Dorchester, {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c3889/5368,1700,2076,1881/full/0/default.jpg"  target="blank" >}}Kelleher Rose Garden{{</popup>}} in Back Bay Fens, the once-bustling {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d27c9442/1008,464,2283,2304/full/0/default.jpg"  target="blank" >}}cattle industry {{</popup>}}  of Brighton.
 
+{{< figure src="/uploads/2022-12-22/cc_convention.jpeg" caption="" class="figure-left" >}}
+
 The maps in this exhibition tell stories that are ultimately about people, but the stories of some people are harder to find than others. In the case of Boston’s Black community, the urban atlases don’t always tell us as much as we might want to know. To illuminate the lives and stories that sometimes run hidden through these maps, _Building Blocks_ follows the biography of an important Black Bostonian, {{< popup src="/uploads/2022-12-22/cc_convention.jpeg"  target="blank" >}}Florida Ruffin Ridley{{</popup>}}  who worked, studied, played, and created within the landscapes on display.
 
 Beyond the stories narrated in this exhibition, the rich details of the atlases hint at thousands, or even millions, of others, and we invite visitors to discover stories of their own.
 
 ### Becoming Boston: Eight Moments in the Geography of a Changing City
-
-**Permanent Exhibition opens January 13**
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/1200,/0/default.jpg" caption="This [map of Boston Old and New](https://collections.leventhalmap.org/search/commonwealth:x633f8662) superimposes the outline of the original Shawmut Peninsula onto an 1880 map of the city." class="figure-right" >}}
 
