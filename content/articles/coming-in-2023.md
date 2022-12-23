@@ -42,6 +42,8 @@ Beyond these narrated stories, the rich details of the atlases hint at thousands
 
 Maps trace out the complicated history of places, and we can use them to document geography in the same way that we can use diaries and letters to document biography. In the eight cases of this exhibition, we follow the changing spatial forms of the place we now call Boston—from before the landscape carried that name all the way through the struggles, clashes, and dreams that continue to reshape the city today.
 
+For this exhibition, the themes we explore will remain consistent, but the maps on display will change throughout the year to allow visitors a chance to continuously explore our collections of objects related to the history of greater Boston.
+
 ##### From colonial contact to Boston today
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s91s/full/1200,/0/default.jpg" caption="Note colonial place names on this \~1675 [map of New England](https://collections.leventhalmap.org/search/commonwealth:3f462s90h)." class="figure-right" >}}
