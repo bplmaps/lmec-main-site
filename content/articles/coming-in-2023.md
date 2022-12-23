@@ -1,6 +1,6 @@
 ---
 date: 2022-12-27T17:30:43-05:00
-title: 'A preview of what''s to come in 2023 '
+title: 'A Preview of What''s to Come in 2023 '
 description: 'Our gallery will see an exciting new change in 2023 '
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f87j/758,2141,4231,1550/full/0/default.jpg
 author: LMEC Staff
