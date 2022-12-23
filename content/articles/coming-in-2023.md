@@ -28,15 +28,11 @@ Visitors will discover how the atlas collection opens up a world of fascinating 
 
 Among these vignettes are a collection of local histories uncovered and reconstructed by a team of teen curators from Boston Public Schools, including the origins of {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bz48b/363,1820,2174,2333/full/0/default.jpg"  target="blank" >}}Ronan Park{{</popup>}}  in Dorchester, {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c3889/5368,1700,2076,1881/full/0/default.jpg"  target="blank" >}}Kelleher Rose Garden{{</popup>}} in Back Bay Fens, the once-bustling {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d27c9442/1008,464,2283,2304/full/0/default.jpg"  target="blank" >}}cattle industry {{</popup>}}  of Brighton.
 
-{{< figure src="/uploads/2022-12-22/cc_convention.jpeg" caption="" class="figure-left" >}}
-
 The maps in this exhibition tell stories that are ultimately about people, but the stories of some people are harder to find than others. In the case of Boston’s Black community, the urban atlases don’t always tell us as much as we might want to know. To illuminate the lives and stories that sometimes run hidden through these maps, _Building Blocks_ follows the biography of an important Black Bostonian, {{< popup src="/uploads/2022-12-22/cc_convention.jpeg"  target="blank" >}}Florida Ruffin Ridley{{</popup>}}  who worked, studied, played, and created within the landscapes on display.
 
 Beyond the stories narrated in this exhibition, the rich details of the atlases hint at thousands, or even millions, of others, and we invite visitors to discover stories of their own.
 
 ### Becoming Boston: Eight Moments in the Geography of a Changing City
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/1200,/0/default.jpg" caption="This [map of Boston Old and New](https://collections.leventhalmap.org/search/commonwealth:x633f8662) superimposes the outline of the original Shawmut Peninsula onto an 1880 map of the city." class="figure-right" >}}
 
 Maps trace out the complicated history of places, and we can use them to document geography in the same way that we can use diaries and letters to document biography. In the eight cases of this exhibition, we follow the changing spatial forms of the place we now call Boston—from before the landscape carried that name all the way through the struggles, clashes, and dreams that continue to reshape the city today. 
 
