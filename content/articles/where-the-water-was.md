@@ -12,19 +12,22 @@ draft: true
 ---
 Many visitors to our Gallery come in with a question on their mind - what did Boston look like before it was filled in? When walking around Boston today, it might be hard to picture the tidal estuaries, shallow marshes, and mud flats that were filled in and topped with Brownstones and tall buildings.
 
-There are many questions to ask about filled land: How much of it is fill? When was it filled in? And what did the shoreline used to look like? But 'Where the water used to be' isn't just a modern question, historians of the late 19th century were drawing depictions of the Shawmut peninsula and comparing the city of two centuries prior with it's then-current shape. 
+There are many questions to ask about filled land: How much of it is fill? When was it filled in? And what did the shoreline used to look like? But 'Where the water used to be' isn't just a modern question, historians at the turn of the 19th century were drawing (depictions of the Shawmut peninsula)[https://collections.leventhalmap.org/search/commonwealth:9s161969s] and comparing the city of two centuries prior with it's then-current shape. 
 
-Even as early at 1722, colonists had started to change the outline of Boston. They built \[wharves into the harbor\] and created \[a mill dam\] over the northern inlet. By the turn of the 19th century, Boston's landfilling project had changed the shape of the coatline almost in its entirety. 
+Even as early at 1722, colonists had started to change the outline of Boston. They built \[wharves into the harbor\] and created \[a mill dam\] over the northern inlet. By the turn of the 19th century, Boston's landfilling project had changed the shape of the coatline almost in its entirety.
+
+{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/full/0/default.jpg" caption="Caption 1" class="figure-right" >}}
 
 In 1880, historian, librarian, and cartographer Justin Winsor created a map of Boston Old and New. It overlayed the original Shawmut peninsula with the modern reach of Boston, emphasizing {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/2153,1006,1449,1300/full/0/default.jpg">}}the hills{{</popup>}} that {{<popup src ="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6h441121b/full/full/0/default.jpg">}}were shortened{{</popup>}} too fill in sections of harbor and the distinctions between {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/4734,3586,1548,922/full/0/default.jpg" >}} marshy and level ground {{</popup>}}.
 
-{{<figure src="link" caption="Caption 1" class="figure-right" >}}
 
 Also visible on this map are the 'modern' car bars, railroad tracks and trails through the public garden. Winsor included this map in the first volume of his book, "Memorial History of Boston, Including Suffolk County, Massachusetts."
 
-The 19th century was a busy time for Boston when it came to landmaking - similarly to Winsor's map, other overlays were created to contrast the difference between Modern boston and the original Shawmut Peninsula. This 1895 map celebrates a century of Boston's expansion from 1793 to 1893. On this map Boston grows from the pink outline, then the green, and by 1893 - settling in the more familiar blue outline. On this map one can also see the two train lines, the Boston & Albany and the Boston & Providence, which \[crossed the Back Bay\] and allowed for landfill to be easily transported into the city.
+ {{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k46x/full/full/0/default.jpg" caption="Caption 1" class="figure-center" >}}
+  
+The 19th century was a busy time for Boston when it came to landmaking - similarly to Winsor's map, other overlays were created to contrast the difference between Modern boston and the original Shawmut Peninsula. This 1895 map celebrates a century of Boston's expansion from 1793 to 1893. On this map Boston grows from the pink outline, then the green, and by 1893 - settling in the more familiar blue outline. On this map one can also see the two train lines, the Boston & Albany and the Boston & Providence, which {{<popup src = " ">}}crossed the Back Bay{{</popup>}}and allowed for landfill to be easily transported into the city.
 
-{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b902s/full/full/0/default.jpg" caption="Caption 1" class="figure-right" >}}
+{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b902s/full/full/0/default.jpg" caption="Caption 1" class="figure-left" >}}
 
 \[Intro sentance\] It overlays streetcar and subway lines in Boston. At the time, almost all of the subway lines were on the original land of the Shawmut peninsula. You can see {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b902s/1393,3023,716,484/full/0/default.jpg">}}here{{</popup>}} that the subway line extends off into filled land at the corner of the Boston Public Gardens before transitioning into a streetcar.
 
@@ -37,4 +40,4 @@ As many people want to see what neighborhoods used to look like or what shorelin
 
 Even in centuries past, People wanted to know what was under their feet, whether they were plotting out subway lines, or trying to catalog where people’s houses were in 1635. And today, the question of “where the water was” becomes more relevant, with rising seas having the potential to reclaim areas that were once water again. (map of sea level rise in Boston with caption, areas like the bullfinch triangle or the seaport are more succeptable to flooding, as they are closer to sea level than many of the original parts of Boston such as dorchester or the north end. [https://collections.leventhalmap.org/search/commonwealth:q524n632m](https://collections.leventhalmap.org/search/commonwealth:q524n632m "https://collections.leventhalmap.org/search/commonwealth:q524n632m") (use an example other than the seaport as it doesn’t show on this map). (You're not the first one to ask!)
 
-{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n701t/full/full/0/default.jpg" caption="Sea Level Rise" class="figure-right" >}}
+{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n701t/full/full/0/default.jpg" caption="Boston flooding impact with 36 inches of sea-level rise" class="figure-right" >}}
