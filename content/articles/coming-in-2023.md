@@ -46,7 +46,7 @@ These maps don’t merely depict facts about how the city looked at different mo
 
 #### From colonial contact to 21st-century Boston
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s91s/full/1200,/0/default.jpg" caption="Notice colonial place names on this \~1675 map of New England." class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s91s/full/1200,/0/default.jpg" caption="Notice colonial place names on this \~1675 [map of New England](https://collections.leventhalmap.org/search/commonwealth:3f462s90h)." class="figure-right" >}}
 
 We begin in the seventeenth century at the point of colonial contact. For thousands of years, Native peoples have built their homes and nations around Massachusetts Bay, and today the region is still home to members of the Massachusett tribe as well as Indigenous people from across the Americas. Maps of this period show New England as the Europeans wanted it to appear, with Native peoples receding into the hinterland and new territories forming the outlines of a colonial geography. 
 
