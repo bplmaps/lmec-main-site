@@ -68,4 +68,4 @@ boston today
 
 These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
 
-> Keep in touch with what we’re planning for the spring! [Follow us on social media or join our mailing list](https://www.leventhalmap.org/about/contact-connect/).
+> Mark your calendar for the January 13 opening of both _Building Blocks_ and _Becoming Boston_! And keep in touch with what we’re planning for the spring: [Follow us on social media or join our mailing list](https://www.leventhalmap.org/about/contact-connect/).
