@@ -18,9 +18,9 @@ There are many questions people ask about filled land: How much of it is fill? W
 
 {{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/full/0/default.jpg" caption="_Boston Old and New_ appeared inside the first volume of Winsor's book, _Memorial History of Boston, Including Suffolk County, Massachusetts._" class="figure-left" >}}
 
-In 1880, historian, librarian, and cartographer Justin Winsor created this map of "Boston Old and New". He overlayed the original Shawmut peninsula with the current reach of Boston, emphasizing {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/2153,1006,1449,1300/full/0/default.jpg">}}the hills{{</popup>}} that {{<popup src ="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6h441121b/full/full/0/default.jpg">}}were shortened{{</popup>}} to fill in sections of harbor and the distinctions between {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/4734,3586,1548,922/full/0/default.jpg" >}} marshy and level ground {{</popup>}}. 
+In 1880, historian, librarian, and cartographer Justin Winsor created this map of "Boston Old and New". He overlayed the original Shawmut peninsula with the current reach of Boston, emphasizing {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/2153,1006,1449,1300/full/0/default.jpg">}}the hills{{</popup>}} that {{<popup src ="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6h441121b/full/full/0/default.jpg">}}were shortened{{</popup>}} to fill in sections of harbor and the distinctions between {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/4734,3586,1548,922/full/0/default.jpg" >}} marshy and level ground {{</popup>}}.
 
-Even as soon at 1880, none of Boston proper's original shoreline touched the water, ringed instead with wharves leading out to the harbor. Also visible on this map are the modern car bars, railroad tracks and trails through the public garden. The 'New' Boston looked quite different than the old, but the process didn't just happen immediately. 
+Even as soon at 1880, none of Boston proper's original shoreline touched the water, ringed instead with wharves leading out to the harbor. Also visible on this map are the modern car bars, railroad tracks and trails through the public garden. The 'New' Boston looked quite different than the old, but the process didn't just happen immediately.
 
 {{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k46x/full/full/0/default.jpg" caption="Caption 1" class="figure-center" >}}
 
@@ -28,14 +28,17 @@ The 19th century was a busy time for Boston when it came to landmaking - similar
 
 {{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b902s/full/full/0/default.jpg" caption="Caption 1" class="figure-right" >}}
 
-\[Intro sentance\] It overlays streetcar and subway lines in Boston. At the time, almost all of the subway lines were on the original land of the Shawmut peninsula. You can see {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b902s/1393,3023,716,484/full/0/default.jpg">}}here{{</popup>}} that the subway line extends off into filled land at the corner of the Boston Public Gardens before transitioning into a streetcar.
+This overlay of Boston proper from around 1894 includes the streetcar and subway lines in Boston. At the time, almost all of the subway lines were on the original land of the Shawmut peninsula. You can see {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b902s/1393,3023,716,484/full/0/default.jpg">}}here{{</popup>}} that the subway line extends off into filled land at the corner of the Boston Public Gardens before transitioning into a streetcar.
 
-\[Were there any concerns about putting trains underground in filled land??\]
-When they extended the subway down Boyston Street, different considerations of construction had to be made because of the groundwater level and softer soil (had to use pilings, info from bosintransit)
+While the reason this map was made is unlear, the extension of the subway down Boyston Street needed different considerations for it's construction had to be made because of the groundwater level and softer soil. Knowing where Boston used to begin and end has practical applications as well.
+
+Of course, our collective fascination with Boston's changing shoreline didn't end after the 1800s. [Many modern maps](https://collections.leventhalmap.org/search?utf8=%E2%9C%93&search_field=all_fields&q=Boston+shoreline&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1950&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=2022&commit=Apply) of Boston's landfill have a home in our collections, including one that was created here.
+
+{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n560k/full/full/0/default.jpg" caption="Caption" class="figure-left" >}}
 
 This map of Boston over time breaks the city's landfill into three sections: the original land, land added before 1880 (incidentally the same year Winsor created his map) and land added after - up until 199...??. Some of the last areas to be filled in were the (airport)\[https://www.leventhalmap.org/articles/olmsted-to-airport-east-boston-and-urban-development\] and the South Boston Waterfront - also called the Seaport - which has been extended beyond the outlines of this 1990s\[?\] sattelite photograph.
 
-As many people want to see what neighborhoods used to look like or what shorelines used to be in their specific neighborhoods, they may turn to these maps, or Atlascope, or maybe even georeferencing their own map from one of the ones in our collections.
+As many people want to see what neighborhoods used to look like or what shorelines used to be in their specific neighborhoods, they may turn to these overlays, georeferenced maps, or tools like [Atlascope](atlascope.leventhalmap.org).
 
 {{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n701t/full/full/0/default.jpg" caption="Boston flooding impact with 36 inches of sea-level rise from [Climate Ready Boston](https://www.boston.gov/sites/default/files/embed/2/20161207_climate_ready_boston_digital2.pdf) report" class="figure-right" >}}
 
