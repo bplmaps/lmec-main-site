@@ -18,9 +18,9 @@ As we move into the new year, we are eager to unveil not one, but two, new exhib
 
 **Featured exhibition**
 
-In the period spanning the Civil War to World War II, Boston’s urban fabric experienced profound changes. The city filled in new neighborhoods, annexed suburbs serviced by streetcars, and ventured on ambitious infrastructure to stake its claim as a metropolis worthy of the name.
-
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg440/full/1200,/0/default.jpg" caption="The cover page of this [1895 Atlas of the City of Boston](https://collections.leventhalmap.org/search/commonwealth:tt44pv85c) includes an index for hundreds of streets." class="figure-right" >}}
+
+In the period spanning the Civil War to World War II, Boston’s urban fabric experienced profound changes. The city filled in new neighborhoods, annexed suburbs serviced by streetcars, and ventured on ambitious infrastructure to stake its claim as a metropolis worthy of the name.
 
 With each development, opportunities for new types of social interactions emerged in tandem. As communities and individuals responded to a shifting urban landscape, countless stories unfurled and brought life into the folds of a complex city. _Building Blocks_ explores this extraordinary moment of transformation through the lens of the Center's urban atlases, a collection of {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg55h/full/full/0/default.jpg"  target="blank" >}}maps{{</popup>}}  that display property, street, utility, and building information, and are especially well-suited for discovering change by tracking small-scale interventions in the built environment.
 
@@ -30,7 +30,7 @@ With each development, opportunities for new types of social interactions emerge
 
 Visitors will discover how the atlas collection opens up a world of fascinating stories, with vignettes including the country’s first {{< popup src="/uploads/2022-12-22/african-meeting-house.png"  target="blank" >}}African Meeting House{{</popup>}}  in the heart of Beacon Hill, landmarks of leisure like the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xx05z/7377,3143,1104,1108/full/0/default.jpg"  target="blank" >}}Derby Racer{{</popup>}}  and Giant Safety Thriller amusement rides in Revere, and public health infrastructure on {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj68t/10272,6295,1653,1332/full/0/default.jpg"  target="blank" >}}Gallops Island{{</popup>}}  in the former South Bay.
 
-Among these vignettes are a collection of local histories uncovered and reconstructed by a team of teen curators from Boston Public Schools, including the origins of {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bz48b/363,1820,2174,2333/full/0/default.jpg"  target="blank" >}}Ronan Park{{</popup>}}  in Dorchester, the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c3889/5368,1700,2076,1881/full/0/default.jpg"  target="blank" >}}Kelleher Rose Garden{{</popup>}} in Back Bay Fens, the once-bustling {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d27c9442/1008,464,2283,2304/full/0/default.jpg"  target="blank" >}}cattle industry {{</popup>}}  of Brighton.
+Among these vignettes are a collection of local histories uncovered and reconstructed by a team of teen curators from Boston Public Schools, including the origins of {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bz48b/363,1820,2174,2333/full/0/default.jpg"  target="blank" >}}Ronan Park{{</popup>}}  in Dorchester, the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c3889/5368,1700,2076,1881/full/0/default.jpg"  target="blank" >}}Kelleher Rose Garden{{</popup>}} in Back Bay Fens, the once-bustling {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d27c9442/1008,464,2283,2304/full/0/default.jpg"  target="blank" >}}cattle industry {{</popup>}}  of Brighton. 
 
 ##### People and their places
 
