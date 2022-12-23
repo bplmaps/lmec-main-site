@@ -22,11 +22,13 @@ In the period spanning the Civil War to World War II, Boston’s urban fabric ex
 
 With each development, opportunities for new types of social interactions emerged in tandem. As communities and individuals responded to a shifting urban landscape, countless stories unfurled and brought life into the folds of a complex city. _Building Blocks_ explores this extraordinary moment of transformation through the lens of the Center's urban atlases, a collection of {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg55h/full/full/0/default.jpg"  target="blank" >}}maps{{</popup>}}  that display property, street, utility, and building information, and are especially well-suited for discovering change by tracking small-scale interventions in the built environment.
 
-#### Uncovering small-scale stories of urban change
+##### Uncovering small-scale stories of urban change
 
 Visitors will discover how the atlas collection opens up a world of fascinating stories, with vignettes including the country’s first {{< popup src="/uploads/2022-12-22/african-meeting-house.png"  target="blank" >}}African Meeting House{{</popup>}}  in the heart of Beacon Hill, landmarks of leisure like the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xx05z/7377,3143,1104,1108/full/0/default.jpg"  target="blank" >}}Derby Racer{{</popup>}}  and Giant Safety Thriller amusement rides in Revere, and public {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj68t/10272,6295,1653,1332/full/0/default.jpg"  target="blank" >}}health infrastructure{{</popup>}}  on Gallops Island in the former South Bay.
 
 Among these vignettes are a collection of local histories uncovered and reconstructed by a team of teen curators from Boston Public Schools, including the origins of {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bz48b/363,1820,2174,2333/full/0/default.jpg"  target="blank" >}}Ronan Park{{</popup>}}  in Dorchester, {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c3889/5368,1700,2076,1881/full/0/default.jpg"  target="blank" >}}Kelleher Rose Garden{{</popup>}} in Back Bay Fens, the once-bustling {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d27c9442/1008,464,2283,2304/full/0/default.jpg"  target="blank" >}}cattle industry {{</popup>}}  of Brighton.
+
+##### 
 
 The maps in this exhibition tell stories that are ultimately about people, but the stories of some people are harder to find than others. In the case of Boston’s Black community, the urban atlases don’t always tell us as much as we might want to know. To illuminate the lives and stories that sometimes run hidden through these maps, _Building Blocks_ follows the biography of an important Black Bostonian, {{< popup src="/uploads/2022-12-22/cc_convention.jpeg"  target="blank" >}}Florida Ruffin Ridley{{</popup>}}  who worked, studied, played, and created within the landscapes on display. 
 
@@ -38,7 +40,7 @@ Maps trace out the complicated history of places, and we can use them to documen
 
 These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
 
-#### From colonial contact to 21st-century Boston
+##### From colonial contact to 21st-century Boston
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s91s/full/1200,/0/default.jpg" caption="Notice colonial place names on this \~1675 [map of New England](https://collections.leventhalmap.org/search/commonwealth:3f462s90h)." class="figure-right" >}}
 
