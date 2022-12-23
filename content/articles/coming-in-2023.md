@@ -34,11 +34,9 @@ Among these vignettes are a collection of local histories uncovered and reconstr
 
 ##### People and their places
 
-The maps in this exhibition tell stories that are ultimately about people, but the stories of some people are harder to find than others. In the case of Boston’s Black community, the urban atlases don’t always tell us as much as we might want to know. To illuminate the lives and stories that sometimes run hidden through these maps, _Building Blocks_ follows the biography of an important Black Bostonian, {{< popup src="/uploads/2022-12-22/cc_convention.jpeg"  target="blank" >}}Florida Ruffin Ridley{{</popup>}}  who worked, studied, played, and created within the landscapes on display. 
+The maps in this exhibition tell stories that are ultimately about people, but the stories of some people are harder to find than others. In the case of Boston’s Black community, the urban atlases don’t always tell us as much as we might want to know. To illuminate the lives and stories that sometimes run hidden through these maps, _Building Blocks_ follows the biography of an important Black Bostonian, Florida Ruffin Ridley, who worked, studied, played, and created within the landscapes on display. As visitors move through the exhibition, look for {{< popup src="/uploads/2022-12-22/cc_convention.jpeg"  target="blank" >}}Florida's photo{{</popup>}}  to follow her story and see how her life intersected with many other people and places in Boston and beyond. 
 
-Florida was 
-
-Beyond the stories narrated in this exhibition, the rich details of the atlases hint at thousands, or even millions, of others, and we invite visitors to discover stories of their own.
+Beyond these narrated stories, the rich details of the atlases hint at thousands, or even millions, of others, and we invite visitors to discover stories of their own.
 
 ### Becoming Boston: Eight Moments in the Geography of a Changing City
 
