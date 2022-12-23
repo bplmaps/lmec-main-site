@@ -56,16 +56,12 @@ After the revolutionary era, Boston entered into a moment of transition and expa
 
 To many people living in Boston during its industrial boom years, the growth of the modern city seemed constantly at risk of spiraling out of control. Urban development led to issues ranging from [catastrophic fires](https://collections.leventhalmap.org/search/commonwealth:x059cb44q) and tangled streetcar traffic, to [waves of epidemics](https://collections.leventhalmap.org/search/commonwealth:8336hc374) and [environmental health](https://collections.leventhalmap.org/search/commonwealth:w3765q66z) concerns. 
 
-As the physical landscape expanded, so did the city's population. Sometimes the city welcomed new arrivals, while during other periods formal and informal barriers constrained who could come to Boston and where they could live.
-
-immigration
-
-race and resistance 
+As the physical landscape expanded and diversified, so did the city's population. Sometimes the city welcomed new arrivals, while during other periods formal and informal barriers constrained who could come to Boston and where they could live. The “color line,” which the Black scholar W. E. B. Du Bois described as “the problem of the twentieth century,” was not just a conceptual line between groups of people but very often a cartographic line, a space of both racist confrontation and demands for liberation. 
 
 making a city
 
 boston today 
 
-These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
+These maps in this exhibition don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
 
 > Mark your calendar for the January 13 opening of both _Building Blocks_ and _Becoming Boston_! And keep in touch with what we’re planning for the spring: [Follow us on social media or join our mailing list](https://www.leventhalmap.org/about/contact-connect/).
