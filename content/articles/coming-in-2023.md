@@ -60,6 +60,10 @@ To many people living in Boston during its industrial boom years, the growth of 
 
 As the physical landscape expanded and diversified, so did the city's population. Sometimes the city welcomed new arrivals, while during other periods formal and informal barriers constrained who could come to Boston and where they could live. The “color line,” which the Black scholar W. E. B. Du Bois described as “the problem of the twentieth century,” was not just a conceptual line between groups of people but very often a cartographic line, a space of both racist confrontation and demands for liberation. 
 
+The late-twentieth century saw a shift in the politics of design, planning, participation, and democracy. 
+
+both politicians and community groups were demanding more opportunities to draw maps in a more democratic fashion, bringing people from all walks of life into the decision-making processes that determine how the city’s geographies look today and in the future. From the lines drawn for voting districts to routes for new transportation networks and plans for addressing environmental crises, Bostonians began to take a more plural approach to mapping the city. The computer revolution in cartography also introduced possibilities for mapping the city in new ways. As Boston continues to evolve, how will maps document and determine the future of this ever-changing city?
+
 City planning, identity, etc. framing people on their own terms 
 
 * maps framing people; want to make their own maps 
