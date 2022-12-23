@@ -24,7 +24,7 @@ In the period spanning the Civil War to World War II, Boston’s urban fabric ex
 
 With each development, opportunities for new types of social interactions emerged in tandem. As communities and individuals responded to a shifting urban landscape, countless stories unfurled and brought life into the folds of a complex city. _Building Blocks_ explores this extraordinary moment of transformation through the lens of the Center's urban atlases, a collection of {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg55h/full/full/0/default.jpg"  target="blank" >}}maps{{</popup>}}  that display property, street, utility, and building information, and are especially well-suited for discovering change by tracking small-scale interventions in the built environment.
 
-#### Small-scale stories of urban change
+#### Uncovering small-scale stories of urban change
 
 Visitors will discover how the atlas collection opens up a world of fascinating stories, with vignettes including the country’s first {{< popup src="/uploads/2022-12-22/african-meeting-house.png"  target="blank" >}}African Meeting House{{</popup>}}  in the heart of Beacon Hill, landmarks of leisure like the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xx05z/7377,3143,1104,1108/full/0/default.jpg"  target="blank" >}}Derby Racer{{</popup>}}  and Giant Safety Thriller amusement rides in Revere, and public {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj68t/10272,6295,1653,1332/full/0/default.jpg"  target="blank" >}}health infrastructure{{</popup>}}  on Gallops Island in the former South Bay.
 
