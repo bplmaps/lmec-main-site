@@ -54,7 +54,9 @@ Boston quickly developed into an important regional city at the intersection of 
 
 After the revolutionary era, Boston entered into a moment of transition and expansion, reimagining its urban form and building neighborhoods from scratch. The city's surrounding tidelands were put to work as mill ponds and later as new districts [constructed on landfill](https://collections.leventhalmap.org/search/commonwealth:js956k44c). Industries, railroads, and rapid transit were soon to follow. 
 
-To many people living in Boston during its industrial boom years, the growth of the modern city seemed constantly at risk of spiraling out of control. Urban development led to issues ranging from [catastrophic fires](https://collections.leventhalmap.org/search/commonwealth:x059cb44q) and tangled streetcar traffic, to [waves of epidemics](https://collections.leventhalmap.org/search/commonwealth:8336hc374) and [environmental health](https://collections.leventhalmap.org/search/commonwealth:w3765q66z) concerns. Efforts to address these issues often involved interventions in the city’s spaces, like housing codes, park plans, the development of public infrastructure, and land use controls. 
+To many people living in Boston during its industrial boom years, the growth of the modern city seemed constantly at risk of spiraling out of control. Urban development led to issues ranging from [catastrophic fires](https://collections.leventhalmap.org/search/commonwealth:x059cb44q) and tangled streetcar traffic, to [waves of epidemics](https://collections.leventhalmap.org/search/commonwealth:8336hc374) and [environmental health](https://collections.leventhalmap.org/search/commonwealth:w3765q66z) concerns. 
+
+As the physical landscape expanded, so did the city's population. Sometimes the city welcomed new arrivals, while during other periods formal and informal barriers constrained who could come to Boston and where they could live.
 
 immigration
 
