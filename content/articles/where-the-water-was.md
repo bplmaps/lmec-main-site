@@ -18,7 +18,7 @@ But "where did the water used to be" isn't just a modern question. In our collec
 
 Even as early at 1722, colonists had started to change the outline of Boston. They built \[wharves into the harbor\] and created \[a mill dam\] over the northern inlet.
 
-In 1880, historian, librarian, and cartographer Justin Winsor created a map of Boston Old and New. It overlayed the original Shawmut peninsula with the modern reach of Boston, emphasizing \[the hills\] that \[were shortened\](beaconhill) too fill in sections of harbor and the distinctions between {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/4734,3586,1548,922/full/0/default.jpg" >}} marshy and level ground {{</popup>}}.
+In 1880, historian, librarian, and cartographer Justin Winsor created a map of Boston Old and New. It overlayed the original Shawmut peninsula with the modern reach of Boston, emphasizing {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/2153,1006,1449,1300/full/0/default.jpg">}}the hills{{</popup>}} that {{<popup src ="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6h441121b/full/full/0/default.jpg">}}were shortened{{</popup>}} too fill in sections of harbor and the distinctions between {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/4734,3586,1548,922/full/0/default.jpg" >}} marshy and level ground {{</popup>}}.
 
 {{<figure src="link" caption="Caption 1" class="figure-right" >}}
 
@@ -26,7 +26,7 @@ Also visible on this map are the 'modern' car bars, railroad tracks and trails t
 
 The 19th century was a busy time for Boston when it came to landmaking - similarly to Winsor's map, other overlays were created to contrast the difference between Modern boston and the original Shawmut Peninsula. This 1895 map celebrates a century of Boston's expansion from 1793 to 1893. On this map Boston grows from the pink outline, then the green, and by 1893 - settling in the more familiar blue outline. On this map one can also see the two train lines, the Boston & Albany and the Boston & Providence, which \[crossed the Back Bay\] and allowed for landfill to be easily transported into the city.
 
-{{<figure src="link" caption="Caption 1" class="figure-right" >}}
+{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6h441121b/full/full/0/default.jpg" caption="Caption 1" class="figure-right" >}}
 
 \[Intro sentance\] It overlays streetcar and subway lines in Boston. At the time, almost all of the subway lines were on the original land of the Shawmut peninsula. You can see \[here\] that the subway line extends off into filled land at the corner of the Boston Public Gardens before transitioning into a streetcar.
 
