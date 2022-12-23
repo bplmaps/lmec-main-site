@@ -26,7 +26,7 @@ With each development, opportunities for new types of social interactions emerge
 
 ##### Small-scale stories of urban change
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg49c/full/1200,/0/default.jpg" caption="This [atlas plate](https://collections.leventhalmap.org/search/commonwealth:tt44pv85c) from 1895..." class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg49c/full/1200,/0/default.jpg" caption="This [atlas plate](https://collections.leventhalmap.org/search/commonwealth:tt44pv85c) from 1895 uses the color pink to indicate brick buildings and the color yellow to indicate wood frame buildings." class="figure-right" >}}
 
 Visitors will discover how the atlas collection opens up a world of fascinating stories, with vignettes including the country’s first {{< popup src="/uploads/2022-12-22/african-meeting-house.png"  target="blank" >}}African Meeting House{{</popup>}}  in the heart of Beacon Hill, landmarks of leisure like the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xx05z/7377,3143,1104,1108/full/0/default.jpg"  target="blank" >}}Derby Racer{{</popup>}}  and Giant Safety Thriller amusement rides in Revere, and public {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj68t/10272,6295,1653,1332/full/0/default.jpg"  target="blank" >}}health infrastructure{{</popup>}}  on Gallops Island in the former South Bay.
 
