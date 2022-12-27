@@ -3,8 +3,8 @@ publishDate: 2022-12-27T09:41:14-05:00
 title: 'Author Talk: Laura Bliss — The Quarantine Atlas: Mapping Global Life Under
   COVID-19'
 date: 2023-03-01T18:00:00-05:00
-image: "/uploads/2022-12-27/quarantine.jpg"
-backgroundImage: "/uploads/2022-12-27/quarantine.jpg"
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qz20w9031/1155,446,4592,2751/full/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qz20w9031/1155,446,4592,2751/full/0/default.jpg
 location: Rabb Lecture Hall, Central Library-Boylston Street Building
 fee: Free
 registration: https://www.eventbrite.com/e/author-talk-with-laura-bliss-the-quarantine-atlas-tickets-496439011447
