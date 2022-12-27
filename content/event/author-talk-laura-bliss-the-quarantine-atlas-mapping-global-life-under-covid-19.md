@@ -14,15 +14,15 @@ draft: true
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is co-organized with BPL Adult Programs.{{< /alert-box >}}
 
+{{< figure src="/uploads/2022-12-27/quarantineatlas.jpg" caption="_The Quarantine Atlas_ includes more than 65 homemade maps created by people around the globe. Each map reveals how the coronavirus pandemic transformed our physical and emotional worlds, in ways both universal and unique." class="figure-right" >}}
+
 ### About this event
 
 Writer and journalist **Laura Bliss** will discuss her recent book, **_The Quarantine Atlas: Mapping Global Life Under COVID-19_**, which explores reader-submitted maps of their lives during the coronavirus pandemic. Following the talk, there will be time for audience Q&A, and the program will conclude at 7 PM with an author signing facilitated by an independent bookstore partner.
 
 #### About the book
 
-{{< figure src="/uploads/2022-12-27/quarantineatlas.jpg" caption="" class="figure-right" >}}
-
-In April 2020, Bloomberg CityLab journalists Laura Bliss and Jessica Martin asked readers to submit homemade maps of their lives during the coronavirus pandemic. The response was illuminating and inspiring. The 400+ maps and accompanying stories received served as windows into what individuals around the world were experiencing during the crisis and its resonant social consequences. Collectively, these works showed how coronavirus has transformed the places we live, and our relationships to them. 
+In April 2020, Bloomberg CityLab journalists [Laura Bliss](https://www.bloomberg.com/authors/AUc4eu-sqsY/laura-bliss) and [Jessica Martin](https://www.bloomberg.com/authors/AUc4dQt2RUo/jessica-martin) asked readers to submit homemade maps of their lives during the coronavirus pandemic. The response was illuminating and inspiring. The 400+ maps and accompanying stories received served as windows into what individuals around the world were experiencing during the crisis and its resonant social consequences. Collectively, these works showed how coronavirus has transformed the places we live, and our relationships to them. 
 
 In _The Quarantine Atlas_, Bliss distills these submissions and pairs them with essays by writers including Jenny Odell, Destiny Thomas and Geoff Manaugh, as well as notes from the original mapmakers. The result is an enduring visual record of this unprecedented moment in human history. It is also a celebration of the act of mapping and the ways maps can help us connect and heal from our shared experience. Read more about the CityLab project and see reader-submitted maps [here](https://www.bloomberg.com/features/2020-coronavirus-lockdown-neighborhood-maps/ "Original URL: https://www.bloomberg.com/features/2020-coronavirus-lockdown-neighborhood-maps/. Click or tap if you trust this link.").
 
