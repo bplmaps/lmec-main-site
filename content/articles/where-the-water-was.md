@@ -44,4 +44,4 @@ Even in centuries past, People wanted to know what was under their feet, whether
 
 Overlaying Boston's shoreline with it's moderns landscapes is a great way for people to picture and understand Boston of the past. And next time you want to know where the water was - just look at one of these maps. You're not the first one to ask!
 
-> Interested more in the process of landfilling in Boston? Read this article by Garrett Nelson: [https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline](https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline "https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline")
+> Interested in more maps that showcase the process of landfill and shoreline change in Boston? Here are [8 Maps that explain Boston's changing shoreline ](https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline)
