@@ -12,7 +12,7 @@ draft: true
 ---
 Many visitors to our Gallery come in with a question on their mind - what did Boston look like before it was filled in? When walking around Boston today, it might be hard to picture the tidal estuaries, shallow marshes, and mud flats that were filled in and topped with Brownstones and tall buildings.
 
-Even as early at 1722, colonists had started to {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f22q/4878,520,4664,6027/full/0/default.jpg">}}change the outline of Boston {{</popup>}}. They built wharves into the harbor and created a mill dam over the northern inlet. By the turn of the 19th century, Boston's landfilling project had changed the shape of the coastline almost in its entirety. Neighborhood like the Back Bay, South Bay, Seaport, and large sections of downtown are all part of the filled-in territory.
+Even as early at 1722, colonists had started to {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f22q/4878,520,4664,6027/full/0/default.jpg">}}change the outline of Boston {{</popup>}}. They built wharves into the harbor and created a mill dam over the northern inlet. By the turn of the 19th century, Boston's landfilling project had changed the shape of the coastline almost in its entirety. Neighborhoods like the Back Bay, South Bay, Seaport, and large sections of downtown are all part of the filled-in territory.
 
 There are many questions people ask about filled land: How much of it is fill? When was it filled in? And what did the shoreline used to look like? But 'where the water used to be' isn't just a modern question, historians at the turn of the 19th century were drawing depictions of the Shawmut peninsula and comparing the city of two centuries prior with it's then-current shape.
 
@@ -22,7 +22,7 @@ In 1880, historian, librarian, and cartographer Justin Winsor created this map o
 
 Even as soon at 1880, none of Boston proper's original shoreline touched the water, ringed instead with wharves leading out to the harbor. Also visible on this map are the modern car bars, railroad tracks and trails through the public garden. The 'New' Boston looked quite different than the old, but the process didn't just happen immediately.
 
-{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k46x/full/full/0/default.jpg" caption="Caption 1" class="figure-center" >}}
+{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k46x/full/full/0/default.jpg" caption="A celebration of a century of shorline change in Boston. This map will be on display as a part of Becoming Boston" class="figure-center" >}}
 
 The 19th century was a busy time for Boston when it came to landmaking - similarly to Winsor's map, other overlays were created to contrast the difference between Modern Boston and the original Shawmut Peninsula. This 1895 map celebrates a century of Boston's expansion from 1793 to 1893. On this map Boston grows from the pink outline, then the green, and by 1893 - settling in the more familiar blue outline. On this map one can also see the two train lines, the Boston & Albany and the Boston & Providence, which {{<popup src = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k46x/526,870,2995,1914/full/0/default.jpg">}}crossed the Back Bay{{</popup>}}and allowed for landfill to be easily transported into the city.
 
@@ -42,6 +42,6 @@ This much more modern map of Boston uses a sattelite image as a base. On top, it
 
 Even in centuries past, People wanted to know what was under their feet, whether they were plotting out subway lines, or trying to catalog where people’s houses were in 1635. As many people want to see what neighborhoods used to look like or what shorelines used to be in their specific neighborhoods, they may turn to these overlays, georeferenced maps, or tools like [Atlascope](atlascope.leventhalmap.org). And today, the question of “where the water was” becomes more relevant, with rising seas having the potential to reclaim areas that were once water again. 
 
-Boston's shoreline has an interesting history that many people have wondered over for years. You're not the first one to ask!
+Overlaying Boston's shoreline with it's moderns landscapes is a great way for people to picture and understand Boston of the past. And next time you want to know where the water was - just look at one of these maps. You're not the first one to ask!
 
 > Interested more in the process of landfilling in Boston? Read this article by Garrett Nelson: [https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline](https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline "https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline")
