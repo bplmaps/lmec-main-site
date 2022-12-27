@@ -13,11 +13,11 @@ tags: []
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is co-organized with BPL Adult Programs.{{< /alert-box >}}
 
-{{< figure src="/uploads/2022-12-27/9780762478132-1-copy.png" caption="_The Quarantine Atlas_ includes more than 65 homemade maps created by people around the globe. Each map reveals how the coronavirus pandemic transformed our physical and emotional worlds, in ways both universal and unique." class="figure-right" >}}
-
 ### About this event
 
 Writer and journalist **Laura Bliss** will discuss her recent book, **_The Quarantine Atlas: Mapping Global Life Under COVID-19_**, which explores reader-submitted maps of their lives during the coronavirus pandemic. Following the talk, there will be time for audience Q&A, and the program will conclude at 7 PM with an author signing facilitated by an independent bookstore partner.
+
+{{< figure src="/uploads/2022-12-27/9780762478132-1-copy.png" caption="_The Quarantine Atlas_ includes more than 65 homemade maps created by people around the globe. Each map reveals how the coronavirus pandemic transformed our physical and emotional worlds, in ways both universal and unique." class="figure-right" >}}
 
 #### About the book
 
