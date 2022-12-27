@@ -32,7 +32,7 @@ This overlay of Boston proper from around 1894 includes the streetcar and subway
 
 While the reason this map was made is unclear, the extension of the subway down Boylston Street needed different considerations for it's construction had to be made because of the groundwater level and softer soil. Knowing where Boston used to begin and end has practical applications as well.
 
-{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n560k/full/full/0/default.jpg" caption="Boston Over Time" class="figure-left" >}}
+{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n560k/full/full/0/default.jpg"  class="figure-left" >}}
 
 Of course, our collective fascination with Boston's changing shoreline didn't end after the 1800s. [Many modern maps](https://collections.leventhalmap.org/search?utf8=%E2%9C%93&search_field=all_fields&q=Boston+shoreline&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1950&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=2022&commit=Apply) of Boston's landfill also have a home in our collections.
 
