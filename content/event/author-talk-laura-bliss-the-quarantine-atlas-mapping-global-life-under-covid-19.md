@@ -9,12 +9,11 @@ location: Rabb Lecture Hall, Central Library-Boylston Street Building
 fee: Free
 registration: https://www.eventbrite.com/e/author-talk-with-laura-bliss-the-quarantine-atlas-tickets-496439011447
 tags: []
-draft: true
 
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is co-organized with BPL Adult Programs.{{< /alert-box >}}
 
-{{< figure src="/uploads/2022-12-27/quarantineatlas.jpg" caption="_The Quarantine Atlas_ includes more than 65 homemade maps created by people around the globe. Each map reveals how the coronavirus pandemic transformed our physical and emotional worlds, in ways both universal and unique." class="figure-right" >}}
+{{< figure src="/uploads/2022-12-27/9780762478132-1-copy.png" caption="_The Quarantine Atlas_ includes more than 65 homemade maps created by people around the globe. Each map reveals how the coronavirus pandemic transformed our physical and emotional worlds, in ways both universal and unique." class="figure-right" >}}
 
 ### About this event
 
