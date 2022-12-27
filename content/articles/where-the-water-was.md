@@ -26,7 +26,7 @@ Even as soon at 1880, none of Boston proper's original shoreline touched the wat
 
 The 19th century was a busy time for Boston when it came to landmaking - similarly to Winsor's map, other overlays were created to contrast the difference between Modern Boston and the original Shawmut Peninsula. This 1895 map celebrates a century of Boston's expansion from 1793 to 1893. On this map Boston grows from the pink outline, then the green, and by 1893 - settling in the more familiar blue outline. On this map one can also see the two train lines, the Boston & Albany and the Boston & Providence, which {{<popup src = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k46x/526,870,2995,1914/full/0/default.jpg">}}crossed the Back Bay{{</popup>}}and allowed for landfill to be easily transported into the city.
 
-{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b902s/full/full/0/default.jpg" caption="Caption 1" class="figure-right" >}}
+{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b902s/full/full/0/default.jpg" caption="Subway map of Boston Proper indicating original shoreline and radial distances from City Hall" class="figure-right" >}}
 
 This overlay of Boston proper from around 1894 includes the streetcar and subway lines in Boston. At the time, almost all of the subway lines were on the original land of the Shawmut peninsula. You can see {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b902s/1393,3023,716,484/full/0/default.jpg">}}here{{</popup>}} that the subway line extends off into filled land at the corner of the Boston Public Gardens before transitioning into a streetcar.
 
