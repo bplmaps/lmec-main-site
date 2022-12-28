@@ -10,7 +10,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt
 draft: true
 
 ---
-Many visitors come to our gallery with a particular question on the mind: What did Boston look like before it was filled in? When walking around Boston today, it might be hard to picture the tidal estuaries, shallow marshes, and mud flats that were filled in and topped with Brownstones and tall buildings.
+Many visitors come to our gallery with a particular question in mind: What did Boston look like before it was filled in? When walking around Boston today, it might be hard to picture the tidal estuaries, shallow marshes, and mud flats that were filled in and topped with Brownstones and tall buildings.
 
 As early at 1722, colonists started to change the {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f22q/4878,520,4664,6027/full/0/default.jpg">}}outline{{</popup>}}  of Boston. They built wharves into the harbor and created a mill dam over the northern inlet. By the turn of the 19th century, Boston's landfilling project had changed the shape of the coastline almost in its entirety. Neighborhoods like the Back Bay, Seaport, and even sections of downtown are all part of this filled-in territory.
 
@@ -20,7 +20,7 @@ There are many questions people ask about filled land: How much of it is fill? W
 
 In 1880, historian, librarian, and cartographer Justin Winsor created [this map](https://collections.leventhalmap.org/search/commonwealth:x633f8662) of "Boston Old and New." He overlaid the original Shawmut peninsula with the current reach of Boston, emphasizing {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/2153,1006,1449,1300/full/0/default.jpg">}}the hills{{</popup>}}  that were {{<popup src ="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6h441121b/full/full/0/default.jpg">}}shortened{{</popup>}}  to fill in sections of harbor and the distinctions between {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/4734,3586,1548,922/full/0/default.jpg" >}}  marshy and level ground {{</popup>}}.
 
-Even as soon at 1880, none of Boston proper's original shoreline touched the water, ringed instead with wharves leading out to the harbor. Also visible on this map are the modern car bars, railroad tracks and trails through the public garden. The 'New' Boston looked quite different than the old, but the process didn't just happen immediately.
+Even as early at 1880, none of Boston's original shoreline touched the water, ringed instead with wharves leading out to the harbor. Also visible on this map are the modern car bars, railroad tracks and trails through the public garden. The 'New' Boston looked quite different than the old, but the process didn't just happen immediately.
 
 {{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k46x/full/full/0/default.jpg" caption="A celebration of a century of shoreline change in Boston. This map will be on display as a part of [Becoming Boston](https://www.leventhalmap.org/exhibitions/)" class="figure-center" >}}
 
