@@ -10,7 +10,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt
 draft: true
 
 ---
-Many visitors come to our gallery with a particular question in mind: What did Boston look like before it was filled in? When walking around Boston today, it might be hard to picture the tidal estuaries, shallow marshes, and mud flats that were filled in and topped with Brownstones and tall buildings.
+Many visitors come to our [gallery](https://www.leventhalmap.org/exhibitions/visit/) with a particular question in mind: What did Boston look like before it was filled in? When walking around Boston today, it might be hard to picture the tidal estuaries, shallow marshes, and mud flats that were filled in and topped with Brownstones and tall buildings.
 
 As early at 1722, colonists started to change the outline of Boston. They built {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f22q/4878,520,4664,6027/full/0/default.jpg">}} wharves into the harbor and a mill dam {{</popup>}} over the northern inlet. By the turn of the 19th century, Boston's landfilling project had changed the shape of the coastline almost in its entirety. Neighborhoods like the Back Bay, Seaport, and even sections of downtown are all part of this filled-in territory.
 
