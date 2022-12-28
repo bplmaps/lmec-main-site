@@ -37,3 +37,21 @@ exceptions:
 - special: Closed
   date: April 16, 2023
   name: Presidents Day
+- date: April 17, 2023
+  name: Presidents' Day (observed)
+  special: Closed
+- date: May 28, 2023
+  name: Memorial Day
+  special: Closed
+- date: May 29, 2023
+  name: Memorial Day (observed)
+  special: Closed
+- date: June 19, 2023
+  name: Juneteenth
+  special: Closed
+- date: July 4, 2023
+  name: Independence Day
+  special: Closed
+- date: ''
+  name: ''
+  special: ''
