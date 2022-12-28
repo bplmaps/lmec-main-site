@@ -22,15 +22,6 @@ weekly:
   open: 1 pm
   close: 5 pm
 exceptions:
-- date: December 24, 2022
-  name: Christmas Eve
-  special: Closing early at 2:00pm
-- date: December 25, 2022
-  name: 'Christmas '
-  special: Closed
-- date: December 26, 2022
-  name: Christmas (observed)
-  special: Closed
 - date: December 29, 2022 - January 12, 2023
   name: Exhibition Installation
   special: Closed
