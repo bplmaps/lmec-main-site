@@ -12,7 +12,7 @@ draft: true
 ---
 Many visitors come to our gallery with a particular question in mind: What did Boston look like before it was filled in? When walking around Boston today, it might be hard to picture the tidal estuaries, shallow marshes, and mud flats that were filled in and topped with Brownstones and tall buildings.
 
-As early at 1722, colonists started to change the {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f22q/4878,520,4664,6027/full/0/default.jpg">}}outline{{</popup>}}  of Boston. They built wharves into the harbor and created a mill dam over the northern inlet. By the turn of the 19th century, Boston's landfilling project had changed the shape of the coastline almost in its entirety. Neighborhoods like the Back Bay, Seaport, and even sections of downtown are all part of this filled-in territory.
+As early at 1722, colonists started to change the outline of Boston. They built {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f22q/4878,520,4664,6027/full/0/default.jpg">}} wharves into the harbor and a mill dam {{</popup>}} over the northern inlet. By the turn of the 19th century, Boston's landfilling project had changed the shape of the coastline almost in its entirety. Neighborhoods like the Back Bay, Seaport, and even sections of downtown are all part of this filled-in territory.
 
 {{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/full/0/default.jpg" caption="This map of [Boston Old and New](https://collections.leventhalmap.org/search/commonwealth:x633f8662) appeared in the first volume of Winsor's book, _Memorial History of Boston, Including Suffolk County, Massachusetts._" class="figure-right" >}}
 
@@ -20,7 +20,7 @@ There are many questions people ask about filled land: How much of it is fill? W
 
 In 1880, historian, librarian, and cartographer Justin Winsor created this [map](https://collections.leventhalmap.org/search/commonwealth:x633f8662) of "Boston Old and New." He overlaid the original Shawmut peninsula with the current reach of Boston, emphasizing {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6h441121b/full/full/0/default.jpg">}}the hills{{</popup>}}  that were shortened to fill sections of harbor and the distinctions between marshy and level {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/4734,3586,1548,922/full/0/default.jpg" >}}ground.{{</popup>}}
 
-Even as early at 1880, none of Boston's original shoreline touched the water, ringed instead with wharves leading out to the harbor. Also visible on this map are the modern car bars, railroad tracks and trails through the public garden. 
+Even as early at 1880, none of Boston's original shoreline touched the water, ringed instead with wharves leading out to the harbor. Also visible on this map are the modern car bars, railroad tracks and trails through the public garden.
 
 {{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k46x/full/full/0/default.jpg" caption="This [map](https://collections.leventhalmap.org/search/commonwealth:js956k45n) celebrates a century of shoreline change in Boston, and will will be on display as a part of [Becoming Boston](https://www.leventhalmap.org/exhibitions/) exhibition." class="figure-center" >}}
 
@@ -40,4 +40,4 @@ For centuries, people have wanted to know what is under their feet, whether they
 
 Overlaying Boston's shoreline with its moderns landscapes is a great way for people to picture and understand Boston of the past. And next time you want to know where the water was, turn to maps; You're not the first one to ask!
 
-> Interested in more maps that showcase the process of landfill and shoreline change in Boston? Here are [8 maps that explain Boston's changing shoreline](https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline). 
+> Interested in more maps that showcase the process of landfill and shoreline change in Boston? Here are [8 maps that explain Boston's changing shoreline](https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline).
