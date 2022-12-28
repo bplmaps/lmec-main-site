@@ -54,7 +54,7 @@ cta:
     text: 'Browse the digital exhibition for More or Less in Common: Environment and
       Justice in the Human Landscape'
     link: https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/
-  - badge: Upcoming closures
+  - badge: Ongoing closure
     text: 'The Map Center will be closed December 29, 2022 - January 12, 2023 for
       exhibition installation. '
     link: https://www.leventhalmap.org/about/hours-directions/
@@ -149,7 +149,7 @@ funfacts:
 blog:
   enable: true
   title: Articles
-todaysHours: true
+todaysHours: false
 upcomingLivestream:
   enable: true
   embedLink: <iframe width="560" height="315" src="https://www.youtube.com/embed/5-XbUBN63Ks"
