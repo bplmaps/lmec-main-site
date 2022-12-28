@@ -31,3 +31,9 @@ exceptions:
 - date: February 20, 2023
   name: Presidents' Day
   special: Closed
+- date: April 9, 2023
+  name: Easter
+  special: Closed
+- special: Closed
+  date: April 16, 2023
+  name: Presidents Day
