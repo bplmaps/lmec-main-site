@@ -28,9 +28,7 @@ The 19th century was a busy time for Boston when it came to landmaking. Similar 
 
 {{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b902s/full/full/0/default.jpg" caption="This subway [map](https://collections.leventhalmap.org/search/commonwealth:1257b901h) of Boston Proper indicates the original shoreline and radial distances from City Hall." class="figure-right" >}}
 
-This [overlay](https://collections.leventhalmap.org/search/commonwealth:1257b901h) of Boston proper from \~1894 includes the streetcar and subway lines of Boston. At the time, almost all of the subway lines were on the original land of the Shawmut peninsula. You can see {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b902s/1393,3023,716,484/full/0/default.jpg">}}here{{</popup>}} that the subway line extends off into filled land at the corner of the Boston Public Gardens before transitioning into a streetcar.
-
-While the reason this map was made is unclear, the extension of the subway down Boylston Street needed different considerations for it's construction had to be made because of the groundwater level and softer soil. Knowing where Boston used to begin and end has practical applications as well.
+This [overlay](https://collections.leventhalmap.org/search/commonwealth:1257b901h) of Boston proper from \~1894 includes the streetcar and subway lines of Boston. At the time, almost all of the subway lines were on the original land of the Shawmut peninsula. You can see {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b902s/1393,3023,716,484/full/0/default.jpg">}}here{{</popup>}}  that the subway line extends off into filled land at the corner of the Boston Public Garden before transitioning into a streetcar. The extension of the subway down Boylston Street required considerations for its construction due to groundwater level and softer soil. Knowing where Boston used to begin and end has practical applications as well.
 
 {{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n560k/full/full/0/default.jpg"  class="figure-left" >}}
 
