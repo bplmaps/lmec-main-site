@@ -123,11 +123,10 @@ audiences:
       link: https://geoservices.leventhalmap.org/cartinal
 frontpageFeature:
   enable: true
-  bg_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw59w/272,313,6880,2393/,1200/0/default.jpg
-  title: A shared environment?
-  content: 'Our exhibition *More or Less in Common: Environment and Justice in the
-    Human Landscape* opens March 18 at our free gallery at the Central Library in
-    Copley Square.'
+  bg_image: "/uploads/2022-12-29/buildings.jpeg"
+  title: Small-scale stories of urban change
+  content: 'Our exhibition *Building Blocks: Boston Stories from Urban Atlases* opens
+    January 13 at our free gallery at the Central Library in Copley Square.'
   button:
     enable: true
     label: Information for visitors
