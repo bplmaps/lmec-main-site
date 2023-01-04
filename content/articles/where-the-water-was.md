@@ -1,5 +1,5 @@
 ---
-date: 2023-01-06T09:25:47-05:00
+date: 2023-01-06T09:25:47.000-05:00
 title: Where The Water Was
 description: Everyone wants to know where Boston's shoreline used to be
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/full/0/default.jpg
@@ -10,7 +10,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt
 draft: true
 
 ---
-Many visitors come to our [gallery](https://www.leventhalmap.org/exhibitions/visit/) with a particular question in mind: What did Boston look like before it was filled in? When walking around Boston today, it might be hard to picture the tidal estuaries, shallow marshes, and mud flats that were filled in and topped with Brownstones and tall buildings.
+Many visitors come to our [gallery](https://www.leventhalmap.org/exhibitions/visit/) with a particular question in mind: What did Boston look like before it was filled in? When walking around Boston today, it might be hard to picture the tidal estuaries, shallow marshes, and mud flats that were filled in and topped with brownstones and tall buildings.
 
 As early at 1722, colonists started to change the outline of Boston. They built wharves into the harbor and {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f22q/4878,520,4664,6027/full/0/default.jpg">}} a mill dam {{</popup>}} over the northern inlet. By the turn of the 19th century, Boston's landfilling project had changed the shape of the coastline almost in its entirety. Neighborhoods like the Back Bay, Seaport, and even sections of downtown are all part of this filled-in territory.
 
@@ -32,11 +32,10 @@ This [overlay](https://collections.leventhalmap.org/search/commonwealth:1257b901
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n560k/full/full/0/default.jpg" caption="This modern [map](https://collections.leventhalmap.org/search/commonwealth:q524n559t) illustrates the various land making projects that have shaped Boston over the past three centuries." class="figure-right" >}}
 
-  
-Of course, the collective fascination with Boston's changing shoreline didn't end after the 1800s. [Many modern maps](https://collections.leventhalmap.org/search?utf8=%E2%9C%93&search_field=all_fields&q=Boston+shoreline&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1950&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=2022&commit=Apply) of Boston's landfill also have a home in our collections. For example, this 2008 [map](https://collections.leventhalmap.org/search/commonwealth:q524n559t) of Boston uses satellite imagery as its base with an overlay of the city's landfill three sections: the original land in red, land added before 1880 in gray, and land between 1880 and 2008 in blue. You can see that some of the last areas to be filled in were the [airport](https://www.leventhalmap.org/articles/olmsted-to-airport-east-boston-and-urban-development), the Seaport, and {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n560k/1285,2991,2527,2593/full/0/default.jpg">}}the South Bay.{{</popup>}} This map also shows a hint of some of the landfilling that occurred along the waterfront in {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n560k/52,172,2552,1706/full/0/default.jpg">}}Cambridge{{</popup>}}and East Boston as well.  
-  
+Of course, the collective fascination with Boston's changing shoreline didn't end after the 1800s. [Many modern maps](https://collections.leventhalmap.org/search?utf8=%E2%9C%93&search_field=all_fields&q=Boston+shoreline&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1950&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=2022&commit=Apply) of Boston's landfill also have a home in our collections. For example, this 2008 [map](https://collections.leventhalmap.org/search/commonwealth:q524n559t) of Boston uses satellite imagery as its base with an overlay of the city's landfill three sections: the original land in red, land added before 1880 in gray, and land between 1880 and 2008 in blue. You can see that some of the last areas to be filled in were the [airport](https://www.leventhalmap.org/articles/olmsted-to-airport-east-boston-and-urban-development), the Seaport, and {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n560k/1285,2991,2527,2593/full/0/default.jpg">}}the South Bay.{{</popup>}} This map also shows a hint of some of the landfilling that occurred along the waterfront in {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n560k/52,172,2552,1706/full/0/default.jpg">}}Cambridge{{</popup>}}and East Boston as well.
+
 {{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n701t/full/full/0/default.jpg" caption="This flood risk map from [Climate Ready Boston](https://www.boston.gov/sites/default/files/embed/2/20161207_climate_ready_boston_digital2.pdf) indicates areas of greater flood risk." class="figure-right" >}}
-  
+
 For centuries, people have wanted to know what is under their feet, whether they were plotting out subway lines, or trying to catalog where houses were in 1635. As many people want to see what neighborhoods used to look like or what shorelines used to be in their specific neighborhoods, they may turn to these overlays, georeferenced maps, or tools like [Atlascope](atlascope.leventhalmap.org). And today, the question of “where the water was” becomes more relevant, with rising seas having the potential to reclaim areas that were once water again. Areas of the city that were filled in, like the Bullfinch Triangle and Long Wharf area, are more susceptible to flooding, as they are closer to sea level than many of the original parts of Boston.
 
 Overlaying Boston's shoreline with its modern landscapes is a great way for people to picture and understand Boston of the past. And next time you want to know where the water was, turn to maps; You're not the first one to ask!
