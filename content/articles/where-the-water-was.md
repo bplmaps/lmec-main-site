@@ -38,6 +38,6 @@ Of course, the collective fascination with Boston's changing shoreline didn't en
 
 For centuries, people have wanted to know what is under their feet, whether they were plotting out subway lines, or trying to catalog where houses were in 1635. As many people want to see what neighborhoods used to look like or what shorelines used to be in their specific neighborhoods, they may turn to these overlays, georeferenced maps, or tools like [Atlascope](atlascope.leventhalmap.org). And today, the question of “where the water was” becomes more relevant, with rising seas having the potential to reclaim areas that were once water again. Areas of the city that were filled in, like the Bullfinch Triangle and Long Wharf area, are more susceptible to flooding, as they are closer to sea level than many of the original parts of Boston.
 
-Overlaying Boston's shoreline with its modern landscapes is a great way for people to picture and understand Boston of the past. And next time you want to know where the water was, turn to maps; You're not the first one to ask!
+Overlaying Boston's shoreline with its modern landscapes is a great way for people to picture and understand Boston of the past. And next time you want to know where the water was, turn to maps; you're not the first one to ask!
 
 > Interested in more maps that showcase the process of landfill and shoreline change in Boston? Here are [8 maps that explain Boston's changing shoreline](https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline).
