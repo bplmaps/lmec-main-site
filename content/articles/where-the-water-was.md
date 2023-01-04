@@ -16,11 +16,11 @@ As early at 1722, colonists started to change the outline of Boston. They built 
 
 {{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/full/0/default.jpg" caption="This map of [Boston Old and New](https://collections.leventhalmap.org/search/commonwealth:x633f8662) appeared in the first volume of Winsor's book, _Memorial History of Boston, Including Suffolk County, Massachusetts._" class="figure-right" >}}
 
-There are many questions people ask about filled land: How much of it is fill? When was it filled in? And what did the shoreline used to look like? But 'where the water used to be' is by no means just a modern question—historians at the turn of the 19th century were drawing depictions of the Shawmut peninsula and comparing the city of two centuries prior with it's then-current shape.
+There are many questions people ask about Boston's land: How much of it is fill? When was it filled in? And what did the shoreline used to look like? But 'where the water used to be' is by no means just a modern question—historians at the turn of the 19th century were drawing depictions of the Shawmut peninsula and comparing the city of two centuries prior with it's then-current shape.
 
 In 1880, historian, librarian, and cartographer Justin Winsor created this [map](https://collections.leventhalmap.org/search/commonwealth:x633f8662) of "Boston Old and New." He overlaid the original Shawmut peninsula with the current reach of Boston, emphasizing {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6h441121b/full/full/0/default.jpg">}}the hills{{</popup>}}  that were shortened to fill sections of harbor and the distinctions between marshy and level {{<popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/4734,3586,1548,922/full/0/default.jpg" >}}ground.{{</popup>}}
 
-Even as early at 1880, none of Boston's original shoreline touched the water, ringed instead with wharves leading out to the harbor. Also visible on this map are the modern car bars, railroad tracks and trails through the public garden.
+Even as early as 1880, none of Boston's original shoreline touched the water, ringed instead with wharves leading out to the harbor. Also visible on this map are the modern car bars, railroad tracks and trails through the public garden.
 
 {{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k46x/full/full/0/default.jpg" caption="This [map](https://collections.leventhalmap.org/search/commonwealth:js956k45n) celebrates a century of shoreline change in Boston, and will will be on display as a part of [Becoming Boston](https://www.leventhalmap.org/exhibitions/) exhibition." class="figure-center" >}}
 
