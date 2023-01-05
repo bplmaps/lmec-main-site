@@ -27,7 +27,7 @@ aliases:
 
 Janet P. Atkins  
 Michael G. Contompasis  
-Charles Cooney, PhD, _Chair_  
+Charles L. Cooney, PhD, _Chair_  
 Matthew J. Kiefer, Esq.  
 Michelle Knight, _Treasurer_  
 Alex Krieger  
