@@ -23,4 +23,4 @@ This workshop is geared toward the K12 community and those who work with K12 tea
 
 Hosted by the [Leventhal Map & Education Center](https://www.leventhalmap.org/),  [U-Spatial at the University of Minnesota](https://uspatial.umn.edu/), and [New American History](https://www.newamericanhistory.org/)
 
-_Online and free. The Zoom link will be emailed the day before the event._
+_Online and free. Please register on Eventbrite_ [_here_](https://www.eventbrite.com/e/maps-and-social-justice-convening-tickets-506429433067)_. The Zoom link will be emailed the day before the event._
