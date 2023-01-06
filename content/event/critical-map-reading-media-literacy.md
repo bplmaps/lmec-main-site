@@ -6,9 +6,8 @@ image = "/uploads/2021-09-17/screen-shot-2021-09-17-at-10-28-11-am.png"
 location = "Virtual Zoom Session"
 publishDate = 2021-09-17T14:05:04Z
 registration = "https://www.eventbrite.com/e/critical-map-reading-media-literacy-virtual-tickets-239266972957"
+tags = ["K12 Professional Development"]
 title = "Small Bites: Critical Map Reading & Media Literacy"
-tags = ["K-12 Professional Development"]
-
 
 +++
 ### Small Bites: Critical Map Reading & Media Literacy
