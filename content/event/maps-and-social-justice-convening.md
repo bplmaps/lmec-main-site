@@ -16,8 +16,12 @@ draft: true
 ---
 ### About this event
 
+{{< figure src="/uploads/2023-01-06/microsoftteams-image-28.png" caption="" class="figure-right" >}}
+
 How can maps, GIS and other geospatial approaches help students explore issues of social justice? This series of short lightning talks about individuals and organizations working in this area will be followed by conversation and connecting to build collaborations, learn about resources and strengthen pedagogical approaches in the hopes of stimulating more of this work.
 
-T his workshop is geared toward the K12 community and those who work with K12 teachers and students. We welcome participants from higher ed and informal learning, too!
+This workshop is geared toward the K12 community and those who work with K12 teachers and students. We welcome participants from higher ed and informal learning, too!
 
-O nline and free. The Z oom link will be emailed the day before the event.
+Hosted by the [Leventhal Map & Education Center](https://www.leventhalmap.org/),  [U-Spatial at the University of Minnesota](https://uspatial.umn.edu/), and [New American History](https://www.newamericanhistory.org/)
+
+_Online and free. The Zoom link will be emailed the day before the event._
