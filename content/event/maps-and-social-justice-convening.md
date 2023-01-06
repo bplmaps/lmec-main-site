@@ -21,6 +21,6 @@ How can maps, GIS and other geospatial approaches help students explore issues o
 
 This workshop is geared toward the K12 community and those who work with K12 teachers and students. We welcome participants from higher ed and informal learning, too!
 
-Hosted by the [Leventhal Map & Education Center](https://www.leventhalmap.org/),  [U-Spatial at the University of Minnesota](https://uspatial.umn.edu/), and [New American History](https://www.newamericanhistory.org/)
+Hosted by the [Leventhal Map & Education Center](https://www.leventhalmap.org/),  [U-Spatial at the University of Minnesota](https://uspatial.umn.edu/), and [New American History](https://www.newamericanhistory.org/). 
 
 _Online and free. Please register on Eventbrite_ [_here_](https://www.eventbrite.com/e/maps-and-social-justice-convening-tickets-506429433067)_. The Zoom link will be emailed the day before the event._
