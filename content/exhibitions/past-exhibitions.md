@@ -6,6 +6,14 @@ description: Information about our past exhibitions is preserved for teaching, r
 weight: "4"
 
 ---
+### More or Less in Common: Environment and Justice in the Human Landscape
+
+_March 18–December 28, 2022_
+
+In _More or Less in Common: Environment and Justice in the Human Landscape_, we look at how questions of social justice and injustice are essential topics to confront when trying to understand the human landscape. These questions must also be at the center of our attention as we challenge ourselves to build better, healthier environments in the future. Through maps as well as photographs, images, and data visualizations, this exhibition encourages you to confront stories about how environmental conditions have sometimes served to worsen inequalities along lines of social division. At the same time, our shared environment offers the possibility to bring people together across differences and the inspiration to forge new kinds of common action.
+
+[Visit the digital exhibition of _More or Less in Common_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/)
+
 ### Bending Lines: Maps and Data from Distortion to Deception
 
 _September 10, 2021 - March 4, 2022_
