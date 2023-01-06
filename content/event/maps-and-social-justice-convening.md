@@ -2,8 +2,8 @@
 publishDate: 2023-01-06T09:34:19-05:00
 title: Maps and Social Justice Convening
 date: 2023-02-09T11:00:00-05:00
-image: ''
-backgroundImage: ''
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv98c/4786,1368,1379,829/full/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv98c/4786,1368,1379,829/full/0/default.jpg
 location: Virtual
 fee: Free
 registration: https://www.eventbrite.com/e/maps-and-social-justice-convening-tickets-506429433067
@@ -11,7 +11,6 @@ tags:
 - GIS
 - K12
 - K12 Professional Development
-draft: true
 
 ---
 ### About this event
