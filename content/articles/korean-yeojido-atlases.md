@@ -1,11 +1,12 @@
 ---
 title: Korean Yeojido Atlases
-description: How did Korean cartography evolve in the Joseon period? Explore this interactive Map Chat from the MacLean Collection to learn more about a fascinating collection of atlases.
+description: How did Korean cartography evolve in the Joseon period? Explore this
+  interactive Map Chat from the MacLean Collection to learn more about a fascinating
+  collection of atlases.
 author: Richard Pegg
-date: 2023-01-10T00:00:00.000-04:00
-draft: true
-image: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:31981d62v/432,1171,3784,1448/,1200/0/default.jpg"
-backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:31981d62v/432,1171,3784,1448/,1200/0/default.jpg"
+date: 2023-01-11T23:00:00-05:00
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:31981d62v/432,1171,3784,1448/,1200/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:31981d62v/432,1171,3784,1448/,1200/0/default.jpg
 tags:
 - map chat
 - MacLean Collection
