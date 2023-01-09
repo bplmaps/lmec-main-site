@@ -8,7 +8,8 @@ location: 'East Boston Branch of the Boston Public Library '
 fee: Free
 registration: https://www.eventbrite.com/e/east-boston-by-map-tickets-488132335957
 tags:
-- Neighborhood by map
+- Neighborhood by Map
+- Atlascope
 
 ---
 ### About this event
