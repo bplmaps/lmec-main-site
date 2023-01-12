@@ -47,6 +47,10 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Holiday closure
+    text: The Map Center and all BPL locations will be closed on Monday, January 16
+      in observance of Martin Luther King Jr. Day.
+    link: https://www.leventhalmap.org/about/hours-directions/
   - badge: Coming soon
     text: 'Building Blocks: Boston Stories from Urban Atlases opens January 13 '
     link: https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/
