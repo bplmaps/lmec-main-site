@@ -1,7 +1,7 @@
 ---
-publishDate: 2022-12-22T12:42:20-05:00
+publishDate: 2022-12-22T12:42:20.000-05:00
 title: Harvard Climate Justice Design Fellowship Virtual Showcase
-date: 2023-01-11T12:00:00-05:00
+date: 2023-01-11T12:00:00.000-05:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c409/1100,1971,3517,1858/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c409/1100,1971,3517,1858/full/0/default.jpg
 location: Online
@@ -10,6 +10,10 @@ registration: https://www.eventbrite.com/e/harvard-climate-justice-design-fellow
 tags: []
 
 ---
+### Event video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cEVtWRd0vuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### About this event
 
 **What does the landscape of injustice look like across the United States, and what form would more equitable stewardship of our shared resources have amidst a changing climate?**
