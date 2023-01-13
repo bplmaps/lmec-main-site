@@ -27,7 +27,7 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 
 <!-- ## Currently on Exhibit -->
 
-## Coming Soon: Rotating Exhibition
+## Rotating Exhibition
 
 ### [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/)
 
@@ -37,11 +37,11 @@ In the period spanning the Civil War to World War II, Boston’s urban fabric ex
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c330w/424,379,3419,2163/2000,/0/default.jpg" caption="Urban atlases, like the [1928 plate](https://collections.leventhalmap.org/search/commonwealth:1257c3294) shown here, are a collection of maps that are especially well-suited for discovering change by tracking small-scale interventions in the built environment. These atlases display property, street, utility, and building information—details which reflect their original purpose as maps for the fire insurance and real estate industries." class="figure-center" >}}
 
-## Coming Soon: Permanent Exhibition
+## Permanent Exhibition
 
 ### _Becoming Boston: Eight Moments in the Geography of a Changing City_
 
-**Permanent Exhibition opens January 13, 2022**
+**Permanent exhibition opens January 13, 2022**
 
 Maps trace out the complicated history of places, and we can use them to document geography in much the same way that we can use diaries and letters to document biography. In the eight cases of this exhibition, we follow the changing spatial forms of the place we now call Boston—from before the landscape carried that name all the way through the struggles, clashes, and dreams that continue to reshape the city today. These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
 
