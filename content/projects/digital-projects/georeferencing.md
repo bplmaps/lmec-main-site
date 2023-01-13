@@ -10,7 +10,7 @@ weight: 6
 
 {{< alert-box title="Retirement of Map Warper" >}}
 
-As of August 2021, our crowdsourced georeferencing interface, Map Warper, is being phased out. Since then, the Map Center team has been supporting Bert Spaan's work on a next generation web georeferencing interface called [Allmaps](https://allmaps.org/), which will be ready for public use in fall 2022. You can still [browse maps that have been georeferenced](https://collections.leventhalmap.org/search?f%5Bgeoreferenced_bsi%5D%5B%5D=yes) or explore the fully-geotransformed [Atlascope collection](https://atlascope.leventhalmap.org).
+As of August 2021, our crowdsourced georeferencing interface, Map Warper, is being phased out. Since then, the Map Center team has been supporting Bert Spaan's work on a next generation web georeferencing interface called [Allmaps](https://allmaps.org/), which will be ready for public use in fall 2022. You can still [browse maps that have been georeferenced](https://collections.leventhalmap.org/search?f%5Bgeoreferenced_bsi%5D%5B%5D=yes) or explore the fully-geotransformed [Atlascope collection](https://atlascope.org).
 
 {{</ alert-box >}}
 
@@ -18,7 +18,7 @@ As of August 2021, our crowdsourced georeferencing interface, Map Warper, is bei
 
 Georeferencing is the process of attaching coordinate data (latitude and longitude) to scanned images of maps. This allows anyone to easily compare scanned maps with modern geographies. Check out the Map Center's [Atlascope tool](http://leventhalmap.org/projects/digital-projects/atlascope/) for an example of georeferencing in action.
 
-<a class="btn btn-outline-primary btn-block" href="https://atlascope.leventhalmap.org" target="blank"><i class="fa fa-map-signs" target="blank"></i> Go to Atlascope </a>
+<a class="btn btn-outline-primary btn-block" href="https://atlascope.org" target="blank"><i class="fa fa-map-signs" target="blank"></i> Go to Atlascope </a>
 <a class="btn btn-outline-primary btn-block" target="blank" href="https://cartinal.leventhalmap.org/guides/create-urban-atlas-data.html"><i class="fa fa-binoculars" target="blank"></i> Learn how Atlascope was made </a>
 
 

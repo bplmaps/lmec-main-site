@@ -4,7 +4,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54z6
 cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54z6789/1023,160,2479,1229/,1200/0/default.jpg
 description: Discover real estate and fire insurance maps of Boston and surrounding
   towns with detail down to the level of buildings and owner names
-resourceUrl: https://atlascope.leventhalmap.org
+resourceUrl: https://atlascope.org
 tags:
 - collections
 - interactive

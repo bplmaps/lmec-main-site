@@ -20,7 +20,7 @@ The Leventhal Map & Education Center offers research services free to the public
 Maps and geographic material can be useful for answering countless different types of research questions. To take just a handful of examples, you may find our collections useful if you want to know:
 
 * When did Boston engineers and land speculators [fill in the tidal flats around the Shawmut peninsula](https://collections.leventhalmap.org/search?utf8=%E2%9C%93&q=shawmut%20peninsula)?
-* Who lived in your neighborhood in the nineteenth century, and [when were the houses around yours built](https://atlascope.leventhalmap.org/)?
+* Who lived in your neighborhood in the nineteenth century, and [when were the houses around yours built](https://atlascope.org)?
 * When did the New England states begin managing public lands for recreational purposes?
 * How did European cartographers of the [early modern period incorporate new knowledge about the Americas](https://collections.leventhalmap.org/search?utf8=%E2%9C%93&search_index%5B%5D=all_fields&query%5B%5D=americas&search_index%5B%5D=title&query%5B%5D=&search_index%5B%5D=subject&query%5B%5D=&op=AND&commit=Search&date_start=&date_end=1800&search_field=advanced) into their maps?
 * What is the relationship between [race, income, and housing prices in urban areas throughout the United States](https://data.leventhalmap.org/#/search?s=Gentrification)?
