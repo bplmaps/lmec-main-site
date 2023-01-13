@@ -22,9 +22,6 @@ weekly:
   open: 1 pm
   close: 5 pm
 exceptions:
-- date: December 29, 2022 - January 12, 2023
-  name: Exhibition Installation
-  special: Closed
 - special: Closed
   date: January 16, 2023
   name: Martin Luther King Jr. Day
