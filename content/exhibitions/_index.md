@@ -29,7 +29,7 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 
 ## Rotating Exhibition
 
-### [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/)
+### _Building Blocks: Boston Stories from Urban Atlases_
 
 **January 13–August 19, 2023**
 
@@ -40,8 +40,6 @@ In the period spanning the Civil War to World War II, Boston’s urban fabric ex
 ## Permanent Exhibition
 
 ### _Becoming Boston: Eight Moments in the Geography of a Changing City_
-
-**Permanent exhibition opens January 13, 2022**
 
 Maps trace out the complicated history of places, and we can use them to document geography in much the same way that we can use diaries and letters to document biography. In the eight cases of this exhibition, we follow the changing spatial forms of the place we now call Boston—from before the landscape carried that name all the way through the struggles, clashes, and dreams that continue to reshape the city today. These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
 
