@@ -41,7 +41,7 @@ In the period spanning the Civil War to World War II, Boston’s urban fabric ex
 
 ### _Becoming Boston: Eight Moments in the Geography of a Changing City_
 
-<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/becoming-boston/><i class="fas fa-images me-2"></i>Enter the digital exhibition for Becoming Boston</a>
+<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/becoming-boston/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for Becoming Boston</a>
 
 Maps trace out the complicated history of places, and we can use them to document geography in much the same way that we can use diaries and letters to document biography. In the eight cases of this exhibition, we follow the changing spatial forms of the place we now call Boston—from before the landscape carried that name all the way through the struggles, clashes, and dreams that continue to reshape the city today. These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
 
