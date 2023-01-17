@@ -58,6 +58,8 @@ The Leventhal Map & Education Center is ranked among the top ten in the United S
 
 Our Annual Reports can be accessed through each link below. The Leventhal Center's fiscal year runs July 1 - June 30.
 
+[Fiscal Year 2022 Annual Report](https://s3.us-east-2.wasabisys.com/lmec-public-files/annual-reports/FY22_AnnualReport_spreads.pdf)
+
 [Fiscal Year 2021 Annual Report](https://s3.us-east-2.wasabisys.com/lmec-public-files/annual-reports/FY21_AnnualReport_spreads.pdf)
 
 [Fiscal Year 2020 Annual Report](https://s3.us-east-2.wasabisys.com/lmec-public-files/annual-reports/FY20%20Donor%20Report%20-%20for%20website%2001-2021.pdf)
