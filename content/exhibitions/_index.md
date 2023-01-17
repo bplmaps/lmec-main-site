@@ -5,9 +5,23 @@ description: Exhibitions at the Leventhal Center bring maps and geography to lif
   on themes connected to the present day
 
 ---
-<p class="text-center"> <a class="btn btn-primary btn-primary-outline mb-2" href="./visit"><i class="fas fa-walking me-1"></i> Visit in Person</a> <a class="btn btn-primary btn-primary-outline mb-2" href="../digital-exhibitions/more-or-less-in-common/"><i class="fas fa-desktop me-1 "></i> Visit Online</a> </p>
+<p class="text-center"> <a class="btn btn-primary btn-primary-outline mb-2" href="./visit"><i class="fas fa-walking me-1"></i> Visit in Person</a> <a class="btn btn-primary btn-primary-outline mb-2" href="https://www.leventhalmap.org/digital-exhibitions/building-blocks/"><i class="fas fa-desktop me-1 "></i> Visit Online</a> </p>
 
 We regularly mount exhibitions in our gallery, [located in the historic McKim Building](about/hours-directions) the Boston Public Library in Copley Square. Exhibitions topics range from collections-centered shows on [Boston bird's eye views](https://collections.leventhalmap.org/exhibits/16) and [women mapmakers](https://collections.leventhalmap.org/exhibits/6) to theme-centered shows on the [American Revolution](https://collections.leventhalmap.org/exhibits/3), [Boston immigration](https://collections.leventhalmap.org/exhibits/19), and [public landscapes](https://collections.leventhalmap.org/exhibits/19). All of our exhibitions feature scholarly research as well as activities for families, children, and educators.
+
+{{< carousel >}} {{< carousel-figure src="images/carousels/molic_gallery01.jpg" >}} {{< /carousel-figure >}}
+
+    {{< carousel-figure src="images/carousels/molic_gallery02.jpg" >}}{{< /carousel-figure >}}
+    
+    {{< carousel-figure src="images/carousels/molic_gallery03.jpg" >}}{{< /carousel-figure >}}
+    
+    {{< carousel-figure src="images/carousels/at_gallery03.jpg" >}}{{< /carousel-figure >}}
+    
+    {{< carousel-figure src="images/carousels/at_gallery09.jpg" >}}{{< /carousel-figure >}}
+    
+    {{< carousel-figure src="images/carousels/DSC_0018s.jpg" >}}{{< /carousel-figure >}}
+
+{{< /carousel >}}
 
 <!-- ## Currently on Exhibit -->
 
@@ -32,17 +46,3 @@ In the period spanning the Civil War to World War II, Boston’s urban fabric ex
 Maps trace out the complicated history of places, and we can use them to document geography in much the same way that we can use diaries and letters to document biography. In the eight cases of this exhibition, we follow the changing spatial forms of the place we now call Boston—from before the landscape carried that name all the way through the struggles, clashes, and dreams that continue to reshape the city today. These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/,2000/0/default.jpg" caption="As one of the most important centers of a newly independent nation, Boston spent the first half of the nineteenth century reimagining its urban form and building neighborhoods from scratch." class="figure-center" >}}
-
-{{< carousel >}} {{< carousel-figure src="images/carousels/molic_gallery01.jpg" >}} {{< /carousel-figure >}}
-
-    {{< carousel-figure src="images/carousels/molic_gallery02.jpg" >}}{{< /carousel-figure >}}
-    
-    {{< carousel-figure src="images/carousels/molic_gallery03.jpg" >}}{{< /carousel-figure >}}
-    
-    {{< carousel-figure src="images/carousels/at_gallery03.jpg" >}}{{< /carousel-figure >}}
-    
-    {{< carousel-figure src="images/carousels/at_gallery09.jpg" >}}{{< /carousel-figure >}}
-    
-    {{< carousel-figure src="images/carousels/DSC_0018s.jpg" >}}{{< /carousel-figure >}}
-
-{{< /carousel >}}

@@ -8,6 +8,14 @@ weight: "3"
 ---
 ## Current digital exhibition
 
+#### Building Blocks: Boston Stories from Urban Atlases
+
+<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/building-blocks/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for Building Blocks</a>
+
+#### Becoming Boston: Eight Moments in the Geography of a Changing City
+
+<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/becoming-boston/><i class="fas fa-images me-2"></i>Enter the digital exhibition for Becoming Boston</a>
+
 ## Past digital exhibitions
 
 #### More or Less in Common: Environment and Justice in the Human Landscape
