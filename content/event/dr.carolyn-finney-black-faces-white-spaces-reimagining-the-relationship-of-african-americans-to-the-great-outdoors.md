@@ -14,6 +14,10 @@ tags:
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is co-organized with BPL Adult Programs.{{< /alert-box >}}
 
+### Event video 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VPmCUkMOnQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### About this event
 
 {{< figure src="/uploads/2022-10-25/bfws_cover-scaled-copy.png" caption="" class="figure-right" >}}
