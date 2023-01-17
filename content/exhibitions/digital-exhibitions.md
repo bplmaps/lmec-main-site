@@ -8,15 +8,13 @@ weight: "3"
 ---
 ## Current digital exhibition
 
-<div class="callout my-3">More or Less in Common: Environment and Justice in the Human Landscape</div>
+## Past digital exhibitions
 
-{{< figure src="/uploads/2022-03-10/oil.jpeg" caption="This [1922 fire insurance atlas](https://collections.leventhalmap.org/search/commonwealth:1257c139z) shows the East Boston side of Chelsea Creek, with the Standard Oil Company's circular tanks prominently displayed in the center" class="figure-center" >}}
+#### More or Less in Common: Environment and Justice in the Human Landscape
 
 The digital exhibition for our upcoming show, **More or Less in Common**, features zoomable, high-resolution images of all of the exhibition objects; interactive features like original, digital maps; interviews with advocates from the local, national, and global environmental justice movement; and lesson plans and activities designed specially for K-12 students.
 
 <a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for More or Less in Common</a>
-
-## Past digital exhibitions
 
 #### Bending Lines: Maps and Data from Distortion to Deception
 

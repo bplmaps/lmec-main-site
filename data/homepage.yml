@@ -55,10 +55,6 @@ cta:
     text: Projects of the Harvard University Climate Justice Design Fellowship are
       currently on display in our Learning Center
     link: https://climatefellowship.org/
-  - badge: Holiday closure
-    text: The Map Center and all BPL locations will be closed on Monday, January 16
-      in observance of Martin Luther King Jr. Day.
-    link: https://www.leventhalmap.org/about/hours-directions/
 audiences:
   enable: true
   audienceGroups:
