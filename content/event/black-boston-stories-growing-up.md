@@ -2,8 +2,8 @@
 publishDate: 2023-02-09T18:30:57-05:00
 title: 'Black Boston Stories: Growing Up'
 date: 2023-02-09T18:00:00-05:00
-image: ''
-backgroundImage: ''
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zg64x323p/2005,5287,3902,1740/full/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zg64x323p/2005,5287,3902,1740/full/0/default.jpg
 location: 'Grove Hall Branch Library, Jazz Lounge '
 fee: Free
 registration: ''
