@@ -21,12 +21,18 @@ Over the course of eight weeks, the students chose their locations and dug into 
 
 _Senior at the John D. O’Bryant High School in Roxbury_
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5boiWt6Znw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Nadia Madaoui
 
 _Senior at the John D. O’Bryant High School in Roxbury_
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZMMxC91xXvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Anh Do
 
 _Graduate of the Jeremiah E. Burke High School in Dorchester, current freshman at Northeastern University_
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dh8Uw46of3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > Explore the projects further on the [_Building Blocks_ digital exhibition](https://www.leventhalmap.org/digital-exhibitions/building-blocks/teen-curators/).
