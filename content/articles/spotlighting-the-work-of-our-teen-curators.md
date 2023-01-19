@@ -23,6 +23,8 @@ _Senior at the John D. O’Bryant High School in Roxbury_
 
 #### Starting Point: A Curious Mansion
 
+{{< figure src="/uploads/2023-01-19/mansion2022.png" caption="" class="figure-right" >}}
+
 Close to my home in Brighton, there’s an old-looking mansion on Academy Hill Road. I have wondered how the house is still standing, and why it looks the way it does. My initial assumption was that this house might be haunted, but since occasionally I would see vehicles entering and leaving, I decided that probably wasn’t the case.
 
 By searching for the house on Atlascope, I learned that James Ambrose Hathaway owned the property and that it is known as the Hathaway Mansion. My interest was piqued—who could afford such a large estate?
