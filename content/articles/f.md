@@ -15,20 +15,14 @@ For this exhibition, the Map Center hired three high school students from Boston
 
 Over the course of eight weeks, the students chose their locations and dug into their research using maps, historical documents, local histories, interviews with scholars, and trips to the sites to photograph and observe. They wrote up their findings, selected images to accompany their words, and gave video presentations on their process and what they learned, which you can watch on the wall behind you. We hope that what you learn raises ideas and questions about our contemporary world and inspires you to research places that are important to your own life.
 
-## MALEEHA WASIM
+### Maleeha Wasim 
 
-### HATHAWAY MANSION
+_Senior at the John D. O’Bryant High School in Roxbury_
 
-Senior at the John D. O’Bryant High School in Roxbury
+### Nadia Madaoui
 
-## NADIA MADAOUI
+_Senior at the John D. O’Bryant High School in Roxbury_
 
-### KELLEHER ROSE GARDEN
+### Anh Do 
 
-Senior at the John D. O’Bryant High School in Roxbury
-
-## ANH DO
-
-### RONAN PARK
-
-Graduate of the Jeremiah E. Burke High School in Dorchester, current freshman at Northeastern University
+_Graduate of the Jeremiah E. Burke High School in Dorchester, current freshman at Northeastern University_
