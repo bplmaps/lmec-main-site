@@ -1,6 +1,6 @@
 ---
 date: 2023-01-23T07:00:05-05:00
-title: Spotlighting the Work of our Teen Curators
+title: Spotlighting the work of our teen curators
 description: 'For our new rotating exhibition, Building Blocks: Boston Stories from
   Urban Atlases, the Map Center hired three high school students from Boston Public
   Schools as teen curators. '
