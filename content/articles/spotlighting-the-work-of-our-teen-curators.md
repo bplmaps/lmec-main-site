@@ -29,9 +29,7 @@ Close to my home in Brighton, there’s an old-looking mansion on Academy Hill R
 
 **Discoveries: An Animal Suburb**
 
-{{< popup src="/uploads/2023-01-19/ocm33284813_1888housealbumpage0019.jpeg"  target="blank" >}} James Ambrose Hathaway{{</popup>}}  [settled](https://archives.lib.state.ma.us/handle/2452/204154) in Brighton around 1859 and made his fortune by exporting cattle to Great Britain. In fact, down the street from the Hathaway Mansion is Market Street, where cattle were brought into Brighton by the trainload on the Boston and Albany Railroad.
-
-The stockyards were to the east of Market Street and the Abattoir, a site where cattle were processed and slaughtered, was to the west. Who would have imagined that not so long ago, Brighton, once known as Little Cambridge, was surrounded by stockyards?
+{{< popup src="/uploads/2023-01-19/ocm33284813_1888housealbumpage0019.jpeg"  target="blank" >}} James Ambrose Hathaway{{</popup>}}  [settled](https://archives.lib.state.ma.us/handle/2452/204154) in Brighton around 1859 and made his fortune by exporting cattle to Great Britain. In fact, down the street from the Hathaway Mansion is Market Street, where cattle were brought into Brighton by the trainload on the Boston and Albany Railroad. The stockyards were to the east of Market Street and the Abattoir, a site where cattle were processed and slaughtered, was to the west. Who would have imagined that not so long ago, Brighton, once known as Little Cambridge, was surrounded by stockyards?
 
 The Brighton stockyards were built in the late 1700s to help supply the Continental Army during the Revolutionary War. Butchering and selling cattle became economically profitable and influenced Brighton’s growth. The cattle business transformed Brighton from a simple agricultural village into a prosperous “animal suburb.” By the 1820s, between two- and eight thousand heads of cattle were delivered each week to the Brighton Cattle Market.
 
