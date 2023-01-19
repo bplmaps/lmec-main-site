@@ -1,17 +1,16 @@
 ---
-publishDate: 2023-02-09T18:30:57-05:00
+publishDate: 2023-02-09T18:30:57.000-05:00
 title: 'Black Boston Stories: Growing Up'
-date: 2023-02-09T18:00:00-05:00
+date: 2023-02-09T18:00:00.000-05:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9507f96r/2867,5535,3362,1262/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9507f96r/2867,5535,3362,1262/full/0/default.jpg
 location: 'Grove Hall Branch Library, Jazz Lounge '
 fee: Free
-registration: ''
+registration: https://www.eventbrite.com/e/black-boston-stories-growing-up-tickets-518990944887
 tags:
 - Building Blocks
 - Exhibition
 - Boston
-draft: true
 
 ---
 ### About this event
@@ -24,7 +23,7 @@ Join us for a panel conversation on _Black Boston Stories: Growing Up_ on Thursd
 
 [Ekua Holmes](https://www.ekuaholmes.com/about)
 
-Additional details coming soon.
+Additional speaker details coming soon.
 
 _Food will be provided. Registration encouraged but not required._
 
