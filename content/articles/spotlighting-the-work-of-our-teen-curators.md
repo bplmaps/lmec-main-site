@@ -19,15 +19,17 @@ Over the course of eight weeks, the students chose their locations and dug into 
 
 ### Maleeha Wasim: Hathaway Mansion
 
-_Senior at the John D. O’Bryant High School in Roxbury_
-
 {{< figure src="/uploads/2023-01-19/mansion2022.png" caption="The current state of the Hathaway Mansion as of 2022." class="figure-right" >}}
+
+_Senior at the John D. O’Bryant High School in Roxbury_
 
 **Starting Point: A Curious Mansion**
 
 Close to my home in Brighton, there’s an old-looking mansion on Academy Hill Road. I have wondered how the house is still standing, and why it looks the way it does. By [searching for the house on Atlascope](https://atlascope.org/#/view:share$mode:glass$center:-71.15433,42.34701$zoom:19.00$base:maptiler-streets$overlay:ark:/76611/al88zw3ur), I learned that James Ambrose Hathaway owned the property and that it is known as the Hathaway Mansion. I did more research on Hathaway and discovered that he was not just involved in real estate, but also in the state legislature, and most curiously, in the cattle business.
 
 **Discoveries: An Animal Suburb**
+
+{{< figure src="/uploads/2023-01-19/ocm33284813_1888housealbumpage0019.jpeg" caption="James Ambrose Hathaway [pictured](https://archives.lib.state.ma.us/handle/2452/204154) in 1888." class="figure-right" >}}
 
 James Ambrose Hathaway settled in Brighton around 1859 and made his fortune by exporting cattle to Great Britain. In fact, down the street from the Hathaway Mansion is Market Street, where cattle were brought into Brighton by the trainload on the Boston and Albany Railroad.
 
