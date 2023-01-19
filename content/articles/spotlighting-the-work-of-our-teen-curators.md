@@ -27,7 +27,7 @@ _Senior at the John D. O’Bryant High School in Roxbury_
 
 Close to my home in Brighton, there’s an old-looking mansion on Academy Hill Road. I have wondered how the house is still standing, and why it looks the way it does. My initial assumption was that this house might be haunted, but since occasionally I would see vehicles entering and leaving, I decided that probably wasn’t the case.
 
-By searching for the house on Atlascope, I learned that James Ambrose Hathaway owned the property and that it is known as the Hathaway Mansion. My interest was piqued—who could afford such a large estate?
+By [searching for the house on Atlascope](https://atlascope.org/#/view:share$mode:glass$center:-71.15427,42.34993$zoom:16.97$base:maptiler-streets$overlay:ark:/76611/al8c3u1jq), I learned that James Ambrose Hathaway owned the property and that it is known as the Hathaway Mansion. My interest was piqued—who could afford such a large estate?
 
 What happened to him? I did more research on Hathaway and discovered that he was not just involved in real estate, but also in the state legislature, and most curiously, in the cattle business.
 
