@@ -21,6 +21,30 @@ Over the course of eight weeks, the students chose their locations and dug into 
 
 _Senior at the John D. O’Bryant High School in Roxbury_
 
+#### Starting Point: A Curious Mansion
+
+Close to my home in Brighton, there’s an old-looking mansion on Academy Hill Road. I have wondered how the house is still standing, and why it looks the way it does. My initial assumption was that this house might be haunted, but since occasionally I would see vehicles entering and leaving, I decided that probably wasn’t the case.
+
+By searching for the house on Atlascope, I learned that James Ambrose Hathaway owned the property and that it is known as the Hathaway Mansion. My interest was piqued—who could afford such a large estate?
+
+What happened to him? I did more research on Hathaway and discovered that he was not just involved in real estate, but also in the state legislature, and most curiously, in the cattle business.
+
+#### Discoveries: An Animal Suburb
+
+James Ambrose Hathaway settled in Brighton around 1859 and stayed there the rest of his life. He made his fortune by exporting cattle to Great Britain. In fact, down the street from the Hathaway Mansion is Market Street, where cattle were brought into Brighton by the trainload on the Boston and Albany Railroad, which crossed Market St.
+
+The stockyards were to the east of Market Street and the Abattoir, a site where cattle were processed and slaughtered, was to the west. Who would have imagined that not so long ago, Brighton, once known as Little Cambridge, was surrounded by stockyards?
+
+The Brighton stockyards were built in the late 1700s to help supply the Continental Army during the Revolutionary War. Butchering and selling cattle became economically profitable and influenced Brighton’s growth. The cattle business transformed Brighton from a simple agricultural village into a prosperous “animal suburb.” By the 1820s, between two- and eight thousand heads of cattle were delivered each week to the Brighton Cattle Market.
+
+Every Thursday at ten in the morning, hundreds of merchants and farmers parked their vehicles in front of the Cattle Fair Hotel, eager to buy sheep and cattle. Farmers throughout the US and Canada knew about the Brighton Cattle Market, which sold hundreds of thousands of cattle each year for over two million dollars in sales.
+
+#### Interpretations: Our Relation to Animals and Food
+
+It’s amazing how an old mansion led me to learning about a thriving cattle sector in historic Brighton. The fact that stockyards and cattle helped Brighton grow into a prosperous “animal suburb” is an important but little-known detail about Brighton. It impacted local families and individuals and influenced the town’s political and economic affairs. And it attracted a lot of tourists, commerce, and animals via railroads. This stands in contrast to modern Brighton, where urbanization and technological progress have distanced us from the realities of how the steak some may enjoy even got there.
+
+Just as Brighton’s past connection to the bustling cattle market is now often forgotten, so do we no longer have the close relationship with animals that we once did, or care how cattle are mechanically slaughtered and processed. Today, although we have more safety regulations that keep the slaughter factories in order, meat processing is kept behind closed doors, out of sight from the public. Could the story of Brighton’s stockyards help current and future generations care about how animals become food?
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5boiWt6Znw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Nadia Madaoui
