@@ -19,13 +19,13 @@ Over the course of eight weeks, the students chose their locations and dug into 
 
 ### Maleeha Wasim: Hathaway Mansion
 
-{{< figure src="/uploads/2023-01-19/mansion2022.png" caption="The state of the Hathaway Mansion as of 2022." class="figure-right" >}}
-
 _Senior at the John D. O’Bryant High School in Roxbury_
+
+{{< figure src="/uploads/2023-01-19/mansion2022.png" caption="The state of the Hathaway Mansion as of 2022." class="figure-right" >}}
 
 **Starting Point: A Curious Mansion**
 
-Close to my home in Brighton, there’s an old-looking mansion on Academy Hill Road. I have wondered how the house is still standing, and why it looks the way it does. By [searching for the house on Atlascope](https://atlascope.org/#/view:share$mode:glass$center:-71.15433,42.34701$zoom:19.00$base:maptiler-streets$overlay:ark:/76611/al88zw3ur), I learned that James Ambrose Hathaway owned the property and that it is known as the Hathaway Mansion. 
+Close to my home in Brighton, there’s an old-looking mansion on Academy Hill Road. I have wondered how the house is still standing, and why it looks the way it does. By [searching for the house on Atlascope](https://atlascope.org/#/view:share$mode:glass$center:-71.15433,42.34701$zoom:19.00$base:maptiler-streets$overlay:ark:/76611/al88zw3ur), I learned that James Ambrose Hathaway owned the property and that it is known as the Hathaway Mansion.
 
 **Discoveries: An Animal Suburb**
 
