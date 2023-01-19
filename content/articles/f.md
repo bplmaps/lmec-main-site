@@ -1,6 +1,6 @@
 ---
-date: 2023-01-19T11:57:04-05:00
-title: 'Exhibition Spotlight: The Work of our Teen Curators'
+date: 2023-01-23T07:00:04-05:00
+title: Spotlighting the Work of our Teen Curators
 description: ''
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:d217tc36d/558,786,7789,4779/full/0/default.jpg
 author: LMEC Staff
