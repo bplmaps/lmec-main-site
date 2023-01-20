@@ -21,7 +21,7 @@ _Senior at the John D. O’Bryant High School in Roxbury_
 
 **Starting Point: A Curious Mansion**
 
-{{< figure src="/uploads/2023-01-20/mansion.png" caption="The Hathaway Mansion in 2022." class="figure-right" >}}
+{{< figure src="/uploads/2023-01-20/mansion.png" caption="The Hathaway Mansion, located at [35 Chestnut Hill Ave](https://goo.gl/maps/cTtDXGoPLhK9bfHs6), pictured in 2022." class="figure-right" >}}
 
 Close to my home in Brighton, there’s an old-looking mansion on Academy Hill Road. I have wondered how the house is still standing, and why it looks the way it does. By [searching for the house on Atlascope](https://atlascope.org/#/view:share$mode:glass$center:-71.15433,42.34701$zoom:19.00$base:maptiler-streets$overlay:ark:/76611/al88zw3ur), I learned that James Ambrose Hathaway owned the property and that it is known as the Hathaway Mansion.
 
