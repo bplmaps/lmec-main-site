@@ -31,12 +31,6 @@ Close to my home in Brighton, there’s an old-looking mansion on Academy Hill R
 
 The Brighton stockyards were built in the late 1700s to help supply the Continental Army during the Revolutionary War. Butchering and selling cattle became economically profitable and influenced Brighton’s growth, transforming Brighton over time from a simple agricultural village into a prosperous “animal suburb.” By the 1820s, between 2,000 and 8,000 heads of cattle were to the [Brighton Cattle](https://www.digitalcommonwealth.org/search/commonwealth:0c4862940) {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d27c9442/full/1200,/0/default.jpg"  target="blank" >}} Market{</popup>}}  each week. 
 
-**Interpretations: Our Relation to Animals and Food**
-
-It’s amazing how an old mansion led me to learning about a thriving cattle sector in historic Brighton. The fact that stockyards and cattle helped Brighton grow into a prosperous “animal suburb” is an important but little-known detail about Brighton. It impacted local families and individuals and influenced the town’s political and economic affairs. And it attracted a lot of tourists, commerce, and animals via railroads. This stands in contrast to modern Brighton, where urbanization and technological progress have distanced us from the realities of how the steak some may enjoy even got there.
-
-Just as Brighton’s past connection to the bustling cattle market is now often forgotten, so do we no longer have the close relationship with animals that we once did, or care how cattle are mechanically slaughtered and processed. Today, although we have more safety regulations that keep the slaughter factories in order, meat processing is kept behind closed doors, out of sight from the public. Could the story of Brighton’s stockyards help current and future generations care about how animals become food?
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5boiWt6Znw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Nadia Madaoui: Kelleher Rose Garden
