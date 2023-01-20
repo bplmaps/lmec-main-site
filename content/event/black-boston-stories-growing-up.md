@@ -19,7 +19,7 @@ What was it like to grow up in the Boston of times past? What challenges face yo
 
 Join us for a panel conversation on _Black Boston Stories: Growing Up_ on Thursday, February 9 at 6PM at the [Grove Hall Branch of the Boston Public Library](https://www.bpl.org/locations/grove-hall/). Three Boston residents who grew up in Boston and now engage young Bostonians in different ways will lead a panel discussion followed by a wider conversation with participants.
 
-##### About our guests
+##### Our guests
 
 [Ekua Holmes](https://www.ekuaholmes.com/about)
 
