@@ -29,7 +29,13 @@ Close to my home in Brighton, there’s an old-looking mansion on Academy Hill R
 
 [James Ambrose](https://archives.lib.state.ma.us/handle/2452/204154) {{< popup src="/uploads/2023-01-19/ocm33284813_1888housealbumpage0019.jpeg"  target="blank" >}} Hathaway{{</popup>}}  settled in Brighton around 1859 and made his fortune by exporting cattle to Great Britain. In fact, down the street from the Hathaway Mansion is Market Street, where cattle were brought into Brighton by the trainload on the Boston and Albany Railroad. To the [east](https://atlascope.org/#/view:share$mode:glass$center:-71.14460,42.35680$zoom:17.50$base:maptiler-streets$overlay:ark:/76611/al7qa79fn) of Market Street were the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70s038p/2164,2736,1721,1129/full/0/default.jpg"  target="blank" >}} stockyards{{</popup>}}  and to the [west](https://atlascope.org/#/view:share$mode:glass$center:-71.14975,42.35969$zoom:17.62$base:maptiler-streets$overlay:ark:/76611/al7qa79fn) was the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70s038p/1040,917,1616,1216/full/0/default.jpg"  target="blank" >}} Abattoir,{{</popup>}}  a site where cattle were processed and slaughtered. 
 
-The Brighton stockyards were built in the late 1700s to help supply the Continental Army during the Revolutionary War. Butchering and selling cattle became economically profitable and influenced Brighton’s growth, transforming Brighton over time from a simple agricultural village into a prosperous “animal suburb.” By the 1820s, between two- and eight thousand heads of cattle were delivered each week to the Brighton Cattle Market. Every Thursday at ten in the morning, hundreds of merchants and farmers parked their vehicles in front of the Cattle Fair Hotel, eager to buy sheep and cattle. Farmers throughout the US and Canada knew about the Brighton Cattle Market, which sold hundreds of thousands of cattle each year for over two million dollars in sales.
+The Brighton stockyards were built in the late 1700s to help supply the Continental Army during the Revolutionary War. Butchering and selling cattle became economically profitable and influenced Brighton’s growth, transforming Brighton over time from a simple agricultural village into a prosperous “animal suburb.” 
+
+By the 1820s, between 2,000 and 8,000 heads of cattle were delivered each week to the Brighton Cattle Market. 
+
+The Market, known by farmers throughout the U.S. and Canada
+
+Every Thursday morning, hundreds of merchants and farmers parked their vehicles in front of the Cattle Fair Hotel, eager to buy sheep and cattle. Farmers throughout the US and Canada knew about the Brighton Cattle Market, which sold hundreds of thousands of cattle each year for over two million dollars in sales.
 
 **Interpretations: Our Relation to Animals and Food**
 
