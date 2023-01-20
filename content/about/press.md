@@ -16,7 +16,7 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 ## Recent Press
 
-The Boston Globe - [_Map quest: At BPL's Leventhal center, two shows speak to a changing city _](https://www.bostonglobe.com/2023/01/19/arts/map-quest-bpls-leventhal-center-two-shows-speak-changing-city/?p1=StaffPage)
+[The Boston Globe - _Map quest: At BPL's Leventhal center, two shows speak to a changing city_](https://www.bostonglobe.com/2023/01/19/arts/map-quest-bpls-leventhal-center-two-shows-speak-changing-city/?p1=StaffPage) 
 
 [Fenway News - _BPL Exhibit Explores How Maps Can Reveal Political, Social, and Environmental Meaning_](https://fenwaynews.org/wp-content/uploads/2022/09/Fenway-News_OCT-2022_web.pdf)
 
@@ -26,7 +26,17 @@ The Boston Globe - [_Map quest: At BPL's Leventhal center, two shows speak to a 
 
 [WBUR - _8 Maps That Explain Boston's Changing Shoreline_](https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline)
 
+**Press for _Building Blocks _**
+
+[The Boston Globe - _Map quest: At BPL's Leventhal center, two shows speak to a changing city_](https://www.bostonglobe.com/2023/01/19/arts/map-quest-bpls-leventhal-center-two-shows-speak-changing-city/?p1=StaffPage) 
+
+**Press for _Becoming Boston _**
+
+[The Boston Globe - _Map quest: At BPL's Leventhal center, two shows speak to a changing city_](https://www.bostonglobe.com/2023/01/19/arts/map-quest-bpls-leventhal-center-two-shows-speak-changing-city/?p1=StaffPage) 
+
 **Press for _More or Less in Common_**
+
+[Fenway News - _BPL Exhibit Explores How Maps Can Reveal Political, Social, and Environmental Meaning_](https://fenwaynews.org/wp-content/uploads/2022/09/Fenway-News_OCT-2022_web.pdf)
 
 [The Boston Globe - _Maps: What Boston could have looked like_](https://www.bostonglobe.com/2022/06/12/arts/maps-what-boston-could-have-looked-like-if-olmsteds-original-plans-were-realized/)
 
@@ -65,6 +75,10 @@ The Boston Globe - [_Map quest: At BPL's Leventhal center, two shows speak to a 
 [WBZ Newsradio](https://wbznewsradio.iheart.com/content/atlascope-boston-public-library-city-streets-view-civil-war-history/)
 
 ## Press Releases
+
+**2022** 
+
+* 2022-12-09: [New Exhibition Building Blocks: Boston Stories from Urban Atlases opens at Leventhal Map & Education Center January 13, 2023](https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/)
 
 **2021**
 
