@@ -15,13 +15,11 @@ draft: true
 ---
 For our new rotating exhibition, [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), the Map Center hired three high school students from Boston Public Schools as teen curators. We asked them to choose a place in the city and explore that site’s history going back to the nineteenth century, using our [urban atlas collection](https://collections.leventhalmap.org/search?utf8=%E2%9C%93&q=urban+atlas&search_field=all_fields) to kick off their research. We wanted them to consider how things change and how the present came to be the way it is today.
 
-Over the course of eight weeks, the students chose their locations and dug into their research using maps, historical documents, local histories, interviews with scholars, and trips to their selected sites. They wrote up their findings, selected images to accompany their words, and gave video presentations on their process and what they learned. 
-
 ### Maleeha Wasim: Hathaway Mansion
 
-_Senior at the John D. O’Bryant High School in Roxbury_
-
 {{< figure src="/uploads/2023-01-19/mansion2022.png" caption="The Hathaway Mansion in 2022." class="figure-right" >}}
+
+_Senior at the John D. O’Bryant High School in Roxbury_
 
 **Starting Point: A Curious Mansion**
 
@@ -30,6 +28,8 @@ Close to my home in Brighton, there’s an old-looking mansion on Academy Hill R
 **Discoveries: An Animal Suburb**
 
 [James Ambrose](https://archives.lib.state.ma.us/handle/2452/204154) {{< popup src="/uploads/2023-01-19/ocm33284813_1888housealbumpage0019.jpeg"  target="blank" >}} Hathaway{{</popup>}}  settled in Brighton around 1859 and made his fortune by exporting cattle to Great Britain. In fact, down the street from the Hathaway Mansion is Market Street, where cattle were brought into Brighton by the trainload on the Boston and Albany Railroad. To the east of Market Street were the stockyards and to the west was the Abattoir, a site where cattle were processed and slaughtered. 
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70s038p/777,388,3678,3750/full/0/default.jpg" caption="Note the Brighton Stock Yards Company on [this 1899 atlas](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pv800#1/38)." class="figure-right" >}}
 
 The Brighton stockyards were built in the late 1700s to help supply the Continental Army during the Revolutionary War. Butchering and selling cattle became economically profitable and influenced Brighton’s growth. The cattle business transformed Brighton from a simple agricultural village into a prosperous “animal suburb.” By the 1820s, between two- and eight thousand heads of cattle were delivered each week to the Brighton Cattle Market.
 
