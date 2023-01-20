@@ -31,9 +31,7 @@ Close to my home in Brighton, there’s an old-looking mansion on Academy Hill R
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70s038p/777,388,3678,3750/full/0/default.jpg" caption="Note the Brighton Stock Yards Company on [this 1899 atlas](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pv800#1/38)." class="figure-right" >}}
 
-The Brighton stockyards were built in the late 1700s to help supply the Continental Army during the Revolutionary War. Butchering and selling cattle became economically profitable and influenced Brighton’s growth. The cattle business transformed Brighton from a simple agricultural village into a prosperous “animal suburb.” By the 1820s, between two- and eight thousand heads of cattle were delivered each week to the Brighton Cattle Market.
-
-Every Thursday at ten in the morning, hundreds of merchants and farmers parked their vehicles in front of the Cattle Fair Hotel, eager to buy sheep and cattle. Farmers throughout the US and Canada knew about the Brighton Cattle Market, which sold hundreds of thousands of cattle each year for over two million dollars in sales.
+The Brighton stockyards were built in the late 1700s to help supply the Continental Army during the Revolutionary War. Butchering and selling cattle became economically profitable and influenced Brighton’s growth, transforming Brighton from a simple agricultural village into a prosperous “animal suburb.” By the 1820s, between two- and eight thousand heads of cattle were delivered each week to the Brighton Cattle Market. Every Thursday at ten in the morning, hundreds of merchants and farmers parked their vehicles in front of the Cattle Fair Hotel, eager to buy sheep and cattle. Farmers throughout the US and Canada knew about the Brighton Cattle Market, which sold hundreds of thousands of cattle each year for over two million dollars in sales.
 
 **Interpretations: Our Relation to Animals and Food**
 
