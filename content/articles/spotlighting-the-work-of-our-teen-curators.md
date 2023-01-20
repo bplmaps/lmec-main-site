@@ -21,7 +21,7 @@ Over the course of eight weeks, the students chose their locations and dug into 
 
 _Senior at the John D. O’Bryant High School in Roxbury_
 
-{{< figure src="/uploads/2023-01-19/mansion2022.png" caption="The state of the Hathaway Mansion as of 2022." class="figure-right" >}}
+{{< figure src="/uploads/2023-01-19/mansion2022.png" caption="The Hathaway Mansion in 2022." class="figure-right" >}}
 
 **Starting Point: A Curious Mansion**
 
@@ -29,7 +29,7 @@ Close to my home in Brighton, there’s an old-looking mansion on Academy Hill R
 
 **Discoveries: An Animal Suburb**
 
-[James Ambrose](https://archives.lib.state.ma.us/handle/2452/204154) {{< popup src="/uploads/2023-01-19/ocm33284813_1888housealbumpage0019.jpeg"  target="blank" >}} Hathaway{{</popup>}}  settled in Brighton around 1859 and made his fortune by exporting cattle to Great Britain. In fact, down the street from the Hathaway Mansion is Market Street, where cattle were brought into Brighton by the trainload on the Boston and Albany Railroad. The stockyards were to the east of Market Street and the Abattoir, a site where cattle were processed and slaughtered, was to the west. Who would have imagined that not so long ago, Brighton, once known as Little Cambridge, was surrounded by stockyards?
+[James Ambrose](https://archives.lib.state.ma.us/handle/2452/204154) {{< popup src="/uploads/2023-01-19/ocm33284813_1888housealbumpage0019.jpeg"  target="blank" >}} Hathaway{{</popup>}}  settled in Brighton around 1859 and made his fortune by exporting cattle to Great Britain. In fact, down the street from the Hathaway Mansion is Market Street, where cattle were brought into Brighton by the trainload on the Boston and Albany Railroad. The stockyards were to the east of Market Street and the Abattoir, a site where cattle were processed and slaughtered, was to the west. 
 
 The Brighton stockyards were built in the late 1700s to help supply the Continental Army during the Revolutionary War. Butchering and selling cattle became economically profitable and influenced Brighton’s growth. The cattle business transformed Brighton from a simple agricultural village into a prosperous “animal suburb.” By the 1820s, between two- and eight thousand heads of cattle were delivered each week to the Brighton Cattle Market.
 
