@@ -21,11 +21,13 @@ Join us for a panel conversation on _Black Boston Stories: Growing Up_ on Thursd
 
 ##### Our guests
 
-[Ekua Holmes](https://www.ekuaholmes.com/about)
+[**Ekua Holmes**](https://www.ekuaholmes.com/about)
 
-Klare Shaw 
+**Klare Shaw**
 
-Helen Credle 
+**Helen Credle**
+
+Additional speaker details coming soon.
 
 _Food will be provided. Registration encouraged but not required._
 
