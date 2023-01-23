@@ -15,7 +15,7 @@ tags: []
 
 ### About this event
 
-Writer and journalist **Laura Bliss** will discuss her recent book, **_The Quarantine Atlas: Mapping Global Life Under COVID-19_**, which explores reader-submitted maps of their lives during the coronavirus pandemic. Bliss will be joined by Boston-based mapmaker and artist **Rajiv Raman** 
+Writer and journalist **Laura Bliss** will discuss her recent book, **_The Quarantine Atlas: Mapping Global Life Under COVID-19_**, which explores reader-submitted maps of their lives during the coronavirus pandemic. For this discussion, Bliss will be joined by Boston-based mapmaker and artist **Rajiv Raman** and writer **Garnette Cadogan**. 
 
 Following the talk, there will be time for audience Q&A, and the program will conclude at 7 PM with an author signing facilitated by an independent bookstore partner.
 
