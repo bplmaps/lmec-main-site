@@ -1,7 +1,7 @@
 ---
-publishDate: 2022-12-19T16:20:44.000-05:00
+publishDate: 2023-01-23T15:20:44-05:00
 title: From The Vault Collections Showing — Maps of Loveland
-date: 2023-02-03T14:00:00.000-05:00
+date: 2023-02-17T14:00:00-05:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
 location: Leventhal Map and Education Center, Learning Center
@@ -10,12 +10,11 @@ registration: ''
 tags:
 - collections
 - from the vault
-draft: true
 
 ---
 ### About this event
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq51b/full/1200,/0/default.jpg" caption="The front of [this postcard](https://collections.leventhalmap.org/search/commonwealth:0r96fq502) includes an illustration of a Boeing 247-D and a map of United Air Line routes across the United States." class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw29z/full/1200,/0/default.jpg" caption="This [pictorial map of Loveland](https://collections.leventhalmap.org/search/commonwealth:st74cw28p) was made by Ernest Dudley Chase in the mid-twentieth century." class="figure-right" >}}
 
 Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at objects from our collections that speak to the spirit of love. 
 
