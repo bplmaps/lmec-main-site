@@ -25,7 +25,11 @@ Close to my home in Brighton, there’s an old-looking {{< popup src="/uploads/2
 
 [Hathaway](https://archives.lib.state.ma.us/handle/2452/204154) settled in Brighton around 1859 and made his fortune by exporting cattle to Great Britain. In fact, down the street from the Hathaway Mansion [is](https://atlascope.org/#/view:share$mode:glass$center:-71.15336,42.34988$zoom:17.50$base:maptiler-streets$overlay:ark:/76611/al88zw3ur) {{< popup src="/uploads/2023-01-24/marketstreet.jpeg"  target="blank" >}} Market Street,{{</popup>}}  where cattle were brought into Brighton by the trainload on the Boston and Albany Railroad. 
 
-Butchering and selling cattle was economically profitable and influenced Brighton’s growth, transforming Brighton over time from a simple agricultural village into a prosperous “animal suburb.” By the 1820s, between 2,000 and 8,000 heads of cattle were delivered to [the](https://www.digitalcommonwealth.org/search/commonwealth:0c4862940) {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d27c9442/0,0,0,0/full/0/default.jpg"  target="blank" >}} Brighton Cattle Market{{</popup>}}  each week. Every Thursday at ten in the morning, hundreds of merchants and farmers parked their vehicles in front of the Cattle Fair Hotel, eager to buy sheep and cattle. 
+By the 1820s, between 2,000 and 8,000 heads of cattle were delivered to [the](https://www.digitalcommonwealth.org/search/commonwealth:0c4862940) {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d27c9442/0,0,0,0/full/0/default.jpg"  target="blank" >}} Brighton Cattle Market{{</popup>}}  each week. Hundreds of farmers and merchants gathered each Thursday at 10 in the morning at the 
+
+Every Thursday at ten in the morning, hundreds of merchants and farmers parked their vehicles in front of the Cattle Fair Hotel, eager to buy sheep and cattle. 
+
+Butchering and selling cattle was economically profitable and influenced Brighton’s growth, transforming Brighton over time from a simple agricultural village into a prosperous “animal suburb.”
 
 ### Nadia Madaoui: Kelleher Rose Garden
 
