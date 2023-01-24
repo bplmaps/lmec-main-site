@@ -29,6 +29,8 @@ By the 1820s, between 2,000 and 8,000 heads of cattle were delivered to the [Bri
 
 Butchering and selling cattle was economically profitable and influenced Brighton’s growth, transforming Brighton over time from a simple agricultural village into a prosperous “animal suburb.”
 
+**Interpretations: Our Relationship to Animals and Food**
+
 ### Nadia Madaoui: Kelleher Rose Garden
 
 _Senior at the John D. O’Bryant High School in Roxbury_
