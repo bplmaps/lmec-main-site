@@ -1,5 +1,5 @@
 ---
-date: 2023-01-23T07:00:05.000-05:00
+date: 2023-01-27T07:00:05-05:00
 title: Spotlighting the work of our teen curators
 description: 'For our new rotating exhibition, Building Blocks: Boston Stories from
   Urban Atlases, the Map Center hired three high school students from Boston Public
