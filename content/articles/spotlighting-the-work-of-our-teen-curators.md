@@ -27,7 +27,7 @@ Close to my home in Brighton, there’s an old-looking {{< popup src="/uploads/2
 
 By the 1820s, between 2,000 and 8,000 heads of cattle were delivered to the [Brighton Cattle Market](https://www.digitalcommonwealth.org/search/commonwealth:0c4862940) each week. On Thursday mornings, hundreds of farmers and merchants parked their vehicles in front of the {{< popup src="/uploads/2023-01-24/cattlefair.jpeg"  target="blank" >}} Cattle Fair Hotel,{{</popup>}}  eager to buy sheep and cattle. 
 
-Butchering and selling cattle was economically profitable and influenced Brighton’s growth, transforming Brighton over time from a simple agricultural village into a prosperous “animal suburb.”
+Butchering and selling cattle was economically profitable and influenced Brighton’s growth, transforming Brighton over time from a simple agricultural village into a prosperous “animal suburb.” Farmers throughout the U.S. and Canada knew about the Market, which sold hundreds of thousands of cattle each year for over two million dollars in sales.
 
 **Interpretations: Our Relationship to Animals and Food**
 
