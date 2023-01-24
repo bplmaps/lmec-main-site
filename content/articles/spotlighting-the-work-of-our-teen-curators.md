@@ -33,6 +33,16 @@ By the 1820s, between 2,000 and 8,000 heads of cattle were delivered to the [Bri
 
 _Senior at the John D. O’Bryant High School in Roxbury_
 
+I was born in Boston and I lived across from the Museum of Fine Arts for the first half of my life. During the warmer months of the year, my father or mother would take me and my brother to various spots around Fenway to pass time, whether that be flying little toy drones in an empty basketball court or riding bikes on a track. When thinking about where I wanted to focus my research, one spot that came to me in particular was the Fenway Rose Garden. This garden has sentimental value to me because it reminds me of a time when things were far more simple than now. It reminds me of what peace is.
+
+Built in 1931 and expanded in 1933, the James P. Kelleher Rose Garden is a site where visitors can come and rest and admire the many roses. Well after land reclamation of Back Bay was complete in the late nineteenth century, Mayor of Boston James M. Curley implemented a plan to smooth the slopes in front of the Museum of Fine Arts and create a garden that would lighten the space. The Rose Garden was and continues to be a place of peace for all those who seek it.
+
+Memorials to Boston soldiers, those lost in the Korean, Vietnam and Second World Wars, are placed near to the Rose Garden. The largest, most decorated one of all commemorates those who lost their lives in World War II. In front of it: a woman with wings spread wide holding a sword and a bundle of branches. I see this statue as guarding the honor of those who died or bringing peace to war. The memorials speak of war not only in terms of victory but of loss. Even inside of the Rose Garden wartime echoes. Along the gravel path, you find small signs with the names of the roses that grow there, many reminiscent of war or patriotism (Mr. Lincoln, Fourth of July, Veteran’s Honor).
+
+At one end of the garden at the end of a long patch of green sits a white statue of a woman in grief, far from the embrace of roses. A green patina hangs in the crooks of her drapes. She mourns the loss of something beautiful. The statue is named “_Desconsol,''_ Catalán for desolation. The statue is a replica of Josep Llimona’s original in Barcelona.
+
+Just as _Desconsol_ is in mournful isolation, so are we. Russia’s invasion of Ukraine has made more than 10 million people flee in refuge. And the war has affected all of us, from the economy to social relations. On top of that, we are still recovering from the impact of the Covid-19 pandemic. The stress of this time in history has greatly affected students in high school. We too need places to rest. The Kelleher Rose Garden has lived through times of war and tension. People have found peace here, and you may too.
+
 ### Anh Do: Ronan Park
 
 _Graduate of the Jeremiah E. Burke High School in Dorchester, current freshman at Northeastern University_
