@@ -19,7 +19,7 @@ For our new rotating exhibition, [_Building Blocks: Boston Stories from Urban At
 
 _Senior at the John D. O’Bryant High School in Roxbury_
 
-Close to my home in Brighton, there’s an old-looking {{< popup src="/uploads/2023-01-20/mansion.png"  target="blank" >}} mansion{{</popup>}}  [off Academy Hill Road](https://goo.gl/maps/cTtDXGoPLhK9bfHs6). I have wondered how the house is still standing, and why it looks the way it does. By [searching for the house on Atlascope](https://atlascope.org/#/view:share$mode:glass$center:-71.15433,42.34701$zoom:19.00$base:maptiler-streets$overlay:ark:/76611/al88zw3ur), I learned that James Ambrose Hathaway owned the property and that it is known as the Hathaway Mansion.
+Close to my home in Brighton, there’s an old-looking {{< popup src="/uploads/2023-01-20/mansion.png"  target="blank" >}} mansion{{</popup>}}  [off Academy Hill Road](https://goo.gl/maps/cTtDXGoPLhK9bfHs6). I have wondered how the house is still standing, and why it looks the way it does. By searching for the house on [Atlascope](https://atlascope.org/#/view:share$mode:glass$center:-71.15433,42.34701$zoom:19.00$base:maptiler-streets$overlay:ark:/76611/al88zw3ur), I learned that James Ambrose Hathaway owned the property and that it is known as the Hathaway Mansion.
 
 <iframe width="400" height="550" src="https://atlascope.org/#/view:share$mode:glass$center:-71.15433,42.34739$zoom:17.82$base:maptiler-streets$overlay:ark:/76611/al88zw3ur"></iframe>
 
