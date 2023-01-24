@@ -19,30 +19,20 @@ For our new rotating exhibition, [_Building Blocks: Boston Stories from Urban At
 
 _Senior at the John D. O’Bryant High School in Roxbury_
 
-**Starting Point: A Curious Mansion**
-
 {{< figure src="/uploads/2023-01-20/mansion.png" caption="The Hathaway Mansion, located at [35 Chestnut Hill Ave](https://goo.gl/maps/cTtDXGoPLhK9bfHs6), pictured in 2022." class="figure-right" >}}
 
 Close to my home in Brighton, there’s an old-looking mansion on Academy Hill Road. I have wondered how the house is still standing, and why it looks the way it does. By [searching for the house on Atlascope](https://atlascope.org/#/view:share$mode:glass$center:-71.15433,42.34701$zoom:19.00$base:maptiler-streets$overlay:ark:/76611/al88zw3ur), I learned that James Ambrose Hathaway owned the property and that it is known as the Hathaway Mansion.
 
-**Discoveries: An Animal Suburb**
+[James Ambrose](https://archives.lib.state.ma.us/handle/2452/204154) {{< popup src="/uploads/2023-01-19/ocm33284813_1888housealbumpage0019.jpeg"  target="blank" >}} Hathaway{{</popup>}}  settled in Brighton around 1859 and made his fortune by exporting cattle to Great Britain. In fact, down the street from the Hathaway Mansion is Market Street, where cattle were brought into Brighton by the trainload on the Boston and Albany Railroad. To the [east](https://atlascope.org/#/view:share$mode:glass$center:-71.14460,42.35680$zoom:17.50$base:maptiler-streets$overlay:ark:/76611/al7qa79fn) of Market Street were the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70s038p/2164,2736,1721,1129/full/0/default.jpg"  target="blank" >}} stockyards{{</popup>}}  and to the [west](https://atlascope.org/#/view:share$mode:glass$center:-71.14975,42.35969$zoom:17.62$base:maptiler-streets$overlay:ark:/76611/al7qa79fn) was the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70s038p/1040,917,1616,1216/full/0/default.jpg"  target="blank" >}} Abattoir,{{</popup>}}  a site where cattle were processed and slaughtered.
 
-[James Ambrose](https://archives.lib.state.ma.us/handle/2452/204154) {{< popup src="/uploads/2023-01-19/ocm33284813_1888housealbumpage0019.jpeg"  target="blank" >}} Hathaway{{</popup>}}  settled in Brighton around 1859 and made his fortune by exporting cattle to Great Britain. In fact, down the street from the Hathaway Mansion is Market Street, where cattle were brought into Brighton by the trainload on the Boston and Albany Railroad. To the [east](https://atlascope.org/#/view:share$mode:glass$center:-71.14460,42.35680$zoom:17.50$base:maptiler-streets$overlay:ark:/76611/al7qa79fn) of Market Street were the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70s038p/2164,2736,1721,1129/full/0/default.jpg"  target="blank" >}} stockyards{{</popup>}}  and to the [west](https://atlascope.org/#/view:share$mode:glass$center:-71.14975,42.35969$zoom:17.62$base:maptiler-streets$overlay:ark:/76611/al7qa79fn) was the {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70s038p/1040,917,1616,1216/full/0/default.jpg"  target="blank" >}} Abattoir,{{</popup>}}  a site where cattle were processed and slaughtered. 
-
-The Brighton stockyards were built in the late 1700s to help supply the Continental Army during the Revolutionary War. Butchering and selling cattle became economically profitable and influenced Brighton’s growth, transforming Brighton over time from a simple agricultural village into a prosperous “animal suburb.” By the 1820s, between 2,000 and 8,000 heads of cattle were to the [Brighton Cattle](https://www.digitalcommonwealth.org/search/commonwealth:0c4862940) {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d27c9442/full/1200,/0/default.jpg"  target="blank" >}} Market{</popup>}}  each week. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5boiWt6Znw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+The Brighton stockyards were built in the late 1700s to help supply the Continental Army during the Revolutionary War. Butchering and selling cattle became economically profitable and influenced Brighton’s growth, transforming Brighton over time from a simple agricultural village into a prosperous “animal suburb.” By the 1820s, between 2,000 and 8,000 heads of cattle were to the [Brighton Cattle](https://www.digitalcommonwealth.org/search/commonwealth:0c4862940) {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d27c9442/full/1200,/0/default.jpg"  target="blank" >}} Market{</popup>}}  each week.
 
 ### Nadia Madaoui: Kelleher Rose Garden
 
 _Senior at the John D. O’Bryant High School in Roxbury_
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZMMxC91xXvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ### Anh Do: Ronan Park
 
 _Graduate of the Jeremiah E. Burke High School in Dorchester, current freshman at Northeastern University_
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dh8Uw46of3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > Explore the projects further on the [_Building Blocks_ digital exhibition](https://www.leventhalmap.org/digital-exhibitions/building-blocks/teen-curators/).
