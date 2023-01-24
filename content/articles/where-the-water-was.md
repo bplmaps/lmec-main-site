@@ -3,11 +3,11 @@ date: 2023-01-08T09:25:47-05:00
 title: Where The Water Was
 description: 'One-sixth of Boston sits on land that was once tidal estuaries, shallow
   marshes, and mud flats. '
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/full/0/default.jpg
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/,800/0/default.jpg
 author: Ezra Acevedo
 tags:
 - Becoming Boston
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/full/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/,800/0/default.jpg
 
 ---
 Many visitors come to our [gallery](https://www.leventhalmap.org/exhibitions/visit/) with a particular question in mind: What did Boston look like before it was filled in? When walking around Boston today, it might be hard to picture the tidal estuaries, shallow marshes, and mud flats that were filled in and topped with brownstones and tall buildings.
