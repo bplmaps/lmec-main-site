@@ -26,7 +26,7 @@ Our panelists:
 * Dart Adams
 * Jerry Smart
 
-Additional speaker details coming soon.
+_Additional speaker details coming soon._
 
 _Food will be provided. Registration encouraged but not required._
 
