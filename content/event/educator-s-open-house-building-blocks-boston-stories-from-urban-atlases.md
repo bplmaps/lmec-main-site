@@ -2,9 +2,9 @@
 publishDate: 2023-01-25T10:04:59-05:00
 title: 'Educator''s Open House: Building Blocks: Boston Stories from Urban Atlases'
 date: 2023-02-02T15:30:00-05:00
-image: ''
-backgroundImage: ''
-location: ''
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bp14v/1679,1653,5692,3411/full/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bp14v/1679,1653,5692,3411/full/0/default.jpg
+location: Leventhal Map and Education Center, Learning Center
 fee: Free
 registration: https://www.eventbrite.com/e/educators-open-house-building-blocks-boston-stories-from-urban-atlases-tickets-519933674617
 tags:
