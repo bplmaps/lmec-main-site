@@ -41,9 +41,9 @@ I was born in Boston and I lived across from the Museum of Fine Arts for the fir
 
 Well after [land reclamation of Back Bay](https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline) was complete in the late nineteenth century, Mayor of Boston James M. Curley implemented a plan to smooth the slopes in front of the Museum of Fine Arts and create a garden that would lighten the space. Built in 1931 and expanded in 1933, [the](https://collections.leventhalmap.org/search/commonwealth:1831g286f) {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zc77w7434/2686,5407,3927,3509/full/0/default.jpg"  target="blank" >}} James P. Kelleher Rose Garden{{</popup>}}  is a site where visitors can come and rest and admire the many roses. It was and continues to be a place of peace for all those who seek it.
 
-{{< popup src="/uploads/2023-01-25/veteran_s_honor.jpeg"  target="blank" >}} Memorials{{</popup>}}  to Boston soldiers, those lost in the Korean, Vietnam and Second World Wars, are placed near to the Rose Garden. The largest, most decorated one of all commemorates those who lost their lives in World War II; it consists of a {{< popup src="/uploads/2023-01-25/nike.jpeg"  target="blank" >}} woman{{</popup>}} with wings spread wide holding a sword and a bundle of branches. I see this statue as guarding the honor of those who died or bringing peace to war. 
+{{< popup src="/uploads/2023-01-25/veteran_s_honor.jpeg"  target="blank" >}} Memorials{{</popup>}}  to Boston soldiers, those lost in the Korean, Vietnam and Second World Wars, are placed near to the Rose Garden. The largest, most decorated one of all commemorates those who lost their lives in World War II; it consists of a {{< popup src="/uploads/2023-01-25/nike.jpeg"  target="blank" >}} woman{{</popup>}} with wings spread wide holding a sword and a bundle of branches. I see this statue as guarding the honor of those who died or bringing peace to war.
 
-The memorials speak of war not only in terms of victory but of loss. Even inside the Rose Garden wartime echoes. Along the {{< popup src="/uploads/2023-01-25/garden_opposite.jpeg"  target="blank" >}} gravel path{{</popup>}}  you will find small signs with the names of the roes that grow there, many reminiscent of war or patriotism (Mr. Lincoln, Fourth of July, Veteran's Honor). 
+The memorials speak of war not only in terms of victory but of loss. Even inside the Rose Garden wartime echoes. Along the {{< popup src="/uploads/2023-01-25/garden_opposite.jpeg"  target="blank" >}} gravel path{{</popup>}}  you will find small signs with the names of the roes that grow there, many reminiscent of war or patriotism (Mr. Lincoln, Fourth of July, Veteran's Honor).
 
 At one end of the garden at the end of a long patch of green sits a {{< popup src="/uploads/2023-01-25/desconsol.jpeg"  target="blank" >}} white statue{{</popup>}}  of a woman in grief, far from the embrace of roses. A green patina hangs in the crooks of her drapes. She mourns the loss of something beautiful. The statue is named _Desconsol_, which is Catalán for desolation. The statue is a replica of Josep Llimona’s original in Barcelona.
 
@@ -54,5 +54,9 @@ Just as _Desconsol_ is in mournful isolation, so are we. Russia’s invasion of 
 ### Anh Do: Ronan Park
 
 _Graduate of the Jeremiah E. Burke High School in Dorchester, current freshman at Northeastern University_
+
+Ronan Park in Dorchester is a place where people come to relax, get some fresh air and exercise. I often hang out there with my friend in our free time. We usually sit on top of the hill and look out at the beach or watch the trains and people that jog by. The park is one of my top choices to relax my mind. A lot of trees surround the park and walkways. I frequently sit under one of them and gaze out at the views.
+
+When I looked at the maps of the area from the 1800s, I noticed that it wasn’t always a park, and there were multiple land owners that had the same last name, “Pierce.” I wanted to learn why some of the Pierces didn’t build much on their lands.
 
 > Explore the projects further on the [_Building Blocks_ digital exhibition](https://www.leventhalmap.org/digital-exhibitions/building-blocks/teen-curators/).
