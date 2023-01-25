@@ -41,7 +41,7 @@ Well after land reclamation of Back Bay was complete in the late nineteenth cent
 
 {{< popup src="/uploads/2023-01-25/veteran_s_honor.jpeg"  target="blank" >}} Memorials{{</popup>}}  to Boston soldiers, those lost in the Korean, Vietnam and Second World Wars, are placed near to the Rose Garden. The largest, most decorated one of all commemorates those who lost their lives in World War II; it consists of a {{< popup src="/uploads/2023-01-25/nike.jpeg"  target="blank" >}} woman{{</popup>}} with wings spread wide holding a sword and a bundle of branches. I see this statue as guarding the honor of those who died or bringing peace to war. 
 
-The memorials speak of war not only in terms of victory but of loss. Even inside the Rose Garden wartime echoes. Along the gravel path, you will find small signs with the names of the roes that grow there, many reminiscent of war or patriotism (Mr. Lincoln, Fourth of July, Veteran's Honor). 
+The memorials speak of war not only in terms of victory but of loss. Even inside the Rose Garden wartime echoes. Along the {{< popup src="/uploads/2023-01-25/garden_opposite.jpeg"  target="blank" >}} gravel path,{{</popup>}}  you will find small signs with the names of the roes that grow there, many reminiscent of war or patriotism (Mr. Lincoln, Fourth of July, Veteran's Honor). 
 
 At one end of the garden at the end of a long patch of green sits a white statue of a woman in grief, far from the embrace of roses. A green patina hangs in the crooks of her drapes. She mourns the loss of something beautiful. The statue is named “Desconsol,'' Catalán for desolation. The statue is a replica of Josep Llimona’s original in Barcelona.
 
