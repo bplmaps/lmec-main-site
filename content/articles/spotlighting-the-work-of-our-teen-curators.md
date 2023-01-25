@@ -27,6 +27,8 @@ Close to my home in Brighton, there’s an old-looking {{< popup src="/uploads/2
 
 By the 1820s, between 2,000 and 8,000 heads of cattle were delivered to the [Brighton Cattle Market](https://www.digitalcommonwealth.org/search/commonwealth:0c4862940) each week. On Thursday mornings, hundreds of farmers and merchants parked their vehicles in front of the {{< popup src="/uploads/2023-01-24/cattlefair.jpeg"  target="blank" >}} Cattle Fair Hotel,{{</popup>}}  eager to buy sheep and cattle. Farmers throughout the U.S. and Canada knew about the Market, which sold hundreds of thousands of cattle each year for over two million dollars in sales. Butchering and selling cattle was economically profitable and influenced Brighton’s growth, transforming Brighton over time from a simple agricultural village into a prosperous “animal suburb.”
 
+It's amazing how an old mansion led me to learning about a thriving cattle sector in historic Brighton. It impacted local families and individuals and influenced the town’s political and economic affairs. And it attracted a lot of tourists, commerce, and animals via railroads. Just as Brighton’s past connection to the bustling cattle market is now often forgotten, so do we no longer have the close relationship with animals that we once did, or care how cattle are mechanically slaughtered and processed. Today, although we have more safety regulations that keep the slaughter factories in order, meat processing is kept behind closed doors, out of sight from the public. Could the story of Brighton’s stockyards help current and future generations care about how animals become food?
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5boiWt6Znw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Nadia Madaoui: Kelleher Rose Garden
@@ -41,11 +43,13 @@ Well after [land reclamation of Back Bay](https://www.wbur.org/news/2021/06/14/8
 
 {{< popup src="/uploads/2023-01-25/veteran_s_honor.jpeg"  target="blank" >}} Memorials{{</popup>}}  to Boston soldiers, those lost in the Korean, Vietnam and Second World Wars, are placed near to the Rose Garden. The largest, most decorated one of all commemorates those who lost their lives in World War II; it consists of a {{< popup src="/uploads/2023-01-25/nike.jpeg"  target="blank" >}} woman{{</popup>}} with wings spread wide holding a sword and a bundle of branches. I see this statue as guarding the honor of those who died or bringing peace to war. 
 
-The memorials speak of war not only in terms of victory but of loss. Even inside the Rose Garden wartime echoes. Along the {{< popup src="/uploads/2023-01-25/garden_opposite.jpeg"  target="blank" >}} gravel path,{{</popup>}}  you will find small signs with the names of the roes that grow there, many reminiscent of war or patriotism (Mr. Lincoln, Fourth of July, Veteran's Honor). 
+The memorials speak of war not only in terms of victory but of loss. Even inside the Rose Garden wartime echoes. Along the {{< popup src="/uploads/2023-01-25/garden_opposite.jpeg"  target="blank" >}} gravel path{{</popup>}}  you will find small signs with the names of the roes that grow there, many reminiscent of war or patriotism (Mr. Lincoln, Fourth of July, Veteran's Honor). 
 
 At one end of the garden at the end of a long patch of green sits a {{< popup src="/uploads/2023-01-25/desconsol.jpeg"  target="blank" >}} white statue{{</popup>}}  of a woman in grief, far from the embrace of roses. A green patina hangs in the crooks of her drapes. She mourns the loss of something beautiful. The statue is named _Desconsol_, which is Catalán for desolation. The statue is a replica of Josep Llimona’s original in Barcelona.
 
 Just as _Desconsol_ is in mournful isolation, so are we. Russia’s invasion of Ukraine has made more than 10 million people flee in refuge. And the war has affected all of us, from the economy to social relations. On top of that, we are still recovering from the impact of the Covid-19 pandemic. The stress of this time in history has greatly affected students in high school. We too need places to rest. The Kelleher Rose Garden has lived through times of war and tension. People have found peace here, and you may too.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZMMxC91xXvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Anh Do: Ronan Park
 
