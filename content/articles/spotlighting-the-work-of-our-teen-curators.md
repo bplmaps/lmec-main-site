@@ -1,5 +1,5 @@
 ---
-date: 2023-01-27T07:00:05-05:00
+date: 2023-01-27T07:00:05.000-05:00
 title: Spotlighting the work of our teen curators
 description: 'For our new rotating exhibition, Building Blocks: Boston Stories from
   Urban Atlases, the Map Center hired three high school students from Boston Public
@@ -33,7 +33,7 @@ By the 1820s, between 2,000 and 8,000 heads of cattle were delivered to the [Bri
 
 _Senior at the John D. O’Bryant High School in Roxbury_
 
-I was born in Boston and I lived across from the Museum of Fine Arts for the first half of my life. During the warmer months of the year, my father or mother would take me and my brother to various spots around Fenway to pass time, whether that be flying little toy drones in an empty basketball court or riding bikes on a track. When thinking about where to focus my research, one spot that came to me in particular was the Fenway Rose Garden.
+I was born in Boston and I lived across from the Museum of Fine Arts for the first half of my life. During the warmer months of the year, my father or mother would take me and my brother to various spots around Fenway to pass time, whether that be flying little toy drones in an empty basketball court or riding bikes on a track. When thinking about where to focus my research, one spot that came to me in particular was the {{< popup src="/uploads/2023-01-25/krg-banner-1500x430.png"  target="blank" >}} Fenway Rose Garden.{{</popup>}}
 
 Built in 1931 and expanded in 1933, the James P. Kelleher Rose Garden is a site where visitors can come and rest and admire the many roses. Well after land reclamation of Back Bay was complete in the late nineteenth century, Mayor of Boston James M. Curley implemented a plan to smooth the slopes in front of the Museum of Fine Arts and create a garden that would lighten the space. The Rose Garden was and continues to be a place of peace for all those who seek it.
 
