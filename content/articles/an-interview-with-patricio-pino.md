@@ -2,11 +2,11 @@
 date: 2023-01-27T09:00:34.000-05:00
 title: An Interview with Patricio Pino
 description: An interview with Spring 2023 Northeastern co-op, Patricio Pino
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463192p/210,163,2354,1680/full/0/default.jpg
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463192p/412,799,2405,1104/full/0/default.jpg
 author: Patricio Pino
 tags:
 - Staff
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463192p/210,163,2354,1680/full/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463192p/412,799,2405,1104/full/0/default.jpg
 draft: true
 
 ---
@@ -46,6 +46,6 @@ Because my time here started with the very upfront and crazy installation proces
 
 **I know you’ve only just gotten here, but do you have a favorite map in the LMEC collections?**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zk520739k/291,269,6813,4731/1200,/0/default.jpg" class="figure-right" caption="Early rail in the Cuzco region of Peru, a [photograph](https://www.digitalcommonwealth.org/search/commonwealth:zk5207389) from 1929">}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zk520739k/291,269,6813,4731/1200,/0/default.jpg" class="figure-right" caption="Something of a rail service in the Cuzco region of Peru, a [photograph](https://www.digitalcommonwealth.org/search/commonwealth:zk5207389) from 1929">}}
 
-Thanks to our incredible _From the Vault_ program, I was able to familiarize myself with the very exciting 1899 [_Cram’s Standard American Railway System Atlas of the World_](https://bpl.bibliocommons.com/v2/record/S75C4501635) (!). Which, apart from being thrilling, was actually pretty dense in curious little details in addition to being aesthetically pleasing. In particular its map of Peru and Bolivia, which represented a pretty critical moment in the history of foreign interests and industrial exploitation in the region, uniquely depicted spatially in the form of railway lines radiating from the coast towards the interior. Additional little details further made this map a good example of the density of information which geography can depict. Like the map’s listing of different indigenous peoples almost exclusively in the Amazonian regions not yet reached by rail, but which were in the process of entering a pretty brutal period of colonial exploitation.
+Thanks to our incredible _From the Vault_ program, I was able to familiarize myself with the very exciting 1899 [_Cram’s Standard American Railway System Atlas of the World_](https://bpl.bibliocommons.com/v2/record/S75C4501635) (!). Which, apart from being thrilling, was actually pretty dense in curious little details in addition to being aesthetically pleasing. In particular its map of Peru and Bolivia, which represented a pretty critical moment in the history of foreign interests and industrial exploitation in the region, uniquely depicted spatially in the form of railway lines radiating from the coast towards the interior. Additional little details further made this map a good example of the density of information which geography can depict. Like the map’s listing of different indigenous peoples almost exclusively in the Amazonian regions not yet reached by rail, but which were in the process of entering a pretty brutal period of colonial exploitation. The histories I was able to pick out 
