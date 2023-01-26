@@ -34,7 +34,7 @@ Sitting in the gallery attendant’s desk provides a somewhat privileged observe
 
 An honorable mention here for something overheard, is the work of our K12 education team, who had their first school visit of the new exhibition just last week. It was absolute utter pandemonium. It was pretty incredible. Seeing a gallery which is frequently excessively quaint overrun by fourth graders, and seeing them (mostly) actually listening to a lesson basically based on fire insurance atlases, I think is reason enough to love the work that’s done here, and to definitely not mess with the K12 education team.
 
-**Have you discovered anything fun on Atlascope?**
+**Have you discovered anything fun on** [**Atlascope**](https://www.atlascope.org/)**?**
 
 {{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c484d/4255,4267,2203,1019/1200,/0/default.jpg" caption="Detail of the [1938 Bromley Atlas of the City of Boston](https://collections.leventhalmap.org/search/commonwealth:1257c4834) showing handwritten edits and street number changes">}}
 
