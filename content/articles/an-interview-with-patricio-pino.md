@@ -36,7 +36,7 @@ An honorable mention here for something overheard, is the work of our K12 educat
 
 **Have you discovered anything fun on Atlascope?**
 
-{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c484d/4255,4267,2203,1019/full/0/default.jpg" caption="Detail of [1977 MBTA map of Boston](https://collections.leventhalmap.org/search/commonwealth:xs55pv17h) showing the Green Line's extension to Arborway/Forest Hills">}}
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c484d/4255,4267,2203,1019/full/0/default.jpg" caption="Detail of the [1938 Bromley Atlas of the City of Boston](https://collections.leventhalmap.org/search/commonwealth:1257c4834) showing handwritten edits and street number changes">}}
 
 The countless scrawled annotations and edits! A very big theme of Building Blocks is a focus on picking out the actual lives and experiences from the very technical and administrative details of something like a fire insurance atlas. I think there’s no better example of this than the pencil marks, handwritten notes, and glued on edits, which are so human yet so easily missable from the distance at which we present our work. On Atlascope there’s an extra layer of that technical distance thanks to the digital aspect stitching together different plates and overlaying disparate atlases, but the literal closeness which you get—in being able to zoom and access other viewers’ annotations—means that I’ve been having a lot of fun looking for as many of these little human artifacts as I can.
 
