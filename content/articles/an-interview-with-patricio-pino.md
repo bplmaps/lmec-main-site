@@ -7,7 +7,6 @@ author: Patricio Pino
 tags:
 - Staff
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463192p/412,799,2405,1104/full/0/default.jpg
-draft: true
 
 ---
 > We’re excited to welcome Patricio Pino to the team as the Spring 2023 [co-op student](https://careers.northeastern.edu/cooperative-education/) serving as Visitor Services & Exhibition Assistant. He is a student at Northeastern University studying English and Anthropology. We sat down with Patricio to learn more about his interests and background.
