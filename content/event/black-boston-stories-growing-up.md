@@ -2,8 +2,8 @@
 publishDate: 2023-01-19T10:30:57.000-05:00
 title: 'Black Boston Stories: Growing Up'
 date: 2023-02-09T18:00:00.000-05:00
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9507f96r/2867,5535,3362,1262/,800/0/default.jpg
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9507f96r/2867,5535,3362,1262/,800/0/default.jpg
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jq085m35s/9,314,4186,2283/1200,/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jq085m35s/9,314,4186,2283/1200,/0/default.jpg
 location: 'Grove Hall Branch Library, Jazz Lounge '
 fee: Free
 registration: https://www.eventbrite.com/e/black-boston-stories-growing-up-tickets-518990944887
@@ -31,3 +31,5 @@ _Additional speaker details coming soon._
 _Food will be provided. Registration encouraged but not required._
 
 _Organized as part of the Leventhal Map & Education Center's ongoing exhibition,_ [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/)_._
+
+Banner image: Spencer Grant, [_Black schoolchildren play recorders, Roxbury _](https://www.digitalcommonwealth.org/search/commonwealth:jq085m34h)(1971)
