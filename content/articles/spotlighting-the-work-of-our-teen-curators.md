@@ -55,9 +55,9 @@ Just as _Desconsol_ is in mournful isolation, so are we. Russia’s invasion of 
 
 _Graduate of the Jeremiah E. Burke High School in Dorchester, current freshman at Northeastern University_
 
-{{< popup src="/uploads/2023-01-27/late-afternoon-view-of-rp-playground-and-houses.jpg"  target="blank" >}} Ronan Park{{</popup>}}  in Dorchester is a place where people come to relax, get some fresh air and exercise. I often hang out there with my friend in our free time. We usually sit on top of the hill and look out at the beach or watch the trains and people that jog by. The park is one of my top choices to relax my mind. A lot of trees surround the park and walkways. I frequently sit under one of them and gaze out at the views.
-
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bz48b/325,1621,2046,2612/,1200/0/default.jpg" caption="[Mapped in 1918](https://collections.leventhalmap.org/search/commonwealth:1257bz472)." class="figure-right" >}}
+
+{{< popup src="/uploads/2023-01-27/late-afternoon-view-of-rp-playground-and-houses.jpg"  target="blank" >}} Ronan Park{{</popup>}}  in Dorchester is a place where people come to relax, get some fresh air and exercise. I often hang out there with my friend in our free time. We usually sit on top of the hill and look out at the beach or watch the trains and people that jog by. The park is one of my top choices to relax my mind. A lot of trees surround the park and walkways. I frequently sit under one of them and gaze out at the views.
 
 When I looked at the maps of the area from the 1800s, I noticed that it wasn’t always a park, and there were multiple land owners that had the same last name, {{< popup src=""  target="blank" >}} Pierce.{{</popup>}}  I wanted to learn why some of the Pierces didn’t build much on their lands.
 
