@@ -2,7 +2,7 @@
 type: person
 title: Patricio Pino
 description: Visitor Services & Exhibition Assistant
-headshot: "/uploads/2023-01-20/default.jpeg"
+headshot: "/images/headshots/patricio-pino.jpg"
 staff_category: staff
 contact:
 - method: Email
