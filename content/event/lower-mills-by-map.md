@@ -16,6 +16,6 @@ tags:
 
 What was Lower Mills like in the 19th and 20th centuries? What schools and churches were around? Were any industries based in the area? Join the Leventhal Map & Education Center at the [Lower Mills Branch Library](https://www.bpl.org/locations/lower-mills/) for a deep dive into the historical geography of the area. Come learn about how the community has changed over time, and discover how to research the history of your own house and neighborhood.
 
-_R egistration is **not** required. If you would like to receive event reminders, please register_ [_here_](https://www.eventbrite.com/e/lower-mills-by-map-tickets-526560505647) _on Eventbrite._
+_Registration is **not** required. If you would like to receive event reminders, please register_ [_here_](https://www.eventbrite.com/e/lower-mills-by-map-tickets-526560505647) _on Eventbrite._
 
 ***
