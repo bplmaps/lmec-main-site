@@ -46,7 +46,7 @@ Because my time here started with the very upfront and crazy installation proces
 
 **I know you’ve only just gotten here, but do you have a favorite map in the LMEC collections?**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zk520739k/291,269,6813,4731/1200,/0/default.jpg" class="figure-right" caption="Something of a rail service in the Cuzco region of Peru, a [photograph](https://www.digitalcommonwealth.org/search/commonwealth:zk5207389) from 1929">}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zk520739k/291,269,6813,4731/1200,/0/default.jpg" class="figure-right" caption="Something of a rail service is [pictured](https://www.digitalcommonwealth.org/search/commonwealth:zk5207389) in the the Cuzco region of Peru in 1929.">}}
 
 Thanks to our incredible [_From the Vault_](https://www.leventhalmap.org/tags/from-the-vault/) program, I was able to familiarize myself with the very exciting 1899 [_Cram’s Standard American Railway System Atlas of the World_](https://bpl.bibliocommons.com/v2/record/S75C4501635) (!). Which, apart from being thrilling, was actually pretty dense in curious little details in addition to being aesthetically pleasing. In particular its map of Peru and Bolivia, which represented a pretty critical moment in the history of foreign interests and industrial exploitation in the region, uniquely depicted spatially in the form of railway lines radiating from the coast towards the interior.
 
