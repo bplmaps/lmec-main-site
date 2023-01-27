@@ -18,7 +18,7 @@ draft: true
 
 I’ve lived in Massachusetts for basically as long as I can remember, but I was born in Peru where most of my family still lives, so I’ve always had something of a split cultural experience between my personal life and life in America: at home or at school, Spanish and English, etc. There’s an inherent diversity there that I’ve grown to value as a source of inspiration from what would otherwise be situations of distance or divide, something which I see as very influential in molding my interests and the core decisions I’ve made in life, for example in choosing to study English and Anthropology at Northeastern, and now deciding to work at the Map Center.
 
-{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:xg94j1213/263,137,4787,3507/full/0/default.jpg"  caption="A [1656 map](https://collections.leventhalmap.org/search/commonwealth:xg94j120t) of Peru and the course of the Amazon">}}
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:xg94j1213/263,137,4787,3507/full/0/default.jpg"  caption="This [1656 map](https://collections.leventhalmap.org/search/commonwealth:xg94j120t) of Peru charts the course of the Amazon.">}}
 
 My academic interests, in writing, literature, or anthropology, are unified by a human struggle to create (or find) meaning, whether in stories, artworks, rituals, traditions, or the pursuit of knowledge. I think the process of creating something completely new and impactful out of a diversity of seemingly contradictory influences is the same in both the work of an artist and a researcher, as well as in the seemingly authorless process through which the “culture” of our day-to-day lives is produced.
 
@@ -36,7 +36,7 @@ An honorable mention here for something overheard, is the work of our K12 educat
 
 **Have you discovered anything fun on** [**Atlascope**](https://www.atlascope.org/)**?**
 
-{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c484d/4255,4267,2203,1019/1200,/0/default.jpg" caption="Detail of the [1938 Bromley Atlas of the City of Boston](https://collections.leventhalmap.org/search/commonwealth:1257c4834) showing handwritten edits and street number changes">}}
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c484d/4255,4267,2203,1019/1200,/0/default.jpg" caption="Note the handwritten edits and street number changes on this details of the [1938 Bromley Atlas of the City of Boston](https://collections.leventhalmap.org/search/commonwealth:1257c4834).">}}
 
 The countless scrawled annotations and edits! A very big theme of _Building Blocks_ is a focus on picking out the actual lives and experiences from the very technical and administrative details of something like a fire insurance atlas. I think there’s no better example of this than the pencil marks, handwritten notes, and glued on edits, which are so human yet so easily missable from the distance at which we present our work. On Atlascope there’s an extra layer of that technical distance thanks to the digital aspect stitching together different plates and overlaying disparate atlases, but the literal closeness which you get—in being able to zoom and access other viewers’ annotations—means that I’ve been having a lot of fun looking for as many of these little human artifacts as I can.
 
