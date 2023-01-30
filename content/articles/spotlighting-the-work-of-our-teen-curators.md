@@ -61,7 +61,7 @@ _Graduate of the Jeremiah E. Burke High School in Dorchester, current freshman a
 
 {{< figure src="/uploads/2023-01-30/pierce.jpeg" caption="" class="figure-right" >}}
 
-When I looked at the maps of the area from the 1800s, I noticed that it wasn’t always a park, and there were multiple land owners that had the same last name: Pierce. I wanted to learn why some of the Pierces didn’t build much on their lands.
+When I looked at the [maps of the area](https://atlascope.org/#/view:share$mode:glass$center:-71.06182,42.30389$zoom:17.25$base:maptiler-streets$overlay:ark:/76611/al8c1jaml) from the 1800s, I noticed that it wasn’t always a park, and there were multiple land owners that had the same last name: Pierce. I wanted to learn why some of the Pierces didn’t build much on their lands.
 
 The story of the Pierce family starts with {{< popup src="/uploads/2023-01-30/john-pierce.jpeg"  target="blank" >}} John F. Pierce,{{</popup>}}  who built two houses between 1818 and 1831 along the southeast slope of Mount Ida, the same hill on Adams Street that shapes Ronan Park. John married Catherine and had a son named Charles Bates Pierce, who later married Mary Lyman Emery in 1846. Charles and Mary had two children, Elizabeth (b. 1847) and Charles Jr. (b. 1851). According to the 1855 Census, there were four Irish workers living with them.
 
