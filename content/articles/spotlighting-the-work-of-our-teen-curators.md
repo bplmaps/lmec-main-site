@@ -1,5 +1,5 @@
 ---
-date: 2023-02-01T07:00:05-05:00
+date: 2023-02-01T07:00:05.000-05:00
 title: Spotlighting the work of our teen curators
 description: 'For our new rotating exhibition, Building Blocks: Boston Stories from
   Urban Atlases, the Map Center hired three high school students from Boston Public
@@ -55,7 +55,7 @@ Just as _Desconsol_ is in mournful isolation, so are we. Russia’s invasion of 
 
 _Graduate of the Jeremiah E. Burke High School in Dorchester, current freshman at Northeastern University_
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bz48b/325,1621,2046,2612/,1200/0/default.jpg" caption="[Mapped in 1918](https://collections.leventhalmap.org/search/commonwealth:1257bz472)." class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bz48b/325,1621,2046,2612/,1200/0/default.jpg" caption="Ronan Park is included on [this 1918 atlas](https://collections.leventhalmap.org/search/commonwealth:1257bz472) of Dorchester." class="figure-right" >}}
 
 {{< popup src="/uploads/2023-01-27/late-afternoon-view-of-rp-playground-and-houses.jpg"  target="blank" >}} Ronan Park{{</popup>}}  in Dorchester is a place where people come to relax, get some fresh air and exercise. I often hang out there with my friend in our free time. We usually sit on top of the hill and look out at the beach or watch the trains and people that jog by. The park is one of my top choices to relax my mind. A lot of trees surround the park and walkways. I frequently sit under one of them and gaze out at the views.
 
