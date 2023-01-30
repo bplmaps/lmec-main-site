@@ -29,6 +29,8 @@ The expansion of the [Boston and Albany Railroad](https://atlascope.org/#/view:s
 
 By the 1820s, between 2,000 and 8,000 heads of cattle were delivered to the [Brighton Cattle Market](https://www.digitalcommonwealth.org/search/commonwealth:0c4862940) each week. On Thursday mornings, hundreds of farmers and merchants parked their vehicles in front of the {{< popup src="/uploads/2023-01-24/cattlefair.jpeg"  target="blank" >}} Cattle Fair Hotel,{{</popup>}}  eager to buy sheep and cattle. Farmers throughout the U.S. and Canada knew about the Market, which sold hundreds of thousands of cattle each year for over two million dollars in sales. Butchering and selling cattle was economically profitable and influenced Brighton’s growth, transforming Brighton over time from a simple agricultural village into a prosperous “animal suburb.”
 
+**Interpretations: Our Relationship to Animals and Food**
+
 It's amazing how an old mansion led me to learning about a thriving cattle sector in historic Brighton. It impacted local families and individuals and influenced the town’s political and economic affairs. And it attracted a lot of tourists, commerce, and animals via railroads. Just as Brighton’s past connection to the bustling cattle market is now often forgotten, so do we no longer have the close relationship with animals that we once did, or care how cattle are mechanically slaughtered and processed. Today, although we have more safety regulations that keep the slaughter factories in order, meat processing is kept behind closed doors, out of sight from the public. Could the story of Brighton’s stockyards help current and future generations care about how animals become food?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5boiWt6Znw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -49,6 +51,8 @@ The memorials speak of war not only in terms of victory but of loss. Even inside
 
 At one end of the garden at the end of a long patch of green sits a {{< popup src="/uploads/2023-01-25/desconsol.jpeg"  target="blank" >}} white statue{{</popup>}}  of a woman in grief, far from the embrace of roses. A green patina hangs in the crooks of her drapes. She mourns the loss of something beautiful. The statue is named _Desconsol_, which is Catalán for desolation. The statue is a replica of Josep Llimona’s original in Barcelona.
 
+**Interpretations: Rest in the Garden**
+
 Just as _Desconsol_ is in mournful isolation, so are we. Russia’s invasion of Ukraine has made more than 10 million people flee in refuge. And the war has affected all of us, from the economy to social relations. On top of that, we are still recovering from the impact of the Covid-19 pandemic. The stress of this time in history has greatly affected students in high school. We too need places to rest. The Kelleher Rose Garden has lived through times of war and tension. People have found peace here, and you may too.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZMMxC91xXvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -68,6 +72,8 @@ The story of the Pierce family starts with John F. Pierce, who built {{< popup s
 In 1857, Charles Sr. died of typhoid, and he didn’t leave a will. Mary sold Charles’s properties and was listed in the 1860 Census as head of household with $7,000 in property and real estate. She was never actually able to access any proceeds from the estate, however. Instead, she had to petition for an allowance and was awarded only $355, forcing her and the children to live in a boarding house south of Fields Corner with twenty other people. When Mary’s father-in-law John F. Pierce died in 1871, his estate was split between various family members, including Mary’s son Charles Jr. and her daughter Elizabeth. Eventually, Mary managed to purchase [the](https://atlascope.org/#/view:share$mode:glass$center:-71.06154,42.30354$zoom:18.23$base:maptiler-streets$overlay:ark:/76611/al7ruem0k) {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rt66n/4900,3479,623,223/1200,/0/default.jpg"  target="blank" >}} 151 Adams Street{{</popup>}}  property from her son and other heirs. 
 
 It’s strange that Mary had to buy the lands from her own children and relatives. While she was struggling, Mary’s father-in-law, her husband’s relatives and her brother were all living well in the area. Her own family members ignored Mary during hard times. But she found a way to get her worth back. When she did regain wealth, she gave the money to the people who lived with her in the boarding house and to her daughter and neighbors. 
+
+**Interpretations: The Complexity of Family**
 
 Family is a bridge that brings lives together. Mary went from living with her husband whose family were wealthy landowners to living in a boarding house with no support. In the Pierce family, they didn’t give Mary all she deserved, but she still gave what she had to others. In Mary’s story of family, there was brokenness. Through these experiences, however, Mary showed strength through generosity.
 
