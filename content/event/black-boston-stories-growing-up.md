@@ -32,4 +32,4 @@ _Food will be provided. Registration encouraged but not required._
 
 _Organized as part of the Leventhal Map & Education Center's ongoing exhibition,_ [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/)_._
 
-Banner image: Spencer Grant, [_Black schoolchildren play recorders, Roxbury _](https://www.digitalcommonwealth.org/search/commonwealth:jq085m34h)(1971)
+Banner image: Spencer Grant, [Black schoolchildren play recorders, Roxbury](https://www.digitalcommonwealth.org/search/commonwealth:jq085m34h) (1971)
