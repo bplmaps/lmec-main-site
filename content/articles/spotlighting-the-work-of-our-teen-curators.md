@@ -39,7 +39,7 @@ It's amazing how an old mansion led me to learning about a thriving cattle secto
 
 _Senior at the John D. O’Bryant High School in Roxbury_
 
-I was born in Boston and I lived across from the Museum of Fine Arts for the first half of my life. During the warmer months of the year, my father or mother would take me and my brother to various spots around Fenway to pass time, whether that be flying little toy drones in an empty basketball court or riding bikes on a track. When thinking about where to focus my research, one spot that came to me in particular was [the](https://www.emeraldnecklace.org/venue/kelleher-rose-garden/) {{< popup src="/uploads/2023-01-25/krg-banner-1500x430.png"  target="blank" >}} Fenway Rose Garden.{{</popup>}}
+I was born in Boston and I lived across from the Museum of Fine Arts for the first half of my life. During the warmer months of the year, my father or mother would take me and my brother to various spots around Fenway to pass time, whether that be flying little toy drones in an empty basketball court or riding bikes on a track. When thinking about where to focus my research, one spot that came to me in particular was the [Fenway](https://www.emeraldnecklace.org/venue/kelleher-rose-garden/) {{< popup src="/uploads/2023-01-25/krg-banner-1500x430.png"  target="blank" >}} Rose Garden.{{</popup>}}
 
 {{< figure src="/uploads/2023-01-25/rosegarden.jpeg" caption="The Rose Garden is labelled on [this 1931 atlas](https://collections.leventhalmap.org/search/commonwealth:1257c3871) of the Back Bay Fens." class="figure-right" >}}
 
@@ -61,9 +61,9 @@ Just as _Desconsol_ is in mournful isolation, so are we. Russia’s invasion of 
 
 _Graduate of the Jeremiah E. Burke High School in Dorchester, current freshman at Northeastern University_
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bz48b/319,1504,2285,3041/1200,/0/default.jpg" caption="Ronan Park appears in [urban atlases](https://atlascope.org/#/view:share$mode:glass$center:-71.06197,42.30420$zoom:17.53$base:maptiler-streets$overlay:ark:/76611/al7rpspwf) around 1918." class="figure-right" >}}
-
 {{< popup src="/uploads/2023-01-27/late-afternoon-view-of-rp-playground-and-houses.jpg"  target="blank" >}} Ronan Park{{</popup>}}  in Dorchester is a place where people come to relax, get some fresh air and exercise. I often hang out there with my friend in our free time. We usually sit on top of the hill and {{< popup src="/uploads/2023-01-30/morning-view-from-rp.jpeg"  target="blank" >}} look out{{</popup>}}  at the beach or watch the trains and people that jog by. The park is one of my top choices to relax my mind. A lot of trees surround the park and walkways. I frequently sit under one of them and gaze out at the views.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bz48b/319,1504,2285,3041/1200,/0/default.jpg" caption="Ronan Park appears in [urban atlases](https://atlascope.org/#/view:share$mode:glass$center:-71.06197,42.30420$zoom:17.53$base:maptiler-streets$overlay:ark:/76611/al7rpspwf) around 1918." class="figure-right" >}}
 
 When I looked at the [maps of the area](https://atlascope.org/#/view:share$mode:glass$center:-71.06182,42.30389$zoom:17.25$base:maptiler-streets$overlay:ark:/76611/al8c1jaml) from the 1800s, I noticed that it wasn’t always a park, and there were multiple land owners that had the same last name {{< popup src="/uploads/2023-01-30/piercefinal.jpeg"  target="blank" >}} Pierce.{{</popup>}}  I wanted to learn why some of the Pierces didn’t build much on their lands.
 
