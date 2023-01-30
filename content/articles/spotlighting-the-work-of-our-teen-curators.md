@@ -59,7 +59,7 @@ _Graduate of the Jeremiah E. Burke High School in Dorchester, current freshman a
 
 {{< popup src="/uploads/2023-01-27/late-afternoon-view-of-rp-playground-and-houses.jpg"  target="blank" >}} Ronan Park{{</popup>}}  in Dorchester is a place where people come to relax, get some fresh air and exercise. I often hang out there with my friend in our free time. We usually sit on top of the hill and look out at the beach or watch the trains and people that jog by. The park is one of my top choices to relax my mind. A lot of trees surround the park and walkways. I frequently sit under one of them and gaze out at the views.
 
-{{< figure src="/uploads/2023-01-30/pierce2.jpeg" caption="The location of Ronan Park as it appeared in [1874](https://collections.leventhalmap.org/search/commonwealth:6h446s043), with multiple properties owned by members of the Pierce Family." class="figure-right" >}}
+{{< figure src="/uploads/2023-01-30/pierce2.jpeg" caption="The [location](https://atlascope.org/#/view:share$mode:glass$center:-71.06197,42.30420$zoom:17.53$base:maptiler-streets$overlay:ark:/76611/al8c1jaml) of Ronan Park as it appeared in [1874](https://collections.leventhalmap.org/search/commonwealth:6h446s043), with multiple properties owned by members of the Pierce Family." class="figure-right" >}}
 
 When I looked at the [maps of the area](https://atlascope.org/#/view:share$mode:glass$center:-71.06182,42.30389$zoom:17.25$base:maptiler-streets$overlay:ark:/76611/al8c1jaml) from the 1800s, I noticed that it wasn’t always a park, and there were multiple land owners that had the same last name: Pierce. I wanted to learn why some of the Pierces didn’t build much on their lands.
 
