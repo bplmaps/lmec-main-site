@@ -69,8 +69,6 @@ In 1857, Charles Sr. died of typhoid, and he didn’t leave a will. Mary sold Ch
 
 When Mary’s father-in-law John F. Pierce died in 1871, his estate was split between various family members, including Mary’s son Charles Jr. and her daughter Elizabeth. Eventually, Mary managed to purchase [the](https://atlascope.org/#/view:share$mode:glass$center:-71.06154,42.30354$zoom:18.23$base:maptiler-streets$overlay:ark:/76611/al7ruem0k) {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rt66n/4900,3479,623,223/1200,/0/default.jpg"  target="blank" >}} 151 Adams Street {{</popup>}}  property from her son and other heirs. 
 
-It’s strange that Mary had to buy the lands from her own children and relatives. While she was struggling, Mary’s father-in-law, her husband’s relatives and her brother were all living well in the area. Her own family members ignored Mary during hard times. But she found a way to get her worth back.
-
-How did Mary express her rights? Women had no suffrage then, so she couldn’t vote. Yet, when she fought to regain wealth, she gave the money to the people who lived with her in the boarding house and to her daughter and neighbors. Her daughter seemed to follow Mary’s generosity and gave money to women.
+It’s strange that Mary had to buy the lands from her own children and relatives. While she was struggling, Mary’s father-in-law, her husband’s relatives and her brother were all living well in the area. Her own family members ignored Mary during hard times. But she found a way to get her worth back. When she did regain wealth, she gave the money to the people who lived with her in the boarding house and to her daughter and neighbors. 
 
 > Explore the projects further on the [_Building Blocks_ digital exhibition](https://www.leventhalmap.org/digital-exhibitions/building-blocks/teen-curators/).
