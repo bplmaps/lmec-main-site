@@ -69,4 +69,10 @@ In 1857, Charles Sr. died of typhoid, and he didn’t leave a will. Mary sold Ch
 
 It’s strange that Mary had to buy the lands from her own children and relatives. While she was struggling, Mary’s father-in-law, her husband’s relatives and her brother were all living well in the area. Her own family members ignored Mary during hard times. But she found a way to get her worth back. When she did regain wealth, she gave the money to the people who lived with her in the boarding house and to her daughter and neighbors. 
 
+Family is a bridge that brings lives together. Mary went from living with her husband whose family were wealthy landowners to living in a boarding house with no support. In the Pierce family, they didn’t give Mary all she deserved, but she still gave what she had to others. In Mary’s story of family, there was brokenness. Through these experiences, however, Mary showed strength through generosity.
+
+In my opinion, family can be as soft as talc or as strong as graphene. Expectations and hopes were high when my family moved from Vietnam to the U.S., simply because my parents wanted me to have a better education. My siblings were left behind with no clue when we’d be back. Being an immigrant in a foreign country, I had a hard time learning English and supporting my parents, but my family gives me the opportunities to grow and learn, and I will give back all I have.
+
+**insert YouTube video**
+
 > Explore the projects further on the [_Building Blocks_ digital exhibition](https://www.leventhalmap.org/digital-exhibitions/building-blocks/teen-curators/).
