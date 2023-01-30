@@ -59,7 +59,9 @@ _Graduate of the Jeremiah E. Burke High School in Dorchester, current freshman a
 
 {{< popup src="/uploads/2023-01-27/late-afternoon-view-of-rp-playground-and-houses.jpg"  target="blank" >}} Ronan Park{{</popup>}}  in Dorchester is a place where people come to relax, get some fresh air and exercise. I often hang out there with my friend in our free time. We usually sit on top of the hill and look out at the beach or watch the trains and people that jog by. The park is one of my top choices to relax my mind. A lot of trees surround the park and walkways. I frequently sit under one of them and gaze out at the views.
 
-When I looked at the maps of the area from the 1800s, I noticed that it wasn’t always a park, and there were multiple land owners that had the same last name, {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rs744/4191,2659,1311,1398/1200,/0/default.jpg"  target="blank" >}} Pierce.{{</popup>}}  I wanted to learn why some of the Pierces didn’t build much on their lands.
+When I looked at the maps of the area from the 1800s, I noticed that it wasn’t always a park, and there were multiple land owners that had the same last name: Pierce. I wanted to learn why some of the Pierces didn’t build much on their lands.
+
+<iframe width="400" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059010700a$zoom:17.48$center:-7910515.86616722,5206588.860015924$mode:swipe-y$pos:0.7994296577946768"></iframe>
 
 The story of the Pierce family starts with John F. Pierce, who built two houses between 1818 and 1831 along the southeast slope of Mount Ida, the same hill on Adams Street that shapes Ronan Park. John married Catherine and had a son named Charles Bates Pierce, who later married Mary Lyman Emery in 1846. Charles and Mary had two children, Elizabeth (b. 1847) and Charles Jr. (b. 1851). According to the 1855 Census, there were four Irish workers living with them.
 
