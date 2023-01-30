@@ -59,9 +59,11 @@ _Graduate of the Jeremiah E. Burke High School in Dorchester, current freshman a
 
 {{< popup src="/uploads/2023-01-27/late-afternoon-view-of-rp-playground-and-houses.jpg"  target="blank" >}} Ronan Park{{</popup>}}  in Dorchester is a place where people come to relax, get some fresh air and exercise. I often hang out there with my friend in our free time. We usually sit on top of the hill and look out at the beach or watch the trains and people that jog by. The park is one of my top choices to relax my mind. A lot of trees surround the park and walkways. I frequently sit under one of them and gaze out at the views.
 
+{{< figure src="/uploads/2023-01-30/pierce.jpeg" caption="" class="figure-right" >}}
+
 When I looked at the maps of the area from the 1800s, I noticed that it wasn’t always a park, and there were multiple land owners that had the same last name: Pierce. I wanted to learn why some of the Pierces didn’t build much on their lands.
 
-The story of the Pierce family starts with John F. Pierce, who built two houses between 1818 and 1831 along the southeast slope of Mount Ida, the same hill on Adams Street that shapes Ronan Park. John married Catherine and had a son named Charles Bates Pierce, who later married Mary Lyman Emery in 1846. Charles and Mary had two children, Elizabeth (b. 1847) and Charles Jr. (b. 1851). According to the 1855 Census, there were four Irish workers living with them.
+The story of the Pierce family starts with {{< popup src=""  target="blank" >}} John F. Pierce,{{</popup>}}  who built two houses between 1818 and 1831 along the southeast slope of Mount Ida, the same hill on Adams Street that shapes Ronan Park. John married Catherine and had a son named Charles Bates Pierce, who later married Mary Lyman Emery in 1846. Charles and Mary had two children, Elizabeth (b. 1847) and Charles Jr. (b. 1851). According to the 1855 Census, there were four Irish workers living with them.
 
 In 1857, Charles Sr. died of typhoid, and he didn’t leave a will. Mary sold Charles’s properties. She was described in the 1860 Census as head of household with $7,000 in property and real estate, she couldn’t actually access the proceeds from the estate. She had to petition for an allowance from the estate and was awarded only $355. She and her children ended up living in a boarding house south of Fields Corner with twenty other people, including single women and families.
 
