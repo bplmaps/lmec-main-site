@@ -57,6 +57,8 @@ Just as _Desconsol_ is in mournful isolation, so are we. Russia’s invasion of 
 
 _Graduate of the Jeremiah E. Burke High School in Dorchester, current freshman at Northeastern University_
 
+{{< figure src="/uploads/2023-01-30/pierce2.jpeg" caption="The location of Ronan Park as it appeared in [1874](https://collections.leventhalmap.org/search/commonwealth:6h446s043), with multiple property owners from the Pierce Family." class="figure-right" >}}
+
 {{< popup src="/uploads/2023-01-27/late-afternoon-view-of-rp-playground-and-houses.jpg"  target="blank" >}} Ronan Park{{</popup>}}  in Dorchester is a place where people come to relax, get some fresh air and exercise. I often hang out there with my friend in our free time. We usually sit on top of the hill and look out at the beach or watch the trains and people that jog by. The park is one of my top choices to relax my mind. A lot of trees surround the park and walkways. I frequently sit under one of them and gaze out at the views.
 
 {{< figure src="/uploads/2023-01-30/pierce.jpeg" caption="" class="figure-right" >}}
