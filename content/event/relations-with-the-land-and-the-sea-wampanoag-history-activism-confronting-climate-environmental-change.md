@@ -30,6 +30,6 @@ Leslie Jonas — Mashpee Wampanoag, Co-founder, Native Land Conservancy, Inc. - 
 
 **For 2023 ASEH Conference attendees, please register on the** [**ASEH website**](https://aseh.org/aseh-2023-plenary-panel/)**.**
 
-**For members of the public, please register** [**here**]() **on Eventbrite.**
+**For members of the public, please register** [**here**](https://www.eventbrite.com/e/wampanoag-history-and-activism-confronting-climate-and-environmental-change-tickets-506518980907) **on Eventbrite.**
 
 Image: Rhoda Harding, [_Gathering at Herring Pond Indian Church_](https://www.digitalcommonwealth.org/search/commonwealth-oai:v118sx25j) (1928)
