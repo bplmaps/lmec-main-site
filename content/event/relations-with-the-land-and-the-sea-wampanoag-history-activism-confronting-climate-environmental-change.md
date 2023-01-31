@@ -3,8 +3,8 @@ publishDate: 2023-01-31T13:41:00-05:00
 title: 'Relations with the Land and the Sea: Wampanoag History and Activism Confronting
   Climate and Environmental Change'
 date: 2023-03-23T18:00:00-04:00
-image: ''
-backgroundImage: ''
+image: "/uploads/2023-01-31/p15774coll6_2911_large.jpg"
+backgroundImage: "/uploads/2023-01-31/p15774coll6_2911_large.jpg"
 location: Rabb Hall, Central Library in Copley Square
 fee: Free
 registration: ''
@@ -28,3 +28,5 @@ J. Cedric Woods — UMass Boston Institute for New England Native American Studi
 Melissa Ferretti — Chairwoman, Herring Pond Wampanoag Tribe - “Listening to our Ancestors - Protecting Our Homelands”
 
 Leslie Jonas — Mashpee Wampanoag, Co-founder, Native Land Conservancy, Inc. - “Climate Change from the Indigenous Perspective”
+
+Image: Rhoda Harding, [_Gathering at Herring Pond Indian Church_](https://www.digitalcommonwealth.org/search/commonwealth-oai:v118sx25j) (1928)
