@@ -7,10 +7,9 @@ image: "/uploads/2023-01-31/p15774coll6_2911_large.jpg"
 backgroundImage: "/uploads/2023-01-31/p15774coll6_2911_large.jpg"
 location: Rabb Hall, Central Library in Copley Square
 fee: Free
-registration: ''
+registration: https://www.eventbrite.com/e/wampanoag-history-and-activism-confronting-climate-and-environmental-change-tickets-506518980907
 tags:
 - more or less in common
-draft: true
 
 ---
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized as part of the 2023 ASEH Conference.{{< /alert-box >}}
@@ -28,5 +27,9 @@ J. Cedric Woods — UMass Boston Institute for New England Native American Studi
 Melissa Ferretti — Chairwoman, Herring Pond Wampanoag Tribe - “Listening to our Ancestors - Protecting Our Homelands”
 
 Leslie Jonas — Mashpee Wampanoag, Co-founder, Native Land Conservancy, Inc. - “Climate Change from the Indigenous Perspective”
+
+**For 2023 ASEH Conference attendees, please register on the** [**ASEH website**](https://aseh.org/aseh-2023-plenary-panel/)**.**
+
+**For members of the public, please register** [**here**]() **on Eventbrite.**
 
 Image: Rhoda Harding, [_Gathering at Herring Pond Indian Church_](https://www.digitalcommonwealth.org/search/commonwealth-oai:v118sx25j) (1928)
