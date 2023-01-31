@@ -77,6 +77,6 @@ Family is a bridge that brings lives together. Mary went from living with her hu
 
 In my opinion, family can be as soft as talc or as strong as graphene. Expectations and hopes were high when my family moved from Vietnam to the U.S., simply because my parents wanted me to have a better education. My siblings were left behind with no clue when we’d be back. Being an immigrant in a foreign country, I had a hard time learning English and supporting my parents, but my family gives me the opportunities to grow and learn, and I will give back all I have.
 
-**insert YouTube video**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dh8Uw46of3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > For more from Building Blocks, please visit our [digital exhibition](https://www.leventhalmap.org/digital-exhibitions/building-blocks/teen-curators/).
