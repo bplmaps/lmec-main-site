@@ -13,6 +13,7 @@ tags:
 draft: true
 
 ---
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized as part of the 2023 ASEH Conference.{{< /alert-box >}}
 
 ### About this event
 
