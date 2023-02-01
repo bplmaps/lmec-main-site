@@ -6,7 +6,7 @@ image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65kw322/35,365
 author: LMEC Staff
 tags:
 - Building Blocks
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65kw322/35,365,3576,1644/1200,/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65kw322/35,327,3599,2163/1200,/0/default.jpg
 draft: true
 
 ---
