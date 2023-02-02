@@ -13,7 +13,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx
 draft: true
 
 ---
-For our new rotating exhibition, [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), the Map Center brought in three high school students from Boston Public Schools as teen curators. We asked them to choose a place in the city and explore that site’s history going back to the nineteenth century, using our [urban atlas collection](https://collections.leventhalmap.org/search?utf8=%E2%9C%93&q=urban+atlas&search_field=all_fields) to kick off their research. We wanted them to consider how things change and how the present came to be the way it is today. 
+For our new rotating exhibition, [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), the Map Center hired and worked with three high school students from Boston Public Schools as teen curators. We asked them to choose a place in the city and explore that site’s history going back to the nineteenth century, using our [urban atlas collection](https://collections.leventhalmap.org/search?utf8=%E2%9C%93&q=urban+atlas&search_field=all_fields) to kick off their research. We wanted them to consider how things change and how the present came to be the way it is today.
 
 ### Maleeha Wasim: Hathaway Mansion
 
