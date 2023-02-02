@@ -33,7 +33,7 @@ By the 1820s, between 2,000 and 8,000 heads of cattle were delivered to the [Bri
 
 It's amazing how an old mansion led me to learning about a thriving cattle sector in historic Brighton. It impacted local families and individuals and influenced the town’s political and economic affairs. And it attracted a lot of tourists, commerce, and animals via railroads. Just as Brighton’s past connection to the bustling cattle market is now often forgotten, so do we no longer have the close relationship with animals that we once did, or care how cattle are mechanically slaughtered and processed. Today, although we have more safety regulations that keep the slaughter factories in order, meat processing is kept behind closed doors, out of sight from the public. Could the story of Brighton’s stockyards help current and future generations care about how animals become food?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5boiWt6Znw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqyNER388SY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Nadia Madaoui: Kelleher Rose Garden
 
@@ -55,7 +55,7 @@ At one end of the garden at the end of a long patch of green sits a {{< popup sr
 
 Just as _Desconsol_ is in mournful isolation, so are we. Russia’s invasion of Ukraine has made more than 10 million people flee in refuge. And the war has affected all of us, from the economy to social relations. On top of that, we are still recovering from the impact of the Covid-19 pandemic. The stress of this time in history has greatly affected students in high school. We too need places to rest. The Kelleher Rose Garden has lived through times of war and tension. People have found peace here, and you may too.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZMMxC91xXvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x1SE04VBXSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Anh Do: Ronan Park
 
