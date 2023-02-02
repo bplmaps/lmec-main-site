@@ -2,8 +2,8 @@
 date: 2023-02-01T07:00:05.000-05:00
 title: Spotlighting the work of our teen curators
 description: 'For our new rotating exhibition, Building Blocks: Boston Stories from
-  Urban Atlases, the Map Center brought in three high school students from Boston
-  Public Schools as teen curators.'
+  Urban Atlases, the Map Center hired and worked with three high school students from
+  Boston Public Schools as teen curators.'
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx58h/291,220,6304,2837/1200,/0/default.jpg
 author: LMEC Staff
 tags:
