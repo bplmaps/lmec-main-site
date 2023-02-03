@@ -22,8 +22,8 @@ Join us for a panel conversation on _Black Boston Stories: Growing Up_ on Thursd
 Our panelists:
 
 * Klare Shaw
-* Helen Credle
-* Dart Adams
+* Helen Credle 
+* Dart Adams 
 * Jerry Smart
 
 _Additional speaker details coming soon._
