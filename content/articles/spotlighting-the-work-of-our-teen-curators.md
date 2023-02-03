@@ -10,7 +10,6 @@ tags:
 - Building Blocks
 - K12 Education
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx58h/291,220,6304,2837/1200,/0/default.jpg
-draft: true
 
 ---
 For our new rotating exhibition, [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), the Map Center hired and worked with three high school students from Boston Public Schools as teen curators. We asked them to choose a place in the city and explore that site’s history going back to the nineteenth century, using our [urban atlas collection](https://collections.leventhalmap.org/search?utf8=%E2%9C%93&q=urban+atlas&search_field=all_fields) to kick off their research. We wanted them to consider how things change and how the present came to be the way it is today. Below, we've excerpted from their written research.
