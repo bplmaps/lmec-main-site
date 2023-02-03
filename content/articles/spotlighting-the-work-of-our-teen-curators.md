@@ -1,5 +1,5 @@
 ---
-date: 2023-02-01T07:00:05.000-05:00
+date: 2023-02-04T09:00:05-05:00
 title: Spotlighting the work of our teen curators
 description: 'For our new rotating exhibition, Building Blocks: Boston Stories from
   Urban Atlases, the Map Center hired and worked with three high school students from
@@ -69,7 +69,7 @@ When I looked at the [maps of the area](https://atlascope.org/#/view:share$mode:
 
 The story of the Pierce family starts with John F. Pierce, who built {{< popup src="/uploads/2023-01-30/screen-shot-2023-01-30-at-4-01-20-pm.png"  target="blank" >}} two houses{{</popup>}}  between 1818 and 1831 along the southeast slope of Mount Ida, the same hill on Adams Street that shapes Ronan Park. In 1846, his son, Charles Bates Pierce, married a woman named Mary Lyman Emery; they had two children, Elizabeth (b. 1847) and Charles Jr. (b. 1851).
 
-In 1857, Charles Sr. died of typhoid, and he didn’t leave a will. Mary sold Charles’s properties and was listed in the 1860 Census as head of household with $7,000 in property and real estate. She was never actually able to access any proceeds from the estate, however. Instead, she had to petition for an allowance and was [awarded only $355](https://docs.google.com/document/d/1aqBaXolxmiYfEvUDt2bqF6M3p7lvxFelPg9KC4QEZJ8/edit), forcing her and the children to live in a boarding house south of Fields Corner with twenty other people. When Mary’s father-in-law John F. Pierce died in 1871, his estate was split between various family members, including Mary’s son Charles Jr. and her daughter Elizabeth. Eventually, Mary managed [to](https://atlascope.org/#/view:share$mode:glass$center:-71.06154,42.30354$zoom:18.23$base:maptiler-streets$overlay:ark:/76611/al7ruem0k) {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rt66n/4884,3432,644,327/1200,/0/default.jpg"  target="blank" >}} purchase{{</popup>}}  the 151 Adams Street property from her son and other heirs.
+In 1857, Charles Sr. died of typhoid, and he didn’t leave a will. Mary sold Charles’s properties and was listed in the 1860 Census as head of household with $7,000 in property and real estate. She was never actually able to access any proceeds from the estate, however. Instead, she had to petition for an allowance and was [awarded only $355](https://docs.google.com/document/d/1aqBaXolxmiYfEvUDt2bqF6M3p7lvxFelPg9KC4QEZJ8/edit), forcing her and the children to live in a boarding house south of Fields Corner with twenty other people. When Mary’s father-in-law John F. Pierce died in 1871, his estate was split between various family members, including Mary’s son Charles Jr. and her daughter Elizabeth. Eventually, Mary managed to {{< popup src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rt66n/4884,3432,644,327/1200,/0/default.jpg"  target="blank" >}} purchase{{</popup>}}  the 151 Adams Street property from her son and other heirs.
 
 **Interpretations: The Complexity of Family**
 
