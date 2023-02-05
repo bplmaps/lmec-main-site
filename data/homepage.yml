@@ -47,6 +47,10 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Emergency closure
+    text: Due to a facility emergency, the Central Library in Copley Square will be
+      closed to all visitors on Sunday, February 5
+    link: https://www.bpl.org
   - badge: 'Currently showing '
     text: 'Building Blocks: Boston Stories from Urban Atlases and Becoming Boston:
       Eight Moments in the Geography of a Changing City'
@@ -145,7 +149,7 @@ funfacts:
 blog:
   enable: true
   title: Articles
-todaysHours: true
+todaysHours: false
 upcomingLivestream:
   enable: false
   embedLink: <iframe width="560" height="315" src="https://www.youtube.com/embed/cEVtWRd0vuI"
