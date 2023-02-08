@@ -22,8 +22,6 @@ To illuminate the lives and stories that sometimes run hidden through these maps
 
 **Florida Ruffin Ridley** was born in 1861. She lived with her parents, George and Josephine St. Pierre Ruffin, on Charles Street at the foot of Beacon Hill. Her father was the first African-American to graduate from Harvard Law School and the first Black judge in the United States. Her mother was a well-known activist, writer, and organizer for suffrage and against racial injustice. Florida’s childhood was one of privilege. The family attended the African Methodist Episcopal Church and socialized with many other families in Boston’s elite Black community. 
 
-Florida attended public schools in Boston and later returned to the school district as a teacher. Growing up, she was influenced by the older people in her life who had fought for the abolition of slavery and continued to write letters and articles, give speeches and organize meetings to address the injustices they saw against African Americans and women. When she grew up, she took up much of this work herself. 
-
 _Below, we follow Florida's story and see how her life intersected with many other people and places in Boston and beyond._
 
 #### Growing Up 
