@@ -10,6 +10,12 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65kw
 draft: true
 
 ---
+The maps in our featured exhibition, [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), tell stories that are ultimately about people. You’ll see maps covered with the names of businesses, homeowners, and institutions, all of which show places built, inhabited, maintained, and enjoyed by people. However, the stories of some people are harder to find than others. In the case of Boston’s Black community, the urban atlases don’t always tell us as much as we might want to know. For example, the names of building owners are shown on the maps, but not those of renters. For various reasons, including racism, most Black Bostonians of the time did not own their own homes. However, they lived and worked throughout the city even though we may not see their names.
+
+To illuminate the lives and stories that sometimes run hidden through these maps, we follow the biography of an important Black Bostonian who lived in the time period depicted in _Building Blocks_. She worked, studied, played, and created within the landscapes on display.
+
+{{< figure src="/uploads/2022-12-22/cc_convention.jpeg" caption="" class="figure-right" >}}
+
 #### Meet Florida Ruffin Ridley 
 
 ##### Growing Up 
