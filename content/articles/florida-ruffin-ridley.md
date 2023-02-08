@@ -14,7 +14,7 @@ The maps in our featured exhibition, [_Building Blocks: Boston Stories from Urba
 
 To illuminate the lives and stories that sometimes run hidden through these maps, we follow the biography of an important Black Bostonian who lived in the time period depicted in _Building Blocks_. She worked, studied, played, and created within the landscapes on display.
 
-{{< figure src="/uploads/2022-12-22/cc_convention.jpeg" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2022-12-22/cc_convention.jpeg" caption="Florida Ruffin Ridley is pictured [here](https://blackwomenssuffrage.dp.la/collections/ida-b-wells/ibwells-0009-006) as an officer of the 1895 First National Conference of the Colored Women of America." class="figure-right" >}}
 
 #### Meet Florida Ruffin Ridley 
 
