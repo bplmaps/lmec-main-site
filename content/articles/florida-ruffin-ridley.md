@@ -10,6 +10,8 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65kw
 draft: true
 
 ---
+#### Meet Florida Ruffin Ridley 
+
 ##### Growing Up 
 
 ##### Creating Community 
