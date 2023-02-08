@@ -26,9 +26,9 @@ _Below, we follow Florida's story and see how her life intersected with many oth
 
 #### Growing Up 
 
-Florida was born in 1861 and lived with her parents, George and Josephine St. Pierre Ruffin, on Charles Street at the foot of Beacon Hill. Her father was the first African-American to graduate from Harvard Law School and the first Black judge in the United States. Her mother was a well-known activist, writer, and organizer for suffrage and against racial injustice. Florida’s childhood was one of privilege. The family attended the African Methodist Episcopal Church and socialized with many other families in Boston’s elite Black community. 
+Florida was born in 1861 and lived with her parents, George and Josephine St. Pierre Ruffin, on Charles Street at the foot of Beacon Hill. Her father was the first African-American to graduate from Harvard Law School and the first Black judge in the United States. Her mother was a well-known activist, writer, and organizer for suffrage and against racial injustice. 
 
-Florida grew up on the North side of Boston’s Beacon Hill. Her parents were financially well-to-do and highly educated, and so her early years were not representative of those of all Black children in the city. She attended the Grant School near her home, the same school where she would teach after receiving her credentials from the Boston Teachers College as a young woman. Though Boston schools were integrated, the Black population of the city at the time was around 5%, compared with today’s approximately 20%. As a result, there were proportionally few Black students in classrooms.
+Florida’s childhood was one of privilege. Her parents were financially well-to-do and highly educated, and so her early years were not representative of those of all Black children in the city. She attended the Grant School near her home, the same school where she would teach after receiving her credentials from the Boston Teachers College as a young woman. Though Boston schools were integrated, the Black population of the city at the time was around 5%, compared with today’s approximately 20%. As a result, there were proportionally few Black students in classrooms.
 
 #### Creating Community 
 
