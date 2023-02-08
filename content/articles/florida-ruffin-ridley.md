@@ -16,7 +16,7 @@ The stories of some people, however, are harder to find than others. In the case
 
 ### Meet Florida Ruffin Ridley 
 
-{{< figure src="/uploads/2023-02-08/cc_convention.jpeg" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2023-02-08/cc_convention.jpeg" caption="Florida is pictured as an officer of the 1895 National Conference of the Colored Women of America." class="figure-right" >}}
 
 To illuminate the lives and stories that sometimes run hidden through these maps, we follow the biography of an important Black Bostonian who lived in the time period depicted in _Building Blocks_. She worked, studied, played, and created within the landscapes on display.
 
