@@ -2,8 +2,8 @@
 date: 2023-02-15T15:28:14.000-05:00
 title: Florida Ruffin Ridley
 description: 'Meet Florida Ruffin Ridley, an important Black Bostonian who worked,
-  studied, played, and created within the landscapes on display in our current featured
-  exhibition, Building Blocks: Boston Stories from Urban Atlases. '
+  studied, played, and created within the landscapes on display in our featured exhibition,
+  Building Blocks: Boston Stories from Urban Atlases. '
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65kw322/54,245,3560,3002/2000,/0/default.jpg
 author: LMEC Staff
 tags:
