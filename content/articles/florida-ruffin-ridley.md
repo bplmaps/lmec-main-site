@@ -16,7 +16,7 @@ The stories of some people, however, are harder to find than others. In the case
 
 ### Meet Florida Ruffin Ridley 
 
-{{< figure src="/uploads/2023-02-08/cc_convention.jpeg" caption="Florida is pictured [here](https://www.lib.uchicago.edu/ead/pdf/ibwells-0009-006.pdf) as an officer of the 1895 National Conference of the Colored Women of America." class="figure-right" >}}
+{{< figure src="/uploads/2023-02-08/cc_convention.jpeg" caption="Florida was an officer of the [First 1895 National Conference of the Colored Women of America](https://www.lib.uchicago.edu/ead/pdf/ibwells-0009-006.pdf) of 1895." class="figure-right" >}}
 
 To illuminate the lives and stories that sometimes run hidden through these maps, we follow the biography of an important Black Bostonian, **Florida Ruffin Ridley**, who worked, studied, played, and created within the landscapes on display.
 
