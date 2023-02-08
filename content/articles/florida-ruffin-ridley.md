@@ -16,11 +16,11 @@ The stories of some people, however, are harder to find than others. In the case
 
 ### Meet Florida Ruffin Ridley 
 
-{{< figure src="/uploads/2023-02-08/cc_convention.jpeg" caption="Florida is pictured as an officer of the 1895 National Conference of the Colored Women of America." class="figure-right" >}}
+{{< figure src="/uploads/2023-02-08/cc_convention.jpeg" caption="Florida is pictured [here](https://www.lib.uchicago.edu/ead/pdf/ibwells-0009-006.pdf) as an officer of the 1895 National Conference of the Colored Women of America." class="figure-right" >}}
 
-To illuminate the lives and stories that sometimes run hidden through these maps, we follow the biography of an important Black Bostonian who lived in the time period depicted in _Building Blocks_. She worked, studied, played, and created within the landscapes on display.
+To illuminate the lives and stories that sometimes run hidden through these maps, we follow the biography of an important Black Bostonian, **Florida Ruffin Ridley**, who worked, studied, played, and created within the landscapes on display.
 
-**Florida Ruffin Ridley** was born in 1861. She lived with her parents, George and Josephine St. Pierre Ruffin, on Charles Street at the foot of Beacon Hill. Her father was the first African-American to graduate from Harvard Law School and the first Black judge in the United States. Her mother was a well-known activist, writer, and organizer for suffrage and against racial injustice. Florida’s childhood was one of privilege. The family attended the African Methodist Episcopal Church and socialized with many other families in Boston’s elite Black community. 
+Florida was born in 1861 and lived with her parents, George and Josephine St. Pierre Ruffin, on Charles Street at the foot of Beacon Hill. Her father was the first African-American to graduate from Harvard Law School and the first Black judge in the United States. Her mother was a well-known activist, writer, and organizer for suffrage and against racial injustice. Florida’s childhood was one of privilege. The family attended the African Methodist Episcopal Church and socialized with many other families in Boston’s elite Black community. 
 
 _Below, we follow Florida's story and see how her life intersected with many other people and places in Boston and beyond._
 
