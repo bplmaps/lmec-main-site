@@ -18,11 +18,9 @@ To illuminate the lives and stories that sometimes run hidden through these maps
 
 ### Meet Florida Ruffin Ridley 
 
-Florida Ruffin Ridley was born in 1861. She lived with her parents, George and Josephine St. Pierre Ruffin, on Charles Street at the foot of Beacon Hill. Her father was the first African-American to graduate from Harvard Law School and the first Black judge in the United States. Her mother was a well-known activist, writer, and organizer for suffrage and against racial injustice. Florida’s childhood was one of privilege. The family attended the African Methodist Episcopal Church and socialized with many other families in Boston’s elite Black community.
+Florida Ruffin Ridley was born in 1861. She lived with her parents, George and Josephine St. Pierre Ruffin, on Charles Street at the foot of Beacon Hill. Her father was the first African-American to graduate from Harvard Law School and the first Black judge in the United States. Her mother was a well-known activist, writer, and organizer for suffrage and against racial injustice. Florida’s childhood was one of privilege. The family attended the African Methodist Episcopal Church and socialized with many other families in Boston’s elite Black community. Florida attended public schools in Boston and later returned to the school district as a teacher. Growing up, she was influenced by the older people in her life who had fought for the abolition of slavery and continued to write letters and articles, give speeches and organize meetings to address the injustices they saw against African Americans and women. When she grew up, she took up much of this work herself. 
 
-Florida attended public schools in Boston and later returned to the school district as a teacher. Growing up, she was influenced by the older people in her life who had fought for the abolition of slavery and continued to write letters and articles, give speeches and organize meetings to address the injustices they saw against African Americans and women. When she grew up, she took up much of this work herself. 
-
-We follow Florida's story and see how her life intersected with many other people and places in Boston and beyond.
+**Below, we follow Florida's story and see how her life intersected with many other people and places in Boston and beyond.**
 
 #### Growing Up 
 
@@ -52,9 +50,9 @@ As part of her leadership for the League of Women for Community Service, Florida
 
 As a young child, and then as a mother with children of her own, Florida might have participated in a May Day celebration like this one (pictured) organized by many of the women she knew and advertised in the Women’s Era magazine in 1895.
 
-The **Harriet Tubman House** in the South End (shown here), a settlement house founded by six Black women to provide housing for recently arrived southern Black women, hosted a series of “Musicales” organized by Florida and the League of Women for Community Service in 1919.
+The **Harriet Tubman House** in the South End, a settlement house founded by six Black women to provide housing for recently arrived southern Black women, hosted a series of “Musicales” organized by Florida and the League of Women for Community Service in 1919.
 
-##### Making and Trading
+#### Making and Trading
 
 As members of the Black upper class, Florida’s family had access to education, money and the means to make a living. Florida’s father was the first Black judge in the United States. Florida herself trained as a teacher and worked in the Boston Public Schools in the 1880s. She married Ulysses A. Ridley, a successful merchant tailor.
 
