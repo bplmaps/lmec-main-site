@@ -30,11 +30,21 @@ Florida grew up on the North side of Boston’s Beacon Hill. Her parents were fi
 
 #### Creating Community 
 
-Florida is probably best known for her participation in the Black women’s club movement. As a founding member of the **Women’s Era Club**, a Boston-based club started in 1894 by her mother, and later a member of the National Association of Colored Women’s Clubs (NACWC), Florida wrote and organized around issues of the day—from promoting the arts to women’s suffrage. The club movement created a national community of women committed to promoting the well-being of Black people, with a particular emphasis on Black women. The motto of the NACWC was “[Lifting as We Climb](https://bostonpubliclibrary.sharepoint.com/:i:/s/LeventhalMap/EYzgCndxYEJDl57GnE4FxSQBBJOrNo5JpueoDu_6-tBdcQ?e=5v6g4A)” to convey its dedication to racial uplift.
+Florida is probably best known for her participation in the Black women’s club movement. As a founding member of the **Women’s Era Club**, a Boston-based club started in 1894 by her mother, and later a member of the **National Association of Colored Women’s Clubs** **(NACWC)**, Florida wrote and organized around issues of the day—from promoting the arts to women’s suffrage. The club movement created a national community of women committed to promoting the well-being of Black people, with a particular emphasis on Black women. The motto of the NACWC was “[Lifting as We Climb](https://bostonpubliclibrary.sharepoint.com/:i:/s/LeventhalMap/EYzgCndxYEJDl57GnE4FxSQBBJOrNo5JpueoDu_6-tBdcQ?e=5v6g4A)” to convey its dedication to racial uplift.
 
 > _Women’s clubs are helping to bring us to a recognition of the truth that true dignity does not need barriers in order to preserve itself; that snobbishness is a vice, and that while friendship should be bound by congeniality, neighborliness should know no bounds. The club means the spirit of neighborliness with the world, the recognition of our duty toward our neighbor, and not only of our common humanity but our common divinity; the club helps us not only to make the best of that within us but to see the best of that in others. —_ Florida Ruffin Ridley, Women’s Era, Oct-Nov, 1896
 
 In 1895, Florida and her mother were principal organizers of the first national convention of Black women’s clubs. The convention was held in Boston in Berkeley Hall, also known as the Odd Fellows Hall. Women from 14 states gathered to form a national organization. They created committees to address issues such as lynching, convict leasing, segregation and temperance. They listened to speeches from national activists, Black and white, such as Booker T. Washington and William Lloyd Garrison, Jr. The convention then moved to the Charles Street Church to finish their organizing, just a block from the Ruffin home.
+
+#### Taking Care
+
+In 1918, Florida, her mother, and Maria Louisa Baldwin founded the **League of Women for Community Service**, and soon after purchased a building at [558 Massachusetts Avenue in the South End](https://bostonpubliclibrary.sharepoint.com/:i:/s/LeventhalMap/ESzmrhiCBdFKl4-9sTJl7s0BhbYYX2e8ebii_2MgnrQ6rQ?e=3nKVt3). Initially intended to support Black soldiers during World War I, the League went on to fill many civic roles, including housing Black female students attending Boston’s universities. While attending the New England Conservatory, Coretta Scott lived in the building when dating Martin Luther King.
+
+Organized charity work was a foundational focus of Black women’s clubs. These relatively well-educated and affluent Black women actively engaged the fight against the struggles facing Black Americans and felt it was their responsibility to use their advantages to care for others. Florida wrote in the _Women’s Era_ about hosting a hospital fair followed by a _“_special effort for St. Monica’s Home, for sick and destitute colored women and children” whose “receipts were more than sufficient to supply the Home with all of its fuel for the year.”
+
+The clubs also expressed care for the community by denouncing and organizing against the violence and racism that Black Americans faced. [Ida B. Wells](https://bostonpubliclibrary.sharepoint.com/:i:/s/LeventhalMap/EYLDKDV3RYFMvGnmS16o8XsBipL6Bdl3JEliB64F5W8m6g?e=SrqeGD), who worked alongside Florida and her mother in founding the National Association of Colored Women’s Clubs, was a powerful anti-lynching advocate. In this open letter responding to British reformer Laura Ormiston Chant’s opposition to a Unitarian church resolution denouncing lynching, Florida uses her voice to speak out against racist terrorism:
+
+> _In the interest of common humanity, in the interest of justice, for the good name of our country, we solemnly raise our voice against the horrible crimes of lynch law as practiced in the south, and we call upon Christians everywhere to do the same or be branded as sympathizers with the murderers. —_ Florida Ruffin Ridley, Women’s Era, June 1894)
 
 #### Having Fun
 
@@ -42,17 +52,7 @@ As part of her leadership for the League of Women for Community Service, Florida
 
 As a young child, and then as a mother with children of her own, Florida might have participated in a May Day celebration like this one (pictured) organized by many of the women she knew and advertised in the Women’s Era magazine in 1895.
 
-The Harriet Tubman House in the South End (shown here), a settlement house founded by six Black women to provide housing for recently arrived southern Black women, hosted a series of “Musicales” organized by Florida and the League of Women for Community Service in 1919.
-
-#### Taking Care
-
-In 1918, Florida, her mother, and Maria Louisa Baldwin founded the [League of Women for Community Service](https://bostonpubliclibrary.sharepoint.com/:i:/s/LeventhalMap/EZGEYFW0IDtOpFV5xtAXoxYBN7sjkA60txj5g3uAceJslA?e=4eV3Kc), and soon after purchased a building at [558 Massachusetts Avenue in the South End](https://bostonpubliclibrary.sharepoint.com/:i:/s/LeventhalMap/ESzmrhiCBdFKl4-9sTJl7s0BhbYYX2e8ebii_2MgnrQ6rQ?e=3nKVt3). Initially intended to support Black soldiers during World War I, the League went on to fill many civic roles, including housing Black female students attending Boston’s universities. While attending the New England Conservatory, Coretta Scott lived in the building when dating Martin Luther King.
-
-Organized charity work was a foundational focus of Black women’s clubs. These relatively well-educated and affluent Black women actively engaged the fight against the struggles facing Black Americans and felt it was their responsibility to use their advantages to care for others. Florida wrote in the _Women’s Era_ about hosting a hospital fair followed by a _“_special effort for St. Monica’s Home, for sick and destitute colored women and children” whose “receipts were more than sufficient to supply the Home with all of its fuel for the year.”
-
-The clubs also expressed care for the community by denouncing and organizing against the violence and racism that Black Americans faced. [Ida B. Wells](https://bostonpubliclibrary.sharepoint.com/:i:/s/LeventhalMap/EYLDKDV3RYFMvGnmS16o8XsBipL6Bdl3JEliB64F5W8m6g?e=SrqeGD), who worked alongside Florida and her mother in founding the National Association of Colored Women’s Clubs, was a powerful anti-lynching advocate. In this open letter responding to British reformer Laura Ormiston Chant’s opposition to a Unitarian church resolution denouncing lynching, Florida uses her voice to speak out against racist terrorism:
-
-> _In the interest of common humanity, in the interest of justice, for the good name of our country, we solemnly raise our voice against the horrible crimes of lynch law as practiced in the south, and we call upon Christians everywhere to do the same or be branded as sympathizers with the murderers. —_ Florida Ruffin Ridley, Women’s Era, June 1894)
+The **Harriet Tubman House** in the South End (shown here), a settlement house founded by six Black women to provide housing for recently arrived southern Black women, hosted a series of “Musicales” organized by Florida and the League of Women for Community Service in 1919.
 
 ##### Making and Trading
 
