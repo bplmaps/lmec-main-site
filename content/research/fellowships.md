@@ -13,7 +13,7 @@ aliases:
 
 ## NERFC Research Fellowships
 
-<span class="badge bg-success font-secondary fw-normal">Open through February 1, 2023</span>
+<span class="badge bg-danger font-secondary fw-normal">Applications closed for 2023</span>
 
 We are a participating institution in the New England Regional Fellowship Consortium. The NERFC fellowship offers a $5,000 stipend for historians who wish to work in at least three institutions represented in the consortium.
 
