@@ -16,3 +16,5 @@ tags:
 ### About this event
 
 Join Sharon Hessney, host of "[What's Going on in This Graph](https://www.nytimes.com/column/whats-going-on-in-this-graph)," a free weekly online feature from the New York Times Learning Network, and Michelle LeBlanc, Director of Education at the Leventhal Map & Education Center for this interactive session focused on thinking critically about maps, graphs and charts. Learn about this weekly online feature that exposes students to math and statistics in a real-world context by having them share their noticings and wonderings about different visualizations of issues in the news.
+
+This event is part of **Massachusetts Civic Learning Week 2023**. To find more events, please visit [https://www.macivicsforall.org/events-mclc](https://www.macivicsforall.org/events-mclc "https://www.macivicsforall.org/events-mclc"). 
