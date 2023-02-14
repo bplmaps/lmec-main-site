@@ -37,9 +37,9 @@ Maps, by definition, are about space. Data can be superimposed on a map by showi
 
 **ML: What advice do you have for educators who want to integrate more data visualizations, including maps, into their classrooms?**
 
-SH: I have four learning objectives for students when I use graphs:
-
 {{< figure src="/uploads/2023-02-14/cheese-graph-full.png" caption="What do you notice and wonder about the cheddar cheese in [this graph](https://www.nytimes.com/2017/10/09/learning/whats-going-on-in-this-graph-oct-10-2017.html)?" class="figure-right" >}}
+
+SH: I have four learning objectives for students when I use graphs:
 
 * Learn to read “the story” in the graph. Sometimes the story that the graph tells is not even highlighted in the article. 
 * Learn about the world around them.
@@ -50,13 +50,13 @@ SH: I have four learning objectives for students when I use graphs:
 
 SH: Here are two “What’s Going On in This Graph?” releases with maps:  
 
-* **A choropleth map of** [**global climate risks**](https://www.nytimes.com/2021/03/25/learning/whats-going-on-in-this-graph-global-climate-risks.html)
+**A choropleth map of** [**global climate risks**](https://www.nytimes.com/2021/03/25/learning/whats-going-on-in-this-graph-global-climate-risks.html)
 
-![](/uploads/2023-02-14/global-climate-risks.png)
+{{< figure src="/uploads/2023-02-14/global-climate-risks.png" caption="" class="figure-right" >}}{{< figure src="" caption="" class="figure-right" >}}
 
 There is much to notice and wonder about the location and size of the regions of climate risk. Note that the “top” climate risk is shown. Any region can have more than one significant climate risk. Recognize the climate risks for regions of greatest population density and regions with greatest risks and least resources to address risks and their effect.
 
-* **A bubble map of** [**military spending by country**](https://www.nytimes.com/2019/02/07/learning/whats-going-on-in-this-graph-feb-13-2019.html)
+**A bubble map of** [**military spending by country**](https://www.nytimes.com/2019/02/07/learning/whats-going-on-in-this-graph-feb-13-2019.html)
 
 ![](/uploads/2023-02-14/military-spending.webp)
 
