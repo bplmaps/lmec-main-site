@@ -19,22 +19,21 @@ Michelle LeBlanc, K-12 Director of Education for the Map Center, took the opport
 
 “[What’s Going on in This Graph?](https://www.nytimes.com/column/whats-going-on-in-this-graph)” is a free, weekly online feature where students are invited to share what they notice and wonder about different graphs, maps and charts previously published in The New York Times. On Wednesdays, there is a live moderated discussion with math teachers and students from around the world. By Friday, a free link to the article that included the graph and additional resources is revealed. Many teachers use this feature as either a “bell-ringer” at the start of class each week or to teach an entire class period. The feature is not only used in math classes but also in science and humanities classes where students are learning how to present claims and supporting evidence. All students from all backgrounds can participate as they are asked “_What do you notice?” and “What do you wonder?”_ about the graphs_._ Understanding of the maps and graphs and the topic grow as students bounce their insights off each other.
 
-  
-**What was the inspiration for “What’s Going On in This Graph?”**
+_The text of this interview has been lightly edited for clarity._
 
-“I liked reading newspapers, rather than books, when I was young. For twenty years when teaching, I would share newspaper graphs with my students. In The New York Times Learning Network, I saw that there were humanities-focused features, such as “What’s Going On in This Picture?” and I wanted to do something like it for math. When the American Statistical Association became involved with The New York Times, I suggested we could do what I had been doing with graphs in my classroom. Now having some of the best newspaper graphs and maps for students to discuss is available to anyone online.”
+**ML: What was the inspiration for “What’s Going On in This Graph?”**
 
-  
-**Why are graphs and maps great teaching tools?**
+SH: I liked reading newspapers, rather than books, when I was young. For twenty years when teaching, I would share newspaper graphs with my students. In The New York Times Learning Network, I saw that there were humanities-focused features, such as “What’s Going On in This Picture?” and I wanted to do something like it for math. When the American Statistical Association became involved with The New York Times, I suggested we could do what I had been doing with graphs in my classroom. Now having some of the best newspaper graphs and maps for students to discuss is available to anyone online.
 
-Graphs use data and space to display “stories.” Lists of students and their grades are just data in a chart. If I were, for example, to categorize the grades by course or class period and displayed this in a segmented bar graph, showing the relative size of each of the groups, that could be a graph since the bar segments lengths show the space.
+**ML: Why are graphs and maps great teaching tools?**
+
+SH: Graphs use data and space to display “stories.” Lists of students and their grades are just data in a chart. If I were, for example, to categorize the grades by course or class period and displayed this in a segmented bar graph, showing the relative size of each of the groups, that could be a graph since the bar segments lengths show the space.
 
 Maps, by definition, are about space. Data can be superimposed on a map by showing data values with different colors. (This is called a choropleth map.) By observing where the colors change, you can absorb the data faster than if you tried to read a table of numbers or even numbers on a map. Bubble maps (maps with filled-in circles superimposed) are particularly effective in conveying at least three variables by their location, size and color.
 
-  
-**What advice do you have for educators who want to integrate more data visualizations, including maps, into their classrooms?**
+**ML: What advice do you have for educators who want to integrate more data visualizations, including maps, into their classrooms?**
 
-I have four learning objectives for students when I use graphs:
+SH: I have four learning objectives for students when I use graphs:
 
 {{< figure src="/uploads/2023-02-14/cheese-graph-full.png" caption="" class="figure-right" >}}
 
@@ -43,9 +42,9 @@ I have four learning objectives for students when I use graphs:
 3. Learn to notice and wonder. Often, students think that math tells them what to do. But, mathematicians will say that the way they approach problems is to see if they notice something in the problem that looks like what they have seen before. With this entry, they wonder how this problem is different and how they could solve it. Teachers have told me that noticing and wondering has migrated to other parts of their curriculum and to other subjects in their school.
 4. Learn to be skeptical, but not cynical about graphs and statistics.
 
-**What are a few maps in the series you’d like to show us?**
+**ML: What are a few maps in the series you’d like to show us?**
 
-Here are two “What’s Going On in This Graph?” releases with maps. (The archive of the 147 released New York Times graphs is on the [“What’s Going On in This Graph?” website](https://www.nytimes.com/column/whats-going-on-in-this-graph).) Click on the graph title to see the entire release and follow up reveal, which includes the free link to the New York Times article that included the graph, additional questions and Stat Nuggets – concise definitions of statistical and math terms from the graph and an explanation of how they are used in the graph.
+SH: Here are two “What’s Going On in This Graph?” releases with maps. (The archive of the 147 released New York Times graphs is on the [“What’s Going On in This Graph?” website](https://www.nytimes.com/column/whats-going-on-in-this-graph).) Click on the graph title to see the entire release and follow up reveal, which includes the free link to the New York Times article that included the graph, additional questions and Stat Nuggets – concise definitions of statistical and math terms from the graph and an explanation of how they are used in the graph.
 
 [Global climate risks](https://www.nytimes.com/2021/03/25/learning/whats-going-on-in-this-graph-global-climate-risks.html) (choropleth map)
 
