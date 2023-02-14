@@ -35,11 +35,11 @@ Maps, by definition, are about space. Data can be superimposed on a map by showi
 
 **ML: What advice do you have for educators who want to integrate more data visualizations, including maps, into their classrooms?**
 
+{{< figure src="/uploads/2023-02-14/cheese-graph-full.png" caption="What do you notice and wonder about the cheddar cheese in [this graph](https://www.nytimes.com/2017/10/09/learning/whats-going-on-in-this-graph-oct-10-2017.html)?" class="figure-right" >}}
+
 SH: I have four learning objectives for students when I use graphs:
 
-{{< figure src="/uploads/2023-02-14/cheese-graph-full.png" caption="" class="figure-right" >}}
-
-1. Learn to read “the story” in the graph. Sometimes the story that the graph tells is not even highlighted in the article. For example, what do you notice and wonder about the cheddar cheese in [this graph](https://www.nytimes.com/2017/10/09/learning/whats-going-on-in-this-graph-oct-10-2017.html)?
+1. Learn to read “the story” in the graph. Sometimes the story that the graph tells is not even highlighted in the article. 
 2. Learn about the world around them.
 3. Learn to notice and wonder. Often, students think that math tells them what to do. But, mathematicians will say that the way they approach problems is to see if they notice something in the problem that looks like what they have seen before. With this entry, they wonder how this problem is different and how they could solve it. Teachers have told me that noticing and wondering has migrated to other parts of their curriculum and to other subjects in their school.
 4. Learn to be skeptical, but not cynical about graphs and statistics.
@@ -55,3 +55,5 @@ There is much to notice and wonder about the location and size of the regions of
 [Military spending by country](https://www.nytimes.com/2019/02/07/learning/whats-going-on-in-this-graph-feb-13-2019.html) (bubble map)
 
 There is much to notice and wonder about the amount of military spending and the amount of military spending per capita. Examine broad regions of the world that have the most spending. What surprises you from this bubble map? Notice and wonder about the nine additional graphs from the [article](https://www.nytimes.com/interactive/2017/03/22/us/is-americas-military-big-enough.html).
+
+> **_Link to March 7 event_** 
