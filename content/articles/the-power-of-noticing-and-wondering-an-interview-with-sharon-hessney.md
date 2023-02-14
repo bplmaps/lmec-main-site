@@ -27,7 +27,7 @@ _The text of this interview has been lightly edited for clarity._
 
 ##### What was the inspiration for “What’s Going On in This Graph?”
 
-I liked reading newspapers, rather than books, when I was young. For twenty years when teaching, I would share newspaper graphs with my students. In The New York Times Learning Network, I saw that there were humanities-focused features, such as “[What’s Going On in This Picture?](https://www.nytimes.com/column/learning-whats-going-on-in-this-picture)” and I wanted to do something like it for math. When the American Statistical Association became involved with The New York Times, I suggested we could do what I had been doing with graphs in my classroom. Now having some of the best newspaper graphs and maps for students to discuss is available to anyone online.
+I liked reading newspapers, rather than books, when I was young. For twenty years when teaching, I would share newspaper graphs with my students. In The New York Times Learning Network, I saw that there were humanities-focused features, such as “[What’s Going On in This Picture?](https://www.nytimes.com/column/learning-whats-going-on-in-this-picture)” and I wanted to do something like it for math. When the American Statistical Association became involved with The New York Times, I suggested we could do what I had been doing with graphs in my classroom. Now, having some of the best newspaper graphs and maps for students to discuss is available to anyone online.
 
 ##### Why are graphs and maps great teaching tools?
 
