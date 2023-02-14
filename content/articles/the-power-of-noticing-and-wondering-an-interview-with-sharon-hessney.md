@@ -17,7 +17,7 @@ draft: true
 
 Sharon Hessney is an award-winning math teacher from Boston Public Schools and the “curator,” writer and moderator for The New York Times Learning Network’s “[What’s Going On in This Graph?](https://www.nytimes.com/column/whats-going-on-in-this-graph)” This free, weekly online feature has been published for six years and has had more than 50,000 online student responses. Sharon has worked with the Leventhal Map Center K-12 education team to develop several [high school statistics lessons](https://collections.leventhalmap.org/map-sets/297) that used maps and graphs from the 2017 Map Center exhibition [Who We Are: Boston Immigration Then and Now](https://collections.leventhalmap.org/exhibits/19).
 
-{{< figure src="/uploads/2023-02-14/microsoftteams-image-32.png" caption="Sharon Hessney with [Boston neighborhoods: Top 10 Countries of Birth for Foreign-Born Population](https://collections.leventhalmap.org/search/commonwealth:h989r707c)." class="figure-right" >}}
+{{< figure src="/uploads/2023-02-14/microsoftteams-image-32.png" caption="Sharon Hessney with [Boston Neighborhoods: Top 10 Countries of Birth for Foreign-Born Population](https://collections.leventhalmap.org/search/commonwealth:h989r707c)." class="figure-right" >}}
 
 “[What’s Going on in This Graph?](https://www.nytimes.com/column/whats-going-on-in-this-graph)” is a free, weekly online feature where students are invited to share what they notice and wonder about different graphs, maps and charts previously published in The New York Times. On Wednesdays, there is a live moderated discussion with math teachers and students from around the world. By Friday, a free link to the article that included the graph and additional resources is revealed. Many teachers use this feature as either a “bell-ringer” at the start of class each week or to teach an entire class period. The feature is not only used in math classes but also in science and humanities classes where students are learning how to present claims and supporting evidence. All students from all backgrounds can participate as they are asked “_What do you notice?_” and “_What do you wonder?_” about the graphs. Understanding of the maps and graphs and the topic grow as students bounce their insights off each other.
 
@@ -37,9 +37,9 @@ Maps, by definition, are about space. Data can be superimposed on a map by showi
 
 ##### What advice do you have for educators who want to integrate more data visualizations, including maps, into their classrooms?
 
-{{< figure src="/uploads/2023-02-14/cheese-graph-full.png" caption="What do you notice and wonder about the cheddar cheese in [this graph](https://www.nytimes.com/2017/10/09/learning/whats-going-on-in-this-graph-oct-10-2017.html)?" class="figure-right" >}}
-
 I have four learning objectives for students when I use graphs:
+
+{{< figure src="/uploads/2023-02-14/cheese-graph-full.png" caption="What do you notice and wonder about the cheddar cheese in [this graph](https://www.nytimes.com/2017/10/09/learning/whats-going-on-in-this-graph-oct-10-2017.html)?" class="figure-right" >}}
 
 * Learn to read “the story” in the graph. Sometimes the story that the graph tells is not even highlighted in the article. 
 * Learn about the world around them.
