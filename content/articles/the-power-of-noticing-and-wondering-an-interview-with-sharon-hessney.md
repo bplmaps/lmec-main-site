@@ -52,9 +52,13 @@ SH: Here are two “What’s Going On in This Graph?” releases with maps. (The
 
 [Global climate risks](https://www.nytimes.com/2021/03/25/learning/whats-going-on-in-this-graph-global-climate-risks.html) (choropleth map)
 
+![](/uploads/2023-02-14/global-climate-risks.png)
+
 There is much to notice and wonder about the location and size of the regions of climate risk. Note that the “top” climate risk is shown. Any region can have more than one significant climate risk. Recognize the climate risks for regions of greatest population density and regions with greatest risks and least resources to address risks and their effect.
 
 [Military spending by country](https://www.nytimes.com/2019/02/07/learning/whats-going-on-in-this-graph-feb-13-2019.html) (bubble map)
+
+![](/uploads/2023-02-14/military-spending.webp)
 
 There is much to notice and wonder about the amount of military spending and the amount of military spending per capita. Examine broad regions of the world that have the most spending. What surprises you from this bubble map? Notice and wonder about the nine additional graphs from the [article](https://www.nytimes.com/interactive/2017/03/22/us/is-americas-military-big-enough.html).
 
