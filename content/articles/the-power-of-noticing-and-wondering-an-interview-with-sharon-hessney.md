@@ -11,7 +11,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r7
 draft: true
 
 ---
-> As part of this year's [Massachusetts Civic Learning Week](https://www.macivicsforall.org/events-mclc), the Leventhal Map Center will co-present a virtual session called “[What’s Going On In This Graph?”: Maps and Data for Civic Literacy](https://www.eventbrite.com/e/whats-going-on-in-this-graph-map-data-literacy-for-civic-engagement-tickets-541759556417) with Sharon Hessney on **March 7 at 3:30PM**.
+> As part of this year's [Massachusetts Civic Learning Week](https://www.macivicsforall.org/events-mclc), the Leventhal Map Center will co-present a virtual session called [“What’s Going On In This Graph?”: Maps and Data for Civic Literacy](https://www.eventbrite.com/e/whats-going-on-in-this-graph-map-data-literacy-for-civic-engagement-tickets-541759556417) with Sharon Hessney on **March 7 at 3:30PM**.
 
 #### Meet Sharon Hessney
 
@@ -27,7 +27,7 @@ _The text of this interview has been lightly edited for clarity._
 
 **ML: What was the inspiration for “What’s Going On in This Graph?”**
 
-SH: I liked reading newspapers, rather than books, when I was young. For twenty years when teaching, I would share newspaper graphs with my students. In The New York Times Learning Network, I saw that there were humanities-focused features, such as “What’s Going On in This Picture?” and I wanted to do something like it for math. When the American Statistical Association became involved with The New York Times, I suggested we could do what I had been doing with graphs in my classroom. Now having some of the best newspaper graphs and maps for students to discuss is available to anyone online.
+SH: I liked reading newspapers, rather than books, when I was young. For twenty years when teaching, I would share newspaper graphs with my students. In The New York Times Learning Network, I saw that there were humanities-focused features, such as “[What’s Going On in This Picture?](https://www.nytimes.com/column/learning-whats-going-on-in-this-picture)” and I wanted to do something like it for math. When the American Statistical Association became involved with The New York Times, I suggested we could do what I had been doing with graphs in my classroom. Now having some of the best newspaper graphs and maps for students to discuss is available to anyone online.
 
 **ML: Why are graphs and maps great teaching tools?**
 
@@ -48,7 +48,7 @@ SH: I have four learning objectives for students when I use graphs:
 
 **ML: What are a few maps in the series you’d like to show us?**
 
-SH: Here are two “What’s Going On in This Graph?” releases with maps. (The archive of the 147 released New York Times graphs is on the [“What’s Going On in This Graph?” website](https://www.nytimes.com/column/whats-going-on-in-this-graph).) Click on the graph title to see the entire release and follow up reveal, which includes the free link to the New York Times article that included the graph, additional questions and Stat Nuggets – concise definitions of statistical and math terms from the graph and an explanation of how they are used in the graph.
+SH: Here are two “What’s Going On in This Graph?” releases with maps. (The archive of the 147 released New York Times graphs is on the [“What’s Going On in This Graph?” website](https://www.nytimes.com/column/whats-going-on-in-this-graph). Click the graph title to see the entire release and follow up reveal, which includes the free link to the New York Times article that included the graph, additional questions and Stat Nuggets, concise definitions of statistical and math terms from the graph and an explanation of how they are used.)
 
 [Global climate risks](https://www.nytimes.com/2021/03/25/learning/whats-going-on-in-this-graph-global-climate-risks.html) (choropleth map)
 
