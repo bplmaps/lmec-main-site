@@ -64,4 +64,4 @@ There is much to notice and wonder about the amount of military spending and the
 
 The archive of the 147 released New York Times graphs is on the [“What’s Going On in This Graph?” website](https://www.nytimes.com/column/whats-going-on-in-this-graph). Click the graph title to see the entire release and follow up reveal, which includes the free link to the New York Times article that included the graph, additional questions and Stat Nuggets, concise definitions of statistical and math terms from the graph and an explanation of how they are used.
 
-> Register today for [“What’s Going On In This Graph?”: Maps and Data for Civic Literacy](https://www.eventbrite.com/e/whats-going-on-in-this-graph-map-data-literacy-for-civic-engagement-tickets-541759556417) 
+> Curious to learn more? Join us with Sharon on March 7 at 3:30PM for a virtual session on [“What’s Going On In This Graph?”: Maps and Data for Civic Literacy](https://www.eventbrite.com/e/whats-going-on-in-this-graph-map-data-literacy-for-civic-engagement-tickets-541759556417) 
