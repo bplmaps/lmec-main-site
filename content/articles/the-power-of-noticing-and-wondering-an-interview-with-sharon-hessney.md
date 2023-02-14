@@ -48,15 +48,15 @@ SH: I have four learning objectives for students when I use graphs:
 
 **ML: What are a few maps in the series you’d like to show us?**
 
-SH: Here are two “What’s Going On in This Graph?” releases with maps. 
+SH: Here are two “What’s Going On in This Graph?” releases with maps:  
 
-[Global climate risks](https://www.nytimes.com/2021/03/25/learning/whats-going-on-in-this-graph-global-climate-risks.html) (choropleth map)
+**A choropleth map of** [**global climate risks **](https://www.nytimes.com/2021/03/25/learning/whats-going-on-in-this-graph-global-climate-risks.html)
 
 ![](/uploads/2023-02-14/global-climate-risks.png)
 
 There is much to notice and wonder about the location and size of the regions of climate risk. Note that the “top” climate risk is shown. Any region can have more than one significant climate risk. Recognize the climate risks for regions of greatest population density and regions with greatest risks and least resources to address risks and their effect.
 
-[Military spending by country](https://www.nytimes.com/2019/02/07/learning/whats-going-on-in-this-graph-feb-13-2019.html) (bubble map)
+**A bubble map of** [**military spending by country**](https://www.nytimes.com/2019/02/07/learning/whats-going-on-in-this-graph-feb-13-2019.html)
 
 ![](/uploads/2023-02-14/military-spending.webp)
 
