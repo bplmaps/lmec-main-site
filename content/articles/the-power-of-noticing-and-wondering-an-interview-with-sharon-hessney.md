@@ -48,7 +48,7 @@ SH: I have four learning objectives for students when I use graphs:
 
 **ML: What are a few maps in the series you’d like to show us?**
 
-SH: Here are two “What’s Going On in This Graph?” releases with maps. (The archive of the 147 released New York Times graphs is on the [“What’s Going On in This Graph?” website](https://www.nytimes.com/column/whats-going-on-in-this-graph). Click the graph title to see the entire release and follow up reveal, which includes the free link to the New York Times article that included the graph, additional questions and Stat Nuggets, concise definitions of statistical and math terms from the graph and an explanation of how they are used.)
+SH: Here are two “What’s Going On in This Graph?” releases with maps. 
 
 [Global climate risks](https://www.nytimes.com/2021/03/25/learning/whats-going-on-in-this-graph-global-climate-risks.html) (choropleth map)
 
@@ -61,5 +61,7 @@ There is much to notice and wonder about the location and size of the regions of
 ![](/uploads/2023-02-14/military-spending.webp)
 
 There is much to notice and wonder about the amount of military spending and the amount of military spending per capita. Examine broad regions of the world that have the most spending. What surprises you from this bubble map? Notice and wonder about the nine additional graphs from the [article](https://www.nytimes.com/interactive/2017/03/22/us/is-americas-military-big-enough.html).
+
+The archive of the 147 released New York Times graphs is on the [“What’s Going On in This Graph?” website](https://www.nytimes.com/column/whats-going-on-in-this-graph). Click the graph title to see the entire release and follow up reveal, which includes the free link to the New York Times article that included the graph, additional questions and Stat Nuggets, concise definitions of statistical and math terms from the graph and an explanation of how they are used.
 
 > **_Link to March 7 event_** 
