@@ -25,9 +25,9 @@ Sharon Hessney is an award-winning math teacher from Boston Public Schools and t
 
 _The text of this interview has been lightly edited for clarity._
 
-**ML: What was the inspiration for “What’s Going On in This Graph?”**
+##### What was the inspiration for “What’s Going On in This Graph?”
 
-SH: I liked reading newspapers, rather than books, when I was young. For twenty years when teaching, I would share newspaper graphs with my students. In The New York Times Learning Network, I saw that there were humanities-focused features, such as “[What’s Going On in This Picture?](https://www.nytimes.com/column/learning-whats-going-on-in-this-picture)” and I wanted to do something like it for math. When the American Statistical Association became involved with The New York Times, I suggested we could do what I had been doing with graphs in my classroom. Now having some of the best newspaper graphs and maps for students to discuss is available to anyone online.
+I liked reading newspapers, rather than books, when I was young. For twenty years when teaching, I would share newspaper graphs with my students. In The New York Times Learning Network, I saw that there were humanities-focused features, such as “[What’s Going On in This Picture?](https://www.nytimes.com/column/learning-whats-going-on-in-this-picture)” and I wanted to do something like it for math. When the American Statistical Association became involved with The New York Times, I suggested we could do what I had been doing with graphs in my classroom. Now having some of the best newspaper graphs and maps for students to discuss is available to anyone online.
 
 **ML: Why are graphs and maps great teaching tools?**
 
@@ -50,7 +50,7 @@ SH: I have four learning objectives for students when I use graphs:
 
 SH: Here are two “What’s Going On in This Graph?” releases with maps:  
 
-_A choropleth map of_ [_global climate risks_](https://www.nytimes.com/2021/03/25/learning/whats-going-on-in-this-graph-global-climate-risks.html)
+###### _A choropleth map of_ [_global climate risks_](https://www.nytimes.com/2021/03/25/learning/whats-going-on-in-this-graph-global-climate-risks.html)
 
 ![](/uploads/2023-02-14/global-climate-risks.png)
 
@@ -64,4 +64,4 @@ There is much to notice and wonder about the amount of military spending and the
 
 The archive of the 147 released New York Times graphs is on the [“What’s Going On in This Graph?” website](https://www.nytimes.com/column/whats-going-on-in-this-graph). Click the graph title to see the entire release and follow up reveal, which includes the free link to the New York Times article that included the graph, additional questions and Stat Nuggets, concise definitions of statistical and math terms from the graph and an explanation of how they are used.
 
-> Join Sharon and Michelle on March 7 for [“What’s Going On In This Graph?”: Maps and Data for Civic Literacy](https://www.eventbrite.com/e/whats-going-on-in-this-graph-map-data-literacy-for-civic-engagement-tickets-541759556417) 
+> Join us on March 7 for [“What’s Going On In This Graph?”: Maps and Data for Civic Literacy](https://www.eventbrite.com/e/whats-going-on-in-this-graph-map-data-literacy-for-civic-engagement-tickets-541759556417). 
