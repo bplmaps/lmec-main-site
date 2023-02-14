@@ -29,26 +29,26 @@ _The text of this interview has been lightly edited for clarity._
 
 I liked reading newspapers, rather than books, when I was young. For twenty years when teaching, I would share newspaper graphs with my students. In The New York Times Learning Network, I saw that there were humanities-focused features, such as “[What’s Going On in This Picture?](https://www.nytimes.com/column/learning-whats-going-on-in-this-picture)” and I wanted to do something like it for math. When the American Statistical Association became involved with The New York Times, I suggested we could do what I had been doing with graphs in my classroom. Now having some of the best newspaper graphs and maps for students to discuss is available to anyone online.
 
-**ML: Why are graphs and maps great teaching tools?**
+##### Why are graphs and maps great teaching tools?
 
-SH: Graphs use data and space to display “stories.” Lists of students and their grades are just data in a chart. If I were, for example, to categorize the grades by course or class period and displayed this in a segmented bar graph, showing the relative size of each of the groups, that could be a graph since the bar segments lengths show the space.
+Graphs use data and space to display “stories.” Lists of students and their grades are just data in a chart. If I were, for example, to categorize the grades by course or class period and displayed this in a segmented bar graph, showing the relative size of each of the groups, that could be a graph since the bar segments lengths show the space.
 
 Maps, by definition, are about space. Data can be superimposed on a map by showing data values with different colors. (This is called a choropleth map.) By observing where the colors change, you can absorb the data faster than if you tried to read a table of numbers or even numbers on a map. Bubble maps (maps with filled-in circles superimposed) are particularly effective in conveying at least three variables by their location, size and color.
 
-**ML: What advice do you have for educators who want to integrate more data visualizations, including maps, into their classrooms?**
+##### What advice do you have for educators who want to integrate more data visualizations, including maps, into their classrooms?
 
 {{< figure src="/uploads/2023-02-14/cheese-graph-full.png" caption="What do you notice and wonder about the cheddar cheese in [this graph](https://www.nytimes.com/2017/10/09/learning/whats-going-on-in-this-graph-oct-10-2017.html)?" class="figure-right" >}}
 
-SH: I have four learning objectives for students when I use graphs:
+I have four learning objectives for students when I use graphs:
 
 * Learn to read “the story” in the graph. Sometimes the story that the graph tells is not even highlighted in the article. 
 * Learn about the world around them.
 * Learn to notice and wonder. Often, students think that math tells them what to do. But, mathematicians will say that the way they approach problems is to see if they notice something in the problem that looks like what they have seen before. With this entry, they wonder how this problem is different and how they could solve it. Teachers have told me that noticing and wondering has migrated to other parts of their curriculum and to other subjects in their school.
 * Learn to be skeptical, but not cynical about graphs and statistics.
 
-**ML: What are a few maps in the series you’d like to show us?**
+##### What are a few maps in the series you’d like to show us?
 
-SH: Here are two “What’s Going On in This Graph?” releases with maps:  
+Here are two “What’s Going On in This Graph?” releases with maps:  
 
 ###### _A choropleth map of_ [_global climate risks_](https://www.nytimes.com/2021/03/25/learning/whats-going-on-in-this-graph-global-climate-risks.html)
 
@@ -56,7 +56,7 @@ SH: Here are two “What’s Going On in This Graph?” releases with maps:
 
 There is much to notice and wonder about the location and size of the regions of climate risk. Note that the “top” climate risk is shown. Any region can have more than one significant climate risk. Recognize the climate risks for regions of greatest population density and regions with greatest risks and least resources to address risks and their effect.
 
-_A bubble map of_ [_military spending by country_](https://www.nytimes.com/2019/02/07/learning/whats-going-on-in-this-graph-feb-13-2019.html)
+###### _A bubble map of_ [_military spending by country_](https://www.nytimes.com/2019/02/07/learning/whats-going-on-in-this-graph-feb-13-2019.html)
 
 ![](/uploads/2023-02-14/military-spending.webp)
 
@@ -64,4 +64,4 @@ There is much to notice and wonder about the amount of military spending and the
 
 The archive of the 147 released New York Times graphs is on the [“What’s Going On in This Graph?” website](https://www.nytimes.com/column/whats-going-on-in-this-graph). Click the graph title to see the entire release and follow up reveal, which includes the free link to the New York Times article that included the graph, additional questions and Stat Nuggets, concise definitions of statistical and math terms from the graph and an explanation of how they are used.
 
-> Join us on March 7 for [“What’s Going On In This Graph?”: Maps and Data for Civic Literacy](https://www.eventbrite.com/e/whats-going-on-in-this-graph-map-data-literacy-for-civic-engagement-tickets-541759556417). 
+> Register today for [“What’s Going On In This Graph?”: Maps and Data for Civic Literacy](https://www.eventbrite.com/e/whats-going-on-in-this-graph-map-data-literacy-for-civic-engagement-tickets-541759556417) 
