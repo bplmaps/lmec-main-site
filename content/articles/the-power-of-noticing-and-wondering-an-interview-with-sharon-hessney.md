@@ -1,6 +1,6 @@
 ---
 date: 2023-02-17T09:30:44-05:00
-title: "“What’s Going On in This Graph?”The Power of Noticing and Wondering"
+title: "“What’s Going On in This Graph?”: The Power of Noticing and Wondering"
 description: An interview with Sharon Hessney
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/60,1180,4975,3420/2000,/0/default.jpg
 author: Michelle LeBlanc and Sharon Hessney
@@ -13,7 +13,7 @@ draft: true
 ---
 On **March 7 from 3:30-4:30 PM**, the Leventhal Map Center will co-present a virtual session called “[What’s Going On In This Graph?”: Maps and Data for Civic Literacy](https://www.eventbrite.com/e/whats-going-on-in-this-graph-map-data-literacy-for-civic-engagement-tickets-541759556417) during Massachusetts Civic Learning Week with Sharon Hessney.
 
-{{< figure src="/uploads/2023-02-14/microsoftteams-image-32.png" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2023-02-14/microsoftteams-image-32.png" caption="Sharon Hessney with [Boston neighborhoods: Top 10 countries of Birth for Foreign-Born Population](https://collections.leventhalmap.org/search/commonwealth:h989r707c)." class="figure-right" >}}
 
 Sharon is an award-winning math teacher from Boston Public Schools and the “curator,” writer and moderator for The New York Times Learning Network’s “[What’s Going On in This Graph?](https://www.nytimes.com/column/whats-going-on-in-this-graph)” This free, weekly online feature has been published for six years and has had more than 50,000 online student responses. Sharon has worked with the Leventhal Map Center K-12 education team to develop several [high school statistics lessons](https://collections.leventhalmap.org/map-sets/297) that used maps and graphs from the 2017 Map Center exhibition [Who We Are: Boston Immigration Then and Now](https://collections.leventhalmap.org/exhibits/19).
 
@@ -39,10 +39,13 @@ Maps, by definition, are about space. Data can be superimposed on a map by showi
 
 SH: I have four learning objectives for students when I use graphs:
 
-1. Learn to read “the story” in the graph. Sometimes the story that the graph tells is not even highlighted in the article. 
-2. Learn about the world around them.
-3. Learn to notice and wonder. Often, students think that math tells them what to do. But, mathematicians will say that the way they approach problems is to see if they notice something in the problem that looks like what they have seen before. With this entry, they wonder how this problem is different and how they could solve it. Teachers have told me that noticing and wondering has migrated to other parts of their curriculum and to other subjects in their school.
-4. Learn to be skeptical, but not cynical about graphs and statistics.
+Learn to read “the story” in the graph. Sometimes the story that the graph tells is not even highlighted in the article. 
+
+Learn about the world around them.
+
+Learn to notice and wonder. Often, students think that math tells them what to do. But, mathematicians will say that the way they approach problems is to see if they notice something in the problem that looks like what they have seen before. With this entry, they wonder how this problem is different and how they could solve it. Teachers have told me that noticing and wondering has migrated to other parts of their curriculum and to other subjects in their school.
+
+Learn to be skeptical, but not cynical about graphs and statistics.
 
 **ML: What are a few maps in the series you’d like to show us?**
 
