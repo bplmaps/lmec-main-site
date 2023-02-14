@@ -1,7 +1,7 @@
 ---
 date: 2023-02-17T09:30:44-05:00
-title: 'The Power of Noticing and Wondering: An interview with Sharon Hessney'
-description: ''
+title: "“What’s Going On in This Graph?”The Power of Noticing and Wondering"
+description: An interview with Sharon Hessney
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/60,1180,4975,3420/2000,/0/default.jpg
 author: Michelle LeBlanc and Sharon Hessney
 tags:
@@ -12,6 +12,8 @@ draft: true
 
 ---
 On **March 7 from 3:30-4:30 PM**, the Leventhal Map Center will co-present a virtual session called “[What’s Going On In This Graph?”: Maps and Data for Civic Literacy](https://www.eventbrite.com/e/whats-going-on-in-this-graph-map-data-literacy-for-civic-engagement-tickets-541759556417) during Massachusetts Civic Learning Week with Sharon Hessney.
+
+{{< figure src="/uploads/2023-02-14/microsoftteams-image-32.png" caption="" class="figure-right" >}}
 
 Sharon is an award-winning math teacher from Boston Public Schools and the “curator,” writer and moderator for The New York Times Learning Network’s “[What’s Going On in This Graph?](https://www.nytimes.com/column/whats-going-on-in-this-graph)” This free, weekly online feature has been published for six years and has had more than 50,000 online student responses. Sharon has worked with the Leventhal Map Center K-12 education team to develop several [high school statistics lessons](https://collections.leventhalmap.org/map-sets/297) that used maps and graphs from the 2017 Map Center exhibition [Who We Are: Boston Immigration Then and Now](https://collections.leventhalmap.org/exhibits/19).
 
