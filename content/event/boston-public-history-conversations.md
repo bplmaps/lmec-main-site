@@ -2,8 +2,8 @@
 publishDate: 2023-02-16T13:45:31-05:00
 title: Boston Public History Conversations
 date: 2023-03-06T12:00:00-05:00
-image: ''
-backgroundImage: ''
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463b608/372,968,4395,3123/1200,/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463b608/372,968,4395,3123/1200,/0/default.jpg
 location: Online
 fee: See details
 registration: https://fareharbor.com/embeds/book/bostonbyfoot/items/436741/?full-items=yes&back=https://bostonbyfoot.org/&flow=871370&a=yes&g4=yes
