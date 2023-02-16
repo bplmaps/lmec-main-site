@@ -66,7 +66,9 @@ Organized charity work was a foundational focus of Black women’s clubs. These 
 
 The clubs also expressed care for the community by denouncing and organizing against the violence and racism that Black Americans faced. [Ida B. Wells](https://bostonpubliclibrary.sharepoint.com/:i:/s/LeventhalMap/EYLDKDV3RYFMvGnmS16o8XsBipL6Bdl3JEliB64F5W8m6g?e=SrqeGD), who worked alongside Florida and her mother in founding the National Association of Colored Women’s Clubs, was a powerful anti-lynching advocate. In this open letter responding to British reformer Laura Ormiston Chant’s opposition to a Unitarian church resolution denouncing lynching, Florida uses her voice to speak out against racist terrorism:
 
-> _In the interest of common humanity, in the interest of justice, for the good name of our country, we solemnly raise our voice against the horrible crimes of lynch law as practiced in the south, and we call upon Christians everywhere to do the same or be branded as sympathizers with the murderers. —_ Florida Ruffin Ridley, Women’s Era, June 1894)
+> _In the interest of common humanity, in the interest of justice, for the good name of our country, we solemnly raise our voice against the horrible crimes of lynch law as practiced in the south, and we call upon Christians everywhere to do the same or be branded as sympathizers with the murderers._ 
+>
+> _—_ Florida Ruffin Ridley, Women’s Era, June 1894)
 
 #### Having Fun
 
