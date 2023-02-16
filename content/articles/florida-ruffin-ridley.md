@@ -1,5 +1,5 @@
 ---
-date: 2023-02-15T15:28:14.000-05:00
+date: 2023-02-24T15:28:14-05:00
 title: 'Black Boston Stories: Meet Florida Ruffin Ridley'
 description: 'Meet Florida Ruffin Ridley, an important Black Bostonian who worked,
   studied, played, and created within the landscapes on display in our featured exhibition,
@@ -16,7 +16,7 @@ draft: true
 
 The maps in our featured exhibition, [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), tell stories that are ultimately about people. You’ll see maps covered with the names of {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c486z/6414,3426,874,609/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.07865,42.35128$zoom:19.29$base:maptiler-streets$overlay:ark:/76611/al7s13kaf" target="blank" >}} businesses,{{</popup>}} {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c4788/4048,2399,523,364/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.06954,42.34282$zoom:18.88$base:maptiler-streets$overlay:ark:/76611/al7s13kaf" target="blank" >}} homeowners,{{</popup>}}  and {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c516g/5453,3594,1419,822/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.10009,42.33943$zoom:18.60$base:maptiler-streets$overlay:ark:/76611/al7s13kaf" target="blank" >}} institutions,{{</popup>}}  all of which show places built, inhabited, maintained, and enjoyed by people.
 
-{{< figure src="/uploads/2023-02-08/cc_convention.jpeg" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2023-02-16/cc_convention.jpeg" caption="" class="figure-right" >}}
 
 The stories of some people, however, are harder to find than others. In the case of Boston’s Black community, the [urban atlases](https://guides.bpl.org/urban-atlases/list) don’t always tell us as much as we might want to know. For example, the names of building owners are shown on the maps, but not those of renters. For various reasons, including racism, most Black Bostonians of the time did not own their own homes. However, they lived and worked throughout the city even though we may not see their names.
 
@@ -30,7 +30,7 @@ _Below, we follow Florida's story and see how her life intersected with many oth
 
 Florida was born in 1861 and lived with her parents, George and Josephine St. Pierre Ruffin, on {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rw29x/3006,1175,3149,3258/1200,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.06996,42.35771$zoom:18.76$base:maptiler-streets$overlay:ark:/76611/al8bzwk1l" target="blank" >}} Charles Street{{</popup>}}  at the foot of Beacon Hill. Her father was the first African-American to graduate from Harvard Law School and the first Black judge in the United States. Her mother was a well-known activist, writer, and organizer for suffrage and against racial injustice.
 
-Florida’s childhood was one of privilege. Her parents were financially well-to-do and highly educated, and so her early years were not representative of those of all Black children in the city. She attended the {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900r516z/2197,2777,798,810/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.06737,42.36069$zoom:19.44$base:massgis-2021-orthos$overlay:ark:/76611/al8c28hx3" target="blank" >}} Grant School{{</popup>}}  near her home, the same school where she would teach after receiving her credentials from the Boston Teachers College as a young woman. 
+Florida’s childhood was one of privilege. Her parents were financially well-to-do and highly educated, and so her early years were not representative of those of all Black children in the city. She attended the {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900r516z/2197,2777,798,810/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.06737,42.36069$zoom:19.44$base:massgis-2021-orthos$overlay:ark:/76611/al8c28hx3" target="blank" >}} Grant School{{</popup>}}  near her home, the same school where she would teach after receiving her credentials from the Boston Teachers College as a young woman.
 
 {{< figure src="/uploads/2023-02-16/teacherqualificationrecord-floridaruffinridley-c.jpeg" caption="[_Florida Ruffin’s Teacher Qualification Record, 1888, Teacher Qualification registers and index. Courtesy of Boston City Archives._](https://www.archivespublichistory.org/?tag=florida-ruffin-ridley)" class="figure-center" >}}
 
@@ -40,7 +40,7 @@ Florida’s childhood was one of privilege. Her parents were financially well-to
 
 Florida is probably best known for her participation in the Black women’s club movement. As a founding member of the **Women’s Era Club**, a Boston-based club started in 1894 by her mother, and later a member of the **National Association of Colored Women’s Clubs (NACWC)**, Florida wrote and organized around issues of the day—from promoting the arts to women’s suffrage. The club movement created a national community of women committed to promoting the well-being of Black people, with a particular emphasis on Black women. The motto of the NACWC was “[Lifting as We Climb](https://bostonpubliclibrary.sharepoint.com/:i:/s/LeventhalMap/EYzgCndxYEJDl57GnE4FxSQBBJOrNo5JpueoDu_6-tBdcQ?e=5v6g4A)” to convey its dedication to racial uplift.
 
-> _Women’s clubs are helping to bring us to a recognition of the truth that true dignity does not need barriers in order to preserve itself; that snobbishness is a vice, and that while friendship should be bound by congeniality, neighborliness should know no bounds. The club means the spirit of neighborliness with the world, the recognition of our duty toward our neighbor, and not only of our common humanity but our common divinity; the club helps us not only to make the best of that within us but to see the best of that in others._ 
+> _Women’s clubs are helping to bring us to a recognition of the truth that true dignity does not need barriers in order to preserve itself; that snobbishness is a vice, and that while friendship should be bound by congeniality, neighborliness should know no bounds. The club means the spirit of neighborliness with the world, the recognition of our duty toward our neighbor, and not only of our common humanity but our common divinity; the club helps us not only to make the best of that within us but to see the best of that in others._
 >
 > _—_ Florida Ruffin Ridley, Women’s Era, Oct-Nov, 1896
 
@@ -54,7 +54,7 @@ Organized charity work was a foundational focus of Black women’s clubs. These 
 
 The clubs also expressed care for the community by denouncing and organizing against the violence and racism that Black Americans faced. [Ida B. Wells](https://bostonpubliclibrary.sharepoint.com/:i:/s/LeventhalMap/EYLDKDV3RYFMvGnmS16o8XsBipL6Bdl3JEliB64F5W8m6g?e=SrqeGD), who worked alongside Florida and her mother in founding the National Association of Colored Women’s Clubs, was a powerful anti-lynching advocate. In this open letter responding to British reformer Laura Ormiston Chant’s opposition to a Unitarian church resolution denouncing lynching, Florida uses her voice to speak out against racist terrorism:
 
-> _In the interest of common humanity, in the interest of justice, for the good name of our country, we solemnly raise our voice against the horrible crimes of lynch law as practiced in the south, and we call upon Christians everywhere to do the same or be branded as sympathizers with the murderers._ 
+> _In the interest of common humanity, in the interest of justice, for the good name of our country, we solemnly raise our voice against the horrible crimes of lynch law as practiced in the south, and we call upon Christians everywhere to do the same or be branded as sympathizers with the murderers._
 >
 > _—_ Florida Ruffin Ridley, Women’s Era, June 1894)
 
