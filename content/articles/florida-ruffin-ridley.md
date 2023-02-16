@@ -26,7 +26,7 @@ _Below, we follow Florida's story and see how her life intersected with many oth
 
 #### Growing Up
 
-Florida was born in 1861 and lived with her parents, George and Josephine St. Pierre Ruffin, on Charles Street at the foot of Beacon Hill. Her father was the first African-American to graduate from Harvard Law School and the first Black judge in the United States. Her mother was a well-known activist, writer, and organizer for suffrage and against racial injustice.
+Florida was born in 1861 and lived with her parents, George and Josephine St. Pierre Ruffin, on {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rw29x/1089,374,5152,3753/1200,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.06996,42.35771$zoom:18.76$base:maptiler-streets$overlay:ark:/76611/al8bzwk1l" target="blank" >}} Charles Street{{</popup>}}  at the foot of Beacon Hill. Her father was the first African-American to graduate from Harvard Law School and the first Black judge in the United States. Her mother was a well-known activist, writer, and organizer for suffrage and against racial injustice.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nh98k/full/2000,/0/default.jpg" caption="[_Students in Boston’s Putnam School_](https://collections.leventhalmap.org/search/commonwealth:q524n577r)_, ca. 1890-1900._" class="figure-right" >}}
 
