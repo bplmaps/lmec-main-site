@@ -11,10 +11,11 @@ tags: []
 draft: true
 
 ---
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This program is organized by Boston By Foot.{{< /alert-box >}}
 
-### About this event 
+### About this event
 
-LMEC Assistant Director, [Emily Bowe](https://www.leventhalmap.org/about/people/emily-bowe/), will join BBF Guide Dennis McCarthy to discuss how historic maps can help us better understand today’s cityscape. Emily will showcase free online tools that our tour guides use to piece together stories that enhance their tours.
+LMEC Assistant Director, [Emily Bowe](https://www.leventhalmap.org/about/people/emily-bowe/), will join [Boston By Foot](https://bostonbyfoot.org/) Guide Dennis McCarthy to discuss how historic maps can help us better understand today’s cityscape. Emily will showcase free online tools that our tour guides use to piece together stories that enhance their tours.
 
 **About Boston By Foot**
 
