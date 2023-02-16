@@ -14,9 +14,9 @@ tags: []
 
 ### About this event
 
-LMEC Assistant Director, [Emily Bowe](https://www.leventhalmap.org/about/people/emily-bowe/), will join [Boston By Foot](https://bostonbyfoot.org/) Guide Dennis McCarthy to discuss how historic maps can help us better understand today’s cityscape. Emily will showcase free online tools that our tour guides use to piece together stories that enhance their tours.
+Join LMEC Assistant Director [Emily Bowe](https://www.leventhalmap.org/about/people/emily-bowe/) and [Boston By Foot](https://bostonbyfoot.org/) Guide Dennis McCarthy to discuss how historic maps can help us better understand today’s cityscape. We'll learn about LMEC's free online tools, digital collections, ongoing exhibitions and special projects. 
 
-[**Tickets**](https://bostonbyfoot.org/tours/boston-public-history-conversations-emily-bowe/)
+[**Tickets**](https://bostonbyfoot.org/tours/boston-public-history-conversations-emily-bowe/)**:**
 
 * Free for Boston By Foot Members and Guides
 * $7 General Admission for Non-Members
