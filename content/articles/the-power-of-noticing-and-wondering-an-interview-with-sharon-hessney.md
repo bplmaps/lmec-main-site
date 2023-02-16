@@ -1,5 +1,5 @@
 ---
-date: 2023-02-17T09:30:44.000-05:00
+date: 2023-02-17T15:30:44-05:00
 title: "“What’s Going On in This Graph?”: The Power of Noticing and Wondering"
 description: An interview with Sharon Hessney
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/60,1180,4975,3420/2000,/0/default.jpg
