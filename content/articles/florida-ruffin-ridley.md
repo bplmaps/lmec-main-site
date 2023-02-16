@@ -32,27 +32,11 @@ Florida was born in 1861 and lived with her parents, George and Josephine St. Pi
 
 Florida’s childhood was one of privilege. Her parents were financially well-to-do and highly educated, and so her early years were not representative of those of all Black children in the city. She attended the {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900r516z/2197,2777,798,810/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.06737,42.36069$zoom:19.44$base:massgis-2021-orthos$overlay:ark:/76611/al8c28hx3" target="blank" >}} Grant School{{</popup>}}  near her home, the same school where she would teach after receiving her credentials from the Boston Teachers College as a young woman. Though Boston schools were integrated, the Black population of the city at the time was around 5%, compared with today’s approximately 20%. As a result, there were proportionally few Black students in classrooms.
 
-After her own children were grown and out of the house, Florida began to write short stories. In 1926 she wrote about two thirteen-year-old boys, one Black (Arthur) and one white (Morton). In the course of the story, Arthur’s mother notes how in Boston’s integrated schools, students make interracial friendships, and the two boys seem to be close friends. But then the boys get into a physical fight, and Arthur’s mother learns about the reason for their dispute by eavesdropping on a conversation held by the boys’ friends outside her window:
-
-> “_…what’d they fight about?_” 
->
-> “_Well,_” with deliberation, “_Mort attacked Art’s good name, I’d fight for my good name, wouldn’t you—Mort tried to talk out of it but all the fellas were on Art’s side!_”
->
-> “_Sure, I’d fight for my good name—did he call him a liar?_”
->
-> “_Worse than that, he went to the guild and he had to report his good deed, and he said he had been ‘elevating a little colored boy!’_”
->
-> Arthur’s mother considers the situation a few days later:
->
-> _…What had been \[Morton’s\] reaction from the fight? In his relations with Arthur, how much had he been influenced by adults? What were the parents’ reactions? Were they possibly those of the rebuffed missionaries who only feel pity that the heathen do not know what is good for them? As for my little son—I never discussed the matter with him. I felt he had shown himself wiser than I. With instinctive wisdom, he had sensed a situation to which I was blind, and had met that situation adequately._
->
-> — Florida Ruffin Ridley, in Opportunity 3, January 1926
-
 #### Creating Community
 
-{{< figure src=""/uploads/2023-02-16/nmaahc-2010_2_1ab_001.jpg" caption="[_Banner with motto of the National Association of Colored Women's Clubs_](https://nmaahc.si.edu/object/nmaahc_2010.2.1abc), c. 1924." class="figure-right" >}}
+{{< figure src="/uploads/2023-02-16/nmaahc-2010_2_1ab_001.jpg" caption="[_Banner with motto of the National Association of Colored Women's Clubs_](https://nmaahc.si.edu/object/nmaahc_2010.2.1abc), c. 1924." class="figure-right" >}}
 
-Florida is probably best known for her participation in the Black women’s club movement. As a founding member of the Women’s Era Club, a Boston-based club started in 1894 by her mother, and later a member of the **National Association of Colored Women’s Clubs (NACWC)**, Florida wrote and organized around issues of the day—from promoting the arts to women’s suffrage. The club movement created a national community of women committed to promoting the well-being of Black people, with a particular emphasis on Black women. The motto of the NACWC was “[Lifting as We Climb](https://bostonpubliclibrary.sharepoint.com/:i:/s/LeventhalMap/EYzgCndxYEJDl57GnE4FxSQBBJOrNo5JpueoDu_6-tBdcQ?e=5v6g4A)” to convey its dedication to racial uplift.
+Florida is probably best known for her participation in the Black women’s club movement. As a founding member of the **Women’s Era Club**, a Boston-based club started in 1894 by her mother, and later a member of the **National Association of Colored Women’s Clubs (NACWC)**, Florida wrote and organized around issues of the day—from promoting the arts to women’s suffrage. The club movement created a national community of women committed to promoting the well-being of Black people, with a particular emphasis on Black women. The motto of the NACWC was “[Lifting as We Climb](https://bostonpubliclibrary.sharepoint.com/:i:/s/LeventhalMap/EYzgCndxYEJDl57GnE4FxSQBBJOrNo5JpueoDu_6-tBdcQ?e=5v6g4A)” to convey its dedication to racial uplift.
 
 > _Women’s clubs are helping to bring us to a recognition of the truth that true dignity does not need barriers in order to preserve itself; that snobbishness is a vice, and that while friendship should be bound by congeniality, neighborliness should know no bounds. The club means the spirit of neighborliness with the world, the recognition of our duty toward our neighbor, and not only of our common humanity but our common divinity; the club helps us not only to make the best of that within us but to see the best of that in others._ 
 >
