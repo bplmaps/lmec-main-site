@@ -32,7 +32,7 @@ Florida was born in 1861 and lived with her parents, George and Josephine St. Pi
 
 Florida’s childhood was one of privilege. Her parents were financially well-to-do and highly educated, and so her early years were not representative of those of all Black children in the city. She attended the {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900r516z/2197,2777,798,810/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.06737,42.36069$zoom:19.44$base:massgis-2021-orthos$overlay:ark:/76611/al8c28hx3" target="blank" >}} Grant School{{</popup>}}  near her home, the same school where she would teach after receiving her credentials from the Boston Teachers College as a young woman.
 
-{{< figure src="/uploads/2023-02-16/teacherqualificationrecord-floridaruffinridley-c.jpeg" caption="[_Florida Ruffin’s Teacher Qualification Record, 1888, Teacher Qualification registers and index. Courtesy of Boston City Archives._](https://www.archivespublichistory.org/?tag=florida-ruffin-ridley)" class="figure-center" >}}
+{{< figure src="/uploads/2023-02-16/teacherqualificationrecord-floridaruffinridley-c.jpeg" caption="[_Florida Ruffin’s Teacher Qualification Record_](https://www.archivespublichistory.org/?tag=florida-ruffin-ridley)_,_ 1888. " class="figure-center" >}}
 
 #### Creating Community
 
