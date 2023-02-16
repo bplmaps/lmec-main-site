@@ -44,7 +44,7 @@ After her own children were grown and out of the house, Florida began to write s
 >
 > Arthur’s mother considers the situation a few days later:
 >
-> …What had been \[Morton’s\] reaction from the fight? In his relations with Arthur, how much had he been influenced by adults? What were the parents’ reactions? Were they possibly those of the rebuffed missionaries who only feel pity that the heathen do not know what is good for them? As for my little son—I never discussed the matter with him. I felt he had shown himself wiser than I. With instinctive wisdom, he had sensed a situation to which I was blind, and had met that situation adequately.
+> _…What had been \[Morton’s\] reaction from the fight? In his relations with Arthur, how much had he been influenced by adults? What were the parents’ reactions? Were they possibly those of the rebuffed missionaries who only feel pity that the heathen do not know what is good for them? As for my little son—I never discussed the matter with him. I felt he had shown himself wiser than I. With instinctive wisdom, he had sensed a situation to which I was blind, and had met that situation adequately._
 >
 > — Florida Ruffin Ridley, in Opportunity 3, January 1926
 
