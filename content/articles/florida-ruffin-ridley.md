@@ -12,9 +12,9 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65kw
 draft: true
 
 ---
-### Meet Florida Ruffin Ridley 
+### Meet Florida Ruffin Ridley
 
-The maps in our featured exhibition, [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), tell stories that are ultimately about people. You’ll see maps covered with the names of {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c486z/6414,3426,874,609/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.07865,42.35128$zoom:19.29$base:maptiler-streets$overlay:ark:/76611/al7s13kaf" target="blank" >}} businesses,{{</popup>}} {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c4788/4048,2399,523,364/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.06954,42.34282$zoom:18.88$base:maptiler-streets$overlay:ark:/76611/al7s13kaf" target="blank" >}} homeowners,{{</popup>}}  and {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c516g/5453,3594,1419,822/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.10009,42.33943$zoom:18.60$base:maptiler-streets$overlay:ark:/76611/al7s13kaf" target="blank" >}} institutions,{{</popup>}}  all of which show places built, inhabited, maintained, and enjoyed by people. 
+The maps in our featured exhibition, [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), tell stories that are ultimately about people. You’ll see maps covered with the names of {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c486z/6414,3426,874,609/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.07865,42.35128$zoom:19.29$base:maptiler-streets$overlay:ark:/76611/al7s13kaf" target="blank" >}} businesses,{{</popup>}} {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c4788/4048,2399,523,364/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.06954,42.34282$zoom:18.88$base:maptiler-streets$overlay:ark:/76611/al7s13kaf" target="blank" >}} homeowners,{{</popup>}}  and {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c516g/5453,3594,1419,822/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.10009,42.33943$zoom:18.60$base:maptiler-streets$overlay:ark:/76611/al7s13kaf" target="blank" >}} institutions,{{</popup>}}  all of which show places built, inhabited, maintained, and enjoyed by people.
 
 {{< figure src="/uploads/2023-02-08/cc_convention.jpeg" caption="" class="figure-right" >}}
 
@@ -24,13 +24,15 @@ To illuminate the lives and stories that sometimes run hidden through these maps
 
 _Below, we follow Florida's story and see how her life intersected with many other people and places in Boston and beyond._
 
-#### Growing Up 
+#### Growing Up
 
-Florida was born in 1861 and lived with her parents, George and Josephine St. Pierre Ruffin, on Charles Street at the foot of Beacon Hill. Her father was the first African-American to graduate from Harvard Law School and the first Black judge in the United States. Her mother was a well-known activist, writer, and organizer for suffrage and against racial injustice. 
+Florida was born in 1861 and lived with her parents, George and Josephine St. Pierre Ruffin, on Charles Street at the foot of Beacon Hill. Her father was the first African-American to graduate from Harvard Law School and the first Black judge in the United States. Her mother was a well-known activist, writer, and organizer for suffrage and against racial injustice.
 
 Florida’s childhood was one of privilege. Her parents were financially well-to-do and highly educated, and so her early years were not representative of those of all Black children in the city. She attended the {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900r516z/2197,2777,798,810/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.06737,42.36069$zoom:19.44$base:massgis-2021-orthos$overlay:ark:/76611/al8c28hx3" target="blank" >}} Grant School{{</popup>}}  near her home, the same school where she would teach after receiving her credentials from the Boston Teachers College as a young woman. Though Boston schools were integrated, the Black population of the city at the time was around 5%, compared with today’s approximately 20%. As a result, there were proportionally few Black students in classrooms.
 
-#### Creating Community 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nh98k/full/2000,/0/default.jpg" caption="[_Students in Boston’s Putnam School, ca. 1890-1900._](https://collections.leventhalmap.org/search/commonwealth:q524n577r)" class="figure-right" >}}
+
+#### Creating Community
 
 Florida is probably best known for her participation in the Black women’s club movement. As a founding member of the **Women’s Era Club**, a Boston-based club started in 1894 by her mother, and later a member of the **National Association of Colored Women’s Clubs** **(NACWC)**, Florida wrote and organized around issues of the day—from promoting the arts to women’s suffrage. The club movement created a national community of women committed to promoting the well-being of Black people, with a particular emphasis on Black women. The motto of the NACWC was “[Lifting as We Climb](https://bostonpubliclibrary.sharepoint.com/:i:/s/LeventhalMap/EYzgCndxYEJDl57GnE4FxSQBBJOrNo5JpueoDu_6-tBdcQ?e=5v6g4A)” to convey its dedication to racial uplift.
 
@@ -50,7 +52,7 @@ The clubs also expressed care for the community by denouncing and organizing aga
 
 #### Having Fun
 
-As part of her leadership for the League of Women for Community Service, Florida was committed to celebrating and raising awareness about Black artists. She sponsored performances of amateur theater, chorales from Black colleges, and classical performances, as well as art exhibitions. Her exhibitions include one hosted at the Boston Public Library in 1922. Her own brother George Ruffin was an accomplished singer and performed around Massachusetts. 
+As part of her leadership for the League of Women for Community Service, Florida was committed to celebrating and raising awareness about Black artists. She sponsored performances of amateur theater, chorales from Black colleges, and classical performances, as well as art exhibitions. Her exhibitions include one hosted at the Boston Public Library in 1922. Her own brother George Ruffin was an accomplished singer and performed around Massachusetts.
 
 As a young child, and then as a mother with children of her own, Florida might have participated in a May Day celebration like this one (pictured) organized by many of the women she knew and advertised in the Women’s Era magazine in 1895.
 
