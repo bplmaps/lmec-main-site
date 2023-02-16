@@ -26,13 +26,13 @@ _Below, we follow Florida's story and see how her life intersected with many oth
 
 #### Growing Up
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nh98k/full/2000,/0/default." caption="Though Boston schools were integrated, the Black population of the city at the time was around 5%, compared with today’s approximately 20%. As a result, there were proportionally few Black students in classrooms. [_Students in Boston’s Putnam School, ca. 1890-1900._](https://collections.leventhalmap.org/search/commonwealth:q524n577r)" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nh98k/full/2000,/0/default.jpg" caption="Though Boston schools were integrated, the Black population of the city at the time was around 5%, compared with today’s approximately 20%. As a result, there were proportionally few Black students in classrooms. [_Students in Boston’s Putnam School, ca. 1890-1900._](https://collections.leventhalmap.org/search/commonwealth:q524n577r)" class="figure-right" >}}
 
 Florida was born in 1861 and lived with her parents, George and Josephine St. Pierre Ruffin, on {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rw29x/3006,1175,3149,3258/1200,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.06996,42.35771$zoom:18.76$base:maptiler-streets$overlay:ark:/76611/al8bzwk1l" target="blank" >}} Charles Street{{</popup>}}  at the foot of Beacon Hill. Her father was the first African-American to graduate from Harvard Law School and the first Black judge in the United States. Her mother was a well-known activist, writer, and organizer for suffrage and against racial injustice.
 
 Florida’s childhood was one of privilege. Her parents were financially well-to-do and highly educated, and so her early years were not representative of those of all Black children in the city. She attended the {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900r516z/2197,2777,798,810/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.06737,42.36069$zoom:19.44$base:massgis-2021-orthos$overlay:ark:/76611/al8c28hx3" target="blank" >}} Grant School{{</popup>}}  near her home, the same school where she would teach after receiving her credentials from the Boston Teachers College as a young woman. 
 
-{{< figure src="/uploads/2023-02-16/teacherqualificationrecord-floridaruffinridley-c.jpeg" caption="" class="figure-center" >}}
+{{< figure src="/uploads/2023-02-16/teacherqualificationrecord-floridaruffinridley-c.jpeg" caption="[_Florida Ruffin’s Teacher Qualification Record, 1888, Teacher Qualification registers and index. Courtesy of Boston City Archives._](https://www.archivespublichistory.org/?tag=florida-ruffin-ridley)" class="figure-center" >}}
 
 #### Creating Community
 
