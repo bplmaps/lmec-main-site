@@ -1,7 +1,7 @@
 ---
-publishDate: 2023-02-02T12:59:57-05:00
+publishDate: 2023-02-02T12:59:57.000-05:00
 title: Special Collections Sampler
-date: 2023-02-23T14:00:00-05:00
+date: 2023-02-28T14:00:00-05:00
 image: "/uploads/2023-02-02/sampler.jpeg"
 backgroundImage: "/uploads/2023-02-02/sampler.jpeg"
 location: Special Collections Reading Room, Floor 3U
