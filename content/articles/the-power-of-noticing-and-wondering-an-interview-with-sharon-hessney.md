@@ -41,8 +41,8 @@ I have four learning objectives for students when I use graphs:
 {{< figure src="/uploads/2023-02-14/cheese-graph-full.png" caption="What do you notice and wonder about the cheddar cheese in this graph?" class="figure-right" >}}
 
 * Learn to read “the story” in the graph. Sometimes the story that the graph tells is not even highlighted in the article.
-* Learn about the world around them. For example, what do you notice and wonder about the cheddar cheese in [this graph](https://www.nytimes.com/2017/10/09/learning/whats-going-on-in-this-graph-oct-10-2017.html?smid=url-share)?
-* Learn to notice and wonder. Often, students think that math tells them what to do. But, mathematicians will say that the way they approach problems is to see if they notice something in the problem that looks like what they have seen before. With this entry, they wonder how this problem is different and how they could solve it. Teachers have told me that noticing and wondering has migrated to other parts of their curriculum and to other subjects in their school.
+* Learn about the world around them. 
+* Learn to notice and wonder. For example, what do you notice and wonder about the cheddar cheese in [this graph](https://www.nytimes.com/2017/10/09/learning/whats-going-on-in-this-graph-oct-10-2017.html?smid=url-share)? Often, students think that math tells them what to do. But, mathematicians will say that the way they approach problems is to see if they notice something in the problem that looks like what they have seen before. With this entry, they wonder how this problem is different and how they could solve it. Teachers have told me that noticing and wondering has migrated to other parts of their curriculum and to other subjects in their school.
 * Learn to be skeptical, but not cynical about graphs and statistics.
 
 ##### What are a few maps in the series you’d like to show us?
