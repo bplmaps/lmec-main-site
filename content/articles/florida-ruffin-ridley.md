@@ -62,7 +62,7 @@ As part of her leadership for the League of Women for Community Service, Florida
 
 As a young child, and then as a mother with children of her own, Florida might have participated in a May Day celebration like this one (pictured) organized by many of the women she knew and advertised in the Women’s Era magazine in 1895.
 
-The **Harriet Tubman House** in the South End, a settlement house founded by six Black women to provide housing for recently arrived southern Black women, hosted a series of “Musicales” organized by Florida and the League of Women for Community Service in 1919.
+The {{< popup img-src="/uploads/2023-02-17/tubman.jpeg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.07802,42.34511$zoom:19.69$base:maptiler-streets$overlay:ark:/76611/al8c4phfq" target="blank" >}} Harriet Tubman House{{</popup>}} in the South End, a settlement house founded by six Black women to provide housing for recently arrived southern Black women, hosted a series of “Musicales” organized by Florida and the League of Women for Community Service in 1919.
 
 #### Making and Trading
 
