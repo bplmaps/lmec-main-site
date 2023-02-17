@@ -66,8 +66,8 @@ The {{< popup img-src="/uploads/2023-02-17/tubman.jpeg" bib-src="https://atlasco
 
 #### Making and Trading
 
-For the majority of Black Bostonians in Florida’s lifetime, especially those who had recently migrated from southern states, racism presented a formidable barrier to stable employment. Black men in Boston often worked as bootblacks, janitors, laborers, servants, waiters, and porters, while women often found work as cooks, maids, seamstresses and nursemaids. Boston’s Black entrepreneurs operated businesses that employed black laborers, organizing many of them to engage in collective political action.
-
 {{< figure src="/uploads/2023-02-17/magazine.png" caption="Next door to Ulysses’s shop, the offices of the groundbreaking _Colored American Magazine_ bustled as they published new African-American literature and articles protesting racial injustice." class="figure-right" >}}
+
+For the majority of Black Bostonians in Florida’s lifetime, especially those who had recently migrated from southern states, racism presented a formidable barrier to stable employment. Black men in Boston often worked as bootblacks, janitors, laborers, servants, waiters, and porters, while women often found work as cooks, maids, seamstresses and nursemaids. Boston’s Black entrepreneurs operated businesses that employed black laborers, organizing many of them to engage in collective political action.
 
 The maps in this exhibition rarely show us the names of Black businesses, but we can use other kinds of sources, like city directories and newspaper advertisements, to uncover their stories. For example, Florida’s husband Ulysses A. Ridley ran his tailoring business at {{< popup img-src="/uploads/2023-02-17/park.jpeg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.06802,42.35071$zoom:18.88$base:maptiler-streets$overlay:ark:/76611/al8by10f3" target="blank" >}} 21 Pleasant Street{{</popup>}}  in Boston’s Park Square, advertised {{< popup img-src="/uploads/2023-02-17/merchant-tailor.png" bib-src="" target="blank" >}} here{{</popup>}}  in the _New York Age_ newspaper. 

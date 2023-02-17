@@ -1,5 +1,5 @@
 ---
-date: 2023-02-17T15:30:44-05:00
+date: 2023-02-17T12:30:44-05:00
 title: "“What’s Going On in This Graph?”: The Power of Noticing and Wondering"
 description: An interview with Sharon Hessney
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/60,1180,4975,3420/2000,/0/default.jpg
@@ -8,10 +8,9 @@ tags:
 - k12
 - education
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/60,1180,4975,3420/2000,/0/default.jpg
-draft: true
 
 ---
-> As part of this year's [Massachusetts Civic Learning Week](https://www.macivicsforall.org/events-mclc), the Leventhal Map Center will co-present a virtual session called [“What’s Going On In This Graph?”: Maps and Data for Civic Literacy](https://www.eventbrite.com/e/whats-going-on-in-this-graph-map-data-literacy-for-civic-engagement-tickets-541759556417) with Sharon Hessney on **March 7 at 3:30PM**.
+> As part of this year's [Massachusetts Civic Learning Week](https://www.macivicsforall.org/events-mclc), the Leventhal Map & Education Center will co-present a virtual session called [“What’s Going On In This Graph?”: Maps and Data for Civic Literacy](https://www.eventbrite.com/e/whats-going-on-in-this-graph-map-data-literacy-for-civic-engagement-tickets-541759556417) with Sharon Hessney on **March 7 at 3:30PM**.
 
 #### Meet Sharon Hessney
 
