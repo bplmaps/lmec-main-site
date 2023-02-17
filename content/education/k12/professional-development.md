@@ -16,8 +16,6 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 ## Workshops and Courses
 
-{{< pd-listing image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bp14v/5004,1671,1936,1794/full/0/default.jpg" title="Educator's Open House: Building Blocks: Boston Stories from Urban Atlases" subtitle="Thursday, February 2, 3:30-4:30 pm" description="A drop-in, K-12 education focused look at the new _Building Blocks_ exhibition with a focus on maps and the history of Black Bostonians. We'll also have classroom-ready maps you can take away!" signUpLink="https://www.eventbrite.com/e/educators-open-house-building-blocks-boston-stories-from-urban-atlases-tickets-519933674617" >}}
-
 {{< pd-listing image="/uploads/2022-12-08/wiam.png" title="Small Bites 2022-2023: Map Learning for Elementary Students: What Is a Map?" subtitle="Thursday, March 9, 3:30-4:30 pm" description="Join Map Center K-12 educators to learn how we introduce young learners to maps and how to think about them. Take away a lesson you can teach right away in your classroom." signUpLink="https://www.eventbrite.com/e/map-learning-for-elementary-students-what-is-a-map-tickets-478273227097" >}}
 
 {{< pd-listing image="/uploads/2022-12-08/amrev.png" title="Maps in the Classroom: The American Revolution" subtitle="Thursday, April 6, 3:30-4:30 pm" description="Join Map Center K-12 educators to learn how we introduce young learners to maps and how to think about them. Take away a lesson you can teach right away in your classroom." signUpLink="https://www.eventbrite.com/e/maps-in-the-classroom-american-revolution-tickets-478320428277" >}}
