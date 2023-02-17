@@ -60,7 +60,9 @@ The clubs also expressed care for the community by denouncing and organizing aga
 
 As part of her leadership for the League of Women for Community Service, Florida was committed to celebrating and raising awareness about Black artists. She sponsored performances of amateur theater, chorales from Black colleges, and classical performances, as well as art exhibitions. Her exhibitions include one hosted at the Boston Public Library in 1922. Her own brother George Ruffin was an accomplished singer and performed around Massachusetts.
 
-As a young child, and then as a mother with children of her own, Florida might have participated in a May Day celebration like this one (pictured) organized by many of the women she knew and advertised in the Women’s Era magazine in 1895.
+As a young child, and then as a mother with children of her own, Florida might have participated in a May Day celebration like {{< popup img-src="" bib-src="" target="blank" >}} this one{{</popup>}}  organized by many of the women she knew and advertised in the Women’s Era magazine in 1895.
+
+{{< figure src="" caption="" class="figure-center" >}}
 
 The {{< popup img-src="/uploads/2023-02-17/tubman.jpeg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.07802,42.34511$zoom:19.69$base:maptiler-streets$overlay:ark:/76611/al8c4phfq" target="blank" >}} Harriet Tubman House{{</popup>}} in the South End, a settlement house founded by six Black women to provide housing for recently arrived southern Black women, hosted a series of “Musicales” organized by Florida and the League of Women for Community Service in 1919.
 
