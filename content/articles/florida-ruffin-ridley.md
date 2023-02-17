@@ -1,5 +1,5 @@
 ---
-date: 2023-02-24T15:28:14-05:00
+date: 2023-02-24T15:28:14.000-05:00
 title: 'Black Boston Stories: Meet Florida Ruffin Ridley'
 description: 'Meet Florida Ruffin Ridley, an important Black Bostonian who worked,
   studied, played, and created within the landscapes on display in our featured exhibition,
@@ -15,8 +15,6 @@ draft: true
 ### Meet Florida Ruffin Ridley
 
 The maps in our featured exhibition, [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), tell stories that are ultimately about people. You’ll see maps covered with the names of {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c486z/6414,3426,874,609/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.07865,42.35128$zoom:19.29$base:maptiler-streets$overlay:ark:/76611/al7s13kaf" target="blank" >}} businesses,{{</popup>}} {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c4788/4048,2399,523,364/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.06954,42.34282$zoom:18.88$base:maptiler-streets$overlay:ark:/76611/al7s13kaf" target="blank" >}} homeowners,{{</popup>}}  and {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c516g/5453,3594,1419,822/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.10009,42.33943$zoom:18.60$base:maptiler-streets$overlay:ark:/76611/al7s13kaf" target="blank" >}} institutions,{{</popup>}}  all of which show places built, inhabited, maintained, and enjoyed by people.
-
-{{< figure src="/uploads/2023-02-16/cc_convention.jpeg" caption="" class="figure-right" >}}
 
 The stories of some people, however, are harder to find than others. In the case of Boston’s Black community, the [urban atlases](https://guides.bpl.org/urban-atlases/list) don’t always tell us as much as we might want to know. For example, the names of building owners are shown on the maps, but not those of renters. For various reasons, including racism, most Black Bostonians of the time did not own their own homes. However, they lived and worked throughout the city even though we may not see their names.
 
@@ -43,6 +41,8 @@ Florida is probably best known for her participation in the Black women’s club
 > _Women’s clubs are helping to bring us to a recognition of the truth that true dignity does not need barriers in order to preserve itself; that snobbishness is a vice, and that while friendship should be bound by congeniality, neighborliness should know no bounds. The club means the spirit of neighborliness with the world, the recognition of our duty toward our neighbor, and not only of our common humanity but our common divinity; the club helps us not only to make the best of that within us but to see the best of that in others._
 >
 > _—_ Florida Ruffin Ridley, Women’s Era, Oct-Nov, 1896
+
+{{< figure src="" caption="" class="figure-right" >}}
 
 In 1895, Florida and her mother were principal organizers of the first national convention of Black women’s clubs. The convention was held in Boston in Berkeley Hall, also known as the Odd Fellows Hall. Women from 14 states gathered to form a national organization. They created committees to address issues such as lynching, convict leasing, segregation and temperance. They listened to speeches from national activists, Black and white, such as Booker T. Washington and William Lloyd Garrison, Jr. The convention then moved to the {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bx56t/2489,2718,873,789/1200,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.07053,42.35813$zoom:18.99$base:maptiler-streets$overlay:ark:/76611/al8c4phfq" target="blank" >}} Charles Street Church{{</popup>}}  to finish their organizing, just a block from the Ruffin home.
 
