@@ -22,13 +22,11 @@ _Below, we follow Florida's story and see how her life intersected with many oth
 
 #### Growing Up
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nh98k/full/2000,/0/default.jpg" caption="Though Boston schools were integrated, the Black population of the city at the time was around 5%, compared with today’s approximately 20%. As a result, there were proportionally few Black students in classrooms. [_Students in Boston’s Putnam School, ca. 1890-1900._](https://collections.leventhalmap.org/search/commonwealth:q524n577r)" class="figure-right" >}}
-
 Florida was born in 1861 and lived with her parents, George and Josephine St. Pierre Ruffin, at the foot of Beacon Hill on {{< popup img-src="/uploads/2023-02-17/ruffin.jpeg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.07062,42.35903$zoom:19.87$base:maptiler-streets$overlay:ark:/76611/al8c31qra" target="blank" >}} Charles Street.{{</popup>}}  Her father was the first African-American to graduate from Harvard Law School and the first Black judge in the United States. Her mother was a well-known activist, writer, and organizer for suffrage and against racial injustice.
 
 Florida’s childhood was one of privilege. Her parents were financially well-to-do and highly educated, and so her early years were not representative of those of all Black children in the city. She attended the {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900r516z/2197,2777,798,810/2000,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.06737,42.36069$zoom:19.44$base:massgis-2021-orthos$overlay:ark:/76611/al8c28hx3" target="blank" >}} Grant School{{</popup>}}  near her home, the same school where she would teach after receiving her credentials from the Boston Teachers College as a young woman.
 
-{{< figure src="/uploads/2023-02-16/teacherqualificationrecord-floridaruffinridley-c.jpeg" caption="[_Florida Ruffin’s Teacher Qualification Record_](https://www.archivespublichistory.org/?tag=florida-ruffin-ridley)_,_ 1888. " class="figure-center" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nh98k/full/2000,/0/default.jpg" caption="Though Boston schools were integrated, the Black population of the city at the time was around 5%, compared with today’s approximately 20%. As a result, there were proportionally few Black students in classrooms. [_Students in Boston’s Putnam School, ca. 1890-1900._](https://collections.leventhalmap.org/search/commonwealth:q524n577r)" class="figure-center" >}}
 
 #### Creating Community
 
@@ -48,7 +46,7 @@ In 1918, Florida, her mother, and Maria Louisa Baldwin founded the **League of W
 
 Organized charity work was a foundational focus of Black women’s clubs. These relatively well-educated and affluent Black women actively engaged the fight against the struggles facing Black Americans and felt it was their responsibility to use their advantages to care for others. Florida wrote in the _Women’s Era_ about hosting a hospital fair followed by a “special effort for St. Monica’s Home, for sick and destitute colored women and children” whose “receipts were more than sufficient to supply the Home with all of its fuel for the year.”
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65kw322/43,328,3486,2648/2000,/0/default.jpg" caption="[Caption](https://www.digitalcommonwealth.org/search/commonwealth:gf06jm515)" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65kw322/35,326,3541,5000/1200,/0/default.jpg" caption="[Caption](https://www.digitalcommonwealth.org/search/commonwealth:gf06jm515)" class="figure-right" >}}
 
 The clubs also expressed care for the community by denouncing and organizing against the violence and racism that Black Americans faced. {{< popup img-src="/uploads/2023-02-17/tc_ida.jpeg" bib-src="https://npg.si.edu/object/npg_NPG.2009.36" target="blank" >}} Ida B. Wells,{{</popup>}}  who worked alongside Florida and her mother in founding the National Association of Colored Women’s Clubs, was a powerful anti-lynching advocate. In this open letter responding to British reformer Laura Ormiston Chant’s opposition to a Unitarian church resolution denouncing lynching, Florida uses her voice to speak out against racist terrorism:
 
