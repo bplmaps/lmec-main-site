@@ -32,15 +32,13 @@ Florida’s childhood was one of privilege. Her parents were financially well-to
 
 #### Creating Community
 
-{{< figure src="/uploads/2023-02-16/nmaahc-2010_2_1ab_001.jpg" caption="[_Banner with motto of the National Association of Colored Women's Clubs_](https://nmaahc.si.edu/object/nmaahc_2010.2.1abc), c. 1924." class="figure-right" >}}
-
 Florida is probably best known for her participation in the Black women’s club movement. As a founding member of the **Women’s Era Club**, a Boston-based club started in 1894 by her mother, and later a member of the **National Association of Colored Women’s Clubs (NACWC)**, Florida wrote and organized around issues of the day—from promoting the arts to women’s suffrage. The club movement created a national community of women committed to promoting the well-being of Black people, with a particular emphasis on Black women. The motto of the NACWC was {{< popup img-src="/uploads/2023-02-16/nmaahc-2010_2_1ab_001.jpg" bib-src="https://nmaahc.si.edu/object/nmaahc_2010.2.1abc" target="blank" >}} Lifting as We Climb{{</popup>}}  to convey its dedication to racial uplift.
+
+{{< figure src="/uploads/2023-02-17/ie_04_black-womens-clubs_officers-of-convention.jpeg" caption="" class="figure-right" >}}
 
 > _Women’s clubs are helping to bring us to a recognition of the truth that true dignity does not need barriers in order to preserve itself; that snobbishness is a vice, and that while friendship should be bound by congeniality, neighborliness should know no bounds. The club means the spirit of neighborliness with the world, the recognition of our duty toward our neighbor, and not only of our common humanity but our common divinity; the club helps us not only to make the best of that within us but to see the best of that in others._
 >
 > _—_ Florida Ruffin Ridley, Women’s Era, Oct-Nov, 1896
-
-{{< figure src="/uploads/2023-02-17/ie_04_black-womens-clubs_officers-of-convention.jpeg" caption="" class="figure-right" >}}
 
 In 1895, Florida and her mother were principal organizers of the first national convention of Black women’s clubs. The convention was held in Boston in Berkeley Hall, also known as the Odd Fellows Hall. Women from 14 states gathered to form a national organization. They created committees to address issues such as lynching, convict leasing, segregation and temperance. They listened to speeches from national activists, Black and white, such as Booker T. Washington and William Lloyd Garrison, Jr. The convention then moved to the {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bx56t/2489,2718,873,789/1200,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.07053,42.35813$zoom:18.99$base:maptiler-streets$overlay:ark:/76611/al8c4phfq" target="blank" >}} Charles Street Church{{</popup>}}  to finish their organizing, just a block from the Ruffin home.
 
