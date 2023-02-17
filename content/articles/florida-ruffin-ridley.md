@@ -60,7 +60,7 @@ The clubs also expressed care for the community by denouncing and organizing aga
 
 As part of her leadership for the League of Women for Community Service, Florida was committed to celebrating and raising awareness about Black artists. She sponsored performances of amateur theater, chorales from Black colleges, and classical performances, as well as art exhibitions. Her exhibitions include one hosted at the Boston Public Library in 1922. Her own brother George Ruffin was an accomplished singer and performed around Massachusetts.
 
-As a young child, and then as a mother with children of her own, Florida might have participated in a May Day celebration like {{< popup img-src="" bib-src="" target="blank" >}} this one{{</popup>}}  organized by many of the women she knew and advertised in the Women’s Era magazine in 1895.
+As a young child, and then as a mother with children of her own, Florida might have participated in a May Day celebration like {{< popup img-src="/uploads/2023-02-17/neu_27955.jpg" bib-src="https://repository.library.northeastern.edu/files/neu:27953" target="blank" >}} this one{{</popup>}}  organized by many of the women she knew and advertised in the Women’s Era magazine in 1895.
 
 {{< figure src="" caption="" class="figure-center" >}}
 
