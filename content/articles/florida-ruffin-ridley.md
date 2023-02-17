@@ -66,7 +66,7 @@ The {{< popup img-src="/uploads/2023-02-17/tubman.jpeg" bib-src="https://atlasco
 
 #### Making and Trading
 
-{{< figure src="/uploads/2023-02-17/park.jpeg" caption="Ulysses A. Ridley ran his tailoring business at [212 Pleasant Street](https://atlascope.org/#/view:share$mode:glass$center:-71.06777,42.35088$zoom:18.71$base:maptiler-streets$overlay:ark:/76611/al8by10f3)." class="figure-right" >}}
+{{< figure src="/uploads/2023-02-17/park.jpeg" caption="Ulysses A. Ridley's tailoring business operated out of [212 Pleasant Street](https://atlascope.org/#/view:share$mode:glass$center:-71.06777,42.35088$zoom:18.71$base:maptiler-streets$overlay:ark:/76611/al8by10f3)." class="figure-right" >}}
 
 For the majority of Black Bostonians in Florida’s lifetime, especially those who had recently migrated from southern states, racism presented a formidable barrier to stable employment. Black men in Boston often worked as bootblacks, janitors, laborers, servants, waiters, and porters, while women often found work as cooks, maids, seamstresses and nursemaids. Boston’s Black entrepreneurs operated businesses that employed black laborers, organizing many of them to engage in collective political action.
 
