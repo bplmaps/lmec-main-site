@@ -66,7 +66,7 @@ The {{< popup img-src="/uploads/2023-02-17/tubman.jpeg" bib-src="https://atlasco
 
 #### Making and Trading
 
-{{< figure src="/uploads/2023-02-17/magazine.png" caption="Next door to Ulysses’s shop, the offices of the groundbreaking _Colored American Magazine_ bustled as they published new African-American literature and articles protesting racial injustice." class="figure-right" >}}
+{{< figure src="/uploads/2023-02-17/magazine.png" caption="Next door to Ulysses’s shop, the [_Colored American Magazine_](https://coloredamerican.org/?page_id=739) operated out of 5 Park Square." class="figure-right" >}}
 
 For the majority of Black Bostonians in Florida’s lifetime, especially those who had recently migrated from southern states, racism presented a formidable barrier to stable employment. Black men in Boston often worked as bootblacks, janitors, laborers, servants, waiters, and porters, while women often found work as cooks, maids, seamstresses and nursemaids. Boston’s Black entrepreneurs operated businesses that employed black laborers, organizing many of them to engage in collective political action.
 
