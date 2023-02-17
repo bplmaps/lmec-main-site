@@ -48,7 +48,7 @@ In 1918, Florida, her mother, and Maria Louisa Baldwin founded the **League of W
 
 Organized charity work was a foundational focus of Black women’s clubs. These relatively well-educated and affluent Black women actively engaged the fight against the struggles facing Black Americans and felt it was their responsibility to use their advantages to care for others. Florida wrote in the _Women’s Era_ about hosting a hospital fair followed by a “special effort for St. Monica’s Home, for sick and destitute colored women and children” whose “receipts were more than sufficient to supply the Home with all of its fuel for the year.”
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65kw322/43,328,3486,2648/2000,/0/default.jpg" caption="[Caption](https://www.digitalcommonwealth.org/search/commonwealth:gf06jm515)" class="figure-center" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65kw322/43,328,3486,2648/2000,/0/default.jpg" caption="[Caption](https://www.digitalcommonwealth.org/search/commonwealth:gf06jm515)" class="figure-right" >}}
 
 The clubs also expressed care for the community by denouncing and organizing against the violence and racism that Black Americans faced. {{< popup img-src="/uploads/2023-02-17/tc_ida.jpeg" bib-src="https://npg.si.edu/object/npg_NPG.2009.36" target="blank" >}} Ida B. Wells,{{</popup>}}  who worked alongside Florida and her mother in founding the National Association of Colored Women’s Clubs, was a powerful anti-lynching advocate. In this open letter responding to British reformer Laura Ormiston Chant’s opposition to a Unitarian church resolution denouncing lynching, Florida uses her voice to speak out against racist terrorism:
 
@@ -60,9 +60,7 @@ The clubs also expressed care for the community by denouncing and organizing aga
 
 As part of her leadership for the League of Women for Community Service, Florida was committed to celebrating and raising awareness about Black artists. She sponsored performances of amateur theater, chorales from Black colleges, and classical performances, as well as art exhibitions. Her exhibitions include one hosted at the Boston Public Library in 1922. Her own brother George Ruffin was an accomplished singer and performed around Massachusetts.
 
-As a young child, and then as a mother with children of her own, Florida might have participated in a May Day celebration like {{< popup img-src="/uploads/2023-02-17/neu_27955.jpg" bib-src="https://repository.library.northeastern.edu/files/neu:27953" target="blank" >}} this one{{</popup>}}  organized by many of the women she knew and advertised in the Women’s Era magazine in 1895.
-
-{{< figure src="/uploads/2023-02-17/mayday.jpeg" caption="[caption](https://www.digitalcommonwealth.org/search/commonwealth:br86dm89q)" class="figure-center" >}}
+As a young child, and then as a mother with children of her own, Florida might have participated in a May Day celebration like {{< popup img-src="/uploads/2023-02-17/neu_27955.jpg" bib-src="https://repository.library.northeastern.edu/files/neu:27953" target="blank" >}} this one{{</popup>}}  organized by many of the women she knew and [advertised](https://www.digitalcommonwealth.org/search/commonwealth:br86dm89q) in the Women’s Era magazine in 1895:
 
 ![](/uploads/2023-02-17/mayday.jpeg)
 
