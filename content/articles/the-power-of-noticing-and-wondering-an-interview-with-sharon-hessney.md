@@ -38,7 +38,7 @@ Maps, by definition, are about space. Data can be superimposed on a map by showi
 
 I have four learning objectives for students when I use graphs:
 
-{{< figure src="/uploads/2023-02-14/cheese-graph-full.png" caption="What do you notice and wonder about the cheddar cheese in [this graph](https://www.nytimes.com/2017/10/09/learning/whats-going-on-in-this-graph-oct-10-2017.html?smid=url-share)?" class="figure-right" >}}
+{{< figure src="/uploads/2023-02-14/cheese-graph-full.png" caption="What do you notice and wonder about the cheddar cheese in [this graph](https://www.nytimes.com/2017/10/09/learning/whats-going-on-in-this-graph-oct-10-2017.html?smid=url-share)?" class="figure-left" >}}
 
 * Learn to read “the story” in the graph. Sometimes the story that the graph tells is not even highlighted in the article.
 * Learn about the world around them.
