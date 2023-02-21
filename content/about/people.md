@@ -13,10 +13,6 @@ aliases:
 
 {{< staff-list staff_category="staff" >}}
 
-## Fellows
-
-{{< staff-list staff_category="fellow" >}}
-
 ## Interns
 
 {{< staff-list staff_category="intern" >}}
