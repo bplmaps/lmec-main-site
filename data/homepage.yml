@@ -58,10 +58,6 @@ cta:
   - badge: Summer 2023 internships
     text: We're seeking to hire two undergraduate interns focused on geospatial research
     link: https://www.leventhalmap.org/about/jobs/2023-summer-internships/
-  - badge: Upcoming closure
-    text: The Leventhal Center  and all BPL locations will be closed on Monday, February
-      20, in observance of Presidents' Day
-    link: https://www.leventhalmap.org/about/hours-directions/
 audiences:
   enable: true
   audienceGroups:
