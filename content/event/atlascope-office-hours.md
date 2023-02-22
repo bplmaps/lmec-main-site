@@ -14,8 +14,6 @@ draft: true
 ---
 ### About this event
 
-Come explore Boston through the lens of historic urban atlases! Our [Atlascope tool](https://atlascope.leventhalmap.org/) transforms 101 atlas layers of Boston and its inner suburbs into a web interface suitable for browsing on a computer or mobile device. With new features to empower storytelling, annotation, and discovery, as well as connections into other Massachusetts digital collections, Atlascope is the perfect tool for folks researching family and local history.... 
-
-During Atlascope Office Hours, LMEC Staff will be available to answer questions, provide a demonstration of Atlascope features, troubleshoot research methods, and more. 
+Come explore Boston through the lens of historic urban atlases! Our [Atlascope tool](https://atlascope.leventhalmap.org/) transforms 101 atlas layers of Boston and its inner suburbs into a web interface suitable for browsing on a computer or mobile device. With features to empower storytelling, annotation, and discovery, as well as connections into other Massachusetts digital collections, Atlascope is the perfect tool for folks interested in family and local history, urban change over time....During Atlascope Office Hours, LMEC Staff will be available to answer questions, provide a demonstration of Atlascope features, troubleshoot atlas-based research inquiries, and more. 
 
 _Drop in anytime between 2:00PM – 4:00PM. Chromebooks will be provided._ 
