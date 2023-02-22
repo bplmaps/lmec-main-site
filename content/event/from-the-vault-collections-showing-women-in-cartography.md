@@ -14,7 +14,7 @@ tags:
 ---
 ### About this event
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw29z/full/1200,/0/default.jpg" caption="This [pictorial map of Loveland](https://collections.leventhalmap.org/search/commonwealth:st74cw28p) was made by Ernest Dudley Chase in the mid-twentieth century." class="figure-right" >}}
+{{< figure src="ttps://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463609g/full/1200,/0/default.jpg" caption="Designed by Agnes Sinclair Holbrook, a Wellesley College graduate and resident of Chicago’s Hull-House, [this thematic map](https://collections.leventhalmap.org/search/commonwealth:3f4636086) of the neighborhood east of the House illustrates the immigrant population living in the area." class="figure-right" >}}
 
 Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at maps, globes, atlases and works by female creators. 
 
