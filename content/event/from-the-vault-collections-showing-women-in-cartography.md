@@ -14,9 +14,9 @@ tags:
 ---
 ### About this event
 
-{{< figure src="ttps://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463609g/full/1200,/0/default.jpg" caption="Designed by Agnes Sinclair Holbrook, a Wellesley College graduate and resident of Chicago’s Hull-House, [this thematic map](https://collections.leventhalmap.org/search/commonwealth:3f4636086) of the neighborhood east of the House illustrates the immigrant population living in the area." class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463609g/full/1200,/0/default.jpg" caption="Designed by Agnes Sinclair Holbrook, a Wellesley College graduate and resident of Chicago’s Hull-House, [this thematic map](https://collections.leventhalmap.org/search/commonwealth:3f4636086) of the neighborhood east of the House illustrates the immigrant population living in the area." class="figure-right" >}}
 
-Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at maps, globes, atlases and works by female creators. 
+Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at maps, globes, atlases and other cartographic works by female creators. 
 
 _Drop in any time between 2:00PM - 4:00PM._
 
