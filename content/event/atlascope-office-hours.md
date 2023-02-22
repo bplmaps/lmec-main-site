@@ -7,7 +7,8 @@ backgroundImage: "/uploads/2023-02-22/screen-shot-2023-02-22-at-4-18-30-pm.png"
 location: LMEC Learning Center
 fee: Free
 registration: ''
-tags: []
+tags:
+- atlascope
 draft: true
 
 ---
