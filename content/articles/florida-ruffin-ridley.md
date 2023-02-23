@@ -1,5 +1,5 @@
 ---
-date: 2023-02-24T15:28:14-05:00
+date: 2023-02-24T09:30:14-05:00
 title: 'Black Boston Stories: Meet Florida Ruffin Ridley'
 description: 'Meet Florida Ruffin Ridley, an important Black Bostonian who worked,
   studied, played, and created within the landscapes on display in our featured exhibition,
