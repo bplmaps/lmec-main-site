@@ -32,13 +32,13 @@ Florida’s childhood was one of privilege. Her parents were financially well-to
 
 #### Creating Community
 
-{{< figure src="/uploads/2023-02-17/ie_04_black-womens-clubs_officers-of-conv_ntion.jpeg" caption="_Florida appears here with her mother, Josephine St. Pierre Ruffin, as well as Hannah Smith and Eliza Gardner as [_Officers of First National Conference of Colored Women in Boston_](https://wams.nyhistory.org/industry-and-empire/fighting-for-equality/black-womens-clubs/)_,_ 1895." class="figure-right" >}}
+{{< figure src="/uploads/2023-02-17/ie_04_black-womens-clubs_officers-of-conv_ntion.jpeg" caption="_Florida appears here with her mother, Josephine St. Pierre Ruffin, as well as Hannah Smith and Eliza Gardner as [Officers of First National Conference of Colored Women in Boston](https://wams.nyhistory.org/industry-and-empire/fighting-for-equality/black-womens-clubs/), 1895." class="figure-right" >}}
 
 Florida is probably best known for her participation in the Black women’s club movement. As a founding member of the **Women’s Era Club**, a Boston-based club started in 1894 by her mother, and later a member of the **National Association of Colored Women’s Clubs** (NACWC), Florida wrote and organized around issues of the day—from promoting the arts to women’s suffrage. The club movement created a national community of women committed to promoting the well-being of Black people, with a particular emphasis on Black women. The motto of the NACWC was {{< popup img-src="/uploads/2023-02-16/nmaahc-2010_2_1ab_001.jpg" bib-src="https://nmaahc.si.edu/object/nmaahc_2010.2.1abc" target="blank" >}} Lifting as We Climb{{</popup>}}  to convey its dedication to racial uplift.
 
-> _Women’s clubs are helping to bring us to a recognition of the truth that true dignity does not need barriers in order to preserve itself; that snobbishness is a vice, and that while friendship should be bound by congeniality, neighborliness should know no bounds. The club means the spirit of neighborliness with the world, the recognition of our duty toward our neighbor, and not only of our common humanity but our common divinity; the club helps us not only to make the best of that within us but to see the best of that in others._
+> Women’s clubs are helping to bring us to a recognition of the truth that true dignity does not need barriers in order to preserve itself; that snobbishness is a vice, and that while friendship should be bound by congeniality, neighborliness should know no bounds. The club means the spirit of neighborliness with the world, the recognition of our duty toward our neighbor, and not only of our common humanity but our common divinity; the club helps us not only to make the best of that within us but to see the best of that in others.
 >
-> _—_ Florida Ruffin Ridley, Women’s Era, Oct-Nov, 1896
+> _— Florida Ruffin Ridley, Women’s Era, Oct-Nov, 1896_
 
 In 1895, Florida and her mother were principal organizers of the **First National Conference** of Black women’s clubs. The convention was held in Boston in Berkeley Hall, also known as the Odd Fellows Hall. Women from 14 states gathered to form a national organization. They created committees to address issues such as lynching, convict leasing, segregation and temperance. They listened to speeches from national activists, Black and white, such as Booker T. Washington and William Lloyd Garrison, Jr. The convention then moved to the {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bx56t/2489,2718,873,789/1200,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.07053,42.35813$zoom:18.99$base:maptiler-streets$overlay:ark:/76611/al8c4phfq" target="blank" >}} Charles Street Church{{</popup>}}  to finish their organizing, just a block from the Ruffin home.
 
@@ -52,9 +52,9 @@ Organized charity work was a foundational focus of Black women’s clubs. These 
 
 The clubs also expressed care for the community by denouncing and organizing against the violence and racism that Black Americans faced. {{< popup img-src="/uploads/2023-02-17/tc_ida.jpeg" bib-src="https://npg.si.edu/object/npg_NPG.2009.36" target="blank" >}} Ida B. Wells,{{</popup>}}  who worked alongside Florida and her mother in founding the National Association of Colored Women’s Clubs, was a powerful anti-lynching advocate. In this open letter responding to British reformer Laura Ormiston Chant’s opposition to a Unitarian church resolution denouncing lynching, Florida uses her voice to speak out against racist terrorism:
 
-> _In the interest of common humanity, in the interest of justice, for the good name of our country, we solemnly raise our voice against the horrible crimes of lynch law as practiced in the south, and we call upon Christians everywhere to do the same or be branded as sympathizers with the murderers._
+> In the interest of common humanity, in the interest of justice, for the good name of our country, we solemnly raise our voice against the horrible crimes of lynch law as practiced in the south, and we call upon Christians everywhere to do the same or be branded as sympathizers with the murderers.
 >
-> _—_ Florida Ruffin Ridley, Women’s Era, June 1894
+> _— Florida Ruffin Ridley, Women’s Era, June 1894_
 
 #### Having Fun
 
