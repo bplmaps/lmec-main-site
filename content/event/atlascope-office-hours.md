@@ -9,6 +9,7 @@ fee: Free
 registration: ''
 tags:
 - atlascope
+draft: true
 
 ---
 ### Explore Boston through the lens of historic urban atlases
