@@ -9,7 +9,6 @@ author: LMEC Staff
 tags:
 - Building Blocks
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65kw322/54,245,3560,3002/2000,/0/default.jpg
-draft: true
 
 ---
 ### Meet Florida Ruffin Ridley
@@ -32,7 +31,7 @@ Florida’s childhood was one of privilege. Her parents were financially well-to
 
 After her own children were grown and out of the house, Florida began to write short stories. In 1926 she wrote about two thirteen-year-old boys, one Black (Arthur) and one white (Morton). In the course of the story, Arthur’s mother notes how in Boston’s integrated schools, students make interracial friendships, and the two boys seem to be close friends. But then the boys get into a physical fight, and Arthur’s mother learns about the reason for their dispute by eavesdropping on a conversation held by the boys’ friends outside her window:
 
-> “…what’d they fight about?” 
+> “…what’d they fight about?”
 >
 > “Well,” with deliberation, “Mort attacked Art’s good name, I’d fight for my good name, wouldn’t you—Mort tried to talk out of it but all the fellas were on Art’s side!”
 >
@@ -86,6 +85,6 @@ The {{< popup img-src="/uploads/2023-02-17/tubman.jpeg" bib-src="https://atlasco
 
 {{< figure src="/uploads/2023-02-17/magazine.png" caption="Next door to Ulysses’s shop, the [_Colored American Magazine_](https://coloredamerican.org/?page_id=739) operated out of 5 Park Square." class="figure-right" >}}
 
-For the majority of Black Bostonians in Florida’s lifetime, especially those who had recently migrated from southern states, racism presented a formidable barrier to stable employment. Black men in Boston often worked as bootblacks, janitors, laborers, servants, waiters, and porters, while women often found work as cooks, maids, seamstresses and nursemaids. Boston’s Black entrepreneurs operated businesses that employed black laborers, organizing many of them to engage in collective political action.
+For the majority of Black Bostonians in Florida’s lifetime, especially those who had recently migrated from southern states, racism presented a formidable barrier to stable employment. Black men in Boston often worked as bootblacks, janitors, laborers, servants, waiters, and porters, while women often found work as cooks, maids, seamstresses and nursemaids. Boston’s Black entrepreneurs operated businesses that employed Black laborers, organizing many of them to engage in collective political action.
 
 The maps in this exhibition rarely show us the names of Black businesses, but we can use other kinds of sources, like city directories and newspaper advertisements, to uncover their stories. For example, Florida’s husband Ulysses A. Ridley ran his tailoring business at {{< popup img-src="/uploads/2023-02-17/park.jpeg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.06802,42.35071$zoom:18.88$base:maptiler-streets$overlay:ark:/76611/al8by10f3" target="blank" >}} 212 Pleasant Street{{</popup>}}  in Boston’s Park Square, advertised {{< popup img-src="/uploads/2023-02-17/merchant-tailor.png" bib-src="" target="blank" >}} here{{</popup>}}  in the _New York Age_ newspaper. Next door to Ulysses’s shop, the offices of the groundbreaking [_Colored American Magazine_](https://coloredamerican.org/?page_id=739) bustled as they published new African-American literature and articles protesting racial injustice.
