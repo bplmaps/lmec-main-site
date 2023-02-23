@@ -1,5 +1,5 @@
 ---
-publishDate: 2023-01-27T10:22:52-05:00
+publishDate: 2023-01-27T10:22:52.000-05:00
 title: Lower Mills By Map
 date: 2023-04-10T18:00:00-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633ff67c/1174,1718,7120,2963/1200,/0/default.jpg
