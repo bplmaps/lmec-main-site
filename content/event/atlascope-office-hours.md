@@ -14,6 +14,8 @@ draft: true
 ---
 ### Explore Boston through the lens of historic urban atlases
 
+{{< figure src="/uploads/2023-02-23/screen-shot-2023-02-23-at-9-29-36-am.png" caption="" class="figure-right" >}}
+
 The Leventhal Center has an extraordinary collection of urban atlases dating from the late 19th to early 20th centuries, one of the most important sets of documents for depicting how our city and region have changed over time. Our [Atlascope tool](https://atlascope.leventhalmap.org/) transforms 101 of these atlases into a web interface suitable for browsing on a computer or mobile device, making it easy to compare buildings and owners, zoom into the past right from where you’re standing, and share maps with others to tell stories about places over time. With new features to empower storytelling, annotation, and discovery, as well as connections into other Massachusetts digital collections, Atlascope is the perfect tool for folks interested in family and local history, urban change over time....
 
 Using Atlascope, we can find answers to questions like:
