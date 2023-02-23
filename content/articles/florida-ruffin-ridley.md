@@ -30,6 +30,22 @@ Florida’s childhood was one of privilege. Her parents were financially well-to
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nh98k/full/2000,/0/default.jpg" caption="Though Boston schools were integrated, the Black population of the city at the time was around 5%, compared with today’s approximately 20%. As a result, there were proportionally few Black students in classrooms. [_Students in Boston’s Putnam School, ca. 1890-1900._](https://collections.leventhalmap.org/search/commonwealth:q524n577r)" class="figure-center" >}}
 
+After her own children were grown and out of the house, Florida began to write short stories. In 1926 she wrote about two thirteen-year-old boys, one Black (Arthur) and one white (Morton). In the course of the story, Arthur’s mother notes how in Boston’s integrated schools, students make interracial friendships, and the two boys seem to be close friends. But then the boys get into a physical fight, and Arthur’s mother learns about the reason for their dispute by eavesdropping on a conversation held by the boys’ friends outside her window:
+
+> “…what’d they fight about?” 
+>
+> “Well,” with deliberation, “Mort attacked Art’s good name, I’d fight for my good name, wouldn’t you—Mort tried to talk out of it but all the fellas were on Art’s side!”
+>
+> “Sure, I’d fight for my good name—did he call him a liar?”
+>
+> “Worse than that, he went to the guild and he had to report his good deed, and he said he had been ‘elevating a little colored boy!’”
+
+Arthur’s mother considers the situation a few days later:
+
+> "…What had been \[Morton’s\] reaction from the fight? In his relations with Arthur, how much had he been influenced by adults? What were the parents’ reactions? Were they possibly those of the rebuffed missionaries who only feel pity that the heathen do not know what is good for them? As for my little son—I never discussed the matter with him. I felt he had shown himself wiser than I. With instinctive wisdom, he had sensed a situation to which I was blind, and had met that situation adequately."
+>
+> _— Florida Ruffin Ridley, in Opportunity 3, January 1926_
+
 #### Creating Community
 
 {{< figure src="/uploads/2023-02-17/ie_04_black-womens-clubs_officers-of-convention.jpeg" caption="Florida appears here with her mother, Josephine St. Pierre Ruffin, as well as Hannah Smith and Eliza Gardner as [Officers of First National Conference of Colored Women in Boston](https://wams.nyhistory.org/industry-and-empire/fighting-for-equality/black-womens-clubs/), 1895." class="figure-right" >}}
