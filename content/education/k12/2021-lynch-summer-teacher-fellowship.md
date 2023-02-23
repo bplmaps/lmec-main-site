@@ -1,11 +1,11 @@
 +++
 backgroundImage = ""
 description = "Our fellowship program for K-12 teachers "
-title = "2022 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History"
+title = "2023 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History"
 weight = ""
 
 +++
-**Applications due:** **APPLICATION PROCESS CLOSED FOR 2022**
+**Applications due:** **Monday, May 1**
 
 **Stipend:** $1000
 
@@ -14,6 +14,8 @@ weight = ""
 _Are you a teacher who teaches Boston history or contemporary issues in Boston?_
 
 _Do you engage your students in project-based learning connected to Boston neighborhoods and social justice issues?_
+
+_Are you interested in developing curriculum about Boston's Black history and present for your classroom?_
 
 _Would you like to incorporate more Boston-area maps in your classroom practice?_
 
@@ -25,17 +27,17 @@ If you answered “Yes!” to any of the above questions, then join the Norman B
 
 ### **Who can apply?**
 
-Any K-12 teacher or library media specialist who has an interest in teaching about Boston using maps and wants to create curricula in any content discipline area. Special consideration given to educators exploring issues of social justice in some way. _Boston Public School teachers are especially encouraged to apply_, _as are teams of two or more teachers from one school_
+Any K-12 teacher or library media specialist who has an interest in teaching about Boston using maps and wants to create curricula in any content discipline area. Special consideration will be given to educators exploring issues of social justice in some way, especially as it relates to Boston’s Black communities. _Boston Public School teachers are especially encouraged to apply_, _as are teams of two or more teachers from one school._
 
 ### **Expectations**
 
-* As a cohort, teachers will meet in person 3 times over the summer (dates TBD). Dates will all be in June/July/August and will be coordinated with Map Center staff. LMEC education staff will also schedule check-ins individually with fellows over the course of the summer.
+* As a cohort, teachers will meet in person 3 times over the summer (_First meeting will be on Saturday, June 10th, 9:30 to 3:30_). Dates will all be in June/July/August and will be coordinated with Map Center staff. LMEC education staff will also schedule check-ins individually with fellows over the course of the summer.
 * A final project must be completed by the end of August. Final projects can be lessons and activities incorporating primary sources, including maps, from the collections of the Leventhal Map & Education Center and Boston Public Library as well as other resources.
 * Fellows must be willing to have their projects shared with the larger teaching community, online, and in person to other teachers as part of professional development (TBD).
 
 ### **To apply**
 
-#### **Deadline: APPLICATION PROCESS CLOSED FOR 2022**
+#### **Deadline: Monday, May 1**
 
 _To apply, please send:_
 
@@ -45,10 +47,12 @@ _To apply, please send:_
 
 Please email all documents to: [mleblanc@leventhalmap.org](mailto:mleblanc@leventhalmap.org)
 
-**Don’t take our word for it! Ask our 2021 Fellows:**
+**Don’t take our word for it! Our 2022 Fellows share what they liked about their time at the Map Center :**
 
-> _"The flexibility of the program to make what we are doing meaningful to our students first and foremost \[was something I liked about being a fellow\]. We clearly teach in very different contexts with specific needs, requirements, etc. and I appreciated how \[the center\] honored that diversity.”_
+> _"I am thinking about utilizing maps to help students develop a sense of locality and history. Boston is so historically rich and maps help students connect to that history more tangibly. I am thinking about maps as "sources" for students to think critically about: whose story is being told? Whose is excluded?”_
 >
-> _“I was not even considering using ArcGIS with students before this fellowship. The whole idea was intimidating and I wasn't aware it was free through ESRI. Learning about it in pieces (and especially in the training you expertly led us through) makes me feel like I have the tools to create experiences with students.”_
+> _"(paid) time to think deeply and critically about new resources to use in my classroom. Guidance from thoughtful, experienced educators (Michelle and Lynn). Useful feedback from other educators about my work, so I can improve."_
 >
-> _“I am thinking a lot more deeply about maps and how the data used to generate them can serve so many purposes and agendas. However, teaching students to think critically while teaching them how to use and make maps is endlessly rich and something I want to bring into daily classroom instruction.”_
+> _“Sometimes our school networks get too claustrophobic and it is so refreshing to meet other motivated educators who are working so hard (across disciplines!) to serve their students.”_
+>
+> _“There were so many things I enjoyed about my time as a teacher fellow. The support from Lynn and Michelle, as well as access to materials was incredibly helpful. The flexibility as we developed our project in conjunction with the check ins was useful to create a project that I feel confident about using in the classroom.”_
