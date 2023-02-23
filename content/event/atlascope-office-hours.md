@@ -18,9 +18,9 @@ The Leventhal Center has an extraordinary collection of urban atlases dating fro
 
 Using Atlascope, we can find answers to questions like:
 
-* Who owned the land in 1884 where Fenway Park sits today?
-* Which railroad lines had passenger terminals in 1883 at the site of today’s North Station?
-* Did any women own land in what became Franklin Park in 1874?
+* [Who owned the land in 1884 where Fenway Park sits today](https://atlascope.org/#/view:share$mode:glass$center:-71.09693,42.34659$zoom:17.75$base:maptiler-streets$overlay:ark:/76611/al84rac0k)?
+* [Which railroad lines had passenger terminals in 1883 at the site of today’s North Station](https://atlascope.org/#/view:share$mode:glass$center:-71.06230,42.36603$zoom:17.34$base:maptiler-streets$overlay:ark:/76611/al8c28hx3)?
+* [Did any women own land in what became Franklin Park in 1874](https://atlascope.org/#/view:share$mode:glass$center:-71.09516,42.30868$zoom:16.21$base:maptiler-streets$overlay:ark:/76611/al8c2h4jv)?
 
 During Atlascope Office Hours, LMEC Staff will be available to answer questions, provide a demonstration of Atlascope features, troubleshoot atlas-based research inquiries, and more.
 
