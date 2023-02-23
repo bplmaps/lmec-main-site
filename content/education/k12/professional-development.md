@@ -32,6 +32,21 @@ Join us for this self-paced online professional development course hosted by the
 
 {{< /alert-box >}}
 
+### Stay tuned! Upcoming PD
+
+#### **_Geographies of Black Women Activists in turn-of-the-20th-century Boston_**
+
+##### July 10 - 12, 2023
+
+In conjunction with our current exhibition, [Building Blocks: Boston Stories from Urban Atlases](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), we will host a three-day educator workshop in the summer of 2023 centered on the role of Black women activists in Boston's history and their impact. Keep an eye on this page for registration information and more details, or sign up for our education newsletter to get this information in your inbox as soon as we announce it. 
+
+Participants will 
+
+* locate themselves in relation to their knowledge of  Boston's Black history and their comfort in teaching about it.
+* develop an appreciation for how space is occupied: physical/geographic, intellectual, emotional, and for historical legacy (narrative and memorializing)
+* gain confidence in using maps and geographic thinking to support these topics
+* access map collections and resources, along with other primary source archives
+
 ### Past Workshops
 
 See a [list of past workshops here](/education/k12/past-workshops), with links to workshop materials.
