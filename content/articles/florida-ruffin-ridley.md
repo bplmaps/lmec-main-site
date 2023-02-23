@@ -32,7 +32,7 @@ Florida’s childhood was one of privilege. Her parents were financially well-to
 
 #### Creating Community
 
-{{< figure src="/uploads/2023-02-17/ie_04_black-womens-clubs_officers-of-conv_ntion.jpeg" caption="_Florida appears here with her mother, Josephine St. Pierre Ruffin, as well as Hannah Smith and Eliza Gardner as [Officers of First National Conference of Colored Women in Boston](https://wams.nyhistory.org/industry-and-empire/fighting-for-equality/black-womens-clubs/), 1895." class="figure-right" >}}
+{{< figure src="/uploads/2023-02-17/ie_04_black-womens-clubs_officers-of-convention.jpeg" caption="Florida appears here with her mother, Josephine St. Pierre Ruffin, as well as Hannah Smith and Eliza Gardner as [Officers of First National Conference of Colored Women in Boston](https://wams.nyhistory.org/industry-and-empire/fighting-for-equality/black-womens-clubs/), 1895." class="figure-right" >}}
 
 Florida is probably best known for her participation in the Black women’s club movement. As a founding member of the **Women’s Era Club**, a Boston-based club started in 1894 by her mother, and later a member of the **National Association of Colored Women’s Clubs** (NACWC), Florida wrote and organized around issues of the day—from promoting the arts to women’s suffrage. The club movement created a national community of women committed to promoting the well-being of Black people, with a particular emphasis on Black women. The motto of the NACWC was {{< popup img-src="/uploads/2023-02-16/nmaahc-2010_2_1ab_001.jpg" bib-src="https://nmaahc.si.edu/object/nmaahc_2010.2.1abc" target="blank" >}} Lifting as We Climb{{</popup>}}  to convey its dedication to racial uplift.
 
