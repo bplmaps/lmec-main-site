@@ -12,7 +12,9 @@ tags:
 draft: true
 
 ---
-### Explore Boston through the lens of historic urban atlases
+### About this event 
+
+#### Explore Boston through the lens of historic urban atlases
 
 {{< figure src="/uploads/2023-02-23/screen-shot-2023-02-23-at-9-29-36-am.png" caption="" class="figure-right" >}}
 
