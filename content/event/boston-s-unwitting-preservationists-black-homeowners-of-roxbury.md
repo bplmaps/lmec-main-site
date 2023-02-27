@@ -6,7 +6,7 @@ image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c3668/798,10
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c3668/798,1030,6279,3853/2000,/0/default.jpg
 location: Central Library, Rabb Lecture Hall
 fee: Free
-registration: See below
+registration: https://www.eventbrite.com/e/bostons-unwitting-preservationists-black-homeowners-of-roxbury-tickets-565564708267
 tags:
 - Atlascope
 draft: true
