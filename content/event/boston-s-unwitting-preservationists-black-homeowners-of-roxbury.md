@@ -9,9 +9,10 @@ fee: Free
 registration: https://www.eventbrite.com/e/bostons-unwitting-preservationists-black-homeowners-of-roxbury-tickets-565564708267
 tags:
 - Atlascope
-draft: true
 
 ---
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This program is organized in partnership with the Boston Preservation Alliance.{{< /alert-box >}}
+
 ### About this event
 
 Join the [Boston Preservation Alliance](https://www.bostonpreservation.org/) with the Leventhal Map & Education Center for a talk on histories of preservation in Boston. Leventhal Center President and Head Curator, Garrett Dash Nelson, will give a live demonstration of the Center's [Atlascope](https://www.atlascope.org/) tool. The demo will be followed by a discussion with Maddie Webster, PhD, who heavily used the Atlascope tool while researching Boston.
