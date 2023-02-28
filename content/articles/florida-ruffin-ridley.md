@@ -1,5 +1,5 @@
 ---
-date: 2023-02-24T09:30:14-05:00
+date: 2023-02-24T09:30:14.000-05:00
 title: 'Black Boston Stories: Meet Florida Ruffin Ridley'
 description: 'Meet Florida Ruffin Ridley, an important Black Bostonian who worked,
   studied, played, and created within the landscapes on display in our featured exhibition,
@@ -49,11 +49,11 @@ Arthur’s mother considers the situation a few days later:
 
 {{< figure src="/uploads/2023-02-17/ie_04_black-womens-clubs_officers-of-convention.jpeg" caption="Florida appears here with her mother, Josephine St. Pierre Ruffin, as well as Hannah Smith and Eliza Gardner as [Officers of First National Conference of Colored Women in Boston](https://wams.nyhistory.org/industry-and-empire/fighting-for-equality/black-womens-clubs/), 1895." class="figure-right" >}}
 
-Florida is probably best known for her participation in the Black women’s club movement. As a founding member of the **Women’s Era Club**, a Boston-based club started in 1894 by her mother, and later a member of the **National Association of Colored Women’s Clubs** (NACWC), Florida wrote and organized around issues of the day—from promoting the arts to women’s suffrage. The club movement created a national community of women committed to promoting the well-being of Black people, with a particular emphasis on Black women. The motto of the NACWC was {{< popup img-src="/uploads/2023-02-16/nmaahc-2010_2_1ab_001.jpg" bib-src="https://nmaahc.si.edu/object/nmaahc_2010.2.1abc" target="blank" >}} Lifting as We Climb{{</popup>}}  to convey its dedication to racial uplift.
+Florida is probably best known for her participation in the Black women’s club movement. As a founding member of the **Woman’s Era Club**, a Boston-based club started in 1894 by her mother, and later a member of the **National Association of Colored Women’s Clubs** (NACWC), Florida wrote and organized around issues of the day—from promoting the arts to women’s suffrage. The club movement created a national community of women committed to promoting the well-being of Black people, with a particular emphasis on Black women. The motto of the NACWC was {{< popup img-src="/uploads/2023-02-16/nmaahc-2010_2_1ab_001.jpg" bib-src="https://nmaahc.si.edu/object/nmaahc_2010.2.1abc" target="blank" >}} Lifting as We Climb{{</popup>}}  to convey its dedication to racial uplift.
 
 > Women’s clubs are helping to bring us to a recognition of the truth that true dignity does not need barriers in order to preserve itself; that snobbishness is a vice, and that while friendship should be bound by congeniality, neighborliness should know no bounds. The club means the spirit of neighborliness with the world, the recognition of our duty toward our neighbor, and not only of our common humanity but our common divinity; the club helps us not only to make the best of that within us but to see the best of that in others.
 >
-> _— Florida Ruffin Ridley, Women’s Era, Oct-Nov, 1896_
+> _— Florida Ruffin Ridley, Woman’s Era, Oct-Nov, 1896_
 
 In 1895, Florida and her mother were principal organizers of the **First National Conference** of Black women’s clubs. The convention was held in Boston in Berkeley Hall, also known as the Odd Fellows Hall. Women from 14 states gathered to form a national organization. They created committees to address issues such as lynching, convict leasing, segregation and temperance. They listened to speeches from national activists, Black and white, such as Booker T. Washington and William Lloyd Garrison, Jr. The convention then moved to the {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bx56t/2489,2718,873,789/1200,/0/default.jpg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.07053,42.35813$zoom:18.99$base:maptiler-streets$overlay:ark:/76611/al8c4phfq" target="blank" >}} Charles Street Church{{</popup>}}  to finish their organizing, just a block from the Ruffin home.
 
@@ -61,7 +61,7 @@ In 1895, Florida and her mother were principal organizers of the **First Nationa
 
 In 1918, Florida, her mother, and Maria Louisa Baldwin founded the **League of Women for Community Service**, and soon after purchased a building at {{< popup img-src="/uploads/2023-02-17/baldwin.jpeg" bib-src="https://atlascope.org/#/view:share$mode:glass$center:-71.07834,42.33824$zoom:19.91$base:maptiler-streets$overlay:ark:/76611/al7s27nhd" target="blank" >}} 558 Massachusetts Avenue{{</popup>}}  in the South End. Initially intended to support Black soldiers during World War I, the League went on to fill many civic roles, including housing Black female students attending Boston’s universities. While attending the New England Conservatory, Coretta Scott lived in the building when dating Martin Luther King.
 
-Organized charity work was a foundational focus of Black women’s clubs. These relatively well-educated and affluent Black women actively engaged the fight against the struggles facing Black Americans and felt it was their responsibility to use their advantages to care for others. Florida wrote in _The Women’s Era_ about hosting a hospital fair followed by a “special effort for St. Monica’s Home, for sick and destitute colored women and children” whose “receipts were more than sufficient to supply the Home with all of its fuel for the year.”
+Organized charity work was a foundational focus of Black women’s clubs. These relatively well-educated and affluent Black women actively engaged the fight against the struggles facing Black Americans and felt it was their responsibility to use their advantages to care for others. Florida wrote in _The Woman’s Era_ about hosting a hospital fair followed by a “special effort for St. Monica’s Home, for sick and destitute colored women and children” whose “receipts were more than sufficient to supply the Home with all of its fuel for the year.”
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65kw322/35,326,3541,5000/1200,/0/default.jpg" caption="Florida worked with her mother, Josephine, to create [_The Woman's Era_](https://www.digitalcommonwealth.org/search/commonwealth:gf06jm515)_,_ the first national newspaper published by and for Black women in the United States." class="figure-right" >}}
 
@@ -69,13 +69,13 @@ The clubs also expressed care for the community by denouncing and organizing aga
 
 > In the interest of common humanity, in the interest of justice, for the good name of our country, we solemnly raise our voice against the horrible crimes of lynch law as practiced in the south, and we call upon Christians everywhere to do the same or be branded as sympathizers with the murderers.
 >
-> _— Florida Ruffin Ridley, Women’s Era, June 1894_
+> _— Florida Ruffin Ridley, Woman’s Era, June 1894_
 
 #### Having Fun
 
 As part of her leadership for the League of Women for Community Service, Florida was committed to celebrating and raising awareness about Black artists. She sponsored performances of amateur theater, chorales from Black colleges, and classical performances, as well as art exhibitions. Her exhibitions include one hosted at the Boston Public Library in 1922. Her own brother George Ruffin was an accomplished singer and performed around Massachusetts.
 
-As a young child, and then as a mother with children of her own, Florida might have participated in a May Day celebration like {{< popup img-src="/uploads/2023-02-17/neu_27955.jpg" bib-src="https://repository.library.northeastern.edu/files/neu:27953" target="blank" >}} this one{{</popup>}}  organized by many of the women she knew and [advertised](https://www.digitalcommonwealth.org/search/commonwealth:br86dm89q) in the Women’s Era magazine in 1895:
+As a young child, and then as a mother with children of her own, Florida might have participated in a May Day celebration like {{< popup img-src="/uploads/2023-02-17/neu_27955.jpg" bib-src="https://repository.library.northeastern.edu/files/neu:27953" target="blank" >}} this one{{</popup>}}  organized by many of the women she knew and [advertised](https://www.digitalcommonwealth.org/search/commonwealth:br86dm89q) in the Woman’s Era magazine in 1895:
 
 ![](/uploads/2023-02-17/mayday.jpeg)
 
