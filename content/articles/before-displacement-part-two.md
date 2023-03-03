@@ -2,7 +2,7 @@
 title: 'New Stories From Before Displacement: An Urban History'
 description: Undergraduates at the College of the Holy Cross used Atlascope to research
   the buildings and landscapes of Boston that were destroyed by the Central Artery
-date: 2023-03-09T04:00:00.000+00:00
+date: 2023-03-04T04:00:00.000+00:00
 author: Amy Finstein, Emily Marino, Owen Kenney, Kathleen McCarthy, Julia Clarke, and Maggie Hartnett
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bx70n/2724,503,4696,2135/,1200/0/default.jpg
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bx70n/2724,503,4696,2135/,1200/0/default.jpg
@@ -65,7 +65,7 @@ related sources.
 
 ### Generational Wealth on India Square
 
-{{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/before-displacement-part-two/Kathleen_SCHLES_130763045.jpg" class="figure-right" caption="Unknown (circa 1897-1905), Three views of buildings, including offices of shipping agents, and carts at India Wharf." >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sq87bx256/full/,1200/0/default.jpg" class="figure-right" caption="Arthur Griffin, \"Old India Wharf\" (ca. 1935–1955). [Griffin Museum of Photography](https://www.digitalcommonwealth.org/search/commonwealth:sq87bx24x)" >}}
 
 [India Square was located across from India Wharf](https://sites.google.com/holycross.edu/mmc/2022/financial-district-north/1-10-india-square), at the center of
 Boston's shipping and trade activities. The waterfront was home to
