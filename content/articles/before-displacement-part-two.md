@@ -11,9 +11,8 @@ tags:
 - Atlascope
 - Boston
 - Education
-draft: true
----
 
+---
 [For the second time in two years](https://www.leventhalmap.org/articles/before-displacement/), the Leventhal Center's historic maps and Atlascope tool provided the backbone for a semester-long research project for my urban history students at College of the Holy Cross. In the Spring 2021 and Fall 2022 semesters, students researched the history of parcels of land along the corridor currently filled by Boston's Rose Kennedy Greenway. Before this land was the Greenway, it hosted an elevated highway (the Central Artery); and before that, it was filled with buildings and streets. What could we learn about the physical, architectural, and social histories that filled this land before the highway?
 
 Students began their research using [Atlascope](https://atlascope.org), poring over historic maps to gather information about the buildings, businesses, and landowners on their parcels. They then used these findings to fuel further research in historic newspapers, census records, city directories, and archival collections. They followed the evidence they found to paint detailed profiles of the people and places that formerly occupied this land. The short student research profiles below introduce some of the Fall 2022 class's rich findings.
