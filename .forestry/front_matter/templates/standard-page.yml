@@ -19,5 +19,6 @@ fields:
   label: weight
 pages:
 - content/collections/archival-collections.md
+- content/donate/sponsor-an-atlas.md
 - content/education/k12/_index.md
 - content/education/k12/school-visits.md
