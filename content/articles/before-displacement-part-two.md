@@ -36,21 +36,7 @@ _---Emily Marino_
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sq87bx256/full/,1200/0/default.jpg" class="figure-right" caption="Arthur Griffin, "Old India Wharf" (ca. 1935–1955). [Griffin Museum of Photography](https://www.digitalcommonwealth.org/search/commonwealth:sq87bx24x)" >}}
 
-[India Square was located across from India Wharf](https://sites.google.com/holycross.edu/mmc/2022/financial-district-north/1-10-india-square), at the center of
-Boston's shipping and trade activities. The waterfront was home to
-warehouses, businesses and international ports that supported the
-region's growing economy. The 1902 Bromley atlas provided
-important insights into the history of property ownership on India
-Square. Additional research into newspaper archives and tax records
-revealed an interesting pattern: many prominent Boston families owned
-businesses located near the wharfs and often rented rooms to
-longshoremen working nearby. These property holdings were often passed
-on from one generation to the next through family trusts. The India
-Wharf Rats, a members-only social club for business owners,
-politicians, and other noted local professionals, was a prime example
-of such families' wealth and stature. This photograph shows the club's
-meeting place in the India Wharf building, where the Wharf Rats would
-meet to discuss business, eat, and host events.
+[India Square was located across from India Wharf](https://sites.google.com/holycross.edu/mmc/2022/financial-district-north/1-10-india-square), at the center of Boston's shipping and trade activities. The waterfront was home to warehouses, businesses and international ports that supported the region's growing economy. The 1902 Bromley atlas provided important insights into the history of property ownership on India Square. Additional research into newspaper archives and tax records revealed an interesting pattern: many prominent Boston families owned businesses located near the wharfs and often rented rooms to longshoremen working nearby. These property holdings were often passed on from one generation to the next through family trusts. The India Wharf Rats, a members-only social club for business owners, politicians, and other noted local professionals, was a prime example of such families' wealth and stature. This photograph shows the club's meeting place in the India Wharf building, where the Wharf Rats would meet to discuss business, eat, and host events.
 
 _---Kathleen McCarthy_
 
@@ -60,17 +46,7 @@ _---Kathleen McCarthy_
 
 {{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/before-displacement-part-two/Julia_Harry%20L%20Doten%20and%20Sons.png" class="figure-right" caption="Excerpt from "Cross Street widening from North Street to Commercial Street" (November 30, 1933). [City of Boston Archives](https://cityofboston.access.preservica.com/uncategorized/IO_09820546-7345-4893-a958-1a75fc67cf04/)" >}}
 
-The North End historically functioned as a business hub that boosted
-Boston's economy and fulfilled local Bostonians' needs. Between the
-years of 1928 to 1938, Harry L. Doten & Sons, a metal sheet
-manufacturing business, functioned out of [the parcel of land on
-107-113 Cross Street](https://sites.google.com/holycross.edu/mmc/2022/the-north-end-south/80-102-north-87-113-cross). The owner, Harry L.
-Doten, even earned the title of "The Father of the Boston Steel
-Industry" from the _Boston Globe_ after his 50+ years of success in
-the field. With the help of Atlascope and historical newspapers, I was
-able to piece together the success story of this business and its
-owner to help to re-establish the company's legacy in the North End
-and Boston.
+The North End historically functioned as a business hub that boosted Boston's economy and fulfilled local Bostonians' needs. Between the years of 1928 to 1938, Harry L. Doten & Sons, a metal sheet manufacturing business, functioned out of [the parcel of land on 107-113 Cross Street](https://sites.google.com/holycross.edu/mmc/2022/the-north-end-south/80-102-north-87-113-cross). The owner, Harry L. Doten, even earned the title of "The Father of the Boston Steel Industry" from the _Boston Globe_ after his 50+ years of success in the field. With the help of Atlascope and historical newspapers, I was able to piece together the success story of this business and its owner to help to re-establish the company's legacy in the North End and Boston.
 
 _---Julia Clarke_
 
@@ -78,13 +54,7 @@ _---Julia Clarke_
 
 ### Industry on Blackstone
 
-The [parcel of land that existed on 1-22 Blackstone Street](https://sites.google.com/holycross.edu/mmc/2022/the-market-district/1-22-blackstone-street) revealed
-itself to be a hub of various industries within the city of Boston.
-Companies such as Dean & Foster glassware and B.S Thompson & Co coffee
-producers were large companies that existed within this block. Looking
-at this 1882 Sanborn map one can see the presence of glass production
-and coffee roasting as well as other industries such as cork cutting
-and a canned goods factory that all existed on this parcel.
+The [parcel of land that existed on 1-22 Blackstone Street](https://sites.google.com/holycross.edu/mmc/2022/the-market-district/1-22-blackstone-street) revealed itself to be a hub of various industries within the city of Boston. Companies such as Dean & Foster glassware and B.S Thompson & Co coffee producers were large companies that existed within this block. Looking at this 1882 Sanborn map one can see the presence of glass production and coffee roasting as well as other industries such as cork cutting and a canned goods factory that all existed on this parcel.
 
 _---Maggie Hartnett_
 
@@ -92,14 +62,7 @@ _---Maggie Hartnett_
 
 ### Research, Impassioned
 
-By using Atlascope to research my parcel, I was able to engage with
-the history of this space very directly. [As I examined these maps in
-sequence](https://sites.google.com/holycross.edu/mmc/2022/the-north-end-north/26-54-cross), I not only gathered a wealth of information but also felt
-deeply the passage of time. Every time the parcel's structure changed
-drastically, I was immediately enthralled. I wanted to know what
-caused that change, and when it occurred. I think that research should
-be an exciting process, a process of discovery. Atlascope enables this
-passion wonderfully.
+By using Atlascope to research my parcel, I was able to engage with the history of this space very directly. [As I examined these maps in sequence](https://sites.google.com/holycross.edu/mmc/2022/the-north-end-north/26-54-cross), I not only gathered a wealth of information but also felt deeply the passage of time. Every time the parcel's structure changed drastically, I was immediately enthralled. I wanted to know what caused that change, and when it occurred. I think that research should be an exciting process, a process of discovery. Atlascope enables this passion wonderfully.
 
 _---Owen Kenney_
 
@@ -107,4 +70,4 @@ _---Owen Kenney_
 
 ***
 
-> Visit the [_Before Displacement_](https://sites.google.com/holycross.edu/mmc) project site to discover more historical investigations about the landscapes which were destroyed to make room for the Central Artery. The urban atlases featured in [Atlascope](https://atlascope.org) also form the basis of [_Buiding Blocks: Boston Stories From Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/) currently on display at the Leventhal Center's free public gallery at the Central Library in Copley Square. _Building Blocks_ runs through August 2023.
+> Visit the [_Before Displacement_](https://sites.google.com/holycross.edu/mmc) project site to discover more historical investigations about the landscapes which were destroyed to make room for the Central Artery. The urban atlases featured in [Atlascope](https://atlascope.org) also form the basis of [_Building Blocks: Boston Stories From Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/) currently on display at the Leventhal Center's free public gallery at the Central Library in Copley Square. _Building Blocks_ runs through August 2023.
