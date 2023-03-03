@@ -25,21 +25,15 @@ buildings and streets. What could we learn about the physical,
 architectural, and social histories that filled this land before the
 highway?
 
-Students began their research using [Atlascope](https://atlascope.org), poring over
-historic maps to gather information about the buildings, businesses, and
-landowners on their parcels. They then used these findings to fuel
-further research in historic newspapers, census records, city
-directories, and archival collections. They followed the evidence they
-found to paint detailed profiles of the people and places that formerly
-occupied this land. The short student research profiles below introduce
-the some of the Fall 2022 class's rich findings.
+Students began their research using [Atlascope](https://atlascope.org), poring over historic maps to gather information about the buildings, businesses, and landowners on their parcels. They then used these findings to fuel further research in historic newspapers, census records, city directories, and archival collections. They followed the evidence they found to paint detailed profiles of the people and places that formerly occupied this land. The short student research profiles below introduce some of the Fall 2022 class's rich findings.
 
 Read on for more, and then [explore the full website, featuring two semesters of student projects and an interactive map of parcels](https://sites.google.com/holycross.edu/mmc).
 
-*---Amy D. Finstein*
-
+_---Amy D. Finstein_
 
 ### Windows, Doors and Blinds, Oh My!
+
+<iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.05745,42.36280$zoom:20.26$base:maptiler-streets$overlay:ark:/76611/al7qfwyqb" width="100%" height="400"></iframe>
 
 {{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/before-displacement-part-two/Emily_Hardy%26CoAd.png" class="figure-right" caption="Advertisment from [Historic New England](https://www.historicnewengland.org/explore/collections-access/gusn/242614/)" >}}
 
@@ -56,14 +50,11 @@ review. A subtle company description written on an 1882 map document
 was a foundational aspect of my research and aided in uncovering
 related sources.
 
-*---Emily Marino*
-
-<iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.05745,42.36280$zoom:20.26$base:maptiler-streets$overlay:ark:/76611/al7qfwyqb" width="100%" height="400"></iframe>
-
+_---Emily Marino_
 
 ### Generational Wealth on India Square
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sq87bx256/full/,1200/0/default.jpg" class="figure-right" caption="Arthur Griffin, \"Old India Wharf\" (ca. 1935–1955). [Griffin Museum of Photography](https://www.digitalcommonwealth.org/search/commonwealth:sq87bx24x)" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sq87bx256/full/,1200/0/default.jpg" class="figure-right" caption="Arthur Griffin, "Old India Wharf" (ca. 1935–1955). [Griffin Museum of Photography](https://www.digitalcommonwealth.org/search/commonwealth:sq87bx24x)" >}}
 
 [India Square was located across from India Wharf](https://sites.google.com/holycross.edu/mmc/2022/financial-district-north/1-10-india-square), at the center of
 Boston's shipping and trade activities. The waterfront was home to
@@ -81,15 +72,13 @@ of such families' wealth and stature. This photograph shows the club's
 meeting place in the India Wharf building, where the Wharf Rats would
 meet to discuss business, eat, and host events.
 
-*---Kathleen McCarthy*
+_---Kathleen McCarthy_
 
 <iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.05067,42.35772$zoom:18.11$base:maptiler-streets$overlay:ark:/76611/al8c31qra" width="100%" height="400"></iframe>
 
-
-
 ### Bustling Business in the North End
 
-{{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/before-displacement-part-two/Julia_Harry%20L%20Doten%20and%20Sons.png" class="figure-right" caption="Excerpt from \"Cross Street widening from North Street to Commercial Street\" (November 30, 1933). [City of Boston Archives](https://cityofboston.access.preservica.com/uncategorized/IO_09820546-7345-4893-a958-1a75fc67cf04/)" >}}
+{{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/before-displacement-part-two/Julia_Harry%20L%20Doten%20and%20Sons.png" class="figure-right" caption="Excerpt from "Cross Street widening from North Street to Commercial Street" (November 30, 1933). [City of Boston Archives](https://cityofboston.access.preservica.com/uncategorized/IO_09820546-7345-4893-a958-1a75fc67cf04/)" >}}
 
 The North End historically functioned as a business hub that boosted
 Boston's economy and fulfilled local Bostonians' needs. Between the
@@ -97,16 +86,15 @@ years of 1928 to 1938, Harry L. Doten & Sons, a metal sheet
 manufacturing business, functioned out of [the parcel of land on
 107-113 Cross Street](https://sites.google.com/holycross.edu/mmc/2022/the-north-end-south/80-102-north-87-113-cross). The owner, Harry L.
 Doten, even earned the title of "The Father of the Boston Steel
-Industry" from the *Boston Globe* after his 50+ years of success in
+Industry" from the _Boston Globe_ after his 50+ years of success in
 the field. With the help of Atlascope and historical newspapers, I was
 able to piece together the success story of this business and its
 owner to help to re-establish the company's legacy in the North End
 and Boston.
 
-*---Julia Clarke*
+_---Julia Clarke_
 
 <iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.05564,42.36198$zoom:19.47$base:maptiler-streets$overlay:ark:/76611/al890pyr8" width="100%" height="400"></iframe>
-
 
 ### Industry on Blackstone
 
@@ -118,12 +106,9 @@ at this 1882 Sanborn map one can see the presence of glass production
 and coffee roasting as well as other industries such as cork cutting
 and a canned goods factory that all existed on this parcel.
 
-*---Maggie Hartnett*
+_---Maggie Hartnett_
 
 <iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.05488,42.36111$zoom:19.09$base:maptiler-streets$overlay:ark:/76611/al7qfwyqb" width="100%" height="400"></iframe>
-
-
-
 
 ### Research, Impassioned
 
@@ -136,10 +121,10 @@ caused that change, and when it occurred. I think that research should
 be an exciting process, a process of discovery. Atlascope enables this
 passion wonderfully.
 
-*---Owen Kenney*
+_---Owen Kenney_
 
 <iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.05652,42.36348$zoom:19.40$base:maptiler-streets$overlay:ark:/76611/al7s13kaf" width="100%" height="400"></iframe>
 
----
+***
 
 > Visit the [_Before Displacement_](https://sites.google.com/holycross.edu/mmc) project site to discover more historical investigations about the landscapes which were destroyed to make room for the Central Artery. The urban atlases featured in [Atlascope](https://atlascope.org) also form the basis of [_Buiding Blocks: Boston Stories From Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/) currently on display at the Leventhal Center's free public gallery at the Central Library in Copley Square. _Building Blocks_ runs through August 2023.
