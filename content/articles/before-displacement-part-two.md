@@ -14,16 +14,7 @@ tags:
 draft: true
 
 ---
-[For the second time in two years](https://www.leventhalmap.org/articles/before-displacement/), the Leventhal Center's historic maps and Atlascope
-tool provided the backbone for a semester-long research project for my
-urban history students at College of the Holy Cross. In the Spring 2021
-and Fall 2022 semesters, students researched the history of parcels of
-land along the corridor currently filled by Boston's Rose Kennedy
-Greenway. Before this land was the Greenway, it hosted an elevated
-highway (the Central Artery); and before that, it was filled with
-buildings and streets. What could we learn about the physical,
-architectural, and social histories that filled this land before the
-highway?
+[For the second time in two years](https://www.leventhalmap.org/articles/before-displacement/), the Leventhal Center's historic maps and Atlascope tool provided the backbone for a semester-long research project for my urban history students at College of the Holy Cross. In the Spring 2021 and Fall 2022 semesters, students researched the history of parcels of land along the corridor currently filled by Boston's Rose Kennedy Greenway. Before this land was the Greenway, it hosted an elevated highway (the Central Artery); and before that, it was filled with buildings and streets. What could we learn about the physical, architectural, and social histories that filled this land before the highway?
 
 Students began their research using [Atlascope](https://atlascope.org), poring over historic maps to gather information about the buildings, businesses, and landowners on their parcels. They then used these findings to fuel further research in historic newspapers, census records, city directories, and archival collections. They followed the evidence they found to paint detailed profiles of the people and places that formerly occupied this land. The short student research profiles below introduce some of the Fall 2022 class's rich findings.
 
@@ -33,24 +24,13 @@ _---Amy D. Finstein_
 
 ### Windows, Doors and Blinds, Oh My!
 
-<iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.05745,42.36280$zoom:20.26$base:maptiler-streets$overlay:ark:/76611/al7qfwyqb" width="100%" height="400"></iframe>
+{{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/before-displacement-part-two/Emily_Hardy%26CoAd.png" class="figure-right" caption="Advertisement from [Historic New England](https://www.historicnewengland.org/explore/collections-access/gusn/242614/)" >}}
 
-{{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/before-displacement-part-two/Emily_Hardy%26CoAd.png" class="figure-right" caption="Advertisment from [Historic New England](https://www.historicnewengland.org/explore/collections-access/gusn/242614/)" >}}
-
-In a digitized 1882 Sanborn atlas a vague
-reference to an unidentified "Sash & Blind Storage, Glazing" business
-[between 173 and 175 Blackstone Street](https://sites.google.com/holycross.edu/mmc/2022/the-north-end-south/149-189-blackstone) exposed a plethora of otherwise
-inaccessible information about Hardy & Company, a successful retail
-and wholesale door, window, and blind firm. This map was a valuable
-resource for obtaining and identifying specific addresses and
-industries within my parcel. Through use of the map, I uncovered an
-advertisement and business card, revealing a company move and
-expansion, which I later confirmed through a published business
-review. A subtle company description written on an 1882 map document
-was a foundational aspect of my research and aided in uncovering
-related sources.
+In a digitized 1882 Sanborn atlas a vague reference to an unidentified "Sash & Blind Storage, Glazing" business [between 173 and 175 Blackstone Street](https://sites.google.com/holycross.edu/mmc/2022/the-north-end-south/149-189-blackstone) exposed a plethora of otherwise inaccessible information about Hardy & Company, a successful retail and wholesale door, window, and blind firm. This map was a valuable resource for obtaining and identifying specific addresses and industries within my parcel. Through use of the map, I uncovered an advertisement and business card, revealing a company move and expansion, which I later confirmed through a published business review. A subtle company description written on an 1882 map document was a foundational aspect of my research and aided in uncovering related sources.
 
 _---Emily Marino_
+
+<iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.05745,42.36280$zoom:20.26$base:maptiler-streets$overlay:ark:/76611/al7qfwyqb" width="100%" height="400"></iframe>
 
 ### Generational Wealth on India Square
 
