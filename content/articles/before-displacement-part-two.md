@@ -3,19 +3,17 @@ title: 'New Stories From Before Displacement: An Urban History'
 description: Undergraduates at the College of the Holy Cross used Atlascope to research
   the buildings and landscapes of Boston that were destroyed by the Central Artery
 date: 2023-03-04T04:00:00.000+00:00
-author: Amy Finstein, Emily Marino, Owen Kenney, Kathleen McCarthy, Julia Clarke, and Maggie Hartnett
+author: Amy Finstein, Emily Marino, Owen Kenney, Kathleen McCarthy, Julia Clarke,
+  and Maggie Hartnett
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bx70n/2724,503,4696,2135/,1200/0/default.jpg
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bx70n/2724,503,4696,2135/,1200/0/default.jpg
-draft: true
 tags:
 - Atlascope
-- Education
 - Boston
-- urban history
-- student work
+- Education
+draft: true
 
 ---
-
 [For the second time in two years](https://www.leventhalmap.org/articles/before-displacement/), the Leventhal Center's historic maps and Atlascope
 tool provided the backbone for a semester-long research project for my
 urban history students at College of the Holy Cross. In the Spring 2021
