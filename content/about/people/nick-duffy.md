@@ -1,7 +1,7 @@
 ---
 title: Nick Duffy
 description: Fundraising & Development Intern, Spring 2023
-headshot: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463863p/736,6892,514,514/,600/0/default.jpg"
+headshot: "/images/headshots/nick-headshot.png"
 type: person
 contact:
 - method: Email
