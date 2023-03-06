@@ -2,7 +2,7 @@
 title: An interview with the Spring 2023 Interns
 author: Joshua Aldwinckle-Povey, Nick Duffy, Vy Phan, Aditi Shankar
 description: Meet the team of wonderful student intern who have been hard at work this semester on various LMEC projects
-date: 2023-03-05T01:30:00.000+00:00
+date: 2023-03-10T12:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k433/574,619,8069,5665/pct:20/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k433/574,619,8069,5665/pct:20/0/default.jpg
 draft: true
@@ -46,7 +46,7 @@ Looking ahead, I'm excited to gain experience related to geographic knowledge an
 
 I am currently a senior at Brandeis University, studying History, Business, and Art History. At the Leventhal Center, I’m the Fundraising and Development Intern. I was first drawn to the Center due to its focus on maps, which was something I personally enjoyed, as someone who loves traveling and visual materials, but had not thought about working on before. After the interview, I was even more excited to join because it was evident that the staff of the Center was passionate about their work, was welcoming, and hoped for me to learn as much as possible.
 
-{{< figure src="/images/headshots/vy-headshot.png" class="figure-left" caption="A transit map from LMEC collctions that Josh has been using to extract spatial data">}}
+{{< figure src="/images/headshots/vy-headshot.png" class="figure-left" caption="">}}
 
 As the Fundraising and Development Intern, I am currently working on a list of prospective supporters for our Atlascope program. We hope to expand the tool to not only cover Boston but also other parts of Massachusetts and the country with this support. Additionally, I recently completed a [Map of the Month postcard](https://www.leventhalmap.org/donate/map-of-the-month/)---a monthly postcard of a unique map that our donors receive for their generosity.
 
