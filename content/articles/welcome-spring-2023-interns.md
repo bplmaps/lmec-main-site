@@ -46,7 +46,7 @@ Looking ahead, I'm excited to gain experience related to geographic knowledge an
 
 I am currently a senior at Brandeis University, studying History, Business, and Art History. At the Leventhal Center, I’m the Fundraising and Development Intern. I was first drawn to the Center due to its focus on maps, which was something I personally enjoyed, as someone who loves traveling and visual materials, but had not thought about working on before. After the interview, I was even more excited to join because it was evident that the staff of the Center was passionate about their work, was welcoming, and hoped for me to learn as much as possible.
 
-{{< figure src="/images/headshots/vy-headshot.png" class="figure-left" caption="">}}
+{{< figure src="/images/headshots/vy-headshot.png" class="figure-left" caption="Vy Phan">}}
 
 As the Fundraising and Development Intern, I am currently working on a list of prospective supporters for our Atlascope program. We hope to expand the tool to not only cover Boston but also other parts of Massachusetts and the country with this support. Additionally, I recently completed a [Map of the Month postcard](https://www.leventhalmap.org/donate/map-of-the-month/)---a monthly postcard of a unique map that our donors receive for their generosity.
 
