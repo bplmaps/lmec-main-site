@@ -20,7 +20,7 @@ tags:
 ### Geospatial Research Intern
 
 {{<
-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:t148j064q/full/pct:10/0/default.jpg" class="figure-left" caption="A transit map from LMEC collctions that Josh has been using to extract spatial data">}}
+figure src="/images/headshots/josh-headshot.jpeg" class="figure-left" caption="Joshua Aldwinckle-Povey">}}
 
 I'm a student at Brandeis from London, UK, studying Anthropology & History with a minor in German Studies. I enjoy research, and I especially enjoy using digital tools to do research, including GIS. I learned GIS for the first time a year before starting at the Leventhal Center, and realizing how powerful it could be for historical mapping research was exciting, I've incorporated it into work I've done for classes and in research. I'm excited to be working on those skills more at Leventhal. 
 
