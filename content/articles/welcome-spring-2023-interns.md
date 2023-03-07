@@ -3,14 +3,14 @@ title: An interview with the Spring 2023 Interns
 author: Joshua Aldwinckle-Povey, Nick Duffy, Vy Phan, Aditi Shankar
 description: Meet the team of wonderful student interns who have been hard at work
   this semester on various LMEC projects
-date: 2023-03-10T12:30:00.000+00:00
+date: 2023-03-10T07:30:00-05:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k433/574,619,8069,5665/pct:20/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k433/574,619,8069,5665/pct:20/0/default.jpg
 tags:
 - education
 - gis
 - staff
-draft: true
+- data
 
 ---
 > We're thrilled to introduce the Spring 2023 cohort of LMEC interns. Their work touches on nearly all aspects of what we do at the Center, including educational outreach, donor engagement, and web-based georeferencing. Read on to learn more about this stellar group!
