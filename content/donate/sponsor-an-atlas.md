@@ -1,9 +1,35 @@
 ---
 title: Sponsor an Atlas
-backgroundImage: ''
-description: ''
+backgroundImage: "/uploads/2023-03-08/screenshot-2023-03-03-123038.jpg"
+description: The Leventhal Center is currently in the process of geotransforming historic
+  atlases from towns across the state of Massachusetts. Read about the project here
+  and learn how you can support it.
 weight: ''
 draft: true
 
 ---
 ## Sponsor an Atlas
+
+The Leventhal Center has an extraordinary collection of [urban atlases](https://collections.leventhalmap.org/search?utf8=%E2%9C%93&f%5Bcollection_name_ssim%5D%5B%5D=Urban+Maps+%28Collection+of+Distinction%29&f%5Bsubject_facet_ssim%5D%5B%5D=Boston+%28Mass.%29--Maps&search_field=dummy_range&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1860&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=1950&commit=Apply) dating from the late 19th to early 20th centuries, one of the most important sets of documents for depicting how our city and region have changed over time. Our [Atlascope tool](https://atlascope.leventhalmap.org/) transforms 101 of these atlases into a web interface suitable for browsing on a computer or mobile device, making it easy to compare properties, buildings and owners to tell stories about places over time. With new features to empower storytelling, annotation, and discovery, as well as connections into other Massachusetts digital collections, Atlascope is a great tool to answer questions about property ownership, genealogy, urban transformation, and broad questions about historic and geographic change over time.
+
+Boston City Archaeologist Joe Bagley uses Atlascope frequently in his work, [describing it as an invaluable tool](https://www.leventhalmap.org/articles/archaeology-and-atlascope/) for his historic research. In 2020, Atlascope helped Bagley uncover the [origins of a mysterious sinkhole](https://www.boston.gov/news/update-ronan-park-well) that appeared in Ronan Park in Dorchester and the subsequent [discovery of a 19th century well.](https://www.wcvb.com/article/archaeologists-discover-forgotten-well-inside-sinkhole-in-dorchesters-ronan-park/34931536#)
+
+Last summer, the Boston Preservation Alliance also used Atlascope in partnership with Boston Public School students from the Lilla G. Frederick Pilot Middle School. [Students used Atlascope and other primary sources to explore Grove Hall, Upham’s Corner, and Fields Corner to tell stories about these Dorchester neighborhoods](https://www.youtube.com/watch?v=Ak0nDQpNOe0).
+
+Universities use this tool to…. /// Other examples of ways
+
+**Are there atlases of towns you would like to see added to Atlascope**? The Leventhal Center is currently in the process of geotransforming historic atlases from towns across the state of Massachusetts. **We hope to ingest these into Atlascope for usage and discovery once the necessary support is secured**. If you would like to help support or be a part of this project, please fill out this form below, and a member our staff will be in touch with you.
+
+Current towns and counties we have atlases for include: 
+
+* Attleboro
+* Barnstable County
+
+\[MAP\]
+
+**Questions in embedded Form:**
+
+* Name or Organization
+* Contact Information
+* Is there a specific town or county you are interested in?
+* Why do you want to support this project?
