@@ -3,7 +3,7 @@ title: An interview with the Spring 2023 Interns
 author: Joshua Aldwinckle-Povey, Nick Duffy, Vy Phan, Aditi Shankar
 description: Meet the team of wonderful student interns who have been hard at work
   this semester on various LMEC projects
-date: 2023-03-10T07:30:00-05:00
+date: 2023-03-10T07:30:00.000-05:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k433/574,619,8069,5665/pct:20/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k433/574,619,8069,5665/pct:20/0/default.jpg
 tags:
@@ -17,10 +17,9 @@ tags:
 
 ### Joshua Aldwinckle-Povey
 
-#### Geospatial Research Intern
+**Geospatial Research Intern**
 
-{{<
-figure src="/images/headshots/josh-headshot.jpeg" class="figure-left" caption="Joshua Aldwinckle-Povey">}}
+{{< figure src="/images/headshots/josh-headshot.jpeg" class="figure-right" caption="Joshua Aldwinckle-Povey">}}
 
 I'm a student at Brandeis from London, UK, studying Anthropology & History with a minor in German Studies. I enjoy research, and I especially enjoy using digital tools to do research, including GIS. I learned GIS for the first time a year before starting at the Leventhal Center, and realizing how powerful it could be for historical mapping research was exciting, I've incorporated it into work I've done for classes and in research. I'm excited to be working on those skills more at Leventhal.
 
@@ -30,7 +29,7 @@ I'm excited about pursuing a career in academic/research librarianship and suppo
 
 ### Nick Duffy
 
-#### K-12 Education Intern
+##### K-12 Education Intern
 
 {{< figure src="/images/headshots/nick-headshot.jpeg" class="figure-right" caption="Nick Duffy">}}
 
@@ -44,11 +43,11 @@ Looking ahead, I'm excited to gain experience related to geographic knowledge an
 
 ### Vy Phan
 
-#### Fundraising and Development Intern
+##### Fundraising and Development Intern
 
 I am currently a senior at Brandeis University, studying History, Business, and Art History. At the Leventhal Center, I’m the Fundraising and Development Intern. I was first drawn to the Center due to its focus on maps, which was something I personally enjoyed, as someone who loves traveling and visual materials, but had not thought about working on before. After the interview, I was even more excited to join because it was evident that the staff of the Center was passionate about their work, was welcoming, and hoped for me to learn as much as possible.
 
-{{< figure src="/images/headshots/vy-headshot.png" class="figure-left" caption="Vy Phan">}}
+{{< figure src="/images/headshots/vy-headshot.png" class="figure-right" caption="Vy Phan">}}
 
 As the Fundraising and Development Intern, I am currently working on a list of prospective supporters for our Atlascope program. We hope to expand the tool to not only cover Boston but also other parts of Massachusetts and the country with this support. Additionally, I recently completed a [Map of the Month postcard](https://www.leventhalmap.org/donate/map-of-the-month/)---a monthly postcard of a unique map that our donors receive for their generosity.
 
@@ -58,7 +57,7 @@ In the future, I hope to work in a position similar to this internship. I enjoy 
 
 ### Aditi Shankar
 
-#### Geospatial Research Intern
+##### Geospatial Research Intern
 
 I am a Freshman at Boston University studying Political Science and Data Science. I was interested in working at the Leventhal Center because of my desire to approach historical and contemporary issues with a data-driven perspective. I have also always loved the Boston Public Library, and the prospect of working in a space so rich with history and knowledge excited me.
 
