@@ -4,7 +4,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3760
 date: 2023-03-17T04:00:00.000Z
 description: >-
   What can a visualization of population growth in cities and towns in the Northeast tell us about different moments in the region's economic geography?
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250356j/997,3267,2722,961/,1200/0/default.jpg
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd376025w/786,2639,5361,2396/,1200/0/default.jpg
 tags:
   - data visualization
   - urbanization
