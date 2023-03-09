@@ -15,9 +15,9 @@ tags:
 ---
 > We're thrilled to introduce the Spring 2023 cohort of LMEC interns. Their work touches on nearly all aspects of what we do at the Center, including educational outreach, donor engagement, and web-based georeferencing. Read on to learn more about this stellar group!
 
-# Joshua Aldwinckle-Povey
+### Joshua Aldwinckle-Povey
 
-### Geospatial Research Intern
+#### Geospatial Research Intern
 
 {{<
 figure src="/images/headshots/josh-headshot.jpeg" class="figure-left" caption="Joshua Aldwinckle-Povey">}}
@@ -28,9 +28,9 @@ Currently, as well as supporting the [Atlascope project](https://atlascope.org),
 
 I'm excited about pursuing a career in academic/research librarianship and supporting academic work in higher education, and I think the skills and experience I will learn here at Leventhal will be invaluable in both growing my skillset, and showing me how those skills come to life too.
 
-# Nick Duffy
+### Nick Duffy
 
-### K-12 Education Intern
+#### K-12 Education Intern
 
 {{< figure src="/images/headshots/nick-headshot.jpeg" class="figure-right" caption="Nick Duffy">}}
 
@@ -42,9 +42,9 @@ In my first month of working at the Center, my favorite part has been familiariz
 
 Looking ahead, I'm excited to gain experience related to geographic knowledge and how to teach it. I have an interest in teaching geography as a career and this opportunity to work at the Center is such a good first step in that direction. Other than furthering my career, working at the Center also allows me to pursue my own interest at a level I didn’t think possible just a year ago.
 
-# Vy Phan
+### Vy Phan
 
-### Fundraising and Development Intern
+#### Fundraising and Development Intern
 
 I am currently a senior at Brandeis University, studying History, Business, and Art History. At the Leventhal Center, I’m the Fundraising and Development Intern. I was first drawn to the Center due to its focus on maps, which was something I personally enjoyed, as someone who loves traveling and visual materials, but had not thought about working on before. After the interview, I was even more excited to join because it was evident that the staff of the Center was passionate about their work, was welcoming, and hoped for me to learn as much as possible.
 
@@ -56,9 +56,9 @@ In the past month, I most enjoyed the fact that the staff are so friendly, suppo
 
 In the future, I hope to work in a position similar to this internship. I enjoy thinking creatively about the audiences of the Center, both the donors and visitors, and working to promote history, culture, and art. This internship teaches me about the operations behind the scenes of a non-profit, museum, archive, and educational center, which gives me a deeper understanding of these types of institutions and what skills I need to prepare for the future.
 
-# Aditi Shankar
+### Aditi Shankar
 
-### Geospatial Research Intern
+#### Geospatial Research Intern
 
 I am a Freshman at Boston University studying Political Science and Data Science. I was interested in working at the Leventhal Center because of my desire to approach historical and contemporary issues with a data-driven perspective. I have also always loved the Boston Public Library, and the prospect of working in a space so rich with history and knowledge excited me.
 
