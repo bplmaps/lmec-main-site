@@ -19,9 +19,9 @@ tags:
 
 ##### Geospatial Research Intern
 
-I'm a student at Brandeis from London, UK, studying Anthropology & History with a minor in German Studies. I enjoy research, and I especially enjoy using digital tools to do research, including GIS. I learned GIS for the first time a year before starting at the Leventhal Center, and realizing how powerful it could be for historical mapping research was exciting, I've incorporated it into work I've done for classes and in research. I'm excited to be working on those skills more at Leventhal.
-
 {{< figure src="/images/headshots/josh-headshot.jpeg" class="figure-left" caption="Joshua Aldwinckle-Povey">}}
+
+I'm a student at Brandeis from London, UK, studying Anthropology & History with a minor in German Studies. I enjoy research, and I especially enjoy using digital tools to do research, including GIS. I learned GIS for the first time a year before starting at the Leventhal Center, and realizing how powerful it could be for historical mapping research was exciting, I've incorporated it into work I've done for classes and in research. I'm excited to be working on those skills more at Leventhal.
 
 Currently, as well as supporting the [Atlascope project](https://atlascope.org), I'm working on [old MBTA transit maps](https://collections.leventhalmap.org/search/commonwealth:cc08kx48x) and investigating how commutes in Boston have looked over time. I'm also interested in delving into the Center's maps showing changes in the state's political districts---I'm hoping to produce some fun independent research work from both of those. So far I've loved getting to know the team and seeing more of the behind the scenes of how the Center operates. It's been insightful to see how the many functions of the Center operate together to serve patrons, and it's great working with a fun and supportive team.
 
