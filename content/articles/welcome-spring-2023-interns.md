@@ -17,11 +17,11 @@ tags:
 
 ### Joshua Aldwinckle-Povey
 
-**Geospatial Research Intern**
-
-{{< figure src="/images/headshots/josh-headshot.jpeg" class="figure-right" caption="Joshua Aldwinckle-Povey">}}
+##### Geospatial Research Intern
 
 I'm a student at Brandeis from London, UK, studying Anthropology & History with a minor in German Studies. I enjoy research, and I especially enjoy using digital tools to do research, including GIS. I learned GIS for the first time a year before starting at the Leventhal Center, and realizing how powerful it could be for historical mapping research was exciting, I've incorporated it into work I've done for classes and in research. I'm excited to be working on those skills more at Leventhal.
+
+{{< figure src="/images/headshots/josh-headshot.jpeg" class="figure-left" caption="Joshua Aldwinckle-Povey">}}
 
 Currently, as well as supporting the [Atlascope project](https://atlascope.org), I'm working on [old MBTA transit maps](https://collections.leventhalmap.org/search/commonwealth:cc08kx48x) and investigating how commutes in Boston have looked over time. I'm also interested in delving into the Center's maps showing changes in the state's political districts---I'm hoping to produce some fun independent research work from both of those. So far I've loved getting to know the team and seeing more of the behind the scenes of how the Center operates. It's been insightful to see how the many functions of the Center operate together to serve patrons, and it's great working with a fun and supportive team.
 
@@ -47,7 +47,7 @@ Looking ahead, I'm excited to gain experience related to geographic knowledge an
 
 I am currently a senior at Brandeis University, studying History, Business, and Art History. At the Leventhal Center, I’m the Fundraising and Development Intern. I was first drawn to the Center due to its focus on maps, which was something I personally enjoyed, as someone who loves traveling and visual materials, but had not thought about working on before. After the interview, I was even more excited to join because it was evident that the staff of the Center was passionate about their work, was welcoming, and hoped for me to learn as much as possible.
 
-{{< figure src="/images/headshots/vy-headshot.png" class="figure-right" caption="Vy Phan">}}
+{{< figure src="/images/headshots/vy-headshot.png" class="figure-left" caption="Vy Phan">}}
 
 As the Fundraising and Development Intern, I am currently working on a list of prospective supporters for our Atlascope program. We hope to expand the tool to not only cover Boston but also other parts of Massachusetts and the country with this support. Additionally, I recently completed a [Map of the Month postcard](https://www.leventhalmap.org/donate/map-of-the-month/)---a monthly postcard of a unique map that our donors receive for their generosity.
 
