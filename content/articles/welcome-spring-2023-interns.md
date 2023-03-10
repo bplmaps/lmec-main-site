@@ -1,5 +1,5 @@
 ---
-title: An interview with the Spring 2023 Interns
+title: An Interview with the Spring 2023 Interns
 author: Joshua Aldwinckle-Povey, Nick Duffy, Vy Phan, Aditi Shankar
 description: Meet the team of wonderful student interns who have been hard at work
   this semester on various LMEC projects
