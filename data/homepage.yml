@@ -51,9 +51,6 @@ cta:
     text: 'Building Blocks: Boston Stories from Urban Atlases and Becoming Boston:
       Eight Moments in the Geography of a Changing City'
     link: https://www.leventhalmap.org/exhibitions/
-  - badge: Summer 2023 internships
-    text: We're seeking to hire two undergraduate interns focused on geospatial research
-    link: https://www.leventhalmap.org/about/jobs/2023-summer-internships/
 audiences:
   enable: true
   audienceGroups:
