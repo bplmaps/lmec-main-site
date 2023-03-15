@@ -1,7 +1,7 @@
 ---
-publishDate: 2023-02-27T15:39:05-05:00
-title: 'Boston’s Unwitting Preservationists: Black Homeowners of Roxbury'
-date: 2023-03-30T18:00:00-04:00
+publishDate: 2023-02-27T15:39:05.000-05:00
+title: 'Boston’s Unrecognized Preservationists: Black Homeowners of Roxbury'
+date: 2023-03-30T18:00:00.000-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c3668/798,1030,6279,3853/2000,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c3668/798,1030,6279,3853/2000,/0/default.jpg
 location: Central Library, Rabb Lecture Hall
