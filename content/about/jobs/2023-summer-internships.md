@@ -2,12 +2,12 @@
 title: Summer 2023 Internships
 backgroundImage: https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg
 cardImage: https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg
-menu: true
+menu: false
 
 ---
-{{< alert-box type="success" title="Applications Due March 15" >}}
+{{< alert-box type="danger" title="Applications Closed" >}}
 
-Applications for our Summer 2023 internships are due March 15, 2023.
+Applications for our Summer 2023 internships have closed.
 
 {{</ alert-box >}}
 
@@ -31,14 +31,3 @@ This opportunity may be particularly suitable for the following types of undergr
 * Work is performed in-person at the Central Library in Copley Square. The Library is well-served by public transit. No free facilities for employee parking are available. The Library and Map Center gallery are fully ADA accessible.
 * All LMEC employees are required to present proof of full vaccination against the COVID-19 virus per federal CDC guidelines.
 * All LMEC employees are required to pass a CORI check as part of the hiring process.
-
-### **To Apply**
-
-Applications are due by March 15, 2023 at 12:00pm ET. To apply, submit:
-
-* A letter of interest, no longer than 2 single-spaced pages
-* A resume or CV
-
-<a class="btn btn-lg btn-primary-outline" href="https://airtable.com/shrmLUcXqG6UVJHMc" target=_blank>Apply Now</a>
-
-Longlisted applicants will be asked to provide a writing sample prior to interviewing and finalists will be asked for references. If you have any additional questions, please contact [info@leventhalmap.org](mailto:info@leventhalmap.org) with questions about this vacancy.
