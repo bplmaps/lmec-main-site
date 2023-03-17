@@ -20,16 +20,88 @@ Universities use this tool to…. /// Other examples of ways
 
 **Are there atlases of towns you would like to see added to Atlascope**? The Leventhal Center is currently in the process of geotransforming historic atlases from towns across the state of Massachusetts. **We hope to ingest these into Atlascope for usage and discovery once the necessary support is secured**. If you would like to help support or be a part of this project, please fill out this form below, and a member our staff will be in touch with you.
 
-Current towns and counties we have atlases for include: 
-
-* Attleboro
-* Barnstable County
-
-\[MAP\]
-
 **Questions in embedded Form:**
 
 * Name or Organization
 * Contact Information
 * Is there a specific town or county you are interested in?
 * Why do you want to support this project?
+
+**Current towns and counties we have atlases for include:**
+
+* Abington, Rockland, Whitman
+* Attleboro
+* Barnstable County
+* Belmont
+* Berkshire County
+* Beverly
+* Boston (additional areas \[East, Roxbury, South\], and years \[1962, others\])
+* Bristol County
+* Brockton
+* Brookfield
+* Brookline
+* Cambridge
+* Cheshire, North Adams
+* Dover, Needham
+* Essex County
+* Everett
+* Fall River
+* Fitchburg
+* Franklin County
+* Gardner
+* Gilbertville
+* Gloucester
+* Greenfield
+* Hampden County
+* Hampshire County
+* Haverhill
+* Holyoke
+* Hull
+* Hyde Park
+* Lawrence
+* Lawrence, North Andover, Methuen, Andover
+* Leominster
+* Longmeadow, Springfield
+* Lynn
+* Malden
+* Marblehead
+* Marlborough
+* Medford
+* Melrose
+* Middlesex County
+* Milford
+* Milton
+* Nahant
+* New Bedford
+* Newton
+* Norfolk County
+* North Andover
+* Northampton, Easthampton
+* Peabody
+* Pittsfield
+* Plymouth County
+* Quincy
+* Reading
+* Rockland
+* Salem
+* Saugus
+* Spencer
+* Springfield
+* Stoneham
+* Swampscott
+* Taunton
+* Waltham
+* Ware
+* Warren
+* Watertown, Belmont, Arlington, Lexington
+* Wayland
+* Wellesley
+* Westfield
+* Weymouth, Braintree
+* Winchendon
+* Winchester
+* Woburn
+* Worcester
+* Worcester County
+
+\[MAP\]
