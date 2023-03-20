@@ -7,6 +7,7 @@ contact:
 - method: Email
   details: avphan@leventhalmap.org
 staff_category: intern
+menu: false
 
 ---
-Vy (she/her) is an undergraduate at Brandeis University, studying History, Business, and Art History. As
+Vy (she/her) is an undergraduate at Brandeis University, studying History, Business, and Art History.
