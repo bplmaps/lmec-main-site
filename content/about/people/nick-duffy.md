@@ -7,6 +7,7 @@ contact:
 - method: Email
   details: nduffy@leventhalmap.org
 staff_category: intern
+menu: false
 
 ---
 Nick (he/him) is an undergraduate at UMass Boston studying History and Theatre.
