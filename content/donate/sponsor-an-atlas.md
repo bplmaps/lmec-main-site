@@ -100,7 +100,6 @@ Finally, patrons from all over the city use Atlascope, researching their family 
 * Winchendon
 * Winchester
 * Woburn
-* Worcester
-* Worcester County
+* Worcester, Worcester County
 
 \[MAP\]
