@@ -16,6 +16,8 @@ Boston City Archaeologist Joe Bagley uses Atlascope frequently in his work, [des
 
 <iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.06153,42.30355$zoom:18.71$base:massgis-2021-orthos$overlay:ark:/76611/al8c3c271" width="100%" height="400"></iframe>
 
+_Above, you can see the property of Mary Pierce in 1889 overlaid on a present day Ronan Park in Dorchester, an important clue for Bagley when figuring out the origins of the sinkhole._
+
 Students and individuals of all ages also use Atlascope all the time. Last summer, the Boston Preservation Alliance also used Atlascope in partnership with Boston Public School students from the Lilla G. Frederick Pilot Middle School. [Students used Atlascope and other primary sources to explore Grove Hall, Upham’s Corner, and Fields Corner to tell stories about these Dorchester neighborhoods](https://www.youtube.com/watch?v=Ak0nDQpNOe0). Individual researchers and university classes use Atlascope for in-depth research projects around urban change, local history, and ; For example, students at [College of the Holy Cross completed a semester-long research project](https://www.leventhalmap.org/articles/before-displacement-part-two/) about the buildings and landscapes of Boston that were destroyed by the Central Artery.
 
 Finally, patrons from all over the city use Atlascope, researching their family histories, satiating curiosities about historical change, and finding new stories that emerge from the woodwork when examining these fascinating cartographic items.
