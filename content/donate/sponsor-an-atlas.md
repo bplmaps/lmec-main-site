@@ -20,7 +20,7 @@ Students and individuals of all ages also use Atlascope all the time. Last summe
 
 Finally, patrons from all over the city use Atlascope, researching their family histories, satiating curiosities about historical change, and finding new stories that emerge from the woodwork when examining these fascinating cartographic items.
 
-**Are there atlases of other Massachusetts towns you would like to see added to Atlascope**? The Leventhal Center is currently in the process of digitizing and geotransforming historic atlases from towns and counties across the state of Massachusetts, to **ingest into Atlascope for usage and discovery once the necessary support is secured**. **If you would like to help support or be a part of this project, please fill out this form below, and a member our staff will be in touch with you.**
+**Are there atlases of other Massachusetts towns you would like to see added to Atlascope?** The Leventhal Center is currently in the process of digitizing and geotransforming historic atlases from towns and counties across the state of Massachusetts, to **ingest into Atlascope for usage and discovery once the necessary support is secured**. **If you would like to help support or be a part of this project, please fill out this form below, and a member our staff will be in touch with you.**
 
 **Questions in embedded Form:**
 
