@@ -12,7 +12,11 @@ tags:
 - more or less in common
 
 ---
+
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized as part of the 2023 ASEH Conference.{{< /alert-box >}}
+
+{{< alert-box title="Event full" type="warning" icon="fas fa-store-alt-slash" >}}All seats at this event have been reserved. You must have a valid registration ticket ready at the door.{{< /alert-box >}}
+
 
 ### About this event
 
