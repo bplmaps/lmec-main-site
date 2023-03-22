@@ -26,4 +26,4 @@ Items available include:
 * A fine press printing of _The Tempest_ by Caliban Press
 * An 1858 reproduction of a very early version of Hamlet with an alternate version of the famous "To be or not to be" speech
 
-Can't make it? Not to worry. These items will be available in the reading room (Wed–Fri, 9:30 am–4:30 pm) for a hands-on experience with Shakespeare through our Arts, Maps, and Rare Book collections -- no appointment required.
+Can't make it? Not to worry. These items will be available to view in the reading room (Wed–Fri, 9:30 am–4:30 pm) through the month of April. _No appointment required._
