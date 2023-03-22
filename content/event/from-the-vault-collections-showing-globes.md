@@ -1,7 +1,7 @@
 ---
 publishDate: 2023-02-22T11:45:44.000-05:00
 title: From The Vault Collections Showing — Globes
-date: 2023-03-03T14:00:00.000-05:00
+date: 2023-03-31T14:00:00-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
 location: Leventhal Map and Education Center, Learning Center
@@ -10,14 +10,13 @@ registration: ''
 tags:
 - collections
 - from the vault
-draft: true
 
 ---
 ### About this event
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463609g/full/1200,/0/default.jpg" caption="Designed by Agnes Sinclair Holbrook, a Wellesley College graduate and resident of Chicago’s Hull-House, [this thematic map](https://collections.leventhalmap.org/search/commonwealth:3f4636086) of the neighborhood east of the House illustrates the immigrant population living in the area." class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:k643f8894/103,94,10051,6315/2000,/0/default.jpg" caption="[_Two-page spread advertising globes by Baker, Pratt & Co._](https://collections.leventhalmap.org/search/commonwealth:3f4639688)" class="figure-right" >}}
 
-Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at maps, globes, atlases and other cartographic works by female creators. 
+Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at some of the finest globes from our collections. 
 
 _Drop in any time between 2:00PM - 4:00PM._
 
