@@ -31,6 +31,8 @@ It is therefore conceivable to actually place one’s physical self in the realm
 
 Since you’ve been in this area, or if you find a map of somewhere else you’ve been or lived, perhaps you’ll agree that there is a certain excitement to searching a map over and recognizing familiar things. That feeling involves creative connection and manifests often in these maps. And yet, however familiar one might be with an area, a historic map necessarily depicts time along with space.
 
+> _“It is therefore conceivable to actually place one’s physical self in the realm of these lines and shapes”_
+
 In the area around the Boston Public Library in 1895, there were more pink buildings—brick buildings—than yellow wooden-frame buildings. The pink ones are packed on streets, with some yellow ones adjoining, maybe residences, garages or storehouses. On this plate, north is not exactly pointing up, so it will take a little reorienting (this is often the case when looking at multiple maps of different neighborhoods as different maps are projected at different directions).
 
 {{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg55h/415,100,3869,3834/1200,/0/default.jpg" class="figure-left" caption="[1895 Bromley Atlas of the City of Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pv85c#1/15)">}}
