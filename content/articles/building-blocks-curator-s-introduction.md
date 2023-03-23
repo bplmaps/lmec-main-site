@@ -89,9 +89,11 @@ Comparing the two keys of the 1895 and 1938 Bromleys, for instance, the one from
 
 Actually, we have come full circle on the matter of imagination. Whereas I have suggested that enjoying is an initial moment in apprehending the basic visual elements of the urban atlas, as we’ve traveled in time and history itself has changed, places of amusement, far from being abstract shapes, become yet another building on the map. Reading the map as a strictly useful item suits the hard-headed modernism of the 1930s, which as I’ve mentioned is the upper range of the library’s collection of atlases.
 
+{{< figure src= "" class="figure-right" caption="">}}
+
 The Progressive Era onward also saw the implementation of nationwide compulsory education and an increase in literacy, so there really seems to be something significant about reading these changes. Separating out business from recreation, it’s no wonder that culture and entertainment came to take up a large part of the social sphere at this time, and it can be enjoyable to consider the physical role of those things in the built landscape.
 
-{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xx05z/7441,3505,917,465/1200,/0/default.jpg" class="figure-left" caption="The "Derby Racer" roller coaster as curves and spirals in this otherwise very straight and rigid [1914 Bromley Atlas of Chealsea, Revere, and Winthrop](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pw696#1/22)">}}
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xx05z/7441,3505,917,465/1200,/0/default.jpg" class="figure-left" caption="The _Derby Racer_ roller coaster as curves and spirals in this otherwise very straight and rigid [1914 Bromley Atlas of Chealsea, Revere, and Winthrop](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pw696#1/22)">}}
 
 As connections form while looking at the maps, is it possible to retrace an enjoyable outing at a cinema, or the thrill of a roller coaster when they are visible on the map? \[Roller coaster slide\] Heightened demand for diversion, spurred on by advertising, created a flood of words and images into so many spheres of life, public and private. The rise of enjoyable commercialism, which made use of popular literacy, provokes what is for me a sense of looking at everything in the same way. Looking at everything in the same way can pose challenges for reading these mass-produced atlases. When there are so many words and images, there can be an ahistorical quality to looking at anything.
 
