@@ -32,6 +32,8 @@ Finally, patrons from all over the city use Atlascope to research their family h
 
 **Current towns and counties we have atlases for include:**
 
+![](/uploads/2023-03-23/atlas-list.jpg)
+
 * Abington, Rockland, Whitman
 * Attleboro
 * Barnstable County
