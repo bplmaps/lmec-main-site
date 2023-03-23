@@ -1,7 +1,7 @@
 ---
 publishDate: 2022-12-15T13:00:46.000-05:00
 title: East Boston By Map
-date: 2023-03-16T18:00:00-04:00
+date: 2023-03-16T18:00:00.000-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k33v/full/2000,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k33v/full/2000,/0/default.jpg
 location: 'East Boston Branch of the Boston Public Library '
@@ -12,6 +12,8 @@ tags:
 - Atlascope
 
 ---
+> **Check out the _East Boston By Map_ slide deck** [**here**](https://www.canva.com/design/DAFaNOfQFG8/5VHVfS1g-5KOhFThpIM5ig/view?utm_content=DAFaNOfQFG8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 ### About this event
 
 **Join the Leventhal Map & Education Center at the** [**East Boston Branch**](https://www.bpl.org/locations/east-boston/) **of the Boston Public Library for a deep dive into the historical geography of Eastie!**
