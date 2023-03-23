@@ -23,7 +23,7 @@ Their distribution is pleasantly asymmetrical, with denser clusters of shapes di
 
 At least for me, there is a relationship between this imaginative allure of the visual elements and the representational composition of the map, which clearly conveys important spatial information at a certain scale. The scale is a crucial part of how these maps represent what it is that they’re representing. In this example, 100 feet is one inch: so it’s maybe five times the size of a room you might be in, you’re 1/5th of an inch on the map! It’s pretty cool, actually. And now, it’s a very human scale for an urban map.
 
-> _“color, shapes, lines, and words all appeal to a fundamentally human curiosity.”_
+> _“...color, shapes, lines, and words all appeal to a fundamentally human curiosity.”_
 
 It is therefore conceivable to actually place one’s physical self in the realm of these lines and shapes. The scale helps us read: You can almost see yourself on the map, or you can appreciate in a spatial way. That’s an important part of the readability, and when you set that thought alongside a key showing the symbols the map uses, finding yourself on the map, suddenly, you can see if you are sitting in a stone, or brick, or wooden building. Which you might have already known, but the ease with which you can rediscover this by looking at the atlas makes the act of retracing that knowledge satisfying. This particular map is from more than 100 years ago, so by reading in this way, you can use your body to understand a time long since passed.
 
@@ -57,7 +57,7 @@ I think somewhere we intuitively sense that US cities got bigger and denser at s
 
 The Civil War marked the legal end of American chattel slavery, under which rubric people of African descent were routinely assigned the status of property and denied property owning rights. Emancipation naturally brought about profound political-economic change. Considering that history, it is my own inclination to read the Civil War into the growth of cities, and thus, into the urban atlases. 
 
-> _"this massive, abstract assembly of interconnected spaces and people."_
+> _"...this massive, abstract assembly of interconnected spaces and people."_
 
 Some of the economic changes war brought include the proliferation of cash within daily transactions, an expanded federal governmental presence, the enormous expansion of railroads and mining, and later, telecommunications, electricity, and real estate development symbolized by tall buildings. Therefore, many of these themes make their appearance in the show. Even in the North, daily life must have changed dramatically, as the ways people met household needs adapted to new technologies and social situations. The city by nature reflects that and the maps by design represent it.
 
