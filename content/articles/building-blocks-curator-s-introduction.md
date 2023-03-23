@@ -91,11 +91,11 @@ Actually, we have come full circle on the matter of imagination. Whereas I have 
 
 The Progressive Era onward also saw the implementation of nationwide compulsory education and an increase in literacy, so there really seems to be something significant about reading these changes. Separating out business from recreation, it’s no wonder that culture and entertainment came to take up a large part of the social sphere at this time, and it can be enjoyable to consider the physical role of those things in the built landscape.
 
-\[p13, left\]
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2801pr37d/full/1200,/0/default.jpg" class="figure-right" caption="Pictured (ca. 1855-1895) is the Tremont St. Cyclorama, catering to the imaginations of crowds of Bostonians living in a rapidly changing city.">}}
 
 As connections form while looking at the maps, is it possible to retrace an enjoyable outing at a cinema, or the thrill of a roller coaster when they are visible on the map? \[Roller coaster slide\] Heightened demand for diversion, spurred on by advertising, created a flood of words and images into so many spheres of life, public and private. The rise of enjoyable commercialism, which made use of popular literacy, provokes what is for me a sense of looking at everything in the same way. Looking at everything in the same way can pose challenges for reading these mass-produced atlases. When there are so many words and images, there can be an ahistorical quality to looking at anything.
 
-{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2801pr37d/full/1200,/0/default.jpg" class="figure-right" caption="Pictured is the Tremont St. Cyclorama, catering to the imaginations of crowds of Bostonians living in a rapidly changing city.">}}
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2801pr37d/full/1200,/0/default.jpg" class="figure-right" caption="[Pictured (ca. 1855-1895)](https://www.digitalcommonwealth.org/search/commonwealth:2801pr364) is the Tremont St. Cyclorama, catering to the imaginations of the bustling crowds of Bostonians living in a rapidly changing city.">}}
 
 I still insist that when you look at these maps from whatever year, you can project yourself into the whole urban conglomeration, whether it’s through a neighborhood, street or building. But awareness of those historical changes also acknowledges the reality of moments of isolation or separation from society when society itself seemingly gets more complicated. As we consider these changes on the map, the approach to reading the maps changes too. Maybe it grows up a little.
 
