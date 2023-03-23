@@ -9,8 +9,6 @@ backgroundImage: ''
 draft: true
 
 ---
-**Building Blocks: Curator's Introduction**
-
 An urban atlas, which is the type of map the show Building Blocks uses to present stories, is a very readable map. What does it mean for a map to be readable? To me it means it captures your imagination and you can gain competence in its methods of representation pretty quickly and therefore gather information and make connections for yourself. The selection of pieces in the show draws inspiration from the basic visual elements that make these maps intriguing: color, shapes, lines, and words all appeal to a fundamentally human curiosity.
 
 {{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg55h/full/1200,/0/default.jpg" class="figure-left" caption="A plate from an [1895 Bromley Atlas of the City of Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pv85c#1/15)">}}
@@ -48,6 +46,8 @@ There is some visual relief on the map plates determined randomly by the space a
 {{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg440/full/1200,/0/default.jpg" caption="The title page of the aforementioned [Atlas of the City of Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pv85c#1/1), published by G.W. Bromley and Co. in 1895.">}}
 
 For as we know it happens that most of these urban atlases on display here at the Boston Public Library were designed for the use of insurance and real estate companies. Moreover, real estate and insurance were booming at the time the atlases were invented, after the Civil War, the first year of which, 1861, also marks the first fire insurance map of Boston published by Charles E. Pinney which is displayed in the show. (1938 is the latest year in the collection of urban atlases in Building Blocks.) Not all the urban atlas publishers on are exactly the same, but in the 1860s, mass-produced large-format books of lithographic atlases using color, annotations, and scaled shapes to display data including construction material and water mains were very useful for calculating fire insurance rates. These fire insurance maps are related to other kinds of urban atlases which mostly emphasized property ownership data (an example of which in this show would be a Hopkins atlas), although not all fire insurance maps portrayed property ownership information.
+
+\[picture of a sanborn title page, right\]
 
 Sometimes all these bound atlas volumes are generically referred to as “Sanborns” due to the national prominence of one fire insurance atlas publisher, Daniel Sanborn of Somerville Massachusetts. Indeed, actual Sanborns, a few of which are in the show, do employ the same visual qualities of color, lines, scale and writing that make urban atlases readable, though they don’t necessarily define the genre. In any event, it might be incidental, but it is not insignificant that these maps came out of the real estate property and insurance enterprises, because that is an important part of Boston’s built landscape and economy at the turn of the century.
 
