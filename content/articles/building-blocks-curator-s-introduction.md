@@ -81,13 +81,13 @@ In this process, change itself refers not only to the form of the city, but also
 
 \[p10, right\]
 
-{{< figure src= "" class="figure-right" caption="">}}
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rr174k201/full/1200,/0/default.jpg" class="figure-right" caption="[1917 Bromley Atlas of the City of Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:rx916c07x#1/29)">}}
 
 Across the show, there is continuity in the representational methods employed by insurance atlases, but the style of individual publishers didn’t change drastically over time. The stylistic evolutions of the atlases do, however, reflect the influence of a mounting presence as well as consolidation of news and advertising during the Progressive Era, which occurred alongside growth in manufacture and mass-produced household goods purchased with wages. The rising focus on consumers accorded with personal automotive culture, hints of which show up in twentieth century fire insurance atlases, although it does take sustained effort to follow all those lines around on the map.
 
 \[p11, left\]
 
-{{< figure src= "" class="figure-left" caption="">}}
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6m314d34w/full/1200,/0/default.jpg" class="figure-left" caption="[1938 Bromley Atlas of the City of Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:bc389528s#1/29)">}}
 
 Returning to the Bromley maps which show the area around the Boston Public Library, Huntington Avenue looks like a boulevard with a green strip through it as it cuts across the page of the 1917 version, while in the 1938 version, part of the greenery has been removed, subway lines take up that space, and the general appearance of the streets has been darkened for emphasis. Remembering that historic fire insurance atlases depict time as much as space, the key becomes interesting again.
 
