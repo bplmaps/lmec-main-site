@@ -20,7 +20,7 @@ Suitable for browsing on a computer or mobile device, this website makes it easy
 
 Boston City Archaeologist Joe Bagley uses Atlascope frequently in his work, [describing it as an invaluable tool](https://www.leventhalmap.org/articles/archaeology-and-atlascope/) for his historic research. In 2020, Atlascope helped Bagley uncover the [origins of a mysterious sinkhole](https://www.boston.gov/news/update-ronan-park-well) that appeared in Ronan Park in Dorchester and the subsequent [discovery of a 19th century well.](https://www.wcvb.com/article/archaeologists-discover-forgotten-well-inside-sinkhole-in-dorchesters-ronan-park/34931536#)
 
-<iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.06153,42.30355$zoom:18.71$base:massgis-2021-orthos$overlay:ark:/76611/al8c3c271" width="50%" height="400"></iframe>
+<iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.06153,42.30355$zoom:18.71$base:massgis-2021-orthos$overlay:ark:/76611/al8c3c271" width="100%" height="400"></iframe>
 
 _Above, you can see the property of Mary Pierce in 1889 overlaid on a present day Ronan Park in Dorchester, an important clue for Bagley when figuring out the origins of the sinkhole._
 
