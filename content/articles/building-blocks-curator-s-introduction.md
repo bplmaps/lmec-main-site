@@ -57,7 +57,7 @@ I think somewhere we intuitively sense that US cities got bigger and denser at s
 
 The Civil War marked the legal end of American chattel slavery, under which rubric people of African descent were routinely assigned the status of property and denied property owning rights. Emancipation naturally brought about profound political-economic change. Considering that history, it is my own inclination to read the Civil War into the growth of cities, and thus, into the urban atlases.
 
-> _"...this massive, abstract assembly of interconnected spaces and people."_
+> _“Just as soon as you feel like part of an urban organism, that is when you start to realize that in the human realm, there is also division, loss, dispute, and alienation”_
 
 Some of the economic changes war brought include the proliferation of cash within daily transactions, an expanded federal governmental presence, the enormous expansion of railroads and mining, and later, telecommunications, electricity, and real estate development symbolized by tall buildings. Therefore, many of these themes make their appearance in the show. Even in the North, daily life must have changed dramatically, as the ways people met household needs adapted to new technologies and social situations. The city by nature reflects that and the maps by design represent it.
 
@@ -72,8 +72,6 @@ Water is significant in Boston: Boston’s revolutionary-era mercantilist econom
 Sometimes, it is enough to look abstractly at shapes on the map and consider how slippery the form of this city is. Using the knowledge you acquire as to reading urban atlases, you can see in the show several instances of a stream of water becoming a dashed line, and then, sometimes, becoming solid again as a property boundary or road. And then there are the cases of those railroads which became highways, and rail yards which became buildings, such as the Prudential Center.
 
 Historic fire insurance maps are ubiquitous today in the professions of architecture and planning and contain practical information for these and other fields. Yet I’ve been describing a process of reading which enjoys the abstract appearance of the map, embraces the act of defamiliarizing a place, and lets the insurance map become a rather whimsical assembly of lines and shapes. Attending to the blank spaces and acknowledging social complexity brings out worthy historical challenges rooted in acknowledging change.
-
-> _“Just as soon as you feel like part of an urban organism, that is when you start to realize that in the human realm, there is also division, loss, dispute, and alienation”_
 
 {{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rr174k201/full/1200,/0/default.jpg" class="figure-right" caption="[1917 Bromley Atlas of the City of Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:rx916c07x#1/29)">}}
 
