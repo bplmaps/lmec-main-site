@@ -49,7 +49,7 @@ For as we know it happens that most of these urban atlases on display here at th
 
 \[picture of a sanborn title page, right\]
 
-{{< figure src= "" class="figure-right" caption="">}}
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70s044t/full/1200,/0/default.jpg" class="figure-right" caption="The title and index page of an [1867 Sanborn Insurance Map of Boston](https://collections.leventhalmap.org/search/commonwealth:tt44pw36n)">}}
 
 Sometimes all these bound atlas volumes are generically referred to as “Sanborns” due to the national prominence of one fire insurance atlas publisher, Daniel Sanborn of Somerville Massachusetts. Indeed, actual Sanborns, a few of which are in the show, do employ the same visual qualities of color, lines, scale and writing that make urban atlases readable, though they don’t necessarily define the genre. In any event, it might be incidental, but it is not insignificant that these maps came out of the real estate property and insurance enterprises, because that is an important part of Boston’s built landscape and economy at the turn of the century.
 
