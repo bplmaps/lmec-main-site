@@ -49,25 +49,27 @@ For as we know it happens that most of these urban atlases on display here at th
 
 \[picture of a sanborn title page, right\]
 
+{{< figure src= "" class="figure-right" caption="">}}
+
 Sometimes all these bound atlas volumes are generically referred to as “Sanborns” due to the national prominence of one fire insurance atlas publisher, Daniel Sanborn of Somerville Massachusetts. Indeed, actual Sanborns, a few of which are in the show, do employ the same visual qualities of color, lines, scale and writing that make urban atlases readable, though they don’t necessarily define the genre. In any event, it might be incidental, but it is not insignificant that these maps came out of the real estate property and insurance enterprises, because that is an important part of Boston’s built landscape and economy at the turn of the century.
 
-\[p7 pic, left\]
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rw11g/1893,993,757,556/1200,/0/default.jpg" class="figure-left" caption="This detail from the [1861 Pinney Plan of the City of Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pw343#1/3) depicts an exclamation point as a marker of high fire risk.">}}
 
 I think somewhere we intuitively sense that US cities got bigger and denser at some point, and if you think about it historically like I do, it was probably after the Civil War, which is the same time these atlases became mass produced. The growth of cities means more people, materials and buildings, which means denser, diversified networks of spaces, more wear and tear as well as physical _risk_. By coming up with novel ways of spatially conveying these risks, the maps, which were published each year, unwittingly portray a constant churning of the urban domain. But they’re not infographics or videos, and we have to read big changes into them, if so inclined.
 
-The Civil War marked the legal end of American chattel slavery, under which rubric people of African descent were routinely assigned the status of property and denied property owning rights. Emancipation naturally brought about profound political-economic change. Considering that history, it is my own inclination to read the Civil War into the growth of cities, and thus, into the urban atlases. 
+The Civil War marked the legal end of American chattel slavery, under which rubric people of African descent were routinely assigned the status of property and denied property owning rights. Emancipation naturally brought about profound political-economic change. Considering that history, it is my own inclination to read the Civil War into the growth of cities, and thus, into the urban atlases.
 
 > _"...this massive, abstract assembly of interconnected spaces and people."_
 
 Some of the economic changes war brought include the proliferation of cash within daily transactions, an expanded federal governmental presence, the enormous expansion of railroads and mining, and later, telecommunications, electricity, and real estate development symbolized by tall buildings. Therefore, many of these themes make their appearance in the show. Even in the North, daily life must have changed dramatically, as the ways people met household needs adapted to new technologies and social situations. The city by nature reflects that and the maps by design represent it.
 
-\[p8, right\]
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ft84cd499/full/1200,/0/default.jpg" class="figure-right" caption="This plate from an [1873 Hopkins Atlas](https://collections.leventhalmap.org/book_viewer/commonwealth:st74gd90s#1/21) depicts the Muddy River as a sprawling waterway which is nonetheless already marked with planned roadways and projected property lines.">}}
 
-These changes molded Boston too, where, in the 1870s, the land we are currently resting upon as you may know was in the process of being filled in from the watery mudflats that made up the Back Bay. \[Here is a plate from 1873 Hopkins showing this process. This one is a little “zoomed out.” You can see some of the projected property lines whose development was underway by then.\] By the turn of the century, this area was a well-appointed grid of high-end residences cradled by green spaces like the Fens and just offset from the financial center.
+These changes molded Boston too, where, in the 1870s, the land the Boston Public Library is currently resting upon as you may know was in the process of being filled in from the watery mudflats that made up the Back Bay. By the turn of the century, this area was a well-appointed grid of high-end residences cradled by green spaces like the Fens and just offset from the financial center. There are many instances of water disappearing from Boston as brooks were culverted and basins were drained. 
 
-\[p9, left\]
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:nv937r463/full/1200,/0/default.jpg" class="figure-left" caption="This plate from a [1917 Bromley](https://collections.leventhalmap.org/book_viewer/commonwealth:rx916c07x#1/38) depicts the effect of the Back Bay Fens redevelopment project, which drained and redirected the Muddy River to allow for the Back Bay as it is today.">}}
 
-\[Here we go back to colorful Bromley from 1917.\] There are many instances of water disappearing from Boston as brooks were culverted and basins were drained. Water is significant in Boston: Boston’s revolutionary-era mercantilist economy thrived on its location on the ocean, which, historians have suggested, gave it a large measure of political and economic autonomy that it could not maintain after the Civil War. As it filled in, the materialization of dry land suited efforts to look inward at city infrastructure—electricity-powered streetcars, elevated rail and subways became crucial for connecting bustling neighborhoods in places like Roxbury and Dorchester to downtown while massive sewage and water systems improved quality of life.
+Water is significant in Boston: Boston’s revolutionary-era mercantilist economy thrived on its location on the ocean, which, historians have suggested, gave it a large measure of political and economic autonomy that it could not maintain after the Civil War. As it filled in, the materialization of dry land suited efforts to look inward at city infrastructure—electricity-powered streetcars, elevated rail and subways became crucial for connecting bustling neighborhoods in places like Roxbury and Dorchester to downtown while massive sewage and water systems improved quality of life.
 
 Sometimes, it is enough to look abstractly at shapes on the map and consider how slippery the form of this city is. Using the knowledge you acquire as to reading urban atlases, you can see in the show several instances of a stream of water becoming a dashed line, and then, sometimes, becoming solid again as a property boundary or road. And then there are the cases of those railroads which became highways, and rail yards which became buildings, such as the Prudential Center.
 
@@ -77,13 +79,23 @@ Historic fire insurance maps are ubiquitous today in the professions of architec
 
 In this process, change itself refers not only to the form of the city, but also in how people adapt to them through. The basic elements never go away, but a viewer might have a new set of questions that come from connections formed through this process. These questions provoke further inquiry, which results in stories, which Building Blocks organizes under some of the broader themes of the turn of the century that I have been mentioning.
 
+\[p10, right\]
+
+{{< figure src= "" class="figure-right" caption="">}}
+
 Across the show, there is continuity in the representational methods employed by insurance atlases, but the style of individual publishers didn’t change drastically over time. The stylistic evolutions of the atlases do, however, reflect the influence of a mounting presence as well as consolidation of news and advertising during the Progressive Era, which occurred alongside growth in manufacture and mass-produced household goods purchased with wages. The rising focus on consumers accorded with personal automotive culture, hints of which show up in twentieth century fire insurance atlases, although it does take sustained effort to follow all those lines around on the map.
 
-\[p10, p11, full width?\]
+\[p11, left\]
+
+{{< figure src= "" class="figure-left" caption="">}}
 
 Returning to the Bromley maps which show the area around the Boston Public Library, Huntington Avenue looks like a boulevard with a green strip through it as it cuts across the page of the 1917 version, while in the 1938 version, part of the greenery has been removed, subway lines take up that space, and the general appearance of the streets has been darkened for emphasis. Remembering that historic fire insurance atlases depict time as much as space, the key becomes interesting again.
 
 \[p12, right\]
+
+{{< figure src= "" class="figure-left" caption="">}}
+
+{{< figure src= "" class="figure-right" caption="">}}
 
 Comparing the two keys of the 1895 and 1938 Bromleys, for instance, the one from 1938 includes a new building material, iron (in addition to brick, frame, and stone) as well as symbols for high pressure fire hydrants, elevated cars, and subways. Having considered on the imaginative dimension of reading these maps, one wonders whether the increasing complexity of the city calls for a less artistic viewing process than what I have emphasized. Do the maps become less whimsical, or at least more comfortable with the realism of daily life in cities?
 
@@ -93,11 +105,11 @@ Actually, we have come full circle on the matter of imagination. Whereas I have 
 
 The Progressive Era onward also saw the implementation of nationwide compulsory education and an increase in literacy, so there really seems to be something significant about reading these changes. Separating out business from recreation, it’s no wonder that culture and entertainment came to take up a large part of the social sphere at this time, and it can be enjoyable to consider the physical role of those things in the built landscape.
 
-{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xx05z/7441,3505,917,465/1200,/0/default.jpg" class="figure-left" caption="The _Derby Racer_ roller coaster as curves and spirals in this otherwise very straight and rigid [1914 Bromley Atlas of Chealsea, Revere, and Winthrop](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pw696#1/22).">}}
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xx05z/7441,3505,917,465/1200,/0/default.jpg" class="figure-left" caption="The _Derby Racer_ roller coaster depicted as curves and spirals in this otherwise very straight and rigid [1914 Bromley Atlas of Chealsea, Revere, and Winthrop](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pw696#1/22).">}}
 
 As connections form while looking at the maps, is it possible to retrace an enjoyable outing at a cinema, or the thrill of a roller coaster when they are visible on the map? \[Roller coaster slide\] Heightened demand for diversion, spurred on by advertising, created a flood of words and images into so many spheres of life, public and private. The rise of enjoyable commercialism, which made use of popular literacy, provokes what is for me a sense of looking at everything in the same way. Looking at everything in the same way can pose challenges for reading these mass-produced atlases. When there are so many words and images, there can be an ahistorical quality to looking at anything.
 
-{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2801pr37d/full/1200,/0/default.jpg" class="figure-right" caption="[Pictured (ca. 1855-1895)](https://www.digitalcommonwealth.org/search/commonwealth:2801pr364) is the Tremont St. Cyclorama, catering to the imaginations of the bustling crowds of Bostonians living in a rapidly changing city.">}}
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2801pr37d/full/1200,/0/default.jpg" class="figure-right" caption="[Pictured (ca. 1855-1895)](https://www.digitalcommonwealth.org/search/commonwealth:2801pr364) is the Tremont St. [Cyclorama](https://www.leventhalmap.org/digital-exhibitions/building-blocks/topics/having-fun/), catering to the imaginations of the bustling crowds of Bostonians living in a rapidly changing city.">}}
 
 I still insist that when you look at these maps from whatever year, you can project yourself into the whole urban conglomeration, whether it’s through a neighborhood, street or building. But awareness of those historical changes also acknowledges the reality of moments of isolation or separation from society when society itself seemingly gets more complicated. As we consider these changes on the map, the approach to reading the maps changes too. Maybe it grows up a little.
 
