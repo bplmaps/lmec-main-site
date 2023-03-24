@@ -4,12 +4,14 @@ title: 'Building Blocks: Curator''s Introduction'
 description: ''
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6m314d34w/312,298,3114,2554/full/0/default.jpg
 author: Laura Lee Schmidt
-tags: []
-backgroundImage: ''
+tags:
+- exhibition
+- building blocks
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6m314d34w/312,298,3114,2554/full/0/default.jpg
 draft: true
 
 ---
-An urban atlas, which is the type of map the show Building Blocks uses to present stories, is a very readable map. What does it mean for a map to be readable? To me it means it captures your imagination and you can gain competence in its methods of representation pretty quickly and therefore gather information and make connections for yourself. The selection of pieces in the show draws inspiration from the basic visual elements that make these maps intriguing: color, shapes, lines, and words all appeal to a fundamentally human curiosity.
+An urban atlas, which is the type of map the show [_Building Blocks_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/) uses to present stories, is a very readable map. What does it mean for a map to be readable? To me it means it captures your imagination and you can gain competence in its methods of representation pretty quickly and therefore gather information and make connections for yourself. The selection of pieces in the show draws inspiration from the basic visual elements that make these maps intriguing: color, shapes, lines, and words all appeal to a fundamentally human curiosity.
 
 {{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg55h/full/1200,/0/default.jpg" caption="A plate from an [1895 Bromley Atlas of the City of Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pv85c#1/15)">}}
 
@@ -63,7 +65,7 @@ Some of the economic changes war brought include the proliferation of cash withi
 
 {{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ft84cd499/full/1200,/0/default.jpg" caption="This plate from an [1873 Hopkins Atlas](https://collections.leventhalmap.org/book_viewer/commonwealth:st74gd90s#1/21) depicts the Muddy River as a sprawling waterway which is nonetheless already marked with planned roadways and projected property lines (note that Beacon St and the Boston & Albany Railroad cross over the water and predate this landfill process).">}}
 
-These changes molded Boston too, where, in the 1870s, the land the Boston Public Library is currently resting upon as you may know was in the process of being filled in from the watery mudflats that made up the Back Bay. By the turn of the century, this area was a well-appointed grid of high-end residences cradled by green spaces like the Fens and just offset from the financial center. There are many instances of water disappearing from Boston as brooks were culverted and basins were drained. 
+These changes molded Boston too, where, in the 1870s, the land the Boston Public Library is currently resting upon as you may know was in the process of being filled in from the watery mudflats that made up the Back Bay. By the turn of the century, this area was a well-appointed grid of high-end residences cradled by green spaces like the Fens and just offset from the financial center. There are many instances of water disappearing from Boston as brooks were culverted and basins were drained.
 
 Water is significant in Boston: Boston’s revolutionary-era mercantilist economy thrived on its location on the ocean, which, historians have suggested, gave it a large measure of political and economic autonomy that it could not maintain after the Civil War. As it filled in, the materialization of dry land suited efforts to look inward at city infrastructure—electricity-powered streetcars, elevated rail and subways became crucial for connecting bustling neighborhoods in places like Roxbury and Dorchester to downtown while massive sewage and water systems improved quality of life.
 
