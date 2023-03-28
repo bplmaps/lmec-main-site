@@ -1,5 +1,5 @@
 ---
-date: 2023-03-24T07:00:00.000-04:00
+date: 2023-01-18T08:00:00-05:00
 title: Building Blocks Through Curatorial Eyes
 description: ''
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6m314d34w/312,298,3114,2554/full/0/default.jpg
@@ -8,10 +8,9 @@ tags:
 - exhibition
 - building blocks
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6m314d34w/312,298,3114,2554/full/0/default.jpg
-draft: true
 
 ---
-> The text below was originally written to be an in-person lecture given by Laura Lee Schmidt at the January 2023 opening event for [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/). With the popularity of the exhibition to date, we are reprinting the text of the talk, along with accompanying visuals.
+> The text below was originally written as an in-person lecture given by Laura Lee Schmidt at the January 2023 opening event for [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/). 
 
 An urban atlas, which is the type of map the show [_Building Blocks_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/) uses to present stories, is a very readable map. What does it mean for a map to be readable? To me it means it captures your imagination and you can gain competence in its methods of representation pretty quickly and therefore gather information and make connections for yourself. The selection of pieces in the show draws inspiration from the basic visual elements that make these maps intriguing: color, shapes, lines, and words all appeal to a fundamentally human curiosity.
 
