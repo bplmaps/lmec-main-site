@@ -1,6 +1,6 @@
 ---
 date: 2023-03-24T07:00:00.000-04:00
-title: 'Building Blocks Through Curatorial Eyes'
+title: Building Blocks Through Curatorial Eyes
 description: ''
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6m314d34w/312,298,3114,2554/full/0/default.jpg
 author: Laura Lee Schmidt
@@ -11,7 +11,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6m314d
 draft: true
 
 ---
-> The text below was originally written to be an in-person lecture given by Laura Lee Schmidt at the January 2023 opening event for [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/). With the popularity of the exhibition to date, we are reprinting the text of the talk, along with accompanying visuals. 
+> The text below was originally written to be an in-person lecture given by Laura Lee Schmidt at the January 2023 opening event for [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/). With the popularity of the exhibition to date, we are reprinting the text of the talk, along with accompanying visuals.
 
 An urban atlas, which is the type of map the show [_Building Blocks_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/) uses to present stories, is a very readable map. What does it mean for a map to be readable? To me it means it captures your imagination and you can gain competence in its methods of representation pretty quickly and therefore gather information and make connections for yourself. The selection of pieces in the show draws inspiration from the basic visual elements that make these maps intriguing: color, shapes, lines, and words all appeal to a fundamentally human curiosity.
 
@@ -37,7 +37,7 @@ Since you’ve been in this area, or if you find a map of somewhere else you’v
 
 In the area around the Boston Public Library in 1895, there were more pink buildings—brick buildings—than yellow wooden-frame buildings. The pink ones are packed on streets, with some yellow ones adjoining, maybe residences, garages or storehouses. On this plate, north is not exactly pointing up, so it will take a little reorienting (this is often the case when looking at multiple maps of different neighborhoods as different maps are projected at different directions).
 
-{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg55h/415,100,3869,3834/1200,/0/default.jpg" class="figure-left" caption="[1895 Bromley Atlas of the City of Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pv85c#1/15)">}}
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rg55h/415,100,3869,3834/1200,/0/default.jpg" class="figure-right" caption="[1895 Bromley Atlas of the City of Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pv85c#1/15)">}}
 
 Using the Boston Public Library as an anchor, if you glance across the street from there, it’s apparent that in 1895, Huntington Avenue cut through Copley Square, and Copley Square was in fact a triangle. There are railroads intersecting densely on the page, which helped shape blocks. And to the west of the library (below it on the map), there is a rail yard which is most certainly not there today. There is also a large brick Armory, and apparently the Museum of Fine Arts used to be across from Copley Square. What’s the circle, and why so much brick? It’s common to understand a map as a reserve of information that has answers, but when time defamiliarizes some of what’s on it, the map itself takes form. By making connections while viewing it imaginatively and in an embodied way, you kind of take part in creating the map.
 
@@ -55,7 +55,7 @@ For as we know it happens that most of these urban atlases on display here at th
 
 Sometimes all these bound atlas volumes are generically referred to as “Sanborns” due to the national prominence of one fire insurance atlas publisher, Daniel Sanborn of Somerville Massachusetts. Indeed, actual Sanborns, a few of which are in the show, do employ the same visual qualities of color, lines, scale and writing that make urban atlases readable, though they don’t necessarily define the genre. In any event, it might be incidental, but it is not insignificant that these maps came out of the real estate property and insurance enterprises, because that is an important part of Boston’s built landscape and economy at the turn of the century.
 
-{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rw11g/1893,993,757,556/1200,/0/default.jpg" class="figure-left" caption="This detail from the [1861 Pinney Plan of the City of Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pw343#1/3) depicts an exclamation point as a marker of high fire risk.">}}
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rw11g/1893,993,757,556/1200,/0/default.jpg" class="figure-right" caption="This detail from the [1861 Pinney Plan of the City of Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pw343#1/3) depicts an exclamation point as a marker of high fire risk.">}}
 
 I think somewhere we intuitively sense that US cities got bigger and denser at some point, and if you think about it historically like I do, it was probably after the Civil War, which is the same time these atlases became mass produced. The growth of cities means more people, materials and buildings, which means denser, diversified networks of spaces, more wear and tear as well as physical _risk_. By coming up with novel ways of spatially conveying these risks, the maps, which were published each year, unwittingly portray a constant churning of the urban domain. But they’re not infographics or videos, and we have to read big changes into them, if so inclined.
 
