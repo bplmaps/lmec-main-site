@@ -1,5 +1,5 @@
 ---
-date: 2023-03-29T16:38:26-04:00
+date: 2023-03-31T07:00:00-04:00
 title: 'Atlascope Explained: Looking Between the Cracks'
 description: ''
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pz50kj168/653,1117,6717,3684/2000,/0/default.jpg
