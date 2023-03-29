@@ -22,12 +22,6 @@ weekly:
   open: 1 pm
   close: 5 pm
 exceptions:
-- special: Closed
-  date: January 16, 2023
-  name: Martin Luther King Jr. Day
-- date: February 20, 2023
-  name: Presidents' Day
-  special: Closed
 - date: April 9, 2023
   name: Easter
   special: Closed
