@@ -16,8 +16,6 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 ## Workshops and Courses
 
-{{< pd-listing image="/uploads/2022-12-08/wiam.png" title="Small Bites 2022-2023: Map Learning for Elementary Students: What Is a Map?" subtitle="Thursday, March 9, 3:30-4:30 pm" description="Join Map Center K-12 educators to learn how we introduce young learners to maps and how to think about them. Take away a lesson you can teach right away in your classroom." signUpLink="https://www.eventbrite.com/e/map-learning-for-elementary-students-what-is-a-map-tickets-478273227097" >}}
-
 {{< pd-listing image="/uploads/2022-12-08/amrev.png" title="Maps in the Classroom: The American Revolution" subtitle="Thursday, April 6, 3:30-4:30 pm" description="Join Map Center K-12 educators to learn how we introduce young learners to maps and how to think about them. Take away a lesson you can teach right away in your classroom." signUpLink="https://www.eventbrite.com/e/maps-in-the-classroom-american-revolution-tickets-478320428277" >}}
 
 {{< alert-box type="warning" title="Online Professional Development Opportunity" icon="fas fa-laptop-house" >}}
@@ -38,9 +36,9 @@ Join us for this self-paced online professional development course hosted by the
 
 ##### July 10 - 12, 2023
 
-In conjunction with our current exhibition, [Building Blocks: Boston Stories from Urban Atlases](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), we will host a three-day educator workshop in the summer of 2023 centered on the role of Black women activists in Boston's history and their impact. Keep an eye on this page for registration information and more details, or sign up for our education newsletter to get this information in your inbox as soon as we announce it. 
+In conjunction with our current exhibition, [Building Blocks: Boston Stories from Urban Atlases](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), we will host a three-day educator workshop in the summer of 2023 centered on the role of Black women activists in Boston's history and their impact. Keep an eye on this page for registration information and more details, or sign up for our education newsletter to get this information in your inbox as soon as we announce it.
 
-Participants will 
+Participants will
 
 * locate themselves in relation to their knowledge of  Boston's Black history and their comfort in teaching about it.
 * develop an appreciation for how space is occupied: physical/geographic, intellectual, emotional, and for historical legacy (narrative and memorializing)
