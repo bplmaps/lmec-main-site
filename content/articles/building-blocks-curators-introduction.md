@@ -1,7 +1,8 @@
 ---
-date: 2023-01-18T08:00:00-05:00
+date: 2023-03-29T11:30:00-04:00
 title: 'A Curatorial Commentary on Building Blocks: Boston Stories from Urban Atlases'
-description: ''
+description: Exhibition Curatorial Fellow Laura Lee Schmidt dives into our ongoing
+  Building Blocks exhibition
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6m314d34w/312,298,3114,2554/full/0/default.jpg
 author: Laura Lee Schmidt
 tags:
