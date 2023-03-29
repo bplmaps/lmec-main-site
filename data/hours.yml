@@ -43,3 +43,12 @@ exceptions:
 - date: July 4, 2023
   name: Independence Day
   special: Closed
+- special: Closed
+  name: Labor Day (observed)
+  date: September 3, 2023
+- special: Closed
+  date: September 4, 2023
+  name: Labor Day
+- special: Closed
+  date: October 9, 2023
+  name: Indigenous Peoples' Day
