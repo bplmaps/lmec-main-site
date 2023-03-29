@@ -1,0 +1,62 @@
+---
+date: 2023-03-29T16:38:26-04:00
+title: 'Atlascope Explained: Looking Between the Cracks'
+description: ''
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pz50kj168/653,1117,6717,3684/2000,/0/default.jpg
+author: Patricio Pino
+tags: []
+backgroundImage: ''
+draft: true
+
+---
+Atlascope Explained: Looking Between the Cracks
+
+(little preamble thing explaining and linking to Atlascope)
+
+Before I explain (and ruin the magic of) any of the inner workings of Atlascope, I’d like to highlight the fascinating moments of wonder it can generate. Atlascope’s outwardly simple arrangement of human geography, urban history, and digital accessibility, is uniquely positioned to spark curiosity in a way which engages the very personal connections to the places we live in and the histories we are a part of. We want to know what our neighborhoods used to look like, how our city has changed along with its citizens, our neighbors and ancestors, in order to form the communities we now belong to.
+
+\[gif of atlascope\]
+
+Using Atlascope we can directly visualize a constantly shifting urban world, reinventing itself over many decades. In a seamless manner, we see how the streets we know personally are planned out, laid out, and integrated into all the complexities of a city as historical as Boston. Tramways, storefronts, industries, all appear and disappear, while the construction of any one specific building could be a part of countless personal geographies, as a childhood home, family business, workplace, or any other cherished part of the city.
+
+There is a very natural integration between our personal curiosities and the presentation of Atlascope, with all the cartographic details of historic urban atlases aligned seamlessly to a modern digital map—that is, until they are not. Occasionally it’s hard to ignore a jagged disconnect across the width of a road or the uneven presentation of certain features straddling municipal boundaries. In the midst of a wonderstruck historical journey it's easy to forget that Atlascope is a digital tool developed over the course of many years by the skilled (and hopefully forgiving) minds at the Map Center. Like any human-made tool it is not perfect, but these ruptures and inconsistencies don’t represent the end of our curiosity, but it's redirection towards a struggle which in many ways encapsulates much of the work we do here at the Map Center.
+
+\[picture of the glitches, caption explaining what a plate is\]
+
+There is a fundamental gap to be bridged, between the Map Center’s mission to foster curiosity and understanding to all, and the more than quarter million items in our collection—representing daunting rows and stacks of atlases, maps, and other artifacts. It’s an unfortunately unavoidable fact that the sheer density of information and history contained within our vault is inherently inaccessible to the public. In Atlascope, and especially thanks to its occasional missteps, the journey to overcome this inaccessibility is perfectly exemplified for us to see. Occasional misalignments mark the edges of the thousands of individual atlas plates which are digitally stitched together to form Atlascope. Occasional handwritten marks and notes remind us that these were once tools in their own right, as the material components of larger atlases. Abrupt shifts across municipal lines represent the original extents of these atlases, which served as very detailed, very technical, and very expensive data sources for the fire insurance and real estate industries.
+
+In fact, “larger” is definitely an all-around good way to describe these urban atlases, each being close to two feet in length and unwieldy in almost every regard, not just physically but also in terms of the overwhelming amounts of detail contained within them. There is considerable cumulative effort which has gone into transforming these bulky atlases, hopelessly dense and hard to use, into the easily learnable and curiosity provoking interface of Atlascope, free to access on any web browser anywhere.
+
+\[picture of the big atlases\]
+
+In this journey, the physical atlases are first digitized page by page, their digital versions then meticulously referenced to align to real geographical locations before they are transplanted and digitally fitted together like puzzle pieces into the final contiguous map of Boston which forms Atlascope. This process is not just exceedingly technical in its own right, but also one which has occurred over the course of many years and across many separate projects and efforts, of which Atlascope is only a culmination. To help explain the scope and complexity of the efforts which produced Atlascope, I figured I’d end this article with a brief interrogation of Ian Spangler, Assistant Curator of Digital & Participatory Geography here at the map center.
+
+\[picture of Ian\]
+
+**Ian, first off, is it possible for you to give us an idea of where we’re starting from when it comes to Atlascope, in terms of working with physical collections material and these bulky atlases?**
+
+I haven’t actually had to use the original atlases in any meaningful way, mainly because their digitized versions have always been readily available to me, which I think highlights one of the main goals of Atlascope as being more about consolidation, into a format which is as intuitive and natural as possible for a user to interact with. There was a problem of sheer quantity, but also the widely unconsolidated batches and collections of atlases, with not a lot of coordination between individual institutions’ digitization efforts. For example, the Library of Congress has a considerable and nation-wide collection of Sanborn fire insurance atlases, many of which are available to view online, which represents really valuable work entirely distinct but moving in a parallel direction to similar efforts at the Map Center.
+
+\[digitization lab picture\]
+
+The next problem is that these digital versions are available in a format which is in many ways entirely based on the format of the original reference atlases. While this form of digitization does provide the benefits of internet accessibility and functions like panning and zooming, users are still expected to seek out specific atlases in the database, and then digitally flip through its pages using the original index material to find their desired location. A process not in tune to the natural intuitions of contemporary users, used to free scrolling and searchable addresses.
+
+\[atlas index page\]
+
+**A big part of creating these resources is the georeferencing process, the matching up of geographic data in the map to geographic data in the real world, could you walk us through this and give us an idea of how it culminates into something like Atlascope?**
+
+There’s a similar problem with the georeferencing process with consolidation, but also an interesting one here with accessibility and natural intuition on the development end. The amount of data, the amount of atlases, which need to be processed mean that getting the most out of your man-hours is really important. Traditionally, georeferencing involves interfacing with spatial data through the kind of very technical and hard-to-learn software which we basically had to be trained to use, going through map by map, and linking coordinate points in the real world to pixels on the digital map.
+
+In the process of creating Atlascope we were able to cut down on a lot of the complexity by integrating our work with other initiatives. First off is IIIF (Inter Image Interoperability Framework) which is the kind of thing librarians get really excited about that no actual person will ever know about. It’s basically an initiative between different institutions to standardize the accessibility of digital materials between collections, so you’re not dealing with a bunch of different formats that can’t necessarily ‘talk to each other’ in the way you need them to. This makes a lot of cool things possible such, as allowing for a new kind of georeferencing process facilitated by a program called Allmaps, which is pretty amazingly largely the work of one man \[the very enthusiastic Bert Spaan\].
+
+IIIF means that the mess of unconsolidated digital map collections I mentioned earlier are in a position to be presented in a more unified way. Allmaps uses this to allow for the georeferencing of any of these IIIF maps entirely on the web (without the need for downloaded software) in an online interface which is intuitive and easy to learn. This gives us the flexibility to hire interns to perform georeferencing work, and an overall efficiency which makes Atlascope, as an intuitive and accessible final product, possible.
+
+**With all this talk of consolidation and intuition I guess I’d like to know more about your thoughts on the final arrangement of Atlascope, what makes its digital interface so effective?**
+
+I think it’s really all about spontaneity and the thrill of discovery, and the key question of how we engage with our technology. In the older formats, the atlases themselves or their digitized versions, the user had to go in with a question, a research inquiry, or a specific address to be investigated, the format simply wasn’t geared towards allowing for spontaneous curiosity and the kind of unexpected threads which you can lose yourself in through something like Atlascope. Now, you have the wiggle room to literally just drift, across different atlas plates and entire atlases, and through decades of historical change.
+
+This is something which makes accessible a really transformative period in history, really rich for discovery as a time when landscapes were being carved up and people were being displaced in a way which makes all the more critical the very basic question: what used to be here? The atlases themselves from this time period also represent a really valuable source of information, marking a development in new, very standardized and very rigorous forms of mapmaking, which have so much potential to be reinterpreted and made widely accessible in tools such as Atlascope. All of this comes together to provide the perfect environment for the kind of spontaneity which allows for finding and creating the stories which lie beneath the surface of such detailed maps.
+
+**I’m tempted to think that changing a format in such a dramatic manner has some costs as well, are there any downsides to the creation of Atlascope?**
+
+This is a question which I first heard from a student during a university class visit, I think because seeing the actual atlases in person as historical artifacts really drives home how radically different their presentation in Atlascope is from their actual nature. I really think we lose quite a lot in this process, because of the materiality of the books as possessing a time and place and purpose in their own right. I think it’s important to imagine the surveyors and engineers working to create these items not as artifacts but as tools intended as sources of information and understanding through the manipulation of geographic data. Understanding this is I think one of the necessary experiences for understanding geography, since our own efforts are basically the same process, crucially standing on top of and building off of these previous examples.
