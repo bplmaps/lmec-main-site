@@ -3,12 +3,12 @@ date: 2023-03-29T11:30:00-04:00
 title: 'A Curatorial Commentary on Building Blocks: Boston Stories from Urban Atlases'
 description: Exhibition Curatorial Fellow Laura Lee Schmidt dives into our ongoing
   Building Blocks exhibition
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6m314d34w/312,298,3114,2554/full/0/default.jpg
+image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6m314d34w/312,298,3114,2554/full/2000,/0/default.jpg
 author: Laura Lee Schmidt
 tags:
 - exhibition
 - building blocks
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6m314d34w/312,298,3114,2554/full/0/default.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6m314d34w/312,298,3114,2554/full/2000,/0/default.jpg
 
 ---
 > The text below was originally written as an in-person lecture given by Laura Lee Schmidt at the January 2023 opening event for [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/). 
