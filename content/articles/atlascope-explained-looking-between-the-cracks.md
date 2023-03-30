@@ -1,5 +1,5 @@
 ---
-date: 2023-03-31T07:00:00-04:00
+date: 2023-03-31T07:00:00.000-04:00
 title: 'Atlascope Explained: Looking Between the Cracks'
 description: ''
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pz50kj168/653,1117,6717,3684/2000,/0/default.jpg
@@ -27,7 +27,7 @@ There is a fundamental gap to be bridged, between the Map Center’s mission to 
 
 In fact, “larger” is definitely an all-around good way to describe these urban atlases, each being close to two feet in length and unwieldy in almost every regard, not just physically but also in terms of the overwhelming amounts of detail contained within them. There is considerable cumulative effort which has gone into transforming these bulky atlases, hopelessly dense and hard to use, into the easily learnable and curiosity provoking interface of Atlascope, free to access on any web browser anywhere.
 
-\[picture of the big atlases\]
+{{< figure src= "/uploads/2023-03-24/eastboston-by-map3.jpg" caption="A stack of some of the urban atlases in the LMEC's collection, also demonstrating their often fragil conservation status">}}
 
 In this journey, the physical atlases are first digitized page by page, their digital versions then meticulously referenced to align to real geographical locations before they are transplanted and digitally fitted together like puzzle pieces into the final contiguous map of Boston which forms Atlascope. This process is not just exceedingly technical in its own right, but also one which has occurred over the course of many years and across many separate projects and efforts, of which Atlascope is only a culmination. To help explain the scope and complexity of the efforts which produced Atlascope, I figured I’d end this article with a brief interrogation of Ian Spangler, Assistant Curator of Digital & Participatory Geography here at the map center.
 
