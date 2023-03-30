@@ -17,7 +17,7 @@ Before I explain (and ruin the magic of) any of the inner workings of Atlascope,
 
 \[gif of atlascope\]
 
-{{< figure src= "" caption="">}}
+{{< figure src= "" class="figure-right" caption="">}}
 
 Using Atlascope we can directly visualize a constantly shifting urban world, reinventing itself over many decades. In a seamless manner, we see how the streets we know personally are planned out, laid out, and integrated into all the complexities of a city as historical as Boston. Tramways, storefronts, industries, all appear and disappear, while the construction of any one specific building could be a part of countless personal geographies, as a childhood home, family business, workplace, or any other cherished part of the city.
 
@@ -25,7 +25,7 @@ There is a very natural integration between our personal curiosities and the pre
 
 \[picture of the glitches, caption explaining what a plate is\]
 
-{{< figure src= "" caption="">}}
+{{< figure src= "/uploads/2023-03-30/atlascopeglitch.jpg" class="figure-left" caption="Three distinct atlas plates are fitted together imperfectly, note the misalignment of the Railroads in the bottom left, and Massachusetts Ave in the top right.">}}
 
 There is a fundamental gap to be bridged, between the Map Center’s mission to foster curiosity and understanding to all, and the more than quarter million items in our collection—representing daunting rows and stacks of atlases, maps, and other artifacts. It’s an unfortunately unavoidable fact that the sheer density of information and history contained within our vault is inherently inaccessible to the public. In Atlascope, and especially thanks to its occasional missteps, the journey to overcome this inaccessibility is perfectly exemplified for us to see. Occasional misalignments mark the edges of the thousands of individual atlas plates which are digitally stitched together to form Atlascope. Occasional handwritten marks and notes remind us that these were once tools in their own right, as the material components of larger atlases. Abrupt shifts across municipal lines represent the original extents of these atlases, which served as very detailed, very technical, and very expensive data sources for the fire insurance and real estate industries.
 
