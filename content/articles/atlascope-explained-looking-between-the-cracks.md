@@ -47,7 +47,7 @@ The next problem is that these digital versions are available in a format which 
 
 \[atlas index page\]
 
-{{< figure src= "" caption="">}}
+{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c444f/full/1200,/0/default.jpg" caption="The index page of this [1938 Bromley Atlas of the City of Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pw09r#1/3), showing which numbered plate of the atlas corresponds to specific parts of the City.">}}
 
 **A big part of creating these resources is the georeferencing process, the matching up of geographic data in the map to geographic data in the real world, could you walk us through this and give us an idea of how it culminates into something like Atlascope?**
 
