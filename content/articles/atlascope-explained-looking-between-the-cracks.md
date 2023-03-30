@@ -33,19 +33,13 @@ In fact, “larger” is definitely an all-around good way to describe these urb
 
 In this journey, the physical atlases are first digitized page by page, their digital versions then meticulously referenced to align to real geographical locations before they are transplanted and digitally fitted together like puzzle pieces into the final contiguous map of Boston which forms Atlascope. This process is not just exceedingly technical in its own right, but also one which has occurred over the course of many years and across many separate projects and efforts, of which Atlascope is only a culmination. To help explain the scope and complexity of the efforts which produced Atlascope, I figured I’d end this article with a brief interrogation of Ian Spangler, Assistant Curator of Digital & Participatory Geography here at the map center.
 
-{{< figure src= "images/headshots/spangler-headshot.jpg" caption="Ian Spangler">}}
+{{< figure src= "/uploads/2021-11-03/ian-spangler-gallery.jpg" caption="Ian Spangler">}}
 
 **Ian, first off, is it possible for you to give us an idea of where we’re starting from when it comes to Atlascope, in terms of working with physical collections material and these bulky atlases?**
 
-I haven’t actually had to use the original atlases in any meaningful way, mainly because their digitized versions have always been readily available to me, which I think highlights one of the main goals of Atlascope as being more about consolidation, into a format which is as intuitive and natural as possible for a user to interact with. There was a problem of sheer quantity, but also the widely unconsolidated batches and collections of atlases, with not a lot of coordination between individual institutions’ digitization efforts. For example, the Library of Congress has a considerable and nation-wide collection of Sanborn fire insurance atlases, many of which are available to view online, which represents really valuable work entirely distinct but moving in a parallel direction to similar efforts at the Map Center.
-
-\[digitization lab picture\]
-
-{{< figure src= "" caption="">}}
+I haven’t actually had to use the original atlases in any meaningful way, mainly because their digitized versions have always been readily available to me, which I think highlights one of the main goals of Atlascope as being more about consolidation, into a format which is as intuitive and natural as possible for a user to interact with. {{< figure src= "/uploads/2023-03-30/dig-lab.png" class="figure-right" caption="The digitization lab">}} There was a problem of sheer quantity, but also the widely unconsolidated batches and collections of atlases, with not a lot of coordination between individual institutions’ digitization efforts. For example, the Library of Congress has a considerable and nation-wide collection of Sanborn fire insurance atlases, many of which are available to view online, which represents really valuable work entirely distinct but moving in a parallel direction to similar efforts at the Map Center.
 
 The next problem is that these digital versions are available in a format which is in many ways entirely based on the format of the original reference atlases. While this form of digitization does provide the benefits of internet accessibility and functions like panning and zooming, users are still expected to seek out specific atlases in the database, and then digitally flip through its pages using the original index material to find their desired location. A process not in tune to the natural intuitions of contemporary users, used to free scrolling and searchable addresses.
-
-\[atlas index page\]
 
 {{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c444f/full/1200,/0/default.jpg" caption="The index page of this [1938 Bromley Atlas of the City of Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pw09r#1/3), showing which numbered plate of the atlas corresponds to specific parts of the City.">}}
 
