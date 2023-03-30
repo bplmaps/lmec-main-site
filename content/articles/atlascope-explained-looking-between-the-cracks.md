@@ -17,11 +17,15 @@ Before I explain (and ruin the magic of) any of the inner workings of Atlascope,
 
 \[gif of atlascope\]
 
+{{< figure src= "" caption="">}}
+
 Using Atlascope we can directly visualize a constantly shifting urban world, reinventing itself over many decades. In a seamless manner, we see how the streets we know personally are planned out, laid out, and integrated into all the complexities of a city as historical as Boston. Tramways, storefronts, industries, all appear and disappear, while the construction of any one specific building could be a part of countless personal geographies, as a childhood home, family business, workplace, or any other cherished part of the city.
 
 There is a very natural integration between our personal curiosities and the presentation of Atlascope, with all the cartographic details of historic urban atlases aligned seamlessly to a modern digital map—that is, until they are not. Occasionally it’s hard to ignore a jagged disconnect across the width of a road or the uneven presentation of certain features straddling municipal boundaries. In the midst of a wonderstruck historical journey it's easy to forget that Atlascope is a digital tool developed over the course of many years by the skilled (and hopefully forgiving) minds at the Map Center. Like any human-made tool it is not perfect, but these ruptures and inconsistencies don’t represent the end of our curiosity, but it's redirection towards a struggle which in many ways encapsulates much of the work we do here at the Map Center.
 
 \[picture of the glitches, caption explaining what a plate is\]
+
+{{< figure src= "" caption="">}}
 
 There is a fundamental gap to be bridged, between the Map Center’s mission to foster curiosity and understanding to all, and the more than quarter million items in our collection—representing daunting rows and stacks of atlases, maps, and other artifacts. It’s an unfortunately unavoidable fact that the sheer density of information and history contained within our vault is inherently inaccessible to the public. In Atlascope, and especially thanks to its occasional missteps, the journey to overcome this inaccessibility is perfectly exemplified for us to see. Occasional misalignments mark the edges of the thousands of individual atlas plates which are digitally stitched together to form Atlascope. Occasional handwritten marks and notes remind us that these were once tools in their own right, as the material components of larger atlases. Abrupt shifts across municipal lines represent the original extents of these atlases, which served as very detailed, very technical, and very expensive data sources for the fire insurance and real estate industries.
 
@@ -31,7 +35,9 @@ In fact, “larger” is definitely an all-around good way to describe these urb
 
 In this journey, the physical atlases are first digitized page by page, their digital versions then meticulously referenced to align to real geographical locations before they are transplanted and digitally fitted together like puzzle pieces into the final contiguous map of Boston which forms Atlascope. This process is not just exceedingly technical in its own right, but also one which has occurred over the course of many years and across many separate projects and efforts, of which Atlascope is only a culmination. To help explain the scope and complexity of the efforts which produced Atlascope, I figured I’d end this article with a brief interrogation of Ian Spangler, Assistant Curator of Digital & Participatory Geography here at the map center.
 
-\[picture of Ian\]
+\[ian pic\]
+
+{{< figure src= "" caption="">}}
 
 **Ian, first off, is it possible for you to give us an idea of where we’re starting from when it comes to Atlascope, in terms of working with physical collections material and these bulky atlases?**
 
@@ -39,9 +45,13 @@ I haven’t actually had to use the original atlases in any meaningful way, main
 
 \[digitization lab picture\]
 
+{{< figure src= "" caption="">}}
+
 The next problem is that these digital versions are available in a format which is in many ways entirely based on the format of the original reference atlases. While this form of digitization does provide the benefits of internet accessibility and functions like panning and zooming, users are still expected to seek out specific atlases in the database, and then digitally flip through its pages using the original index material to find their desired location. A process not in tune to the natural intuitions of contemporary users, used to free scrolling and searchable addresses.
 
 \[atlas index page\]
+
+{{< figure src= "" caption="">}}
 
 **A big part of creating these resources is the georeferencing process, the matching up of geographic data in the map to geographic data in the real world, could you walk us through this and give us an idea of how it culminates into something like Atlascope?**
 
