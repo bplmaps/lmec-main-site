@@ -4,7 +4,7 @@ menu: false
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg
 
 ---
-{{< alert-box type="warning" title="Deadline passed" >}} Applications for 2022–2023 have closed. Information about the 2023–2024 cycle will be posted in summer 2023.{{< /alert-box >}}
+{{< alert-box type="success" title="Applications open!" >}} Applications for 2023-2024 are open until Thursday, May 18, 2023 at 5pm ET.{{< /alert-box >}}
 
 
 #### Are you working on a scholarly project that would come alive for the public through an interactive digital publication?
@@ -31,7 +31,7 @@ This grant program supports emerging scholars who seek to make their own work ac
 
 Successful applicants will receive a stipend of $1,200, to be disbursed individually to the project's primary author in two parts, at the beginning of the project and after the completion of publication. Additionally, successful applicants will receive a commitment of research collaboration as well as technical development from LMEC staff, beginning with the project's initial roughing-out stage and continuing through to publication. Technical assistance can include the coding and design needed to produce a publication in one of the formats described in the examples above, or limited assistance in creating another digital modality of the author's design. Grantees should not, however, expect LMEC staff to support entirely bespoke design and coding process for a one-off publication modality. 
 
-Grantees will be asked to give a 30 minute presentation to the entire LMEC staff roughly midway through the completion of their project. 
+Grantees will be asked to give a 30 minute presentation to the entire LMEC staff roughly midway through the completion of their project. Additionally, before August 30, 2024, grantees will be expected to produce a 3-5 minute project pitch designed to introduce the project to a wider, non-academic public audience, to be archived on the Center's YouTube page.
 
 This grant has **no in-person requirement** and grants may be issued to individuals who have no plans to travel to Boston during the project period. For those who do wish to work with the Center's physical collections, priority access to the reading room will be provided.
 
@@ -52,13 +52,13 @@ Grants are available to all scholars regardless of citizenship; however, if the 
 
 #### To Apply
 
-{{< alert-box type="warning" title="Deadline passed" >}} Applications for 2022–2023 have closed. Information about the 2023–2024 cycle will be posted in summer 2023.{{< /alert-box >}}
+<a class="btn btn-outline-primary btn-large" href="https://airtable.com/shrmv71WecG55swn7">Apply to LMEC's Small Grants Program</a>
 
-An application consists of the following material submitted by **October 24, 2022 at 10 pm ET**:
+An application consists of the following material submitted by **Thursday, May 18, 2023 at 5pm ET**:
 
 * A pitch of no more than 500 words describing the proposed publication, including (a) major scholarly themes and (b) expected insights for a general audience readership
 * A description of no more than 300 words of the technical format and modality of the intended digital publication, including an evaluation of the technical support which will be needed for publication
 * (Optional) Links to 1-3 models of already completed digital publications, by any creator and in any format, which could serve as templates for the project
 * A full CV; PDF or Markdown
 
-Successful applicants will be notified by November 18, 2022.
+Successful applicants will be notified by **June 18, 2023**.
