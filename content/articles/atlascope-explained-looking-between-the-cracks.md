@@ -9,9 +9,7 @@ backgroundImage: ''
 draft: true
 
 ---
-Atlascope Explained: Looking Between the Cracks
-
-(little preamble thing explaining and linking to Atlascope)
+> Atlascope is
 
 {{< figure src= "/uploads/2023-03-30/tiles-loading.gif" class="figure-right" caption="Atlascope">}}
 
@@ -61,7 +59,7 @@ I think it’s really all about spontaneity and the thrill of discovery, and the
 
 This is something which makes accessible a really transformative period in history, really rich for discovery as a time when landscapes were being carved up and people were being displaced in a way which makes all the more critical the very basic question: what used to be here? The atlases themselves from this time period also represent a really valuable source of information, marking a development in new, very standardized and very rigorous forms of mapmaking, which have so much potential to be reinterpreted and made widely accessible in tools such as Atlascope. All of this comes together to provide the perfect environment for the kind of spontaneity which allows for finding and creating the stories which lie beneath the surface of such detailed maps.
 
-/uploads/2021-01-15/picture1.gif
+{{< figure src= "/uploads/2021-01-15/picture1.gif" caption="Da gif">}}
 
 **I’m tempted to think that changing a format in such a dramatic manner has some costs as well, are there any downsides to the creation of Atlascope?**
 
