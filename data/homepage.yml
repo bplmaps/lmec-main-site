@@ -51,9 +51,9 @@ cta:
     text: 'Building Blocks: Boston Stories from Urban Atlases and Becoming Boston:
       Eight Moments in the Geography of a Changing City'
     link: https://www.leventhalmap.org/exhibitions/
-  - badge: Delayed opening
-    text: The Map Center will open at 11:30AM on Friday, March 31
-    link: ''
+  - badge: Upcoming closure
+    text: The Map Center and all BPL locations will be closed Sunday, April 9
+    link: https://www.bpl.org/locations/central/
 audiences:
   enable: true
   audienceGroups:
