@@ -1,8 +1,8 @@
 ---
-title: LMEC's 2023 Small Grants Awardees
+title: Meet LMEC's 2023 Small Grants Awardees
 author: Ian Spangler
 description: Keep an eye out for updates on these exciting research projects!
-date: 2023-04-15T09:30:00.000-05:00
+date: 2023-04-04T09:30:00-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj46s/3120,559,3215,831/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj46s/3120,559,3215,831/full/0/default.jpg
 tags:
