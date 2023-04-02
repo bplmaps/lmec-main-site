@@ -9,7 +9,7 @@ backgroundImage: ''
 draft: true
 
 ---
-> Atlascope is
+> [Atlascope](https://www.atlascope.org/) is 
 
 Before I explain (and ruin the magic of) any of the inner workings of Atlascope, I’d like to highlight the fascinating moments of wonder it can generate. Atlascope’s outwardly simple arrangement of human geography, urban history, and digital accessibility, is uniquely positioned to spark curiosity in a way which engages the very personal connections to the places we live in and the histories we are a part of. We want to know what our neighborhoods used to look like, how our city has changed along with its citizens, our neighbors and ancestors, in order to form the communities we now belong to.
 
@@ -19,7 +19,7 @@ Using Atlascope we can directly visualize a constantly shifting urban world, rei
 
 There is a very natural integration between our personal curiosities and the presentation of Atlascope, with all the cartographic details of historic urban atlases aligned seamlessly to a modern digital map—that is, until they are not. Occasionally it’s hard to ignore a jagged disconnect across the width of a road or the uneven presentation of certain features straddling municipal boundaries. In the midst of a wonderstruck historical journey it's easy to forget that Atlascope is a digital tool developed over the course of many years by the skilled (and hopefully forgiving) minds at the Map Center. Like any human-made tool it is not perfect, but these ruptures and inconsistencies don’t represent the end of our curiosity, but it's redirection towards a struggle which in many ways encapsulates much of the work we do here at the Map Center.
 
-{{< figure src= "/uploads/2023-03-30/atlascopeglitch.jpg" class="figure-right" caption="The imperfect meeting point of three distinct atlas plates on Atlascope, note the misalignment of the railroads in the bottom left, and Massachusetts Ave in the top right. An atlas 'plate' refers to the page spreads which the physical atlases consist of.">}}
+{{< figure src= "/uploads/2023-03-30/atlascopeglitch.jpg" class="figure-right" caption="The imperfect meeting point of [three distinct atlas plates on Atlascope](https://atlascope.org/#/view:share$mode:glass$center:-71.08355,42.34117$zoom:19.02$base:maptiler-streets$overlay:ark:/76611/al7s13kaf), note the misalignment of the railroads in the bottom left, and Massachusetts Ave in the top right. An atlas 'plate' refers to the page spreads which the physical atlases consist of.">}}
 
 There is a fundamental gap to be bridged, between the Map Center’s mission to foster curiosity and understanding to all, and the more than quarter million items in our collection—representing daunting rows and stacks of atlases, maps, and other artifacts. It’s an unfortunately unavoidable fact that the sheer density of information and history contained within our vault is inherently inaccessible to the public.
 
@@ -29,17 +29,17 @@ In Atlascope, and especially thanks to its occasional missteps, the journey to o
 
 In fact, “larger” is definitely an all-around good way to describe these urban atlases, each being close to two feet in length and unwieldy in almost every regard, not just physically but also in terms of the overwhelming amounts of detail contained within them. There is considerable cumulative effort which has gone into transforming these bulky atlases, hopelessly dense and hard to use, into the easily learnable and curiosity provoking interface of Atlascope, free to access on any web browser anywhere.
 
-In this journey, the physical atlases are first digitized page by page, their digital versions then meticulously referenced to align to real geographical locations before they are transplanted and digitally fitted together like puzzle pieces into the final contiguous map of Boston which forms Atlascope. This process is not just exceedingly technical in its own right, but also one which has occurred over the course of many years and across many separate projects and efforts, of which Atlascope is only a culmination. 
+In this journey, the physical atlases are first digitized page by page, their digital versions then meticulously referenced to align to real geographical locations before they are transplanted and digitally fitted together like puzzle pieces into the final contiguous map of Boston which forms Atlascope. This process is not just exceedingly technical in its own right, but also one which has occurred over the course of many years and across many separate projects and efforts, of which Atlascope is only a culmination.
 
 {{< figure src= "/uploads/2023-03-31/spangler-headshot.jpg" class="figure-right" caption="Ian Spangler">}}
 
-To help explain the scope and complexity of the efforts which produced Atlascope, I figured I’d end this article with a brief interrogation of Ian Spangler, Assistant Curator of Digital & Participatory Geography here at the map center.
+To help explain the scope and complexity of the efforts which produced Atlascope, I figured I’d end this article with a brief interrogation of[ Ian Spangler, Assistant Curator of Digital & Participatory Geography](https://www.leventhalmap.org/about/people/ian-spangler/) here at the map center.
 
 **Ian, first off, is it possible for you to give us an idea of where we’re starting from when it comes to Atlascope, in terms of working with physical collections material and these bulky atlases?**
 
-I haven’t actually had to use the original atlases in any meaningful way, mainly because their digitized versions have always been readily available to me, which I think highlights one of the main goals of Atlascope as being more about consolidation, into a format which is as intuitive and natural as possible for a user to interact with. 
+I haven’t actually had to use the original atlases in any meaningful way, mainly because their digitized versions have always been readily available to me, which I think highlights one of the main goals of Atlascope as being more about consolidation, into a format which is as intuitive and natural as possible for a user to interact with.
 
-{{< figure src= "/uploads/2023-03-30/dig-lab.png" class="figure-left" caption="The digitization lab">}}
+{{< figure src= "/uploads/2023-03-30/dig-lab.png" class="figure-left" caption="The journey towards Atlascope begins in the digitization lab, where the physical items in our collection are scanned and transformed into digital versions available online.">}}
 
 There was a problem of sheer quantity, but also the widely unconsolidated batches and collections of atlases, with not a lot of coordination between individual institutions’ digitization efforts. For example, the Library of Congress has a considerable and nation-wide collection of [Sanborn fire insurance atlases](https://www.loc.gov/collections/sanborn-maps/about-this-collection/), many of which are available to view online, which represents really valuable work entirely distinct but moving in a parallel direction to similar efforts at the Map Center.
 
