@@ -39,3 +39,5 @@ Finally, patrons from all over the city use Atlascope to research their family h
 ![](/uploads/2023-03-23/atlaslist2.jpg)
 
 \[MAP\]
+
+If you have been in contact with us and are ready to make a contribution, please [visit this page](https://www.leventhalmap.org?form=SPONSOR-ATLAS).
