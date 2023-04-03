@@ -30,7 +30,7 @@ Finally, patrons from all over the city use Atlascope to research their family h
 
 #### Expanding Atlascope
 
-**Are there atlases of other Massachusetts towns you would like to see added to Atlascope?** The Leventhal Center is currently in the process of digitizing and geotransforming historic atlases from towns and counties across the state of Massachusetts, to **ingest into Atlascope for usage and discovery once the necessary support is secured**. If you would like to help support or be a part of this project, please fill out this form below, and a member our staff will be in touch with you.
+**Are there atlases of other Massachusetts towns you would like to see added to Atlascope?** The Leventhal Center is currently in the process of digitizing and geotransforming historic atlases from towns and counties across the state of Massachusetts, to **ingest into Atlascope for usage and discovery once the necessary support is secured**. If you would like to help support or be a part of this project, please fill out this form below, and a member our staff will be in touch with you. If you have been in contact with us already and are ready to make a contribution, please [visit this page](https://www.leventhalmap.org?form=SPONSOR-ATLAS).
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrXIWRMPwhqdsSin?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
@@ -39,5 +39,3 @@ Finally, patrons from all over the city use Atlascope to research their family h
 ![](/uploads/2023-03-23/atlaslist2.jpg)
 
 \[MAP\]
-
-If you have been in contact with us and are ready to make a contribution, please [visit this page](https://www.leventhalmap.org?form=SPONSOR-ATLAS).
