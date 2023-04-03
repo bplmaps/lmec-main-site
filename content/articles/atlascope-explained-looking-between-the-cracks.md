@@ -57,7 +57,7 @@ In the process of creating Atlascope we were able to cut down on a lot of the co
 
 IIIF means that the mess of unconsolidated digital map collections I mentioned earlier are in a position to be presented in a more unified way. Allmaps uses this to allow for the georeferencing of any of these IIIF maps entirely on the web (without the need for downloaded software) in an online interface which is intuitive and easy to learn. This gives us the flexibility to hire interns to perform georeferencing work, and an overall efficiency which makes Atlascope, as an intuitive and accessible final product, possible.
 
-{{< figure src= "" caption="The 'final product' of Atlascope consists of around 100 historical layers from distinct and often overlapping.">}}
+{{< figure src= "/uploads/2023-04-03/atlascopecoverage.png" caption="The 'final product' of Atlascope consists of \~100 historical layers from distinct Atlases each with distinct geographic coverages. This behind-the-scenes snapshot shows the numerous, overlapping, and multilayered geographic coverages included in Atlascope, each corresponding to the extent of an actual historical urban atlas, each in turn composed of dozens of individual plates.">}}
 
 **With all this talk of consolidation and intuition I guess I’d like to know more about your thoughts on the final arrangement of Atlascope, what makes its digital interface so effective?**
 
