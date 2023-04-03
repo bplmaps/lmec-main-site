@@ -57,6 +57,8 @@ In the process of creating Atlascope we were able to cut down on a lot of the co
 
 IIIF means that the mess of unconsolidated digital map collections I mentioned earlier are in a position to be presented in a more unified way. Allmaps uses this to allow for the georeferencing of any of these IIIF maps entirely on the web (without the need for downloaded software) in an online interface which is intuitive and easy to learn. This gives us the flexibility to hire interns to perform georeferencing work, and an overall efficiency which makes Atlascope, as an intuitive and accessible final product, possible.
 
+{{< figure src= "" caption="The 'final product' of Atlascope consists of around 100 historical layers from distinct and often overlapping.">}}
+
 **With all this talk of consolidation and intuition I guess I’d like to know more about your thoughts on the final arrangement of Atlascope, what makes its digital interface so effective?**
 
 I think it’s really all about spontaneity and the thrill of discovery, and the key question of how we engage with our technology. In the older formats, the atlases themselves or their digitized versions, the user had to go in with a question, a research inquiry, or a specific address to be investigated, the format simply wasn’t geared towards allowing for spontaneous curiosity and the kind of unexpected threads which you can lose yourself in through something like Atlascope. Now, you have the wiggle room to literally just drift, across different atlas plates and entire atlases, and through decades of historical change.
