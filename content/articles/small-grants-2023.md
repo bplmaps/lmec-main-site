@@ -6,12 +6,12 @@ date: 2023-04-04T09:30:00-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj46s/3120,559,3215,831/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj46s/3120,559,3215,831/full/0/default.jpg
 tags:
-- small grants
 - collections
 - research
+- small grants
 
 ---
-> Last year, the Leventhal Map & Education Center rolled out a new program to support [small grants for early career digital publications](../research/digital-publication-small-grants.md). We'll be publishing the outputs from their exciting work---which will include researched articles, interactive digital maps, and annotates map stories---beginning in June 2023. Until then, you can read below to learn more about the projects and the brilliant minds behind them!
+> Last year, the Leventhal Map & Education Center rolled out a new program to support [small grants for early career digital publications](https://www.leventhalmap.org/research/digital-publication-small-grants/). We'll be publishing the outputs from their exciting work---which will include researched articles, interactive digital maps, and annotates map stories---beginning in June 2023. Until then, you can read below to learn more about the projects and the brilliant minds behind them!
 
 ### Chloe Bordewich and Lydia Harrington
 
@@ -69,7 +69,7 @@ In this project, he maps the use of so-called Section 112 Credits in Boston and 
 
 #### Mapping _The Brownies' Book_
 
-{{< figure src="/uploads/browniesbook.jpeg" class="figure-right" caption="A [1920 cover from the _Brownies' Books_](https://www.loc.gov/resource/rbc0001.2004ser01351/?sp=205&r=-0.622,0,2.244,1.261,0) featuring the Crispus Attucks monument in the Boston Common, courtesy of the Library of Congress." >}}
+{{< figure src="/uploads/browniesbook.jpeg" class="figure-right" caption="A [1920 cover from the _Brownies' Books_](https://www.loc.gov/resource/rbc0001.2004ser01351/?sp=205&r=-0.622,0,2.244,1.261,0) featuring the Crispus Attucks monument in the Boston Common, from the Library of Congress." >}}
 
 [Tieanna Graphenreed](https://cssh.northeastern.edu/student/tieanna-graphenreed/) is an English PhD student at Northeastern University studying rhetorics of Black citizenship and Black spatial politics. Tieanna’s research explores questions of rhetorical citizenship through lenses of writing studies and civic rhetorical education, critical geographies of race and space, and digital humanities. Her dissertation focuses on building a digital index and web-based learning resource focused on _The Brownies' Book_ and its import to U.S. Black education histories. Tieanna Grapheneed is Managing Editor for [_Reviews in Digital Humanities_](https://reviewsindh.pubpub.org/).
 
@@ -83,7 +83,7 @@ Tieanna’s most [recent article in _Composition Studies_](https://compositionst
 
 > This project is jointly supported by the [Harvard Map Collection](https://library.harvard.edu/libraries/harvard-map-collection) at the [Harvard Library](https://library.harvard.edu/).
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2227nm85p/full/pct:50/0/default.jpg" class="figure-left" caption="A [1795 plan of Cambridge](https://collections.leventhalmap.org/search/commonwealth:2227nm84d), from Commonwealth Archive." >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2227nm85p/full/pct:50/0/default.jpg" class="figure-left" caption="A [1795 plan of Cambridge](https://collections.leventhalmap.org/search/commonwealth:2227nm84d), from Massachusetts Archives." >}}
 
 Joan Brunetta and Eve Loftus both grew up in Cambridge and went on to study History at Smith College. Eve has recently finished an M.Phil. in Public History and Cultural Heritage from Trinity College Dublin, and is interested in the decolonization movement in museums and increasing and improving public access to local history. Joan is an aspiring archivist and studied American history at Smith before earning her Master’s in Medieval Studies from the University of York (UK). She is equally interested in American social history and ancient languages. Despite their varied interests, both continue to find their way back to Cambridge to explore its history, and are excited for this opportunity to create a resource that will hopefully augment Cantabridgians’ understanding of their own city.
 
