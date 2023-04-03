@@ -10,7 +10,7 @@ backgroundImage: "/uploads/2023-04-03/atlascopecoverage.png"
 draft: true
 
 ---
-> [Atlascope](https://www.atlascope.org/) is a digital project developed by the team at the Leventhal Map & Education Center which allows for the geographical exploration of Boston through history. Close to a hundred historic urban atlases from the especially transformative period between 1861 and 1938 are made uniquely discoverable through Atlascope's easily browsable and searchable web interface, a transformation which represents the culmination of years of work and technical design and development.
+> [Atlascope](https://www.atlascope.org/) is a digital project developed by the team at the Leventhal Map & Education Center which allows for the geographical exploration of Boston through history. Close to a hundred historic urban atlases from the especially transformative period between 1861 and 1938 are made uniquely discoverable through Atlascope's easily browsable and searchable web interface, a transformation which represents the culmination of years of work and technical design and development not fully visible from the surface.
 
 Before I explain (and ruin the magic of) any of the inner workings of Atlascope, I’d like to highlight the fascinating moments of wonder it can generate. Atlascope’s outwardly simple arrangement of human geography, urban history, and digital accessibility, is uniquely positioned to spark curiosity in a way which engages the very personal connections to the places we live in and the histories we are a part of. We want to know what our neighborhoods used to look like, how our city has changed along with its citizens, our neighbors and ancestors, in order to form the communities we now belong to.
 
