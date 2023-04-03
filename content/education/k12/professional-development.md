@@ -18,6 +18,22 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 {{< pd-listing image="/uploads/2022-12-08/amrev.png" title="Maps in the Classroom: The American Revolution" subtitle="Thursday, April 6, 3:30-4:30 pm" description="Join Map Center K-12 educators to learn how we introduce young learners to maps and how to think about them. Take away a lesson you can teach right away in your classroom." signUpLink="https://www.eventbrite.com/e/maps-in-the-classroom-american-revolution-tickets-478320428277" >}}
 
+#### Lifting as We Climb: Black Women's Activism in turn-of-the-20th-century Boston
+
+##### July 10 - 12, 2023
+
+Join us in a three-day workshop designed in conjunction with our current exhibition, [Building Blocks: Boston Stories from Urban Atlases](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), to expand your knowledge and comfort in teaching the role and impact of women in Boston's Black history. Develop an appreciation for how space is occupied: physical, intellectual, emotional, and where the spaces for legacy exist. Explore ideas of memory at different geographic and cultural scales. Gain confidence in accessing resources and archives, especially maps, to support teaching these concepts.
+
+Presenters include:
+
+Artist and Educator [L'Merchie Frazier](http://lmerchiefrazier.org/)
+
+Scholar and Author [Lois Brown](https://english.asu.edu/content/lois-brown)
+
+There is a $75 registration fee for this workshop. We will contact you to confirm your registration and to provide a payment link.
+
+[**Register Here**](https://www.eventbrite.com/e/lifting-as-we-climb-black-women-in-turn-of-the-20th-century-boston-tickets-603835356807)
+
 {{< alert-box type="warning" title="Online Professional Development Opportunity" icon="fas fa-laptop-house" >}}
 
 ##### Empowering Maptivists: Using Maps & Data to Teach Social Justice Topics
@@ -29,21 +45,6 @@ Join us for this self-paced online professional development course hosted by the
 <a class="btn btn-xs btn-outline-primary mt-2" href="https://nationalhumanitiescenter.org/education-programs/courses/empowering-maptivists-using-maps-data-to-examine-social-issues-humanities-classroom/" target="_blank"><i class="fas fa-user-plus"></i> Register here</a>
 
 {{< /alert-box >}}
-
-### Stay tuned! Upcoming PD
-
-#### **_Geographies of Black Women Activists in turn-of-the-20th-century Boston_**
-
-##### July 10 - 12, 2023
-
-In conjunction with our current exhibition, [Building Blocks: Boston Stories from Urban Atlases](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), we will host a three-day educator workshop in the summer of 2023 centered on the role of Black women activists in Boston's history and their impact. Keep an eye on this page for registration information and more details, or sign up for our education newsletter to get this information in your inbox as soon as we announce it.
-
-Participants will
-
-* locate themselves in relation to their knowledge of  Boston's Black history and their comfort in teaching about it.
-* develop an appreciation for how space is occupied: physical/geographic, intellectual, emotional, and for historical legacy (narrative and memorializing)
-* gain confidence in using maps and geographic thinking to support these topics
-* access map collections and resources, along with other primary source archives
 
 ### Past Workshops
 
