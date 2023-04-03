@@ -25,4 +25,5 @@ Donations go directly to our historical geography work with students, educators,
 * **December 2022:**[ A Map of the North Pole...](https://collections.leventhalmap.org/search/commonwealth:x059cf033)
 * **January 2023:** [Atlas of the City of Boston, Boston proper and Back Bay](https://collections.leventhalmap.org/search/commonwealth:1257bn91r)
 * **February 2023:** [Geological Map of the United States](https://collections.leventhalmap.org/search/commonwealth:7h149x508)
-* **March 2023:** _Coming Soon_
+* **March 2023:** [A map of the wondrous isle of Manhattan](https://collections.leventhalmap.org/search/commonwealth:0r96fm88c)
+* **April 2023:** _Coming Soon_
