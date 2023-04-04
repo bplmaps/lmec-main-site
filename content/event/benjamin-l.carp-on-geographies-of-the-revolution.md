@@ -13,9 +13,11 @@ draft: true
 ---
 ### About this event
 
-Join scholar Benjamin L. Carp on a tour through the urban spaces of the American Revolution. How did Boston’s waterfront geography become a flashpoint for rebellion? How did public gathering spaces in Philadelphia create the context for democratic ideas about mass politics? Learn about these and other insights from a historical geographic approach to the Revolutionary period in a visually rich, interactive scholarly discussion.
+Join scholar Benjamin L. Carp on a tour through the urban spaces of the American Revolution. 
 
 {{< figure src="/uploads/2023-04-04/carp.png" caption="Benjamin L. Carp" class="figure-right" >}}
+
+How did Boston’s waterfront geography become a flashpoint for rebellion? How did public gathering spaces in Philadelphia create the context for democratic ideas about mass politics? Learn about these and other insights from a historical geographic approach to the Revolutionary period in a visually rich, interactive scholarly discussion.
 
 **Benjamin L. Carp** is the Daniel M. Lyons Professor of American History at Brooklyn College. He also teaches at the CUNY Graduate Center. He focuses particularly on urban politics, society, and culture in eighteenth-century America. In addition to his new book, _The Great New York Fire of 1776: A Lost Story of the American Revolution_, he has also written _Defiance of the Patriots: The Boston Tea Party and the Making of America_ (which won the triennial Society of the Cincinnati Cox Book Prize in 2013) and _Rebels Rising: Cities and the American Revolution_.
 
