@@ -37,25 +37,33 @@ from the famous poem “[The Tyger](https://www.poetryfoundation.org/poems/43687
 
 It’s not surprising that this [pictorial map of New York City](https://collections.leventhalmap.org/search/commonwealth:3f463826j) contains at least one poem, since it’s published by the Washington Square Bookshop.
 
-Not only does it contain a unique poem wrapping around the border of the map ("Here is a map to give you pleasure / a town reduced to your mantel's measure / city of gayety, city of gold / your Bagdad on Hudson, three hundred years old"), it also 
+Not only does it contain a unique poem wrapping around the border of the map ("Here is a map to give you pleasure / a town reduced to your mantel's measure / city of gayety, city of gold / your Bagdad on Hudson, three hundred years old"), it also
 
 {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463827t/3997,1209,1484,997/full/0/default.jpg" bib-src="" target="blank" >}} contains the entirety {{</popup>}}
 
- of the (very short) poem “[Parting at Morning](https://www.poetryfoundation.org/poems/43772/parting-at-morning)” by Robert Browning, an English poet of the Victorian period. The map also displays excerpts from children’s books, verses from songs, and other funny lines – zoom in here.
+of the (very short) poem “[Parting at Morning](https://www.poetryfoundation.org/poems/43772/parting-at-morning)” by Robert Browning, an English poet of the Victorian period. The map also displays excerpts from children’s books, verses from songs, and other funny lines – zoom in here.
 
-**Portland, Maine:** [https://collections.leventhalmap.org/search/commonwealth:p841c3807](https://collections.leventhalmap.org/search/commonwealth:0r96fn44h "https://collections.leventhalmap.org/search/commonwealth:0r96fn44h")
+**Portland, Maine**
 
-Here’s one for our friends up at Osher Map Library in Portland, Maine.
+Here’s one for our friends up at the [Osher Map Library](https://oshermaps.org/) in Portland, Maine.
 
-“Often I think of the beautiful town / that is seated by the sea...” This stanza about a town by the sea appears on a 1928 map of Portland, Maine. The line is from the poem “[My Lost Youth](https://www.poetryfoundation.org/poems/44640/my-lost-youth)” by Henry Wadsworth Longfellow, who spent his childhood in Portland– he was born there in 1807, when it was still a part of Massachusetts!
+_“Often I think of the beautiful town / that is seated by the sea...”_ This stanza about a town by the sea
 
-**Cape Cod:** [https://collections.leventhalmap.org/search/commonwealth:jh343z21h](https://collections.leventhalmap.org/search/commonwealth:0r96fn44h "https://collections.leventhalmap.org/search/commonwealth:0r96fn44h")
+{{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:c534j573w/3792,2832,679,654/full/0/default.jpg" bib-src="" target="blank" >}} appears on {{</popup>}}
 
-Finally, as we look towards summer weather and weekend beach days, here’s an original poem as the legend of this delightful 1940 pictorial map of Cape Cod. It’s presumably written by the creator of the map, illustrator Paul Paige of East Brewster, and reads:
+a [1928 map of Portland, Maine](https://collections.leventhalmap.org/search/commonwealth:p841c3807). The line is from the poem “[My Lost Youth](https://www.poetryfoundation.org/poems/44640/my-lost-youth)” by Henry Wadsworth Longfellow, who spent his childhood in Portland– he was born there in 1807, when it was still a part of Massachusetts!
 
-_If you have ever been there, this map is meant for you_  
-_To help recall some happy days beside the ocean blue;_  
-_Or you can send it to a friend, that they perhaps may see,_  
-_Why people love good old Cape Cod, and go there constantly._
+**Cape Cod, Massachusetts**
+
+Finally, as we look towards summer weather and weekend beach days, here’s an
+
+{{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343z22s/467,4004,1041,552/full/0/default.jpg" bib-src="" target="blank" >}} original poem {{</popup>}}
+
+featured on [this delightful 1940 pictorial map](https://collections.leventhalmap.org/search/commonwealth:jh343z21h) of Cape Cod. It’s presumably written by the creator of the map, illustrator Paul Paige of East Brewster, and reads:
+
+> _If you have ever been there, this map is meant for you_  
+> _To help recall some happy days beside the ocean blue;_  
+> _Or you can send it to a friend, that they perhaps may see,_  
+> _Why people love good old Cape Cod, and go there constantly._
 
 Do you have a poem that is about maps, geography, or your favorite place? Tweet us at @bplmaps and we’ll feature it sometime in April for National Poetry Month!
