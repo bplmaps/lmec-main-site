@@ -13,7 +13,7 @@ draft: true
 ---
 ### About this event
 
-{{< figure src="/uploads/2023-04-04/benc112-8x10-copy.jpg" caption="" class="figure-left" >}}
+{{< figure src="/uploads/2023-04-04/benc112-8x10-copy.jpg" caption="" class="figure-right" >}}
 
 Join scholar Benjamin L. Carp on a tour through the urban spaces of the American Revolution. How did Boston’s waterfront geography become a flashpoint for rebellion? How did public gathering spaces in Philadelphia create the context for democratic ideas about mass politics? Learn about these and other insights from a historical geographic approach to the Revolutionary period in a visually rich, interactive scholarly discussion.
 
