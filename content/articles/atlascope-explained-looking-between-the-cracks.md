@@ -27,7 +27,7 @@ There is a fundamental gap to be bridged, between the Map Center’s mission to 
 
 In Atlascope, and especially thanks to its occasional missteps, the journey to overcome this inaccessibility is perfectly exemplified for us to see. Occasional misalignments mark the edges of the thousands of individual atlas plates which are digitally stitched together to form Atlascope. Occasional handwritten marks and notes remind us that these were once tools in their own right, as the material components of larger atlases. Abrupt shifts across municipal lines represent the original extents of these atlases, which served as very detailed, very technical, and very expensive data sources for the fire insurance and real estate industries.
 
-{{< figure src= "/uploads/2023-03-24/eastboston-by-map3.jpg" class="figure-left" caption="A stack of some of the urban atlases in the LMEC's collection, also demonstrating their often fragile conservation status">}}
+{{< figure src= "/uploads/2023-03-24/eastboston-by-map3.jpg" class="figure-right" caption="A stack of some of the urban atlases in the LMEC's collection, also demonstrating their often fragile conservation status">}}
 
 In fact, “larger” is definitely an all-around good way to describe these urban atlases, each being close to two feet in length and unwieldy in almost every regard, not just physically but also in terms of the overwhelming amounts of detail contained within them. There is considerable cumulative effort which has gone into transforming these bulky atlases, hopelessly dense and hard to use, into the easily learnable and curiosity provoking interface of Atlascope, free to access on any web browser anywhere.
 
@@ -35,7 +35,7 @@ In this journey, the physical atlases are first digitized page by page, their di
 
 {{< figure src= "/uploads/2023-03-31/spangler-headshot.jpg" class="figure-right" caption="Ian Spangler">}}
 
-> To help explain the scope and complexity of the efforts which produced Atlascope, I figured I’d end this article with a brief interrogation of [Ian Spangler, Assistant Curator of Digital & Participatory Geography](https://www.leventhalmap.org/about/people/ian-spangler/) here at the map center.
+> To help explain the scope and complexity of the efforts which produced Atlascope, I spoke with [Ian Spangler, Assistant Curator of Digital & Participatory Geography](https://www.leventhalmap.org/about/people/ian-spangler/) here at the Map Center.
 
 **Ian, first off, is it possible for you to give us an idea of where we’re starting from when it comes to Atlascope, in terms of working with physical collections material and these bulky atlases?**
 
