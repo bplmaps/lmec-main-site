@@ -61,7 +61,7 @@ IIIF means that the mess of unconsolidated digital map collections I mentioned e
 
 {{< figure src= "/uploads/2023-04-03/atlascopecoverage.png" caption="The 'final product' of Atlascope consists of \~100 historical layers from distinct atlases each with distinct geographic coverages. This behind-the-scenes snapshot shows the numerous, overlapping, and multilayered geographic coverages included in Atlascope, each corresponding to the extent of an actual historical urban atlas, each in turn composed of dozens of individual plates.">}}
 
-**With all this talk of consolidation and intuition I guess I’d like to know more about your thoughts on the final arrangement of Atlascope, what makes its digital interface so effective?**
+**With all this talk of consolidation and intuition, I’d like to hear more about your thoughts on the final arrangement of Atlascope, and what makes its digital interface so effective?**
 
 I think it’s really all about spontaneity and the thrill of discovery, and the key question of how we engage with our technology. In the older formats, the atlases themselves or their digitized versions, the user had to go in with a question, a research inquiry, or a specific address to be investigated, the format simply wasn’t geared towards allowing for spontaneous curiosity and the kind of unexpected threads which you can lose yourself in through something like Atlascope. Now, you have the wiggle room to literally just drift, across different atlas plates and entire atlases, and through decades of historical change.
 
@@ -71,6 +71,6 @@ This is something which makes accessible a really transformative period in histo
 
 The atlases themselves from this time period also represent a really valuable source of information, marking a development in new, very standardized and very rigorous forms of mapmaking, which have so much potential to be reinterpreted and made widely accessible in tools such as Atlascope. All of this comes together to provide the perfect environment for the kind of spontaneity which allows for finding and creating the stories which lie beneath the surface of such detailed maps.
 
-**I’m tempted to think that changing a format in such a dramatic manner has some costs as well, are there any downsides to the creation of Atlascope?**
+**I’m tempted to think that changing a format in such a dramatic manner has some costs as well. Are there any downsides to the creation of Atlascope?**
 
 This is a question which I first heard from a student during a university class visit, I think because seeing the actual atlases in person as historical artifacts really drives home how radically different their presentation in Atlascope is from their actual nature. I really think we lose quite a lot in this process, because of the materiality of the books as possessing a time and place and purpose in their own right. I think it’s important to imagine the surveyors and engineers working to create these items not as artifacts but as tools intended as sources of information and understanding through the manipulation of geographic data. Understanding this is I think one of the necessary experiences for understanding geography, since our own efforts are basically the same process, crucially standing on top of and building off of these previous examples.
