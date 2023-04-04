@@ -33,7 +33,7 @@ In fact, “larger” is definitely an all-around good way to describe these urb
 
 In this journey, the physical atlases are first digitized page by page, their digital versions then meticulously referenced to align to real geographical locations before they are transplanted and digitally fitted together like puzzle pieces into the final contiguous map of Boston which forms Atlascope. This process is not just exceedingly technical in its own right, but also one which has occurred over the course of many years and across many separate projects and efforts, of which Atlascope is only a culmination.
 
-{{< figure src= "/uploads/2023-03-31/spangler-headshot.jpg" class="figure-right" caption="Ian Spangler">}}
+{{< figure src= "/uploads/2023-03-31/spangler-headshot.jpg" class="figure-right" caption="Ian Spangler, Assistant Curator of Digital & Participatory Geography">}}
 
 > To help explain the scope and complexity of the efforts which produced Atlascope, I spoke with [Ian Spangler, Assistant Curator of Digital & Participatory Geography](https://www.leventhalmap.org/about/people/ian-spangler/) here at the Map Center.
 
