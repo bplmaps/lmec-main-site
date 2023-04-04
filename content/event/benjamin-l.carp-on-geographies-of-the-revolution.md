@@ -17,8 +17,8 @@ Join scholar Benjamin L. Carp on a tour through the urban spaces of the American
 
 {{< figure src="/uploads/2023-04-04/carp-1.png" caption="" class="figure-right" >}}
 
-Benjamin L. Carp is the Daniel M. Lyons Professor of American History at Brooklyn College. He also teaches at the CUNY Graduate Center. He focuses particularly on urban politics, society, and culture in eighteenth-century America. In addition to his new book, _The Great New York Fire of 1776: A Lost Story of the American Revolution_, he has also written _Defiance of the Patriots: The Boston Tea Party and the Making of America_ (which won the triennial Society of the Cincinnati Cox Book Prize in 2013) and _Rebels Rising: Cities and the American Revolution_.
+**Benjamin L. Carp** is the Daniel M. Lyons Professor of American History at Brooklyn College. He also teaches at the CUNY Graduate Center. He focuses particularly on urban politics, society, and culture in eighteenth-century America. In addition to his new book, _The Great New York Fire of 1776: A Lost Story of the American Revolution_, he has also written _Defiance of the Patriots: The Boston Tea Party and the Making of America_ (which won the triennial Society of the Cincinnati Cox Book Prize in 2013) and _Rebels Rising: Cities and the American Revolution_.
 
 This talk is free and open to the public. It will broadcast live to our [Facebook page](https://www.facebook.com/bplmaps) and [YouTube channel](https://www.youtube.com/@LeventhalMapEducationCenter/streams). 
 
-**Part of the Richard H. Brown Seminar on the Historical Geography of the American Revolutionary Era and the** [**American Revolutionary Geographies Online (ARGO) project**](https://argomaps.org)**.**
+> Part of the Richard H. Brown Seminar on the Historical Geography of the American Revolutionary Era and the [American Revolutionary Geographies Online (ARGO) project](https://argomaps.org).
