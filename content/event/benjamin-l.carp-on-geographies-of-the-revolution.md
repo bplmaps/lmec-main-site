@@ -1,6 +1,6 @@
 ---
 publishDate: 2023-04-03T18:01:30.000-04:00
-title: Benjamin L. Carp on Urban Geographies of the Revolution
+title: Benjamin L. Carp on Urban Geographies of the American Revolution
 date: 2023-05-30T19:00:00.000-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vw05v/3631,3499,7891,7227/2000,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vw05v/3631,3499,7891,7227/2000,/0/default.jpg
