@@ -25,7 +25,7 @@ This [pictorial map of London](https://collections.leventhalmap.org/search/commo
 
 At the very top of this map, you can {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn35j/2825,751,472,434/full/0/default.jpg" bib-src="" target="blank" >}} find several stanzas {{</popup>}} from the famous poem [_The Tyger _](https://www.poetryfoundation.org/poems/43687/the-tyger)by William Blake. This map also contains several excerpts from children's books and {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn35j/2776,5106,661,451/full/0/default.jpg" bib-src="" target="blank" >}} nursery rhymes, {{</popup>}} as well as a plethora of puns about different places in London {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn35j/1381,5207,689,349/full/0/default.jpg" bib-src="" target="blank" >}} (hurling hams in Hurlingham) {{</popup>}} – how many can you spot?!
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn35j/71,84,7372,5903/1200,/0/default.jpg" caption="" class="figure-center" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn35j/full/,600/0/default.jpg" caption="" class="figure-center" >}}
 
 **New York City**
 
@@ -33,7 +33,7 @@ It’s not surprising that this [pictorial map of New York City](https://collect
 
 Not only does it contain a unique poem wrapping around the border of the map (_"Here is a map to give you pleasure / a town reduced to your mantel's measure / city of gayety, city of gold / your Bagdad on Hudson, three hundred years old"_), it also {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463827t/3997,1209,1484,997/full/0/default.jpg" bib-src="" target="blank" >}} contains the entirety {{</popup>}} of the (very short) poem [_Parting at Morning_](https://www.poetryfoundation.org/poems/43772/parting-at-morning) by Robert Browning, an English poet of the Victorian period. The map also displays excerpts from children’s books, {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463827t/9016,5914,2053,1269/full/0/default.jpg" bib-src="" target="blank" >}} verses from songs, {{</popup>}} and other humorous tidbits.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463827t/71,84,12248,9654/1200,/0/default.jpg" caption="" class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463827t/71,84,12248,9654/1200,/0/default.jpg" caption="" class="figure-right" >}}
 
 **Portland, Maine**
 
