@@ -27,17 +27,21 @@ This [colorful map is of the Cape Peninsula](https://collections.leventhalmap.or
 
 This [pictorial map of London](https://collections.leventhalmap.org/search/commonwealth:0r96fn348) was originally published in 1914 as an advertising poster for the London Underground. The design became very popular with the public and was published in several different editions. It is [credited with reviving Tube travel](https://en.wikipedia.org/wiki/Wonderground_Map) as well as inspiring “Wonderland” maps in other cities, and influencing pictorial mapmaking in the twentieth century.
 
-At the very top of this map, you can 
+At the very top of this map, you can
 
 {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn35j/2825,751,472,434/full/0/default.jpg" bib-src="" target="blank" >}} find several stanzas {{</popup>}}
 
 from the famous poem “[The Tyger](https://www.poetryfoundation.org/poems/43687/the-tyger)” by William Blake. This map also contains several excerpts from children's books and nursery rhymes, as well as puns about different places (“Men hurl hams in Hurlingham”) – how many can you spot?!
 
-**New York City:** [https://collections.leventhalmap.org/search/commonwealth:3f463826j](https://collections.leventhalmap.org/search/commonwealth:0r96fn44h "https://collections.leventhalmap.org/search/commonwealth:0r96fn44h")
+**New York City**
 
-It’s not surprising that this pictorial map of New York City contains at least one poem, since it’s published by the Washington Square Bookshop
+It’s not surprising that this [pictorial map of New York City](https://collections.leventhalmap.org/search/commonwealth:3f463826j) contains at least one poem, since it’s published by the Washington Square Bookshop.
 
-Not only does it contain a unique poem wrapping around the border of the map ("Here is a map to give you pleasure / a town reduced to your mantel's measure / city of gayety, city of gold / your Bagdad on Hudson, three hundred years old"), it also contains the entirerty of the (very short) poem “[Parting at Morning](https://www.poetryfoundation.org/poems/43772/parting-at-morning)” by Robert Browning, an English poet of the Victorian period. The map also displays excerpts from children’s books, verses from songs, and other funny lines – zoom in here.
+Not only does it contain a unique poem wrapping around the border of the map ("Here is a map to give you pleasure / a town reduced to your mantel's measure / city of gayety, city of gold / your Bagdad on Hudson, three hundred years old"), it also 
+
+{{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463827t/3997,1209,1484,997/full/0/default.jpg" bib-src="" target="blank" >}} contains the entirety {{</popup>}}
+
+ of the (very short) poem “[Parting at Morning](https://www.poetryfoundation.org/poems/43772/parting-at-morning)” by Robert Browning, an English poet of the Victorian period. The map also displays excerpts from children’s books, verses from songs, and other funny lines – zoom in here.
 
 **Portland, Maine:** [https://collections.leventhalmap.org/search/commonwealth:p841c3807](https://collections.leventhalmap.org/search/commonwealth:0r96fn44h "https://collections.leventhalmap.org/search/commonwealth:0r96fn44h")
 
