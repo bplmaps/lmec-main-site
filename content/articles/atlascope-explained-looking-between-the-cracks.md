@@ -1,5 +1,5 @@
 ---
-date: 2023-03-31T07:00:00.000-04:00
+date: 2023-04-07T07:00:00-04:00
 title: 'Atlascope Explained: Looking Between the Cracks'
 description: Explore the inner workings of Atlascope, the Map Center's tool for exploring
   historic Boston
@@ -27,7 +27,7 @@ There is a fundamental gap to be bridged, between the Map Center’s mission to 
 
 In Atlascope, and especially thanks to its occasional missteps, the journey to overcome this inaccessibility is perfectly exemplified for us to see. Occasional misalignments mark the edges of the thousands of individual atlas plates which are digitally stitched together to form Atlascope. Occasional handwritten marks and notes remind us that these were once tools in their own right, as the material components of larger atlases. Abrupt shifts across municipal lines represent the original extents of these atlases, which served as very detailed, very technical, and very expensive data sources for the fire insurance and real estate industries.
 
-{{< figure src= "/uploads/2023-03-24/eastboston-by-map3.jpg" class="figure-right" caption="A stack of some of the urban atlases in the LMEC's collection, also demonstrating their often fragile conservation status">}}
+{{< figure src= "/uploads/2023-03-24/eastboston-by-map3.jpg" class="figure-right" caption="A stack of some of the urban atlases in LMEC's collection, also demonstrating their often fragile conservation status">}}
 
 In fact, “larger” is definitely an all-around good way to describe these urban atlases, each being close to two feet in length and unwieldy in almost every regard, not just physically but also in terms of the overwhelming amounts of detail contained within them. There is considerable cumulative effort which has gone into transforming these bulky atlases, hopelessly dense and hard to use, into the easily learnable and curiosity provoking interface of Atlascope, free to access on any web browser anywhere.
 
