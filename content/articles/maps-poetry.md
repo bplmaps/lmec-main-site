@@ -1,6 +1,6 @@
 ---
 date: 2023-04-15T11:58:10.000-04:00
-title: Maps & Poetry
+title: Poems as Maps
 description: To celebrate April as National Poetry Month, here are some poems hidden
   on maps in our collections.
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463827t/180,159,6739,2819/1200,/0/default.jpg
@@ -49,3 +49,5 @@ Finally, as we look towards summer weather and weekend beach days, here’s an {
 > _Why people love good old Cape Cod, and go there constantly._
 
 **Do you have a poem that is about maps, geography, or your favorite place? Tweet us at @bplmaps and we’ll feature it sometime in April for National Poetry Month!**
+
+P.S. See more "Poems as Maps" in _Places Journal_ [here](https://placesjournal.org/series/poems-as-maps/).
