@@ -15,7 +15,7 @@ draft: true
 
 But what about poems _on_ maps? It just so happens that many of the maps in our collection have poems inscribed on them, in legends, around borders, and hidden away in overlooked corners. We find them primarily on pictorial maps, and the poems are mainly by men from the 20th century literary cannon, but the maps they are on cover a wide geographic range. See below for some fun examples of poems on maps in our collections, which we found with a little digging and some keen eyesight.
 
-**London**
+#### London
 
 This [pictorial map of London](https://collections.leventhalmap.org/search/commonwealth:0r96fn348) was originally published in 1914 as an advertising poster for the London Underground. The design became very popular with the public and was published in several different editions. It is [credited with reviving Tube travel](https://en.wikipedia.org/wiki/Wonderground_Map) as well as inspiring “Wonderland” maps in other cities, and influencing pictorial mapmaking in the twentieth century.
 
@@ -23,11 +23,11 @@ This [pictorial map of London](https://collections.leventhalmap.org/search/commo
 
 At the very top of this map, you can {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn35j/2825,751,472,434/full/0/default.jpg" bib-src="" target="blank" >}} find several stanzas{{</popup>}}  from the famous poem [The Tyger](https://www.poetryfoundation.org/poems/43687/the-tyger) by William Blake. This map also contains several excerpts from children's books and {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn35j/2776,5106,661,451/full/0/default.jpg" bib-src="" target="blank" >}} nursery rhymes,{{</popup>}}  as well as a plethora of puns about different places in London, like this reference to {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn35j/1381,5207,689,349/full/0/default.jpg" bib-src="" target="blank" >}} hurling hams in Hurlingham{{</popup>}}  – how many can you spot?!
 
-**South Africa**
+#### South Africa
 
 This [colorful map is of the Cape Peninsula](https://collections.leventhalmap.org/search/commonwealth:0r96fn44h) in South Africa. Right in the center of the map {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:vd66x1175/1608,2372,378,261/full/0/default.jpg" bib-src="" target="blank" >}} we see the lines{{</popup>}}  “_White as sand of Muizenberg / Spun before the Gale..._” attributed to Rudyard Kipling. This line is from his 1895 poem [_The Flowers._](https://www.poetryloverspage.com/poets/kipling/flowers.html) Muizenberg is a beach town in the Western Cape – Kipling spent time in South Africa and Cape Town, and this poem is consistent with his theme of writing works about the British Empire and during the era of colonial rule.
 
-**New York City**
+#### New York City
 
 It’s not surprising that this [pictorial map of New York City](https://collections.leventhalmap.org/search/commonwealth:3f463826j) contains at least one poem, since it’s published by the Washington Square Bookshop.
 
@@ -35,7 +35,7 @@ Not only does it contain a unique poem wrapping around the border of the map (_"
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463827t/full/,600/0/default.jpg" caption="" class="figure-center" >}}
 
-**Portland, Maine**
+#### Portland, Maine
 
 Here’s one for our friends up at the [Osher Map Library](https://oshermaps.org/) in Portland, Maine. _“Often I think of the beautiful town / that is seated by the sea...”_ This stanza about a town by the sea {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:c534j573w/3792,2832,679,654/full/0/default.jpg" bib-src="" target="blank" >}} appears on{{</popup>}}  a [1928 map of Portland, Maine](https://collections.leventhalmap.org/search/commonwealth:p841c3807). The line is from the poem [_My Lost Youth_](https://www.poetryfoundation.org/poems/44640/my-lost-youth) by Henry Wadsworth Longfellow, who spent his childhood in Portland – he was born there in 1807, when it was still a part of Massachusetts!
 
