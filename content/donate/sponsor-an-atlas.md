@@ -16,19 +16,19 @@ The Leventhal Center has an extraordinary collection of [urban atlases](https://
 
 Suitable for browsing on a computer or mobile device, this website makes it easy to compare properties, buildings and owners to tell stories about places through the years. With new features to empower storytelling, annotation, and discovery, as well as connections into other Massachusetts digital collections, Atlascope is a great tool to answer questions about property ownership, genealogy, urban transformation, and broad questions about historic and geographic change. As Boston Globe columnist Mark Feeney [recently put it](https://www.bostonglobe.com/2023/01/19/arts/map-quest-bpls-leventhal-center-two-shows-speak-changing-city/?p1=StaffPage), Atlascope is _"a reminder of the extent to which these renderings of the past that are on display, the city as was, directly relate to visitors’ present, the city as is."_
 
-{{< figure src="/uploads/2023-04-05/microsoftteams-image.png" caption="Atlascope can easily be used on a tablet, or phone as you wander around the City of Boston." class="figure-right" >}}
+{{< figure src="/uploads/2023-04-05/microsoftteams-image.png" caption="Atlascope can easily be used on a tablet or your phone to discover local history as you wander around the City of Boston." class="figure-right" >}}
 
 #### How Atlascope is Used
 
 Boston City Archaeologist Joe Bagley uses Atlascope frequently in his work, [describing it as an invaluable tool](https://www.leventhalmap.org/articles/archaeology-and-atlascope/) for his historic research. In 2020, Atlascope helped Bagley uncover the [origins of a mysterious sinkhole](https://www.boston.gov/news/update-ronan-park-well) that appeared in Ronan Park in Dorchester and the subsequent [discovery of a 19th century well.](https://www.wcvb.com/article/archaeologists-discover-forgotten-well-inside-sinkhole-in-dorchesters-ronan-park/34931536#)
 
-<iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.06153,42.30355$zoom:18.71$base:massgis-2021-orthos$overlay:ark:/76611/al8c3c271" width="100%" height="400"></iframe>
-
-_Above, you can see the property of Mary Pierce in 1889 overlaid on a present day Ronan Park in Dorchester, an important clue for Bagley when figuring out the origins of the sinkhole._
-
 Students and individuals of all ages also use Atlascope to open up historic inquries. Last summer, the Boston Preservation Alliance and Boston Public School students from the Lilla G. Frederick Pilot Middle School used Atlascope and other primary sources [to explore Grove Hall, Upham’s Corner, and Fields Corner to tell stories about these Dorchester neighborhoods](https://www.youtube.com/watch?v=Ak0nDQpNOe0). Individual researchers and university classes use Atlascope for in-depth research projects around urban change and local history. For example, students at College of the Holy Cross completed a semester-long research project [about the buildings and landscapes of Boston that were destroyed by the Central Artery](https://www.leventhalmap.org/articles/before-displacement-part-two/).
 
 Finally, patrons from all over the city use Atlascope to research their family histories, satiate curiosities about historical change, and discover new stories that emerge from the woodwork when examining these fascinating cartographic items.
+
+<iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.06153,42.30355$zoom:18.71$base:massgis-2021-orthos$overlay:ark:/76611/al8c3c271" width="100%" height="400"></iframe>
+
+_Above, you can see the property of Mary Pierce in 1889 overlaid on a present day Ronan Park in Dorchester, an important clue for Bagley when figuring out the origins of the sinkhole._
 
 #### Expanding Atlascope
 
