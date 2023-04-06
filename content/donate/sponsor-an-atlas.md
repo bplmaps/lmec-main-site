@@ -24,11 +24,9 @@ Boston City Archaeologist Joe Bagley uses Atlascope frequently in his work, [des
 
 Students and individuals of all ages also use Atlascope to open up historic inquries. Last summer, the Boston Preservation Alliance and Boston Public School students from the Lilla G. Frederick Pilot Middle School used Atlascope and other primary sources [to explore Grove Hall, Upham’s Corner, and Fields Corner to tell stories about these Dorchester neighborhoods](https://www.youtube.com/watch?v=Ak0nDQpNOe0). Individual researchers and university classes use Atlascope for in-depth research projects around urban change and local history. For example, students at College of the Holy Cross completed a semester-long research project [about the buildings and landscapes of Boston that were destroyed by the Central Artery](https://www.leventhalmap.org/articles/before-displacement-part-two/).
 
+{{< figure src="/uploads/2023-04-02/atlascope_boston_-_leventhal_map___education_center_-_google_chrome_2023-04-02_14-47-08_adobeexpress_adobeexpress.gif" caption="The overlay of a [1902 Bromley Atlas](https://atlascope.org/#/view:share$mode:glass$center:-71.07804,42.34943$zoom:18.69$base:massgis-2021-orthos$overlay:ark:/76611/al7rtfm98) on top of present day Boston in Atlascope." class="figure-left" >}}
+
 Finally, patrons from all over the city use Atlascope to research their family histories, satiate curiosities about historical change, and discover new stories that emerge from the woodwork when examining these fascinating cartographic items.
-
-<iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.06153,42.30355$zoom:18.71$base:massgis-2021-orthos$overlay:ark:/76611/al8c3c271" width="100%" height="400"></iframe>
-
-_Above, you can see the property of Mary Pierce in 1889 overlaid on a present day Ronan Park in Dorchester, an important clue for Bagley when figuring out the origins of the sinkhole._
 
 #### Expanding Atlascope
 
@@ -41,3 +39,7 @@ _Above, you can see the property of Mary Pierce in 1889 overlaid on a present da
 ![](/uploads/2023-03-23/atlaslist2.jpg)
 
 \[MAP\]
+
+<iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.06153,42.30355$zoom:18.71$base:massgis-2021-orthos$overlay:ark:/76611/al8c3c271" width="100%" height="400"></iframe>
+
+_Above, you can see the property of Mary Pierce in 1889 overlaid on a present day Ronan Park in Dorchester, an important clue for Bagley when figuring out the origins of the sinkhole._
