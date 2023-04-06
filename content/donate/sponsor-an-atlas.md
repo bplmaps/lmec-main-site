@@ -38,4 +38,4 @@ Finally, Boston Public Library users and Leventhal Map & Education Center patron
 
 ![](/uploads/2023-03-23/atlaslist2.jpg)
 
-**Atlascope Credits:** Digitization and preparation of atlas layers in was made possible with funding from the [Council on Library and Information Resources](https://www.clir.org/) and the [Associates of the Boston Public Library](https://www.associatesbpl.org/).
+**_Atlascope Credits:_** _Digitization and preparation of atlas layers in was made possible with funding from the_ [_Council on Library and Information Resources_](https://www.clir.org/) _and the_ [_Associates of the Boston Public Library_](https://www.associatesbpl.org/)_._
