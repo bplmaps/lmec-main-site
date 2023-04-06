@@ -9,7 +9,13 @@ aliases:
 ---
 
 
+## Small Grants for Early Career Digital Publications
 
+<span class="badge bg-success font-secondary fw-normal">Applications open for 2023!</span>
+
+The Small Grants for Early Career Digital Publications offers a $1200 stipend and technical support for a digital publication on a cartographic or geographic topic which will be featured in the LMEC's digital platforms. Grantees are not required to work in person in Boston.
+
+<a href="../digital-publication-small-grants" class="btn btn-primary-outline btn-sm"><i class="fas fa-info-circle me-2"></i> Learn more and apply</a>
 
 ## NERFC Research Fellowships
 
@@ -30,14 +36,6 @@ The Designer-in-Residence fellowship supports cartographers, visual designers, a
 
 <a href="../designer-in-residence" class="btn btn-primary-outline btn-sm"><i class="fas fa-info-circle me-2"></i> Learn more and apply</a>
 
-
-## Small Grants for Early Career Digital Publications
-
-<span class="badge bg-danger font-secondary fw-normal">Applications closed for 2022</span>
-
-The Small Grants for Early Career Digital Publications offers a $1200 stipend and technical support for a digital publication on a cartographic or geographic topic which will be featured in the LMEC's digital platforms. Grantees are not required to work in person in Boston.
-
-<a href="../digital-publication-small-grants" class="btn btn-primary-outline btn-sm"><i class="fas fa-info-circle me-2"></i> Learn more and apply</a>
 
 ## Public Research Fellowships
 
