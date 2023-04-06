@@ -12,7 +12,7 @@ draft: true
 
 The Leventhal Center has an extraordinary collection of [urban atlases](https://collections.leventhalmap.org/search?utf8=%E2%9C%93&f%5Bcollection_name_ssim%5D%5B%5D=Urban+Maps+%28Collection+of+Distinction%29&f%5Bsubject_facet_ssim%5D%5B%5D=Boston+%28Mass.%29--Maps&search_field=dummy_range&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1860&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=1950&commit=Apply) dating from the late 19th to early 20th centuries, one of the most important sets of documents for depicting how our city and region have changed over time. Our [**Atlascope tool**](https://www.atlascope.org/) has transformed 101 of these atlases into a web interface overlaying the modern map.
 
-{{< figure src="/uploads/2023-03-24/eastboston-by-map3.jpg" caption="Physical urban atlases, while fascinating, are large, bulky, and can be difficult to parse through to find the information you're looking for. Atlascope makes the process of historical atlas research so much easier!" class="figure-right" >}}
+{{< figure src="/uploads/2023-03-24/eastboston-by-map3.jpg" caption="Physical urban atlases, while fascinating, are large, bulky, and can be difficult to parse through to find the information you're looking for." class="figure-right" >}}
 
 Suitable for browsing on a computer or mobile device, this website makes it easy to compare properties, buildings and owners to tell stories about places through the years. With new features to empower storytelling, annotation, and discovery, as well as connections into other Massachusetts digital collections, Atlascope is a great tool to answer questions about property ownership, genealogy, urban transformation, and broad questions about historic and geographic change. As Boston Globe columnist Mark Feeney [recently put it](https://www.bostonglobe.com/2023/01/19/arts/map-quest-bpls-leventhal-center-two-shows-speak-changing-city/?p1=StaffPage), Atlascope is _"a reminder of the extent to which these renderings of the past that are on display, the city as was, directly relate to visitors’ present, the city as is."_
 
@@ -26,7 +26,7 @@ Students and individuals of all ages also use Atlascope to open up historic inqu
 
 {{< figure src="/uploads/2023-04-02/atlascope_boston_-_leventhal_map___education_center_-_google_chrome_2023-04-02_14-47-08_adobeexpress_adobeexpress.gif" caption="The overlay of a [1902 Bromley Atlas](https://atlascope.org/#/view:share$mode:glass$center:-71.07804,42.34943$zoom:18.69$base:massgis-2021-orthos$overlay:ark:/76611/al7rtfm98) on top of present day Boston in Atlascope." class="figure-left" >}}
 
-Finally, patrons from all over the city use Atlascope to research their family histories, satiate curiosities about historical change, and discover new stories that emerge from the woodwork when examining these fascinating cartographic items.
+Finally, Boston Public Library users and Leventhal Map & Education Center patrons from all over the city and surrounding areas use Atlascope as a tool to research their family histories, satiate curiosities about historical change over time, and discover new stories that emerge from the woodwork when examining these fascinating cartographic items.
 
 #### Expanding Atlascope
 
@@ -37,9 +37,3 @@ Finally, patrons from all over the city use Atlascope to research their family h
 **Current towns and counties we have atlases for include:**
 
 ![](/uploads/2023-03-23/atlaslist2.jpg)
-
-\[MAP\]
-
-<iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.06153,42.30355$zoom:18.71$base:massgis-2021-orthos$overlay:ark:/76611/al8c3c271" width="100%" height="400"></iframe>
-
-_Above, you can see the property of Mary Pierce in 1889 overlaid on a present day Ronan Park in Dorchester, an important clue for Bagley when figuring out the origins of the sinkhole._
