@@ -1,7 +1,7 @@
 ---
 publishDate: 2023-04-04T15:45:44-04:00
-title: From The Vault Collections Showing — Bird's Eye Views
-date: 2023-05-12T14:00:00-04:00
+title: From The Vault Collections Showing — Mechanical Maps
+date: 2023-05-26T14:00:00-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
 location: Leventhal Map and Education Center, Learning Center
@@ -10,13 +10,14 @@ registration: ''
 tags:
 - collections
 - from the vault
+draft: true
 
 ---
 ### About this event
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cb47j/full/2000,/0/default.jpg" caption="[_Bird's-eye view of Boston, United States_](https://collections.leventhalmap.org/search/commonwealth:x059cb468)" class="figure-right" >}}
 
-Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at objects from our collections that map spaces and places from above. 
+Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of _From The Vault_, we'll take a look at objects from our collections that move! 
 
 _Drop in any time between 2:00PM - 4:00PM._
 
