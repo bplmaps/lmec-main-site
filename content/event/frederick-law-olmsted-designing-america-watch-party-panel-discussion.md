@@ -8,9 +8,9 @@ location: Online
 fee: Free
 registration: https://www.eventbrite.com/e/frederick-law-olmsted-designing-america-watch-party-panel-discussion-registration-588361694667
 tags: []
-draft: true
 
 ---
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by Olmsted 200.{{< /alert-box >}}
 
 ### About this event
 
