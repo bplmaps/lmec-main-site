@@ -47,12 +47,17 @@ slider:
 cta:
   enable: true
   announcements:
+  - badge: Applications open
+    text: Apply to our Small Grants Fund for Early Career Digital Publications by
+      May 18 5PM
+    link: https://www.leventhalmap.org/research/digital-publication-small-grants/
   - badge: 'Currently showing '
     text: 'Building Blocks: Boston Stories from Urban Atlases and Becoming Boston:
       Eight Moments in the Geography of a Changing City'
     link: https://www.leventhalmap.org/exhibitions/
   - badge: Upcoming closure
-    text: The Map Center and all BPL locations will be closed Sunday, April 9
+    text: The Map Center and all BPL locations will be closed on Sunday, April 16,
+      and Monday, April 17, in observance of Patriots' Day.
     link: https://www.bpl.org/locations/central/
 audiences:
   enable: true
