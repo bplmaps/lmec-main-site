@@ -1,5 +1,5 @@
 ---
-date: 2023-04-15T11:58:10.000-04:00
+date: 2023-04-15T11:58:10-04:00
 title: '"A world not of this world": Poems as Maps'
 description: To celebrate April as National Poetry Month, here are some poems hidden
   on maps in our collections.

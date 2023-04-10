@@ -1,5 +1,5 @@
 ---
-date: 2023-04-07T07:00:00.000-04:00
+date: 2023-04-12T07:00:00-04:00
 title: 'Atlascope Explained: Looking Between the Cracks'
 description: Explore the inner workings of Atlascope, the Map Center's tool for exploring
   historic Boston
