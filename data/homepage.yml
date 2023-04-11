@@ -57,7 +57,7 @@ cta:
     link: https://www.leventhalmap.org/exhibitions/
   - badge: Upcoming closure
     text: The Map Center and all BPL locations will be closed on Sunday, April 16,
-      and Monday, April 17, in observance of Patriots' Day.
+      and Monday, April 17
     link: https://www.bpl.org/locations/central/
 audiences:
   enable: true
