@@ -30,7 +30,9 @@ Finally, Boston Public Library users and Leventhal Map & Education Center patron
 
 #### Expanding Atlascope
 
-**Are there atlases of other Massachusetts towns you would like to see added to Atlascope?** The Leventhal Center is currently in the process of digitizing and geotransforming historic atlases from towns and counties across the state of Massachusetts, to **ingest into Atlascope for usage and discovery once the necessary support is secured**. If you would like to help support or be a part of this project, please fill out this form below, and a member our staff will be in touch with you. If you have been in contact with us already and are ready to make a contribution, please [visit this page](https://www.leventhalmap.org?form=SPONSOR-ATLAS).
+We began Atlascope by starting with atlases of historic Boston and its surrounding areas. However, these atlases exist in towns across Massachusetts, and we would love to add these. It can take up to 60 hours of skilled staff and intern labor to transform a single atlas from printed pages into a modern, readable web-layer. This is a time-consuming process (for more information, read this article by last year's Northeastern Co-op about the geotransformation process.)
+
+**Are there atlases of other Massachusetts towns you would like to see added to Atlascope?** The Leventhal Center is in the process of digitizing and geotransforming historic atlases from towns and counties across the state of Massachusetts. **We are currently fundraising for the base amount of labor it takes to** **ingest each physical atlas into Atlascope for usage and discovery.** If you would like to help support or be a part of this project, please fill out this form below, and a member our staff will be in touch with you. If you have been in contact with us already and are ready to make a contribution, please [visit this page](https://www.leventhalmap.org?form=SPONSOR-ATLAS).
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrXIWRMPwhqdsSin?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
