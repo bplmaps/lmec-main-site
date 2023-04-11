@@ -38,6 +38,6 @@ We began Atlascope by starting with atlases of historic Boston and its surroundi
 
 **Current towns and counties we have atlases for include:**
 
-![](/uploads/2023-03-23/atlaslist2.jpg)
+![](/uploads/2023-04-11/atlast-list-bulleted-for-website.jpg)
 
-**_Atlascope Credits:_** _Digitization and preparation of atlas layers in was made possible with funding from the_ [_Council on Library and Information Resources_](https://www.clir.org/) _and the_ [_Associates of the Boston Public Library_](https://www.associatesbpl.org/)_._
+**_Atlascope Credits:_** _Digitization and preparation of atlas layers currently in Atlascope was made possible with funding from the_ [_Council on Library and Information Resources_](https://www.clir.org/) _and the_ [_Associates of the Boston Public Library_](https://www.associatesbpl.org/)_._
