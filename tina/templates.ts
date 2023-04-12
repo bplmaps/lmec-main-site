@@ -2,6 +2,11 @@ import type { TinaField } from "tinacms";
 export function article_postFields() {
   return [
     {
+      type: "boolean",
+      name: "draft",
+      label: "Draft Status"
+    },
+    {
       type: "string",
       name: "title",
       label: "Title",
@@ -10,7 +15,13 @@ export function article_postFields() {
     {
       type: "datetime",
       name: "date",
-      label: "Date",
+      label: "Publish Date",
+      required: true,
+    },
+    {
+      type: "string",
+      name: "author",
+      label: "Author",
       required: true,
     },
     {
@@ -26,12 +37,14 @@ export function article_postFields() {
       name: "image",
       label: "Card Image",
       required: true,
+      description: "This is the image that shows in the list view of articles. (If using a IIIF image URL, make sure to limit the width to 1200px.)",
     },
     {
       type: "string",
-      name: "author",
-      label: "Author",
+      name: "backgroundImage",
+      label: "Background Image",
       required: true,
+      description: "This is the image that shows on the article page at the top. (If using a IIIF image, make sure to limit the width to 1200px.)",
     },
     {
       type: "string",
@@ -41,11 +54,6 @@ export function article_postFields() {
       ui: {
         component: "tags",
       },
-    },
-    {
-      type: "string",
-      name: "backgroundImage",
-      label: "Background Image",
     },
   ] as TinaField[];
 }
@@ -106,6 +114,11 @@ export function event_listingFields() {
       name: "date",
       label: "date",
       required: true,
+    },
+    {
+      type: "boolean",
+      name: "draft",
+      label: "Draft Status"
     },
     {
       type: "datetime",
@@ -601,6 +614,11 @@ export function standard_pageFields() {
       type: "string",
       name: "title",
       label: "title",
+    },
+    {
+      type: "boolean",
+      name: "draft",
+      label: "Draft Status"
     },
     {
       type: "image",

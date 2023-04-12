@@ -29,24 +29,6 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        format: "md",
-        label: "Donate",
-        name: "donate",
-        path: "content/donate",
-        match: {
-          include: "**/*",
-        },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-        ],
-      },
-      {
         format: "yml",
         label: "Homepage Configuration",
         name: "homepage_configuration",
@@ -82,6 +64,12 @@ export default defineConfig({
                 name: "slider_item",
                 label: "Slider Headline Text",
                 list: true,
+                ui: {
+                  itemProps: (item) => {
+                    // Field values are accessed by title?.<Field name>
+                      return { label: item?.title };
+                    },
+                }, 
                 fields: [
                   {
                     type: "string",
@@ -109,7 +97,7 @@ export default defineConfig({
                   {
                     type: "object",
                     name: "button",
-                    label: "button",
+                    label: "Button Options",
                     fields: [
                       {
                         type: "boolean",
@@ -147,6 +135,12 @@ export default defineConfig({
                 name: "announcements",
                 label: "announcements",
                 list: true,
+                ui: {
+                  itemProps: (item) => {
+                    // Field values are accessed by title?.<Field name>
+                    return { label:  item?.badge + " | " + item?.text };
+                  },
+                }, 
                 fields: [
                   {
                     type: "string",
@@ -406,23 +400,22 @@ export default defineConfig({
           include: "**/*",
         },
         fields: [
+          ...article_postFields(),
           {
             type: "rich-text",
             name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
+            label: "Article Text",
             isBody: true,
-          },
-          ...article_postFields(),
-        ],
+          }
+        ]
       },
       {
         format: "md",
-        label: "Top-Level Pages",
-        name: "top_level_pages",
-        path: "content",
+        label: "Newsletters",
+        name: "newsletters",
+        path: "content/newsletters",
         match: {
-          include: "*",
+          include: "**/*",
         },
         fields: [
           {
@@ -432,6 +425,26 @@ export default defineConfig({
             description: "This is the markdown body",
             isBody: true,
           },
+          ...newsletterFields(),
+        ],
+      },
+      {
+        format: "md",
+        label: "Events",
+        name: "event",
+        path: "content/event",
+        match: {
+          include: "**/*",
+        },
+        fields: [
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body of Document",
+            description: "This is the markdown body",
+            isBody: true,
+          },
+          ...event_listingFields(),
         ],
       },
       {
@@ -529,30 +542,11 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "Event",
-        name: "event",
-        path: "content/event",
-        match: {
-          include: "**/*",
-        },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...event_listingFields(),
-        ],
-      },
-      {
-        format: "md",
         label: "About",
         name: "about",
         path: "content/about",
         match: {
-          include: "**/*",
+          include: '*',
         },
         fields: [
           {
@@ -586,9 +580,9 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "Newsletters",
-        name: "newsletters",
-        path: "content/newsletters",
+        label: "Donate",
+        name: "donate",
+        path: "content/donate",
         match: {
           include: "**/*",
         },
@@ -600,7 +594,24 @@ export default defineConfig({
             description: "This is the markdown body",
             isBody: true,
           },
-          ...newsletterFields(),
+        ],
+      },
+      {
+        format: "md",
+        label: "Other Top Level Pages",
+        name: "top_level_pages",
+        path: "content",
+        match: {
+          include: "*",
+        },
+        fields: [
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body of Document",
+            description: "This is the markdown body",
+            isBody: true,
+          },
         ],
       },
     ],
