@@ -1,5 +1,5 @@
 ---
-date: 2023-04-14T08:00:34-04:00
+date: 2023-04-13T13:00:34-04:00
 title: Meet Andy Woodruff, Our 2023 Designer-in-Residence
 description: Learn how a contemporary cartographer began working with maps, and what
   he plans to do in residency at the Leventhal Center
