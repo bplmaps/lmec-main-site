@@ -3,7 +3,6 @@ title: Bending Lines, an exploration of truth and lies through centuries of maps
 type: press_release
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c45p/2877,1230,8220,3181/,1200/0/default.jpg
 description: 
-type: singleton
 menu: false
 ---
 
