@@ -5,7 +5,6 @@ description: The Leventhal Center is currently in the process of geotransforming
   atlases from towns across the state of Massachusetts. Read about the project here
   and learn how you can support it.
 weight: ''
-draft: true
 
 ---
 ## Sponsor an Atlas
