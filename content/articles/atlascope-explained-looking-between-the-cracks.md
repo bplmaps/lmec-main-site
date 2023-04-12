@@ -1,5 +1,5 @@
 ---
-date: 2023-04-12T07:00:00-04:00
+date: 2023-04-10T07:00:00-04:00
 title: 'Atlascope Explained: Looking Between the Cracks'
 description: Explore the inner workings of Atlascope, the Map Center's tool for exploring
   historic Boston
@@ -8,7 +8,6 @@ author: Patricio Pino
 tags:
 - atlascope
 backgroundImage: "/uploads/2023-04-03/atlascopecoverage.png"
-draft: true
 
 ---
 [Atlascope](https://www.atlascope.org/), a digital project developed by the team here at the Leventhal Map & Education Center, allows for the geographical exploration of Boston through history. Close to a hundred historic urban atlases from the especially transformative period between 1861 and 1938 are made uniquely discoverable through Atlascope's easily browsable and searchable web interface, a transformation which represents the culmination of years of work and technical design and development not fully visible from the surface.
