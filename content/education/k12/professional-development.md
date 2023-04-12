@@ -16,8 +16,6 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 ## Workshops and Courses
 
-{{< pd-listing image="/uploads/2022-12-08/amrev.png" title="Maps in the Classroom: The American Revolution" subtitle="Thursday, April 6, 3:30-4:30 pm" description="Join Map Center K-12 educators to learn how we introduce young learners to maps and how to think about them. Take away a lesson you can teach right away in your classroom." signUpLink="https://www.eventbrite.com/e/maps-in-the-classroom-american-revolution-tickets-478320428277" >}}
-
 #### Lifting as We Climb: Black Women's Activism in turn-of-the-20th-century Boston
 
 ##### July 10 - 12, 2023
@@ -30,7 +28,7 @@ Artist and Educator [L'Merchie Frazier](http://lmerchiefrazier.org/)
 
 Scholar and Author [Lois Brown](https://english.asu.edu/content/lois-brown)
 
-There is a $75 registration fee for this workshop. We will contact you to confirm your registration and to provide a payment link.
+There is a $25 registration fee for this workshop. We will contact you to confirm your registration and to provide a payment link.
 
 [**Register Here**](https://www.eventbrite.com/e/lifting-as-we-climb-black-women-in-turn-of-the-20th-century-boston-tickets-603835356807)
 
