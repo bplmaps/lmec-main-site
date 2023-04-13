@@ -57,6 +57,9 @@ h6, .h6 {
 code {
   color: #501966; }
 
+div.pd-text a {
+  color: maroon; }
+
 /* Button style */
 .btn {
   font-size: 16px;
