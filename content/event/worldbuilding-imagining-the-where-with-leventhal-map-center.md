@@ -1,7 +1,7 @@
 ---
-publishDate: 2023-03-31T11:53:45-04:00
-title: 'Worldbuilding: Imagining the Where with Leventhal Map Center'
-date: 2023-04-19T15:30:00-04:00
+publishDate: 2023-03-31T11:53:45.000-04:00
+title: 'Worldbuilding: Imagining the Where with Leventhal Map & Education Center'
+date: 2023-04-19T15:30:00.000-04:00
 image: "/uploads/2023-03-31/pexels-maps-4.jpeg"
 backgroundImage: "/uploads/2023-03-31/pexels-maps-4.jpeg"
 location: Children's Library's Rey Room

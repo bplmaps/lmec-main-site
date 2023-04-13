@@ -1,7 +1,7 @@
 ---
-publishDate: 2023-03-31T12:05:04-04:00
-title: Artmaking with Maps with Leventhal Map Center
-date: 2023-04-21T14:00:00-04:00
+publishDate: 2023-03-31T12:05:04.000-04:00
+title: Artmaking with Maps with Leventhal Map & Education Center
+date: 2023-04-21T14:00:00.000-04:00
 image: "/uploads/2023-03-31/mapart-1.jpeg"
 backgroundImage: "/uploads/2023-03-31/mapart-1.jpeg"
 location: Children's Library's Rey Room
