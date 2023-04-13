@@ -1,7 +1,8 @@
 ---
-date: 2023-04-13T13:30:34.000-05:00
+date: 2023-04-13T18:30:34+00:00
 title: Meet Andy Woodruff, Our 2023 Designer-in-Residence
-description: Learn how a contemporary cartographer began working with maps, and what he plans to do in residency at the Leventhal Center
+description: Learn how a contemporary cartographer began working with maps, and what
+  he plans to do in residency at the Leventhal Center
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rv70f/1440,423,5960,2418/,1200/0/default.jpg
 author: Garrett Dash Nelson and Andy Woodruff
 tags:
@@ -10,8 +11,8 @@ tags:
 - designer-in-residence
 - fellowships
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rv70f/1440,423,5960,2418/,1200/0/default.jpg
----
 
+---
 > This year marks the inauguration of the [Designer-in-Residence fellowship](/research/designer-in-residence/) a new program at the Leventhal Center aimed at supporting creative work in cartography, growing our original collections, and providing opportunities for the public to learn more about how maps are made in the present day. Our first Designer-in-Residence is the multi-talented Andy Woodruff. You might already be familiar with Andy from the maps [he contributed to our 2022 exhibition _Bending Lines_](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/data-stories-transit/), or from the legendary Boston mapping blog [Bostonography](https://bostonography.com). Andy will be in residence at the Leventhal Center from April 10 through May 5. During his fellowship period, we'll be posting more about his work in progress.
 
 {{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/interview-andy-woodruff/IMG_2198.jpeg" class="figure-right" caption="How many \"cunchres\" can you name? _Image courtesy of Andy Woodruff_">}}
