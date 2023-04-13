@@ -389,6 +389,74 @@ export default defineConfig({
             description:
               "This is a dummy field, please replace it with the fields you want to edit. See https://tina.io/docs/schema/ for more info",
           },
+          {
+            name: "specialNote",
+            label: "Special Hours Note",
+            type: "string"
+          },
+          {
+            name: "weekly",
+            label: "Weekly Schedule",
+            type: "object",
+            list: true,
+            ui: {
+              itemProps: (item) => {
+                // Field values are accessed by title?.<Field name>
+                      return { label: item?.day };
+              },
+            },
+            fields: [
+              {
+                label: "Day",
+                name: "day",
+                type: "string",
+              },
+              {
+                label: "Open Time",
+                name: "open",
+                type: "string",
+              },
+              {
+                label: "Close Time",
+                name: "close",
+                type: "string",
+              },
+              {
+                label: "Special Note",
+                name: "special",
+                type: "string",
+              },
+            ],
+          },
+          {
+            name: "exceptions",
+            label: "Schedule Exceptions",
+            type: "object",
+            list: true,
+            ui: {
+              itemProps: (item) => {
+                // Field values are accessed by title?.<Field name>
+                      return { label: item?.date };
+              },
+            },
+            fields: [
+              {
+                label: "Date",
+                name: "date",
+                type: "datetime",
+              },
+              {
+                label: "Holiday Name",
+                name: "name",
+                type: "string",
+              },
+              {
+                label: "Special Note",
+                name: "special",
+                type: "string",
+              },
+            ],
+          }
         ],
       },
       {
@@ -545,6 +613,25 @@ export default defineConfig({
         label: "About",
         name: "about",
         path: "content/about",
+        match: {
+          include: '*',
+        },
+        fields: [
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body of Document",
+            description: "This is the markdown body",
+            isBody: true,
+          },
+          // ...person_entryFields(),
+        ],
+      },
+      {
+        format: "md",
+        label: "People",
+        name: "people",
+        path: "content/about/people",
         match: {
           include: '*',
         },

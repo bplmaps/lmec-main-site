@@ -573,7 +573,7 @@ export function person_entryFields() {
       label: "description",
     },
     {
-      type: "image",
+      type: "string",
       name: "headshot",
       label: "headshot",
     },
@@ -591,8 +591,14 @@ export function person_entryFields() {
     {
       type: "object",
       name: "contact",
-      label: "contact",
+      label: "Contact Methods",
       list: true,
+      ui: {
+        itemProps: (item) => {
+          // Field values are accessed by title?.<Field name>
+                return { label: item?.method };
+        },
+      },
       fields: [
         {
           type: "string",
