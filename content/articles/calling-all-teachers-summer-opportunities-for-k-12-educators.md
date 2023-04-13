@@ -11,8 +11,6 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:k930h8
 draft: true
 
 ---
-### 3 Summer Opportunities for K-12 Educators
-
 The summer is a particularly fun time to be working in the Map Center. Not only do visitors from around the world visit the Boston Public Library but we also get the chance to work closely with some of our favorite people: K-12 educators!
 
 There are currently three great professional development programs we are offering for K-12 educators, from a 3-day workshop tied to our current exhibition [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), to two paid opportunities for teachers to dig into our map collections and create original curriculum for their classrooms.
@@ -27,13 +25,15 @@ _Please see_ [**_here_**](https://www.leventhalmap.org/education/k12/2021-lynch-
 
 #### Lifting as We Climb: Black Women’s Activism in Turn of the 20th Century Boston
 
+{{< figure src="/uploads/2023-04-13/nmaahc-2010_2_1ab_001.jpg" caption="" class="figure-right" >}}
+
 This three-day workshop, designed in conjunction with our current exhibition, [Building Blocks: Boston Stories from Urban Atlases](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), will expand your knowledge and comfort in teaching the role and impact of women in Boston’s Black history. Presenters include artist and Educator [L’Merchie Frazier](http://lmerchiefrazier.org/) and Scholar and Author [Lois Brown.](https://english.asu.edu/content/lois-brown) Teachers receive 22.5 PDPs or one graduate credit (for an additional fee to Westfield State).
 
 _Please see_ [**_here_**](https://www.leventhalmap.org/education/k12/2021-lynch-summer-teacher-fellowship/) _to learn more and register._
 
 #### Lesson Plan Creation for American Revolutionary Geographies Online
 
-{{< figure src="/uploads/2023-04-13/screen-shot-2023-04-13-at-3-42-34-pm.png" caption="" class="figure-right" >}}
+{{< figure src="/uploads/2023-04-13/screen-shot-2023-04-13-at-3-42-34-pm.png" caption="" class="figure-center" >}}
 
 The George Washington Presidential Library at Mount Vernon and the Leventhal Map & Education Center are looking for 3-5 teachers this summer to create mini-lessons focused on maps from the newly launched [American Revolutionary Geographies Online](https://www.argomaps.org/) (ARGO). Teachers will be paid $500 upon completion of two mini-sessions and lesson plan work.
 
