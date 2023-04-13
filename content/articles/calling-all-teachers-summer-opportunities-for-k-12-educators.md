@@ -15,7 +15,7 @@ The summer is a particularly fun time to be working in the Map Center. Not only 
 
 There are currently three great professional development programs we are offering for K-12 educators, from a 3-day workshop tied to our current exhibition [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), to two paid opportunities for teachers to dig into our map collections and create original curriculum for their classrooms.
 
-#### 2023 Carolyn A. Lynch Teacher Fellowship
+### 2023 Carolyn A. Lynch Teacher Fellowship
 
 {{< figure src="/uploads/2023-04-13/fellows-2.jpg" caption="_Teacher fellows from 2022._" class="figure-center" >}}
 
@@ -23,13 +23,15 @@ Do you teach Boston history and contemporary issues? Are you interested in incor
 
 _Please see_ [**_here_**](https://www.leventhalmap.org/education/k12/2021-lynch-summer-teacher-fellowship/) _to learn more and apply._
 
-#### Lifting as We Climb: Black Women’s Activism in Turn of the 20th Century Boston
+### Lifting as We Climb: Black Women’s Activism in Turn of the 20th Century Boston
+
+{{< figure src="/uploads/2023-04-13/screen-shot-2023-04-13-at-4-27-17-pm.png" caption="_Our Building Blocks exhibition follows the biography of Florida Ruffin Ridley, an important Black Bostonian who worked, studied, played, and created within the landscapes on display._" class="figure-right" >}}
 
 This three-day workshop, designed in conjunction with our current exhibition, [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), will expand your knowledge and comfort in teaching the role and impact of women in Boston’s Black history. Presenters include artist and Educator [L’Merchie Frazier](http://lmerchiefrazier.org/) and Scholar and Author [Lois Brown.](https://english.asu.edu/content/lois-brown) Teachers receive 22.5 PDPs or one graduate credit (for an additional fee to Westfield State).
 
 _Please see_ [**_here_**](https://www.leventhalmap.org/education/k12/2021-lynch-summer-teacher-fellowship/) _to learn more and register._
 
-#### Lesson Plan Creation for American Revolutionary Geographies Online
+### Lesson Plan Creation for American Revolutionary Geographies Online
 
 {{< figure src="/uploads/2023-04-13/screen-shot-2023-04-13-at-3-42-34-pm.png" caption="_The_ [_ARGO portal_](https://www.argomaps.org/) _collates digitized maps of North America made between 1750 and 1800 into a user-friendly portal._" class="figure-center" >}}
 
