@@ -13,11 +13,11 @@ draft: true
 ---
 The summer is a particularly fun time to be working in the Map Center. Not only do visitors from around the world visit the Boston Public Library but we also get the chance to work closely with some of our favorite people: K-12 educators!
 
-{{< figure src="/uploads/2023-04-13/fellows-2.jpg" caption="Teacher fellows from 2022." class="figure-right" >}}
-
 There are currently three great professional development programs we are offering for K-12 educators, from a 3-day workshop tied to our current exhibition [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), to two paid opportunities for teachers to dig into our map collections and create original curriculum for their classrooms.
 
 #### 2023 Carolyn A. Lynch Teacher Fellowship
+
+{{< figure src="/uploads/2023-04-13/fellows-2.jpg" caption="Teacher fellows from 2022." class="figure-center" >}}
 
 Do you teach Boston history and contemporary issues? Are you interested in incorporating maps in new ways into your classroom? Then we encourage you to apply to be a fellow this summer! We welcome all kinds of ideas for creating curriculum, but we’re especially interested in educators who might want to explore the history and present of Black Boston and how maps do (and don’t) reflect communities. Fellows are paid a $1000 stipend upon completion of their project.
 
@@ -29,7 +29,7 @@ This three-day workshop, designed in conjunction with our current exhibition, [B
 
 _Please see_ [**_here_**](https://www.leventhalmap.org/education/k12/2021-lynch-summer-teacher-fellowship/) _to learn more and register._
 
-{{< figure src="/uploads/2023-04-13/screen-shot-2023-04-13-at-3-42-34-pm.png" caption="_The ARGO portal collates digitized maps of North America made between 1750 and 1800 into a user-friendly portal._" class="figure-right" >}}
+{{< figure src="/uploads/2023-04-13/screen-shot-2023-04-13-at-3-42-34-pm.png" caption="_The_ [_ARGO portal_](https://www.argomaps.org/) _collates digitized maps of North America made between 1750 and 1800 into a user-friendly portal._" class="figure-right" >}}
 
 #### Lesson Plan Creation for American Revolutionary Geographies Online
 
