@@ -25,8 +25,6 @@ _Please see_ [**_here_**](https://www.leventhalmap.org/education/k12/2021-lynch-
 
 #### Lifting as We Climb: Black Women’s Activism in Turn of the 20th Century Boston
 
-{{< figure src="/uploads/2023-04-13/nmaahc-2010_2_1ab_002.jpg" caption="" class="figure-right" >}}
-
 This three-day workshop, designed in conjunction with our current exhibition, [Building Blocks: Boston Stories from Urban Atlases](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), will expand your knowledge and comfort in teaching the role and impact of women in Boston’s Black history. Presenters include artist and Educator [L’Merchie Frazier](http://lmerchiefrazier.org/) and Scholar and Author [Lois Brown.](https://english.asu.edu/content/lois-brown) Teachers receive 22.5 PDPs or one graduate credit (for an additional fee to Westfield State).
 
 _Please see_ [**_here_**](https://www.leventhalmap.org/education/k12/2021-lynch-summer-teacher-fellowship/) _to learn more and register._
