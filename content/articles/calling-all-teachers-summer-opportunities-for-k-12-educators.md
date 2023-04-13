@@ -1,8 +1,8 @@
 ---
 date: 2023-04-14T12:23:02+00:00
 title: 'Calling all Teachers! Summer Opportunities for K-12 Educators '
-description: Learn more about our summer 2023 professional development programs for
-  K-12 educators
+description: Learn more about our summer professional development programs for K-12
+  educators
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:k930h865k/full/2000,/0/default.jpg
 author: LMEC Staff
 tags:
