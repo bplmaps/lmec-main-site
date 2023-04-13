@@ -33,7 +33,7 @@ _Please see_ [**_here_**](https://www.leventhalmap.org/education/k12/2021-lynch-
 
 #### Lesson Plan Creation for American Revolutionary Geographies Online
 
-{{< figure src="/uploads/2023-04-13/screen-shot-2023-04-13-at-3-42-34-pm.png" caption="_The ARGO portal collates digitized maps of North America made between 1750 and 1800 into a single user-friendly portal._" class="figure-right" >}}
+{{< figure src="/uploads/2023-04-13/screen-shot-2023-04-13-at-3-42-34-pm.png" caption="_The ARGO portal collates digitized maps of North America made between 1750 and 1800 into a user-friendly portal._" class="figure-right" >}}
 
 The George Washington Presidential Library at Mount Vernon and the Leventhal Map & Education Center are looking for 3-5 teachers this summer to create mini-lessons focused on maps from the newly launched [American Revolutionary Geographies Online](https://www.argomaps.org/) (ARGO). Teachers will be paid $500 upon completion of two mini-sessions and lesson plan work.
 
