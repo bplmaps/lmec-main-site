@@ -17,7 +17,7 @@ There are currently three great professional development programs we are offerin
 
 #### 2023 Carolyn A. Lynch Teacher Fellowship
 
-{{< figure src="/uploads/2023-04-13/fellows-2.jpg" caption="" class="figure-center" >}}
+{{< figure src="/uploads/2023-04-13/fellows-2.jpg" caption="_Our fellows from summer 2022_" class="figure-center" >}}
 
 Do you teach Boston history and contemporary issues? Are you interested in incorporating maps in new ways into your classroom? Then we encourage you to apply to be a fellow this summer! We welcome all kinds of ideas for creating curriculum, but we’re especially interested in educators who might want to explore the history and present of Black Boston and how maps do (and don’t) reflect communities. Fellows are paid a $1000 stipend upon completion of their project.
 
