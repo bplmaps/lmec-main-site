@@ -25,7 +25,7 @@ _Please see_ [**_here_**](https://www.leventhalmap.org/education/k12/2021-lynch-
 
 ### Lifting as We Climb: Black Women’s Activism in Turn of the 20th Century Boston
 
-{{< figure src="/uploads/2023-04-13/screen-shot-2023-04-13-at-4-27-17-pm.png" caption="_Our Building Blocks exhibition follows the biography of Florida Ruffin Ridley, an important Black Bostonian who worked, studied, played, and created within the landscapes on display._" class="figure-center" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4q77j897s/206,414,3368,2671/2000,/0/default.jpg" caption="_Our Building Blocks exhibition follows the biography of Florida Ruffin Ridley, an important Black Bostonian who worked, studied, played, and_ [_created within the landscapes on display._](https://www.digitalcommonwealth.org/search/commonwealth:br86dm89q)" class="figure-center" >}}
 
 This three-day workshop, designed in conjunction with our current exhibition, [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), will expand your knowledge and comfort in teaching the role and impact of women in Boston’s Black history. Presenters include artist and Educator [L’Merchie Frazier](http://lmerchiefrazier.org/) and Scholar and Author [Lois Brown.](https://english.asu.edu/content/lois-brown) Teachers receive 22.5 PDPs or one graduate credit (for an additional fee to Westfield State).
 
