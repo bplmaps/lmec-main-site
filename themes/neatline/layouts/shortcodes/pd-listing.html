@@ -1,9 +1,10 @@
-  <div class="d-flex py-4">
-    <div class="flex-shrink-0">
-      <img src="{{ .Get "image" | relURL }}" class="me-3" alt="{{ .Get "title" }}" width="150px">
+  <div class="d-flex py-4" >
+    <div class="flex-shrink-1">
+      <img src="{{ .Get "image" | relURL }}" class="me-3" alt="{{ .Get "title" }}"  width="250px">
 
     </div>
     <div class="flex-grow-1 ms-3">
+      
       <h4 class="mt-0">{{ .Get "title" }}</h4>
       <h6 class="text-muted">{{ .Get "subtitle" }}</h6>
       {{ .Get "description" | markdownify }}
