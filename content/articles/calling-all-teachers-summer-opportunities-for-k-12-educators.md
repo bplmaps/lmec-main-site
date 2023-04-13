@@ -17,7 +17,7 @@ There are currently three great professional development programs we are offerin
 
 #### 2023 Carolyn A. Lynch Teacher Fellowship
 
-{{< figure src="/uploads/2023-04-13/fellows-2.jpg" caption="_Our fellows from summer 2022_" class="figure-center" >}}
+{{< figure src="/uploads/2023-04-13/fellows-2.jpg" caption="_Our fellows from summer 2022._" class="figure-center" >}}
 
 Do you teach Boston history and contemporary issues? Are you interested in incorporating maps in new ways into your classroom? Then we encourage you to apply to be a fellow this summer! We welcome all kinds of ideas for creating curriculum, but we’re especially interested in educators who might want to explore the history and present of Black Boston and how maps do (and don’t) reflect communities. Fellows are paid a $1000 stipend upon completion of their project.
 
@@ -33,7 +33,7 @@ _Please see_ [**_here_**](https://www.leventhalmap.org/education/k12/2021-lynch-
 
 #### Lesson Plan Creation for American Revolutionary Geographies Online
 
-{{< figure src="/uploads/2023-04-13/screen-shot-2023-04-13-at-3-42-34-pm.png" caption="" class="figure-center" >}}
+{{< figure src="/uploads/2023-04-13/screen-shot-2023-04-13-at-3-42-34-pm.png" caption="_The ARGO portal collates digitized maps of North America made between 1750 and 1800 into a single user-friendly portal._" class="figure-right" >}}
 
 The George Washington Presidential Library at Mount Vernon and the Leventhal Map & Education Center are looking for 3-5 teachers this summer to create mini-lessons focused on maps from the newly launched [American Revolutionary Geographies Online](https://www.argomaps.org/) (ARGO). Teachers will be paid $500 upon completion of two mini-sessions and lesson plan work.
 
