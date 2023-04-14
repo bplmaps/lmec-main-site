@@ -1,5 +1,5 @@
 ---
-date: 2023-04-14T12:23:02+00:00
+date: 2023-04-14T13:33:02+00:00
 title: 'Calling all Teachers! Summer Opportunities for K-12 Educators '
 description: Learn more about our summer professional development programs for K-12
   educators
@@ -8,7 +8,6 @@ author: LMEC Staff
 tags:
 - k12 education
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:k930h865k/321,256,3481,2316/2000,/0/default.jpg
-draft: true
 
 ---
 The summer is a particularly fun time to be working in the Map Center. Not only do visitors from around the world visit the Boston Public Library but we also get the chance to work closely with some of our favorite people: K-12 educators!
