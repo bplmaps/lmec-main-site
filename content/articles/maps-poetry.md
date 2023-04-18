@@ -1,5 +1,5 @@
 ---
-date: 2023-04-15T11:58:10-04:00
+date: 2023-04-20T15:58:10+00:00
 title: '"A world not of this world": Poems as Maps'
 description: To celebrate April as National Poetry Month, here are some poems hidden
   on maps in our collections.
@@ -8,7 +8,6 @@ author: Rachel Sharer
 tags:
 - Collections
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463827t/180,159,6739,2819/1200,/0/default.jpg
-draft: true
 
 ---
 **April is National Poetry Month!** You may not immediately put maps and poems in the same category, but both are mediums rich with meaning. There are [many](https://www.newyorker.com/magazine/2014/04/14/map), [many](https://sharonbryanpoet.com/2017/10/10/here-is-a-map-of-our-country/) [poems](https://poets.org/poem/maps) I love that are about [maps,](https://static01.nyt.com/packages/pdf/books/excerpt-poems-elizabeth-bishop.pdf) [cartography](https://www.latimes.com/archives/la-xpm-1994-06-19-bk-5888-story.html), or [map-related](https://www.scottishpoetrylibrary.org.uk/poem/cartographer-tries-map-way-zion/) themes – on borders, boundaries, travel, or discovery of new lands and identities.
