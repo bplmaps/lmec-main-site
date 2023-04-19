@@ -50,19 +50,19 @@ Our memories of urbanity and cartography, for many people, are closely intertwin
 
 **What are some of the things that you think people will learn when they visit the exhibition, beyond the general observation that transportation has changed over time, technologies have changed, and the city has grown? When people look at these maps and they use the maps as a way into questions about changing transportation networks in Boston, what are some insights that will come out of that?**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rb690w37b/full/,1200/0/default.jpg" class="figure-left" caption="A [1907 trolley map](https://collections.leventhalmap.org/search/commonwealth:gx41q249c) showing routes in the Greater Boston region" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rb690w37b/full/,1200/0/default.jpg" class="figure-left" caption="_A_ [_1907 trolley map_](https://collections.leventhalmap.org/search/commonwealth:gx41q249c) _showing routes in the Greater Boston region._" >}}
 
 I was thinking about this on the train here. In my mind there are three reasons for putting up the exhibition.
 
-One is it's a celebration of cartographic representation of infrastructure. Second, it's a celebration _of_ that infrastructure. And then thirdly, it's a celebration of how we as people interacted with that infrastructureover the last nearly 400 years.
+One, it's a celebration of cartographic representation of infrastructure. Second, it's a celebration _of_ that infrastructure. And then thirdly, it's a celebration of how we as people interacted with that infrastructure over the last nearly 400 years.
 
-So you put those together, and my hope is that people will have interactions in the exhibition where they will say, _oh, my, this is how someone in 1850 navigated a steam railroad network_. _Oh, my, this is how somebody figured out where to get a stage coach in 1750_. And then they're holding their phone, and they're looking at the next train outside at Copley to get on the Green Line. I really hope people engage in the sort of relational history.
+So you put those together, and my hope is that people will have interactions in the exhibition where they will say, _oh, my, this is how someone in 1850 navigated a steam railroad network_. _Oh, my, this is how somebody figured out where to get a stage coach in 1750_. And then they're holding their phone, and they're looking at the next train outside at Copley to get on the Green Line. I really hope people engage in that sort of relational history.
 
-But also, there's a lot of beauty in the cartography that we're representing, which is no longer really made. Everything's on your phone, the app updates whenever, and it's all optimized for phone use. All these cartographic devices and objects and artifacts that we're putting on exhibition show people the skill, craft, thought, and editing that went into the question of how do you navigate a system—one that that in many ways was even more complex even than the MBTA of today?
+But also, there's a lot of beauty in the cartography that we're representing, which is no longer really made. Everything's on your phone, the app updates whenever, and it's all optimized for phone use. All these cartographic devices and objects and artifacts that we're putting on exhibition show people the skill, craft, thought, and editing that went into the question of how do you navigate a system—one that in many ways was even more complex even than the MBTA of today?
 
-I also want people to know what we _had_, so we can know what we're missing. So, as we think about the future,we can be like, _it might be a good idea to have a train to go between North and South Station_. We actually used to have that train.
+I also want people to know what we _had_, so we can know what we're missing. So, as we think about the future, we can be like, _it might be a good idea to have a train to go between North and South Station_. We actually used to have that train.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m2135/4692,6003,3085,1148/,1200/0/default.jpg" caption="Detail showing the elevated railway line that once ran from North to South Stations, from an [1899 system map](https://collections.leventhalmap.org/search/commonwealth:cj82m212w)" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m2135/4692,6003,3085,1148/,1200/0/default.jpg" caption="_Detail showing the elevated railway line that once ran from North to South Stations, from an_ [_1899 system map_](https://collections.leventhalmap.org/search/commonwealth:cj82m212w)_._" >}}
 
 **When you think about a map of Boston, can you give some anecdotes of interesting and odd pieces of transit infrastructure that might still be in the landscape today but which people might not think about as often as the famous sites like Park Street or Government Center? What are some hidden parts of Boston that interest you, and that you think people might notice in this exhibition?**
 
