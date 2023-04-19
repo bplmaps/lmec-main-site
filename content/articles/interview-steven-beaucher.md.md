@@ -82,13 +82,13 @@ Maps are a great way to reveal these layers that may be there for their historic
 
 There's a lot of ways that, for envisioning the future of transit, these maps, the ones in the exhibit, are critical. One is there's just a functional planning perspective. Where does this thing go? How much will it cost? How much track will it use, et cetera.
 
-Then there's a marketing perspective. You can use these maps to sell it to politicians, who get the funding for publict ransit. You can use these maps to generate public interest.
+Then there's a marketing perspective. You can use these maps to sell it to politicians, who get the funding for public transit. You can use these maps to generate public interest.
 
 And then there is also sort of a legacy perspective, where you may over-plan knowing that you're not going to do this in the next generation, but in the future somebody could take this plan out and say, _hey, look, somebody did some really good work on that_. A prime example is the Green Line Extension. There were plans going back earlier than the 1940s, but it really only became serious with the Big Dig in the 1990s, and we only just completed it in the early 2020s.
 
 **Your book _Boston in Transit_ is full of other visual materials: photographs, postcards, illustrations, diagrams, and so on. Can you tell us some ways that other visual aids help us understand the history of places, the history of Boston, the history of transit systems?**
 
-Beyond the maps, as I featured in the book, and we're going to try to feature in the exhibit, it's good to know what a lot of these things looked like, just on a basic level. What did a stage coach look like, what did an omnibus look like? What did a steam train in 1830 look like versus a steam train in 1930? That's a way to really allow you to transport yourself in history visually. Everyone can relate to a photograph very clearly. Not everyone relates to maps initially. So if we're showing a map of the Eastern Railroad in the middle of the 19th century, it's good to have an image of a steam train.
+Beyond the maps, as I featured in the book (and hope to feature in the exhibit), it's good to know what a lot of these things looked like, just on a basic level. What did a stage coach look like, what did an omnibus look like? What did a steam train in 1830 look like versus a steam train in 1930? That's a way to really allow you to transport yourself in history visually. Everyone can relate to a photograph very clearly. Not everyone relates to maps initially. So if we're showing a map of the Eastern Railroad in the middle of the 19th century, it's good to have an image of a steam train.
 
 It's even better to have a schedule that somebody would have held while riding that train. You can engage with the picture and then you show them the map in the schedule. So what I did in my book, and we're going to try to do in the exhibit, though the exhibit is cartographic heavy, is to allow these complementary artifacts to all feed on each other.
 
