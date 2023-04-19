@@ -38,13 +38,13 @@ We'd go upstairs on Causeway Street and get on the Green Line. And no matter wha
 
 So I still remember all those, and even to this day, whenever I'm traveling in the world, I'm always looking for maps like that that show me cartographic ghosts, where there's a piece of history that's still represented, and you're just waiting for the next map to cover it up. That is forever ingrained in me as something that engaged me.
 
-{{< figure src="https://collections.lib.uwm.edu/digital/iiif/agdm/6088/full/,1200/0/default.jpg" caption="A [tourist map of Paris](https://collections.lib.uwm.edu/digital/collection/agdm/id/6088/) from the American Geographical Society collections" class="figure-right" >}}
+{{< figure src="https://collections.lib.uwm.edu/digital/iiif/agdm/6088/full/,1200/0/default.jpg" caption="_A_ [_tourist map of Paris_](https://collections.lib.uwm.edu/digital/collection/agdm/id/6088/) _from the American Geographical Society collections._" class="figure-right" >}}
 
 **There's a huge overlap between people who love cities and people who love transportation and people who love maps. Why do you think that those categories so often overlap with one another?**
 
-There's a few reasons. One is there's a functional level. In order to navigate complex urban environments, you need tools and devices.So you start to use maps and you become familiar with them. Ideally, you come to like them—out of necessity. But also you might like one map over another because it's prettier, or this one's easier to read.
+There's a few reasons. One is there's a functional level. In order to navigate complex urban environments, you need tools and devices. So you start to use maps and you become familiar with them. Ideally, you come to like them—out of necessity. But also you might like one map over another because it's prettier, or easier to read.
 
-And then there's sort of a tourist aspect. If you go to another urban environment, you got to know it, and you took back a memory of it. It could be a postcard, but it could also be the transit map. So you went to Paris, you rode the Metro, you took a transit map back.
+And then there's sort of a tourist aspect. If you go to another urban environment, you got to know it, and you take back a memory of it. It could be a postcard, but it could also be the transit map. So, for example, you went to Paris, you rode the Metro, you took a transit map back.
 
 Our memories of urbanity and cartography, for many people, are closely intertwined for functional and memorial reasons.
 
