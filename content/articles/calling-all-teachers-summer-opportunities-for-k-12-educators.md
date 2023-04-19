@@ -1,5 +1,5 @@
 ---
-date: 2023-04-14T13:33:02+00:00
+date: 2023-04-07T13:33:02+00:00
 title: 'Calling all Teachers! Summer Opportunities for K-12 Educators '
 description: Learn more about our summer professional development programs for K-12
   educators
