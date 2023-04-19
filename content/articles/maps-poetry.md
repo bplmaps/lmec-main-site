@@ -38,7 +38,7 @@ Not only does it contain a unique poem wrapping around the border of the map (_"
 
 Here’s one for our friends up at the [Osher Map Library](https://oshermaps.org/) in Portland, Maine. _“Often I think of the beautiful town / that is seated by the sea...”_ This stanza about a town by the sea {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:c534j573w/3792,2832,679,654/full/0/default.jpg" bib-src="" target="blank" >}} appears on{{</popup>}}  a [1928 map of Portland, Maine](https://collections.leventhalmap.org/search/commonwealth:p841c3807). The line is from the poem [_My Lost Youth_](https://www.poetryfoundation.org/poems/44640/my-lost-youth) by Henry Wadsworth Longfellow, who spent his childhood in Portland – he was born there in 1807, when it was still a part of Massachusetts!
 
-**Cape Cod, Massachusetts**
+#### Cape Cod, Massachusetts
 
 Finally, as we look toward summer weather and weekend beach days, here’s an {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343z22s/467,4004,1041,552/full/0/default.jpg" bib-src="" target="blank" >}} original poem{{</popup>}}  featured on [this delightful 1940 pictorial map](https://collections.leventhalmap.org/search/commonwealth:jh343z21h) of Cape Cod. It’s presumably written by the creator of the map, illustrator Paul Paige of East Brewster, and reads:
 
@@ -47,6 +47,6 @@ Finally, as we look toward summer weather and weekend beach days, here’s an {{
 > _Or you can send it to a friend, that they perhaps may see,_  
 > _Why people love good old Cape Cod, and go there constantly._
 
-**Do you have a poem that is about maps, geography, or your favorite place? Tweet us at @bplmaps and we’ll feature it sometime in April for National Poetry Month!**
+**Do you have a poem that is about maps, geography, or your favorite place? Tweet us at @bplmaps!**
 
 P.S. See more "Poems as Maps" in _Places Journal_ [here](https://placesjournal.org/series/poems-as-maps/).
