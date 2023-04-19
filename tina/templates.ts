@@ -4,7 +4,11 @@ export function article_postFields() {
     {
       type: "boolean",
       name: "draft",
-      label: "Draft Status"
+      label: "Draft Status",
+      toggleLabels: {
+        true: 'On',
+        false: 'Off',
+      },
     },
     {
       type: "string",
@@ -17,6 +21,9 @@ export function article_postFields() {
       name: "date",
       label: "Publish Date",
       required: true,
+      ui: {
+        timeFormat: "HH:mm"
+      },
     },
     {
       type: "string",
@@ -50,6 +57,7 @@ export function article_postFields() {
       type: "string",
       name: "tags",
       label: "Tags",
+      description: "To see other article tags, visit: https://www.leventhalmap.org/tags/",
       list: true,
       ui: {
         component: "tags",
@@ -105,6 +113,15 @@ export function digital_projectFields() {
 export function event_listingFields() {
   return [
     {
+      type: "boolean",
+      name: "draft",
+      label: "Draft Status",
+      toggleLabels: {
+        true: 'On',
+        false: 'Off',
+      },
+    },
+    {
       type: "string",
       name: "title",
       label: "Title",
@@ -112,19 +129,20 @@ export function event_listingFields() {
     {
       type: "datetime",
       name: "date",
-      label: "date",
+      label: "Event Date",
       required: true,
-    },
-    {
-      type: "boolean",
-      name: "draft",
-      label: "Draft Status"
+      ui: {
+        timeFormat: 'HH:mm'
+      }
     },
     {
       type: "datetime",
       name: "publishDate",
-      label: "publishDate",
+      label: "Publish Date",
       required: true,
+      ui: {
+        timeFormat: 'HH:mm'
+      }
     },
     {
       type: "string",
@@ -166,324 +184,385 @@ export function event_listingFields() {
         component: "tags",
       },
     },
+    {
+      type: "rich-text",
+      name: "body",
+      label: "Event Description",
+      isBody: true,
+    },
   ] as TinaField[];
 }
 export function homepage_configFields() {
   return [
     {
-      type: "object",
-      name: "slider",
-      label: "Top Hero Slider",
-      fields: [
-        {
-          type: "boolean",
-          name: "enable",
-          label: "Enable Hero Slider?",
+    type: "object",
+    name: "slider",
+    label: "Top Hero Slider",
+    fields: [
+      {
+        type: "boolean",
+        name: "enable",
+        label: "Enable Hero Slider?",
+        toggleLabels: {
+          true: 'Yes',
+          false: 'No',
         },
-        {
-          type: "image",
-          name: "bg_images",
-          label: "Background Images",
-          list: true,
-        },
-        {
-          type: "object",
-          name: "slider_item",
-          label: "Slider Headline Text",
-          list: true,
-          fields: [
-            {
-              type: "string",
-              name: "title",
-              label: "Headline",
+      },
+      {
+        type: "image",
+        name: "bg_images",
+        label: "Background Images",
+        list: true,
+      },
+      {
+        type: "object",
+        name: "slider_item",
+        label: "Slider Headline Text",
+        list: true,
+        ui: {
+          itemProps: (item) => {
+            // Field values are accessed by title?.<Field name>
+              return { label: item?.title };
             },
-            {
-              type: "string",
-              name: "content",
-              label: "content",
-              ui: {
-                component: "textarea",
+        }, 
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Headline",
+          },
+          {
+            type: "string",
+            name: "content",
+            label: "content",
+            ui: {
+              component: "textarea",
+            },
+          },
+          {
+            type: "string",
+            name: "animation_in",
+            label: "animation_in",
+          },
+          {
+            type: "string",
+            name: "animation_out",
+            label: "animation_out",
+          },
+          {
+            type: "object",
+            name: "button",
+            label: "Button Options",
+            fields: [
+              {
+                type: "boolean",
+                name: "enable",
+                label: "enable",
               },
-            },
-            {
-              type: "string",
-              name: "animation_in",
-              label: "animation_in",
-            },
-            {
-              type: "string",
-              name: "animation_out",
-              label: "animation_out",
-            },
-            {
-              type: "object",
-              name: "button",
-              label: "button",
-              fields: [
-                {
-                  type: "boolean",
-                  name: "enable",
-                  label: "enable",
-                },
-                {
-                  type: "string",
-                  name: "label",
-                  label: "label",
-                },
-                {
-                  type: "string",
-                  name: "link",
-                  label: "link",
-                },
-              ],
-            },
-          ],
-        },
-      ],
-    },
-    {
-      type: "object",
-      name: "cta",
-      label: "What's New Section",
-      fields: [
-        {
-          type: "boolean",
-          name: "enable",
-          label: "enable",
-        },
-        {
-          type: "object",
-          name: "announcements",
-          label: "announcements",
-          list: true,
-          fields: [
-            {
-              type: "string",
-              name: "badge",
-              label: "badge",
-            },
-            {
-              type: "string",
-              name: "text",
-              label: "text",
-            },
-            {
-              type: "string",
-              name: "link",
-              label: "link",
-            },
-          ],
-        },
-      ],
-    },
-    {
-      type: "object",
-      name: "audiences",
-      label: "Audience Callouts",
-      fields: [
-        {
-          type: "boolean",
-          name: "enable",
-          label: "enable",
-        },
-        {
-          type: "object",
-          name: "audienceGroups",
-          label: "audienceGroups",
-          list: true,
-          fields: [
-            {
-              type: "string",
-              name: "name",
-              label: "name",
-            },
-            {
-              type: "string",
-              name: "description",
-              label: "description",
-            },
-            {
-              type: "string",
-              name: "color",
-              label: "color",
-            },
-            {
-              type: "object",
-              name: "links",
-              label: "links",
-              list: true,
-              fields: [
-                {
-                  type: "string",
-                  name: "title",
-                  label: "title",
-                },
-                {
-                  type: "string",
-                  name: "link",
-                  label: "link",
-                },
-              ],
-            },
-          ],
-        },
-      ],
-    },
-    {
-      type: "object",
-      name: "frontpageFeature",
-      label: "frontpageFeature",
-      fields: [
-        {
-          type: "boolean",
-          name: "enable",
-          label: "enable",
-        },
-        {
-          type: "image",
-          name: "bg_image",
-          label: "bg_image",
-        },
-        {
-          type: "string",
-          name: "title",
-          label: "title",
-        },
-        {
-          type: "string",
-          name: "content",
-          label: "content",
-          ui: {
-            component: "textarea",
+              {
+                type: "string",
+                name: "label",
+                label: "label",
+              },
+              {
+                type: "string",
+                name: "link",
+                label: "link",
+              },
+            ],
           },
+        ],
+      },
+    ],
+  },
+  {
+    type: "object",
+    name: "cta",
+    label: "What's New Section",
+    fields: [
+      {
+        type: "boolean",
+        name: "enable",
+        label: "enable",
+        toggleLabels: {
+          true: 'Yes',
+          false: 'No',
         },
-        {
-          type: "object",
-          name: "button",
-          label: "button",
-          fields: [
-            {
-              type: "boolean",
-              name: "enable",
-              label: "enable",
-            },
-            {
-              type: "string",
-              name: "label",
-              label: "label",
-            },
-            {
-              type: "string",
-              name: "link",
-              label: "link",
-            },
-          ],
-        },
-      ],
-    },
-    {
-      type: "object",
-      name: "event",
-      label: "event",
-      fields: [
-        {
-          type: "boolean",
-          name: "enable",
-          label: "enable",
-        },
-        {
-          type: "string",
-          name: "title",
-          label: "title",
-        },
-      ],
-    },
-    {
-      type: "object",
-      name: "funfacts",
-      label: "funfacts",
-      fields: [
-        {
-          type: "boolean",
-          name: "enable",
-          label: "enable",
-        },
-        {
-          type: "object",
-          name: "funfact_item",
-          label: "funfact_item",
-          list: true,
-          fields: [
-            {
-              type: "string",
-              name: "name",
-              label: "name",
-            },
-            {
-              type: "string",
-              name: "count",
-              label: "count",
-            },
-          ],
-        },
-      ],
-    },
-    {
-      type: "object",
-      name: "blog",
-      label: "blog",
-      fields: [
-        {
-          type: "boolean",
-          name: "enable",
-          label: "enable",
-        },
-        {
-          type: "string",
-          name: "title",
-          label: "title",
-        },
-      ],
-    },
-    {
-      type: "boolean",
-      name: "todaysHours",
-      label: "Show Today's Hours",
-    },
-    {
-      type: "object",
-      name: "upcomingLivestream",
-      label: "upcomingLivestream",
-      fields: [
-        {
-          type: "boolean",
-          name: "enable",
-          label: "enable",
-        },
-        {
-          type: "string",
-          name: "embedLink",
-          label: "embedLink",
-          ui: {
-            component: "textarea",
+      },
+      {
+        type: "object",
+        name: "announcements",
+        label: "announcements",
+        list: true,
+        ui: {
+          itemProps: (item) => {
+            // Field values are accessed by title?.<Field name>
+            return { label:  item?.badge + " | " + item?.text };
           },
+        }, 
+        fields: [
+          {
+            type: "string",
+            name: "badge",
+            label: "badge",
+          },
+          {
+            type: "string",
+            name: "text",
+            label: "text",
+          },
+          {
+            type: "string",
+            name: "link",
+            label: "link",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    type: "object",
+    name: "audiences",
+    label: "Audience Callouts",
+    fields: [
+      {
+        type: "boolean",
+        name: "enable",
+        label: "enable",
+        toggleLabels: {
+          true: 'Yes',
+          false: 'No',
         },
-        {
-          type: "datetime",
-          name: "startTime",
-          label: "startTime",
+      },
+      {
+        type: "object",
+        name: "audienceGroups",
+        label: "audienceGroups",
+        list: true,
+        fields: [
+          {
+            type: "string",
+            name: "name",
+            label: "name",
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "description",
+          },
+          {
+            type: "string",
+            name: "color",
+            label: "color",
+          },
+          {
+            type: "object",
+            name: "links",
+            label: "links",
+            list: true,
+            fields: [
+              {
+                type: "string",
+                name: "title",
+                label: "title",
+              },
+              {
+                type: "string",
+                name: "link",
+                label: "link",
+              },
+            ],
+          },
+        ],
+      },
+    ],
+  },
+  {
+    type: "object",
+    name: "frontpageFeature",
+    label: "frontpageFeature",
+    fields: [
+      {
+        type: "boolean",
+        name: "enable",
+        label: "enable",
+        toggleLabels: {
+          true: 'Yes',
+          false: 'No',
         },
-        {
-          type: "datetime",
-          name: "endTime",
-          label: "endTime",
+      },
+      {
+        type: "image",
+        name: "bg_image",
+        label: "bg_image",
+      },
+      {
+        type: "string",
+        name: "title",
+        label: "title",
+      },
+      {
+        type: "string",
+        name: "content",
+        label: "content",
+        ui: {
+          component: "textarea",
         },
-      ],
+      },
+      {
+        type: "object",
+        name: "button",
+        label: "button",
+        fields: [
+          {
+            type: "boolean",
+            name: "enable",
+            label: "enable",
+          },
+          {
+            type: "string",
+            name: "label",
+            label: "label",
+          },
+          {
+            type: "string",
+            name: "link",
+            label: "link",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    type: "object",
+    name: "event",
+    label: "event",
+    fields: [
+      {
+        type: "boolean",
+        name: "enable",
+        label: "enable",
+        toggleLabels: {
+          true: 'Yes',
+          false: 'No',
+        },
+      },
+      {
+        type: "string",
+        name: "title",
+        label: "title",
+      },
+    ],
+  },
+  {
+    type: "object",
+    name: "funfacts",
+    label: "funfacts",
+    fields: [
+      {
+        type: "boolean",
+        name: "enable",
+        label: "enable",
+      },
+      {
+        type: "object",
+        name: "funfact_item",
+        label: "funfact_item",
+        list: true,
+        fields: [
+          {
+            type: "string",
+            name: "name",
+            label: "name",
+          },
+          {
+            type: "string",
+            name: "count",
+            label: "count",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    type: "object",
+    name: "blog",
+    label: "blog",
+    fields: [
+      {
+        type: "boolean",
+        name: "enable",
+        label: "enable",
+      },
+      {
+        type: "string",
+        name: "title",
+        label: "title",
+      },
+    ],
+  },
+  {
+    type: "boolean",
+    name: "todaysHours",
+    label: "Show Today's Hours",
+    toggleLabels: {
+      true: 'Yes',
+      false: 'No',
     },
-  ] as TinaField[];
+  },
+  {
+    type: "object",
+    name: "upcomingLivestream",
+    label: "upcomingLivestream",
+    fields: [
+      {
+        type: "boolean",
+        name: "enable",
+        label: "enable",
+        toggleLabels: {
+          true: 'On',
+          false: 'Off',
+        },
+      },
+      {
+        type: "string",
+        name: "embedLink",
+        label: "embedLink",
+        ui: {
+          component: "textarea",
+        },
+      },
+      {
+        type: "datetime",
+        name: "startTime",
+        label: "startTime",
+        ui: {
+          timeFormat: "HH:mm"
+        },
+      },
+      {
+        type: "datetime",
+        name: "endTime",
+        label: "endTime",
+        ui: {
+          timeFormat: "HH:mm"
+        },
+      },
+    ],
+  }
+] as TinaField[];
 }
 export function newsletterFields() {
   return [
+    {
+      type: "boolean",
+      name: "draft",
+      label: "Draft Status",
+      toggleLabels: {
+        true: 'On',
+        false: 'Off',
+      },
+    },
     {
       type: "datetime",
       name: "newsletter_publication_date",
@@ -624,7 +703,11 @@ export function standard_pageFields() {
     {
       type: "boolean",
       name: "draft",
-      label: "Draft Status"
+      label: "Draft Status",
+      toggleLabels: {
+        true: 'On',
+        false: 'Off',
+      },
     },
     {
       type: "image",
@@ -689,3 +772,4 @@ export function store_productFields() {
     },
   ] as TinaField[];
 }
+
