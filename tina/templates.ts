@@ -15,6 +15,7 @@ export function article_postFields() {
       name: "title",
       label: "Title",
       required: true,
+      isTitle: true,
     },
     {
       type: "datetime",
@@ -63,6 +64,48 @@ export function article_postFields() {
         component: "tags",
       },
     },
+    {
+      type: "rich-text",
+      name: "body",
+      label: "Article Text",
+      isBody: true,
+      templates: [
+        {
+          name: 'figure',
+          label: 'Single Image',
+          match: {
+            start: '{{<',
+            end: '>}}',
+          },
+          fields: [
+            {
+              name: 'src',
+              label: 'Image URL',
+              type: 'string',
+              required: true,
+            },
+            {
+              name: 'caption',
+              label: 'Caption',
+              type: 'string',
+            },
+            {
+              name: 'class',
+              label: 'Image Orientation',
+              type: 'string',
+              options: [
+                { label: "Figure Left", value: "figure-left" },
+                { label: "Figure Right", value: "figure-right" },
+                { label: "Full Width", value: "" },
+              ],
+              ui: {
+                defaultValue: "",
+              }
+            },
+          ],
+        },
+      ]
+    }
   ] as TinaField[];
 }
 export function digital_projectFields() {
@@ -108,6 +151,13 @@ export function digital_projectFields() {
       name: "weight",
       label: "weight",
     },
+    {
+      type: "rich-text",
+      name: "body",
+      label: "Body of Document",
+      description: "This is the markdown body",
+      isBody: true,
+    },
   ] as TinaField[];
 }
 export function event_listingFields() {
@@ -125,20 +175,13 @@ export function event_listingFields() {
       type: "string",
       name: "title",
       label: "Title",
+      isTitle: true,
+      required: true,
     },
     {
       type: "datetime",
       name: "date",
-      label: "Event Date",
-      required: true,
-      ui: {
-        timeFormat: 'HH:mm'
-      }
-    },
-    {
-      type: "datetime",
-      name: "publishDate",
-      label: "Publish Date",
+      label: "Event Date & Time",
       required: true,
       ui: {
         timeFormat: 'HH:mm'
@@ -148,17 +191,11 @@ export function event_listingFields() {
       type: "string",
       name: "image",
       label: "Image",
-      ui: {
-        component: "textarea",
-      },
     },
     {
       type: "string",
       name: "backgroundImage",
       label: "Background image",
-      ui: {
-        component: "textarea",
-      },
     },
     {
       type: "string",
@@ -189,6 +226,26 @@ export function event_listingFields() {
       name: "body",
       label: "Event Description",
       isBody: true,
+      templates: [
+        {
+          name: 'alert_box',
+          nameOverride: "alert-box",
+          label: 'Alert Box',
+          match: {
+            start: '{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}',
+            end: '{{< /alert-box >}} ',
+          },
+          fields: [
+            {
+              name: 'content',
+              label: 'Label Content',
+              type: 'string',
+              required: true,
+              isBody: true,
+            },
+          ],
+        },
+      ]
     },
   ] as TinaField[];
 }
@@ -339,6 +396,11 @@ export function homepage_configFields() {
         name: "audienceGroups",
         label: "audienceGroups",
         list: true,
+        ui: {
+          itemProps: (item) => {
+              return { label: item?.name };
+          },
+        },
         fields: [
           {
             type: "string",
@@ -380,7 +442,7 @@ export function homepage_configFields() {
   {
     type: "object",
     name: "frontpageFeature",
-    label: "frontpageFeature",
+    label: "Frontpage Feature",
     fields: [
       {
         type: "boolean",
@@ -412,7 +474,7 @@ export function homepage_configFields() {
       {
         type: "object",
         name: "button",
-        label: "button",
+        label: "Button Customization",
         fields: [
           {
             type: "boolean",
@@ -436,7 +498,7 @@ export function homepage_configFields() {
   {
     type: "object",
     name: "event",
-    label: "event",
+    label: "Event Listings",
     fields: [
       {
         type: "boolean",
@@ -457,7 +519,7 @@ export function homepage_configFields() {
   {
     type: "object",
     name: "funfacts",
-    label: "funfacts",
+    label: "Fun Facts",
     fields: [
       {
         type: "boolean",
@@ -469,6 +531,11 @@ export function homepage_configFields() {
         name: "funfact_item",
         label: "funfact_item",
         list: true,
+        ui: {
+          itemProps: (item) => {
+              return { label: item?.name };
+          },
+        },
         fields: [
           {
             type: "string",
@@ -487,7 +554,7 @@ export function homepage_configFields() {
   {
     type: "object",
     name: "blog",
-    label: "blog",
+    label: "Blog Feature",
     fields: [
       {
         type: "boolean",
@@ -601,6 +668,11 @@ export function newsletterFields() {
       name: "content_block",
       label: "Content Block",
       list: true,
+      ui: {
+        itemProps: (item) => {
+            return { label: item?.content_block_header };
+        },
+      },
       fields: [
         {
           type: "string",
@@ -657,6 +729,13 @@ export function person_entryFields() {
       label: "headshot",
     },
     {
+      type: "rich-text",
+      name: "body",
+      label: "Body of Document",
+      description: "This is the markdown body",
+      isBody: true,
+    },
+    {
       type: "string",
       name: "type",
       label: "type",
@@ -696,11 +775,6 @@ export function person_entryFields() {
 export function standard_pageFields() {
   return [
     {
-      type: "string",
-      name: "title",
-      label: "title",
-    },
-    {
       type: "boolean",
       name: "draft",
       label: "Draft Status",
@@ -708,6 +782,13 @@ export function standard_pageFields() {
         true: 'On',
         false: 'Off',
       },
+    },
+    {
+      type: "string",
+      name: "title",
+      label: "title",
+      isTitle: true,
+      required: true,
     },
     {
       type: "image",
@@ -723,6 +804,13 @@ export function standard_pageFields() {
       type: "string",
       name: "weight",
       label: "weight",
+    },
+    {
+      type: "rich-text",
+      name: "body",
+      label: "Body of Document",
+      description: "This is the markdown body",
+      isBody: true,
     },
   ] as TinaField[];
 }
@@ -769,6 +857,13 @@ export function store_productFields() {
           label: "Price description",
         },
       ],
+    },
+    {
+      type: "rich-text",
+      name: "body",
+      label: "Body of Document",
+      description: "This is the markdown body",
+      isBody: true,
     },
   ] as TinaField[];
 }

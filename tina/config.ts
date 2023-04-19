@@ -141,12 +141,6 @@ export default defineConfig({
         },
         fields: [
           ...article_postFields(),
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Article Text",
-            isBody: true,
-          }
         ]
       },
       {
@@ -182,13 +176,6 @@ export default defineConfig({
           include: "**/*",
         },
         fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
           ...standard_pageFields(),
         ],
       },
@@ -201,13 +188,7 @@ export default defineConfig({
           include: "**/*",
         },
         fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
+          ...standard_pageFields(),
         ],
       },
       {
@@ -219,13 +200,7 @@ export default defineConfig({
           include: "**/*",
         },
         fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
+          ...standard_pageFields(),
         ],
       },
       {
@@ -237,13 +212,6 @@ export default defineConfig({
           include: "**/*",
         },
         fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
           ...digital_projectFields(),
         ],
       },
@@ -256,13 +224,6 @@ export default defineConfig({
           include: "**/*",
         },
         fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
           ...standard_pageFields(),
         ],
       },
@@ -275,14 +236,7 @@ export default defineConfig({
           include: '*',
         },
         fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          // ...person_entryFields(),
+          ...standard_pageFields(),
         ],
       },
       {
@@ -294,13 +248,6 @@ export default defineConfig({
           include: '*',
         },
         fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
           ...person_entryFields(),
         ],
       },
@@ -313,13 +260,6 @@ export default defineConfig({
           include: "**/*",
         },
         fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
           ...store_productFields(),
         ],
       },
@@ -332,13 +272,7 @@ export default defineConfig({
           include: "**/*",
         },
         fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
+          ...standard_pageFields(),
         ],
       },
       {
@@ -350,13 +284,7 @@ export default defineConfig({
           include: "*",
         },
         fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
+          ...standard_pageFields(),
         ],
       },
     ],
