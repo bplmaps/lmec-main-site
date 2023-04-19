@@ -37,13 +37,13 @@ I get to deal with trains, maps, the city, the T, all these things that are impo
 
 The first year or two that I would take the commuter rail in, I was in Boy Scouts, and I'd go with one of the older boys because I was too young. My mom would drive me to the train station in Lowell. We'd gointo the city and walk around, and I remember we'd get off at North Station.
 
-{{\< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:bc389037q/1734,1433,1603,567/,1200/0/default.jpg" caption="A detail of the North Station area from a [1977 MBTA map](https://collections.leventhalmap.org/search/commonwealth:xs55pv17h)" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:bc389037q/1734,1433,1603,567/,1200/0/default.jpg" caption="A detail of the North Station area from a [1977 MBTA map](https://collections.leventhalmap.org/search/commonwealth:xs55pv17h)" >}}
 
 We'd go upstairs on Causeway Street and get on the Green Line. And no matter what station we went to, there was always a map that was out of date. And I didn't know they were out of date. I just thought they were wrong. I was like, *what's this station in Charlestown that doesn't exist?* *What's this little line that used to go here?* As a teenager, my mind was totally engaged with a map that was erroneous but also still there. Now I know the history of why those physical artifacts were there, but also what they represent, what those lines were, which is an amazing history.
 
 So I still remember all those, and even to this day, whenever I'm traveling in the world, I'm always looking for maps like that that show me cartographic ghosts, where there's a piece of history that's still represented, and you're just waiting for the next map to cover it up. That is forever ingrained in me as something that engaged me.
 
-{{\< figure src="https://collections.lib.uwm.edu/digital/iiif/agdm/6088/full/,1200/0/default.jpg" caption="A [tourist map of Paris](https://collections.lib.uwm.edu/digital/collection/agdm/id/6088/) from the American Geographical Society collections" class="figure-right" >}}
+{{< figure src="https://collections.lib.uwm.edu/digital/iiif/agdm/6088/full/,1200/0/default.jpg" caption="A [tourist map of Paris](https://collections.lib.uwm.edu/digital/collection/agdm/id/6088/) from the American Geographical Society collections" class="figure-right" >}}
 
 **There's a huge overlap between people who love cities and people who love transportation and people who love maps. Why do you think that those categories so often overlap with one another?**
 
@@ -55,7 +55,7 @@ Our memories of urbanity and cartography, for many people, are closely intertwin
 
 **What are some of the things that you think people will learn when they visit the exhibition, beyond the general observation that transportation has changed over time, technologies have changed, and the city has grown? When people look at these maps and they use the maps as a way into questions about changing transportation networks in Boston, what are some insights that will come out of that?**
 
-{{\< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rb690w37b/full/,1200/0/default.jpg" class="figure-left" caption="A [1907 trolley map](https://collections.leventhalmap.org/search/commonwealth:gx41q249c) showing routes in the Greater Boston region" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rb690w37b/full/,1200/0/default.jpg" class="figure-left" caption="A [1907 trolley map](https://collections.leventhalmap.org/search/commonwealth:gx41q249c) showing routes in the Greater Boston region" >}}
 
 I was thinking about this on the train here. In my mind there are three reasons for putting up the exhibition.
 
@@ -67,19 +67,19 @@ But also, there's a lot of beauty in the cartography that we're representing, wh
 
 I also want people to know what we *had*, so we can know what we're missing. So, as we think about the future,we can be like, *it might be a good idea to have a train to go between North and South Station*. We actually used to have that train.
 
-{{\< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m2135/4692,6003,3085,1148/,1200/0/default.jpg" caption="Detail showing the elevated railway line that once ran from North to South Stations, from an [1899 system map](https://collections.leventhalmap.org/search/commonwealth:cj82m212w)" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m2135/4692,6003,3085,1148/,1200/0/default.jpg" caption="Detail showing the elevated railway line that once ran from North to South Stations, from an [1899 system map](https://collections.leventhalmap.org/search/commonwealth:cj82m212w)" >}}
 
 **When you think about a map of Boston, can you give some anecdotes of interesting and odd pieces of transit infrastructure that might still be in the landscape today but which people might not think about as often as the famous sites like Park Street or Government Center? What are some hidden parts of Boston that interest you, and that you think people might notice in this exhibition?**
 
 I think you're going to see a large quantity of expired lines, extinct lines, extinct routes. So many of those things have been erased or covered. And even since I have grown up, in the last decades, so many of those little moments are becoming harder and harder to find. I think what is interesting to see is how these maps will reveal a lot of places where there used to be a piece of transit infrastructure but now it's been overlaid with a newer piece of infrastructure.
 
-{{\< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj64q/4692,6003,3085,1148/,1200/0/default.jpg" caption="The Boston, Revere Beach, and Lynn railroad is marked as a "narrow gauge" route on this [tourist map from the 1890s](https://collections.leventhalmap.org/search/commonwealth:wd376689p)" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj64q/4692,6003,3085,1148/,1200/0/default.jpg" caption="The Boston, Revere Beach, and Lynn railroad is marked as a "narrow gauge" route on this [tourist map from the 1890s](https://collections.leventhalmap.org/search/commonwealth:wd376689p)" class="figure-right" >}}
 
 For instance, let's take the Blue Line running through Revere and East Boston. A lot of that runs on the old route of a narrow gauge steam line, the Boston, Revere Beach, and Lynn Railroad. There are little bits and pieces all around. There's a few stones left from the Haymarket Incline. If you go in the Bulfinch Triangle neighborhood, there's a few pieces of granite left where streetcars and elevated railway cars used to go up in the air above Causeway Street. We just took down one of the last little bits of elevated railroad over by Lechmere. The East Cambridge viaduct has been restored, so now you can ride over something that was built in 1912.
 
 You go through Newton, there are train stations that used to be part of our commuter rail, suburban commuter rail network way before the T. A lot of those are now private businesses. There are whole areas of the city that used to be dedicated to passenger and commuter rail service. We're next door to the Prudential Center: that used to be the Boston and Albany coach yard for all the passenger train coaches.
 
-{{\< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bp129/159,240,7797,2897/,1200/0/default.jpg" caption="The Boston and Albany yards just west of Copley Square can be seen in this [1902 urban atlas](https://atlascope.org/#/view:share$mode:glass$center:-71.08247,42.34748$zoom:17.67$base:maptiler-streets$overlay:ark:/76611/al7rtfm98)" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bp129/159,240,7797,2897/,1200/0/default.jpg" caption="The Boston and Albany yards just west of Copley Square can be seen in this [1902 urban atlas](https://atlascope.org/#/view:share$mode:glass$center:-71.08247,42.34748$zoom:17.67$base:maptiler-streets$overlay:ark:/76611/al7rtfm98)" >}}
 
 Maps are a great way to reveal these layers that may be there for their historic uses. You can tie that into the [*Building Blocks* exhibit](https://www.leventhalmap.org/digital-exhibitions/building-blocks/) that is up right now.
 
@@ -109,7 +109,7 @@ Visually compelling is probably going to be either the plan of South Station, wh
 
 A second choice for me, but it's more of a technical thing that I'm technically fascinated by and want people to really check out, is the System Route Map No. 1 by the Boston Elevated Railway Company in 1936. It's a two-page cartographic masterpiece of navigational lucidity that folded into your pocket and has more informationthan most phone apps do today.
 
-{{\< figure src="https://archive.org/download/346211602-e-1fae-9b-160-o-d/346211602\_e1fae9b160\_o\_d.jpg" caption="The 1945 [Metropolitan Transit Recess Commission map](https://archive.org/details/346211602-e-1fae-9b-160-o-d), from Internet Archive" >}}
+{{< figure src="https://archive.org/download/346211602-e-1fae-9b-160-o-d/346211602\_e1fae9b160\_o\_d.jpg" caption="The 1945 [Metropolitan Transit Recess Commission map](https://archive.org/details/346211602-e-1fae-9b-160-o-d), from Internet Archive" >}}
 
 For an oddball? Okay, this could be a winner for both oddball and most visually engaging. There's a 1945 map by the Metropolitan Transit Recess Commission. It looks like a big spider of all these existing and proposed rapid transit lines coming out of downtown Boston. As you look at it and zoom in, existing and proposed stations are drawn in little 3D cartoons. Tunnels and station platforms are drawn. This map, from 1945, right before the MTA takes over, planned lines that we are still thinking of today. It does show the Green Line going out, like kind of the route of the GLX, so we did build some of that, but there's lines in here that go out to Reading, to Needham. Those are things that are still dreams.
 
