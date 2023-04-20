@@ -41,7 +41,7 @@ We'd go upstairs on Causeway Street and get on the Green Line. And no matter wha
 
 So I still remember all those, and even to this day, whenever I'm traveling in the world, I'm always looking for maps like that that show me cartographic ghosts, where there's a piece of history that's still represented, and you're just waiting for the next map to cover it up. That is forever ingrained in me as something that engaged me.
 
-{{< figure src="https://collections.lib.uwm.edu/digital/iiif/agdm/6088/full/,1200/0/default.jpg" caption="A [_tourist map of Paris_](https://collections.lib.uwm.edu/digital/collection/agdm/id/6088/) from the American Geographical Society collections." class="figure-right" >}}
+{{< figure src="https://collections.lib.uwm.edu/digital/iiif/agdm/6088/full/,1200/0/default.jpg" caption="A [tourist map of Paris](https://collections.lib.uwm.edu/digital/collection/agdm/id/6088/) from the American Geographical Society collections." class="figure-right" >}}
 
 **There's a huge overlap between people who love cities and people who love transportation and people who love maps. Why do you think that those categories so often overlap with one another?**
 
