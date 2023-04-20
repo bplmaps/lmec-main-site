@@ -107,7 +107,7 @@ Visually compelling is probably going to be either the plan of South Station, wh
 
 A second choice for me, but it's more of a technical thing that I'm technically fascinated by and want people to really check out, is the System Route Map No. 1 by the Boston Elevated Railway Company in 1936. It's a two-page cartographic masterpiece of navigational lucidity that folded into your pocket and has more information than most phone apps do today.
 
-{{< figure src="https://archive.org/download/346211602-e-1fae-9b-160-o-d/346211602_e1fae9b160_o_d.jpg" caption="_The 1945_ [_Metropolitan Transit Recess Commission map_](https://archive.org/details/346211602-e-1fae-9b-160-o-d)_, from Internet Archive_." >}}
+{{< figure src="https://archive.org/download/346211602-e-1fae-9b-160-o-d/346211602_e1fae9b160_o_d.jpg" caption="The 1945 [_Metropolitan Transit Recess Commission map_](https://archive.org/details/346211602-e-1fae-9b-160-o-d), from Internet Archive." >}}
 
 For an oddball? Okay, this could be a winner for both oddball and most visually engaging. There's a 1945 map by the Metropolitan Transit Recess Commission. It looks like a big spider of all these existing and proposed rapid transit lines coming out of downtown Boston. As you look at it and zoom in, existing and proposed stations are drawn in little 3D cartoons. Tunnels and station platforms are drawn. This map, from 1945, right before the MTA takes over, planned lines that we are still thinking of today. It does show the Green Line going out, like kind of the route of the GLX, so we did build some of that, but there's lines in here that go out to Reading, to Needham. Those are things that are still dreams.
 
