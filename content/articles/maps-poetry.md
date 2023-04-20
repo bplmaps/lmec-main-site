@@ -1,6 +1,6 @@
 ---
-date: 2023-04-20T11:45:10+00:00
-title: '"A world not of this world": Poems as Maps'
+date: 2023-04-20T11:45:10.000+00:00
+title: '"A World Not of This World:" Poems as Maps'
 description: To celebrate April as National Poetry Month, here are some poems hidden
   on maps in our collections.
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463827t/180,159,6739,2819/1200,/0/default.jpg
