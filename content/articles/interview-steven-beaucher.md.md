@@ -53,7 +53,7 @@ Our memories of urbanity and cartography, for many people, are closely intertwin
 
 **What are some of the things that you think people will learn when they visit the exhibition, beyond the general observation that transportation has changed over time, technologies have changed, and the city has grown? When people look at these maps and they use the maps as a way into questions about changing transportation networks in Boston, what are some insights that will come out of that?**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rb690w37b/full/,1200/0/default.jpg" class="figure-left" caption="A [_1907 trolley map_](https://collections.leventhalmap.org/search/commonwealth:gx41q249c) showing routes in the Greater Boston region." >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rb690w37b/full/,1200/0/default.jpg" class="figure-left" caption="A [1907 trolley map](https://collections.leventhalmap.org/search/commonwealth:gx41q249c) showing routes in the Greater Boston region." >}}
 
 I was thinking about this on the train here. In my mind there are three reasons for putting up the exhibition.
 
