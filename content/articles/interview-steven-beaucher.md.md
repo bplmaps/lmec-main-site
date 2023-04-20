@@ -1,18 +1,21 @@
 ---
 title: 'Transiting Through History: An Interview with Steven Beaucher'
-date: 2023-04-26T04:00:00.000+00:00
+date: 2023-04-26T04:00:00.000Z
 author: Garrett Dash Nelson and Steven Beaucher
-description: Take a sneak peek at our upcoming exhibition on transit mapping through
-  an interview with our guest curator
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4f16fk66t/473,2361,4474,1822/,1200/0/default.jpg
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4f16fk66t/473,2361,4474,1822/,1200/0/default.jpg
+description: >-
+  Take a sneak peek at our upcoming exhibition on transit mapping through an
+  interview with our guest curator
+image: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4f16fk66t/473,2361,4474,1822/,1200/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4f16fk66t/473,2361,4474,1822/,1200/0/default.jpg
 tags:
-- exhibition
-- interview
+  - exhibition
+  - interview
 draft: true
-
 ---
-> In September 2023, we'll open our newest exhibition, _Getting Around Town: Four Centuries of Mapping Boston in Transit_. It will feature an extraordinary collection of transit maps and invite questions about how people have moved around the city in the past, present, and future. The guest curator for the exhibition is Steven Beaucher, the author of [_Boston in Transit_](https://bpl.bibliocommons.com/v2/record/S75C8459214). In this article, we talk with Steven about how he became immersed in transit mapping, and what he thinks will be most intriguing about the upcoming exhibition. [_Getting Around Town_ opens on September 9 ](https://www.leventhalmap.org/exhibitions/)and will be free to the public at the Leventhal Center gallery at the Central Library in Copley Square.
+
+> In September 2023, we'll open our newest exhibition, *Getting Around Town: Four Centuries of Mapping Boston in Transit*. It will feature an extraordinary collection of transit maps and invite questions about how people have moved around the city in the past, present, and future. The guest curator for the exhibition is Steven Beaucher, the author of *[Boston in Transit](https://bpl.bibliocommons.com/v2/record/S75C8459214)*. In this article, we talk with Steven about how he became immersed in transit mapping, and what he thinks will be most intriguing about the upcoming exhibition. [*Getting Around Town* opens on September 9 ](https://www.leventhalmap.org/exhibitions/)and will be free to the public at the Leventhal Center gallery at the Central Library in Copley Square.
 
 **How did you get interested in transportation, maps, and the history of the transit system in Boston?**
 
@@ -20,11 +23,11 @@ I've been a lifelong rail fan and transit fan since I was a kid—since I was a 
 
 As I grew up, I always used public transportation. I relied upon it. It was my gateway to the city from the suburbs. It's how I got to know Boston, since I grew up in the Merrimack Valley. So it was more than just "I like trains." It was a functional vehicle for me to connect with urbanity, which I fell in love with as I trained as an architect, and my minor is urban geography. As I grew, I tried all the different modes, and I really relied on it, always more so than a car.
 
-I practiced as an architect here in Boston for a decade or so, and, at the same time, I started collecting maps with my wife and my brother. We ended up collecting too many antique maps. We also collected things that had to do with transit and trains. But as our collection of maps became too large, we decided to start a business where we reproduced some of the maps so we could earn money to buy _more_ antique maps.
+I practiced as an architect here in Boston for a decade or so, and, at the same time, I started collecting maps with my wife and my brother. We ended up collecting too many antique maps. We also collected things that had to do with transit and trains. But as our collection of maps became too large, we decided to start a business where we reproduced some of the maps so we could earn money to buy *more* antique maps.
 
 We also would sell off antique maps we didn't want. We ended up starting [WardMaps](https://wardmapsgifts.com/), our antique map business. Over time, my brother got me into collecting more transit artifacts, actual signs and pieces of trains and trolleys. That's when I really also started becoming an expert in transit history, beyond just being an antique map dealer. I was able to eventually win public bid contracts with the MBTA to run their MBTA merchandise program, store, and sell antique artifacts that the T was getting rid of.
 
-That all culminates with my need to write my book, _Boston in Transit_. I needed to educate myself on all this transit and railroad history that I thought I knew about, but I didn't. _Now_ I know about it!
+That all culminates with my need to write my book, *Boston in Transit*. I needed to educate myself on all this transit and railroad history that I thought I knew about, but I didn't. *Now* I know about it!
 
 I get to deal with trains, maps, the city, the T, all these things that are important to me, not just as money making sources, but also things that I truly love.
 
@@ -32,9 +35,9 @@ I get to deal with trains, maps, the city, the T, all these things that are impo
 
 The first year or two that I would take the commuter rail in, I was in Boy Scouts, and I'd go with one of the older boys because I was too young. My mom would drive me to the train station in Lowell. We'd go into the city and walk around, and I remember we'd get off at North Station.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:bc389037q/1734,1433,1603,567/,1200/0/default.jpg" caption="_A detail of the North Station area from a_ [_1977 MBTA map_](https://collections.leventhalmap.org/search/commonwealth:xs55pv17h)_._" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:bc389037q/1734,1433,1603,567/,1200/0/default.jpg" caption="A detail of the North Station area from a [_1977 MBTA map_](https://collections.leventhalmap.org/search/commonwealth:xs55pv17h)." >}}
 
-We'd go upstairs on Causeway Street and get on the Green Line. And no matter what station we went to, there was always a map that was out of date. And I didn't know they were out of date. I just thought they were wrong. I was like, _what's this station in Charlestown that doesn't exist?_ _What's this little line that used to go here?_ As a teenager, my mind was totally engaged with a map that was erroneous but also still there. Now I know the history of why those physical artifacts were there, but also what they represent, what those lines were, which is an amazing history.
+We'd go upstairs on Causeway Street and get on the Green Line. And no matter what station we went to, there was always a map that was out of date. And I didn't know they were out of date. I just thought they were wrong. I was like, *what's this station in Charlestown that doesn't exist?* *What's this little line that used to go here?* As a teenager, my mind was totally engaged with a map that was erroneous but also still there. Now I know the history of why those physical artifacts were there, but also what they represent, what those lines were, which is an amazing history.
 
 So I still remember all those, and even to this day, whenever I'm traveling in the world, I'm always looking for maps like that that show me cartographic ghosts, where there's a piece of history that's still represented, and you're just waiting for the next map to cover it up. That is forever ingrained in me as something that engaged me.
 
@@ -54,13 +57,13 @@ Our memories of urbanity and cartography, for many people, are closely intertwin
 
 I was thinking about this on the train here. In my mind there are three reasons for putting up the exhibition.
 
-One, it's a celebration of cartographic representation of infrastructure. Second, it's a celebration _of_ that infrastructure. And then thirdly, it's a celebration of how we as people interacted with that infrastructure over the last nearly 400 years.
+One, it's a celebration of cartographic representation of infrastructure. Second, it's a celebration *of* that infrastructure. And then thirdly, it's a celebration of how we as people interacted with that infrastructure over the last nearly 400 years.
 
-So you put those together, and my hope is that people will have interactions in the exhibition where they will say, _oh, my, this is how someone in 1850 navigated a steam railroad network_. _Oh, my, this is how somebody figured out where to get a stage coach in 1750_. And then they're holding their phone, and they're looking at the next train outside at Copley to get on the Green Line. I really hope people engage in that sort of relational history.
+So you put those together, and my hope is that people will have interactions in the exhibition where they will say, *oh, my, this is how someone in 1850 navigated a steam railroad network*. *Oh, my, this is how somebody figured out where to get a stage coach in 1750*. And then they're holding their phone, and they're looking at the next train outside at Copley to get on the Green Line. I really hope people engage in that sort of relational history.
 
 But also, there's a lot of beauty in the cartography that we're representing, which is no longer really made. Everything's on your phone, the app updates whenever, and it's all optimized for phone use. All these cartographic devices and objects and artifacts that we're putting on exhibition show people the skill, craft, thought, and editing that went into the question of how do you navigate a system—one that in many ways was even more complex even than the MBTA of today?
 
-I also want people to know what we _had_, so we can know what we're missing. So, as we think about the future, we can be like, _it might be a good idea to have a train to go between North and South Station_. We actually used to have that train.
+I also want people to know what we *had*, so we can know what we're missing. So, as we think about the future, we can be like, *it might be a good idea to have a train to go between North and South Station*. We actually used to have that train.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m2135/4692,6003,3085,1148/,1200/0/default.jpg" caption="_Detail showing the elevated railway line that once ran from North to South Stations, from an_ [_1899 system map_](https://collections.leventhalmap.org/search/commonwealth:cj82m212w)_._" >}}
 
@@ -76,7 +79,7 @@ You go through Newton, there are train stations that used to be part of our comm
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bp129/159,240,7797,2897/,1200/0/default.jpg" caption="_The Boston and Albany yards just west of Copley Square can be seen in this_ [_1902 urban atlas_](https://atlascope.org/#/view:share$mode:glass$center:-71.08247,42.34748$zoom:17.67$base:maptiler-streets$overlay:ark:/76611/al7rtfm98)_._" >}}
 
-Maps are a great way to reveal these layers that may be there for their historic uses. You can tie that into the [_Building Blocks_ exhibit](https://www.leventhalmap.org/digital-exhibitions/building-blocks/) that is up right now.
+Maps are a great way to reveal these layers that may be there for their historic uses. You can tie that into the [*Building Blocks* exhibit](https://www.leventhalmap.org/digital-exhibitions/building-blocks/) that is up right now.
 
 **Most of what we'll see in the exhibition is a historical look at how the transit network evolved over time: how it was built, and how it was, in some cases, demolished or removed. But encoded into those maps are dreams about the future: what could be built as plans, as designs, as speculations. How do you think maps help us think about today's transit system and, perhaps, tomorrow's transit system?**
 
@@ -84,9 +87,9 @@ There's a lot of ways that, for envisioning the future of transit, these maps, t
 
 Then there's a marketing perspective. You can use these maps to sell it to politicians, who get the funding for public transit. You can use these maps to generate public interest.
 
-And then there is also sort of a legacy perspective, where you may over-plan knowing that you're not going to do this in the next generation, but in the future somebody could take this plan out and say, _hey, look, somebody did some really good work on that_. A prime example is the Green Line Extension. There were plans going back earlier than the 1940s, but it really only became serious with the Big Dig in the 1990s, and we only just completed it in the early 2020s.
+And then there is also sort of a legacy perspective, where you may over-plan knowing that you're not going to do this in the next generation, but in the future somebody could take this plan out and say, *hey, look, somebody did some really good work on that*. A prime example is the Green Line Extension. There were plans going back earlier than the 1940s, but it really only became serious with the Big Dig in the 1990s, and we only just completed it in the early 2020s.
 
-**Your book _Boston in Transit_ is full of other visual materials: photographs, postcards, illustrations, diagrams, and so on. Can you tell us some ways that other visual aids help us understand the history of places, the history of Boston, the history of transit systems?**
+**Your book *Boston in Transit* is full of other visual materials: photographs, postcards, illustrations, diagrams, and so on. Can you tell us some ways that other visual aids help us understand the history of places, the history of Boston, the history of transit systems?**
 
 Beyond the maps, as I featured in the book (and hope to feature in the exhibit), it's good to know what a lot of these things looked like, just on a basic level. What did a stage coach look like, what did an omnibus look like? What did a steam train in 1830 look like versus a steam train in 1930? That's a way to really allow you to transport yourself in history visually. Everyone can relate to a photograph very clearly. Not everyone relates to maps initially. So if we're showing a map of the Eastern Railroad in the middle of the 19th century, it's good to have an image of a steam train.
 
