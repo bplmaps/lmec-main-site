@@ -65,7 +65,7 @@ But also, there's a lot of beauty in the cartography that we're representing, wh
 
 I also want people to know what we *had*, so we can know what we're missing. So, as we think about the future, we can be like, *it might be a good idea to have a train to go between North and South Station*. We actually used to have that train.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m2135/4692,6003,3085,1148/,1200/0/default.jpg" caption="_Detail showing the elevated railway line that once ran from North to South Stations, from an_ [_1899 system map_](https://collections.leventhalmap.org/search/commonwealth:cj82m212w)_._" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m2135/4692,6003,3085,1148/,1200/0/default.jpg" caption="Detail showing the elevated railway line that once ran from North to South Stations, from an [_1899 system map_](https://collections.leventhalmap.org/search/commonwealth:cj82m212w)." >}}
 
 **When you think about a map of Boston, can you give some anecdotes of interesting and odd pieces of transit infrastructure that might still be in the landscape today but which people might not think about as often as the famous sites like Park Street or Government Center? What are some hidden parts of Boston that interest you, and that you think people might notice in this exhibition?**
 
