@@ -77,7 +77,7 @@ For instance, let's take the Blue Line running through Revere and East Boston. A
 
 You go through Newton, there are train stations that used to be part of our commuter rail, suburban commuter rail network way before the T. A lot of those are now private businesses. There are whole areas of the city that used to be dedicated to passenger and commuter rail service. We're next door to the Prudential Center: that used to be the Boston and Albany coach yard for all the passenger train coaches.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bp129/159,240,7797,2897/,1200/0/default.jpg" caption="The Boston and Albany yards just west of Copley Square can be seen in this [_1902 urban atlas_](https://atlascope.org/#/view:share$mode:glass$center:-71.08247,42.34748$zoom:17.67$base:maptiler-streets$overlay:ark:/76611/al7rtfm98)." >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bp129/159,240,7797,2897/,1200/0/default.jpg" caption="The Boston and Albany yards just west of Copley Square can be seen in this [1902 urban atlas](https://atlascope.org/#/view:share$mode:glass$center:-71.08247,42.34748$zoom:17.67$base:maptiler-streets$overlay:ark:/76611/al7rtfm98)." >}}
 
 Maps are a great way to reveal these layers that may be there for their historic uses. You can tie that into the [*Building Blocks* exhibit](https://www.leventhalmap.org/digital-exhibitions/building-blocks/) that is up right now.
 
