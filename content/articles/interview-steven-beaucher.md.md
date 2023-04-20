@@ -35,7 +35,7 @@ I get to deal with trains, maps, the city, the T, all these things that are impo
 
 The first year or two that I would take the commuter rail in, I was in Boy Scouts, and I'd go with one of the older boys because I was too young. My mom would drive me to the train station in Lowell. We'd go into the city and walk around, and I remember we'd get off at North Station.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:bc389037q/1734,1433,1603,567/,1200/0/default.jpg" caption="A detail of the North Station area from a [_1977 MBTA map_](https://collections.leventhalmap.org/search/commonwealth:xs55pv17h)." >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:bc389037q/1734,1433,1603,567/,1200/0/default.jpg" caption="A detail of the North Station area from a [1977 MBTA map](https://collections.leventhalmap.org/search/commonwealth:xs55pv17h)." >}}
 
 We'd go upstairs on Causeway Street and get on the Green Line. And no matter what station we went to, there was always a map that was out of date. And I didn't know they were out of date. I just thought they were wrong. I was like, *what's this station in Charlestown that doesn't exist?* *What's this little line that used to go here?* As a teenager, my mind was totally engaged with a map that was erroneous but also still there. Now I know the history of why those physical artifacts were there, but also what they represent, what those lines were, which is an amazing history.
 
