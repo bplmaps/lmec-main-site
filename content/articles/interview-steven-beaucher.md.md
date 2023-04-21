@@ -97,9 +97,7 @@ Beyond the maps, as I featured in the book (and hope to feature in the exhibit),
 
 It's even better to have a schedule that somebody would have held while riding that train. You can engage with the picture and then you show them the map in the schedule. So what I did in my book, and we're going to try to do in the exhibit, though the exhibit is cartographic heavy, is to allow these complementary artifacts to all feed on each other.
 
-In the exhibition I hope visitors can actually build in their mind in a whole experience. What map did I use? Where was I going? Oh, I live in Revere. Now, what would I have taken to Revere back in the day? I would have used the Eastern Railroad, or I would have used the Boston, Revere Beach, and Lynn. Oh, look, that's what a map or a schedule looked like. That's what the train looked like going down the track.
-
-Now I can compare that to riding the Blue Line. Now I can compare that to taking the commuter rail through the East Boston marshes. A primary goal, I think, for a historian is to engage people with the past through artifacts, through history, through research.
+In the exhibition I hope visitors can actually build in their mind in a whole experience. *What map did I use? Where was I going? Oh, I live in Revere. Now, what would I have taken to Revere back in the day? I would have used the Eastern Railroad, or I would have used the Boston, Revere Beach, and Lynn. Oh, look, that's what a map or a schedule looked like. That's what the train looked like going down the track. Now I can compare that to riding the Blue Line. Now I can compare that to taking the commuter rail through the East Boston marshes.* A primary goal, I think, for a historian is to engage people with the past through artifacts, through history, through research.
 
 But I have always put the visuals first. You can give good history, good research, textual content, but I love visuals. I love the artifacts.
 
@@ -115,4 +113,4 @@ For an oddball? Okay, this could be a winner for both oddball and most visually 
 
 That map is cartoony, but it's visionary and it shows planning hubris, so I think that could win for both.
 
-This exhibition is supported by a grant from the Barr Foundation.
+> This upcoming exhibition, _Getting Around Town: Four Centuries of Mapping Boston in Transit_, is supported by a grant from the [Barr Foundation](https://www.barrfoundation.org/).
