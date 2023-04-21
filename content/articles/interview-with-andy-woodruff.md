@@ -16,9 +16,11 @@ backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rv70f/1440,423,5960,2418/,1200/0/default.jpg
 ---
 
-> This year marks the inauguration of the [Designer-in-Residence fellowship](/research/designer-in-residence/) a new program at the Leventhal Center aimed at supporting creative work in cartography, growing our original collections, and providing opportunities for the public to learn more about how maps are made in the present day. Our first Designer-in-Residence is the multi-talented Andy Woodruff. You might already be familiar with Andy from the maps [he contributed to our 2022 exhibition *Bending Lines*](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/data-stories-transit/), or from the legendary Boston mapping blog [Bostonography](https://bostonography.com). Andy will be in residence at the Leventhal Center from April 10 through May 5. During his fellowship period, we'll be posting more about his work in progress.
+> This year marks the inauguration of the [Designer-in-Residence fellowship](/research/designer-in-residence/) a new program at the Leventhal Center aimed at supporting creative work in cartography, growing our original collections, and providing opportunities for the public to learn more about how maps are made in the present day. Our first Designer-in-Residence is the multi-talented Andy Woodruff. You might already be familiar with Andy from the maps [he contributed to our 2022 exhibition *Bending Lines*](https://www.leventhalmap.org/digital-exhibitions/bending-lines/how-to-bend/data-stories-transit/), or from the legendary Boston mapping blog [Bostonography](https://bostonography.com). Andy will be in residence at the Leventhal Center from April 10 through May 5. During his fellowship period, we'll be posting more about his work in progress. \
+> [\
+> https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/interview-andy-woodruff/IMG\_2198.jpeg]()
 
-{{\< figure src="" class="figure-right" caption="How many \\'cunchres\\' can you name? *Image courtesy of Andy Woodruff*">}}
+{{\< figure src="" class="figure-right" caption="How many \\'cunchres\\' can you name? Image courtesy of Andy Woodruff">}}
 
 **What’s the first map you ever made growing up? How young were you when you began to know that you wanted to pursue a career in mapmaking and visual design?**
 
