@@ -114,3 +114,5 @@ A second choice for me, but it's more of a technical thing that I'm technically 
 For an oddball? Okay, this could be a winner for both oddball and most visually engaging. There's a 1945 map by the Metropolitan Transit Recess Commission. It looks like a big spider of all these existing and proposed rapid transit lines coming out of downtown Boston. As you look at it and zoom in, existing and proposed stations are drawn in little 3D cartoons. Tunnels and station platforms are drawn. This map, from 1945, right before the MTA takes over, planned lines that we are still thinking of today. It does show the Green Line going out, like kind of the route of the GLX, so we did build some of that, but there's lines in here that go out to Reading, to Needham. Those are things that are still dreams.
 
 That map is cartoony, but it's visionary and it shows planning hubris, so I think that could win for both.
+
+This exhibition is supported by a grant from the Barr Foundation.
