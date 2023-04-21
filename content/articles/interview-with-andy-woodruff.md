@@ -21,7 +21,7 @@ backgroundImage: >-
 {{\< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/interview-andy-woodruff/IMG\_2198.jpeg" class="figure-right" caption="How many "cunchres" can you name? *Image courtesy of Andy Woodruff*">}}\
 
 
-{{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/interview-andy-woodruff/IMG_2198.jpeg" class="figure-right" >}}
+{{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/interview-andy-woodruff/IMG_2198.jpeg" class="figure-right" caption="How many \&#x22;cunchres\&#x22; can you name? Image courtesy of Andy Woodruff" >}}
 
 **What’s the first map you ever made growing up? How young were you when you began to know that you wanted to pursue a career in mapmaking and visual design?**
 
