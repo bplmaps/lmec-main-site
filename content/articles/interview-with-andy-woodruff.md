@@ -20,8 +20,6 @@ backgroundImage: >-
 
 {{\< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/interview-andy-woodruff/IMG\_2198.jpeg" class="figure-right" caption="How many "cunchres" can you name? *Image courtesy of Andy Woodruff*">}}
 
-*The text of this interview has been lightly edited for clarity. *
-
 **What’s the first map you ever made growing up? How young were you when you began to know that you wanted to pursue a career in mapmaking and visual design?**
 
 Not that I remember making it, but thanks to all the childhood stuff my parents saved, it looks like I drew a map of world "cunchres" \[countries] just shy of age 7. I had the childhood privilege of a family that went on a lot of summer road trip vacations, and I was that kid who stared at the maps (paper in those days) in the back seat, fascinated by understanding the places we were going and imagining the other places on the map where we weren't going. But I don't think it was until high school or so that I developed a real interest in pursuing a study of geography, which then became an interest in mapmaking specifically.
