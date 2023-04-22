@@ -14,3 +14,8 @@ tags:
   - designer-in-residence
 ---
 
+Our 2023 [Designer-in-Residence, Andy Woodruff](https://www.leventhalmap.org/articles/interview-with-andy-woodruff/), is working on maps inspired by the fire insurance atlases in our current [*Building Blocks *exhibition](https://www.leventhalmap.org/digital-exhibitions/building-blocks/). 
+
+Have you ever wanted to see how cartographers work? Want a peek into the state of Andy's designs midway through his residency? Stop in from **2:00-3:00 pm on Wednesday** for an informal chat with Andy and members of the LMEC staff. Learn more about how contemporary mapmakers think about design and information, and take a look at some of Andy's works-in-progress.
+
+*No registration required; drop in at any time. Coffee and light snacks will be provided.*
