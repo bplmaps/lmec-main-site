@@ -55,7 +55,7 @@ Maps trace out the complicated history of places, and we can use them to documen
 
 ## Upcoming Exhibitions
 
-### Getting Around Town: Four Centuries of Mapping Boston in Transit
+### *Getting Around Town: Four Centuries of Mapping Boston in Transit*
 
 September 9, 2023 – April 27, 2024
 
