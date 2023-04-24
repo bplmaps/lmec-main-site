@@ -13,4 +13,4 @@ draft: true
 
 ### About this event
 
-{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} alert_box content="This is a thing." {{< /alert-box >}} 
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} alert_box content="This is a thing" {{< /alert-box >}} 
