@@ -11,21 +11,21 @@ draft: true
 
 We regularly mount exhibitions in our gallery, [located in the historic McKim Building](about/hours-directions) the Boston Public Library in Copley Square. Exhibitions topics range from collections-centered shows on [Boston bird's eye views](https://collections.leventhalmap.org/exhibits/16) and [women mapmakers](https://collections.leventhalmap.org/exhibits/6) to theme-centered shows on the [American Revolution](https://collections.leventhalmap.org/exhibits/3), [Boston immigration](https://collections.leventhalmap.org/exhibits/19), and [public landscapes](https://collections.leventhalmap.org/exhibits/19). All of our exhibitions feature scholarly research as well as activities for families, children, and educators.
 
-{{< carousel >}} {{< carousel-figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/BuildingBlocksGal1.jpg" >}} {{< /carousel-figure >}}
+{{\< carousel >}} {{\< carousel-figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/BuildingBlocksGal1.jpg" >}} {{\< /carousel-figure >}}
 
-{{< carousel-figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/BecomingBosGal1.jpg" >}}{{< /carousel-figure >}}
+{{\< carousel-figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/BecomingBosGal1.jpg" >}}{{\< /carousel-figure >}}
 
-{{< carousel-figure src="images/carousels/molic_gallery01.jpg" >}}{{< /carousel-figure >}}
+{{\< carousel-figure src="images/carousels/molic\_gallery01.jpg" >}}{{\< /carousel-figure >}}
 
-{{< carousel-figure src="images/carousels/molic_gallery02.jpg" >}}{{< /carousel-figure >}}
+{{\< carousel-figure src="images/carousels/molic\_gallery02.jpg" >}}{{\< /carousel-figure >}}
 
-{{< carousel-figure src="images/carousels/at_gallery03.jpg" >}}{{< /carousel-figure >}}
+{{\< carousel-figure src="images/carousels/at\_gallery03.jpg" >}}{{\< /carousel-figure >}}
 
-{{< carousel-figure src="images/carousels/at_gallery09.jpg" >}}{{< /carousel-figure >}}
+{{\< carousel-figure src="images/carousels/at\_gallery09.jpg" >}}{{\< /carousel-figure >}}
 
-{{< carousel-figure src="images/carousels/DSC_0018s.jpg" >}}{{< /carousel-figure >}}
+{{\< carousel-figure src="images/carousels/DSC\_0018s.jpg" >}}{{\< /carousel-figure >}}
 
-{{< /carousel >}}
+{{\< /carousel >}}
 
 <!-- ## Currently on Exhibit -->
 
@@ -57,10 +57,12 @@ Maps trace out the complicated history of places, and we can use them to documen
 
 September 9, 2023 – April 27, 2024
 
-How do Bostonians get from here to there in a city full of trains, trolleys, ferries, and more? Whether in the familiar colored lines of today’s MBTA map or the complicated timetables of long-vanished omnibus routes, maps have long been an indispensable instrument for getting around town. This exhibition will feature an extraordinary collection of transit maps dating from the seventeenth century to the present, and invites questions about how people have moved around the city in the past, present, and future. Public events during the exhibition will encourage visitors to engage with issues of mobility and transportation justice in the present day. 
+How do Bostonians get from here to there in a city full of trains, trolleys, ferries, and more? Whether in the familiar colored lines of today’s MBTA map or the complicated timetables of long-vanished omnibus routes, maps have long been an indispensable instrument for getting around town. This exhibition will feature an extraordinary collection of transit maps dating from the seventeenth century to the present, and invites questions about how people have moved around the city in the past, present, and future. Public events during the exhibition will encourage visitors to engage with issues of mobility and transportation justice in the present day.
 
 *Guest curated by Steven Beaucher, author of [Boston in Transit](https://bpl.bibliocommons.com/v2/record/S75C8459214) and owner of [WardMaps](https://wardmapsgifts.com/).*
 
 ### *Mapping Heaven and Earth: The Blue Maps of China*
 
 May 10 – August 31, 2024
+
+In the early decades of nineteenth-century China, two series of large-format maps, one terrestrial and one celestial, were printed in the city of Suzhou. They were printed as eight loose sheets using Prussian blue, the first large scale use of this pigment in East Asia, in the unusual manner of a rubbing from a stone-stele, resulting in most of the paper appearing in bright blue. The terrestrial maps present the realm of the Qing Empire (1644–1911) and selected surrounding regions. The four extant editions of the celestial maps, dated to 1822 and 1826, present a planisphere of all the known stars and extensive descriptions of known celestial bodies and their related celestial mechanics. This exhibition considers these two maps in the contexts of their production, consumption, and functions revealing them as unique in the global history of mapmaking. Guest curated by Dr. Richard Pegg, Director and Curator of the MacLean Collection.
