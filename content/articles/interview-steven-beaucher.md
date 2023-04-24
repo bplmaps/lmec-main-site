@@ -14,7 +14,7 @@ tags:
   - interview
   - Getting Around Town
   - transportation
-draft: true
+draft: false
 ---
 
 > In September 2023, we'll open our newest exhibition, *Getting Around Town: Four Centuries of Mapping Boston in Transit*. It will feature an extraordinary collection of transit maps and invite questions about how people have moved around the city in the past, present, and future. The guest curator for the exhibition is Steven Beaucher, the author of *[Boston in Transit](https://bpl.bibliocommons.com/v2/record/S75C8459214)*. In this article, we talk with Steven about how he became immersed in transit mapping, and what he thinks will be most intriguing about the upcoming exhibition. [*Getting Around Town* opens on September 9 ](https://www.leventhalmap.org/exhibitions/)and will be free to the public at the Leventhal Center gallery at the Central Library in Copley Square.
