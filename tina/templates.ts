@@ -103,7 +103,7 @@ export function article_postFields() {
               }
             },
           ],
-        },
+        }
       ]
     }
   ] as TinaField[];
@@ -227,24 +227,6 @@ export function event_listingFields() {
       label: "Event Description",
       isBody: true,
       templates: [
-        {
-          name: 'alert_box',
-          nameOverride: "alert-box",
-          label: 'Alert Box',
-          match: {
-            start: '{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}',
-            end: '{{< /alert-box >}} ',
-          },
-          fields: [
-            {
-              name: 'content',
-              label: 'Label Content',
-              type: 'string',
-              required: true,
-              isBody: true,
-            },
-          ],
-        },
       ]
     },
   ] as TinaField[];
