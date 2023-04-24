@@ -1,6 +1,6 @@
 ---
 title: 'Transiting Through History: An Interview with Steven Beaucher'
-date: 2023-04-26T04:00:00.000Z
+date: 2023-04-24T04:00:00.000Z
 author: Garrett Dash Nelson and Steven Beaucher
 description: >-
   Take a sneak peek at our upcoming exhibition on transit mapping through an
@@ -12,6 +12,8 @@ backgroundImage: >-
 tags:
   - exhibition
   - interview
+  - Getting Around Town
+  - transportation
 draft: true
 ---
 
@@ -90,6 +92,8 @@ There's a lot of ways that, for envisioning the future of transit, these maps, t
 Then there's a marketing perspective. You can use these maps to sell it to politicians, who get the funding for public transit. You can use these maps to generate public interest.
 
 And then there is also sort of a legacy perspective, where you may over-plan knowing that you're not going to do this in the next generation, but in the future somebody could take this plan out and say, *hey, look, somebody did some really good work on that*. A prime example is the Green Line Extension. There were plans going back earlier than the 1940s, but it really only became serious with the Big Dig in the 1990s, and we only just completed it in the early 2020s.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524kj975/870,622,2750,2391/,1200/0/default.jpg" caption="An image of a Charlestown stage coach, from the [Boston Public Library](https://www.digitalcommonwealth.org/search/commonwealth:q524kj96w)" class="figure-right" >}}
 
 **Your book *Boston in Transit* is full of other visual materials: photographs, postcards, illustrations, diagrams, and so on. Can you tell us some ways that other visual aids help us understand the history of places, the history of Boston, the history of transit systems?**
 
