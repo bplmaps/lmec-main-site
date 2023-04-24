@@ -808,10 +808,45 @@ export function standard_pageFields() {
     {
       type: "rich-text",
       name: "body",
-      label: "Body of Document",
-      description: "This is the markdown body",
+      label: "Article Text",
       isBody: true,
-    },
+      templates: [
+        {
+          name: 'figure',
+          label: 'Single Image',
+          match: {
+            start: '{{<',
+            end: '>}}',
+          },
+          fields: [
+            {
+              name: 'src',
+              label: 'Image URL',
+              type: 'string',
+              required: true,
+            },
+            {
+              name: 'caption',
+              label: 'Caption',
+              type: 'string',
+            },
+            {
+              name: 'class',
+              label: 'Image Orientation',
+              type: 'string',
+              options: [
+                { label: "Figure Left", value: "figure-left" },
+                { label: "Figure Right", value: "figure-right" },
+                { label: "Full Width", value: "" },
+              ],
+              ui: {
+                defaultValue: "",
+              }
+            },
+          ],
+        },
+      ]
+    }
   ] as TinaField[];
 }
 export function store_productFields() {
