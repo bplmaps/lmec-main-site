@@ -1,7 +1,7 @@
 ---
-publishDate: 2023-04-06T14:48:35-04:00
+publishDate: '2023-04-06T18:48:35.000Z'
 title: 'Black Boston Stories: Taking Care'
-date: 2023-06-15T18:00:00-04:00
+date: 2023-06-15T22:00:00.000Z
 image: ''
 backgroundImage: ''
 location: Grove Hall Branch Library
@@ -9,6 +9,8 @@ fee: Free
 registration: ''
 tags: []
 draft: true
-
 ---
+
 ### About this event
+
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} alert_box content="This is a thing." {{< /alert-box >}} 
