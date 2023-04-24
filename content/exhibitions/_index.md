@@ -59,6 +59,6 @@ Maps trace out the complicated history of places, and we can use them to documen
 
 September 9, 2023 – April 27, 2024
 
-### Heaven and Earth
+### *Heaven and Earth*
 
 May 10 – August 31, 2024
