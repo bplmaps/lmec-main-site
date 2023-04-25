@@ -6,10 +6,10 @@ fee: Free
 draft: true
 image: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/franklin
-  park jacket back photo[15].png
+  park .png
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/franklin
-  park jacket back photo[15].png
+  park .png
 ---
 
 ### About this event 
