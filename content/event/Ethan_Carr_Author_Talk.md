@@ -16,7 +16,7 @@ backgroundImage: >-
 
 ##### About the book
 
-Ethan Carr’s forthcoming book, *Boston’s Franklin Park: Olmsted, Recreation, and the Modern City*, documents the design and history of Frederick Law Olmsted’s most mature expression of urban park design. In this comprehensive study, Carr affirms Franklin Park as one of great works of nineteenth-century American art. Since the 1980s, historians have described Franklin Park as unfinished, obsolete, or a casualty of changing trends in public recreation. Carr disagrees, offering a persuasive argument that the park’s decline was not a consequence of its design but of a lack of stewardship on the part of the city, an example of institutionalized racism.
+Ethan Carr’s forthcoming book, *[Boston’s Franklin Park: Olmsted, Recreation, and the Modern City](https://lalh.org/books/forthcoming/bostons-franklin-park/)*, documents the design and history of Frederick Law Olmsted’s most mature expression of urban park design. In this comprehensive study, Carr affirms Franklin Park as one of great works of nineteenth-century American art. Since the 1980s, historians have described Franklin Park as unfinished, obsolete, or a casualty of changing trends in public recreation. Carr disagrees, offering a persuasive argument that the park’s decline was not a consequence of its design but of a lack of stewardship on the part of the city, an example of institutionalized racism.
 
 ##### About the author
 
