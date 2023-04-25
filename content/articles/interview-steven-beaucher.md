@@ -117,4 +117,4 @@ For an oddball? Okay, this could be a winner for both oddball and most visually 
 
 That map is cartoony, but it's visionary and it shows planning hubris, so I think that could win for both.
 
-> This upcoming exhibition, _Getting Around Town: Four Centuries of Mapping Boston in Transit_, is supported by a grant from the [Barr Foundation](https://www.barrfoundation.org/).
+> This upcoming exhibition, *Getting Around Town: Four Centuries of Mapping Boston in Transit*, is supported by a grant from the [Barr Foundation](https://www.barrfoundation.org/).
