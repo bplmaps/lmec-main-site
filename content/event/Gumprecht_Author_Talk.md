@@ -9,5 +9,6 @@ backgroundImage: >-
   Cover.jpg
 location: Virtual
 fee: Free
+draft: true
 ---
 
