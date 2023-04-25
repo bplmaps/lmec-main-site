@@ -630,20 +630,14 @@ export function newsletterFields() {
       required: true,
     },
     {
-      type: "string",
+      type: "rich-text",
       name: "banner_image_caption",
       label: "Banner caption",
-      ui: {
-        component: "textarea",
-      },
     },
     {
-      type: "string",
+      type: "rich-text",
       name: "introductory_text",
       label: "Introductory Text",
-      ui: {
-        component: "textarea",
-      },
     },
     {
       type: "object",
@@ -662,12 +656,9 @@ export function newsletterFields() {
           label: "Content Block Header",
         },
         {
-          type: "string",
+          type: "rich-text",
           name: "content_block_text",
           label: "Content Block Text",
-          ui: {
-            component: "textarea",
-          },
         },
         {
           type: "string",
