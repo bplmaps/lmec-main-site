@@ -4,6 +4,12 @@ date: 2023-11-08T23:00:00.000Z
 location: Rabb Hall
 fee: Free
 draft: true
+image: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/franklin
+  park jacket back photo[15].png
+backgroundImage: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/franklin
+  park jacket back photo[15].png
 ---
 
 ### About this event 
