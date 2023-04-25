@@ -10,5 +10,7 @@ backgroundImage: >-
 location: Virtual
 fee: Free
 draft: true
+tags:
+  - exhibitions
 ---
 
