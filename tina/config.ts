@@ -233,7 +233,7 @@ export default defineConfig({
         name: "about",
         path: "content/about",
         match: {
-          include: '*',
+          exclude: 'people/*',
         },
         fields: [
           ...standard_pageFields(),
