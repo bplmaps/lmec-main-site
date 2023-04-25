@@ -16,11 +16,11 @@ backgroundImage: >-
 
 ##### About the book 
 
-Ethan Carr’s forthcoming book, Boston’s Franklin Park: Olmsted, Recreation, and the Modern City, documents the design and history of Frederick Law Olmsted’s most mature expression of urban park design. In this comprehensive study, Carr affirms Franklin Park as one of great works of nineteenth-century American art. Since the 1980s, historians have described Franklin Park as unfinished, obsolete, or a casualty of changing trends in public recreation. Carr disagrees, offering a persuasive argument that the park’s decline was not a consequence of its design but of a lack of stewardship on the part of the city, an example of institutionalized racism.
+Ethan Carr’s forthcoming book, \*Boston’s Franklin Park: Olmsted, Recreation, and the Modern City\*, documents the design and history of Frederick Law Olmsted’s most mature expression of urban park design. In this comprehensive study, Carr affirms Franklin Park as one of great works of nineteenth-century American art. Since the 1980s, historians have described Franklin Park as unfinished, obsolete, or a casualty of changing trends in public recreation. Carr disagrees, offering a persuasive argument that the park’s decline was not a consequence of its design but of a lack of stewardship on the part of the city, an example of institutionalized racism.
 
 ##### About the author
 
-Ethan Carr, FASLA, is professor of landscape architecture at the University of Massachusetts Amherst. An international authority on America’s public landscapes and the author of many books, he is lead editor of The Papers of Frederick Law Olmsted: The Early Boston Years and coauthor of Olmsted and Yosemite: Civil War, Abolition, and the National Park Idea (LALH 2022). 
+Ethan Carr, FASLA, is professor of landscape architecture at the University of Massachusetts Amherst. An international authority on America’s public landscapes and the author of many books, he is lead editor of \*The Papers of Frederick Law Olmsted: The Early Boston Years\* and coauthor of \*Olmsted and Yosemite: Civil War, Abolition, and the National Park Idea\* (LALH 2022). 
 
  
 
