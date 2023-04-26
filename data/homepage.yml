@@ -1,155 +1,179 @@
----
 slider:
   enable: true
   bg_images:
-  - https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463530h/3375,2072,3918,3044/,2000/0/default.jpg
-  - https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq38s/307,1263,5168,3488/,2000/0/default.jpg
-  - https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14b013q/3249,1607,2164,1618/,2000/0/default.jpg
-  - https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj58k/3249,1551,4726,3161/,2000/0/default.jpg
-  - https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp87h/2014,670,3931,2970/,2000/0/default.jpg
-  - https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fb18t/1721,2483,2741,2239/,2000/0/default.jpg
+    - >-
+      https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463530h/3375,2072,3918,3044/,2000/0/default.jpg
+    - >-
+      https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq38s/307,1263,5168,3488/,2000/0/default.jpg
+    - >-
+      https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14b013q/3249,1607,2164,1618/,2000/0/default.jpg
+    - >-
+      https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj58k/3249,1551,4726,3161/,2000/0/default.jpg
+    - >-
+      https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp87h/2014,670,3931,2970/,2000/0/default.jpg
+    - >-
+      https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fb18t/1721,2483,2741,2239/,2000/0/default.jpg
   slider_item:
-  - title: Preserving the past and advancing the future of maps
-    content: A quarter million maps from the fifteenth century to the present tell
-      the stories of Boston and the world
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Learn about our collections
-      link: "/collections"
-  - title: Inspiring learning through map education
-    content: Education programs help K-12 students and teachers discover the power
-      of geography
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Resources for teachers and students
-      link: "/education/k12"
-  - title: Digital humanities bring geography alive
-    content: Innovative tools like our Atlascope portal offer new ways to engage with
-      cartography
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Explore digital projects
-      link: "/projects/digital-projects"
-  - title: Reference and research for everyone
-    content: Our library staff can help find answers to your geography and maps questions
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: See what you can learn
-      link: research
+    - title: Preserving the past and advancing the future of maps
+      content: >-
+        A quarter million maps from the fifteenth century to the present tell
+        the stories of Boston and the world
+      animation_in: left
+      animation_out: right
+      button:
+        enable: true
+        label: Learn about our collections
+        link: /collections
+    - title: Inspiring learning through map education
+      content: >-
+        Education programs help K-12 students and teachers discover the power of
+        geography
+      animation_in: left
+      animation_out: right
+      button:
+        enable: true
+        label: Resources for teachers and students
+        link: /education/k12
+    - title: Digital humanities bring geography alive
+      content: >-
+        Innovative tools like our Atlascope portal offer new ways to engage with
+        cartography
+      animation_in: left
+      animation_out: right
+      button:
+        enable: true
+        label: Explore digital projects
+        link: /projects/digital-projects
+    - title: Reference and research for everyone
+      content: >-
+        Our library staff can help find answers to your geography and maps
+        questions
+      animation_in: left
+      animation_out: right
+      button:
+        enable: true
+        label: See what you can learn
+        link: research
 cta:
   enable: true
   announcements:
-  - badge: Applications open
-    text: Apply to our Small Grants Fund for Early Career Digital Publications by
-      May 18 at 5:00 pm
-    link: https://www.leventhalmap.org/research/digital-publication-small-grants/
-  - badge: 'Currently showing '
-    text: 'Building Blocks: Boston Stories from Urban Atlases and Becoming Boston:
-      Eight Moments in the Geography of a Changing City'
-    link: https://www.leventhalmap.org/exhibitions/
+    - badge: Applications open
+      text: >-
+        Apply to our Small Grants Fund for Early Career Digital Publications by
+        May 18 at 5:00 pm
+      link: 'https://www.leventhalmap.org/research/digital-publication-small-grants/'
+    - badge: 'Currently showing '
+      text: >-
+        Building Blocks: Boston Stories from Urban Atlases and Becoming Boston:
+        Eight Moments in the Geography of a Changing City
+      link: 'https://www.leventhalmap.org/exhibitions/'
+    - badge: Sponsor an atlas
+      text: Help support new additions to our Atlascope tool
+      link: 'https://www.leventhalmap.org/donate/sponsor-an-atlas/'
 audiences:
   enable: true
   audienceGroups:
-  - name: For everyone
-    description: We offer a wide spectrum of services and activities for the general
-      public
-    color: "#d54062"
-    links:
-    - title: Visit our gallery in person
-      link: exhibitions/visit
-    - title: See our calendar of upcoming events
-      link: event
-    - title: Browse our digital exhibitions
-      link: exhibitions/digital-exhibitions
-    - title: Read articles about our work and collections
-      link: articles
-    - title: Search our digital collections
-      link: collections/digital-collections/
-    - title: Support our work with a donation
-      link: donate
-  - name: For K-12 teachers
-    description: Our educator resources support teachers in fields ranging from geography
-      and social studies to STEM and world history
-    color: "#799351"
-    links:
-    - title: Book a classroom visit
-      link: education/k12/school-visits
-    - title: See resources for teaching with maps
-      link: education/k12/teach-it-yourself
-    - title: Apply for a professional development workshop
-      link: education/k12/professional-development
-    - title: Show students a digital exhibition
-      link: exhibitions/digital-exhibitions/
-  - name: For researchers
-    description: Our collections open up countless ways of exploring people and places
-      around the world, and we welcome researchers from all walks of life
-    color: "#056676"
-    links:
-    - title: Learn more about the collections
-      link: collections
-    - title: Make a research appointment
-      link: research/appointments
-    - title: Get help with GIS and data
-      link: research/geospatial
-    - title: Browse our guides and finding aids
-      link: research/guides
-    - title: Get permission to reproduce our maps in your work
-      link: "/collections/permissions/"
-  - name: Digital tools
-    description: Explore our collections and discover the world of historical geography
-      from home
-    color: "#440047"
-    links:
-    - title: Browse thousands of digitized maps in our Digital Collections
-      link: collections/digital-collections
-    - title: See all of our digital projects and interactives
-      link: "/projects/digital-projects/"
-    - title: Explore Boston's history with Atlascope
-      link: https://atlascope.org
-    - title: See digital experiments and remix your own code on Glitch
-      link: https://glitch.com/@bplmaps/
-    - title: Read guides and tutorials on digital mapping
-      link: https://geoservices.leventhalmap.org/cartinal
+    - name: For everyone
+      description: >-
+        We offer a wide spectrum of services and activities for the general
+        public
+      color: '#d54062'
+      links:
+        - title: Visit our gallery in person
+          link: exhibitions/visit
+        - title: See our calendar of upcoming events
+          link: event
+        - title: Browse our digital exhibitions
+          link: exhibitions/digital-exhibitions
+        - title: Read articles about our work and collections
+          link: articles
+        - title: Search our digital collections
+          link: collections/digital-collections/
+        - title: Support our work with a donation
+          link: donate
+    - name: For K-12 teachers
+      description: >-
+        Our educator resources support teachers in fields ranging from geography
+        and social studies to STEM and world history
+      color: '#799351'
+      links:
+        - title: Book a classroom visit
+          link: education/k12/school-visits
+        - title: See resources for teaching with maps
+          link: education/k12/teach-it-yourself
+        - title: Apply for a professional development workshop
+          link: education/k12/professional-development
+        - title: Show students a digital exhibition
+          link: exhibitions/digital-exhibitions/
+    - name: For researchers
+      description: >-
+        Our collections open up countless ways of exploring people and places
+        around the world, and we welcome researchers from all walks of life
+      color: '#056676'
+      links:
+        - title: Learn more about the collections
+          link: collections
+        - title: Make a research appointment
+          link: research/appointments
+        - title: Get help with GIS and data
+          link: research/geospatial
+        - title: Browse our guides and finding aids
+          link: research/guides
+        - title: Get permission to reproduce our maps in your work
+          link: /collections/permissions/
+    - name: Digital tools
+      description: >-
+        Explore our collections and discover the world of historical geography
+        from home
+      color: '#440047'
+      links:
+        - title: Browse thousands of digitized maps in our Digital Collections
+          link: collections/digital-collections
+        - title: See all of our digital projects and interactives
+          link: /projects/digital-projects/
+        - title: Explore Boston's history with Atlascope
+          link: 'https://atlascope.org'
+        - title: See digital experiments and remix your own code on Glitch
+          link: 'https://glitch.com/@bplmaps/'
+        - title: Read guides and tutorials on digital mapping
+          link: 'https://geoservices.leventhalmap.org/cartinal'
 frontpageFeature:
   enable: true
-  bg_image: "/uploads/2022-12-29/buildings.jpeg"
+  bg_image: /uploads/2022-12-29/buildings.jpeg
   title: Small-scale stories of urban change
-  content: 'Our exhibition *Building Blocks: Boston Stories from Urban Atlases* is
-    currently on display at our free gallery at the Central Library in Copley Square.'
+  content: >-
+    Our exhibition *Building Blocks: Boston Stories from Urban Atlases* is
+    currently on display at our free gallery at the Central Library in Copley
+    Square.
   button:
     enable: true
     label: Information for visitors
-    link: https://www.leventhalmap.org/exhibitions/visit/
+    link: 'https://www.leventhalmap.org/exhibitions/visit/'
 event:
   enable: true
   title: Upcoming Events
 funfacts:
   enable: false
   funfact_item:
-  - name: Digital Collections Objects
-    count: "9369"
-  - name: Students Taught in 2019
-    count: "1000"
-  - name: Reference Requests Served
-    count: "65"
-  - name: Atlascope Historic Maps
-    count: "101"
+    - name: Digital Collections Objects
+      count: '9369'
+    - name: Students Taught in 2019
+      count: '1000'
+    - name: Reference Requests Served
+      count: '65'
+    - name: Atlascope Historic Maps
+      count: '101'
 blog:
   enable: true
   title: Articles
 todaysHours: true
 upcomingLivestream:
   enable: false
-  embedLink: <iframe width="560" height="315" src="https://www.youtube.com/embed/cEVtWRd0vuI"
-    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-    encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  embedLink: >-
+    <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/cEVtWRd0vuI" title="YouTube video player"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+    encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen></iframe>
   startTime: 2023-01-11T16:55:00.000Z
   endTime: 2023-01-11T18:15:00.000Z
