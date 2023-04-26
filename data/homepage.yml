@@ -68,7 +68,9 @@ cta:
         Eight Moments in the Geography of a Changing City
       link: 'https://www.leventhalmap.org/exhibitions/'
     - badge: Sponsor an atlas
-      text: Help support new additions to our Atlascope tool
+      text: >-
+        Are there atlases of other Massachusetts towns you would like to see
+        added to Atlascope? 
       link: 'https://www.leventhalmap.org/donate/sponsor-an-atlas/'
 audiences:
   enable: true
