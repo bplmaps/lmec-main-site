@@ -8,3 +8,4 @@ tags:
   - exhibitions
 ---
 
+### About this event
