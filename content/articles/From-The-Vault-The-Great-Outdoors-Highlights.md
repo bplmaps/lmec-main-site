@@ -25,7 +25,7 @@ This [map of Mount Desert Island](https://bpl.bibliocommons.com/v2/record/S75C84
 
 #### Panoramic view of the Crater Lake National Park, Oregon (1914)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc943/full/2000,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc943/full/2000,/0/default.jpg" class="figure-left" >}}
 
 Approximately 7,700 years ago, Mount Mazama, a 12,000-foot-tall volcano in today’s Oregon, erupted, collapsed, and formed Crater Lake. Legend of the native Makalak people explains that the collapse was caused by [a battle between the spirit of the sky and the spirit of the mountain](/ec096e1a546841a0914bafbc3f5b4f83). Today, the lake measures 1,943 feet deep and is known for its bright blue color. 
 
