@@ -31,6 +31,8 @@ Approximately 7,700 years ago, Mount Mazama, a 12,000-foot-tall volcano in today
 
 #### A Comparative View of the Heights of the Principal Mountains in the World (1820) 
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cd82j/full/2000,/0/default.jpg" >}}
+
 #### A Map of Mount Desert Island and Acadia National Park (1928)
 
 This [map of Mount Desert Island](https://bpl.bibliocommons.com/v2/record/S75C8459116) was published in 1938 as part of a promotional brochure by the Publicity Committee of Bar Harbor. [A publication from the same time](https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1081\&context=mainehistory) also promotes the island, claiming: “Nowhere in the world is there such a wonderful land of sea, cliff, lake and forest as nature has lavished on this great Maine Coast Resort. No vacation trip to Maine can be complete without a visit to Bar Harbor, America’s most distinguished resort.”
