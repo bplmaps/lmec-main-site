@@ -11,6 +11,7 @@ fee: Free
 registration: >-
   https://www.eventbrite.com/e/benjamin-l-carp-on-urban-geographies-of-the-american-revolution-tickets-608606848467
 tags:
+  - virtual
   - lecture
   - Richard H. Brown Seminar
 ---
