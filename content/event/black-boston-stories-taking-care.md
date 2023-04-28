@@ -7,7 +7,9 @@ backgroundImage: ''
 location: Grove Hall Branch Library
 fee: Free
 registration: ''
-tags: []
+tags:
+  - conversation
+  - exhibition
 draft: true
 ---
 
