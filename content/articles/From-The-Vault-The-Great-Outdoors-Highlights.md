@@ -44,5 +44,3 @@ This [map of Mount Desert Island](https://bpl.bibliocommons.com/v2/record/S75C84
 Can you find Blue Hills on among \_\_\_, \_\_\_\_, and \_\_\_\_? Hint: It’s labeled as #77. 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cd82j/full/2000,/0/default.jpg" >}}
-
->
