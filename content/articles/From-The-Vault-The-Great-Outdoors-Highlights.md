@@ -1,6 +1,6 @@
 ---
 draft: true
-title: 'Highlights from From The Vault: The Great Outdoors'
+title: 'Highlights from From The Vault: The Great Outdoors – Highlights '
 date: 2023-05-05T04:00:00.000Z
 author: Megan Nally
 image: >-
