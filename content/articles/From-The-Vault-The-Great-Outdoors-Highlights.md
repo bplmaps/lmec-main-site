@@ -39,4 +39,6 @@ This [map of Mount Desert Island](https://bpl.bibliocommons.com/v2/record/S75C84
 
 #### A Comparative View of the Heights of the Principal Mountains in the World (1820) 
 
+Can you find Blue Hills on [this 1820 map](https://collections.leventhalmap.org/search/commonwealth:x059cd818) of the "principal mountains" of the world? Hint: It’s labeled as #77. 
+
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cd82j/full/2000,/0/default.jpg" >}}
