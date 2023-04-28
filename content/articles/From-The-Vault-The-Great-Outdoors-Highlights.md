@@ -29,7 +29,11 @@ Approximately 7,700 years ago, Mount Mazama, a 12,000-foot-tall volcano in today
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc943/full/2000,/0/default.jpg" class="" >}}
 
+#### Canobie Lake Park, Salem N.H. (1912)
+
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/canobie.jpeg" >}}
+
+In 1902, the Hudson, Pelham & Salem Railways (HP\&S) opened Canobie Lake Park as a means of generating additional business for its new trolley line to Salem, New Hampshire. In its early years, the park was known for its flower gardens, promenades and gentle attractions like canoeing, sporting events, the Circle Swing, picnics, and the Penny Arcade. 
 
 #### A Map of Mount Desert Island and Acadia National Park (1928)
 
