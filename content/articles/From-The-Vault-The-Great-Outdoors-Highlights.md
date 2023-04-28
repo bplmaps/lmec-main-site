@@ -31,7 +31,7 @@ Approximately 7,700 years ago, Mount Mazama, a 12,000-foot-tall volcano in today
 
 #### Canobie Lake Park, Salem N.H. (1912)
 
-In 1902, the Hudson, Pelham & Salem Railways (HP\&S) opened Canobie Lake Park as a means of generating additional business for its new trolley line to Salem, New Hampshire. In its early years, the park was known for its flower gardens, promenades and gentle attractions like canoeing, sporting events, the Circle Swing, picnics, and the Penny Arcade. 
+In 1902, the Hudson, Pelham & Salem Railways (HP\&S) opened Canobie Lake Park as a means of generating additional business for its new trolley line to Salem, New Hampshire. In its early years, the park was known for its flower gardens, promenades and attractions like canoeing, sporting events, the Circle Swing, picnics, and the Penny Arcade.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/canobie.jpeg" >}}
 
