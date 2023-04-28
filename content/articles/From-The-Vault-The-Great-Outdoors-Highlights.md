@@ -13,3 +13,4 @@ tags:
   - from the vault
 ---
 
+> On April 28, we hosted From The Vault: The Great Outdoors! From The Vault is a biweekly  collections showing of objects selected by Map Center staff. For this edition of From The Vault, we took a look at objects that map National Parks, green space around Boston, and the natural world beyond. 
