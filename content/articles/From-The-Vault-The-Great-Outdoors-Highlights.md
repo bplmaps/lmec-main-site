@@ -31,4 +31,6 @@ Approximately 7,700 years ago, Mount Mazama, a 12,000-foot-tall volcano in today
 
 #### Map of existing and proposed open spaces in Massachusetts (1929)
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343z207/full/,2000/0/default.jpg" >}}
+
 In 1927, the Trustees of Public Reservations reported: “To determine the areas which should be included in the future system of State Parks, Forests and Reservations, a comprehensive survey of the present uses of land, accessibility and potential values of sites for different purposes should be made.” The map shown here was the net of that survey, as requested by “His Excellency Governor Fuller.”
