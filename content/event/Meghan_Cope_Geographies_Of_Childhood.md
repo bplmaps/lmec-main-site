@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Meghan Cope on Geographies Of Childhood
+title: 'Meghan Cope on Mapping American Childhoods: A Digital Atlas Project'
 date: 2023-07-25T16:00:00.000Z
 location: Virtual
 fee: Free
