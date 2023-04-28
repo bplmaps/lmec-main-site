@@ -25,7 +25,7 @@ In 1927, the [Trustees of Public Reservations reported](https://archives.lib.sta
 
 #### A Panoramic View of the Crater Lake National Park, Oregon (1914)
 
-Approximately 7,700 years ago, Mount Mazama, a 12,000-foot-tall volcano in today’s Oregon, erupted, collapsed, and formed Crater Lake. Legend of the native Makalak people explains that the collapse was caused by [a battle between the spirit of the sky and the spirit of the mountain](/ec096e1a546841a0914bafbc3f5b4f83). Today, the lake measures 1,943 feet deep and is known for its bright blue color. 
+Approximately 7,700 years ago, Mount Mazama, a 12,000-foot-tall volcano in today’s Oregon, erupted, collapsed, and formed Crater Lake. Legend of the native Makalak people explains that the collapse was caused by [a battle between the spirit of the sky and the spirit of the mountain](/ec096e1a546841a0914bafbc3f5b4f83). Today, the lake measures 1,943 feet deep and is known for its bright blue color, as featured on [this map from 1914](https://collections.leventhalmap.org/search/commonwealth:4m90fc93t). 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc943/full/2000,/0/default.jpg" class="" >}}
 
