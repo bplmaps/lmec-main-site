@@ -25,9 +25,11 @@ In 1927, the [Trustees of Public Reservations reported](https://archives.lib.sta
 
 #### A Panoramic View of the Crater Lake National Park, Oregon (1914)
 
-Approximately 7,700 years ago, Mount Mazama, a 12,000-foot-tall volcano in today’s Oregon, erupted, collapsed, and formed Crater Lake. Legend of the native Makalak people explains that the collapse was caused by [a battle between the spirit of the sky and the spirit of the mountain](/ec096e1a546841a0914bafbc3f5b4f83). Today, the lake measures 1,943 feet deep and is known for its bright blue color, as featured on [this map from 1914](https://collections.leventhalmap.org/search/commonwealth:4m90fc93t). 
+Approximately 7,700 years ago, Mount Mazama, a 12,000-foot-tall volcano in today’s Oregon, erupted, collapsed, and formed Crater Lake. Legend of the native Makalak people explains that the collapse was caused by [a battle between the spirit of the sky and the spirit of the mountain](/ec096e1a546841a0914bafbc3f5b4f83). Today, the lake measures 1,943 feet deep and is known for its bright blue color, as featured on [this map from 1914](https://collections.leventhalmap.org/search/commonwealth:4m90fc93t).
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc943/full/2000,/0/default.jpg" class="" >}}
+
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/canobie.jpeg" >}}
 
 #### A Map of Mount Desert Island and Acadia National Park (1928)
 
@@ -35,10 +37,8 @@ This [map of Mount Desert Island](https://bpl.bibliocommons.com/v2/record/S75C84
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/arcadia.jpg" class="" caption="" >}}
 
- 
+#### A Comparative View of the Heights of the Principal Mountains in the World (1820)
 
-#### A Comparative View of the Heights of the Principal Mountains in the World (1820) 
-
-[This 1820 map](https://collections.leventhalmap.org/search/commonwealth:x059cd818) of the principal mountains of the world was made using data from Alexander von Humboldt's 1807 [Essay on the Geography of Plants](https://bpl.bibliocommons.com/v2/record/S75C1661848), an early-nineteenth century [Trigonometric Survey of England and Wales](https://www.raremaps.com/gallery/detail/34974/general-survey-of-england-and-wales-an-entirely-new-accu-mudge) conducted under [William Mudge](https://www.cambridge.org/core/books/abs/romantic-cartographies/that-experienced-surveyor-colonel-mudge/5FD19B280558B25D0A63B33A692FB006), and various "Barometric and Geometric Admeasurements made by the French Academicians and scientific Men of that and other countries." 
+[This 1820 map](https://collections.leventhalmap.org/search/commonwealth:x059cd818) of the principal mountains of the world was made using data from Alexander von Humboldt's 1807 [Essay on the Geography of Plants](https://bpl.bibliocommons.com/v2/record/S75C1661848), an early-nineteenth century [Trigonometric Survey of England and Wales](https://www.raremaps.com/gallery/detail/34974/general-survey-of-england-and-wales-an-entirely-new-accu-mudge) conducted under [William Mudge](https://www.cambridge.org/core/books/abs/romantic-cartographies/that-experienced-surveyor-colonel-mudge/5FD19B280558B25D0A63B33A692FB006), and various "Barometric and Geometric Admeasurements made by the French Academicians and scientific Men of that and other countries."
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cd82j/full/2000,/0/default.jpg" >}}
