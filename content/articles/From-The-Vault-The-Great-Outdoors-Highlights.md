@@ -39,7 +39,7 @@ This [map of Mount Desert Island](https://bpl.bibliocommons.com/v2/record/S75C84
 
 #### A Comparative View of the Heights of the Principal Mountains in the World (1820) 
 
-[This 1820 map](https://collections.leventhalmap.org/search/commonwealth:x059cd818) of the principal mountains of the world was made using data from Alexander von Humboldt's 1807 [Essay on the Geography of Plants](https://bpl.bibliocommons.com/v2/record/S75C1661848), an early-nineteenth century [Trigonometric Survey of England and Wales](https://www.raremaps.com/gallery/detail/34974/general-survey-of-england-and-wales-an-entirely-new-accu-mudge) conducted under William Mudge, and various "Barometric and Geometric Admeasurements made by the French Academicians and scientific Men of that and other countries." 
+[This 1820 map](https://collections.leventhalmap.org/search/commonwealth:x059cd818) of the principal mountains of the world was made using data from Alexander von Humboldt's 1807 [Essay on the Geography of Plants](https://bpl.bibliocommons.com/v2/record/S75C1661848), an early-nineteenth century [Trigonometric Survey of England and Wales](https://www.raremaps.com/gallery/detail/34974/general-survey-of-england-and-wales-an-entirely-new-accu-mudge) conducted under [William Mudge](https://www.cambridge.org/core/books/abs/romantic-cartographies/that-experienced-surveyor-colonel-mudge/5FD19B280558B25D0A63B33A692FB006), and various "Barometric and Geometric Admeasurements made by the French Academicians and scientific Men of that and other countries." 
 
 Can you find Blue Hills on among \_\_\_, \_\_\_\_, and \_\_\_\_? Hint: It’s labeled as #77. 
 
