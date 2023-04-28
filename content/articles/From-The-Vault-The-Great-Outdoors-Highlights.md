@@ -19,15 +19,15 @@ tags:
 
 #### A Map of Existing and Proposed Open Spaces in Massachusetts (1929)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343z207/full/,2000/0/default.jpg" >}}
-
 In 1927, the [Trustees of Public Reservations reported](https://archives.lib.state.ma.us/bitstream/handle/2452/812164/ocm09625630.pdf.pdf?sequence=1\&isAllowed=y): “To determine the areas which should be included in the future system of State Parks, Forests and Reservations, a comprehensive survey of the present uses of land, accessibility and potential values of sites for different purposes should be made.” The map shown here was the net of that survey, as requested by “His Excellency Governor Fuller.”
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343z207/full/,2000/0/default.jpg" >}}
 
 #### A Panoramic View of the Crater Lake National Park, Oregon (1914)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc943/full/2000,/0/default.jpg" class="figure-left" >}}
-
 Approximately 7,700 years ago, Mount Mazama, a 12,000-foot-tall volcano in today’s Oregon, erupted, collapsed, and formed Crater Lake. Legend of the native Makalak people explains that the collapse was caused by [a battle between the spirit of the sky and the spirit of the mountain](/ec096e1a546841a0914bafbc3f5b4f83). Today, the lake measures 1,943 feet deep and is known for its bright blue color. 
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc943/full/2000,/0/default.jpg" class="" >}}
 
 #### A Map of Mount Desert Island and Acadia National Park (1928)
 
