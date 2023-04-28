@@ -9,6 +9,7 @@ backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd69z/435,1223,2690,1601/1200,/0/default.jpg
 description: 'Highlights from last week’s edition of *From The Vault: The Great Outdoors*'
 tags:
+  - collections
   - from the vault
 ---
 
