@@ -57,11 +57,11 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: 'Currently showing '
+    - badge: New and improved
       text: >-
-        Building Blocks: Boston Stories from Urban Atlases and Becoming Boston:
-        Eight Moments in the Geography of a Changing City
-      link: 'https://www.leventhalmap.org/exhibitions/'
+        Our free Walk to the Sea self-guided walking tour has been relaunched
+        with new features and resources
+      link: 'https://www.walktothesea.org/'
     - badge: Applications open
       text: >-
         Apply to our Small Grants Fund for Early Career Digital Publications by
