@@ -25,4 +25,4 @@ Between World War II and 1980, tens of thousands of Black people moved to Boston
 
 ##### About the author
 
-Blake Gumprecht is
+Blake Gumprecht taught geography for more than two decades at the University of New Hampshire, the University of South Carolina, and the University of Oklahoma. He is the author of two previous books, The Los Angeles River: Its Life, Death, and Possible Rebirth and The American College Town, both of which won the American Association of Geographers' J. B. Jackson Prize. He now lives and writes in El Paso, Texas.
