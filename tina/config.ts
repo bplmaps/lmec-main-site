@@ -12,7 +12,7 @@ import { store_productFields } from "./templates";
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
 
 export default defineConfig({
-  branch,
+  branch: "main",
   clientId: "097f9d05-d307-4978-823b-d332ea55d27e", // Get this from tina.io
   token: "068cb6cc2bb66b3068fb66f2b66b027ee372f61a", // Get this from tina.io
   client: { skip: true },
