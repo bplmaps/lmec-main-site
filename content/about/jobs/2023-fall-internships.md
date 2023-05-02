@@ -27,7 +27,7 @@ In collaboration with the Assistant Curator for Digital & Participatory Geograph
 
 ##### Development & Fundraising
 
-The development and fundraising intern will work with LMEC Development Coordinator to support both ongoing donor engagement and new, strategic projects that will fund future LMEC research and work. Building development skills can be useful for a wide variety of career fields, including the museum and library world, non-profit organizations, and art & humanities/community-focused entities. The student chosen for the role will use their strong research and writing skills to help with grant prospects and proposals, craft regular communications to donors and patrons, and conduct direct outreach to potential organizational partners.
+The development and fundraising intern will work with LMEC Development Coordinator to support both ongoing donor engagement and new, strategic projects that will fund future LMEC research and work. Building development skills can be useful for a wide variety of career fields, including the museum and library world, non-profit organizations, and art & humanities-focused entities. The student chosen for the role will use their strong research and writing skills to help with grant prospects and proposals, craft regular communications to donors and patrons, and conduct direct outreach to potential organizational partners.
 
 ### **Compensation & Role Details**
 
