@@ -9,7 +9,7 @@ image: >-
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/NTB
   Cover.jpg
-location: Virtual
+location: "BPL Central Library ––\_Commonwealth Salon"
 fee: Free
 draft: true
 tags:
