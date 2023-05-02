@@ -19,7 +19,7 @@ tags:
 
 ### About this event
 
-Join us on Thursday, June 7 at 6:00PM EST with Blake Gumprecht for a talk on his new book, North to Boston: Life Histories from the Black Great Migration in New England, which tells the story of Black migration to the city primarily through the life histories of 10 individuals.
+Join us on Thursday, June 7 at 6:00PM EST with Blake Gumprecht for a talk on his new book, *North to Boston: Life Histories from the Black Great Migration in New England*, which tells the story of Black migration to the city primarily through the life histories of 10 individuals.
 
 Following the talk, there will be time for audience Q\&A.
 
@@ -29,4 +29,4 @@ Between World War II and 1980, tens of thousands of Black people moved to Boston
 
 ##### About the author
 
-Blake Gumprecht taught geography for more than two decades at the University of New Hampshire, the University of South Carolina, and the University of Oklahoma. He is the author of two previous books, The Los Angeles River: Its Life, Death, and Possible Rebirth and The American College Town, both of which won the American Association of Geographers' J. B. Jackson Prize. He now lives and writes in El Paso, Texas.
+Blake Gumprecht taught geography for more than two decades at the University of New Hampshire, the University of South Carolina, and the University of Oklahoma. He is the author of two previous books, *The Los Angeles River: Its Life, Death, and Possible Rebirth* and *The American College Town*, both of which won the American Association of Geographers' J. B. Jackson Prize. He now lives and writes in El Paso, Texas.
