@@ -226,6 +226,42 @@ export function event_listingFields() {
       name: "body",
       label: "Event Description",
       isBody: true,
+      templates: [
+        {
+          name: 'figure',
+          label: 'Single Image',
+          match: {
+            start: '{{<',
+            end: '>}}',
+          },
+          fields: [
+            {
+              name: 'src',
+              label: 'Image URL',
+              type: 'string',
+              required: true,
+            },
+            {
+              name: 'caption',
+              label: 'Caption',
+              type: 'string',
+            },
+            {
+              name: 'class',
+              label: 'Image Orientation',
+              type: 'string',
+              options: [
+                { label: "Figure Left", value: "figure-left" },
+                { label: "Figure Right", value: "figure-right" },
+                { label: "Full Width", value: "" },
+              ],
+              ui: {
+                defaultValue: "",
+              }
+            },
+          ],
+        }
+      ]
     },
   ] as TinaField[];
 }
