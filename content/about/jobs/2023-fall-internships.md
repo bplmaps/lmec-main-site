@@ -22,7 +22,7 @@ This opportunity may be particularly suitable for the following types of undergr
 
 ##### Geospatial Research
 
-Geospatial research interns will work with the Assistant Curator for Digital & Participatory Geography and gain basic GIS (geographic information system) skills as they work with historic atlases from towns around the state of Massachusetts. Interns will also work on other smaller digital projects (web maps, data visualizations) to support interpretive and educational work.
+In collaboration with the Assistant Curator for Digital & Participatory Geography, geospatial research interns will gain basic GIS (geographic information system) skills as they work with historic atlases from towns around the state of Massachusetts. Interns will also work on other smaller digital projects (web maps, data visualizations) to support interpretive and educational work.
 
 ##### Development & Fundraising
 
