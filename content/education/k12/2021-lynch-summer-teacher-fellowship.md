@@ -51,4 +51,10 @@ Please email all documents to: [mleblanc@leventhalmap.org](mailto:mleblanc@leven
 
 **Don’t take our word for it! Our 2022 Fellows share what they liked about their time at the Map Center :**
 
-> *"I am thinking about utilizing maps to help students develop a sense of locality and history. Boston is so historically rich and maps help students connect to that history more tangibly. I am thinking about maps as "sources" for students to think critically about: whose story is being told? Whose is excluded?”"(paid) time to think deeply and critically about new resources to use in my classroom. Guidance from thoughtful, experienced educators (Michelle and Lynn). Useful feedback from other educators about my work, so I can improve."“Sometimes our school networks get too claustrophobic and it is so refreshing to meet other motivated educators who are working so hard (across disciplines!) to serve their students.”“There were so many things I enjoyed about my time as a teacher fellow. The support from Lynn and Michelle, as well as access to materials was incredibly helpful. The flexibility as we developed our project in conjunction with the check ins was useful to create a project that I feel confident about using in the classroom.”*
+> _"I am thinking about utilizing maps to help students develop a sense of locality and history. Boston is so historically rich and maps help students connect to that history more tangibly. I am thinking about maps as "sources" for students to think critically about: whose story is being told? Whose is excluded?”_
+
+> _"(paid) time to think deeply and critically about new resources to use in my classroom. Guidance from thoughtful, experienced educators (Michelle and Lynn). Useful feedback from other educators about my work, so I can improve."_
+
+> _“Sometimes our school networks get too claustrophobic and it is so refreshing to meet other motivated educators who are working so hard (across disciplines!) to serve their students.”_
+
+> _“There were so many things I enjoyed about my time as a teacher fellow. The support from Lynn and Michelle, as well as access to materials was incredibly helpful. The flexibility as we developed our project in conjunction with the check ins was useful to create a project that I feel confident about using in the classroom.”_
