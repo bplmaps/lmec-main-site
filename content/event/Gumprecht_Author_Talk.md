@@ -21,7 +21,7 @@ Join us on Thursday, June 7 at 6:00PM EST with **Blake Gumprecht** for a talk on
 
 Following the talk, there will be time for audience Q\&A.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/Cover400.jpg" class="figure-right" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/NTBCoverFull.jpg" class="figure-right" >}}
 
 ##### About the book
 
