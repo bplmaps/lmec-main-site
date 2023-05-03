@@ -1,10 +1,9 @@
-+++
-backgroundImage = ""
-description = "Our fellowship program for K-12 teachers "
-title = "2023 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History"
-weight = ""
+---
+backgroundImage: ""
+description: "Our fellowship program for K-12 teachers"
+title: "2023 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History"
 
-+++
+---
 **Applications due:** **Monday, May 1**
 
 **Stipend:** $1000
