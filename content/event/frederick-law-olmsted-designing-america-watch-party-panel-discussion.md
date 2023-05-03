@@ -1,16 +1,21 @@
 ---
-publishDate: 2023-04-10T09:11:15-04:00
+publishDate: '2023-04-10T13:11:15.000Z'
 title: 'Frederick Law Olmsted: Designing America Watch Party & Panel Discussion'
-date: 2023-04-27T15:00:00-04:00
-image: "/uploads/2023-04-10/mezzanine_321-980x700.jpeg"
-backgroundImage: "/uploads/2023-04-10/mezzanine_321-980x700.jpeg"
+date: 2023-04-27T19:00:00.000Z
+image: /uploads/2023-04-10/mezzanine_321-980x700.jpeg
+backgroundImage: /uploads/2023-04-10/mezzanine_321-980x700.jpeg
 location: Online
 fee: Free
-registration: https://www.eventbrite.com/e/frederick-law-olmsted-designing-america-watch-party-panel-discussion-registration-588361694667
+registration: >-
+  https://www.eventbrite.com/e/frederick-law-olmsted-designing-america-watch-party-panel-discussion-registration-588361694667
 tags: []
-
 ---
-{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by Olmsted 200.{{< /alert-box >}}
+
+{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by Olmsted 200.{{\< /alert-box >}}
+
+### Event video 
+
+\<iframe width="560" height="315" src="https://www.youtube.com/embed/F4Y\_FAAPUso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>\</iframe>
 
 ### About this event
 
