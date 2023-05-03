@@ -13,6 +13,7 @@ draft: true
 tags:
   - author talk
   - exhibitions
+registration: ''
 ---
 
 ### About this event
