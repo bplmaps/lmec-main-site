@@ -8,7 +8,9 @@ draft: true
 
 #### Do you need technical assistance on a cartographic project?
 
-About this program ...
+With our *Grants in Aid for Works in Progress* program, the Leventhal Map & Education Center seeks to support researchers and scholars whose projects land at the intersection of historical geography, urban civic data, and digital humanities.
+
+This program is oriented towards 1) projects that are well-aligned with LMEC’s priority areas, and 2) applicants who have a well-defined vision for their project, but may lack the technical expertise to bring it to fruition without guidance or support.
 
 Applications are reviewed on a monthly basis and will be awarded based on the capacity of Leventhal Center staff time.
 
