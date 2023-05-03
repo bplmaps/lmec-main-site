@@ -17,7 +17,7 @@ tags:
 
 ### About this event
 
-Join us on Thursday, June 7 at 6:00PM EST with Blake Gumprecht for a talk on his new book, ***North to Boston: Life Histories from the Black Great Migration in New England***, which tells the story of Black migration to the city primarily through the life histories of 10 individuals.
+Join us on Thursday, June 7 at 6:00PM EST with Blake Gumprecht for a talk on his new book, ***[North to Boston: Life Histories from the Black Great Migration in New England](https://global.oup.com/academic/product/north-to-boston-9780197614440?cc=us\&lang=en&)***, which tells the story of Black migration to the city primarily through the life histories of 10 individuals.
 
 Following the talk, there will be time for audience Q\&A.
 
