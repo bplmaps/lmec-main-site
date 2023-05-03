@@ -13,7 +13,8 @@ draft: false
 tags:
   - author talk
   - exhibitions
-registration: ''
+registration: >-
+  https://www.eventbrite.com/e/blake-gumprecht-on-north-to-boston-histories-of-the-black-great-migration-tickets-629329239697
 ---
 
 ### About this event
