@@ -3,7 +3,6 @@ title: Fall 2023 Internships
 backgroundImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 cardImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 menu: true
-draft: true
 ---
 
 {{\< alert-box type="info" title="Applications Due Friday, May 26 at 3pm" >}}
