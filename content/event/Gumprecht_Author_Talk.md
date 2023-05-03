@@ -7,7 +7,7 @@ image: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/NTBCover.png
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/NTBCover.png
-location: BPL Central Library –– Commonwealth Salon
+location: BPL Central Library – Commonwealth Salon
 fee: Free
 draft: true
 tags:
