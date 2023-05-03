@@ -188,6 +188,15 @@ export function event_listingFields() {
       }
     },
     {
+      type: "datetime",
+      name: "publishDate",
+      label: "Publish Date",
+      required: true,
+      ui: {
+        timeFormat: "HH:mm"
+      },
+    },
+    {
       type: "string",
       name: "image",
       label: "Image",

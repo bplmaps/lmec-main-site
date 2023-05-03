@@ -2,19 +2,19 @@
 title: >-
   Blake Gumprecht on North to Boston: Life Histories from the Black Great
   Migration in New England
-date: 2023-06-07T22:00:00.000Z
+date: '2023-06-07T22:00:00.000Z'
 image: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/NTBCover.png
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/NTBCover.png
 location: BPL Central Library – Commonwealth Salon
 fee: Free
-draft: false
 tags:
   - author talk
   - exhibitions
 registration: >-
   https://www.eventbrite.com/e/blake-gumprecht-on-north-to-boston-histories-of-the-black-great-migration-tickets-629329239697
+publishDate: '2023-05-03T20:00:00.000Z'
 ---
 
 ### About this event
