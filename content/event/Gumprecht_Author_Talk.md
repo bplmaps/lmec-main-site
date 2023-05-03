@@ -1,6 +1,6 @@
 ---
 title: >-
-  Black Gumprecht on North to Boston: Life Histories from the Black Great
+  Blake Gumprecht on North to Boston: Life Histories from the Black Great
   Migration in New England
 date: 2023-06-07T22:00:00.000Z
 image: >-
@@ -18,7 +18,7 @@ registration: ''
 
 ### About this event
 
-Join us on Thursday, June 7 at 6:00PM EST with **Blake Gumprecht** for a talk on his new book, [*North to Boston: Life Histories from the Black Great Migration in New England*](https://global.oup.com/academic/product/north-to-boston-9780197614440?cc=us\&lang=en&), which tells the story of Black migration to the city primarily through the life histories of 10 individuals.
+Join us on Thursday, June 7 at 6:00PM EST with **Blake Gumprecht** for a talk on his new book, *[North to Boston: Life Histories from the Black Great Migration in New England](https://global.oup.com/academic/product/north-to-boston-9780197614440?cc=us\&lang=en&)*, which tells the story of Black migration to the city primarily through the life histories of 10 individuals.
 
 This talk will be held in person in the [Commonwealth Salon](https://www.bpl.org/central-library-floor-plan/) at the Central Library in Copley Square. Following the talk, there will be time for audience Q\&A.
 
