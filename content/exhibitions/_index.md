@@ -58,7 +58,10 @@ Maps trace out the complicated history of places, and we can use them to documen
 
 How do Bostonians get from here to there in a city full of trains, trolleys, ferries, and more? Whether in the familiar colored lines of today’s MBTA map or the complicated timetables of long-vanished omnibus routes, maps have long been an indispensable instrument for getting around town. This exhibition will feature an extraordinary collection of transit maps dating from the seventeenth century to the present, and invites questions about how people have moved around the city in the past, present, and future. Public events during the exhibition will encourage visitors to engage with issues of mobility and transportation justice in the present day.
 
-*Guest curated by Steven Beaucher, author of [Boston in Transit](https://bpl.bibliocommons.com/v2/record/S75C8459214) and owner of [WardMaps](https://wardmapsgifts.com/).*
+*Guest curated by Steven Beaucher, author of [Boston in Transit](https://bpl.bibliocommons.com/v2/record/S75C8459214) and owner of [WardMaps](https://wardmapsgifts.com/). The exhibition is supported by a grant from the Barr Foundation.*
+
+<a href="https://www.barrfoundation.org/"><img src="https://barrfdn-prod.s3.amazonaws.com/image/3394/crop_preview.jpg?1600189547" width="200px"></a>
+
 
 ### *Mapping Heaven and Earth: The Blue Maps of China*
 
