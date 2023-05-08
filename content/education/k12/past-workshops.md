@@ -12,6 +12,7 @@ description: >-
   * [Native People & Settler Colonialism: A Story of Land and Maps](https://collections.leventhalmap.org/educators/curriculum-materials/136)
   * Map Learning for Elementary Students: [What is a Map?](https://collections.leventhalmap.org/educators/curriculum-materials/127)
   * [Mapping the American Revolution](https://collections.leventhalmap.org/educators/curriculum-materials/138)
+* [Visualizing the World: Maps as Stories, Teachers as Scholars](https://teachers-scholars.org/our-programs/seminars-2022-23/)
 
 **2022**
 
