@@ -24,7 +24,7 @@ description: >-
 * Visualizing Change in Boston: Using Digital Commonwealth Collections to Tell Stories of Places and Activism
 * [2022 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History](https://www.leventhalmap.org/education/k12/lynch-summer-teacher-fellowship/ "2022 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History")
 * Small Bites 2022-2023: An after-school series of gatherings for educators introducing our core programs
-  * [World Maps Over Time](https://bostonpubliclibrary.sharepoint.com/sites/LeventhalMap/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FLeventhalMap%2FShared%20Documents%2FEducation%2FK%2D12%2FLessons%2FLessons%2FWorld%20Maps%20Over%20Time%2FWorldMapsOverTime%5FTIYS%2Epdf\&parent=%2Fsites%2FLeventhalMap%2FShared%20Documents%2FEducation%2FK%2D12%2FLessons%2FLessons%2FWorld%20Maps%20Over%20Time\&p=true\&ga=1)
+  * [World Maps Over Time](https://collections.leventhalmap.org/educators/curriculum-materials/128)
 
 **2021**
 
