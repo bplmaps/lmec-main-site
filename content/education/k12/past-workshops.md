@@ -8,13 +8,14 @@ description: >-
 
 **2022**
 
-* Small Bites: An after-school series of gatherings for educators interested in teaching about Boston through a geospatial and social justice lens
+* Small Bites 2021-2022: An after-school series of gatherings for educators interested in teaching about Boston through a geospatial and social justice lens
   * Learn to Make a Digital Map Mini-session
   * Environmental Justice in Boston
   * Educator Social and Map Giveaway
   * Environmental Justice and Activism Resource Sharing with the [Tsongas Industrial History Center](https://www.uml.edu/tsongas/)
 * [*More or Less in Common*: Teaching Environmental Justice and Activism in Massachusetts and Beyond](https://bostonpubliclibrary.sharepoint.com/:i:/s/LeventhalMap/EVROto2nrLlOjjD6MSFPlo4B33LVOn3PZlIXxBmrkTXDNw?e=47hj0L)
 * Visualizing Change in Boston: Using Digital Commonwealth Collections to Tell Stories of Places and Activism
+* [2022 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/ETe30elG0mVOhcz5wd6cSecB9XR1S3-VRO0w2Lbq_HpkPw?e=hWFQk7 "2021 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History")
 
 **2021**
 
