@@ -15,7 +15,7 @@ description: >-
   * Environmental Justice and Activism Resource Sharing with the [Tsongas Industrial History Center](https://www.uml.edu/tsongas/)
 * [*More or Less in Common*: Teaching Environmental Justice and Activism in Massachusetts and Beyond](https://bostonpubliclibrary.sharepoint.com/:i:/s/LeventhalMap/EVROto2nrLlOjjD6MSFPlo4B33LVOn3PZlIXxBmrkTXDNw?e=47hj0L)
 * Visualizing Change in Boston: Using Digital Commonwealth Collections to Tell Stories of Places and Activism
-* [2022 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/ETe30elG0mVOhcz5wd6cSecB9XR1S3-VRO0w2Lbq_HpkPw?e=hWFQk7 "2021 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History")
+* [2022 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History](https://www.leventhalmap.org/education/k12/lynch-summer-teacher-fellowship/ "2022 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History")
 
 **2021**
 
