@@ -11,7 +11,7 @@ description: >-
 * Small Bites 2022-2023: An after-school series of gatherings for educators introducing our core programs
   * [Native People & Settler Colonialism: A Story of Land and Maps](https://collections.leventhalmap.org/educators/curriculum-materials/136)
   * Map Learning for Elementary Students: [What is a Map?](https://collections.leventhalmap.org/educators/curriculum-materials/127)
-  * Mapping the American Revolution
+  * [Mapping the American Revolution](https://collections.leventhalmap.org/educators/curriculum-materials/138)
 
 **2022**
 
