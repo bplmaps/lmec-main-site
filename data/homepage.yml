@@ -62,16 +62,19 @@ cta:
         Our free Walk to the Sea self-guided walking tour has been relaunched
         with new features and resources
       link: 'https://www.walktothesea.org/'
-    - badge: Applications open
-      text: >-
-        Apply to our Small Grants Fund for Early Career Digital Publications by
-        May 18 at 5:00 pm
-      link: 'https://www.leventhalmap.org/research/digital-publication-small-grants/'
     - badge: Sponsor an atlas
       text: >-
         Are there atlases of other Massachusetts towns you would like to see
         added to Atlascope? Help support the expansion of our Atlascope tool! 
       link: 'https://www.leventhalmap.org/donate/sponsor-an-atlas/'
+    - badge: Fall internships
+      text: 'Applications for our Fall 2023 internships are due May 26, 2023 at 3pm.'
+      link: 'https://www.leventhalmap.org/about/jobs/2023-fall-internships/'
+    - badge: Applications open
+      text: >-
+        Apply to our Small Grants Fund for Early Career Digital Publications by
+        May 18 at 5:00 pm
+      link: 'https://www.leventhalmap.org/research/digital-publication-small-grants/'
 audiences:
   enable: true
   audienceGroups:
