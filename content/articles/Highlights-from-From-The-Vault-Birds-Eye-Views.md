@@ -34,7 +34,7 @@ This [colorful map of Derry, NH ](https://collections.leventhalmap.org/search/co
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f427s/74,89,8410,5550/2000,/0/default.jpg" >}}
 
-#### *A Bird’s eye view of Dublin* (1890)
+#### *A bird’s eye view of Dublin* (1890)
 
 Henry W. Brewer was a British illustrator who gained fame for his detailed city panoramas in nineteenth century. This [map](https://collections.leventhalmap.org/search/commonwealth:9s1618999) depicts the city of Dublin in 1890 and was created to supplement “The Graphic,” published on December 27, 1890.
 
