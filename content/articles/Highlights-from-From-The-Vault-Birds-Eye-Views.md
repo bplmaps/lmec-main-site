@@ -28,14 +28,20 @@ This [map of trolley routes](https://collections.leventhalmap.org/search/commonw
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343z13t/full/,2000/0/default.jpg" >}}
 
-#### Derry, New Hampshire (1898)
+#### *Derry, New Hampshire* (1898)
 
 This [colorful map of Derry, NH ](https://collections.leventhalmap.org/search/commonwealth:4m90f426h)was published by Charles Bartlett, Publisher in 1898. Can you locate the printing and publishing house on the map’s landscape?
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f427s/74,89,8410,5550/2000,/0/default.jpg" >}}
 
-#### A Bird’s eye view of Dublin (1890)
+#### *A Bird’s eye view of Dublin* (1890)
 
 Henry W. Brewer was a British illustrator who gained fame for his detailed city panoramas in nineteenth century. This [map](https://collections.leventhalmap.org/search/commonwealth:9s1618999) depicts the city of Dublin in 1890 and was created to supplement “The Graphic,” published on December 27, 1890.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161900v/full/2000,/0/default.jpg" >}}
+
+#### Martel's New York Central Park (1864)
+
+This [1864 bird's eye view](https://collections.leventhalmap.org/search/commonwealth:0r96fp760) depicts a newly-completed Central Park from the perspective above Fifth Avenue and 58th Street. 
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp778/full/2000,/0/default.jpg" >}}
