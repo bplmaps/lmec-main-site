@@ -49,3 +49,5 @@ This [1864 bird's eye view](https://collections.leventhalmap.org/search/commonwe
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp778/104,89,7544,4555/2000,/0/default.jpg" >}}
 
 #### Bird's eye view of the City of Lowell (1987)
+
+Recognized as the first planned company mill town, Lowell was founded in the 1820s when a group of Boston financiers constructed a textile factory on a canal bypassing the Merrimack River’s Pawtucket Falls. This [view](https://collections.leventhalmap.org/search/commonwealth:x633fc76x) served primarily as a business directory with the legend listing sixty industrial and commercial activities.
