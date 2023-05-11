@@ -20,17 +20,17 @@ tags:
 
 #### Geo. H. Walker & Co.
 
-Over 100 objects from our collections, including the two maps shown here, were produced by a Boston-based firm called the Geo. H. Walker & Co. The lithographic firm operated from 1882 to 1927 and produced things like maps, views, portraits, sheet music, and book illustrations. 
+Over 100 objects from our collections, including this [map of Casco Bay](https://collections.leventhalmap.org/search/commonwealth:r494vs43c), were produced by a Boston-based firm called the Geo. H. Walker & Co. The lithographic firm operated from 1882 to 1927 and produced things like maps, views, portraits, sheet music, and book illustrations.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fq06j/1331,99,9293,6555/2000,/0/default.jpg" >}}
 
-This map of trolley routes across New England was published in 1905 by the New England Street Railway Club, an early-twentieth century trade association for railway operators and engineers based right here in Boston at 12 Pearl Street. It “contains valuable information for travelers by trolley” like distance, fare, and travel time, and could be purchased for ten cents at “all news stands” or by writing to the Trolley Information Bureau.
+This [map of trolley routes](https://collections.leventhalmap.org/search/commonwealth:jh343z12j) across New England was published in 1905 by the New England Street Railway Club, an early-twentieth century trade association for railway operators and engineers based right here in Boston at 12 Pearl Street. It “contains valuable information for travelers by trolley” like distance, fare, and travel time, and could be purchased for ten cents at “all news stands” or by writing to the Trolley Information Bureau.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343z13t/full/,2000/0/default.jpg" >}}
 
 #### Derry, New Hampshire (1898)
 
-This map was published by Charles Bartlett, Publisher in 1898. Can you locate the printing and publishing house on the map’s landscape? 
+This [map](https://collections.leventhalmap.org/search/commonwealth:4m90f426h) was published by Charles Bartlett, Publisher in 1898. Can you locate the printing and publishing house on the map’s landscape?
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f427s/74,89,8410,5550/2000,/0/default.jpg" >}}
 
