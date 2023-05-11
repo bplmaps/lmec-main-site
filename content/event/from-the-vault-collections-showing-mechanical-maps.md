@@ -1,5 +1,5 @@
 ---
-publishDate: '2023-04-04T19:45:44.000Z'
+publishDate: 2023-04-04T19:45:44.000Z
 title: From The Vault Collections Showing — Mechanical Maps
 date: 2023-05-26T18:00:00.000Z
 image: >-
@@ -16,8 +16,6 @@ draft: false
 ---
 
 ### About this event
-
-{{\< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cb47j/full/2000,/0/default.jpg" caption="*[Bird's-eye view of Boston, United States](https://collections.leventhalmap.org/search/commonwealth:x059cb468)*" class="figure-right" >}}
 
 Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of *From The Vault*, we'll take a look at objects from our collections that move!
 
