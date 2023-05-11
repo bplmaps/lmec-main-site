@@ -47,3 +47,5 @@ This [colorful map of Derry, NH ](https://collections.leventhalmap.org/search/co
 This [1864 bird's eye view](https://collections.leventhalmap.org/search/commonwealth:0r96fp760) depicts a newly-completed Central Park from the perspective above Fifth Avenue and 58th Street. 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp778/104,89,7544,4555/2000,/0/default.jpg" >}}
+
+#### Bird's eye view of the City of Lowell (1987)
