@@ -34,4 +34,6 @@ This map was published by Charles Bartlett, Publisher in 1898. Can you locate th
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f427s/74,89,8410,5550/2000,/0/default.jpg" >}}
 
-####
+#### A Bird’s eye view of Dublin (1890)
+
+Henry W. Brewer was a British illustrator who gained fame for his detailed city panoramas in nineteenth century. This map displays the city of Dublin in 1890 and was created to supplement “The Graphic,” published on December 27, 1890.
