@@ -33,3 +33,5 @@ This map of trolley routes across New England was published in 1905 by the New E
 This map was published by Charles Bartlett, Publisher in 1898. Can you locate the printing and publishing house on the map’s landscape? 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f427s/74,89,8410,5550/2000,/0/default.jpg" >}}
+
+####
