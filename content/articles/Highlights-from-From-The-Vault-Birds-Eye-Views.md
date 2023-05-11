@@ -36,10 +36,6 @@ This [map of trolley routes](https://collections.leventhalmap.org/search/commonw
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343z13t/65,46,4660,6806/,2000/0/default.jpg" >}}
 
-####
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161900v/135,71,10237,3601/2000,/0/default.jpg" >}}
-
 #### *Derry, New Hampshire* (1898)
 
 This [colorful map of Derry, NH ](https://collections.leventhalmap.org/search/commonwealth:4m90f426h)was published by Charles Bartlett, Publisher in 1898. Can you locate the printing and publishing house on the map’s landscape?
