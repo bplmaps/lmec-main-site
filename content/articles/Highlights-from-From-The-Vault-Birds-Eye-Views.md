@@ -56,4 +56,4 @@ Recognized as the first planned company mill town, Lowell was founded in the 182
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc776/217,135,9406,6947/2000,/0/default.jpg" >}}
 
-> For more on bird's eye views, take a read through our past exhibition, [Boston and Beyond: A Bird’s Eye View of New England](https://collections.leventhalmap.org/exhibits/16) or 
+> For more on bird's eye views, take a read through our past exhibition, [Boston and Beyond: A Bird’s Eye View of New England, and explore our digital collections. ]()
