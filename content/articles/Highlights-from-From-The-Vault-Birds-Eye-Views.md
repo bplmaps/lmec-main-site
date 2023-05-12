@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Highlights from From The Vault: Bird''s Eye Views'
 date: 2023-05-15T04:00:00.000Z
 author: LMEC Staff
