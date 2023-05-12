@@ -28,7 +28,7 @@ Over 100 objects from our collections, including this map of Casco Bay, were pro
 
 #### *A bird’s eye view of Dublin* (1890)
 
-Henry W. Brewer was a British illustrator who gained fame for his detailed city panoramas in nineteenth century. This [map](https://collections.leventhalmap.org/search/commonwealth:9s1618999) depicts the city of Dublin in 1890 and was created to supplement “The Graphic,” published on December 27, 1890. 
+A scene of 1890 Dublin is depicted in great panoramic detail on this [map](https://collections.leventhalmap.org/search/commonwealth:9s1618999) by Henry W. Brewer, a British illustrator who gained fame for his detailed city panoramas in nineteenth century. Brewer was an early contributor to *The Graphic*, a British weekly illustrated newspaper, where this map was first published as a supplement on [December 27, 1890](https://www.britishnewspaperarchive.co.uk/search/results/1890-12-27?NewspaperTitle=The%2BGraphic\&IssueId=BL%2F9000057%2F18901227%2F\&County=London%2C%20England). 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161900v/135,71,10237,3601/2000,/0/default.jpg" >}}
 
@@ -46,7 +46,7 @@ This [colorful map of Derry, NH ](https://collections.leventhalmap.org/search/co
 
 #### *Martel's New York Central Park* (1864)
 
-This [1864 bird's eye view](https://collections.leventhalmap.org/search/commonwealth:0r96fp760) depicts a newly-completed Central Park from the perspective above Fifth Avenue and 58th Street. The Pond 
+This [1864 bird's eye view](https://collections.leventhalmap.org/search/commonwealth:0r96fp760) depicts a newly-completed Central Park from the perspective above Fifth Avenue and 58th Street.  
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp778/104,89,7544,4555/2000,/0/default.jpg" >}}
 
