@@ -46,7 +46,7 @@ This [colorful map of Derry, NH](https://collections.leventhalmap.org/search/com
 
 #### *Martel's New York Central Park* (1864)
 
-This [1864 bird's eye view](https://collections.leventhalmap.org/search/commonwealth:0r96fp760) depicts a newly-completed Central Park from the perspective above Fifth Avenue and 58th Street. To identify some of the park's attractions, we took a look at this [1856 improvement plan](https://collections.leventhalmap.org/search/commonwealth:3f463279b#image), which includes labels for the Botanical Gardens, Receiving Reservoir, Vista Rock, and Croton Lake. 
+This [1864 bird's eye view](https://collections.leventhalmap.org/search/commonwealth:0r96fp760) depicts a newly-completed Central Park from the perspective above Fifth Avenue and 58th Street. To identify some of the park's attractions, we compared the map with this [1856 improvement plan](https://collections.leventhalmap.org/search/commonwealth:3f463279b#image) which includes labels for the Botanical Gardens, Receiving Reservoir, Vista Rock, and Croton Lake. 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp778/104,89,7544,4555/2000,/0/default.jpg" >}}
 
