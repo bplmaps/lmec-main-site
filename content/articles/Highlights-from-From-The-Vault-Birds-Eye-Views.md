@@ -28,7 +28,7 @@ Over 100 objects from our collections, including this [map of Casco Bay](https:/
 
 #### *A bird’s eye view of Dublin* (1890)
 
-Henry W. Brewer was a British illustrator who gained fame for his detailed city panoramas in nineteenth century. This [map](https://collections.leventhalmap.org/search/commonwealth:9s1618999) depicts the city of Dublin in 1890 and was created to supplement “The Graphic,” published on December 27, 1890.
+Henry W. Brewer was a British illustrator who gained fame for his detailed city panoramas in nineteenth century. This [map](https://collections.leventhalmap.org/search/commonwealth:9s1618999) depicts the city of Dublin in 1890 and was created to supplement “The Graphic,” published on December 27, 1890. 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161900v/135,71,10237,3601/2000,/0/default.jpg" >}}
 
