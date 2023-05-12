@@ -16,7 +16,7 @@ tags:
   - collections
 ---
 
-> On May 12, we hosted [From The Vault: Bird's Eye Views](https://www.leventhalmap.org/event/from-the-vault-collections-showing-bird-s-eye-views/)! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition the series, we looked at objects that map spaces and places from above
+> On May 12, we hosted *[From The Vault: Bird's Eye Views](https://www.leventhalmap.org/event/from-the-vault-collections-showing-bird-s-eye-views/)*! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition the series, we looked at objects that map spaces and places from above
 
 #### *Birds eye view of Casco Bay, Portland, Maine, and surroundings* (1906)
 
