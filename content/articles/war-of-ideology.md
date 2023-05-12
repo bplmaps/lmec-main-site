@@ -1,5 +1,5 @@
 ---
-title: 'A war of ideology: Reading the *Illustrierte karte* through the lens of geopolitics'
+title: 'A War of Ideology: Reading the Illustrierte karte map through the lens of geopolitics'
 author: Joshua Aldwinckle-Povey
 description: One map from a midcentury series tells a story about Cold War propaganda
 date: 2023-05-30T09:30:00-05:00

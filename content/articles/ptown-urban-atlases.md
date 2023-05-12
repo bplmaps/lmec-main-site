@@ -2,7 +2,7 @@
 title: Exploring Provincetown with urban atlases
 author: Joshua Aldwinckle-Povey
 description: Provincetown Through The Years (colon) As Seen Through Urban Atlases
-date: 2023-05-10T01:30:00.000+00:00
+date: 2023-05-30T01:30:00.000+00:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n1743/661,702,8449,4015/full/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n1743/661,702,8449,4015/full/0/default.jpg
 draft: true
