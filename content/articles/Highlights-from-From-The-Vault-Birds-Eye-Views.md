@@ -22,7 +22,7 @@ tags:
 
 #### *Birds eye view of Casco Bay, Portland, Maine, and surroundings* (1906)
 
-Over 100 objects from our collections, including this [map of Casco Bay](https://collections.leventhalmap.org/search/commonwealth:r494vs43c), were produced by a Boston-based firm called the [Geo. H. Walker & Co](https://bpl.bibliocommons.com/v2/search?query=Geo.%20H.%20Walker%20%26%20Co\&searchType=author&_ga=2.120197696.959205786.1683907505-449556815.1683124406). The lithographic firm operated from 1882 to 1927 and produced things like maps, views, portraits, sheet music, and book illustrations. Some of our favorites include this [view of Boston freight terminals](https://collections.leventhalmap.org/search/commonwealth:df65xz27g), [a bicycle map of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:ht250310x), and this [long map of Commonwealth Avenue](https://collections.leventhalmap.org/search/commonwealth:1g05ht759). 
+Over 100 objects from our collections, including this map of Casco Bay, were produced by a Boston-based firm called the Geo. H. Walker & Co. The lithographic firm operated from 1882 to 1927 and produced things like maps, views, portraits, sheet music, and book illustrations. Some of our favorites include [a view of Boston freight terminals](https://collections.leventhalmap.org/search/commonwealth:df65xz27g), [a bicycle map of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:ht250304s), and [a long, folded map of Commonwealth Avenue](https://collections.leventhalmap.org/search/commonwealth:1g05ht759). 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fq06j/1331,99,9293,6555/2000,/0/default.jpg" >}}
 
