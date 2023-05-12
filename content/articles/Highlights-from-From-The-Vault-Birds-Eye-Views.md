@@ -20,7 +20,7 @@ tags:
 
 ### All about bird's eye views 
 
-Bird's eye views are a unique genre of cartographic materials that were drawn as if the artist viewed a town from an elevated or bird’s eye view perspective.  They were compiled and published primarily in North America during the last half of the 19th century and the early decades of the 20th century. Artists often displayed a perspective and bias in selecting a particular (non-north) orientation. A few surviving field sketch notes and manuscript drawings reveal that the artists did not actually view their subjects from an elevated perspective, but walked the streets sketching individual buildings. Then they prepared a composite drawing depicting the town to its best promotional advantage.
+Bird's eye views are a unique genre of cartographic materials that were drawn as if the artist viewed a town from an elevated or bird’s eye view perspective.  They were compiled and published primarily in North America during the last half of the 19th century and the early decades of the 20th century. Artists artists did not actually view their subjects from an elevated perspective, but walked the streets sketching individual buildings. Then they prepared a composite drawing depicting the town to its best promotional advantage.
 
 #### *Birds eye view of Casco Bay, Portland, Maine, and surroundings* (1906)
 
