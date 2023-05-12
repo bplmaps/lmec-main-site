@@ -40,7 +40,7 @@ This [map of trolley routes](https://collections.leventhalmap.org/search/commonw
 
 #### *Derry, New Hampshire* (1898)
 
-This colorful map of Derry, NH was published by Charles Bartlett, Publisher in 1898. Can you locate the printing and publishing house on the map’s landscape? Also included on the map is the Pinkerton Academy, [an independent day and boarding school](https://www.pinkertonacademy.org/about/history) founded by brothers Major John and Elder James Pinkerton in 1814. The original school building still stands today alongside twenty-two new\[er] academic buildings, residences, and athletic fields. 
+This [colorful map of Derry, NH](https://collections.leventhalmap.org/search/commonwealth:4m90f426h) was published by Charles Bartlett, Publisher in 1898. Can you locate the printing and publishing house on the map’s landscape? Also included on the map is the Pinkerton Academy, [an independent day and boarding school](https://www.pinkertonacademy.org/about/history) founded by brothers Major John and Elder James Pinkerton in 1814. The original school building still stands today alongside twenty-two new\[er] academic buildings, residences, and athletic fields. 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f427s/74,89,8410,5550/2000,/0/default.jpg" >}}
 
