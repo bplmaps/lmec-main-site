@@ -8,9 +8,9 @@ description: >+
   Eye Views
 
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cb47j/463,573,4169,2599/2000,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n782n/519,665,6570,3694/1200,/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cb47j/463,573,4169,2599/2000,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n782n/519,665,6570,3694/1200,/0/default.jpg
 tags:
   - from the vault
   - collections
