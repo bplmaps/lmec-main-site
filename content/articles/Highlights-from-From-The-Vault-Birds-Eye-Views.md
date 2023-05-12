@@ -18,6 +18,8 @@ tags:
 
 > On May 12, we hosted *[From The Vault: Bird's Eye Views](https://www.leventhalmap.org/event/from-the-vault-collections-showing-bird-s-eye-views/)*! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition the series, we looked at objects that map spaces and places from above
 
+### All about bird's eye views 
+
 #### *Birds eye view of Casco Bay, Portland, Maine, and surroundings* (1906)
 
 Over 100 objects from our collections, including this [map of Casco Bay](https://collections.leventhalmap.org/search/commonwealth:r494vs43c), were produced by a Boston-based firm called the Geo. H. Walker & Co. The lithographic firm operated from 1882 to 1927 and produced things like maps, views, portraits, sheet music, and book illustrations.
