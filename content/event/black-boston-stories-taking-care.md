@@ -21,7 +21,7 @@ For this conversation, we are thrilled to be joined by:
 
 * Reggie Jean, [Executive Director of Haley House](https://haleyhouse.org/our-people/)
 * Jo-Anna Rorie, [Consulting Midwife at of the Neighborhood Birthing Center](https://neighborhoodbirthcenter.org/staff)
-*  [Apolo Catala](https://www.thecarrotproject.org/wp-content/uploads/2021/03/Oasis_Client_Update_2020.8691901.pdf) from Oases on Ballou. 
+*  Apolo Catala, [Oases on Ballou ](https://www.thecarrotproject.org/wp-content/uploads/2021/03/Oasis_Client_Update_2020.8691901.pdf)
 
 Food will be provided. Registration encouraged but not required.
 
