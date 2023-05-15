@@ -17,7 +17,7 @@ draft: true
 
 Join us for a panel conversation on *Black Boston Stories: Taking Care* on Thursday, June 15 at 6PM at the [Grove Hall Branch of the Boston Public Library](https://www.bpl.org/locations/grove-hall/). Three Boston residents will reflect on taking care in and of Boston's Black communities, and lead a wider conversation with participants.
 
-For this conversation, we are thrilled to be joined by:
+**Meet the panelists **
 
 * Apolo Catala, [Oases on Ballou](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.thecarrotproject.org/wp-content/uploads/2021/03/Oasis_Client_Update_2020.8691901.pdf)
 * Reggie Jean, [Haley House](https://haleyhouse.org/)
