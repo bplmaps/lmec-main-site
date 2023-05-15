@@ -15,7 +15,7 @@ draft: true
 
 ### About this event
 
-Join us for a panel conversation on Black Boston Stories: Taking Care on Thursday, June 15 at 6PM at the [Grove Hall Branch of the Boston Public Library](https://www.bpl.org/locations/grove-hall/). Three long-time Boston residents will reflect on \_\_\_\_\_\_\_\_\_ and lead a wider conversation with participants.
+Join us for a panel conversation on Black Boston Stories: Taking Care on Thursday, June 15 at 6PM at the [Grove Hall Branch of the Boston Public Library](https://www.bpl.org/locations/grove-hall/). Three Boston residents will reflect on taking care in and of Boston's Black communities, and lead a wider conversation with participants.
 
 Food will be provided. Registration encouraged but not required.
 
