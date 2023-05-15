@@ -15,13 +15,13 @@ draft: true
 
 ### About this event
 
-Join us for a panel conversation on Black Boston Stories: Taking Care on Thursday, June 15 at 6PM at the [Grove Hall Branch of the Boston Public Library](https://www.bpl.org/locations/grove-hall/). Three Boston residents will reflect on taking care in and of Boston's Black communities, and lead a wider conversation with participants.
+Join us for a panel conversation on *Black Boston Stories: Taking Care* on Thursday, June 15 at 6PM at the [Grove Hall Branch of the Boston Public Library](https://www.bpl.org/locations/grove-hall/). Three Boston residents will reflect on taking care in and of Boston's Black communities, and lead a wider conversation with participants.
 
 For this conversation, we are thrilled to be joined by:
 
-* Reggie Jean, [Executive Director of Haley House](https://haleyhouse.org/our-people/)
-* Jo-Anna Rorie, [Consulting Midwife at of the Neighborhood Birthing Center](https://neighborhoodbirthcenter.org/staff)
-*  Apolo Catala, [Oases on Ballou](https://www.thecarrotproject.org/wp-content/uploads/2021/03/Oasis_Client_Update_2020.8691901.pdf)
+* Apolo Catala, [Oases on Ballou](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.thecarrotproject.org/wp-content/uploads/2021/03/Oasis_Client_Update_2020.8691901.pdf)
+* Reggie Jean, [Haley House](https://haleyhouse.org/)
+* Jo-Anna Rorie, [Neighborhood Birthing Center](https://neighborhoodbirthcenter.org/)
 
 Food will be provided. Registration encouraged but not required.
 
