@@ -13,8 +13,6 @@ backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ms35ws551/3851,1936,18556,6043/1200,/0/default.jpg
 ---
 
-{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This program is hosted by the Harvard Radcliffe Institute.{{\< /alert-box >}}
-
 ### About this event
 
 The climate crisis is a matter of environmental injustice; it is also a matter of historical injustice. How can historical visualizations illuminate past inequities, present realities, and future possibilities for adapting to and mitigating the effects of climate change?
