@@ -13,7 +13,7 @@ tags:
   - Building Blocks
   - conversation
   - exhibition
-draft: true
+draft: false
 ---
 
 ### About this event
