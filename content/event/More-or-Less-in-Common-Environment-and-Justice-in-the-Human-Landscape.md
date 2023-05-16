@@ -11,6 +11,8 @@ image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ms35ws551/3851,1936,18556,6043/1200,/0/default.jpg
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ms35ws551/3851,1936,18556,6043/1200,/0/default.jpg
+tags:
+  - More or Less in Common
 ---
 
 ### About this event
