@@ -8,7 +8,7 @@ tags: [immigration]
 
 ---
 
-{{< alert-box type="success" title="The window for submissions is currently open" >}} Applications for this Cartography Challenge are open through **10pm ET on December 19, 2022.**{{< /alert-box >}}
+{{< alert-box type="danger" title="The window for submissions is closed" >}} Applications for this Cartography Challenge closed on **10pm ET on December 19, 2022.**{{< /alert-box >}}
 
 ## The Details
 
