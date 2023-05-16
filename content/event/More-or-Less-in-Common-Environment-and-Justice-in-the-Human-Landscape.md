@@ -19,7 +19,7 @@ The climate crisis is a matter of environmental injustice; it is also a matter o
 
 Human geographer Garrett Dash Nelson will explore the uneven distributions of harm, responsibility, vulnerability, and power, in both historical and local perspectives. The city of Boston and its environs will serve as a microcosm for the exploration of ways in which climate change will amplify a century’s worth of environmental injustice. Can historical visualizations help us to overcome the structuring effects of this legacy?
 
-Harvard Radcliffe Institute gratefully acknowledges the Ethel and David Jackson Fund for the Future Climate, which is supporting this event.
+*Harvard Radcliffe Institute gratefully acknowledges the Ethel and David Jackson Fund for the Future Climate, which is supporting this event.*
 
 #### Speaker
 
