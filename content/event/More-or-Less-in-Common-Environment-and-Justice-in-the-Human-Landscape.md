@@ -29,6 +29,4 @@ To view this event online, individuals will need to [register via Zoom](https:/
 
 [Garrett Dash Nelson](https://www.leventhalmap.org/about/people/garrett-nelson/), president, head curator, and director of Geographic Scholarship, Norman B. Leventhal Map and Education Center, Boston Public Library
 
-##### Moderator
-
-[Edo Berger](https://www.radcliffe.harvard.edu/people/edo-berger-faculty-director?listing=152326), codirector of the science program, Harvard Radcliffe Institute, and professor of astronomy, Harvard Faculty of Arts and Sciences
+Moderated by [Edo Berger](https://www.radcliffe.harvard.edu/people/edo-berger-faculty-director?listing=152326), codirector of the science program, Harvard Radcliffe Institute, and professor of astronomy, Harvard Faculty of Arts and Sciences
