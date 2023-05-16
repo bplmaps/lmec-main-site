@@ -7,9 +7,13 @@ location: Online
 fee: Free
 registration: >-
   https://www.radcliffe.harvard.edu/event/2023-garret-dash-nelson-lecture-virtual
+image: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ms35ws551/3851,1936,18556,6043/1200,/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ms35ws551/3851,1936,18556,6043/1200,/0/default.jpg
 ---
 
-### About this event 
+### About this event
 
 The climate crisis is a matter of environmental injustice; it is also a matter of historical injustice. How can historical visualizations illuminate past inequities, present realities, and future possibilities for adapting to and mitigating the effects of climate change?
 
