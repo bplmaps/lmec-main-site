@@ -21,11 +21,13 @@ Join us for a panel conversation on **Black Boston Stories: Taking Care** on T
 
 Food will be provided. Registration encouraged but not required.
 
-**Meet the panelists**
+#### **Meet the panelists**
 
-* Apolo Catala, [Oases on Ballou](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.thecarrotproject.org/wp-content/uploads/2021/03/Oasis_Client_Update_2020.8691901.pdf)
-* Reggie Jean, [Haley House](https://haleyhouse.org/)
-* Jo-Anna Rorie, [Neighborhood Birthing Center](https://neighborhoodbirthcenter.org/)
+**Apolo Catala, **[OASIS on Ballou. ](https://www.nofamass.org/articles/2021/10/oasis-on-ballou/) Apolo works with the Codman Square Neighborhood Development Corporation where he is the Farm Manager of the NDC's OASIS On Ballou Avenue Urban Farm in Dorchester as well as the NDC's Interim Environmental Justice Coordinator. He is an alum of Food Solutions New England Network Leadership Institute, Urban Farming Institute and Trustees of Reservation Master Gardener training programs and a recipient of the Urban Farming Institute 2019 Community Cultivator Award. Apolo serves on the boards Boston Farms Community Land Trust, Tufts University Medical Center IRB as well as Stakeholder Panel Member of Tufts University CTSI, and Boston Public Health Commission Health Equity Advisor Board (2020-2021), and is also active with Boston Food Access Council, UFI, FSNE, and Dorchester Food Coop through which he champions local farming and sourcing as a means of promoting individual, community, and environmental health and equity across the urban, peri-urban, rural, regional and beyond food system continuum. 
+
+**Reggie Jean, [Haley House.](https://haleyhouse.org/)**
+
+**Jo-Anna Rorie, [Neighborhood Birth Center.](https://neighborhoodbirthcenter.org/)**
 
 Organized as part of the Leventhal Map & Education Center’s ongoing exhibition, *[Building Blocks: Boston Stories from Urban Atlases](https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/)*.
 
