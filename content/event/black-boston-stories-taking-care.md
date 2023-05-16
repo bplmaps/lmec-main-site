@@ -9,6 +9,8 @@ fee: Free
 registration: >-
   https://www.eventbrite.com/e/black-boston-stories-taking-care-tickets-637304072637
 tags:
+  - boston
+  - Building Blocks
   - conversation
   - exhibition
 draft: true
