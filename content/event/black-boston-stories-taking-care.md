@@ -6,7 +6,8 @@ image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/sunnies.jpeg
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/sunnies.jpeg'
 location: Grove Hall Branch Library
 fee: Free
-registration: ''
+registration: >-
+  https://www.eventbrite.com/e/black-boston-stories-taking-care-tickets-637304072637
 tags:
   - conversation
   - exhibition
