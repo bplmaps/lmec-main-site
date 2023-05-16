@@ -21,24 +21,14 @@ The climate crisis is a matter of environmental injustice; it is also a matter o
 
 Human geographer Garrett Dash Nelson will explore the uneven distributions of harm, responsibility, vulnerability, and power, in both historical and local perspectives. The city of Boston and its environs will serve as a microcosm for the exploration of ways in which climate change will amplify a century’s worth of environmental injustice. Can historical visualizations help us to overcome the structuring effects of this legacy?
 
+To view this event online, individuals will need to [register via Zoom](https://harvard.zoom.us/webinar/register/WN_R1Q0uRDRRdiL6rF_TNahHg). For instructions on how to join online, see the [How to Attend a Radcliffe Event on Zoom](https://www.radcliffe.harvard.edu/events-and-exhibitions/how-attend-radcliffe-event-zoom) webpage. After registering, you will receive a confirmation e-mail containing a link and password for this meeting. Live closed captioning will be available for the webinar.
+
 *Harvard Radcliffe Institute gratefully acknowledges the Ethel and David Jackson Fund for the Future Climate, which is supporting this event.*
 
-#### Speaker
+##### Speaker
 
 [Garrett Dash Nelson](https://www.leventhalmap.org/about/people/garrett-nelson/), president, head curator, and director of Geographic Scholarship, Norman B. Leventhal Map and Education Center, Boston Public Library
 
-#### Moderator
+##### Moderator
 
 [Edo Berger](https://www.radcliffe.harvard.edu/people/edo-berger-faculty-director?listing=152326), codirector of the science program, Harvard Radcliffe Institute, and professor of astronomy, Harvard Faculty of Arts and Sciences
-
-#### Register
-
-Free and open to the public.
-
-To view this event online, individuals will need to [register via Zoom](https://harvard.zoom.us/webinar/register/WN_R1Q0uRDRRdiL6rF_TNahHg).
-
-For instructions on how to join online, see the [How to Attend a Radcliffe Event on Zoom](https://www.radcliffe.harvard.edu/events-and-exhibitions/how-attend-radcliffe-event-zoom) webpage.
-
-After registering, you will receive a confirmation e-mail containing a link and password for this meeting.
-
-Live closed captioning will be available for the webinar.
