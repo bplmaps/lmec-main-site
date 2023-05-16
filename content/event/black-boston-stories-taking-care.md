@@ -27,4 +27,4 @@ Food will be provided. Registration encouraged but not required.
 * Reggie Jean, [Haley House](https://haleyhouse.org/)
 * Jo-Anna Rorie, [Neighborhood Birthing Center](https://neighborhoodbirthcenter.org/)
 
-*Organized as part of the Leventhal Map & Education Center’s ongoing exhibition, [Building Blocks: Boston Stories from Urban Atlases](https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/).*
+Organized as part of the Leventhal Map & Education Center’s ongoing exhibition,* [Building Blocks: Boston Stories from Urban Atlases](https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/).*
