@@ -8,10 +8,10 @@ fee: Free
 draft: true
 image: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/franklin
-  park2 .png
+  park jacket back photo.jpg
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/franklin
-  park2 .png
+  park jacket back photo.jpg
 tags:
   - author talk
 publishDate: 2023-05-17T19:00:00.000Z
