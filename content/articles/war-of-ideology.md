@@ -19,7 +19,7 @@ tags:
 
 At first glance, the 1950s map of the United States depicted below---*[Illustrierte karte der Vereinigten Staaten von Amerika](https://collections.leventhalmap.org/search/commonwealth:0r96fp17t)*---doesn't appear to share much information for American viewers (unless, of course, those viewers can read German). However, a closer look provides insight into the then-new American geopolitical influence, US interests in defining German perceptions of America, and even some insights into how the US state imagined its own regionally distinct cultural and economic geographies.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp183/full/pct:50/0/default.jpg" class="figure-center" caption="CAPTION GOES HERE." >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp183/full/pct:50/0/default.jpg" class="figure-center" caption="" >}}
 
 In the summer of 1942, the Roosevelt administration established the Office of War Information (OWI), a pro-war propaganda agency that operated both within the U.S. and abroad. Some of its creations are especially recognizable; the [familiar Normal Rockwell poster below](https://www.digitalcommonwealth.org/search/commonwealth:ft848v15n), sponsored by the OWI, calls on Americans at home to support the war effort abroad through the purchase of bonds. Overseas, the OWI's goals included the management of the [Voice of America](https://en.wikipedia.org/wiki/Voice_of_America), a U.S. state-owned radio broadcaster modelled on the wartime operations of the BBC.
 
