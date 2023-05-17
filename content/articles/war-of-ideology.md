@@ -4,7 +4,7 @@ title: >-
   Geopolitics
 author: Joshua Aldwinckle-Povey
 description: One map from a midcentury series tells a story about Cold War propaganda
-date: 2023-05-30T14:30:00.000Z
+date: 2023-05-19T11:00:00.000Z
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp183/full/pct:50/0/default.jpg
 backgroundImage: >-
