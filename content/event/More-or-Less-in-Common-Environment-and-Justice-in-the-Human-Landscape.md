@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'More or Less in Common: Environment and Justice in the Human Landscape'
 date: 2023-06-08T17:00:00.000Z
 publishDate: 2023-05-16T04:00:00.000Z
@@ -14,6 +14,8 @@ backgroundImage: >-
 tags:
   - More or Less in Common
 ---
+
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by the Harvard Radcliffe Institute.{{< /alert-box >}}
 
 ### About this event
 
