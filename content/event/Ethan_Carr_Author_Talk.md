@@ -15,6 +15,8 @@ backgroundImage: >-
 tags:
   - author talk
 publishDate: 2023-05-17T19:00:00.000Z
+registration: >-
+  https://www.eventbrite.com/e/dr-ethan-carr-on-bostons-franklin-park-tickets-638269289627
 ---
 
 ### About this event
