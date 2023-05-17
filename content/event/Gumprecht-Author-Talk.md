@@ -21,7 +21,7 @@ publishDate: 2023-05-03T20:00:00.000Z
 
 Join us on Wednesday, June 7 at 6:00PM EST with **Blake Gumprecht** for a talk on his new book, *[North to Boston: Life Histories from the Black Great Migration in New England](https://global.oup.com/academic/product/north-to-boston-9780197614440?cc=us\&lang=en&)*, which tells the story of Black migration to the city primarily through the life histories of 10 individuals.
 
-This talk will be held in person in the [Commonwealth Salon](https://www.bpl.org/central-library-floor-plan/) at the Central Library in Copley Square. Following the talk, there will be time for audience Q\&A, and the program will conclude at 7PM with an author signing facilitated by [Trident Booksellers](https://www.tridentbookscafe.com/).
+This talk will be held in person in the [Commonwealth Salon](https://www.bpl.org/central-library-floor-plan/) at the Central Library in Copley Square. Following the talk, there will be time for audience Q\&A, and the program will conclude at 7PM with a book signing facilitated by [Trident Booksellers](https://www.tridentbookscafe.com/).
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/NTB500.png" class="figure-right" >}}
 
