@@ -17,7 +17,7 @@ tags:
 
 ### Shaping the face of the US after WWII
 
-At first glance, the 1950s map of the United States depicted below---*[Illustrierte karte der Vereinigten Staaten von Amerika](https://collections.leventhalmap.org/search/commonwealth:0r96fp17t)*---doesn't appear to share much information for American viewers (unless, of course, those viewers can read German). However, a closer look provides insight into the then-new American geopolitical influence, U.S. interests in defining German perceptions of America, and even some insights into how the U.S. state imagined its own regionally distinct cultural and economic geographies.
+At first glance, the 1950s map of the United States depicted below---*[Illustrierte karte der Vereinigten Staaten von Amerika](https://collections.leventhalmap.org/search/commonwealth:0r96fp17t)*---doesn't appear to share much information for American viewers (unless, of course, those viewers can read German). However, a closer look provides insight into the then-new American geopolitical influence, US interests in defining German perceptions of America, and even some insights into how the US state imagined its own regionally distinct cultural and economic geographies.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp183/full/pct:50/0/default.jpg" class="figure-center" caption="CAPTION GOES HERE." >}}
 
