@@ -19,7 +19,7 @@ publishDate: 2023-05-17T19:00:00.000Z
 
 ### About this event
 
-Join us on Wednesday, November 9 at 6:00PM EST with Dr. Ethan Carr for a talk on his new book, [Boston's Franklin Park: Olmsted, Recreation, and the Modern City](https://lalh.org/books/forthcoming/bostons-franklin-park/).
+Join us on Wednesday, November 8 at 6:00PM EST with Dr. Ethan Carr for a talk on his new book, [Boston's Franklin Park: Olmsted, Recreation, and the Modern City](https://lalh.org/books/forthcoming/bostons-franklin-park/).
 
 This talk will be held in person in [Rabb Hall](https://www.bpl.org/central-library-floor-plan/) at the Central Library in Copley Square. 
 
