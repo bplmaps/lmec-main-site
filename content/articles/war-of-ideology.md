@@ -11,8 +11,7 @@ backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp183/full/pct:50/0/default.jpg
 draft: false
 tags:
-  - German
-  - pictorial map
+  - collections
 ---
 
 ### Shaping the face of the US after WWII
