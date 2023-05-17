@@ -14,13 +14,18 @@ backgroundImage: >-
   park2 .png
 tags:
   - author talk
+publishDate: 2023-05-17T19:00:00.000Z
 ---
 
 ### About this event
 
+Join us on Wednesday, November 9 at 6:00PM EST with Dr. Ethan Carr for a talk on his new book, [Boston's Franklin Park: Olmsted, Recreation, and the Modern City](https://lalh.org/books/forthcoming/bostons-franklin-park/).
+
+This talk will be held in person in [Rabb Hall](https://www.bpl.org/central-library-floor-plan/) at the Central Library in Copley Square. 
+
 ##### About the book
 
-Ethan Carr’s forthcoming book, *[Boston’s Franklin Park: Olmsted, Recreation, and the Modern City](https://lalh.org/books/forthcoming/bostons-franklin-park/)*, documents the design and history of Frederick Law Olmsted’s most mature expression of urban park design. In this comprehensive study, Carr affirms Franklin Park as one of great works of nineteenth-century American art. Since the 1980s, historians have described Franklin Park as unfinished, obsolete, or a casualty of changing trends in public recreation. Carr disagrees, offering a persuasive argument that the park’s decline was not a consequence of its design but of a lack of stewardship on the part of the city, an example of institutionalized racism.
+Dr. Carr’s forthcoming book, *[Boston’s Franklin Park: Olmsted, Recreation, and the Modern City](https://lalh.org/books/forthcoming/bostons-franklin-park/)*, documents the design and history of Frederick Law Olmsted’s most mature expression of urban park design. In this comprehensive study, Carr affirms Franklin Park as one of great works of nineteenth-century American art. Since the 1980s, historians have described Franklin Park as unfinished, obsolete, or a casualty of changing trends in public recreation. Carr disagrees, offering a persuasive argument that the park’s decline was not a consequence of its design but of a lack of stewardship on the part of the city, an example of institutionalized racism.
 
 ##### About the author
 
