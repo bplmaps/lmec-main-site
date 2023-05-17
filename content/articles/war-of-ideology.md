@@ -21,9 +21,9 @@ At first glance, the 1950s map of the United States depicted below---*[Illustrie
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp183/full/pct:50/0/default.jpg" class="figure-center" caption="" >}}
 
-In the summer of 1942, the Roosevelt administration established the Office of War Information (OWI), a pro-war propaganda agency that operated both within the U.S. and abroad. Some of its creations are especially recognizable; the [familiar Normal Rockwell poster below](https://www.digitalcommonwealth.org/search/commonwealth:ft848v15n), sponsored by the OWI, calls on Americans at home to support the war effort abroad through the purchase of bonds. Overseas, the OWI's goals included the management of the [Voice of America](https://en.wikipedia.org/wiki/Voice_of_America), a U.S. state-owned radio broadcaster modelled on the wartime operations of the BBC.
+In the summer of 1942, the Roosevelt administration established the Office of War Information (OWI), a pro-war propaganda agency that operated both within the U.S. and abroad. Some of its creations are especially recognizable; the familiar Normal Rockwell poster below, sponsored by the OWI, calls on Americans at home to support the war effort abroad through the purchase of bonds. Overseas, the OWI's goals included the management of the [Voice of America](https://en.wikipedia.org/wiki/Voice_of_America), a U.S. state-owned radio broadcaster modelled on the wartime operations of the BBC.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ft848v16x/full/pct:20/0/default.jpg" class="figure-right" caption="CAPTION GOES HERE." >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ft848v16x/full/pct:20/0/default.jpg" class="figure-right" caption="" >}}
 
 After the War, the Truman administration disbanded the OWI, replacing it with a new ad-hoc propaganda department called the United States Information Service (USIS). The [Smith-Mundt Act of 1948](https://www.usagm.gov/who-we-are/oversight/legislation/smith-mundt/) authorized the first peacetime American propaganda operation to "present a 'full and fair picture' of the United States to the world at large,"\[^1] and shortly after taking office in 1953, the Eisenhower administration would transform the somewhat informal USIS into the United States Information Agency.
 
