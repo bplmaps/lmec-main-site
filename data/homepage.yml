@@ -70,6 +70,11 @@ cta:
     - badge: Fall internships
       text: 'Applications for our Fall 2023 internships are due May 26 at 3:00PM'
       link: 'https://www.leventhalmap.org/about/jobs/2023-fall-internships/'
+    - badge: Exhibition contribution opportunity
+      text: >-
+        We are looking for 3-4 teen artists from Boston Public Schools to
+        contribute to our Spring 2024 exhibition
+      link: 'https://forms.gle/Qq2v5Z9yEs7feLvi9'
     - badge: Grant opportunity
       text: >-
         Apply to our Small Grants Fund for Early Career Digital Publications by
@@ -158,7 +163,6 @@ event:
   enable: true
   title: Upcoming Events
 funfacts:
-  enable: false
   funfact_item:
     - name: Digital Collections Objects
       count: '9369'
@@ -173,7 +177,6 @@ blog:
   title: Articles
 todaysHours: true
 upcomingLivestream:
-  enable: false
   embedLink: >-
     <iframe width="560" height="315"
     src="https://www.youtube.com/embed/cEVtWRd0vuI" title="YouTube video player"
