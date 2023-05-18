@@ -42,7 +42,7 @@ More than anything Wheatley’s life is a story of perseverance against the crue
 
 > “My childhood landscape was not land but the end of the land—the cold, salt, running hills of the Atlantic.”	-Sylvia Plath, 1962, [“Ocean-1212-W”](https://www.bl.uk/collection-items/ocean-1212-w-by-sylvia-plath)
 
-I remember the first time I heard Sylvia Plath’s poetry, read by the poet herself in a recording of a 1962 BBC broadcast which especially highlighted the dynamic contrasts and almost brutal energy she managed to incorporate in her work. In a deliberately perfect and perfectly deliberate pronunciation, she delivered a language distinctly her own, which perfectly wielded the stylistic demands expected of her in her time, while also displaying an introspective intensity and an ability to represent and undermine which still feels strikingly contemporary.
+I remember the first time I heard Sylvia Plath’s poetry, read by the poet herself in a [recording](https://www.youtube.com/watch?v=paHmYyaY5XM) of a 1962 BBC broadcast which especially highlighted the dynamic contrasts and almost brutal energy she managed to incorporate in her work. In a deliberately perfect and perfectly deliberate pronunciation, she delivered a language distinctly her own, which perfectly wielded the stylistic demands expected of her in her time, while also displaying an introspective intensity and an ability to represent and undermine which still feels strikingly contemporary.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5h73qj11s" class="figure-left" caption="The ocean surf along Winthrop, Massachusetts (ca. 1917-1934)" >}}
 
