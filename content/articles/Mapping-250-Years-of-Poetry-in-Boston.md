@@ -24,11 +24,11 @@ Laboring to understand the history around us we can begin to map out the life of
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463d784" caption="This print (ca. 1855-1870) depicts Boston's Old South Meeting House where Phillis Wheatley worshipped." class="figure-right" >}}
 
-> 'Twas mercy brought me from my Pagan land,
-> Taught my benighted soul to understand
-> That there's a God, that there's a Saviour too:
-> Once I redemption neither sought nor knew.
-> Some view our sable race with scornful eye,
+> 'Twas mercy brought me from my Pagan land,\
+> Taught my benighted soul to understand\
+> That there's a God, that there's a Saviour too:\
+> Once I redemption neither sought nor knew.\
+> Some view our sable race with scornful eye,\
 > "Their colour is a diabolic die."
 > Remember, Christians, Negros, black as Cain,
 > May be refin'd, and join th' angelic train.\
@@ -42,7 +42,7 @@ More than anything Wheatley’s life is a story of perseverance against the crue
 
 I remember the first time I heard Sylvia Plath’s poetry, read by the poet herself in a [recording](https://www.youtube.com/watch?v=paHmYyaY5XM) of a 1962 BBC broadcast which especially highlighted the dynamic contrasts and almost brutal energy she managed to incorporate in her work. In a deliberately perfect and perfectly deliberate pronunciation, she delivered a language distinctly her own, which perfectly wielded the stylistic demands expected of her in her time, while also displaying an introspective intensity and an ability to represent and undermine which still feels strikingly contemporary.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5h73qj11s" class="figure-left" caption="The ocean surf along Winthrop, Massachusetts (ca. 1917-1934)" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5h73qj11s/0,0,0,0/1200,/0/default.jpg" class="figure-left" caption="The ocean surf along Winthrop, Massachusetts (ca. 1917-1934)" >}}
 
 > Grey waves the stub-necked eiders ride.\
 > A labor of love, and that labor lost.\
@@ -54,7 +54,7 @@ I remember the first time I heard Sylvia Plath’s poetry, read by the poet hers
 > The sun sinks under Boston, bloody red.\
 > -Excerpt from [Point Shirley](https://allpoetry.com/Point-Shirley), 1960
 
-Plath’s life and career seem to form a trajectory which takes her steadily away from Boston. She was born [in Jamaica Plain](https://bwht.org/jamaica-plain-tour/#stop-10) but moved across the bay to “the end of the land” (also known as the town of Winthrop) at the age of three, before moving to Wellesley in the outer suburbs at the age of eight. A gifted writer from an early age, Plath was first nationally published when she was 18, in Boston’s Christian Science Monitor. From there she would graduate from Smith College in western Massachusetts, before heading to the University of Cambridge on a Fulbright scholarship. The formal success of her career matches the unassuming formality of the landscapes and institutions she traversed, in contrast to the energetically passionate and boundary-breaking nature of the work she produced.
+Plath’s [life and career](https://www.poetryfoundation.org/poets/sylvia-plath) seem to form a trajectory which takes her steadily away from Boston. She was born [in Jamaica Plain](https://bwht.org/jamaica-plain-tour/#stop-10) but moved across the bay to “the end of the land” (also known as the town of Winthrop) at the age of three, before moving to Wellesley in the outer suburbs at the age of eight. A gifted writer from an early age, Plath was first nationally published when she was 18, [in Boston’s Christian Science Monitor](https://archive.org/details/per_christian-science-monitor_1952-08-27_44_232/page/n11/mode/2up?view=theater). From there she would graduate from Smith College in western Massachusetts, before heading to the University of Cambridge on a Fulbright scholarship. The formal success of her career matches the unassuming formality of the landscapes and institutions she traversed, in contrast to the energetically passionate and boundary-breaking nature of the work she produced.
 
 At the heart of this contrast, are the expectations and demands placed on her as a female writer navigating the deeply sexist institutions of academia and publishing in the 1950s and 60s. The power with which Plath writes has the urgency of establishing a creative identity and voice which is honest and powerful despite the bigoted expectations and demands of her environment. The violence and turmoil with which her work is associated, is indicative of this personal struggle, but is matched by the lively and masterful use of her voice to reimagine and undermine the hostile forces surrounding her life. In her language, Sylvia Plath is undeniably alive; she broke many boundaries of silence around topics such as mental illness and domestic abuse, and did it as an artist defiantly confident in the power of her own voice.
 
