@@ -67,19 +67,14 @@ cta:
         Are there atlases of other Massachusetts towns you would like to see
         added to Atlascope?
       link: 'https://www.leventhalmap.org/donate/sponsor-an-atlas/'
-    - badge: Fall internships
-      text: 'Applications for our Fall 2023 internships are due May 26 at 3:00PM'
-      link: 'https://www.leventhalmap.org/about/jobs/2023-fall-internships/'
     - badge: Teen artist opportunity
       text: >-
         We're looking for 3-4 teen artists to contribute to our Spring 2024
         exhibition
       link: 'https://forms.gle/Qq2v5Z9yEs7feLvi9'
-    - badge: Grant opportunity
-      text: >-
-        Apply to our Small Grants Fund for Early Career Digital Publications by
-        May 18 at 5:00PM
-      link: 'https://www.leventhalmap.org/research/digital-publication-small-grants/'
+    - badge: Fall internships
+      text: 'Applications for our Fall 2023 internships are due May 26 at 3:00PM'
+      link: 'https://www.leventhalmap.org/about/jobs/2023-fall-internships/'
 audiences:
   enable: true
   audienceGroups:
