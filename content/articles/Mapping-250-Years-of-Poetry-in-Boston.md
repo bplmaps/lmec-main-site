@@ -16,7 +16,7 @@ I think especially when it comes to Boston, there is a rich and really valuable 
 
 Most importantly, where the arts absorb, sample, and recombine influences from the past and the present in new and daring ways, they inspire and give voice to a possible future which I think is inherently vibrant and hopeful. I’ve collected a few figures who I’ve been inspired by, who wrote, lived, and expressed themselves in the landscapes and communities which I’m proud to inhabit or neighbor.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/wheatleyspread.jpg" caption="Phillis Wheatley's first volume of poetry, &#x22;Poems on Various Subjects, Religious and Moral&#x22; was published in London in 1773. Note the description of Wheatley as a &#x22;negro servant to Mr. John Wheatley of Boston in New England&#x22;." class="figure-left" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/wheatleyspread.jpg" caption="The *[frontispiece and title page](https://www.loc.gov/pictures/item/2004682060/)* of Phillis Wheatley's first volume of poetry, &#x22;Poems on Various Subjects, Religious and Moral&#x22; was published in London in 1773. Note the description of Wheatley as a &#x22;negro servant to Mr. John Wheatley of Boston in New England&#x22;." class="figure-left" >}}
 
 > “…for in every human Breast, God has implanted a Principle, which we call Love of freedom; it is impatient of Oppression, and pants for Deliverance” -Phillis Wheatley, 1774, [“Letter to Samson Occom”](https://constitutioncenter.org/the-constitution/historic-document-library/detail/phillis-wheatley-peters-letter-to-reverend-samuel-occum-february-11-1774)
 
