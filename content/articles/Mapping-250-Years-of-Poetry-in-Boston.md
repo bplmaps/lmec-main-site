@@ -4,10 +4,8 @@ title: Mapping 250 Years of Poetry in Boston
 date: 2023-05-08T04:00:00.000Z
 author: Patricio Pino
 description: Poetry!
-image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5q47sw42v/0,0,0,0/1200,/0/default.jpg
-backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5q47sw42v/0,0,0,0/1200,/0/default.jpg
+image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/poetsmedley.jpg'
+backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/poetsmedley.jpg'
 ---
 
 Though National Poetry Month has passed, this May 8th marks 252 years from Phillis Wheatley’s departure from Boston Harbor on a journey to London that would result in the publication of Wheatley’s historic first volume of poetry in 1773, as well as her eventual emancipation from slavery a few months after her return. Understanding the history and geography represented in those 252 years, and understanding the life and poetry of Phillis Wheatley and the countless other poets which followed her, are two endeavors which complement each other strongly as we strive to understand our present world and the city around us. Poetry is, after all, a form of expression, one rooted in life and experience and the people and places which surround the poet and their work.
