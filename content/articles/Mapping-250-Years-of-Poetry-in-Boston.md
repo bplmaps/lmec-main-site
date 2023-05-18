@@ -42,7 +42,7 @@ More than anything Wheatley’s life is a story of perseverance against the crue
 
 I remember the first time I heard Sylvia Plath’s poetry, read by the poet herself in a [recording](https://www.youtube.com/watch?v=paHmYyaY5XM) of a 1962 BBC broadcast which especially highlighted the dynamic contrasts and almost brutal energy she managed to incorporate in her work. In a deliberately perfect and perfectly deliberate pronunciation, she delivered a language distinctly her own, which perfectly wielded the stylistic demands expected of her in her time, while also displaying an introspective intensity and an ability to represent and undermine which still feels strikingly contemporary.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5h73qj11s/0,0,0,0/1200,/0/default.jpg" class="figure-left" caption="The ocean surf along Winthrop, Massachusetts (ca. 1917-1934)" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5h73qj11s/full/1200,/0/default.jpg" class="figure-left" caption="The ocean surf along Winthrop, Massachusetts (ca. 1917-1934)" >}}
 
 > Grey waves the stub-necked eiders ride.\
 > A labor of love, and that labor lost.\
