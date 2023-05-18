@@ -46,6 +46,7 @@ I remember the first time I heard Sylvia Plath’s poetry, read by the poet hers
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5h73qj11s/full/1200,/0/default.jpg" class="figure-left" caption="The ocean surf along Winthrop, Massachusetts *[pictured here ca. 1917-1934](https://www.digitalcommonwealth.org/search/commonwealth:5h73qj10h)*." >}}
 
+> ...\
 > Grey waves the stub-necked eiders ride.\
 > A labor of love, and that labor lost.\
 > Steadily the sea\
@@ -54,6 +55,7 @@ I remember the first time I heard Sylvia Plath’s poetry, read by the poet hers
 > Bones, only bones, pawed and tossed,\
 > A dog-faced sea.\
 > The sun sinks under Boston, bloody red.\
+> ...\
 > -Excerpt from [Point Shirley](https://allpoetry.com/Point-Shirley), 1960
 
 Plath’s [life and career](https://www.poetryfoundation.org/poets/sylvia-plath) seem to form a trajectory which takes her steadily away from Boston. She was born [in Jamaica Plain](https://bwht.org/jamaica-plain-tour/#stop-10) but moved across the bay to “the end of the land” (also known as the town of Winthrop) at the age of three, before moving to Wellesley in the outer suburbs at the age of eight. A gifted writer from an early age, Plath was first nationally published when she was 18, [in Boston’s Christian Science Monitor](https://archive.org/details/per_christian-science-monitor_1952-08-27_44_232/page/n11/mode/2up?view=theater). From there she would graduate from Smith College in western Massachusetts, before heading to the University of Cambridge on a Fulbright scholarship. The formal success of her career matches the unassuming formality of the landscapes and institutions she traversed, in contrast to the energetically passionate and boundary-breaking nature of the work she produced.
