@@ -24,7 +24,7 @@ However thoroughly the study of history is conducted, the records and notes it a
 
 Laboring to understand the history around us we can begin to map out the life of Phillis Wheatley as it intersects with the city which was forced onto her life. From her arrival [in Boston harbor](https://bwht.org/ladies-walk-tour/#stop-7) as an orphaned and sickly child, to the [Wheatley homestead](https://bwht.org/ladies-walk-tour/#stop-11) in the heart of colonial Boston where she would not just learn the language of her oppressors (and Greek and Latin too) but master it, demonstrating an intellectual and artistic genius which was always critically aware of her position in a much wider colonial world.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463d784/full/,1200/0/default.jpg" caption="This print (ca. 1855-1870) depicts Boston's Old South Meeting House where Phillis Wheatley worshipped." class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463d784/full/,1200/0/default.jpg" caption="This *[print (ca. 1855-1870)](https://www.digitalcommonwealth.org/search/commonwealth:3f463d77v)* depicts Boston's Old South Meeting House Church where Phillis Wheatley worshipped." class="figure-right" >}}
 
 > 'Twas mercy brought me from my Pagan land,\
 > Taught my benighted soul to understand\
