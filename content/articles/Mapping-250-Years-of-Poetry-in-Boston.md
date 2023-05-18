@@ -58,7 +58,7 @@ Plath’s [life and career](https://www.poetryfoundation.org/poets/sylvia-plath)
 
 At the heart of this contrast, are the expectations and demands placed on her as a female writer navigating the deeply sexist institutions of academia and publishing in the 1950s and 60s. The power with which Plath writes has the urgency of establishing a creative identity and voice which is honest and powerful despite the bigoted expectations and demands of her environment. The violence and turmoil with which her work is associated, is indicative of this personal struggle, but is matched by the lively and masterful use of her voice to reimagine and undermine the hostile forces surrounding her life. In her language, Sylvia Plath is undeniably alive; she broke many boundaries of silence around topics such as mental illness and domestic abuse, and did it as an artist defiantly confident in the power of her own voice.
 
-\[picture of Audre lorde thinkin]
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/audrelordethinkin.jpg" caption="Audre Lorde in 1980. Photograph by K. Kendall." >}}
 
 > “For women, then, poetry is not a luxury. It is a vital necessity of our existence. It forms the quality of the light within which we predicate our hopes and dreams toward survival and change, first made into language, then into idea, then into more tangible action.”	-Audre Lorde, [“Poetry is not a Luxury”](https://www.youtube.com/watch?v=T9isrbcrgBg), 1977
 
