@@ -72,7 +72,7 @@ Audre Lorde, who described herself as a [“black, lesbian, mother, warrior, poe
 
 Though Lorde was born and lived much of her life in New York City, her life and work crucially intersect with the communities of Boston through her participation in some equally pathbreaking organizations which were formed here in the 1970s and 80s.
 
-\[picture of marchers]
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/combaheepamphlet1.png" caption="" >}}
 
 > “The most general statement of our politics at the present time would be that we are actively committed to struggling against racial, sexual, heterosexual, and class oppression…” -[Combahee River Collective Statement, 1977](https://www.blackpast.org/african-american-history/combahee-river-collective-statement-1977/)
 
