@@ -38,7 +38,7 @@ Laboring to understand the history around us we can begin to map out the [life o
 
 More than anything Wheatley’s life is a story of perseverance against the cruelties inseparable from American society and history. Though she wrote herself to freedom, receiving the acclaim of many of her contemporaries, life in early Boston’s free black communities was one where hardship and poverty were constant threats. Phillis Wheatley never ceased to critique white supremacy and the institution of slavery, and she never ceased to practice her voice and her craft, writing and attempting to publish a second volume of poetry even as the means to support herself and her family grew thinner. Her death in relative obscurity at the age of 31 while her husband was imprisoned on debt charges, and the subsequent loss of much of her writing and artistic legacy, is the tragic but unignorable conclusion to a life which is as inspirational as it is urgently relevant to the critical period of history which defined it.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Sylvia_Plath.jpg" caption="Sylvia Plath in London in 1961. *[Photograph](https://commons.wikimedia.org/wiki/File:Sylvia_Plath.jpg)* by Giovanni Giovannetti/Grazia Neri" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Sylvia_Plath.jpg" caption="Sylvia Plath in London in 1961. [Photograph](https://commons.wikimedia.org/wiki/File:Sylvia_Plath.jpg) by Giovanni Giovannetti/Grazia Neri" >}}
 
 > “My childhood landscape was not land but the end of the land—the cold, salt, running hills of the Atlantic.”	-Sylvia Plath, 1962, [“Ocean-1212-W”](https://www.bl.uk/collection-items/ocean-1212-w-by-sylvia-plath)
 
