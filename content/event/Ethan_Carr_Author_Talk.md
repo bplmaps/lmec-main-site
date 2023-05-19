@@ -3,7 +3,7 @@ title: >-
   Dr. Ethan Carr on Boston’s Franklin Park: Olmsted, Recreation, and the Modern
   City
 date: 2023-11-08T23:00:00.000Z
-location: Rabb Hall
+location: 'Central Library, Rabb Hall'
 fee: Free
 draft: false
 image: >-
