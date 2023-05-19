@@ -46,6 +46,6 @@ Similar maps were made in [other languages including Spanish, Japanese, Farsi, a
 
 #### Footnotes:
 
-[^1]: Bogart, Leo., Bogart, Agnes. Cool Words, Cold War: A New Look at USIA's Premises for Propaganda. United States: American University Press, 1995.
+[^1]: Leo Bogart and Agnes Bogart. *Cool Words, Cold War: A New Look at USIA's Premises for Propaganda.* (American University Press, 1995).
 
-[^2]: BOEHLING, REBECCA. "COMMENTARY: The Role of Culture in American Relations with Europe: The Case of the United States's Occupation of Germany." *Diplomatic History* 23, no. 1 (1999): 57--69. http://www.jstor.org/stable/24913691.
+[^2]: Rebecca Boehling. "Commentary: The Role of Culture in American Relations with Europe: The Case of the United States's Occupation of Germany." *Diplomatic History* 23, no. 1 (1999): 57--69. http://www.jstor.org/stable/24913691.
