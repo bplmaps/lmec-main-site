@@ -1,10 +1,7 @@
 ---
 title: Permissions
-# page title background image
 cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc71j/2872,2546,3136,1438/,800/0/default.jpg"
 backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc71j/2872,2546,3136,1438/,800/0/default.jpg"
-# about image
-# meta description
 description : "How to use our collections in your own work"
 weight: 4
 aliases:
