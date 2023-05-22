@@ -115,7 +115,7 @@ export default defineConfig({
               {
                 label: "Date",
                 name: "date",
-                type: "string",
+                type: "string", 
               },
               {
                 label: "Holiday Name",
