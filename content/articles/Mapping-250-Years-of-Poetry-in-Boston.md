@@ -81,6 +81,8 @@ Audre Lorde, who described herself as a [“black, lesbian, mother, warrior, poe
 
 Though Lorde was born and lived much of her life in New York City, her life and work crucially intersect with the communities of Boston through her participation in some equally pathbreaking organizations which were formed here in the 1970s and 80s.
 
+Combahee River Collective
+
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/combaheepamphlet1.png" caption="In 1979 [twelve women were murdered](https://www.boston.com/news/local-news/2019/02/20/1979-boston-murders-estuary-projects/) within a 2-mile radius in Roxbury, Dorchester, and the South End. The Combahee River Collective produced a series of pamphlets as the situation developed to raise awareness, provide resources, and analyze the situation in the context of the larger issue of violence against women in society. From the digital collections of *[The History Project: Documenting LGBTQ Boston](https://historyproject.omeka.net/items/show/591)*." class="figure-left" >}}
 
 > “The most general statement of our politics at the present time would be that we are actively committed to struggling against racial, sexual, heterosexual, and class oppression…” -[Combahee River Collective Statement, 1977](https://www.blackpast.org/african-american-history/combahee-river-collective-statement-1977/)
