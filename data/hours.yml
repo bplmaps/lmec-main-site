@@ -48,3 +48,6 @@ exceptions:
   - date: 2023-11-23T05:00:00.000Z
     name: Thanksgiving
     special: Closed
+  - date: 2023-12-24T05:00:00.000Z
+    name: Christmas Eve
+    special: Closed
