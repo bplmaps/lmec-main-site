@@ -39,6 +39,7 @@ exceptions:
   - date: 2023-09-04T00:00:00.000Z
     name: Labor Day
     special: Closed
-  - date: 2023-10-09T00:00:00.000Z
+  - date: 2023-10-09T04:00:00.000Z
     name: Indigenous Peoples' Day
     special: Closed
+  - {}
