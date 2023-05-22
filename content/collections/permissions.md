@@ -5,7 +5,7 @@ backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f
 description : "How to use our collections in your own work"
 weight: 4
 aliases:
-    - /about/permissions
+- "/about/permissions"
 ---
 
 ## Rights to digital images
