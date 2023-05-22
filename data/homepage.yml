@@ -75,6 +75,11 @@ cta:
     - badge: Fall internships
       text: 'Applications for our Fall 2023 internships are due May 26 at 3:00PM'
       link: 'https://www.leventhalmap.org/about/jobs/2023-fall-internships/'
+    - badge: Upcoming closure
+      text: >-
+        The Leventhal Center and all BPL locations will be closed on Sunday, May
+        28, and Monday, May 29, in observance of Memorial Day
+      link: 'https://www.leventhalmap.org/about/hours-directions/'
 audiences:
   enable: true
   audienceGroups:
