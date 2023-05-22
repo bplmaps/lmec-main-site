@@ -1,54 +1,44 @@
----
 specialNote: ''
 weekly:
-- day: Monday
-  special: Closed
-- day: Tuesday
-  open: 11 am
-  close: 5 pm
-- day: Wednesday
-  open: 1 pm
-  close: 7 pm
-- day: Thursday
-  open: 11 am
-  close: 5 pm
-- day: Friday
-  open: 11 am
-  close: 5 pm
-- day: Saturday
-  open: 11 am
-  close: 5 pm
-- day: Sunday
-  open: 1 pm
-  close: 5 pm
+  - day: Monday
+    special: Closed
+  - day: Tuesday
+    open: 11 am
+    close: 5 pm
+  - day: Wednesday
+    open: 1 pm
+    close: 7 pm
+  - day: Thursday
+    open: 11 am
+    close: 5 pm
+  - day: Friday
+    open: 11 am
+    close: 5 pm
+  - day: Saturday
+    open: 11 am
+    close: 5 pm
+  - day: Sunday
+    open: 1 pm
+    close: 5 pm
 exceptions:
-- date: April 9, 2023
-  name: Easter
-  special: Closed
-- special: Closed
-  date: April 16, 2023
-  name: Patriot's Day (observed)
-- date: April 17, 2023
-  name: Patriot's Day
-  special: Closed
-- date: May 28, 2023
-  name: Memorial Day (observed)
-  special: Closed
-- date: May 29, 2023
-  name: Memorial Day
-  special: Closed
-- date: June 19, 2023
-  name: Juneteenth
-  special: Closed
-- date: July 4, 2023
-  name: Independence Day
-  special: Closed
-- special: Closed
-  name: Labor Day (observed)
-  date: September 3, 2023
-- special: Closed
-  date: September 4, 2023
-  name: Labor Day
-- special: Closed
-  date: October 9, 2023
-  name: Indigenous Peoples' Day
+  - date: 2023-05-28T00:00:00.000Z
+    name: Memorial Day (observed)
+    special: Closed
+  - date: 2023-05-29T00:00:00.000Z
+    name: Memorial Day
+    special: Closed
+  - date: 2023-06-19T00:00:00.000Z
+    name: Juneteenth
+    special: Closed
+  - date: 2023-07-04T00:00:00.000Z
+    name: Independence Day
+    special: Closed
+  - date: 2023-09-03T00:00:00.000Z
+    name: Labor Day (observed)
+    special: Closed
+  - date: 2023-09-04T00:00:00.000Z
+    name: Labor Day
+    special: Closed
+  - date: 2023-10-09T00:00:00.000Z
+    name: Indigenous Peoples' Day
+    special: Closed
