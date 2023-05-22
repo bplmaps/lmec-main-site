@@ -15,11 +15,11 @@ Though [National Poetry Month](https://poets.org/national-poetry-month/?gclid=Cj
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/poetsmedley.jpg" caption="From Left: Poets [Phillis Wheatley](https://commons.wikimedia.org/wiki/File:Phillis_Wheatley,_Negro_Servant_to_Mr._John_Wheatley_of_Boston_MET_DP816498.jpg), Sylvia Plath ([photograph](https://commons.wikimedia.org/wiki/File:Sylvia_Plath.jpg) by Giovanni Giovannetti/Grazia Neri), and Audre Lorde ([photograph](https://commons.wikimedia.org/wiki/File:Audre_lorde.jpg) by Elsa Dorfman). " >}}
 
-#### Phillis Wheatley
-
 From the horrors of American slavery to the privileged complacency of east coast academia and suburbia, through to the harsh realities of socio-economic inequality, urban degradation, and the community-based activism and solidarity which it sparks. Where history and geography as academic fields offer a strict and rigorous analysis, I think this poetic lineage can offer a critically human and personal counterpoint. Poetry, as a projection of voice, can make heard and make felt what would otherwise be ignored or overlooked.
 
 Most importantly, where the arts absorb, sample, and recombine influences from the past and the present in new and daring ways, they inspire and give voice to a possible future which I think is inherently vibrant and hopeful. I’ve collected a few figures who I’ve been inspired by, who wrote, lived, and expressed themselves in the landscapes and communities which I’m proud to inhabit or neighbor.
+
+#### Phillis Wheatley
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/wheatleyspread.jpg" caption="The [frontispiece and title page](https://www.loc.gov/pictures/item/2004682060/) of Phillis Wheatley's first volume of poetry, &#x22;Poems on Various Subjects, Religious and Moral&#x22; was published in London in 1773. Note the description of Wheatley as a &#x22;negro servant to Mr. John Wheatley of Boston in New England&#x22;." class="figure-left" >}}
 
