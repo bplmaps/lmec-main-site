@@ -3,7 +3,7 @@ title: Permissions
 cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc71j/2872,2546,3136,1438/,800/0/default.jpg"
 backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc71j/2872,2546,3136,1438/,800/0/default.jpg"
 description : "How to use our collections in your own work"
-weight: 4
+weight: "4"
 aliases:
 - "/about/permissions"
 ---
