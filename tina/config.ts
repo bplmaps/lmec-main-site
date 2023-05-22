@@ -108,14 +108,14 @@ export default defineConfig({
             ui: {
               itemProps: (item) => {
                 // Field values are accessed by title?.<Field name>
-                      return { label: item?.date };
+                      return { label: item?.name + " - " + item?.date};
               },
             },
             fields: [
               {
                 label: "Date",
                 name: "date",
-                type: "datetime",
+                type: "string",
               },
               {
                 label: "Holiday Name",
