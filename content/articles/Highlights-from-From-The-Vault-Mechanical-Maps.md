@@ -19,7 +19,7 @@ tags:
 
 #### James T.B. Ives, Historical Map, Showing the Successive Acquisitions of Territory by the United States of America (1897)
 
-\<iframe width="560" height="315" src="https://www.youtube.com/embed/Y\_Cl\_QXNqbY?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>\</iframe>
+\<iframe width="560" height="315" src="[https://www.youtube.com/embed/Y\_Cl\_QXNqbY?start=2]()" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>\</iframe>
 
 The boundaries of the United States transformed during the 19th century. Mapmaker James Ives created this [mechanical map](https://bpl.bibliocommons.com/v2/record/S75C8129750) to help people, especially students, visualize these changes. The base map labels the tribes that occupied different regions, while the upper layers represent the territorial growth of the United States. The mechanized pieces of this cartographic puzzle include the colonies in 1776, the Louisiana Purchase in 1803, and the Gadsden Purchase in 1853. The map told a story of the seemingly inevitable process of expansion and emphasized nation-building by treaties rather than the violence of war. The map consists of several layers attached to cut-tin pulleys activated by levers, which then creates movement. 
 
