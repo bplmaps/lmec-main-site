@@ -7,7 +7,7 @@ description: >-
   Check out these highlights from last week’s edition of From The Vault:
   Mechanical Maps
 image: >-
-  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/2NTe5mrlBK_EDc99dt5L5Got64RuQMVovKyomrpVufk.jpeg
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/35818_det1.jpg
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/2NTe5mrlBK_EDc99dt5L5Got64RuQMVovKyomrpVufk.jpeg
 tags:
