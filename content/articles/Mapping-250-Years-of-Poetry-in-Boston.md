@@ -69,7 +69,7 @@ Plath’s [life and career](https://www.poetryfoundation.org/poets/sylvia-plath)
 
 At the heart of this contrast are the expectations and demands placed on her as a female writer navigating the deeply sexist institutions of academia and publishing in the 1950s and 60s. The power with which Plath writes has the urgency of establishing a creative identity and voice which is honest and powerful despite the bigoted expectations and demands of her environment.
 
-The violence and turmoil with which her work is associated and indicative of this personal struggle, but is matched by the lively and masterful use of her voice to reimagine and undermine the hostile forces surrounding her life. In her language, Sylvia Plath is undeniably alive; she broke many boundaries of silence around topics such as mental illness and domestic abuse, and did it as an artist defiantly confident in the power of her own voice.
+The violence and turmoil associated with her work is indicative of this personal struggle, but is matched by the lively and masterful use of her voice to reimagine and undermine the hostile forces surrounding her life. In her language, Sylvia Plath is undeniably alive; she broke many boundaries of silence around topics such as mental illness and domestic abuse, and did it as an artist defiantly confident in the power of her own voice.
 
 #### Audre Lorde
 
