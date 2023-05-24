@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 'From The Vault Collections Showing: School''s Out '
+title: 'From The Vault Collections Showing — School''s Out '
 date: 2023-06-09T18:00:00.000Z
 publishDate: 2023-05-24T04:00:00.000Z
 image: >-
