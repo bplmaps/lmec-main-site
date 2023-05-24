@@ -16,7 +16,7 @@ tags:
 
 ### About this event
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:n2970p06g/full/2000,/0/default.jpg" caption="Pan American Coffee Bureau, A two-way street between the Americas (1955)" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:n2970p06g/full/2000,/0/default.jpg" caption="Pan American Coffee Bureau, A two-way street between the Americas (1955)" class="figure-right" >}}
 
 Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of From The Vault, we’ll take a look at objects from our collections that look at the exchange of goods across the globe.
 
