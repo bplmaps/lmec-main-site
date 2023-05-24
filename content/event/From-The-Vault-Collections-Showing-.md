@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'From The Vault Collections Showing: School''s Out '
 date: 2023-06-09T18:00:00.000Z
 publishDate: 2023-05-24T04:00:00.000Z
@@ -13,6 +13,8 @@ tags:
   - from the vault
   - 'collections '
 ---
+
+Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of From The Vault, we’ll take a look at objects from our collections that were created for or within school environments!
 
 *Drop in any time between 2:00PM - 4:00PM.*
 
