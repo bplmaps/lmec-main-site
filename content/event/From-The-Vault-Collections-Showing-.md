@@ -14,9 +14,11 @@ tags:
   - 'collections '
 ---
 
-Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of From The Vault, we’ll take a look at objects from our collections that were created for or within a school environment. 
+### About this event 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161c165/full/2000,/0/default.jpg" caption="This &#x22;humorous diplomatic atlas&#x22; was created during the Russo-Japanese War (1904-1905) by a student at Keio University. " class="figure-right" >}}
+
+Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of *From The Vault*, we’ll take a look at objects from our collections that were created for or within a school environment.
 
 *Drop in any time between 2:00PM - 4:00PM.*
 
