@@ -1,7 +1,7 @@
 ---
 title: Nick Duffy
 description: Education Intern, Spring 2023
-headshot: "/images/headshots/nick-headshot.png"
+headshot: "/images/headshots/nick-headshot.jpeg"
 type: person
 contact:
 - method: Email
