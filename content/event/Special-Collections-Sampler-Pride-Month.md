@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Special Collections Sampler: Pride Month'
 date: 2023-06-06T16:00:00.000Z
 publishDate: 2023-05-25T04:00:00.000Z
@@ -13,7 +13,7 @@ tags:
   - collections
 ---
 
-### About this event 
+### About this event
 
 Celebrate Pride Month with Special Collections by stopping by and exploring items from our collections spotlighting LGBTQIA+ culture and history!   
 
