@@ -21,7 +21,7 @@ tags:
 
 The boundaries of the United States transformed during the 19th century. Mapmaker James Ives created this [mechanical map](https://bpl.bibliocommons.com/v2/record/S75C8129750) to help people, especially students, visualize these changes. The base map labels the tribes that occupied different regions, while the upper layers represent the territorial growth of the United States. The mechanized pieces of this cartographic puzzle include the colonies in 1776, the Louisiana Purchase in 1803, and the Gadsden Purchase in 1853. The map told a story of the seemingly inevitable process of expansion and emphasized nation-building by treaties rather than the violence of war. The map consists of several layers attached to cut-tin pulleys activated by levers, which then creates movement.
 
-#### *Jeu magnétique geographique* (1880)
+#### Jeu magnétique geographique (1880)
 
 Anyone up for a round of jeu magnétique geographique? This [French board game](https://bpl.bibliocommons.com/v2/record/S75C4670423) could be thought of as a 19th-century Quizlet. Prompting 60 geography questions and answers, La Géographie would have been a useful study tool for students or the perfect pastime for fellow geography nerds like us. So, how does it work? The outer rings feature color-coded geography facts. Each fact matches up to a questions from a spinner of the same color. All the spinners contain special magnets, and the figure in the center of the board is magnetized, so when you line up a question on the spinner, the figure moves to the correct answer!
 
