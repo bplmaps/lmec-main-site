@@ -13,11 +13,11 @@ aliases:
 
 ## Staff
 
-{{\< staff-list staff\_category="staff" >}}
+{{< staff-list staff_category="staff" >}}
 
 ## Interns
 
-{{\< staff-list staff\_category="intern" >}}
+{{< staff-list staff_category="intern" >}}
 
 ## Boards
 
