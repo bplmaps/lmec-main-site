@@ -22,7 +22,7 @@ draft: false
 
 Join us on Wednesday, June 7 at 6:00PM EST with **Blake Gumprecht** for a virtual talk on his new book, *[North to Boston: Life Histories from the Black Great Migration in New England](https://global.oup.com/academic/product/north-to-boston-9780197614440?cc=us\&lang=en&)*, which tells the story of Black migration to the city primarily through the life histories of 10 individuals.
 
-This talk is free and open to the public. It will broadcast live to our [Facebook page](https://www.facebook.com/events/1428072178047386) and [YouTube channel](https://www.youtube.com/@LeventhalMapEducationCenter/streams).
+This talk is free and open to the public. It will broadcast live to our [Facebook page](https://www.facebook.com/events/1428072178047386) and [YouTube channel](https://www.youtube.com/watch?v=64KOTk-IT-c).
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/NTB500.png" class="figure-right" >}}
 
