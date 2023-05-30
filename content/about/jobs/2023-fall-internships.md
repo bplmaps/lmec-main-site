@@ -2,12 +2,12 @@
 title: Fall 2023 Internships
 backgroundImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 cardImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
-menu: true
+menu: false
 ---
 
-{{< alert-box type="info" title="Applications Due Friday, May 26 at 3pm" >}}
+{{< alert-box type="danger" title="Applications Closed" >}}
 
-Applications for our Fall 2023 internships are due May 26, 2023 at 3pm.
+Applications for our Fall 2023 internships have closed.
 
 {{</ alert-box >}}
 
@@ -45,7 +45,3 @@ Applications are due by May 26, 2023 at 3:00pm ET. To apply, submit:
 
 * A letter of interest, no longer than 2 single-spaced pages
 * A resume or CV
-
-<a class="btn btn-lg btn-primary-outline" href="https://airtable.com/shr47L1tJgnR61q1g" target=_blank>Apply Now</a>
-
-Longlisted applicants will be asked to provide a writing sample (class paper, school newspaper article, long-form professional blog, etc) prior to interviewing and finalists may be asked for references. If you have any additional questions, please contact [info@leventhalmap.org](mailto:info@leventhalmap.org) with questions about this vacancy.
