@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: 'Highlights from From The Vault: Mechanical Maps'
-date: 2023-05-30T13:50:00.000Z
+date: 2023-05-30T13:55:00.000Z
 author: LMEC Staff
 description: >-
   Check out these highlights from last week’s edition of From The Vault:
