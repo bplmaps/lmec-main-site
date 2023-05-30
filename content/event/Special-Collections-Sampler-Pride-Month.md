@@ -15,7 +15,7 @@ tags:
 
 ### About this event
 
-*Celebrate Pride Month with [Special Collections](https://bpl.bibliocommons.com/events/64651dff73e31d2900b74804) by stopping by and exploring items from our collections spotlighting LGBTQIA+ culture and history! *  
+*Celebrate Pride Month with [Special Collections](https://bpl.bibliocommons.com/events/64651dff73e31d2900b74804) by stopping by and exploring items from our collections spotlighting LGBTQIA+ culture and history! *
 
 **Join us on Tuesday, June 6 from 2:00PM–4:00PM for a special Open House where staff will be available to answer questions as you explore collection items up close; no reservation required.**   
 
