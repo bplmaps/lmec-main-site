@@ -4,7 +4,7 @@ menu: false
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg
 
 ---
-{{< alert-box type="success" title="Applications open!" >}} Applications for 2023-2024 are open until Thursday, May 18, 2023 at 5pm ET.{{< /alert-box >}}
+{{< alert-box type="danger" title="Applications closed" >}} Applications for 2023-2024 are now closed. Stay up to date with our Small Grants program by subscribing to the [LMEC Newsletter](https://leventhalmap.org/subscribe).{{< /alert-box >}}
 
 
 #### Are you working on a scholarly project that would come alive for the public through an interactive digital publication?
@@ -52,7 +52,7 @@ Grants are available to all scholars regardless of citizenship; however, if the 
 
 #### To Apply
 
-<a class="btn btn-outline-primary btn-large" href="https://airtable.com/shrmv71WecG55swn7">Apply to LMEC's Small Grants Program</a>
+<!-- <a class="btn btn-outline-primary btn-large" href="https://airtable.com/shrmv71WecG55swn7">Apply to LMEC's Small Grants Program</a> -->
 
 An application consists of the following material submitted by **Thursday, May 18, 2023 at 5pm ET**:
 

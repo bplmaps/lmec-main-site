@@ -11,7 +11,7 @@ aliases:
 
 ## Small Grants for Early Career Digital Publications
 
-<span class="badge bg-success font-secondary fw-normal">Applications open for 2023!</span>
+<span class="badge bg-danger font-secondary fw-normal">Applications closed for 2023</span>
 
 The Small Grants for Early Career Digital Publications offers a $1200 stipend and technical support for a digital publication on a cartographic or geographic topic which will be featured in the LMEC's digital platforms. Grantees are not required to work in person in Boston.
 
