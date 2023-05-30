@@ -37,6 +37,8 @@ This [little plastic box](https://bpl.bibliocommons.com/v2/record/S75C8510007) w
 
 #### Hearne Brothers, *Hearne Brothers Official Polyconic Projection Map of Greater Boston and Vicinity, Massachusetts* (1986)
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/MicrosoftTeams-image (45).png" class="figure-right" >}}
+
 This [giant roll-down wall map](https://bpl.bibliocommons.com/v2/record/S75C8000946) offers an intriguing mechanical method for looking up geographical features at a moment just before computer databases and interactive maps began to take over that function. The accompanying pamphlet includes an index of street names and features of interest (they’re organized by county, so make sure to start by flipping through to Essex, Middlesex, Suffolk, or Norfolk sections). Each entry is marked in the index by two numbers. The first shows where to pull the central “clock hand” indicator on the numbered margin surrounding the map. Once you’ve pulled the indicator to the right margin mark, use the second number to measure along the indicator’s ruler. The arrow should point right at the feature in question!
 
 #### Makelangelo and AxiDraw plotting robots
