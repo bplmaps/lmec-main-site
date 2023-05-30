@@ -1,7 +1,7 @@
 ---
 draft: true
 title: 'Highlights from From The Vault: Mechanical Maps'
-date: 2023-05-29T11:00:00.000Z
+date: 2023-05-30T13:50:00.000Z
 author: LMEC Staff
 description: >-
   Check out these highlights from last week’s edition of From The Vault:
@@ -30,6 +30,8 @@ The boundaries of the United States transformed during the 19th century. Mapmake
 Anyone up for a round of jeu magnétique geographique? This [French board game](https://bpl.bibliocommons.com/v2/record/S75C4670423) could be thought of as a 19th-century Quizlet. Prompting 60 geography questions and answers, La Géographie would have been a useful study tool for students or the perfect pastime for fellow geography nerds like us. So, how does it work? The outer rings feature color-coded geography facts. Each fact matches up to a questions from a spinner of the same color. All the spinners contain special magnets, and the figure in the center of the board is magnetized, so when you line up a question on the spinner, the figure moves to the correct answer!
 
 #### *United States East of the Mississippi River* (1960)
+
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/MicrosoftTeams-image (44).png" class="figure-right" >}}
 
 This [little plastic box](https://bpl.bibliocommons.com/v2/record/S75C8510007) with a series of sliding map panels inside was invented in an era before GPS displays on car dashboards, and it was trumpeted as “a permanent solution to the road map problem.” The Auto-Mapic was designed so that a motorist could use it while sitting in a driver’s seat, theoretically eliminating the need for oversized fold-out maps or bound atlases. By sliding the tabs on both sides, the user could reveal more than a dozen sectional maps of the eastern U.S. (Auto-Mapics were also made for many other locations, including Europe). Despite what must have seemed like a futuristic Jet Age device in the 1960s, the Auto-Mapic never caught on, perhaps due to the fact that even its multiple map panels could only cover such a large region at a relatively small scale, limiting its usefulness for precise routing.
 
