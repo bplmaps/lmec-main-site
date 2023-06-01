@@ -16,6 +16,10 @@ tags:
   - Richard H. Brown Seminar
 ---
 
+### Event video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P1hpUazmU2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### About this event
 
 Join scholar **Benjamin L. Carp** on a tour through the urban spaces of the American Revolution. How did Boston’s waterfront geography become a flashpoint for rebellion? How did public gathering spaces in Philadelphia create the context for democratic ideas about mass politics? Can maps help us learn whether New York City was deliberately set on fire in 1776? Learn about these and other insights from a historical geographic approach to the Revolutionary period in a visually rich, interactive scholarly discussion.
