@@ -2,8 +2,10 @@
 publishDate: 2023-04-06T18:48:35.000Z
 title: 'Black Boston Stories: Taking Care'
 date: 2023-06-15T22:00:00.000Z
-image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/sunnies.jpeg'
-backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/sunnies.jpeg'
+image: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/neu_m040tn43w.png
+backgroundImage: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/neu_m040tn43w.png
 location: Grove Hall Branch Library
 fee: Free
 registration: >-
@@ -34,4 +36,4 @@ Food will be served starting at 5:30PM. Registration encouraged but not required
 
 Organized as part of the Leventhal Map & Education Center’s ongoing exhibition, *[Building Blocks: Boston Stories from Urban Atlases](https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/)*.
 
-B﻿anner image: "[City sunflowers](https://www.flickr.com/photos/40279823@N00/238249978)" by CharlesFred
+Image courtesy of the [Inquilinos Boricuas en Acción](https://repository.library.northeastern.edu/files/neu:m040tn42m) records at Northeastern University Archives and Special Collections. 
