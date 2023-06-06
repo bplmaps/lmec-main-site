@@ -26,7 +26,7 @@ These two school atlases from the early decades of the 19th century provided vis
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bb66j/full/2000,/0/default.jpg" class="figure-right" >}}
 
-Copying maps onto paper was a common assignment for both girls and boys attending academies in the 19th century, as students practiced geography and penmanship simultaneously. The map displayed here is a geography projects of from a 19th-century schoolgirl, Charlotte Freeman. Charlotte’s map of New England details towns, counties and natural features such as rivers and lakes from Maine to Connecticut. As was the practice at Quaker schools, this map was executed in a plain, utilitarian style.
+Copying maps onto paper was a common assignment for both girls and boys attending academies in the 19th century, as students practiced geography and penmanship simultaneously. The map displayed here is the geography project of a 19th-century schoolgirl, Charlotte Freeman. Charlotte’s map of New England details towns, counties and natural features such as rivers and lakes from Maine to Connecticut. As was the practice at Quaker schools, this map was executed in a plain, utilitarian style.
 
 ##### Céleste Babin, Mappemonde projetée sur l'horizon d'Angers (1839)
 
