@@ -26,9 +26,9 @@ These two school atlases from the early decades of the 19th century provided vis
 
 Copying maps onto paper was a common assignment for both girls and boys attending academies in the 19th century, as students practiced geography and penmanship simultaneously. The map displayed here is a geography projects of from a 19th-century schoolgirl, Charlotte Freeman. Charlotte’s map of New England details towns, counties and natural features such as rivers and lakes from Maine to Connecticut. As was the practice at Quaker schools, this map was executed in a plain, utilitarian style.
 
-##### **Isaac Moore, *The Eagle Map of the United States* (1833)**
+##### Céleste Babin, Mappemonde projetée sur l'horizon d'Angers (1839)
 
-This unique map from a 1833 geography book, Rudiments of National Knowledge, shows the states in outline color with an eagle sitting on top of the nation. Intended to teach geography, children could memorize the location of the states by referring to parts of the bird, such as the talons which represent Florida. Indigenous to North America, the bald eagle became the national bird of the United States in 1782, symbolizing strength, courage and freedom. Relating the Nation’s geography to a representation of national identity solidified the importance of geographic education at the time.
+This student map depicts the world in a double-hemisphere, centering the left half on Angers, France, and the right on its antipode, or opposite point on earth. Drawn by a French girl in 1839, this thoughtfully conceived map includes two colored views and extensive calligraphy in a fine hand. The unusual elliptical design places the northern and southern borders meshing with the two hemispheres for a unique overall presentation of the world, most likely based on a similar map from an early 19th-century French world atlas.
 
 ##### **David W. McCord, *History 2* (1914)**
 
