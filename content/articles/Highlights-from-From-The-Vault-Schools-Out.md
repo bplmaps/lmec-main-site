@@ -22,6 +22,10 @@ tags:
 
 These two school atlases from the early decades of the 19th century provided visual aids in the form of maps to supplement geography textbooks. At this time, geography textbooks were constructed as catechisms – long passages of text from which the student was to read from then answer questions. These paragraphs on countries listed places and natural features such as mountains and rivers. This type of rote memorization was common in teaching methods of the time. The school atlases displayed here contain maps which would help students answer questions, and illustrations which depict historical events to supplement their geographical learning.
 
+##### Charlotte F. Freeman, Map of New England (1830)
+
+Copying maps onto paper was a common assignment for both girls and boys attending academies in the 19th century, as students practiced geography and penmanship simultaneously. The map displayed here is a geography projects of from a 19th-century schoolgirl, Charlotte Freeman. Charlotte’s map of New England details towns, counties and natural features such as rivers and lakes from Maine to Connecticut. As was the practice at Quaker schools, this map was executed in a plain, utilitarian style.
+
 ##### **Isaac Moore, *The Eagle Map of the United States* (1833)**
 
 This unique map from a 1833 geography book, Rudiments of National Knowledge, shows the states in outline color with an eagle sitting on top of the nation. Intended to teach geography, children could memorize the location of the states by referring to parts of the bird, such as the talons which represent Florida. Indigenous to North America, the bald eagle became the national bird of the United States in 1782, symbolizing strength, courage and freedom. Relating the Nation’s geography to a representation of national identity solidified the importance of geographic education at the time.
