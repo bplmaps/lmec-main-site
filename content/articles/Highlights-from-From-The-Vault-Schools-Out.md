@@ -30,6 +30,8 @@ Copying maps onto paper was a common assignment for both girls and boys attendin
 
 This student map depicts the world in a double-hemisphere, centering the left half on Angers, France, and the right on its antipode, or opposite point on earth. Drawn by a French girl in 1839, this thoughtfully conceived map includes two colored views and extensive calligraphy in a fine hand. The unusual elliptical design places the northern and southern borders meshing with the two hemispheres for a unique overall presentation of the world, most likely based on a similar map from an early 19th-century French world atlas.
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4632005/full/2000,/0/default.jpg" >}}
+
 ##### **David W. McCord, *History 2* (1914)**
 
 Progressive 19th-century educators such as Emma Willard and William Channing Woodbridge emphasized the importance of teaching history and geography simultaneously. This practice, which continued into the early 20th century, is evident in the notebook of Lincoln High School student David McCord, displayed here. David’s book from his history class in 1914 contains notes with corresponding maps, such as those related to the Roman Empire. Historical maps allowed students to visualize places in the past, as David’s map of the Holy Roman Empire does.
