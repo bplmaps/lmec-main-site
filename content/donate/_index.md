@@ -8,7 +8,11 @@ suppressEmailPopup: true
 
 ---
 
-## Support LMEC with a donation today
+## Double your impact by June 30
+
+<a href="#XKVPMFWX" style="display: none"></a>
+
+We're trying to raise $10,000 by the end of our fiscal year on June 30, 2023. Can you help us meet our goal and unlock a $10,000 matching gift from an anonymous donor?
 
 <a href="#XXRXLNEN" style="display: none"></a>
 
