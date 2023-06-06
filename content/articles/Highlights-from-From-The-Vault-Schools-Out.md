@@ -22,7 +22,7 @@ tags:
 
 These two school atlases from the early decades of the 19th century provided visual aids in the form of maps to supplement geography textbooks. At this time, geography textbooks were constructed as catechisms – long passages of text from which the student was to read from then answer questions. These paragraphs on countries listed places and natural features such as mountains and rivers. This type of rote memorization was common in teaching methods of the time. The school atlases displayed here contain maps which would help students answer questions, and illustrations which depict historical events to supplement their geographical learning.
 
-##### Charlotte F. Freeman, Map of New England (1830
+##### Charlotte F. Freeman, Map of New England (1830)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bb66j/full/2000,/0/default.jpg" class="figure-right" >}}
 
