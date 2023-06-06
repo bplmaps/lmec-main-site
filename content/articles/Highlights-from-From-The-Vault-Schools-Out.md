@@ -35,3 +35,5 @@ This student map depicts the world in a double-hemisphere, centering the left ha
 ##### **David W. McCord, *History 2* (1914)**
 
 Progressive 19th-century educators such as Emma Willard and William Channing Woodbridge emphasized the importance of teaching history and geography simultaneously. This practice, which continued into the early 20th century, is evident in the notebook of Lincoln High School student David McCord, displayed here. David’s book from his history class in 1914 contains notes with corresponding maps, such as those related to the Roman Empire. Historical maps allowed students to visualize places in the past, as David’s map of the Holy Roman Empire does.
+
+{{< figure caption="" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463767k/full/2000,/0/default.jpg" >}}
