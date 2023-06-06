@@ -30,7 +30,7 @@ Copying maps onto paper was a common assignment for both girls and boys attendin
 
 ##### Céleste Babin, Mappemonde projetée sur l'horizon d'Angers (1839)
 
-This student map depicts the world in a double-hemisphere, centering the left half on Angers, France, and the right on its antipode, or opposite point on earth. Drawn by a French girl in 1839, this thoughtfully conceived map includes two colored views and extensive calligraphy in a fine hand. The unusual elliptical design places the northern and southern borders meshing with the two hemispheres for a unique overall presentation of the world, most likely based on a similar map from an early 19th-century French world atlas.
+This [student map](https://collections.leventhalmap.org/search/commonwealth:3f463199m) depicts the world in a double-hemisphere, centering the left half on Angers, France, and the right on its antipode, or opposite point on earth. Drawn by a French girl in 1839, this thoughtfully conceived map includes two colored views and extensive calligraphy in a fine hand. The unusual elliptical design places the northern and southern borders meshing with the two hemispheres for a unique overall presentation of the world, most likely based on a similar map from an early 19th-century French world atlas.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4632005/full/2000,/0/default.jpg" >}}
 
