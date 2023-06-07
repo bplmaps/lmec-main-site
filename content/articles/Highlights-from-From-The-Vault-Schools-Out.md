@@ -24,9 +24,11 @@ These two school atlases, *[The Common School Atlas](https://collections.leventh
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/Untitled design (9).png" >}}
 
-#### Charlotte F. Freeman, *Map of New England* (1830)
+#### Laura A. Roys, Connecticut (1857)
 
-Copying maps onto paper was a common assignment for both girls and boys attending academies in the 19th century, as students practiced geography and penmanship simultaneously. The [map displayed here](https://collections.leventhalmap.org/search/commonwealth:1257bb658) is the geography project of a 19th-century schoolgirl, Charlotte Freeman. Charlotte’s map of New England details towns, counties and natural features such as rivers and lakes from Maine to Connecticut. As was the practice at Quaker schools, this map was executed in a plain, utilitarian style.
+Copying maps onto paper was a common assignment for both girls and boys attending academies in the 19th century, as students practiced geography and penmanship simultaneously. The [map displayed here](https://collections.leventhalmap.org/search/commonwealth:q524n419n) is the geography project of a 19th-century schoolgirl, Laura Roys. Laura's map of Connecticut details towns, counties and natural features such as rivers and lakes. As was the practice at Quaker schools, this map was executed in a plain, utilitarian style.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n420d/full/2000,/0/default.jpg" >}}
 
 #### Céleste Babin, *Mappemonde projetée sur l'horizon d'Angers* (1839)
 
