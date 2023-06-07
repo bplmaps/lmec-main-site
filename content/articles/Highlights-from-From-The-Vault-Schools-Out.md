@@ -18,7 +18,7 @@ tags:
 
 > On June 9, we hosted [From The Vault: School's Out](https://www.leventhalmap.org/event/from-the-vault-collections-showing-/)! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition the series, we looked at objects that were created for or within a school environment.
 
-#### Nathaniel G. Huntington, *The Common School Atlas (1836) and J. A. Cummings, School Atlas to Cummings' Ancient & Modern Geography* (1821)
+#### Nathaniel G. Huntington, *The Common School Atlas (1836) *and* *J. A. Cummings,* School Atlas to Cummings' Ancient & Modern Geography* (1821)
 
 These two school atlases from the early decades of the 19th century provided visual aids in the form of maps to supplement geography textbooks. At this time, geography textbooks were constructed as catechisms – long passages of text from which the student was to read from then answer questions. Passages listed places and natural features such as mountains and rivers, and included illustrations to supplement geographical learning. This type of rote memorization was common in teaching methods of the time. 
 
