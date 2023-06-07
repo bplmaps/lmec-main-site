@@ -28,7 +28,7 @@ To serve a development version of the website with admin privileges for configur
 
     npm run dev
 
-In addition to spinning up a development version of the website, this serves a local version of the Tina front-end at [https://leventhalmap.org/admin](https://leventhalmap.org/admin).
+In addition to spinning up a development version of the website, this serves a local version of the Tina front-end at `localhost:1234/admin`.
 
 ## Rebuild for Git push
 
