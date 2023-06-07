@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Highlights from From The Vault: School''s Out'
 date: 2023-06-12T11:00:00.000Z
 author: LMEC Staff
