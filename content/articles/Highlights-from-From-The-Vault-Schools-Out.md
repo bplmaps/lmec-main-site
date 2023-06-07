@@ -22,6 +22,8 @@ tags:
 
 These two school atlases from the early decades of the 19th century provided visual aids in the form of maps to supplement geography textbooks. At this time, geography textbooks were constructed as catechisms – long passages of text from which the student was to read from then answer questions. These paragraphs on countries listed places and natural features such as mountains and rivers. This type of rote memorization was common in teaching methods of the time. The school atlases displayed here contain maps which would help students answer questions, and illustrations which depict historical events to supplement their geographical learning.
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/Untitled design (9).png" >}}
+
 #### Charlotte F. Freeman, *Map of New England* (1830)
 
 Copying maps onto paper was a common assignment for both girls and boys attending academies in the 19th century, as students practiced geography and penmanship simultaneously. The [map displayed here](https://collections.leventhalmap.org/search/commonwealth:1257bb658) is the geography project of a 19th-century schoolgirl, Charlotte Freeman. Charlotte’s map of New England details towns, counties and natural features such as rivers and lakes from Maine to Connecticut. As was the practice at Quaker schools, this map was executed in a plain, utilitarian style.
