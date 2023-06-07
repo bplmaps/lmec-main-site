@@ -18,15 +18,15 @@ tags:
 
 > On June 9, we hosted [From The Vault: School's Out](https://www.leventhalmap.org/event/from-the-vault-collections-showing-/)! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition the series, we looked at objects that were created for or within a school environment.
 
-#### Nathaniel G. Huntington, *The Common School Atlas (1836) *and* *J. A. Cummings,* School Atlas to Cummings' Ancient & Modern Geography* (1821)
+#### Nathaniel G. Huntington, *The Common School Atlas (1836) and J. A. Cummings, School Atlas to Cummings' Ancient & Modern Geography* (1821)
 
-These two school atlases, *[The Common School Atlas](https://collections.leventhalmap.org/search/commonwealth:3f463193z)* and *[School Atlas to Cummings' Ancient & Modern Geography](https://collections.leventhalmap.org/search/commonwealth:3f463151f)*,  were created in the early decades of the 19th century and provided visual aids in the form of maps to supplement geography textbooks. At this time, geography textbooks were constructed as catechisms – long passages of text from which the student was to read from then answer questions. Passages listed places and natural features such as mountains and rivers, and included illustrations to supplement geographical learning. This type of rote memorization was common in teaching methods of the time. 
+These two school atlases, *[The Common School Atlas](https://collections.leventhalmap.org/search/commonwealth:3f463193z)* and *[School Atlas to Cummings' Ancient & Modern Geography](https://collections.leventhalmap.org/search/commonwealth:3f463151f)*,  were created in the early decades of the 19th century and provided visual aids in the form of maps to supplement geography textbooks. At this time, geography textbooks were constructed as catechisms – long passages of text from which the student was to read from then answer questions. Passages listed places and natural features such as mountains and rivers, and included illustrations to supplement geographical learning. This type of rote memorization was common in teaching methods of the time.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/Atlas2.png" >}}
 
-#### Laura A. Roys, Connecticut (1857)
+#### Laura A. Roys, *Connecticut* (1857)
 
-Copying maps onto paper was a common assignment for both girls and boys attending academies in the 19th century, as students practiced geography and penmanship simultaneously. The [map displayed here](https://collections.leventhalmap.org/search/commonwealth:q524n419n) is the geography project of a 19th-century schoolgirl, Laura Roys. Laura was a student at the Hartford Female Seminary, one of the first major educational institutions for women in the United States. Her map of Connecticut details towns, harbors, railroads, rivers and various features such as prisons and lighthouses. 
+Copying maps onto paper was a common assignment for both girls and boys attending academies in the 19th century, as students practiced geography and penmanship simultaneously. The [map displayed here](https://collections.leventhalmap.org/search/commonwealth:q524n419n) is the geography project of a 19th-century schoolgirl, Laura Roys. Laura was a student at the Hartford Female Seminary, one of the first major educational institutions for women in the United States. Her map of Connecticut details towns, harbors, railroads, rivers and various features such as prisons and lighthouses.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n420d/full/2000,/0/default.jpg" >}}
 
@@ -36,7 +36,7 @@ This [student map](https://collections.leventhalmap.org/search/commonwealth:3f46
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4632005/full/2000,/0/default.jpg" >}}
 
-#### Kisaburō Ohara, A humorous diplomatic atlas of Europe and Asia (1904)
+#### Kisaburō Ohara, *A humorous diplomatic atlas of Europe and Asia* (1904)
 
 Created during the Russo-Japanese War (1904-1905) by a student at Keio University, this [propaganda map](https://collections.leventhalmap.org/search/commonwealth:9s161c15w) presents a negative image of the Russian Empire. It is depicted as an over reaching “black octopus” extending its tentacles throughout Europe and Asia, with the other countries represented as human figures. Some countries like China thwart the attack, while others, including Persia and Tibet, are firmly in its grasp. Labeled in both Japanese and English, the map is definitely pro-Japanese. The author portrays Japan as a battle-ready soldier facing the octopus with a gun in one hand and a flag in the other.
 
