@@ -1,12 +1,14 @@
 ---
 title: Map of the Month Club
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4634466/2291,2158,3532,2116/1200,/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg
+image: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4634466/2291,2158,3532,2116/1200,/0/default.jpg
 description: Give every month and join our Map of the Month Club
 type: singleton
 suppressEmailPopup: true
-
 ---
+
 <a class="btn btn-primary btn-primary-outline btn-sm" href="#/?form=MAPOFTHEMONTH">Set up a recurring donation now</a>
 
 ### About Map of the Month Club
@@ -26,4 +28,4 @@ Donations go directly to our historical geography work with students, educators,
 * **January 2023:** [Atlas of the City of Boston, Boston proper and Back Bay](https://collections.leventhalmap.org/search/commonwealth:1257bn91r)
 * **February 2023:** [Geological Map of the United States](https://collections.leventhalmap.org/search/commonwealth:7h149x508)
 * **March 2023:** [A map of the wondrous isle of Manhattan](https://collections.leventhalmap.org/search/commonwealth:0r96fm88c)
-* **April 2023:** _Coming Soon_
+* **April 2023:** [Boston and its environs](https://collections.leventhalmap.org/search/commonwealth:x633f9714)
