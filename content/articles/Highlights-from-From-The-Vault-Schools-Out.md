@@ -20,9 +20,7 @@ tags:
 
 #### Nathaniel G. Huntington, *The Common School Atlas (1836) and J. A. Cummings, School Atlas to Cummings' Ancient & Modern Geography* (1821)
 
-These two school atlases from the early decades of the 19th century provided visual aids in the form of maps to supplement geography textbooks. At this time, geography textbooks were constructed as catechisms – long passages of text from which the student was to read from then answer questions. Passages listed places and natural features such as mountains and rivers, and included illustrations which depict historical events to supplement their geographical learning.
-
-These paragraphs on countries listed places and natural features such as mountains and rivers. This type of rote memorization was common in teaching methods of the time. The school atlases displayed here contain maps which would help students answer questions, and illustrations which depict historical events to supplement their geographical learning.
+These two school atlases from the early decades of the 19th century provided visual aids in the form of maps to supplement geography textbooks. At this time, geography textbooks were constructed as catechisms – long passages of text from which the student was to read from then answer questions. Passages listed places and natural features such as mountains and rivers, and included illustrations to supplement geographical learning. This type of rote memorization was common in teaching methods of the time. 
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/Untitled design (9).png" >}}
 
