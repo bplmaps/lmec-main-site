@@ -12,6 +12,8 @@ image: >-
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/cropped-playground.jpeg
 publishDate: 2023-06-08T11:00:00.000Z
+registration: >-
+  https://www.eventbrite.com/e/meghan-cope-on-geographies-of-childhood-tickets-653110349637
 ---
 
 ### About this event
