@@ -4,7 +4,7 @@
 
 LMEC's website is built with the static site generator [Hugo](https://gohugo.io/). Its front-end editing is configured with [Tina](https://tina.io/docs/), a Git-backed headless CMS.
 
-The production site deploys with [Netlify](https://netlify.com) from the `geoservices` server at [https://leventhalmap.org](https://leventhalmap.org). Pushing to GitHub push will trigger rebuild of a staging site. See Notion documentation for information about accessing `geoservices` and the staging site.
+The production site deploys with [Netlify](https://netlify.com) to [https://leventhalmap.org](https://leventhalmap.org). Pushing to GitHub push will trigger rebuild of a staging site.
 
 ## Get started
 
