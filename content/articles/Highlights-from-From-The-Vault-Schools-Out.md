@@ -36,6 +36,10 @@ This [student map](https://collections.leventhalmap.org/search/commonwealth:3f46
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4632005/full/2000,/0/default.jpg" >}}
 
+#### Kisaburō Ohara, A humorous diplomatic atlas of Europe and Asia (1904)
+
+Created during the Russo-Japanese War (1904-1905) by a student at Keio University, this [propaganda map](https://collections.leventhalmap.org/search/commonwealth:9s161c15w) presents a negative image of the Russian Empire. It is depicted as an over reaching “black octopus” extending its tentacles throughout Europe and Asia, with the other countries represented as human figures. Some countries like China thwart the attack, while others, including Persia and Tibet, are firmly in its grasp. Labeled in both Japanese and English, the map is definitely pro-Japanese. The author portrays Japan as a battle-ready soldier facing the octopus with a gun in one hand and a flag in the other.
+
 #### David W. McCord, *History 2* (1914)
 
 Progressive 19th-century educators such as [Emma Willard](https://blogs.loc.gov/maps/2016/03/emma-hart-willard/#:~:text=Emma%20Hart%20Willard%20was%20among,of%20the%20study%20of%20geography.) and [William Channing Woodbridge](https://snaccooperative.org/view/22596602) emphasized the importance of teaching history and geography simultaneously. This practice, which continued into the early 20th century, is evident in [the notebook of Lincoln High School student David McCord](https://collections.leventhalmap.org/search/commonwealth:3f4637669), displayed here. David’s book from his history class in 1914 contains notes with corresponding maps, such as those related to the Roman Empire. Historical maps allowed students to visualize places in the past, as David’s map of the Holy Roman Empire does.
