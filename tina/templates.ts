@@ -1,4 +1,76 @@
 import type { TinaField } from "tinacms";
+export function hours_configFields() {
+  return [
+    {
+      name: "specialNote",
+      label: "Special Hours Note",
+      type: "string"
+    },
+    {
+      name: "weekly",
+      label: "Weekly Schedule",
+      type: "object",
+      list: true,
+      ui: {
+        itemProps: (item) => {
+          // Field values are accessed by title?.<Field name>
+                return { label: item?.day };
+        },
+      },
+      fields: [
+        {
+          label: "Day",
+          name: "day",
+          type: "string",
+        },
+        {
+          label: "Open Time",
+          name: "open",
+          type: "string",
+        },
+        {
+          label: "Close Time",
+          name: "close",
+          type: "string",
+        },
+        {
+          label: "Special Note",
+          name: "special",
+          type: "string",
+        },
+      ],
+    },
+    {
+      name: "exceptions",
+      label: "Schedule Exceptions",
+      type: "object",
+      list: true,
+      ui: {
+        itemProps: (item) => {
+          // Field values are accessed by title?.<Field name>
+                return { label: item?.name + " - " + item?.date};
+        },
+      },
+      fields: [
+        {
+          label: "Date",
+          name: "date",
+          type: "string", 
+        },
+        {
+          label: "Holiday Name",
+          name: "name",
+          type: "string",
+        },
+        {
+          label: "Special Note",
+          name: "special",
+          type: "string",
+        },
+      ],
+    }
+  ] as TinaField[];
+}
 export function article_postFields() {
   return [
     {
@@ -45,14 +117,14 @@ export function article_postFields() {
       name: "image",
       label: "Card Image",
       required: true,
-      description: "This is the image that shows in the list view of articles. (If using a IIIF image URL, make sure to limit the width to 1200px.)",
+      description: "This is the image that shows in the list view of articles. (If using a IIIF image URL, make sure to limit the width to 1200px.) Image cropper: https://geoservices.leventhalmap.org/iiif-tools/",
     },
     {
       type: "string",
       name: "backgroundImage",
       label: "Background Image",
       required: true,
-      description: "This is the image that shows on the article page at the top. (If using a IIIF image, make sure to limit the width to 1200px.)",
+      description: "This is the image that shows on the article page at the top. (If using a IIIF image, make sure to limit the width to 1200px.) Image cropper: https://geoservices.leventhalmap.org/iiif-tools/",
     },
     {
       type: "string",

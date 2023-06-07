@@ -1,5 +1,6 @@
 import { defineConfig } from "tinacms";
 import { article_postFields } from "./templates";
+import { hours_configFields } from "./templates";
 import { digital_projectFields } from "./templates";
 import { event_listingFields } from "./templates";
 import { homepage_configFields } from "./templates";
@@ -61,74 +62,7 @@ export default defineConfig({
           include: "hours",
         },
         fields: [
-          {
-            name: "specialNote",
-            label: "Special Hours Note",
-            type: "string"
-          },
-          {
-            name: "weekly",
-            label: "Weekly Schedule",
-            type: "object",
-            list: true,
-            ui: {
-              itemProps: (item) => {
-                // Field values are accessed by title?.<Field name>
-                      return { label: item?.day };
-              },
-            },
-            fields: [
-              {
-                label: "Day",
-                name: "day",
-                type: "string",
-              },
-              {
-                label: "Open Time",
-                name: "open",
-                type: "string",
-              },
-              {
-                label: "Close Time",
-                name: "close",
-                type: "string",
-              },
-              {
-                label: "Special Note",
-                name: "special",
-                type: "string",
-              },
-            ],
-          },
-          {
-            name: "exceptions",
-            label: "Schedule Exceptions",
-            type: "object",
-            list: true,
-            ui: {
-              itemProps: (item) => {
-                // Field values are accessed by title?.<Field name>
-                      return { label: item?.name + " - " + item?.date};
-              },
-            },
-            fields: [
-              {
-                label: "Date",
-                name: "date",
-                type: "string", 
-              },
-              {
-                label: "Holiday Name",
-                name: "name",
-                type: "string",
-              },
-              {
-                label: "Special Note",
-                name: "special",
-                type: "string",
-              },
-            ],
-          }
+          ...hours_configFields(),
         ],
       },
       {
