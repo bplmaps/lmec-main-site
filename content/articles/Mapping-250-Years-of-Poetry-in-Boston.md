@@ -4,9 +4,9 @@ title: Mapping 250 Years of Poetry in Boston
 date: 2023-06-01T17:55:00.000Z
 author: Patricio Pino
 description: >-
-  Explore some of the poets who have been inspired by the communities of
-  Boston—in their striking work and diverse experiences, across the city's
-  landscapes, and throughout the city's long history.
+  Explore the striking work and lives of some of the poets who have been
+  inspired by the communities of Boston, across the city's landscapes, and
+  throughout its long history.
 image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/poetsmedley.jpg'
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/poetsmedley.jpg'
 tags:
