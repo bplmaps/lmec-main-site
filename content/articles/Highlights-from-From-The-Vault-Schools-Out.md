@@ -22,7 +22,7 @@ tags:
 
 These two school atlases, *[The Common School Atlas](https://collections.leventhalmap.org/search/commonwealth:3f463193z)* and *[School Atlas to Cummings' Ancient & Modern Geography](https://collections.leventhalmap.org/search/commonwealth:3f463151f)*,  were created in the early decades of the 19th century and provided visual aids in the form of maps to supplement geography textbooks. At this time, geography textbooks were constructed as catechisms – long passages of text from which the student was to read from then answer questions. Passages listed places and natural features such as mountains and rivers, and included illustrations to supplement geographical learning. This type of rote memorization was common in teaching methods of the time. 
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/Untitled design (9).png" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/Untitled design (19).png" >}}
 
 #### Laura A. Roys, Connecticut (1857)
 
