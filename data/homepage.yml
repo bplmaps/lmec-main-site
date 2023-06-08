@@ -67,11 +67,6 @@ cta:
         Are there atlases of other Massachusetts towns you would like to see
         added to Atlascope?
       link: 'https://www.leventhalmap.org/donate/sponsor-an-atlas/'
-    - badge: Teen artist opportunity
-      text: >-
-        We're looking for 3-4 teen artists to contribute to our Spring 2024
-        exhibition
-      link: 'https://forms.gle/Qq2v5Z9yEs7feLvi9'
 audiences:
   enable: true
   audienceGroups:
