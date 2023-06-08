@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Meghan Cope on Geographies of Childhood
 date: 2023-07-25T16:00:00.000Z
 location: Virtual
@@ -11,7 +11,7 @@ image: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/cropped-playground.jpeg
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/cropped-playground.jpeg
-publishDate: 2023-06-08T11:00:00.000Z
+publishDate: 2023-06-08T21:00:00.000Z
 registration: >-
   https://www.eventbrite.com/e/meghan-cope-on-geographies-of-childhood-tickets-653110349637
 ---
