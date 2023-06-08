@@ -4,7 +4,7 @@
 
 LMEC's website is built with the static site generator [Hugo](https://gohugo.io/). Its front-end editing is configured with [Tina](https://tina.io/docs/), a Git-backed headless CMS.
 
-The production site deploys with [Netlify](https://netlify.com) to [https://leventhalmap.org](https://leventhalmap.org). Pushing changes to GitHub will trigger rebuild of a staging site.
+The production site deploys to [https://leventhalmap.org](https://leventhalmap.org). A separate staging site deploys via [Netlify](https://netlify.com). Staging site rebuild is triggered when changes are pushed to GitHub.
 
 ## Get started
 
@@ -28,7 +28,7 @@ To serve a development version of the website with admin privileges for configur
 
     npm run dev
 
-In addition to spinning up a development version of the website, this serves a local version of the Tina front-end at `localhost:1234/admin`.
+In addition to spinning up a development version of the website, this serves a local version of the Tina front-end at `localhost:host/admin`.
 
 ## Rebuild for Git push
 
