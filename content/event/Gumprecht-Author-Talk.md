@@ -18,6 +18,10 @@ publishDate: 2023-05-03T20:00:00.000Z
 draft: false
 ---
 
+### Event video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/64KOTk-IT-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### About this event
 
 Join us on Wednesday, June 7 at 6:00PM EST with **Blake Gumprecht** for a virtual talk on his new book, *[North to Boston: Life Histories from the Black Great Migration in New England](https://global.oup.com/academic/product/north-to-boston-9780197614440?cc=us\&lang=en&)*, which tells the story of Black migration to the city primarily through the life histories of 10 individuals.
