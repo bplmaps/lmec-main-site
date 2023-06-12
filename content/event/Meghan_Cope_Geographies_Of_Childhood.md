@@ -20,7 +20,7 @@ registration: >-
 
 *What insights can be gained about the historical geographies of childhood from primary source material? What do maps—designed for or by children—reveal about the conditions, spaces, and places of childhood?*
 
-Join us on Tuesday, July 25 at 12:00M EST with **Meghan Cope** for a virtual talk on the conditions and experiences of childhood in early 20th century New England.
+Join us on Tuesday, July 25 at 12:00M EDT with **Meghan Cope** for a virtual talk on the conditions and experiences of childhood in early 20th century New England.
 
 This talk is presented in conjunction with our ongoing exhibition, *[Building Blocks: Boston Stories from Urban Atlases](https://www.leventhalmap.org/digital-exhibitions/building-blocks/)*. It is free and open to the public. It will broadcast live to our [Facebook page](https://www.facebook.com/bplmaps) and [YouTube channel](https://www.youtube.com/@LeventhalMapEducationCenter).
 
