@@ -91,6 +91,8 @@ audiences:
           link: articles
         - title: Search our digital collections
           link: collections/digital-collections/
+        - title: Take a walking tour along the Walk to the Sea
+          link: 'https://www.walktothesea.org'
         - title: Support our work with a donation
           link: donate
     - name: For K-12 teachers
