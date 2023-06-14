@@ -39,7 +39,7 @@ The C.L. Berger & Sons records consists of documents and objects produced by the
 
 ***
 
-### Dana F. Perkins, Inc. Records
+### Dana F. Perkins, Inc. Surveying Records
 
 {{< figure src="/uploads/2022-01-24/perkins.jpg" alt="Manuscript property survey by W.A. Mason & Sons" caption="Manuscript property survey by W.A. Mason & Sons, acquired by Dana F. Perkins, Inc." class="figure-right" >}}
 
@@ -67,7 +67,7 @@ The John Roman papers consist of pictorial maps produced from 1984-2012 by John 
 
 ***
 
-### Robert Severy Collection
+### Robert Bayard Bellamy Papers
 
 {{< figure src="/uploads/2022-01-24/severy.jpg" alt="Manuscript property survey from the Robert Severy Collection" caption="Manuscript property survey from the Robert Severy Collection" class="figure-right" >}}
 
