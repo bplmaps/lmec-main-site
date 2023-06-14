@@ -1,6 +1,6 @@
 ---
 title: From The Vault Collections Showing — Summer Vacation
-date: 2023-06-23T18:00:00.000Z
+date: 2023-07-07T18:00:00.000Z
 publishDate: 2023-06-14T17:00:00.000Z
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:p2677k68s/full/2000,/0/default.jpg
