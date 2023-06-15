@@ -36,15 +36,19 @@ All of these distances are present, though translated and obscured, within the o
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:bn99cx15x/4701,1269,2471,1397/1200,/0/default.jpg" caption="This [1928 Bromley Atlas](https://collections.leventhalmap.org/book_viewer/commonwealth:dn400n06q#1/16) carefully lists building owners, railway gauges, property sizes, and many other technical details. " class="figure-left" >}}
 
-However two-faced the visual language of maps can be, I’ve always thought the written language of documents and records can be equally deceptive. On a 1928 Bromley Atlas, the simply listed name: United Fruit Co. Boston Div., on a row of wooden buildings on Boston’s historic long wharf, outwardly promises little alongside the symbols and details of an urban atlas. The same name, in the same year, on a short telegraph to the secretary of state, plays an interesting role in a document whose tone could not be doing more to elide its content:
+However two-faced the visual language of maps can be, I’ve always thought the written language of documents and records can be equally deceptive. On a 1928 Bromley Atlas, the simply listed name: "United Fruit Co. Boston Div." on a row of wooden buildings on Boston’s historic long wharf, outwardly promises little alongside the symbols and details of an urban atlas. The same name, in the same year, on a short telegraph to the secretary of state, plays an interesting role in a document whose tone could not be doing more to elide its content:
 
 > Sir: With reference to my previous reports concerning the Santa Marta strike…I have the honor to report that the Bogota representative of the United Fruit Company told me yesterday that the total number of strikers killed by the Colombian military exceeded one thousand. I have the honor to be, Sir, Your obedient servant. -Telegraph from [Jefferson Caffery, Ambassador to Colombia](https://web.archive.org/web/20120606191231/http:/www.icdc.com/~paulwolf/colombia/caffery16jan1929.jpg)
-
-\[right St Lucia bananas onto UFC ship]
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zk520d71c/289,271,6921,4740/1200,/0/default.jpg" caption="This [1936 photograph](https://www.digitalcommonwealth.org/search/commonwealth:zk520d703) depicts workers loading bananas onto a United Fruit Co. ship docked on the island of St. Lucia." class="figure-right" >}}
 
 The path traveled by this telegraph, across the Caribbean to the burgeoning east coast of the US, followed a route which by 1928 was a busy thoroughfare for North American dollars in every conceivable form. In Colombia, following the lucrative model of Banana growing which had begun in Central America and the Caribbean, North American interests invested in the construction of railways, communications lines, and other infrastructure by securing land grants, tax exemptions, and security guarantees from local governments. Banana growing plantations would sprawl from this base, drawing in thousands of workers, and fundamentally reshaping local communities and economic landscapes.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pn89gq765/0,0,0,0/1200,/0/default.jpg" caption="This [1917 map](https://collections.leventhalmap.org/search/commonwealth:xs55pv48h) of Guatemala, Honduras, and El Salvador, is based on a drawing by &#x22;Internation Railways of Central America&#x22; and shows their extinsive railroad holdings across this large swathe of Central America. The [IRCA](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/international-railways-central-america-irca-fica) was a US-based company which fell under the control of the United Fruit Co. in 1936." >}}
+
+{{< figure >}}
+
+{{< figure >}}
 
 \[full Guatemala and Salvador IRCA] \[right “great white fleet” dwarfing natives] \[right white fleet on long wharf 1930]
 
@@ -58,7 +62,7 @@ These massive economic interests across the Americas would coincide with both US
 
 \[https://www.digitalcommonwealth.org/search/commonwealth:8k71nw33h]
 
-Sweet City of Boston
+**Sweet City of Boston**
 
 \[full cuba Sanborn full spread]\[left cusa 1]\[left cusa 2]\[left cusa 3]
 
