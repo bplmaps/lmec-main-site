@@ -46,11 +46,11 @@ The path traveled by this telegraph, across the Caribbean to the burgeoning east
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pn89gq765/0,0,0,0/1200,/0/default.jpg" caption="This [1917 map](https://collections.leventhalmap.org/search/commonwealth:xs55pv48h) of Guatemala, Honduras, and El Salvador, is based on a drawing by &#x22;Internation Railways of Central America&#x22; and shows their extinsive railroad holdings across this large swathe of Central America. The [IRCA](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/international-railways-central-america-irca-fica) was a US-based company which fell under the control of the United Fruit Co. in 1936." >}}
 
-{{< figure >}}
+{{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht24xp495/0,0,0,0/1200,/0/default.jpg" caption="This [postcard ca. 1896-1980](https://www.digitalcommonwealth.org/search/commonwealth:ht24xp48w) depicts a steamer of the United Fruit Company's &#x22;Great White Fleet&#x22;, here shown in an exotic setting, dwarfin the native surroundings." >}}
 
 {{< figure >}}
 
-\[full Guatemala and Salvador IRCA] \[right “great white fleet” dwarfing natives] \[right white fleet on long wharf 1930]
+\[right “great white fleet” dwarfing natives] \[right white fleet on long wharf 1930]
 
 This was one end of a multi-million-dollar fruit-growing empire which included not just the 25,000 workers who would go on strike in Colombia in 1928, but hundreds of thousands of acres of land, miles of railway line, telegraph wire, the world’s largest private fleet of shipping vessels, and all of the political interests contained within. A tangle of relationships which seeps between national boundaries and invisibly links together a host of unique developments: the transformation of the Banana in North America from a rarity to an everyday good, the shifting fortunes of North American financiers and the metropolises which house them, and the often-violent history of government and labor in Latin America.
 
