@@ -16,7 +16,7 @@ Because the word ‘global’ has become an almost expected addition to much of 
 
 “Almost” unimaginable is the caveat which saves our careers here at the Map Center, where a large part of the value in the quarter million items in our collection lies in their ability to encapsulate these distances and complexities and represent them in a form that can be visualized at a surface level. A world map concentrates in one image the broadest possible expanse of literal distance and all of the billions of lives, places, and experiences contained therein. Increasingly detailed and technical maps—such as the fire insurance or real estate atlases in our collection—condense the emerging complexities of an increasingly industrializing and urbanizing world into a simple set of easily legible and striking graphical symbols.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w278/full/1200,/0/default.jpg" class="figure-right" caption="This [1872 world map](https://www.digitalcommonwealth.org/search/commonwealth:7h149w260) depicts completed and in-construction telegraph lines at a time when the &#x22;circuit of the globe&#x22; had not yet been completed." >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w278/full/1200,/0/default.jpg" class="figure-left" caption="This [1872 world map](https://www.digitalcommonwealth.org/search/commonwealth:7h149w260) depicts completed and in-construction telegraph lines at a time when the &#x22;circuit of the globe&#x22; had not yet been completed." >}}
 
 There is no deliberate deception here, simplification and representation are a basic part of the map-making process. But there is always a risk—of accepting the world presented by the map at the surface, of failing to realize the countless very real and very human implications of the distances and data points presented to us. A type of investigative rigor is demanded in order to recognize the omissions and distortions of the medium we are working with, and to recognize the map as a document both influencing and being influenced by the living dynamics of economic growth and exploitation across increasingly vast expanses.
 
@@ -28,25 +28,25 @@ The urban atlases made to satisfy the emerging needs of the real estate and insu
 
 Uncovering the humanity hidden in the thousands of maps of Boston in our collection is a central goal of the Map Center, but for however many maps of Boston we have in our collection (~1,500 digitized), there is a much more powerful omission that occurs simply thanks to the margins of the page. The seemingly isolated world we are presented with dramatically transforms itself into the skyscrapers, businesses, and factories of 20th century Boston. Meanwhile, well past the limits of the map’s gaze, the means of creating the markets, generating the profits, and acquiring the resources required by industrial modernity, is occurring in equally dramatic fashion across the globe. Here we have distance in all of its forms: in the thousands of miles between a Boston sugar refinery and the cane fields of the Caribbean or a Colombian banana plantation and the kitchens of America; as well as between the countless invisibly linked individuals working, producing, and purchasing on either end of these expanses.
 
-\[left 1938 Bromley UFC Bos. Div.]
-
 All of these distances are present, though translated and obscured, within the outwardly accessible and visually striking language of the maps which are so implicated in the creation of modern Boston. I don’t think it’s possible to fully uncover what is basically an infinitude of shifting relations which span the globe, but by focusing on individual strands and seemingly disconnected artifacts, as they orbit around the city of Boston and the field of cartography, I think it’s possible to tease out into the open a greater understanding of the processes and relationships built across immense distances which have created our present reality.
 
-Boston Bananas
+**Boston Bananas**
 
-\[full costa rica bananas]\[quote from the back: “The little ‘banana railroad’ that we see in the distance is owned by the United Fruit Company whose great refrigerator steamers carry vast quantities of this fruit…Today the people of the United States and Canada alone consume 50,000,000 bunches of bananas in a year.”]
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sq87dc41m/full/1200,/0/default.jpg" caption="This [stereograph (ca. 1879-1930)](https://www.digitalcommonwealth.org/search/commonwealth:sq87dc40b) depicts a banana plantation in Costa Rica. The reverse side gives a short description: “The little ‘banana railroad’ that we see in the distance is owned by the United Fruit Company whose great refrigerator steamers carry vast quantities of this fruit…Today the people of the United States and Canada alone consume 50,000,000 bunches of bananas in a year.”" >}}
 
-\[right 1928 Bromley]
+\[quote from the back: “The little ‘banana railroad’ that we see in the distance is owned by the United Fruit Company whose great refrigerator steamers carry vast quantities of this fruit…Today the people of the United States and Canada alone consume 50,000,000 bunches of bananas in a year.”]
+
+\[left 1928 Bromley]
 
 However two-faced the visual language of maps can be, I’ve always thought the written language of documents and records can be equally deceptive. On a 1928 Bromley Atlas, the simply listed name: United Fruit Co. Boston Div., on a row of wooden buildings on Boston’s historic long wharf, outwardly promises little alongside the symbols and details of an urban atlas. The same name, in the same year, on a short telegraph to the secretary of state, plays an interesting role in a document whose tone could not be doing more to elide its content:
 
-Sir: With reference to my previous reports concerning the Santa Marta strike…I have the honor to report that the Bogota representative of the United Fruit Company told me yesterday that the total number of strikers killed by the Colombian military exceeded one thousand. I have the honor to be, Sir, Your obedient servant. -1928 “banana massacre”
+> Sir: With reference to my previous reports concerning the Santa Marta strike…I have the honor to report that the Bogota representative of the United Fruit Company told me yesterday that the total number of strikers killed by the Colombian military exceeded one thousand. I have the honor to be, Sir, Your obedient servant. -1928 “banana massacre”
 
-\[left St Lucia bananas onto UFC ship]
+\[right St Lucia bananas onto UFC ship]
 
 The path traveled by this telegraph, across the Caribbean to the burgeoning east coast of the US, followed a route which by 1928 was a busy thoroughfare for North American dollars in every conceivable form. In Colombia, following the lucrative model of Banana growing which had begun in Central America and the Caribbean, North American interests invested in the construction of railways, communications lines, and other infrastructure by securing land grants, tax exemptions, and security guarantees from local governments. Banana growing plantations would sprawl from this base, drawing in thousands of workers, and fundamentally reshaping local communities and economic landscapes.
 
-\[full Guatemala and Salvador IRCA] \[left “great white fleet” dwarfing natives] \[left white fleet on long wharf 1930]
+\[full Guatemala and Salvador IRCA] \[right “great white fleet” dwarfing natives] \[right white fleet on long wharf 1930]
 
 This was one end of a multi-million-dollar fruit-growing empire which included not just the 25,000 workers who would go on strike in Colombia in 1928, but hundreds of thousands of acres of land, miles of railway line, telegraph wire, the world’s largest private fleet of shipping vessels, and all of the political interests contained within. A tangle of relationships which seeps between national boundaries and invisibly links together a host of unique developments: the transformation of the Banana in North America from a rarity to an everyday good, the shifting fortunes of North American financiers and the metropolises which house them, and the often-violent history of government and labor in Latin America.
 
@@ -60,7 +60,7 @@ These massive economic interests across the Americas would coincide with both US
 
 Sweet City of Boston
 
-\[full cuba Sanborn full spread]\[right cusa 1]\[right cusa 2]\[right cusa 3]
+\[full cuba Sanborn full spread]\[left cusa 1]\[left cusa 2]\[left cusa 3]
 
 An industry with an even greater significance to Boston offers a unique example of the atlas as a marker of economic significance which can fold together the opposite ends of these increasingly broad expanses. By 1920 the importance of the sugar industry to the US economy, and the scale of its investments abroad, brought about one of the few instances of a Sanborn fire insurance atlas being made of a territory outside the boundaries of the US. This document depicts in meticulous detail, the sugar warehouses, railway depots, and shipping docks of twenty-one Cuban towns, with an eye towards technical details like loading capacity and building material.
 
@@ -68,7 +68,7 @@ This is the same visual language almost exclusively used by map-making companies
 
 \[full porto rico sugarcane]
 
-\[left 1892 Bromley East Boston, Boston sugar refining co]\[left 1919 american sugar refining co seaport]\[left 1922 revere sugar ref]
+\[r 1892 Bromley East Boston, Boston sugar refining co]\[r 1919 american sugar refining co seaport]\[r 1922 revere sugar ref]
 
 Back in Boston, fire insurance atlases directly show the growing physical influence of what would become the largest manufacturing industry in the city by 1900. In East Boston, by 1892 the Boston Sugar Refining Company controls two city blocks and a stretch of the wharf. In 1919 along the Fort Point Channel in what is now the Seaport district, the American Sugar Refining Company dominates a considerable stretch of the waterfront. And in 1922 the Revere Sugar Refinery is visible along the Mystic River in Charlestown. Between the consumers with a growing taste for sweetness, the sprawling refineries along Boston’s waterways, the ships needed to transport the raw sugar from the tropics where it grows, and the workers who harvest it to begin with, we are again faced with a web of relations stretched across vast distances.
 
