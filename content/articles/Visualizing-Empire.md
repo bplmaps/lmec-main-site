@@ -34,9 +34,7 @@ All of these distances are present, though translated and obscured, within the o
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sq87dc41m/full/1200,/0/default.jpg" caption="This [stereograph (ca. 1879-1930)](https://www.digitalcommonwealth.org/search/commonwealth:sq87dc40b) depicts a banana plantation in Costa Rica. The reverse side gives a short description: “The little ‘banana railroad’ that we see in the distance is owned by the United Fruit Company whose great refrigerator steamers carry vast quantities of this fruit…Today the people of the United States and Canada alone consume 50,000,000 bunches of bananas in a year.”" >}}
 
-\[quote from the back: “The little ‘banana railroad’ that we see in the distance is owned by the United Fruit Company whose great refrigerator steamers carry vast quantities of this fruit…Today the people of the United States and Canada alone consume 50,000,000 bunches of bananas in a year.”]
-
-\[left 1928 Bromley]
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:bn99cx15x/4701,1269,2471,1397/1200,/0/default.jpg" caption="This [1928 Bromley Atlas](https://collections.leventhalmap.org/book_viewer/commonwealth:dn400n06q#1/16) carefully lists building owners, railway gauges, property sizes, and many other technical details. " >}}
 
 However two-faced the visual language of maps can be, I’ve always thought the written language of documents and records can be equally deceptive. On a 1928 Bromley Atlas, the simply listed name: United Fruit Co. Boston Div., on a row of wooden buildings on Boston’s historic long wharf, outwardly promises little alongside the symbols and details of an urban atlas. The same name, in the same year, on a short telegraph to the secretary of state, plays an interesting role in a document whose tone could not be doing more to elide its content:
 
