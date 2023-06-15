@@ -72,11 +72,11 @@ This is the same visual language almost exclusively used by map-making companies
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900r7994/1233,1693,6170,2396/1200,/0/default.jpg" caption="This [1892 Atlas of East Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pv76d#1/4) depicts the holdings of the Boston Sugar Refining Company along the harbor in East Boston." class="figure-right" >}}
 
-{{< figure class="figure-right" >}}
+{{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c014w/707,1301,3280,1679/1200,/0/default.jpg" caption="This [1919 Atlas of South Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pw05n#1/3) depicts the American Sugar Refining Company's large sugar refining complex along the Fort Point Channel " >}}
 
 {{< figure class="figure-right" >}}
 
-\[r 1892 Bromley East Boston, Boston sugar refining co]\[r 1919 american sugar refining co seaport]\[r 1922 revere sugar ref]
+\[r 1919 american sugar refining co seaport]\[r 1922 revere sugar ref]
 
 Back in Boston, fire insurance atlases directly show the growing physical influence of what would become the largest manufacturing industry in the city by 1900. In East Boston, by 1892 the Boston Sugar Refining Company controls two city blocks and a stretch of the wharf. In 1919 along the Fort Point Channel in what is now the Seaport district, the American Sugar Refining Company dominates a considerable stretch of the waterfront. And in 1922 the Revere Sugar Refinery is visible along the Mystic River in Charlestown. Between the consumers with a growing taste for sweetness, the sprawling refineries along Boston’s waterways, the ships needed to transport the raw sugar from the tropics where it grows, and the workers who harvest it to begin with, we are again faced with a web of relations stretched across vast distances.
 
