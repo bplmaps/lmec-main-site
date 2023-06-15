@@ -68,9 +68,13 @@ An industry with an even greater significance to Boston offers a unique example 
 
 This is the same visual language almost exclusively used by map-making companies to depict urban cities like Boston. Here, the margins of the page have followed the money, and now a Cuban warehouse can be mistaken for a Bostonian one thousands of miles away. More importantly, it can be appraised and administered with the same ease as an asset in the home country. Critically, the margins of the page stop just short of these direct economic assets. The maps rarely stray more than a few hundred feet from the coastline and in order to understand the full extent of the relationships involved, a closer look at the sugar industry as a whole is required.
 
-\[full porto rico sugarcane]
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8336h487w/full/1200,/0/default.jpg" caption="This [stereograph from around 1910](https://www.digitalcommonwealth.org/search/commonwealth:8336h486m) depicts the sugar cane harvest in Rio Pedro, Puerto Rico." >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900r7994/1233,1693,6170,2396/1200,/0/default.jpg" caption="This [1892 Atlas of East Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pv76d#1/4) depicts the holdings of the Boston Sugar Refining Company along the harbor in East Boston." >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900r7994/1233,1693,6170,2396/1200,/0/default.jpg" caption="This [1892 Atlas of East Boston](https://collections.leventhalmap.org/book_viewer/commonwealth:tt44pv76d#1/4) depicts the holdings of the Boston Sugar Refining Company along the harbor in East Boston." class="figure-right" >}}
+
+{{< figure class="figure-right" >}}
+
+{{< figure class="figure-right" >}}
 
 \[r 1892 Bromley East Boston, Boston sugar refining co]\[r 1919 american sugar refining co seaport]\[r 1922 revere sugar ref]
 
