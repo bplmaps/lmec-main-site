@@ -64,9 +64,7 @@ These massive economic interests across the Americas would coincide with both [U
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/sanbornspread.jpg" caption="The [index page](https://www.loc.gov/resource/g4920m.g09796001/?sp=1&r=-0.943,-0.038,2.886,1.317,0) for the Sanborn &#x22;Insurance Maps of the Sugar Warehouses at the Principal Ports on the Island of Cuba&#x22;" >}}
 
-{{< figure class="figure-left" src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/sanborn 1(8).png" caption="[Detail](https://www.loc.gov/resource/g4920m.g09796001/?sp=8&st=image&r=-0.056,-0.785,1.111,2.435,90) showing wooden, brick, and stone sugar warehouses in precise detail down to the interior level of the buildings." >}}
-
-{{< figure class="figure-left" src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/sanborn 2(12).png" caption="[Detail](https://www.loc.gov/resource/g4920m.g09796001/?sp=12&st=image&r=0.271,0.151,1.022,0.467,0) showing precise measurements and technical specifications." >}}
+{{< figure class="figure-left" src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/sanborn 2(12).png" caption="[Detail](https://www.loc.gov/resource/g4920m.g09796001/?sp=12&st=image&r=0.271,0.151,1.022,0.467,0) showing precise measurements and technical specifications, down to the interior level of some buildings." >}}
 
 {{< figure class="figure-left" src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/sanborn 3(15).jpg" caption="[Detail](https://www.loc.gov/resource/g4920m.g09796001/?sp=15&st=image&r=-0.087,0.109,1.098,0.501,0) showing the strategic placement of sugar warehouses, connected by rail to the sugar cane fields and mills, and by sea to eager markets." >}}
 
