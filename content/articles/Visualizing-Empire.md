@@ -8,6 +8,8 @@ image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fk52t/482,507,4413,2845/1200,/0/default.jpg
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fk52t/482,507,4413,2845/1200,/0/default.jpg
+tags:
+  - collections
 ---
 
 Because the word ‘global’ has become an almost expected addition to much of what we discuss in the 21st century, we fail to realize the significant and overlapping distances which are fundamentally embodied in our landscapes and implicated in our lives. Distances in a literal sense, like the many thousands of miles of communications lines or shipping lanes which belt the world. As well as distances in a more abstract sense, like the ones across the almost unimaginable number of people and processes involved in the construction and then use of just one of Boston’s hundreds of high-rise buildings.
