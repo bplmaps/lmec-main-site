@@ -66,15 +66,15 @@ These massive economic interests across the Americas would coincide with both [U
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/sanbornspread.jpg" caption="The [index page](https://www.loc.gov/resource/g4920m.g09796001/?sp=1&r=-0.943,-0.038,2.886,1.317,0) for the Sanborn &#x22;Insurance Maps of the Sugar Warehouses at the Principal Ports on the Island of Cuba&#x22;" >}}
 
-{{< figure class="figure-left" >}}
+{{< figure class="figure-left" src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/sanborn 1(8).png" caption="[Detail](https://www.loc.gov/resource/g4920m.g09796001/?sp=8&st=image&r=-0.056,-0.785,1.111,2.435,90) showing wooden, brick, and steel sugar warehouses in precise detail." >}}
 
 {{< figure class="figure-left" >}}
 
 {{< figure class="figure-left" >}}
 
-An industry with an even greater significance to Boston offers a unique example of the atlas as a marker of economic significance which can fold together the opposite ends of these increasingly broad expanses. By 1920 the importance of the sugar industry to the US economy, and the scale of its investments abroad, brought about one of the few instances of a Sanborn fire insurance atlas being made of a territory outside the boundaries of the US. [This document](https://www.loc.gov/item/sanborn92531_001/) depicts in meticulous detail the sugar warehouses and associated railway depots and shipping docks of twenty-one Cuban towns, with an eye towards technical details like loading capacity and building material.
+An industry with an even greater significance to Boston offers a unique example of maps as markers of economic significance which can fold together the opposite ends of these increasingly broad expanses. By 1920 the importance of the sugar industry to the US economy, and the scale of its investments abroad, brought about one of the few instances of a Sanborn fire insurance atlas being made of a territory outside the boundaries of the US. [This document](https://www.loc.gov/item/sanborn92531_001/) depicts in meticulous detail the sugar warehouses and associated railway depots and shipping docks of twenty-one Cuban towns, with an eye towards technical details like loading capacity and building material.
 
-This is the same visual language almost exclusively used by map-making companies to depict urban cities like Boston. Here, the margins of the page have followed the money, and now a Cuban warehouse can be mistaken for a Bostonian one thousands of miles away. More importantly, it can be appraised and administered with the same ease as an asset in the home country. Critically, the margins of the page stop just short of these direct economic assets. The maps rarely stray more than a few hundred feet from the coastline.
+This is the same visual language almost exclusively used by map-making companies to depict urban cities like Boston. Here, the margins of the page have followed the money, and now a Cuban warehouse can be mistaken for a Bostonian one thousands of miles away. More importantly, it can be appraised and administered with the same ease as an asset in the home country. Critically, the margins of the page stop just short of these direct economic assets. The maps rarely stray more than a few hundred feet in from the coastline.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8336h487w/full/1200,/0/default.jpg" caption="This [stereograph from around 1910](https://www.digitalcommonwealth.org/search/commonwealth:8336h486m) depicts the sugar cane harvest in Rio Pedro, Puerto Rico." >}}
 
