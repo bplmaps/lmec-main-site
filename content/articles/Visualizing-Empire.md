@@ -62,7 +62,7 @@ These massive economic interests across the Americas would coincide with both [U
 
 **Sweet City of Boston**
 
-\[left cusa 2]\[left cusa 3]
+\[left cusa 3]
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/sanbornspread.jpg" caption="The [index page](https://www.loc.gov/resource/g4920m.g09796001/?sp=1&r=-0.943,-0.038,2.886,1.317,0) for the Sanborn &#x22;Insurance Maps of the Sugar Warehouses at the Principal Ports on the Island of Cuba&#x22;" >}}
 
@@ -70,7 +70,7 @@ These massive economic interests across the Americas would coincide with both [U
 
 {{< figure class="figure-left" src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/sanborn 2(12).png" caption="[Detail](https://www.loc.gov/resource/g4920m.g09796001/?sp=12&st=image&r=0.271,0.151,1.022,0.467,0) showing precise measurements and technical specifications." >}}
 
-{{< figure class="figure-left" >}}
+{{< figure class="figure-left" src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/sanborn 3(15).jpg" caption="[Detail](https://www.loc.gov/resource/g4920m.g09796001/?sp=15&st=image&r=-0.087,0.109,1.098,0.501,0) showing the strategic placement of sugar warehouses, connected by rail to the sugar cane fields and mills, and by sea to eager markets." >}}
 
 An industry with an even greater significance to Boston offers a unique example of maps as markers of economic significance which can fold together the opposite ends of these increasingly broad expanses. By 1920 the importance of the sugar industry to the US economy, and the scale of its investments abroad, brought about one of the few instances of a Sanborn fire insurance atlas being made of a territory outside the boundaries of the US. [This document](https://www.loc.gov/item/sanborn92531_001/) depicts in meticulous detail the sugar warehouses and associated railway depots and shipping docks of twenty-one Cuban towns, with an eye towards technical details like loading capacity and building material.
 
