@@ -14,7 +14,7 @@ Because the word ‘global’ has become an almost expected addition to much of 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fk52t/482,507,4413,2845/1200,/0/default.jpg" caption="This [1913 map](https://collections.leventhalmap.org/search/commonwealth:4m90fk51j) of Central America and the Caribbean Sea prominently shows the dense criss-cross of steamship routes linking cities and disparate countries." >}}
 
-“Almost” unimaginable is the caveat which saves our careers here at the Map Center, where a large part of the value in the quarter million items in our collection lies in their ability to encapsulate these distances and complexities and represent them in a form that can be visualized at a surface level. A world map concentrates in one image the broadest possible expanse of literal distance and all of the billions of lives, places, and experiences contained therein. Increasingly detailed and technical maps—such as the fire insurance or real estate atlases in our collection—condense the emerging complexities of an increasingly industrializing and urbanizing world into a simple set of easily legible and striking graphical symbols.
+“Almost” unimaginable is the caveat which saves our careers here at the Map Center, where a large part of the value in the quarter million items in our collection lies in their ability to encapsulate these distances and complexities and represent them in a form that can be visualized at a surface level. A world map concentrates in one image the broadest possible expanse of literal distance and all of the billions of lives, places, and experiences contained therein. Increasingly detailed and technical maps—such as the [fire insurance or real estate atlases](https://guides.bpl.org/urban-atlases/publishers) in our collection—condense the emerging complexities of an increasingly industrializing and urbanizing world into a simple set of easily legible and striking graphical symbols.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w278/full/1200,/0/default.jpg" class="figure-left" caption="This [1872 world map](https://www.digitalcommonwealth.org/search/commonwealth:7h149w260) depicts completed and in-construction telegraph lines at a time when the &#x22;circuit of the globe&#x22; had not yet been completed." >}}
 
@@ -26,7 +26,7 @@ The urban atlases made to satisfy the emerging needs of the real estate and insu
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx11xh17j/full/1200,/0/default.jpg" caption="This [postcard (ca. 1930-1945)](https://www.digitalcommonwealth.org/search/commonwealth:hx11xh168) depicts workers unloading bananas in Tampa, Florida." class="figure-right" >}}
 
-Uncovering the humanity hidden in the thousands of maps of Boston in our collection is a central goal of the Map Center, but for however many maps of Boston we have in our collection (~1,500 digitized), there is a much more powerful omission that occurs simply thanks to the margins of the page. The seemingly isolated world we are presented with dramatically transforms itself into the skyscrapers, businesses, and factories of 20th century Boston. Meanwhile, well past the limits of the map’s gaze, the means of creating the markets, generating the profits, and acquiring the resources required by industrial modernity, is occurring in equally dramatic fashion across the globe. Here we have distance in all of its forms: in the thousands of miles between a Boston sugar refinery and the cane fields of the Caribbean or a Colombian banana plantation and the kitchens of America; as well as between the countless invisibly linked individuals working, producing, and purchasing on either end of these expanses.
+Uncovering the humanity hidden in the thousands of maps of Boston in our collection is a [central goal](https://www.leventhalmap.org/digital-exhibitions/building-blocks/) of the Map Center, but for however many maps of Boston we have in our collection (~1,500 digitized), there is a much more powerful omission that occurs simply thanks to the margins of the page. The seemingly isolated world we are presented with dramatically transforms itself into the skyscrapers, businesses, and factories of 20th century Boston. Meanwhile, well past the limits of the map’s gaze, the means of creating the markets, generating the profits, and acquiring the resources required by industrial modernity, is occurring in equally dramatic fashion across the globe. Here we have distance in all of its forms: in the thousands of miles between a Boston sugar refinery and the cane fields of the Caribbean or a Colombian banana plantation and the kitchens of America; as well as between the countless invisibly linked individuals working, producing, and purchasing on either end of these expanses.
 
 All of these distances are present, though translated and obscured, within the outwardly accessible and visually striking language of the maps which are so implicated in the creation of modern Boston. I don’t think it’s possible to fully uncover what is basically an infinitude of shifting relations which span the globe, but by focusing on individual strands and seemingly disconnected artifacts, as they orbit around the city of Boston and the field of cartography, I think it’s possible to tease out into the open a greater understanding of the processes and relationships built across immense distances which have created our present reality.
 
@@ -63,6 +63,14 @@ These massive economic interests across the Americas would coincide with both US
 **Sweet City of Boston**
 
 \[full cuba Sanborn full spread]\[left cusa 1]\[left cusa 2]\[left cusa 3]
+
+{{< figure >}}
+
+{{< figure class="figure-left" >}}
+
+{{< figure class="figure-left" >}}
+
+{{< figure class="figure-left" >}}
 
 An industry with an even greater significance to Boston offers a unique example of the atlas as a marker of economic significance which can fold together the opposite ends of these increasingly broad expanses. By 1920 the importance of the sugar industry to the US economy, and the scale of its investments abroad, brought about one of the few instances of a Sanborn fire insurance atlas being made of a territory outside the boundaries of the US. This document depicts in meticulous detail, the sugar warehouses, railway depots, and shipping docks of twenty-one Cuban towns, with an eye towards technical details like loading capacity and building material.
 
