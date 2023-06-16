@@ -3,7 +3,9 @@ draft: true
 title: Visualizing Empire
 date: 2023-06-16T04:00:00.000Z
 author: Patricio Pino
-description: Empire!
+description: >-
+  Is it possible to draw out into the open the vast and very global
+  relationships which have built the world around us?
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fk52t/482,507,4413,2845/1200,/0/default.jpg
 backgroundImage: >-
