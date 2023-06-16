@@ -64,7 +64,7 @@ These massive economic interests across the Americas would coincide with both [U
 
 \[full cuba Sanborn full spread]\[left cusa 1]\[left cusa 2]\[left cusa 3]
 
-{{< figure >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/sanbornspread.jpg" caption="The [index page](https://www.loc.gov/resource/g4920m.g09796001/?sp=1&r=-0.943,-0.038,2.886,1.317,0) for the Sanborn &#x22;Insurance Maps of the Sugar Warehouses at the Principal Ports on the Island of Cuba&#x22;" >}}
 
 {{< figure class="figure-left" >}}
 
@@ -90,6 +90,6 @@ As it happens,[ by 1887 the Boston Sugar Refining Company was a subsidiary of th
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x346fr10d/full/1200,/0/default.jpg" caption="This [postcard (ca. 1930-1945)](https://www.digitalcommonwealth.org/search/commonwealth:x346fr09n) advertises to an American audience another significant Cuban luxury good: Tobacco. The reverse side cheerily states: &#x22;Cuba is a good neighbor. 75% of its imports are from the United States.&#x22;" >}}
 
-Starting in 1898 with the Spanish American War, which would firmly place Cuba and Puerto Rico in the USA’s sphere of influence, and continuing with two further military interventions to defend economic interests in Cuba in 1906 and 1917, the sugar industry tightly bound the government and economy of sugar producing nations like Cuba to the demands of the North American market. Roads, railways, and communication lines expanded and brought cane fields, sugar mills, and warehouses to every corner of the country. While the undiversified nature of the local economy meant that American manufactured goods could find an easy market. While Cuba became dependent on US imports and the raw extraction of goods to be sent north, the sugar industry reaped enormous profits, expanding its presence in urban centers like Boston and contributing to their growing commercial and financial significance.
+Starting in 1898 with the Spanish-American War, which would firmly place Cuba and Puerto Rico in the USA’s sphere of influence, and continuing with two further military interventions to defend economic interests in Cuba in 1906 and 1917, the sugar industry tightly bound the government and economy of sugar producing nations like Cuba to the demands of the North American market. Roads, railways, and communication lines expanded and brought cane fields, sugar mills, and warehouses to every corner of the country. While the undiversified nature of the local economy meant that American imported goods could find an easy market. While Cuba became dependent on US imports and the raw extraction of goods to be sent north, the sugar industry reaped enormous profits, expanding its presence in urban centers like Boston and contributing to their growing commercial and financial significance.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cn69mf17h/full/1200,/0/default.jpg" caption="This [1929 photograph](https://www.digitalcommonwealth.org/search/commonwealth:cn69mf167) depicts a &#x22;sugar boat&#x22; passing through the Fort Point Channel with the Custom House Tower visible in the background. The Sugar Trust Refinery would be just to the left and behind of where this picture was taken." >}}
