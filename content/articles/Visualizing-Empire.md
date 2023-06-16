@@ -32,7 +32,7 @@ Uncovering the humanity hidden in the thousands of maps of Boston in our collect
 
 All of these distances are present, though translated and obscured, within the outwardly accessible and visually striking language of the maps which are so implicated in the creation of modern Boston. I don’t think it’s possible to fully uncover what is basically an infinitude of shifting relations which span the globe, but by focusing on individual strands and seemingly disconnected artifacts, as they orbit around the city of Boston and the field of cartography, I think it’s possible to tease out into the open a greater understanding of the processes and relationships built across immense distances which have created our present reality.
 
-**Boston Bananas**
+#### **Boston Bananas**
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sq87dc41m/full/1200,/0/default.jpg" caption="This [stereograph (ca. 1879-1930)](https://www.digitalcommonwealth.org/search/commonwealth:sq87dc40b) depicts a banana plantation in Costa Rica. The reverse side gives a short description: “The little ‘banana railroad’ that we see in the distance is owned by the United Fruit Company whose great refrigerator steamers carry vast quantities of this fruit…Today the people of the United States and Canada alone consume 50,000,000 bunches of bananas in a year.”" >}}
 
@@ -68,7 +68,7 @@ These massive economic interests across the Americas would coincide with both [U
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nw34s/full/900,/0/default.jpg" caption="This [photograph (ca. 1913-1915)](https://www.digitalcommonwealth.org/search/commonwealth:8k71nw33h) shows the streets of Boston as the now iconic Custom House Tower is constructed." >}}
 
-**Sweet City of Boston**
+#### **Sweet City of Boston**
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/sanbornspread.jpg" caption="The [index page](https://www.loc.gov/resource/g4920m.g09796001/?sp=1&r=-0.943,-0.038,2.886,1.317,0) for the Sanborn &#x22;Insurance Maps of the Sugar Warehouses at the Principal Ports on the Island of Cuba&#x22;" >}}
 
