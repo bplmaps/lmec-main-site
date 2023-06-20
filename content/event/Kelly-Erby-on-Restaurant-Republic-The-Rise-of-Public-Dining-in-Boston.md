@@ -8,9 +8,13 @@ fee: Free
 tags:
   - exhibition
   - Building Blocks
+image: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wh246t40n/150,147,3045,1809/2000,/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wh246t40n/150,147,3045,1809/2000,/0/default.jpg
 ---
 
-### About this event 
+### About this event
 
 Opening questions...
 
@@ -20,4 +24,4 @@ This talk is presented in conjunction with our ongoing exhibition, [Building Bl
 
 #### About the speaker
 
-Kelly Erby is ... 
+Kelly Erby is ...
