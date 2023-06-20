@@ -2,8 +2,10 @@
 title: 'Special Collections Sampler: Summer Fun'
 date: 2023-07-05T13:30:00.000Z
 publishDate: 2023-06-20T15:00:00.000Z
-image: ''
-backgroundImage: ''
+image: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/CXspotlight_2023Jul_445x890.jpeg
+backgroundImage: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/CXspotlight_2023Jul_445x890.jpeg
 location: >-
   Special Collections Reading Room, Floor 3U (take the glass elevator from the
   Boylston Street Building)
@@ -12,7 +14,7 @@ tags:
   - collections
 ---
 
-### About this event 
+### About this event
 
 One of the best parts of Summer is being able to get out in the sunshine and enjoy the long, beautiful days! Whether it’s heading to the beach, taking in a baseball game, or loading up the car for a family road trip, there’s nothing like Summer. Get into your Summer mindset with Special Collections by stopping by and exploring items from our collections that highlight Summer Fun through the years!     
 
