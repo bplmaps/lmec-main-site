@@ -6,9 +6,7 @@ image: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/CXspotlight_2023Jul_445x890.jpeg
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/CXspotlight_2023Jul_445x890.jpeg
-location: >-
-  Special Collections Reading Room, Floor 3U (take the glass elevator from the
-  Boylston Street Building)
+location: 'Special Collections Reading Room, Floor 3U'
 fee: Free
 tags:
   - collections
