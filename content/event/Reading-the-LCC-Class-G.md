@@ -10,11 +10,11 @@ location: 'Lower Mills Branch Library, Community Room'
 fee: Free
 ---
 
-{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized by the Lower Mills Branch Library.{{\< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized by the Lower Mills Branch Library.{{< /alert-box >}}
 
 ### About this event
 
-Join us for a Special Edition of *Reading the LCC*! This month, we're reading nonfiction from the G Class, which includes Geography, Anthropology, and Recreation. We will be joined by a member of the Leventhal Map & Education Center for their professional perspective on geography and cartography. 
+Join us for a Special Edition of *Reading the LCC*! This month, we're reading nonfiction from the G Class, which includes Geography, Anthropology, and Recreation and members of the LMEC staff will be joining the Lower Mills Branch for the discussion.
 
 *Reading the LCC* is a book group where we explore the Library of Congress Classification system from Class A (General Works) to Class Z (Bibliography, Library Science). Unlike a traditional book club, readers are welcome to explore any title that interests you within the month’s category, and read as much or as little as you please. 
 
