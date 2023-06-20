@@ -18,7 +18,7 @@ backgroundImage: >-
 
 *Opening questions...*
 
-Join us on Monday, August 14 at 12:00PM EDT with Kelly Erby for a virtual talk on....
+Join us on Monday, August 14 at 12:00PM EDT with **Kelly Erby** for a virtual talk on....
 
 This talk is presented in conjunction with our ongoing exhibition, [Building Blocks: Boston Stories from Urban Atlases](https://www.leventhalmap.org/digital-exhibitions/building-blocks/). It is free and open to the public. It will broadcast live to our Facebook page and YouTube channel.
 
