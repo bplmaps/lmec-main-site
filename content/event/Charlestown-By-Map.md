@@ -11,6 +11,8 @@ image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rc344/524,521,6935,4441/2000,/0/default.jpg
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rc344/524,521,6935,4441/2000,/0/default.jpg
+registration: >-
+  https://www.eventbrite.com/e/charlestown-by-map-tickets-663048605227?aff=oddtdtcreator
 ---
 
 ### About this event
