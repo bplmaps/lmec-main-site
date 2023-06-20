@@ -10,6 +10,8 @@ location: 'Lower Mills Branch Library, Community Room'
 fee: Free
 ---
 
+{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized by the Lower Mills Branch Library.{{\< /alert-box >}}
+
 ### About this event
 
 Join us for a Special Edition of *Reading the LCC*! This month, we're reading nonfiction from the G Class, which includes Geography, Anthropology, and Recreation. We will be joined by a member of the Leventhal Map & Education Center for their professional perspective on geography and cartography. 
