@@ -16,7 +16,7 @@ backgroundImage: >-
 
 ### About this event
 
-Opening questions...
+*Opening questions...*
 
 Join us on Monday, August 14 at 12:00PM EDT with Kelly Erby for a virtual talk on....
 
