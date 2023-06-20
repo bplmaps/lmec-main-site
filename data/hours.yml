@@ -21,9 +21,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'June 19, 2023'
-    name: Juneteenth
-    special: Closed
   - date: 'July 4, 2023'
     name: Independence Day
     special: Closed
