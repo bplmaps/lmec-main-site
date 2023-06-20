@@ -7,6 +7,10 @@ fee: Free
 tags:
   - atlascope
   - neighborhood by map
+image: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rc344/524,521,6935,4441/2000,/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m900rc344/524,521,6935,4441/2000,/0/default.jpg
 ---
 
 ### About this event
