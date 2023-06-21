@@ -18,7 +18,7 @@ tags:
 
 One of the best parts of Summer is being able to get out in the sunshine and enjoy the long, beautiful days! Whether it’s heading to the beach, taking in a baseball game, or loading up the car for a family road trip, there’s nothing like Summer.   
 
-The following items will be available for the month of July to use in the Special Collections reading room (Wednesday through Friday 9:30 am to 4:30 pm). No appointment necessary.   
+The following items will be available for the month of July to use in the [Special Collections reading room](https://bpl.bibliocommons.com/events/64919fa173e31d2900bc7da6) (Wednesday through Friday 9:30 am to 4:30 pm). No appointment necessary.   
 
 Items available include:   
 
