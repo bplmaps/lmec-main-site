@@ -14,7 +14,7 @@ tags:
 
 ### About this event
 
-***Get into your Summer mindset with Special Collections by stopping by and exploring items from our collections that highlight Summer Fun through the years! ***    
+***Get into your Summer mindset with Special Collections by stopping by and exploring items from our collections that highlight Summer Fun through the years!*** 
 
 One of the best parts of Summer is being able to get out in the sunshine and enjoy the long, beautiful days! Whether it’s heading to the beach, taking in a baseball game, or loading up the car for a family road trip, there’s nothing like Summer.   
 
