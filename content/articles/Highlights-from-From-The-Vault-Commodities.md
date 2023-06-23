@@ -23,3 +23,7 @@ tags:
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9880z815s/full/2000,/0/default.jpg" >}}
 
 This WW2-era poster depicts “The Resources of the United States” in a simple pictographic style which emphasizes the nation’s natural and industrial wealth, noticeably, entirely in Spanish. The information of the poster has a strong propaganda aspect in described the importance of the United States’ industrial wealth to the allied war effort. The text at the bottom states: “The United States of America is the greatest industrial power in the world…Today, the US, as the ‘Arsenal of Liberty’ is playing a decisive part in the war against aggression.” The resources listed range from primary commodities like coal and cotton, to manufactured commodities like textiles and airplanes. The two graphs along the bottom show the global significance of the US economy, in extent of war effort production on the right, and in the percentage of US contribution to the world’s production of key raw materials on the left.
+
+#### T.D. Parkinson, Map of the Comstock Lode and the Washoe Mining Claims in Storey & Lyon Counties, Nevada (1875)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp65g/full/2000,/0/default.jpg" >}}
