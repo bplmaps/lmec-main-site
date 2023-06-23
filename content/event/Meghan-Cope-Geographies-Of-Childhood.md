@@ -21,7 +21,9 @@ registration: ''
 
 Join us on Tuesday, July 25 at 12:00M EDT with **Meghan Cope** for a virtual talk on the conditions and experiences of childhood in early 20th century New England.
 
-This talk is presented in conjunction with our ongoing exhibition, *[Building Blocks: Boston Stories from Urban Atlases](https://www.leventhalmap.org/digital-exhibitions/building-blocks/)*. It is free and open to the public. It will broadcast live to our [Facebook page](https://www.facebook.com/bplmaps) and [YouTube channel](https://www.youtube.com/@LeventhalMapEducationCenter).
+This talk is presented in conjunction with our ongoing exhibition, *[Building Blocks: Boston Stories from Urban Atlases](https://www.leventhalmap.org/digital-exhibitions/building-blocks/)*. It will broadcast live to our [Facebook page](https://www.facebook.com/bplmaps) and [YouTube channel](https://www.youtube.com/@LeventhalMapEducationCenter). 
+
+Registration is not required. If you would like to receive event reminders, please register below on Eventbrite.
 
 #### About the speaker
 
