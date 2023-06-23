@@ -36,4 +36,6 @@ This [map](https://collections.leventhalmap.org/search/commonwealth:4m90fc02c), 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc03n/full/2000,/0/default.jpg" >}}
 
-####
+#### Richard Mayer (Firm), Map of parts of Venezuela and Colombia (1910-1923) 
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fm18q/full/2000,/0/default.jpg" >}}
