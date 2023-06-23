@@ -36,7 +36,7 @@ This [map](https://collections.leventhalmap.org/search/commonwealth:4m90fc02c), 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc03n/full/2000,/0/default.jpg" >}}
 
-#### Richard Mayer (Firm), Map of parts of Venezuela and Colombia (1910-1923) 
+#### Richard Mayer (Firm), Map of Parts of Venezuela and Colombia (1910-1923) 
 
 The many multicolored demarcations which cover this [map of Venezuela and Colombia](https://collections.leventhalmap.org/search/commonwealth:4m90fm17f) give a visually striking appearance to what is an equally striking illustration of a defining moment in the history of the global petrochemical industry. Each shaded area corresponds to one of the countless companies rushing to benefit from the recent discoveries of oil in the region. The first major oil well on Lake Maracaibo \[Lago de Maracaibo on the map] was drilled in 1917. By 1928 Venezuela would be the world’s largest oil producing nation. The environmental impact on the region and the local population, in addition to the critical political significance of oil dependency on the history of the Venezuelan state, both stem in part from the frenzied rush of foreign capital captured here, which initiated oil extraction in the region. In the key, listing implicated companies by country, some familiar names are visible operating in Venezuela, such as subsidiaries of John D. Rockefeller’s Standard Oil Company (in cyan), as well as the Sun Oil Co. (in orange) which co-owned and operated the Beacon Oil Refinery in Everett, MA, famous for its almost perennial industrial accidents throughout the 1920s.
 
