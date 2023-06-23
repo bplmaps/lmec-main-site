@@ -4,9 +4,9 @@ title: West End By Map
 date: 2023-07-11T16:00:00.000Z
 publishDate: 2023-06-23T13:00:00.000Z
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rz64x/3428,421,3996,2554/2000,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161j60r/486,381,3565,1372/2000,/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tm70rz64x/3428,421,3996,2554/2000,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161j60r/486,381,3565,1372/2000,/0/default.jpg
 location: Virtual
 fee: Free
 tags:
