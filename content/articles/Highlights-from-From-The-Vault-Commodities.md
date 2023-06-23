@@ -16,4 +16,6 @@ tags:
   - from the vault
 ---
 
-> On June 9, we hosted [From The Vault: School’s Out](https://www.leventhalmap.org/event/from-the-vault-collections-showing-/)! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition the series, we looked at objects that were created for or within a school environment.
+> On June 9, we hosted [From The Vault: Commodities](https://www.leventhalmap.org/event/from-the-vault-collections-showing-commodities/)! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition the series, we looked at objects that were created for or within a school environment.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9880z815s/full/2000,/0/default.jpg" >}}
