@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: West End By Map
 date: 2023-07-11T16:00:00.000Z
 publishDate: 2023-06-23T13:00:00.000Z
