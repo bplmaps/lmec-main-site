@@ -11,8 +11,7 @@ location: Virtual
 fee: Free
 tags:
   - neighborhood by map
-registration: >-
-  https://www.eventbrite.com/e/west-end-by-map-tickets-665243540337?aff=oddtdtcreator
+registration: ''
 ---
 
 ### About this event
