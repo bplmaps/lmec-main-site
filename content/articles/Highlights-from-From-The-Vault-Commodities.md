@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Highlights from From The Vault: Commodities'
 date: 2023-06-26T11:00:00.000Z
 author: Patricio Pino
