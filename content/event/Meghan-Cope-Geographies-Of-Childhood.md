@@ -12,8 +12,7 @@ image: >-
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/cropped-playground.jpeg
 publishDate: 2023-06-08T21:00:00.000Z
-registration: >-
-  https://www.eventbrite.com/e/meghan-cope-on-geographies-of-childhood-tickets-653110349637
+registration: ''
 ---
 
 ### About this event
@@ -27,3 +26,24 @@ This talk is presented in conjunction with our ongoing exhibition, *[Building Bl
 #### About the speaker
 
 **Meghan Cope** is a professor of [Geography at the University of Vermont](https://www.uvm.edu/cas/geography/profiles/meghan-cope). Her specialty area is critical historical geographies of early 20th c. American childhood. Meghan’s work examines the role of space and place in producing and maintaining social inequities, as well as the ways marginalized groups – such as children – are agents in creating their own spaces. Her work and teaching take the *production of childhood* as a fundamentally geographic endeavor and, in turn, she and her student use maps, photos, and other archival representations of spatial relations to better understand *past childhoods*, examples of which can be seen on her website, “[Mapping American Childhoods](https://blog.uvm.edu/mcope-childhoods/)”.
+
+<div id="eventbrite-widget-container-653110349637"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '653110349637',
+        iframeContainerId: 'eventbrite-widget-container-653110349637',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
