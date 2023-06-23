@@ -27,3 +27,5 @@ This WW2-era poster depicts “The Resources of the United States” in a simple
 #### T.D. Parkinson, Map of the Comstock Lode and the Washoe Mining Claims in Storey & Lyon Counties, Nevada (1875)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp65g/full/2000,/0/default.jpg" >}}
+
+The significance of the silver deposits of the Comstock Lode are visible here in the extensive mine shafts and tunnels depicted across the top of the map, as well as in the legal mining claims colorfully mapped across this portion of Nevada. The discovery of the Comstock lode, the first major deposit of silver ore in America in 1859, set off a rush of development and extraction which was a key aspect of Nevada’s quick path to statehood in 1863. A vibrant example of the close relationship between the allure and demand for resource extraction and America’s westward expansion.
