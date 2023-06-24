@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: Visualizing Empire
-date: 2023-06-16T04:00:00.000Z
+date: 2023-06-25T04:00:00.000Z
 author: Patricio Pino
 description: >-
   Is it possible to draw out into the open the vast and very global
