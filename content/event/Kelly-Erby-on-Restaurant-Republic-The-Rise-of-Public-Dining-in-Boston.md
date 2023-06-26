@@ -18,7 +18,7 @@ J﻿oin us on Monday, August 14 at 12:00PM EDT with **Dr. Kelly Erby** for a vir
 
 Before the 1820s, the vast majority of Americans ate only at home. As the nation began to urbanize and industrialize, home and work became increasingly divided, resulting in new forms of commercial dining. *Restaurant Republic* sheds light on how commercial dining both reflected and helped shape growing fragmentation along lines of race, class, and gender—from the elite Tremont House, which served fashionable French cuisine, to such plebeian and ethnic venues as oyster saloons and Chinese chop suey houses
 
-### A﻿bout the author
+#### A﻿bout the author
 
 Dr. Kelly Erby is professor of history and interim dean of the College of Arts and Sciences at Washburn University. She received a BA in history and English from the Ohio State University and Ph.D. in history from Emory University. She is the author of *Restaurant Republic: The Rise of Public Dining in Boston* (University of Minnesota Press, 2016). She lives with her two young boys in Lawrence, Kansas.
 
