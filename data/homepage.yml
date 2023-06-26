@@ -69,8 +69,8 @@ cta:
       link: 'https://www.leventhalmap.org/donate/sponsor-an-atlas/'
     - badge: Upcoming closure
       text: >-
-        The Map Center and all BPL locations will be closed on Monday, June 19,
-        in observance of Juneteenth.
+        The Map Center and all BPL locations will be closed on Tuesday, July 4
+        for Independence Day
       link: 'https://www.leventhalmap.org/about/hours-directions/'
 audiences:
   enable: true
