@@ -8,10 +8,8 @@ fee: Free
 tags:
   - exhibition
   - Building Blocks
-image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wh246t40n/150,147,3045,1809/2000,/0/default.jpg
-backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wh246t40n/150,147,3045,1809/2000,/0/default.jpg
+image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/1955.4568.jpg'
+backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/1955.4568.jpg'
 ---
 
 ### About this event
