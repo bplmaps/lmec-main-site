@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Dr. Kelly Erby on Restaurant Republic: The Rise of Public Dining in Boston'
 date: 2023-08-14T16:00:00.000Z
 publishDate: 2023-06-20T15:00:00.000Z
