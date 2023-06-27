@@ -4,6 +4,7 @@ author: Ian Spangler & Rachel Sharer
 description: Three new towns and cities available to explore in Atlascope, with many more to come
 date: 2023-06-30T07:00:00-05:00
 image: "/uploads/allmaps-atlascope.png"
+draft: true
 backgroundImage: uploads/allmaps-atlascope.png
 tags:
 - atlascope
