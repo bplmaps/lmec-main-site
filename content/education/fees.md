@@ -11,7 +11,7 @@ description: Our fee structure for class visits and lessons
 
 Our fee structure helps underwrite our free public services, and helps us to defer the cost of staff time to carry out programs. **All of our programs and events which are carried out for the general public are provided free of charge to participants.** In addition, admission to our exhibition gallery, research and reference services, and access to the Rare Maps Reading Room are **always free**.
 
-Cost should not present a barrier for bringing our educational programs to your students. If your district or institution is not able to support our standard fees, [please send us an email](mailto:info@leventhalmap.org) to discuss subvented rates.
+Cost should not present a barrier for bringing our educational programs to your students. If your district or institution is not able to support our standard fees, [please send us an email](mailto:info@leventhalmap.org) to discuss adjusted rates.
 
 ## K-12 programs
 
