@@ -25,7 +25,7 @@ Cost should not present a barrier for bringing our educational programs to your 
   * Two sessions: $350
   * Three sessions: $500
   * Each additional session: +$100
-* **Mileage** is charged at 62.5¢ per mile driving distance from Copley Square.
+* **Mileage** is charged at 65.5¢ per mile driving distance from Copley Square.
 
 ## University programs
 
