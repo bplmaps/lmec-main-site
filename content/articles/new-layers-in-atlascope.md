@@ -19,7 +19,7 @@ In udpating Atlascope, however, there was a crucial little thing that we did not
 
 For nearly three years, Atlascope has boasted "101 atlas layers of Boston and its inner suburbs." While 101 is a great number, it represents only a fraction of the cities and towns that are represented in the Leventhal Center's vast [collection of urban atlases](https://collections.leventhalmap.org/search?per_page=100&q=urban+atlas).
 
-Today, we're excited to announce that we've added **five new atlas layers across three towns to Atlascope: Dover, Hull, and Lynn**. We view urban atlases not only as excellent resources for learning concrete facts about historical geography---possibly no other resource provides the same level of granularity---but also jumping-off points for telling new stories about the world around us. Here is a small selection of what the kinds of stories you can find in the latest Atlascope layers.
+Today, we're excited to announce that we've added **five new atlas layers across three towns to Atlascope, extending coverage to Dover, Hull, and Lynn**. We view urban atlases not only as excellent resources for learning concrete facts about historical geography---possibly no other resource provides the same level of accessibility and granularity---but also as jumping-off points for telling new stories about the world around us. Here is a small selection of what the kinds of stories you can find in the latest Atlascope layers.
 
 #### Dover: The prefab capital of the Commonwealth
 
@@ -35,7 +35,7 @@ Just north of the factory in Dover, a {{<popup img-src="/uploads/hodgson-home.pn
 
 #### Hull: The heydays of Nantasket Beach
 
-For our current exhibition, *Building Blocks*, Laura Lee Schmidt writes that Revere Beach constituted a "[landscape of marvels](https://www.leventhalmap.org/digital-exhibitions/building-blocks/topics/having-fun/)." In the early 20th century, amusement parks and fairgrounds could be commonly found at the end of streetcar lines (often placed there with the support of streetcar companies). The "marvels" in Revere Beach peaked around 1914, but nearly twenty years earlier, however, the town of **Hull** boasted its own landscape of marvels.
+For our current exhibition, *Building Blocks*, Laura Lee Schmidt writes that Revere Beach constituted a "[landscape of marvels](https://www.leventhalmap.org/digital-exhibitions/building-blocks/topics/having-fun/)." In the early 20th century, amusement parks and fairgrounds could be commonly found at the end of streetcar lines (often placed there with the support of streetcar companies). The "marvels" in Revere Beach peaked around 1914, but nearly twenty years earlier, the town of **Hull** boasted its own landscape of marvels.
 
 The [1895 Atlascope view of Nantasket Beach](https://atlascope.org/#/view:share$mode:glass$center:-70.85802,42.27136$zoom:16.87$base:maptiler-streets$overlay:ark:/76611/algwfrn83) reveals a town that has in some ways only just begun to expand. Sagamore Head has been {{<popup img-src="/uploads/sagamore.png" target="blank">}}subdivided but hardly developed,{{</popup>}} while {{<popup img-src="/uploads/allerton.png" target="blank">}}yellow buildings pockmark the coasts{{</popup>}} further north towards Allerton, indicating that construction is mostly limited to desirable waterfront properties. Just across from the Nantasket Steamboat Wharf, however, we find the [main drag of Nantasket Beach](https://atlascope.org/#/view:share$mode:glass$center:-70.85602,42.27099$zoom:17.64$base:massgis-2021-orthos$overlay:ark:/76611/algwfrn83) replete with fun and games, from {{<popup img-src="/uploads/merry.png" target="blank">}}shuffleboard, toboggans, and a merry go round{{</popup>}} to a {{<popup img-src="/uploads/hotel.png" target="blank">}}dance hall, maze, and "automatic swing."{{</popup>}}
 
@@ -61,3 +61,12 @@ An 1898 issue of [*The register of the Lynn historical society*](https://archive
 
 ### Want to see your town in Atlascope?
 
+We’re continuing work this summer and fall to add dozens more Massachusetts towns to Atlascope. There’s much more to be discovered in these atlases; your town may not have been the capital of prefabricated housing, a center for themed rides and dance halls, or a hub in the world of morocco goods, but we're positive it has its own unique story and historical tidbits scattered through these atlas pages!
+
+However, **we need help from you and your communities to make this happen.** Transforming a single town atlas from printed pages into a modern, readable web-layer is [both costly and time-consuming](https://www.leventhalmap.org/articles/atlascope-explained-looking-between-the-cracks/), taking up to 60 hours of skilled staff labor.
+
+We are currently fundraising for the base amount of labor it takes to transform and ingest each physical atlas into Atlascope for usage and discovery. If you’d like to see your town in Atlascope, and you know institutions, groups, or community members who’d like to help gather the funding to support this, please visit [this page](https://www.leventhalmap.org/donate/sponsor-an-atlas/) for more information, or reach out directly to [LMEC Development Coordinator, Rachel Sharer](https://www.leventhalmap.org/about/people/rachel-sharer/).
+
+As we add atlas layers in the coming year, we will prioritize towns that are funded by our partner institutions. So far we’ve received support from local libraries, museums, educational institutions, and historical community groups, and we’d love to add your name to our list of sponsors!
+
+With your help, we're excited to make Atlascope a tool for groundbreaking historical research & urban discovery across the whole state of Massachusetts.
