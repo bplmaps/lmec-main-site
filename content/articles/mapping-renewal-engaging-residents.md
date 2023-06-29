@@ -1,7 +1,7 @@
 ---
 title: "Mapping Renewal, Engaging Residents"
 author: Claire Dunning
-description: Three new towns and cities available to explore in Atlascope, with many more to come
+description: Subtitle goes here
 date: 2023-06-30T07:00:00-05:00
 image: "/uploads/allmaps-atlascope.png"
 draft: true
@@ -17,7 +17,7 @@ tags:
 
 At a time when urban renewal typically meant "[negro removal](https://americanarchive.org/catalog/cpb-aacip-15-9m03xx2p?proxy_start_time=987.884445)," Otto and Muriel Snowden published an article in the Journal of Housing demonstrating that another way was possible.[^1] The 1963 piece recounted their work at Freedom House, the nonprofit organization they had co-founded fourteen years earlier in Boston, and the unlikely partnership they had forged with city authorities to facilitate resident participation in the urban renewal of Washington Park, a predominantly Black neighborhood. Thanks to these efforts, the Snowdens proudly stated, community members had been “truly partners, not pawns” and stood to benefit from federal investment in their neighborhood. 
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:086156703/full/pct:20/0/default.jpg" caption="An illustrative site plan for Washington Park's urban renewal area ([1970]), from [LMEC collections](https://collections.leventhalmap.org/search/commonwealth:4m90hf890)." class="figure-left" >}}
+<!-- {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:086156703/full/pct:20/0/default.jpg" caption="An illustrative site plan for Washington Park's urban renewal area ([1970]), from [LMEC collections](https://collections.leventhalmap.org/search/commonwealth:4m90hf890)." class="figure-left" >}} -->
 
 The Snowden’s article told the story of Freedom House and its role facilitating citizen participation with words and, importantly, images. Readers encountered several photographs of people interacting with maps hung on the walls, spread across tables, and displayed at community meetings. With these visual choices, the Snowdens conveyed a clear message: interacting with the maps, studying them, discussing them, annotating them, redrawing them, and explaining them, constituted the day-to-day practice of renewal and what it looked like to engage residents in it.
 
