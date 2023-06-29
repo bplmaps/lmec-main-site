@@ -19,7 +19,7 @@ In udpating Atlascope, however, there was a crucial little thing that we did not
 
 For nearly three years, Atlascope has boasted "101 atlas layers of Boston and its inner suburbs." While 101 is a great number, it represents only a fraction of the cities and towns that are represented in the Leventhal Center's vast [collection of urban atlases](https://collections.leventhalmap.org/search?per_page=100&q=urban+atlas).
 
-Today, we're excited to announce that we've added **five new atlas layers across three towns to Atlascope, extending coverage to Dover, Hull, and Lynn**. We view urban atlases not only as excellent resources for learning concrete facts about historical geography---possibly no other resource provides the same level of accessibility and granularity---but also as jumping-off points for telling new stories about the world around us. Here is a small selection of what the kinds of stories you can find in the latest Atlascope layers.
+Today, we're excited to announce that we've added **five new atlas layers across three towns to Atlascope, extending coverage to Dover, Hull, and Lynn**. For us, urban atlases are not just excellent resources for learning concrete facts about historical geography (though they certainly are that---possibly no other resource provides the same level of accessibility and granularity). Importantly, historic urban atlases provide jumping-off points for telling new stories about the world around us. Here is a small selection of what the kinds of stories you can find in the latest Atlascope layers.
 
 #### Dover: The prefab capital of the Commonwealth
 
