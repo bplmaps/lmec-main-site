@@ -19,23 +19,19 @@ tags:
 
 At a time when urban renewal typically meant "[negro removal](https://americanarchive.org/catalog/cpb-aacip-15-9m03xx2p?proxy_start_time=987.884445)," Otto and Muriel Snowden published an article in the Journal of Housing demonstrating that another way was possible.[^1] The 1963 piece recounted their work at Freedom House, the nonprofit organization they had co-founded fourteen years earlier in Boston, and the unlikely partnership they had forged with city authorities to facilitate resident participation in the urban renewal of Washington Park, a predominantly Black neighborhood. Thanks to these efforts, the Snowdens proudly stated, community members had been “truly partners, not pawns” and stood to benefit from federal investment in their neighborhood. 
 
-<!-- {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:086156703/full/pct:20/0/default.jpg" caption="An illustrative site plan for Washington Park's urban renewal area ([1970]), from [LMEC collections](https://collections.leventhalmap.org/search/commonwealth:4m90hf890)." class="figure-left" >}} -->
-
 The Snowden’s article told the story of Freedom House and its role facilitating citizen participation with words and, importantly, images. Readers encountered several photographs of people interacting with maps hung on the walls, spread across tables, and displayed at community meetings. With these visual choices, the Snowdens conveyed a clear message: interacting with the maps, studying them, discussing them, annotating them, redrawing them, and explaining them, constituted the day-to-day practice of renewal and what it looked like to engage residents in it.
 
 Notably, the maps at Freedom House were works-in-progress shared by the Boston Redevelopment Authority (BRA) for community feedback and amendments before their formal adoption. Maps were not just an end of urban renewal planning, but a means to that end and the active tool through which residents---notably Black residents in a majority white city---could participate in governance and shape their neighborhood. 
 
 ### Placing people in cartography
 
-<!-- {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:nc583479j/full/pct:10/0/default.jpg" caption="A 1962 Boston Redevelopment Authority map entitled *Washington Park urban renewal area r-24 : building condition*, from [Leventhal Map & Education Center collections]()." class="figure-left" >}} -->
-
 Thanks to archival efforts, both the renewal maps of Washington Park and the images of them at Freedom House have been preserved.
 
 The Leventhal Map & Education Center at the Boston Public Library holds several maps from the Boston Redevelopment Authority’s projects in Washington Park and the [broader Roxbury renewal district](https://collections.leventhalmap.org/search?utf8=%E2%9C%93&per_page=100&q=Roxbury+-+N.+Dorchester+G.N.R.P.&search_field=all_fields). These include visual inventories of {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:nc583479j/449,6048,4146,2596/pct:20/0/default.jpg" target="blank" bib-src="https://collections.leventhalmap.org/search/commonwealth:b2776b41h">}}existing neighborhood conditions{{</popup>}} and {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zc77w7124/806,595,6028,3735/pct:20/0/default.jpg" bib-src="https://collections.leventhalmap.org/search/commonwealth:j3862q70s" target="blank">}}plans for future ones{{</popup>}} with new street layouts, buildings, and zoning. They are technical products printed on paper larger than the standard letter size. On most, crease marks are still intact from the careful folding and unfolding of the maps as they accompanied proposals to the city council who approved renewal plans and applications to the federal government for urban renewal financing.
 
 {{< carousel >}}
-    {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:nc583479j/full/pct:20/0/default.jpg" >}}{{< /carousel-figure >}}
-    {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zc77w7124/full/pct:20/0/default.jpg" >}}{{< /carousel-figure >}}
+    {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:nc583479j/full/pct:20/0/default.jpg" >}}[View map in LMEC Collections](https://collections.leventhalmap.org/search/commonwealth:b2776b41h){{< /carousel-figure >}}
+    {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zc77w7124/full/pct:20/0/default.jpg" >}}[View map in LMEC Collections](https://collections.leventhalmap.org/search/commonwealth:j3862q70s){{< /carousel-figure >}}
 {{</ carousel >}}
 
 Down the road (or, thanks to digitization, a few clicks away), Northeastern University’s Archive & Special Collections houses the records of Otto and Muriel Snowden’s Freedom House, including numerous images of Washington Park residents interacting with renewal maps, then at draft stage.
