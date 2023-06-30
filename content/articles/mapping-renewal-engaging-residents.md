@@ -13,6 +13,8 @@ tags:
 
 ---
 
+>*This digital publication was supported by the Leventhal Map & Education Center's* [Small Grants for Early Career Digital Publications](http://localhost:1313/research/digital-publication-small-grants/) *program.*
+
 ### Citizens as planners in Washington Park
 
 At a time when urban renewal typically meant "[negro removal](https://americanarchive.org/catalog/cpb-aacip-15-9m03xx2p?proxy_start_time=987.884445)," Otto and Muriel Snowden published an article in the Journal of Housing demonstrating that another way was possible.[^1] The 1963 piece recounted their work at Freedom House, the nonprofit organization they had co-founded fourteen years earlier in Boston, and the unlikely partnership they had forged with city authorities to facilitate resident participation in the urban renewal of Washington Park, a predominantly Black neighborhood. Thanks to these efforts, the Snowdens proudly stated, community members had been “truly partners, not pawns” and stood to benefit from federal investment in their neighborhood. 
