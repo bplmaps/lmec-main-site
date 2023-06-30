@@ -3,9 +3,9 @@ title: "Mapping Renewal, Engaging Residents"
 author: Claire Dunning
 description: Subtitle goes here
 date: 2023-06-30T07:00:00-05:00
-image: "/uploads/allmaps-atlascope.png"
+image: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0k227t92j/full/pct:20/0/default.jpg"
 draft: true
-backgroundImage: uploads/allmaps-atlascope.png
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0k227t92j/full/pct:20/0/default.jpg
 tags:
 - small grants program
 - urban renewal
