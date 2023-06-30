@@ -1,7 +1,7 @@
 ---
 title: Phoebe McMahon
 description: Geospatial Intern, Summer 2023
-headshot: "/images/headshots/phoebe-mcmahon.jpeg"
+headshot: "/images/headshots/phoebe-mcmahon.png"
 type: person
 contact:
 - method: Email
