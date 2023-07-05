@@ -26,3 +26,5 @@ The Point of Pines, located just north of Boston, opened one year after this map
 #### George H. Walker, Magnolia, Gloucester, Mass (1887)
 
 This [bird’s eye of the Magnolia, Gloucester](https://collections.leventhalmap.org/search/commonwealth:x633f9030) details the neighborhood’s piers, beaches, cottages, chapel (C), and bowling alley (M)! In the foreground, Shore Street is lined with people walking and biking along the coast as boats sail nearby. The bicycles pictured are called penny-farthing (or high wheel) bicycles, which were particularly popular during the 1870s and 1880s when this map was first published. The large front wheel provided high speeds (large wheel rotation distance) and comfort (large shock absorption), but soon became obsolete with the development of modern bicycles in the late 1880s. 
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n7650/145,139,5274,3415/2000,/0/default.jpg" >}}
