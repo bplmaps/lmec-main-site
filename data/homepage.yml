@@ -67,11 +67,6 @@ cta:
         Are there atlases of other Massachusetts towns you would like to see
         added to Atlascope?
       link: 'https://www.leventhalmap.org/donate/sponsor-an-atlas/'
-    - badge: Upcoming closure
-      text: >-
-        The Map Center and all BPL locations will be closed on Tuesday, July 4
-        for Independence Day
-      link: 'https://www.leventhalmap.org/about/hours-directions/'
 audiences:
   enable: true
   audienceGroups:
