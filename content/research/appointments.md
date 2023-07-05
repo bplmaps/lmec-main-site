@@ -15,7 +15,7 @@ Non-Massachusetts residents can apply for a research card for the purpose of usi
 
 #### Requests to View Materials
 
-The Rare Maps Reading Room is available by appointment Tuesday-Friday 10 am-4 pm. Appointments are required in order to view materials in the reading room. As a standard, appointments require four days advance booking, though special accommodations can occasionally be granted.
+The Special Collections Reading Room is open Wednesday-Friday 9:30 am-4:30 pm. Appointments are required in order to view materials in the reading room. As a standard, appointments require two days advance booking, though special accommodations can occasionally be granted.
 
 Requests for materials and appointment scheduling is conducted through the online [Aeon system](https://readingroom.bpl.org/). You will need to register for an Aeon account (which is distinct from a BPL catalog library card account) online, and at your first visit you will need to validate your registration by showing your library research card.
 
@@ -25,7 +25,7 @@ For assistance or questions, please [contact a librarian](/research/#ask-librari
 
 #### Reading Room Policy
 
-For security purposes, only select personal items are permitted in the Rare Maps Reading Room. Coats, bags, and other belongings can be stored in a locker while using the reading room.
+For security purposes, only select personal items are permitted in the Reading Room. Coats, bags, and other belongings can be stored in a locker while using the reading room.
 
 You are welcome to bring your laptop, silenced phone, camera and associated cords into the reading room. We have paper and pencils available for notetaking. If there’s anything else you would like to bring with you, please let us know when you submit your appointment request.
 
