@@ -31,7 +31,7 @@ This [bird’s eye of the Magnolia, Gloucester](https://collections.leventhalmap
 
 #### Chicago and North Western Railway Company, The Great North Woods Tourist and Fishing District of Wisconsin: Ideal Location for Summer Homes (1922)
 
-Who’s ready for an afternoon at the lake? This [blue-spotted map of the “Great North Woods” of Wisconsin](https://collections.leventhalmap.org/search/commonwealth:4m90fc15f) is speckled with hundreds of lakes, rivers, and streams, and also lists nearby resorts, cottages, lodges, and camps. 
+Who’s ready for an afternoon at the lake? This [blue-spotted map of the “Great North Woods” of Wisconsin](https://collections.leventhalmap.org/search/commonwealth:4m90fc15f) is speckled with hundreds of lakes, rivers, and streams, and also lists nearby resorts, cottages, lodges, and camps. The Chicago and North Western Railroad Line, running across in the map in red, was originally created to carry goods like potatoes, sugar beets, corn, and wheat, but transitioned to passenger services as summer resorts and camps popped up around the region. 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc16q/full/2000,/0/default.jpg" >}}
 
