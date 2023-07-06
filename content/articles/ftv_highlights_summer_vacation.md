@@ -35,7 +35,7 @@ Who’s ready for an afternoon at the lake? This [blue-spotted map of the “Gre
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fc16q/full/2000,/0/default.jpg" >}}
 
-#### Courtland Smith, A Map of Long Island (1933)
+#### Courtland Smith, *A Map of Long Island* (1933)
 
 By the late 19th century, Long Island had become a popular summer destination for New York City residents via the Long Island Railroad. With connections to Coney Island, Rockaway, Brighton Beach, and Manhattan Beach, visitors enjoyed not only seaside resorts, beautiful beaches, and delicious food, but roller coasters, racetracks, boxing matches, gambling, dance halls, and more. This [1933 map of Long Island](https://collections.leventhalmap.org/search/commonwealth:0r96fm61z) captures the summer spirit with illustrations of beach activities, outdoor games, lighthouses, boats, and wildlife.
 
