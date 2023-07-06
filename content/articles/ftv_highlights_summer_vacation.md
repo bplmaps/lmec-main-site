@@ -19,7 +19,7 @@ tags:
 
 #### E. R. Howe, *The Point of Pines, Revere, Mass* (1880)
 
-The Point of Pines, located just north of Boston, opened one year after this map’s publication in 1881. The Pines Hotel is promoted on the [map](https://collections.leventhalmap.org/search/commonwealth:wd3761342) as the “most beautiful sea shore resort in New England” where guests will enjoy “music day and evening,” “electric lights and fire works,” and “daily excursions and picnic parties without previous notice.” In addition to the hotel, developers made plans for a racetrack and amusement park on the property. Sounds like fun, right? Unfortunately, the amusement park never opened. After financial difficulties and lease transfers, work on the park came to a halt just two weeks before the scheduled opening in 1907.
+The Point of Pines, located just north of Boston, opened one year after this map’s publication in 1881. The Pines Hotel is promoted on this [bird's eye map](https://collections.leventhalmap.org/search/commonwealth:wd3761342) as the “most beautiful sea shore resort in New England” where guests will enjoy “music day and evening,” “electric lights and fire works,” and “daily excursions and picnic parties without previous notice.” In addition to the hotel, developers made plans for a racetrack and amusement park on the property. Sounds like fun, right? Unfortunately, the amusement park never opened. After financial difficulties and lease transfers, work on the park came to a halt just two weeks before the scheduled opening in 1907.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd376135b/238,217,8292,6496/2000,/0/default.jpg" >}}
 
