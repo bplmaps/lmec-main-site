@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Highlights from From The Vault: Summer Vacation'
 date: 2023-07-10T11:00:00.000Z
 author: Megan Nally
