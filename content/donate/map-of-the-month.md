@@ -29,5 +29,5 @@ Donations go directly to our historical geography work with students, educators,
 * **February 2023:** [Geological Map of the United States](https://collections.leventhalmap.org/search/commonwealth:7h149x508)
 * **March 2023:** [A map of the wondrous isle of Manhattan](https://collections.leventhalmap.org/search/commonwealth:0r96fm88c)
 * **April 2023:** [Boston and its environs](https://collections.leventhalmap.org/search/commonwealth:x633f9714)
-* **May 2023: **[View of Boston freight terminals](https://collections.leventhalmap.org/search/commonwealth:df65xz27g)
-* **June 2023: ***Coming Soon*
+* **May 2023**: [View of Boston freight terminals](https://collections.leventhalmap.org/search/commonwealth:df65xz27g)
+* **June 2023**: [Provincetown, Mass](https://collections.leventhalmap.org/search/commonwealth:x633f932f)
