@@ -31,3 +31,4 @@ Donations go directly to our historical geography work with students, educators,
 * **April 2023:** [Boston and its environs](https://collections.leventhalmap.org/search/commonwealth:x633f9714)
 * **May 2023**: [View of Boston freight terminals](https://collections.leventhalmap.org/search/commonwealth:df65xz27g)
 * **June 2023**: [Provincetown, Mass](https://collections.leventhalmap.org/search/commonwealth:x633f932f)
+* **July 2023: ***Coming Soon*
