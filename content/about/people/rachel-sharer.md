@@ -1,7 +1,7 @@
 ---
 title: Rachel Sharer
 description: Development Coordinator
-headshot: "/uploads/2021-08-19/headshot.jpg"
+headshot: "/images/headshots/rachel-sharer.jpg"
 type: person
 contact:
 - method: Phone
