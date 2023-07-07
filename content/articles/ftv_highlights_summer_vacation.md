@@ -41,8 +41,8 @@ By the late 19th century, Long Island had become a popular summer destination fo
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm627/108,86,7033,5150/2000,/0/default.jpg" >}}
 
-#### Matthews-Northrup Company, The Health and Pleasure Resorts of New York and New England, the Best Way to Reach Them via "America's Greatest Railroad" (1898)
+#### Boston Redevelopment Authority, Boston Urban Wilds (1976)
 
-Oh, the places you’ll go via “America’s Greatest Railroad!” Celebrated for “the excellence of its tracks, the speed of its trains, the safety and comfort of its patrons, \[and] the loveliness and variety of its scenery,” the New York Central & Hudson River Railroad linked major cities across the Northeast and Midwest from Boston to St. Louis. This [map of the railroad](https://collections.leventhalmap.org/search/commonwealth:0k227t918) was created at the turn of the 20th century when diseases like tuberculosis and cholera ran rampant in cities, and was likely made to promote the railroad’s services by enticing wealth city dwellers to leave the “dirty city” for rest and relaxation at wellness resorts. 
+Have you visited any of the urban wilds—natural parks, woodland reservations, beaches, and hilltops—mapped on this [guide by the Boston Redevelopment Authority](https://collections.leventhalmap.org/search/commonwealth:7h14cw341)? It was published as part of a larger BRA document called “Boston's Urban Wilds: A Natural Area Conservation Program,” which inventoried 143 natural areas in the City and made recommendations for the remaining natural areas. 
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53nh02m/full/2000,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw359/full/2000,/0/default.jpg" >}}
