@@ -45,4 +45,4 @@ By the late 19th century, Long Island had become a popular summer destination fo
 
 Have you visited any of the urban wilds—natural parks, woodland reservations, beaches, and hilltops—mapped on this [guide by the Boston Redevelopment Authority](https://collections.leventhalmap.org/search/commonwealth:7h14cw341)? It was published as part of a larger BRA document called “[Boston's Urban Wilds: A Natural Area Conservation Program](https://archive.org/details/bostonurbanwilds00bost),” which inventoried 143 natural areas in the City and made recommendations for the remaining natural areas. 
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw359/full/2000,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cw359/full/2000,/0/default.jpg" class="figure-right" >}}
