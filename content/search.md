@@ -43,7 +43,7 @@ Search the Bibliocommons catalog for collections records. See [Searching the Col
 
 <script>
   function submitBibliocommonsSearch(){
-    window.open('https://bpl.bibliocommons.com/v2/search?query=anywhere%3A%28' + encodeURI(document.getElementById('bibliocommons-search-entry').value) + '%29+++branch%3A%22BPL+-+Leventhal+Map+Center%22+-formatcode%3A%28AB+OR+GRAPHIC_NOVEL_DOWNLOAD+OR+VIDEO_DOWNLOAD+OR+EBOOK+OR+EJ+OR+PLAYAWAY_AUDIOBOOK+OR+MN+OR+MUSIC_ONLINE+OR+VIDEO_ONLINE+%29&searchType=bl&suppress=true' );
+    window.open('https://bpl.bibliocommons.com/v2/search?query=anywhere%3A%28' + encodeURI(document.getElementById('bibliocommons-search-entry').value) + '%29+++branch%3A%22BPL+-+Leventhal+Map+Center%22+-formatcode%3A%28AB+OR+GRAPHIC_NOVEL_DOWNLOAD+OR+VIDEO_DOWNLOAD+OR+EBOOK+OR+EJ+OR+PLAYAWAY_AUDIOBOOK+OR+MN+OR+MUSIC_ONLINE+OR+VIDEO_ONLINE+OR+MAG_ONLINE+%29&searchType=bl&suppress=true' );
   }
   document.getElementById("bibliocommons-search-submit").addEventListener('click', submitBibliocommonsSearch );
   // Bind to enter key
