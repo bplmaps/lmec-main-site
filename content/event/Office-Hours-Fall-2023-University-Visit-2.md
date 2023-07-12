@@ -4,6 +4,10 @@ date: 2023-08-16T19:00:00.000Z
 publishDate: 2023-07-12T17:00:00.000Z
 location: Virtual
 fee: Free
+image: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463530h/322,694,10041,6179/2000,/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463530h/322,694,10041,6179/2000,/0/default.jpg
 ---
 
 ### About this event
