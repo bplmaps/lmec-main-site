@@ -1,6 +1,6 @@
 ---
 draft: true
-title: From The Vault Collections Showing — Summer Vacation
+title: From The Vault Collections Showing — Marine Landscapes
 date: 2023-07-21T18:00:00.000Z
 publishDate: 2023-07-12T16:00:00.000Z
 image: >-
@@ -13,9 +13,9 @@ tags:
   - from the vault
 ---
 
-### About this event 
+### About this event
 
-Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of From The Vault, we’ll take a look at objects from our collections that include appearances from mythical and \_\_\_\_\_\_\_ marine landscapes. 
+Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of From The Vault, we’ll take a look at objects from our collections that include appearances from mythical and \_\_\_\_\_\_\_ marine landscapes.
 
 Drop in any time between 2:00PM - 4:00PM.
 
