@@ -6,9 +6,9 @@ location: Virtual
 fee: Free
 ---
 
-### About this event 
+### About this event
 
-Are you a university teacher who would like to bring maps into your classroom—or bring your classroom to the Leventhal Center—in the 2023–2024 academic year? Join us for a drop-in session where our curatorial team will answer questions about how we support teaching and learning at the university level. No pre-registration is required and you can join the session at [this Zoom link](https://us02web.zoom.us/j/81485008123).
+Are you a university teacher who would like to bring maps into your classroom—or bring your classroom to the Leventhal Center—in the 2023–2024 academic year? Join us for a drop-in session where our curatorial team will answer questions about how we support teaching and learning at the university level.
 
 Curricular areas which are particularly well suited for collaborative learning with the Leventhal Center include:
 
@@ -21,5 +21,7 @@ Curricular areas which are particularly well suited for collaborative learning w
 * critical cartography
 * digital humanities
 * media studies
+
+No pre-registration is required and you can join the session at [this Zoom link](https://us02web.zoom.us/j/81485008123).
 
 For more information about university programs at the Leventhal Center, see [https://www.leventhalmap.org/education/university/](https://www.leventhalmap.org/education/university/)
