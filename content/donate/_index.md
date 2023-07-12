@@ -8,14 +8,9 @@ suppressEmailPopup: true
 
 ---
 
-## Double your impact by June 30
-
-<a href="#XKVPMFWX" style="display: none"></a>
-
-We're trying to raise $10,000 by the end of our fiscal year on June 30, 2023. Can you help us meet our goal and unlock a $10,000 matching gift from an anonymous donor?
+## Support our work today
 
 <a href="#XXRXLNEN" style="display: none"></a>
-
 
 Your support is crucial in keeping our programs free, creative, and welcoming for all of our audiences. Donate instantly with a credit card or bank account from the form above.
 
