@@ -8,7 +8,7 @@ fee: Free
 
 ### About this event
 
-Are you a university teacher who would like to bring maps into your classroom—or bring your classroom to the Leventhal Center—in the 2023–2024 academic year? Join us for a drop-in session where our curatorial team will answer questions about how we support teaching and learning at the university level.
+Are you a university teacher who would like to bring geographic inquiry into your classroom—or bring your classroom to the Leventhal Center—in the 2023–2024 academic year? Join us for a drop-in session where our curatorial team will answer questions about how we support teaching and learning at the university level.
 
 Curricular areas which are particularly well suited for collaborative learning with the Leventhal Center include:
 
