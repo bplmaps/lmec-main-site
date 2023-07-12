@@ -14,7 +14,9 @@ tags:
 
 ### About this event
 
-Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of From The Vault, we’ll take a look at objects from our collections that map places of summer relaxation and recreation.
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/2023.08.11thumbnail_20230211Cosgrove040.jpg" class="figure-right" >}}
+
+Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of From The Vault, we’re thrilled to be joined by Ben Cosgrove, a traveling composer-performer whose “compelling and beautiful” instrumental music explores themes of landscape, place, and environment. Ben will 
 
 Drop in any time between 2:00PM - 4:00PM.
 
