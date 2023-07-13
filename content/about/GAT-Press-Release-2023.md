@@ -61,13 +61,13 @@ The Boston Public Library serves nearly 4 million visitors per year and millions
 
 Leventhal Map & Education Center at the Boston Public Library
 
-Central Library in Copley Square                                                                                                         &#x9;
+Central Library in Copley Square 
 
-700 Boylston Street                                                                                                                             &#x9;
+700 Boylston Street
 
 Boston, MA 02116  
 
-Phone: 617-859-2387                                                                                                                            &#x9;
+Phone: 617-859-2387 
 
 Email: info@leventhalmap.org 
 
