@@ -13,7 +13,7 @@ backgroundImage: /mtacrop.jpeg
 
 ##### A new, free exhibition at the Boston Public Library animates the history—and future—of Boston’s public transit systems
 
-**Boston, MA** - The Leventhal Map & Education Center at the Boston Public Library will launch its latest free exhibition this fall with the opening of ***Getting Around Town: Four Centuries of Mapping Boston in Transit*** on September 9, 2023. 
+**Boston, MA** - The Leventhal Map & Education Center at the Boston Public Library will launch its latest free exhibition this fall with the opening of ***Getting Around Town: Four Centuries of Mapping Boston in Transit*** on September 9, 2023.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/bery1936.jpeg" class="figure-right" caption="By referencing both sides of this 1936 BERy System Route map , one could locate a desired route, track operating frequencies, plot connections, and navigate all modes of the BERy’s network." >}}
 
@@ -33,7 +33,7 @@ One of the goals of this exhibition is to spark conversation and invite question
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Gideon_IncomeCommuteTimes (1).jpg" caption="A modern map by Boston Latin School student Gideon Neave considers commute time (blue) and household income (red), and shows that people with less income are often subject to longer commute times." >}}
 
-*Getting Around Town* also features the work of high school students who worked with the Center’s K-12 Education team through a summer career development program funded by the Private Industry Council (PIC). The students’ digital maps explore issues around challenges and opportunities with the present-day public transit network. 
+*Getting Around Town* also features the work of high school students who worked with the Center’s K-12 Education team through a career development program funded by the Private Industry Council (PIC). The students’ digital maps explore issues around challenges and opportunities with the present-day public transit network. 
 
 #### PUBLIC ACCESS AND PROGRAMMING 
 
@@ -63,13 +63,13 @@ The Boston Public Library serves nearly 4 million visitors per year and millions
 
 Leventhal Map & Education Center at the Boston Public Library
 
-Central Library in Copley Square 
+Central Library in Copley Square
 
 700 Boylston Street
 
 Boston, MA 02116  
 
-Phone: 617-859-2387 
+Phone: 617-859-2387
 
 Email: info@leventhalmap.org 
 
