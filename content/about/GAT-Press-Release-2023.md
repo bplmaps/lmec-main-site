@@ -13,9 +13,9 @@ backgroundImage: /mtacrop.jpeg
 
 ##### A new, free exhibition at the Boston Public Library animates the history—and future—of Boston’s public transit systems
 
-**Boston, MA** - The Leventhal Map & Education Center at the Boston Public Library will launch its latest free exhibition this fall with the opening of Getting Around Town: Four Centuries of Mapping Boston in Transit on September 9, 2023. Getting Around Town, the Leventhal Center’s first-ever show focused on public transportation and mobility, brings together an extraordinary collection of maps, plans, ephemera, and other materials to investigate how Bostonians have moved around the city in the past, present, and future.  
+**Boston, MA** - The Leventhal Map & Education Center at the Boston Public Library will launch its latest free exhibition this fall with the opening of *Getting Around Town: Four Centuries of Mapping Boston in Transit* on September 9, 2023. *Getting Around Town*, the Leventhal Center’s first-ever show focused on public transportation and mobility, brings together an extraordinary collection of maps, plans, ephemera, and other materials to investigate how Bostonians have moved around the city in the past, present, and future.  
 
-Getting Around Town is guest curated by Steven Beaucher, the author of the book Boston in Transit (MIT Press) and the owner of WardMaps LLC in Cambridge. The exhibition pairs Beaucher’s own collections with the extensive holdings of the Leventhal Center and the Boston Public Library. 
+*Getting Around Town* is guest curated by Steven Beaucher, the author of the book *Boston in Transit* (MIT Press) and the owner of WardMaps LLC in Cambridge. The exhibition pairs Beaucher’s own collections with the extensive holdings of the Leventhal Center and the Boston Public Library. 
 
 In the exhibition, located at the Leventhal Center gallery at the Central Library in Copley Square, visitors will explore the story of Boston's evolving transit infrastructure and how it has shaped the city as we know it today. From the early days of horse-drawn carriages and streetcars to the modern-day subway system, the exhibition will showcase the innovative ideas and technological advances that have transformed Boston's transportation landscape over the past four centuries. 
 
@@ -25,13 +25,13 @@ One of the goals of this exhibition is to spark conversation and invite question
 
 “Maps of transit systems are among the most widely used maps in our daily lives, and for that reason maps are almost visually synonymous with these ways of getting around the city,” says Garrett Dash Nelson, the Center’s President and Head Curator. “In this exhibition, though, we want people to think not only about what the Boston transit system is like today, but also how it was built over time, and what it might look like in the decades to come.” 
 
-Getting Around Town also features the work of high school students who worked with the Center’s K-12 Education team through a summer career development program funded by the Private Industry Council (PIC). The students’ digital maps explore issues around challenges and opportunities with the present-day public transit network. 
+*Getting Around Town* also features the work of high school students who worked with the Center’s K-12 Education team through a summer career development program funded by the Private Industry Council (PIC). The students’ digital maps explore issues around challenges and opportunities with the present-day public transit network. 
 
 #### PUBLIC ACCESS AND PROGRAMMING 
 
-Like all Leventhal Center exhibitions, Getting Around Town is free to all. Visitors will find information about gallery hours and events, as well as a companion online exhibition, at[ leventhalmap.org](http://leventhalmap.org/). Guided tours of the gallery are available for free on a regular basis, and K-12, university, and group visits are available by appointment. 
+Like all Leventhal Center exhibitions, *Getting Around Town* is free to all. Visitors will find information about gallery hours and events, as well as a companion online exhibition, at[ leventhalmap.org](http://leventhalmap.org/). Guided tours of the gallery are available for free on a regular basis, and K-12, university, and group visits are available by appointment. 
 
-Exhibition programs for adults will be available throughout the course of the exhibition, both online and in person. An updated calendar of events and programs associated with Getting Around Town can be found at[ leventhalmap.org/event](https://leventhalmap.org/event). Getting Around Town closes on April 27, 2024. 
+Exhibition programs for adults will be available throughout the course of the exhibition, both online and in person. An updated calendar of events and programs associated with *Getting Around Town* can be found at[ leventhalmap.org/event](https://leventhalmap.org/event). *Getting Around Town* closes on April 27, 2024. 
 
 #### FUNDING INFORMATION 
 
