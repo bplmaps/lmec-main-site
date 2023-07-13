@@ -13,9 +13,9 @@ backgroundImage: /mtacrop.jpeg
 
 ##### A new, free exhibition at the Boston Public Library animates the history—and future—of Boston’s public transit systems
 
-**Boston, MA** - The Leventhal Map & Education Center at the Boston Public Library will launch its latest free exhibition this fall with the opening of ***Getting Around Town: Four Centuries of Mapping Boston in Transit*** on September 9, 2023. *Getting Around Town*, the Leventhal Center’s first-ever show focused on public transportation and mobility, brings together an extraordinary collection of maps, plans, ephemera, and other materials to investigate how Bostonians have moved around the city in the past, present, and future.  
-
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/bery1936.jpeg" class="figure-right" >}}
+
+**Boston, MA** - The Leventhal Map & Education Center at the Boston Public Library will launch its latest free exhibition this fall with the opening of ***Getting Around Town: Four Centuries of Mapping Boston in Transit*** on September 9, 2023. *Getting Around Town*, the Leventhal Center’s first-ever show focused on public transportation and mobility, brings together an extraordinary collection of maps, plans, ephemera, and other materials to investigate how Bostonians have moved around the city in the past, present, and future.  
 
 *Getting Around Town* is guest curated by Steven Beaucher, the author of the book *Boston in Transit* (MIT Press) and the owner of WardMaps LLC in Cambridge. The exhibition pairs Beaucher’s own collections with the extensive holdings of the Leventhal Center and the Boston Public Library. 
 
