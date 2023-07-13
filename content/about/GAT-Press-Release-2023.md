@@ -5,7 +5,8 @@ title: >-
   Transit opens at Leventhal Map & Education Center September 9, 2023
 description: >-
   A new, free exhibition at the Boston Public Library Animates the History—and
-  Future—of Boston’s Public Transit Systems
+  Future—of Boston’s Public Transit Systems 
+backgroundImage: /image (3).jpeg
 ---
 
 ### Leventhal Map & Education Center Opens "Getting Around Town: Four Centuries of Mapping Boston in Transit" on September 9 
