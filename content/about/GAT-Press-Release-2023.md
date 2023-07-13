@@ -23,7 +23,7 @@ In the exhibition, located at the Leventhal Center gallery at the Central Librar
 
 "Boston has sanctioned some form of public transportation since the city’s founding in 1630,” says Steven Beaucher. “We’ve been doing this longer than any other city in the United States. With an unparalleled collection of maps and complimentary ephemera, this exhibition looks back on how people got around town, and how the routes and modes they used evolved along with the city itself, from one simple ferry to the regional multi-modal network of today’s MBTA."
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/012 Dudley May 3 1901 - Leo Sullivan.jpeg" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/012 Dudley May 3 1901 - Leo Sullivan.jpeg" caption="A test train of BERy Elevated Type 1 rapid transit cars pauses at the upper level of Dudley Terminal in this 1901 photograph. " >}}
 
 One of the goals of this exhibition is to spark conversation and invite questions about the future of transportation in Boston. Visitors will be encouraged to reflect on how the city's transit system can continue to evolve to meet the needs of its residents and visitors, and how issues of transit justice weave together with other efforts to make Boston more equitable and accessible. 
 
