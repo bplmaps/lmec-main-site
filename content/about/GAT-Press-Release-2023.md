@@ -6,10 +6,10 @@ title: >-
 description: >-
   A new, free exhibition at the Boston Public Library Animates the History—and
   Future—of Boston’s Public Transit Systems 
-backgroundImage: /image (3).jpeg
+backgroundImage: /mtacrop.jpeg
 ---
 
-### Leventhal Map & Education Center Opens "Getting Around Town: Four Centuries of Mapping Boston in Transit" on September 9 
+### Leventhal Map & Education Center Opens "Getting Around Town: Four Centuries of Mapping Boston in Transit" on September 9
 
 ##### A new, free exhibition at the Boston Public Library animates the history—and future—of Boston’s public transit systems
 
@@ -19,7 +19,7 @@ Getting Around Town is guest curated by Steven Beaucher, the author of the book 
 
 In the exhibition, located at the Leventhal Center gallery at the Central Library in Copley Square, visitors will explore the story of Boston's evolving transit infrastructure and how it has shaped the city as we know it today. From the early days of horse-drawn carriages and streetcars to the modern-day subway system, the exhibition will showcase the innovative ideas and technological advances that have transformed Boston's transportation landscape over the past four centuries. 
 
-"Boston has sanctioned some form of public transportation since the city’s founding in 1630,” says Steven Beaucher. “We’ve been doing this longer than any other city in the United States. With an unparalleled collection of maps and complimentary ephemera, this exhibition looks back on how people got around town, and how the routes and modes they used evolved along with the city itself, from one simple ferry to the regional multi-modal network of today’s MBTA." 
+"Boston has sanctioned some form of public transportation since the city’s founding in 1630,” says Steven Beaucher. “We’ve been doing this longer than any other city in the United States. With an unparalleled collection of maps and complimentary ephemera, this exhibition looks back on how people got around town, and how the routes and modes they used evolved along with the city itself, from one simple ferry to the regional multi-modal network of today’s MBTA."
 
 One of the goals of this exhibition is to spark conversation and invite questions about the future of transportation in Boston. Visitors will be encouraged to reflect on how the city's transit system can continue to evolve to meet the needs of its residents and visitors, and how issues of transit justice weave together with other efforts to make Boston more equitable and accessible. 
 
@@ -35,7 +35,7 @@ Exhibition programs for adults will be available throughout the course of the ex
 
 #### FUNDING INFORMATION 
 
-The exhibition is supported by a grant from the[ Barr Foundation](https://www.barrfoundation.org/). “Greater Boston has such a rich transportation history with many firsts in the nation – including inspiring moments when community members got organized and made their voices heard for big solutions that worked for them and made this city better, more accessible, more inclusive, and more equitable,” said Lisa Jacobson, senior program officer for mobility at the Barr Foundation. “Connecting Jamaica Plain, Roxbury, and the South End with the Orange Line and Southwest Corridor Park instead of tearing them apart with the original planned route of I-95 is one example; so is the more recent Green Line Extension. The Leventhal Center’s Getting Around Town exhibition provides an opportunity to appreciate stories like these and be inspired to help champion the next innovative transportation solutions to make our future even better.” 
+The exhibition is supported by a grant from the[ Barr Foundation](https://www.barrfoundation.org/). “Greater Boston has such a rich transportation history with many firsts in the nation – including inspiring moments when community members got organized and made their voices heard for big solutions that worked for them and made this city better, more accessible, more inclusive, and more equitable,” said Lisa Jacobson, senior program officer for mobility at the Barr Foundation. “Connecting Jamaica Plain, Roxbury, and the South End with the Orange Line and Southwest Corridor Park instead of tearing them apart with the original planned route of I-95 is one example; so is the more recent Green Line Extension. The Leventhal Center’s Getting Around Town exhibition provides an opportunity to appreciate stories like these and be inspired to help champion the next innovative transportation solutions to make our future even better.”
 
 #### ABOUT THE LEVENTHAL MAP & EDUCATION CENTER 
 
@@ -66,6 +66,3 @@ Phone: 617-859-2387                                        �
 Email: info@leventhalmap.org 
 
  
-
-
-
