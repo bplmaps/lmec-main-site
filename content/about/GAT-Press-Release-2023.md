@@ -31,7 +31,7 @@ One of the goals of this exhibition is to spark conversation and invite question
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Gideon_IncomeCommuteTimes (1).jpg" >}}
 
- *Getting Around Town* also features the work of high school students who worked with the Center’s K-12 Education team through a summer career development program funded by the Private Industry Council (PIC). The students’ digital maps explore issues around challenges and opportunities with the present-day public transit network. 
+*Getting Around Town* also features the work of high school students who worked with the Center’s K-12 Education team through a summer career development program funded by the Private Industry Council (PIC). The students’ digital maps explore issues around challenges and opportunities with the present-day public transit network. 
 
 #### PUBLIC ACCESS AND PROGRAMMING 
 
