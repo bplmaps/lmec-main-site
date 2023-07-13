@@ -41,7 +41,7 @@ Like all Leventhal Center exhibitions, *Getting Around Town* is free to all. Vis
 
 Exhibition programs for adults will be available throughout the course of the exhibition, both online and in person. An updated calendar of events and programs associated with *Getting Around Town* can be found at[ leventhalmap.org/event](https://leventhalmap.org/event). *Getting Around Town* closes on April 27, 2024. 
 
-#### FUNDING INFORMATION 
+#### EXHIBITION SUPPORT 
 
 The exhibition is supported by a grant from the[ Barr Foundation](https://www.barrfoundation.org/). “Greater Boston has such a rich transportation history with many firsts in the nation – including inspiring moments when community members got organized and made their voices heard for big solutions that worked for them and made this city better, more accessible, more inclusive, and more equitable,” said Lisa Jacobson, senior program officer for mobility at the Barr Foundation. “Connecting Jamaica Plain, Roxbury, and the South End with the Orange Line and Southwest Corridor Park instead of tearing them apart with the original planned route of I-95 is one example; so is the more recent Green Line Extension. The Leventhal Center’s Getting Around Town exhibition provides an opportunity to appreciate stories like these and be inspired to help champion the next innovative transportation solutions to make our future even better.”
 
