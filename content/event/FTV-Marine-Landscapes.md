@@ -15,7 +15,9 @@ tags:
 
 ### About this event
 
-Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of *From The Vault*, we’ll take a look at objects from our collections that map creatures from familiar and mythical marine landscapes, curated by our Visitor Services & Exhibition Assistant, [Micaela Kahn](https://www.leventhalmap.org/about/people/micaela-kahn/). 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463b765/322,316,9244,7514/2000,/0/default.jpg" class="figure-right" >}}
+
+Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of *From The Vault*, we’ll take a look at objects from our collections that map creatures from familiar and mythical marine landscapes, curated by our Visitor Services & Exhibition Assistant, [Micaela Kahn](https://www.leventhalmap.org/about/people/micaela-kahn/).
 
 Drop in any time between 2:00PM - 4:00PM.
 
