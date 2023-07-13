@@ -29,7 +29,7 @@ One of the goals of this exhibition is to spark conversation and invite question
 
 “Maps of transit systems are among the most widely used maps in our daily lives, and for that reason maps are almost visually synonymous with these ways of getting around the city,” says Garrett Dash Nelson, the Center’s President and Head Curator. “In this exhibition, though, we want people to think not only about what the Boston transit system is like today, but also how it was built over time, and what it might look like in the decades to come.”
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Gideon_IncomeCommuteTimes (1).jpg" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Gideon_IncomeCommuteTimes (1).jpg" caption="A modern map by Boston Latin School student Gideon Neave considers commute time (blue) and household income (red), and shows that people with less income are often subject to longer commute times." >}}
 
 *Getting Around Town* also features the work of high school students who worked with the Center’s K-12 Education team through a summer career development program funded by the Private Industry Council (PIC). The students’ digital maps explore issues around challenges and opportunities with the present-day public transit network. 
 
