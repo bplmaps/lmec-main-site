@@ -1,11 +1,13 @@
 ---
 title: Press
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/5059,2047,4782,3064/1200,/0/default.jpg
-cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c55x/1964,782,2862,1621/,300/0/default.jpg
-description: References to our work, collections, and projects in the media
-weight: "5"
-
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/5059,2047,4782,3064/1200,/0/default.jpg
+cardImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c55x/1964,782,2862,1621/,300/0/default.jpg
+description: 'References to our work, collections, and projects in the media'
+weight: '5'
 ---
+
 ## Press Contact
 
 Please contact [info@leventhalmap.org](mailto:info@leventhalmap.org) or call +1 617.859.2387 for press inquiries.
@@ -16,35 +18,37 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 ## Recent Press
 
-[Boston.com - _Where do you draw the line for Greater Boston?_](https://www.boston.com/news/wickedpedia/2023/02/21/greater-boston-cities-towns-massachusetts-boundaries/)
+[IIIF Consortium Welcomes Two New Associate Members](https://iiif.io/news/2023/07/05/4science-leventhal-BPL/)
 
-[The Boston Globe - _Map quest: At BPL's Leventhal center, two shows speak to a changing city_](https://www.bostonglobe.com/2023/01/19/arts/map-quest-bpls-leventhal-center-two-shows-speak-changing-city/?p1=StaffPage)
+[Boston.com - *Where do you draw the line for Greater Boston?*](https://www.boston.com/news/wickedpedia/2023/02/21/greater-boston-cities-towns-massachusetts-boundaries/)
 
-[Fenway News - _BPL Exhibit Explores How Maps Can Reveal Political, Social, and Environmental Meaning_](https://fenwaynews.org/wp-content/uploads/2022/09/Fenway-News_OCT-2022_web.pdf)
+[The Boston Globe - *Map quest: At BPL's Leventhal center, two shows speak to a changing city*](https://www.bostonglobe.com/2023/01/19/arts/map-quest-bpls-leventhal-center-two-shows-speak-changing-city/?p1=StaffPage)
 
-[The Boston Globe - _We Need Rain: Drought threatens the very foundation of some Boston buildings_](https://www.bostonglobe.com/2022/09/03/science/we-need-rain-drought-threatens-very-foundation-some-boston-buildings/)
+[Fenway News - *BPL Exhibit Explores How Maps Can Reveal Political, Social, and Environmental Meaning*](https://fenwaynews.org/wp-content/uploads/2022/09/Fenway-News_OCT-2022_web.pdf)
 
-[The Boston Globe - _When Boston gave America some sugar_](https://www.bostonglobe.com/2022/02/12/opinion/when-boston-gave-america-some-sugar/)
+[The Boston Globe - *We Need Rain: Drought threatens the very foundation of some Boston buildings*](https://www.bostonglobe.com/2022/09/03/science/we-need-rain-drought-threatens-very-foundation-some-boston-buildings/)
 
-[WBUR - _8 Maps That Explain Boston's Changing Shoreline_](https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline)
+[The Boston Globe - *When Boston gave America some sugar*](https://www.bostonglobe.com/2022/02/12/opinion/when-boston-gave-america-some-sugar/)
 
-**Press for _Building Blocks_**
+[WBUR - *8 Maps That Explain Boston's Changing Shoreline*](https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline)
 
-[The Boston Globe - _Map quest: At BPL's Leventhal center, two shows speak to a changing city_](https://www.bostonglobe.com/2023/01/19/arts/map-quest-bpls-leventhal-center-two-shows-speak-changing-city/?p1=StaffPage)
+**Press for *Building Blocks***
 
-**Press for _Becoming Boston_**
+[The Boston Globe - *Map quest: At BPL's Leventhal center, two shows speak to a changing city*](https://www.bostonglobe.com/2023/01/19/arts/map-quest-bpls-leventhal-center-two-shows-speak-changing-city/?p1=StaffPage)
 
-[The Boston Globe - _Map quest: At BPL's Leventhal center, two shows speak to a changing city_](https://www.bostonglobe.com/2023/01/19/arts/map-quest-bpls-leventhal-center-two-shows-speak-changing-city/?p1=StaffPage)
+**Press for *Becoming Boston***
 
-**Press for _More or Less in Common_**
+[The Boston Globe - *Map quest: At BPL's Leventhal center, two shows speak to a changing city*](https://www.bostonglobe.com/2023/01/19/arts/map-quest-bpls-leventhal-center-two-shows-speak-changing-city/?p1=StaffPage)
 
-[Fenway News - _BPL Exhibit Explores How Maps Can Reveal Political, Social, and Environmental Meaning_](https://fenwaynews.org/wp-content/uploads/2022/09/Fenway-News_OCT-2022_web.pdf)
+**Press for *More or Less in Common***
 
-[The Boston Globe - _Maps: What Boston could have looked like_](https://www.bostonglobe.com/2022/06/12/arts/maps-what-boston-could-have-looked-like-if-olmsteds-original-plans-were-realized/)
+[Fenway News - *BPL Exhibit Explores How Maps Can Reveal Political, Social, and Environmental Meaning*](https://fenwaynews.org/wp-content/uploads/2022/09/Fenway-News_OCT-2022_web.pdf)
 
-[The Boston Globe - _At 200, Frederick Law Olmsted continues to shape public space_](https://www.bostonglobe.com/2022/06/11/arts/200-frederick-law-olmsted-continues-shape-public-space/)
+[The Boston Globe - *Maps: What Boston could have looked like*](https://www.bostonglobe.com/2022/06/12/arts/maps-what-boston-could-have-looked-like-if-olmsteds-original-plans-were-realized/)
 
-[The Boston Globe - _Mapping environmental injustice_](https://www.bostonglobe.com/2022/04/22/opinion/mapping-environmental-justice/)
+[The Boston Globe - *At 200, Frederick Law Olmsted continues to shape public space*](https://www.bostonglobe.com/2022/06/11/arts/200-frederick-law-olmsted-continues-shape-public-space/)
+
+[The Boston Globe - *Mapping environmental injustice*](https://www.bostonglobe.com/2022/04/22/opinion/mapping-environmental-justice/)
 
 [Museum Open House](https://vimeo.com/708404724)
 
@@ -56,13 +60,13 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 [WBUR Radio Clip](https://bostonpubliclibrary.sharepoint.com/:u:/s/LeventhalMap/EXbsq6OQEnREvvB_7M0cHoYBjqdaJae9vFtZDZCBb_2MmA?e=eBH9qT)
 
-[Boston Globe, The Ticket - _Things to do around Boston this weekend_](https://www.bostonglobe.com/2022/03/17/arts/things-do-around-boston-this-weekend-beyond/)
+[Boston Globe, The Ticket - *Things to do around Boston this weekend*](https://www.bostonglobe.com/2022/03/17/arts/things-do-around-boston-this-weekend-beyond/)
 
-[WBUR, _5 things to do this weekend_](https://www.wbur.org/news/2022/03/17/weekend-revels-spring-sing-st-patricks-day-parade)
+[WBUR, *5 things to do this weekend*](https://www.wbur.org/news/2022/03/17/weekend-revels-spring-sing-st-patricks-day-parade)
 
-**Press for _Bending Lines_**
+**Press for *Bending Lines***
 
-[WBZ New England Weekend](https://bostonpubliclibrary.sharepoint.com/sites/LeventhalMap/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FLeventhalMap%2FShared%20Documents%2FPR%20and%20Communications%2FBending%20Lines%2FLMC%20WBZ%2DAM%20NE%20WKND%20%2D%20BENDING%20LINES%2Emp3&parent=%2Fsites%2FLeventhalMap%2FShared%20Documents%2FPR%20and%20Communications%2FBending%20Lines&p=true&originalPath=aHR0cHM6Ly9ib3N0b25wdWJsaWNsaWJyYXJ5LnNoYXJlcG9pbnQuY29tLzp1Oi9zL0xldmVudGhhbE1hcC9FZXhEU0IzekZRQk1xQUhPUGwxdzhKRUI0VE5oWFNIZUJhcG5DX2tsZjBxY2xnP3J0aW1lPW1PLThMQmw4MkVn)
+[WBZ New England Weekend](https://bostonpubliclibrary.sharepoint.com/sites/LeventhalMap/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FLeventhalMap%2FShared%20Documents%2FPR%20and%20Communications%2FBending%20Lines%2FLMC%20WBZ%2DAM%20NE%20WKND%20%2D%20BENDING%20LINES%2Emp3\&parent=%2Fsites%2FLeventhalMap%2FShared%20Documents%2FPR%20and%20Communications%2FBending%20Lines\&p=true\&originalPath=aHR0cHM6Ly9ib3N0b25wdWJsaWNsaWJyYXJ5LnNoYXJlcG9pbnQuY29tLzp1Oi9zL0xldmVudGhhbE1hcC9FZXhEU0IzekZRQk1xQUhPUGwxdzhKRUI0VE5oWFNIZUJhcG5DX2tsZjBxY2xnP3J0aW1lPW1PLThMQmw4MkVn)
 
 [Harvard Magazine](https://harvardmagazine.com/2020/06/boston-maps-exhibit-on-persuasive-cartography)
 
@@ -70,7 +74,7 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 [CityLab](https://www.bloomberg.com/news/articles/2020-05-28/how-to-deconstruct-and-interpret-maps)
 
-**Press for _Atlascope_**
+**Press for *Atlascope***
 
 [Boston Business Journal](https://www.bizjournals.com/boston/news/2020/01/26/five-things-you-need-to-know-today-and-the-coolest.html)
 
@@ -90,7 +94,7 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 **2020**
 
-* 2020-05-18: [With New Exhibition _Bending Lines_, Leventhal Center Spotlights the Persuasive Power of Maps and Data, from Colonial Advertisements to Present-Day Politics](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EWNW3t6Pr_BFqKSCaLiOa8EBAbbyXiKn0G-HssNjFD6aOg?e=HJhwrd)
+* 2020-05-18: [With New Exhibition *Bending Lines*, Leventhal Center Spotlights the Persuasive Power of Maps and Data, from Colonial Advertisements to Present-Day Politics](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EWNW3t6Pr_BFqKSCaLiOa8EBAbbyXiKn0G-HssNjFD6aOg?e=HJhwrd)
 
 **2019**
 
