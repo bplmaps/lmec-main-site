@@ -1,13 +1,14 @@
 ---
-draft: true
 title: >-
-  New Exhibition Getting Around Town: Four Centuries of Mapping Boston in
-  Transit opens at Leventhal Map & Education Center September 9, 2023
+  New Exhibition "Getting Around Town" Opens at Leventhal Map & Education Center September 9, 2023
 description: >-
-  A new, free exhibition at the Boston Public Library Animates the History—and
+  Free exhibition at the Boston Public Library Animates the History—and
   Future—of Boston’s Public Transit Systems 
-backgroundImage: /mtacrop.jpeg
+backgroundImage: mtacrop.jpeg
+cardImage: mtacrop.jpeg
 ---
+
+<a class="btn btn-primary btn-primary-outline mb-3" href="https://s3.us-east-2.wasabisys.com/lmec-public-files/press-releases/2023-07-17%20Getting%20Around%20Town%20Press%20Release.pdf">View this release as a PDF</a>
 
 ### Leventhal Map & Education Center Opens "Getting Around Town: Four Centuries of Mapping Boston in Transit" on September 9
 
@@ -61,16 +62,11 @@ The Boston Public Library serves nearly 4 million visitors per year and millions
 
 #### CONTACT 
 
-Leventhal Map & Education Center at the Boston Public Library
-
-Central Library in Copley Square
-
-700 Boylston Street
-
-Boston, MA 02116  
-
-Phone: 617-859-2387
-
-Email: info@leventhalmap.org 
+Leventhal Map & Education Center at the Boston Public Library   
+Central Library in Copley Square   
+700 Boylston Street   
+Boston, MA 02116    
+Phone: 617-859-2387   
+Email: <info@leventhalmap.org>
 
  
