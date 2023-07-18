@@ -67,6 +67,10 @@ cta:
         Are there atlases of other Massachusetts towns you would like to see
         added to Atlascope?
       link: 'https://www.leventhalmap.org/donate/sponsor-an-atlas/'
+    - badge: Upcoming exhibition
+      text: |
+        "Getting Around Town" opens on September 9
+      link: 'https://www.leventhalmap.org/about/press-releases/getting-around-town-opens-fall-2023/'
 audiences:
   enable: true
   audienceGroups:
