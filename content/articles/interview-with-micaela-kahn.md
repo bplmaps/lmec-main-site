@@ -1,7 +1,6 @@
 ---
-draft: true
 title: An Interview with Micaela Kahn
-date: 2023-07-21T04:00:00.000Z
+date: 2023-07-19T04:00:00.000Z
 author: Micaela Kahn
 description: 'An interview with Fall 2023 Northeastern co-op, Micaela Kahn'
 image: >-
