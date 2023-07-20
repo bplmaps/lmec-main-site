@@ -22,7 +22,7 @@ I grew up in Massachusetts and have been enjoying living in Boston since the sta
 
 **What’s your earliest memory of looking at/working with maps?**
 
-I love this question! Probably the maps inside fantasy novels or movies like the Indiana Jones film series. It’s only been recently, though, that I have improved my map reading and interpreting skills; my academic studies have led me to really enjoy the process of decoding such texts. I find that even maps that present as simple in design can be really fun to interpret, and I often spend longer than I expected looking at them.
+I love this question! Probably the maps inside fantasy novels or movies like the Indiana Jones film series. It has only been recently, though, that I have improved my map reading and interpreting skills; my academic studies have led me to really enjoy the process of decoding such texts. I find that even maps that present as simple in design can be really fun to interpret, and I often spend longer than I expected looking at them.
 
 **You’re starting in the middle of the run of Building Blocks, which is based on the same fire insurance and real estate atlases that form Atlascope. Have you discovered anything fun on Atlascope?**
 
