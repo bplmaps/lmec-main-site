@@ -7,7 +7,7 @@ description: 'An interview with Fall 2023 Northeastern co-op, Micaela Kahn'
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ws859g97j/full/1200,/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ws859g97j/6387,1635,3531,1138/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ws859g97j/6344,1874,3608,920/1200,/0/default.jpg
 tags:
   - staff
 ---
