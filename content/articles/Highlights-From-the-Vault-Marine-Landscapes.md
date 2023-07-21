@@ -12,3 +12,36 @@ tags:
   - from the vault
 ---
 
+> On July 21, we hosted [https://www.leventhalmap.org/event/ftv-marine-landscapes/](https://www.leventhalmap.org/event/ftv-marine-landscapes/)! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at objects from our collections that map marine landscapes that feature creatures both fictional and real.
+
+Elizabeth Shurtleff and Helen McMillin, A map of the Bermuda Islands : ya des demonios, isles of the devils (1930)
+
+This pictorial map promotes tourism to the Bermuda Islands by depicting their recreational offerings and rich history. The border of the map depicts realistic marine life in contrast to some of the more fantastical creatures on the map, such as the mermaid in the bottom right, and the green sea monster nearby Elbow Beach.
+
+Samuel de Champlain, Carte de la Nouvelle-France (ca. 1860)
+
+Originally published in Paris in 1632, this 1860 facsimile depicts parts of the Northeastern United States and the province of Ontario, Canada. The vast region in this map were known to the mapmaker, Samuel de Champlain, as New France or “Nouvelle France”. Champlain is credited with the establishment of New France, the founding of Quebec City, and for several diplomatic dealings in the development of New France. Like many settlements developing in coastal regions, the ocean and other waterways were life-giving and life-maintaining sources. In the ocean and nearby lakes, we can see a combination of ships and water-dwelling figures.
+
+John Seller, Novissima totius terrarum orbis tabula (ca. 1672)
+
+Written in Latin and woven with illustrations, Novissima totius terrarum orbis tabula gives us insight into 17th century conceptualization of the earths geography. Notice that land mass for Antarctica is missing from this map. Note also the names of the oceans and seas on this map: which ones are the same today and which have been changed? Surrounding the hemispheres, there are creatures; the fish and crab of the zodiac are familiar to us, but the marine creature on the lower right of the map seems to be unknown.
+
+Albert Prentice Button, A map of the Maine coast from York Harbor to Saco Bay : reminiscent & actual (1929)
+
+This 20th century map is anchored by a large title block in the top left, and a mythical sea creature on lower right. In between those two focal points, plenty of marine creatures both real and fictional exist. The lively border of the map glimpses into the rich marine wildlife of the Maine coast. Despite depictions of creatures that may potentially be dangerous to humans, this map seems to be an aid for tourism, given Button’s decision to highlight Maine’s coastal history, recreational activity offerings, and cultural landmarks.
+
+Ernest Dudley Chase, A pictorial map of the British Isles (1935)
+
+Although this map was published here in Massachusetts, it is a detailed pictorial view of the British Isles, highlighting architectural and cultural points of importance. In the seas and oceans on this map, fictional creatures lurk alongside great ships.
+
+Poole Brothers, America : beauty, wonders, inspiration, progress, without end (1936)
+
+In this map intended to promote tourism across North America, pictures and vignettes emphasize historical stories (”Pyramids” near Guadalajara, Jalisco, Mexico), sites of industry (”Motor Industry” in Detroit, Michigan, U.S.A), as well as increasingly popular spaces of entertainment and recreation, such as “Hollywood (Moving Pictures)”. On the title block lounge a mermaid and a Poseidon-like figure, providing a playful contrast to the real marine life and human swimmers depicted in the maps waters.
+
+Sir Robert Dudley, Alla serma. sigra. principsa. d'Vrbino Grandvchessa di Toscana sva sigra. d: Roberto Dvdleo Dvca di Northumbria (1647)
+
+This map covers French Guiana and part of Brazil; it  appeared in Dudley’s 1646-1647 atlas Dell’Arcano Del Mare  - “On the Mystery of the Sea”. The atlas was the first printed maritime atlas to cover the whole world, as well as the first to use the Mercator projections in its cartography. It includes illustrations of formidable naval vessels juxtaposed with sea monsters.
+
+Hammond Incorporated, The Marine World (ca. 1960)
+
+The Marine World gives an overview of ocean depths, ocean currents, fishing areas, ocean life zones, and more. Marine life such as oysters, cod, kelp, tuna, and sharks are familiar to people because they spend time in the lighted open-water zone. However, people may go their whole life without encountering beings such as deep sea spiders and hatchetfish, who occupy the dark open-water and bottom zones. 
