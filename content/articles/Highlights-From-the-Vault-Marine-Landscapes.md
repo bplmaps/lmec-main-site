@@ -6,8 +6,10 @@ author: Micaela Kahn
 description: >-
   Check out these highlights from last week’s edition of From The Vault: Marine
   Landscapes
-image: 'https://www.leventhalmap.org/articles/interview-with-micaela-kahn/'
-backgroundImage: 'https://www.leventhalmap.org/articles/interview-with-micaela-kahn/'
+image: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n6612/full/1200,/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n6612/3907,1006,7641,2987/1200,/0/default.jpg
 tags:
   - from the vault
 ---
