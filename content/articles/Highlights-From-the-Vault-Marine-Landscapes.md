@@ -24,7 +24,7 @@ This pictorial map promotes tourism to the Bermuda Islands by depicting their re
 
 #### Samuel de Champlain, *Carte de la Nouvelle-France* (1613)
 
-Originally published in Paris in 1613, this map depicts parts of the Northeastern United States and Eastern provinces of Canada. The vast region in this map were known to the mapmaker, Samuel de Champlain, as New France or “Nouvelle France”. Champlain is credited with the establishment of New France, the founding of Quebec City, and for several diplomatic dealings in the development of New France. Like many settlements developing in coastal regions, the ocean and other waterways were life-giving and life-maintaining sources. In the ocean and nearby lakes, we can see a combination of ships and water-dwelling figures.
+Originally published in Paris in 1613, this map depicts part of the Northeastern United States and Eastern provinces of Canada. The vast region in this map were known to the mapmaker, Samuel de Champlain, as New France or “Nouvelle France”. Champlain is credited with the establishment of New France, the founding of Quebec City, and for several diplomatic dealings in the development of New France. Like many settlements developing in coastal regions, the ocean and other waterways were life-giving and life-maintaining sources. In the ocean and nearby lakes, we can see a combination of ships and water-dwelling figures.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cx37v/full/1200,/0/default.jpg" >}}
 
