@@ -12,7 +12,7 @@ tags:
   - from the vault
 ---
 
-> On July 21, we hosted [https://www.leventhalmap.org/event/ftv-marine-landscapes/](https://www.leventhalmap.org/event/ftv-marine-landscapes/ "From the Vault: Marine Landscapes")! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at objects from our collections that map marine landscapes that feature creatures both fictional and real.
+> On July 21, we hosted [https://www.leventhalmap.org/event/ftv-marine-landscapes/](https://www.leventhalmap.org/event/ftv-marine-landscapes/ "From the Vault: Marine Landscapes")! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at objects from our collections that map marine landscapes and the creatures that inhabit them.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4638550/full/1200,/0/default.jpg" >}}
 
@@ -28,36 +28,36 @@ Originally published in Paris in 1613, this map depicts parts of the Northeaster
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cx37v/full/1200,/0/default.jpg" >}}
 
-John Seller, *Novissima totius terrarum orbis tabula* (ca. 1672)
+#### John Seller, *Novissima totius terrarum orbis tabula* (ca. 1672)
 
 Written in Latin and woven with illustrations, Novissima totius terrarum orbis tabula gives us insight into 17th century conceptualization of the earths geography. Notice that land mass for Antarctica is missing from this map. Note also the names of the oceans and seas on this map: which ones are the same today and which have been changed? Surrounding the hemispheres, there are creatures; the fish and crab of the zodiac are familiar to us, but the marine creature on the lower right of the map seems to be unknown.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm45k/full/1200,/0/default.jpg" >}}
 
-Albert Prentice Button, *A map of the Maine coast from York Harbor to Saco Bay: reminiscent & actual* (1929)
+#### Albert Prentice Button, *A map of the Maine coast from York Harbor to Saco Bay: reminiscent & actual* (1929)
 
 This 20th century map is anchored by a large title block in the top left, and a mythical sea creature on lower right. In between those two focal points, plenty of marine creatures both real and fictional exist. The lively border of the map glimpses into the rich marine wildlife of the Maine coast. Despite depictions of creatures that may potentially be dangerous to humans, this map seems to be an aid for tourism, given Button’s decision to highlight Maine’s coastal history, recreational activity offerings, and cultural landmarks.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn17m/full/1200,/0/default.jpg" >}}
 
-Ernest Dudley Chase, *A pictorial map of the British Isles* (1935)
+#### Ernest Dudley Chase, *A pictorial map of the British Isles* (1935)
 
 Although this map was published here in Massachusetts, it is a detailed pictorial view of the British Isles, highlighting architectural and cultural points of importance. In the seas and oceans on this map, fictional creatures lurk alongside great ships.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5q47v989k/full/1200,/0/default.jpg" >}}
 
-Poole Brothers, *America: beauty, wonders, inspiration, progress, without end* (1936)
+#### Poole Brothers, *America: beauty, wonders, inspiration, progress, without end* (1936)
 
 In this map intended to promote tourism across North America, pictures and vignettes emphasize historical stories (”Pyramids” near Guadalajara, Jalisco, Mexico), sites of industry (”Motor Industry” in Detroit, Michigan, U.S.A), as well as increasingly popular spaces of entertainment and recreation, such as “Hollywood (Moving Pictures)”. On the title block lounge a mermaid and a Poseidon-like figure, providing a playful contrast to the real marine life and human swimmers depicted in the maps waters.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m384b/full/1200,/0/default.jpg" >}}
 
-Sir Robert Dudley, *Alla serma. sigra. principsa. d'Vrbino Grandvchessa di Toscana sva sigra. d: Roberto Dvdleo Dvca di Northumbria* (1647)
+#### Sir Robert Dudley, *Alla serma. sigra. principsa. d'Vrbino Grandvchessa di Toscana sva sigra. d: Roberto Dvdleo Dvca di Northumbria* (1647)
 
 This map covers French Guiana and part of Brazil; it  appeared in Dudley’s 1646-1647 atlas Dell’Arcano Del Mare  - “On the Mystery of the Sea”. The atlas was the first printed maritime atlas to cover the whole world, as well as the first to use the Mercator projections in its cartography. It includes illustrations of formidable naval vessels juxtaposed with sea monsters.
 
 {{< figure >}}
 
-Hammond Incorporated, *The Marine World* (ca. 1960)
+#### Hammond Incorporated, *The Marine World* (ca. 1960)
 
 The Marine World gives an overview of ocean depths, ocean currents, fishing areas, ocean life zones, and more. Marine life such as oysters, cod, kelp, tuna, and sharks are familiar to people because they spend time in the lighted open-water zone. However, people may go their whole life without encountering beings such as deep sea spiders and hatchetfish, who occupy the dark open-water and bottom zones.
