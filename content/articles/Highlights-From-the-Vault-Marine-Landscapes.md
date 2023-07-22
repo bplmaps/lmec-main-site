@@ -14,7 +14,7 @@ tags:
 
 > On July 21, we hosted [https://www.leventhalmap.org/event/ftv-marine-landscapes/](https://www.leventhalmap.org/event/ftv-marine-landscapes/ "From the Vault: Marine Landscapes")! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at objects from our collections that map marine landscapes that feature creatures both fictional and real.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4638550/0,0,0,0/full/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4638550/full/1200,/0/default.jpg" >}}
 
 Elizabeth Shurtleff and Helen McMillin, A map of the Bermuda Islands : ya des demonios, isles of the devils (1930)
 
