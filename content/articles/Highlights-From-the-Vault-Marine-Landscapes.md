@@ -32,7 +32,7 @@ John Seller, Novissima totius terrarum orbis tabula (ca. 1672)
 
 Written in Latin and woven with illustrations, Novissima totius terrarum orbis tabula gives us insight into 17th century conceptualization of the earths geography. Notice that land mass for Antarctica is missing from this map. Note also the names of the oceans and seas on this map: which ones are the same today and which have been changed? Surrounding the hemispheres, there are creatures; the fish and crab of the zodiac are familiar to us, but the marine creature on the lower right of the map seems to be unknown.
 
-{{< figure >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm45k/full/1200,/0/default.jpg" >}}
 
 Albert Prentice Button, A map of the Maine coast from York Harbor to Saco Bay : reminiscent & actual (1929)
 
