@@ -20,7 +20,7 @@ Elizabeth Shurtleff and Helen McMillin, A map of the Bermuda Islands : ya des de
 
 This pictorial map promotes tourism to the Bermuda Islands by depicting their recreational offerings and rich history. The border of the map depicts realistic marine life in contrast to some of the more fantastical creatures on the map, such as the mermaid in the bottom right, and the green sea monster nearby Elbow Beach.
 
-{{< figure >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n6612/full/full/0/default.jpg" >}}
 
 Samuel de Champlain, Carte de la Nouvelle-France (ca. 1860)
 
