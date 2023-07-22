@@ -12,7 +12,7 @@ tags:
   - from the vault
 ---
 
-> On July 21, we hosted [https://www.leventhalmap.org/event/ftv-marine-landscapes/](https://www.leventhalmap.org/event/ftv-marine-landscapes/ "From the Vault: Marine Landscapes")! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at objects from our collections that map marine landscapes and the creatures that inhabit them.
+> On July 21, we hosted [https://www.leventhalmap.org/event/ftv-marine-landscapes/](https://www.leventhalmap.org/event/ftv-marine-landscapes/ "From the Vault: Marine Landscapes")! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at objects from our collections that map marine landscapes and the creatures that inhabit them.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4638550/full/1200,/0/default.jpg" >}}
 
