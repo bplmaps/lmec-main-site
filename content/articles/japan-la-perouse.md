@@ -17,7 +17,9 @@ draft: true
 
 On this overglaze enamel ceramic map plate made in the first half of the nineteenth century, only twenty small named islands surround the main islands of Japan—far fewer than the more than 10,000 islands that exist. These particular twenty islands were intended to participate in a physical and psychological protective ring around the Japanese archipelago to protect it from foreign pressures of the outside world. One island in particular, Yoshishima, or Yoshi Island, is also associated with an encounter with European sailors in the late eighteenth century.
 
-{{< figure src="" caption="Enameled ceramic map plate, ca. 1800–1850. MacLean Collection, MC29791." >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5x21xp30w/full/,1200/0/default.jpg" caption="Enameled ceramic map plate, ca. 1800–1850. [MacLean Collection, MC29791](https://collections.leventhalmap.org/search/commonwealth:9019w685p)." >}}
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5x21xp30w/2275,847,325,181/full/0/default.jpg" caption="Detail of Yoshishima" >}}
 
 It was June 1787. A fleet of two ships battled severe weather and poor visibility in the sea between the Chinese continent and the Japanese island of Honshū, the latter known for its vigorously-enforced policy of repelling foreign ships. One fleet was French, commanded by Jean-Francois de Galaup La Pérouse (1741-88), who, relying for navigation on the latest European scientific instruments, was able to navigate despite the low visibility and the relatively limited charts that were available to him. When the weather cleared, the expedition observed a barrier island near Cape Noto—today's Noto Peninsula.
 
@@ -83,7 +85,7 @@ For the fishermen of Hegura, space was organized topologically: their island was
 
 Could La Pérouse have identified the island more accurately if he had access to better maps? In 1779, the neo-Confucian scholar Nagakubo Sekisui (1717-1801) published a map of Japan that far surpassed Ryūsen's, with over five times as many place names. If we overlay Sekisui\'s map onto La Pérouse \'s map, it becomes clear that La Pérouse saw and described Hegura island (written as 部倉), not Yoshishima.
 
-{{< figure src="" caption="Hegura annotated as no. 10, detail of Nagakubo Sekisui, *Nihon yochi rotei zenzu* 日本余地路程全図 (1779). Leiden University Libraries." >}}
+{{< figure src="https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:876316/5720,9250,1140,951/,1200/90/default.jpg" caption="Hegura annotated as no. 11 on detail of Nagakubo Sekisui, *Nihon yochi rotei zenzu* 日本余地路程全図 (1779). [Leiden University Libraries](https://digitalcollections.universiteitleiden.nl/view/item/876316)." >}}
 
 In theory it could have been possible for La Pérouse to have access to this map, but it was only in 1792 that the first known copy reached Europe: it was acquired by the scholar and Dutch East India Company merchant Isaac Titsingh during his 1779-1784 stay in Japan, who then sent to his brother Jan in Amsterdam. It was eventually acquired by Philip Franz von Siebold, another scholar and surgeon for the Dutch East India Company in Japan between 1823 and 1829, and is now kept in the Leiden University Libraries. Siebold consulted Sekisui's map for his own maps of Japan, and this allowed him to state that La Pérouse's Jootsisima "is actually Fekurasima."
 
