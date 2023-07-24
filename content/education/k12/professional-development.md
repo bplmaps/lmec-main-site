@@ -21,7 +21,7 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 #### Teachers as Scholars: 2023-2024 Seminars
 
-##### Open to participating districts
+##### Open to educators from participating districts
 
 {{\< pd-listing
 image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9472/4504,1941,2291,3113/1200,/0/default.jpg"
