@@ -15,11 +15,9 @@ draft: true
 
 > This article is part of the Map Chats series commissioned by Richard Pegg, Director and Curator of the [MacLean Collection](https://www.macleancollection.com) in Illinois. For more, see all the [Map Chat articles](https://www.leventhalmap.org/tags/map-chat/) published by the Leventhal Center.
 
-On this overglaze enamel ceramic map plate made in the first half of the nineteenth century, only twenty small named islands surround the main islands of Japan—far fewer than the more than 10,000 islands that exist. These particular twenty islands were intended to participate in a physical and psychological protective ring around the Japanese archipelago to protect it from foreign pressures of the outside world. One island in particular, Yoshishima, or Yoshi Island, is also associated with an encounter with European sailors in the late eighteenth century.
+On this overglaze enamel ceramic map plate made in the first half of the nineteenth century, only twenty small named islands surround the main islands of Japan—far fewer than the more than 10,000 islands that exist. These particular twenty islands were intended to participate in a physical and psychological protective ring around the Japanese archipelago to protect it from foreign pressures of the outside world. One island in particular, {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5x21xp30w/2275,847,325,181/full/0/default.jpg" target="blank">}}Yoshishima, or Yoshi Island{{</ popup >}}, is also associated with an encounter with European sailors in the late eighteenth century.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5x21xp30w/full/,1200/0/default.jpg" caption="Enameled ceramic map plate, ca. 1800–1850. [MacLean Collection, MC29791](https://collections.leventhalmap.org/search/commonwealth:9019w685p)." >}}
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5x21xp30w/2275,847,325,181/full/0/default.jpg" caption="Detail of Yoshishima" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5x21xp30w/full/,1200/0/default.jpg" caption="Enameled ceramic map plate, ca. 1800–1850. [MacLean Collection, MC29791](https://collections.leventhalmap.org/search/commonwealth:9019w685p)" >}}
 
 It was June 1787. A fleet of two ships battled severe weather and poor visibility in the sea between the Chinese continent and the Japanese island of Honshū, the latter known for its vigorously-enforced policy of repelling foreign ships. One fleet was French, commanded by Jean-Francois de Galaup La Pérouse (1741-88), who, relying for navigation on the latest European scientific instruments, was able to navigate despite the low visibility and the relatively limited charts that were available to him. When the weather cleared, the expedition observed a barrier island near Cape Noto—today's Noto Peninsula.
 
@@ -27,9 +25,9 @@ It was June 1787. A fleet of two ships battled severe weather and poor visibilit
 
 La Pérouse and his crew were the first to sight this "completely unknown to Europeans" area along the northern coast of Japan. A map of La Pérouse's route on that voyage records the location and date of that encounter.
 
-{{< figure src="" caption="Jean-Francois de Galaup La Pérouse, _Chart of the Discoveries Made in 1787, in the Seas of China and Tartary, by the Boussole and Astrolabe,_ Map 46, MacLean Collection, MC26569" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3r0783181/0,0,0,0/,1200/0/default.jpg" caption="Jean-Francois de Galaup La Pérouse, _Chart of the Discoveries Made in 1787, in the Seas of China and Tartary, by the Boussole and Astrolabe,_ Map 46 (1797). [MacLean Collection, MC26569](https://collections.leventhalmap.org/search/commonwealth:31981r46j)" >}}
 
-On the sixth of June, they passed within a stone's throw of a small island which they identified as "Jootsi-sima," and which they described thus:
+On the sixth of June, they passed within a stone's throw of {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3r0783181/6855,10749,1241,697/full/0/default.jpg" >}}a small island which they identified as "Jootsi-sima,"{{</ popup >}} and which they described thus:
 
 > "The island is small, flat, well wooded, and pleasing to the eye. I do not think its circumference exceeds two leagues. To us it appeared well inhabited. Between the houses we observed edifices of considerable size; and near a castle, seated on the south-west point, we distinguished gallows, or at least posts, with a large beam placed across them at top. Possibly, however, these posts had a very different designation; for it would be singular, if the customs of the Japanese, so different from ours, resembled them in this point."
 
@@ -73,13 +71,13 @@ This anecdote confirms that by the time the Europeans arrived, there was a long 
 
 There is another important detail in La Pérouse's description: a wooden structure which he tentatively likened to gallows. This was as perhaps an echo of illustrations of Japanese martyrs in the past found on European maps such as Jodocus Hondius's 1606 edition of the map of China in Mercator's atlas.
 
-{{< figure src="" caption="Jodocus Hondius, _Map of China_ (1606). MacLean Collection, MC5805." >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71rq53g/3676,1173,2489,2262/,1200/0/default.jpg" caption="Jodocus Hondius, _Map of China_ (1606). [MacLean Collection, MC5805](https://collections.leventhalmap.org/search/commonwealth:cz30sz97g)" >}}
 
 La Pérouse was right to doubt his own interpretation: the structure he saw was most probably a wooden *tori'i* gate marking the entrance to a shrine. The only island with a shrine in the area was the Hegura, which featured a shrine dedicated to the deity Okitsuhime. The shrine is particularly ancient: it is mentioned in the 927 CE compendium of ritual instructions *Engishiki* (延喜式), which means it was recognized as an official shrine by the Imperial Court. An eighth-century bronze mirror associated with rituals of safe sea passage, distributed from the capital to strategic locations on the edges of the premodern Japanese polity, has been found at the shrine. The shrine and its *tori'i* gate served as visible signs in a similar apotropaic role to that of other peripheral territories themselves on premodern maps of Japan. Just like Yoshishima, Hegura had a border function, not only in geographical but also in sacred terms: to protect the edges of the realm against outside forces. From that perspective, La Pérouse\'s sail-by would have been interpreted as a narrowly avoided intrusion into the sacred realm. The protective sacred infrastructure embodied by the shrine had done its job.
 
 For the fishermen of Hegura, space was organized topologically: their island was historically protected by a shrine connected to another shrine in Wajima town. And Hegura, along with Yoshishima, participated in a network of peripheral territories protecting the main body of the Japanese archipelago. That network was still relevant in the 1830s up till the 1850s, when Yoshishima was included in the maps of Japan featured on ceramic plates—including the one which formed the starting point for this essay.
 
-{{< figure src="" caption="Yoshishima shown in blue on the bottom (north is oriented \"down\" here to read the toponyms) with Cape Noto in blue above." >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5x21xp30w/2109,767,682,920/,1200/180/default.jpg" caption="Yoshishima shown in blue on the bottom (north is oriented \"down\" here to read the toponyms) with Cape Noto in blue above." class="figure-right" >}}
 
 #### Puzzles and mysteries
 
