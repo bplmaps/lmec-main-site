@@ -13,9 +13,9 @@ The Leventhal Map & Education Center offers a variety of professional developmen
 
 Customized district-wide professional development training is available. Contact us at [education@leventhalmap.org](mailto:education@leventhalmap.org) for more information.
 
-{{< alert-box type="info" icon="fas fa-envelope-square" title="Subscribe For Updates" >}}
+{{\< alert-box type="info" icon="fas fa-envelope-square" title="Subscribe For Updates" >}}
 Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com/manage/optin?v=001ty3slyDjv8WLvGvwSdG8euspYmx7UP1YNPw2RbQHz_d15WTFIS4Ksb90bD2Fx0OBYbhpfZ896VoKbMS6m87TTQGTPsIpdO4e29yiAmPsALE%3D) for news on professional development opportunities.
-{{</ alert-box >}}
+{{\</ alert-box >}}
 
 ## Workshops and Courses
 
@@ -23,14 +23,21 @@ Sign up for our [Education Mailing List](https://visitor.r20.constantcontact.com
 
 ##### Open to participating districts
 
-{{< pd-listing
+{{\< pd-listing
 image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9472/4504,1941,2291,3113/1200,/0/default.jpg"
 title="Visualizing the World: Maps as Stories"
 subtitle="March 14 & 22, 2024"
 description="Maps tell stories. Historic maps in particular can tell us much about how our views of our world have evolved and also connect us to historic events both globally and in our own backyards. Helping students of all ages to read and analyze maps is key, not only for the where and what but also to help them evaluate the source critically, asking about the context, author’s purpose and motivations. This two-day seminar will introduce teachers to the collections of the Norman B. Leventhal Map & Education Center at the Boston Public Library, a wealth of over 200,000 maps and atlases dating from 1482 to the present. Participants will explore maps in the collection and connect to a variety of topics and time periods such as immigration, urban renewal and world maps. We will also go onto the streets of Boston to use digital mapping tools to explore how the city has changed over time and learn how georeferenced historic maps open up amazing possibilities for discovery. "
 signUpLink="https://teachers-scholars.org/" >}}
 
-{{< alert-box type="warning" title="Online Professional Development Opportunity" icon="fas fa-laptop-house" >}}
+{{\< pd-listing
+image="[https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:s4657c413/520,667,941,1286/full/0/default.jpg](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:s4657c413/520,667,941,1286/full/0/default.jpg)"
+title="Geospatial Explorations: Learn to Map Data with GIS"
+subtitle="January 23 & February 1, 2024"
+description="Interactive maps create opportunities to explore and understand specific topics and our world at large. In this 2-day class, participants will learn how to find and map data using a GIS (Geographic Information System) called ArcGIS online. GIS connects data to a map and integrates locations with all types of descriptive information. ArcGIS online licenses are offered free to K-12 schools and educators and students can use it for everything from creating surveys to collect and map geospatial data to finding already-created interactive maps that cover a wide range of topics, from climate change to gerrymandering. Participants will leave the course with some basic skills in ArcGIS online and new ideas on how they might use it in their classrooms.  "
+signUpLink="https://teachers-scholars.org/" >}}
+
+{{\< alert-box type="warning" title="Online Professional Development Opportunity" icon="fas fa-laptop-house" >}}
 
 ##### Empowering Maptivists: Using Maps & Data to Teach Social Justice Topics
 
@@ -40,7 +47,7 @@ Join us for this self-paced online professional development course hosted by the
 
 <a class="btn btn-xs btn-outline-primary mt-2" href="https://nationalhumanitiescenter.org/education-programs/courses/empowering-maptivists-using-maps-data-to-examine-social-issues-humanities-classroom/" target="_blank"><i class="fas fa-user-plus"></i> Register here</a>
 
-{{< /alert-box >}}
+{{\< /alert-box >}}
 
 ### Past Workshops
 
