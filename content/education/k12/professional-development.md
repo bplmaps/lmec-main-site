@@ -28,7 +28,7 @@ image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9472/4504,1
 title="Visualizing the World: Maps as Stories"
 subtitle="March 14 & 22, 2024"
 description="Maps tell stories. Historic maps in particular can tell us much about how our views of our world have evolved and also connect us to historic events both globally and in our own backyards. Helping students of all ages to read and analyze maps is key, not only for the where and what but also to help them evaluate the source critically, asking about the context, author’s purpose and motivations. This two-day seminar will introduce teachers to the collections of the Norman B. Leventhal Map & Education Center at the Boston Public Library, a wealth of over 200,000 maps and atlases dating from 1482 to the present. Participants will explore maps in the collection and connect to a variety of topics and time periods such as immigration, urban renewal and world maps. We will also go onto the streets of Boston to use digital mapping tools to explore how the city has changed over time and learn how georeferenced historic maps open up amazing possibilities for discovery. "
-signUpLink="[https://teachers-scholars.org/](https://teachers-scholars.org/)" >}}
+signUpLink="https://teachers-scholars.org/" >}}
 
 {{< alert-box type="warning" title="Online Professional Development Opportunity" icon="fas fa-laptop-house" >}}
 
