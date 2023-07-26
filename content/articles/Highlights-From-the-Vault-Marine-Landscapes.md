@@ -1,6 +1,6 @@
 ---
 draft: true
-title: 'Highlights From the Vault: Marine Landscapes'
+title: 'Highlights from From The Vault: Marine Landscapes'
 date: 2023-07-25T03:00:00.000Z
 author: Micaela Kahn
 description: >-
