@@ -6,7 +6,7 @@ author: Michelle LeBlanc
 description: >
   Earlier this month, we hosted a group of Boston area K-12 educators for a
   workshop on the role, impact and geographies of women in Boston’s Black
-  history, past and present 
+  history
 image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/LIFTINGcover.jpg'
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/LIFTINGcover.jpg'
 ---
