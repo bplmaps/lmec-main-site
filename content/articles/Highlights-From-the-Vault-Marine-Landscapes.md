@@ -32,7 +32,7 @@ This [particular map](https://collections.leventhalmap.org/search/commonwealth:q
 
 #### John Seller, *Novissima totius terrarum orbis tabula* (ca. 1672)
 
-Written in Latin and filled with illustrations, *[Novissima totius terrarum orbis tabula](https://collections.leventhalmap.org/search/commonwealth:st74cx36k)* gives us insight into 17th century conceptualization of the earth's geography. Notice that land mass for Antarctica is missing from this map. Note also the names of the oceans and seas on this map: which ones are the same today and which have been changed? Surrounding the hemispheres, there are creatures; the fish and crab of the zodiac are familiar to us, but the marine creature on the lower right of the map seems to be unknown.
+Written in Latin and filled with illustrations, *[Novissima totius terrarum orbis tabula](https://collections.leventhalmap.org/search/commonwealth:st74cx36k)* gives us insight into 17th century conceptualization of the earth's geography. Notice that a land mass indicating Antarctica is missing from this map. Note also the names of the oceans and seas on this map: which ones are the same today and which have been changed? Surrounding the hemispheres, there are creatures; the fish and crab of the zodiac are familiar to us, but the marine creature on the lower right of the map seems to be unknown.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm45k/full/1200,/0/default.jpg" >}}
 
