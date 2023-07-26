@@ -44,7 +44,7 @@ This [20th century map](https://collections.leventhalmap.org/search/commonwealth
 
 #### Ernest Dudley Chase, *A pictorial map of the British Isles* (1935)
 
-Although this map was published here in Massachusetts, it is a detailed pictorial view of the British Isles, highlighting architectural and cultural points of importance. In the seas and oceans on this map, fictional creatures lurk alongside great ships.
+Although [this map](https://collections.leventhalmap.org/search/commonwealth:0r96fn16b) was published here in Massachusetts, it is a detailed pictorial view of the British Isles, highlighting architectural and cultural points of importance. In the seas and oceans on this map, fictional creatures lurk alongside great ships.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5q47v989k/full/1200,/0/default.jpg" >}}
 
