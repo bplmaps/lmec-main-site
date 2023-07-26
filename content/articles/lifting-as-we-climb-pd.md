@@ -25,6 +25,8 @@ Teachers also explored the nearby Back Bay and South End neighborhoods by using 
 
 Teachers first used Atlascope while walking around the Holyoke Street area and noted any differences and change over time. Then they read a short document about the history of the Harriet Tubman House and discussed how this new information added to or complicated the story of the location. Several of the other addresses explored were in the same area and teachers talked together about the geographic interconnectedness of the women and organizations. 
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/embrace.jpg" >}}
+
 The workshop ended with an exploration of two adjacent monuments on Boston Common: the [Boston Massacre/Crispus Attucks monument](http://www.crispusattucksmuseum.org/boston-massacre-crispus-attucks-monument/) and [the Embrace](https://www.embraceboston.org/memorial). L’Merchie Frazier discussed her role on the panel that selected the final design with community input and the artist’s intention in memorializing Dr. Martin Luther King and Corretta Scott King, both with ties to Boston. Educators then synthesized their new knowledge and some themes of the workshop by creating shadow books. These books served as memorials to one or more of the women studied in the workshop as well as the ways in which these women challenged racial injustices and celebrated  their community and others doing the same work across the country. 
 
 > You can learn more about Florida Ruffin Ridley by visiting the *Building Blocks* exhibition [in person ](https://www.leventhalmap.org/exhibitions/visit/)or [online](https://www.leventhalmap.org/digital-exhibitions/building-blocks/).  
