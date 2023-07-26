@@ -11,9 +11,9 @@ image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/LIFTINGcover
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/LIFTINGcover.jpg'
 ---
 
-From July 10-12, the Leventhal Map & Education Center hosted a group of Boston area K-12 educators for the workshop *Lifting as we Climb: Black Women’s Activism in Turn-of-the-20th-Century Boston*. Connected to the Center’s *[Building Blocks](https://www.leventhalmap.org/digital-exhibitions/building-blocks/)* exhibition and funded by a [Library of Congress Teaching with Primary Sources Eastern Region](https://www.waynesburg.edu/community/tps-eastern-region#:~:text=The%20TPS%20Eastern%20Region%20provides,professional%20learning%20for%20grant%20participants.) grant, this 3-day workshop was designed to expand educators’ knowledge of the role and impact of women in Boston’s Black history and to explore geographies of Black Boston in the past and present.  
-
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/lawc.jpg" class="figure-right" >}}
+
+From July 10-12, the Leventhal Map & Education Center hosted a group of Boston area K-12 educators for the workshop *Lifting as we Climb: Black Women’s Activism in Turn-of-the-20th-Century Boston*. Connected to the Center’s *[Building Blocks](https://www.leventhalmap.org/digital-exhibitions/building-blocks/)* exhibition and funded by a [Library of Congress Teaching with Primary Sources Eastern Region](https://www.waynesburg.edu/community/tps-eastern-region#:~:text=The%20TPS%20Eastern%20Region%20provides,professional%20learning%20for%20grant%20participants.) grant, this 3-day workshop was designed to expand educators’ knowledge of the role and impact of women in Boston’s Black history and to explore geographies of Black Boston in the past and present.  
 
 *Building Blocks* introduces the story of [Florida Ruffin Ridley](https://www.leventhalmap.org/digital-exhibitions/building-blocks/people/), an activist and author living and working in Boston during the period the urban atlases were created. Florida’s family and activism opens up lines of inquiry that help us to consider how we might look at maps, archival resources and memorials to talk about whose stories are told and remembered and how to support the teaching of these ideas. 
 
