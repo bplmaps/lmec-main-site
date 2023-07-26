@@ -15,6 +15,10 @@ publishDate: 2023-06-08T21:00:00.000Z
 registration: ''
 ---
 
+### Event video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1fdJ9t69Rwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### About this event
 
 *What insights can be gained about the historical geographies of childhood from primary source material? What do maps—designed for or by children—reveal about the conditions, spaces, and places of childhood?*
