@@ -50,7 +50,7 @@ Although [this map](https://collections.leventhalmap.org/search/commonwealth:0r9
 
 #### Poole Brothers, *America: beauty, wonders, inspiration, progress, without end* (1936)
 
-In this map intended to promote tourism across North America, pictures and vignettes emphasize historical stories (”Pyramids” near Guadalajara, Jalisco, Mexico), sites of industry (”Motor Industry” in Detroit, Michigan, U.S.A), as well as increasingly popular spaces of entertainment and recreation, such as “Hollywood (Moving Pictures)”. On the title block lounge a mermaid and a Poseidon-like figure, providing a playful contrast to the real marine life and human swimmers depicted in the maps waters.
+In [this map](https://collections.leventhalmap.org/search/commonwealth:3j335r82t) intended to promote tourism across North America, pictures and vignettes emphasize historical stories (”Pyramids” near Guadalajara, Jalisco, Mexico), sites of industry (”Motor Industry” in Detroit, Michigan, U.S.A), as well as increasingly popular spaces of entertainment and recreation, such as “Hollywood (Moving Pictures)”. On the title block lounge a mermaid and a Poseidon-like figure, providing a playful contrast to the real marine life and human swimmers depicted in the maps waters.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m384b/full/1200,/0/default.jpg" >}}
 
