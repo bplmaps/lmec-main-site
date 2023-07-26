@@ -30,7 +30,7 @@ This [particular map](https://collections.leventhalmap.org/search/commonwealth:q
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cx37v/full/1200,/0/default.jpg" >}}
 
-#### John Seller, *Novissima totius terrarum orbis tabula* (ca. 1672)
+#### John Seller, *Novissima totius terrarum orbis tabula* (~1672)
 
 Written in Latin and filled with illustrations, *[Novissima totius terrarum orbis tabula](https://collections.leventhalmap.org/search/commonwealth:st74cx36k)* gives us insight into 17th century conceptualization of the earth's geography. Notice that a land mass indicating Antarctica is missing from this map. Note also the names of the oceans and seas on this map: which ones are the same today and which have been changed? Surrounding the hemispheres, there are creatures; the fish and crab of the zodiac are familiar to us, but the marine creature on the lower right of the map seems to be unknown.
 
@@ -54,6 +54,6 @@ On [this map](https://collections.leventhalmap.org/search/commonwealth:3j335r82t
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m384b/full/1200,/0/default.jpg" >}}
 
-#### Sir Robert Dudley, *Alla serma. sigra. principsa. d'Vrbino Grandvchessa di Toscana sva sigra. d: Roberto Dvdleo Dvca di Northumbria* (1647)
+#### Sir Robert Dudley, *Alla serma. sigra. principsa. d'Vrbino Grandvchessa di Toscana sva sigra. d: Roberto Dvdleo Dvca di Northumbria* (~1647)
 
 [This map](https://collections.leventhalmap.org/search/commonwealth:cj82m3832) covers French Guiana and part of Brazil; it appeared in Dudley’s 1646-1647 atlas Dell’Arcano Del Mare  - “On the Mystery of the Sea”. The atlas was the first printed maritime atlas to cover the whole world, as well as the first to use the Mercator projections in its cartography. It includes illustrations of formidable naval vessels juxtaposed with sea monsters.
