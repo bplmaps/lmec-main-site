@@ -14,7 +14,7 @@ tags:
   - from the vault
 ---
 
-> On July 21, we hosted *[From The Vault: Marine Landscapes](https://www.leventhalmap.org/event/ftv-marine-landscapes/)*! *From The Vault *is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at objects from our collections that map marine landscapes and the creatures that inhabit them.
+> On July 21, we hosted *[From The Vault: Marine Landscapes](https://www.leventhalmap.org/event/ftv-marine-landscapes/)*! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at objects from our collections that map marine landscapes and the creatures that inhabit them.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4638550/full/1200,/0/default.jpg" >}}
 
@@ -57,9 +57,3 @@ In this map intended to promote tourism across North America, pictures and vigne
 #### Sir Robert Dudley, *Alla serma. sigra. principsa. d'Vrbino Grandvchessa di Toscana sva sigra. d: Roberto Dvdleo Dvca di Northumbria* (1647)
 
 This map covers French Guiana and part of Brazil; it  appeared in Dudley’s 1646-1647 atlas Dell’Arcano Del Mare  - “On the Mystery of the Sea”. The atlas was the first printed maritime atlas to cover the whole world, as well as the first to use the Mercator projections in its cartography. It includes illustrations of formidable naval vessels juxtaposed with sea monsters.
-
-{{< figure >}}
-
-#### Hammond Incorporated, *The Marine World* (ca. 1960)
-
-The Marine World gives an overview of ocean depths, ocean currents, fishing areas, ocean life zones, and more. Marine life such as oysters, cod, kelp, tuna, and sharks are familiar to people because they spend time in the lighted open-water zone. However, people may go their whole life without encountering beings such as deep sea spiders and hatchetfish, who occupy the dark open-water and bottom zones.
