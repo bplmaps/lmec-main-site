@@ -38,7 +38,7 @@ Written in Latin and filled with illustrations, *[Novissima totius terrarum orbi
 
 #### Albert Prentice Button, *A map of the Maine coast from York Harbor to Saco Bay: reminiscent & actual* (1929)
 
-This [20th century map](https://collections.leventhalmap.org/search/commonwealth:0r96fm449) is anchored by a large title block on the top left, and a mythical sea creature on the lower right. In between those two focal points, plenty of marine creatures both real and fictional exist. The lively border of the map glimpses into the rich marine wildlife of the Maine coast. Despite depictions of creatures that may potentially be dangerous to humans, this map seems to be an aid for tourism, given Button’s decision to highlight Maine’s coastal history, recreational activity offerings, and cultural landmarks.
+This [20th century map](https://collections.leventhalmap.org/search/commonwealth:0r96fm449) is anchored by a large title block on the top left, and a mythical sea creature on the lower right. In between those two focal points, plenty of marine creatures both real and fictional exist. The lively border of the map offers a glimpse into the rich marine wildlife of the Maine coast. Despite depictions of creatures that may potentially be dangerous to humans, this map seems to be an aid for tourism, given Button’s decision to highlight Maine’s coastal history, recreational activity offerings, and cultural landmarks.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn17m/full/1200,/0/default.jpg" >}}
 
