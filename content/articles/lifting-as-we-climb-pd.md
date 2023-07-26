@@ -3,7 +3,7 @@ draft: true
 title: 'K-12 Educators Explore Geographies of Boston’s Black Women Activists  '
 date: 2023-08-01T11:00:00.000Z
 author: Michelle LeBlanc
-description: "From July 10-12, the Leventhal Map & Education Center hosted a group of Boston area K-12 educators for a workshop designed to expand educators’ knowledge of the role and impact of women in Boston’s Black history and to explore geographies of Black Boston in the past and present.\_\_"
+description: "Earlier this month, we hosted a group of Boston area K-12 educators for a workshop on the role, impact and geographies of women in Boston’s Black history, past and present.\_\_\n"
 image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/LIFTINGcover.jpg'
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/LIFTINGcover.jpg'
 ---
