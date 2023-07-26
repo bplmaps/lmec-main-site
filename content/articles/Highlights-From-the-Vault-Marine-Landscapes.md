@@ -56,4 +56,4 @@ On [this map](https://collections.leventhalmap.org/search/commonwealth:3j335r82t
 
 #### Sir Robert Dudley, *Alla serma. sigra. principsa. d'Vrbino Grandvchessa di Toscana sva sigra. d: Roberto Dvdleo Dvca di Northumbria* (~1647)
 
-[This map](https://collections.leventhalmap.org/search/commonwealth:cj82m3832) covers French Guiana and part of Brazil. It appeared in Dudley’s 1646-1647 *Dell’Arcano del Mare *atlas (“On the Mystery of the Sea”), and was the first printed maritime atlas to cover the whole world, as well as the first to use the Mercator projections in its cartography. It includes illustrations of formidable naval vessels juxtaposed with sea monsters.
+[This map](https://collections.leventhalmap.org/search/commonwealth:cj82m3832) covers French Guiana and part of Brazil. It appeared in Dudley’s 1646-1647 *Dell’Arcano del Mare *atlas (“On the Mystery of the Sea”) and was the first printed maritime atlas to cover the whole world, as well as the first to use the Mercator projection in its cartography. It includes illustrations of formidable naval vessels juxtaposed with sea monsters.
