@@ -15,7 +15,7 @@ draft: true
 
 > This article is part of the Map Chats series commissioned by Richard Pegg, Director and Curator of the [MacLean Collection](https://www.macleancollection.com) in Illinois. For more, see all the [Map Chat articles](https://www.leventhalmap.org/tags/map-chat/) published by the Leventhal Center.
 
-On this overglaze enamel ceramic map plate made in the first half of the nineteenth century, only twenty small named islands surround the main islands of Japan—far fewer than the more than 10,000 islands that exist. These particular twenty islands were intended to participate in a physical and psychological protective ring around the Japanese archipelago to protect it from foreign pressures of the outside world. One island in particular, {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5x21xp30w/2275,847,325,181/full/0/default.jpg" target="blank">}} Yoshishima, or Yoshi Island {{</ popup >}}, is also associated with an encounter with European sailors in the late eighteenth century.
+On this overglaze enamel ceramic map plate made in the first half of the nineteenth century, only twenty small named islands surround the main islands of Japan—far fewer than the more than 10,000 islands that exist. These particular twenty islands were intended to participate in a physical and psychological protective ring around the Japanese archipelago to protect it from foreign pressures of the outside world. One island in particular, {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5x21xp30w/2275,847,325,181/full/180/default.jpg" target="blank">}} Yoshishima, or Yoshi Island {{</ popup >}}, is also associated with an encounter with European sailors in the late eighteenth century.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5x21xp30w/full/,1200/0/default.jpg" caption="Enameled ceramic map plate, ca. 1800–1850. [MacLean Collection, MC29791](https://collections.leventhalmap.org/search/commonwealth:9019w685p)" >}}
 
@@ -25,7 +25,7 @@ It was June 1787. A fleet of two ships battled severe weather and poor visibilit
 
 La Pérouse and his crew were the first Westerners to sight this "completely unknown to Europeans" area along the northern coast of Japan. A map of La Pérouse's route on that voyage records the location and date of that encounter.
 
-On the sixth of June, they passed within a stone's throw of {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3r0783181/6855,10749,1241,697/full/0/default.jpg" >}}a small island which they identified as "Jootsi-sima,"{{</ popup >}} and which they described thus:
+On the sixth of June, they passed within a stone's throw of {{< popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3r0783181/5623,10327,3024,1566/,1200/0/default.jpg" >}}a small island which they identified as "Jootsi-sima,"{{</ popup >}} and which they described thus:
 
 > "The island is small, flat, well wooded, and pleasing to the eye. I do not think its circumference exceeds two leagues. To us it appeared well inhabited. Between the houses we observed edifices of considerable size; and near a castle, seated on the south-west point, we distinguished gallows, or at least posts, with a large beam placed across them at top. Possibly, however, these posts had a very different designation; for it would be singular, if the customs of the Japanese, so different from ours, resembled them in this point."
 
