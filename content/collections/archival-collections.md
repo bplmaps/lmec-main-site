@@ -67,8 +67,10 @@ The John Roman papers consist of pictorial maps produced from 1984-2012 by John 
 
 ***
 
-### Robert Bayard Bellamy Papers
+### Robert Bayard Bellamy Surveying Papers
 
-{{< figure src="/uploads/2022-01-24/severy.jpg" alt="Manuscript property survey from the Robert Severy Collection" caption="Manuscript property survey from the Robert Severy Collection" class="figure-right" >}}
+{{< figure src="/uploads/2022-01-24/severy.jpg" alt="Manuscript property survey from the Robert Bayard Bellamy Surveying Papers" caption="Manuscript property survey from the Robert Bayard Bellamy Surveying Papers" class="figure-right" >}}
 
-This collection comprises over 600 surveys from mid-19th to mid-20th century for towns across Massachusetts, with a handful covering other New England towns. The most represented surveyors are Robert Bayard Bellamy (1879-1962) and Frederic Endicott (1839-1918).
+The Robert Bayard Bellamy surveying papers consist primarily of surveys of properties in eastern Massachusetts circa 1860-1950, with the bulk of surveys done approximately 1890-1930. The majority of surveys are by Robert Bayard Bellamy (1879-1962). Other heavily represented surveyors are his predecessor Frederic Endicott (1839-1918), his brother Arthur Muirson Bellamy (1881-1968), and his father-in-law John Norris McClintock (1846-1914). Surveys show property boundaries, structures, owners, planning, and infrastructure such as public transit and utilities. The Papers include topographical maps, engineering and architectural drawings, and other materials presumably used in the creation of the surveys, as well as miscellaneous documents of professional credentials. 
+
+<a href="https://archives.bpl.org/repositories/2/resources/158" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to finding aid</a>
