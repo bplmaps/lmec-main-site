@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Special Collections Sampler: Magic!'
 date: 2023-08-02T13:30:00.000Z
 publishDate: 2023-07-27T14:30:00.000Z
