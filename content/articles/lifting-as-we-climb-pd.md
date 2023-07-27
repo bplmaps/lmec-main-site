@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: 'K-12 Educators Explore Geographies of Boston’s Black Women Activists  '
-date: 2023-08-01T11:00:00.000Z
+date: 2023-07-31T11:00:00.000Z
 author: Michelle LeBlanc
 description: >-
   Earlier this month, we hosted a group of Boston area K-12 educators for a
