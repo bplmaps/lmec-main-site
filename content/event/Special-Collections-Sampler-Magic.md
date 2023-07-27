@@ -13,7 +13,7 @@ fee: Free
 
 ### About this event
 
-We could all use a bit more *magic* in our lives, right? Well, this month Special Collections has you covered. Come on by the reading room this August to see some fairies, meet some old-timey magicians, and maybe even learn a magic trick or two!         
+We could all use a bit more *magic* in our lives, right? Well, this month **BPL Special Collections** has you covered. Come on by the [reading room](https://www.bpl.org/central-library-floor-plan/) this August to see some fairies, meet some old-timey magicians, and maybe even learn a magic trick or two!         
 
 The following items will be available for the month of August to use in our reading room (Wednesday through Friday 9:30 am to 4:30 pm). No appointment necessary.        
 
