@@ -32,10 +32,10 @@ Thanks to archival efforts, both the renewal maps of Washington Park and the ima
 
 The Leventhal Map & Education Center at the Boston Public Library holds several maps from the Boston Redevelopment Authority’s projects in Washington Park and the [broader Roxbury renewal district](https://collections.leventhalmap.org/search?utf8=%E2%9C%93\&per_page=100\&q=Roxbury+-+N.+Dorchester+G.N.R.P.\&search_field=all_fields). These include visual inventories of {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:nc583479j/449,6048,4146,2596/pct:20/0/default.jpg" target="blank" bib-src="https://collections.leventhalmap.org/search/commonwealth:b2776b41h">}}existing neighborhood conditions{{</popup>}} and {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zc77w7124/806,595,6028,3735/pct:20/0/default.jpg" bib-src="https://collections.leventhalmap.org/search/commonwealth:j3862q70s" target="blank">}}plans for future ones{{</popup>}} with new street layouts, buildings, and zoning. They are technical products printed on paper larger than the standard letter size. On most, crease marks are still intact from the careful folding and unfolding of the maps as they accompanied proposals to the city council who approved renewal plans and applications to the federal government for urban renewal financing.
 
-{{\< carousel >}}
-{{\< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:nc583479j/full/pct:20/0/default.jpg" >}}[View map in LMEC Collections](https://collections.leventhalmap.org/search/commonwealth:b2776b41h){{\< /carousel-figure >}}
-{{\< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zc77w7124/full/pct:20/0/default.jpg" >}}[View map in LMEC Collections](https://collections.leventhalmap.org/search/commonwealth:j3862q70s){{\< /carousel-figure >}}
-{{\</ carousel >}}
+{{< carousel >}}
+    {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:nc583479j/full/pct:20/0/default.jpg" >}}[View map in LMEC Collections](https://collections.leventhalmap.org/search/commonwealth:b2776b41h){{< /carousel-figure >}}
+    {{< carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zc77w7124/full/pct:20/0/default.jpg" >}}[View map in LMEC Collections](https://collections.leventhalmap.org/search/commonwealth:j3862q70s){{< /carousel-figure >}}
+{{</ carousel >}}
 
 Down the road (or, thanks to digitization, a few clicks away), Northeastern University’s Archive & Special Collections houses the records of Otto and Muriel Snowden’s Freedom House, including numerous images of Washington Park residents interacting with renewal maps, then at draft stage.
 
