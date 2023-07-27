@@ -10,11 +10,12 @@ backgroundImage: >-
 location: 'Leventhal Map & Education Center, Learning Center'
 tags:
   - from the vault
+fee: Free
 ---
 
 ### About this event
 
-Looking to add more maps to your life? Join us for an afternoon of close map looking! This edition of *From The Vault* will be curated by our Summer 2023 Seevak Fellows, [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/) and [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/). We’ll take a look at objects from our collections show different kinds of map projections — and if you loved our 2020-21 exhibition [Bending Lines: Maps and Data From Distortion to Deception](https://www.leventhalmap.org/digital-exhibitions/bending-lines/), this event is for you!
+Looking to add more maps to your life? Join us for an afternoon of close map looking! This edition of *From The Vault* will be curated by our Summer 2023 Seevak Fellows, [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/) and [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/). We’ll take a look at objects from our collections show different kinds of map projections — and if you loved our 2020-21 exhibition *[Bending Lines: Maps and Data From Distortion to Deception](https://www.leventhalmap.org/digital-exhibitions/bending-lines/),* this event is for you!
 
 Drop in any time between 2:00PM - 4:00PM.
 
