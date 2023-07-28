@@ -7,9 +7,9 @@ tags:
   - neighborhood by map
   - atlascope
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463820w/689,1000,10282,5873/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc334/714,2395,7690,2662/2000,/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463820w/689,1000,10282,5873/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc334/714,2395,7690,2662/2000,/0/default.jpg
 location: Hyde Park Branch Library - Weld Hall
 fee: Free
 ---
