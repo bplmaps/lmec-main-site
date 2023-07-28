@@ -20,3 +20,24 @@ registration: >-
 What was Charlestown like in the 19th and 20th centuries? What schools and churches were around? Were any industries based in the area? Join the Leventhal Map & Education Center at the [Charlestown Branch Library](https://www.bpl.org/locations/charlestown/) for a deep dive into the historical geography of the area. Come learn about how the community has changed over time, and discover how to research the history of your own house and neighborhood.
 
 *Registration is not required. If you would like to receive event reminders, please register [here](https://www.eventbrite.com/e/charlestown-by-map-tickets-663048605227?aff=oddtdtcreator) on Eventbrite.*
+
+<div id="eventbrite-widget-container-663048605227"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '663048605227',
+        iframeContainerId: 'eventbrite-widget-container-663048605227',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
