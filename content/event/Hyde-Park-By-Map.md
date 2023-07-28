@@ -20,7 +20,7 @@ What was Hyde Park like in the 19th and 20th centuries? What schools and churche
 
 Registration is not required. If you would like to receive event reminders, please register on Eventbrite below.
 
-Presented by the Leventhal Map & Education Center, the Hyde Park Branch Library and the Hyde Park Historical Society
+*Presented by the Leventhal Map & Education Center, the Hyde Park Branch Library and the Hyde Park Historical Society*
 
 <div id="eventbrite-widget-container-688117958337"></div>
 
