@@ -10,7 +10,6 @@ tags:
 - map chat
 - MacLean Collection
 - Japan
-draft: true
 ---
 
 > This article is part of the Map Chats series commissioned by Richard Pegg, Director and Curator of the [MacLean Collection](https://www.macleancollection.com) in Illinois. For more, see all the [Map Chat articles](https://www.leventhalmap.org/tags/map-chat/) published by the Leventhal Center.
