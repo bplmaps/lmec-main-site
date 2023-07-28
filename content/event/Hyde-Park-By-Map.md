@@ -18,6 +18,27 @@ fee: Free
 
 What was Hyde Park like in the 19th and 20th centuries? What schools and churches were around? Were any industries based in the area? Join the Leventhal Map & Education Center and [Hyde Park Historical Society](https://www.hydeparkhistoricalsociety.org/) at the [Hyde Park Branch Library](https://www.bpl.org/locations/hyde-park/) for a deep dive into the historical geography of the area. Come learn about how the community has changed over time, and discover how to research the history of your own house and neighborhood.
 
-Registration is not required. If you would like to receive event reminders, please register on Eventbrite below. 
+Registration is not required. If you would like to receive event reminders, please register on Eventbrite below.
 
 Presented by the Leventhal Map & Education Center, the Hyde Park Branch Library and the Hyde Park Historical Society
+
+<div id="eventbrite-widget-container-688117958337"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '688117958337',
+        iframeContainerId: 'eventbrite-widget-container-688117958337',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
