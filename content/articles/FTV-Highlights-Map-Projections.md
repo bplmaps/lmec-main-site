@@ -36,7 +36,7 @@ The “globular projection” referred to in [the map’s title](https://collect
 
 #### Ernest Dudley Chase, Mercator map of the world (1931)
 
-The Mercator map projection is arguably the most used map projection in American classrooms. Although easy to understand, it is more inaccurate than other commonly used projections. This map immediately catches the eye with its range of colors and interesting illustrations. These illustrations become even more interesting when venturing off land, as there are a variety of different entities depicted. This map also uses a more modern depiction of windheads in the top two corners rather than circling the entire map.
+The Mercator map projection is arguably the most used map projection in American classrooms. Although easy to understand, it is more inaccurate than other commonly used projections. This [map](https://collections.leventhalmap.org/search/commonwealth:3f463862d) immediately catches the eye with its range of colors and interesting illustrations. These illustrations become even more interesting when venturing off land, as there are a variety of different entities depicted. This map also uses a more modern depiction of windheads in the top two corners rather than circling the entire map.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463863p/full/2000,/0/default.jpg" >}}
 
