@@ -1,7 +1,7 @@
 ---
 draft: false
 title: 'Special Collections Sampler: Magic!'
-date: 2023-08-02T13:30:00.000Z
+date: 2023-08-29T18:00:00.000Z
 publishDate: 2023-07-27T14:30:00.000Z
 image: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/CXspotlight_2023Aug_445x890.jpeg
