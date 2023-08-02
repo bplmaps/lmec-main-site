@@ -14,9 +14,15 @@ tags:
   - from the vault
 ---
 
-> On August 4, we hosted [From The Vault: Map Projections](https://www.leventhalmap.org/event/ftv-marine-landscapes/)! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at objects from our collections that show different kinds of map projections — and if you loved our 2020-21 exhibition [Bending Lines: Maps and Data From Distortion to Deception](https://www.leventhalmap.org/digital-exhibitions/bending-lines/), read on! 
+> On August 4, we hosted [From The Vault: Map Projections](https://www.leventhalmap.org/event/ftv-marine-landscapes/)! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at objects from our collections that show different kinds of map projections — and if you loved our 2020-21 exhibition [Bending Lines: Maps and Data From Distortion to Deception](https://www.leventhalmap.org/digital-exhibitions/bending-lines/), read on!
 
-#### Hendrik Hondius, Nova totivs terrarvm orbis geographica ac hydrographica tabvla (1638)
+#### Ptolemy, The world (1482)
+
+Being our oldest map in our collection, Ptolemy’s The World offers an interesting view of what studies of global geography looked like in the 1400s. This map illustrates the continents of Africa, Europe, and Asia, given that these continents were the entire world–at least to Ptolemy’s understanding. Ptolemy’s “cloak” projection features curvature of both latitude and longitude, making it much harder to use. Between the latin script, incorrect geographical illustrations, and infamous windheads that characterize wind directions, this map is a classic example of the beginning of the Age of Exploration.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s13d/full/2000,/0/default.jpg" >}}
+
+#### Hendrik Hondius, *Nova totivs terrarvm orbis geographica ac hydrographica tabvla* (1638)
 
 This beautiful map highlights the baroque style of mapmaking that was favored during the Golden Age of Dutch cartography. The 1600s were the vital time period for the Nicolosi globular projection. Aside from its interesting format, the ornamentation around the spheres illustrate earth, water, fire, and air. The smaller inset map depicts the four known continents with Asia, America, and Africa personified and paying tribute to Europe.
 
