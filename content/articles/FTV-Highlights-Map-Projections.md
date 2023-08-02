@@ -22,7 +22,7 @@ Being our oldest map in our collection, Ptolemy’s [The World](https://collecti
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s13d/full/2000,/0/default.jpg" >}}
 
-#### Hendrik Hondius, *Nova totivs terrarvm orbis geographica ac hydrographica tabvla* (1638)
+#### Hendrik Hondius, Nova totivs terrarvm orbis geographica ac hydrographica tabvla (1638)
 
 This [beautiful map](https://collections.leventhalmap.org/search/commonwealth:7h149z89p) highlights the baroque style of mapmaking that was favored during the Golden Age of Dutch cartography. The 1600s were the vital time period for the Nicolosi globular projection. Aside from its interesting format, the ornamentation around the spheres illustrate earth, water, fire, and air. The smaller inset map depicts the four known continents with Asia, America, and Africa personified and paying tribute to Europe.
 
