@@ -27,3 +27,9 @@ Being our oldest map in our collection, Ptolemy’s [The World](https://collecti
 This [beautiful map](https://collections.leventhalmap.org/search/commonwealth:7h149z89p) highlights the baroque style of mapmaking that was favored during the Golden Age of Dutch cartography. The 1600s were the vital time period for the Nicolosi globular projection. Aside from its interesting format, the ornamentation around the spheres illustrate earth, water, fire, and air. The smaller inset map depicts the four known continents with Asia, America, and Africa personified and paying tribute to Europe.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149z90f/full/2000,/0/default.jpg" >}}
+
+#### Home Educator Co., The world upon globular projection and with a gazetteer of information (1907)
+
+The “globular projection” referred to in the map’s title is most likely the Mollweide projection. With all latitude lines running straight and longitude lines increasing in curvature as they distance from the prime meridian, shape becomes more distorted the further the map is from the center. The Mollweide projection depicts the planet as an ellipse, which is a better depiction of Earth’s sphere than most other maps. Its projection is one of the least interesting parts of this information-dense map.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kt53h/full/2000,/0/default.jpg" >}}
