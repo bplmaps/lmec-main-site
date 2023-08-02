@@ -30,6 +30,12 @@ This [beautiful map](https://collections.leventhalmap.org/search/commonwealth:7h
 
 #### Home Educator Co., The world upon globular projection and with a gazetteer of information (1907)
 
-The “globular projection” referred to in the map’s title is most likely the Mollweide projection. With all latitude lines running straight and longitude lines increasing in curvature as they distance from the prime meridian, shape becomes more distorted the further the map is from the center. The Mollweide projection depicts the planet as an ellipse, which is a better depiction of Earth’s sphere than most other maps. Its projection is one of the least interesting parts of this information-dense map.
+The “globular projection” referred to in [the map’s title](https://collections.leventhalmap.org/search/commonwealth:cj82kt527) is most likely the Mollweide projection. With all latitude lines running straight and longitude lines increasing in curvature as they distance from the prime meridian, shape becomes more distorted the further the map is from the center. The Mollweide projection depicts the planet as an ellipse, which is a better depiction of Earth’s sphere than most other maps. Its projection is one of the least interesting parts of this information-dense map.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kt53h/full/2000,/0/default.jpg" >}}
+
+#### Arno Peters, Peters World Map (2006)
+
+The [Peters projection](https://collections.leventhalmap.org/search/commonwealth:x633f923g) or the Gall equal-area projection focuses on accurately depicting the relative sizes of countries and continents. In doing so, the landmasses’ shapes are distorted and stretched. The Peters projection rejects the inaccurate exaggeration of northern regions that can be seen on more conventional maps like the Mercator map.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f924r/full/2000,/0/default.jpg" >}}
