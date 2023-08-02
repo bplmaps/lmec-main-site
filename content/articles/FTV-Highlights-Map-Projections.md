@@ -34,6 +34,12 @@ The “globular projection” referred to in [the map’s title](https://collect
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kt53h/full/2000,/0/default.jpg" >}}
 
+#### Ernest Dudley Chase, Mercator map of the world (1931)
+
+The Mercator map projection is arguably the most used map projection in American classrooms. Although easy to understand, it is more inaccurate than other commonly used projections. This map immediately catches the eye with its range of colors and interesting illustrations. These illustrations become even more interesting when venturing off land, as there are a variety of different entities depicted. This map also uses a more modern depiction of windheads in the top two corners rather than circling the entire map.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463863p/full/2000,/0/default.jpg" >}}
+
 #### Arno Peters, Peters World Map (2006)
 
 The [Peters projection](https://collections.leventhalmap.org/search/commonwealth:x633f923g) or the Gall equal-area projection focuses on accurately depicting the relative sizes of countries and continents. In doing so, the landmasses’ shapes are distorted and stretched. The Peters projection rejects the inaccurate exaggeration of northern regions that can be seen on more conventional maps like the Mercator map.
