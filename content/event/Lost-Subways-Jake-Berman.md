@@ -14,6 +14,8 @@ tags:
 
 ### About this event
 
+Join us on ...
+
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/9780226829791 (2).jpg" class="figure-right" >}}
 
 #### About the author 
