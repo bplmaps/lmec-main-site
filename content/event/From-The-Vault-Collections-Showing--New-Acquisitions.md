@@ -15,7 +15,7 @@ tags:
 
 ### About this event
 
-{{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f465b625/full/1200,/0/default.jpg" caption="A 1973 map of library districts in Boston" >}}
+{{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f465b625/full/1200,/0/default.jpg" caption="A 1973 map of library districts in Boston." >}}
 
 Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of *From The Vault*, we’ll take a look at handful of new additions to our collections!
 
