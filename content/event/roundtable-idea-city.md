@@ -1,8 +1,8 @@
 ---
 draft: true
 title: >-
-  Idea City: How to Make Boston More Livable, Equitable, and Resilient with
-  David Gamble and Contributors
+  Roundtable on Idea City: How to Make Boston More Livable, Equitable, and
+  Resilient with David Gamble and Contributors
 date: 2023-09-26T22:00:00.000Z
 publishDate: 2023-07-21T04:00:00.000Z
 image: >-
