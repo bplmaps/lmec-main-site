@@ -15,7 +15,7 @@ tags:
 
 ### About this event
 
-Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of From The Vault, we’ll take a look at handful of new additions to our collections!
+Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of *From The Vault*, we’ll take a look at handful of new additions to our collections!
 
 Drop in any time between 2:00PM - 4:00PM.
 
