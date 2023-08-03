@@ -1,12 +1,12 @@
 ---
 draft: true
 title: Putting Family History On The Map
-date: '2023-10-11T22:00:00.000Z'
-publishDate: '2023-08-03T19:00:00.000Z'
+date: 2023-10-11T22:00:00.000Z
+publishDate: 2023-08-03T19:00:00.000Z
 image: >-
-  https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/362277000_719918993513879_3242905254082198882_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=340051&_nc_ohc=QfgFakCztlEAX_ZG6W9&_nc_ht=scontent-bos5-1.xx&oh=00_AfCLdXJYt0tvA187TEHaYYH7JdGc9pneh4AyO1TXxUV9Lw&oe=64D07120
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:t722m031w/582,1850,2005,1345/2000,/0/default.jpg
 backgroundImage: >-
-  https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/362277000_719918993513879_3242905254082198882_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=340051&_nc_ohc=QfgFakCztlEAX_ZG6W9&_nc_ht=scontent-bos5-1.xx&oh=00_AfCLdXJYt0tvA187TEHaYYH7JdGc9pneh4AyO1TXxUV9Lw&oe=64D07120
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:t722m031w/582,1850,2005,1345/2000,/0/default.jpg
 location: Virtual
 fee: Free
 registration: >-
