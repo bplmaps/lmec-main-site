@@ -16,7 +16,7 @@ tags:
 
 Join us on Wednesday, December 20 at 6:00 pm ET with **Jake Berman** for a talk on his new book, *[The Lost Subways of North America: A Cartographic Guide to the Past, Present, and What Might Have Been](https://press.uchicago.edu/ucp/books/book/chicago/L/bo206950010.html).*
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/subwaycrop.jpg" class="figure-right" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/subwaycrop.jpg" class="figure-right" caption=" Coming November 2023! The Lost Subways of North America: A Cartographic Guide to the Past, Present and What Might Have Been " >}}
 
 The* Lost Subways of North America* offers a new way to consider this eternal question, with a strikingly visual—and fun—journey through past, present, and unbuilt urban transit. Using meticulous archival research, cartographer and artist Jake Berman has successfully plotted maps of old train networks covering twenty-three North American metropolises, ranging from New York City’s Civil War–era plan for a steam-powered subway under Fifth Avenue to the ultramodern automated Vancouver SkyTrain and the thousand-mile electric railway system of pre–World War II Los Angeles. He takes us through colorful maps of old, often forgotten streetcar lines, lost ideas for never-built transit, and modern rail systems—drawing us into the captivating transit histories of US and Canadian cities.
 
