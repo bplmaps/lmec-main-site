@@ -18,6 +18,8 @@ tags:
 
 ### About this event
 
+Join us for a roundtable talk on [Idea City: How to Make Boston More Livable, Equitable, and Resilient](https://www.umasspress.com/9781625347237/idea-city/) with editor David Gamble and contributors Alice Brown, Marie Law Adams, 
+
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-04 at 9.33.13 AM.png" class="figure-right" >}}
 
 Racial strife, increased social and economic discrimination, amplified political friction, and growing uncertainty around the impacts of the COVID-19 pandemic and climate change have laid bare many inequalities within the city of Boston. How will these disruptions and inequities influence the city's future, especially as Boston celebrates its quadricentennial in 2030?
