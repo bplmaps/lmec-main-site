@@ -26,4 +26,4 @@ In *Inclusive Transportation: A Manifesto for Repairing Divided Communities*, tr
 
 [Veronica O. Davis](http://www.veronicao.com/), PE, is a civil engineer, planner, transportation nerd, public speaker, community activist, guest lecturer, poet, blogger, lover of art, yogi, foodie, world explorer, wife, and mom. When she was twenty-two years old, she wrote a life strategic plan declaring that she would be a world-renowned transportation expert and an author with an eclectic collection of books across multiple genres. The clarity of that vision allows her to achieve her goals.
 
-*Presented as part of our ongoing exhibition, Getting Around Town: Mapping Four Centuries of Boston in Transit.*
+***Presented as part of our ongoing exhibition, Getting Around Town: Mapping Four Centuries of Boston in Transit.***
