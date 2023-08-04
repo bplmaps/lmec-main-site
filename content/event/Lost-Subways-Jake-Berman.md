@@ -27,3 +27,24 @@ Berman combines vintage styling with modern printing technology to create a swee
 Jake Berman is a cartographer, writer, artist, and lawyer. His work has been featured in the New Yorker, Vice, Atlas Obscura, and the Guardian. A native of San Francisco, he now lives in New York City.
 
 ***Presented as part of our ongoing exhibition, Getting Around Town: Mapping Four Centuries of Boston in Transit.***
+
+<div id="eventbrite-widget-container-692561268397"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '692561268397',
+        iframeContainerId: 'eventbrite-widget-container-692561268397',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
