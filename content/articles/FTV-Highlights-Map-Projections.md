@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Highlights from From The Vault: Map Projections'
 date: 2023-08-07T11:00:00.000Z
 author: 'Zoe Colimon and Salman Uddin '
