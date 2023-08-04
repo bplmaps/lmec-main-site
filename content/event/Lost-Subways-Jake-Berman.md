@@ -14,7 +14,7 @@ tags:
 
 ### About this event
 
-Join us on Wednesday, December 20 at 6:00 pm ET with **Jake Berman** for a talk on his new book, [The Lost Subways of North America: A Cartographic Guide to the Past, Present, and What Might Have Been](https://press.uchicago.edu/ucp/books/book/chicago/L/bo206950010.html). 
+Join us on Wednesday, December 20 at 6:00 pm ET with **Jake Berman** for a talk on his new book, *[The Lost Subways of North America: A Cartographic Guide to the Past, Present, and What Might Have Been](https://press.uchicago.edu/ucp/books/book/chicago/L/bo206950010.html).*
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/subwaycrop.jpg" class="figure-right" >}}
 
