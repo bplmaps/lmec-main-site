@@ -70,7 +70,13 @@ cta:
     - badge: Upcoming exhibition
       text: |
         "Getting Around Town" opens on September 9
-      link: 'https://www.leventhalmap.org/about/press-releases/getting-around-town-opens-fall-2023/'
+      link: >-
+        https://www.leventhalmap.org/about/press-releases/getting-around-town-opens-fall-2023/
+    - badge: Upcoming closure
+      text: >-
+        Our gallery will be closed August 24 through September 8 for exhibition
+        installation
+      link: 'https://www.leventhalmap.org/about/hours-directions/'
 audiences:
   enable: true
   audienceGroups:
