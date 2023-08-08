@@ -28,7 +28,7 @@ In *Inclusive Transportation: A Manifesto for Repairing Divided Communities*, tr
 
 ***Presented as part of our ongoing exhibition, Getting Around Town: Four Centuries of Mapping Boston in Transit.***
 
-This talk will stream live on our Facebook page and YouTube channel. Please register on Eventbrite below.
+This talk will stream live to our [Facebook page](https://www.facebook.com/bplmaps) and [YouTube channel](https://www.youtube.com/@LeventhalMapEducationCenter). Please register on Eventbrite below.
 
 <div id="eventbrite-widget-container-694948428457"></div>
 
