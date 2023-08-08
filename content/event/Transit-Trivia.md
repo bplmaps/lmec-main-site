@@ -22,7 +22,7 @@ Trivia rounds will feature a geographic scavenger hunt using [Atlascope](https:
 
 Registration is encouraged but not required. You may participate individually or as a member of a team. This event will be held in person in the Newsfeed Café at the [Central Library](https://www.bpl.org/locations/3/) in Copley Square. Prizes of maps will be awarded to winning teams!
 
-***Presented as part of our ongoing exhibition, Getting Around Town: Mapping Four Centuries of Boston in Transit.***
+***Presented as part of our ongoing exhibition, Getting Around Town: Four Centuries of Mapping Boston in Transit.***
 
 <div id="eventbrite-widget-container-692469403627"></div>
 
