@@ -4,7 +4,7 @@ title: >-
   Veronica O. Davis on Inclusive Transportation: A Manifesto for Repairing
   Divided Communities
 date: 2023-10-16T16:00:00.000Z
-publishDate: 2023-08-03T16:00:00.000Z
+publishDate: 2023-08-08T19:30:00.000Z
 location: Virtual
 fee: Free
 tags:
