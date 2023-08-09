@@ -18,7 +18,7 @@ tags:
 
 ### About this event
 
-Join us for a roundtable talk on *[Idea City: How to Make Boston More Livable, Equitable, and Resilient](https://www.umasspress.com/9781625347237/idea-city/)* with editor David Gamble and contributors Alice Brown and Marie Law Adams.
+Join us for a roundtable talk on *[Idea City: How to Make Boston More Livable, Equitable, and Resilient](https://www.umasspress.com/9781625347237/idea-city/)* with editor David Gamble and contributors Alice Brown and Marie Law Adams. This discussion is free, open to the public, and will be held in person in the [Commonwealth Salon](https://www.bpl.org/central-library-floor-plan/) at the Central Library in Copley Square. 
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/idea city.png" class="figure-right" >}}
 
