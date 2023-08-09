@@ -9,6 +9,8 @@ backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z029rm326/720,858,3684,1662/2000,/0/default.jpg
 ---
 
+> This article was written by [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/). Salman is a student at the Boston Latin School and is spending the summer as a Seevak Fellow at the Map Center working on public projects related to maps and social justice, and georeferencing atlases for [Atlascope](https://www.atlascope.org/).
+
 Academia is one of the defining features of the Greater Boston Area. Higher education institutions draw tens of thousands of students from all over the world and have them live in the neighborhoods they are located in. It takes an array of buildings and facilities to run a functional college or university; buildings and facilities that take up great portions of land. What ends up happening is, as the size and prestige of a college grows, the size of the neighborhoods and communities that surround it shrinks. Though not the sole reason, college expansion contributes heavily to the increasing cost of living and decreasing amount of space in neighborhoods. When the driver for a neighborhood’s gentrification is this massive, money-making institution exempt from taxes, it may feel impossible to prevent, but it is amazing what a loud, vocal, and persistent community is capable of.
 
 #### Chinatown
