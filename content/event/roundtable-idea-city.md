@@ -2,7 +2,7 @@
 draft: true
 title: >-
   Roundtable on Idea City: How to Make Boston More Livable, Equitable, and
-  Resilient with David Gamble and Contributors
+  Resilient
 date: 2023-09-26T22:00:00.000Z
 publishDate: 2023-07-21T04:00:00.000Z
 image: >-
@@ -18,7 +18,7 @@ tags:
 
 ### About this event
 
-Join us for a roundtable talk on *[Idea City: How to Make Boston More Livable, Equitable, and Resilient](https://www.umasspress.com/9781625347237/idea-city/)* with editor David Gamble and contributors Alice Brown, Marie Law Adams,
+Join us for a roundtable talk on *[Idea City: How to Make Boston More Livable, Equitable, and Resilient](https://www.umasspress.com/9781625347237/idea-city/)* with editor David Gamble and contributors Alice Brown and Marie Law Adams. 
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/idea city.png" class="figure-right" >}}
 
