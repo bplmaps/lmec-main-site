@@ -34,6 +34,8 @@ Just released over the summer, this collection of original essays addresses the 
 
 **David Gamble**, AIA AICP LEED AP Principal, Gamble Associates. David Gamble is an architect and urban planner and Principal of Gamble Associates, based in Cambridge, Massachusetts. The firm focuses on urban revitalization and community development. He is a Lecturer in the MIT Department of Urban Studies and Planning and his research looks at the catalytic effects of urban design and planning projects with a focus on the creative design and implementation strategies.  David is Editor of “Idea City” (UMass Press, 2023) and co-author of “Rebuilding the American City” (co-author Patty Heyda, Routledge Press, 2016) which looks at the catalytic effects of urban design and planning projects with a focus on creative implementation strategies. His next book “Repositioning the American Town” will be published in 2024.
 
+A﻿ndres Sevtsuk, biography coming soon. 
+
 ***Presented as part of our ongoing exhibition, Getting Around Town: Four Centuries of Mapping Boston in Transit***
 
 <div id="eventbrite-widget-container-695323881447"></div>
