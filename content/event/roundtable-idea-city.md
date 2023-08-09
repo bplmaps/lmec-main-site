@@ -18,7 +18,7 @@ tags:
 
 ### About this event
 
-Join us for a roundtable talk on *[Idea City: How to Make Boston More Livable, Equitable, and Resilient](https://www.umasspress.com/9781625347237/idea-city/)* with editor David Gamble and contributors Alice Brown and Marie Law Adams. 
+Join us for a roundtable talk on *[Idea City: How to Make Boston More Livable, Equitable, and Resilient](https://www.umasspress.com/9781625347237/idea-city/)* with editor David Gamble and contributors Alice Brown and Marie Law Adams.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/idea city.png" class="figure-right" >}}
 
@@ -35,3 +35,26 @@ This collection of original essays addresses the many challenges Boston contends
 **David Gamble**, AIA AICP LEED AP Principal, Gamble Associates. David Gamble is an architect and urban planner and Principal of Gamble Associates, based in Cambridge, Massachusetts. The firm focuses on urban revitalization and community development. He is a Lecturer in the MIT Department of Urban Studies and Planning and his research looks at the catalytic effects of urban design and planning projects with a focus on the creative design and implementation strategies.  David is Editor of “Idea City” (UMass Press, 2023) and co-author of “Rebuilding the American City” (co-author Patty Heyda, Routledge Press, 2016) which looks at the catalytic effects of urban design and planning projects with a focus on creative implementation strategies. His next book “Repositioning the American Town” will be published in 2024.
 
 ***Presented as part of our ongoing exhibition, Getting Around Town: Four Centuries of Mapping Boston in Transit***
+
+Please register on Eventbrite below.
+
+<div id="eventbrite-widget-container-695323881447"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '695323881447',
+        iframeContainerId: 'eventbrite-widget-container-695323881447',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
