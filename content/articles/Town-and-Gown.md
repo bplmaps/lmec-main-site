@@ -7,6 +7,11 @@ image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z029rm326/720,858,3684,1662/2000,/0/default.jpg
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z029rm326/720,858,3684,1662/2000,/0/default.jpg
+description: >-
+  Boston's higher education institutions draw tens of thousands of students from
+  all over the world and have them live in the neighborhoods they are located
+  in. Though not the sole reason, college expansion contributes heavily to the
+  increasing cost of living and decreasing amount of space in neighborhoods.
 ---
 
 > This article was written by [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/). Salman is a student at the Boston Latin School and is spending the summer as a Seevak Fellow at the Leventhal Center working on public projects related to maps and social justice, and georeferencing atlases for [Atlascope](https://www.atlascope.org/).
