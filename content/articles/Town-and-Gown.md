@@ -41,7 +41,7 @@ Institutional expansion is a very present-day threat to the communities in Roxbu
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/masterplan.png" caption="[*Courtesy of the Office of Physical Planning and Design Records at the Northeastern University Archives and Special Collections*](https://archivesspace.library.northeastern.edu/repositories/2/resources/731)" >}}
 
-It was around this time that Northeastern’s Office of Development and Planning decided that it wanted to become a bigger, more influential school. Part of the reasoning for this was they felt the need to push and grow their Cooperative Work Program. It was also the simple desire to become as prestigious as the schools nearby, like Harvard and MIT. According to one of the “Recurrent Themes” in Northeastern’s 1959 Campus Master Plan, 
+It was around this time that Northeastern’s Office of Development and Planning decided that it wanted to become a bigger, more influential school. Part of the reasoning for this was they felt the need to push and grow their Cooperative Work Program. It was also the simple desire to become as prestigious as the schools nearby, like Harvard and MIT. As stated in Northeastern’s 1959 Campus Master Plan, 
 
 > “Northeastern University, by sheer mass and size, is a major entity within the urban neighborhood. However, the campus lacks the symbolic or special presence typically associated with major universities.” 
 
