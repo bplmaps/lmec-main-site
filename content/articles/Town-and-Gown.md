@@ -41,9 +41,9 @@ Institutional expansion is a very present-day threat to the communities in Roxbu
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/masterplan.png" caption="[*Courtesy of the Office of Physical Planning and Design Records at the Northeastern University Archives and Special Collections*](https://archivesspace.library.northeastern.edu/repositories/2/resources/731)" >}}
 
-It was around this time that Northeastern’s Office of Development and Planning decided that it wanted to become a bigger, more influential school. Part of the reasoning for this was they felt the need to push and grow their Cooperative Work Program. It was also the simple desire to become as prestigious as the schools nearby, like Harvard and MIT. 
+It was around this time that Northeastern’s Office of Development and Planning decided that it wanted to become a bigger, more influential school. Part of the reasoning for this was they felt the need to push and grow their Cooperative Work Program. It was also the simple desire to become as prestigious as the schools nearby, like Harvard and MIT. According to one of the “Recurrent Themes” in Northeastern’s 1959 Campus Master Plan, 
 
-> According to one of the “Recurrent Themes” in Northeastern’s 1959 Campus Master Plan: “Northeastern University, by sheer mass and size, is a major entity within the urban neighborhood. However, the campus lacks the symbolic or special presence typically associated with major universities”. 
+> “Northeastern University, by sheer mass and size, is a major entity within the urban neighborhood. However, the campus lacks the symbolic or special presence typically associated with major universities”. 
 
 Today, Northeastern University has in many ways become the type of university it sought to become. In 2013, Northeastern implemented its 10-year plan which involved 3 million square feet in construction projects. The 2010s have been a decade of rapid growth for the university and that rate of growth is likely to continue; Northeastern’s most recent plan being an[ 810-bed dorm on Columbus Ave.](https://www.boston.com/real-estate/real-estate-news/2021/04/27/proposed-810-bed-northeastern-dorm-in-roxbury-faces-pushback-from-student-groups/)
 
