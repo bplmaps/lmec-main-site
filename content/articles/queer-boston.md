@@ -3,8 +3,8 @@ draft: true
 title: 'Pride and Progress: A Journey Through Bostons LGBTQ+ Safe Spaces'
 date: 2023-08-21T04:00:00.000Z
 author: Zoe Colimon
-image: '-'
-backgroundImage: '-'
+image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/playland.jpg'
+backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/playland.jpg'
 ---
 
 > This article was written by [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/). Zoe is a student at the Boston Latin School and is spending the summer as a Seevak Fellow at the Leventhal Center working on public projects related to maps and social justice, and georeferencing atlases for [Atlascope](https://www.atlascope.org/). Alongside her drive to explore Boston’s history through a queer, racial, and artistic lens, Zoe incorporates her love of astrophysics and computer science into her work by combining critical thinking with technological skills.
