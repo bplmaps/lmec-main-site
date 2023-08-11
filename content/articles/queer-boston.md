@@ -1,6 +1,6 @@
 ---
 draft: true
-title: 'queer boston (title tbd) '
+title: 'Pride and Progress: A Journey Through Bostons LGBTQ+ Safe Spaces'
 date: 2023-08-21T04:00:00.000Z
 author: Zoe Colimon
 image: '-'
