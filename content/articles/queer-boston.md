@@ -21,4 +21,6 @@ Nevertheless, queer Boston continued to create safe spaces through a diverse net
 
 {{< figure src="https://www.historyproject.org/sites/default/files/images_nonwebsite/stonewall50/napoleons-sign.jpg" class="figure-right" >}}
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/punchbowl.jpeg" class="figure-right" >}}
+
 Established in 1929, the Napoleon Club hosted an ever present nightlife for the queer community, becoming exclusively gay in 1952. It was even visited weekly by the legendary Judy Garland before her suicide. The Punchbowl expected a line out the door of several hundred on the daily, and it was usually populated by individuals ranging from students to drag queens. Nestled in the landscape of hysteria and bigotry, these safe havens were simultaneously subject to police raids. A witness of one of these tense moments recalls that “They used to flash the lights in the bar when the police came in. You had to switch partners (on the dance floor) in one second, woman to man. It was always touch and go about the cops coming in and raiding the place.” Aside from the distressing nature of these raids, older members of the community agree that these bars supported them by giving them a space to embrace their true identity.
