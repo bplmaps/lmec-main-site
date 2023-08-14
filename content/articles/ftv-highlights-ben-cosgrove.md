@@ -49,7 +49,7 @@ tags:
 
 <iframe style="border: 0; width: 2000px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1840432649/size=small/bgcol=ffffff/linkcol=0687f5/track=2629595439/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness">The Trouble With Wilderness by Ben Cosgrove</a></iframe>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1840432649/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2938563002/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness">The Trouble With Wilderness by Ben Cosgrove</a></iframe>
+<iframe style="border: 0; width: 600px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1840432649/size=small/bgcol=ffffff/linkcol=0687f5/track=1310365093/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness">The Trouble With Wilderness by Ben Cosgrove</a></iframe>
 
 #### Massachusetts. Board of Harbor Commissioners, Changes in the bed of Boston Harbor from a comparison of the surveys of 1835-61 (1868)
 
