@@ -29,7 +29,7 @@ Given the moral climate of the time period, Park Square was heavily scrutinized.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/streets3.png" caption="Inspired by the Stonewall riots of New York, 1969, activists and community members took to the streets in unity, starting their march at Jacques. The marchers then made their way to the Boston Police Headquarters, the Massachusetts State House, and St. Paul's Cathedral. The parade ended at the Boston Common, where the marchers then commemorated Stonewall. " >}}
 
-Inspired by the Stonewall riots of New York, 1969, activists and community members took to the streets in unity, starting their march at Jacques. The marchers then made their way to the Boston Police Headquarters, the Massachusetts State House, and St. Paul's Cathedral. The parade ended at the Boston Common, where the marchers then commemorated Stonewall. 
+> Inspired by the Stonewall riots of New York, 1969, activists and community members took to the streets in unity, starting their march at Jacques. The marchers then made their way to the Boston Police Headquarters, the Massachusetts State House, and St. Paul's Cathedral. The parade ended at the Boston Common, where the marchers then commemorated Stonewall. 
 
 The turnout was incredible, and led to the creation of the annual march we know today. It was both a protest and a celebration, illustrating the community’s ever-present drive. Three years later, the case Commonwealth v. Balthazar of 1974 led to the halting of local systemic oppression in Massachusetts on the basis of an individual’s sexual orientation in areas ranging from housing to employment.
 
