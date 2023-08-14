@@ -23,6 +23,8 @@ tags:
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx36g/207,206,6668,8616/,1000/0/default.jpg" class="figure-right" >}}
 
+this will need some text to format properly 
+
 #### Simon Greenleaf, Joel Giles, Ezra Lincoln, *[A Plan of the Salt Marsh and Upland in Roxbury, Lying the East Side of the Mill Creek](https://collections.leventhalmap.org/search/commonwealth:js956j178)* (1852)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j18j/97,123,3109,4494/,1200/0/default.jpg" >}}
