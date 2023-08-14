@@ -43,7 +43,7 @@ tags:
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=177790730/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=4293525399/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/solo-piano-live">Solo Piano (live) by Ben Cosgrove</a></iframe>
 
-#### Massachusetts. Department of Public Works, The Massachusetts Interstate Highway Program (1964)
+#### Massachusetts. Department of Public Works, [*The Massachusetts Interstate Highway Program*](https://collections.leventhalmap.org/search/commonwealth:p841cs038) (1964)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sn00f572m/86,112,7492,4922/2000,/0/default.jpg" >}}
 
