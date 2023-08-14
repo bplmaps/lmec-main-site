@@ -19,11 +19,11 @@ tags:
 
 #### Rand McNally and Company, *[Rand McNally Official 1920 Auto Trails Map: District Number 6: New England, Eastern New York](https://collections.leventhalmap.org/search/commonwealth:cj82kx356)* (1920)
 
-<iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3883345224/size=small/bgcol=ffffff/linkcol=0687f5/track=1441885200/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/yankee-division">Yankee Division by Ben Cosgrove</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3883345224/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1441885200/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/yankee-division">Yankee Division by Ben Cosgrove</a></iframe>
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx36g/207,206,6668,8616/,1000/0/default.jpg" class="figure-right" >}}
 
-this will need some text to format properly 
+this will need some text to format properly
 
 #### Simon Greenleaf, Joel Giles, Ezra Lincoln, *[A Plan of the Salt Marsh and Upland in Roxbury, Lying the East Side of the Mill Creek](https://collections.leventhalmap.org/search/commonwealth:js956j178)* (1852)
 
