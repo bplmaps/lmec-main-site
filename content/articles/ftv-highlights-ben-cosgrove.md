@@ -29,7 +29,7 @@ tags:
 
 "Volcano," from [Bearings](https://bencosgrove.bandcamp.com/album/bearings) (2023)
 
-#### E. J. Dehaven, Matthew Fontaine Maury, and United States Hydrographic Office, Trade wind chart of the Atlantic Ocean (1851)
+#### E. J. Dehaven, Matthew Fontaine Maury, and United States Hydrographic Office, *Trade wind chart of the Atlantic Ocean* (1851)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c32m/full/2000,/0/default.jpg" >}}
 
