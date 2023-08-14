@@ -35,10 +35,6 @@ tags:
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=121764284/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/bearings">Bearings by Ben Cosgrove</a></iframe>
 
-#### E.B. Whitman & A.D. Searl, Map of Eastern Kansas (1856)
-
-"Abilene," from [Field Studies](https://bencosgrove.bandcamp.com/album/field-studies) (2014) and "Prairie Fire," from [Yankee Division](https://bencosgrove.bandcamp.com/album/yankee-division) (2011)
-
 #### Edward Hitchcock, *[Geological Map of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:wd376556x)* (1832)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765576/86,131,9456,6129/2000,/0/default.jpg" >}}
@@ -48,6 +44,8 @@ tags:
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=177790730/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=4293525399/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/solo-piano-live">Solo Piano (live) by Ben Cosgrove</a></iframe>
 
 #### Massachusetts. Department of Public Works, The Massachusetts Interstate Highway Program (1964)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sn00f572m/86,112,7492,4922/2000,/0/default.jpg" >}}
 
 "Overpass" and "Arterial #1," from [The Trouble With Wilderness](https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness) (2021)
 
