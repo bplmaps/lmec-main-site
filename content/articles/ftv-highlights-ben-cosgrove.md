@@ -31,7 +31,7 @@ tags:
 
 <iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1650954297/size=small/bgcol=ffffff/linkcol=0687f5/track=1359306701/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/salt">Salt by Ben Cosgrove</a></iframe>
 
-#### Charles H. Ourand, Committee on Foreign Relations, U.S. Geological Survey, Map of Hawaii (1901)
+#### Charles H. Ourand, Committee on Foreign Relations, U.S. Geological Survey, *Map of Hawaii* (1901)
 
 "Volcano," from [Bearings](https://bencosgrove.bandcamp.com/album/bearings) (2023)
 
