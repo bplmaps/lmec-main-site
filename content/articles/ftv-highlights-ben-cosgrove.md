@@ -23,7 +23,7 @@ tags:
 
 #### *[A Plan of the Salt Marsh and Upland in Roxbury, Lying the East Side of the Mill Creek](https://collections.leventhalmap.org/search/commonwealth:js956j178)* (1852)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j18j/76,101,3048,4508/,1000/0/default.jpg" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j18j/76,101,3048,4508/,1000/0/default.jpg" class="" >}}
 
 #### *[Map of Hawaii](https://collections.leventhalmap.org/search/commonwealth:cr56r708p)* (1901)
 
