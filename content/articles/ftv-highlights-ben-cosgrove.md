@@ -37,7 +37,7 @@ tags:
 
 #### *[Map of Hawaii](https://collections.leventhalmap.org/search/commonwealth:cr56r708p)* (1901)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sf26cb87j/158,252,2586,2975/2000,/0/default.jpg" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sf26cb87j/158,252,2586,2975/2000,/0/default.jpg" class="" >}}
 
 > "Volcano," from [Bearings](https://bencosgrove.bandcamp.com/album/bearings) (2023)
 
