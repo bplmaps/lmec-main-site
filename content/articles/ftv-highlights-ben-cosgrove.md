@@ -43,9 +43,9 @@ tags:
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765576/86,131,9456,6129/2000,/0/default.jpg" >}}
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=177790730/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=4293525399/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/solo-piano-live">Solo Piano (live) by Ben Cosgrove</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1840432649/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=674589593/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness">The Trouble With Wilderness by Ben Cosgrove</a></iframe>
 
-"Hadley," from [The Trouble With Wilderness](https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness) (2021) and "Nashua," from [Solo Piano](https://bencosgrove.bandcamp.com/album/solo-piano-live) (2015)
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=177790730/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=4293525399/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/solo-piano-live">Solo Piano (live) by Ben Cosgrove</a></iframe>
 
 #### Massachusetts. Department of Public Works, The Massachusetts Interstate Highway Program (1964)
 
