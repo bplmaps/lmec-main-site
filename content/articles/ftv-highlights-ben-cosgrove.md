@@ -15,7 +15,7 @@ tags:
   - from the vault
 ---
 
-> On August 11, traveling composer-performer Ben Cosgrove performed live as part of the Boston Public Library’s [Concerts in the Courtyard](https://bpl.bibliocommons.com/events/64591a53ea132336001b43f6) Series. We were thrilled to host Ben following the performance to talk through a handful of objects from our collections that relate to his work and themes of landscape, geography, and place. 
+> On August 11, traveling composer-performer **Ben Cosgrove** performed live as part of the Boston Public Library’s [Concerts in the Courtyard](https://bpl.bibliocommons.com/events/64591a53ea132336001b43f6) Series. We were thrilled to host Ben following the performance to talk through a handful of objects from our collections that relate to his work and themes of landscape, geography, and place. 
 
 Rand McNally and Company, Rand McNally Official 1920 Auto Trails Map: District Number 6: New England, Eastern New York (1920)
 
