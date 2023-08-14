@@ -29,7 +29,9 @@ tags:
 
 "Volcano," from [Bearings](https://bencosgrove.bandcamp.com/album/bearings) (2023)
 
-#### E. J. Dehaven, Matthew Fontaine Maury, and United States Hydrographic Office, Trade wind chart of the Atlantic Ocean (1851)
+#### E. J. Dehaven, Matthew Fontaine Maury, and United States Hydrographic Office, *Trade wind chart of the Atlantic Ocean* (1851)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c32m/full/2000,/0/default.jpg" >}}
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=121764284/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/bearings">Bearings by Ben Cosgrove</a></iframe>
 
