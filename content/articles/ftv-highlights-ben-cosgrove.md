@@ -25,7 +25,7 @@ tags:
 
 #### Simon Greenleaf, Joel Giles, Ezra Lincoln, *[A Plan of the Salt Marsh and Upland in Roxbury, Lying the East Side of the Mill Creek](https://collections.leventhalmap.org/search/commonwealth:js956j178)* (1852)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j18j/76,101,3241,4508/,1000/0/default.jpg" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j18j/76,101,3048,4508/,1000/0/default.jpg" class="figure-right" >}}
 
 <iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1650954297/size=small/bgcol=ffffff/linkcol=0687f5/track=1593964190/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/salt">Salt by Ben Cosgrove</a></iframe>
 
