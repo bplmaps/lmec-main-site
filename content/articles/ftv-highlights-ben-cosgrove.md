@@ -19,7 +19,7 @@ tags:
 
 #### Rand McNally and Company, *[Rand McNally Official 1920 Auto Trails Map: District Number 6: New England, Eastern New York](https://collections.leventhalmap.org/search/commonwealth:cj82kx356)* (1920)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx36g/187,210,6659,8626/,1200/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx36g/207,206,6668,8616/,1000/0/default.jpg" class="figure-right" >}}
 
 <iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3883345224/size=small/bgcol=ffffff/linkcol=0687f5/track=1441885200/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/yankee-division">Yankee Division by Ben Cosgrove</a></iframe>
 
