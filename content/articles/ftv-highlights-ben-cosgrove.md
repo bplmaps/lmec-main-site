@@ -53,7 +53,7 @@ tags:
 
 #### Massachusetts. Department of Public Works, *[The Massachusetts Interstate Highway Program](https://collections.leventhalmap.org/search/commonwealth:p841cs038)* (1964)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sn00f572m/86,112,7492,4922/2000,/0/default.jpg" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sn00f572m/86,112,7492,4922/2000,/0/default.jpg" class="" >}}
 
 <iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1840432649/size=small/bgcol=ffffff/linkcol=0687f5/track=2629595439/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness">The Trouble With Wilderness by Ben Cosgrove</a></iframe>
 
