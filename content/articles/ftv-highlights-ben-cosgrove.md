@@ -25,7 +25,7 @@ tags:
 
 #### Simon Greenleaf, Joel Giles, Ezra Lincoln, *[A Plan of the Salt Marsh and Upland in Roxbury, Lying the East Side of the Mill Creek](https://collections.leventhalmap.org/search/commonwealth:js956j178)* (1852)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j18j/97,123,3109,4494/,1200/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j18j/97,123,3109,4494/,1200/0/default.jpg" class="figure-right" >}}
 
 <iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1650954297/size=small/bgcol=ffffff/linkcol=0687f5/track=1593964190/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/salt">Salt by Ben Cosgrove</a></iframe>
 
@@ -33,19 +33,19 @@ tags:
 
 #### Charles H. Ourand, Committee on Foreign Relations, U.S. Geological Survey, *[Map of Hawaii](https://collections.leventhalmap.org/search/commonwealth:cr56r708p)* (1901)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sf26cb87j/158,252,2586,2975/2000,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sf26cb87j/158,252,2586,2975/2000,/0/default.jpg" class="figure-right" >}}
 
 <iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=121764284/size=small/bgcol=ffffff/linkcol=0687f5/track=128960474/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/bearings">Bearings by Ben Cosgrove</a></iframe>
 
 #### E. J. Dehaven, Matthew Fontaine Maury, and United States Hydrographic Office, *[Trade wind chart of the Atlantic Ocean](https://collections.leventhalmap.org/search/commonwealth:ht250c31b)* (1851)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c32m/87,202,7046,4841/2000,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c32m/87,202,7046,4841/2000,/0/default.jpg" class="figure-right" >}}
 
 <iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=121764284/size=small/bgcol=ffffff/linkcol=0687f5/track=3644516220/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/bearings">Bearings by Ben Cosgrove</a></iframe>
 
 #### Edward Hitchcock, *[Geological Map of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:wd376556x)* (1832)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765576/86,131,9456,6129/2000,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765576/86,131,9456,6129/2000,/0/default.jpg" class="figure-right" >}}
 
 <iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1840432649/size=small/bgcol=ffffff/linkcol=0687f5/track=674589593/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness">The Trouble With Wilderness by Ben Cosgrove</a></iframe>
 
@@ -53,7 +53,7 @@ tags:
 
 #### Massachusetts. Department of Public Works, *[The Massachusetts Interstate Highway Program](https://collections.leventhalmap.org/search/commonwealth:p841cs038)* (1964)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sn00f572m/86,112,7492,4922/2000,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sn00f572m/86,112,7492,4922/2000,/0/default.jpg" class="figure-right" >}}
 
 <iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1840432649/size=small/bgcol=ffffff/linkcol=0687f5/track=2629595439/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness">The Trouble With Wilderness by Ben Cosgrove</a></iframe>
 
@@ -61,7 +61,7 @@ tags:
 
 #### Massachusetts. Board of Harbor Commissioners, *[Changes in the Bed of Boston Harbor from a Comparison of the Surveys of 1835-61](https://collections.leventhalmap.org/search/commonwealth:3f4633699)* (1868)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:k643f918c/85,160,5286,4560/2000,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:k643f918c/85,160,5286,4560/2000,/0/default.jpg" class="figure-right" >}}
 
 <iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1650954297/size=small/bgcol=ffffff/linkcol=0687f5/track=3815515369/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/salt">Salt by Ben Cosgrove</a></iframe>
 
