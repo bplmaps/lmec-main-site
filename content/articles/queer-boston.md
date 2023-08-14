@@ -27,7 +27,7 @@ These clubs provided essential safe havens for queer individuals and their impor
 
 Given the moral climate of the time period, Park Square was heavily scrutinized. Frederick Langone, a city council member from 1961-1971, advocated for the destruction of these institutions and surrounding bars, as he believed that “we will be better off without these incubators of homosexuality and indecency… we will uproot this cancer in one area of the city.” This hateful messaging failed to halt the community’s development, as {{<popup img-src="https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2015/05/boston-pride.jpg" target="blank">}} the first Boston Pride of 1971{{</popup>}} was held shortly after this declaration.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/streets3.png" caption="Inspired by the Stonewall riots of New York, 1969, activists and community members took to the streets in unity, starting their march at Jacques. The marchers then made their way to the Boston Police Headquarters, the Massachusetts State House, and St. Paul's Cathedral. The parade ended at the Boston Common, where the marchers then commemorated Stonewall. " >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/streets3.png" caption="" >}}
 
 > Inspired by the Stonewall riots of New York, 1969, activists and community members took to the streets in unity, starting their march at Jacques. The marchers then made their way to the Boston Police Headquarters, the Massachusetts State House, and St. Paul's Cathedral. The parade ended at the Boston Common, where the marchers then commemorated Stonewall. 
 
