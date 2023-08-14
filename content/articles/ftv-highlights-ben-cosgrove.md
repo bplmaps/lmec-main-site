@@ -33,15 +33,15 @@ tags:
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c32m/87,202,7046,4841/2000,/0/default.jpg" >}}
 
-<iframe style="border: 0; width: 620px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=121764284/size=small/bgcol=ffffff/linkcol=0687f5/track=3644516220/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/bearings">Bearings by Ben Cosgrove</a></iframe>
+<iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=121764284/size=small/bgcol=ffffff/linkcol=0687f5/track=3644516220/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/bearings">Bearings by Ben Cosgrove</a></iframe>
 
 #### Edward Hitchcock, *[Geological Map of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:wd376556x)* (1832)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765576/86,131,9456,6129/2000,/0/default.jpg" >}}
 
-<iframe style="border: 0; width: 2000px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1840432649/size=small/bgcol=ffffff/linkcol=0687f5/track=674589593/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness">The Trouble With Wilderness by Ben Cosgrove</a></iframe>
+<iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1840432649/size=small/bgcol=ffffff/linkcol=0687f5/track=674589593/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness">The Trouble With Wilderness by Ben Cosgrove</a></iframe>
 
-<iframe style="border: 0; width: 2000px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=177790730/size=small/bgcol=ffffff/linkcol=0687f5/track=4293525399/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/solo-piano-live">Solo Piano (live) by Ben Cosgrove</a></iframe>
+<iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=177790730/size=small/bgcol=ffffff/linkcol=0687f5/track=4293525399/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/solo-piano-live">Solo Piano (live) by Ben Cosgrove</a></iframe>
 
 #### Massachusetts. Department of Public Works, *[The Massachusetts Interstate Highway Program](https://collections.leventhalmap.org/search/commonwealth:p841cs038)* (1964)
 
@@ -49,7 +49,7 @@ tags:
 
 <iframe style="border: 0; width: 2000px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1840432649/size=small/bgcol=ffffff/linkcol=0687f5/track=2629595439/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness">The Trouble With Wilderness by Ben Cosgrove</a></iframe>
 
-<iframe style="border: 0; width: 600px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1840432649/size=small/bgcol=ffffff/linkcol=0687f5/track=1310365093/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness">The Trouble With Wilderness by Ben Cosgrove</a></iframe>
+<iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1840432649/size=small/bgcol=ffffff/linkcol=0687f5/track=1310365093/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness">The Trouble With Wilderness by Ben Cosgrove</a></iframe>
 
 #### Massachusetts. Board of Harbor Commissioners, Changes in the bed of Boston Harbor from a comparison of the surveys of 1835-61 (1868)
 
