@@ -19,8 +19,6 @@ tags:
 
 #### *[Rand McNally Official 1920 Auto Trails Map: District Number 6: New England, Eastern New York](https://collections.leventhalmap.org/search/commonwealth:cj82kx356)* (1920)
 
-<iframe style="border: 0; width: 400px; height: 520px;" src="https://bandcamp.com/EmbeddedPlayer/album=3883345224/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1441885200/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/yankee-division">Yankee Division by Ben Cosgrove</a></iframe>
-
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx36g/207,206,6668,8616/,1000/0/default.jpg" class="figure-right" >}}
 
 #### *[A Plan of the Salt Marsh and Upland in Roxbury, Lying the East Side of the Mill Creek](https://collections.leventhalmap.org/search/commonwealth:js956j178)* (1852)
@@ -29,15 +27,11 @@ tags:
 
 #### *[Map of Hawaii](https://collections.leventhalmap.org/search/commonwealth:cr56r708p)* (1901)
 
-<iframe style="border: 0; width: 400px; height: 520px;" src="https://bandcamp.com/EmbeddedPlayer/album=121764284/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=128960474/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/bearings">Bearings by Ben Cosgrove</a></iframe>
-
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sf26cb87j/158,252,2586,2975/2000,/0/default.jpg" class="figure-right" >}}
 
 #### *[Trade wind chart of the Atlantic Ocean](https://collections.leventhalmap.org/search/commonwealth:ht250c31b)* (1851)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c32m/87,202,7046,4841/2000,/0/default.jpg" class="figure-right" >}}
-
-<iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=121764284/size=small/bgcol=ffffff/linkcol=0687f5/track=3644516220/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/bearings">Bearings by Ben Cosgrove</a></iframe>
 
 #### *[Geological Map of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:wd376556x)* (1832)
 
