@@ -23,7 +23,9 @@ tags:
 
 <iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3883345224/size=small/bgcol=ffffff/linkcol=0687f5/track=1441885200/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/yankee-division">Yankee Division by Ben Cosgrove</a></iframe>
 
-#### Simon Greenleaf, Joel Giles, Ezra Lincoln, A Plan of the Salt Marsh and Upland in Roxbury, Lying the East Side of the Mill Creek (1852)
+#### Simon Greenleaf, Joel Giles, Ezra Lincoln,* [A Plan of the Salt Marsh and Upland in Roxbury, Lying the East Side of the Mill Creek](https://collections.leventhalmap.org/search/commonwealth:js956j178) *(1852)
+
+{{< figure >}}
 
 "Salt" and "Let," from [Salt](https://bencosgrove.bandcamp.com/album/salt) (2017)
 
