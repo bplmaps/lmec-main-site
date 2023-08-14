@@ -33,7 +33,7 @@ tags:
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c32m/87,202,7046,4841/2000,/0/default.jpg" >}}
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=121764284/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/bearings">Bearings by Ben Cosgrove</a></iframe>
+<iframe style="border: 0; width: 620px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=121764284/size=small/bgcol=ffffff/linkcol=0687f5/track=3644516220/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/bearings">Bearings by Ben Cosgrove</a></iframe>
 
 #### Edward Hitchcock, *[Geological Map of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:wd376556x)* (1832)
 
