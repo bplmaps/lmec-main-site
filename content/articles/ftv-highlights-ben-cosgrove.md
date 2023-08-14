@@ -19,7 +19,7 @@ tags:
 
 #### *[Rand McNally Official 1920 Auto Trails Map: District Number 6: New England, Eastern New York](https://collections.leventhalmap.org/search/commonwealth:cj82kx356)* (1920)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx36g/207,206,6668,8616/,1000/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx36g/207,206,6668,8616/,1000/0/default.jpg" class="" caption="&#x22;When You Are a Road,&#x22; from Yankee Division (2011)" >}}
 
 #### *[A Plan of the Salt Marsh and Upland in Roxbury, Lying the East Side of the Mill Creek](https://collections.leventhalmap.org/search/commonwealth:js956j178)* (1852)
 
