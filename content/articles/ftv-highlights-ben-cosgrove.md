@@ -31,7 +31,7 @@ tags:
 
 #### E. J. Dehaven, Matthew Fontaine Maury, and United States Hydrographic Office, *[Trade wind chart of the Atlantic Ocean](https://collections.leventhalmap.org/search/commonwealth:ht250c31b)* (1851)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c32m/full/2000,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c32m/87,202,7046,4841/2000,/0/default.jpg" >}}
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=121764284/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/bearings">Bearings by Ben Cosgrove</a></iframe>
 
@@ -41,7 +41,7 @@ tags:
 
 "Abilene," from [Field Studies](https://bencosgrove.bandcamp.com/album/field-studies) (2014) and "Prairie Fire," from [Yankee Division](https://bencosgrove.bandcamp.com/album/yankee-division) (2011)
 
-#### Edward Hitchcock, Geological Map of Massachusetts (1832)
+#### Edward Hitchcock, *[Geological Map of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:wd376556x)* (1832)
 
 "Hadley," from [The Trouble With Wilderness](https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness) (2021) and "Nashua," from [Solo Piano](https://bencosgrove.bandcamp.com/album/solo-piano-live) (2015)
 
