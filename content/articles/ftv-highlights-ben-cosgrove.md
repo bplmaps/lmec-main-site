@@ -25,7 +25,7 @@ tags:
 
 #### Simon Greenleaf, Joel Giles, Ezra Lincoln,* [A Plan of the Salt Marsh and Upland in Roxbury, Lying the East Side of the Mill Creek](https://collections.leventhalmap.org/search/commonwealth:js956j178) *(1852)
 
-{{< figure >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j18j/full/,2000/0/default.jpg" >}}
 
 "Salt" and "Let," from [Salt](https://bencosgrove.bandcamp.com/album/salt) (2017)
 
