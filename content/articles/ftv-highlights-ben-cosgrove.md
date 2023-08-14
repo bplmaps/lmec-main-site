@@ -19,6 +19,8 @@ tags:
 
 #### Rand McNally and Company, Rand McNally Official 1920 Auto Trails Map: District Number 6: New England, Eastern New York (1920)
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx36g/full/,2000/0/default.jpg" >}}
+
 "When You Are a Road," from [Yankee Division](https://bencosgrove.bandcamp.com/album/yankee-division) (2011)
 
 #### Simon Greenleaf, Joel Giles, Ezra Lincoln, A Plan of the Salt Marsh and Upland in Roxbury, Lying the East Side of the Mill Creek (1852)
