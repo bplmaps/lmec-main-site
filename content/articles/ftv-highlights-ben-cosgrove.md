@@ -15,13 +15,13 @@ tags:
   - from the vault
 ---
 
-> On August 11, traveling composer-performer **Ben Cosgrove** performed live as part of the Boston Public Library’s [Concerts in the Courtyard](https://bpl.bibliocommons.com/events/64591a53ea132336001b43f6) Series. We were thrilled to host Ben following the performance to talk through a handful of objects from our collections that relate to his work and themes of landscape, geography, and place. Below, you will find a selection of Ben's songs paired with maps from our collections. 
+> On August 11, traveling composer-performer **Ben Cosgrove** performed live as part of the Boston Public Library’s [Concerts in the Courtyard](https://bpl.bibliocommons.com/events/64591a53ea132336001b43f6) Series. We were thrilled to host Ben following the performance to talk through a handful of objects from our collections that relate to his work and themes of landscape, geography, and place. Below, you will find a selection of Ben's songs paired with maps from our collections.
 
 #### Rand McNally and Company, *[Rand McNally Official 1920 Auto Trails Map: District Number 6: New England, Eastern New York](https://collections.leventhalmap.org/search/commonwealth:cj82kx356)* (1920)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx36g/207,206,6668,8616/,1000/0/default.jpg" class="figure-right" >}}
-
 <iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3883345224/size=small/bgcol=ffffff/linkcol=0687f5/track=1441885200/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/yankee-division">Yankee Division by Ben Cosgrove</a></iframe>
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx36g/207,206,6668,8616/,1000/0/default.jpg" class="figure-right" >}}
 
 #### Simon Greenleaf, Joel Giles, Ezra Lincoln, *[A Plan of the Salt Marsh and Upland in Roxbury, Lying the East Side of the Mill Creek](https://collections.leventhalmap.org/search/commonwealth:js956j178)* (1852)
 
