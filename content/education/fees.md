@@ -5,6 +5,7 @@ backgroundImage: >-
 cardImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd376543v/447,1188,4692,2233/,1200/0/default.jpg
 description: Our fee structure for class visits and lessons
+menu: false
 ---
 
 ## About our fee structure
