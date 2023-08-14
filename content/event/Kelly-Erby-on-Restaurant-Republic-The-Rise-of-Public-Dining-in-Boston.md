@@ -12,6 +12,10 @@ image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/1955.4568.jp
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/1955.4568.jpg'
 ---
 
+### Event video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HGiN71s3XCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### About this event
 
 How did the rise of commercial dining deepen social fragmentation in 19th-century Boston? J﻿oin us on Monday, August 14 at 12:00PM EDT with **Dr. Kelly Erby** for a virtual talk on her book, *[Restaurant Republic: The Rise of Public Dining in Boston](https://www.upress.umn.edu/book-division/books/restaurant-republic)*.
