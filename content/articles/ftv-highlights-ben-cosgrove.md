@@ -27,40 +27,40 @@ tags:
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx36g/207,206,6668,8616/,1000/0/default.jpg" class="" caption="" >}}
 
-> Pairs with "When You Are a Road," from [Yankee Division](https://bencosgrove.bandcamp.com/album/yankee-division) (2011)
+> **Pairs with "When You Are a Road," from [Yankee Division](https://bencosgrove.bandcamp.com/album/yankee-division) (2011)**
 
 #### *[A Plan of the Salt Marsh and Upland in Roxbury, Lying the East Side of the Mill Creek](https://collections.leventhalmap.org/search/commonwealth:js956j178)* (1852)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j18j/76,101,3048,4508/,1000/0/default.jpg" class="" caption="&#x22;Salt&#x22; and &#x22;Let,&#x22; from Salt (2017)" >}}
 
-> Pairs with "Salt" and "Let," from [Salt](https://bencosgrove.bandcamp.com/album/salt) (2017)
+> **Pairs with "Salt" and "Let," from [Salt](https://bencosgrove.bandcamp.com/album/salt) (2017)**
 
 #### *[Map of Hawaii](https://collections.leventhalmap.org/search/commonwealth:cr56r708p)* (1901)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sf26cb87j/158,252,2586,2975/2000,/0/default.jpg" class="" >}}
 
-> Pairs with "Volcano," from [Bearings](https://bencosgrove.bandcamp.com/album/bearings) (2023)
+> **Pairs with "Volcano," from [Bearings](https://bencosgrove.bandcamp.com/album/bearings) (2023)**
 
 #### *[Trade wind chart of the Atlantic Ocean](https://collections.leventhalmap.org/search/commonwealth:ht250c31b)* (1851)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c32m/87,202,7046,4841/2000,/0/default.jpg" class="" >}}
 
-> Pairs with "Aerial," from [Bearings](https://bencosgrove.bandcamp.com/album/bearings) (2023)
+> **Pairs with "Aerial," from [Bearings](https://bencosgrove.bandcamp.com/album/bearings) (2023)**
 
 #### *[Geological Map of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:wd376556x)* (1832)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765576/86,131,9456,6129/2000,/0/default.jpg" class="" >}}
 
-> Pairs with "Hadley," from [The Trouble With Wilderness](https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness) (2021) and "Nashua," from [Solo Piano](https://bencosgrove.bandcamp.com/album/solo-piano-live) (2015)
+> **Pairs with "Hadley," from [The Trouble With Wilderness](https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness) (2021) and "Nashua," from [Solo Piano](https://bencosgrove.bandcamp.com/album/solo-piano-live) (2015)**
 
 #### *[The Massachusetts Interstate Highway Program](https://collections.leventhalmap.org/search/commonwealth:p841cs038)* (1964)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sn00f572m/86,112,7492,4922/2000,/0/default.jpg" class="" >}}
 
-> Pairs with "Overpass" and "Arterial #1," from [The Trouble With Wilderness](https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness) (2021)
+> **Pairs with "Overpass" and "Arterial #1," from [The Trouble With Wilderness](https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness) (2021)**
 
 #### *[Changes in the Bed of Boston Harbor from a Comparison of the Surveys of 1835-61](https://collections.leventhalmap.org/search/commonwealth:3f4633699)* (1868)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:k643f918c/85,160,5286,4560/2000,/0/default.jpg" class="figure-center" >}}
 
-> Pairs with "Glass" and "Landfall," from [Salt](https://bencosgrove.bandcamp.com/album/salt) (2017)
+> **Pairs with "Glass" and "Landfall," from [Salt](https://bencosgrove.bandcamp.com/album/salt) (2017)**
