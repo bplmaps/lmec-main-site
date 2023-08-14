@@ -31,7 +31,7 @@ tags:
 
 #### *[Trade wind chart of the Atlantic Ocean](https://collections.leventhalmap.org/search/commonwealth:ht250c31b)* (1851)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c32m/87,202,7046,4841/2000,/0/default.jpg" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c32m/87,202,7046,4841/2000,/0/default.jpg" class="" >}}
 
 #### *[Geological Map of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:wd376556x)* (1832)
 
