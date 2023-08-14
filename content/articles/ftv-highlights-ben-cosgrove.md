@@ -59,7 +59,7 @@ tags:
 
 <iframe style="border: 0; width: 700px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1840432649/size=small/bgcol=ffffff/linkcol=0687f5/track=1310365093/transparent=true/" seamless><a href="https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness">The Trouble With Wilderness by Ben Cosgrove</a></iframe>
 
-#### Massachusetts. Board of Harbor Commissioners, *Changes in the bed of Boston Harbor from a comparison of the surveys of 1835-61* (1868)
+#### Massachusetts. Board of Harbor Commissioners, *[Changes in the Bed of Boston Harbor from a Comparison of the Surveys of 1835-61](https://collections.leventhalmap.org/search/commonwealth:3f4633699)* (1868)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:k643f918c/85,160,5286,4560/2000,/0/default.jpg" >}}
 
