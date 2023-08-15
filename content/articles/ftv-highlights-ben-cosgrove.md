@@ -51,13 +51,13 @@ tags:
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765576/86,131,9456,6129/2000,/0/default.jpg" class="" >}}
 
-> **Pairs with "[Hadley](https://bencosgrove.bandcamp.com/track/hadley)," from *[The Trouble With Wilderness](https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness) (2021) and "Nashua," from [Solo Piano](https://bencosgrove.bandcamp.com/album/solo-piano-live) (2015)***
+> **Pairs with "[Hadley](https://bencosgrove.bandcamp.com/track/hadley)," from *[The Trouble With Wilderness](https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness) (2021) and "[Nashua](https://bencosgrove.bandcamp.com/track/nashua-live-solo-version)," from [Solo Piano](https://bencosgrove.bandcamp.com/album/solo-piano-live) (2015)***
 
 #### *[The Massachusetts Interstate Highway Program](https://collections.leventhalmap.org/search/commonwealth:p841cs038)* (1964)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sn00f572m/86,112,7492,4922/2000,/0/default.jpg" class="" >}}
 
-> **Pairs with "Overpass" and "Arterial #1," from *[The Trouble With Wilderness](https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness)* (2021)**
+> **Pairs with "[Overpass](https://bencosgrove.bandcamp.com/track/overpass)" and "[Arterial #1](https://bencosgrove.bandcamp.com/track/arterial-1)," from *[The Trouble With Wilderness](https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness)* (2021)**
 
 #### *[Changes in the Bed of Boston Harbor from a Comparison of the Surveys of 1835-61](https://collections.leventhalmap.org/search/commonwealth:3f4633699)* (1868)
 
