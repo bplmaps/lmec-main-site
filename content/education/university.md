@@ -30,9 +30,9 @@ The LMEC curatorial and library team welcomes university classes to visit our co
 
 To schedule a visit or session for your class, please fill out this form:
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrO33Vhxfxs0SdOH?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="400" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe data-tally-src="https://tally.so/embed/nraLoX?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="1581" frameborder="0" marginheight="0" marginwidth="0" title="Leventhal Map & Education Center University Visit Scheduling Request"></iframe><script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
-#### Cost
+#### Fees
 
 Please see our [table of education program fees](/education/fees) for information on costs. We strive to make our programs and resources available to all institutions without cost presenting a barrier. Individual reference and research services for students and educators, as well as admission to the exhibitions gallery, are always free.
 
