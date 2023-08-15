@@ -51,7 +51,7 @@ tags:
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765576/86,131,9456,6129/2000,/0/default.jpg" class="" >}}
 
-> **Pairs with "[Hadley](https://bencosgrove.bandcamp.com/track/hadley)," from *[The Trouble With Wilderness](https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness) (2021) and "[Nashua](https://bencosgrove.bandcamp.com/track/nashua-live-solo-version)," from [Solo Piano](https://bencosgrove.bandcamp.com/album/solo-piano-live) (2015)***
+> **Pairs with "[Hadley](https://bencosgrove.bandcamp.com/track/hadley)," from *[The Trouble With Wilderness](https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness) *(2021) and "[Nashua](https://bencosgrove.bandcamp.com/track/nashua-live-solo-version)," from *[Solo Piano](https://bencosgrove.bandcamp.com/album/solo-piano-live) *(2015)**
 
 #### *[The Massachusetts Interstate Highway Program](https://collections.leventhalmap.org/search/commonwealth:p841cs038)* (1964)
 
