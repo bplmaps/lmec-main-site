@@ -63,4 +63,4 @@ tags:
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:k643f918c/85,160,5286,4560/2000,/0/default.jpg" class="figure-center" >}}
 
-> **Pairs with "Glass" and "Landfall," from *[Salt](https://bencosgrove.bandcamp.com/album/salt)* (2017)**
+> **Pairs with "[Glass](https://bencosgrove.bandcamp.com/track/glass)" and "[Let](https://bencosgrove.bandcamp.com/track/let)," from *[Salt](https://bencosgrove.bandcamp.com/album/salt)* (2017)**
