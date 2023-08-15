@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Highlights from From The Vault with Ben Cosgrove
+title: 'Maps & Music: Highlights from From The Vault with Ben Cosgrove'
 date: 2023-08-14T18:00:00.000Z
 author: LMEC Staff
 description: >+
@@ -31,7 +31,7 @@ tags:
 
 #### *[A Plan of the Salt Marsh and Upland in Roxbury, Lying the East Side of the Mill Creek](https://collections.leventhalmap.org/search/commonwealth:js956j178)* (1852)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j18j/76,101,3048,4508/,1000/0/default.jpg" class="" caption="&#x22;Salt&#x22; and &#x22;Let,&#x22; from Salt (2017)" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j18j/76,101,3048,4508/,1000/0/default.jpg" class="" caption="" >}}
 
 > **Pairs with "Salt" and "Let," from *[Salt](https://bencosgrove.bandcamp.com/album/salt)* (2017)**
 
@@ -45,13 +45,13 @@ tags:
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c32m/87,202,7046,4841/2000,/0/default.jpg" class="" >}}
 
-> **Pairs with "Aerial," from *[Bearings](https://bencosgrove.bandcamp.com/album/bearings) *(2023)**
+> **Pairs with "Aerial," from *[Bearings](https://bencosgrove.bandcamp.com/album/bearings) (2023)***
 
 #### *[Geological Map of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:wd376556x)* (1832)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765576/86,131,9456,6129/2000,/0/default.jpg" class="" >}}
 
-> **Pairs with "Hadley," from *[The Trouble With Wilderness](https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness) *(2021) and "Nashua," from *[Solo Piano](https://bencosgrove.bandcamp.com/album/solo-piano-live)* (2015)**
+> **Pairs with "Hadley," from *[The Trouble With Wilderness](https://bencosgrove.bandcamp.com/album/the-trouble-with-wilderness) (2021) and "Nashua," from [Solo Piano](https://bencosgrove.bandcamp.com/album/solo-piano-live) (2015)***
 
 #### *[The Massachusetts Interstate Highway Program](https://collections.leventhalmap.org/search/commonwealth:p841cs038)* (1964)
 
