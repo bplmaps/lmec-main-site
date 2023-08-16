@@ -28,10 +28,6 @@ Care for a canoe ride? This 1935 map details 164 rivers and streams across New E
 
 In 1902, the Hudson, Pelham & Salem Railways (HP\&S) opened Canobie Lake Park as a pleasure resort to generate more business for its new trolley line to Salem. In its early years, the park was known for its flower gardens, promenades and gentle attractions like canoeing, sporting events, the Circle Swing, picnics, and the Penny Arcade. In the 1920s, however, trolley ridership declined significantly, the Salem line was forced to close in 1929, and the park went out of business soon after. It didn’t stay closed for long, though! The park reopened in 1932 with new attractions and modern electricity. Today, Canobie Lake Park has over 85 rides, games, and attractions.
 
-#### Boston Redevelopment Authority, *Library districts in Boston* (1973)
-
-Can you find your branch library on this recently-digitized 1973 map of library districts? Circles are used to indicate branch services, while a triangle is used to indicate the Central Library in Copley Square.
-
 #### Jaro Hess, *[The land of make believe](https://collections.leventhalmap.org/search/commonwealth:xs55qj04r)* (1935)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g445gm638/full/1200,/0/default.jpg" >}}
