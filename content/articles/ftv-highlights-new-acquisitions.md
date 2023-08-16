@@ -28,9 +28,9 @@ Care for a canoe ride? This 1935 map details 164 rivers and streams across New E
 
 In 1902, the Hudson, Pelham & Salem Railways (HP\&S) opened Canobie Lake Park as a pleasure resort to generate more business for its new trolley line to Salem. In its early years, the park was known for its flower gardens, promenades and gentle attractions like canoeing, sporting events, the Circle Swing, picnics, and the Penny Arcade. In the 1920s, however, trolley ridership declined significantly, the Salem line was forced to close in 1929, and the park went out of business soon after. It didn’t stay closed for long, though! The park reopened in 1932 with new attractions and modern electricity. Today, Canobie Lake Park has over 85 rides, games, and attractions.
 
-#### Jaro Hess, *The land of make believe* (1935)
+#### Jaro Hess, *[The land of make believe](https://collections.leventhalmap.org/search/commonwealth:xs55qj04r)* (1935)
 
-{{< figure >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g445gm638/full/1200,/0/default.jpg" >}}
 
 Where would you choose to visit in the Land of Make Believe? This fantasy map takes inspiration from over 60 nursery rhymes, fairytales and children’s stories. We see familiar figures like the cow jumping over the moon, Jack climbing the Bean Stalk, the Emerald City of Oz, the house that belongs to Grandfather Know-All, Hansel and Gretel and the Gingerbread House, to name just a few.
 
