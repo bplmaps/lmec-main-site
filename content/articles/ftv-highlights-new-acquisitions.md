@@ -32,16 +32,14 @@ In 1902, the Hudson, Pelham & Salem Railways (HP\&S) opened Canobie Lake Park as
 
 Can you find your branch library on this recently-digitized 1973 map of library districts? Circles are used to indicate branch services, while a triangle is used to indicate the Central Library in Copley Square.
 
-#### Jaro Hess, *The land of make believe* (1935)
+#### Jaro Hess, *[The land of make believe](https://collections.leventhalmap.org/search/commonwealth:xs55qj04r)* (1935)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g445gm638/full/1200,/0/default.jpg" >}}
 
 Where would you choose to visit in the Land of Make Believe? This fantasy map takes inspiration from over 60 nursery rhymes, fairytales and children’s stories. We see familiar figures like the cow jumping over the moon, Jack climbing the Bean Stalk, the Emerald City of Oz, the house that belongs to Grandfather Know-All, Hansel and Gretel and the Gingerbread House, to name just a few.
 
-#### W. Scott-Eliott, *Lemuria at its greatest extent* (1904) and *Lemuria at a later period* (1904)
-
-Have you heard about the lost continent of Lemuria? In the mid-1800s, a handful of scientists theorized about a lost landmass that once stretched across the southern Indian Ocean. Shaped like a triangle, Lemuria was said to have touched India’s southern point, southern Africa, and western Australia, and was home to enormous “Lemurians” with four legs.
-
 #### Louisville and Nashville Railroad Company, *The Gulf Coast* (1925)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:c821kr75t/full/1200,/0/default.jpg" >}}
 
 This long map of the Gulf Coast promotes the “historical” and “romantic” route from New Orleans, Louisiana to Mobile, Alabama to Pensacola, Florida via the Louisville and Nashville Railroad. It includes a chart of hotel and boarding house locations, as well as their rates per day and per week.
