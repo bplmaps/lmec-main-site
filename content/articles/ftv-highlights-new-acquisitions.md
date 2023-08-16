@@ -22,7 +22,7 @@ tags:
 
 Care for a canoe ride? This 1935 map details 164 rivers and streams across New England and ranks each on a scale from smooth to rapid. (Boston’s Charles River is deemed "wholly smooth" and "pleasant.”) The first ever published guide to New England whitewater, it includes sections on history, gear, technique, river descriptions and was considered “the bible for New England boaters” for over thirty years.
 
-#### Walker Lith. & Pub. Co. and Massachusetts Northeastern Street Railway Company, *Canobie Lake Park, Salem N.H.* (1912)
+#### Walker Lith. & Pub. Co. and Massachusetts Northeastern Street Railway Company, *[Canobie Lake Park, Salem N.H.](https://collections.leventhalmap.org/search/commonwealth:x633j682j)* (1912)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5d86s675x/full/1200,/0/default.jpg" >}}
 
@@ -33,6 +33,8 @@ In 1902, the Hudson, Pelham & Salem Railways (HP\&S) opened Canobie Lake Park as
 Can you find your branch library on this recently-digitized 1973 map of library districts? Circles are used to indicate branch services, while a triangle is used to indicate the Central Library in Copley Square.
 
 #### Jaro Hess, *The land of make believe* (1935)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g445gm638/full/1200,/0/default.jpg" >}}
 
 Where would you choose to visit in the Land of Make Believe? This fantasy map takes inspiration from over 60 nursery rhymes, fairytales and children’s stories. We see familiar figures like the cow jumping over the moon, Jack climbing the Bean Stalk, the Emerald City of Oz, the house that belongs to Grandfather Know-All, Hansel and Gretel and the Gingerbread House, to name just a few.
 
