@@ -35,24 +35,3 @@ How do Bostonians get from here to there in a city full of trains, trolleys, fer
 **Taylor Dolven** is a reporter at the Boston Globe mostly focused on the safety and reliability crises at the MBTA. She has broken news stories about the FTA's safety investigation of the T, the Orange Line shutdown, and the new general manager. She often writes about how the MBTA's failures are impacting the daily lives of people in Greater Boston, who are increasingly losing out on wages and opting for cars over transit as service continues to deteriorate. Before joining the Globe in September 2021, Taylor covered the tourism industry on the business desk at the Miami Herald.
 
 **Garrett Dash Nelson** is the President and Head Curator at the Leventhal Map & Education Center. He is a historical geographer whose work focuses on the relationship between community structure, geographic units, and political ideology. He holds an AB from Harvard College in Social Studies and Visual & Environmental Studies, an MA from the University of Nottingham in Landscape & Culture, and a PhD from the University of Wisconsin-Madison in Geography.
-
-<div id="eventbrite-widget-container-699817812917"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '699817812917',
-        iframeContainerId: 'eventbrite-widget-container-699817812917',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
