@@ -16,9 +16,9 @@ tags:
 
 > On August 4, we hosted From The Vault: New Acquisitions! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at a handful of new additions to our digital collections!
 
-#### Erwin Raisz, *A canoeist's guide to New England's rivers* (1935)
+#### Erwin Raisz, *[A canoeist's guide to New England's rivers](https://collections.leventhalmap.org/search/commonwealth:ht250q00d)* (1935)
 
-{{< figure >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:nk325m28p/full/,1200/0/default.jpg" class="figure-right" >}}
 
 Care for a canoe ride? This 1935 map details 164 rivers and streams across New England and ranks each on a scale from smooth to rapid. (Boston’s Charles River is deemed "wholly smooth" and "pleasant.”)The first ever published guide to New England whitewater, it includes sections on history, gear, technique, river descriptions and was considered “the bible for New England boaters” for over thirty years.
 
