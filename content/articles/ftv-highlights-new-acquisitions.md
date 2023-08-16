@@ -34,9 +34,9 @@ In 1902, the Hudson, Pelham & Salem Railways (HP\&S) opened Canobie Lake Park as
 
 Where would you choose to visit in the Land of Make Believe? This fantasy map takes inspiration from over 60 nursery rhymes, fairytales and children’s stories. We see familiar figures like the cow jumping over the moon, Jack climbing the Bean Stalk, the Emerald City of Oz, the house that belongs to Grandfather Know-All, Hansel and Gretel and the Gingerbread House, to name just a few.
 
-#### W. Scott-Eliott, *Lemuria at its greatest extent* (1904) 
+#### W. Scott-Eliott, *[Lemuria at its greatest extent](https://collections.leventhalmap.org/search/commonwealth:cz30sz81k)* (1904) 
 
-{{< figure >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:s4658p68j/full/1200,/0/default.jpg" >}}
 
 Have you heard about the lost continent of Lemuria? In the mid-1800s, a handful of scientists theorized about a lost landmass that once stretched across the southern Indian Ocean. Shaped like a triangle, Lemuria was said to have touched India’s southern point, southern Africa, and western Australia, and was home to enormous “Lemurians” with four legs.
 
