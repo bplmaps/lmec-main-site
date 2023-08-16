@@ -40,7 +40,7 @@ Where would you choose to visit in the Land of Make Believe? This fantasy map ta
 
 Have you heard about the lost continent of Lemuria? In the mid-1800s, a handful of scientists theorized about a lost landmass that once stretched across the southern Indian Ocean. Shaped like a triangle, Lemuria was said to have touched India’s southern point, southern Africa, and western Australia, and was home to enormous “Lemurians” with four legs.
 
-#### Louisville and Nashville Railroad Company, *The Gulf Coast* (1925)
+#### Louisville and Nashville Railroad Company, *[The Gulf Coast](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:c821kr75t/full/1200,/0/default.jpg)* (1925)
 
 {{< figure >}}
 
