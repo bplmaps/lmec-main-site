@@ -20,7 +20,7 @@ tags:
 
 ### About this event
 
-Join us for a curatorial introduction to our new exhibition, *[Getting Around Town: Four Centuries of Mapping Boston in Transit](https://www.leventhalmap.org/about/press-releases/getting-around-town-opens-fall-2023/)*, featuring a roundtable talk, Q+A session, and opportunity to explore the material on display. 
+Join us for a curatorial introduction to our new exhibition, *[Getting Around Town: Four Centuries of Mapping Boston in Transit](https://www.leventhalmap.org/about/press-releases/getting-around-town-opens-fall-2023/)*, featuring a roundtable on transit in Boston, a Q+A session, and an opportunity to explore the material on display. 
 
 This program is free and open to all members of the public. Registration on Eventbrite is required.
 
