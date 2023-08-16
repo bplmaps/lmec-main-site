@@ -28,7 +28,11 @@ Care for a canoe ride? This 1935 map details 164 rivers and streams across New E
 
 In 1902, the Hudson, Pelham & Salem Railways (HP\&S) opened Canobie Lake Park as a pleasure resort to generate more business for its new trolley line to Salem. In its early years, the park was known for its flower gardens, promenades and gentle attractions like canoeing, sporting events, the Circle Swing, picnics, and the Penny Arcade. In the 1920s, however, trolley ridership declined significantly, the Salem line was forced to close in 1929, and the park went out of business soon after. It didn’t stay closed for long, though! The park reopened in 1932 with new attractions and modern electricity. Today, Canobie Lake Park has over 85 rides, games, and attractions.
 
+#### W. Scott-Eliott, [Lemuria at its greatest extent](https://collections.leventhalmap.org/search/commonwealth:cz30sz81k) (1904)
+
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:s4658p68j/full/1200,/0/default.jpg" >}}
+
+Have you heard about the lost continent of Lemuria? In the mid-1800s, a handful of scientists theorized about a lost landmass that once stretched across the southern Indian Ocean. Shaped like a triangle, Lemuria was said to have [touched India’s southern point, southern Africa, and western Australia](https://allthatsinteresting.com/lemuria-continent), and was home to enormous “Lemurians” with four legs. 
 
 #### Jaro Hess, *[The land of make believe](https://collections.leventhalmap.org/search/commonwealth:xs55qj04r)* (1935)
 
