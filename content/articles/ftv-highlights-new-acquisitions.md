@@ -18,7 +18,7 @@ tags:
 
 #### Erwin Raisz, *[A canoeist's guide to New England's rivers](https://collections.leventhalmap.org/search/commonwealth:ht250q00d)* (1935)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:nk325m28p/full/,1200/0/default.jpg" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:nk325m28p/full/,1200/0/default.jpg" class="figure-left" >}}
 
 Care for a canoe ride? This 1935 map details 164 rivers and streams across New England and ranks each on a scale from smooth to rapid. (Boston’s Charles River is deemed "wholly smooth" and "pleasant.”) The first ever published guide to New England whitewater, it includes sections on history, gear, technique, river descriptions and was considered “the bible for New England boaters” for over thirty years.
 
