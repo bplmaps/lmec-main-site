@@ -38,7 +38,7 @@ Can you find your branch library on this recently-digitized 1973 map of library 
 
 Where would you choose to visit in the Land of Make Believe? This fantasy map takes inspiration from over 60 nursery rhymes, fairytales and children’s stories. We see familiar figures like the cow jumping over the moon, Jack climbing the Bean Stalk, the Emerald City of Oz, the house that belongs to Grandfather Know-All, Hansel and Gretel and the Gingerbread House, to name just a few.
 
-#### Louisville and Nashville Railroad Company, *The Gulf Coast* (1925)
+#### Louisville and Nashville Railroad Company, *[The Gulf Coast](https://collections.leventhalmap.org/search/commonwealth:9c680s29h)* (1925)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:c821kr75t/full/1200,/0/default.jpg" >}}
 
