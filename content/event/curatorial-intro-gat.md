@@ -20,10 +20,16 @@ tags:
 
 ### About this event
 
-Join us for a curatorial introduction to our new exhibition, [Getting Around Town: Four Centuries of Mapping Boston in Transit](https://www.leventhalmap.org/about/press-releases/getting-around-town-opens-fall-2023/). This event will feature a talk by guest curator Steven Beaucher, a Q+A session, and an opportunity to explore the material on display.
+Join us for a curatorial introduction to our new exhibition, *[Getting Around Town: Four Centuries of Mapping Boston in Transit](https://www.leventhalmap.org/about/press-releases/getting-around-town-opens-fall-2023/)*. This event will feature a talk by guest curator Steven Beaucher, a Q+A session, and an opportunity to explore the material on display.
+
+This program is free and open to all members of the public. Registration on Eventbrite is required.
 
 ##### About Getting Around Town
 
 How do Bostonians get from here to there in a city full of trains, trolleys, ferries, and more? Whether in the familiar colored lines of today’s MBTA map or the complicated timetables of long-vanished omnibus routes, maps have long been an indispensable instrument for getting around town. This exhibition will feature an extraordinary collection of transit maps dating from the seventeenth century to the present, and invites questions about how people have moved around the city in the past, present, and future. Public events during the exhibition will encourage visitors to engage with issues of mobility and transportation justice in the present day.
 
-This program is free and open to all members of the public. Registration on Eventbrite is required.
+#### About our speakers
+
+Steven Beaucher is the co-founder and proprietor of WardMaps LLC, dealing in antique maps and public transportation artifacts of the nineteenth and twentieth centuries. Steven established and operates MBTAgifts, the licensed merchandise program of the Massachusetts Bay Transportation Authority. Steven is a licensed architect, who, before focusing on WardMaps and the creation of Boston in Transit, practiced architecture throughout Greater Boston. He grew up in the Merrimack Valley, graduated from Syracuse University, and resides in Cambridge, Massachusetts.
+
+Taylor Dolven is a reporter at the Boston Globe mostly focused on the safety and reliability crises at the MBTA. She has broken news stories about the FTA's safety investigation of the T, the Orange Line shutdown, and the new general manager. She often writes about how the MBTA's failures are impacting the daily lives of people in Greater Boston, who are increasingly losing out on wages and opting for cars over transit as service continues to deteriorate. Before joining the Globe in September 2021, Taylor covered the tourism industry on the business desk at the Miami Herald.
