@@ -44,4 +44,4 @@ Have you heard about the lost continent of Lemuria? In the mid-1800s, a handful 
 
 This long map of the Gulf Coast promotes the “historical” and “romantic” route from New Orleans, Louisiana to Mobile, Alabama to Pensacola, Florida via the Louisville and Nashville Railroad. It includes a chart of hotel and boarding house locations, as well as their rates per day and per week.
 
-{{< figure >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:c821kr75t/full/1200,/0/default.jpg" >}}
