@@ -1,5 +1,34 @@
 {{ define "main" }}
 
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 order-1 order-lg-1">
+        <div class="row">
+          <div class="col-sm-4 mb-2"><i class="fas fa-feather me-2"></i> <a href="/author/{{.Params.author | urlize}}">{{ .Params.author }}</a></div>
+          <div class="col-sm-4 mb-2"><i class="fas fa-calendar-day me-2"></i> {{ .Date.Format "January 2, 2006" }}</div>
+
+        </div>
+
+        {{ if (gt (countwords .Content) 0) }}
+
+          <div class="row">
+            <div class="col-12 my-4 content">
+            {{ .Content }}
+          </div>
+        </div>
+
+        {{ end }}
+
+
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
 <section class="paneltruck-section">
   <iframe class="paneltruck-iframe" allowfullscreen src="https://geoservices.leventhalmap.org/panel-truck/panel-truck-wrapper/index.html#{{.Params.paneltruck.src}}">  
   </iframe>
