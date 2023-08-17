@@ -126,8 +126,25 @@
 {{ if site.Params.emailPopup }}
 {{ if not .Params.suppressEmailPopup }}
 
-<script async src="https://eomail5.com/form/1a74691e-40a4-11ec-96e5-06b4694bee2a.js"
-  data-form="1a74691e-40a4-11ec-96e5-06b4694bee2a"></script>
+<script async src="https://tally.so/widgets/embed.js"></script>
+
+<script>
+window.TallyConfig = {
+  "formId": "wgdZGJ",
+  "popup": {
+    "emoji": {
+      "text": "🗺️",
+      "animation": "wave"
+    },
+    "autoClose": 3000,
+    "open": {
+      "trigger": "time",
+      "ms": 5000
+    },
+    "showOnce": true
+  }
+};
+</script>
 
 {{ end }}
 {{ end }}
