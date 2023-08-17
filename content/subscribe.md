@@ -8,10 +8,9 @@ type: singleton
 ---
 <div class="container">
 <div class="row">
-{{<EO-form>}}<script async src="https://eomail5.com/form/0429e168-40a3-11ec-96e5-06b4694bee2a.js" data-form="0429e168-40a3-11ec-96e5-06b4694bee2a"></script>{{</EO-form>}}
 
-{{<EO-form>}}<script async src="https://eomail5.com/form/b1812a5d-40a3-11ec-96e5-06b4694bee2a.js" data-form="b1812a5d-40a3-11ec-96e5-06b4694bee2a"></script>{{</EO-form>}}
 
-{{<EO-form>}}<script async src="https://eocampaign1.com/form/e1b7ff4d-edb1-11ec-9258-0241b9615763.js" data-form="e1b7ff4d-edb1-11ec-9258-0241b9615763"></script>{{</EO-form>}}
+<iframe data-tally-src="https://tally.so/embed/wgdZGJ?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="539" frameborder="0" marginheight="0" marginwidth="0" title="Get maps in your mailbox"></iframe><script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+
 </div>
 </div>
