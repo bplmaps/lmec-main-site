@@ -15,7 +15,7 @@ tags:
 
 ### About this event
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tq57r792q/913,72,6304,4585/2000,/0/default.jpg" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tq57r792q/913,72,6304,4585/2000,/0/default.jpg" class="figure-right" caption="*A mid-twentieth century map of Paris and the subway system.*" >}}
 
 Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of *From The Vault*, we’ll take a look at objects from our collections that map transit systems around the world.
 
