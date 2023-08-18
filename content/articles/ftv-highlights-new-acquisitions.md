@@ -26,7 +26,13 @@ Care for a canoe ride? This 1935 map details 164 rivers and streams across New E
 
 In 1902, the Hudson, Pelham & Salem Railways (HP\&S) opened Canobie Lake Park as a pleasure resort to generate more business for its new trolley line to Salem. In its early years, the park was known for its flower gardens, promenades and gentle attractions like canoeing, sporting events, the Circle Swing, picnics, and the Penny Arcade. In the 1920s, however, trolley ridership declined significantly, the Salem line was forced to close in 1929, and the park went out of business soon after. It didn’t stay closed for long, though! The park reopened in 1932 with new attractions and modern electricity. Today, Canobie Lake Park has over 85 rides, games, and attractions.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5d86s675x/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5d86s675x/full/1200,/0/default.jpg" caption="" >}}
+
+#### Hatsusaburō Yoshida, [叡山頂上一目八方鳥瞰圖](https://collections.leventhalmap.org/search/commonwealth:hm50xz79w) (1926)
+
+This map depicts a 360-degree view from the summit of Mount Hiei in Japan, showing mountains, lakes, train lines, and cities with additional indications for temples, castles, and other points of interest.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sn00f571b/full/2000,/0/default.jpg" >}}
 
 #### Jaro Hess, *[The land of make believe](https://collections.leventhalmap.org/search/commonwealth:xs55qj04r)* (1935)
 
@@ -34,7 +40,7 @@ Where would you choose to visit in the Land of Make Believe? This fantasy map ta
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g445gm638/full/1200,/0/default.jpg" >}}
 
-#### W. Scott-Eliott, *[Lemuria at its greatest extent](https://collections.leventhalmap.org/search/commonwealth:cz30sz81k)* (1904) 
+#### W. Scott-Eliott, *[Lemuria at its greatest extent](https://collections.leventhalmap.org/search/commonwealth:cz30sz81k)* (1904)
 
 Have you heard about the lost continent of Lemuria? In the mid-1800s, a handful of scientists theorized about a lost landmass that once stretched across the southern Indian Ocean. Shaped like a triangle, Lemuria was said to have touched India’s southern point, southern Africa, and western Australia, and was home to enormous “Lemurians” with four legs.
 
