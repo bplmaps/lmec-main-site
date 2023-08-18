@@ -16,4 +16,4 @@ weight: "3"
 * [Negotiating the Shoreline](/articles/humphries-boston-harbor/) by Courtney Humphries (2021)
 * [Cartographies of "improvement"](/articles/mccann-east-boston/) by Tess D. McCann (2021)
 * [Design Experiments with Urban Atlases](/articles/woodruff-map-interactive/) by Andy Woodruff (2023)
-* [John Winthrop's "City on a Hill," Mapped](/articles/braccio-winthrop-map/) by Nathan Braccio
+* [John Winthrop's "City on a Hill," Mapped](/articles/braccio-winthrop-map/) by Nathan Braccio (2023)
