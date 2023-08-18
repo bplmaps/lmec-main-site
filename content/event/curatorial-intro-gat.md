@@ -1,10 +1,10 @@
 ---
-draft: true
+draft: false
 title: >-
   Curatorial Introduction to Getting Around Town: Four Centuries of Mapping
   Boston in Transit
 date: 2023-09-19T21:30:00.000Z
-publishDate: 2023-07-14T04:00:00.000Z
+publishDate: 2023-08-18T18:00:00.000Z
 image: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/GAT Coming Soon -
   Gallery Sign.png
@@ -16,13 +16,15 @@ fee: Free
 tags:
   - getting around town
   - exhibition
+registration: >-
+  https://www.eventbrite.com/e/curatorial-introduction-to-getting-around-town-tickets-699817812917?aff=oddtdtcreator
 ---
 
 ### About this event
 
 Join us for a curatorial introduction to our new exhibition, ***[Getting Around Town: Four Centuries of Mapping Boston in Transit](https://www.leventhalmap.org/about/press-releases/getting-around-town-opens-fall-2023/)***, featuring a roundtable talk on transit in Boston, a Q+A session, and an opportunity to explore the material on display.
 
-*This program is free and open to members of the public. It will be held in person in the [Newsfeed Café](https://www.newsfeedcafe.com/). Registration is required for refreshments and gallery tours. Please register online to RSVP. The reception will begin at 5:30 pm and the speaking program will begin at 6:00 pm with small group gallery tours to follow.*
+*This program is free and open to members of the public. It will be held in person in the [Newsfeed Café](https://www.newsfeedcafe.com/). Registration is required for refreshments and gallery tours. [Please register online to RSVP](https://www.eventbrite.com/e/curatorial-introduction-to-getting-around-town-tickets-699817812917?aff=oddtdtcreator). The reception will begin at 5:30 pm and the speaking program will begin at 6:00 pm with small group gallery tours to follow.*
 
 ##### About *Getting Around Town*
 
