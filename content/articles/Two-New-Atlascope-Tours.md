@@ -16,7 +16,7 @@ The Leventhal Center has an extraordinary collection of [urban atlases](https:/
 
 Earlier this year, we released an upgraded version of the Atlascope tool with new features to empower storytelling, annotation, and discovery, as well as connections into other Massachusetts digital collections...
 
-> note about seevak fellows
+> add a note about seevak fellows
 
 #### Profit at a Cost: The Untold History of Massachusetts' Rubber Industry
 
