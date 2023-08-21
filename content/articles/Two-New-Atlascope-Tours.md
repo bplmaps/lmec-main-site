@@ -11,4 +11,6 @@ tags:
   - atlascope
 ---
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-21 at 2.41.22 PM.png" >}}
+
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-21 at 2.42.05 PM.png" >}}
