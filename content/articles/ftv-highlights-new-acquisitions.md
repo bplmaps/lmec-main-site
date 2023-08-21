@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Highlights from From The Vault: New Acquisitions'
 date: 2023-08-21T04:00:00.000Z
 author: Megan Nally
