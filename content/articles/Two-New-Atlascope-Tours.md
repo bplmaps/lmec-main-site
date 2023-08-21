@@ -16,17 +16,18 @@ The Leventhal Center has an extraordinary collection of [urban atlases](https:/
 
 Earlier this year, we released an upgraded version of the Atlascope tool with new features to empower storytelling, annotation, and discovery, as well as connections into other Massachusetts digital collections...
 
-
-> note about seevak fellows 
+> note about seevak fellows
 
 #### Profit at a Cost: The Untold History of Massachusetts' Rubber Industry
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-21 at 2.42.05 PM.png" >}}
 
-In this Atlascope tour, Boston Latin student Zoe Colimon... 
+In this Atlascope tour, Boston Latin student Zoe Colimon...
 
 #### Town and Gown: The Story of Harvard University's Expansion and Its Impact
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-21 at 2.41.22 PM.png" >}}
 
-In this Atlascope tour, Boston Latin student Salman Uddin... 
+In this Atlascope tour, Boston Latin student Salman Uddin...
+
+> Interested in making your own Atlascope tour? Reach out to learn more! 
