@@ -12,22 +12,18 @@ tags:
 description: Take a tour through space and time with Atlascope
 ---
 
-The Leventhal Center has an extraordinary collection of [urban atlases](https://collections.leventhalmap.org/search?utf8=%E2%9C%93\&f%5Bcollection_name_ssim%5D%5B%5D=Urban+Maps+%28Collection+of+Distinction%29\&f%5Bsubject_facet_ssim%5D%5B%5D=Boston+%28Mass.%29--Maps\&search_field=dummy_range\&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1860\&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=1950\&commit=Apply) dating from the late 19th to early 20th centuries, one of the most important sets of documents for depicting how our city and region have changed over time. Our [Atlascope tool](https://www.atlascope.org/) has transformed 110 of these atlases into a web interface overlaying the modern map, covering historic Boston and its immediate surrounding towns. The tool has facilitated a variety of goals, including research on local history, genealogy, urban development, and fulfilling general discovery.
+The Leventhal Center has an extraordinary collection of [urban atlases](https://collections.leventhalmap.org/search?utf8=%E2%9C%93\&f%5Bcollection_name_ssim%5D%5B%5D=Urban+Maps+%28Collection+of+Distinction%29\&f%5Bsubject_facet_ssim%5D%5B%5D=Boston+%28Mass.%29--Maps\&search_field=dummy_range\&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1860\&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=1950\&commit=Apply) dating from the late 19th to early 20th centuries, one of the most important sets of documents for depicting how our city and region have changed over time. Our [Atlascope tool](https://www.atlascope.org/) has transformed 110 of these atlases into a web interface overlaying the modern map, covering historic Boston and its immediate surrounding towns. 
 
-Earlier this year, we released an upgraded version of the Atlascope tool with new features to empower storytelling, annotation, and discovery, as well as connections into other Massachusetts digital collections. T
+Earlier this year, we released an upgraded version of the Atlascope tool with new features to empower storytelling, annotation, and discovery, as well as connections into other Massachusetts digital collections. 
 
-> add a note about seevak fellows
+> The two latest Atlascope tours were researched, written, and created by Boston Latin School students [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/) and [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/) over the course of their Summer 2023 Seevak Fellowship with the Leventhal Center. 
 
 #### Profit at a Cost: The Untold History of Massachusetts' Rubber Industry
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-21 at 2.42.05 PM.png" >}}
 
-In this Atlascope tour, Boston Latin student Zoe Colimon...
-
 #### Town and Gown: The Story of Harvard University's Expansion and Its Impact
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-21 at 2.41.22 PM.png" >}}
 
-In this Atlascope tour, Boston Latin student Salman Uddin...
-
-> Interested in making your own Atlascope tour? Reach out to learn more!
+> Interested in making your own Atlascope tour? [Reach out](mailto:info@leventhalmap.org) to learn more!
