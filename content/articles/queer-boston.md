@@ -5,6 +5,11 @@ date: 2023-08-21T04:00:00.000Z
 author: Zoe Colimon
 image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/playland.jpg'
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/playland.jpg'
+description: >-
+  Through a network of safe spaces, the LGBTQ+ community of twentieth-century
+  Boston forged connections and navigated adversity together. Exploring the
+  timeline of these places and spaces reveals how a true sense of community can
+  facilitate progress against all odds.
 ---
 
 > This article was written by [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/). Zoe is a student at the Boston Latin School and is spending the summer as a Seevak Fellow at the Leventhal Center working on public projects related to maps and social justice, and georeferencing atlases for [Atlascope](https://www.atlascope.org/). Alongside her drive to explore Boston’s history through a queer, racial, and artistic lens, Zoe incorporates her love of astrophysics and computer science into her work by combining critical thinking with technological skills.
@@ -13,7 +18,7 @@ On May 17, 2004, a historic turning point unfolded when the case Goodridge v. De
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/playlandfull.jpeg" class="figure-right" caption="[*Playland Cafe pictured in the 1960s*](https://www.flickr.com/photos/cityofbostonarchives/12776601015). " >}}
 
-Through a network of safe spaces, the LGBTQ+ community of twentieth-century Boston forged connections and navigated adversity together. Starting with speakeasies in the 20s and 30s, such as Crawford House at {{<popup img-src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/crawfordhouse.png" target="blank">}} 83 Court St.{{< /popup>}} and [Playland Cafe](https://www.wbur.org/news/2021/06/29/boston-lost-lgbtq-spaces-playland-georden-west) at 21 Essex St. in downtown Boston, they expanded their networks.
+Through a network of safe spaces, the LGBTQ+ community of twentieth-century Boston forged connections and navigated adversity together. Starting with speakeasies in the 20s and 30s, such as Crawford House at {{<popup img-src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/crawfordhouse.png" target="blank">}} 83 Court St.{{\< /popup>}} and [Playland Cafe](https://www.wbur.org/news/2021/06/29/boston-lost-lgbtq-spaces-playland-georden-west) at 21 Essex St. in downtown Boston, they expanded their networks.
 
 The 50s served as a transformative decade. With the Massachusetts Supreme Judicial Court ruling in favor of the existing sodomy laws in 1954 and 1959, reform surrounding ideas of same sex relations appeared bleak. Furthermore, the intensification of the Red Scare during the 40s and early 50s paved the way for the “[Lavender Scare](https://www.archives.gov/publications/prologue/2016/summer/lavender.html)” policy. The Lavender Scare was put into effect under the notion that the queer community “posed a threat to national security because they were vulnerable to blackmail and were considered to have weak moral characters,” says historian David K. Johnson. Via this policy, every government employee was subject to an unlawful security investigation without the presence of an attorney. Many were asked invasive and intimate questions about their private sexual lives.
 
