@@ -16,7 +16,7 @@ The Leventhal Center has an extraordinary collection of [urban atlases](https:/
 
 Earlier this year, we released an upgraded version of Atlascope with new features to empower storytelling, annotation, and discovery, as well as connections into other Massachusetts digital collections. 
 
-> The two latest Atlascope tours were researched, written, and created by Boston Latin School students [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/) and [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/) over the course of their Summer 2023 Seevak Fellowship with the Leventhal Center. 
+> The two latest Atlascope tours were researched, written, and created by Boston Latin School students [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/) and [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/) over the course of their Summer 2023 Seevak Fellowship with the Leventhal Center. Click each title to explore!
 
 #### Profit at a Cost: The Untold History of Massachusetts' Rubber Industry
 
