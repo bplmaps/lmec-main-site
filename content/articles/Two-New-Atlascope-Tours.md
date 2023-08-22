@@ -11,7 +11,7 @@ tags:
   - atlascope
 description: >-
   Two new Atlascope tours explore pockets of Boston history from the nineteenth
-  and twentieth centuries, and their ongoing legacies today.
+  and twentieth centuries––and their ongoing legacies today.
 ---
 
 The Leventhal Center has an extraordinary collection of [urban atlases](https://collections.leventhalmap.org/search?utf8=%E2%9C%93\&f%5Bcollection_name_ssim%5D%5B%5D=Urban+Maps+%28Collection+of+Distinction%29\&f%5Bsubject_facet_ssim%5D%5B%5D=Boston+%28Mass.%29--Maps\&search_field=dummy_range\&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1860\&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=1950\&commit=Apply) dating from the late 19th to early 20th centuries, one of the most important sets of documents for depicting how our city and region have changed over time. Our [Atlascope tool](https://www.atlascope.org/) has transformed 110 of these atlases into a web interface overlaying the modern map, covering historic Boston and its immediate surrounding towns.
