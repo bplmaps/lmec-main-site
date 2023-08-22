@@ -26,4 +26,4 @@ The two latest Atlascope tours were researched, written, and created by Boston L
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-22 at 12.43.03 PM.png" >}}
 
-> Interested in making your own Atlascope tour? [Reach out](mailto:info@leventhalmap.org) to learn more!
+> **Interested in making your own Atlascope tour? [Reach out](mailto:info@leventhalmap.org) to learn more!**
