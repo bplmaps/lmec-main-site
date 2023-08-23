@@ -13,7 +13,7 @@ backgroundImage: >-
 
 ### About this event
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-23 at 10.17.12 AM.png" class="figure-right" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/SubclassGA.png" class="figure-right" >}}
 
 Let’s get reading! We’re starting a new, thematic book club centered around geography, history, anthropology, and more. Unlike conventional book clubs where everyone reads the same book, this book club invites folks to select any book that falls within the designated theme for the month.
 
