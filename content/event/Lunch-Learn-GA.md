@@ -5,6 +5,10 @@ date: 2023-10-03T16:00:00.000Z
 publishDate: 2023-08-23T04:00:00.000Z
 location: Leventhal Map & Education Center – Learning Center
 fee: Free
+image: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:gt54m719g/54,67,3854,3049/2000,/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:gt54m719g/54,67,3854,3049/2000,/0/default.jpg
 ---
 
 ### About this event
