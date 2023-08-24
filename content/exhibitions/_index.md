@@ -30,15 +30,17 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 
 ## Rotating Exhibition
 
-### *Building Blocks: Boston Stories from Urban Atlases*
+### *Getting Around Town: Four Centuries of Mapping Boston in Transit*
 
-**January 13–August 23, 2023**
+**September 9, 2023 – April 27, 2024**
 
-<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/building-blocks/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for Building Blocks</a>
+How do Bostonians get from here to there in a city full of trains, trolleys, ferries, and more? Whether in the familiar colored lines of today’s MBTA map or the complicated timetables of long-vanished omnibus routes, maps have long been an indispensable instrument for getting around town. This exhibition will feature an extraordinary collection of transit maps dating from the seventeenth century to the present, and invites questions about how people have moved around the city in the past, present, and future. Public events during the exhibition will encourage visitors to engage with issues of mobility and transportation justice in the present day.
 
-In the period spanning the Civil War to World War II, Boston’s urban fabric experienced profound changes. *Building Blocks* travels to different areas of metropolitan Boston from the 1870s to the 1930s for an episodic view of history, illuminating the many stories that are preserved in the atlases. Beyond the stories narrated in this exhibition, the rich details of the atlases help modern viewers imagine what one’s own story in a rapidly developing city might have looked like during a moment steeped in change.
+*Guest curated by Steven Beaucher, author of [Boston in Transit](https://bpl.bibliocommons.com/v2/record/S75C8459214) and owner of [WardMaps](https://wardmapsgifts.com/).*
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257c330w/424,379,3419,2163/2000,/0/default.jpg" caption="Urban atlases, like the [1928 plate](https://collections.leventhalmap.org/search/commonwealth:1257c3294) shown here, are a collection of maps that are especially well-suited for discovering change by tracking small-scale interventions in the built environment. These atlases display property, street, utility, and building information—details which reflect their original purpose as maps for the fire insurance and real estate industries." class="figure-center" >}}
+*The exhibition is supported by a grant from the [Barr Foundation](https://www.barrfoundation.org/).*
+
+<a href="https://www.barrfoundation.org/"><img src="https://barrfdn-prod.s3.amazonaws.com/image/3394/crop_preview.jpg?1600189547" width="200px"></a>
 
 ## Permanent Exhibition
 
@@ -51,18 +53,6 @@ Maps trace out the complicated history of places, and we can use them to documen
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k46x/207,212,7710,4276/full/0/default.jpg" caption="As one of the most important centers of a newly independent nation, Boston spent the first half of the nineteenth century reimagining its urban form and building neighborhoods from scratch, as seen in this [1895 map](https://collections.leventhalmap.org/search/commonwealth:js956k45n)." class="figure-center" >}}
 
 ## Upcoming Exhibitions
-
-### *Getting Around Town: Four Centuries of Mapping Boston in Transit*
-
-**September 9, 2023 – April 27, 2024**
-
-How do Bostonians get from here to there in a city full of trains, trolleys, ferries, and more? Whether in the familiar colored lines of today’s MBTA map or the complicated timetables of long-vanished omnibus routes, maps have long been an indispensable instrument for getting around town. This exhibition will feature an extraordinary collection of transit maps dating from the seventeenth century to the present, and invites questions about how people have moved around the city in the past, present, and future. Public events during the exhibition will encourage visitors to engage with issues of mobility and transportation justice in the present day.
-
-*Guest curated by Steven Beaucher, author of [Boston in Transit](https://bpl.bibliocommons.com/v2/record/S75C8459214) and owner of [WardMaps](https://wardmapsgifts.com/).*
-
-*The exhibition is supported by a grant from the [Barr Foundation](https://www.barrfoundation.org/).*
-
-<a href="https://www.barrfoundation.org/"><img src="https://barrfdn-prod.s3.amazonaws.com/image/3394/crop_preview.jpg?1600189547" width="200px"></a>
 
 ### *Mapping Heaven and Earth: The Blue Maps of China*
 
