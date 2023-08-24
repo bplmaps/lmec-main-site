@@ -12,12 +12,6 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/BuildingBlocksGal1.jpg" >}}
 
-{{\< carousel >}} {{\< carousel-figure src="" >}} {{\< /carousel-figure >}}
-
-{{\< carousel-figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/BecomingBosGal1.jpg" >}}{{\< /carousel-figure >}}
-
-{{\< /carousel >}}
-
 <!-- ## Currently on Exhibit -->
 
 ## Rotating Exhibition
