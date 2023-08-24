@@ -57,6 +57,10 @@ slider:
 cta:
   enable: true
   announcements:
+    - badge: Gallery closure
+      text: |
+        Our exhibition gallery is closed through September 8 while we install our new exhibition _Getting Around Town: Mapping Four Centureis of Boston in Transit_, which opens September 9
+      link: 'https://www.leventhalmap.org/exhibitions'
     - badge: New and improved
       text: >-
         Our free Walk to the Sea self-guided walking tour has been relaunched
@@ -67,16 +71,6 @@ cta:
         Are there atlases of other Massachusetts towns you would like to see
         added to Atlascope?
       link: 'https://www.leventhalmap.org/donate/sponsor-an-atlas/'
-    - badge: Upcoming exhibition
-      text: |
-        "Getting Around Town" opens on September 9
-      link: >-
-        https://www.leventhalmap.org/about/press-releases/getting-around-town-opens-fall-2023/
-    - badge: Upcoming closure
-      text: >-
-        Our gallery will be closed August 24 through September 8 for exhibition
-        installation
-      link: 'https://www.leventhalmap.org/about/hours-directions/'
 audiences:
   enable: true
   audienceGroups:
@@ -147,7 +141,7 @@ audiences:
         - title: Read guides and tutorials on digital mapping
           link: 'https://geoservices.leventhalmap.org/cartinal'
 frontpageFeature:
-  enable: true
+  enable: false
   bg_image: /uploads/2022-12-29/buildings.jpeg
   title: Small-scale stories of urban change
   content: >-
@@ -174,7 +168,7 @@ funfacts:
 blog:
   enable: true
   title: Articles
-todaysHours: true
+todaysHours: false
 upcomingLivestream:
   enable: true
   embedLink: >-
