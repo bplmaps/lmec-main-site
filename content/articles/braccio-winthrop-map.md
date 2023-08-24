@@ -1,8 +1,8 @@
 ---
 title: 'John Winthrop''s "City on a Hill," Mapped'
 author: Nathan Braccio
-date: 2023-08-31T07:00:00.000Z
-draft: true
+date: 2023-08-24T15:00:00.000Z
+draft: false
 layout: paneltruck
 paneltruck:
   src: braccio-winthrop-map
