@@ -28,6 +28,8 @@ How do Bostonians get from here to there in a city full of trains, trolleys, fer
 
 <a href="https://www.barrfoundation.org/"><img src="https://barrfdn-prod.s3.amazonaws.com/image/3394/crop_preview.jpg?1600189547" width="200px"></a>
 
+{{< figure src="https://www.leventhalmap.org/mtacrop.jpeg" >}}
+
 ## Permanent Exhibition
 
 ### *Becoming Boston: Eight Moments in the Geography of a Changing City*
