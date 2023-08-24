@@ -14,16 +14,6 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 
 {{\< carousel-figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/BecomingBosGal1.jpg" >}}{{\< /carousel-figure >}}
 
-{{\< carousel-figure src="images/carousels/molic\_gallery01.jpg" >}}{{\< /carousel-figure >}}
-
-{{\< carousel-figure src="images/carousels/molic\_gallery02.jpg" >}}{{\< /carousel-figure >}}
-
-{{\< carousel-figure src="images/carousels/at\_gallery03.jpg" >}}{{\< /carousel-figure >}}
-
-{{\< carousel-figure src="images/carousels/at\_gallery09.jpg" >}}{{\< /carousel-figure >}}
-
-{{\< carousel-figure src="images/carousels/DSC\_0018s.jpg" >}}{{\< /carousel-figure >}}
-
 {{\< /carousel >}}
 
 <!-- ## Currently on Exhibit -->
