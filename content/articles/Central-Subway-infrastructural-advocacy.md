@@ -25,6 +25,10 @@ Chinatowns across America share the unfortunate narrative of destruction caused 
 
 The ramifications of infrastructural violence extend beyond physical displacement. The concept of "infrastructural stigma," as articulated by Baumann and Yacobi [(2022)](https://paperpile.com/c/JowptU/NPExF/?noauthor=1), underscores how stigma amplifies infrastructural failures and neglect in marginalized communities. However, a counter-narrative has begun to emerge---one where these communities refuse to be mere recipients of infrastructural violence. The response of marginalized communities to infrastructural challenges is evolving into a form of resistance, a reclamation of identity and a demand for inclusion in public spaces and networks [(Baumann & Yacobi, 2022)](https://paperpile.com/c/JowptU/NPExF).
 
+<aside>
+  Learn more about [infrastructural challenges and environmental justice](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/topics/paving-over-people/) in Boston's Chinatown from our 2020 exhibition _More or Less in Common_.
+</aside>
+
 In the case of San Francisco's Chinatown, its leaders have defied expectations by embracing the Central Subway as an opportunity to redefine their community's relationship with infrastructure. Unlike marginalized communities who often face the prospect of erasure through infrastructure projects, Chinatown's leaders sought instead to _advocate_ for infrastructure in order to place themselves firmly on the map. This seemingly paradoxical response necessitates a deeper exploration of the community's existing social imaginaries and how they interact with the built environment.
 
 To comprehend Chinatown's response, it is essential to consider past experiences. Close encounters with the specter of erasure and displacement have shaped the community's perspective, resulting in advocacy for infrastructural change.
