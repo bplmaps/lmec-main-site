@@ -26,11 +26,11 @@ Whether it’s a tour of the best parks in your neighborhood, tracing undergroun
 
 The following Atlascope tours were researched, written, and created by Boston Latin School students [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/) and [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/) over the course of their Summer 2023 Seevak Fellowship with the Leventhal Center working on public projects related to maps and social justice. 
 
-#### [Profit at a Cost: The Untold History of Massachusetts' Rubber Industry](https://www.atlascope.org)
+##### [Profit at a Cost: The Untold History of Massachusetts' Rubber Industry](https://www.atlascope.org)
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-21 at 2.42.05 PM.png" >}}
 
-#### [Town and Gown: The Story of Harvard University's Expansion and Its Impact](https://www.atlascope.org)
+##### [Town and Gown: The Story of Harvard University's Expansion and Its Impact](https://www.atlascope.org)
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-22 at 12.43.03 PM.png" >}}
 
