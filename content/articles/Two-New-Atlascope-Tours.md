@@ -34,7 +34,7 @@ The following Atlascope tours were researched, written, and created by Boston La
 
 ##### [Town and Gown: The Story of Harvard University's Expansion and Its Impact](https://www.atlascope.org)
 
-#####
+Harvard College has always been a part of the city of Cambridge's history. It was an influential institution ever since its founding in 1636, but its size and impact have grown and continue to grow. What does this mean for surrounding communities? 
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-22 at 12.43.03 PM.png" >}}
 
