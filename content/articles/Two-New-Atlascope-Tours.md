@@ -28,7 +28,7 @@ The following Atlascope tours were researched, written, and created by Boston La
 
 ##### [Profit at a Cost: The Untold History of Massachusetts' Rubber Industry](https://www.atlascope.org)
 
-#####
+##### Though it's unusual to see the history of Boston linked to early American rubber manufacturing, the industry has deep roots in the city. Furthermore, like most widespread manufacturing processes, this local story is also a global one and is tied to extractive colonialism, enslavement and brutal labor practices.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-21 at 2.42.05 PM.png" >}}
 
@@ -41,6 +41,8 @@ The following Atlascope tours were researched, written, and created by Boston La
 ### And one from our friends at the Boston Athenaeum
 
 ##### [Mapping Berenice Abbott's Boston](https://www.atlascope.org/#/view:tour$tour:369983595095261264)
+
+#####
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-28 at 3.01.49 PM.png" >}}
 
