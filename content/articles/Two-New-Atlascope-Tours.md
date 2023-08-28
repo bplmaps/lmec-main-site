@@ -26,13 +26,13 @@ Whether it’s a tour of the best parks in your neighborhood, tracing undergroun
 
 The following Atlascope tours were researched, written, and created by Boston Latin School students [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/) and [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/) over the course of their Summer 2023 Seevak Fellowship with the Leventhal Center working on public projects related to maps and social justice. 
 
-##### [Profit at a Cost: The Untold History of Massachusetts' Rubber Industry](https://www.atlascope.org)
+#### [Profit at a Cost: The Untold History of Massachusetts' Rubber Industry](https://www.atlascope.org)
 
 Though it's unusual to see the history of Boston linked to early American rubber manufacturing, the industry has deep roots in the city. Furthermore, like most widespread manufacturing processes, this local story is also a global one and is tied to extractive colonialism, enslavement and brutal labor practices.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-21 at 2.42.05 PM.png" >}}
 
-##### [Town and Gown: The Story of Harvard University's Expansion and Its Impact](https://www.atlascope.org)
+#### [Town and Gown: The Story of Harvard University's Expansion and Its Impact](https://www.atlascope.org)
 
 Harvard College has always been a part of the city of Cambridge's history. It was an influential institution ever since its founding in 1636, but its size and impact have grown and continue to grow. What does this mean for surrounding communities? 
 
@@ -40,7 +40,7 @@ Harvard College has always been a part of the city of Cambridge's history. It wa
 
 ### And one from our friends at the Boston Athenaeum
 
-##### [Mapping Berenice Abbott's Boston](https://www.atlascope.org/#/view:tour$tour:369983595095261264)
+#### [Mapping Berenice Abbott's Boston](https://www.atlascope.org/#/view:tour$tour:369983595095261264)
 
 #####
 
