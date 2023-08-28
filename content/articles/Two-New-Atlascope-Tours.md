@@ -20,7 +20,9 @@ Earlier this year, we released an upgraded version of Atlascope with new feature
 
 Whether it’s a tour of the best parks in your neighborhood, tracing underground subway routes, or chronicling the changing landscape of Boston’s music and theater scenes in the twentieth century,  **Atlascope Tours** allow you—as either the creator or the tour-taker—to take a stroll through Boston history, exploring the city from the comfort of your couch and screen.
 
-> The two latest Atlascope tours were researched, written, and created by Boston Latin School students [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/) and [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/) over the course of their Summer 2023 Seevak Fellowship with the Leventhal Center. Click on each title below to take the tour!
+### Boston Latin School 
+
+The two following Atlascope tours were researched, written, and created by Boston Latin School students [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/) and [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/) over the course of their Summer 2023 Seevak Fellowship with the Leventhal Center. Click on each title below to take the tour!
 
 #### [Profit at a Cost: The Untold History of Massachusetts' Rubber Industry](https://www.atlascope.org)
 
