@@ -21,7 +21,7 @@ The Boston Public Library holds a remarkable collection of approximately 500 bir
 
 Join the Leventhal Map & Education Center with the [Jamaica Plain Historical Society](https://www.jphs.org/) at the [Jamaica Plain Branch Library](https://www.bpl.org/locations/jamaica-plain/) on Thursday, October 5 at 6:00 pm ET for a deep dive on bird’s-eye view maps of Boston, mapmaking techniques and more.
 
-Note: This is program will be offered both in person and online. For in person attendance, please register on Eventbrite below. Link coming soon for online attendance.
+Note: This is program will be offered both in person and online. For in person attendance, please register on Eventbrite below. For online attendance, please use [this link](<Please use this link to register https://us06web.zoom.us/j/81074171082?pwd=QkVJVTEzODRXOFdUSjl4R25qQWI1dz09>) to register.   
 
 <div id="eventbrite-widget-container-694119789977"></div>
 
