@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Two New Atlascope Tours
+title: Three New Atlascope Tours
 date: 2023-08-23T04:00:00.000Z
 author: LMEC Staff
 image: >-
@@ -10,13 +10,13 @@ backgroundImage: >-
 tags:
   - atlascope
 description: >-
-  Two new Atlascope tours explore pockets of Boston history from the nineteenth
-  and twentieth centuries—and their ongoing legacies today.
+  Three new Atlascope tours explore pockets of Boston history from the
+  nineteenth and twentieth centuries—and their ongoing legacies today.
 ---
 
 The Leventhal Center has an extraordinary collection of [urban atlases](https://collections.leventhalmap.org/search?utf8=%E2%9C%93\&f%5Bcollection_name_ssim%5D%5B%5D=Urban+Maps+%28Collection+of+Distinction%29\&f%5Bsubject_facet_ssim%5D%5B%5D=Boston+%28Mass.%29--Maps\&search_field=dummy_range\&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1860\&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=1950\&commit=Apply) dating from the late 19th to early 20th centuries, one of the most important sets of documents for depicting how our city and region have changed over time. Our [Atlascope tool](https://www.atlascope.org/) has transformed 110 of these atlases into a web interface overlaying the modern map, covering historic Boston and its immediate surrounding towns.
 
-Earlier this year, we released an upgraded version of Atlascope with new features to empower [storytelling](https://www.atlascope.org/#/view:tour$tour:346059865907527756), annotation, and discovery, as well as connections into other Massachusetts digital collections. One of these new features is a tour feature, which allows individual Atlascope users to narrate their own historical story on a theme or topic important to them. Just like a physical walking tour, these annotated tours lead the tour-taker through specific sites in and around Boston, highlighting important buildings, streets, or relevant facts, and illuminating historical tidbits among the atlas layers.
+Earlier this year, we released an upgraded version of Atlascope with new features to empower [storytelling](https://www.atlascope.org), annotation, and discovery, as well as connections into other Massachusetts digital collections. One of these new features is a tour feature, which allows individual Atlascope users to narrate their own historical story on a theme or topic important to them. Just like a physical walking tour, these annotated tours lead the tour-taker through specific sites in and around Boston, highlighting important buildings, streets, or relevant facts, and illuminating historical tidbits among the atlas layers.
 
 Whether it’s a tour of the best parks in your neighborhood, tracing underground subway routes, or chronicling the changing landscape of Boston’s music and theater scenes in the twentieth century,  **Atlascope Tours** allow you—as either the creator or the tour-taker—to take a stroll through Boston history, exploring the city from the comfort of your couch and screen.
 
