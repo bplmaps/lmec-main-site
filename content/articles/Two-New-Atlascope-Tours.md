@@ -36,6 +36,8 @@ The following Atlascope tours were researched, written, and created by Boston La
 
 ### And one from our friends at the Boston Athenaeum
 
-##### [Mapping Berenice Abbott's Boston&#xA;](https://www.atlascope.org/#/view:tour$tour:369983595095261264)
+##### [Mapping Berenice Abbott's Boston](https://www.atlascope.org/#/view:tour$tour:369983595095261264)
+
+{{< figure >}}
 
 > **Interested in making your own Atlascope tour? [Reach out](mailto:info@leventhalmap.org) to learn more!**
