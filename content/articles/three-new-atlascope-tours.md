@@ -28,13 +28,13 @@ Whether it’s a tour of the best parks in your neighborhood, tracing undergroun
 
 This summer, Boston Latin School students [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/) and [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/) joined the LMEC team as [Seevak Fellows](https://www.bls.org/apps/news/show_news.jsp?REC_ID=860904\&id=0) to work on public projects related to maps and social justice. They [georeferenced atlases](https://cartinal.leventhalmap.org/guides/georeference.html#background-information) for Atlascope, [curated an edition](https://www.leventhalmap.org/articles/ftv-highlights-map-projections/) of our *From The Vault* series, and produced the following Atlascope Tours—visiting archives, interviewing folks in the community, and making connections across primary source material to reconstruct hidden pockets of local history.
 
-##### [Profit at a Cost: The Untold History of Massachusetts' Rubber Industry](https://www.atlascope.org)
+##### [Profit at a Cost: The Untold History of Massachusetts' Rubber Industry](https://www.atlascope.org/#/view:tour$tour:369516895290785865)
 
 Though it's unusual to see the history of Boston linked to early American rubber manufacturing, the industry has deep roots in the city. Furthermore, like most widespread manufacturing processes, this local story is also a global one and is tied to extractive colonialism, enslavement and brutal labor practices. Today, the rubber scene in Massachusetts has dwindled, yet the shadow of its impact on the state persists. 
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/rubber-story.png" >}}
 
-##### [Town and Gown: The Story of Harvard University's Expansion and Its Impact](https://www.atlascope.org)
+##### [Town and Gown: The Story of Harvard University's Expansion and Its Impact](https://www.atlascope.org/#/view:tour$tour:369514700108464209)
 
 Harvard College has always been a part of the city of Cambridge's history. It was an influential institution ever since its founding in 1636, but its size and impact have grown and continue to grow. What does this mean for surrounding communities?
 
@@ -44,7 +44,7 @@ Harvard College has always been a part of the city of Cambridge's history. It wa
 
 Students and individuals of all ages use Atlascope to open up historic inquiries—using Atlascope as a tool to research their family histories, satiate curiosities about historical change over time, and discover new stories that emerge from the woodwork when examining these fascinating cartographic items. For example, our friends at the Boston Athenæum recently published one of the first externally-created Atlascope Tours, "Mapping Photographer Berenice Abbott’s Boston." We’re excited to see what other tours our Leventhal Center patrons and fellow Massachusetts institutions can come up with!
 
-##### [Mapping Berenice Abbott's Boston](https://www.atlascope.org)
+##### [Mapping Berenice Abbott's Boston](https://www.atlascope.org/#/view:tour$tour:369983595095261264)
 
 ***A companion to the "Developing Boston" exhibition at the Boston Athenæum***
 
