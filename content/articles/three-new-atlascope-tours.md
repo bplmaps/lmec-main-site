@@ -42,6 +42,8 @@ Harvard College has always been a part of the city of Cambridge's history. It wa
 
 ### And one by our friends at the Boston Athenæum
 
+Students and individuals of all ages use Atlascope to open up historic inquiries—using Atlascope as a tool to research their family histories, satiate curiosities about historical change over time, and discover new stories that emerge from the woodwork when examining these fascinating cartographic items. 
+
 ##### [Mapping Berenice Abbott's Boston](https://www.atlascope.org)
 
 A companion to the "Developing Boston" exhibition at the Boston Athenæum
