@@ -42,7 +42,7 @@ Harvard College has always been a part of the city of Cambridge's history. It wa
 
 ### And one by our friends at the Boston Athenæum
 
-Students and individuals of all ages use Atlascope to open up historic inquiries—using Atlascope as a tool to research their family histories, satiate curiosities about historical change over time, and discover new stories that emerge from the woodwork when examining these fascinating cartographic items. For example, our friends at the Boston Athenæum recently published one of the first externally-created Atlascope Tours, "Mapping Photographer Berenice Abbott’s Boston." We’re excited to see what other tours our Leventhal Center patrons and fellow Massachusetts institutions can come up with!
+Students and individuals of all ages use Atlascope to open up historic inquiries—using Atlascope as a tool to research their family histories, satiate curiosities about historical change over time, and discover new stories that emerge from the woodwork when examining these fascinating cartographic items. For example, our friends at the Boston Athenæum recently published one of the first externally-created Atlascope Tours, *Mapping Photographer Berenice Abbott’s Boston*. We’re excited to see what other tours our Leventhal Center patrons and fellow Massachusetts institutions can come up with!
 
 ##### [Mapping Berenice Abbott's Boston](https://www.atlascope.org/#/view:tour$tour:369983595095261264)
 
