@@ -40,7 +40,7 @@ Harvard College has always been a part of the city of Cambridge's history. It wa
 
 ### And one by our friends at the Boston Athenaeum
 
-#### [Mapping Berenice Abbott's Boston](https://www.atlascope.org)
+##### [Mapping Berenice Abbott's Boston](https://www.atlascope.org)
 
 #####
 
