@@ -30,7 +30,7 @@ This summer, Boston Latin School students [Zoe Colimon](https://www.leventhalmap
 
 ##### [Profit at a Cost: The Untold History of Massachusetts' Rubber Industry](https://www.atlascope.org/#/view:tour$tour:369516895290785865)
 
-Though it's unusual to see the history of Boston linked to early American rubber manufacturing, the industry has deep roots in the city. Furthermore, like most widespread manufacturing processes, this local story is also a global one and is tied to extractive colonialism, enslavement and brutal labor practices.
+Though it's unusual to see the history of Boston linked to early American rubber manufacturing, the industry has deep roots in the city. Furthermore, like most widespread manufacturing processes, this local story is also a global one and is tied to extractive colonialism, enslavement and brutal labor practices. Today, the rubber scene in Massachusetts has dwindled, yet the shadow of its impact on the state persists. 
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-21 at 2.42.05 PM.png" >}}
 
