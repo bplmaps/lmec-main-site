@@ -26,9 +26,9 @@ Whether it’s a tour of the best parks in your neighborhood, tracing undergroun
 
 ### Two tours by Boston Latin School students
 
-This summer, Boston Latin School students [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/) and [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/) joined the LMEC team as [Seevak Fellows](https://www.bls.org/apps/news/show_news.jsp?REC_ID=860904\&id=0) to work on public projects related to maps and social justice. They [georeferenced atlases](https://cartinal.leventhalmap.org/guides/georeference.html#background-information) for Atlascope, [curated an edition](https://www.leventhalmap.org/articles/ftv-highlights-map-projections/) of our From The Vault series, and produced the following Atlascope Tours—visiting archives, interviewing folks in the community, and making connections across primary source material to reconstruct hidden stories of local history. 
+This summer, Boston Latin School students [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/) and [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/) joined the LMEC team as [Seevak Fellows](https://www.bls.org/apps/news/show_news.jsp?REC_ID=860904\&id=0) to work on public projects related to maps and social justice. They [georeferenced atlases](https://cartinal.leventhalmap.org/guides/georeference.html#background-information) for Atlascope, [curated an edition](https://www.leventhalmap.org/articles/ftv-highlights-map-projections/) of our From The Vault series, and produced the following Atlascope Tours—visiting archives, interviewing folks in the community, and making connections across primary source material to reconstruct hidden pockets of local history.
 
-##### [Profit at a Cost: The Untold History of Massachusetts' Rubber Industry](https://www.atlascope.org/#/view:tour$tour:369516895290785865)
+##### [Profit at a Cost: The Untold History of Massachusetts' Rubber Industry](https://www.atlascope.org)
 
 Though it's unusual to see the history of Boston linked to early American rubber manufacturing, the industry has deep roots in the city. Furthermore, like most widespread manufacturing processes, this local story is also a global one and is tied to extractive colonialism, enslavement and brutal labor practices. Today, the rubber scene in Massachusetts has dwindled, yet the shadow of its impact on the state persists. 
 
@@ -44,7 +44,9 @@ Harvard College has always been a part of the city of Cambridge's history. It wa
 
 ##### [Mapping Berenice Abbott's Boston](https://www.atlascope.org)
 
-In 1934, photographer Berenice Abbott [produced a photographic survey of Boston’s nineteenth-century buildings](https://bostonathenaeum.org/visit/exhibitions/abbott-schwachman/) ranging from [private residences](https://cdm.bostonathenaeum.org/digital/collection/p16057coll8/id/27/rec/23) in Beacon Hill to public spaces like [Adams Square](https://cdm.bostonathenaeum.org/digital/collection/p16057coll8/id/14/rec/14). In this Atlascope Tour, Lauren Graves, Assistant Curator of Special Collections at the Boston Athenæum, brings together Abbott’s photographs and maps of their locations to explore different ways of viewing Boston’s history. 
+A companion to the "Developing Boston" exhibition at the Boston Athenæum
+
+In 1934, photographer Berenice Abbott [produced a photographic survey of Boston’s nineteenth-century buildings](https://bostonathenaeum.org/visit/exhibitions/abbott-schwachman/) ranging from [private residences](https://cdm.bostonathenaeum.org/digital/collection/p16057coll8/id/27/rec/23) in Beacon Hill to public spaces like [Adams Square](https://cdm.bostonathenaeum.org/digital/collection/p16057coll8/id/14/rec/14). In this Atlascope Tour, Lauren Graves, Assistant Curator of Special Collections at the Boston Athenæum, brings together Abbott’s photographs and maps of their locations to explore different ways of viewing Boston’s history.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot 2023-08-28 at 3.01.49 PM.png" >}}
 
