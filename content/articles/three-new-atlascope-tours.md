@@ -26,7 +26,7 @@ Whether it’s a tour of the best parks in your neighborhood, tracing undergroun
 
 ### Two tours by Boston Latin School students
 
-This summer, Boston Latin School students [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/) and [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/) joined the LMEC team as [Seevak Fellows](https://www.bls.org/apps/news/show_news.jsp?REC_ID=860904\&id=0) to work on public projects related to maps and social justice. They [georeferenced atlases](https://cartinal.leventhalmap.org/guides/georeference.html#background-information) for Atlascope, [curated an edition](https://www.leventhalmap.org/articles/ftv-highlights-map-projections/) of our From The Vault series, and produced the following Atlascope Tours on 
+This summer, Boston Latin School students [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/) and [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/) joined the LMEC team as [Seevak Fellows](https://www.bls.org/apps/news/show_news.jsp?REC_ID=860904\&id=0) to work on public projects related to maps and social justice. They [georeferenced atlases](https://cartinal.leventhalmap.org/guides/georeference.html#background-information) for Atlascope, [curated an edition](https://www.leventhalmap.org/articles/ftv-highlights-map-projections/) of our From The Vault series, and produced the following Atlascope Tours—visiting archives, interviewing folks in the community, and making connections across primary source material to reconstruct hidden stories of local history. 
 
 ##### [Profit at a Cost: The Untold History of Massachusetts' Rubber Industry](https://www.atlascope.org/#/view:tour$tour:369516895290785865)
 
