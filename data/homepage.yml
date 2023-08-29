@@ -57,12 +57,6 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Gallery closure
-      text: >
-        Our exhibition gallery is closed through September 8 while we install
-        our new exhibition _Getting Around Town: Mapping Four Centuries of
-        Boston in Transit_, which opens September 9
-      link: 'https://www.leventhalmap.org/exhibitions'
     - badge: New and improved
       text: >-
         Our free Walk to the Sea self-guided walking tour has been relaunched
@@ -73,6 +67,12 @@ cta:
         Are there atlases of other Massachusetts towns you would like to see
         added to Atlascope?
       link: 'https://www.leventhalmap.org/donate/sponsor-an-atlas/'
+    - badge: Gallery closure
+      text: >
+        Our exhibition gallery is closed through September 8 while we install
+        our new exhibition _Getting Around Town: Mapping Four Centuries of
+        Boston in Transit_, which opens September 9
+      link: 'https://www.leventhalmap.org/exhibitions'
     - badge: Upcoming closure
       text: >-
         All BPL locations will be closed on Sunday, 9/3, and Monday, 9/4, in
