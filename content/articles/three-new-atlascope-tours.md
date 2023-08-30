@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Three New Atlascope Tours
 date: 2023-09-01T04:00:00.000Z
 author: LMEC Staff
@@ -22,14 +22,13 @@ Earlier this year, we released an upgraded version of Atlascope with new feature
 
 Whether it’s a tour of the best parks in your neighborhood, tracing underground subway routes, or chronicling the changing landscape of Boston’s music and theater scenes in the twentieth century, **Atlascope Tours** allow you—as either the creator or the tour-taker—to take a stroll through Boston history, exploring the city from the comfort of your couch and screen.
 
-
 ### Two tours by Boston Latin School students
 
 This summer, Boston Latin School students [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/) and [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/) joined the LMEC team as [Seevak Fellows](https://www.bls.org/apps/news/show_news.jsp?REC_ID=860904\&id=0) to work on public projects related to maps and social justice. They [georeferenced atlases](https://cartinal.leventhalmap.org/guides/georeference.html#background-information) for Atlascope, [curated an edition](https://www.leventhalmap.org/articles/ftv-highlights-map-projections/) of our *From The Vault* series, and produced the following Atlascope Tours—visiting archives, interviewing folks in the community, and making connections across primary source material to reconstruct hidden pockets of local history.
 
 ##### Profit at a Cost: The Untold History of Massachusetts' Rubber Industry
 
-Though it's unusual to see the history of Boston linked to early American rubber manufacturing, the industry has deep roots in the city. Furthermore, like most widespread manufacturing processes, this local story is also a global one and is tied to extractive colonialism, enslavement and brutal labor practices. Today, the rubber scene in Massachusetts has dwindled, yet the shadow of its impact on the state persists. _---Zoe Colimon_
+Though it's unusual to see the history of Boston linked to early American rubber manufacturing, the industry has deep roots in the city. Furthermore, like most widespread manufacturing processes, this local story is also a global one and is tied to extractive colonialism, enslavement and brutal labor practices. Today, the rubber scene in Massachusetts has dwindled, yet the shadow of its impact on the state persists. *---Zoe Colimon*
 
 <a href="https://www.atlascope.org/#/view:tour$tour:369516895290785865" target="_blank" class="btn btn-md btn-outline-primary">Start this tour</a>
 
@@ -41,8 +40,7 @@ Though it's unusual to see the history of Boston linked to early American rubber
 
 ##### Town and Gown: The Story of Harvard University's Expansion and Its Impact
 
-Harvard College has always been a part of the city of Cambridge's history. It was an influential institution ever since its founding in 1636, but its size and impact have grown and continue to grow. What does this mean for surrounding communities? _---Salman Uddin_
-
+Harvard College has always been a part of the city of Cambridge's history. It was an influential institution ever since its founding in 1636, but its size and impact have grown and continue to grow. What does this mean for surrounding communities? *---Salman Uddin*
 
 <a href="https://www.atlascope.org/#/view:tour$tour:369514700108464209" target="_blank" class="btn btn-md btn-outline-primary">Start this tour</a>
 
