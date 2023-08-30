@@ -1,6 +1,8 @@
 ---
 draft: true
-title: allmaps-ux-rfp
+title: 'RFP: Frontend developer to design and implement new features in Allmaps platform'
+image: https://allmaps.org/cards/allmaps-viewer.jpg
+backgroundImage: https://allmaps.org/cards/allmaps-viewer.jpg
 description: Developer sought for NEH-funded project on digital geohumanities
 ---
 
