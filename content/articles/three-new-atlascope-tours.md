@@ -11,7 +11,7 @@ tags:
   - atlascope
 description: >-
   Three new Atlascope tours explore pockets of Boston history from the
-  nineteenth and twentieth centuries—and their ongoing legacies today.
+  nineteenth and twentieth centuries—and their ongoing legacies today
 ---
 
 The Leventhal Center has an extraordinary collection of [urban atlases](https://collections.leventhalmap.org/search?utf8=%E2%9C%93\&f%5Bcollection_name_ssim%5D%5B%5D=Urban+Maps+%28Collection+of+Distinction%29\&f%5Bsubject_facet_ssim%5D%5B%5D=Boston+%28Mass.%29--Maps\&search_field=dummy_range\&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1860\&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=1950\&commit=Apply) dating from the late 19th to early 20th centuries, one of the most important sets of documents for depicting how our city and region have changed over time. Our [Atlascope tool](https://www.atlascope.org/) has transformed 110 of these atlases into a web interface overlaying the modern map, covering historic Boston and its immediate surrounding towns.
@@ -58,9 +58,9 @@ Students and individuals of all ages use Atlascope to open up historic inquiries
 
 ##### Mapping Berenice Abbott's Boston
 
-*A companion to the "Developing Boston" exhibition at the Boston Athenæum*
+*A companion to the ["Developing Boston" exhibition](https://bostonathenaeum.org/visit/exhibitions/abbott-schwachman/) at the Boston Athenæum*
 
-In 1934, photographer Berenice Abbott [produced a photographic survey](https://bostonathenaeum.org/visit/exhibitions/abbott-schwachman/) of Boston’s nineteenth-century buildings ranging from [private residences](https://cdm.bostonathenaeum.org/digital/collection/p16057coll8/id/27/rec/23) in Beacon Hill to public spaces like [Adams Square](https://cdm.bostonathenaeum.org/digital/collection/p16057coll8/id/14/rec/14). In this Atlascope Tour, Lauren Graves, Assistant Curator of Special Collections at the Boston Athenæum, brings together Abbott’s photographs and maps of their locations to explore different ways of viewing Boston’s history. _---Lauren Graves_
+In 1934, photographer Berenice Abbott [produced a photographic survey](https://bostonathenaeum.org/visit/exhibitions/abbott-schwachman/) of Boston’s nineteenth-century buildings ranging from [private residences](https://cdm.bostonathenaeum.org/digital/collection/p16057coll8/id/27/rec/23) in Beacon Hill to public spaces like [Adams Square](https://cdm.bostonathenaeum.org/digital/collection/p16057coll8/id/14/rec/14). In this Atlascope Tour, Lauren Graves, Assistant Curator of Special Collections at the Boston Athenæum, brings together Abbott’s photographs and maps of their locations to explore different ways of viewing Boston’s history.
 
 <a href="https://www.atlascope.org/#/view:tour$tour:369983595095261264" target="_blank" class="btn btn-md btn-outline-primary">Start this tour</a>
 
@@ -70,4 +70,4 @@ In 1934, photographer Berenice Abbott [produced a photographic survey](https://b
 
 </a>
 
-> Interested in making your own Atlascope tour? [Reach out](mailto:info@leventhalmap.org) to learn more!
+> Are you interested in making your own Atlascope tour? [Reach out](mailto:info@leventhalmap.org) to learn more!
