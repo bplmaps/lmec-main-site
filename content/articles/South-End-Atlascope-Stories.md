@@ -25,4 +25,9 @@ The second case study, “The Lasting Impact of Settlement Houses in the South E
 
 The third case study, “The Lost School of the South End,” discusses the history of the Girls’ High School, which was opened in 1852, and educated mostly young women before it was closed in 1974. The school educated many renowned women, and had a prestigious reputation for years. When it closed a lot of the history behind the school and its alumni faded, so we chose to bring their stories to light again. 
 
+### The Beginning of Gentrification in the South End
+
+By Winona Wardwell
+
+
 
