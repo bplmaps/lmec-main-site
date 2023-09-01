@@ -10,7 +10,6 @@ backgroundImage: >-
 location: Virtual
 fee: Free
 tags:
-  - exhibitions
   - getting around town
 ---
 
