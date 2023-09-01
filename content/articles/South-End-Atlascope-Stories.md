@@ -29,7 +29,7 @@ The third case study, “The Lost School of the South End,” discusses the hist
 
 ### The Beginning of Gentrification in the South End
 
-By Winona Wardwell
+***By Winona Wardwell***
 
 Gentrification has become a large, controversial issue in Boston. All neighborhoods are now struggling to maintain the community that has lived there for decades while also trying to adapt to growing housing prices. The South End is no exception. In the past centuries, they have experienced a complete change in community because of new developments.
 
@@ -49,19 +49,22 @@ After the Great Depression and both World Wars, the neighborhood fell into disre
 
 ### The Lasting Impact of Settlement Houses in the South End 
 
-By Clare Ablett
-
-
-
+***By Clare Ablett***
 
 > Clare Ablett is a senior at Boston Latin Academy. She lives in Dorchester and enjoys music, rock climbing, and reading. She hopes to study anthropology and creative writing in the future.  
 
 ### Lost School of the South End
 
-By Bridget Hurley
+***By Bridget Hurley***
 
+The Girls High and Normal School was opened in 1852, on the top floor of a library on Mason Street, to educate young women to be primary school teachers. The overwhelming influx of interest in attending forced the school to construct a new building on 75 W. Newton Street in 1869. The school was in constant change; In 1876, the Normal School, the school for younger grades, split from the High School and moved to a new campus. The High School remained on W. Newton Street.  Then, the High School shared facilities with Girls’ Latin School (now Boston Latin Academy). From 1876 to 1885, many advancements to the school were made such as wholesome lunches, better ventilation, rearranging seating to provide better illumination, and fire drills.
 
+The Girls’ High School’s reputation grew as the city did. With the annexation of new neighborhoods such as Roxbury (1868), Brighton, Charlestown, Dorchester, and West Roxbury (all 1874), the school became known as one of the most prestigious girls’ schools in the area, and got the reputation for being the “the chief source of supply of teachers for the Boston schools” (Girls’ High and Normal School Alumnae, Olivia B. White). By the mid 1870s, the school had reached its full potential of engaging young girls and preparing them for their lives, in both the workforce and at home. The only thing that was missing was the same college preparatory curriculum that most boys in school had. So, in 1878, the Girls’ High School and the Girls’ Latin School started to increase the shared facilities. This step was taken because the Girls’ Latin School followed the same course of study as Boston Latin School. Although the schools had different leadership, the combination of schools was described as the largest high school in New England, with nearly 800 young women 14 to 22 years old, and a variety of courses offered like Latin, French, German, and English.
+
+Despite how well things seemed to be going at this point, in 1903, the Boston Globe described the space as “insufficient”. To fix this issue, the Latin School moved to a building in Fenway. In addition, the mass waves of immigration that occurred in the early twentieth century also affected the Girls’ High School. At the same time, the school diversified, with students representing over 25 different nationalities. Throughout the 1920s the school was established as “the pride of Boston” and praised frequently. However, the overcrowding made the buildings cramped and difficult to learn in. The school was closed by the City of Boston in 1974, and the building was demolished after that. In 1986, a park was built on that land. I chose this school to write about because I thought it was interesting how quickly this renowned school was demolished. It was considered to be one of the best places for young women to further educate themselves, and the city decided to permanently close it and make the land a park.
+
+Many outstanding women attended this school, including Melnea Cass, activist; Ruth Roman, actress; Lillian A. Lewis, the first black female journalist in Boston; and Marcella Boveri, the first woman to ever graduate from the Massachusetts Institute of Technology. Instead of demolishing the building, I think that they should’ve created a museum, highlighting the school’s achievements and the achievements of the alumni. The fact that instead of preserving the history of the school, they destroyed it, reflects what was going on in the South End in this period. The neighborhood of the South End had become more inhabited by the working class, which unfortunately brought more crime and danger to the neighborhood, mostly due to the lack of investment by the City of Boston and the increased poverty.
+
+It’s a shame that the Girls’ High and Normal School was closed and not preserved at all. Other schools that had similar statuses at the time are now still open. Why couldn’t the Girls’ High and Normal School be listed amongst Boston Latin, Latin Academy, or O'Bryant? Or, why wasn’t the history of the school taught to more people? It’s only since I recently started using Atlascope that I discovered this treasure lost in history. Viewing old maps is a great way to see how cities change, and how common that change was in the South End. The neighborhood went through many changes in its short history, starting when the land in that area was filled, in 1849, to now. The South End neighborhood is just so enriched with history that the less protected things are easily lost. The Girls High and Normal School was at one time a great place for young women, and now that it's gone, it’s important to focus on preserving the memory so the incredible history of these young women in Boston doesn’t fade. You can still donate to the [school’s Alumni Program](https://ghsalumnaeboston.org/history). 
 
 > Bridget Hurley is a sophomore at Boston Latin Academy. She has a twin brother and lives in Hyde Park. She likes to bake, hang out with her friends, and to run. 
-
-
