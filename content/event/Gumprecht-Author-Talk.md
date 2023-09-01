@@ -10,8 +10,8 @@ backgroundImage: >-
 location: Virtual
 fee: Free
 tags:
+  - exhibition
   - author talk
-  - exhibitions
 registration: >-
   https://www.eventbrite.com/e/blake-gumprecht-on-north-to-boston-histories-of-the-black-great-migration-tickets-629329239697
 publishDate: 2023-05-03T20:00:00.000Z
