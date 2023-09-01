@@ -43,7 +43,9 @@ In the late 1800s, theaters, operas, and hotels started popping up in the neighb
 
 Once the paintings moved to Philadelphia in 1891 (and eventually to the Gettysburg National Military Park), the Cyclorama housed all types of entertainment for Bostonians from paintings of Hawaiian volcanoes to boxing events in the early 1900s. Then the Cyclorama became a flower exchange before being bought by the Boston Arts Center in 1971. While the Cyclorama was showing exhibitions, however, the tickets were expensive and most of the South End community were excluded from attending these one of a kind events. As wealthier people came into South End, they brought more expensive businesses with them, raising prices in the community. The Cyclorama marks the beginning of gentrification in the South End, but it was only a taste of what was to come.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/cyclorama2.png" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/cyclorama2.png" class="figure-right" >}}
+
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/cyclorama1.png" class="figure-right" >}}
 
 Here one can see the changes around the Cyclorama. In 1888, there were a variety of small buildings used for apartments and factories. By 1912, however, there were larger buildings centered around activities for the wealthy and no housing on the block. 
 
