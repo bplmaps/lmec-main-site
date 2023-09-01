@@ -20,7 +20,7 @@ What are transportation archives? What can we learn from them? What do they tell
 
 This talk will stream live to our [Facebook page](https://www.facebook.com/bplmaps) and [YouTube channel](https://www.youtube.com/@LeventhalMapEducationCenter). Please register on Eventbrite below.
 
-Presented as part of our ongoing exhibition, [Getting Around Town: Four Centuries of Mapping Boston in Transit](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/).
+***Presented as part of our ongoing exhibition, [Getting Around Town: Four Centuries of Mapping Boston in Transit](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/).***
 
 #### About our speaker
 
