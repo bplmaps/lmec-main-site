@@ -55,6 +55,8 @@ After the Great Depression and both World Wars, the neighborhood fell into disre
 
 ***By Clare Ablett***
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/south-end.png" >}}
+
 While the South End was built with the intention of being a neighborhood for the wealthy, that has not always been the case. Many of the brownstones and row houses look the same on the outside from when they were built in the mid nineteenth century, but their purposes and the people they house have changed drastically. After the Great Fire of 1872 and the financial panic of 1873, many wealthy residents left the South End for the newly-built Back Bay. This turned the neighborhood into an opportunity for new immigrants from all over the world to move to. 
 
 In an effort to both serve these immigrant populations and encourage their assimilation, settlement houses began to form. The first one created in the South End was the South End House in 1891 by Robert Achey Woods and Professor William J. Tucker. Woods was inspired to start the house after visiting the first settlement house, Toynbee Hall, in London. It was initially called the Andover House, as Woods was a graduate and Tucker taught at Andover Theological School, and had a location at 6 Rollins Street. This house was meant to serve as a residence for immigrants, but the organization quickly expanded to provide many more services and with this expansion it acquired several more locations. Looking back, the former properties of the South End House provide an insight into the ways that South End has changed over the years and the variety of populations that it continues to be home to today.
