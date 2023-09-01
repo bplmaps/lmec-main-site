@@ -45,7 +45,7 @@ Once the paintings moved to Philadelphia in 1891 (and eventually to the Gettysbu
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/cyclorama2.png" class="figure-right" caption="https://atlascope.org/#/view:share$mode:opacity$center:-71.07055,42.34472$zoom:18.35$base:maptiler-streets$overlay:ark:/76611/al897gjem" >}}
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/cyclorama1.png" class="figure-right" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/cyclorama1.png" class="figure-right" caption="https://atlascope.org/#/view:share$mode:opacity$center:-71.07055,42.34472$zoom:18.35$base:maptiler-streets$overlay:ark:/76611/al8c47si7" >}}
 
 Here one can see the changes around the Cyclorama. In 1888, there were a variety of small buildings used for apartments and factories. By 1912, however, there were larger buildings centered around activities for the wealthy and no housing on the block. 
 
