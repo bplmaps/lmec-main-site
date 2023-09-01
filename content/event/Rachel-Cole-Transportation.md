@@ -3,6 +3,15 @@ draft: true
 title: Rachel Cole on Archiving the Past and Present of Transportation
 date: 2023-11-15T05:00:00.000Z
 publishDate: 2023-09-01T15:00:00.000Z
+image: >-
+  https://www.library.northwestern.edu/images/libraries-collections/transportation/TransportationLibrary.jpg
+backgroundImage: >-
+  https://www.library.northwestern.edu/images/libraries-collections/transportation/TransportationLibrary.jpg
+location: Virtual
+fee: Free
+tags:
+  - exhibitions
+  - getting around town
 ---
 
 What are transportation archives? What can we learn from them? What do they tell us about policy choices and transit investment? Join us on Wednesday, November 15 at 12:00 pm EST with Rachel Cole of [Northwestern University’s Transportation Library](https://www.library.northwestern.edu/libraries-collections/transportation/) for a virtual talk on archiving the past and present of transportation.
