@@ -57,7 +57,7 @@ After the Great Depression and both World Wars, the neighborhood fell into disre
 
 ***By Clare Ablett***
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/settle1.jpeg" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/settle1.jpeg" caption="[*Union Park, South End in 1938*](https://www.digitalcommonwealth.org/search/commonwealth:2801pk81x)" >}}
 
 While the South End was built with the intention of being a neighborhood for the wealthy, that has not always been the case. Many of the brownstones and row houses look the same on the outside from when they were built in the mid nineteenth century, but their purposes and the people they house have changed drastically. After the Great Fire of 1872 and the financial panic of 1873, many wealthy residents left the South End for the newly-built Back Bay. This turned the neighborhood into an opportunity for new immigrants from all over the world to move to. 
 
