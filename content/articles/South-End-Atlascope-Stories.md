@@ -19,7 +19,7 @@ backgroundImage: >-
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ng454187g/2337,1586,5345,5487/,2000/0/default.jpg" class="figure-right" >}}
 
-&#x9;Using Atlascope, we collected data on differences in the South End–looking at maps from 1882-1938 and comparing them to maps from today. We then chose to focus on three case studies that we felt best represented the history of the neighborhood and the changes it has experienced. Each case study explores one or a few locations that were pivotal in the history of the South End and how these changes can be seen using Atlascope. 
+Using Atlascope, we collected data on differences in the South End–looking at maps from 1882-1938 and comparing them to maps from today. We then chose to focus on three case studies that we felt best represented the history of the neighborhood and the changes it has experienced. Each case study explores one or a few locations that were pivotal in the history of the South End and how these changes can be seen using Atlascope. 
 
 The first case study, “The Beginning of Gentrification in the South End,” looks at developments in housing in the South End through Atlascope. Focusing on the Cyclorama and other arts districts in the South End, this case study evaluates the changes these spaces brought to the neighborhood. There we could see the roots of the gentrification that would soon hit this community leading to a drastic change in the neighborhood.
 
@@ -49,13 +49,13 @@ Once the paintings moved to Philadelphia in 1891 (and eventually to the Gettysbu
 
 After the Great Depression and both World Wars, the neighborhood fell into disrepair, and became the target for new development from private companies in addition to the local government. By the 1960s, wealthy people had taken over the once utilitarian factories and turned them into industrial modern apartments. Soon the South End was one of the richest parts of Boston, and the people who had once lived there had fled all over Greater Boston. Memories of the former community can still be seen in the architecture, as the bones of the large factories still remain, despite the purpose of the building being different. For example, Washington Street where the theaters used to be there is now affordable housing for artists. This housing offers people a chance to stay in their community and preserve some of the culture. Still, looking at the neighborhood, it is hardly a window into the culture that once flourished in this community. 
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/south-end.png" >}}
+
 > Winona Windell is a senior at Boston Latin Academy. She lives in Jamaica Plain, for fun she likes to read, play piano and row. In the future, Winona would like to study political science and environmental studies.
 
 ### The Lasting Impact of Settlement Houses in the South End 
 
 ***By Clare Ablett***
-
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/south-end.png" >}}
 
 While the South End was built with the intention of being a neighborhood for the wealthy, that has not always been the case. Many of the brownstones and row houses look the same on the outside from when they were built in the mid nineteenth century, but their purposes and the people they house have changed drastically. After the Great Fire of 1872 and the financial panic of 1873, many wealthy residents left the South End for the newly-built Back Bay. This turned the neighborhood into an opportunity for new immigrants from all over the world to move to. 
 
