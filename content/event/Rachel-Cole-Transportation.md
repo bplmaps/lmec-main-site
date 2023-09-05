@@ -16,7 +16,7 @@ tags:
 
 ### About this event
 
-What are transportation archives? What can we learn from them? What do they tell us about policy choices and transit investment? Join us on Wednesday, November 15 at 12:00 pm EST with **Rachel Cole** of [Northwestern University’s Transportation Library](https://www.library.northwestern.edu/libraries-collections/transportation/) for a virtual talk on archiving the past and present of transportation.
+What are transportation collections? What can we learn from them? What do they tell us about policy choices and transit investment? Join us on Wednesday, November 15 at 12:00 pm EST with **Rachel Cole** of [Northwestern University’s Transportation Library](https://www.library.northwestern.edu/libraries-collections/transportation/) for a virtual talk on archiving the past and present of transportation.
 
 This talk will stream live to our [Facebook page](https://www.facebook.com/bplmaps) and [YouTube channel](https://www.youtube.com/@LeventhalMapEducationCenter). Please register on Eventbrite below.
 
