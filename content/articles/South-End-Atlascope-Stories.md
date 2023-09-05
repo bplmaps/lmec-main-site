@@ -91,7 +91,7 @@ The story of the South End is a complicated one. It is a place that has experien
 
 ***By Bridget Hurley***
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/girlsHS1.png" class="figure-right" caption="[*Girls' High School, West Newton Street, Boston in the 1930s*](https://www.digitalcommonwealth.org/search/commonwealth-oai:5d86s804c)" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/girlsHS1.png" class="figure-right" caption="A [new building](https://www.digitalcommonwealth.org/search/commonwealth-oai:5d86s804c) was built in 1869 on West Newton Street to house the Girls High and Normal School. " >}}
 
 The Girls High and Normal School was [opened in 1852](https://theclio.com/entry/153681), on the top floor of a library on Mason Street, to educate young women to be primary school teachers. The overwhelming influx of interest in attending forced the school to construct a new building on 75 W. Newton Street in 1869. The school was in constant change; In 1876, the Normal School, the school for younger grades, split from the High School and moved to a new campus. The High School remained on W. Newton Street. Then, the High School shared facilities with Girls’ Latin School (now Boston Latin Academy). From 1876 to 1885, many advancements to the school were made such as wholesome lunches, better ventilation, rearranging seating to provide better illumination, and fire drills.
 
