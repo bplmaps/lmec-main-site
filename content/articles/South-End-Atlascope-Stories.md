@@ -107,7 +107,7 @@ By the mid 1870s, the school had reached its full potential of engaging young gi
 
 Despite how well things seemed to be going at this point, in 1903, the Boston Globe described the space as “insufficient.” To fix this issue, the Latin School moved to a building in Fenway. In addition, the mass waves of immigration that occurred in the early twentieth century also affected the Girls’ High School. At the same time, the school diversified, with students representing over 25 different nationalities. Throughout the 1920s the school was established as “the pride of Boston” and praised frequently. However, the overcrowding made the buildings cramped and difficult to learn in. 
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/girlsHSatlas2.png" caption="[*School in 1902*](https://atlascope.org/#/view:share$mode:glass$center:-71.07521,42.34069$zoom:17.59$base:maptiler-streets$overlay:ark:/76611/al7rtfm98)" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/girlsHSatlas2.png" caption="In [1902](https://atlascope.org/#/view:share$mode:glass$center:-71.07521,42.34069$zoom:17.59$base:maptiler-streets$overlay:ark:/76611/al7rtfm98), the Latin School " >}}
 
 The school was closed by the City of Boston in 1974, and the building was demolished after that. In 1986, a park was built on that land. I chose this school to write about because I thought it was interesting how quickly this renowned school was demolished. It was considered to be one of the best places for young women to further educate themselves, and the city decided to permanently close it and make the land a park.
 
