@@ -73,11 +73,6 @@ cta:
         our new exhibition _Getting Around Town: Mapping Four Centuries of
         Boston in Transit_, which opens September 9
       link: 'https://www.leventhalmap.org/exhibitions'
-    - badge: Upcoming closure
-      text: >-
-        All BPL locations will be closed on Sunday, 9/3, and Monday, 9/4, in
-        observance of Labor Day
-      link: 'https://www.bpl.org/locations/central/'
 audiences:
   enable: true
   audienceGroups:
