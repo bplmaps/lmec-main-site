@@ -57,6 +57,8 @@ After the Great Depression and both World Wars, the neighborhood fell into disre
 
 ***By Clare Ablett***
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/settle1.jpeg" >}}
+
 While the South End was built with the intention of being a neighborhood for the wealthy, that has not always been the case. Many of the brownstones and row houses look the same on the outside from when they were built in the mid nineteenth century, but their purposes and the people they house have changed drastically. After the Great Fire of 1872 and the financial panic of 1873, many wealthy residents left the South End for the newly-built Back Bay. This turned the neighborhood into an opportunity for new immigrants from all over the world to move to. 
 
 In an effort to both serve these immigrant populations and encourage their assimilation, settlement houses began to form. The first one created in the South End was the South End House in 1891 by Robert Achey Woods and Professor William J. Tucker. Woods was inspired to start the house after visiting the first settlement house, Toynbee Hall, in London. It was initially called the Andover House, as Woods was a graduate and Tucker taught at Andover Theological School, and had a location at 6 Rollins Street. This house was meant to serve as a residence for immigrants, but the organization quickly expanded to provide many more services and with this expansion it acquired several more locations. Looking back, the former properties of the South End House provide an insight into the ways that South End has changed over the years and the variety of populations that it continues to be home to today.
@@ -97,6 +99,6 @@ Many outstanding women attended this school, including Melnea Cass, activist; Ru
 
 It’s a shame that the Girls’ High and Normal School was closed and not preserved at all. Other schools that had similar statuses at the time are now still open. Why couldn’t the Girls’ High and Normal School be listed amongst Boston Latin, Latin Academy, or O'Bryant? Or, why wasn’t the history of the school taught to more people? It’s only since I recently started using Atlascope that I discovered this treasure lost in history. Viewing old maps is a great way to see how cities change, and how common that change was in the South End. The neighborhood went through many changes in its short history, starting when the land in that area was filled, in 1849, to now. The South End neighborhood is just so enriched with history that the less protected things are easily lost. The Girls' High and Normal School was at one time a great place for young women, and now that it's gone, it’s important to focus on preserving the memory so the incredible history of these young women in Boston doesn’t fade. You can still donate to the [school’s Alumni Program](https://ghsalumnaeboston.org/history). 
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/girlsHS4.png" caption="*O'Day Playground today*" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/girlsHS4.png" caption="*O'Day Playground today.*" >}}
 
 > Bridget Hurley is a sophomore at Boston Latin Academy. She has a twin brother and lives in Hyde Park. She likes to bake, hang out with her friends, and to run. 
