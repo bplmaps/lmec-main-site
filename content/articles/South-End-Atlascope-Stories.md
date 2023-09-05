@@ -91,9 +91,11 @@ The story of the South End is a complicated one. It is a place that has experien
 
 ***By Bridget Hurley***
 
-The Girls' High and Normal School was [opened in 1852](https://theclio.com/entry/153681), on the top floor of a library on Mason Street, to educate young women to be primary school teachers. The overwhelming influx of interest in attending forced the school to construct a new building on 75 West Newton Street in 1869. The school was in constant change; In 1876, the Normal School, the school for younger grades, split from the High School and moved to a new campus. The High School remained on W. Newton Street. Then, the High School began sharing facilities with Girls’ Latin School (now Boston Latin Academy). 
+The Girls' High and Normal School was [opened in 1852](https://theclio.com/entry/153681), on the top floor of a library on Mason Street, to educate young women to be primary school teachers. The overwhelming influx of interest in attending forced the school to construct a new building on 75 West Newton Street in 1869. 
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/girlsHSatlas1.png" caption="In 1869, a new building was built at [75 West Newton Street](https://atlascope.org/#/view:share$mode:glass$center:-71.07531,42.34060$zoom:17.36$base:maptiler-streets$overlay:ark:/76611/al8c3u1jq) to house the Girls’ High and Normal School." class="figure-right" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/girlsHSatlas1.png" caption="In 1869, a new building was built at [75 West Newton Street](https://atlascope.org/#/view:share$mode:glass$center:-71.07531,42.34060$zoom:17.36$base:maptiler-streets$overlay:ark:/76611/al8c3u1jq) to house the Girls’ High and Normal School." class="" >}}
+
+The school was in constant change; In 1876, the Normal School, the school for younger grades, split from the High School and moved to a new campus. The High School remained on W. Newton Street. Then, the High School began sharing facilities with Girls’ Latin School (now Boston Latin Academy). 
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/girlsHS1.1.png" class="figure-right" caption="The [new building](https://www.digitalcommonwealth.org/search/commonwealth:2227n287x) at 75 Newton Street was designed to accommodate roughly 1,000 students. The facilities included 8 classrooms, 15 recitation rooms, 3 studios, 1 hall, and laboratories for chemical, physical, and botanical science. " >}}
 
