@@ -82,6 +82,10 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 ## Press Releases
 
+**2023**
+
+* [New Exhibition “Getting Around Town” Opens at Leventhal Map & Education Center September 9, 2023](https://www.leventhalmap.org/about/press-releases/getting-around-town-opens-fall-2023/)
+
 **2022**
 
 * 2022-12-09: [New Exhibition Building Blocks: Boston Stories from Urban Atlases opens at Leventhal Map & Education Center January 13, 2023](https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/)
