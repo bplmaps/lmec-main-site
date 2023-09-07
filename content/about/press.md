@@ -18,6 +18,12 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 ## Recent Press
 
+Press for Getting Around Town
+
+[Dorchester Reporter - BPL exhibit lays out role of streetcars in building of modern-day Dorchester](https://www.dotnews.com/2023/bpl-exhibit-lays-out-role-streetcars-building-modern-day-dorchester)
+
+Other Recent Press
+
 [IIIF Consortium Welcomes Two New Associate Members](https://iiif.io/news/2023/07/05/4science-leventhal-BPL/)
 
 [Boston.com - *Where do you draw the line for Greater Boston?*](https://www.boston.com/news/wickedpedia/2023/02/21/greater-boston-cities-towns-massachusetts-boundaries/)
