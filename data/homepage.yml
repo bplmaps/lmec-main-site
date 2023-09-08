@@ -169,7 +169,7 @@ funfacts:
 blog:
   enable: true
   title: Articles
-todaysHours: false
+todaysHours: true
 upcomingLivestream:
   enable: true
   embedLink: >-
