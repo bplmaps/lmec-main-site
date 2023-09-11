@@ -14,7 +14,7 @@ description: >-
   loud, vocal, and persistent community is capable of.
 ---
 
-> This article was written by [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/). Salman is a student at the Boston Latin School and is spent the summer of 2023 as a Seevak Fellow at the Leventhal Center working on public projects related to maps and social justice, and georeferencing atlases for [Atlascope](https://www.atlascope.org/).
+> This article was written by [Salman Uddin](https://www.leventhalmap.org/about/people/salman-uddin/). Salman is a student at the Boston Latin School and spent the summer of 2023 as a Seevak Fellow at the Leventhal Center working on public projects related to maps and social justice, and georeferencing atlases for [Atlascope](https://www.atlascope.org/).
 
 Academia is one of the defining features of the Greater Boston Area. Higher education institutions draw tens of thousands of students from all over the world who then live in the neighborhoods around these institutions. It takes an array of buildings and facilities to run a functional college or university---buildings and facilities that take up great portions of land. This often means that as the size and prestige of a college grows, the size of the neighborhoods and communities that surround it shrinks. Though not the sole reason, college expansion contributes heavily to the increasing cost of living and decreasing amount of space in neighborhoods. When one driver of a neighborhood’s gentrification is a massive, money-making institution exempt from taxes, it may feel impossible to prevent, but historical examples show what can change when a loud, vocal, and persistent community challenges these forces.
 
