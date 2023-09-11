@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Lunch & Learn Book Club - Subclass GA '
 date: 2023-10-04T16:00:00.000Z
 publishDate: 2023-09-11T04:00:00.000Z
