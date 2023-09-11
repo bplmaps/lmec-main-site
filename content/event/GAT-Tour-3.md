@@ -14,9 +14,7 @@ tags:
 
 ### About this event
 
-Join us for a tour of our new exhibition, [Getting Around Town: Four Centuries of Mapping Boston in Transit](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/), with guest curator Steven Beaucher.
-
-#### About Getting Around Town
+Join us for a tour of our new exhibition, [Getting Around Town: Four Centuries of Mapping Boston in Transit](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/), with guest curator Steven Beaucher. 
 
 How do Bostonians get from here to there in a city full of trains, trolleys, ferries, and more? Whether in the familiar colored lines of today’s MBTA map or the complicated timetables of long-vanished omnibus routes, maps have long been an indispensable instrument for getting around town. This exhibition features an extraordinary collection of transit maps dating from the seventeenth century to the present, and invites questions about how people have moved around the city in the past, present, and future.
 
