@@ -1,7 +1,7 @@
 ---
 draft: true
 title: 'Pride and Progress: A Journey Through Boston''s LGBTQ+ Safe Spaces'
-date: 2023-09-22T04:00:00.000Z
+date: 2023-09-13T04:00:00.000Z
 author: Zoe Colimon
 image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/playland.jpg'
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/playland.jpg'
