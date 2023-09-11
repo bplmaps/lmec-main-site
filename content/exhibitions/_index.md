@@ -18,7 +18,7 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 
 ### *Getting Around Town: Four Centuries of Mapping Boston in Transit*
 
-**September 9, 2023 **– April 27, 2024 
+*September 9, 2023 – April 27, 2024*
 
 How do Bostonians get from here to there in a city full of trains, trolleys, ferries, and more? Whether in the familiar colored lines of today’s MBTA map or the complicated timetables of long-vanished omnibus routes, maps have long been an indispensable instrument for getting around town. This exhibition will feature an extraordinary collection of transit maps dating from the seventeenth century to the present, and invites questions about how people have moved around the city in the past, present, and future. Public events during the exhibition will encourage visitors to engage with issues of mobility and transportation justice in the present day.
 
