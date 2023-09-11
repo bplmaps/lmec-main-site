@@ -8,6 +8,8 @@ type: singleton
 ---
 
 >The Leventhal Map & Education Center (LMEC) at the Boston Public Library seeks to contract a creative software engineer with interests in the digital geohumanities and a strong background in front-end web development for the role of **Allmaps UX/UI Developer**. The successful candidate should have experience with TypeScript, SvelteKit, and Tailwind CSS.
+
+This position is supported by a grant from the [National Endowment for the Humanities' Digital Humanities Advancement Grant program](https://www.neh.gov/grants/odh/digital-humanities-advancement-grants).
 >
 >[Please apply](#apply-now) **before Wednesday, October 18 at 12:00 pm ET**.
 
