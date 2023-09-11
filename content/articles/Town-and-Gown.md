@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: 'Town and Gown: How Communities Resisted Institutional Expansion in Boston'
-date: 2023-08-21T04:00:00.000Z
+date: 2023-09-11T13:55:00.000Z
 author: Salman Uddin
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z029rm326/720,858,3684,1662/2000,/0/default.jpg
@@ -20,7 +20,7 @@ Academia is one of the defining features of the Greater Boston Area. Higher educ
 
 #### Chinatown
 
-When looking at a map of Chinatown, its history of being meddled with can be visualized. The two biggest changes made to the neighborhood were the {{<popup img-src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/centralartery.png" target="blank">}} Central Artery,{{</popup>}} a highway through Chinatown built in the 1950s that took the place of over 50 housing structures, and the {{<popup img-src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/masspike.png" target="blank">}} Massachusetts Turnpike Extension,{{</popup>}} built shortly after the Central Artery had been built, destroying around 60 housing structures in Chinatown. The two highways were built for the benefit of residents of Boston’s surrounding suburban neighborhoods, but at the expense of the populous urban neighborhood they cut through. 
+When looking at a map of Chinatown, its history of being meddled with can be visualized. The two biggest changes made to the neighborhood were the {{<popup img-src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/centralartery.png" target="blank">}} Central Artery,{{</popup>}} a highway through Chinatown built in the 1950s that took the place of over 50 housing structures, and the {{<popup img-src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/masspike.png" target="blank">}} Massachusetts Turnpike Extension,{{</popup>}} built shortly after the Central Artery had been built, destroying around 60 housing structures in Chinatown. The two highways were built for the benefit of residents of Boston’s surrounding suburban neighborhoods, but at the expense of the populous urban neighborhood they cut through.
 
 Then, in the 1970s, Tufts New England Medical Center (T-NEMC) began to buy more land in Chinatown with the help of the Boston Redevelopment Authority (BRA). The hospital nearly tripled in size that decade. {{<popup img-src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/tufts.png" target="blank">}} T-NEMC{{</popup>}} used its space to build tall multi-story buildings and dense parking complexes, but its parking lots and medical services were not heavily used by actual Chinatown residents, benefitting its doctors and practicing students more than the surrounding community.
 
@@ -31,13 +31,12 @@ Then, in the 1970s, Tufts New England Medical Center (T-NEMC) began to buy more 
 <aside>
 
 Check out more parcel maps, photographs of protests, and a document collection of Parcel C history, fact sheets, background information, press releases, and reports on environmental concerns [on Digital Commonwealth](https://www.digitalcommonwealth.org/for_educators/primary_source_sets/parcel_c).
-  
+
 </aside>
 
 Residents of the community were vocal in their disapproval, but the CNC approved. Even after having been misrepresented by the CNC, members of the community continued to fight for the parcel of land. 2,500 people signed a petition against T-NEMC’s plans, calling themselves the [“Coalition to Protect Parcel-C for Chinatown"](https://static1.squarespace.com/static/54179ca4e4b0b0c7bc710d3d/t/59c293f129f187e568ee6d99/1505924088750/Louder+Than+Words_+Parcel+C.pdf). Committees were created by the Coalition with specific missions and goals. Awareness was raised, moves were made, and, after a long persistent struggle, the parking garage plans were canceled. Parcel C is now home to various community centers and organizations and nearly half of its space is used for affordable housing, detailed on the map below.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/parcelC.png" class="" caption="_Parcel maps of Boston's Chinatown and the surrounding area_ (ca. 1991), Chinese Progressive Association Records. Courtesy of [Northeastern University Archives and Special Collections](https://repository.library.northeastern.edu/files/neu:275279)" >}}
-
 
 #### Cambridge
 
