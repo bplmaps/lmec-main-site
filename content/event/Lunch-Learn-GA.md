@@ -19,7 +19,7 @@ Let’s get reading! We’re starting a new, thematic book club centered around 
 
 This month, we’re reading books on **mathematical geography and cartography**. Books covering these topics fall under **Subclass GA** of the [Library of Congress Classification System](https://www.loc.gov/aba/cataloging/classification/lcco/lcco_g.pdf). Check out our list of recommendations (coming soon) or [find a title on your own](https://bpl.bibliocommons.com/v2/search?custom_edit=false\&query=callnumber%3A\(%22GA*%22\)%20%20%20audience%3A%22adult%22%20contentclass%3A%22NONFICTION%22%20formatcode%3A\(BK%20\)\&searchType=bl\&suppress=true)!
 
-\*Food will not be provided. Participants are invited to bring their lunch.  \*
+\*Food will not be provided. Participants are invited to bring their lunch.\*
 
 *Please register below via Eventbrite to let us know you're coming!*
 
