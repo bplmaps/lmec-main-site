@@ -1,7 +1,7 @@
 ---
 draft: true
 title: 'Pride and Progress: A Journey Through Boston''s LGBTQ+ Safe Spaces'
-date: 2023-08-21T04:00:00.000Z
+date: 2023-09-22T04:00:00.000Z
 author: Zoe Colimon
 image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/playland.jpg'
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/playland.jpg'
@@ -14,7 +14,7 @@ description: >-
 
 > This article was written by [Zoe Colimon](https://www.leventhalmap.org/about/people/zoe-colimon/). Zoe is a student at the Boston Latin School and spent the summer of 2023 as a Seevak Fellow at the Leventhal Center working on public projects related to maps and social justice, and georeferencing atlases for [Atlascope](https://www.atlascope.org/). Alongside her drive to explore Boston’s history through a queer, racial, and artistic lens, Zoe incorporates her love of astrophysics and computer science into her work by combining critical thinking with technological skills.
 
-On May 17, 2004, a historic turning point unfolded when the case [_Goodridge v. Department of Public Health_](https://en.wikipedia.org/wiki/Goodridge_v._Department_of_Public_Health) made Massachusetts the first state in the U.S. to legalize same-sex marriage. This 4--3 ruling preceded a series of judicial efforts to support the LGBTQ+ community nationally. It is critical to acknowledge that this decision was only 20 years ago, and same-sex marriage was legalized nationally only eight years ago.
+On May 17, 2004, a historic turning point unfolded when the case *[Goodridge v. Department of Public Health](https://en.wikipedia.org/wiki/Goodridge_v._Department_of_Public_Health)* made Massachusetts the first state in the U.S. to legalize same-sex marriage. This 4--3 ruling preceded a series of judicial efforts to support the LGBTQ+ community nationally. It is critical to acknowledge that this decision was only 20 years ago, and same-sex marriage was legalized nationally only eight years ago.
 
 Boston specifically has a rich history of LGBTQ+ life and resilience that has led to the diverse queer network that the city holds today. Although current-day Boston appears extremely welcoming, it's important to recognize that this liberation was gained through the tireless efforts of the LGBTQ+ community fighting for their rights and visibility. Exploring the timeline of this tenacious community is vital to understanding what LGBTQ+ people have endured, and how a true sense of community can facilitate progress against all odds.
 
@@ -44,7 +44,7 @@ Given the moral climate of the time period, Park Square was heavily scrutinized.
 
 Inspired by the Stonewall riots of New York, 1969, activists and community members took to the streets in unity, starting their march at Jacques. The marchers then made their way to the Boston Police Headquarters, the Massachusetts State House, and St. Paul's Cathedral. The parade ended at the Boston Common, where the marchers then commemorated Stonewall.
 
-The turnout was incredible, and led to the creation of the annual march we know today. It was both a protest and a celebration, illustrating the community’s ever-present drive. Three years later, the case [_Commonwealth v. Balthazar_](https://law.justia.com/cases/massachusetts/supreme-court/1974/366-mass-298-2.html) of 1974 led to the halting of local systemic oppression in Massachusetts on the basis of an individual’s sexual orientation in areas ranging from housing to employment.
+The turnout was incredible, and led to the creation of the annual march we know today. It was both a protest and a celebration, illustrating the community’s ever-present drive. Three years later, the case *[Commonwealth v. Balthazar](https://law.justia.com/cases/massachusetts/supreme-court/1974/366-mass-298-2.html)* of 1974 led to the halting of local systemic oppression in Massachusetts on the basis of an individual’s sexual orientation in areas ranging from housing to employment.
 
 {{< figure class="figure-right" src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Combahee-newsletter.png" caption="[*A Combahee River Collective pamphlet from 1979. Courtesy of The History Project*](https://historyproject.omeka.net/items/show/590)" >}}
 
