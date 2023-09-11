@@ -23,3 +23,24 @@ How do Bostonians get from here to there in a city full of trains, trolleys, fer
 Steven Beaucher is the guest curator of the *Getting Around Town* exhibition. He is the co-founder and proprietor of WardMaps LLC, dealing in antique maps and public transportation artifacts of the nineteenth and twentieth centuries. Steven established and operates MBTAgifts, the licensed merchandise program of the Massachusetts Bay Transportation Authority. Steven is a licensed architect, who, before focusing on WardMaps and the creation of Boston in Transit, practiced architecture throughout Greater Boston. He grew up in the Merrimack Valley, graduated from Syracuse University, and resides in Cambridge, Massachusetts.
 
 *This program is free and open to members of the public. Registration is required*.
+
+<div id="eventbrite-widget-container-717218298237"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '717218298237',
+        iframeContainerId: 'eventbrite-widget-container-717218298237',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
