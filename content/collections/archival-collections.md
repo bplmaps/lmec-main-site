@@ -29,6 +29,16 @@ Auctioneer plans advertise lots to be auctioned for sale, usually by cities or r
 
 ***
 
+### Robert Bayard Bellamy Surveying Papers
+
+{{< figure src="/uploads/2022-01-24/severy.jpg" alt="Manuscript property survey from the Robert Bayard Bellamy Surveying Papers" caption="Manuscript property survey from the Robert Bayard Bellamy Surveying Papers" class="figure-right" >}}
+
+The Robert Bayard Bellamy surveying papers consist primarily of surveys of properties in eastern Massachusetts circa 1860-1950, with the bulk of surveys done approximately 1890-1930. The majority of surveys are by Robert Bayard Bellamy (1879-1962). Other heavily represented surveyors are his predecessor Frederic Endicott (1839-1918), his brother Arthur Muirson Bellamy (1881-1968), and his father-in-law John Norris McClintock (1846-1914). Surveys show property boundaries, structures, owners, planning, and infrastructure such as public transit and utilities. The Papers include topographical maps, engineering and architectural drawings, and other materials presumably used in the creation of the surveys, as well as miscellaneous documents of professional credentials. 
+
+<a href="https://archives.bpl.org/repositories/2/resources/158" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to finding aid</a>
+
+***
+
 ### C.L. Berger & Sons Records
 
 {{< figure src="/uploads/2022-01-24/berger.jpg" alt="Mine transit product catalog" caption="C.L. Berger & Sons mine transit product catalog" class="figure-right" >}}
@@ -67,10 +77,10 @@ The John Roman papers consist of pictorial maps produced from 1984-2012 by John 
 
 ***
 
-### Robert Bayard Bellamy Surveying Papers
+### David Judkins Weaver Papers
 
-{{< figure src="/uploads/2022-01-24/severy.jpg" alt="Manuscript property survey from the Robert Bayard Bellamy Surveying Papers" caption="Manuscript property survey from the Robert Bayard Bellamy Surveying Papers" class="figure-right" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/weaver-notebook.jpg" alt="Page in a notebook showing design notes for Weaver's 'Explorer's map of the New England Coast'" caption="Design notes for Weaver's 'Explorer's map of the New England Coast'" class="figure-right" >}}
 
-The Robert Bayard Bellamy surveying papers consist primarily of surveys of properties in eastern Massachusetts circa 1860-1950, with the bulk of surveys done approximately 1890-1930. The majority of surveys are by Robert Bayard Bellamy (1879-1962). Other heavily represented surveyors are his predecessor Frederic Endicott (1839-1918), his brother Arthur Muirson Bellamy (1881-1968), and his father-in-law John Norris McClintock (1846-1914). Surveys show property boundaries, structures, owners, planning, and infrastructure such as public transit and utilities. The Papers include topographical maps, engineering and architectural drawings, and other materials presumably used in the creation of the surveys, as well as miscellaneous documents of professional credentials. 
+The David Judkins Weaver Papers consist primarily of maps dated 1799-2019, bulk 1970-2019, that were created or collected by David Judkins Weaver (1951-), a cartographer and geographer in Boston, Massachusetts, who worked at various companies and Massachusetts agencies from the early use of computer cartography in the 1970s through its development and increasing adoption to prevalent method of cartography in the 2010s. The collection contains manuscript and printed maps, notebooks, books, pamphlets, documents, photographic prints, 35mm slides, and tools. It includes his professional portfolio, notes, and independently published maps; maps from organizations at which he was employed, mainly MassGIS and Applied Geographics, Inc.; his collection of traditionally published maps and computer-assisted maps; cartography reference materials; and cartography tools. A large portion of maps are of Massachusetts and New England or show coastal and environmental information.
 
-<a href="https://archives.bpl.org/repositories/2/resources/158" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to finding aid</a>
+<a href="https://archives.bpl.org/repositories/2/resources/153" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to finding aid</a>
