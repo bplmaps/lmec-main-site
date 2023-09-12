@@ -10,6 +10,10 @@ weight: '3'
 
 ## Current digital exhibition
 
+#### Getting Around Town: Four Centuries of Mapping Boston in Transit
+
+<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/getting-around-town/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for Getting Around Town</a>
+
 #### Becoming Boston: Eight Moments in the Geography of a Changing City
 
 <a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/becoming-boston/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for Becoming Boston</a>
