@@ -15,7 +15,7 @@ The Leventhal Map & Education Center offers a menu of pre-designed programs for 
 
 ### Teaching with our Current Exhibition
 
-Education pairings for our upcoming exhibition *[Building Blocks: Boston Stories from Urban Atlases](https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/)* coming soon!
+Education pairings for our upcoming exhibition *[Getting Around Town: Four Centuries of Mapping Boston inTransit ](https://www.leventhalmap.org/about/press-releases/getting-around-town-opens-fall-2023/)*are available!
 
 ## Pre-Designed K-12 Programming
 
