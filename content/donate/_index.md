@@ -26,7 +26,7 @@ For more donation options, including giving by cash or check, or to set up a spe
 
 ### Gifts of collections
 
-If you have a collection of maps that you would like to give to the BPL for the preservation, use, research, and enjoyment of the public today and in the future, [please fill out the Special Collections Donation Form](https://www.bpl.org/special-collections/donation-form/). (_While the Leventhal Map & Education Center is a legally separate entity from the BPL, gifts of collections are accepted with title held by the BPL and the Leventhal Center does not accept gifts as its own separate property.)
+If you have a collection of maps that you would like to give to the BPL for the preservation, use, research, and enjoyment of the public today and in the future, [please fill out the Special Collections Donation Form](https://www.bpl.org/special-collections/donation-form/). _(While the Leventhal Map & Education Center is a legally separate entity from the BPL, gifts of collections are accepted with title held by the BPL and the Leventhal Center does not accept gifts as its own separate property.)_
 
 
 ## About supporting the Map Center
