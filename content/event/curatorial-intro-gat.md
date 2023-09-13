@@ -14,7 +14,6 @@ backgroundImage: >-
 location: BPL Central Library – Newsfeed Café
 fee: Free
 tags:
-  - exhibitions
   - getting around town
   - exhibition
 registration: >-
