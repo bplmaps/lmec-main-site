@@ -20,7 +20,7 @@ registration: >-
   https://www.eventbrite.com/e/curatorial-introduction-to-getting-around-town-tickets-699817812917?aff=oddtdtcreator
 ---
 
-{{\< alert-box title="Sold Out" icon="fas fa-exchange-alt" >}}This program is at full capacity.{{\< /alert-box >}}
+{{\< alert-box title="Sold Out" icon="fas fa-exchange-alt" >}}This program is at full capacity.{{\< alert-box >}}
 
 ### About this event
 
