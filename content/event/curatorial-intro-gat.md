@@ -26,7 +26,7 @@ registration: >-
 
 Join us for a curatorial introduction to our new exhibition, ***[Getting Around Town: Four Centuries of Mapping Boston in Transit](https://www.leventhalmap.org/about/press-releases/getting-around-town-opens-fall-2023/)***, featuring a roundtable talk on transit in Boston, a Q+A session, and an opportunity to explore the material on display.
 
-*This program is free and open to members of the public. It will be held in person in the [Newsfeed Café](https://www.newsfeedcafe.com/). Registration is required for refreshments and gallery tours. The reception will begin at 5:30 pm and the speaking program will begin at 6:00 pm with small group gallery tours to follow.*
+*This program will be held in person in the [Newsfeed Café](https://www.newsfeedcafe.com/). Registration is required. The reception will begin at 5:30 pm and the speaking program will begin at 5:50 pm with small group gallery tours to follow.*
 
 ##### About *Getting Around Town*
 
