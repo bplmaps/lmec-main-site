@@ -19,8 +19,6 @@ tags:
 registration: ''
 ---
 
-{{\< alert-box title="Sold Out" icon="fas fa-exchange-alt" >}}This program is at full capacity.{{\< alert-box >}}
-
 ### About this event
 
 Join us for a curatorial introduction to our new exhibition, ***[Getting Around Town: Four Centuries of Mapping Boston in Transit](https://www.leventhalmap.org/about/press-releases/getting-around-town-opens-fall-2023/)***, featuring a roundtable talk on transit in Boston, a Q+A session, and an opportunity to explore the material on display.
