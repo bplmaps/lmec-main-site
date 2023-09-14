@@ -16,8 +16,7 @@ fee: Free
 tags:
   - getting around town
   - exhibition
-registration: >-
-  https://www.eventbrite.com/e/curatorial-introduction-to-getting-around-town-tickets-699817812917?aff=oddtdtcreator
+registration: ''
 ---
 
 {{\< alert-box title="Sold Out" icon="fas fa-exchange-alt" >}}This program is at full capacity.{{\< alert-box >}}
