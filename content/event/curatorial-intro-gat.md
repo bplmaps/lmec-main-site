@@ -19,7 +19,7 @@ tags:
 registration: ''
 ---
 
-{{\< alert-box title="Sold out" icon="fas fa-exchange-alt" >}}This program is at fully capacity.{{\< alert-box >}}
+{{\< alert-box title="Sold out" icon="fas fa-exchange-alt" >}}This program is at fully capacity.{{\< /alert-box >}}
 
 ### About this event
 
