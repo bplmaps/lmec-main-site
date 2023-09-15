@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Highlights from From The Vault: Global Transit'
 date: 2023-09-18T11:00:00.000Z
 author: Megan Nally
