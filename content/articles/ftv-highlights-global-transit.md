@@ -54,4 +54,6 @@ When this map was made in 1911, the Memphis public transit system was operated b
 
 #### Matthews-Northrup Company, *[Map of Minneapolis, Minn](https://collections.leventhalmap.org/search/commonwealth:4m90f984f)* (1895)
 
+{{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f985q/116,149,11095,9185/,1200/0/default.jpg" >}}
+
 Streetcar service began in Minneapolis in 1875 with horse-drawn cars operated by the Minneapolis Street Railway Company. In 1890, that company merged with the St. Paul City Railway Co. to form the Twin City Rapid Transit Company and work toward electrification, track upgrades, and using company-built streetcars.
