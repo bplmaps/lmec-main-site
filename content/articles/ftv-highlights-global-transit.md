@@ -26,7 +26,7 @@ Today, the Paris Métro system has 308 stations, 16 lines, and operates mostly u
 
 London’s rapid transit system is the oldest in the world, dating all the way back to 1863! Public transit began even earlier in 1829 with horse-drawn omnibuses, which were replaced by motor omnibuses by 1902. This map from 1895 includes railway stations, underground railways, tramways, and shared routes.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4742cs80w/153,105,6996,4763/1200,/0/default.jpg" class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4742cs80w/153,105,6996,4763/1200,/0/default.jpg" class="" >}}
 
 #### Hagstrom Company, *[Hagstrom's map of Brooklyn (New York City): house-number and subway guide](https://collections.leventhalmap.org/search/commonwealth:8s45tg67c)* (1927)
 
