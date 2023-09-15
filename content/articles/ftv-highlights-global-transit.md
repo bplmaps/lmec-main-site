@@ -51,9 +51,3 @@ When this map was made in 1911, the Memphis public transit system was operated b
 {{< figure class="figure-right" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f985q/116,149,11095,9185/,1200/0/default.jpg" >}}
 
 Streetcar service began in Minneapolis in 1875 with horse-drawn cars operated by the Minneapolis Street Railway Company. In 1890, that company merged with the St. Paul City Railway Co. to form the Twin City Rapid Transit Company and work toward electrification, track upgrades, and using company-built streetcars.
-
-#### W.S. Twining, *[Official map of the Philadelphia Rapid Transit Co.](https://collections.leventhalmap.org/search/commonwealth:4m90fd34v)* (1904)
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd354/46,43,4827,6752/,1200/0/default.jpg" class="figure-right" >}}
-
-Philadelphia’s subway system is the third oldest in the country (after Boston, #1 and New York, #2). At the time when this map was created in the early 1900s, Philadelphia’s public transit system included dozens of [independently owned and operated horse drawn streetcar lines](http://www2.hsp.org/collections/manuscripts/c/Cox3158.html). Around the same time, the Philadelphia Rapid Transit Company was founded to consolidate those lines and work toward electrification.
