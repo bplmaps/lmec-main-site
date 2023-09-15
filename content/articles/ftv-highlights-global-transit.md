@@ -22,11 +22,11 @@ Today, the Paris Métro system has 308 stations, 16 lines, and operates mostly u
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tq57r792q/934,44,6267,4656/1200,/0/default.jpg" >}}
 
-#### W.S. Twining, *[Official map of the Philadelphia Rapid Transit Co.](https://collections.leventhalmap.org/search/commonwealth:4m90fd34v)* (1904)
+#### John Bartholomew, *[New plan of London](https://collections.leventhalmap.org/search/commonwealth:9p292s17d)* (1895)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd354/46,43,4827,6752/,1200/0/default.jpg" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4742cs80w/153,105,6996,4763/1200,/0/default.jpg" class="figure-left" >}}
 
-Philadelphia’s subway system is the third oldest in the country (after Boston, #1 and New York, #2). At the time when this map was created in the early 1900s, Philadelphia’s public transit system included dozens of [independently owned and operated horse drawn streetcar lines](http://www2.hsp.org/collections/manuscripts/c/Cox3158.html). Around the same time, the Philadelphia Rapid Transit Company was founded to consolidate those lines and work toward electrification.
+London’s rapid transit system is the oldest in the world, dating all the way back to 1863! Public transit began even earlier in 1829 with horse-drawn omnibuses, which were replaced by motor omnibuses by 1902. This map from 1895 includes railway stations, underground railways, tramways, and shared routes.
 
 #### Hagstrom Company, *[Hagstrom's map of Brooklyn (New York City): house-number and subway guide](https://collections.leventhalmap.org/search/commonwealth:8s45tg67c)* (1927)
 
@@ -52,8 +52,10 @@ When this map was made in 1911, the Memphis public transit system was operated b
 
 Streetcar service began in Minneapolis in 1875 with horse-drawn cars operated by the Minneapolis Street Railway Company. In 1890, that company merged with the St. Paul City Railway Co. to form the Twin City Rapid Transit Company and work toward electrification, track upgrades, and using company-built streetcars.
 
-#### John Bartholomew, *[New plan of London](https://collections.leventhalmap.org/search/commonwealth:9p292s17d)* (1895)
+#### W.S. Twining, *[Official map of the Philadelphia Rapid Transit Co.](https://collections.leventhalmap.org/search/commonwealth:4m90fd34v)* (1904)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4742cs80w/153,105,6996,4763/1200,/0/default.jpg" class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd354/46,43,4827,6752/,1200/0/default.jpg" class="figure-left" >}}
 
-London’s rapid transit system is the oldest in the world, dating all the way back to 1863! Public transit began even earlier in 1829 with horse-drawn omnibuses, which were replaced by motor omnibuses by 1902. This map from 1895 includes railway stations, underground railways, tramways, and shared routes.
+Philadelphia’s subway system is the third oldest in the country (after Boston, #1 and New York, #2). At the time when this map was created in the early 1900s, Philadelphia’s public transit system included dozens of [independently owned and operated horse drawn streetcar lines](http://www2.hsp.org/collections/manuscripts/c/Cox3158.html). Around the same time, the Philadelphia Rapid Transit Company was founded to consolidate those lines and work toward electrification.
+
+####
