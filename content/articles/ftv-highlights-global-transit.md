@@ -44,6 +44,8 @@ Hagstrom Company, the maker of this map, was started as a drafting business in 1
 
 Vancouver’s streetcar service began in 1897 with the BC Electric Railway. BC Electric built all its own cars out of a local bus barn; they were wooden, painted dark green, and used for over 50 years. The streetcar routes are indicated by “heavy red lines” on this 1920 map of the city.
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fg127/120,168,6320,4421/,1200/0/default.jpg" >}}
+
 #### Memphis Abstract Company, *[R.L. Polk & Co's map of Memphis, Tennessee](https://collections.leventhalmap.org/search/commonwealth:4m90f678p)* (1911)
 
 When this map was made in 1911, the Memphis public transit system was operated by the Memphis Street Railway Company. They [operated](https://condrenrails.com/MRP/Memphis-Street-Railway/Memphis-Street-Cars.htm) 51 miles of double track and 26.5 miles of single track, using 109 open cars, 69 semi-convertable cars, and 132 closed cars.
