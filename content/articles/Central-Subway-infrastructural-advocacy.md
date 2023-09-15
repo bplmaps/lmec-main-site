@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: >-
   Putting Chinatown on the Map: Resisting Displacement through Infrastructural
   Advocacy
