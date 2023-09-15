@@ -20,6 +20,8 @@ tags:
 
 Today, the Paris Métro system has 308 stations, 16 lines, and operates mostly underground. The first line, Porte Maillot–Porte de Vicennes, was opened in July of 1900 during the World’s Fair. By 1920, ten additional lines were complete. In the 1930s, lines were extended to reach the inner suburbs.  At the time when this map was made in the 1940s, eight lines had been extended, but ridership significantly declined during World War II due to limited service and station closures.
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tq57r792q/934,44,6267,4656/1200,/0/default.jpg" >}}
+
 #### W.S. Twining, *[Official map of the Philadelphia Rapid Transit Co.](https://collections.leventhalmap.org/search/commonwealth:4m90fd34v)* (1904)
 
 Philadelphia’s subway system is the third oldest in the country (after Boston, #1 and New York, #2). At the time when this map was created in the early 1900s, Philadelphia’s public transit system included dozens of [independently owned and operated horse drawn streetcar lines](http://www2.hsp.org/collections/manuscripts/c/Cox3158.html). Around the same time, the Philadelphia Rapid Transit Company was founded to consolidate those lines and work toward electrification.
