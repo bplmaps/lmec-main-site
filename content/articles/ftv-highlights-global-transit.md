@@ -36,6 +36,8 @@ London’s rapid transit system is the oldest in the world, dating all the way b
 
 #### Hagstrom Company, *[Hagstrom's map of Brooklyn (New York City): house-number and subway guide](https://collections.leventhalmap.org/search/commonwealth:8s45tg67c)* (1927)
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wp98cr74j/244,157,5278,6544/,1200/0/default.jpg" class="figure-right" >}}
+
 Hagstrom Company, the maker of this map, was started as a drafting business in 1916 by a Swedish immigrant named Andrew Hagstrom. To attract new business, he made a map of the shop’s location—It exaggerated the size of streets and allowed for clear labeling of details like addresses, transportation, and green space. The map was was popular that Hagstrom began selling copies—officially forming the Hagstrom Map Company in 1916. The company then made new maps of Manhattan, the rest of New York City, and surrounding regions, eventually offering 100 different maps. During the 1940s, Hagstrom’s design was even used for New York City’s official subway maps!
 
 #### Vancouver Map and Blueprint Company, *[Indexed guide map of the city of Vancouver and suburbs](https://collections.leventhalmap.org/search/commonwealth:4m90fg11z)* (1920)
