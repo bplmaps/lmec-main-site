@@ -24,9 +24,9 @@ Today, the Paris Métro system has 308 stations, 16 lines, and operates mostly u
 
 #### John Bartholomew, *[New plan of London](https://collections.leventhalmap.org/search/commonwealth:9p292s17d)* (1895)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4742cs80w/153,105,6996,4763/1200,/0/default.jpg" class="figure-left" >}}
-
 London’s rapid transit system is the oldest in the world, dating all the way back to 1863! Public transit began even earlier in 1829 with horse-drawn omnibuses, which were replaced by motor omnibuses by 1902. This map from 1895 includes railway stations, underground railways, tramways, and shared routes.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4742cs80w/153,105,6996,4763/1200,/0/default.jpg" class="figure-left" >}}
 
 #### Hagstrom Company, *[Hagstrom's map of Brooklyn (New York City): house-number and subway guide](https://collections.leventhalmap.org/search/commonwealth:8s45tg67c)* (1927)
 
@@ -57,5 +57,3 @@ Streetcar service began in Minneapolis in 1875 with horse-drawn cars operated by
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd354/46,43,4827,6752/,1200/0/default.jpg" class="figure-left" >}}
 
 Philadelphia’s subway system is the third oldest in the country (after Boston, #1 and New York, #2). At the time when this map was created in the early 1900s, Philadelphia’s public transit system included dozens of [independently owned and operated horse drawn streetcar lines](http://www2.hsp.org/collections/manuscripts/c/Cox3158.html). Around the same time, the Philadelphia Rapid Transit Company was founded to consolidate those lines and work toward electrification.
-
-####
