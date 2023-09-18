@@ -1,6 +1,6 @@
 ---
 draft: true
-title: 'RFP: Frontend developer to design and implement new features in Allmaps platform'
+title: 'Freelance position: Frontend developer to design and implement new features in Allmaps platform'
 image: https://allmaps.org/cards/allmaps-viewer.jpg
 backgroundImage: https://allmaps.org/cards/allmaps-viewer.jpg
 description: Developer sought for NEH-funded project on digital geohumanities
@@ -8,24 +8,22 @@ type: singleton
 ---
 
 >The Leventhal Map & Education Center (LMEC) at the Boston Public Library seeks to contract a creative software engineer with interests in the digital geohumanities and a strong background in front-end web development for the role of **Allmaps UX/UI Developer**. The successful candidate should have experience with TypeScript, SvelteKit, and Tailwind CSS.
-
-This position is supported by a grant from the [National Endowment for the Humanities' Digital Humanities Advancement Grant program](https://www.neh.gov/grants/odh/digital-humanities-advancement-grants).
+>
+>This position is supported by a grant from the [National Endowment for the Humanities' Digital Humanities Advancement Grant program](https://www.neh.gov/grants/odh/digital-humanities-advancement-grants).
 >
 >[Please apply](#apply-now) **before Wednesday, October 18 at 12:00 pm ET**.
 
 <!-- {{< figure src="https://allmaps.org/cards/allmaps-editor.jpg" caption="An atlas in Allmaps Editor" >}} -->
 
-### Job description
+### About the job
 
-Allmaps is an open-source, web-based platform for creating, curating, and viewing georeferenced maps. This UX/UI Developer will work closely with [Bert Spaan](https://bertspaan.nl) (Allmaps Lead Developer) to refine existing features in the Allmaps platform, incorporate design feedback from user testing, and ultimately design and implement new user interfaces within the Allmaps ecosystem.
-
-In the shorter term, this work will include redesigning the UX/UI within [Allmaps Viewer](https://viewer.allmaps.org), an application for viewing georeferenced maps within the Allmaps platform. The Allmaps UX/UI Developer will create new tools with which users can engage georeferenced maps in Allmaps Viewer, as well as improve the current tool suite and existing user interfaces.
-
-In the longer term, the successful candidate can expect to work on the implementation of Allmaps Curator, an application for users to curate and georeference their own collections of georeferenced maps across institutions, as well as provide an institutional back-end for map-holding institutions to manage workflows like crowdsourcing and version control.
+**Allmaps** is an open-source, web-based platform for creating, curating, and viewing georeferenced maps. We’re looking for an experienced and creative UX/UI developer who can both design and implement user interfaces to help us refine existing features in the Allmaps platform, incorporate design feedback from user testing, and ultimately design and implement new user interfaces within the Allmaps ecosystem. You’ll design and create user interfaces that are simple and fun to use, both on desktop computers and smartphones and you’ll work on a design system and reusable components that will be used throughout the Allmaps project. As the Allmaps UX/UI Developer, you will work closely with Bert Spaan (Allmaps Lead Developer).
 
 This contract work will be undertaken as part of a Digital Humanities Advancement Grant, Making Open-Source Georeferencing Technology Collections-Ready with the Allmaps Platform, awarded to the LMEC by the National Endowment for the Humanities. The project aims to polish existing functionality, as well as create new features, throughout the Allmaps platform with the goal of making it easier for map-holding institutions across the world to incorporate Allmaps into their digital collections.
 
-This contracted position is renewable on a task-by-task basis. The project runs for 3 years, though we expect the UX/UI Developer to complete the majority of their work during the 2024 calendar year. The successful candidate can expect to work about 300 hours during the project duration at a rate of about $100/hour. The contract will be denominated in $USD.
+### Contract details
+
+This contracted position is renewable on a task-by-task basis. The project runs for 3 years, though we expect the UX/UI Developer to complete the majority of their work during the 2024 calendar year. The successful candidate can expect to work about 300 hours during the project duration at a rate of about $100/hour. The contract will be denominated in $USD. This is a freelance position — candidates are not required to live in the United States or have U.S. citizenship.
 
 ### Requirements
 
