@@ -177,7 +177,7 @@ Applications will be reviewed on a rolling basis, and the position will
 remain open until filled. **For full consideration, please submit
 application materials by October 23, 2023 by 12:00 pm ET.**
 
-<a href="https://tally.so/r/wveZj0" class="btn btn-lg">Apply online now</a>
+<a href="https://tally.so/r/wveZj0" class="btn btn-primary btn-outline">Apply online now</a>
 
 #### For more information
 
