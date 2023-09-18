@@ -1,6 +1,5 @@
 ---
 title: "Job Posting: Director of Education"
-published: false
 ---
 
 ### Job Posting: Director of Education & Educational Programs
