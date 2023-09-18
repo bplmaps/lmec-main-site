@@ -1,15 +1,17 @@
 ---
-draft: true
-title: 'Freelance position: Frontend developer to design and implement new features in Allmaps platform'
-image: https://allmaps.org/cards/allmaps-viewer.jpg
-backgroundImage: https://allmaps.org/cards/allmaps-viewer.jpg
-description: Developer sought for NEH-funded project on digital geohumanities
+draft: false
+title: >-
+  Freelance position: Frontend developer to design and implement new features in
+  Allmaps platform
+image: 'https://allmaps.org/cards/allmaps-viewer.jpg'
+backgroundImage: 'https://allmaps.org/cards/allmaps-viewer.jpg'
+description: >-
+  Developer sought for NEH-funded project on georeferencing and digital
+  humanities
 type: singleton
 ---
 
->The Leventhal Map & Education Center (LMEC) at the Boston Public Library and the [Allmaps project](https://allmaps.org) seek to contract a creative software engineer with interests in the digital geohumanities and a strong background in front-end web development for the role of **Allmaps UX/UI Developer**.
->
->[Please apply](#apply-now) **before Wednesday, October 18 at 12:00 pm ET**.
+> The Leventhal Map & Education Center (LMEC) at the Boston Public Library and the [Allmaps project](https://allmaps.org) seek to contract a creative software engineer with interests in the digital geohumanities and a strong background in front-end web development for the role of **Allmaps UX/UI Developer**.[Please apply](#apply-now) **before Wednesday, October 18 at 12:00 pm ET**.
 
 <!-- {{< figure src="https://allmaps.org/cards/allmaps-editor.jpg" caption="An atlas in Allmaps Editor" >}} -->
 
@@ -32,7 +34,7 @@ Allmaps is built using the following technology:
 * **SvelteKit & Tailwind CSS** - All Allmaps apps are built using [SvelteKit](https://kit.svelte.dev/) and [Tailwind CSS](https://tailwindcss.com/).
 * **OpenLayers** - Many parts of Allmaps use [OpenLayers](https://openlayers.org/) to display interactive maps and IIIF images.
 * **PostGIS** - We store data about georeferenced maps in a [PostGIS](http://postgis.net/) database and we run a small REST API that is built using [Express](https://expressjs.com/) and [Drizzle ORM](https://orm.drizzle.team/).
-* **WebGL** - Allmaps uses WebGL to transform georeferenced IIIF images of maps in such a way that they align with the geographic area that is depicted on these maps. See [Allmaps Viewer for examples](https://viewer.allmaps.org/?url=https%3A%2F%2Fannotations.allmaps.org%2F%3Furl%3Dhttps%3A%2F%2Frotterdamspubliek.nl%2Fiiif%2FNL-RtSA_4001_1972-755-1%2Finfo.json).
+* **WebGL** - Allmaps uses WebGL to transform georeferenced IIIF images of maps in such a way that they align with the geographic area that is depicted on these maps. See [Allmaps Viewer for examples](https://viewer.allmaps.org).
 * **GitHub & Render** - We publish our [source code on GitHub](https://github.com/allmaps/allmaps), and we run our static sites and services on [Render](https://render.com/).
 
 During the project, we are also focusing on the following principles:
