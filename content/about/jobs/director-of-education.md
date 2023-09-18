@@ -5,12 +5,12 @@ published: false
 
 ### Job Posting: Director of Education & Educational Programs
 
-* Are you excited about building educational programs and resources on
+*Are you excited about building educational programs and resources on
 topics related to maps, geography, and history? Do you imagine yourself
 working at the intersection of libraries, museums, research, public
 education, and the public humanities? Are you a collaborative leader
 eager to work with a team to build creative and transformative new
-teaching and learning opportunities for the public?
+teaching and learning opportunities for the public?*
 
 The **Leventhal Map & Education Center at the Boston Public Library**
 seeks to hire for the position of **Director of Education & Educational
@@ -23,6 +23,8 @@ groups, including K-12 teachers and students, university-level
 partnerships, and adult educational programs. Together with the
 President & Head Curator and the Assistant Director, the Director of
 Education sits on the Center's senior leadership team.
+
+![https://www.leventhalmap.org/wp-content/uploads/2017/02/snowden_web.png](Students in a class in the Learning Center)
 
 #### About this role
 
@@ -70,38 +72,28 @@ by curatorial, library, and administrative staff across the Center.
 #### ­­­Skills and qualifications
 
 -   *Required*: Bachelor's degree
-
 -   *Preferred (not required):* Any one of the following graduate
     degrees:
-
     -   A master's degree in education, public history, library and
         information sciences, museum studies, digital humanities, or a
         closely related field
-
     -   A PhD in an academic field related to the history and/or
         geography of the United States, with a demonstrated record in
         translating scholarly work for non-academic audiences
-
     -   An EdD with a focus on museums and/or library practice
-
 -   *Required:* Supervisory experience
-
 -   *Preferred:* A topical and institutional familiarity with the Boston
     and New England region
-
 -   *Required:* Demonstrated knowledge, experience, and expertise with
     some aspect of the Center's broad portfolio of topic areas,
     including (for example) historical geography; urban, regional, and
     environmental studies; civics; science and technology studies;
     place-based inquiry; museum and library collections; and/or
     community history.
-
 -   *Required:* Demonstrated ability to create educational program
     material to meet the needs of diverse audience groups
-
 -   *Required:* A track record of professional engagement in the field
     at relevant forums such as conferences and workshops
-
 -   *Required:* A track record of involvement with successful grant
     and/or philanthropic development
 
@@ -152,15 +144,11 @@ values:
 -   Commit to integrity, excellence, respect in all our relationships,
     and professional library ethics (including the ALA's Code of Ethics
     and the ACRL Code of Ethics for Special Collections Librarians)
-
 -   Listen to and include community voices, especially those who have
     been less represented
-
 -   Increase diversity, equity, and inclusion in our organization and
     our work with others
-
 -   Work to advance a more just and equitable society
-
 -   Keep our spaces and community services open, welcoming, and "free to
     all"
 
@@ -175,18 +163,14 @@ change in the world.
 Please submit the following.
 
 -   A cover letter of no more than two pages (PDF, DOCX, or MD format)
-
 -   A CV or résumé
-
 -   One portfolio example of an educational resource which the candidate
     has either sole authored or taken a lead role in producing, such as:
     a curriculum, lesson plan, teaching resource guide, exhibition
     materials aimed at educational audiences, public history or public
     humanities project, course exercise or similar (PDF or Web link)
-
 -   A list of 3 professional references, including telephone numbers and
     email. We will inform candidates before contacting references.
-
 -   Additional material will be requested from semifinalist candidates.
 
 Applications will be reviewed on a rolling basis, and the position will
@@ -196,5 +180,5 @@ application materials by October 23, 2023 by 12:00 pm ET.**
 #### For more information
 
 Contact <info@leventhalmap.org> for more questions about this job
-vacancy, or visit leventhalmap.org for more information about the
+vacancy, or visit [leventhalmap.org](https://leventhalmap.org) for more information about the
 Leventhal Center.
