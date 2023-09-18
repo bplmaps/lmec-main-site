@@ -24,7 +24,7 @@ partnerships, and adult educational programs. Together with the
 President & Head Curator and the Assistant Director, the Director of
 Education sits on the Center's senior leadership team.
 
-![https://www.leventhalmap.org/wp-content/uploads/2017/02/snowden_web.png](Students in a class in the Learning Center)
+![Students in a class in the Learning Center](https://www.leventhalmap.org/wp-content/uploads/2017/02/snowden_web.png)
 
 #### About this role
 
