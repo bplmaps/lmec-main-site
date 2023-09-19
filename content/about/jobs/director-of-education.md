@@ -1,8 +1,6 @@
 ---
-title: "Job Posting: Director of Education"
+title: "Job Posting: Director of Education & Educational Programs"
 ---
-
-### Job Posting: Director of Education & Educational Programs
 
 *Are you excited about building educational programs and resources on
 topics related to maps, geography, and history? Do you imagine yourself
