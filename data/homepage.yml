@@ -57,27 +57,22 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: New and improved
-      text: >-
-        Our free Walk to the Sea self-guided walking tour has been relaunched
-        with new resources
-      link: 'https://www.walktothesea.org/'
-    - badge: Sponsor an atlas
-      text: >-
-        Are there atlases of other Massachusetts towns you would like to see
-        added to Atlascope?
-      link: 'https://www.leventhalmap.org/donate/sponsor-an-atlas/'
     - badge: Currently on display
       text: >-
         *Getting Around Town: Four Centuries of Mapping Boston in Transit* and
         *Becoming Boston: Eight Moments in the Geography of a Changing City*
       link: 'https://www.leventhalmap.org/exhibitions/'
+    - badge: Sponsor an atlas
+      text: >-
+        Are there atlases of other Massachusetts towns you would like to see
+        added to Atlascope?
+      link: 'https://www.leventhalmap.org/donate/sponsor-an-atlas/'
     - badge: Freelance position
       text: >-
         UX/UI Developer sought for NEH-funded project on georeferencing and
         digital humanities
       link: 'https://www.leventhalmap.org/about/jobs/allmaps-ux-ui-developer/'
-    - badge: Join our team!
+    - badge: Job opening
       text: >-
         We seek to hire for the position of Director of Education & Educational
         Programs 
