@@ -48,6 +48,6 @@ During the project, we are also focusing on the following principles:
 
 ### Applying
 
-The last day to apply for this position is **Wednesday, October 18 at 12:00 pm ET**. Please direct any questions to [Ian Spangler](mailto:bert@allmaps.org) and [Bert Spaan](mailto:bert@allmaps.org).
+The last day to apply for this position is **Wednesday, October 18 at 12:00 pm ET**. Please direct any questions to [Ian Spangler](../people/ian-spangler.md) and [Bert Spaan](mailto:bert@allmaps.org).
 
 <a href="https://airtable.com/appfE1BFZoHj0lgNu/shruyy2LqptK53AB1" class="btn btn-primary-outline">Submit an application online</a>
