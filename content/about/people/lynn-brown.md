@@ -1,6 +1,6 @@
 ---
 title: Lynn Brown
-description: K-12 Education Manager
+description: K-12 Education Lead
 headshot: "/images/headshots/lynn-brown.jpg"
 type: person
 staff_category: staff
