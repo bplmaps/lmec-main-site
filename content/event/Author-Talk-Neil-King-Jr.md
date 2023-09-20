@@ -13,6 +13,8 @@ registration: >-
   https://www.eventbrite.com/e/author-talk-neil-king-jr-american-ramble-a-walk-of-memory-and-renewal-tickets-722296356847
 ---
 
+{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is co-organized with BPL Adult Programs.{{\< /alert-box >}}
+
 ### About this event
 
 Hear from the author of a revelatory memoir about a 330-mile walk from Washington, D.C., to New York City—an unforgettable pilgrimage to the heart of America across some of our oldest common ground.
