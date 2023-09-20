@@ -1,6 +1,6 @@
 ---
 draft: true
-title: 'Author Talk: Neil King, Jr. — American Ramble: A Walk of Memory and Renewal'
+title: 'Neil King, Jr. on American Ramble: A Walk of Memory and Renewal'
 date: 2023-12-12T23:00:00.000Z
 publishDate: 2023-09-20T04:00:00.000Z
 image: >-
@@ -13,7 +13,7 @@ registration: >-
   https://www.eventbrite.com/e/author-talk-neil-king-jr-american-ramble-a-walk-of-memory-and-renewal-tickets-722296356847
 ---
 
-### About this event 
+### About this event
 
 Hear from the author of a revelatory memoir about a 330-mile walk from Washington, D.C., to New York City—an unforgettable pilgrimage to the heart of America across some of our oldest common ground.
 
