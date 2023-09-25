@@ -13,9 +13,9 @@ tags:
   - from the vault
 ---
 
-### About this event 
+### About this event
 
-Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of From The Vault, we’ll take a look at objects from our collections that 
+Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of From The Vault, we’ll take a look at objects from our collections that
 
 Drop in any time between 2:00PM - 4:00PM.
 
