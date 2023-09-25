@@ -13,7 +13,7 @@ registration: >-
   https://www.eventbrite.com/e/author-talk-neil-king-jr-american-ramble-a-walk-of-memory-and-renewal-tickets-722296356847
 ---
 
-{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is co-organized with BPL Adult Programs.{{\< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is co-organized with BPL Adult Programs.{{< /alert-box >}}
 
 ### About this event
 

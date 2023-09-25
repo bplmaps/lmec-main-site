@@ -13,7 +13,7 @@ registration: >-
   https://boston-public-library.zoom.us/webinar/register/WN_-iVNKwyBT1O8TJRZwBIZmw?fbclid=IwAR0MxRzqELCIXb_F1EUhDLBe1MPVLSn4HQAC5nPa9yXJgRB6CmX--2ijNtk#/registration
 ---
 
-{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized by BPL Genealogy.{{\< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized by BPL Genealogy.{{< /alert-box >}}
 
 ### About this event
 
