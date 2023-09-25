@@ -13,6 +13,8 @@ registration: >-
   https://boston-public-library.zoom.us/webinar/register/WN_-iVNKwyBT1O8TJRZwBIZmw?fbclid=IwAR0MxRzqELCIXb_F1EUhDLBe1MPVLSn4HQAC5nPa9yXJgRB6CmX--2ijNtk#/registration
 ---
 
+{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized by BPL Genealogy.{{\< /alert-box >}}
+
 ### About this event
 
 Join Ian Spangler from the Leventhal Map & Education Center to discuss the use of historic maps for genealogical research. Ian will provide a demo of Leventhal Center's Atlascope tool, which overlays historic maps on top of modern-day ones so you can easily compare past and present.
