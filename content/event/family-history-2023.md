@@ -19,7 +19,8 @@ Join Ian Spangler from the Leventhal Map & Education Center to discuss the use o
 
 Ian Spangler is a cultural & economic geographer with interests in digital mapping, historical geographies, and race & landscape in the US. He is a geography PhD candidate at the University of Kentucky, and Assistant Curator of Digital & Participatory Geography at the Leventhal Map & Education Center.
 
-Accessibility Notice
+##### Accessibility Notice
+
 We strive to make our events accessible. To request a disability accommodation and/or language services, please contact: Jessy Wheeler at jwheeler@bpl.org, by September 27, 2023. Please allow at least two weeks to arrange for accommodations.
 
 *Please note that we require [registration](https://boston-public-library.zoom.us/webinar/register/WN_-iVNKwyBT1O8TJRZwBIZmw?fbclid=IwAR0MxRzqELCIXb_F1EUhDLBe1MPVLSn4HQAC5nPa9yXJgRB6CmX--2ijNtk#/registration), as this event is happening over Zoom.*
