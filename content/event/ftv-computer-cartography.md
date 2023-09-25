@@ -15,7 +15,7 @@ tags:
 
 ### About this event
 
-Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of From The Vault, we’ll take a look at objects from our collections that
+Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of From The Vault, we’ll take a look at objects from our collections that trace how cartography became computerized. From old-school digitizing pucks to early GIS maps, stop by to see cartographic objects that tell a story of mapmaking's digital automation throughout the twentieth century!
 
 Drop in any time between 2:00PM - 4:00PM.
 
