@@ -38,9 +38,8 @@ Digitization and preparation of atlas layers was made possible by the [Council o
 
 New towns across Massachusetts are being added to Atlascope as of Spring 2023. We are grateful to the following institutions for sponsoring this work:
 
-**[Abbot Public Library](https://abbotlibrary.org/), Marblehead**
-
-**[Dover Historical Society](http://doverhistoricalsociety.org/)**
+* **[Abbot Public Library](https://abbotlibrary.org/), Marblehead**
+* **[Dover Historical Society](http://doverhistoricalsociety.org/)**
 
 ### More information
 
