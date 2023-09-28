@@ -36,7 +36,7 @@ Atlascope was developed by the team at the Leventhal Map & Education Center at t
 
 Digitization and preparation of atlas layers was made possible by the [Council on Library and Information Resources](https://www.clir.org/) and the [Associates of the Boston Public Library](https://www.associatesbpl.org/).
 
-New towns across Massachusetts are being added to Atlascope as of Spring 2023. We are grateful to the following institutions for sponsoring this work.
+New towns across Massachusetts are being added to Atlascope as of Spring 2023. We are grateful to the following institutions for sponsoring this work:
 
 **[Abbot Public Library](https://abbotlibrary.org/), Marblehead**
 
