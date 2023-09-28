@@ -40,7 +40,7 @@ New towns across Massachusetts are being added to Atlascope as of Spring 2023. W
 
 **[Abbot Public Library](https://abbotlibrary.org/), Marblehead**
 
-**Dover Historical Society**
+**[Dover Historical Society](http://doverhistoricalsociety.org/)**
 
 ### More information
 
