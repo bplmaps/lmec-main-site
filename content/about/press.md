@@ -22,7 +22,7 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 [Dorchester Reporter - *BPL exhibit lays out role of streetcars in building of modern-day Dorchester*](https://www.dotnews.com/2023/bpl-exhibit-lays-out-role-streetcars-building-modern-day-dorchester)
 
-[StreetsBlogMASS - New BPL Exhibit Showcases a History of Boston Through Its Transit Maps](https://mass.streetsblog.org/2023/09/26/new-bpl-exhibit-showcases-a-history-of-boston-through-its-transit-maps)
+[StreetsBlogMASS - *New BPL Exhibit Showcases a History of Boston Through Its Transit Maps*](https://mass.streetsblog.org/2023/09/26/new-bpl-exhibit-showcases-a-history-of-boston-through-its-transit-maps)
 
 **Other Recent Press**
 
