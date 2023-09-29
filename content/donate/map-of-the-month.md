@@ -32,5 +32,6 @@ Donations go directly to our historical geography work with students, educators,
 * **May 2023**: [View of Boston freight terminals](https://collections.leventhalmap.org/search/commonwealth:df65xz27g)
 * **June 2023**: [Provincetown, Mass](https://collections.leventhalmap.org/search/commonwealth:x633f932f)
 * **July 2023:** [Niagra Falls and Niagra River](https://collections.leventhalmap.org/search/commonwealth:79408317f)
-* **August 2023: **[MBTA Kids Guide Map](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/objects/)
-* **September 2023**: *Coming Soon*
+* **August 2023**: [MBTA Kids Guide Map](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/objects/)
+* **September 2023**: *[Plan de Paris](https://collections.leventhalmap.org/search/commonwealth:mg74t285q)*
+* **October 2023**: *Coming Soon*
