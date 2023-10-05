@@ -12,7 +12,7 @@ image: >-
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc35p/1459,2010,5390,2450/2000,/0/default.jpg
 tags:
-  - niehgborhood by map
+  - neighborhood by map
 ---
 
 ### About this event
