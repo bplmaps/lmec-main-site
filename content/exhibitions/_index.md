@@ -44,7 +44,7 @@ Maps trace out the complicated history of places, and we can use them to documen
 
 ## Upcoming Exhibitions
 
-### *Mapping Heaven and Earth: The Blue Maps of China*
+### *Heaven and Earth: The Blue Maps of China*
 
 **May 10 – August 31, 2024**
 
