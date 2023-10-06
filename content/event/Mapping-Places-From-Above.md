@@ -21,25 +21,13 @@ The Boston Public Library holds a remarkable collection of approximately 500 bir
 
 Join the Leventhal Map & Education Center with the [Jamaica Plain Historical Society](https://www.jphs.org/) at the [Jamaica Plain Branch Library](https://www.bpl.org/locations/jamaica-plain/) on Thursday, October 5 at 6:00 pm ET for a deep dive on bird’s-eye view maps of Boston, mapmaking techniques and more.
 
-Note: This is program will be offered both in person and online. For in person attendance, please register on Eventbrite below. For online attendance, please use [this link](https://us06web.zoom.us/webinar/register/WN_454pRxlOQUWnmlcIUeFPgw) to register.
+<iframe width="840" height="473" src="https://www.youtube.com/embed/PEMWezfy5xs?si=3Rz8jPdQ7yezzqnB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<div id="eventbrite-widget-container-694119789977"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '694119789977',
-        iframeContainerId: 'eventbrite-widget-container-694119789977',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFwImPD_fI&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFwImPD_fI&#x2F;view?utm_content=DAFwImPD_fI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
