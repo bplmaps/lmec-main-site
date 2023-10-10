@@ -57,10 +57,6 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Holiday closure
-      text: >-
-        The Leventhal Center and all BPL locations will be closed on Monday, October 9 in observance of Indigenous Peoples' Day
-      link: 'https://www.leventhalmap.org/about/hours-directions/'
     - badge: Job opening
       text: 'Director of Education & Educational Programs '
       link: 'https://www.leventhalmap.org/about/jobs/director-of-education/'
