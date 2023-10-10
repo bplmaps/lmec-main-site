@@ -3,15 +3,15 @@ draft: false
 title: >-
   Veronica O. Davis on Inclusive Transportation: A Manifesto for Repairing
   Divided Communities
-date: 2023-10-16T16:00:00.000Z
+date: 2023-10-24T23:00:00.000Z
 publishDate: 2023-08-08T19:30:00.000Z
+image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/croptranspo.jpeg'
+backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/croptranspo.jpeg'
 location: Virtual
 fee: Free
 tags:
   - exhibition
   - getting around town
-image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/croptranspo.jpeg'
-backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/croptranspo.jpeg'
 ---
 
 ### About this event
