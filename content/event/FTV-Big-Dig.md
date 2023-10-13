@@ -1,7 +1,7 @@
 ---
 draft: true
 title: From The Vault Collections Showing — The Big Dig
-date: 2023-12-01T18:00:00.000Z
+date: 2023-12-01T19:00:00.000Z
 publishDate: 2023-08-17T04:00:00.000Z
 image: >-
   https://s3.us-east-2.wasabisys.com/lmec-public-files/images/thirdharbortunne01mass_0197.jpg
