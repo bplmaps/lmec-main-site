@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: From The Vault Collections Showing — The Big Dig
 date: 2023-12-01T19:00:00.000Z
 publishDate: 2023-08-17T04:00:00.000Z
