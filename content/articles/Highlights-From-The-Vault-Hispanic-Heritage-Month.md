@@ -20,4 +20,6 @@ Based on survey data from 2006-2010, this Boston Redevelopment Authority map est
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn54r/full/1200,/0/default.jpg" >}}
 
+### Ernest Dudley Chase, [The good neighbor pictorial map of South America](https://collections.leventhalmap.org/search/commonwealth:0r96fn10p "The good neighbor pictorial map of South America") (1942)
+
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn11z/full/1200,/0/default.jpg" >}}
