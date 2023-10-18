@@ -1,7 +1,7 @@
 ---
 draft: true
 title: 'Highlights From The Vault: Hispanic Heritage Month'
-date: 2023-10-23T04:00:00.000Z
+date: 2023-10-20T04:00:00.000Z
 author: Micaela Kahn
 description: >-
   Check out these highlights from last week's From The Vault: Hispanic Heritage
