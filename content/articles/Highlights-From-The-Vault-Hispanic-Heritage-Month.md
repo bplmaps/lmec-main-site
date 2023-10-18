@@ -28,8 +28,12 @@ Cartographer (and Winchester, MA resident) Ernest Dudley Chase drew and publishe
 
 ### Huych Allard, [Americae](https://collections.leventhalmap.org/search/commonwealth:st74cw74s "Americae") (1660)
 
+Published in the 17th century, Americae maps North and South America. Among the interesting aspects of this map, one is that it depicts the present-day U.S. state of California as an island separated from the rest of the country, a common myth at the time. A second point of note is that the present-day North American country of Mexico is labeled “Hispania Nova,” or “New Spain” - this map was published about 160 years before Mexico became an independent country. 
+
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw752/full/1200,/0/default.jpg" >}}
 
 ### Geoffrey Owen, [A map of the West Indies and the Spanish Main](https://collections.leventhalmap.org/search/commonwealth:0r96fn127 "A map of the West Indies and the Spanish Main") (1949)
+
+A map of the West Indies and the Spanish Main provides a view of an area generally referred to today as the Caribbean. This map is rich in small details that only partially explore the Caribbean’s turbulent colonial history; text such as “Columbus discovers Trinidad,” and the vignette on title block, which depicts indigenous peoples battling colonizers with large, imposing ships, give a sense of the conflicts that occurred, and perhaps gives a sense of how such conflicts led to the present-day cultures on the islands.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn13h/full/1200,/0/default.jpg" >}}
