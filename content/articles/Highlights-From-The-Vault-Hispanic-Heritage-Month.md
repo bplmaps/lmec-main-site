@@ -29,3 +29,5 @@ Cartographer (and Winchester, MA resident) Ernest Dudley Chase drew and publishe
 ### Huych Allard, [Americae](https://collections.leventhalmap.org/search/commonwealth:st74cw74s "Americae") (1660)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw752/full/1200,/0/default.jpg" >}}
+
+### Geoffrey Owen, [A map of the West Indies and the Spanish Main](https://collections.leventhalmap.org/search/commonwealth:0r96fn127 "A map of the West Indies and the Spanish Main") (1949)
