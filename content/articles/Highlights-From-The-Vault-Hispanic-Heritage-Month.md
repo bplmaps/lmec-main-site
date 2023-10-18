@@ -16,7 +16,7 @@ backgroundImage: >-
 
 ### [Tabula Moderna Hispaniae](https://collections.leventhalmap.org/search/commonwealth:9g54xj72j) (1525)
 
-This 16th century map, originally from Ptolemy’s Geographica, shows Spain and Portugal. Given the black-and-white coloring of this map, the mountainous (elevated?) parts of the Iberian peninsula are shown pictorially through the lightly shaded channels on the map. 
+This 16th century map, originally from Ptolemy’s Geographica, shows Spain and Portugal. Given the black-and-white coloring of this map, the mountainous parts of the Iberian peninsula are shown pictorially through the lightly shaded channels on the map. 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xj73t/full/1200,/0/default.jpg" >}}
 
