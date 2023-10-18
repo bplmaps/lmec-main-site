@@ -14,4 +14,6 @@ backgroundImage: >-
 
 On October 13, we hosted From The Vault: Hispanic Heritage Month! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at a few objects from our collections that explore Hispanic heritage.
 
+**Boston Redevelopment Authority, **Boston's top 6 foreign languages spoken at home (2010)
+
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn54r/full/1200,/0/default.jpg" >}}
