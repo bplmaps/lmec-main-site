@@ -25,3 +25,5 @@ Based on survey data from 2006-2010, this Boston Redevelopment Authority map est
 Cartographer (and Winchester, MA resident) Ernest Dudley Chase drew and published many pictorial maps in his day. Here, Chase emphasized architectural sites, people important to South America’s history -see Simón Bolívar at the lower right title block of the map-, and several other characteristics of South America, including the common flora and fauna within its states and territories.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn11z/full/1200,/0/default.jpg" >}}
+
+### Huych Allard, [Americae](https://collections.leventhalmap.org/search/commonwealth:st74cw74s "Americae")
