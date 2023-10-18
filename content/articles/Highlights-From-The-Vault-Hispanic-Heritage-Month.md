@@ -9,7 +9,7 @@ description: >-
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn54r/full/1200,/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn54r/full/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v720/full/1200,/0/default.jpg
 ---
 
 > On October 13, we hosted From The Vault: Hispanic Heritage Month! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at a few objects from our collections that explore Hispanic heritage.
