@@ -16,4 +16,6 @@ backgroundImage: >-
 
 ### Boston Redevelopment Authority, *[Boston's top 6 foreign languages spoken at home](https://collections.leventhalmap.org/search/commonwealth:0r96fn53g "Boston's top 6 foreign languages spoken at home")* (2010)
 
+Based on survey data from 2006-2010, this Boston Redevelopment Authority map estimates Boston’s top 6 foreign languages spoken at home. Spanish appears to be the spoken in a majority of the tracts.
+
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn54r/full/1200,/0/default.jpg" >}}
