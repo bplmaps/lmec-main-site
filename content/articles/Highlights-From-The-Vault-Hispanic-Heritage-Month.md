@@ -36,7 +36,7 @@ Cartographer (and Winchester, MA resident) Ernest Dudley Chase drew and publishe
 
 #### Huych Allard, [Americae](https://collections.leventhalmap.org/search/commonwealth:st74cw74s "Americae") (1660)
 
-Published in the 17th century, Americae maps North and South America. Among the interesting aspects of this map, one is that it depicts the present-day U.S. state of California as an island separated from the rest of the country, a common myth at the time. A second point of note is that the present-day North American country of Mexico is labeled “Hispania Nova,” or “New Spain” - this map was published about 160 years before Mexico became an independent country. 
+Published in the 17th century, [Americae](https://collections.leventhalmap.org/search/commonwealth:st74cw74s "Americae") maps North and South America. Among the interesting aspects of this map, one is that it depicts the present-day U.S. state of California as an island separated from the rest of the country, a common myth at the time. A second point of note is that the present-day North American country of Mexico is labeled “Hispania Nova,” or “New Spain” - this map was published about 160 years before Mexico became an independent country. 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw752/full/1200,/0/default.jpg" >}}
 
