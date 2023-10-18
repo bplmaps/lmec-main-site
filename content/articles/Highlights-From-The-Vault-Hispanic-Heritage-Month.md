@@ -26,4 +26,4 @@ Cartographer (and Winchester, MA resident) Ernest Dudley Chase drew and publishe
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn11z/full/1200,/0/default.jpg" >}}
 
-### Huych Allard, [Americae](https://collections.leventhalmap.org/search/commonwealth:st74cw74s "Americae")
+### Huych Allard,[ Americae](<> "Americae")
