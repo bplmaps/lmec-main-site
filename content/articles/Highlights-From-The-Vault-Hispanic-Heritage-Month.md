@@ -14,6 +14,12 @@ backgroundImage: >-
 
 > On October 13, we hosted From The Vault: Hispanic Heritage Month! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at a few objects from our collections that explore Hispanic heritage.
 
+### [Tabula Moderna Hispaniae](https://collections.leventhalmap.org/search/commonwealth:9g54xj72j) (1525)
+
+This 16th century map, originally from Ptolemy’s Geographica, shows Spain and Portugal. Given the black-and-white coloring of this map, the mountainous (elevated?) parts of the Iberian peninsula are shown pictorially through the lightly shaded channels on the map. 
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xj73t/full/1200,/0/default.jpg" >}}
+
 ### Boston Redevelopment Authority, *[Boston's top 6 foreign languages spoken at home](https://collections.leventhalmap.org/search/commonwealth:0r96fn53g "Boston's top 6 foreign languages spoken at home")* (2010)
 
 Based on survey data from 2006-2010, this Boston Redevelopment Authority map estimates Boston’s top 6 foreign languages spoken at home. Spanish appears to be spoken in a majority of the tracts.
@@ -37,5 +43,3 @@ Published in the 17th century, Americae maps North and South America. Among the 
 A map of the West Indies and the Spanish Main provides a view of an area generally referred to today as the Caribbean. This map is rich in small details that only partially explore the Caribbean’s turbulent colonial history; text such as “Columbus discovers Trinidad,” and the vignette on title block, which depicts indigenous peoples battling colonizers with large, imposing ships, give a sense of the conflicts that occurred, and perhaps gives a sense of how such conflicts led to the present-day cultures on the islands.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn13h/full/1200,/0/default.jpg" >}}
-
-### [Tabula Moderna Hispaniae](https://collections.leventhalmap.org/search/commonwealth:9g54xj72j) (1525)
