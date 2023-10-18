@@ -10,11 +10,13 @@ image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn54r/full/1200,/0/default.jpg
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v720/full/1200,/0/default.jpg
+tags:
+  - From the vault
 ---
 
 > On October 13, we hosted From The Vault: Hispanic Heritage Month! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at a few objects from our collections that explore Hispanic heritage.
 
-### [Tabula Moderna Hispaniae](https://collections.leventhalmap.org/search/commonwealth:9g54xj72j) (1525)
+#### [Tabula Moderna Hispaniae](https://collections.leventhalmap.org/search/commonwealth:9g54xj72j) (1525)
 
 This 16th century map, originally from Ptolemy’s Geographica, shows Spain and Portugal. Given the black-and-white coloring of this map, the mountainous parts of the Iberian peninsula are shown pictorially through the lightly shaded channels on the map. 
 
