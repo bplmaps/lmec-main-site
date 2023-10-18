@@ -14,3 +14,4 @@ backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn54r/full/1200,/0/default.jpg
 ---
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn54r/full/1200,/0/default.jpg" >}}
