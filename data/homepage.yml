@@ -60,11 +60,10 @@ cta:
     - badge: Job opening
       text: 'Director of Education & Educational Programs '
       link: 'https://www.leventhalmap.org/about/jobs/director-of-education/'
-    - badge: Freelance position
+    - badge: Job opening
       text: >-
-        UX/UI Developer for NEH-funded project on georeferencing and digital
-        humanities
-      link: 'https://www.leventhalmap.org/about/jobs/allmaps-ux-ui-developer/'
+        Communications and Gallery Coordinator
+      link: 'https://www.leventhalmap.org/about/jobs/communications-gallery-coordinator/'
 audiences:
   enable: true
   audienceGroups:
