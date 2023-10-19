@@ -30,7 +30,7 @@ Based on survey data from 2006-2010, this Boston Redevelopment Authority [map](h
 
 #### Ernest Dudley Chase, [The good neighbor pictorial map of South America](https://collections.leventhalmap.org/search/commonwealth:0r96fn10p "The good neighbor pictorial map of South America") (1942)
 
-Cartographer (and Massachusetts native) Ernest Dudley Chase drew and published many pictorial maps in his day. [In this map](https://collections.leventhalmap.org/search/commonwealth:0r96fn10p "Here"), Chase emphasized architectural sites, people important to South America’s history—see Simón Bolívar at the lower right title block of the map—and several other characteristics of South America, including the common flora and fauna within its states and territories.
+Ernest Dudley Chase, a cartographer and famous Massachusetts resident, drew and published many pictorial maps in his day. [In this map](https://collections.leventhalmap.org/search/commonwealth:0r96fn10p "Here"), Chase emphasized architectural sites, people important to South America’s history—see Simón Bolívar at the lower right title block of the map—and several other characteristics of South America, including the common flora and fauna within its states and territories.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn11z/full/1200,/0/default.jpg" class="" >}}
 
