@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "tinacms dev -c \"hugo serve -FD\"",
-    "build": "tinacms build"
+    "build": "tinacms build",
+    "audit": "tinacms audit"
   },
   "keywords": [],
   "author": "",
