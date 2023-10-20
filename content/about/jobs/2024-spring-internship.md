@@ -6,11 +6,11 @@ draft: true
 menu: false
 ---
 
-{{\< alert-box type="success" title="Applications Open" >}}
+{{< alert-box type="success" title="Applications Open" >}}
 
 Applications for our Spring 2024 internships are open! Please submit your application by Friday, November 15 no later than 3pm ET.
 
-{{\</ alert-box >}}
+{{</ alert-box >}}
 
 The Leventhal Map & Education Center at the Boston Public Library seeks to hire a cohort of undergraduate interns across all of the Center's project areas, with the goal of training the next generation of professionals in topics including geospatial technology, public humanities, and nonprofit management.
 
