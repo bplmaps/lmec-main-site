@@ -4,21 +4,29 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r6
 cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r692z/141,653,2310,778/full/0/default.jpg
 description: Exploring immigration data through anything but choropleth maps
 weight: "6"
-tags: [immigration]
+tags: [immigration, getting around town]
 
 ---
 
 {{< alert-box type="danger" title="The window for submissions is closed" >}} Applications for this Cartography Challenge closed on **10pm ET on December 19, 2022.**{{< /alert-box >}}
 
-## The Details
-
-#### Topic: Immigration in Greater Boston
+### Topic: Immigration in Greater Boston
 
 Your mission is simple: create a static map that creatively visualizes immigration patterns in the Greater Boston area. "Greater Boston" can be interpreted flexibly, but **at minimum your map should include all of Boston proper and its neighborhoods**. At maximum, you may represent all towns and cities within the Metropolitan Area Planning Council's [Inner Core Committee](https://www.mapc.org/wp-content/uploads/2018/03/MAPC_Subregions_2017_letter_nonames-2.png). We suspect it would be difficult to meet the requirements of the challenge while including *all* these communities, but we won't stop you from trying!
 
 In addition to an award of $200 and exhibition in the Map Center's digital collections, the winning submission from this challenge will be used during K-12 educational visits and programs at the Map Center. Therefore, **submissions should be appealing to a wide range of learners, especially grade-school children**.
 
-#### Data: 2020 American Community Survey (ACS): 5-year, 2016-2020
+### Challenge: No Choropleth, No Problem
+
+The Center has relatively few maps that depict immigration in the Greater Boston region, and most of them are simple choropleth maps that show value using colors or shading by area. We need a break from them, so for now, we're putting an embargo on the choropleth. (Before you ask: yes, this embargo extends to [bivariate maps](https://www.axismaps.com/guide/bivariate-choropleth), too.)
+
+{{< figure src="/images/blog/choropleth.png" alt="A screenshot of our digital collections portal with numerous choropleth maps" caption="Our [digital collections portal](https://collections.leventhalmap.org) is bursting at the seams with choropleth maps about immigration---help us!" class="figure-right" >}}
+
+In our inaugural Cartography Challenge, we're looking for submissions that go beyond the choropleth map. While useful for visualizing differences across space, choropleth maps can [be especially misleading when it comes to data representation](https://www.bloomberg.com/news/articles/2015-06-25/how-to-avoid-being-fooled-by-bad-maps). In this challenge, we're excited to see submissions that move beyond the choropleth map, creatively and elegantly visualizing Boston's immigration patterns in unexpected ways.
+
+The [BPDA's "word cloud" map](https://collections.leventhalmap.org/search/commonwealth:h989r707c) of immigration across Boston's neighborhoods is a great example of a non-choropleth map that meets a lot of our criteria: it contains {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/1808,3548,1467,1157/full/0/default.jpg" class=popupTooltip target="blank">}}detailed and easy-to-read information,{{</popup>}} {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/972,793,3437,3883/full/0/default.jpg" class="popupTooltip" target="blank">}}vibrant colors,{{</popup>}} and a {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/2517,4631,2531,1284/full/0/default.jpg" class="popupTooltip" target="blank">}}graph providing further context.{{</popup>}}
+
+### Data: 2020 American Community Survey (ACS): 5-year, 2016-2020
 
 To compete in this Cartography Challenge, you must submit a map that uses foreign-born population data at the Census tract level from the ACS's 5-year estimates, 2016-2020. After downloading this data from [NHGIS](https://www.nhgis.org/), we did some light processing to standardize field names and data types. Otherwise, it's been unchanged.
 
@@ -29,16 +37,6 @@ In addition to the foreign-born population dataset, submissions should include a
 * [Place of birth dataset](https://data.leventhalmap.org/#/catalog/dl9ea5foy)
 * [Boston neighborhoods](https://data.leventhalmap.org/#/catalog/dkhq7glpx)
 * [Greater Boston municipal boundaries](https://data.leventhalmap.org/#/catalog/dl9efr526)
-
-#### Challenge: No Choropleth, No Problem
-
-The Center has relatively few maps that depict immigration in the Greater Boston region, and most of them are simple choropleth maps that show value using colors or shading by area. We need a break from them, so for now, we're putting an embargo on the choropleth. (Before you ask: yes, this embargo extends to [bivariate maps](https://www.axismaps.com/guide/bivariate-choropleth), too.)
-
-{{< figure src="/images/blog/choropleth.png" alt="A screenshot of our digital collections portal with numerous choropleth maps" caption="Our [digital collections portal](https://collections.leventhalmap.org) is bursting at the seams with choropleth maps about immigration---help us!" class="figure-right" >}}
-
-In our inaugural Cartography Challenge, we're looking for submissions that go beyond the choropleth map. While useful for visualizing differences across space, choropleth maps can [be especially misleading when it comes to data representation](https://www.bloomberg.com/news/articles/2015-06-25/how-to-avoid-being-fooled-by-bad-maps). In this challenge, we're excited to see submissions that move beyond the choropleth map, creatively and elegantly visualizing Boston's immigration patterns in unexpected ways.
-
-The [BPDA's "word cloud" map](https://collections.leventhalmap.org/search/commonwealth:h989r707c) of immigration across Boston's neighborhoods is a great example of a non-choropleth map that meets a lot of our criteria: it contains {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/1808,3548,1467,1157/full/0/default.jpg" class=popupTooltip target="blank">}}detailed and easy-to-read information,{{</popup>}} {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/972,793,3437,3883/full/0/default.jpg" class="popupTooltip" target="blank">}}vibrant colors,{{</popup>}} and a {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/2517,4631,2531,1284/full/0/default.jpg" class="popupTooltip" target="blank">}}graph providing further context.{{</popup>}}
 
 ## Evaluation
 

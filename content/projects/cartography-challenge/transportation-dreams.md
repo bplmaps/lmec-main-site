@@ -4,45 +4,40 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r6
 cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r692z/141,653,2310,778/full/0/default.jpg
 description: Exploring immigration data through anything but choropleth maps
 weight: "7"
-tags: [immigration]
+tags: [transportation, getting around town, cartography challenges]
+draft: true
 
 ---
 
-{{< alert-box type="danger" title="The window for submissions is closed" >}} Applications for this Cartography Challenge closed on **10pm ET on December 19, 2022.**{{< /alert-box >}}
+{{< alert-box type="success" title="The window for submissions is open!" >}} Applications for this Cartography Challenge are open until **5pm ET on December 19, 2023.**{{< /alert-box >}}
 
-## The Details
+### Topic: Transportation Dreams
 
-#### Topic: Immigration in Greater Boston
+Do you ever dream of a better public transit system here in the U.S.? If so, you're not alone: over the past few years, imaginary maps of public transit systems have appeared all over the internet, garnering coverage in national magazines like *[Wired](https://www.wired.com/2014/01/fantasy-transit-maps/)* and *[Vox](https://www.vox.com/2021/3/10/22303355/gen-z-high-speed-rail-biden-map-meme-buttigieg)*.
 
-Your mission is simple: create a static map that creatively visualizes immigration patterns in the Greater Boston area. "Greater Boston" can be interpreted flexibly, but **at minimum your map should include all of Boston proper and its neighborhoods**. At maximum, you may represent all towns and cities within the Metropolitan Area Planning Council's [Inner Core Committee](https://www.mapc.org/wp-content/uploads/2018/03/MAPC_Subregions_2017_letter_nonames-2.png). We suspect it would be difficult to meet the requirements of the challenge while including *all* these communities, but we won't stop you from trying!
+{{< figure src="https://lh6.googleusercontent.com/Gln-jx-WSMe5aZJbiQgMIwYiTPQi4SmbSexEtlx73-OG9ZRw8L3OtpR_u6xFBH24ISFczRjEJf3kTJwvRxgMD7vbiaTj0K3rJST8fVNuqJQbNL2k=w1280" alt="An imaginary map of a high speed rail network across the United States" caption="An imaginary map of a high speed rail network across the United States, from *[first cultural industries](https://www.ocf.berkeley.edu/~atwu/firstcultural/fci_main.html)*" class="figure-right" >}}
 
-In addition to an award of $200 and exhibition in the Map Center's digital collections, the winning submission from this challenge will be used during K-12 educational visits and programs at the Map Center. Therefore, **submissions should be appealing to a wide range of learners, especially grade-school children**.
+This [fictional map of a U.S. high-speed rail system](https://www.ocf.berkeley.edu/~atwu/firstcultural/fci_main.html), for example, routinely circulates in viral social media posts. At [r/imaginarysubwaymaps](https://www.reddit.com/r/imaginarysubwaymaps/), users share fictional rail networks for their own cities and towns.
 
-#### Data: 2020 American Community Survey (ACS): 5-year, 2016-2020
+Even if these maps are not always practical---indeed, it's unclear how the red line of the U.S. high-speed rail map would carve through the mighty Rocky Mountains---they reflect a [growing effort among people and cities](https://www.nytimes.com/2021/10/03/climate/cities-public-transit-electric-tram-ferry-bus-cable-car.html) to imagine more environmentally friendly, climate conscious, and accessible systems of getting around.
 
-To compete in this Cartography Challenge, you must submit a map that uses foreign-born population data at the Census tract level from the ACS's 5-year estimates, 2016-2020. After downloading this data from [NHGIS](https://www.nhgis.org/), we did some light processing to standardize field names and data types. Otherwise, it's been unchanged.
+### Challenge: Speculative Maps of the MBTA
 
-Applicants need not limit their submission to *only* this dataset---submissions are welcome to include additional data such as other Census tables or user-generated data. At minimum, though, submissions must include a representation of the 2016-2020 ACS 5-year estimates for foreign-born population.
+At the Leventhal Center, we've been thinking a lot about public transit lately. Our current exhibition, *[Getting Around Town](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/)*, explores the 400-year history of Boston's public transit systems. We believe that by documenting how the urban system of public transit has transformed over the last four centuries, we can better understand some of the [challenges that it faces today](https://www.bostonglobe.com/2023/09/26/metro/mbta-green-line-extension-new-slow-zones/?p1=StaffPage).
 
-In addition to the foreign-born population dataset, submissions should include a representation of Boston's neighborhoods. To get started with the data, download it for free from our Data Portal:
+In this Cartography Challenge, we're looking for speculative maps of the MBTA. From the [unreal](https://transitmap.net/north-atlantic-rail-nick-fabiani/) to the [unrealized](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/topics/unrealized-possibilities/), we want to see what you can dream up.
 
-* [Place of birth dataset](https://data.leventhalmap.org/#/catalog/dl9ea5foy)
-* [Boston neighborhoods](https://data.leventhalmap.org/#/catalog/dkhq7glpx)
-* [Greater Boston municipal boundaries](https://data.leventhalmap.org/#/catalog/dl9efr526)
+Will you create a public transit system perfectly tailored to your personal everyday geographies? What about a reimagined rail network that uses [Climate Ready Boston](https://experience.arcgis.com/experience/23d861b79aed450eb8972013dd28579b/) data to account for varying levels of storm surge and sea level rise? Perhaps you'll show us an MBTA diagram that's all ferries and canals, or a [bird's eye view](https://collections.leventhalmap.org/search/commonwealth:3f4633656) of Boston's regional transit network in 2123. Maybe you want to use the [LMEC's historic Boston shoreline dataset](https://data.leventhalmap.org/#/catalog/dkircu2ol) to imagine what Boston's transit system would look like if no new land had ever been created across the city.
 
-#### Challenge: No Choropleth, No Problem
+Anything is on the table---all of these, and more---so long as whatever you map doesn't exist right now!
 
-The Center has relatively few maps that depict immigration in the Greater Boston region, and most of them are simple choropleth maps that show value using colors or shading by area. We need a break from them, so for now, we're putting an embargo on the choropleth. (Before you ask: yes, this embargo extends to [bivariate maps](https://www.axismaps.com/guide/bivariate-choropleth), too.)
+### Data: Anything Boston-focused!
 
-{{< figure src="/images/blog/choropleth.png" alt="A screenshot of our digital collections portal with numerous choropleth maps" caption="Our [digital collections portal](https://collections.leventhalmap.org) is bursting at the seams with choropleth maps about immigration---help us!" class="figure-right" >}}
+To participate in this challenge, your map must **depict a speculative or imaginary transit system of the greater Boston area**. You are free to interpret this however you like, but your spatial data should land roughly within the bounds of the [MBTA's commuter rail system](https://cdn.mbta.com/sites/default/files/2023-01/2023-01-23-commuter-rail-map.pdf).
 
-In our inaugural Cartography Challenge, we're looking for submissions that go beyond the choropleth map. While useful for visualizing differences across space, choropleth maps can [be especially misleading when it comes to data representation](https://www.bloomberg.com/news/articles/2015-06-25/how-to-avoid-being-fooled-by-bad-maps). In this challenge, we're excited to see submissions that move beyond the choropleth map, creatively and elegantly visualizing Boston's immigration patterns in unexpected ways.
+In order to really respond to the prompt, we imagine that you'll need to create some kind of dataset yourself. We would love to accession and host any data created for the winning map on our [Public Data Portal](https://data.leventhalmap.org/#/).
 
-The [BPDA's "word cloud" map](https://collections.leventhalmap.org/search/commonwealth:h989r707c) of immigration across Boston's neighborhoods is a great example of a non-choropleth map that meets a lot of our criteria: it contains {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/1808,3548,1467,1157/full/0/default.jpg" class=popupTooltip target="blank">}}detailed and easy-to-read information,{{</popup>}} {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/972,793,3437,3883/full/0/default.jpg" class="popupTooltip" target="blank">}}vibrant colors,{{</popup>}} and a {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r708n/2517,4631,2531,1284/full/0/default.jpg" class="popupTooltip" target="blank">}}graph providing further context.{{</popup>}}
-
-## Evaluation
-
-#### Rubric & Application
+### Evaluation
 
 Submissions will be evaluated according to these five criteria:
 | Criteria             | Description                                                                                                                                                                                  |
@@ -53,11 +48,11 @@ Submissions will be evaluated according to these five criteria:
 | Cartographic design  | Does the submission follow reasonable design principles, or perhaps break with them in generative, exciting ways? Does the submission follow best practices in accessible design (e.g., colorblind readability)?            |
 | Educational capacity | Is the submission visually engaging for a wide range of learners from grade-school children to adults? Can it be effectively used in teaching and public education, especially for K-12 students?                                  |
 
-An application consists of the following material submitted by **Monday, December 19, 2022 at 10pm ET**:
+An application consists of the following material submitted by **Monday, December 19, 2023 at 10pm ET**:
 
-* One map that appropriately responds to the present submission cycle's topic, data, and challenge themes, including information about Boston's neighborhoods
+* One still (static) map that appropriately responds to the present submission cycle's topic, data, and challenge themes
 * The work should have a resolution of at least 300 dpi, and its print dimensions should be no smaller than 11 inches on the shorter side, and no larger than 30 inches on the longer side (uploads or URLs in TIFF format)
-* If not already present in the map, a single document including 1) a technical statement of not more than 300 words describing the workflow used to create the map and 2) a data bibliography (.doc, .pdf, or Markdown format)
+* If not already present in the map, a short technical statement of not more than 300 words describing the workflow used to create the map and a data bibliography
 * An indication of whether you would like your submission to be considered for accession into the [LMEC's Digital Collections](https://collections.leventhalmap.org) and licensed under a Creative Commons CC-0 or CC-BY 4.0 copyright (the LMEC reserves the right to request changes to submissions before they are accessioned into collections)
 
 Don't hesitate to [reach out to us](mailto:ispangler@leventhalmap.org) if you have any questions about the submission process. Applicants will be notified with results by January 19, 2023.
