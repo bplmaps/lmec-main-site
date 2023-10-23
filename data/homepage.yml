@@ -58,9 +58,6 @@ cta:
   enable: true
   announcements:
     - badge: Job opening
-      text: 'Director of Education & Educational Programs '
-      link: 'https://www.leventhalmap.org/about/jobs/director-of-education/'
-    - badge: Job opening
       text: >-
         Communications and Gallery Coordinator
       link: 'https://www.leventhalmap.org/about/jobs/communications-gallery-coordinator/'
