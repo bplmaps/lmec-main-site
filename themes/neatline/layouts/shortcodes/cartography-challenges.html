@@ -3,7 +3,7 @@
 <div class="container">
   <div class="row mt-10">
   {{ range $.Site.Data.cartchallenges.Challenges}}
-    {{ if or (in .Cycle $cycle) (in .Theme $tag)}}
+    {{ if (in .Cycle $cycle)}}
       <div class="col-lg-5 col-md-5 col-sm-6 mb-5 mb-lg-0 my-3">
         <div class="card rounded-0 hover-shadow alt-gallery-card">
           <div class="card-img position-relative">
@@ -14,7 +14,12 @@
           <div class="card-body">
             <h5 class="card-title"><a href="{{ .Path }}" target="_blank">{{ .Name}}</a></h5>
             {{ range .Deadline }}
+            {{if (in $cycle "open") }}
             <span class="badge bg-success font-secondary text-white fw-normal mt-1">Open through {{ .date }}</span>
+            {{ end }}
+            {{if (in $cycle "closed") }}
+            <span class="badge bg-danger font-secondary text-white fw-normal mt-1">Open through {{ .date }}</span>
+            {{ end }}
             {{ end }}<br><br>
             {{ range .Theme }}
               <span class="badge badge-pill badge-info mb-1">{{.}}</span>

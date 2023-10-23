@@ -18,9 +18,10 @@ There is no expectation that maps be made using a particular software or program
 
 ### Open challenges
 
-{{< alert-box type="warning" title="No open challenges at this time" >}} Check back later! To learn when the next challenge opens, be sure to [subscribe to our newsletter](../../about/contact-connect). {{< /alert-box >}}
+<!-- {{< alert-box type="warning" title="No open challenges at this time" >}} Check back later! To learn when the next challenge opens, be sure to [subscribe to our newsletter](../../about/contact-connect). {{< /alert-box >}} -->
 
+{{< cartography-challenges cycle-filter="open">}}
 
-### Challenge archive
+### Closed challenges
 
 {{< cartography-challenges cycle-filter="closed">}}
