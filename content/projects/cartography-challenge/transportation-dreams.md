@@ -9,23 +9,23 @@ draft: true
 
 ---
 
-{{< alert-box type="success" title="The window for submissions is open!" >}} Applications for this Cartography Challenge are open until **5pm ET on December 19, 2023.**{{< /alert-box >}}
+{{< alert-box type="success" title="Currently accepting submissions" >}} Applications for this Cartography Challenge are open until **5pm ET on December 19, 2023.**{{< /alert-box >}}
 
 ### Topic: Transportation Dreams
 
+{{< figure src="/images/blog/MBTA_future.jpeg" alt="A speculative MBTA map by Andrew Lynch." caption="A [speculative MBTA map](https://web.mit.edu/jdreed/www/t/maps/) by Andrew Lynch." class="figure-right" >}}
+
 Do you ever dream of a better public transit system here in the U.S.? If so, you're not alone: over the past few years, imaginary maps of public transit systems have appeared all over the internet, garnering coverage in national magazines like *[Wired](https://www.wired.com/2014/01/fantasy-transit-maps/)* and *[Vox](https://www.vox.com/2021/3/10/22303355/gen-z-high-speed-rail-biden-map-meme-buttigieg)*.
 
-{{< figure src="/images/blog/hsrusa.png" alt="An imaginary map of a high speed rail network across the United States" caption="An imaginary map of a high speed rail network across the United States, from *[first cultural industries](https://www.ocf.berkeley.edu/~atwu/firstcultural/fci_main.html)*" class="figure-right" >}}
-
-This [fictional map of a U.S. high-speed rail system](https://www.ocf.berkeley.edu/~atwu/firstcultural/fci_main.html), for example, routinely circulates in viral social media posts. At [r/imaginarysubwaymaps](https://www.reddit.com/r/imaginarysubwaymaps/), users share fictional rail networks for their own cities and towns.
+This [speculative map of the MBTA](https://www.ocf.berkeley.edu/~atwu/firstcultural/fci_main.html), for example, imagines a system of transit in Boston where every line stretches to Route 128. An [imaginary U.S. high-speed rail network map from 2013](https://www.californiarailmap.com/us-high-speed-rail-system) routinely circulates in viral social media posts, while at [r/imaginarysubwaymaps](https://www.reddit.com/r/imaginarysubwaymaps/), users share fictional rail networks for their own cities and towns.
 
 Even if these maps are not always practical---indeed, it's unclear how the red line of the U.S. high-speed rail map would carve through the mighty Rocky Mountains---they reflect a [growing effort among people and cities](https://www.nytimes.com/2021/10/03/climate/cities-public-transit-electric-tram-ferry-bus-cable-car.html) to imagine more environmentally friendly, climate conscious, and accessible systems of getting around.
 
-### Challenge: Speculative Maps of the MBTA
+### Challenge: Speculative Maps of Transit in Boston
 
 At the Leventhal Center, we've been thinking a lot about public transit lately. Our current exhibition, *[Getting Around Town](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/)*, explores the 400-year history of Boston's public transit systems. We believe that by documenting how the urban system of public transit has transformed over the last four centuries, we can better understand some of the [challenges that it faces today](https://www.bostonglobe.com/2023/09/26/metro/mbta-green-line-extension-new-slow-zones/?p1=StaffPage).
 
-In this Cartography Challenge, we're looking for speculative maps of the MBTA. From the [unreal](https://transitmap.net/north-atlantic-rail-nick-fabiani/) to the [unrealized](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/topics/unrealized-possibilities/), we want to see what you can dream up.
+In this Cartography Challenge, we're looking for speculative maps of transit in Boston. From the [unreal](https://transitmap.net/north-atlantic-rail-nick-fabiani/) to the [unrealized](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/topics/unrealized-possibilities/), we want to see what you can dream up.
 
 Will you create a public transit system perfectly tailored to your personal everyday geographies? What about a reimagined rail network that uses [Climate Ready Boston](https://experience.arcgis.com/experience/23d861b79aed450eb8972013dd28579b/) data to account for varying levels of storm surge and sea level rise? Perhaps you'll show us an MBTA diagram that's all ferries and canals, or a [bird's eye view](https://collections.leventhalmap.org/search/commonwealth:3f4633656) of Boston's regional transit network in 2123. Maybe you want to use the [LMEC's historic Boston shoreline dataset](https://data.leventhalmap.org/#/catalog/dkircu2ol) to imagine what Boston's transit system would look like if no new land had ever been created across the city.
 

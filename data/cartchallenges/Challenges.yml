@@ -15,3 +15,20 @@
   - Choropleth
   - Immigration
   - Boston
+- Description: In this Cartography Challenge, we’re looking for speculative maps of transit in Boston. From the unreal to the unrealized, we want to see what you can dream up.
+  Cycle: 
+  - open
+  Deadline:
+  - date: '2023-12-19'
+  Image:
+  - url: 'https://web.mit.edu/jdreed/www/t/maps/mbta_files/MBTA_future6.jpg'
+  Last Updated: '2023-10-23'
+  Name: 'Transportation Dreams'
+  Open URL: 
+  - label: Open URL
+  - url: https://leventhalmap.org/projects/cartography-challenge/transportation-dreams
+  Path: /projects/cartography-challenge/transportation-dreams
+  Theme:
+  - Transportation
+  - Boston
+  - Speculative maps
