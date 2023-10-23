@@ -6,7 +6,7 @@ title: "Job Posting: Director of Education & Educational Programs"
 
 Review of these applications has already begun. We are still accepting applications on a rolling basis and the position will remain open until filled, but we cannot guarantee that applications received after October 23, 2023 at 12:00 pm ET will be fully considered by our search committee.
 
-{{</ alert-box }}
+{{</ alert-box >}}
 
 *Are you excited about building educational programs and resources on
 topics related to maps, geography, and history? Do you imagine yourself
