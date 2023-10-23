@@ -6,9 +6,6 @@ description: Where we came from and where we're going
 weight: "1"
 
 ---
-## Land Acknowledgement
-
-The Leventhal Map & Education Center stands on land that was once a water-based ecosystem that provided for the Massachusett people who lived in the Greater Boston area. We acknowledge these indigenous people, the devastating effects of settler colonialism on their communities, and their contemporary presence.
 
 ## Our Mission and Values
 
@@ -26,23 +23,6 @@ The Norman B. Leventhal Map & Education Center at the Boston Public Library insp
 
 _*American Library Association Code of Ethics; Association of College and Research Libraries Code of Ethics for Special Collections Librarians_
 
-#### Our Commitment to Confront Systemic Racism
-
-We condemn the killings of George Floyd, Ahmaud Arbery, Breonna Taylor, and many, many more who have become victims of racial violence. These attacks are tragic symptoms of a long history of systemic racism, brutality, and inequality that continue to undermine the most basic rights of so many of our neighbors, family, friends, and fellow citizens.
-
-We are called to take action to reveal and work towards ending these injustices. Maps, both historical and contemporary, reflect and shape our lives. Where Black and other people of color have been subjected to violence, discrimination, and depredation, maps can expose these patterns, assist in identifying and addressing inequities, and enable us to act against them.
-
-We are renewed in our commitment to listen and educate ourselves more deeply about the racial dimensions of ingrained systems of domination, and to offer materials, free to all, that may help in this conversation. Here are just a few resources that show some of the geographic stakes of this struggle:
-
-* The [Racial Dot Map](https://web.archive.org/web/20210103173119/https://demographics.coopercenter.org/racial-dot-map/) of the United States allows you to see how strikingly segregated our cities remain in the present day
-* The [Mapping Police Violence](https://mappingpoliceviolence.org/%22%20/t%20%22_blank) project shows how Black people bear a disproportionate share of harm from police violence
-* Closer to home, the Metropolitan Area Planning Commission’s [State of Equity](https://equityagenda.mapc.org/) report maps patterns of racialized inequity in the Boston region
-
-In our own programs, we commit to examining and confronting these geographic patterns of injustice. We address the ways that maps have been used as instruments of oppression and tools of dominance, and explore how maps can be used to engender positive change. We will engage and amplify the voices of people of color in our interpretative programs. We will use maps to open discussion of the role of racism in the past and present. Perhaps most importantly, we will connect with and listen to communities of color, ask what more can we do, and do it humbly and justly.
-
-This is a process which will take not only individual reflection but a collective effort. We will work with colleagues in libraries, museums, educational institutions, and community groups around the world to build efforts actively dedicated to a more just society.
-
-_June 16, 2020_
 
 ## History of the Center
 
