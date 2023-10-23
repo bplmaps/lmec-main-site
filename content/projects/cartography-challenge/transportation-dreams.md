@@ -15,7 +15,7 @@ draft: true
 
 Do you ever dream of a better public transit system here in the U.S.? If so, you're not alone: over the past few years, imaginary maps of public transit systems have appeared all over the internet, garnering coverage in national magazines like *[Wired](https://www.wired.com/2014/01/fantasy-transit-maps/)* and *[Vox](https://www.vox.com/2021/3/10/22303355/gen-z-high-speed-rail-biden-map-meme-buttigieg)*.
 
-{{< figure src="https://lh6.googleusercontent.com/Gln-jx-WSMe5aZJbiQgMIwYiTPQi4SmbSexEtlx73-OG9ZRw8L3OtpR_u6xFBH24ISFczRjEJf3kTJwvRxgMD7vbiaTj0K3rJST8fVNuqJQbNL2k=w1280" alt="An imaginary map of a high speed rail network across the United States" caption="An imaginary map of a high speed rail network across the United States, from *[first cultural industries](https://www.ocf.berkeley.edu/~atwu/firstcultural/fci_main.html)*" class="figure-right" >}}
+{{< figure src="/images/blog/hsrusa.png" alt="An imaginary map of a high speed rail network across the United States" caption="An imaginary map of a high speed rail network across the United States, from *[first cultural industries](https://www.ocf.berkeley.edu/~atwu/firstcultural/fci_main.html)*" class="figure-right" >}}
 
 This [fictional map of a U.S. high-speed rail system](https://www.ocf.berkeley.edu/~atwu/firstcultural/fci_main.html), for example, routinely circulates in viral social media posts. At [r/imaginarysubwaymaps](https://www.reddit.com/r/imaginarysubwaymaps/), users share fictional rail networks for their own cities and towns.
 
