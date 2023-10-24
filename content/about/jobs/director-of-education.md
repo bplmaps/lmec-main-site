@@ -1,6 +1,7 @@
 ---
 title: "Job Posting: Director of Education & Educational Programs"
-draft: true
+published: false
+menu: false
 ---
 
 {{< alert-box title="Application deadline passed" type="warning" >}}
