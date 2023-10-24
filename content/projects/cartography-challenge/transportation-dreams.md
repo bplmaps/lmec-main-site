@@ -5,7 +5,6 @@ cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r692z/14
 description: Exploring immigration data through anything but choropleth maps
 weight: "7"
 tags: [transportation, getting around town, cartography challenges]
-draft: true
 
 ---
 
