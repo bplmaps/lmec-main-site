@@ -1,43 +1,74 @@
 ---
 title: Georeferencing
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149v336/739,972,3337,1774/,1200/0/default.jpg
-cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149v336/739,972,3337,1774/,1200/0/default.jpg
+backgroundImage: /images/blog/allmapsViewer.png
+cardImage: /images/blog/allmapsViewer.png
 description: Transform images of historic maps into layers that match onto modern web maps
 tags: ["collections","GIS","interactive"]
 type: "digital-project"
 weight: 6
 ---
+### What is georeferencing? 
+**Georeferencing** is the process of attaching coordinate data (latitude and longitude) to scanned images of maps. At the Leventhal Center, we use georeferencing to create new [Atlascope](https://atlascope.org) layers.
 
-{{< alert-box title="Retirement of Map Warper" >}}
+Our workflow depends on [Allmaps](#learn-more-about-allmaps), a free, open-source, and easy-to-use georeferencing software. Find answers to **frequently asked questions** about georeferencing below:
 
-As of August 2021, our crowdsourced georeferencing interface, Map Warper, is being phased out. Since then, the Map Center team has been supporting Bert Spaan's work on a next generation web georeferencing interface called [Allmaps](https://allmaps.org/), which will be ready for public use in fall 2022. You can still [browse maps that have been georeferenced](https://collections.leventhalmap.org/search?f%5Bgeoreferenced_bsi%5D%5B%5D=yes) or explore the fully-geotransformed [Atlascope collection](https://atlascope.org).
+- [How do I find georeferenced maps?](#finding-georeferenced-maps)
+- [How can I georeference a map?](#how-to-georeference-a-map)
+- [What's Allmaps?](#learn-more-about-allmaps)
 
-{{</ alert-box >}}
+### Finding georeferenced maps
 
-### What is georeferencing?
+<!-- ##### In LMEC collections -->
 
-Georeferencing is the process of attaching coordinate data (latitude and longitude) to scanned images of maps. This allows anyone to easily compare scanned maps with modern geographies. Check out the Map Center's [Atlascope tool](http://leventhalmap.org/projects/digital-projects/atlascope/) for an example of georeferencing in action.
+{{< figure src="/images/blog/georef.png" alt="The filter for viewing only georeferenced maps in LMEC digital collections" caption="The filter for viewing only maps that have been georeferenced in LMEC digital collections." class="figure-right" >}}
 
-<a class="btn btn-outline-primary btn-block" href="https://atlascope.org" target="blank"><i class="fa fa-map-signs" target="blank"></i> Go to Atlascope </a>
-<a class="btn btn-outline-primary btn-block" target="blank" href="https://cartinal.leventhalmap.org/guides/create-urban-atlas-data.html"><i class="fa fa-binoculars" target="blank"></i> Learn how Atlascope was made </a>
+You can view hundreds of georeferenced maps in the [LMEC digital collections portal](https://collections.leventhalmap.org).
+
+The portal provides a filter for viewing only maps that have been georeferenced. After searching for a term in our portal---for example, ["boston" AND "aerial view"](https://collections.leventhalmap.org/search?utf8=%E2%9C%93&q=%22boston%22+AND+%22aerial+view%22)---scroll down the page until you see a box titled "Georeferenced." 
+
+Clicking "Yes" or "No" will adjust the search, filtering for only maps that have (or have not) been georeferenced.
+
+<!-- ##### In other collections
+
+Many libraries, museums, and digital map collections offer services for viewing georeferenced maps. Here are just a few:
+* [David Rumsey Map Collection](https://www.davidrumsey.com/view/georeferenced-maps)---the DRMC hosts tens of thousands of georeferenced maps as part of their collection.
+* [OldInsuranceMaps](https://oldinsurancemaps.net/)---a platform for georeferencing and viewing Sanborn maps from the Library of Congress
+* [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/#loc=5/39.113/-94.57)---this project from the University of Richmond's Digital Scholarship Lab provides access to georeferenced HOLC maps that show  -->
 
 
-### How can I get started georeferencing?
+### How to georeference a map
 
-It's easy! Here at the Map Center, we have a portal for guides and documentation called [Cartinal](https://cartinal.leventhalmap.org). We've prepared a handy guide with instructions and resources for getting started with georeferencing.
+The easiest way to get started georeferencing is to simply visit the [LMEC's digital collections portal](https://collections.leventhalmap.org/) and identify the map that you want to georeference.
 
-In October 2021, we partnered with [Bert Spaan](https://bertspaan.nl/) to support his development of [Allmaps](https://allmaps.org/), a next-generation web georeferencing platform. By fall 2022, a custom implementation of Allmaps will be available for georeferencing LMEC materials. Stay tuned for updates!
+After selecting a map---let's use this [1934 map of townships in eastern Massachusetts](https://collections.leventhalmap.org/search/commonwealth:q524n357v) as an example---scroll down until you see the "Georeferencing" tab.
 
-<a class="btn btn-outline-primary btn-block" href="https://cartinal.leventhalmap.org/guides/georeference.html"><i class="fa fa-map-pin" target="blank"></i> Start georeferencing </a>
+If the map you're examining has been georeferenced already, you'll be prompted to {{<popup img-src="/images/blog/georef-existing-map.png" img-bib="/images/blog/georef-existing-map.png" class=popupTooltip target="blank">}}view the georeferenced map, improve it, or access its metadata.{{</popup>}} Alternatively, if the map you're examining has not yet been georeferenced, you'll be prompted to {{<popup img-src="/images/blog/georef-new-map.png" bib-src="/images/blog/georef-new-map.png" class=popupTooltip target="blank">}}georeference the map in Allmaps Editor.{{</popup>}}
 
-### Where can I browse georeferenced LMEC maps?
+To get started georeferencing, click on "Improve georeferencing" or "Georeference the map in Allmaps Editor." This will open the map directly in [Allmaps](https://editor.allmaps.org), an ecosystem for finding, creating, and sharing georeferencing maps.
 
-That's easy too! At Cartinal, we also have a guide for accessing, browsing, and using georeferenced maps.
+You can read our [tutorial on using Allmaps](https://cartinal.leventhalmap.org/guides/georeference.html) to learn more about the best practices for georeferencing.
 
-<a class="btn btn-outline-primary btn-block" href="https://cartinal.leventhalmap.org/guides/georeference.html"><i class="fa fa-map" target="blank"></i> Access georeferenced maps</a>
+{{< carousel >}}
+    {{< carousel-figure src="/images/blog/allmapsEditor.png" >}} **Georeferencing the [1934 map of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:q524n357v) townships in Allmaps Editor** {{< /carousel-figure >}}
+    {{< carousel-figure src="/images/blog/allmapsViewer.png" >}} **Viewing the [1934 map of Massachusetts townships](https://collections.leventhalmap.org/search/commonwealth:q524n357v) in Allmaps Viewer** {{< /carousel-figure >}}
+{{</ carousel >}}
 
-### I have another question...
+### Learn more about Allmaps
 
-... and we'll have another answer! Don't hesitate to reach out directly to our geospatial support team.
+Allmaps makes it easier and more inspiring to curate, georeference, and explore collections of digitized maps. Unlike traditional georeferencing software---which can often be complicated to use, and typically requires downloading and uploading very large image files---**Allmaps warps scanned maps entirely in the browser**. This lowers the barrier significantly for anybody who wants to create and view georeferenced maps.
 
-<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/research/geospatial/#make-request"><i class="fa fa-rocket" target="blank"></i> Make an appointment</a>
+##### The IIIF protocol
+
+In order to warp scanned maps in the web browser, Allmaps relies on the [international image interoperability framework (IIIF)](https://iiif.io/get-started/how-iiif-works/). IIIF is an open standard for storing and displaying high-resolution images and information about them. It's widely used by libraries across the world, many of which [contain maps](https://github.com/allmaps/iiif-map-collections/tree/main).
+
+##### Constraints make better data
+
+**Allmaps is only compatible with IIIF-compliant maps.** While this limits the number of maps that can be georeferenced using Allmaps, it also ensures that all maps georeferenced with Allmaps are rigorously described according to the prevailing metadata standards.
+
+##### Georeference any IIIF-compliant map
+
+You can georeference any map in LMEC collections with Allmaps, but you can also georeference *any IIIF-compliant map*. All you need is a **IIIF manifest**, or a unique identifier---much like the manifest of a flight or a ship---that contains all of the information associated with a given object. You can find instructions on accessing IIIF manifests for a particular institution at the [IIIF Consortium's resource page](https://iiif.io/guides/finding_resources/).
+
+##### Supported by the National Endowment for the Humanities
+
+LMEC's use of Allmaps is part of an ongoing grant project, funded by the National Endowment for the Humanities and the Institute of Museum and Library Services' Digital Humanities Advancement Grant program. If you'd like to learn more about the project, please contact [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/).
