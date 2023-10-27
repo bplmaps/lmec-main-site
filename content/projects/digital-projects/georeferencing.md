@@ -20,8 +20,6 @@ Georeferencing is sometimes known as *georectifying*, *geotransforming*, or *war
 
 ### Finding georeferenced maps
 
-<!-- ##### In LMEC collections -->
-
 {{< figure src="/images/blog/georef.png" alt="The filter for viewing only georeferenced maps in LMEC digital collections" caption="The filter for viewing only maps that have been georeferenced in LMEC digital collections." class="figure-right" >}}
 
 You can view hundreds of georeferenced maps in the [LMEC digital collections portal](https://collections.leventhalmap.org).
@@ -33,13 +31,6 @@ You can also filter for georeferenced maps using the [advanced search](https://c
 To view a georeferenced map as an overlay in an online map viewer, find the "Georeferencing" panel beneath the map image and click "**View this georeferenced map in Allmaps Viewer**".
 
 In addition to georeferenced maps in the digital collections portal, the [Atlascope](https://www.atlascope.org) portal for urban atlases also consists exclusively of map layers which have been georeferenced. 
-
-<!-- ##### In other collections
-
-Many libraries, museums, and digital map collections offer services for viewing georeferenced maps. Here are just a few:
-* [David Rumsey Map Collection](https://www.davidrumsey.com/view/georeferenced-maps)---the DRMC hosts tens of thousands of georeferenced maps as part of their collection.
-* [OldInsuranceMaps](https://oldinsurancemaps.net/)---a platform for georeferencing and viewing Sanborn maps from the Library of Congress
-* [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/#loc=5/39.113/-94.57)---this project from the University of Richmond's Digital Scholarship Lab provides access to georeferenced HOLC maps that show  -->
 
 ### Contributing to our georeferencing data
 
