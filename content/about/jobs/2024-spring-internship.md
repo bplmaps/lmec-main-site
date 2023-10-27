@@ -2,7 +2,7 @@
 title: Spring Internships 2024
 backgroundImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 cardImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
-draft: true
+draft: false
 menu: false
 ---
 
@@ -31,7 +31,8 @@ Geohumanities & GIS interns will learn how to use different kinds of geospatial 
 
 ### Compensation & Role Details
 
-* **Dates**: Wednesdays and one weekend day (Saturday or Sunday) from mid-January through mid-May 2024
+* **Dates**: Mid-January through mid-May 2024
+    * *Interns must be able to work at least one 4 hour shift on Wednesday between 9 am and 5 pm, and one 4 hour shift either Saturday 11-5 or Sunday 1-5.*
 * **Hours**: 6-10 hours/week
 * **Compensation**: $15.35/hour
 * This position is not eligible for health benefits.
