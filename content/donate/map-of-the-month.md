@@ -2,11 +2,7 @@
 title: Map of the Month Club
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg
-image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4634466/2291,2158,3532,2116/1200,/0/default.jpg
 description: Give every month and join our Map of the Month Club
-type: singleton
-suppressEmailPopup: true
 ---
 
 <a class="btn btn-primary btn-primary-outline btn-sm" href="#/?form=MAPOFTHEMONTH">Set up a recurring donation now</a>
@@ -34,4 +30,4 @@ Donations go directly to our historical geography work with students, educators,
 * **July 2023:** [Niagra Falls and Niagra River](https://collections.leventhalmap.org/search/commonwealth:79408317f)
 * **August 2023**: [MBTA Kids Guide Map](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/objects/)
 * **September 2023**: [Plan de Paris](https://collections.leventhalmap.org/search/commonwealth:mg74t285q)
-* **October 2023**: *Coming Soon*
+* **October 2023**: [The land of make believe](https://collections.leventhalmap.org/search/commonwealth:xs55qj04r)
