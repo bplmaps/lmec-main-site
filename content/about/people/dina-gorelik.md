@@ -5,5 +5,8 @@ headshot: 'https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463863p/73
 type: person
 staff_category: intern
 menu: false
+contact:
+- method: Email
+  details: "<dgorelik@leventhalmap.org>"
 ---
 
