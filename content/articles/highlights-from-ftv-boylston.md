@@ -3,46 +3,44 @@ title: 'Highlights From The Vault: Past and Future of Boylston Street'
 date: 2023-10-31T04:00:00.000Z
 author: Madeline Webster and Garrett Dash Nelson
 description: >-
-  Check out these highlights from last week's From The Vault: Hispanic Heritage
-  Month
+  Discover how Boylston Street has changed over time with this selection of documents shown at our October 27 "From the Vault"
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn54r/full/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w3765p468/2522,3542,6695,2394/,1200/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v720/full/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w3765p468/2522,3542,6695,2394/,1200/0/default.jpg
 tags:
   - from the vault
   - collections
+  - urban planning
 draft: true
 ---
 
-> On October 13th, we hosted [From The Vault: Hispanic Heritage Month](/event/ftv-histpanic-heritage/)! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at a few objects from our collections that explore Hispanic heritage.
+> On October 27, we hosted [From The Vault: Past and Future of Boylston Street](/event/ftv-bolyston-street/), together with our colleagues from the [Mayor's Office of New Urban Mechanics](https://www.boston.gov/departments/new-urban-mechanics) and the [Boston Transportation Department](https://www.boston.gov/departments/transportation). In this edition of From the Vault, we focused on a street that's near and dear to us at the Boston Public Library: Boylston Street, which is about to be redesigned in order to support multimodal transportation priorities. Boylston Street has changed considerably over time, and this event was an opportunity to look at how the past might inform the present and future of this important urban corridor.
 
-#### [*Tabula Moderna Hispaniae*](https://collections.leventhalmap.org/search/commonwealth:9g54xj72j) (1525)
+#### Before Boylston
 
-This 16th century [map](https://collections.leventhalmap.org/search/commonwealth:9g54xj72j), originally from Ptolemy’s *Geographia*, shows Spain and Portugal. Given the black-and-white coloring of this map, the mountainous parts of the Iberian peninsula are shown pictorially through the lightly shaded channels on the map.
+These three maps all show the location of today's Boylston Street before the modern street was laid out. On each map, the pink outline indicates the later location of Boylston Street from Arlington Street to Massachusetts Avenue.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xj73t/full/1200,/0/default.jpg" >}}
+{{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/ftv-boylston/boylston-on-pelham.jpeg" caption="Boylston Street superimposed atop an excerpt from the 1777 [Pelham map of Revolutionary War-era Boston], before the Back Bay neighborhood was filled" >}}
 
-#### Boston Redevelopment Authority, *[Boston's top 6 foreign languages spoken at home](https://collections.leventhalmap.org/search/commonwealth:0r96fn53g "Boston's top 6 foreign languages spoken at home")* (2010)
+The entire stretch of Boylston Street lies on former salt marshes. During the 1913 Boylston Street subway extension project, workers discovered evidence of fish weirs constructed and maintained 5,200-3,700 YBP (Years Before Present). Indigenous peoples built these wooden traps on the mudflats for harvesting herring between high and low tide, when herring would swim to deeper waters and get caught in the weir in transit.
 
-Based on survey data from 2006-2010, this Boston Redevelopment Authority [map](https://collections.leventhalmap.org/search/commonwealth:0r96fn53g) estimates Boston’s top 6 foreign languages spoken at home. Spanish appears to be spoken in a majority of the tracts.
+{{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/ftv-boylston/boylston-on-sears-plan.jpeg" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn54r/full/1200,/0/default.jpg" >}}
+This [1852 plan represents an early design for the neighborhood](https://collections.leventhalmap.org/search/commonwealth:cf95jd161) that would become the Back Bay, laid out on newly filled land. An ornamental lake would have formed the focal point of the neighborhood. While this plan was ultimately discarded, the idea of gridded streets that would serve in part as recreational amenities and promenades did become a key element of Back Bay’s urban landscape.
 
-#### Ernest Dudley Chase, [*The good neighbor pictorial map of South America*](https://collections.leventhalmap.org/search/commonwealth:0r96fn10p) (1942)
+{{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/ftv-boylston/boylston-on-back-bay.jpeg" >}}
 
-Ernest Dudley Chase, a 20th-century cartographer and famous Massachusetts resident, drew and published many pictorial maps in his day. [In this map](https://collections.leventhalmap.org/search/commonwealth:0r96fn10p), Chase emphasized architectural sites, people important to South America’s history—see Simón Bolívar at the lower right title block of the map—and several other characteristics of South America, including the common flora and fauna within its states and territories.
+This [1860 plan shows Boylston Street about half completed](https://collections.leventhalmap.org/search/commonwealth:1257bb23r), from Arlington to Exeter Street. The dotted outline of the tidal creek that still wound through Back Bay is visible just at the edge of the fill project, to the west and south of the Boylston-Exeter intersection.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn11z/full/1200,/0/default.jpg" class="" >}}
 
-#### Huych Allard, [*Americae*](https://collections.leventhalmap.org/search/commonwealth:st74cw74s) (1660)
+#### Fuller & Whitney Co., Schedules of land sales, 1881-1882
 
-Published in the 17th century, [*Americae*](https://collections.leventhalmap.org/search/commonwealth:st74cw74s) maps North and South America. Among the interesting aspects of this map, one is that it depicts the present-day U.S. state of California as an island separated from the rest of the country, a common myth at the time. A second point of note is that the present-day North American country of Mexico is labeled “Hispania Nova,” or “New Spain”—this map was published about 160 years before Mexico became an independent country.
+{{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/ftv-boylston/fuller-whitney.jpg" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw752/full/1200,/0/default.jpg" >}}
+Back Bay was Boston’s largest single project of land reclamation and real estate speculation. Hundreds of new parcels of property were created on former tidal lands and then sold, and these blueprints document that process. Many élite institutions, such as New Old South Church and the Massachusetts Institute of Technology, located themselves along Boylston Street. In 1895, the Boston Public Library opened the building you are standing in right now, at 700 Boylston Street.
 
-#### Geoffrey Owen, [*A map of the West Indies and the Spanish Main*](https://collections.leventhalmap.org/search/commonwealth:0r96fn127) (1949)
+#### 
 
-[*A map of the West Indies and the Spanish Main*](https://collections.leventhalmap.org/search/commonwealth:0r96fn127) provides a view of an area generally referred to today as the Caribbean. This map is rich in small details that only partially explore the Caribbean’s turbulent colonial history. Text such as “Columbus discovers Trinidad,” and the vignette on the title block—which depicts indigenous peoples battling colonizers with large, imposing ships—give a sense of the conflicts that occurred, and perhaps a sense of how such conflicts led to the present-day culture on the islands.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn13h/full/1200,/0/default.jpg" >}}
+
