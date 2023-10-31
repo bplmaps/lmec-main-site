@@ -1,5 +1,5 @@
 ---
-title: Improved features for georeferencing our digital collections portal
+title: Improved features for georeferencing in our digital collections portal
 date: 2023-10-30T04:00:00.000Z
 author: Ian Spangler
 description: >-
