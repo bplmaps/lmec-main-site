@@ -77,13 +77,21 @@ While at first [the TV cameraperson](https://www.digitalcommonwealth.org/search/
 
 Horsecar tracks were extended westward down Boylston St. from Charles St. to Clarendon St. in the 1870s, and on to Mass. Ave in the 1880s. By 1890, passengers originating in Brookline and Cambridge could reach Boylston St.’s many cultural institutions by electrified streetcars operated by the West End Railway. Designated stopping points were marked with white-painted bands on poles, though it appears the woman hopping on the streetcar in this photograph caught it early while paused in traffic.
 
+---
+
 {{< figure src="https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a13000/4a13500/4a13540r.jpg" caption="[Library of Congress](https://lccn.loc.gov/2016806175), Prints & Photographs Division" class="figure-right" >}}
 
 The corner of Clarendon and Boylston outside the Hotel Brunswick was a dynamic spot at the turn of the century. Look closely, and you’ll see two hotel guests taking in the sights of horses, pigeons, and a dog interacting with people making their way through the city by foot, bicycle, streetcar, automobile, and horse-drawn carriage.
+
+---
 
 {{< figure src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:fb497j23m/image_thumbnail_300.jpg" caption="[City of Boston Archives](https://cityofboston.access.preservica.com/uncategorized/IO_2d5747fa-cee1-44f7-a1db-d379369464bf/)" class="figure-left" >}}
 
 This photograph has it all—subway construction, automobiles, streetcars, horse-drawn wagons, and the Boston & Albany Railyard. It is hard to imagine the noise created by all of this commotion going on at once.
 
-{{< figure src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:9k420b88c/image_thumbnail_300.jpg" caption="[City of Boston Archives](https://cityofboston.access.preservica.com/uncategorized/IO_3f9a3ecc-80e4-439b-9365-6a9607aca68b/)" class="figure-right" >}} In 1941, the Works Progress Administration and the Highway Division of the City’s Public Works Department removed the streetcar tracks from Boylston St. shortly after the opening of the Huntington Avenue subway.
+---
+
+{{< figure src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:9k420b88c/image_thumbnail_300.jpg" caption="[City of Boston Archives](https://cityofboston.access.preservica.com/uncategorized/IO_3f9a3ecc-80e4-439b-9365-6a9607aca68b/)" class="figure-right" >}}
+
+In 1941, the Works Progress Administration and the Highway Division of the City’s Public Works Department removed the streetcar tracks from Boylston St. shortly after the opening of the Huntington Avenue subway.
 
