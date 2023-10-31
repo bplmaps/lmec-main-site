@@ -5,6 +5,8 @@ title: Rename the MBTA Map
 
 ### Put your name on the map in our November fundraiser
 
+<a class="btn btn-primary btn-primary-outline btn-sm" href="https://lmec.betterworld.org/auctions/transit-fundraiser">Bid on a station name</a>
+
 The names of the stations of the MBTA map are iconic landmarks of Boston's geography. But have you ever thought you could come up with more interesting names?  In the month of November, we're asking you to help us re-name the stations of the MBTA through a fundraising auction that will support educational programming in our [_Getting Around Town_](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/) exhibition. Whether you want to rename Oak Grove to Middlesex Fells, show some college rivalry by turning Northeastern station into Wentworth, or simply put your own name on top of Downtown Crossing, this is your chance to make the station names your own.
 
 Get started by placing a $5 or $10 bid on your favorite station on the Red, Orange, Green, or Blue lines. The highest bidder for each station will choose the new name and will receive a copy of the final re-named map, and a large-format version of the map will hang in our gallery for the rest of the _Getting Around Town_ exhibition. View the [full list of stations here and choose one](https://lmec.betterworld.org/auctions/transit-fundraiser) to make your first bid!
