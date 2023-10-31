@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Rename the map of Boston's subway system
 description: Put your name on the map in our November fundraiser
 ---
