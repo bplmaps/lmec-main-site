@@ -1,7 +1,7 @@
 ---
 draft: true
 title: Rename the map of Boston's subway system
-subtitle: Put your name on the map in our November fundraiser
+description: Put your name on the map in our November fundraiser
 ---
 
 <a class="btn btn-primary btn-primary-outline btn-sm" href="https://lmec.betterworld.org/auctions/transit-fundraiser">Bid on a station name</a>
