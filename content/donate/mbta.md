@@ -17,9 +17,11 @@ Submit your bid by **midnight on Tuesday, November 28**, when the auction ends. 
 
 **Giving Tuesday is right around the corner, and your generosity will go a long way to furthering our mission. Thank you for your support.**
 
+<a class="btn btn-primary btn-primary-outline btn-sm" href="https://lmec.betterworld.org/auctions/transit-fundraiser">Bid on a station name</a>
+
 #### More information
 
-* We've made some editorial choices to omit the Silver Line and commuter rail lines, and we've trimmed off the long ends of the Green Line, simply to keep the number of stops manageable.
+* We've made some editorial choices to omit the Silver Line, Mattapan Line, and commuter rail lines, and we've trimmed off the long ends of the Green Line, simply to keep the number of stops manageable.
 * This is an educational fundraiser for the Leventhal Map & Education Center and in no way an official project of the MBTA. The renamed stations will be appearing on a special edition map for the _Getting Around Town_ exhibition, but this auction in no way implies any official renaming of stations by the MBTA itself.
 * The Leventhal Center, at its sole discretion, may reject proposed names that contain hate speech or content that is inapporpriate for young audiences.
 
