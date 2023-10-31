@@ -57,11 +57,33 @@ In the 1890s, when [this map](https://collections.leventhalmap.org/search/common
 
 {{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/exhibitions/getting-around-town/cw-4/4.1C-BERy%201930%20Back%20Bay%20Pictoral%20Map.jpg" >}}
 
-In 1922, BERy added its first bus lines to Boston streets. These early routes replaced less-frequented streetcar lines or extended service to new areas. A rarer approach was taken on busy Boylston St., which [https://bpl.bibliocommons.com/v2/record/S75C2764739](https://bpl.bibliocommons.com/v2/record/S75C2764739) hosted a streetcar line, a bus route, and a subway line below. According to this map, few other streets were as multimodal.
+In 1922, BERy added its first bus lines to Boston streets. These early routes replaced less-frequented streetcar lines or extended service to new areas. A rarer approach was taken on busy Boylston St., which [as of 1930](https://bpl.bibliocommons.com/v2/record/S75C2764739) hosted a streetcar line, a bus route, and a subway line below. According to this map, few other streets were as multimodal.
 
 #### Boston Redevelopment Authority, *Boylston Street Improvements* (ca. 1970s)
 
-{{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/exhibitions/getting-around-town/cw-4/4.1C-BERy%201930%20Back%20Bay%20Pictoral%20Map.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w3765p468/full/,1200/0/default.jpg" >}}
 
-In the late 1970s, the BRA added new fixtures to the sidewalks—trees, new paving materials, planters, benches, street lights—as seen in this plan for the block between Mass. Ave. and Hemenway St. Note how the modern globe lights in the plan predate the neo-Victorian street lights on the street today.
+[In the late 1970s](https://collections.leventhalmap.org/search/commonwealth:9z905j23n), the BRA added new fixtures to the sidewalks—trees, new paving materials, planters, benches, street lights—as seen in this plan for the block between Mass. Ave. and Hemenway St. Note how the modern globe lights in the plan predate the neo-Victorian street lights on the street today.
+
+#### WGBH, *Ten O'Clock News* (May 7, 1982)
+
+{{<  figure src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:m039kd822/image_thumbnail_300.jpg" >}}
+
+While at first [the TV cameraperson](https://www.digitalcommonwealth.org/search/commonwealth-oai:vq280228q) seems focused on capturing the old Hynes Convention Center, they can’t help but turn their attention to the daredevil roller skater treating Boylston St. as his roller rink. Bicyclists passing through the Mass. Ave. intersection onto Boylston also get their moment in the spotlight.
+
+#### Boylston in Photographs
+
+{{< figure src="https://bpldcassets.blob.core.windows.net/derivatives/images/commonwealth:66830204c/image_access_800.jpg" caption="[Boston Pictorial Archive](https://www.digitalcommonwealth.org/search/commonwealth:668302033), Boston Public Library Arts Department" class="figure-left" >}}
+
+Horsecar tracks were extended westward down Boylston St. from Charles St. to Clarendon St. in the 1870s, and on to Mass. Ave in the 1880s. By 1890, passengers originating in Brookline and Cambridge could reach Boylston St.’s many cultural institutions by electrified streetcars operated by the West End Railway. Designated stopping points were marked with white-painted bands on poles, though it appears the woman hopping on the streetcar in this photograph caught it early while paused in traffic.
+
+{{< figure src="https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a13000/4a13500/4a13540r.jpg" caption="[Library of Congress](https://lccn.loc.gov/2016806175), Prints & Photographs Division" class="figure-right" >}}
+
+The corner of Clarendon and Boylston outside the Hotel Brunswick was a dynamic spot at the turn of the century. Look closely, and you’ll see two hotel guests taking in the sights of horses, pigeons, and a dog interacting with people making their way through the city by foot, bicycle, streetcar, automobile, and horse-drawn carriage.
+
+{{< figure src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:fb497j23m/image_thumbnail_300.jpg" caption="[City of Boston Archives](https://cityofboston.access.preservica.com/uncategorized/IO_2d5747fa-cee1-44f7-a1db-d379369464bf/)" class="figure-left" >}}
+
+This photograph has it all—subway construction, automobiles, streetcars, horse-drawn wagons, and the Boston & Albany Railyard. It is hard to imagine the noise created by all of this commotion going on at once.
+
+{{< figure src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:9k420b88c/image_thumbnail_300.jpg" caption="[City of Boston Archives](https://cityofboston.access.preservica.com/uncategorized/IO_3f9a3ecc-80e4-439b-9365-6a9607aca68b/)" class="figure-right" >}} In 1941, the Works Progress Administration and the Highway Division of the City’s Public Works Department removed the streetcar tracks from Boylston St. shortly after the opening of the Huntington Avenue subway.
 
