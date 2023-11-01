@@ -38,7 +38,7 @@ from the Atlas Collections,* will draw on the Center's collection of
 fire insurance and real estate atlases to tell the story of small-scale
 local change from the late nineteenth century onwards. These collections
 are the same ones that appear in the Center's
-[Atlascope](https://atlascope.leventhalmap.org) digital discovery tool.
+[Atlascope](https://atlascope.org) digital discovery tool.
 *Building Up* will feature both historical atlases and original
 materials on display in the Center's gallery at the Central Library in
 Copley Square, as well as potential moving installations to be shown at

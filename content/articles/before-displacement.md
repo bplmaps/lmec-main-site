@@ -22,7 +22,7 @@ streets.
 
 We wanted to learn about the buildings, business owners,
 residents, community groups, and infrastructure that occupied this land
-before the construction of the highway. One of the most invaluable tools in our collective research project was the [Atlascope tool](https://atlascope.leventhalmap.org) built by the Leventhal Map & Education Center. Each student investigated a single parcel of
+before the construction of the highway. One of the most invaluable tools in our collective research project was the [Atlascope tool](https://atlascope.org) built by the Leventhal Map & Education Center. Each student investigated a single parcel of
 land, and thanks to Atlascope, they were able to mine historic maps for
 information about the buildings, businesses, and landowners on their
 parcel. These findings empowered further research in historic

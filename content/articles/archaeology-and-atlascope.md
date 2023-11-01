@@ -8,13 +8,13 @@ tags = ["Atlascope", "Boston"]
 title = "Archaeology and Atlascope"
 
 +++
-Last week I spoke with [Joe Bagley, Boston's city archaeologist](https://www.boston.gov/departments/archaeology/joe-bagley) about our tool [Atlascope](https://atlascope.leventhalmap.org) and how he uses it to do work that is vital to Boston historical research. In the Atlascope project, we digitally transformed atlases of Boston and its inner suburbs, covering a period from about 1860-1940, in order to line them up with modern day maps of the city. This process involves _georeferencing_, which basically means we've matched points on a historic map and corresponding points on a modern map, so that they can be warped into a format that can be overlaid on a web map. We also had to manually trace the outlines of each oddly-shaped page (or "plate") of each atlas, so that we could digitally cut them out and stitch them together into a single map. Though this process took thousands of hours, the end result is a much easier and more powerful method for browsing this incredible collection.
+Last week I spoke with [Joe Bagley, Boston's city archaeologist](https://www.boston.gov/departments/archaeology/joe-bagley) about our tool [Atlascope](https://atlascope.org) and how he uses it to do work that is vital to Boston historical research. In the Atlascope project, we digitally transformed atlases of Boston and its inner suburbs, covering a period from about 1860-1940, in order to line them up with modern day maps of the city. This process involves _georeferencing_, which basically means we've matched points on a historic map and corresponding points on a modern map, so that they can be warped into a format that can be overlaid on a web map. We also had to manually trace the outlines of each oddly-shaped page (or "plate") of each atlas, so that we could digitally cut them out and stitch them together into a single map. Though this process took thousands of hours, the end result is a much easier and more powerful method for browsing this incredible collection.
 
 <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011690$zoom:18.00$center:-7912249.749638192,5213474.650418332$mode:opacity$pos:42" title="Map of Boston Public Library at Copley Square"></iframe>
 
 _A hopefully familiar example for many library users, this is what Atlascope can show! Play around here in this embedded view, or go to the full website._
 
-This tool helps improve access to these materials that are vital to understanding local history and historical geography. So if you have a geography-related research project brewing, [check it out](https://atlascope.leventhalmap.org)! You don't have to be a professional archaeologist to dig in.
+This tool helps improve access to these materials that are vital to understanding local history and historical geography. So if you have a geography-related research project brewing, [check it out](https://atlascope.org)! You don't have to be a professional archaeologist to dig in.
 
 ### An archaeologist's evidence
 

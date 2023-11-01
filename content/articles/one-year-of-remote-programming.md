@@ -22,7 +22,7 @@ We will actually be continuing _Angles on Bending Lines_ this spring with a new 
 
 ### Atlascope
 
-Right before COVID, we started bringing our [Atlascope tool](https://atlascope.leventhalmap.org) to branch libraries of the BPL to show patrons how to use it to do historical geography research. You can play with Atlascope here or click through to the full version:
+Right before COVID, we started bringing our [Atlascope tool](https://atlascope.org) to branch libraries of the BPL to show patrons how to use it to do historical geography research. You can play with Atlascope here or click through to the full version:
 
 <iframe width="100%" height="315" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011690$zoom:18.00$center:-7912349.11775309,5213465.57356861$mode:glass$pos:132"></iframe>
 

@@ -26,7 +26,7 @@ _New LMEC webmap to easily find any town corner_
 
 {{< figure src="/images/blog/tc-5.jpg" caption="[Atlas of the boundaries of the town of Kingston](https://bpl.bibliocommons.com/v2/record/S75C2764806) in the LMEC collections" class="figure-right" >}}
 
-We love maps that make historic documents more accessible and engaging, like our [Atlascope](https://atlascope.leventhalmap.org) viewer for fire insurance and real estate atlases. The historic town boundaries atlases in the LMEC's physical collections are rich, highly detailed resources. With maps, legal descriptions, tables, and sometimes even photographs, they are full of information. Statistical tables include geographic [triangulation stations](https://en.wikipedia.org/wiki/Triangulation_station) and the distances between them. Hand drawn indicator maps, show the locational details of town corners, noting features like buildings, fences, sewer lines, vegetation, and waterways.
+We love maps that make historic documents more accessible and engaging, like our [Atlascope](https://atlascope.org) viewer for fire insurance and real estate atlases. The historic town boundaries atlases in the LMEC's physical collections are rich, highly detailed resources. With maps, legal descriptions, tables, and sometimes even photographs, they are full of information. Statistical tables include geographic [triangulation stations](https://en.wikipedia.org/wiki/Triangulation_station) and the distances between them. Hand drawn indicator maps, show the locational details of town corners, noting features like buildings, fences, sewer lines, vegetation, and waterways.
 
 {{< carousel >}}
 

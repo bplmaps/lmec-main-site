@@ -29,7 +29,7 @@ The Map Center has made extensive efforts to continue research, educational, and
 * [Book a virtual visit](/education/k12/school-visits) with our K-12 educators
 * [Remote Resources](/education/university) for university teaching
 * [Information about our digital collections](/collections/digital-collections)
-* A list of our [Digital Projects](/projects/digital-projects), including the new [Atlascope](https://atlascope.leventhalmap.org) portal for exploring Boston's historical geography
+* A list of our [Digital Projects](/projects/digital-projects), including the new [Atlascope](https://atlascope.org) portal for exploring Boston's historical geography
 * All of our [events](/event) are being broadcast digitally for free
 
 {{< alert-box type="info" >}} This information was last updated July 27, 2021. {{< /alert-box >}}
