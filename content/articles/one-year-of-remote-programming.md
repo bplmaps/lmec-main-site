@@ -22,9 +22,9 @@ We will actually be continuing _Angles on Bending Lines_ this spring with a new 
 
 ### Atlascope
 
-Right before COVID, we started bringing our [Atlascope tool](https://atlascope.leventhalmap.org) to branch libraries of the BPL to show patrons how to use it to do historical geography research. You can play with Atlascope here or click through to the full version:
+Right before COVID, we started bringing our [Atlascope tool](https://atlascope.org) to branch libraries of the BPL to show patrons how to use it to do historical geography research. You can play with Atlascope here or click through to the full version:
 
-<iframe width="100%" height="315" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011690$zoom:18.00$center:-7912349.11775309,5213465.57356861$mode:glass$pos:132"></iframe>
+<iframe width="100%" height="315" src="https://atlascope.org/#view:embed$base:000$overlay:39999059011690$zoom:18.00$center:-7912349.11775309,5213465.57356861$mode:glass$pos:132"></iframe>
 
 Not only have we been to nearly a dozen branches and other libraries at this point, many virtually (including [Jamaica Plain](https://youtu.be/6KTCWKqmJeE), [East Boston](https://youtu.be/r2LtUDC30xw), [South End](https://youtu.be/d_IesdOUuNI), [Fields Corner](https://youtu.be/-iPoFOe8icQ), [Uphams Corner](https://youtu.be/fyagZWMF1I8), [West Roxbury](https://youtu.be/eeO-Bn5v_f0), [North End](https://youtu.be/pbKFVVzEq1I), and the [Cambridge Public Library](https://youtu.be/riD6_FDWuYw)), we've also done several fun trivia nights themed around our urban atlases.
 

@@ -54,7 +54,7 @@ More specifically, I admire the initiative that the LMEC has taken to expand int
 
 **GN**: We're thrilled to be working with you on all of these topics. What are _you_ most excited about getting started on first?
 
-**IS**: Perhaps predictably, one of the things I'm most excited about is diving into the amazing digital mapping tools that are on offer here at the LMEC. [Atlascope](https://atlascope.leventhalmap.org), our tool for examining and comparing historical atlases in Boston, was one of the first things that really stuck out to me about the LMEC. I can't wait to get more involved with Atlascope's development, not to mention the other exciting [georeferencing](https://cartinal.leventhalmap.org/guides/georeference.html) projects that we have on the docket.
+**IS**: Perhaps predictably, one of the things I'm most excited about is diving into the amazing digital mapping tools that are on offer here at the LMEC. [Atlascope](https://atlascope.org), our tool for examining and comparing historical atlases in Boston, was one of the first things that really stuck out to me about the LMEC. I can't wait to get more involved with Atlascope's development, not to mention the other exciting [georeferencing](https://cartinal.leventhalmap.org/guides/georeference.html) projects that we have on the docket.
 
 **GN**: Do you have any memories of maps that inspired you, or really spoke to you?
 

@@ -19,7 +19,7 @@ What was Boston's first public transit line? In what year did it begin operation
 
 Join the [Leventhal Map and Education Center](https://www.leventhalmap.org/) with the [Massachusetts Historical Society](https://www.masshist.org/) for a trivia night on Boston's transit history.
 
-Trivia rounds will feature a geographic scavenger hunt using [Atlascope](https://atlascope.leventhalmap.org/), knowledge about the city's rails, routes, streets, stations, and more!
+Trivia rounds will feature a geographic scavenger hunt using [Atlascope](https://atlascope.org/), knowledge about the city's rails, routes, streets, stations, and more!
 
 Registration is encouraged but not required. You may participate individually or as a member of a team. This event will be held in person in the Newsfeed Café at the [Central Library](https://www.bpl.org/locations/3/) in Copley Square.
 

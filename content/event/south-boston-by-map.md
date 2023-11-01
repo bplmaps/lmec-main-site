@@ -16,6 +16,6 @@ title = "South Boston By Map"
 
 What was the South Boston branch of the Boston Public Library before it became a library? Who lived in South Boston in the late 19th and early 20th centuries? What was the neighborhood like?
 
-These questions and yours will be addressed at a fun, interactive exploration through the geography of South Boston, 1874-1919. We'll be using our tool [Atlascope](https://atlascope.leventhalmap.org) to do much of the exploring, which shows street atlases of Boston from those years!
+These questions and yours will be addressed at a fun, interactive exploration through the geography of South Boston, 1874-1919. We'll be using our tool [Atlascope](https://atlascope.org) to do much of the exploring, which shows street atlases of Boston from those years!
 
 Join us and the South Boston branch of BPL for a tour of the neighborhood.

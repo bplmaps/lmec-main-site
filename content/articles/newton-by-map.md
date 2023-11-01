@@ -12,7 +12,7 @@ On May 10, we hosted Newton By Map, a historical geography "neighborhood by map"
 
 The town now called Newton was first settled by colonists in 1630, the same year the city of Boston was founded. We don't have property atlases from back then, but it was incorporated as a city in 1874, and we _do_ have an atlas from that year!
 
-<iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059015832b$overlay:39999059015832a$zoom:15.87$center:-7925082.235453294,5214330.75325575$mode:glass$pos:228"></iframe>
+<iframe width="100%" height="550" src="https://atlascope.org/#view:embed$base:39999059015832b$overlay:39999059015832a$zoom:15.87$center:-7925082.235453294,5214330.75325575$mode:glass$pos:228"></iframe>
 
 This view of Atlascope shows that colorful Hopkins atlas. The same atlas consisted of two parts: a less-detailed map covering all of Newton, and a zoomed in section along Washington St. with more detail. These two different scale maps appear as two different "layers" in Atlascope.
 
@@ -20,7 +20,7 @@ This view of Atlascope shows that colorful Hopkins atlas. The same atlas consist
 
 If we compare that 1874 atlas to the newest atlas we have for Newton, which is from 1929, we can see how land was developed and broken up over time. This view of Silver Lake below is a great example of larger estates and undeveloped land being divided up into smaller, more built-up plots.
 
-<iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059015808$overlay:39999059015832b$zoom:17.45$center:-7926546.537367387,5215117.366282928$mode:swipe-x$pos:0.5019633507853403"></iframe>
+<iframe width="100%" height="550" src="https://atlascope.org/#view:embed$base:39999059015808$overlay:39999059015832b$zoom:17.45$center:-7926546.537367387,5215117.366282928$mode:swipe-x$pos:0.5019633507853403"></iframe>
 
 This also explains where Silver Lake Ave. got its name! Without maps like these that allow us to compare the past to modern day geography, we wouldn't be able to solve this mystery.
 
@@ -28,7 +28,7 @@ This also explains where Silver Lake Ave. got its name! Without maps like these 
 
 Newton had quite a few fabric and clothes factories in the late 19th and early 20th centuries.
 
-<iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059015840a$zoom:18.06$center:-7931991.863815056,5209811.0308461245$mode:glass$pos:601"></iframe>
+<iframe width="100%" height="550" src="https://atlascope.org/#view:embed$base:000$overlay:39999059015840a$zoom:18.06$center:-7931991.863815056,5209811.0308461245$mode:glass$pos:601"></iframe>
 
 Hosiery usually means stockings, although in this case it could also be a euphemism for all ladies' undergarments. Shoddy is a type of recycled wool or wool fabric made by shredding wool rags and reconstituting them.
 

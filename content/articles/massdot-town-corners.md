@@ -26,7 +26,7 @@ _New LMEC webmap to easily find any town corner_
 
 {{< figure src="/images/blog/tc-5.jpg" caption="[Atlas of the boundaries of the town of Kingston](https://bpl.bibliocommons.com/v2/record/S75C2764806) in the LMEC collections" class="figure-right" >}}
 
-We love maps that make historic documents more accessible and engaging, like our [Atlascope](https://atlascope.leventhalmap.org) viewer for fire insurance and real estate atlases. The historic town boundaries atlases in the LMEC's physical collections are rich, highly detailed resources. With maps, legal descriptions, tables, and sometimes even photographs, they are full of information. Statistical tables include geographic [triangulation stations](https://en.wikipedia.org/wiki/Triangulation_station) and the distances between them. Hand drawn indicator maps, show the locational details of town corners, noting features like buildings, fences, sewer lines, vegetation, and waterways.
+We love maps that make historic documents more accessible and engaging, like our [Atlascope](https://atlascope.org) viewer for fire insurance and real estate atlases. The historic town boundaries atlases in the LMEC's physical collections are rich, highly detailed resources. With maps, legal descriptions, tables, and sometimes even photographs, they are full of information. Statistical tables include geographic [triangulation stations](https://en.wikipedia.org/wiki/Triangulation_station) and the distances between them. Hand drawn indicator maps, show the locational details of town corners, noting features like buildings, fences, sewer lines, vegetation, and waterways.
 
 {{< carousel >}}
 
@@ -36,7 +36,7 @@ We love maps that make historic documents more accessible and engaging, like our
 
 {{< /carousel >}}
 
-Making digital reference maps that aid in finding historic materials is a lot of work. For example, our GIS interns spent over a year creating the digitized maps that are part of [Atlascope](https://atlascope.leventhalmap.org/). We were really excited to find that MassDOT had already created data for town corner atlases, which gave us an opportunity to bring in our specialization in public engagement. Our [town corners web map](https://geoservices.leventhalmap.org/town-corners/), therefore, is a demonstration of how data goes through many stages of its life: from the original surveyors in the early 1900s, to the GIS conversion carried out by MassDOT, and now the LMEC's public-facing web discovery tool.
+Making digital reference maps that aid in finding historic materials is a lot of work. For example, our GIS interns spent over a year creating the digitized maps that are part of [Atlascope](https://atlascope.org/). We were really excited to find that MassDOT had already created data for town corner atlases, which gave us an opportunity to bring in our specialization in public engagement. Our [town corners web map](https://geoservices.leventhalmap.org/town-corners/), therefore, is a demonstration of how data goes through many stages of its life: from the original surveyors in the early 1900s, to the GIS conversion carried out by MassDOT, and now the LMEC's public-facing web discovery tool.
 
 ### Interview
 

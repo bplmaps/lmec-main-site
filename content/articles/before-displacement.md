@@ -22,7 +22,7 @@ streets.
 
 We wanted to learn about the buildings, business owners,
 residents, community groups, and infrastructure that occupied this land
-before the construction of the highway. One of the most invaluable tools in our collective research project was the [Atlascope tool](https://atlascope.leventhalmap.org) built by the Leventhal Map & Education Center. Each student investigated a single parcel of
+before the construction of the highway. One of the most invaluable tools in our collective research project was the [Atlascope tool](https://atlascope.org) built by the Leventhal Map & Education Center. Each student investigated a single parcel of
 land, and thanks to Atlascope, they were able to mine historic maps for
 information about the buildings, businesses, and landowners on their
 parcel. These findings empowered further research in historic
@@ -52,7 +52,7 @@ Artery.
 
 *—Paige Epp*
 
-<iframe width="100%" height="400" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011526$zoom:19.32$center:-7910318.662288891,5213631.324780119$mode:glass$pos:289"></iframe>
+<iframe width="100%" height="400" src="https://atlascope.org/#view:embed$base:000$overlay:39999059011526$zoom:19.32$center:-7910318.662288891,5213631.324780119$mode:glass$pos:289"></iframe>
 
 
 
@@ -69,7 +69,7 @@ commercial buildings on Atlantic Avenue.
 
 *—Sydney Fisher*
 
-<iframe width="100%" height="400" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999085945739$zoom:19.75$center:-7909615.243442572,5214169.603584346$mode:glass$pos:289"></iframe>
+<iframe width="100%" height="400" src="https://atlascope.org/#view:embed$base:000$overlay:39999085945739$zoom:19.75$center:-7909615.243442572,5214169.603584346$mode:glass$pos:289"></iframe>
 
 
 ### Congestion in Clinton Market
@@ -85,7 +85,7 @@ advertising.
 
 *—Elyse Cote*
 
-<iframe width="100%" height="400" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011690$zoom:18.26$center:-7909440.828439227,5215145.796240358$mode:glass$pos:342"></iframe>
+<iframe width="100%" height="400" src="https://atlascope.org/#view:embed$base:000$overlay:39999059011690$zoom:18.26$center:-7909440.828439227,5215145.796240358$mode:glass$pos:342"></iframe>
 
 
 ### Brothels before the Big Dig
@@ -102,7 +102,7 @@ and as well as a sense of power and ownership.
 
 *—Renata Palau*
 
-<iframe width="100%" height="400" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999085945739$zoom:18.64$center:-7910018.230601404,5215448.182299385$mode:glass$pos:342"></iframe>
+<iframe width="100%" height="400" src="https://atlascope.org/#view:embed$base:000$overlay:39999085945739$zoom:18.64$center:-7910018.230601404,5215448.182299385$mode:glass$pos:342"></iframe>
 
 ### An influential family's mark on the city
 
