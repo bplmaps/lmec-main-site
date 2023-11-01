@@ -11,7 +11,7 @@ type: singleton
 
 ### 1. Introduction 
 
-The Norman B. Leventhal Map & Education Center (“LMEC”) is committed to protecting the privacy of its online guests, visitors, donors, and friends. We understand that maintaining privacy on our websites (leventhalmap.org, collections.leventhalmap.org, geo.leventhalmap.org, atlascope.org, atlascope.org, geoservices.leventhalmap.org, newworld.leventhalmap.org and mapsbpl.thankyou4caring.org, herein collectively “websites”) is very important and that informing our visitors about the types of information we collect and how we use it is crucial to our mission.
+The Norman B. Leventhal Map & Education Center (“LMEC”) is committed to protecting the privacy of its online guests, visitors, donors, and friends. We understand that maintaining privacy on our websites (leventhalmap.org, collections.leventhalmap.org, geo.leventhalmap.org, atlascope.leventhalmap.org, atlascope.org, geoservices.leventhalmap.org, newworld.leventhalmap.org and mapsbpl.thankyou4caring.org, herein collectively “websites”) is very important and that informing our visitors about the types of information we collect and how we use it is crucial to our mission.
 
 ### 2. Types of Information Collected 
 

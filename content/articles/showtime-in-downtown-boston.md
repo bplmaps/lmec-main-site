@@ -16,13 +16,13 @@ Welcome back to the [BRA Collection](https://collections.leventhalmap.org/collec
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cx037/full/,1200/0/default.jpg" caption="" class="figure-center" >}}
 
-The cluster of theaters centered on Tremont and Washington Streets had a long history before this 1988 redevelopment map was drawn up. The opera house, for example, was already the Academy of Music in 1861, the oldest urban atlas layer visible on [Atlascope](http://atlascope.org).
+The cluster of theaters centered on Tremont and Washington Streets had a long history before this 1988 redevelopment map was drawn up. The opera house, for example, was already the Academy of Music in 1861, the oldest urban atlas layer visible on [Atlascope](http://atlascope.leventhalmap.org).
 
-<iframe width="600" height="550" src="https://atlascope.org/#view:embed$base:000$overlay:39999059012045$zoom:20.00$center:-7910656.661198085,5214204.195716886$mode:glass$pos:196"></iframe>
+<iframe width="600" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059012045$zoom:20.00$center:-7910656.661198085,5214204.195716886$mode:glass$pos:196"></iframe>
 
 The Academy of Music property became the Boston Theatre, which was replaced by the Keith Memorial Theatre by 1928. In this Atlascope view, swipe back and forth to see what changed in the neighborhood in between 1922 and 1928. While the Boston Theatre changes its name to the Keith Memorial Theatre and expands its footprint over this period, other theaters remained the same across this six year span, including the Bijou Dream, Keith's Theatre, and Modern Theatre.
 
-<iframe width="600" height="550" src="https://atlascope.org/#view:embed$base:39999059011682$overlay:39999059011526$zoom:18.81$center:-7910669.7252482,5214150.160095448$mode:swipe-x$pos:0.4757853403141361"></iframe>
+<iframe width="600" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059011682$overlay:39999059011526$zoom:18.81$center:-7910669.7252482,5214150.160095448$mode:swipe-x$pos:0.4757853403141361"></iframe>
 
 By panning around the map above, you can see the plethora of theaters whose buildings still formed the focal point for this part of Boston by the time the BRA map was published in 1988. Some, like the Gaiety Theatre at 659 Washington St., stood vacant in 1988. The BRA seems to have considered it "substantially altered," and therefore not "worthy of preservation." Marked for demolition, it was eventually razed in in 2005.
 

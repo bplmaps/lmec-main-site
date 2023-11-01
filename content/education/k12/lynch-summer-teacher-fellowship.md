@@ -24,7 +24,7 @@ If you answered “Yes!” to any of the above questions, then join the Norman B
 
 * Work with Map Center education staff and librarians to find compelling resources to use in your classroom from the LMEC and Boston Public Library.
 * Learn basic GIS mapmaking and other digital tools to further engage students in critical thinking about their city.
-* Adapt and create lessons to use in your classroom. Many of the Center’s existing [Maptivist lessons](https://www.leventhalmap.org/education/k12/maptivists/) can be adapted for use in your classroom as well as the [Atlascope tool](https://atlascope.org/) for exploring change over time in Boston’s neighborhoods.
+* Adapt and create lessons to use in your classroom. Many of the Center’s existing [Maptivist lessons](https://www.leventhalmap.org/education/k12/maptivists/) can be adapted for use in your classroom as well as the [Atlascope tool](https://atlascope.leventhalmap.org/) for exploring change over time in Boston’s neighborhoods.
 * Use the Map Center's exhibition [Building Blocks: Boston Stories from Urban Atlases ](https://www.leventhalmap.org/digital-exhibitions/building-blocks/)as one model for uplifting underrepresented narratives in Boston's past.
 
 ### **Who can apply?**

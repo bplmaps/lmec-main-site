@@ -18,7 +18,7 @@ tags:
 
 Transit trivia is back! Join us on Wednesday, November 1 at 6:00 pm ET in the Newsfeed Cafe to test your knowledge on the history of Boston’s trains, planes, and automobiles.
 
-Trivia rounds will feature a geographic scavenger hunt using [Atlascope](https://atlascope.org/), knowledge about the city’s rails, routes, streets, stations, and more!
+Trivia rounds will feature a geographic scavenger hunt using [Atlascope](https://atlascope.leventhalmap.org/), knowledge about the city’s rails, routes, streets, stations, and more!
 
 Registration is encouraged but not required. You may participate individually or as a member of a team. This event will be held in person in the Newsfeed Café at the [Central Library](https://www.bpl.org/locations/3/) in Copley Square. Prizes of maps will be awarded to winning teams!
 
