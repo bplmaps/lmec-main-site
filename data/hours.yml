@@ -21,9 +21,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'May 27, 2024'
-    name: Memorial Day
-    special: Closed
   - date: 'November 11, 2023'
     name: Veterans Day
     special: Closed
@@ -47,4 +44,7 @@ exceptions:
     special: Closed
   - date: 'February 19, 2024'
     name: Presidents Day
+    special: Closed
+  - date: 'May 27, 2024'
+    name: Memorial Day
     special: Closed
