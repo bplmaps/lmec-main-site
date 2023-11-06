@@ -1,6 +1,6 @@
 ---
 title: 'Highlights From The Vault: Past and Future of Boylston Street'
-date: 2023-10-31T04:00:00.000Z
+date: 2023-11-06T04:00:00.000Z
 author: Madeline Webster and Garrett Dash Nelson
 description: >-
   Discover how Boylston Street has changed over time with this selection of documents shown at our October 27 "From the Vault"
@@ -12,7 +12,7 @@ tags:
   - from the vault
   - collections
   - urban planning
-draft: true
+draft: false
 
 ---
 
