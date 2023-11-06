@@ -42,3 +42,6 @@ exceptions:
   - date: 'January 15, 2024'
     name: Martin Luther King Day
     special: Closed
+  - date: 'February 19, 2024'
+    name: Presidents Day
+    special: Closed
