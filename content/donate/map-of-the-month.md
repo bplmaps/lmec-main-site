@@ -3,6 +3,8 @@ title: Map of the Month Club
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg
 description: Give every month and join our Map of the Month Club
+suppressEmailPopup: true
+
 ---
 
 <a class="btn btn-primary btn-primary-outline btn-sm" href="#/?form=MAPOFTHEMONTH">Set up a recurring donation now</a>
