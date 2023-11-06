@@ -22,7 +22,7 @@ weekly:
     close: 5 pm
 exceptions:
   - date: 'January 15, 2024'
-    name: MLK Day
+    name: Martin Luther King Day
     special: Closed
   - date: 'November 11, 2023'
     name: Veterans Day
