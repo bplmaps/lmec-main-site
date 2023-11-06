@@ -21,6 +21,9 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
+  - date: 'November 22, 2023'
+    name: Day before Thanksgiving
+    special: Closed at 5 pm
   - date: 'November 11, 2023'
     name: Veterans Day
     special: Closed
