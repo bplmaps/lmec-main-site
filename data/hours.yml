@@ -21,9 +21,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'January 15, 2024'
-    name: Martin Luther King Day
-    special: Closed
   - date: 'November 11, 2023'
     name: Veterans Day
     special: Closed
@@ -41,4 +38,7 @@ exceptions:
     special: Closed
   - date: 'January 1, 2024'
     name: New Years Day
+    special: Closed
+  - date: 'January 15, 2024'
+    name: Martin Luther King Day
     special: Closed
