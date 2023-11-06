@@ -91,7 +91,20 @@ This photograph has it all—subway construction, automobiles, streetcars, horse
 
 ---
 
-{{< figure src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:9k420b88c/image_thumbnail_300.jpg" caption="[City of Boston Archives](https://cityofboston.access.preservica.com/uncategorized/IO_3f9a3ecc-80e4-439b-9365-6a9607aca68b/)" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zs261c290/full/,1200/0/default.jpg" caption="[Boston Herald-Traveler Photo Morgue](https://www.digitalcommonwealth.org/search/commonwealth:xw42r925x), Boston Public Library Arts Department" class="figure-left" >}}
 
-In 1941, the Works Progress Administration and the Highway Division of the City’s Public Works Department removed the streetcar tracks from Boylston St. shortly after the opening of the Huntington Avenue subway.
+Boylston St.’s current traffic pattern of three eastbound travel lanes and two parking lanes dates to the 1950s. By April 1966, the City’s new anti-jaywalk law reminded pedestrians who the street was meant to serve, though Boston was one of the last major cities in the U.S. to adopt anti-jaywalking regulations. In contrast, note the pedestrians crossing Boylston in the 1906 photo of Hotel Brunswick.
+
+---
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ft84cg33t/full/,1200/0/default.jpg" caption="[Boston Pictorial Archive](https://www.digitalcommonwealth.org/search/commonwealth:31981910g), Boston Public Library Arts Department" class="figure-right" >}}
+
+Streetfront parcels were converted to parking lots to serve largely suburban automobile owners driving in to shop and work. This parking lot was created by tearing down former apartments-turned-schoolhouse (the lions that once guarded the building’s entrance are seen guarding the parking lot). At the same time, the new addition to the Boston Public Library recalls how the City was also putting resources toward expanding services to better serve Boston residents.
+
+---
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ft84cg33t/full/,1200/0/default.jpg" caption="[Boston Pictorial Archive](https://www.digitalcommonwealth.org/search/commonwealth:31981910g), Boston Public Library Arts Department" class="figure-right" >}}
+
+Streetfront parcels were converted to parking lots to serve largely suburban automobile owners driving in to shop and work. This parking lot was created by tearing down former apartments-turned-schoolhouse (the lions that once guarded the building’s entrance are seen guarding the parking lot). At the same time, the new addition to the Boston Public Library recalls how the City was also putting resources toward expanding services to better serve Boston residents.
+
 
