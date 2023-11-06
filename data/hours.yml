@@ -21,9 +21,10 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'October 9, 2023'
-    name: Indigenous Peoples' Day
+  - date: 'December 31, 2023'
+    name: New Years Eve
     special: Closed
+  - name: New Years Day
   - date: 'November 11, 2023'
     name: Veterans Day
     special: Closed
