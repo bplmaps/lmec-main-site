@@ -57,10 +57,6 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Job opening
-      text: >-
-        Communications and Gallery Coordinator
-      link: 'https://www.leventhalmap.org/about/jobs/communications-gallery-coordinator/'
     - badge: Support our work
       text: >-
         Put your name on a renamed map of Boston's subway system in our November auction
