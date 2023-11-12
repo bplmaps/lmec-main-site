@@ -65,10 +65,6 @@ cta:
       text: >-
         Design a speculative map of Boston's transit system
       link: /projects/cartography-challenge/transportation-dreams/
-    - badge: Holiday hours
-      text: >-
-        The Leventhal Center and all BPL locations will be closed on Saturday, November 11 in observance of Veterans Day
-      link: /about/hours-directions/
 audiences:
   enable: true
   audienceGroups:
