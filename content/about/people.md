@@ -2,22 +2,17 @@
 title: Staff & Boards
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/5059,2047,4782,3064/1200,/0/default.jpg
-cardImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c46z/5541,3558,1849,978/,300/0/default.jpg
 description: The people who keep the Map Center running
 weight: '2'
-aliases:
-  - /about/staff
-  - /about/boards
 ---
 
 ## Staff
 
-{{< staff-list staff_category="staff" >}}
+{{\< staff-list staff\_category="staff" >}}
 
 ## Interns
 
-{{< staff-list staff_category="intern" >}}
+{{\< staff-list staff\_category="intern" >}}
 
 ## Boards
 
@@ -32,6 +27,7 @@ Alex Krieger\
 Khurram Jamil\
 Theodore Landsmark\
 Alexander Leventhal\
+Jack Lynch\
 Ronald P. O’Hanley\
 Richard Pegg\
 Barry L. Ruderman\
