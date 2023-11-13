@@ -8,11 +8,11 @@ weight: '2'
 
 ## Staff
 
-{{\< staff-list staff\_category="staff" >}}
+{{< staff-list staff\_category="staff" >}}
 
 ## Interns
 
-{{\< staff-list staff\_category="intern" >}}
+{{< staff-list staff\_category="intern" >}}
 
 ## Boards
 
