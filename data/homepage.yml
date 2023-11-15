@@ -59,11 +59,11 @@ cta:
   announcements:
     - badge: Support our work
       text: >-
-        Put your name on a renamed map of Boston's subway system in our November auction
+        Put your name on a renamed map of Boston's subway system in our November
+        auction
       link: /donate/transit-map-auction/
     - badge: Cartography challenge
-      text: >-
-        Design a speculative map of Boston's transit system
+      text: Design a speculative map of Boston's transit system
       link: /projects/cartography-challenge/transportation-dreams/
 audiences:
   enable: true
@@ -167,9 +167,9 @@ upcomingLivestream:
   enable: true
   embedLink: >-
     <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/HGiN71s3XCw" title="YouTube video player"
-    frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+    src="https://www.youtube.com/watch?v=HWe9wkFr62k" title="YouTube video
+    player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
     encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen></iframe>
-  startTime: 2023-08-14T15:55:00.000Z
-  endTime: 2023-08-14T17:15:00.000Z
+  startTime: 2023-11-15T16:30:00.000Z
+  endTime: 2023-11-15T18:15:00.000Z
