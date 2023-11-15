@@ -167,9 +167,9 @@ upcomingLivestream:
   enable: true
   embedLink: >-
     <iframe width="560" height="315"
-    src="https://www.youtube.com/watch?v=HWe9wkFr62k" title="YouTube video
-    player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-    encrypted-media; gyroscope; picture-in-picture; web-share"
+    src="https://www.youtube.com/embed/HWe9wkFr62k?si=vp3vaY81a7H4KYwt"
+    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen></iframe>
   startTime: 2023-11-15T17:00:00.000Z
   endTime: 2023-11-15T18:15:00.000Z
