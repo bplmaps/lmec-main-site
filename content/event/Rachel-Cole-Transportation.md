@@ -14,6 +14,10 @@ tags:
   - getting around town
 ---
 
+### Event video
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/HWe9wkFr62k?si=AqsoIdNixeHOSv63" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### About this event
 
 What are transportation collections? What can we learn from them? What do they tell us about policy choices and transit investment? Join us on Wednesday, November 15 at 12:00 pm EST with **Rachel Cole** of [Northwestern University’s Transportation Library](https://www.library.northwestern.edu/libraries-collections/transportation/) for a virtual talk on archiving the past and present of transportation.
