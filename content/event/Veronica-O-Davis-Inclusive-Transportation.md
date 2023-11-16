@@ -14,6 +14,8 @@ tags:
   - getting around town
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LA7rgGLBgIM?si=ZzqbEOmkAK3ExEi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### About this event
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/inclusive-transpo.jpeg" class="figure-right" >}}
@@ -27,26 +29,3 @@ In *Inclusive Transportation: A Manifesto for Repairing Divided Communities*, tr
 [Veronica O. Davis](http://www.veronicao.com/), PE, is a civil engineer, planner, transportation nerd, public speaker, community activist, guest lecturer, poet, blogger, lover of art, yogi, foodie, world explorer, wife, and mom. When she was twenty-two years old, she wrote a life strategic plan declaring that she would be a world-renowned transportation expert and an author with an eclectic collection of books across multiple genres. The clarity of that vision allows her to achieve her goals.
 
 ***Presented as part of our ongoing exhibition, Getting Around Town: Four Centuries of Mapping Boston in Transit.***
-
-This talk will stream live to our [Facebook page](https://www.facebook.com/bplmaps) and [YouTube channel](https://www.youtube.com/@LeventhalMapEducationCenter). Please register on Eventbrite below.
-
-<div id="eventbrite-widget-container-694948428457"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '694948428457',
-        iframeContainerId: 'eventbrite-widget-container-694948428457',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>

@@ -31,24 +31,3 @@ This talk will stream live to our [Facebook page](https://www.facebook.com/bplm
 Rachel Cole is the Curator and Head of Northwestern University’s Transportation Library, where she curates collections and exhibitions, directs instruction and outreach, and provides research support to students and faculty of the university’s Transportation Center as well as to a global community of transportation researchers. She works to make connections between current and historical collections, making the library’s materials relevant, interesting, and accessible to a broad community of researchers and the interested public.
 
 Prior to her work as a transportation librarian, Rachel worked as a Research Editor with Encyclopaedia Britannica, and with special collections libraries including the Ryerson & Burnham Libraries of the Art Institute of Chicago and the Newberry Library.
-
-<div id="eventbrite-widget-container-711406825967"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '711406825967',
-        iframeContainerId: 'eventbrite-widget-container-711406825967',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
