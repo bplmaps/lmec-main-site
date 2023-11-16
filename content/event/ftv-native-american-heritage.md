@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: From The Vault Collections Showing — Native American Heritage
 date: 2023-11-17T19:00:00.000Z
 publishDate: 2023-08-17T04:00:00.000Z
@@ -15,6 +15,11 @@ tags:
   - guest curator
 ---
 
+{{< alert-box type="warning" >}}
+
+This event has been postponed.
+
+{{</ alert-box >}}
 
 ### About this event
 
