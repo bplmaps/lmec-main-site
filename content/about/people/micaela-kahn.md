@@ -2,7 +2,7 @@
 type: person
 title: Micaela Kahn
 description: Visitor Services & Exhibition Assistant
-headshot: "/images/headshots/micaela-kahn.jpg"
+headshot: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463863p/736,6892,514,514/,600/0/default.jpg"
 staff_category: staff
 contact:
 - method: Email
