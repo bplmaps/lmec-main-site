@@ -6,7 +6,7 @@ draft: false
 menu: true
 ---
 
-{{< alert-box type="warning" title="Applications Closed" >}}
+{{< alert-box type="danger" title="Applications Closed" >}}
 
 Applications for our Spring 2024 internships are closed.
 
