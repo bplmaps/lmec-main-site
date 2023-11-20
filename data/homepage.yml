@@ -65,6 +65,9 @@ cta:
     - badge: Cartography challenge
       text: Design a speculative map of Boston's transit system
       link: /projects/cartography-challenge/transportation-dreams/
+    - badge: Holiday hours
+      text: The Leventhal Center is open 1–5 pm on Wednesday, November 22 and closed on Thursday, November 23 in observance of Thanksgiving. Standard hours are in effect Friday through Sunday.
+      link: /about/hours-directions
 audiences:
   enable: true
   audienceGroups:
