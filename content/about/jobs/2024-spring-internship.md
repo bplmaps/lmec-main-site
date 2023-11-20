@@ -6,9 +6,9 @@ draft: false
 menu: true
 ---
 
-{{< alert-box type="success" title="Applications Open" >}}
+{{< alert-box type="warning" title="Applications Closed" >}}
 
-Applications for our Spring 2024 internships are open! Please submit your application by Friday, November 15 no later than 3pm ET.
+Applications for our Spring 2024 internships are closed.
 
 {{</ alert-box >}}
 
@@ -47,4 +47,4 @@ Applications are due by November 15, 2023 at 3:00pm ET. To apply, submit:
 * A letter of interest, no longer than 2 single-spaced pages
 * A resume or CV
 
-<a href="https://tally.so/r/w7Kz4A" class="btn btn-primary-outline">Submit an application online</a>
+<!-- <a href="https://tally.so/r/w7Kz4A" class="btn btn-primary-outline">Submit an application online</a> -->
