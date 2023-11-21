@@ -15,7 +15,7 @@ registration: >-
 
 {{< alert-box type="warning" title="Changed format" icon="fas fa-laptop-house" >}}
 
-This event is now in a **virtual-only format.** It will not take place in person in the Central Library. To register for the Zoom presentation, [sign up here](https://boston-public-library.zoom.us/webinar/register/WN_IJ5hitfpQu-8kxy1FmHo3w#/registration)
+This event is now in a **virtual-only format.** It will not take place in person in the Central Library. To register for the Zoom presentation, [sign up here](https://boston-public-library.zoom.us/webinar/register/WN_IJ5hitfpQu-8kxy1FmHo3w#/registration).
 
 {{< /alert-box >}}
 
