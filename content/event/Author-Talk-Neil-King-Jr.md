@@ -7,13 +7,23 @@ image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F601729529%2F197026922247%2F1%2Foriginal.20230919-200251?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=120%2C0%2C1200%2C600&s=02f677eafac40e5d76ae558f2bf6ee56
 backgroundImage: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F601729529%2F197026922247%2F1%2Foriginal.20230919-200251?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=120%2C0%2C1200%2C600&s=02f677eafac40e5d76ae558f2bf6ee56
-location: BPL Central Library – Rabb Hall
+location: Virtual
 fee: Free
 registration: >-
-  https://www.eventbrite.com/e/author-talk-neil-king-jr-american-ramble-a-walk-of-memory-and-renewal-tickets-722296356847
+  https://boston-public-library.zoom.us/webinar/register/WN_IJ5hitfpQu-8kxy1FmHo3w#/registration
 ---
 
-{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is co-organized with BPL Adult Programs.{{< /alert-box >}}
+{{< alert-box type="warning" title="Changed format" icon="fas fa-laptop-house" >}}
+
+This event is now in a **virtual-only format.** It will not take place in person in the Central Library. To register for the Zoom presentation, [sign up here](https://boston-public-library.zoom.us/webinar/register/WN_IJ5hitfpQu-8kxy1FmHo3w#/registration)
+
+{{< /alert-box >}}
+
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}
+
+This event is co-organized with BPL Adult Programs.
+
+{{< /alert-box >}}
 
 ### About this event
 
