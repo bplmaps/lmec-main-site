@@ -9,7 +9,20 @@ quicklinks:
     linkType: jump
 ---
 
-{{< alert-box type="warning" icon="fas fa-laptop-house">}} We offer in-person on-site and outreach programming. If you are interested in a field trip to the Map Center or having an educator visit your classroom, please fill out the reservation form below and we will get back to you. {{< /alert-box >}}
+{{< alert-box type="warning" icon="fas fa-pause-circle" title="Booking pause" >}}
+
+In early 2024, due to staffing changes in our education department, **we will not be offering school programs from January through March**. This programming pause includes both field trips to the Leventhal Center as well as outreach visits to schools. We anticipate beginning school programs again in April and opening booking in mid-winter. 
+
+Meanwhile, you can:
+
+* [Subscribe to our mailing list](https://www.leventhalmap.org/subscribe/) so we can update you on when our bookings will begin again in 2024
+* [Find resources for teaching your own programs with maps](/education/k12/teach-it-yourself/)
+* [Apply to our summer 2024 NEH Institute for K-12 Educators](https://teachingwithmaps.org)
+* [Contact our education department for more resources](mailto:education@leventhalmap.org)
+
+We look forward to reopening our partnerships for school programs again in the spring!
+
+{{< /alert-box >}}
 
 The Leventhal Map & Education Center offers a menu of pre-designed programs for field trips to our Learning Center, virtual class visits, or in-person outreach to classrooms. Using maps from our collection, students practice using cartographic tools to read maps and think about what maps can and can't tell us about our relationships to places in the past and present. Programs related to our current exhibition are also available. Explore our program topics below. If you don't see quite what you're looking for, we are happy to work with you to create programming that works with your curriculum.
 
@@ -39,9 +52,20 @@ Education pairings for our current exhibition [*Getting Around Town: Four Centur
 
 ## Booking a Program {#booking}
 
-To book a program, fill out the reservation form. Someone from the K-12 education department will contact you to finalize your reservation. **Note: Filling out the form is not a confirmation of your reservation.**
+{{< alert-box type="warning" icon="fas fa-pause-circle" title="Booking pause" >}}
 
-<iframe class="airtable-embed mb-5" src="https://airtable.com/embed/shrBJNwz49WB8i2jH?backgroundColor=yellow\](https://airtable.com/embed/shrBJNwz49WB8i2jH?backgroundColor=yellow " frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+In early 2024, due to staffing changes in our education department, **we will not be offering school programs from January through March**. This programming pause includes both field trips to the Leventhal Center as well as outreach visits to schools. We anticipate beginning school programs again in April and opening booking in mid-winter. 
+
+Meanwhile, you can:
+
+* [Subscribe to our mailing list](https://www.leventhalmap.org/subscribe/) so we can update you on when our bookings will begin again in 2024
+* [Find resources for teaching your own programs with maps](/education/k12/teach-it-yourself/)
+* [Apply to our summer 2024 NEH Institute for K-12 Educators](https://teachingwithmaps.org)
+* [Contact our education department for more resources](mailto:education@leventhalmap.org)
+
+We look forward to reopening our partnerships for school programs again in the spring!
+
+{{< /alert-box >}}
 
 #### Cost
 

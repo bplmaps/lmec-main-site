@@ -35,3 +35,18 @@ At the Leventhal Map & Education Center, we believe that maps are powerful tools
   {{< carousel-figure src="/uploads/eliot3.jpg" >}} {{< /carousel-figure >}}
 
 {{< /carousel >}}
+
+{{< alert-box type="warning" icon="fas fa-pause-circle" title="Booking pause" >}}
+
+In early 2024, due to staffing changes in our education department, **we will not be offering school programs from January through March**. This programming pause includes both field trips to the Leventhal Center as well as outreach visits to schools. We anticipate beginning school programs again in April and opening booking in mid-winter. 
+
+Meanwhile, you can:
+
+* [Subscribe to our mailing list](https://www.leventhalmap.org/subscribe/) so we can update you on when our bookings will begin again in 2024
+* [Find resources for teaching your own programs with maps](/education/k12/teach-it-yourself/)
+* [Apply to our summer 2024 NEH Institute for K-12 Educators](https://teachingwithmaps.org)
+* [Contact our education department for more resources](mailto:education@leventhalmap.org)
+
+We look forward to reopening our partnerships for school programs again in the spring!
+
+{{< /alert-box >}}
