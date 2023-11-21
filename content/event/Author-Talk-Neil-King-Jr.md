@@ -21,17 +21,13 @@ This event is now in a **virtual-only format.** It will not take place in person
 
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}
 
-This event is co-organized with BPL Adult Programs.
+This event is co-organized with BPL Adult Programs and the American Inspiration Series from American Ancestors/NEHGS.
 
 {{< /alert-box >}}
 
 ### About this event
 
 Hear from the author of a revelatory memoir about a 330-mile walk from Washington, D.C., to New York City—an unforgettable pilgrimage to the heart of America across some of our oldest common ground.
-
-Following the discussion that will happen both in-person in the Rabb Lecture Hall of the Central Library in Copley Square and online over Zoom webinar, there will be time for an audience Q\&A. At approximately 7:00 PM, there will be an author signing facilitated by Trident Booksellers and Cafe for in-person attendees. During the program, online attendees will be provided with a link to order copies of the book from Porter Square Books.
-
-Please note that this is the registration page for in-person attendance. [To attend online over Zoom webinar, please register here](https://boston-public-library.zoom.us/webinar/register/WN_IJ5hitfpQu-8kxy1FmHo3w#/registration).
 
 #### About the book
 
