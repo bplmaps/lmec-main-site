@@ -36,10 +36,10 @@ The Leventhal Map & Education Center's [Atlascope tool](https://atlascope.org) m
 
 To cite a particular atlas layer that you discovered in Atlascope, click on the "Bibliographic information" button inside the "Atlases" drawer at the bottom of the screen. This will open a pane that displays bibliographic details for the layer currently in the viewport, as well as a link back to the object record in LMEC digital collections. For example, to cite [this view](https://atlascope.org/#/view:share$mode:glass$center:-71.07733,42.34963$zoom:18.00$base:maptiler-streets$overlay:ark:/76611/al7rtfm98) of a 1902 Bromley atlas:
 
-> Bromley, George Washington. *Atlas of the City of Boston : Boston proper and Back Bay*. Boston, MA: G.W. Bromley & Co, 1902. From Leventhal Map & Education Center at the Boston Public Library. Accessed 21 November, 2023 via https://atlascope.org.
+> Bromley, George Washington. *Atlas of the City of Boston : Boston proper and Back Bay*. Boston, MA: G.W. Bromley & Co, 1902. Digitized in *Atlascope*, Leventhal Map & Education Center at the Boston Public Library. Accessed 21 November, 2023 via https://atlascope.org.
 
 To reference the Atlascope application itself, please cite:
 
-> Leventhal Map & Education Center. *Atlascope*. V2. Leventhal Map & Education Center at the Boston Public Library. https://atlascope.org. 2023.
+> Leventhal Map & Education Center at the Boston Public Library. *Atlascope*. https://atlascope.org. 2023.
 
 Please contact our [Assistant Curator for Digital & Participatory Geography](/about/people/ian-spangler) to let us know if you've found Atlascope helpful or used it as part of a physical or digital publication.
