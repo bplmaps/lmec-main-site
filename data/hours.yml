@@ -21,12 +21,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'November 22, 2023'
-    name: Day before Thanksgiving
-    special: 1:00 pm – 5:00 pm
-  - date: 'November 23, 2023'
-    name: Thanksgiving
-    special: Closed
   - date: 'December 24, 2023'
     name: Christmas Eve
     special: Closed
