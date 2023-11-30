@@ -21,9 +21,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'June 19, 2024'
-    name: Juneteenth
-    special: Closed
   - date: 'December 24, 2023'
     name: Christmas Eve
     special: Closed
@@ -56,4 +53,7 @@ exceptions:
     special: Closed
   - date: 'May 27, 2024'
     name: Memorial Day
+    special: Closed
+  - date: 'June 19, 2024'
+    name: Juneteenth
     special: Closed
