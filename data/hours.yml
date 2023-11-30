@@ -21,8 +21,8 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'May 26, 2024'
-    name: Sunday before Memorial Day
+  - date: 'June 19, 2024'
+    name: Juneteenth
     special: Closed
   - date: 'December 24, 2023'
     name: Christmas Eve
@@ -50,6 +50,9 @@ exceptions:
     special: Closed
   - date: 'April 15, 2024'
     name: Patriot's Day
+    special: Closed
+  - date: 'May 26, 2024'
+    name: Sunday before Memorial Day
     special: Closed
   - date: 'May 27, 2024'
     name: Memorial Day
