@@ -21,9 +21,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'March 31, 2024'
-    name: Easter Sunday
-    special: Closed
   - date: 'December 24, 2023'
     name: Christmas Eve
     special: Closed
@@ -41,6 +38,9 @@ exceptions:
     special: Closed
   - date: 'February 19, 2024'
     name: Presidents Day
+    special: Closed
+  - date: 'March 31, 2024'
+    name: Easter Sunday
     special: Closed
   - date: 'May 27, 2024'
     name: Memorial Day
