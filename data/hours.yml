@@ -21,8 +21,8 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'April 15, 2024'
-    name: Patriot's Day
+  - date: 'May 26, 2024'
+    name: Sunday before Memorial Day
     special: Closed
   - date: 'December 24, 2023'
     name: Christmas Eve
@@ -47,6 +47,9 @@ exceptions:
     special: Closed
   - date: 'April 14, 2024'
     name: Day Before Patriot's Day
+    special: Closed
+  - date: 'April 15, 2024'
+    name: Patriot's Day
     special: Closed
   - date: 'May 27, 2024'
     name: Memorial Day
