@@ -21,6 +21,9 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
+  - date: 'March 31, 2024'
+    name: Easter Sunday
+    special: Closed
   - date: 'December 24, 2023'
     name: Christmas Eve
     special: Closed
