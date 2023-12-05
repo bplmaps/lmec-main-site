@@ -19,7 +19,7 @@ The Small Grants for Early Career Digital Publications offers a $1200 stipend an
 
 ## NERFC Research Fellowships
 
-<span class="badge bg-danger font-secondary fw-normal">Applications closed for 2023</span>
+<span class="badge bg-success font-secondary fw-normal">Applications due on February 1, 2024</span>
 
 We are a participating institution in the New England Regional Fellowship Consortium. The NERFC fellowship offers a $5,000 stipend for historians who wish to work in at least three institutions represented in the consortium.
 
@@ -28,8 +28,7 @@ We are a participating institution in the New England Regional Fellowship Consor
 
 ## Designer-in-Residence Fellowship
 
-<span class="badge bg-danger font-secondary fw-normal">Applications closed for 2022</span>
-
+<span class="badge bg-danger font-secondary fw-normal">Applications currently closed</span>
 
 The Designer-in-Residence fellowship supports cartographers, visual designers, and others creating visual material with a geographic or cartographic theme. Residents receive $7000 and work with Center staff during a four-week residency.
 
