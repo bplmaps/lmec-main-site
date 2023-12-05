@@ -10,7 +10,7 @@ draft: false
 
 Our *Grants in Aid for Works in Progress* program supports researchers, teachers, members of the public, and community organizations in creating original cartographic and digital works.
 
-Through this program, we support projects that meet two criteria: first, projects must be well-aligned with LMEC’s thematic focus areas; and, second, applicants must have a well-defined vision for their project and a specific request for what kind of technical or creative support will be required to bring the project to completion. Rather than a monetary stipend, successful applicants are awarded in the form of Leventhal Center staff support. (See our *[Fellowships and Research Support](/research/fellowships/)* page for other programs that offer monetary awards.)
+Through this program, we support projects that meet two criteria: first, projects must be well-aligned with LMEC’s thematic focus areas; and, second, applicants must have a well-defined vision for their project and a specific request for what kind of technical or creative support will be required to bring the project to completion. Rather than a monetary stipend, successful applicants are awarded grant resources in the form of Leventhal Center staff support. (See our *[Fellowships and Research Support](/research/fellowships/)* page for other programs that offer monetary awards.)
 
 Applications are reviewed on a monthly basis and will be awarded based on the capacity of Leventhal Center staff time.
 
