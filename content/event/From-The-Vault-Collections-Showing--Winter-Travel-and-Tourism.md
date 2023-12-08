@@ -13,6 +13,6 @@ tags:
   - from the vault
 ---
 
-Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of From The Vault, we’ll take a look at a few objects from our collections that map winter tourism and the iconography of the season.
+Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of *From The Vault*, we’ll take a look at a few objects from our collections that map winter tourism and the iconography of the season.
 
 Drop in any time between 2:00PM - 4:00PM. No reservation is required.
