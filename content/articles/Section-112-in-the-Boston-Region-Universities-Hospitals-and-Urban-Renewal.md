@@ -137,7 +137,7 @@ Indeed, Cambridge universities first made some sort of PILOT payment in 1928, an
 
 [^12]: Vrabel, *A People's History of the New Boston*, 117.
 
-[^13]: Levi, "Municipal and Institutional Relations Within Boston," 103; Isaacs, Sasaki, and Nagel, "Fenway-Parker Hill Area: Its Problems and Potential."
+[^13]: Levi, \"Municipal and Institutional Relations Within Boston,\" 103; Isaacs, Sasaki, and Nagel, \"Fenway-Parker Hill Area: Its Problems and Potential.\"
 
 [^14]: Unlike African American organizations like Freedom which worked with the BRA to plan urban renewal in Washington Park. See Dunning: <https://www.leventhalmap.org/articles/mapping-renewal-engaging-residents/>
 
