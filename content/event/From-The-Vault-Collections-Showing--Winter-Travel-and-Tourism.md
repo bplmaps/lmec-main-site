@@ -15,6 +15,8 @@ tags:
 
 ### About this event
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761873/full/1200,/0/default.jpg" class="figure-right" >}}
+
 Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of *From The Vault*, we’ll take a look at a few objects from our collections that map winter tourism and the iconography of the season.
 
 Drop in any time between 2:00PM - 4:00PM. No reservation is required.
