@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Meet LMEC's fall interns
+title: Fall interns wrap up at LMEC
 date: 2023-12-13T05:00:00.000Z
 author: 'Olivia Hewang, Natalie Gilbert, and Dina Gorelik'
 description: >-
