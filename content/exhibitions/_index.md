@@ -10,9 +10,7 @@ description: >-
 
 We regularly mount exhibitions in our gallery, [located in the historic McKim Building](about/hours-directions) the Boston Public Library in Copley Square. Exhibitions topics range from collections-centered shows on [Boston bird's eye views](https://collections.leventhalmap.org/exhibits/16) and [women mapmakers](https://collections.leventhalmap.org/exhibits/6) to theme-centered shows on the [American Revolution](https://collections.leventhalmap.org/exhibits/3), [Boston immigration](https://collections.leventhalmap.org/exhibits/19), and [public landscapes](https://collections.leventhalmap.org/exhibits/19). All of our exhibitions feature scholarly research as well as activities for families, children, and educators.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/uploads/BuildingBlocksGal1.jpg" >}}
-
-<!-- ## Currently on Exhibit -->
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/lmec-gat-gallery.jpg" >}}
 
 ## Rotating Exhibition
 
@@ -51,3 +49,5 @@ Maps trace out the complicated history of places, and we can use them to documen
 In the early decades of nineteenth-century China, two series of large-format maps, one terrestrial and one celestial, were printed in the city of Suzhou. They were printed as eight loose sheets using Prussian blue, the first large scale use of this pigment in East Asia, in the unusual manner of a rubbing from a stone-stele, resulting in most of the paper appearing in bright blue. The terrestrial maps present the realm of the Qing Empire (1644–1911) and selected surrounding regions. The four extant editions of the celestial maps, dated to 1822 and 1826, present a planisphere of all the known stars and extensive descriptions of known celestial bodies and their related celestial mechanics. This exhibition considers these two maps in the contexts of their production, consumption, and functions revealing them as unique in the global history of mapmaking. 
 
 *Guest curated by Dr. Richard Pegg, Director and Curator of the MacLean Collection.*
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx121n456/392,312,15168,7997/1200,/0/default.jpg" >}}
