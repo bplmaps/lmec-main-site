@@ -1,28 +1,28 @@
 ---
+cardImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3766475/542,4025,3105,1657/,300/0/default.jpg
 title: Mission & History
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/5059,2047,4782,3064/1200,/0/default.jpg
-cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3766475/542,4025,3105,1657/,300/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/5059,2047,4782,3064/1200,/0/default.jpg
 description: Where we came from and where we're going
-weight: "1"
-
+weight: '1'
 ---
 
 ## Our Mission and Values
 
-_Adopted June 17, 2020_
+*Adopted June 17, 2020*
 
 The Norman B. Leventhal Map & Education Center at the Boston Public Library inspires curiosity and learning, and fosters geographic perspectives on the relationships between people and places, through free and accessible collections and resources, critical interpretation and research, and K-12 and public education.
 
 ### Values
 
-* Commit to integrity, excellence, respect in all our relationships, and professional library ethics*
+* Commit to integrity, excellence, respect in all our relationships, and professional library ethics\*
 * Listen to and include community voices, especially those who have been less represented
 * Increase diversity, equity, and inclusion in our organization and our work with others
 * Work to advance a more just and equitable society
 * Keep our spaces and community services open, welcoming, and “free to all”
 
-_*American Library Association Code of Ethics; Association of College and Research Libraries Code of Ethics for Special Collections Librarians_
-
+*\*American Library Association Code of Ethics; Association of College and Research Libraries Code of Ethics for Special Collections Librarians*
 
 ## History of the Center
 
@@ -37,6 +37,8 @@ The Leventhal Map & Education Center is ranked among the top ten in the United S
 ### Annual Reports
 
 Our Annual Reports can be accessed through each link below. The Leventhal Center's fiscal year runs July 1 - June 30.
+
+[Fiscal Year 2023 Annual Report](https://s3.us-east-2.wasabisys.com/lmec-public-files/annual-reports/FY23_AnnualReport_web.pdf)
 
 [Fiscal Year 2022 Annual Report](https://s3.us-east-2.wasabisys.com/lmec-public-files/annual-reports/FY22_AnnualReport_spreads.pdf)
 
