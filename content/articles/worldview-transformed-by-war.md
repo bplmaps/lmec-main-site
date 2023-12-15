@@ -2,8 +2,7 @@
 title: A World(view) Transformed by War
 description: See how the Qing Empire's mapping of world geography changed during and after the imposition of European power in the Opium Wars
 author: Amberly Yeo
-date: 2023-12-18T04:00:00.000+00:00
-draft: true
+date: 2023-12-15T04:00:00.000+00:00
 image: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wq026/1596,9225,6077,3086/,1200/0/default.jpg"
 backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:v405wq026/1596,9225,6077,3086/,1200/0/default.jpg"
 tags:
