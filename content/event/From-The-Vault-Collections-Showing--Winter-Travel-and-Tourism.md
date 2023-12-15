@@ -1,7 +1,7 @@
 ---
 draft: false
 title: From The Vault Collections Showing – Winter Travel and Tourism
-date: 2023-12-15T07:00:00.000Z
+date: 2023-12-15T19:00:00.000Z
 publishDate: 2023-12-11T05:00:00.000Z
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kw040/full/1200,/0/default.jpg
