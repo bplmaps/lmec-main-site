@@ -1,7 +1,7 @@
 ---
 draft: true
 title: From The Vault Collections Showing — Native American Heritage
-date: 2023-11-17T19:00:00.000Z
+date: 2024-01-19T19:00:00.000Z
 publishDate: 2023-08-17T04:00:00.000Z
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s91s/4503,4787,1962,776/,1200/0/default.jpg
@@ -15,9 +15,9 @@ tags:
   - guest curator
 ---
 
-{{< alert-box type="warning" >}}
+{{< alert-box type="info" >}}
 
-This event has been postponed.
+This event has been rescheduled from the original date in November 2023. 
 
 {{</ alert-box >}}
 
