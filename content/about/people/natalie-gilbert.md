@@ -1,7 +1,7 @@
 ---
 title: Natalie Gilbert
 description: Geospatial Research Intern
-headshot: 'https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463863p/736,6892,514,514/,600/0/default.jpg'
+headshot: '/images/headshots/natalie-gilbert.jpg'
 type: person
 staff_category: intern
 menu: false
@@ -10,3 +10,4 @@ contact:
   details: "<ngilbert@leventhalmap.org>"
 ---
 
+Natalie Gilbert (she/her) is a senior at Suffolk University studying public history and English literature. Through her academic journey, Natalie has developed interests in historical architecture, building preservation, and urban planning. 

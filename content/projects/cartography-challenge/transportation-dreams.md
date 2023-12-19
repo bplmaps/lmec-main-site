@@ -47,7 +47,7 @@ Submissions will be evaluated according to these five criteria:
 | Cartographic design  | Does the submission follow reasonable design principles, or perhaps break with them in generative, exciting ways? Does the submission follow best practices in accessible design (e.g., colorblind readability)?            |
 | Educational capacity | Is the submission visually engaging for a wide range of learners from grade-school children to adults? Can it be effectively used in teaching and public education, especially for K-12 students?                                  |
 
-An application consists of the following material submitted by **Monday, December 19, 2023 at 10pm ET**:
+An application consists of the following material submitted by **Tuesday, December 19, 2023 at 10pm ET**:
 
 * One still (static) map that appropriately responds to the present submission cycle's topic, data, and challenge themes
 * The work should have a resolution of at least 300 dpi, and its print dimensions should be no smaller than 11 inches on the shorter side, and no larger than 30 inches on the longer side (uploads or URLs in TIFF format)

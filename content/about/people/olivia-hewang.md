@@ -1,7 +1,7 @@
 ---
 title: Olivia Hewang
 description: Geospatial Research Intern
-headshot: 'https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463863p/736,6892,514,514/,600/0/default.jpg'
+headshot: '/images/headshots/olivia-hewang.jpg'
 type: person
 staff_category: intern
 menu: false
@@ -10,3 +10,4 @@ contact:
   details: "<ohewang@leventhalmap.org>"
 ---
 
+Olivia Hewang (she/her) is a sophomore at Wellesley College studying History and Economics. Olivia is fascinated by cities and hopes to focus her studies on urban planning and spatial history. Beyond that, her interests include Asian American studies, the digital humanities and public history.
