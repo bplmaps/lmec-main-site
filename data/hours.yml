@@ -27,9 +27,6 @@ exceptions:
   - date: 'December 25, 2023'
     name: Christmas
     special: Closed
-  - date: 'December 31, 2023'
-    name: New Years Eve
-    special: Closed
   - date: 'January 1, 2024'
     name: New Years Day
     special: Closed
