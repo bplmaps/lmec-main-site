@@ -3,12 +3,12 @@ title: 'Transportation Dreams'
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r692z/141,653,2310,778/full/0/default.jpg
 cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r692z/141,653,2310,778/full/0/default.jpg
 description: Design a speculative map of Boston's transit system
-weight: "7"
+# weight: "7"
 tags: [transportation, getting around town, cartography challenges]
 
 ---
 
-{{< alert-box type="success" title="Currently accepting submissions" >}} Applications for this Cartography Challenge are open until **5pm ET on December 19, 2023.**{{< /alert-box >}}
+{{< alert-box type="danger" title="Submission window has closed" >}} Submissions to this Cartography Challenge have closed, but keep an eye out for [future challenges](../).{{< /alert-box >}}
 
 ### Topic: Transportation Dreams
 

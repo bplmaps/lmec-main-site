@@ -57,9 +57,6 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Cartography challenge
-      text: Design a speculative map of Boston's transit system
-      link: /projects/cartography-challenge/transportation-dreams/
 audiences:
   enable: true
   audienceGroups:

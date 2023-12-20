@@ -8,7 +8,7 @@ tags: [immigration, getting around town]
 
 ---
 
-{{< alert-box type="danger" title="The window for submissions is closed" >}} Applications for this Cartography Challenge closed on **10pm ET on December 19, 2022.**{{< /alert-box >}}
+{{< alert-box type="danger" title="Submission window has closed" >}} Submissions to this Cartography Challenge have closed, but keep an eye out for [future challenges](../).{{< /alert-box >}}
 
 ### Topic: Immigration in Greater Boston
 
@@ -38,9 +38,7 @@ In addition to the foreign-born population dataset, submissions should include a
 * [Boston neighborhoods](https://data.leventhalmap.org/#/catalog/dkhq7glpx)
 * [Greater Boston municipal boundaries](https://data.leventhalmap.org/#/catalog/dl9efr526)
 
-## Evaluation
-
-#### Rubric & Application
+### Evaluation
 
 Submissions will be evaluated according to these five criteria:
 | Criteria             | Description                                                                                                                                                                                  |
