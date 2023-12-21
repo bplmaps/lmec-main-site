@@ -22,6 +22,7 @@ weekly:
     close: 5 pm
 exceptions:
   - date: 'December 23, 2024'
+    name: Special Hours
     special: Open 1-5 pm
   - date: 'December 24, 2023'
     name: Christmas Eve
