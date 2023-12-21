@@ -30,6 +30,9 @@ exceptions:
   - date: 'December 25, 2023'
     name: Christmas
     special: Closed
+  - date: 'December 30, 2023'
+    name: Special Hours
+    special: Open 1-5 pm
   - date: 'December 31, 2023'
     name: New Years Eve
     special: Open 1-5 pm

@@ -57,6 +57,9 @@ slider:
 cta:
   enable: true
   announcements:
+    - badge: Holiday hours
+      text: Our hours are slightly different between Dec 23-31, so please check our hours page before planning your visit. 
+      link: /about/hours-directions
 audiences:
   enable: true
   audienceGroups:

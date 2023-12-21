@@ -20,7 +20,7 @@ Although it is not required, please consider wearing a face covering while insid
 
 ## Hours
 
-#### Gallery Hours
+<!-- #### Gallery Hours -->
 
 {{< hours-table >}}
 
