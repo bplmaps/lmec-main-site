@@ -44,7 +44,7 @@ This 1879 [relief map](https://collections.leventhalmap.org/search/commonwealth:
 
 ##### Federal Writers' Project of the Works Progress Administration of Massachusetts, [Winter sports map of the Berkshire Hills](https://collections.leventhalmap.org/search/commonwealth:wd376186t "Winter sports map of the Berkshire Hills") (1936)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761873/full/1200,/270/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761873/full/1200,/270/default.jpg" class="figure-right" >}}
 
 Berkshire County, MA boasts fantastic opportunities for seasonal recreation. Depicted on the margins of [this map](https://collections.leventhalmap.org/search/commonwealth:wd376186t "this map") are illustrations of winter sports differing in difficulty. Some lesser known winter activities are shown, such as skijoring, which is the activity of a person on skis being pulled by a horse, dog(s), or even a motor vehicle.
 
