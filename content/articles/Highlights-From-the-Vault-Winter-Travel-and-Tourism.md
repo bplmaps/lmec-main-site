@@ -38,6 +38,8 @@ This [1986 geological survey](https://collections.leventhalmap.org/search/common
 
 ##### J. Schedler, [Relief map of the White Mountains, N.H](https://collections.leventhalmap.org/search/commonwealth:cj82kw03q "Relief map of the White Mountains, N.H") (1879)
 
+{{< figure src="https://collections.leventhalmap.org/search/commonwealth:cj82kw03q" >}}
+
 This 1879 [relief map](https://collections.leventhalmap.org/search/commonwealth:cj82kw03q "relief map") invites a close looking of the White Mountains of New Hampshire. Mount Washington stands the tallest of the White Mountains at around 6,300 feet. 
 
 ##### Federal Writers' Project of the Works Progress Administration of Massachusetts, [Winter sports map of the Berkshire Hills](https://collections.leventhalmap.org/search/commonwealth:wd376186t "Winter sports map of the Berkshire Hills") (1936)
