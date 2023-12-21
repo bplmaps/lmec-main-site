@@ -26,6 +26,8 @@ Along the Canadian Pacific Railway, the words ‘Coal Mine’, and ‘Anthracite
 
 ##### J.H. Bufford & Co, [Map of the Vermont Central Rail Road and its connections, forming the Great Northern Route from the Atlantic to Montreal and the Lakes: from Smith's map of the United States](https://collections.leventhalmap.org/search/commonwealth:cj82kn615 "Map of the Vermont Central Rail Road and its connections, forming the Great Northern Route from the Atlantic to Montreal and the Lakes: from Smith's map of the United States") (1848)
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kn62f/full/1200,/0/default.jpg" >}}
+
 Railroads are not only a great way to get around town, but also a great way to explore more distant places within a larger geographic area. Published in 1848, [this map](https://collections.leventhalmap.org/search/commonwealth:cj82kn615 "this map") highlights a few rail lines that could carry passengers from one winter scene to another. For example, one could leave the bustling city of Boston and see icy Lake Champlain.
 
 ##### Geological Survey (U.S.), [Mean monthly average temperature](https://collections.leventhalmap.org/search/commonwealth:q524n4016 "Mean monthly average temperature") (1986)
