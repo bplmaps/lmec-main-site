@@ -18,7 +18,7 @@ tags:
 
 ##### Canada. Department of the Interior, [Topographical map of the Rocky Mountains: Banff sheet](https://collections.leventhalmap.org/search/commonwealth:3f463683r "Topographical map of the Rocky Mountains: Banff sheet") (1902)
 
-The Canadian Rockies are both a winter wonderland and a summer paradise. This topographic map inspires looking at the winter imagery of snow-capped peaks and frozen lakes through a new lens.
+The Canadian Rockies are both a winter wonderland and a summer paradise. This [topographic map](https://collections.leventhalmap.org/search/commonwealth:3f463683r "topographic map") inspires looking at the winter imagery of snow-capped peaks and frozen lakes through a new lens.
 
 Along the Canadian Pacific Railway, the words ‘Coal Mine’, and ‘Anthracite’ depict an area that hosted a coal mine in the late 19th-early 20th century. The coal mine shut down and the town of Anthracite was eventually deserted; it is now known as a ghost town.
 
