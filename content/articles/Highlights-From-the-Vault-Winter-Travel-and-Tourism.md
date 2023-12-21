@@ -46,7 +46,7 @@ This 1879 [relief map](https://collections.leventhalmap.org/search/commonwealth:
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761873/full/1200,/270/default.jpg" >}}
 
-Berkshire County, MA boasts fantastic opportunities for seasonal recreation. Depicted on the margins of [this map](https://collections.leventhalmap.org/search/commonwealth:wd376186t "this map") are illustrations of winter sports differing in difficulty. Some lesser known winter activities are shown, such as that of skijoring, which is the activity of a person on skis being pulled by a horse, dog(s), or even a motor vehicle.
+Berkshire County, MA boasts fantastic opportunities for seasonal recreation. Depicted on the margins of [this map](https://collections.leventhalmap.org/search/commonwealth:wd376186t "this map") are illustrations of winter sports differing in difficulty. Some lesser known winter activities are shown, such as skijoring, which is the activity of a person on skis being pulled by a horse, dog(s), or even a motor vehicle.
 
 ##### John H. Renshawe, [Panoramic view of the Mount Rainier National Park, Washington](https://collections.leventhalmap.org/search/commonwealth:4m90fd639 "Panoramic view of the Mount Rainier National Park, Washington") (1914)
 
