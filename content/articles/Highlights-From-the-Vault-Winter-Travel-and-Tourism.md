@@ -16,7 +16,7 @@ tags:
 
 > On December 15, we hosted From The Vault: Winter Travel and Tourism! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at objects from our collections that map seasonal winter attractions and methods of travel.
 
-Canada. Department of the Interior, [Topographical map of the Rocky Mountains: Banff sheet]() (1902)
+Canada. Department of the Interior, Topographical map of the Rocky Mountains: Banff sheet (1902)
 
 The Canadian Rockies are both a winter wonderland and a summer paradise. This topographic map inspires looking at the winter imagery of snow-capped peaks and frozen lakes through a new lens.
 
