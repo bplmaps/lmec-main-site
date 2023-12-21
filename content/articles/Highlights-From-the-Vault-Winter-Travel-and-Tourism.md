@@ -36,7 +36,7 @@ Railroads are not only a great way to get around town, but also a great way to e
 
 This [1986 geological survey](https://collections.leventhalmap.org/search/commonwealth:q524n4016 "1986 geological survey") is a visual display of mean monthly average temperature in the U.S. using data on the time period 1931-1960. While some experiences of seasonal temperature changes and weather patterns have stayed the same since the publishing of this map, much has also changed. In recent years, Bostonians have experienced unseasonably warm weather days in the depths of winter, sometimes back-to-back with aggressive snow storms. Looking at this map in the present day inspires us to ask the question: how have winter travel, tourism, and recreation been experienced as weather factors like temperature have changed in dramatic ways?
 
-J. Schedler, [Relief map of the White Mountains, N.H](https://collections.leventhalmap.org/search/commonwealth:cj82kw03q "Relief map of the White Mountains, N.H") (1879)
+##### J. Schedler, [Relief map of the White Mountains, N.H](https://collections.leventhalmap.org/search/commonwealth:cj82kw03q "Relief map of the White Mountains, N.H") (1879)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kw040/full/1200,/0/default.jpg" class="figure-right" >}}
 
