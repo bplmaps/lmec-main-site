@@ -35,3 +35,5 @@ This [1986 geological survey](https://collections.leventhalmap.org/search/common
 This 1879 [relief map](https://collections.leventhalmap.org/search/commonwealth:cj82kw03q "relief map") invites a close looking of the White Mountains of New Hampshire. Mount Washington stands the tallest of the White Mountains at around 6,300 feet. 
 
 ##### Federal Writers' Project of the Works Progress Administration of Massachusetts, [Winter sports map of the Berkshire Hills](https://collections.leventhalmap.org/search/commonwealth:wd376186t "Winter sports map of the Berkshire Hills") (1936)
+
+Berkshire County, MA boasts fantastic opportunities for seasonal recreation. Depicted on the margins of this map are illustrations of winter sports differing in difficulty. Some lesser known winter activities are shown, such as that of skijoring, which is the activity of a person on skis being pulled by a horse, dog(s), or even a motor vehicle.
