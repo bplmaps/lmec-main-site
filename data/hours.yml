@@ -21,6 +21,9 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
+  - date: 'December 31, 2023'
+    name: New Years Eve
+    special: Open 1-5 pm
   - date: 'December 23, 2023'
     name: Special Hours
     special: Open 1-5 pm
