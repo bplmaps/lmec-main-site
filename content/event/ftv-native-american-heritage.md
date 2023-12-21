@@ -1,5 +1,4 @@
 ---
-draft: true
 title: From The Vault Collections Showing — Native American Heritage
 date: 2024-01-19T19:00:00.000Z
 publishDate: 2023-08-17T04:00:00.000Z
