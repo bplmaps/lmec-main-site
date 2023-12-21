@@ -57,6 +57,9 @@ slider:
 cta:
   enable: true
   announcements:
+audiences:
+  enable: true
+  audienceGroups:
     - name: For everyone
       description: >-
         We offer a wide spectrum of services and activities for the general
