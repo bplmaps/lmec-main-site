@@ -37,3 +37,5 @@ This 1879 [relief map](https://collections.leventhalmap.org/search/commonwealth:
 ##### Federal Writers' Project of the Works Progress Administration of Massachusetts, [Winter sports map of the Berkshire Hills](https://collections.leventhalmap.org/search/commonwealth:wd376186t "Winter sports map of the Berkshire Hills") (1936)
 
 Berkshire County, MA boasts fantastic opportunities for seasonal recreation. Depicted on the margins of [this map](https://collections.leventhalmap.org/search/commonwealth:wd376186t "this map") are illustrations of winter sports differing in difficulty. Some lesser known winter activities are shown, such as that of skijoring, which is the activity of a person on skis being pulled by a horse, dog(s), or even a motor vehicle.
+
+##### John H. Renshawe, [Panoramic view of the Mount Rainier National Park, Washington](https://collections.leventhalmap.org/search/commonwealth:4m90fd639 "Panoramic view of the Mount Rainier National Park, Washington") (1914)
