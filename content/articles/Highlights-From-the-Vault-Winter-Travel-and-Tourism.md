@@ -38,7 +38,7 @@ This [1986 geological survey](https://collections.leventhalmap.org/search/common
 
 ##### J. Schedler, [Relief map of the White Mountains, N.H](https://collections.leventhalmap.org/search/commonwealth:cj82kw03q "Relief map of the White Mountains, N.H") (1879)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kw040/full/,400/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kw040/full/1200,/0/default.jpg" class="figure-right" >}}
 
 This 1879 [relief map](https://collections.leventhalmap.org/search/commonwealth:cj82kw03q "relief map") invites a close looking of the White Mountains of New Hampshire. Mount Washington stands the tallest of the White Mountains at around 6,300 feet. 
 
