@@ -16,10 +16,10 @@ tags:
 
 > On December 15, we hosted From The Vault: Winter Travel and Tourism! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at objects from our collections that map winter attractions, climate, and methods of travel.
 
-#### Canada. Department of the Interior, Topographical map of the Rocky Mountains: Banff sheet (1902)
+#### Canada. Department of the Interior, [Topographical map of the Rocky Mountains: Banff sheet](https://collections.leventhalmap.org/search/commonwealth:3f463683r "Topographical map of the Rocky Mountains: Banff sheet") (1902)
 
 The Canadian Rockies are both a winter wonderland and a summer paradise. This topographic map inspires looking at the winter imagery of snow-capped peaks and frozen lakes through a new lens.
 
 Along the Canadian Pacific Railway, the words ‘Coal Mine’, and ‘Anthracite’ depict an area that hosted a coal mine in the late 19th-early 20th century. The coal mine shut down and the town of Anthracite was eventually deserted; it is now known as a ghost town.
 
-#### J.H. Bufford & Co, Map of the Vermont Central Rail Road and its connections, forming the Great Northern Route from the Atlantic to Montreal and the Lakes : from Smith's map of the United States (1848)
+#### J.H. Bufford & Co, [Map of the Vermont Central Rail Road and its connections, forming the Great Northern Route from the Atlantic to Montreal and the Lakes: from Smith's map of the United States](https://collections.leventhalmap.org/search/commonwealth:cj82kn615 "Map of the Vermont Central Rail Road and its connections, forming the Great Northern Route from the Atlantic to Montreal and the Lakes: from Smith's map of the United States") (1848)
