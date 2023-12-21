@@ -36,12 +36,6 @@ Railroads are not only a great way to get around town, but also a great way to e
 
 This [1986 geological survey](https://collections.leventhalmap.org/search/commonwealth:q524n4016 "1986 geological survey") is a visual display of mean monthly average temperature in the U.S. using data on the time period 1931-1960. While some experiences of seasonal temperature changes and weather patterns have stayed the same since the publishing of this map, much has also changed. In recent years, Bostonians have experienced unseasonably warm weather days in the depths of winter, sometimes back-to-back with aggressive snow storms. Looking at this map in the present day inspires us to ask the question: how have winter travel, tourism, and recreation been experienced as weather factors like temperature have changed in dramatic ways?
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kw040/full/1200,/0/default.jpg" class="figure-right" >}}
-
-##### J. Schedler, [Relief map of the White Mountains, N.H](https://collections.leventhalmap.org/search/commonwealth:cj82kw03q "Relief map of the White Mountains, N.H") (1879)
-
-This 1879 [relief map](https://collections.leventhalmap.org/search/commonwealth:cj82kw03q "relief map") invites a close looking of the White Mountains of New Hampshire. Mount Washington stands the tallest of the White Mountains at around 6,300 feet.
-
 ##### Federal Writers' Project of the Works Progress Administration of Massachusetts, [Winter sports map of the Berkshire Hills](https://collections.leventhalmap.org/search/commonwealth:wd376186t "Winter sports map of the Berkshire Hills") (1936)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761873/full/1200,/270/default.jpg" class="" >}}
@@ -53,3 +47,9 @@ Berkshire County, MA boasts fantastic opportunities for seasonal recreation. Dep
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd64k/full/1200,/0/default.jpg" >}}
 
 In addition to being a place for people to take on advanced, backcountry winter sports, [Mount Rainier](https://collections.leventhalmap.org/search/commonwealth:4m90fd639 "Mount Rainier") is one of many national parks that plays a role of climate resilience in North America. The expansive wilderness consisting of glaciers, forests, meadows, lakes, and other wetlands—that span a wide elevation range—provide many benefits, including a protected wildlife habitat and a place for carbon storage.
+
+##### J. Schedler, [Relief map of the White Mountains, N.H](https://collections.leventhalmap.org/search/commonwealth:cj82kw03q "Relief map of the White Mountains, N.H") (1879)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kw040/full/1200,/0/default.jpg" class="figure-right" >}}
+
+This 1879 [relief map](https://collections.leventhalmap.org/search/commonwealth:cj82kw03q "relief map") invites a close looking of the White Mountains of New Hampshire. Mount Washington stands the tallest of the White Mountains at around 6,300 feet.
