@@ -50,4 +50,6 @@ Berkshire County, MA boasts fantastic opportunities for seasonal recreation. Dep
 
 ##### John H. Renshawe, [Panoramic view of the Mount Rainier National Park, Washington](https://collections.leventhalmap.org/search/commonwealth:4m90fd639 "Panoramic view of the Mount Rainier National Park, Washington") (1914)
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd64k/full/1200,/0/default.jpg" >}}
+
 In addition to being a place for people to take on advanced, backcountry winter sports, [Mount Rainier](https://collections.leventhalmap.org/search/commonwealth:4m90fd639 "Mount Rainier") is one of many national parks that plays a role of climate resilience in North America. The expansive wilderness consisting of glaciers, forests, meadows, lakes, and other wetlands—that span a wide elevation range—provide many benefits, including a protected wildlife habitat and a place for carbon storage.
