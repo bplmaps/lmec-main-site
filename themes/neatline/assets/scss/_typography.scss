@@ -83,3 +83,7 @@ div.pd-text a:not(.btn) {
   background-image: linear-gradient(0deg, rgba(0, 102, 136, 0.2) 10%, transparent 0); }
   .content p a:not(.btn):hover, .content li a:not(.btn):hover {
     background-image: linear-gradient(0deg, rgba(0, 102, 136, 0.2) 35%, transparent 0); }
+
+h5 a:not(.btn) {
+  color: $link-color;
+}
