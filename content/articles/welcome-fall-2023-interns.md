@@ -1,11 +1,12 @@
 ---
 draft: true
-title: Fall interns wrap up at LMEC
-date: 2023-12-13T05:00:00.000Z
+title: Atlascope stories from LMEC's fall interns
+date: 2024-01-05T05:00:00.000Z
 author: 'Olivia Hewang, Natalie Gilbert, and Dina Gorelik'
 description: >-
-  As we reach the end of another semester of internships at LMEC, learn what
-  students have been working on for the past few months
+  In these new Atlascope tours, wander historic Chinatown, step into the history
+  of sugar refineries, and learn about the 20th century medical landscape of
+  Boston's West End
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pk02g089z/394,3241,8083,2621/1200,/0/default.jpg
 backgroundImage: >-
@@ -19,11 +20,11 @@ tags:
 
 ### Another semester on the books
 
-For the past 3 months, a cohort of undergraduate interns have been working on a variety of exciting projects here at LMEC.
+For the past 3 months, a cohort of undergraduate interns worked on a variety of exciting projects here at LMEC.
 
-The majority of their work has involved creating new layers for [Atlascope](https://atlascope.org), but they've also set aside some time for independent research into topics of their own choosing. They plan to publish that research in the form of [Atlascope Tours](https://www.atlascope.org).
+In addition to their work creating new layers for [Atlascope](https://atlascope.org), they set aside time for independent research into topics of their own choosing.
 
-We sat down with each of them to hear more about what they've been up to, in their own words. Read on to learn more!
+We sat down with each of them to hear more about their time at LMEC, including the tours they published and the towns they've georeferenced.
 
 #### Olivia Hewang
 
@@ -45,10 +46,9 @@ In the future, I plan to continue exploring my academic interests in urban and s
 
 {{< figure src="/images/headshots/natalie-gilbert.jpeg" class="figure-right" >}}
 
-I am a History major with a concentration in Public History and a minor in English at Suffolk University. I will be graduating this semester!
+I am a History major with a concentration in Public History and a minor in English at Suffolk University. I graduated in December 2023, and next fall will begin pursuing a MA in architecture and historic preservation at NYU's London campus.
 
-My georeferencing work has focused on the city of Everett. The atlas I have been working on is the City of Everett 1896 from Geo. H. Walker & Co.
-One aspect I found interesting while georeferencing the Everett 1896 atlas was the amount of artificial landfilling that occurred to build up the city’s waterfront. In 1896, Everett was largely connected to the Mystic River by salt marshes which have since been (at least partially) filled in. Before working on this atlas, I had known about landfilling in larger cities like Boston, but I had not considered how this phenomenon would transfer to smaller cities like Everett. I am curious to learn more about how this shift in the geographic landscape impacted the natural environment of the city.
+My georeferencing work has focused on the city of Everett. The atlas I have been working on is the City of Everett 1896 from Geo. H. Walker & Co. One aspect I found interesting while georeferencing the Everett 1896 atlas was the amount of artificial landfilling that occurred to build up the city’s waterfront. In 1896, Everett was largely connected to the Mystic River by salt marshes which have since been (at least partially) filled in. Before working on this atlas, I had known about landfilling in larger cities like Boston, but I had not considered how this phenomenon would transfer to smaller cities like Everett. I am curious to learn more about how this shift in the geographic landscape impacted the natural environment of the city.
 
 My [Atlascope tour](https://www.atlascope.org) follows the development of two competing sugar refineries---one very large and the other very small---during the 19th and early 20th centuries. The tour follows changes to the landscape of East Boston, Cambridge, and Charlestown as the Boston Sugar Refinery and the Revere Sugar Refinery expanded, transferred ownership, and moved locations. As the two refineries developed, one was absorbed into the American Sugar Refinery (also known as the "Sugar Trust"), while the other worked hard to remain independent. While these refineries are no longer present in the greater Boston lanscape, the story of how national companies interact with small businesses continues to impact our daily lives today.
 
@@ -60,8 +60,7 @@ As I will be graduating from undergrad very shortly, I am looking ahead to gradu
 
 {{< figure src="/images/headshots/dina-gorelik.jpg" class="figure-left" >}}
 
-I am a senior at Brandeis University studying Anthropology, Linguistics, and
-French.
+I am a senior at Brandeis University studying Anthropology, Linguistics, and French.
 
 During my time at LMEC, I have mainly been working on georeferencing a 1911 atlas of Waltham, MA. I found the contrast between which parts of Waltham remained the same and which parts changed in the last 100 years quite striking. For example, downtown Waltham by the train station has remained very similar in its street layout and buildings compared to present day.
 
