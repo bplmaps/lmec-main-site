@@ -32,6 +32,6 @@ Donations go directly to our historical geography work with students, educators,
 * **August 2023**: [MBTA Kids Guide Map](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/objects/)
 * **September 2023**: [Plan de Paris](https://collections.leventhalmap.org/search/commonwealth:mg74t285q)
 * **October 2023**: [The land of make believe](https://collections.leventhalmap.org/search/commonwealth:xs55qj04r)
-* **November 2023: **[The southwestern railroad system United States and Mexico](https://collections.leventhalmap.org/search/commonwealth:cj82kp21d)
-* December 2023: [An aerial view of New York City](https://collections.leventhalmap.org/search/commonwealth:m039np67z)
-* January 2024: Coming Soon
+* **November 2023**: [The southwestern railroad system United States and Mexico](https://collections.leventhalmap.org/search/commonwealth:cj82kp21d)
+* **December 2023:** [An aerial view of New York City](https://collections.leventhalmap.org/search/commonwealth:m039np67z)
+* **January 2024**: Coming Soon
