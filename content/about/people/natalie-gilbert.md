@@ -1,7 +1,7 @@
 ---
 title: Natalie Gilbert
 description: Geospatial Research Intern
-headshot: '/images/headshots/natalie-gilbert.jpg'
+headshot: '/images/headshots/natalie-gilbert.jpeg'
 type: person
 staff_category: intern
 menu: false
