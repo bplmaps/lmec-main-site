@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Lynn Brown
 description: K-12 Education Lead
 headshot: "/images/headshots/lynn-brown.jpg"

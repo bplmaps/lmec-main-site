@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Natalie Gilbert
 description: Geospatial Research Intern
 headshot: '/images/headshots/natalie-gilbert.jpeg'

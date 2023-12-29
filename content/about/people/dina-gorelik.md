@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Dina Gorelik
 description: Geospatial Research Intern
 headshot: '/images/headshots/dina-gorelik.jpg'

@@ -1,4 +1,5 @@
 ---
+draft: true
 type: person
 title: Micaela Kahn
 description: Visitor Services & Exhibition Assistant
