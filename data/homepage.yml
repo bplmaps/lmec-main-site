@@ -58,7 +58,8 @@ cta:
   enable: true
   announcements:
     - badge: Summer teacher workshop
-      text: Apply by March 5 for our summer K-12 teacher institute, _Teaching With Maps: Community and Resilience in Maritime New England_
+      text: >
+        Apply by March 5 for our summer K-12 teacher institute, _Teaching With Maps: Community and Resilience in Maritime New England_
       link: https://www.teachingwithmaps.org
 audiences:
   enable: true
