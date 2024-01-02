@@ -5,7 +5,7 @@ date: 2024-01-05T05:00:00.000Z
 author: 'Olivia Hewang, Natalie Gilbert, and Dina Gorelik'
 description: >-
   In these new Atlascope tours, wander historic Chinatown, step into the history
-  of sugar refineries, and learn about the twentieth century medical landscape of
+  of sugar refineries, and learn about the twentieth-century medical landscape of
   Boston's West End
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pk02g089z/394,3241,8083,2621/1200,/0/default.jpg
