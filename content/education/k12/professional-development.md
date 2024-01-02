@@ -24,13 +24,6 @@ Sign up for our [Education Mailing List](https://www.leventhalmap.org/subscribe/
 ##### Open to educators from participating districts
 
 {{< pd-listing
-image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9472/4504,1941,2291,3113/1200,/0/default.jpg"
-title="Visualizing the World: Maps as Stories"
-subtitle="March 14 & 22, 2024"
-description="Maps tell stories. Historic maps in particular can tell us much about how our views of our world have evolved and also connect us to historic events both globally and in our own backyards. Helping students of all ages to read and analyze maps is key, not only for the where and what but also to help them evaluate the source critically, asking about the context, author’s purpose and motivations. This two-day seminar will introduce teachers to the collections of the Norman B. Leventhal Map & Education Center at the Boston Public Library, a wealth of over 200,000 maps and atlases dating from 1482 to the present. Participants will explore maps in the collection and connect to a variety of topics and time periods such as immigration, urban renewal and world maps. We will also go onto the streets of Boston to use digital mapping tools to explore how the city has changed over time and learn how georeferenced historic maps open up amazing possibilities for discovery. "
-signUpLink="https://teachers-scholars.org/" >}}
-
-{{< pd-listing
 image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:s4657c413/520,667,941,1286/full/0/default.jpg"
 title="Geospatial Explorations: Learn to Map Data with GIS"
 subtitle="January 23 & February 1, 2024"
