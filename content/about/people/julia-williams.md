@@ -4,7 +4,7 @@ description: Communications & Gallery Coordinator
 type: person
 staff_category: staff
 contact:
-  - method: email
+  - method: Email
     details: jwilliams@leventhalmap.org
 ---
 
