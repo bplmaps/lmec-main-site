@@ -19,7 +19,7 @@ tags:
 
 In August 1790, the United States of America conducted its first federal census. The data collected was minimal; census takers recorded no addresses, no professions, and no names except for head of household. Household members were tallied in demographic categories: race, and---for white people only---gender and age. Even as the demographic categorization of white people grew more specific in the following censuses, it wasn’t until 1820 that census takers did anything more than tally people of color in a single column titled "All other free Persons." This is the column where our research into Black Cantabrigians (residents of Cambridge) began.
 
-{{< figure src="/images/blog/blackCambridge" class="figure-left" >}}
+{{< figure src="/images/blog/blackCambridge-census1790.png" class="figure-left" >}}
 
 The aim of our research has been to document Black Cantabrigians in the years 1790-1820 and uncover the identities and stories behind the numbers in that "all other free persons" column on the first four national censuses. Across the four census years, we found sixty-six unique Cambridge households with at least one Black resident. Of those households, we were able to identify an address---and thus place a dot on the map---for thirty-five. [Our map](https://felt.com/map/Mapping-Black-Cambridge-1790-1820-Snapshots-from-the-First-Four-Federal-Censuses-ghIMa0VXTy6XhXh9A1g2bhA?loc=42.36999,-71.09789,12.89z&share=1), made using the web mapping application [Felt](https://felt.com), displays these findings:
 
