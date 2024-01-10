@@ -1,7 +1,7 @@
 ---
 draft: true
 title: 'Mapping Black Cambridge: 1790-1820'
-description: Snapshots from the First Four Federal Censuses
+description: Snapshots of Black life in a New England city from the first four federal censuses, 1790–1820
 date: 2023-12-31T05:00:00.000Z
 author: Joan Brunetta and Eve Loftus
 image: >-
@@ -9,19 +9,22 @@ image: >-
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:25152g836/277,250,2927,2082/1200,/0/default.jpg
 tags:
-  - cambridge
+  - Cambridge
   - small grants
+  - Black Boston
+  - census
+  - demography
 ---
 
-> *This digital publication was supported by the Leventhal Map & Education Center’s [Small Grants for Early Career Digital Publications program](https://www.leventhalmap.org/research/digital-publication-small-grants/).*
+> This digital publication was supported by the Leventhal Map & Education Center’s [Small Grants for Early Career Digital Publications](https://www.leventhalmap.org/research/digital-publication-small-grants/) program.
 
-### Black Cantabridgians in the first four U.S. Censuses
+In August 1790, the United States of America conducted its first federal census. The data collected was minimal; census takers recorded no addresses, no professions, and no names except for head of household. Household members were tallied in demographic categories: race, and---for white people only---gender and age. Even as the demographic categorization of white people grew more specific in the following censuses, it wasn’t until 1820 that census takers did anything more than tally people of color in a single column titled "All other free Persons."
 
-In August 1790, the United States of America conducted its first federal census. The data collected was minimal; census takers recorded no addresses, no professions, and no names except for head of household. Household members were tallied in demographic categories: race, and---for white people only---gender and age. Even as the demographic categorization of white people grew more specific in the following censuses, it wasn’t until 1820 that census takers did anything more than tally people of color in a single column titled "All other free Persons." This is the column where our research into Black Cantabrigians (residents of Cambridge) began.
+Though this data is thin and provides only a very rough glimpse into the geography of Black urban life in the early decades of the country, it _does_ give us a starting point from which to explore where—and how—Black people made their homes. This trace of data is where our research into Black Cantabrigians[^1] began.
 
 {{< figure src="/images/blog/blackCambridge-census1790.png" class="figure-left" >}}
 
-The aim of our research has been to document Black Cantabrigians in the years 1790-1820 and uncover the identities and stories behind the numbers in that "all other free persons" column on the first four national censuses. Across the four census years, we found sixty-six unique Cambridge households with at least one Black resident. Of those households, we were able to identify an address---and thus place a dot on the map---for thirty-five. [Our map](https://felt.com/map/Mapping-Black-Cambridge-1790-1820-Snapshots-from-the-First-Four-Federal-Censuses-ghIMa0VXTy6XhXh9A1g2bhA?loc=42.36999,-71.09789,12.89z&share=1), made using the web mapping application [Felt](https://felt.com), displays these findings:
+The aim of our research has been to document Black Cantabrigians in the years 1790–1820 and uncover the identities and stories behind the numbers in that "all other free persons" column on the first four national censuses. Across the four census years, we found sixty-six unique Cambridge households with at least one Black resident. Of those households, we were able to identify an address---and thus place a dot on the map---for thirty-five. [Our interactive map](https://felt.com/map/Mapping-Black-Cambridge-1790-1820-Snapshots-from-the-First-Four-Federal-Censuses-ghIMa0VXTy6XhXh9A1g2bhA?loc=42.36999,-71.09789,12.89z&share=1) displays these findings:
 
 <iframe src="https://felt.com/embed/map/Mapping-Black-Cambridge-1790-1820-Snapshots-from-the-First-Four-Federal-Censuses-ghIMa0VXTy6XhXh9A1g2bhA?loc=42.37899,-71.120049,12.59z" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; padding:20px"></iframe>
 
@@ -72,3 +75,5 @@ We are hoping that this map opens up new avenues of research for Black history i
 ---
 
 > *Joan Brunetta and Eve Loftus both grew up in Cambridge and went on to study History at Smith College. Eve has recently finished an M.Phil. in Public History and Cultural Heritage from Trinity College Dublin, and is interested in the decolonization movement in museums and increasing and improving public access to local history. Joan is an aspiring archivist and studied American history at Smith before earning her Master’s in Medieval Studies from the University of York (UK). She is equally interested in American social history and ancient languages. Despite their varied interests, both continue to find their way back to Cambridge to explore its history, and are excited for this opportunity to create a resource that will hopefully augment Cantabridgians’ understanding of their own city.*
+
+[^1]: The term *Cantabridgian* refers to a resent of Cambridge.
