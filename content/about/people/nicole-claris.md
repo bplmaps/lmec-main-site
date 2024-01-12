@@ -7,10 +7,10 @@ headshot: >-
 type: person
 staff_category: staff
 contact:
-  - method: Phone
-    details: (617) 859-2294
   - method: Email
     details: nclaris@leventhalmap.org
+  - method: Phone
+    details: (617) 859-2294
 ---
 
 Nicole Claris is an educator dedicated to exploring how objects shape our perspectives on history, ourselves, and each other. She holds a BA in History & Art History from the College of the Holy Cross and a MA in Art History from Indiana University, Bloomington.
