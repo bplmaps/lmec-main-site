@@ -804,35 +804,41 @@ export function person_entryFields() {
     {
       type: "string",
       name: "title",
-      label: "title",
+      label: "Person Name",
+      required: true,
     },
     {
       type: "string",
       name: "description",
-      label: "description",
+      label: "Position",
+      required: true,
     },
     {
       type: "string",
       name: "headshot",
-      label: "headshot",
+      label: "Headshot URL",
     },
     {
       type: "rich-text",
       name: "body",
-      label: "Body of Document",
-      description: "This is the markdown body",
+      label: "Short Bio",
+      description: "This is the where you put the person's bio.",
       isBody: true,
     },
     {
       type: "string",
       name: "type",
-      label: "type",
+      label: "File Type",
+      options: ["person"],
+      required: true,
+      
     },
     {
       type: "string",
       name: "staff_category",
       label: "Staff Category",
-      options: ["staff", "fellow"],
+      options: ["staff", "fellow", "intern"],
+      required: true,
     },
     {
       type: "object",
@@ -849,12 +855,12 @@ export function person_entryFields() {
         {
           type: "string",
           name: "method",
-          label: "method",
+          label: "Contact Method",
         },
         {
           type: "string",
           name: "details",
-          label: "details",
+          label: "Contact Details",
         },
       ],
     },
