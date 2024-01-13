@@ -75,7 +75,12 @@ export default defineConfig({
         },
         fields: [
           ...article_postFields(),
-        ]
+        ],
+        defaultItem: () => {
+          return {
+            draft: true,
+          }
+        },
       },
       {
         format: "md",
@@ -100,6 +105,11 @@ export default defineConfig({
         fields: [
           ...event_listingFields(),
         ],
+        defaultItem: () => {
+          return {
+            draft: true,
+          }
+        },
       },
       {
         format: "md",
@@ -184,6 +194,11 @@ export default defineConfig({
         fields: [
           ...person_entryFields(),
         ],
+        defaultItem: () => {
+          return {
+            draft: true,
+          }
+        },
       },
       {
         format: "md",

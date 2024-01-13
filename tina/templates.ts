@@ -802,6 +802,16 @@ export function newsletterFields() {
 export function person_entryFields() {
   return [
     {
+      type: "boolean",
+      name: "draft",
+      label: "Draft Status",
+      required: true,
+      toggleLabels: {
+        true: 'Draft Mode',
+        false: 'Published',
+      },
+    },
+    {
       type: "string",
       name: "title",
       label: "Person Name",
@@ -863,6 +873,16 @@ export function person_entryFields() {
           label: "Contact Details",
         },
       ],
+    },
+    {
+      type: "boolean",
+      name: "menu",
+      label: "Appears in Sidebar Menu",
+      required: true,
+      toggleLabels: {
+        true: 'In Menu',
+        false: 'Not in Menu',
+      },
     },
   ] as TinaField[];
 }
