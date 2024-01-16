@@ -2,8 +2,8 @@
 draft: true
 title: >-
   Routes Ahead of Us: A Convesration with Stacy Thompson and Reggie Ramos
-date: 2024-01-10T18:00:00.000-5:00
-publishDate: 2024-02-13T18:00:00.000-5:00
+date: 2024-01-10T18:00:00-05:00
+publishDate: 2024-02-13T18:00:00-05:00
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sj13ch789/full/,1200/0/default.jpg
 backgroundImage: >-
