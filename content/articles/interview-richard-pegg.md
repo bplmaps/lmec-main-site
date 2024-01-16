@@ -40,7 +40,7 @@ My first encounter with these maps I think will be similar to anyone’s. _Wow!_
 
 Another unique quality is the “rubbing” printing method which is historically and typically associated with printing and collecting copies on paper of stone steles. Woodblock printing, which these blue maps use, typically creates a positive image from a negative carved block. The blue maps are a positive image printed from a positive woodblock, using the same process as that of rubbings. Rubbings also are typically produced using a bamboo-based paper (*lianshi*) while these are produced using a blue sandlewood-based paper (*xuan*), typically used for fine paintings and calligraphies.
 
-Visually, when placed side by side. these two maps remind the viewer of the relationship between humankind, heaven, and earth. These are depictions of heaven and earth through the lens of human perception with the intention of human interpretation and use. We often forget about our relationships to the sky and earth around us in our everyday lives.
+Visually, when placed side by side, these two maps remind the viewer of the relationship between humankind, heaven, and earth. These are depictions of heaven and earth through the lens of human perception with the intention of human interpretation and use. We often forget about our relationships to the sky and earth around us in our everyday lives.
 
 **How did you first come to realize there was something interesting in these “blue maps” that historians hadn’t yet considered?**
 
@@ -52,7 +52,7 @@ Aside from the unique production qualities, the contents of these maps are reall
 
 These two maps were inspired by a pair of maps first drawn in the 1190s and then because of their importance carved into stone in 1247 CE. Since that time rubbings from those stone steles, which still stand in Suzhou today, have been made and collected. This exhibition has copies of both. Conceptually, creating celestial and terrestrial maps that have equal weight visually had been common in Europe during the 17th and 18th centuries, particularly in the making of globes, but began to disappear in the 19th century. In China too, by the 19th century, maps might include both terrestrial and celestial information, but one type was always prioritized over another through the space allocated on any given map.
 
-The blue maps, thenm are unusual in a European as well as Chinese context, in that two large format maps, one terrestrial and one celestial, of essentially the same size, were produced as a set. The blue maps intentionally reference the stele maps of 1247 in an effort to activate, in a conversation over time, the reasons those maps were made five hundred years earlier.  
+The blue maps, then, are unusual in a European as well as Chinese context, in that two large format maps, one terrestrial and one celestial, of essentially the same size, were produced as a set. The blue maps intentionally reference the stele maps of 1247 in an effort to activate, in a conversation over time, the reasons those maps were made five hundred years earlier.  
 
 **These maps are physical objects with a very specific material history. Can you give us a short backstory of their life courses as objects? After they were made, who owned them over time, and how did they eventually come to collections outside of East Asia?** 
 
@@ -60,7 +60,7 @@ The blue maps, thenm are unusual in a European as well as Chinese context, in th
 
 These maps were printed and designed to be mounted in China as hanging scrolls. This is confirmed by the line of eight title slips that are still left on the MacLean Collection terrestrial map along the far-right edge. But they seem to generally have been distributed after printing as eight loose sheets for both maps. After printing, they were immediately and enthusiastically imported in Japan. In Japan they were mounted into other formats like folding screens (*byobu*), sliding doors (*fusuma*), and as folded sheet maps. 
 
-The history of some of these maps as objects over time is quite amazing. The example in the Wereldmuseum in Leiden for example was acquired by a doctor working for the Dutch East India Company in the mid-1820s and brought to the Netherlands in the late 1820s. The MacLean Collection map was probably remounted as a screen in Korea in the early 20th century and made its way to New York in the 1950s. Since my rediscovery and publication of these maps they have become popular and emerged at auction or with dealers all over the world.
+The history of some of these maps as objects over time is quite amazing. The example in the Wereldmuseum in Leiden for example was acquired by a doctor working for a Dutch trading company in the mid-1820s and brought to the Netherlands in the late 1820s. The MacLean Collection map was probably remounted as a screen in Korea in the early 20th century and made its way to New York in the 1950s. Since my rediscovery and publication of these maps they have become popular and emerged at auction or with dealers all over the world.
 
 **One of the unique features of these maps is their use of Prussian blue pigment. Why is this so important, and how did you figure out that the maps are indeed colored with Prussian blue?**
 
