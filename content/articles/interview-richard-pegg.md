@@ -1,9 +1,9 @@
 ---
-title: 'Cosmologies and Colors: An Interview with Richard Pegg about _Heaven and Earth: The Blue Maps of China_'
+title: 'Cosmologies and Colors: An Interview with Richard Pegg about Heaven and Earth'
 date: 2024-01-26T04:00:00.000Z
 author: Richard Pegg and Garrett Dash Nelson
 description: >-
-  Learn more about our upcoming exhibition through an
+  Learn more about our upcoming exhibition, _Heaven and Earth: The Blue Maps of China_, through an
   interview with the guest curator
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx121n456/9897,1022,3534,1767/,1200/0/default.jpg
@@ -32,7 +32,7 @@ In 2018, Elke Papelitzky, my friend and colleague, was a MacLean Collection Map 
 
 **And how did the exhibition project at the Leventhal Center play into this backstory?**
 
-Several years ago, I was asked to look at the LMEC’s East Asian maps collection. The Center has one [important mid-ninetneeth Chinese map](https://collections.leventhalmap.org/search/commonwealth:x633f9803) in its collection. I began thinking about a small exhibition of Chinese maps from Boston-based collections. I later became a member of the Leventhal Center Board of Review, which helps advise the curatorial and collection teams. At the same time, institutionally, the MacLean Collection and the LMEC had been and continue to collaborate on a number of projects. It occurred to me that an exhibition that paired the two Chicago based blue maps from the MacLean and Adler collections into an exhibition that included the LMEC map and several Harvard maps was a win-win for all.  
+Several years ago, I was asked to look at the LMEC’s East Asian maps collection. The Center has one [important mid-ninetneeth century Chinese map](https://collections.leventhalmap.org/search/commonwealth:x633f9803) in its collection. I began thinking about a small exhibition of Chinese maps from Boston-based collections. I later became a member of the Leventhal Center Board of Review, which helps advise the curatorial and collection teams. At the same time, institutionally, the MacLean Collection and the LMEC had been and continue to collaborate on a number of projects. It occurred to me that an exhibition that paired the two Chicago based blue maps from the MacLean and Adler collections into an exhibition that included the LMEC map and several Harvard maps was a win-win for all.  
 
 **Give us a quick introduction to what we’re looking at on these maps, how they were made, and why they’re so powerful when paired together.**
 
