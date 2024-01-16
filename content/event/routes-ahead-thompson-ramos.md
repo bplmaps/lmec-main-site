@@ -1,7 +1,7 @@
 ---
 draft: true
 title: >-
-  Routes Ahead of Us: A Convesration with Stacy Thompson and Reggie Ramos
+  Routes Ahead of Us: A Conversation with Stacy Thompson and Reggie Ramos
 date: 2024-02-13T18:00:00-05:00
 publishDate: 2024-01-10T18:00:00-05:00
 image: >-
