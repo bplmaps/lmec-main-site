@@ -534,15 +534,20 @@ textarea.form-control{
     @media (min-width: 500px) {
     &.figure-right {
       float: right;
-      width: 50%;
+      max-width: 50%;
       margin-left: 20px;
+      img {
+        max-height: 40vh;
+      }
     }
 
     &.figure-left {
       float: left;
-      width: 50%;
+      max-width: 50%;
       margin-right: 20px;
-    }
+      
+
+    } 
     }
 
     figcaption {
