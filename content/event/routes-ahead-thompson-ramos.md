@@ -30,7 +30,7 @@ These informal presentations feature discussions with transit and mobility exper
 
 ![Headshot of Reggie Ramos](https://assets.nationbuilder.com/t4ma/pages/444/attachments/original/1694513222/Reggie_Ramos_headshot.jpg?1694513222)
 
-**Reggie Ramos** is the executive director of T4MA. In this role, she will be leading into action T4MA’s strengthened commitments on transportation justice and equity. Reggie believes deeply that transportation can be a democratizing tool for social change. Prior to joining T4MA in 2023, Reggie served in roles at the MBTA and the Institute for Human Centered Design in Boston, launching expanded Fairmount Line service and free bus projects and contributing to subway, light rail, and commuter rail station design to ensure access for people with disabilities.
+**Reggie Ramos** is the executive director of Transportation for Massachusetts. In this role, she will be leading into action T4MA’s strengthened commitments on transportation justice and equity. Reggie believes deeply that transportation can be a democratizing tool for social change. Prior to joining T4MA in 2023, Reggie served in roles at the MBTA and the Institute for Human Centered Design in Boston, launching expanded Fairmount Line service and free bus projects and contributing to subway, light rail, and commuter rail station design to ensure access for people with disabilities.
 
 ### Registration
 
