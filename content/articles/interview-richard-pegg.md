@@ -1,6 +1,6 @@
 ---
 title: 'Cosmologies and Colors: An Interview with Richard Pegg about Heaven and Earth'
-date: 2024-01-26T04:00:00.000Z
+date: 2024-01-17T04:00:00.000Z
 author: Richard Pegg and Garrett Dash Nelson
 description: >-
   Learn more about our upcoming exhibition, _Heaven and Earth: The Blue Maps of China_, through an
