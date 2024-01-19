@@ -10,6 +10,7 @@ backgroundImage: >-
 tags:
   - small grants
   - the brownies' book
+draft: true
 ---
 
 > *This digital publication was supported by the Leventhal Map & Education Center’s [Small Grants for Early Career Digital Publications program](https://www.leventhalmap.org/research/digital-publication-small-grants/).*
