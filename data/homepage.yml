@@ -57,11 +57,6 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Holiday Hours
-      text: >-
-        The Leventhal Center and all BPL locations will be closed on Monday, Jan
-        15 in observation of Martin Luther King, Jr. Day.
-      link: /about/hours-directions
     - badge: Summer teacher workshop
       text: >
         Apply by March 5 for our summer K-12 teacher institute, _Teaching With
