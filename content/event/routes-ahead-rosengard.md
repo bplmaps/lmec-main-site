@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: >-
   Routes Ahead of Us: A Conversation with Dan Rosengard on School Transportation
 date: 2024-03-26T18:00:00-04:00
@@ -13,7 +13,6 @@ fee: Free
 tags:
   - getting around town
   - exhibition
-registration: '#'
 ---
 
 ### About this event

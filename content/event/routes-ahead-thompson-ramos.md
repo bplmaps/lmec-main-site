@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: >-
   Routes Ahead of Us: A Conversation with Stacy Thompson and Reggie Ramos
 date: 2024-02-13T18:00:00-05:00
@@ -13,7 +13,7 @@ fee: Free
 tags:
   - getting around town
   - exhibition
-registration: '#'
+
 ---
 
 ### About this event
