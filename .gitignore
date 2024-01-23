@@ -8,3 +8,4 @@ node_modules
 builds
 public
 DS_Store
+resources/_gen/
