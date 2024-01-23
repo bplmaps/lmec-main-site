@@ -551,13 +551,11 @@ textarea.form-control {
   @media (min-width: 500px) {
     .content figure.figure-right {
       float: right;
-      max-width: 50%;
+      width: 50%;
       margin-left: 20px; }
-      .content figure.figure-right img {
-        max-height: 40vh; }
     .content figure.figure-left {
       float: left;
-      max-width: 50%;
+      width: 50%;
       margin-right: 20px; } }
   .content figure figcaption {
     padding: 10px 5px; }
