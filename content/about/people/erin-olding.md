@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Erin Olding
 description: Spring 2024 Georeferencing Intern
 headshot: >-
@@ -8,3 +9,4 @@ staff_category: intern
 menu: false
 ---
 
+Erin Olding is a History student at UMass Boston. She is particularly interested in transportation maps, especially of the railroad and the MBTA.
