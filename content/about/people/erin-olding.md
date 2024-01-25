@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Erin Olding
 description: Spring 2024 Georeferencing Intern
 headshot: >-
