@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 'From the Vault: African American History Month'
+title: From the Vault Collections Showing — African American History Month
 date: 2024-02-02T19:00:00.000Z
 publishDate: 2024-01-30T05:00:00.000Z
 image: >-
