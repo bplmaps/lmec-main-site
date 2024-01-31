@@ -5,9 +5,7 @@ date: 2024-01-31T17:45:00.000Z
 author: Rachel Sharer
 description: >-
   At the end of 2023, we asked our supporters to help us out with a creative and
-  collaborative map project: renaming Boston's subway stations. We're thrilled
-  to present the final transit map, and think they did a great job capturing the
-  spirit of each station!
+  collaborative map project: renaming Boston's subway stations.
 image: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/South_entrances_to_Kenmore_station,_1932.jpg
 backgroundImage: >-
