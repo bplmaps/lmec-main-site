@@ -16,7 +16,7 @@ tags:
   - demography
 ---
 
-> This digital publication was supported by the Leventhal Map & Education Center’s [Small Grants for Early Career Digital Publications](https://www.leventhalmap.org/research/digital-publication-small-grants/) program and the [Harvard Map Library](https://library.harvard.edu/libraries/harvard-map-collection).
+> This digital publication was supported by the Leventhal Map & Education Center’s [Small Grants for Early Career Digital Publications](https://www.leventhalmap.org/research/digital-publication-small-grants/) program and the [Harvard Map Collection](https://library.harvard.edu/libraries/harvard-map-collection).
 
 In August 1790, the United States of America conducted its first federal census. The data collected was minimal; census takers recorded no addresses, no professions, and no names except for head of household. Household members were tallied in demographic categories: race, and---for white people only---gender and age. Even as the demographic categorization of white people grew more specific in the following censuses, it wasn’t until 1820 that census takers did anything more than tally people of color in a single column titled "All other free Persons."
 
