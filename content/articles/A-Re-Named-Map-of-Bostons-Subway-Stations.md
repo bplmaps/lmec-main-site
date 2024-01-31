@@ -16,6 +16,6 @@ At the end of 2023, we asked our supporters to help us out with a creative and c
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/MBTA Renamed Map (1).jpeg" >}}
 
-Visit our gallery in the Central Library to see the full map on display through April 27th, 2024. You can help us continue to launch fun projects like this by becoming a supporter of the Leventhal Map & Education Center, an independent nonprofit at the Boston Public Library. Donate anytime at [leventhalmap.org/donate]()
+Visit our gallery in the Central Library to see the full map on display through April 27th, 2024. You can help us continue to launch fun projects like this by becoming a supporter of the Leventhal Map & Education Center, an independent nonprofit at the Boston Public Library. Donate anytime at [leventhalmap.org/donate](https://www.leventhalmap.org/donate/)
 
 > Many thanks to the generous donors who made this map possible. All proceeds from this project go towards our free, educational public programming for our current exhibition, *[Getting Around Town: Four Centuries of Mapping Boston in Transit](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/).*
