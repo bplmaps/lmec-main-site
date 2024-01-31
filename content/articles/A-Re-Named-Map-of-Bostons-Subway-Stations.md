@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: A Re-Named Map of Boston's Subway Stations
 date: 2024-01-31T18:30:00.000Z
 author: Rachel Sharer
