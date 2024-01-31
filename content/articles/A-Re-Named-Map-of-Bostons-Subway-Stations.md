@@ -8,11 +8,6 @@ description: >-
   collaborative map project: renaming Boston's subway stations. We're thrilled
   to present the final transit map, and think they did a great job capturing the
   spirit of each station!
-
-
-  Visit our gallery in the Central Library to see the full map with all the new
-  station names. You can help us launch fun projects like this by becoming a
-  supporter: donate anytime at leventhalmap.org/donate
 image: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/South_entrances_to_Kenmore_station,_1932.jpg
 backgroundImage: >-
@@ -35,4 +30,4 @@ We think they did a great job of capturing the spirit of each station on the Red
 
 Visit our gallery in the Central Library to see the full map on display. You can help us launch fun projects like this by becoming a supporter: donate anytime at leventhalmap.org/donate
 
-> Many thanks to the donors who made this map possible:
+> Many thanks to the generous donors who made this map possible. All proceeds from this project go towards our free, educational public programming for our current exhibition, *[Getting Around Town: Four Centuries of Mapping Boston in Transit](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/).*
