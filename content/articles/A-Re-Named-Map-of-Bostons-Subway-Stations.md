@@ -26,7 +26,7 @@ Names the relay the daily experiences (or frustrations) of Boston's public trans
 
 We think they did a great job of capturing the spirit of each station on the Red, Orange, Blue, and Green lines!
 
-{{< figure >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/MBTA Renamed Map (1).jpeg" >}}
 
 Visit our gallery in the Central Library to see the full map on display. You can help us launch fun projects like this by becoming a supporter: donate anytime at leventhalmap.org/donate
 
