@@ -12,7 +12,7 @@ backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/South_entrances_to_Kenmore_station,_1932.jpg
 ---
 
-At the end of 2023, we asked our supporters to help us out with a creative and collaborative map project: renaming Boston's subway stations. For the month of November, donors bid on the "rights" to re-name various stations on the red, orange, green and blue lines. Today, we're thrilled to present the final transit map. This map covers it all—from historical references and neighborhood locales to imaginative puns and names that relay the daily experiences (or frustrations) of Boston's public transit riders. We think they did a great job of capturing the spirit of each station!
+At the end of 2023, we asked our supporters to help us out with a creative and collaborative map project: renaming Boston's subway stations. For the month of November, donors bid on the "rights" to re-name various stations on the red, orange, green and blue lines. Today, we're thrilled to present the final transit map. This map covers it all—from historical references and neighborhood locales to imaginative puns and names that relay the daily experiences (or frustrations) of Boston's public transit riders. We think they did a great job of capturing the spirit of each station! Which stations are your favorite?
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/MBTA Renamed Map (1).jpeg" caption="" >}}
 
