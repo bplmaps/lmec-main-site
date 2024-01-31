@@ -16,4 +16,4 @@ At the end of 2023, we asked our supporters to help us out with a creative and c
 
 Visit our gallery in the Central Library to see the full map on display as part of our *[Getting Around Town](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/)* exhibition through April 27, 2024. You can help us continue to launch fun projects like this by becoming a supporter of the Leventhal Map & Education Center, an independent nonprofit at the Boston Public Library. Donate anytime at [leventhalmap.org/donate](https://www.leventhalmap.org/donate/) and make sure to [subscribe to our newsletter](https://www.leventhalmap.org/subscribe/) for chances to participate in mapping projects or exhibition programs.
 
-> Many thanks to the generous donors who made this map possible. All proceeds from this project go towards our free, educational public programming for our current transportation exhibition.
+> Many thanks to the generous donors who made this map possible. All proceeds from this project go towards our free, educational public programming for our current exhibition.
