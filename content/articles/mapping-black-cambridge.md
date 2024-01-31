@@ -2,7 +2,7 @@
 draft: false
 title: 'Mapping Black Cambridge: 1790-1820'
 description: Snapshots of Black life in a New England city from the first four federal censuses, 1790–1820
-date: 2024-1-31T05:00:00.000Z
+date: 2024-01-31T05:00:00.000Z
 author: Joan Brunetta and Eve Loftus
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:25152g836/277,250,2927,2082/1200,/0/default.jpg
