@@ -14,14 +14,14 @@ description: >-
   station names. You can help us launch fun projects like this by becoming a
   supporter: donate anytime at leventhalmap.org/donate
 image: >-
-  https://upload.wikimedia.org/wikipedia/commons/3/38/South_entrances_to_Kenmore_station%2C_1932.jpg
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/South_entrances_to_Kenmore_station,_1932.jpg
 backgroundImage: >-
-  https://upload.wikimedia.org/wikipedia/commons/3/38/South_entrances_to_Kenmore_station%2C_1932.jpg
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/South_entrances_to_Kenmore_station,_1932.jpg
 ---
 
 At the end of 2023, we asked our supporters to help us out with a creative and collaborative map project: renaming Boston's subway stations. We're thrilled to present the final transit map, and think they did a great job capturing the spirit of each station!
 
-This map covers it all - from 
+This map covers it all - from
 
 Historical references
 
