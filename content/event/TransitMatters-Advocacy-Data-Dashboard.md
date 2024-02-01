@@ -20,7 +20,7 @@ Join us for a virtual event with TransitMatters, as they discuss their award-win
 
 This talk will stream live to our [Facebook page](https://www.facebook.com/bplmaps) and [YouTube channel](https://www.youtube.com/@LeventhalMapEducationCenter). Please register below to receive reminders.
 
-Presented as part of our ongoing exhibition, Getting Around Town: Four Centuries of Mapping Boston in Transit.
+***Presented as part of our ongoing exhibition, Getting Around Town: Four Centuries of Mapping Boston in Transit.***
 
 ### About the speakers
 
