@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: Atlascope stories from LMEC interns
-date: 2024-01-05T05:00:00.000Z
+date: 2024-02-07T05:00:00.000Z
 author: 'Olivia Hewang, Natalie Gilbert, and Dina Gorelik'
 description: >-
   In these new Atlascope tours, wander historic Chinatown, step into the history
