@@ -9,10 +9,6 @@ contact:
   details: 617.859.2506
 - method: Email
   details: "<ebowe@leventhalmap.org>"
-- method: Twitter
-  details: "[@emilyrbowe](https://twitter.com/emilyrbowe)"
-- method: Website
-  details: "[Personal site](https://emilyrbowe.com/)"
 menu: false
 
 ---

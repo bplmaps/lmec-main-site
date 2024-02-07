@@ -8,6 +8,8 @@ menu: false
 contact:
   - method: Email
     details: jwilliams@leventhalmap.org
+  - method: Phone
+    details: 617.859.2383
 ---
 
 Julia (she/her) is a researcher and educator with interests in local history, human geography, and the way local community-centered information can strengthen our knowledge, perception, and understanding of different material. She earned both her MA in Museum Education and her BA in Education & Human Development from Tufts University.
