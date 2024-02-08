@@ -27,7 +27,7 @@ In [browsing the pages of *The Brownies' Book*](https://www.loc.gov/item/2200135
 
 ### The *Brownies' in Boston* interactive map
 
-[![map](../../static/images/blog/brownies-map.png)](https://felt.com/map/The-Brownies-Book-in-Greater-Boston-and-Surrounding-Areas-1920-1921-HlZyiiysRfqHH9CtBXm8bxB?loc=42.686,-72.948,6.91z&share=1)
+[![map](/images/blog/brownies-map.png)](https://felt.com/map/The-Brownies-Book-in-Greater-Boston-and-Surrounding-Areas-1920-1921-HlZyiiysRfqHH9CtBXm8bxB?loc=42.686,-72.948,6.91z&share=1)
 
 The interactive map---built using the platform [Felt](https://felt.com)---visually identifies geographies of learning and education in Black Boston, including readers\' homes and neighborhoods, schools and workplaces, notable sites and historic landmarks, and important Black Boston figures throughout the 18th and 19th centuries. Felt is [free-to-use for educators](https://felt.com/education), and accessible for learners in K-12 across subjects.
 
