@@ -1,7 +1,7 @@
 ---
 title: Allmaps
 backgroundImage: /images/blog/allmaps-banner.png
-cardImage: /static/images/blog/allmaps-card.png
+cardImage: /images/blog/allmaps-card.png
 description: >-
   Easily georeference maps from institutions across the world
 resourceUrl: 'https://allmaps.org'
