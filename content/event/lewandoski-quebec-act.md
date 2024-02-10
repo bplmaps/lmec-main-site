@@ -19,7 +19,7 @@ The 1774 Quebec Act is primarily known for partially provoking the American Revo
 
 {{< figure class="figure-right" alt="Headshot of Julia Lewandoski" src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/events/lewandoski-head-shot.jpg" >}}
 
-[Julia Lewandoski](https://history.ucsd.edu/people/faculty/lewandoski.html) is Assistant Professor of History at the University of California San Diego. She is a historian of Indigenous peoples, cartography, and empire in early North America. She is at work on her first book, Land Tenure Survival: Imperial Law and Indigenous Creativity in the Treaty Era, which explores Indigenous land ownership under successive imperial regimes in eighteenth- and nineteenth-century Quebec, Louisiana, and southern California.
+[Julia Lewandoski](https://history.ucsd.edu/people/faculty/lewandoski.html) is Assistant Professor of History at the University of California San Diego. She is a historian of Indigenous peoples, cartography, and empire in early North America. She is at work on her first book, _Land Tenure Survival: Imperial Law and Indigenous Creativity in the Treaty Era_, which explores Indigenous land ownership under successive imperial regimes in eighteenth- and nineteenth-century Quebec, Louisiana, and southern California.
 
 This talk is free and open to the public. We invite questions and comments from our live audience. Registration is not required, but we will send  a calendar invitation and reminder to registered attendees.
 
