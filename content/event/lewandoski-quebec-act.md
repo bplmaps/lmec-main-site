@@ -1,7 +1,7 @@
 ---
 publishDate: 2022-01-07T10:13:39.000-05:00
 title: Julia Lewandoski on Mapping French and Indigenous Land after the Quebec Act
-date: 2023-09-10T19:00:00.000-04:00
+date: 2024-09-10T19:00:00.000-04:00
 image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:08615n92t/full/,1200/0/default.jpg
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:08615n92t/full/,1200/0/default.jpg
 location: Online
