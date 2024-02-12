@@ -62,6 +62,9 @@ cta:
         Apply by March 5 for our summer K-12 teacher institute, _Teaching With
         Maps: Community and Resilience in Maritime New England_
       link: 'https://www.teachingwithmaps.org'
+    - badge: Upcoming closure
+      text: The Map Center and all BPL locations will be closed on February 13th due to a forecasted snowstorm.
+      link: '/about/hours-directions'
 audiences:
   enable: true
   audienceGroups:
