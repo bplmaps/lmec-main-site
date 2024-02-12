@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: An Interview with Julia Williams
-date: 2024-02-01T05:00:00.000Z
+date: 2024-02-13T05:00:00.000Z
 author: Julia Williams
 description: >-
   An interview with the new LMEC Communications & Gallery Coordinator, Julia
@@ -17,7 +17,7 @@ tags:
 
 > We’re excited to welcome Julia Williams to the team as our new Communications & Gallery Coordinator. Julia is a researcher and an educator with an MA in Museum Education from Tufts University. We sat down with Julia to learn more about her interests and future work at the Center.
 
-{{< figure src="/images/headshots/julia-williams.jpg" class="figure-left" caption="Julia Williams">}}
+{{< figure src="/images/headshots/julia-williams.jpg" class="figure-left" caption="Julia Williams" >}}
 
 **Julia, we’re so excited to have you on board here at the Leventhal Map & Education Center. Tell us a little bit about your background—what led up to your new role with us?**
 
@@ -33,15 +33,15 @@ My earliest memory of maps is a bit niche–it was a map of the United States ma
 
 I learned recently that the LMEC actually has the map that Lewis and Clark used to navigate the Missouri river during their expedition! My sisters and I were eventually able to complete the map and it exposed us to the amazing culture and significance of each state. I look to it now as an example of a great way to integrate what could be stagnant learning into something much more interactive and engaging.
 
-{{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nf607/full/1200,/0/default.jpg" class="" caption="[*Map of Missouri River and vicinity from Saint Charles, Missouri, to Mandan villages of North Dakota*](https://collections.leventhalmap.org/search/commonwealth:q524nf59g) (1798)">}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nf607/full/1200,/0/default.jpg" class="" caption="[*Map of Missouri River and vicinity from Saint Charles, Missouri, to Mandan villages of North Dakota*](https://collections.leventhalmap.org/search/commonwealth:q524nf59g) (1798)" >}}
 
-**You’ll be spending lots of your day thinking about our public gallery. Right now, [*Getting Around Town*](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/) is entering its sixth month in our gallery. Do you have any favorite parts of that exhibition so far?**
+**You’ll be spending lots of your day thinking about our public gallery. Right now, *[Getting Around Town](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/)* is entering its sixth month in our gallery. Do you have any favorite parts of that exhibition so far?**
 
 Ooo, that’s a hard one! I’d have to say my favorite part of the exhibition is the large, center table display. I love how it focuses on the user-experience of public transit and what would have been involved in trying to navigate those systems. From private transportation companies to wallet-sized maps of the T, I think it’s a very insightful look into how Boston was presented to and understood by the public. I think it also shows a bit of the potential clash between cartographic professionals and the general public. It was one of our gallery attendants that pointed out to me how transit maps that included time tables may have been a good idea, but were actually impractical for daily use unless everything is running according to schedule - which we know is rarely the case.
 
-{{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/exhibitions/getting-around-town/cw-5/5.2G-trolleys%20and%20trains%20kids%20t%20map%201987.jpg" class="figure-right" caption="[*Trolleys and Trains: A Kid's T Guide*](https://www.bostonintransit.com/products/mbta-kids-guide-map-1987) (1987)">}}
+{{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/exhibitions/getting-around-town/cw-5/5.2G-trolleys%20and%20trains%20kids%20t%20map%201987.jpg" class="figure-right" caption="[*Trolleys and Trains: A Kid's T Guide*](https://www.bostonintransit.com/products/mbta-kids-guide-map-1987) (1987)" >}}
 
-I also like the [*Trolleys & Trains*](https://www.bostonintransit.com/products/mbta-kids-guide-map-1987) map designed specifically for children and young users of the MBTA. I think it strikes the perfect balance between being informative and being fun. The map shows the different stops across all of the subway lines with accompanying images of standout landmarks, neighborhoods, bus and subway connections. For being so simplified, the map is super informative and easy to use - I wish they would create a modernized version for use now!
+I also like the *[Trolleys & Trains](https://www.bostonintransit.com/products/mbta-kids-guide-map-1987)* map designed specifically for children and young users of the MBTA. I think it strikes the perfect balance between being informative and being fun. The map shows the different stops across all of the subway lines with accompanying images of standout landmarks, neighborhoods, bus and subway connections. For being so simplified, the map is super informative and easy to use - I wish they would create a modernized version for use now!
 
 **What work at the Center are you looking forward to?**
 
@@ -49,6 +49,6 @@ I’m very excited to start working in the gallery and interacting with visitors
 
 **Do you have a favorite map that you’ve found in the collections yet?**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw27d/full/1200,/0/default.jpg" class="figure-left" caption="[*The United States as Viewed by California (very unofficial)*](https://collections.leventhalmap.org/search/commonwealth:st74cw264)">}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw27d/full/1200,/0/default.jpg" class="figure-left" caption="[*The United States as Viewed by California (very unofficial)*](https://collections.leventhalmap.org/search/commonwealth:st74cw264)" >}}
 
 While I protest its depiction of the rest of the states a bit, I get a lot of joy from looking at the map “[The United States as viewed by California (very unofficial)](https://collections.leventhalmap.org/search/commonwealth:st74cw264)”. My mother grew up in California and I’ve spent a good amount of time there and I can totally see how easy it is to get lost in the beauty and allure of the state. I just think this map is so funny - the country is covered in cobwebs and clouds, the coasts to the east and south full of powerful winds and map monsters, all the while California is bathed in sunlight with happy little fish in the sea and beautiful depictions of its most important cities. I also have to give the mapmaker some credit for keeping New England intact and even allowing us some sun for half of the year! To me, this map shows that it’s ok to poke fun at a group or community’s perception of the world, especially when it’s created to clue everyone in on the joke.
