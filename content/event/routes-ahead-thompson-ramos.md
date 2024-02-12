@@ -1,7 +1,7 @@
 ---
 draft: false
 title: >-
-  Routes Ahead of Us: A Conversation with Stacy Thompson and Reggie Ramos
+  (Postponed) Routes Ahead of Us: A Conversation with Stacy Thompson and Reggie Ramos
 date: 2024-02-13T18:00:00-05:00
 publishDate: 2024-01-10T18:00:00-05:00
 image: >-
@@ -15,6 +15,9 @@ tags:
   - exhibition
 registration: "https://bplmaps.ticketleap.com/routes-ahead-of-us-a-conversation-thompson-ramos/"
 ---
+
+{{< alert-box type="warning" >}} This event has been **postponed** due to the closure of the BPL on February 13 for inclement weather. We will update the date once we have rescheduled the event. {{< /alert-box >}}
+
 
 ### About this event
 
