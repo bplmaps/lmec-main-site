@@ -1,12 +1,12 @@
 ---
 draft: false
-title: Atlascope stories from LMEC interns
+title: Atlascope Stories from LMEC Interns
 date: 2024-02-07T05:00:00.000Z
 author: 'Olivia Hewang, Natalie Gilbert, and Dina Gorelik'
 description: >-
   In these new Atlascope tours, wander historic Chinatown, step into the history
-  of sugar refineries, and learn about the twentieth-century medical landscape of
-  Boston's West End
+  of sugar refineries, and learn about the twentieth-century medical landscape
+  of Boston's West End
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pk02g089z/394,3241,8083,2621/1200,/0/default.jpg
 backgroundImage: >-
@@ -30,7 +30,7 @@ We sat down with each of them to hear more about their time at LMEC, including t
 
 I’m a sophomore at Wellesley College studying history and economics, with a focus in urban history.
 
-In my time at the LMEC, I worked on one atlas of [Wellesley from 1935](https://collections.leventhalmap.org/search/commonwealth:31981r24h) and one atlas of [Quincy from 1897](https://collections.leventhalmap.org/search/commonwealth:rx916j21s). The Wellesley 1935 atlas (by Gleason Engineering Corporation) is pretty unique compared to our typical Sanborn or Bromley atlases. Each plate, or map sheet, covers a much smaller area, making it one of our longest atlases in Atlascope---110 plates! Because of the [strange discoloration at the edges of plates](https://atlascope.org/#/view:share$mode:glass$center:-71.29337,42.29678$zoom:16.02$base:maptiler-streets$overlay:ark:/76611/alpk1ibc1), georeferencing it felt like stitching together a Frankenstein atlas.
+In my time at the LMEC, I worked on one atlas of [Wellesley from 1935](https://collections.leventhalmap.org/search/commonwealth:31981r24h) and one atlas of [Quincy from 1897](https://collections.leventhalmap.org/search/commonwealth:rx916j21s). The Wellesley 1935 atlas (by Gleason Engineering Corporation) is pretty unique compared to our typical Sanborn or Bromley atlases. Each plate, or map sheet, covers a much smaller area, making it one of our longest atlases in Atlascope---110 plates! Because of the [strange discoloration at the edges of plates](https://atlascope.org), georeferencing it felt like stitching together a Frankenstein atlas.
 
 In my Atlascope tour, "[The Birth of Boston’s Chinatown: 1870s-1940s](https://www.atlascope.org)," I wanted to understand Chinatown from a historical and geospatial perspective. Our Atlascope coverage of those decades happens to work perfectly. My topic was inspired by an architectural walking tour of Chinatown that I went on last semester, which was led by a Wellesley alum who worked with an affordable housing organization in Chinatown. I was also partly inspired by artist Jeffrey Yoo Warren’s project, ["Seeing Lost Enclaves,"](https://labs.loc.gov/work/experiments/lost-enclaves/) which is a virtual-reality historical reconstruction of Providence, Rhode Island’s Chinatown before its destruction.
 
@@ -46,7 +46,7 @@ In the future, I plan to continue exploring my academic interests in urban and s
 
 I am a History major with a concentration in Public History and a minor in English at Suffolk University. I graduated in December 2023, and next fall will begin pursuing a MA in architecture and historic preservation at NYU's London campus.
 
-My georeferencing work has focused on the city of Everett. The atlas I have been working on is the [City of Everett 1896 from Geo. H. Walker & Co.](https://collections.leventhalmap.org/search/commonwealth:pz50kj991) One aspect I found interesting while georeferencing the Everett  atlas was the amount of artificial landfilling that occurred to build up the city’s waterfront. In 1896, Everett was largely connected to the Mystic River by [salt marshes which have since been (at least partially) filled in](https://atlascope.org/#/view:share$mode:swipe-y$center:-71.05794,42.39999$zoom:18.16$base:massgis-2021-orthos$overlay:ark:/76611/als97ccxx). Before working on this atlas, I had known about landfilling in larger cities like Boston, but I had not considered how this phenomenon would transfer to smaller cities like Everett. I am curious to learn more about how this shift in the geographic landscape impacted the natural environment of the city.
+My georeferencing work has focused on the city of Everett. The atlas I have been working on is the [City of Everett 1896 from Geo. H. Walker & Co.](https://collections.leventhalmap.org/search/commonwealth:pz50kj991) One aspect I found interesting while georeferencing the Everett  atlas was the amount of artificial landfilling that occurred to build up the city’s waterfront. In 1896, Everett was largely connected to the Mystic River by [salt marshes which have since been (at least partially) filled in](https://atlascope.org). Before working on this atlas, I had known about landfilling in larger cities like Boston, but I had not considered how this phenomenon would transfer to smaller cities like Everett. I am curious to learn more about how this shift in the geographic landscape impacted the natural environment of the city.
 
 My [Atlascope tour](https://www.atlascope.org) follows the development of two competing sugar refineries---one very large and the other very small---during the nineteenth and early twentieth centuries. The tour follows changes to the landscape of East Boston, Cambridge, and Charlestown as the Boston Sugar Refinery and the Revere Sugar Refinery expanded, transferred ownership, and moved locations. As the two refineries developed, one was absorbed into the American Sugar Refinery (also known as the "Sugar Trust"), while the other worked hard to remain independent. While these refineries are no longer present in the greater Boston lanscape, the story of how national companies interact with small businesses continues to impact our daily lives today.
 
@@ -62,7 +62,7 @@ I am a senior at Brandeis University studying Anthropology, Linguistics, and Fre
 
 During my time at LMEC, I have mainly been working on georeferencing a [1911 atlas of Waltham](https://collections.leventhalmap.org/search/commonwealth:gh93km62h). I found the contrast between which parts of Waltham remained the same and which parts changed in the last 100 years quite striking. For example, downtown Waltham by the train station has remained very similar in its street layout and buildings compared to present day.
 
-Just a few miles away, where the Brandeis University campus is today, there has been a significant amount of change. In 1911, the land was owned by a Charlotte A. Baker and the City of Waltham, and there were [no buildings or structures built](https://atlascope.org/#/view:share$mode:glass$center:-71.26000,42.36621$zoom:17.33$base:maptiler-streets$overlay:ark:/76611/als90rf03).
+Just a few miles away, where the Brandeis University campus is today, there has been a significant amount of change. In 1911, the land was owned by a Charlotte A. Baker and the City of Waltham, and there were [no buildings or structures built](https://atlascope.org).
 
 My Atlascope tour project examines the [two hospitals that merged](https://www.atlascope.org) to create the now Beth Israel Deaconess Medical Center (BIDMC). I started out wanting to research Boston's Jewish history, and I wanted to narrow my focus to tell a small and cohesive story.
 
