@@ -18,7 +18,7 @@ tags:
   - exhibition
 ---
 
-{{< alert-box type="warning" >}} This event has been **rescheduled **from its original date. {{< /alert-box >}}
+{{< alert-box type="warning" >}} This event has been **rescheduled** from its original date. {{< /alert-box >}}
 
 ### About this event
 
