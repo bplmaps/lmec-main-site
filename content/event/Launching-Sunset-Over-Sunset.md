@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: >-
   Launching Sunset Over Sunset: Seeing Urban History through the Lens of Ed
   Ruscha
