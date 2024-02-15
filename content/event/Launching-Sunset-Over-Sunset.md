@@ -12,6 +12,9 @@ backgroundImage: >-
 location: 'Virtual '
 fee: Free
 registration: 'https://www.design.upenn.edu/events/launching-sunset-over-sunset'
+tags:
+  - lecture
+  - digital humanities
 ---
 
 {{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{\< /alert-box >}}
