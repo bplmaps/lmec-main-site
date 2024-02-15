@@ -1,15 +1,16 @@
 ---
 title: Sponsor an Atlas
-backgroundImage: "/uploads/2023-03-08/screenshot-2023-03-03-123038.jpg"
-description: The Leventhal Center is currently in the process of geotransforming historic
-  atlases from towns across the state of Massachusetts. Read about the project here
-  and learn how you can support it.
+backgroundImage: /uploads/2023-03-08/screenshot-2023-03-03-123038.jpg
+description: >-
+  The Leventhal Center is currently in the process of geotransforming historic
+  atlases from towns across the state of Massachusetts. Read about the project
+  here and learn how you can support it.
 weight: ''
-
 ---
+
 ## Sponsor an Atlas
 
-The Leventhal Center has an extraordinary collection of [urban atlases](https://collections.leventhalmap.org/search?utf8=%E2%9C%93&f%5Bcollection_name_ssim%5D%5B%5D=Urban+Maps+%28Collection+of+Distinction%29&f%5Bsubject_facet_ssim%5D%5B%5D=Boston+%28Mass.%29--Maps&search_field=dummy_range&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1860&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=1950&commit=Apply) dating from the late 19th to early 20th centuries, one of the most important sets of documents for depicting how our city and region have changed over time. Our [**Atlascope tool**](https://www.atlascope.org/) has transformed 101 of these atlases into a web interface overlaying the modern map, covering historic Boston and its immediate surrounding towns. The tool has facilitated a variety of goals, including research on local history, genealogy, urban development, and fulfilling general discovery.
+The Leventhal Center has an extraordinary collection of [urban atlases](https://collections.leventhalmap.org/search?utf8=%E2%9C%93\&f%5Bcollection_name_ssim%5D%5B%5D=Urban+Maps+%28Collection+of+Distinction%29\&f%5Bsubject_facet_ssim%5D%5B%5D=Boston+%28Mass.%29--Maps\&search_field=dummy_range\&range%5Bdate_facet_yearly_itim%5D%5Bbegin%5D=1860\&range%5Bdate_facet_yearly_itim%5D%5Bend%5D=1950\&commit=Apply) dating from the late 19th to early 20th centuries, one of the most important sets of documents for depicting how our city and region have changed over time. Our **[Atlascope tool](https://www.atlascope.org/)** has transformed 101 of these atlases into a web interface overlaying the modern map, covering historic Boston and its immediate surrounding towns. The tool has facilitated a variety of goals, including research on local history, genealogy, urban development, and fulfilling general discovery.
 
 The LMEC aims to expand Atlascope’s coverage to towns and counties across the state of Massachusetts as early as this spring. With your help, Atlascope can be used as a tool for historical research & discovery in your town, too—and across our whole state.
 
@@ -17,7 +18,7 @@ The LMEC aims to expand Atlascope’s coverage to towns and counties across the 
 
 #### What is Atlascope?
 
-Suitable for browsing on a computer or mobile device, this website makes it easy to compare properties, buildings and owners to tell stories about places through the years. With new features to empower storytelling, annotation, and discovery, as well as connections into other Massachusetts digital collections, Atlascope is a great tool to answer questions about property ownership, genealogy, urban transformation, and broad questions about historic and geographic change. As Boston Globe columnist Mark Feeney [recently put it](https://www.bostonglobe.com/2023/01/19/arts/map-quest-bpls-leventhal-center-two-shows-speak-changing-city/?p1=StaffPage), Atlascope is _"a reminder of the extent to which these renderings of the past that are on display, the city as was, directly relate to visitors’ present, the city as is."_
+Suitable for browsing on a computer or mobile device, this website makes it easy to compare properties, buildings and owners to tell stories about places through the years. With new features to empower storytelling, annotation, and discovery, as well as connections into other Massachusetts digital collections, Atlascope is a great tool to answer questions about property ownership, genealogy, urban transformation, and broad questions about historic and geographic change. As Boston Globe columnist Mark Feeney [recently put it](https://www.bostonglobe.com/2023/01/19/arts/map-quest-bpls-leventhal-center-two-shows-speak-changing-city/?p1=StaffPage), Atlascope is *"a reminder of the extent to which these renderings of the past that are on display, the city as was, directly relate to visitors’ present, the city as is."*
 
 {{< figure src="/uploads/2023-04-05/microsoftteams-image.png" caption="Atlascope can easily be used on a tablet or your phone to discover local history as you wander around the City of Boston." class="figure-right" >}}
 
@@ -35,7 +36,7 @@ Finally, Boston Public Library users and Leventhal Map & Education Center patron
 
 We began Atlascope by starting with atlases of historic Boston and its surrounding areas. However, these atlases exist in towns across the state, and **our goal is to expand Atlascope to cover even more of Massachusetts**. It can take up to 60 hours of skilled staff and intern labor to transform a single atlas from printed pages into a modern, readable web-layer, a time-consuming process.
 
-**Are there atlases of other Massachusetts towns you would like to see added to Atlascope?** The Leventhal Center is in the process of digitizing and geotransforming historic atlases from towns and counties across the state of Massachusetts. **We are currently fundraising for the base amount of labor it takes to** **ingest each physical atlas into Atlascope for usage and discovery.** If you would like to help support or be a part of this project, please fill out this form below, and a member our staff will be in touch with you. If you have been in contact with us already and are ready to make a contribution, please [visit this page](https://www.leventhalmap.org?form=SPONSOR-ATLAS).
+**Are there atlases of other Massachusetts towns you would like to see added to Atlascope?** The Leventhal Center is in the process of digitizing and geotransforming historic atlases from towns and counties across the state of Massachusetts. **We are currently fundraising for the base amount of labor it takes to** **ingest each physical atlas into Atlascope for usage and discovery.** If you would like to help support or be a part of this project, please fill out this form below, and a member our staff will be in touch with you. For questions, please reach out to Rachel Sharer at rsharer\@leventhalmap.org
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrXIWRMPwhqdsSin?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
@@ -43,4 +44,4 @@ We began Atlascope by starting with atlases of historic Boston and its surroundi
 
 ![](/uploads/2023-04-11/screenshot-2023-04-11-103419.jpg)
 
-**_Atlascope Credits:_** _Digitization and preparation of atlas layers currently in Atlascope was made possible with funding from the_ [_Council on Library and Information Resources_](https://www.clir.org/) _and the_ [_Associates of the Boston Public Library_](https://www.associatesbpl.org/)_._
+***Atlascope Credits:*** *Digitization and preparation of atlas layers currently in Atlascope was made possible with funding from the* *[Council on Library and Information Resources](https://www.clir.org/)* *and the* *[Associates of the Boston Public Library](https://www.associatesbpl.org/).*
