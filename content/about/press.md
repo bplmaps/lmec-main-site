@@ -22,7 +22,7 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 [The Boston Globe - *Boston Public Library asks supporters to come up with new names for MBTA stops*](https://www.bostonglobe.com/2024/01/31/metro/mbta-stop-names-bpl/)
 
-[The Huntington News - 'Getting Around Town' exhibit shows deep history of Boston transit system]()
+[The Huntington News - 'Getting Around Town' exhibit shows deep history of Boston transit system](https://huntnewsnu.com/75608/city-pulse/getting-around-town-exhibit-shows-deep-history-of-boston-transit-system/)
 
 [WGBH - *What 400 years of Boston transit history tells us about the MBTA's future*](https://www.wgbh.org/news/local/2023-12-07/what-400-years-of-boston-transit-history-tells-us-about-the-mbtas-future)
 
