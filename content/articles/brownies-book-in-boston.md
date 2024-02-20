@@ -2,7 +2,7 @@
 title: The Brownies' Book in Boston
 date: 2024-01-19T05:00:00.000Z
 author: Tieanna Graphenreed
-description: ''
+description: 'Identifying childrens' geographies of learning and education in nineteenth century Black Boston'
 image: >-
   https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2004:2004ser01351:0001/78,118,2241,1654/1200,/0/default.jpg
 backgroundImage: >-
@@ -10,7 +10,7 @@ backgroundImage: >-
 tags:
   - small grants
   - the brownies' book
-draft: true
+draft: false
 ---
 
 > This digital publication was supported by the Leventhal Map & Education Center’s [Small Grants for Early Career Digital Publications program](https://www.leventhalmap.org/research/digital-publication-small-grants/).
