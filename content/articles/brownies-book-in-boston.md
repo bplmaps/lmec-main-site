@@ -2,7 +2,7 @@
 title: The Brownies' Book in Boston
 date: 2024-02-21T05:00:00.000Z
 author: Tieanna Graphenreed
-description: 'Identifying childrens' geographies of learning and education in nineteenth century Black Boston'
+description: "Identifying childrens' geographies of learning and education in nineteenth century Black Boston"
 image: >-
   https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2004:2004ser01351:0001/78,118,2241,1654/1200,/0/default.jpg
 backgroundImage: >-
