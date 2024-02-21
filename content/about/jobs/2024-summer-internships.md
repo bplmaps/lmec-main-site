@@ -1,5 +1,5 @@
 ---
-title: Spring Internships 2024
+title: Summer Internships 2024
 backgroundImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 cardImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 menu: false
