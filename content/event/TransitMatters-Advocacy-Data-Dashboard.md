@@ -1,6 +1,8 @@
 ---
 draft: false
-title: 'TransitMatters Virtual Webinar: Transportation Advocacy and the Data Dashboard'
+title: >-
+  A Conversation with TransitMatters: Transportation Advocacy and the Data
+  Dashboard
 date: 2024-02-22T00:00:00.000Z
 publishDate: 2024-02-01T05:00:00.000Z
 image: >-
