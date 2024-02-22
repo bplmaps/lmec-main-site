@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: South End Stories
-date: 2023-09-22T04:00:00.000Z
+date: 2024-02-26T04:00:00.000Z
 author: 'Clare Ablett, Bridget Hurley, and Winona Wardwell '
 description: >-
   In August 2023, the Map Center hired three Boston Public Schools
@@ -94,17 +94,17 @@ The Girls' High and Normal School was [opened in 1852](https://theclio.com/entry
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/girlsHSatlas1.png" caption="In 1869, a new building was built at [75 West Newton Street](https://atlascope.org/#/view:share$mode:glass$center:-71.07531,42.34060$zoom:17.36$base:maptiler-streets$overlay:ark:/76611/al8c3u1jq) to house the Girls’ High and Normal School." class="" >}}
 
-The school was in constant change; In 1876, the Normal School, the school for younger grades, split from the High School and moved to a new campus. The High School remained on W. Newton Street. Then, the High School began sharing facilities with Girls’ Latin School (now Boston Latin Academy).
+The school was in a state of constant change; in 1876, the Normal School, the school for younger grades, split from the High School and moved to a new campus. The High School remained on W. Newton Street. Then, the High School began sharing facilities with Girls’ Latin School (now Boston Latin Academy).
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/girlsHS1.1.png" class="figure-right" caption="The [new building](https://www.digitalcommonwealth.org/search/commonwealth:2227n287x) at 75 Newton Street was designed to accommodate roughly 1,000 students. The facilities included 8 classrooms, 15 recitation rooms, 3 studios, 1 hall, and laboratories for chemical, physical, and botanical science. " >}}
 
-From 1876 to 1885, many advancements to the school were made such as wholesome lunches, better ventilation, rearranging seating to provide better illumination, and fire drills. The Girls’ High School’s reputation grew as the city did. With the [annexation of new neighborhoods](https://ghsalumnaeboston.org/history) such as Roxbury (1868), Brighton, Charlestown, Dorchester, and West Roxbury (all 1874), the school became known as one of the most prestigious girls’ schools in the area, and got the reputation for being the “the chief source of supply of teachers for the Boston schools” (Girls’ High and Normal School Alumnae, Olivia B. White).
+From 1876 to 1885, many advancements to the school were made such as improved lunches, better ventilation, rearranging seating to provide better illumination, and fire drills. The Girls’ High School’s reputation grew as the city did. With the [annexation of new neighborhoods](https://ghsalumnaeboston.org/history) such as Roxbury (1868), Brighton, Charlestown, Dorchester, and West Roxbury (all 1874), the school became known as one of the most prestigious girls’ schools in the area, and got the reputation for being the “the chief source of supply of teachers for the Boston schools." 
 
 {{< figure class="figure-right" src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/girlsHS2.png" caption="A second year class engages in a zoology laboratory exercise in [this photograph](https://www.digitalcommonwealth.org/search/commonwealth:2227n255n) from 1893. " >}}
 
-By the mid 1870s, the school had reached its full potential of engaging young girls and preparing them for their lives, in both the workforce and at home. The only thing that was missing was the same college preparatory curriculum that most boys in school had. So, in 1878, the Girls’ High School and the Girls’ Latin School started to increase the shared facilities. This step was taken because the Girls’ Latin School followed the same course of study as Boston Latin School. Although the schools had different leadership, the combination of schools was described as the largest high school in New England, with nearly 800 young women 14 to 22 years old, and a variety of courses offered like Latin, French, German, and English.
+By the mid 1870s, the school had reached its full potential of engaging young girls and preparing them for their lives, in both the workforce and at home. The only thing that was missing was the same college preparatory curriculum that most boys in school had. So, in 1878, the Girls’ High School and the Girls’ Latin School started to increase their shared facilities. This step was taken because the Girls’ Latin School followed the same course of study as Boston Latin School. Although the schools had different leadership, the combination of schools was described as the largest high school in New England, with nearly 800 young women 14 to 22 years old, and a variety of courses offered like Latin, French, German, and English.
 
-Despite how well things seemed to be going at this point, in 1903, the Boston Globe described the space as “insufficient.” To fix this issue, the Latin School moved to a building in Fenway. In addition, the mass waves of immigration that occurred in the early twentieth century also affected the Girls’ High School. At the same time, the school diversified, with students representing over 25 different nationalities. Throughout the 1920s the school was established as “the pride of Boston” and praised frequently. However, the overcrowding made the buildings cramped and difficult to learn in.
+Despite how well things seemed to be going at this point, in 1903, the Boston Globe described the space as “insufficient.” To fix this issue, the Latin School moved to a building in Fenway. In addition, the mass waves of immigration that occurred in the early twentieth century also affected the Girls’ High School. At the same time, the school diversified, with students representing over 25 different nationalities. Throughout the 1920s the school was referred to as “the pride of Boston” and frequently praised. However, overcrowding made the buildings cramped and difficult to learn in.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/girlsHSatlas2.png" caption="[In 1902](https://atlascope.org/#/view:share$mode:glass$center:-71.07521,42.34069$zoom:17.59$base:maptiler-streets$overlay:ark:/76611/al7rtfm98), the Girls’ High School shared facilities with the Girls’ Latin School. Due to overcrowding, however, the Latin School moved to a different facility in 1903. " >}}
 
