@@ -34,8 +34,6 @@ So-called "Section 112 credits" were involved in three different urban renewal p
 
 #### Section 112 Credits and Urban Renewal
 
-<iframe width="100%" height="450" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Section-112-in-the-Boston-Region-fpgPThvTTDiq76Y9C4WL24D?loc=42.34844,-71.08818,13.68z"></iframe>
-
 Section 112 allowed for land purchased by universities and hospitals to count as a local "grant-in-aid" to nearby urban renewal projects under certain conditions, triggering a 2-to-1 matching grant by the federal government.[^4] Land purchases could generate credits up to five (and later seven) years after purchase, incentivizing the creation of renewal projects near expanding institutions. Credits could be "pooled" across a city, meaning that a project in one place could benefit the overall renewal program. Further, associated renewal projects were waived from the "predominantly residential" requirement of urban renewal.
 
 In the early 1960s, the city of Boston undertook a wide-ranging urban renewal program intended, in part, to increase the city's tax base and to attract high-income residents to the city.[^5] The Boston Redevelopment Authority (BRA) was reorganized to take on both planning and development functions, and a nationally-renowned development administrator, Ed Logue, was recruited from New Haven.[^6] Although Logue and Mayor Colins promised to "plan with people," Collins also tasked Logue to "bring prosperity back to Boston with the politicians and business community working together."[^7]
