@@ -16,6 +16,8 @@ tags:
   - exhibition
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jP2flLnVNWg?si=5W1S-c1UKxfJzA4z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## About the Event
 
 Join us for a virtual event with TransitMatters, as they discuss their award-winning Data Dashboard tool, and the impact that open data has had on transportation advocacy nationwide. Since its founding, TransitMatters has focused on helping Greater Boston advocate for the safe, frequent, and reliable transit. The TransitMatters Labs Team drives transportation advocacy by building tools with MBTA data to engage the public and increase transparency. Their flagship tool, the Data Dashboard, offers insight into MBTA performance, ridership, and service quality. The Data Dashboard has played a large role in increasing awareness about slow zones throughout the MBTA network, reaching a solution to alleviating slow zones, and measuring when slow zones are lifted. This webinar will explore how TransitMatters' Labs Team built this tool and its impact on transportation advocacy.
