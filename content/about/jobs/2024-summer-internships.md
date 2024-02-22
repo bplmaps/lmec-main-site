@@ -1,22 +1,22 @@
 ---
-title: Summer Internships 2024
-backgroundImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 cardImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 menu: false
 draft: true
+title: Summer Internships 2024
+backgroundImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 ---
 
-{{< alert-box type="success" title="Apply " >}}
+{{\< alert-box type="success" title="Apply " >}}
 
 Applications for our Summer 2024 internships are **open** until 3pm on Wednesday, March 20, 2024. [Apply below](#apply)!
 
-{{</ alert-box >}}
+{{\</ alert-box >}}
 
 The Leventhal Map & Education Center at the Boston Public Library seeks to hire a cohort of undergraduate interns, with the goal of training the next generation of professionals in topics related to geospatial technology, public humanities, and librarianship.
 
 Interns will work onsite in the Center's offices at the Central Library for 6-10 hours per week from mid-May 2024 through early August 2024.
 
-Interns will be part of an operational track focused on *[Geohumanities & GIS](#geohumanities--gis)*. Additionally, all interns will be expected to cover at least one 3 to 4-hour shift welcoming visitors at the front desk of our public gallery at the Central Library as part of their role.
+Interns will be part of an operational track focused on either *[Geohumanities & GIS](#geohumanities--gis)* or *Fundraising & Development. *Additionally, all interns will be expected to cover at least one 3 to 4-hour shift welcoming visitors at the front desk of our public gallery at the Central Library as part of their role.
 
 This is a part-time, hourly, fixed-term position and individuals will only be eligible to serve as interns for one semester during their time as an undergraduate. If you've never worked in a museum or library, that's fine! We're looking for curious minds with the desire to learn. We prefer enthusiasm over depth of skill.
 
@@ -29,10 +29,14 @@ This opportunity may be particularly suitable for the following types of undergr
 
 Geohumanities & GIS interns will learn how to use different kinds of geospatial software and theory to georeference historic atlases from towns around the state of Massachusetts. With support from the Assistant Curator for Digital & Participatory Geography, Geohumanities & GIS interns will also conduct independent research into these atlases with the goal of creating interpretive educational stories and resources for publication on the LMEC website.
 
+### Fundraising & Development
+
+The fundraising & development intern will work with LMEC Development & Grants Manager to support both ongoing donor engagement and new, strategic projects that will fund future LMEC research and work. The student chosen for the role will use their strong research and writing skills to craft regular communications to donors, patrons, or organizational partners, and assist with grant projects.
+
 ### Compensation & Role Details
 
 * **Dates**: Mid-January through mid-May 2024
-    * *Interns must be able to work at least one 4 hour shift on Wednesday between 9 am and 5 pm, and one 4 hour shift either Saturday 11-5 or Sunday 1-5.*
+  * *Interns must be able to work at least one 4 hour shift on Wednesday between 9 am and 5 pm, and one 4 hour shift either Saturday 11-5 or Sunday 1-5.*
 * **Hours**: 6-10 hours/week
 * **Compensation**: $15.35/hour
 * This position is not eligible for health benefits.
