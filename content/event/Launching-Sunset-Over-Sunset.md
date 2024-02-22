@@ -17,7 +17,7 @@ tags:
   - digital humanities
 ---
 
-{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{< alert-box >}}
 
 Join in the launch of Sunset Over Sunset, a new digital urban humanities project that uses street-view photographs of Los Angeles’s iconic Sunset Boulevard to uncover stories of everyday change in the postwar built environment.
 
