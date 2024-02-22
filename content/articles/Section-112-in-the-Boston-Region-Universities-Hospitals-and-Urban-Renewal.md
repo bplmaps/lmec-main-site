@@ -1,7 +1,7 @@
 ---
 draft: true
 title: 'Section 112 in the Boston Region: Universities, Hospitals, and Urban Renewal'
-date: 2023-12-23T04:00:00.000Z
+date: 2024-02-28T05:00:00.000Z
 author: Julian Hartman
 description: >-
   What the Section 112 credit program can tell us about the role of universities
