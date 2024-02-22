@@ -16,7 +16,7 @@ The Leventhal Map & Education Center at the Boston Public Library seeks to hire 
 
 Interns will work onsite in the Center's offices at the Central Library for 6-10 hours per week from mid-May 2024 through early August 2024.
 
-Interns will be part of an operational track focused on either *[Geohumanities & GIS](#geohumanities--gis)* or *Fundraising & Development. *Additionally, all interns will be expected to cover at least one 3 to 4-hour shift welcoming visitors at the front desk of our public gallery at the Central Library as part of their role.
+Interns will be part of an operational track focused on either *[Geohumanities & GIS](#geohumanities--gis)* or on* [Fundraising & Development](#fundraising--development). *Additionally, all interns will be expected to cover at least one 3 to 4-hour shift welcoming visitors at the front desk of our public gallery at the Central Library as part of their role.
 
 This is a part-time, hourly, fixed-term position and individuals will only be eligible to serve as interns for one semester during their time as an undergraduate. If you've never worked in a museum or library, that's fine! We're looking for curious minds with the desire to learn. We prefer enthusiasm over depth of skill.
 
