@@ -58,6 +58,6 @@ What message might the cartographer be saying by including (but intentionally no
 
 ##### Tufts University. Center for the Study of Race and Democracy, [The African American Trail Project: Map of Significant Sites](https://bpl.bibliocommons.com/v2/record/S75C7222425) (2019)
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/African+American+Trail+Sites.jpg" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/African-American-Trail-Sites.png" >}}
 
 Driven largely by faculty and student research at Tufts University compiled over decades, [this project](https://bpl.bibliocommons.com/v2/record/S75C7222425) maps African American and African-descended public history sites across greater Boston and Massachusetts. The project aims to “develop African American historical memory and intergenerational community, placing present-day struggles for racial justice in the context of greater Boston’s historic African American, Black Native, and diasporic communities”. This is an amazing resource and example of representative mapmaking by the Black community for the Black community.
