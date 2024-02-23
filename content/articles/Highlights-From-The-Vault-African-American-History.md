@@ -50,7 +50,7 @@ What does it mean that Jefferson depicted African Americans picking cotton and f
 
 ##### Mary Ronin, [The United States, the land and the people = Les états-Unis, le pays et ses habitants = De Verenigde Staten, het land en het volk](https://collections.leventhalmap.org/search/commonwealth:q811p344n) (1958)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/full/1200,/0/default.jpg" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/full/1200,/0/default.jpg" class="" >}}
 
 Created to be a souvenir map from the United States Pavilion at the Brussels Universal and International Exhibition, [this map](https://collections.leventhalmap.org/search/commonwealth:q811p344n) was intended to show the diversity of cultures and the unity between groups. African Americans are depicted on the map picking cotton and playing jazz, but are intentionally left an unnamed ethnicity. Despite its assertion that the Bill of Rights “guarantees to all individual rights and freedom”, African Americans had been systematically oppressed and discriminated against for nearly 100 years post-emancipation.
 
