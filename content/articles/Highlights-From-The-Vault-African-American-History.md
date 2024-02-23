@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: 'Highlights From The Vault: African American History'
-date: 2024-02-23T05:00:00.000Z
+date: 2024-02-23T20:00:00.000Z
 author: Julia Williams
 description: >-
   Check out these highlights from February's From The Vault: African American
