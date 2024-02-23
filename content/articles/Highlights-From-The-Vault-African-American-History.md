@@ -46,8 +46,16 @@ One of the first “redlining” maps of Boston - [these maps](https://collectio
 
 This pictorial map shows the movements of the U.S. population during the Second World War, as well as changing social conditions brought about by the war. [This map](https://collections.leventhalmap.org/search/commonwealth:t722kt12g) was created by an African American woman, Louise E. Jefferson whose career as a cartographer aimed to put marginalized people “on the map”.
 
+What does it mean that Jefferson depicted African Americans picking cotton and fruit in the South (with no written context), yet named the "negro migration" out of the southern states?
+
 ##### Mary Ronin, [The United States, the land and the people = Les états-Unis, le pays et ses habitants = De Verenigde Staten, het land en het volk](https://collections.leventhalmap.org/search/commonwealth:q811p344n) (1958)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/full/1200,/0/default.jpg" class="figure-right" >}}
 
-This 1879 [relief map](https://collections.leventhalmap.org/search/commonwealth:cj82kw03q) invites a close looking of the White Mountains of New Hampshire. Mount Washington stands the tallest of the White Mountains at around 6,300 feet.
+Created to be a souvenir map from the United States Pavilion at the Brussels Universal and International Exhibition, [this map](https://collections.leventhalmap.org/search/commonwealth:q811p344n) was intended to show the diversity of cultures and the unity between groups. African Americans are depicted on the map picking cotton and playing jazz, but are intentionally left an unnamed ethnicity. Despite its assertion that the Bill of Rights “guarantees to all individual rights and freedom”, African Americans had been systematically oppressed and discriminated against for nearly 100 years post-emancipation.
+
+What message might the cartographer be saying by including (but intentionally not naming) African Americans, an ethnic group that has been in the United States since before its founding as an independent country?
+
+##### Tufts University. Center for the Study of Race and Democracy, [The African American Trail Project: Map of Significant Sites](https://bpl.bibliocommons.com/v2/record/S75C7222425) (2019)
+
+{{< figure src="https://file.notion.so/f/f/5fd9e057-cb3d-4095-bdcf-6bed5e3d3829/ddf985f2-efee-40cb-94e4-67e1e0810de0/Untitled.png?id=5d2b1518-65c0-4c09-a169-948fedc58465&table=block&spaceId=5fd9e057-cb3d-4095-bdcf-6bed5e3d3829&expirationTimestamp=1708819200000&signature=Lp_eMHl3cb9NYCPz3smKXQbtJZbdwKPPwSa0COjVJJE&downloadName=Untitled.png" >}}
