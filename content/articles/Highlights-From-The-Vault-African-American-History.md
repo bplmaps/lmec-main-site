@@ -46,8 +46,8 @@ One of the first “redlining” maps of Boston - [these maps](https://collectio
 
 This pictorial map shows the movements of the U.S. population during the Second World War, as well as changing social conditions brought about by the war. [This map](https://collections.leventhalmap.org/search/commonwealth:t722kt12g) was created by an African American woman, Louise E. Jefferson whose career as a cartographer aimed to put marginalized people “on the map”.
 
-##### J. Schedler, *[Relief map of the White Mountains, N.H](https://collections.leventhalmap.org/search/commonwealth:cj82kw03q)* (1879)
+##### Mary Ronin, [The United States, the land and the people = Les états-Unis, le pays et ses habitants = De Verenigde Staten, het land en het volk](https://collections.leventhalmap.org/search/commonwealth:q811p344n) (1958)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kw040/full/1200,/0/default.jpg" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/full/1200,/0/default.jpg" class="figure-right" >}}
 
 This 1879 [relief map](https://collections.leventhalmap.org/search/commonwealth:cj82kw03q) invites a close looking of the White Mountains of New Hampshire. Mount Washington stands the tallest of the White Mountains at around 6,300 feet.
