@@ -40,11 +40,11 @@ Published in 1861 at the very beginning of the Civil War, [this map](https://col
 
 One of the first “redlining” maps of Boston - [these maps](https://collections.leventhalmap.org/search/commonwealth:00000x52b) were created by the Home Owners’ Loan Association to provide lenders with categorized grades used to determine the relative safety of lending in a particular area. While seemingly innocuous, these maps included race as a defining factor in evaluating neighborhoods and routinely evaluated African American, Italian, Irish, and other marginalized communities the worst as red or “hazardous.” This practice went on for decades and greatly restricted African Americans from purchasing homes and the ability to build generational wealth through real estate.
 
-##### John H. Renshawe, *[Panoramic view of the Mount Rainier National Park, Washington](https://collections.leventhalmap.org/search/commonwealth:4m90fd639)* (1914)
+##### Louise E. Jefferson, [Uprooted people of the U.S.A](https://collections.leventhalmap.org/search/commonwealth:t722kt12g) (1945)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fd64k/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/full/1200,/0/default.jpg" >}}
 
-In addition to being a place for people to take on advanced, backcountry winter sports, [Mount Rainier](https://collections.leventhalmap.org/search/commonwealth:4m90fd639) is one of many national parks that plays a role of climate resilience in North America. The expansive wilderness consisting of glaciers, forests, meadows, lakes, and other wetlands—that span a wide elevation range—provide many benefits, including a protected wildlife habitat and a place for carbon storage.
+This pictorial map shows the movements of the U.S. population during the Second World War, as well as changing social conditions brought about by the war. [This map](https://collections.leventhalmap.org/search/commonwealth:t722kt12g) was created by an African American woman, Louise E. Jefferson whose career as a cartographer aimed to put marginalized people “on the map”.
 
 ##### J. Schedler, *[Relief map of the White Mountains, N.H](https://collections.leventhalmap.org/search/commonwealth:cj82kw03q)* (1879)
 
