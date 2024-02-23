@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: 'Highlights From The Vault: African American History'
 date: 2024-02-23T05:00:00.000Z
 author: Julia Williams
@@ -20,27 +20,25 @@ tags:
 
 {{< figure src="https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:8696:WCL008767/full/1200,/0/default.jpg" >}}
 
-The Canadian Rockies are both a winter wonderland and a summer paradise. This [topographic map](https://collections.leventhalmap.org/search/commonwealth:3f463683r) inspires looking at the winter imagery of snow-capped peaks and frozen lakes through a new lens.
+Drawn to illustrate a series of letters written in Paris between December 30, 1789 and January 1790 explaining the African slave trade. The first federal census of 1790 counted 697,897 enslaved people, a figure that would increase by close to 70% in just 20 years. [This map](https://collections.leventhalmap.org/search/commonwealth-oai:98810p73g) was created by Thomas Clarkson, an English abolitionist, and gives an inside look to the global attitude and casual knowledge of the kidnapping and enslavement of African people.
 
-Along the Canadian Pacific Railway, the words ‘Coal Mine’, and ‘Anthracite’ depict an area that hosted a coal mine in the late 19th-early 20th century. The coal mine shut down and the town of Anthracite was eventually deserted; it is now known as a ghost town.
+##### William C. Bloss, [Map of the United States and territories, showing the possessions and aggressions of the slave power](https://collections.leventhalmap.org/search/commonwealth:cj82m659m) (1856)
 
-##### J.H. Bufford & Co, *[Map of the Vermont Central Rail Road and its connections, forming the Great Northern Route from the Atlantic to Montreal and the Lakes: from Smith's map of the United States](https://collections.leventhalmap.org/search/commonwealth:cj82kn615)* (1848)
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fk24m/full/1200,/0/default.jpg" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kn62f/full/1200,/0/default.jpg" >}}
+Identifying free states in white and enslaved states in black, [this map](https://collections.leventhalmap.org/search/commonwealth:cj82m659m) was created to draw attention to the inequity of the Three-Fifths Compromise, which allowed enslaved people to be counted as three-fifths of a person when determining a state’s population for political representation and voting power. This “compromise” gave enslaved states the perpetual upper hand in politics due to significant overrepresentation - the mapmaker highlights this in the right-hand corner “TWO votes in Slave States equal THREE in Free States.
 
-Railroads are not only a great way to get around town, but also a great way to explore more distant places within a larger geographic area. Published in 1848, [this map](https://collections.leventhalmap.org/search/commonwealth:cj82kn615) highlights a few rail lines that could carry passengers from one winter scene to another. For example, one could leave the bustling city of Boston and see icy Lake Champlain.
+##### Edwin Hergesheimer, [Map showing the distribution of the slave population of the southern states of the United States](https://collections.leventhalmap.org/search/commonwealth:w9505r836) (1861)
 
-##### Geological Survey (U.S.), *[Mean monthly average temperature](https://collections.leventhalmap.org/search/commonwealth:q524n4016)* (1986)
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9505r84g/full/1200,/0/default.jpg" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n402g/full/1200,/0/default.jpg" >}}
+Published in 1861 at the very beginning of the Civil War, [this map](https://collections.leventhalmap.org/search/commonwealth:w9505r836) plots the percentage of slaves by county for the southern states. It’s noted that Abraham Lincoln was fascinated with the map primarily because it allowed him to trace military movements and to relate those actions to his emancipation policies. As one of the first statistical or thematic maps published in the United States, consider the impact this map had on the trajectory of the Civil War and the future importance of statistical mapping.
 
-This [1986 geological survey](https://collections.leventhalmap.org/search/commonwealth:q524n4016) is a visual display of the mean monthly average temperature across the U.S. using data on the time period 1931-1960. While some experiences of seasonal temperature changes and weather patterns have stayed the same since the publishing of this map, much has also changed. In recent years, Bostonians have experienced unseasonably warm weather days in the depths of winter, sometimes back-to-back with aggressive snow storms. Looking at this map in the present day inspires us to ask the question: how have winter travel, tourism, and recreation been experienced as weather factors like temperature have changed in dramatic ways?
+##### Home Owners’ Loan Association, [Residential Security Map of Boston](https://collections.leventhalmap.org/search/commonwealth:00000x52b) (1938)
 
-##### Federal Writers' Project of the Works Progress Administration of Massachusetts, *[Winter sports map of the Berkshire Hills](https://collections.leventhalmap.org/search/commonwealth:wd376186t)* (1936)
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x53m/full/1200,/0/default.jpg" class="" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761873/full/1200,/270/default.jpg" class="" >}}
-
-Berkshire County, MA boasts fantastic opportunities for seasonal recreation. Depicted on the margins of [this map](https://collections.leventhalmap.org/search/commonwealth:wd376186t) are illustrations of winter sports differing in difficulty. Some lesser known winter activities are shown, such as skijoring, which is the activity of a person on skis being pulled by a horse, dog(s), or even a motor vehicle.
+One of the first “redlining” maps of Boston - [these maps](https://collections.leventhalmap.org/search/commonwealth:00000x52b) were created by the Home Owners’ Loan Association to provide lenders with categorized grades used to determine the relative safety of lending in a particular area. While seemingly innocuous, these maps included race as a defining factor in evaluating neighborhoods and routinely evaluated African American, Italian, Irish, and other marginalized communities the worst as red or “hazardous.” This practice went on for decades and greatly restricted African Americans from purchasing homes and the ability to build generational wealth through real estate.
 
 ##### John H. Renshawe, *[Panoramic view of the Mount Rainier National Park, Washington](https://collections.leventhalmap.org/search/commonwealth:4m90fd639)* (1914)
 
