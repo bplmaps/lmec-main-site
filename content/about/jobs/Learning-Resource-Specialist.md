@@ -1,5 +1,5 @@
 ---
 draft: true
-title: Learning Resource Specialist
+title: 'Job Posting: Learning Resource Specialist'
 ---
 
