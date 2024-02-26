@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Section 112 in the Boston Region: Universities, Hospitals, and Urban Renewal'
 date: 2024-02-28T05:00:00.000Z
 author: Julian Hartman
