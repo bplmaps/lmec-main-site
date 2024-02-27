@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: 'Highlights From The Vault: Literary Landscapes'
 date: 2024-02-28T20:00:00.000Z
 author: Julia Williams
@@ -18,7 +18,7 @@ tags:
 
 [This map](https://collections.leventhalmap.org/search/commonwealth:3f463773q) of Fairyland depicts places from nursery rhymes, fairy tales, Arthurian legends, and the folktales of many cultures. Sleigh, the cartographer, initially sketched a map of fairyland to entertain his children, adding characters and places from their favorite stories. This map was published in 1917 and intended to decorate nurseries. After Sleigh retired in 1937, the print was turned into a decorative fabric for Rosebank Fabrics. The print was so popular that Rosebank commissioned Sleigh to design other fairy tale patterns for fabrics.
 
-##### William C. Bloss, [Map of the United States and territories, showing the possessions and aggressions of the slave power](https://collections.leventhalmap.org/search/commonwealth:cj82m659m) (1856)
+##### Jaro Hess, [The Land of Make Believe]() (1935)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fk24m/full/1200,/0/default.jpg" >}}
 
