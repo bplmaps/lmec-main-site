@@ -32,30 +32,32 @@ Folklore consists of legends, music, oral history, proverbs, jokes, popular beli
 
 Try to spot Johnny Appleseed, John Henry, or Buffalo Bill!
 
-##### Home Owners’ Loan Association, [Residential Security Map of Boston](https://collections.leventhalmap.org/search/commonwealth:00000x52b) (1938)
+##### Ruth Stiles Gannett, [Map of the Island of Tangerina and Wild Island](https://collections.leventhalmap.org/search/commonwealth:3f463884f) (c1948; reproduction, 2014)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:00000x53m/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (8).png" class="" >}}
 
-One of the first “redlining” maps of Boston - [these maps](https://collections.leventhalmap.org/search/commonwealth:00000x52b) were created by the Home Owners’ Loan Association to provide lenders with categorized grades used to determine the relative safety of lending in a particular area. While seemingly innocuous, these maps included race as a defining factor in evaluating neighborhoods and routinely evaluated African American, Italian, Irish, and other marginalized communities the worst as red or “hazardous.” This practice went on for decades and greatly restricted African Americans from purchasing homes and the ability to build generational wealth through real estate.
+[This map](https://collections.leventhalmap.org/search/commonwealth:3f463884f) shows the path of Elmer, a young boy, on his quest to rescue a dragon in need.  In the story My Father’s Dragon, a stray cat tells young Elmer Elevator about a baby dragon who is being forced to carry the lazy animals of Wild Island across a river, and Elmer makes it his quest to save the dragon. The map was drawn by the author’s stepmother, an illustrator of children’s books.
 
-##### Louise E. Jefferson, [Uprooted people of the U.S.A](https://collections.leventhalmap.org/search/commonwealth:t722kt12g) (1945)
+##### Jeremiah Benjamin Post, [An Atlas of Fantasy](https://bpl.bibliocommons.com/v2/record/S75C4222483) (1973)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/full/1200,/0/default.jpg" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (9).png" >}}
 
-This pictorial map shows the movements of the U.S. population during the Second World War, as well as changing social conditions brought about by the war. [This map](https://collections.leventhalmap.org/search/commonwealth:t722kt12g) was created by an African American woman, Louise E. Jefferson whose career as a cartographer aimed to put marginalized people “on the map”.
+[This atlas](https://bpl.bibliocommons.com/v2/record/S75C4222483) has a heavy emphasis on science fiction and fantasy, though Post did suggest at one point that there exist enough mystery fiction maps to someday create The Detectives' Handy Pocket Atlas. When first published, it was greatly received by the fantasy literature and game communities.
 
-What does it mean that Jefferson depicted African Americans picking cotton and fruit in the South (with no written context), yet named the "negro migration" out of the southern states?
+##### Molly Maguire, Designer; Jim Wolnick, Illustrator, [The Sherlock Holmes Mystery Map](https://bpl.bibliocommons.com/v2/record/S75C4582145) (1987)
 
-##### Mary Ronin, [The United States, the land and the people = Les états-Unis, le pays et ses habitants = De Verenigde Staten, het land en het volk](https://collections.leventhalmap.org/search/commonwealth:q811p344n) (1958)
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (10).png" class="" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28d170q/full/1200,/0/default.jpg" class="" >}}
+The adventures of Arthur Conan Doyle’s eccentric detective Sherlock Holmes are illustrated on [this late 20th-century pictorial poster](https://bpl.bibliocommons.com/v2/record/S75C4582145). Two magnifying glasses, containing maps of Victorian-era England and London, are numbered to identify locations associated with the Holmes stories. Illustrations from a number of tales surround the map, and feature characters such as Holmes’ loyal colleague Dr. John Watson, his adversary Professor Moriarty, and a vicious hound from The Hound of the Baskervilles.
 
-Created to be a souvenir map from the United States Pavilion at the Brussels Universal and International Exhibition, [this map](https://collections.leventhalmap.org/search/commonwealth:q811p344n) was intended to show the diversity of cultures and the unity between groups. African Americans are depicted on the map picking cotton and playing jazz, but are intentionally left an unnamed ethnicity. Despite its assertion that the Bill of Rights “guarantees to all individual rights and freedom”, African Americans had been systematically oppressed and discriminated against for nearly 100 years post-emancipation.
+##### Warner Bros. Entertainment, [Messrs. Moony, Wormtail, Padfoot & Prongs Are Proud to Present the Marauder's Map](https://bpl.bibliocommons.com/v2/record/S75C4681404) (2007)
 
-What message might the cartographer be saying by including (but intentionally not naming) African Americans, an ethnic group that has been in the United States since before its founding as an independent country?
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (11).png" >}}
 
-##### Tufts University. Center for the Study of Race and Democracy, [The African American Trail Project: Map of Significant Sites](https://bpl.bibliocommons.com/v2/record/S75C7222425) (2019)
+[This map](https://bpl.bibliocommons.com/v2/record/S75C4681404) is from the iconic Harry Potter series and was created by the Marauders, a friend group consisting of  Remus Lupin (Moony), Peter Pettigrew (Wormtail), Sirius Black III (Padfoot), and Harry’s father, James Potter I (Prongs). In the Harry Potter universe, the map shows every classroom, hallway, and corner of Hogwarts, as well as every inch of the grounds, including secret passages hidden within the walls and the location of every person in the grounds, portrayed by a set of footprints.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/African-American-Trail-Sites.png" >}}
+##### Ernest H. Shepard, [Map of the 100-Acre Wood ](https://bpl.bibliocommons.com/v2/record/S75C6350335)(2014)
 
-Driven largely by faculty and student research at Tufts University compiled over decades, [this project](https://bpl.bibliocommons.com/v2/record/S75C7222425) maps African American and African-descended public history sites across greater Boston and Massachusetts. The project aims to “develop African American historical memory and intergenerational community, placing present-day struggles for racial justice in the context of greater Boston’s historic African American, Black Native, and diasporic communities”. This is an amazing resource and example of representative mapmaking by the Black community for the Black community.
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (12).png" >}}
+
+Christopher Robin, teddy bear Winnie-the-Pooh and other stuffed animals live in the 100-Acre Wood. The friends go on picnics, hunt heffalumps and have everyday adventures! [This map](https://bpl.bibliocommons.com/v2/record/S75C6350335) shows Christopher Robin’s house, his friends’ houses, and places they explored. Christopher Robin notes that Mr. Shepard “helpd” him draw the map. E. H. Shepard, who illustrated the books, based Winnie-the-Pooh on his own son’s stuffed bear.
