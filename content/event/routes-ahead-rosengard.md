@@ -24,7 +24,9 @@ These informal presentations feature discussions with transit and mobility exper
 
 ### About the speakers
 
-**Daniel Rosengard** is the Director of Transportation for Boston Public Schools.
+{{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/events/rosengard-head-shot.jpg" class="figure-right" >}}
+
+**Daniel Rosengard** is the Executive Director of Transportation for Boston Public Schools. In this role, he is focused on ensuring the delivery of safe, reliable, on-time, and cost-effective yellow bus transportation to and from school for over 22,000 Boston students on a daily basis. Dan and the BPS Transportation team deeply believe that reliable transportation is critical to providing students with equitable access to education. They are committed to continuing their efforts to improve bus on-time performance and provide the highest level of service to Boston students, families, and schools. Prior to joining BPS Transportation, Dan received his MBA from the MIT Sloan School of Management.
 
 ### Registration
 
