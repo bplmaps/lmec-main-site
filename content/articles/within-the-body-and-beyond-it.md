@@ -14,7 +14,9 @@ tags:
   - small grants
 ---
 
-I’ve been writing about medical illustration for the past four years, which means, of course, reading about {{< popup img-src="/images/blog/ibFig1_Vesalius.jpeg" bib-src="https://library.uab.edu/locations/reynolds/collections/medical-greats/andreas-vesalius" >}}Andreas Vesalius{{</popup>}}---the Flemish creator of the seminal anatomical atlas, *[De Humani Corporis Fabrica Libri Septem](https://archive.org/details/andreaevesaliid00hartgoog/page/n2/mode/2up)* (which translates directly to *Of the Fabric of the Human Body in Seven Texts,* and is often referred to simply as the *Fabrica*).
+> This digital publication was supported by the Leventhal Map & Education Center's [Small Grants for Early Career Digital Publications](https://www.leventhalmap.org/research/digital-publication-small-grants/) program.
+
+I’ve been writing about medical illustration for the past four years, which means, of course, reading about {{< popup img-src="/images/blog/ibFig1_Vesalius.jpeg" bib-src="https://library.uab.edu/locations/reynolds/collections/medical-greats/andreas-vesalius" >}}Andreas Vesalius,{{</popup>}}the Flemish creator of the seminal anatomical atlas, *[De Humani Corporis Fabrica Libri Septem](https://archive.org/details/andreaevesaliid00hartgoog/page/n2/mode/2up)* (which translates directly to *Of the Fabric of the Human Body in Seven Texts,* and is often referred to simply as the *Fabrica*).
 
 When the *Fabrica* was published in 1543, it [permanently altered the way that anatomy was taught](https://search.worldcat.org/title/875248365) in universities in the Western traditions. Renaissance artists like Da Vinci and Michelangelo had drawn muscular systems, but they hadn’t tackled the enormous task of mapping a comprehensive, illustrated representation of anatomical knowledge at that time. The creation of this visual guide also signaled an epistemological shift in anatomical scholarship. While previous renaissance anatomists had analyzed textual anatomical teachings from ancient Greco-Roman thinkers---primarily Galen and Hippocrates---Vesalius’s work challenged traditional authorities, prioritized direct observation, and sought knowledge through the senses. When you visit anatomy classes today, you’ll find that the subject is taught largely visually, relying on diagrams, illustrations, and plaster models. Although those are contemporary iterations, these pedagogical tools are echoes of the visual era of anatomical learning that Vesalius ushered in.
 
@@ -82,20 +84,4 @@ Although contemporary Western traditions cartography and medical illustration sh
 
 It’s a shame that the two fields exist as separately as they do, because they tackle a lot of the same questions. How do you simplify the world to help people understand it? How do you identify the roles of colonialism and white supremacy in available models? How do we conjure a reality that is more fair and equitable? And how can the discourses in each discipline speak to each other as they work to explain and re-explain the spaces outside and within us?
 
-### References
-
-[https://www.perlego.com/book/1853243/the-worldmakers-global-imagining-in-early-modern-europe-pdf](https://www.perlego.com/book/1853243/the-worldmakers-global-imagining-in-early-modern-europe-pdf)
-
-[https://www.amazon.com/Andreas-Vesalius-Making-Madman-Myth/dp/1604815604](https://www.amazon.com/Andreas-Vesalius-Making-Madman-Myth/dp/1604815604)
-
-[https://www.jstor.org/stable/26309055](https://www.jstor.org/stable/26309055)
-
-[https://www.researchgate.net/publication/314980352\_Picturing\_Abortion\_Opposition\_in\_Sweden\_Lennart\_Nilsson's\_Early\_Photographs\_of\_Embryos\_and\_Fetuses](https://www.researchgate.net/publication/314980352_Picturing_Abortion_Opposition_in_Sweden_Lennart_Nilsson's_Early_Photographs_of_Embryos_and_Fetuses)
-
-[https://www.hsph.harvard.edu/event/black-medical-illustrations-and-their-importance-in-medicine/](https://www.hsph.harvard.edu/event/black-medical-illustrations-and-their-importance-in-medicine/)
-
-[https://www.blackandbrownskin.co.uk/further-resources](https://www.blackandbrownskin.co.uk/further-resources)
-
-https\://deepblue.lib.umich.edu/bitstream/handle/2027.42/155649/2009\_Traub\_Nature\_of\_Norms.pdf?sequence=1
-
-
+> Ilana Bean biography goes here
