@@ -27,9 +27,17 @@ Should wealthy nonprofits like universities and hospitals be tax exempt because 
 
 Struggles over the [influence of nonprofits on the neighborhoods around them](https://www.leventhalmap.org/articles/mapping-renewal-engaging-residents/) are longstanding. During the 1950s and 1960s, buoyed by Cold War research dollars and the expansion of college enrollment (due in part to the coming of age of the baby boomers), [universities in Massachusetts](https://www.atlascope.org/#/view:tour$tour:369514700108464209) and all over the country pursued physical expansion.[^2] Hospitals also pursued expansion and consolidation to modernize their facilities and win national prestige.[^3]
 
+<aside>
+
+Click the map below to explore Section 112 credits in an interactive web map, created by the author and based on his archival research in the Boston Public Library's [Boston Redevelopment Authority collections](https://collections.leventhalmap.org/collections/commonwealth:7h14cv132).
+
+</aside>
+
 Because of the tax-exempt status of universities and hospitals, instructional expansion plans in the 1950s and 1960s could be in tension with the efforts of planners and politicians to raise the cities' tax bases in the face of suburbanization. National "urban renewal" legislation created a financial mechanism known as **[Section 112](https://www.govinfo.gov/content/pkg/STATUTE-75/pdf/STATUTE-75-Pg149.pdf)** to align city governments more closely to the interests of medical and educational institutions, but this did not totally bridge the gap between cities and major non-profit institutions like universities and hospitals.
 
 So-called "Section 112 credits" were involved in three different urban renewal projects in Boston and Cambridge. Looking at how these credits were created and contested illustrates the conflicting drives towards institutional expansion, tax generation, and creating a livable city for its residents. Neighborhood movements, most visible through initiatives like People Before Highways and the reactionary movement against school bussing, put pressure on local government and institutions to abandon plans to transform the cityscape altogether, or at work more closely with communities. Section 112 credits, though not well-known, were involved in several crucial episodes in Greater Boston's struggles over urban renewal.
+
+<a target="blank" href="https://felt.com/map/Section-112-in-the-Boston-Region-fpgPThvTTDiq76Y9C4WL24D?loc=42.35797,-71.08781,14.02z&share=1">{{< figure src="/images/blog/julian-feltmap.png" class="figure-center" >}}</a>
 
 #### Section 112 credits and Urban Renewal
 
