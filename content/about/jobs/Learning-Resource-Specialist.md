@@ -42,11 +42,11 @@ The Leventhal Center values independent initiative in all staff roles, and we wi
 - *Required* Demonstrated ability to create clear, engaging, and useful materials for K-12 using primary sources educators to support classroom teaching
 - *Required* Demonstrated ability to create asynchronous learning experiences for learners of diverse backgrounds, ages, and familiarity with a topic
 - *Required* Demonstrated ability to use the appropriate digital tools and methods to engage others
-- *Required* Willingness to learn new softwares and approaches as necessary
+- *Required* Willingness to learn new software and methodological approaches as necessary
 - *Required* Curiosity, collaborative spirit and an eagerness to learn new things in order to share that knowledge with others for their own discovery
 - *Preferred*  Demonstrated knowledge, experience, and expertise with some aspect of the Center’s broad portfolio of topic areas, including (for example) historical geography; urban, regional, and environmental studies; civics; science and technology studies; place-based inquiry; museum and library collections; and/or community history.
 - *Preferred* Ability to engage learners in synchronous lessons through video conferencing
-- *Preferred* Familiarity with inquiry -based teaching methods
+- *Preferred* Familiarity with inquiry-based teaching methods
 - *Preferred* A familiarity with geographic information systems (GIS) and their utility in classroom settings
 
 ### Compensation & Position Details
