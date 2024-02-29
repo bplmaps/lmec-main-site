@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: >-
   Freelance position: Frontend developer to design and implement new features in
   Allmaps platform

@@ -1,7 +1,7 @@
 ---
 title: 'Job Posting: Assistant Director'
 menu: false
-
+draft: true
 ---
 {{< alert-box type="danger" >}} This search is currently **closed.** {{< /alert-box >}}
 

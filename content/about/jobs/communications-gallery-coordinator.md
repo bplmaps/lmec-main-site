@@ -1,6 +1,7 @@
 ---
 title: "Job Posting: Communications & Gallery Coordinator"
 menu: false
+draft: true
 ---
 
 The **Leventhal Map & Education Center at the Boston Public Library** seeks to hire for the position of **Communications & Gallery Coordinator**. The Communications & Gallery Coordinator oversees the public voice of the Center across all media, working not only to spread awareness about the Center's collections and programs but also to actively cultivate new audiences. The Coordinator also shapes the visitor experience in the Center's in-person gallery in the Central Library of the Boston Public Library  by coordinating the many different types of work which keep the gallery well-maintained, welcoming, and inviting. This role is ideal for someone who is excited about working with one of the world's largest geographic and cartographic collections housed in a public institution, and who can effectively share their own enthusiasm for the materials and topic with a diverse array of audiences.

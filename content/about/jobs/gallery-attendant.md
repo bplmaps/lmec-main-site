@@ -1,6 +1,7 @@
 +++
 title = "Job Posting: Gallery Attendant"
 menu = false
+draft = true
 +++
 {{< alert-box type="danger" >}} This search is currently **closed.** {{< /alert-box >}}
 

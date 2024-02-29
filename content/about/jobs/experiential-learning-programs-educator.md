@@ -1,7 +1,7 @@
 ---
-title: 'Job Posting: Experiential Learning & Programs Educator'
-draft: true
+title: 'Experiential Learning & Programs Educator'
 menu: false
+cardImage: "https://www.leventhalmap.org/wp-content/uploads/2017/02/snowden_web.png"
 ---
 
 The **Leventhal Map & Education Center at the Boston Public Library** seeks to hire for the position of **Experiential Learning & Programs Educator.** We are looking for a dynamic educator who is highly skilled at designing and leading in-person learning experiences for diverse audiences.

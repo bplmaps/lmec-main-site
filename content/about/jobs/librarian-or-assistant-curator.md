@@ -2,6 +2,7 @@
 title: 'Job Posting: Geospatial & Cartographic Information Librarian or Assistant
   Curator of Digital & Participatory Geography'
 menu: false
+draft: true
 ---
 {{< alert-box type="danger" >}} This search is currently **closed.** {{< /alert-box >}}
 

@@ -3,6 +3,7 @@ title: 'Job Posting: Exhibition Curatorial Fellow'
 backgroundImage: https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg
 cardImage: https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg
 menu: false
+draft: true
 ---
 
 {{< alert-box type="warning" title="Deadline passed" >}}

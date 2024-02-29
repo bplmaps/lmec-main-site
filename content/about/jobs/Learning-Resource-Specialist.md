@@ -1,7 +1,7 @@
 ---
-title: 'Job Posting: Learning Resource Specialist'
-draft: true
+title: 'Learning Resource Specialist'
 menu: false
+cardImage: "/uploads/eliot3.jpg"
 ---
 
 The **Leventhal Map & Education Center at the Boston Public Library** seeks to hire for the position of **Learning Resource Specialist**. We are looking for someone with the knowledge, creativity, and enthusiasm necessary to create asynchronous learning tools that draw educators and general audiences into the work and collections of the Leventhal Center. 

@@ -2,7 +2,7 @@
 <div class="card rounded-0 hover-shadow border-top-0 border-left-0 border-right-0 page-card alt-gallery-card">
   {{ with .Params.cardImage }}<a href="{{ $page.Permalink }}"><img class="card-img-top rounded-0" src="{{ . | relURL }}" alt="{{ $page.Title }}"></a>{{ end }}
   <div class="card-body">
-    <h3 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <h5 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
     <p class="card-text">{{ .Description | markdownify }}</p>
     {{ with .Params.resourceURL }}
     <a href="{{ . }}" target="_blank" class="btn btn-primary btn-primary-outline btn-sm mb-2"><i class="fas fa-external-link-square-alt me-2"></i> Go to project </a>

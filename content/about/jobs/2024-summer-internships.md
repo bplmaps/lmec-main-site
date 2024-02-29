@@ -1,7 +1,6 @@
 ---
 cardImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 menu: false
-draft: true
 title: Summer Internships 2024
 backgroundImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 ---

@@ -3,6 +3,7 @@ title: Spring Internships 2024
 backgroundImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 cardImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 menu: false
+draft: true
 ---
 
 {{< alert-box type="danger" title="Applications Closed" >}}

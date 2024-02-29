@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 order-2 order-lg-1">
+        <div class="row">
+          <div class="col-12 mb-5 content">
+            <section class="section pb-3 {{ if .Content }}pt-1{{ end }} mb-2">
+                <div class="container">
+                  <div class="row">
+                    {{ range .Pages }}
+                    <div class="col-lg-5 col-sm-6 mb-4">
+                      {{ .Render "alt-gallery" }}</div>
+                    {{ end }}
+                  </div>
+                </div>
+            </section>
+          </div>
+        </div>
+      </div>
+      <aside class="col-lg-4 order-2 order-lg-2 section-sidebar">
+      {{ partial "section-sidebar.html" . }}
+      {{ if .Params.quicklinks }}
+      {{ partial "quicklinks-sidebar.html" .Params.quicklinks }}
+    {{ end }}
+
+    </aside>
+    </div>
+  </div>
+</section>
+
+{{ end }}
