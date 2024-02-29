@@ -4,9 +4,9 @@ draft: true
 menu: false
 ---
 
-The **Leventhal Map & Education Center at the Boston Public Library** seeks to hire for the position of **Experiential Learning & Programs Educator.** We are looking for dynamic educator who is highly skilled at designing and leading in-person learning experiences for diverse audiences. 
+The **Leventhal Map & Education Center at the Boston Public Library** seeks to hire for the position of **Experiential Learning & Programs Educator.** We are looking for a dynamic educator who is highly skilled at designing and leading in-person learning experiences for diverse audiences.
 
-The Education team works in partnership with the rest of the LMEC team to foster geographic perspectives on the relationships between people and places. The Education team creates programs and resources that inspire curiosity and encourage visitors to make best use of the collections and resources of the Center. 
+The Education team works in partnership with the rest of the LMEC staff and our colleagues at the Boston Public Library to foster geographic perspectives on the relationships between people and places. The Education team creates programs and resources that inspire curiosity and encourage learners to make use of the collections and resources of the Center.
 
 ![Students in a class in the Learning Center](https://www.leventhalmap.org/wp-content/uploads/2017/02/snowden_web.png)
 
@@ -18,7 +18,7 @@ The **Experiential Learning & Programs Educator** will focus on creating in-pers
 
 - Research and lead engaging on-site visits for K-12 students that include current exhibitions, collections materials, and an introduction to spatial thinking
 - Manage on-site K-12 class visits including scheduling, correspondence with groups, and internal communications with LMEC and BPL colleagues
-- Direct opportunities for BPS high school students, including the Seevak summer internship programs
+- Direct opportunities for BPS high school students, including summer internship programs
 - Lead synchronous digital learning experiences for students across the country and classroom educators
 - Provide administrative support for teacher professional development workshops and institutes, including scheduling, communications, and logistical details
 - Collaborate with the Director of Education and LMEC colleagues on the expansion and development of adult programming
