@@ -4,17 +4,17 @@ draft: true
 menu: false
 ---
 
-The **Leventhal Map & Education Center at the Boston Public Library** seeks to hire for the position of **Learning Resource Specialist**. We are looking for someone with the knowledge, creativity, and enthusiasm to create asynchronous learning tools that draw educators and general audiences into the work and collections of the Leventhal Center. 
+The **Leventhal Map & Education Center at the Boston Public Library** seeks to hire for the position of **Learning Resource Specialist**. We are looking for someone with the knowledge, creativity, and enthusiasm necessary to create asynchronous learning tools that draw educators and general audiences into the work and collections of the Leventhal Center. 
 
-The Education team works in partnership with the rest of the LMEC team to foster geographic perspectives on the relationships between people and places. The Education team creates programs and resources that inspire curiosity and encourage audiences to make best use of the collections and resources of the Center. 
+The Education team works in partnership with the rest of the LMEC team and colleagues at the Boston Public Library to foster geographic perspectives on the relationships between people and places. The Education team creates programs and resources that inspire curiosity and encourage audiences to make best use of the collections and resources of the Center. 
 
 ![Students in a class in the Learning Center](https://www.leventhalmap.org/wp-content/uploads/2017/02/snowden_web.png)
 
 ## About this role
 
-The Learning Resource Specialist will focus on creating content that engages and informs digital audiences, with an emphasis on K-12 educators. The Learning Resource Specialist will maintain and revise existing resources while collaborating on the development of new tools. The Learning Resource Specialist joins the Education team at a time of growth and would play a key role in broadening the Leventhal Center’s impact. 
+The Learning Resource Specialist will focus on creating content that engages and informs digital audiences, with a particular emphasis on K-12 educators. The Learning Resource Specialist will maintain and revise existing resources while collaborating on the development of new tools and content. The Learning Resource Specialist joins the Education team at a time of growth and will play a key role in broadening the Leventhal Center’s impact. 
 
-Upon hire, the Learning Resource Specialist will collaborate with the Director of Education on a year-long revision of the educational resources for K-12 educators. 
+Upon hire, the Learning Resource Specialist will collaborate with the Director of Education on a year-long revision of the Center's online educational resources for K-12 educators. 
 
 ## Key Responsibilities
 
@@ -22,11 +22,11 @@ Upon hire, the Learning Resource Specialist will collaborate with the Director o
 - Managing K-12 educator online resources including researching, designing, writing, and evaluating lesson plans and map resources while upholding quality and relevancy to K-12 teachers
 - Project manage revision of LMEC K-12 education resources
 - Expanding audience reach through the development of new online resources for adult visitors about exhibitions and collections
-- Develop asynchronous resources for teaching general audiences about LMEC tools like [Atlascope](https://atlascope.leventhalmap.org/), American Revolutionary Geographies Online ([ARGO](https://www.argomaps.org/)), and digital exhibitions
+- Develop asynchronous resources for teaching general audiences about LMEC tools like [Atlascope](https://www.atlascope.org), American Revolutionary Geographies Online ([ARGO](https://www.argomaps.org/)), and digital exhibitions
 
 ## Additional Responsibilities
 
-- Assist with the Carolyn A. Lynch Summer Teacher Fellowship program including offering constructive feedback to fellows and adapting final projects for broader use
+- Assisting with the Carolyn A. Lynch Summer Teacher Fellowship program including offering constructive feedback to fellows and adapting final projects for broader use
 - Serving as the initial contact for K-12 educators in need of support for online resources
 - Leading and coordinating virtual programs that facilitate the broader and deeper use of online educational content, including conference presentations
 - Liaising with vendors for digital products
