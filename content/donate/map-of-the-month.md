@@ -34,4 +34,5 @@ Donations go directly to our historical geography work with students, educators,
 * **October 2023**: [The land of make believe](https://collections.leventhalmap.org/search/commonwealth:xs55qj04r)
 * **November 2023**: [The southwestern railroad system United States and Mexico](https://collections.leventhalmap.org/search/commonwealth:cj82kp21d)
 * **December 2023:** [An aerial view of New York City](https://collections.leventhalmap.org/search/commonwealth:m039np67z)
-* **January 2024**: Coming Soon
+* **January 2024**: [Map of Charles River showing principal sources of pollution](https://collections.leventhalmap.org/search/commonwealth:3f4635739)
+* **February 2024: **[Chicago Terminal Transfer Railroad Co](https://collections.leventhalmap.org/search/commonwealth:3f463620g). and [Map of a woman's heart](https://collections.leventhalmap.org/search/commonwealth:cj82kr20j)
