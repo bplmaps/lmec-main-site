@@ -35,8 +35,9 @@ The fundraising & development intern will work with LMEC Development & Grants Ma
 
 ### Compensation & Role Details
 
-* **Dates**: Mid-January through mid-May 2024
-  * *Interns must be able to work at least one 4 hour shift on Wednesday between 9 am and 5 pm, and one 4 hour shift either Saturday 11-5 or Sunday 1-5.*
+* **Dates**: Late May through early August 2024
+  * *Geohumanities & GIS interns must be able to work at least one 4 hour shift on Wednesday between 9 am and 5 pm, and one 4 hour shift either Saturday 11-5 or Sunday 1-5.*
+  * *Fundraising & Development interns must be able to work at least one 4 hour shift either Saturday 11-5 or Sunday 1-5*
 * **Hours**: 6-10 hours/week
 * **Compensation**: $15.35/hour
 * This position is not eligible for health benefits.

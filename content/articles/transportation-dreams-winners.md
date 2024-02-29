@@ -13,7 +13,7 @@ backgroundImage: >-
 tags:
   - getting around town
   - transportation dreams
-  - ' transit'
+  - transit
   - cartography challenge
 ---
 
