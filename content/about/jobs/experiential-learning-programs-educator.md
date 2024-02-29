@@ -8,6 +8,8 @@ The **Leventhal Map & Education Center at the Boston Public Library** seeks 
 
 The Education team works in partnership with the rest of the LMEC team to foster geographic perspectives on the relationships between people and places. The Education team creates programs and resources that inspire curiosity and encourage visitors to make best use of the collections and resources of the Center. 
 
+![Students in a class in the Learning Center](https://www.leventhalmap.org/wp-content/uploads/2017/02/snowden_web.png)
+
 ## About this role
 
 The **Experiential Learning & Programs Educator** will focus on creating in-person and synchronous digital learning experiences that enable Leventhal Center patrons to connect with collections and engage with spatial thinking. The Experiential Learning & Programs Educator will oversee K-12 guided experiences and support teacher professional development programming. They will direct partnerships within Boston Public Schools (BPS), such as longer-term engagements with BPS students and other experiential learning opportunities. They will play a key role in the development and execution of new adult programming. 
