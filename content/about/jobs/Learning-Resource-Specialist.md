@@ -39,6 +39,7 @@ The Leventhal Center values independent initiative in all staff roles, and we wi
 ## Skills and Qualifications
 
 - *Required* Bachelor’s Degree
+- *Preferred* A graduate degree with a focus on museum and library education or public history; or a closely related graduate field such as journalism; or a graduate research degree in one of the Center's topic areas with a demonstrated ability to reach non-specialist audiences
 - *Required* Demonstrated ability to create clear, engaging, and useful materials for K-12 using primary sources educators to support classroom teaching
 - *Required* Demonstrated ability to create asynchronous learning experiences for learners of diverse backgrounds, ages, and familiarity with a topic
 - *Required* Demonstrated ability to use the appropriate digital tools and methods to engage others
