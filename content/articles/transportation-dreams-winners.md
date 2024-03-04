@@ -67,4 +67,4 @@ These sorts of radical ideas are so often the product of community thinking, and
 
 In addition to a **$250 award**, Charles' map will be accessioned into the Leventhal Center's digital collections.
 
-> The Leventhal Center's [Cartography Challenges](https://www.leventhalmap.org/projects/cartography-challenge/) are posted at least once per year, so keep an eye out for the next prompt. If you have questions about the program, don't hesitate to reach out to Ian Spangler.
+> The Leventhal Center's [Cartography Challenges](https://www.leventhalmap.org/projects/cartography-challenge/) are posted at least once per year, so keep an eye out for the next prompt. If you have questions about the program, please contact [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/).
