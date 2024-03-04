@@ -13,7 +13,6 @@ tags:
   - Richard H. Brown Seminar
   - ARGO
   - American Revolutionary War Era
-draft: true
 ---
 
 ### Learn how "cartifacts" circulated in the everydays spaces of the Revolutionary War era
