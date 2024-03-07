@@ -6,8 +6,8 @@ author: Julia Williams
 description: >-
   Check out these highlights from February's From The Vault: Women in
   Cartography
-image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (7).png'
-backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (7).png'
+image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (30).png'
+backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (30).png'
 tags:
   - from the vault
 ---
