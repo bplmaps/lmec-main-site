@@ -57,11 +57,11 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Summer teacher workshop
-      text: >
-        Apply by March 5 for our summer K-12 teacher institute, _Teaching With
-        Maps: Community and Resilience in Maritime New England_
-      link: 'https://www.teachingwithmaps.org'
+    - badge: 'Join LMEC: Positions Open!'
+      text: >-
+        Apply by March 25 to join our Education Team as an _Experiential
+        Learning & Programs Educator_ or a _Learning Resource Specialist_
+      link: 'https://www.leventhalmap.org/about/jobs/'
 audiences:
   enable: true
   audienceGroups:
