@@ -14,15 +14,15 @@ tags:
 
 > On February 15, we hosted From The Vault: Literary Landscapes! From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. For this edition of the series, we explored the worlds of some of the most iconic landscapes of storytelling! From Sherlock Holmes to Winnie the Pooh, we examined the ways literature uses maps to strengthen the impact of storytelling.
 
-##### Anna Beeck, Plan de la ville de Bouchain situé sur les rivieres de la Sensette, et de l'Escaut, dans le comté de Hainaut (1711)
+##### Anna Beeck, [Plan de la ville de Bouchain situé sur les rivieres de la Sensette, et de l'Escaut, dans le comté de Hainaut](https://collections.leventhalmap.org/search/commonwealth:q524n429w) (1711)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nh86s/full/1200,/0/default.jpg" >}}
 
-This map is published by one of the earliest female publishers/cartographers and shows military positions and lines of attack during the siege of Bouchain in 1711. Beeck was a prolific mapmaker, printer, and publisher in a time when women were rarely involved in these trades. 
+[This map](https://collections.leventhalmap.org/search/commonwealth:q524n429w) is published by one of the earliest female publishers/cartographers and shows military positions and lines of attack during the siege of Bouchain in 1711. Beeck was a prolific mapmaker, printer, and publisher in a time when women were rarely involved in these trades.
 
-##### Jaro Hess, [The Land of Make Believe](https://collections.leventhalmap.org/search/commonwealth:xs55qj04r) (1935)
+##### Mary E. Johonnot, United States (1822)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g445gm638/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2z10wv364/full/1200,/0/default.jpg" >}}
 
 A bit more dark and mysterious than we usually think modern fairy tales to be, [this fantasy map](https://collections.leventhalmap.org/search/commonwealth:xs55qj04r) is populated by figures from nursery rhymes, fairy tales and children's books circa the early 1900s. If you look closely, you can see Jack’s beanstalk reaching up to the sky, Little Red Riding Hood on her way to her grandmother’s, and Humpty Dumpty sitting very close to the edge of his wall…
 
