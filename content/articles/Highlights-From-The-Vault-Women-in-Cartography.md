@@ -42,19 +42,19 @@ Women were very active in the production of pictorial maps in the early 20th cen
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (30).png" >}}
 
-Oceanographic cartographer and geologist Marie Tharp, along with her research partner Bruce Heezen, created [the first map](https://bpl.bibliocommons.com/v2/record/S75C4730543) of the entire ocean floor. Heezen was credited solely for their work for years, and only later on did Tharp gain her rightful place in the cartographic world (though Tharp simply credited as a contributor in the BPL catalog). Early editions of ocean floor mapping feature an informal sketch style, while later final editions were sophisticated physical maps with color and shading, applied to reveal the dramatic mid-ocean canyons highlighting the continental divisions of the globe. Numbers on the map indicate depth of the ocean floor and elevations of individual undersea mountains.
+Oceanographic cartographer and geologist Marie Tharp, along with her research partner Bruce Heezen, created [the first map](https://bpl.bibliocommons.com/v2/record/S75C4730543) of the entire ocean floor. Heezen was credited solely for their work for years, and only later on did Tharp gain her rightful place in the cartographic world (though Tharp credited as a contributor in the BPL catalog). Early editions of ocean floor mapping feature an informal sketch style, while later final editions were sophisticated physical maps with color and shading, applied to reveal the dramatic mid-ocean canyons highlighting the continental divisions of the globe. Numbers on the map indicate depth of the ocean floor and elevations of individual undersea mountains.
 
 ##### Valerie S. Goodwin, [City Grid IV](https://bpl.bibliocommons.com/v2/record/S75C5709931) (2007, Reproduction, 2015)
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (31).png" class="" >}}
 
-The adventures of Arthur Conan Doyle’s eccentric detective Sherlock Holmes are illustrated on [this late 20th-century pictorial poster](https://bpl.bibliocommons.com/v2/record/S75C4582145). Two magnifying glasses, containing maps of Victorian-era England and London, are numbered to identify locations associated with the Holmes stories. Illustrations from a number of tales surround the map, and feature characters such as Holmes’ loyal colleague Dr. John Watson, his adversary Professor Moriarty, and a vicious hound from The Hound of the Baskervilles.
+As an architect and artist, Valerie Goodwin creates quilts inspired by building and urban design, and maps of real and imaginary places. She has used maps since her youth, and remembers that as a child she was fond of them and their visual representations. Goodwin uses color dramatically in her work, and emphasizes line and density by layering fabric. [City Grid IV](https://bpl.bibliocommons.com/v2/record/S75C5709931) is an art quilt that focuses on the organization of an imaginary place. Goodwin experiments with two points of view in this quilt – one from above, and another from the side.
 
-##### Warner Bros. Entertainment, [Messrs. Moony, Wormtail, Padfoot & Prongs Are Proud to Present the Marauder's Map](https://bpl.bibliocommons.com/v2/record/S75C4681404) (2007)
+##### Linda Loubert, PhD; Morgan State University, [Making History – GIS and Women](https://arcg.is/1Cj1zj) (2014) 
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (11).png" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (32).png" >}}
 
-[This map](https://bpl.bibliocommons.com/v2/record/S75C4681404) is from the iconic Harry Potter series and was created by the Marauders, a friend group consisting of  Remus Lupin (Moony), Peter Pettigrew (Wormtail), Sirius Black III (Padfoot), and Harry’s father, James Potter I (Prongs). In the Harry Potter universe, the map shows every classroom, hallway, and corner of Hogwarts, as well as every inch of the grounds, including secret passages hidden within the walls and the location of every person in the grounds, portrayed by a set of footprints.
+In her work as professor of economics at Morgan State University, Linda Loubert teaches GIS to her students, using the technology in her classroom and in most of her research projects. In 2014 Dr. Loubert built a [crowdsourced web map](https://arcg.is/1Cj1zj) to “recognize women for the role they play in GIS.” This digital project asked women to contribute their professional affiliation and location to the web map, in an effort to visually document 10,000 women currently working in the GIS field around the globe. Female GIS professionals can still contribute to the online map.
 
 ##### Ernest H. Shepard, [Map of the 100-Acre Wood ](https://bpl.bibliocommons.com/v2/record/S75C6350335)(2014)
 
