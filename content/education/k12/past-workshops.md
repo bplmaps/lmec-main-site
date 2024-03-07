@@ -13,6 +13,7 @@ description: >-
   * Map Learning for Elementary Students: [What is a Map?](https://collections.leventhalmap.org/educators/curriculum-materials/127)
   * [Mapping the American Revolution](https://collections.leventhalmap.org/educators/curriculum-materials/138)
 * [Visualizing the World: Maps as Stories, Teachers as Scholars](https://teachers-scholars.org/our-programs/seminars-2022-23/)
+* [Lifting as We Climb: Black Women's Activism in Turn-of-the-20th-Century Boston](https://www.leventhalmap.org/articles/lifting-as-we-climb-pd/)
 * [2023 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community History](https://www.leventhalmap.org/education/k12/lynch-summer-teacher-fellowship/)
 
 **2022**
