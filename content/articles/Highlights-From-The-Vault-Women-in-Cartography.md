@@ -38,11 +38,11 @@ This [outline map](https://collections.leventhalmap.org/search/commonwealth:x059
 
 Women were very active in the production of pictorial maps in the early 20th century. These whimsical maps frequently focused on travel and tourism. Bordered by a ribbon of ocean creatures, [this 1930 map](https://collections.leventhalmap.org/search/commonwealth:3f463854q) of Bermuda illustrates various methods of transportation from horse-drawn carriages to pirate ships and airplanes. On shore, tourism reigns with beaches, golf courses, tennis courts, shooting ranges and historic forts. Designed by Elizabeth Shurtleff and Helen McMillin, who studied at the Boston Museum School of Fine Arts and Wellesley College respectively, this map encourages visits to the island by promoting recreation and history.
 
-##### Jeremiah Benjamin Post, [An Atlas of Fantasy](https://bpl.bibliocommons.com/v2/record/S75C4222483) (1973)
+##### Marie Tharp and Bruce Heezen, [Physiographic Diagram of the Western Pacific Ocean](https://bpl.bibliocommons.com/v2/record/S75C4730543) (1971)
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (9).png" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (30).png" >}}
 
-[This atlas](https://bpl.bibliocommons.com/v2/record/S75C4222483) has a heavy emphasis on science fiction and fantasy, though Post did suggest at one point that there exist enough mystery fiction maps to someday create The Detectives' Handy Pocket Atlas. When first published, it was greatly received by the fantasy literature and game communities.
+Oceanographic cartographer and geologist Marie Tharp, along with her research partner Bruce Heezen, created [the first map](https://bpl.bibliocommons.com/v2/record/S75C4730543) of the entire ocean floor. Heezen was credited solely for their work for years, and only later on did Tharp gain her rightful place in the cartographic world (though Tharp simply credited as a contributor in the BPL catalog). Early editions of ocean floor mapping feature an informal sketch style, while later final editions were sophisticated physical maps with color and shading, applied to reveal the dramatic mid-ocean canyons highlighting the continental divisions of the globe. Numbers on the map indicate depth of the ocean floor and elevations of individual undersea mountains.
 
 ##### Molly Maguire, Designer; Jim Wolnick, Illustrator, [The Sherlock Holmes Mystery Map](https://bpl.bibliocommons.com/v2/record/S75C4582145) (1987)
 
