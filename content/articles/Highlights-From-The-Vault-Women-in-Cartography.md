@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Highlights From The Vault: Women in Cartography'
 date: 2024-03-06T20:00:00.000Z
 author: Julia Williams
@@ -12,7 +12,7 @@ tags:
   - from the vault
 ---
 
-> On February 15, we hosted From The Vault: Literary Landscapes! From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. For this edition of the series, we explored the worlds of some of the most iconic landscapes of storytelling! From Sherlock Holmes to Winnie the Pooh, we examined the ways literature uses maps to strengthen the impact of storytelling.
+> On March 1, we hosted [From The Vault: Women in Cartography](https://www.leventhalmap.org/event/ftv-2024-03-01-women-in-cartography/)! From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. For this edition of the series, we took a closer look at maps related to women’s history and works from women cartographers throughout time. As leaders in the world of Geographic Information Systems (GIS), women are active in all aspects of cartography today and it’s incredibly important to recognize their contributions to the field. 
 
 ##### Anna Beeck, [Plan de la ville de Bouchain situé sur les rivieres de la Sensette, et de l'Escaut, dans le comté de Hainaut](https://collections.leventhalmap.org/search/commonwealth:q524n429w) (1711)
 
@@ -55,9 +55,3 @@ As an architect and artist, Valerie Goodwin creates quilts inspired by building 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (32).png" >}}
 
 In her work as professor of economics at Morgan State University, Linda Loubert teaches GIS to her students, using the technology in her classroom and in most of her research projects. In 2014 Dr. Loubert built a [crowdsourced web map](https://arcg.is/1Cj1zj) to “recognize women for the role they play in GIS.” This digital project asked women to contribute their professional affiliation and location to the web map, in an effort to visually document 10,000 women currently working in the GIS field around the globe. Female GIS professionals can still contribute to the online map.
-
-##### Ernest H. Shepard, [Map of the 100-Acre Wood ](https://bpl.bibliocommons.com/v2/record/S75C6350335)(2014)
-
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (12).png" >}}
-
-Christopher Robin, teddy bear Winnie-the-Pooh and other stuffed animals live in the 100-Acre Wood. The friends go on picnics, hunt heffalumps and have everyday adventures! [This map](https://bpl.bibliocommons.com/v2/record/S75C6350335) shows Christopher Robin’s house, his friends’ houses, and places they explored. Christopher Robin notes that Mr. Shepard “helpd” him draw the map. E. H. Shepard, who illustrated the books, based Winnie-the-Pooh on his own son’s stuffed bear.
