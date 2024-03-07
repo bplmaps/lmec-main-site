@@ -32,11 +32,11 @@ During the late 18th and early 19th century, it was common practice for American
 
 This [outline map](https://collections.leventhalmap.org/search/commonwealth:x059cd797) of the contiguous United States shows the status of woman suffrage in each state circa 1918, just 2 years before the 19th amendment granted women the right to vote. It’s important to note that while the 19th amendment was passed in 1920, many women were barred voting access until the Voting Rights Act of 1965. 
 
-##### Ruth Stiles Gannett, [Map of the Island of Tangerina and Wild Island](https://collections.leventhalmap.org/search/commonwealth:3f463884f) (c1948; reproduction, 2014)
+##### Elizabeth Shurtleff and Helen F. McMillin, [A Map of the Bermuda Islands](https://collections.leventhalmap.org/search/commonwealth:3f463854q) (1930)
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (8).png" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4638550/full/1200,/0/default.jpg" class="" >}}
 
-[This map](https://collections.leventhalmap.org/search/commonwealth:3f463884f) shows the path of Elmer, a young boy, on his quest to rescue a dragon in need.  In the story My Father’s Dragon, a stray cat tells young Elmer Elevator about a baby dragon who is being forced to carry the lazy animals of Wild Island across a river, and Elmer makes it his quest to save the dragon. The map was drawn by the author’s stepmother, an illustrator of children’s books.
+Women were very active in the production of pictorial maps in the early 20th century. These whimsical maps frequently focused on travel and tourism. Bordered by a ribbon of ocean creatures, [this 1930 map](https://collections.leventhalmap.org/search/commonwealth:3f463854q) of Bermuda illustrates various methods of transportation from horse-drawn carriages to pirate ships and airplanes. On shore, tourism reigns with beaches, golf courses, tennis courts, shooting ranges and historic forts. Designed by Elizabeth Shurtleff and Helen McMillin, who studied at the Boston Museum School of Fine Arts and Wellesley College respectively, this map encourages visits to the island by promoting recreation and history.
 
 ##### Jeremiah Benjamin Post, [An Atlas of Fantasy](https://bpl.bibliocommons.com/v2/record/S75C4222483) (1973)
 
