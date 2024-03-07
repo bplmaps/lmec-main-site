@@ -20,19 +20,17 @@ tags:
 
 [This map](https://collections.leventhalmap.org/search/commonwealth:q524n429w) is published by one of the earliest female publishers/cartographers and shows military positions and lines of attack during the siege of Bouchain in 1711. Beeck was a prolific mapmaker, printer, and publisher in a time when women were rarely involved in these trades.
 
-##### Mary E. Johonnot, United States (1822)
+##### Mary E. Johonnot,[ United States](https://collections.leventhalmap.org/search/commonwealth:2z10wv35v) (1822)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2z10wv364/full/1200,/0/default.jpg" >}}
 
-A bit more dark and mysterious than we usually think modern fairy tales to be, [this fantasy map](https://collections.leventhalmap.org/search/commonwealth:xs55qj04r) is populated by figures from nursery rhymes, fairy tales and children's books circa the early 1900s. If you look closely, you can see Jack’s beanstalk reaching up to the sky, Little Red Riding Hood on her way to her grandmother’s, and Humpty Dumpty sitting very close to the edge of his wall…
+During the late 18th and early 19th century, it was common practice for American female students attending private academies to prepare maps of various parts of the world by copying maps from books or atlases. Most often, girls were taught by female instructors, who drew maps themselves to demonstrate geographic, artistic and design skills to their pupils. [This map](https://collections.leventhalmap.org/search/commonwealth:2z10wv35v) of the United States, drawn by Mary E. Johonnot of Boston, was most likely compiled in the 1820s as a school geography project, and was based on an earlier map as evidenced by the missing borders of Arkansas and Missouri.
 
-##### William Gropper, [William Gropper’s America, Its Folklore](https://collections.leventhalmap.org/search/commonwealth:7w62hz166) (1946)
+##### National Woman Suffrage Pub. Co., Inc., [Victory Map](https://collections.leventhalmap.org/search/commonwealth:x059cd797) (1918)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wp98c846g/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cd800/full/1200,/0/default.jpg" >}}
 
-Folklore consists of legends, music, oral history, proverbs, jokes, popular beliefs, fairy tales, and stories that exemplify some part of the traditions or beliefs held by a culture, subculture, or group. [This map](https://collections.leventhalmap.org/search/commonwealth:7w62hz166) specifically focuses on American folklore, of which some of the stories have been told since the European colonization of the Americas, and in some cases, even earlier. For a more detailed analysis of the map and cartographer, [check out this article](https://www.leventhalmap.org/articles/pictorial-maps-of-americana/).
-
-Try to spot Johnny Appleseed, John Henry, or Buffalo Bill!
+This [outline map](https://collections.leventhalmap.org/search/commonwealth:x059cd797) of the contiguous United States shows the status of woman suffrage in each state circa 1918, just 2 years before the 19th amendment granted women the right to vote. It’s important to note that while the 19th amendment was passed in 1920, many women were barred voting access until the Voting Rights Act of 1965. 
 
 ##### Ruth Stiles Gannett, [Map of the Island of Tangerina and Wild Island](https://collections.leventhalmap.org/search/commonwealth:3f463884f) (c1948; reproduction, 2014)
 
