@@ -17,7 +17,7 @@ tags:
 
 > We’re excited to have Yuzhe (Satoh) Feng as a part of the team as the Spring 2024 [co-op student](https://careers.northeastern.edu/cooperative-education/) serving as our Visitor Services & Exhibition Assistant. He is a student at Northeastern University studying Design. We sat down with Satoh to learn more about his interests and background.
 
-{{< figure src="/images/headshots/julia-williams.jpg" class="figure-left" caption="Julia Williams" >}}
+{{< figure src="https://www.leventhalmap.org/images/headshots/satoh-feng.jpg" class="figure-left" caption="Satoh Feng" >}}
 
 Satoh, welcome to the Leventhal Center! We’re excited to have you on the team. Tell us a bit about your background and what you’re studying at Northeastern.
 
@@ -39,7 +39,7 @@ It wasn't until university, after entering Northeastern, that I started travelin
 
 Moreover, what I find most interesting about looking at maps is comparing the old maps with the current ones. It's fascinating to see what changes have occurred in the details on these maps over the years.
 
-You’ll be spending lots of your day thinking about our public gallery. Right now, Getting Around Town is entering its fifth month in our gallery. Do you have any favorite parts of that exhibition so far?  
+You’ll be spending lots of your day thinking about our public gallery. Right now, Getting Around Town is entering its fifth month in our gallery. Do you have any favorite parts of that exhibition so far?
 
 I love the interaction in our gallery! I think that many museums and galleries have a lot of quality exhibits but rarely have an immersive experience for the visitors. After working in our gallery for two months, I think we do a really good job with our interactions! “[Atlascope](https://www.atlascope.org/)” allows visitors with a Boston address to see what their home looked like 100 years ago or more, and many of them are pleasantly surprised to see what it looked like before! In addition, we have voting, (especially the vote for the cartography challenge “[Transportation Dreams](https://www.leventhalmap.org/projects/cartography-challenge/transportation-dreams/)”. Visitors can participate in the exhibit, a drawing activity, and puzzle games. I think it's a great medium to combine common life activities with the theme of the exhibit to give visitors an amazing experience!
 
@@ -49,7 +49,7 @@ I love the interaction in our gallery! I think that many museums and galleries h
 
 My favorite map is of course the "Huntian Yitong Star Map". As a Chinese student, I think it's something I'm very proud of that my country's culture is being promoted in this way. As for the content, this map doesn't look like a functional map in the traditional sense, it's more like a piece of art and a collector's item. It's very pretty just to have on the wall because of the colors and the typography. Ancient Chinese consider a painting incomplete without poetry, and an article incomplete without accompanying pictures; they should complement each other. This allows these maps to be aesthetically pleasing while still being full of content. I think this also made a big impression on me - before this, I had been very resistant to using words to express my emotions and thought that paintings were a powerful tool on their own, and yes, they are, but the accompanying words allow me to express so much more. Secondly, I don't think I need to describe the colors of the map too much, as it’s going to be discussed in the new exhibit "Heaven and Earth", but the Prussian Blue of the maps is beautifully used.
 
-What are you most excited to start working on? 
+What are you most excited to start working on?
 
 I am really excited to look forward to contributing to any future projects, and hopefully to present historical narratives through my unique art style. I aspire to captivate the attention of visitors across different age groups by employing diverse styles of art and communication tailored to their interests. What excites me the most is the prospect of different artistic styles colliding, creating a dynamic and visually compelling experience.
 
