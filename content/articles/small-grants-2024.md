@@ -14,6 +14,8 @@ tags:
 ---
 
 > As part of the Leventhal Center's support for public geographic scholarship, we annually award a limited number of [small grants for digital publications](https://www.leventhalmap.org/research/digital-publication-small-grants/) to early career researchers and scholars. Throughout 2024, we will publish the outputs from their projects. Read on to learn more about this year's cohort of awardees!
+> 
+> We are currently accepting applications for the 2024-2025 round of small grants for early career digital publications. Please reach out to [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/) if you have any questions about the application.
 
 ### Ilana Bean
 
