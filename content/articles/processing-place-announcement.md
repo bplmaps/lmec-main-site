@@ -1,7 +1,7 @@
 ---
 draft: true
 title: 'Coming in September: Our exhibition on the rise of digital mapping'
-date: 2024-03-18T04:00:00.000Z
+date: 2024-03-20T04:00:00.000Z
 author: Ian Spangler and Emily Bowe
 description: >-
   Our forthcoming exhibition, *Processing Place*, explores how computers and
