@@ -14,7 +14,7 @@ tags:
   - exhibition
 ---
 
-### Counting trees
+### The computer, a cartographer
 
 How would you go about counting all of the trees in Copley Square?
 
@@ -22,17 +22,11 @@ It's not too hard to imagine doing this with a pen and paper. Between traversing
 
 But what if you were dealing with a bigger geographical unit, like the Arnold Arboretum? [Clocking in around 281 acres](https://arboretum.harvard.edu/about/our-history/) today, counting trees in the Arboretum poses a greater logistical challenge. It still isn't that hard to imagine *how* you'd accomplish this, but it's a lot more work; you'd want to recruit and train some tree counting assistants, subdivide the area into manageable zones, and set aside a weekend or two for the actual work.
 
-Counting trees isn't just a thought experiment: it has real-world implications for quality of life. Since 1899, trees have been considered a [public good in the Bay State](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter87), and every town must appoint a [tree warden](https://credo.library.umass.edu/view/full/murg145-i0011411) to enforce the preservation and maintenance of "public shade trees." At Arnold Arboretum, [researchers studied the effects of "false spring" on 480 tree and shrub species](https://arboretum.harvard.edu/stories/tempo-of-the-trees-in-a-warming-world/) to better undestand the ecological impacts of climate change.
+Counting trees isn't just a thought experiment: it has real-world implications for quality of life. Since 1899, trees have been considered a [public good in the Bay State](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter87), and every town must appoint a [tree warden](https://credo.library.umass.edu/view/full/murg145-i0011411) to enforce the preservation and maintenance of "public shade trees."
 
-{{<carousel>}}
-  {{<carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sx61h350t/4619,2257,2043,1352/full/0/default.jpg" >}}Part of a map of [trees in Copley Square](https://collections.leventhalmap.org/search/commonwealth:7d27c9239) (1987), from the Leventhal Center's collections. Numbered circles represent individual trees.{{</carousel-figure>}}
-  {{<carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f604/full/1200,/0/color.jpg">}}A [census of trees and shrubs in Arnold Arboretum](https://collections.leventhalmap.org/search/commonwealth:9s161f59c) ([1900]), from the Leventhal Center's collections.{{</carousel-figure>}}
-  {{<carousel-figure src="/images/blog/tree-equity.png">}}The national [Tree Equity Map](https://collections.leventhalmap.org/search/commonwealth:9s161f59c) ([1900]) by American Forests.{{</carousel-figure>}}
-{{</carousel>}}
+Pressing questions about environmental threats can also be derived by counting trees. At Arnold Arboretum, [researchers studied the effects of "false spring" on 480 tree and shrub species](https://arboretum.harvard.edu/stories/tempo-of-the-trees-in-a-warming-world/) to better undestand the ecological impacts of climate change.
 
-### The computer, a cartographer
-
-Eventually, if you keep counting trees, you'll arrive at a number that's too big for humans to comprehend.
+But eventually, if you keep counting, you'll arrive at a number that's too big for humans to comprehend.
 
 <aside>
 
@@ -41,6 +35,12 @@ How would you count all the trees in Copley Square? What about all of Boston? Th
 </aside>
 
 Even for a big team, counting all the trees in Boston would be a stretch. What about all the trees in Massachusetts, or the United States, or for that matter, all the trees in the world? At those geographic scales, people simply can't process it all. When data becomes too big for people to comprehend, we turn to computers for help---which is precisely how organizations like [Speak for the Trees, Boston](https://treeboston.org/) made their series of [tree equity maps](https://treeboston.org/tree-equity-maps/), which visualize the relationships between tree canopy, urban heat, and other social and environmental factors (American Forest has made a version with [national coverage](https://www.treeequityscore.org/map#8.49/42.3446/-71.4349)).
+
+{{<carousel>}}
+  {{<carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sx61h350t/4619,2257,2043,1352/full/0/default.jpg" >}}Part of a map of [trees in Copley Square](https://collections.leventhalmap.org/search/commonwealth:7d27c9239) (1987), from the Leventhal Center's collections. Numbered circles represent individual trees.{{</carousel-figure>}}
+  {{<carousel-figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f604/full/1200,/0/color.jpg">}}A [census of trees and shrubs in Arnold Arboretum](https://collections.leventhalmap.org/search/commonwealth:9s161f59c) ([1900]), from the Leventhal Center's collections.{{</carousel-figure>}}
+  {{<carousel-figure src="/images/blog/tree-equity.png">}}The national [Tree Equity Map](https://collections.leventhalmap.org/search/commonwealth:9s161f59c) ([1900]) by American Forests.{{</carousel-figure>}}
+{{</carousel>}}
 
 It's hard to say exactly when people started making maps with computers, but by the 1960s, post-war experiments with new computing technologies had made it possible to create more maps, more efficiently and less expensively, than ever before. The earliest of these experiments would be undertaken at Harvard's Laboratory for Computer Graphics and Spatial Analysis (LCGSA), where graduate students [keyed data into punch cards](https://www.digitalcommonwealth.org/search/commonwealth-oai:vm4192645) and [produced maps using typewriters](https://www.harrisoncarto.com/symapbox), sometimes for fun and others for [nationally-syndicated newspapers](https://thereader.mitpress.mit.edu/the-computer-misfits-the-rise-and-fall-of-the-pioneering-laboratory-for-computer-graphics/). Then, through the 1970s and 1980s, geospatial computation became a more urgent task for states and federal governments, as new waves of legislation demanded answers to questions that could not easily---and in many cases could not *feasibly*---be measured without the aid of digital computers.
 
@@ -68,11 +68,13 @@ In recent years, the [Leventhal Center has made efforts](https://www.leventhalma
 
 A 1988 map detailing from the Weaver Papers highlights this well. Produced as part of an effort between the [Executive Office of Environmental Affairs](https://www.mass.gov/orgs/executive-office-of-elder-affairs) and future founding members of [MassGIS](https://www.mass.gov/info-details/about-massgis) and AppGeo, the map provides a risk assessment for select wetlands in advance of the 1992 [Massachusetts Watershed Protection Act (WsPA)](https://www.mass.gov/info-details/watershed-protection-act). Focusing on the towns of Sterling and West Boylston, the authors use a [buffer tool](https://gisgeography.com/buffer-tool-gis/)---a classic geoprocessing function---to determine the total area of both protected *and* unprotected open space within 200 and 400 feet buffer zones of Wachusett Reservoir tributaries.
 
-{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:df660n28c/full/1200,/0/default.jpg" caption="[Wachusett reservoir buffers map from MassGIS](https://collections.leventhalmap.org/search/commonwealth:cr56sd116)" class="figure-center">}}
-
 {{ Photo of David and Mike in cage }}
 
-While the map gives us a snapshot in time of two Massachusetts towns and their land use practices, even with a legend, it's not particularly easy to read. That doesn't mean it's bad; in fact, it might not even be a map that we're meant to "read" at all. Indeed, what is particularly important about this cartographic object are the statistical summaries that accompany each town on the right-hand side: {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:df660n28c/7429,1911,3659,2534/1200,/0/default.jpg" bib-src="https://collections.leventhalmap.org/search/commonwealth:cr56sd116">}}“Percent of both buffers that remains to be Protected.”{{</popup>}}That number---a value describing the percentage of land near tributaries that has yet to be designated as [legally protected](https://www.mass.gov/info-details/massgis-data-protected-and-recreational-openspace)---is the *real* takeaway here. The legal protections that the number helped inform are still enforced today, in the form of the Watershed Protection Act, which "regulates land use and activities to protect the drinking water supply of over 3 million people."
+While the map gives us a snapshot in time of two Massachusetts towns and their land use practices, even with a legend, it's not particularly easy to read. That doesn't mean it's bad; in fact, it might not even be a map that we're meant to "read" at all. Indeed, what is particularly important about this cartographic object are the statistical summaries that accompany each town on the right-hand side: {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:df660n28c/7429,1911,3659,2534/1200,/0/default.jpg" bib-src="https://collections.leventhalmap.org/search/commonwealth:cr56sd116">}}“Percent of both buffers that remains to be Protected.”{{</popup>}}
+
+{{<figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:df660n28c/full/1200,/0/default.jpg" caption="[Wachusett reservoir buffers map](https://collections.leventhalmap.org/search/commonwealth:cr56sd116) from MassGIS (1988), from the Weaver Papers." class="figure-right">}}
+
+That number---a value describing the percentage of land near tributaries that has yet to be designated as [legally protected](https://www.mass.gov/info-details/massgis-data-protected-and-recreational-openspace)---is the *real* takeaway here. The legal protections that the number helped inform are still enforced today, in the form of the Watershed Protection Act, which "regulates land use and activities to protect the drinking water supply of over 3 million people."
 
 For a long time, maps were regarded as databases in their own right. [Urban tax and fire insurance atlases](https://guides.bpl.org/urban-atlases) are a fine example of that: they stored precious information and provided instructions for how users could query it. Placed in its context, it's clear that this buffer map of Wachusett tributaries is something different, less a database and more an artifact of spatial statistics. The map is just evidence that the number is real.
 
