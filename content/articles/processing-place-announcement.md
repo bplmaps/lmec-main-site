@@ -22,11 +22,11 @@ It's not too hard to imagine doing this with a pen and paper. Between traversing
 
 But what if you were dealing with a bigger geographical unit, like the Arnold Arboretum? [Clocking in around 281 acres](https://arboretum.harvard.edu/about/our-history/) today, counting trees in the Arboretum poses a greater logistical challenge. It still isn't that hard to imagine *how* you'd accomplish this, but it's a lot more work; you'd want to recruit and train some tree counting assistants, subdivide the area into manageable zones, and set aside a weekend or two for the actual work.
 
-Counting trees isn't just a thought experiment: it has real-world implications for quality of life. Since 1899, trees have been considered a [public good in the Bay State](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter87), and every town must appoint a [tree warden](https://credo.library.umass.edu/view/full/murg145-i0011411) to enforce the preservation and maintenance of "public shade trees."
+Counting trees isn't just a thought experiment: it has real-world implications for everyday quality of life. Since 1899, trees have been considered a [public good in the Bay State](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter87), and every town must appoint a [tree warden](https://credo.library.umass.edu/view/full/murg145-i0011411) to enforce the preservation and maintenance of "public shade trees."
 
 Pressing questions about environmental threats can also be derived by counting trees. At Arnold Arboretum, [researchers studied the effects of "false spring" on 480 tree and shrub species](https://arboretum.harvard.edu/stories/tempo-of-the-trees-in-a-warming-world/) to better undestand the ecological impacts of climate change.
 
-But eventually, if you keep counting, you'll arrive at a number that's too big for humans to comprehend.
+This is all well and good---but eventually, if you keep counting, you'll arrive at a number that's too big for humans to comprehend.
 
 <aside>
 
