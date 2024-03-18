@@ -18,7 +18,7 @@ Boston's first Arabic-speaking community was made up of immigrants from Ottoman-
 
 {{<figure src="https://bostonlittlesyria.org/wp-content/uploads/2023/10/MHS-exhibition-photo-8-1024x576.jpeg" class="figure-right">}}
 
-{{<figure src="https://bostonlittlesyria.org/wp-content/uploads/2023/10/MHS-exhibition-photo-3-4-1024x577.jpg" caption="Photo from a 2023 exhibition at Massachusetts Historical Society on Boston's Little Syria." class="figure-right">}}
+{{<figure src="https://bostonlittlesyria.org/wp-content/uploads/2023/10/MHS-exhibition-photo-3-4-1024x577.jpg" caption="Photos from a [2023 exhibition](https://bostonlittlesyria.org/exhibit/) at Massachusetts Historical Society on Boston's Little Syria." class="figure-right">}}
 
 Today, few visible traces of this neighborhood remain. The [Boston Little Syria Project](https://bostonlittlesyria.org) has sought to document its history in collaboration with former residents and their descendants, demonstrating the longstanding presence of Americans of Arab origin in and around Boston and their contributions to communal life here.
 
