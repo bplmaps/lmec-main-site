@@ -18,12 +18,12 @@ The grant consists of an **stipend of $1,200** to support research and developme
 
 The Leventhal Map & Education Center has produced numerous scholarly digital publications in a number of formats. By way of example, see:
 
-* [*Unique Perspectives on Kyoto*](https://www.leventhalmap.org/articles/kyoto-perspectives/), by Richard Pegg — a digital essay in a traditional format consisting of text illustrated with zoomable digital images
-* [*Negotiating the Shoreline*](https://www.leventhalmap.org/articles/humphries-boston-harbor/), by Courtney Humphries — an annotated tour through a single map, produced using the LMEC-created Panel Truck interface
+* [*Mapping Black Cambridge: 1790-1820*](https://www.leventhalmap.org/articles/mapping-black-cambridge/), by Joan Brunetta and Eve Loftus---a short essay and accompanying web map
+* [*John Winthrop's "City on a Hill," Mapped*](https://www.leventhalmap.org/articles/braccio-winthrop-map/), by Nathan Braccio---an annotated tour through a single map, produced using the LMEC-created [Panel Truck interface](https://cartinal.leventhalmap.org/documentation/panel-truck.html)
 * [*City and Country in the Trolley Decades*](https://geoservices.leventhalmap.org/movie-maps/#trolley-wayfinder), by Garrett Dash Nelson — a video talk coupled with a zoomable map controlled by keyframes in the video, produced using the LMEC-created Moviemaps interface
-* [*Howdy, Realtors!*](https://www.leventhalmap.org/articles/howdy-realtors/), by Ian Spangler — a textual essay containing numerous zoom-in embeds
-* [*More or Less in Common*](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/), by the LMEC staff — a digital exhibition portal created as a companion to our physical exhibition
-* [*Neighbors in Name Only*](https://commonwealthmagazine.org/news-analysis/stark-differences-make-many-mass-communities-neighbors-in-name-only/), by Garrett Dash Nelson and published in _CommonWealth_ — a geographic data visualization coupled with a journalistic essay
+* [*Mapping Renewal, Engaging Residents*](https://www.leventhalmap.org/articles/mapping-renewal-engaging-residents/), by Claire Dunning-—-a textual essay containing numerous images and zoom-in embeds from [Digital Commonwealth](https://digitalcommonwealth.org) and [LMEC collections](https://collections.leventhalmap.org)
+* [*Section 112 in the Boston Region: Universities, Hospitals, and Urban Renewal*](https://www.leventhalmap.org/articles/section-112-in-the-boston-region-universities-hospitals-and-urban-renewal/), by Julian Hartman-—-a textual essay coupled with an interactive web map
+* [*Neighbors in Name Only*](https://commonwealthmagazine.org/news-analysis/stark-differences-make-many-mass-communities-neighbors-in-name-only/), by Garrett Dash Nelson and published in _CommonWealth_-—-a geographic data visualization coupled with a journalistic essay
 
 This grant program supports emerging scholars who seek to make their own work accessible, engaging, and interactive through similar digital publications. Any work related to topics in geography, maps, history, and the humanistic spatial social sciences is eligible for consideration under this grant, though we will prioritize projects of the following kind:
 
