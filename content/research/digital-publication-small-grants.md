@@ -4,8 +4,9 @@ menu: false
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg
 
 ---
-{{< alert-box type="danger" title="Applications closed" >}} Applications for 2023-2024 are now closed. Stay up to date with our Small Grants program by subscribing to the [LMEC Newsletter](https://leventhalmap.org/subscribe).{{< /alert-box >}}
+<!-- {{< alert-box type="danger" title="Applications closed" >}} Applications for 2023-2024 are now closed. Stay up to date with our Small Grants program by subscribing to the [LMEC Newsletter](https://leventhalmap.org/subscribe).{{< /alert-box >}} -->
 
+{{< alert-box type="success" title="Applications open" >}}Applications for the 2024-2025 cycle of Small Grants are open through May 18 at 5pm ET. [Apply below](#to-apply)!{{< /alert-box >}}
 
 #### Are you working on a scholarly project that would come alive for the public through an interactive digital publication?
 
@@ -52,13 +53,13 @@ Grants are available to all scholars regardless of citizenship; however, if the 
 
 #### To Apply
 
-<!-- <a class="btn btn-outline-primary btn-large" href="https://airtable.com/shrmv71WecG55swn7">Apply to LMEC's Small Grants Program</a> -->
+<a class="btn btn-outline-primary btn-large" href="https://tally.so/r/wb7lM6">Apply to LMEC's Small Grants Program</a>
 
-An application consists of the following material submitted by **Thursday, May 18, 2023 at 5pm ET**:
+An application consists of the following material submitted by **Thursday, May 18, 2024 at 5pm ET**:
 
 * A pitch of no more than 500 words describing the proposed publication, including (a) major scholarly themes and (b) expected insights for a general audience readership
 * A description of no more than 300 words of the technical format and modality of the intended digital publication, including an evaluation of the technical support which will be needed for publication
 * (Optional) Links to 1-3 models of already completed digital publications, by any creator and in any format, which could serve as templates for the project
-* A full CV; PDF or Markdown
+* A full CV uploaded as PDF
 
-Successful applicants will be notified by **June 18, 2023**.
+Successful applicants will be notified by **June 18, 2024**.
