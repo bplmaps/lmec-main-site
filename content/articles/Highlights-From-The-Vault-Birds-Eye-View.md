@@ -49,9 +49,3 @@ Depicting the Siege of Paris, which took part during the Franco-Prussian War, [t
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp778/full/1200,/0/default.jpg" class="" >}}
 
 In[ this birds-eye view](https://collections.leventhalmap.org/search/commonwealth:0r96fp760) of the park, the viewer observes from the junction of 59th St. and 5th Ave.  Printed six years after work on the park began, it would undergo another 12 years of construction before its completion in 1876. Its previous location in view, Seneca Village was a middle-class settlement of freed African Americans (the first of its kind in the city) that was forcibly seized by the City of New York in order to create Central Park. Though magnificent in its scope even a third of the way through it’s construction, it’s necessary to remember what it took to build the park and who was mandated to provide it.   
-
-##### Linda Loubert, PhD; Morgan State University, [Making History – GIS and Women](https://arcg.is/1Cj1zj) (2014) 
-
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (32).png" >}}
-
-In her work as professor of economics at Morgan State University, Linda Loubert teaches GIS to her students, using the technology in her classroom and in most of her research projects. In 2014 Dr. Loubert built a [crowdsourced web map](https://arcg.is/1Cj1zj) to “recognize women for the role they play in GIS.” This digital project asked women to contribute their professional affiliation and location to the web map, in an effort to visually document 10,000 women currently working in the GIS field around the globe. Female GIS professionals can still contribute to the online map.
