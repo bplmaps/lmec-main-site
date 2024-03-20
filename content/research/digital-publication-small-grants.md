@@ -6,7 +6,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4633
 ---
 <!-- {{< alert-box type="danger" title="Applications closed" >}} Applications for 2023-2024 are now closed. Stay up to date with our Small Grants program by subscribing to the [LMEC Newsletter](https://leventhalmap.org/subscribe).{{< /alert-box >}} -->
 
-{{< alert-box type="success" title="Applications open" >}}Applications for the 2024-2025 cycle of Small Grants are open through May 18 at 5pm ET. [Apply below](#to-apply)!{{< /alert-box >}}
+{{< alert-box type="success" title="Applications open" >}}Applications for the 2024-2025 cycle of Small Grants are open through Monday, May 20 at 5pm ET. [Apply below](#to-apply)!{{< /alert-box >}}
 
 #### Are you working on a scholarly project that would come alive for the public through an interactive digital publication?
 
@@ -32,7 +32,7 @@ This grant program supports emerging scholars who seek to make their own work ac
 
 Successful applicants will receive a stipend of $1,200, to be disbursed individually to the project's primary author in two parts, at the beginning of the project and after the completion of publication. Additionally, successful applicants will receive a commitment of research collaboration as well as technical development from LMEC staff, beginning with the project's initial roughing-out stage and continuing through to publication. Technical assistance can include the coding and design needed to produce a publication in one of the formats described in the examples above, or limited assistance in creating another digital modality of the author's design. Grantees should not, however, expect LMEC staff to support entirely bespoke design and coding process for a one-off publication modality. 
 
-Grantees will be asked to give a 30 minute presentation to the entire LMEC staff roughly midway through the completion of their project. Additionally, before August 30, 2024, grantees will be expected to produce a 3-5 minute project pitch designed to introduce the project to a wider, non-academic public audience, to be archived on the Center's YouTube page.
+Grantees will be asked to give a **20-30 minute presentation** to the LMEC staff roughly midway through the completion of their project. Additionally, before August 30, 2025, grantees will be expected to produce a 3-5 minute project pitch designed to introduce the project to a wider, non-academic public audience, to be archived on the Center's YouTube page.
 
 This grant has **no in-person requirement** and grants may be issued to individuals who have no plans to travel to Boston during the project period. For those who do wish to work with the Center's physical collections, priority access to the reading room will be provided.
 
@@ -55,11 +55,11 @@ Grants are available to all scholars regardless of citizenship; however, if the 
 
 <a class="btn btn-outline-primary btn-large" href="https://tally.so/r/wb7lM6">Apply to LMEC's Small Grants Program</a>
 
-An application consists of the following material submitted by **Thursday, May 18, 2024 at 5pm ET**:
+An application consists of the following material submitted by **Monday, May 20, 2024 at 5pm ET**:
 
 * A pitch of no more than 500 words describing the proposed publication, including (a) major scholarly themes and (b) expected insights for a general audience readership
 * A description of no more than 300 words of the technical format and modality of the intended digital publication, including an evaluation of the technical support which will be needed for publication
 * (Optional) Links to 1-3 models of already completed digital publications, by any creator and in any format, which could serve as templates for the project
 * A full CV uploaded as PDF
 
-Successful applicants will be notified by **June 18, 2024**.
+Successful applicants will be notified by **June 20, 2024**.
