@@ -5,9 +5,15 @@ title: Summer Internships 2024
 backgroundImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 ---
 
-{{< alert-box type="success" title="Apply " >}}
+<!-- {{< alert-box type="success" title="Apply " >}}
 
 Applications for our Summer 2024 internships are **open** until 3pm on Wednesday, March 20, 2024. [Apply below](#apply)!
+
+{{</ alert-box >}} -->
+
+{{< alert-box type="danger" title="Apply " >}}
+
+Applications for our Summer 2024 internships are now closed.
 
 {{</ alert-box >}}
 
@@ -51,4 +57,4 @@ Applications are due by **March 20, 2023 at 3:00pm ET**. To apply, submit:
 * A letter of interest, no longer than 1 single-spaced page
 * A resume or CV
 
-<a href="https://tally.so/r/wk6eYe" class="btn btn-primary-outline">Submit an application online</a>
+<!-- <a href="https://tally.so/r/wk6eYe" class="btn btn-primary-outline">Submit an application online</a> -->
