@@ -32,11 +32,11 @@ Although entitled a bird’s-eye view, this colorful presentation provides a fis
 
 Depicting a spectacular view of the Panama Canal, [this map](https://collections.leventhalmap.org/search/commonwealth:9s1619499) would have been of very high interest at the time. Created by National Geographic in 1912, the Panama Canal was not yet completed (construction finished in 1914). At this point in time, the only other route between the Atlantic and Pacific oceans was to sail around South America or use the Panama Railroad to transfer goods and people from one ocean to another. Both of these options were incredibly time consuming, if not outright treacherous, and many people were eager to see any progress being made on the canal. 
 
-##### Elizabeth Shurtleff and Helen F. McMillin, [A Map of the Bermuda Islands](https://collections.leventhalmap.org/search/commonwealth:3f463854q) (1930)
+##### [Panoramic view of the Gettysburg battlefield](https://collections.leventhalmap.org/search/commonwealth:xg94j201t) (1866)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4638550/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:xg94j2023/full/1200,/0/default.jpg" class="" >}}
 
-Women were very active in the production of pictorial maps in the early 20th century. These whimsical maps frequently focused on travel and tourism. Bordered by a ribbon of ocean creatures, [this 1930 map](https://collections.leventhalmap.org/search/commonwealth:3f463854q) of Bermuda illustrates various methods of transportation from horse-drawn carriages to pirate ships and airplanes. On shore, tourism reigns with beaches, golf courses, tennis courts, shooting ranges and historic forts. Designed by Elizabeth Shurtleff and Helen McMillin, who studied at the Boston Museum School of Fine Arts and Wellesley College respectively, this map encourages visits to the island by promoting recreation and history.
+The three-day battle that occurred at Gettysburg, July 1-3, 1863, is considered the turning point of the War. Our memory of the war’s most significant battle is reinforced by approximately 150 maps that have been published in the years following the conflict, far more than any other battle. One of the most unusual is this [untitled and undated diagram](https://collections.leventhalmap.org/search/commonwealth:xg94j201t) that provides an unconventional fish-eye or 360-degree panoramic view of the battlefield. In the center of this circular, pictorial diagram is a numbered legend identifying 57 landmarks, locations of specific regiments, or sites of selected casualties.
 
 ##### Marie Tharp and Bruce Heezen, [Physiographic Diagram of the Western Pacific Ocean](https://bpl.bibliocommons.com/v2/record/S75C4730543) (1971)
 
