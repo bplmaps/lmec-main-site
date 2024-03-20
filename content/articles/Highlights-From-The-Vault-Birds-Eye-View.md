@@ -42,13 +42,13 @@ The three-day battle that occurred at Gettysburg, July 1-3, 1863, is considered 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161924f/full/1200,/0/default.jpg" >}}
 
-Depicting the Siege of Paris, which took part during the Franco-Prussian War, [this map](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161924f/full/1200,/0/default.jpg) was created shortly after the French surrendered the city. Lead by the Germans, the siege lasted more than four months and cut off from supplies from the countryside, leading the Parisians to eventually begin eating dogs, cats, and even most of the animals in the Paris zoo by the siege’s end. Included in Harper’s Weekly, an American general interest magazine, the American public would have been incredibly interested in seeing what the landscape of Paris looked like during the war.  
+Depicting the Siege of Paris, which took part during the Franco-Prussian War, [this map](https://collections.leventhalmap.org/search/commonwealth:9s1619235) was created shortly after the French surrendered the city. Lead by the Germans, the siege lasted more than four months and cut off from supplies from the countryside, leading the Parisians to eventually begin eating dogs, cats, and even most of the animals in the Paris zoo by the siege’s end. Included in Harper’s Weekly, an American general interest magazine, the American public would have been incredibly interested in seeing what the landscape of Paris looked like during the war.  
 
-##### Valerie S. Goodwin, [City Grid IV](https://bpl.bibliocommons.com/v2/record/S75C5709931) (2007, Reproduction, 2015)
+##### H. Geissler, [Martel's New York Central Park : respectfully dedicated to the park commissioners](https://collections.leventhalmap.org/search/commonwealth:0r96fp760) (1864)
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (31).png" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp778/full/1200,/0/default.jpg" class="" >}}
 
-As an architect and artist, Valerie Goodwin creates quilts inspired by building and urban design, and maps of real and imaginary places. She has used maps since her youth, and remembers that as a child she was fond of them and their visual representations. Goodwin uses color dramatically in her work, and emphasizes line and density by layering fabric. [City Grid IV](https://bpl.bibliocommons.com/v2/record/S75C5709931) is an art quilt that focuses on the organization of an imaginary place. Goodwin experiments with two points of view in this quilt – one from above, and another from the side.
+In[ this birds-eye view](https://collections.leventhalmap.org/search/commonwealth:0r96fp760) of the park, the viewer observes from the junction of 59th St. and 5th Ave.  Printed six years after work on the park began, it would undergo another 12 years of construction before its completion in 1876. Its previous location in view, Seneca Village was a middle-class settlement of freed African Americans (the first of its kind in the city) that was forcibly seized by the City of New York in order to create Central Park. Though magnificent in its scope even a third of the way through it’s construction, it’s necessary to remember what it took to build the park and who was mandated to provide it.   
 
 ##### Linda Loubert, PhD; Morgan State University, [Making History – GIS and Women](https://arcg.is/1Cj1zj) (2014) 
 
