@@ -38,11 +38,11 @@ Depicting a spectacular view of the Panama Canal, [this map](https://collections
 
 The three-day battle that occurred at Gettysburg, July 1-3, 1863, is considered the turning point of the War. Our memory of the war’s most significant battle is reinforced by approximately 150 maps that have been published in the years following the conflict, far more than any other battle. One of the most unusual is this [untitled and undated diagram](https://collections.leventhalmap.org/search/commonwealth:xg94j201t) that provides an unconventional fish-eye or 360-degree panoramic view of the battlefield. In the center of this circular, pictorial diagram is a numbered legend identifying 57 landmarks, locations of specific regiments, or sites of selected casualties.
 
-##### Marie Tharp and Bruce Heezen, [Physiographic Diagram of the Western Pacific Ocean](https://bpl.bibliocommons.com/v2/record/S75C4730543) (1971)
+##### New York : Harper & Brothers, [Pictorial map of the city of Paris and its environs, showing the principal buildings, monuments, parks etc., the French fortifications, and the Prussian lines of investment](https://collections.leventhalmap.org/search/commonwealth:9s1619235) (1871)
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (30).png" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161924f/full/1200,/0/default.jpg" >}}
 
-Oceanographic cartographer and geologist Marie Tharp, along with her research partner Bruce Heezen, created [the first map](https://bpl.bibliocommons.com/v2/record/S75C4730543) of the entire ocean floor. Heezen was credited solely for their work for years, and only later on did Tharp gain her rightful place in the cartographic world (though Tharp credited as a contributor in the BPL catalog). Early editions of ocean floor mapping feature an informal sketch style, while later final editions were sophisticated physical maps with color and shading, applied to reveal the dramatic mid-ocean canyons highlighting the continental divisions of the globe. Numbers on the map indicate depth of the ocean floor and elevations of individual undersea mountains.
+Depicting the Siege of Paris, which took part during the Franco-Prussian War, [this map](https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161924f/full/1200,/0/default.jpg) was created shortly after the French surrendered the city. Lead by the Germans, the siege lasted more than four months and cut off from supplies from the countryside, leading the Parisians to eventually begin eating dogs, cats, and even most of the animals in the Paris zoo by the siege’s end. Included in Harper’s Weekly, an American general interest magazine, the American public would have been incredibly interested in seeing what the landscape of Paris looked like during the war.  
 
 ##### Valerie S. Goodwin, [City Grid IV](https://bpl.bibliocommons.com/v2/record/S75C5709931) (2007, Reproduction, 2015)
 
