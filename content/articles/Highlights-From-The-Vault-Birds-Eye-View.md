@@ -12,7 +12,7 @@ tags:
   - from the vault
 ---
 
-> On March 15, we hosted From The Vault: Bird's Eye View! From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. Panoramic maps, also known as bird’s eye view maps, were a popular cartographic form used primarily by U.S. cities and towns during the late nineteenth and early twentieth centuries. Although not generally drawn to scale like a more “traditional” map, they show street patterns, individual buildings, and major landscape features from a raised perspective - resembling what a bird might see if it was flying over the area. 
+> On March 15, we hosted From The Vault: Bird's Eye View! From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. Panoramic maps, also known as bird’s eye view maps, were a popular cartographic form used primarily by U.S. cities and towns during the late nineteenth and early twentieth centuries. Although not generally drawn to scale like a more “traditional” map, they show street patterns, individual buildings, and major landscape features from a raised perspective - resembling what a bird might see if it was flying over the area.
 
 ##### John Bachmann, [Bird's eye view of Boston](https://collections.leventhalmap.org/search/commonwealth:9g54xk528) (1850)
 
@@ -26,11 +26,11 @@ Offering a unique perspective of Boston, [this map](https://collections.leventha
 
 Although entitled a bird’s-eye view, this colorful presentation provides a fish-eye or 360-degree panoramic perspective. It distorts the topography of Mount Washington from a single vantage point directly above the mountain. The mountain’s summit, with accurately delineated buildings and the approaching road and railroad, is the central focus. Everything else is distorted. The surrounding mountains appear in the distance as non-distinctive colored hills, but each is numbered and identified in corresponding lists in the map’s four corners. Published by the Boston and Maine Railroad, [this artistic piece](https://collections.leventhalmap.org/search/commonwealth:wd3763140) would certainly appeal to tourists visiting New England’s tallest landmark.
 
-##### National Woman Suffrage Pub. Co., Inc., [Victory Map](https://collections.leventhalmap.org/search/commonwealth:x059cd797) (1918)
+##### National Geographic Society, [Bird's-eye view of the Panama Canal](https://collections.leventhalmap.org/search/commonwealth:9s1619499) (1912)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cd800/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s1619502/full/1200,/0/default.jpg" >}}
 
-This [outline map](https://collections.leventhalmap.org/search/commonwealth:x059cd797) of the contiguous United States shows the status of woman suffrage in each state circa 1918, just 2 years before the 19th amendment granted women the right to vote. It’s important to note that while the 19th amendment was passed in 1920, many women were barred voting access until the Voting Rights Act of 1965.
+Depicting a spectacular view of the Panama Canal, [this map](https://collections.leventhalmap.org/search/commonwealth:9s1619499) would have been of very high interest at the time. Created by National Geographic in 1912, the Panama Canal was not yet completed (construction finished in 1914). At this point in time, the only other route between the Atlantic and Pacific oceans was to sail around South America or use the Panama Railroad to transfer goods and people from one ocean to another. Both of these options were incredibly time consuming, if not outright treacherous, and many people were eager to see any progress being made on the canal. 
 
 ##### Elizabeth Shurtleff and Helen F. McMillin, [A Map of the Bermuda Islands](https://collections.leventhalmap.org/search/commonwealth:3f463854q) (1930)
 
