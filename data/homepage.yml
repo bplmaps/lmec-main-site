@@ -57,11 +57,12 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: 'Join LMEC: Positions Open!'
+    - badge: 'Small Grants 2024-2025: Open!'
       text: >-
-        Apply by March 25 to join our Education Team as an _Experiential
-        Learning & Programs Educator_ or a _Learning Resource Specialist_
-      link: 'https://www.leventhalmap.org/about/jobs/'
+        Are you an early career scholar all topics related to geography, maps,
+        history, and the humanistic spatial social sciences? Apply by May 20 for
+        consideration
+      link: 'https://www.leventhalmap.org/research/digital-publication-small-grants/'
 audiences:
   enable: true
   audienceGroups:
