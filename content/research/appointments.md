@@ -15,7 +15,7 @@ Non-Massachusetts residents can apply for a research card for the purpose of usi
 
 #### Requests to View Materials
 
-The Reading Room is open Wednesday-Friday 9:30 am-4:30 pm. Appointments are required in order to view materials in the reading room. As a standard, appointments require two days advance booking, though special accommodations can occasionally be granted.
+The Reading Room is open Tuesday-Friday 10:00 am-4:15 pm. Appointments are required in order to view materials in the reading room. As a standard, appointments require two days advance booking, though special accommodations can occasionally be granted.
 
 Requests for materials and appointment scheduling is conducted through the online [Aeon system](https://readingroom.bpl.org/). You will need to register for an Aeon account (which is distinct from a BPL catalog library card account) online, and at your first visit you will need to validate your registration by showing your library research card.
 
