@@ -4,7 +4,6 @@ menu: false
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463366g/1292,3248,8404,3417/1200,/0/default.jpg
 
 ---
-<!-- {{< alert-box type="danger" title="Applications closed" >}} Applications for 2023-2024 are now closed. Stay up to date with our Small Grants program by subscribing to the [LMEC Newsletter](https://leventhalmap.org/subscribe).{{< /alert-box >}} -->
 
 {{< alert-box type="success" title="Applications open" >}}Applications for the 2024-2025 cycle of Small Grants are open through Monday, May 20 at 5pm ET. [Apply below](#to-apply)!{{< /alert-box >}}
 
