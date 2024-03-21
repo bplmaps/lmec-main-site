@@ -26,7 +26,7 @@ Although it is not required, please consider wearing a face covering while insid
 
 #### Research Hours
 
-_Available by advance appointment Wednesday-Friday 9:30 am-4:30 pm._ In-person access to the Special Collections Reading Room is available by advance appointment only. Bookings should be made at least 2 days in advance to provide time for paging items for use. Please see our [Research Appointments](/research/appointments/) page for more information and to make an appointment online.
+_Available by advance appointment Tuesday-Friday 10:00 am-4:15 pm._ In-person access to the Rare Maps Reading Room is available by advance appointment only. Bookings should be made at least 2 days in advance to provide time for paging items for use. Please see our [Research Appointments](/research/appointments/) page for more information and to make an appointment online.
 
 #### BPL Hours
 
