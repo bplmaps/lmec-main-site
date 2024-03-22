@@ -57,11 +57,11 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: 'Small Grants 2024-2025: Open!'
+    - badge: 'Grant Opportunity'
       text: >-
         Are you an early career scholar interested in topics related to
         geography, maps, history, or the humanistic spatial social sciences?
-        Apply by May 20 for consideration!
+        Apply by May 20 for the Small Grants for Early Career Digital Publications program.
       link: 'https://www.leventhalmap.org/research/digital-publication-small-grants/'
 audiences:
   enable: true
