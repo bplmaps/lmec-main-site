@@ -1,7 +1,7 @@
 ---
 draft: true
 title: Boston's Little Syria
-date: 2024-04-03T04:00:00.000Z
+date: 2024-03-28T04:00:00.000Z
 author: Chloe Bordewich and Lydia Harrington
 description: Explore the city's first Arabic-speaking neighborhood
 image: >-
