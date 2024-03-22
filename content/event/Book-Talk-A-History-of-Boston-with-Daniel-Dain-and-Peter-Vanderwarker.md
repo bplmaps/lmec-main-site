@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Book Talk: A History of Boston with Daniel Dain and Peter Vanderwarker'
 date: 2024-05-29T22:00:00.000Z
 publishDate: 2024-03-11T04:00:00.000Z
