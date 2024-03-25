@@ -1,7 +1,7 @@
 ---
 draft: false
 title: >-
-  Routes Ahead of Us: A Conversation with Dan Rosengard on School Transportation
+  POSTPONED ⚠️ Routes Ahead of Us: A Conversation with Dan Rosengard on School Transportation
 date: 2024-03-26T18:00:00-04:00
 publishDate: 2024-01-10T18:00:00-05:00
 image: >-
@@ -15,6 +15,12 @@ tags:
   - exhibition
 registration: "https://bplmaps.ticketleap.com/routes-ahead-of-us-a-conversation-rosengard/"
 ---
+
+{{< alert-box title="Event postponed" type="danger" >}}
+
+This event has been postponed due to illness. Please check back soon for a rescheduled date.
+
+{{</ alert-box >}}
 
 ### About this event
 
