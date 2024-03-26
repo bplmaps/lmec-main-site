@@ -4,8 +4,10 @@ title: 'Highlights From The Vault: Literary Landscapes'
 date: 2024-02-28T20:00:00.000Z
 author: Julia Williams
 description: 'Check out these highlights from February''s From The Vault: Literary Landscapes'
-image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (7).png'
-backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (7).png'
+image: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wp98c846g/full/1200,/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wp98c846g/full/1200,/0/default.jpg
 tags:
   - from the vault
 ---
