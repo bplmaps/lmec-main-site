@@ -3,16 +3,16 @@ draft: false
 title: 'Highlights From The Vault: Women in Cartography'
 date: 2024-03-06T20:00:00.000Z
 author: Julia Williams
-description: >-
-  Check out these highlights from February's From The Vault: Women in
-  Cartography
-image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (30).png'
-backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (30).png'
+description: 'Check out these highlights from March''s From The Vault: Women in Cartography'
+image: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled%20%2831%29.png
+backgroundImage: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled%20%2831%29.png
 tags:
   - from the vault
 ---
 
-> On March 1, we hosted [From The Vault: Women in Cartography](https://www.leventhalmap.org/event/ftv-2024-03-01-women-in-cartography/)! From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. For this edition of the series, we took a closer look at maps related to women’s history and works from women cartographers throughout time. As leaders in the world of Geographic Information Systems (GIS), women are active in all aspects of cartography today and it’s incredibly important to recognize their contributions to the field. 
+> On March 1, we hosted [From The Vault: Women in Cartography](https://www.leventhalmap.org/event/ftv-2024-03-01-women-in-cartography/)! From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. For this edition of the series, we took a closer look at maps related to women’s history and works from women cartographers throughout time. As leaders in the world of Geographic Information Systems (GIS), women are active in all aspects of cartography today and it’s incredibly important to recognize their contributions to the field.
 
 ##### Anna Beeck, [Plan de la ville de Bouchain situé sur les rivieres de la Sensette, et de l'Escaut, dans le comté de Hainaut](https://collections.leventhalmap.org/search/commonwealth:q524n429w) (1711)
 
@@ -30,7 +30,7 @@ During the late 18th and early 19th century, it was common practice for American
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cd800/full/1200,/0/default.jpg" >}}
 
-This [outline map](https://collections.leventhalmap.org/search/commonwealth:x059cd797) of the contiguous United States shows the status of woman suffrage in each state circa 1918, just 2 years before the 19th amendment granted women the right to vote. It’s important to note that while the 19th amendment was passed in 1920, many women were barred voting access until the Voting Rights Act of 1965. 
+This [outline map](https://collections.leventhalmap.org/search/commonwealth:x059cd797) of the contiguous United States shows the status of woman suffrage in each state circa 1918, just 2 years before the 19th amendment granted women the right to vote. It’s important to note that while the 19th amendment was passed in 1920, many women were barred voting access until the Voting Rights Act of 1965.
 
 ##### Elizabeth Shurtleff and Helen F. McMillin, [A Map of the Bermuda Islands](https://collections.leventhalmap.org/search/commonwealth:3f463854q) (1930)
 
