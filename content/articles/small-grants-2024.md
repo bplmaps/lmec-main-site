@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Meet LMEC's 2023-2024 recipients of Small Grants for Digital Publications
 date: 2024-03-28T05:00:00.000Z
 author: Ian Spangler
