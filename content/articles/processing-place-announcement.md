@@ -69,7 +69,7 @@ Those numbers---a set of values describing the percentage of land near tributari
 
 For a long time, maps were regarded as databases in their own right. [Urban tax and fire insurance atlases](https://www.atlascope.org) are a fine example of that: they stored precious information and provided instructions for how users could query it. Placed in its context, it's clear that the buffer map of Wachusett tributaries is something different, less a database and more an artifact of spatial statistics. The map provides visual evidence that the calculated number is real.
 
-{{<figure src="/images/blog/locator.JPG" caption="A printout from the Walking Distance Locator kiosk, alongside photos of the kiosk installed in the Back Bay." class="figure-left">}}
+{{<figure src="/images/blog/locator.JPG" caption="A printout from the Walking Distance Locator kiosk, alongside photos of the kiosk installed in the park at the corner of Washington and School Streets.." class="figure-left">}}
 
 None of this should suggest that computers made spatial analysis possible in the first place, nor should it imply that GIS made maps obsolete as wayfinding objects. In 1989, the Boston-based company Visual Media Inc. installed three "[Walking Distance Locator](https://patentimages.storage.googleapis.com/52/a1/f5/7c9e66a5bab016/US4974170.pdf)" kiosks in the Back Bay. Using the kiosks---themselves geographic information systems that had been installed as pieces of infrastructure in the landscape---people could {{<popup img-src="/images/blog/handheld-locator.JPG" target="blank">}}print out physical locator maps{{</popup>}}that directed them towards local businesses based on a predefined category, such as "Book store."
 
