@@ -51,3 +51,13 @@ In the early decades of nineteenth-century China, two series of large-format map
 *Guest curated by Dr. Richard Pegg, Director and Curator of the MacLean Collection.*
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx121n456/392,312,15168,7997/1200,/0/default.jpg" >}}
+
+### *Processing Place: How Computers and Cartographers Redrew our World*
+
+September 13, 2024 – March 2025
+
+In the long history of mapmaking, computers are a relatively new development. In some ways, computers have fundamentally changed how cartographers create, interpret, and share spatial data; in others, they simply mark a new chapter in how people have *always* processed the world. This exhibition features objects from the Leventhal Center’s unique collections in the history of digital mapping to explore how computers and cartographers changed one another, particularly since the 1960s. By comparing maps made with computers to those made before and without them, the exhibition invites us to recognize the impacts of digital mapping for environmental management, law and policy, navigation, national defense, social change, and much more. Visitors will be encouraged to consider how their own understanding of geography might be translated into the encodings and digital representations that are essential to processing place with a computer.
+
+*Curated by LMEC Staff Ian Spangler and Emily Bowe*
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t94b260t/1659,757,5667,2624/1200,/0/default.jpg" >}}
