@@ -54,7 +54,7 @@ In the early decades of nineteenth-century China, two series of large-format map
 
 ### *Processing Place: How Computers and Cartographers Redrew our World*
 
-September 13, 2024 – March 2025
+**September 13, 2024 – March 2025**
 
 In the long history of mapmaking, computers are a relatively new development. In some ways, computers have fundamentally changed how cartographers create, interpret, and share spatial data; in others, they simply mark a new chapter in how people have *always* processed the world. This exhibition features objects from the Leventhal Center’s unique collections in the history of digital mapping to explore how computers and cartographers changed one another, particularly since the 1960s. By comparing maps made with computers to those made before and without them, the exhibition invites us to recognize the impacts of digital mapping for environmental management, law and policy, navigation, national defense, social change, and much more. Visitors will be encouraged to consider how their own understanding of geography might be translated into the encodings and digital representations that are essential to processing place with a computer.
 
@@ -64,7 +64,7 @@ In the long history of mapmaking, computers are a relatively new development. In
 
 ### Terrains of Independence
 
-March 2025 – January 2026
+**March 2025 – January 2026**
 
 In 1775, a collision of word-historical forces, driven by ocean-spanning empires, conflicts over trade and settlement, and new ideas about society and government, came together in the spark of the American Revolution. Yet although both the causes and the consequences of the Revolution were grand in scale, the war ignited in the tinderbox of a very specific local geography: Boston and the surrounding towns of Massachusetts. Why did it happen here? The revolutionary moment was as much about places as it was about people or ideas. In and around Boston, the tensions of Britain’s colonial empire had been rising for decades before the 1770s. The commercial geography of the city and its region, zones of friction between classes and communities, and contestations over the environment all helped to create the conditions that led to an era of revolutionary upheaval in Massachusetts. In the Leventhal Map & Education Center’s exhibition Terrains of Independence, maps will offer the entrypoint to a reconsideration of the Revolutionary War through the lens of locality and place. 
 
