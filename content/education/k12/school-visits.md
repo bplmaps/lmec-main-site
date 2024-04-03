@@ -9,28 +9,47 @@ quicklinks:
     linkType: jump
 ---
 
-{{< alert-box type="warning" icon="fas fa-pause-circle" title="Booking pause" >}}
+{{< alert-box type="warning" icon="fas fa-school" title="In-person school programs in Spring 2024" >}}
 
-In early 2024, due to staffing changes in our education department, **we will not be offering school programs from January through March**. This programming pause includes both field trips to the Leventhal Center as well as outreach visits to schools. We anticipate beginning school programs again in April and opening booking in mid-winter. 
-
-Meanwhile, you can:
-
-* [Subscribe to our mailing list](https://www.leventhalmap.org/subscribe/) so we can update you on when our bookings will begin again in 2024
-* [Find resources for teaching your own programs with maps](/education/k12/teach-it-yourself/)
-* [Apply to our summer 2024 NEH Institute for K-12 Educators](https://teachingwithmaps.org)
-* [Contact our education department for more resources](mailto:education@leventhalmap.org)
-
-We look forward to reopening our partnerships for school programs again in the spring!
+We are offering a select menu of programming through the end of the 2023–24 school year while we prepare for next school year with expanded staff capacity.
 
 {{< /alert-box >}}
 
 The Leventhal Map & Education Center offers a menu of pre-designed programs for field trips to our Learning Center, virtual class visits, or in-person outreach to classrooms. Using maps from our collection, students practice using cartographic tools to read maps and think about what maps can and can't tell us about our relationships to places in the past and present. Programs related to our current exhibition are also available. Explore our program topics below. If you don't see quite what you're looking for, we are happy to work with you to create programming that works with your curriculum.
 
-### Teaching with our Current Exhibition
+## Booking a Program {#booking}
 
-Education pairings for our current exhibition [*Getting Around Town: Four Centuries of Mapping Boston in Transit*](https://www.leventhalmap.org/about/press-releases/getting-around-town-opens-fall-2023/) are available!
+A limited number of guided tours of our current exhibitions are available for school groups. These experiences will draw connections between the work in your classroom and what is currently on view. 
+
+Due to the size of our gallery, we can welcome groups of up to 16 students and 2 chaperones. You can preview availability and express interest using [Calendly](https://calendly.com/leventhalmapeducation/leventhal-center-school-visit). We will confirm your visit and discuss how we can best gear the conversation to meet your curricular goals.
+
+Guided tours of our current exhibitions are 45-60 minutes. We utilize guided inquiry to encourage close looking and to support your desired curricular connections. **Please note that there is no designated lunch room for classes in the Boston Public Library.**
+
+<a href="https://calendly.com/leventhalmapeducation/leventhal-center-school-visit" class="btn btn-outline">See available dates</a>
+
+#### Cost
+
+Please see our [table of education program fees](/education/fees) for information on costs. We strive to make our programs and resources available to all institutions without cost presenting a barrier.
+
+#### Additional BPL Programming for Class Visits
+
+A visit to the Map Center can be combined with sessions conducted by BPL’s Teen Services Team in Teen Central (grades 6-12), or activities with its Children’s Library Team (grades K-5). **[Click here](https://www.bpl.org/services-central-library/teen-central/)** to learn more about Teen Central’s tours, research skills workshops and team-building activities, or **[click here](https://www.bpl.org/services-central-library/childrens-library-at-the-central-library/)** to discover the range of Children’s Library services provided at Central.
+
+
+## Expanded Programming in 2024--2025
+
+This summer we will announce our updated offerings for the 2024–25 school year. We encourage you to sign up for our newsletter to receive first notice of the opportunities for your students to connect with the Leventhal Center. 
+
+[Subscribe to our mailing list](https://www.leventhalmap.org/subscribe/)
+
 
 ## Pre-Designed K-12 Programming
+
+{{< alert-box type="warning" icon="fas fa-pause" title="Not available in Spring 2024" >}}
+
+These programs are not available in Spring 2024 and will return in Fall 2024.
+
+{{< /alert-box >}}
 
 {{< course-listing image="/uploads/wiam.png" title="What Is A Map?" subtitle="Grades 1–3" description="Students practice how to interpret maps by reading the stories being told by mapmakers. Students create a map of their own, receive a short interactive lesson about maps and mapping, and work in small groups to answer questions about some of the maps in our collection." lessonFile="https://collections.leventhalmap.org/educators/curriculum-materials/127">}}
 
@@ -50,37 +69,7 @@ Education pairings for our current exhibition [*Getting Around Town: Four Centur
 
 {{< course-listing image="/uploads/2021-09-17/kidscount.jpg" title="Kids Count!: Mapping Children in Boston" subtitle="Grades 3-8" description="Students explore different ways cartographers have represented the presence of children in Boston for different purposes. Along the way they learn about geospatial data and GIS (geographic information systems), the power of symbology, and the importance of considering a mapmaker's purpose. They also try their hand at geospatial data visualization.">}}
 
-## Booking a Program {#booking}
 
-{{< alert-box type="warning" icon="fas fa-pause-circle" title="Booking pause" >}}
 
-In early 2024, due to staffing changes in our education department, **we will not be offering school programs from January through March**. This programming pause includes both field trips to the Leventhal Center as well as outreach visits to schools. We anticipate beginning school programs again in April and opening booking in mid-winter. 
 
-Meanwhile, you can:
 
-* [Subscribe to our mailing list](https://www.leventhalmap.org/subscribe/) so we can update you on when our bookings will begin again in 2024
-* [Find resources for teaching your own programs with maps](/education/k12/teach-it-yourself/)
-* [Apply to our summer 2024 NEH Institute for K-12 Educators](https://teachingwithmaps.org)
-* [Contact our education department for more resources](mailto:education@leventhalmap.org)
-
-We look forward to reopening our partnerships for school programs again in the spring!
-
-{{< /alert-box >}}
-
-#### Cost
-
-Please see our [table of education program fees](/education/fees) for information on costs. We strive to make our programs and resources available to all institutions without cost presenting a barrier.
-
-#### Notes on Field Trips to the Map Center
-
-Programs are 75 – 90 minutes long. Longer sessions allow for more discussion and inquiry. We cannot accommodate groups larger than 40 at a time. As groups larger than 20 may require that we reserve extra space, please be as specific as possible when completing our reservation form.
-
-Please note that there is no designated lunch area for classes in the Boston Public Library.
-
-A visit to the Map Center can be combined with sessions conducted by BPL’s Teen Services Team in Teen Central (grades 6-12), or activities with its Children’s Library Team (grades K-5). ***[Click here](https://www.bpl.org/services-central-library/teen-central/)*** to learn more about Teen Central’s tours, research skills workshops and team-building activities, or ***[click here](https://www.bpl.org/services-central-library/childrens-library-at-the-central-library/)*** to discover the range of Children’s Library services provided at Central.
-
-#### Notes on Outreach Programs
-
-Programs are 60 - 90 minutes long and are intended for individual classrooms of 30 or fewer students. Longer sessions allow for more discussion and inquiry. We can accommodate larger groups over multiple program sessions.
-
-Classrooms should have a computer and a digital projector or smartboard and space for students to work in small groups of 4 to 5 students for hands-on map inquiry exercises. We can provide a laptop and projector if necessary.
