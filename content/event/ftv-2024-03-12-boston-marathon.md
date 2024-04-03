@@ -4,9 +4,9 @@ title: From the Vault Collections Showing — Boston Marathon
 date: 2024-04-12T14:00:00.000Z
 publishDate: 2024-04-04T04:00:00.000Z
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5425m165g/0,0,0,0/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5425m165g/full/1200,/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5425m165g/0,0,0,0/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5425m165g/full/1200,/0/default.jpg
 location: "Central Library –\_Commonwealth Salon"
 fee: Free
 tags:
