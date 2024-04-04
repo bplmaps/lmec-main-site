@@ -15,7 +15,7 @@ tags:
   - digital humanities
 ---
 
-{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}
+{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{\</ alert-box >}}
 
 Featuring post-film (which runs 79 minutes) discussion with Boston Globe reporter and filmmaker David Abel led by Garrett Dash Nelson
 
