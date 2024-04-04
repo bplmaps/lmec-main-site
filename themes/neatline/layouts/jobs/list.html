@@ -9,9 +9,15 @@
             <section class="section pb-3 {{ if .Content }}pt-1{{ end }} mb-2">
                 <div class="container">
                   <div class="row">
-                    {{ range .Pages }}
-                    <div class="col-lg-5 col-sm-6 mb-4">
-                      {{ .Render "alt-gallery" }}</div>
+                    {{ $count := where .Pages "Draft" "!=" true}}
+                    {{if gt $count 0 }}
+                      {{ range where .Pages "Draft" "!=" true }} 
+                      <div class="col-lg-5 col-sm-6 mb-4">
+                        {{ .Render "alt-gallery" }}</div>
+                      {{end }}
+                    {{ else }}
+                      <h5>There are no currently open jobs.</h5>
+                      <p>Sign up for our <a href="/subscribe">newsletter</a> to hear about any future opportunities.</p>
                     {{ end }}
                   </div>
                 </div>

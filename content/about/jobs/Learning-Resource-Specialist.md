@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Learning Resource Specialist'
 menu: false
 cardImage: "/uploads/eliot3.jpg"

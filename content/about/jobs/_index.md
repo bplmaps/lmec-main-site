@@ -6,5 +6,5 @@ description : "Information about open jobs at LMEC"
 aliases:
     - /about/jobs
 weight: "7"
-type: "jobs"
+type: jobs
 ---
