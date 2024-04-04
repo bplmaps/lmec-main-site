@@ -32,7 +32,7 @@ This opportunity may be particularly suitable for the following types of undergr
 
 ### Geohumanities & GIS
 
-Geohumanities & GIS interns will learn how to use different kinds of geospatial software and theory to georeference historic atlases from towns around the state of Massachusetts. With support from the Assistant Curator for Digital & Participatory Geography, Geohumanities & GIS interns will also conduct independent research into these atlases with the goal of creating interpretive educational stories and resources for publication on the LMEC website.
+Geohumanities & GIS interns will learn how to use different kinds of geospatial software and theory to [georeference](https://www.leventhalmap.org/projects/digital-projects/georeferencing/) historic atlases from towns around the state of Massachusetts. With support from the Assistant Curator for Digital & Participatory Geography, Geohumanities & GIS interns will also conduct independent research into these atlases with the goal of creating interpretive educational stories and resources for publication on the LMEC website.
 
 ### Fundraising & Development
 
