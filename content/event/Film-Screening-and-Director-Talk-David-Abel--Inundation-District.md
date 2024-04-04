@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Film Screening and Director Talk: David Abel–*Inundation District*'
 date: 2024-06-20T21:30:00.000Z
 publishDate: 2024-04-04T04:00:00.000Z
@@ -15,7 +15,7 @@ tags:
   - digital humanities
 ---
 
-{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{</ alert-box >}}
+{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by another institution.{{\</ alert-box >}}
 
 Featuring post-film (which runs 79 minutes) discussion with *Boston Globe* reporter and filmmaker David Abel led by Garrett Dash Nelson
 
