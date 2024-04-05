@@ -18,7 +18,7 @@ tags:
 
 > On March 29, we hosted From The Vault: Bus Networks of Boston, co-sponsored by TransitMatters! \
 > \
-> From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. During this event, we viewed historic MBTA transit maps of some of the most trouble-inducing routes of modern times. Buses, trains, trackless trolleys routes were presented and staff from TransitMatters spoke about "bus bunching" and facilitated conversation around the ways Boston can improve bus-centric public transit.  
+> From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. During this event, we viewed historic MBTA transit maps of some of the most trouble-inducing routes of modern times. Buses, trains, trackless trolleys routes were presented and staff from TransitMatters spoke about "bus bunching" and facilitated conversation around the ways Boston can improve bus-centric public transit.
 
 ##### Boston Redevelopment Authority, [Blue Hill Avenue commercial strip](https://collections.leventhalmap.org/search/commonwealth:7h14cx08m) (1966)
 
@@ -26,25 +26,31 @@ tags:
 
 This map of Blue Hill Avenue (BHA) from the 60s illustrates a thriving neighborhood along this corridor as a result of transit-oriented development. Earlier forms of public transit from the horsecar to electric streetcars connected the Roxbury, Dorchester, and Mattapan (RDM) neighborhoods, making it a vibrant residential and commercial hub. However, priorities began to shift towards the car, and buses without protected right of ways were introduced to replace the streetcar. Today, BHA remains a vibrant corridor, yet current transportation configurations fail to support the needs of the neighborhood. With the recent announcement of the center-running bus lane on BHA after a rigorous community engagement process, the community will soon receive long overdue improvements to its most vital transit corridor. BHA supports the 28 bus, the highest ridership bus in the entire MBTA network. This route experiences some of the worst bus bunching in the MBTA network as well, but these bus priority measures will be crucial to alleviating bus bunching and increasing the reliability of this corridor.
 
-Have you heard about the BHA center-running bus lane? Do you know where to find out about city-led transportation projects?
+***Have you heard about the BHA center-running bus lane? Do you know where to find out about city-led transportation projects?***
 
-##### Boston and Maine Railroad, Passenger Department, [Bird’s Eye View from the Summit of Mt. Washington, New Hampshire](https://collections.leventhalmap.org/search/commonwealth:wd3763140) (1902)
+##### [Views of the area around Dudley Station in Roxbury](https://collections.leventhalmap.org/search/commonwealth:pv63jj01s) (1980 - 1989?)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3763158/full/1200,/0/default.jpg" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (52).png" >}}
 
-Although entitled a bird’s-eye view, this colorful presentation provides a fish-eye or 360-degree panoramic perspective. It distorts the topography of Mount Washington from a single vantage point directly above the mountain. The mountain’s summit, with accurately delineated buildings and the approaching road and railroad, is the central focus. Everything else is distorted. The surrounding mountains appear in the distance as non-distinctive colored hills, but each is numbered and identified in corresponding lists in the map’s four corners. Published by the Boston and Maine Railroad, [this artistic piece](https://collections.leventhalmap.org/search/commonwealth:wd3763140) would certainly appeal to tourists visiting New England’s tallest landmark.
+Nubian Station is one of the most important bus hubs in Boston. However, this bus station serves some of the slowest and most bunched buses in the MBTA network. Routes such as the 1, 15, 19, 23, 41, SL4, and SL5 terminate or pass through this station yet are plagued by bus bunching and slow speeds. Particularly the SL4 and SL5 are branded as Bus Rapid Transit (BRT), but are some of the slowest buses. Nubian Station is also a historical landmark; once part of the Elevated Orange Line, parts of the original station have been preserved and incorporated into this bus station's design. However, additional circulation planning upgrades will help these buses move more smoothly in and out of the station to prevent bus bunching and increase speeds to truly modernize Nubian Station.
 
-##### National Geographic Society, [Bird's-eye view of the Panama Canal](https://collections.leventhalmap.org/search/commonwealth:9s1619499) (1912)
+Do you ride the SL4 or SL5? Do you think the service is equivalent to BRT?
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s1619502/full/1200,/0/default.jpg" >}}
+##### Medical Area Service Corporation, [A land ownership map for the Longwood Medical Area as of January 1980](https://collections.leventhalmap.org/search/commonwealth:7h14cv34t) (1980)
 
-Depicting a spectacular view of the Panama Canal, [this map](https://collections.leventhalmap.org/search/commonwealth:9s1619499) would have been of very high interest at the time. Created by National Geographic in 1912, the Panama Canal was not yet completed (construction finished in 1914). At this point in time, the only other route between the Atlantic and Pacific oceans was to sail around South America or use the Panama Railroad to transfer goods and people from one ocean to another. Both of these options were incredibly time consuming, if not outright treacherous, and many people were eager to see any progress being made on the canal.
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cv353/full/1200,/0/default.jpg" >}}
 
-##### [Panoramic view of the Gettysburg battlefield](https://collections.leventhalmap.org/search/commonwealth:xg94j201t) (1866)
+This map of the different stakeholders in the Longwood Medical Area demonstrates not only the numerous communities sharing the right of way but also the need for reliable transportation in the area. A major employment hub, Longwood and Brookline Avenue are highly utilized by shuttles, emergency vehicles, and MBTA buses alike. Serving communities all over the Boston region, reliable transportation is especially crucial in the LMA to serve the workers, students, etc. in the area.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:xg94j2023/full/1200,/0/default.jpg" class="" >}}
+Do you frequent the LMA area? Is it an area you find is easily transit accessible?
 
-The three-day battle that occurred at Gettysburg, July 1-3, 1863, is considered the turning point of the War. Our memory of the war’s most significant battle is reinforced by approximately 150 maps that have been published in the years following the conflict, far more than any other battle. One of the most unusual is this [untitled and undated diagram](https://collections.leventhalmap.org/search/commonwealth:xg94j201t) that provides an unconventional fish-eye or 360-degree panoramic view of the battlefield. In the center of this circular, pictorial diagram is a numbered legend identifying 57 landmarks, locations of specific regiments, or sites of selected casualties.
+##### Frederick Law Olmsted, [City of Boston plan of Columbia Road, showing connection with Franklin Park and Marine Park : under chapter 394 acts of 1897](https://collections.leventhalmap.org/search/commonwealth:1257b8974) (1897)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257b898d/full/1200,/0/default.jpg" class="" >}}
+
+This map illustrates the City of Boston's original plan to connect Franklin and Marine Park with a greenway. Now realized as the Columbia Road Transportation Action Plan, which was introduced in GoBoston 2030, is beginning to be planned. This project aims to improve transit connectivity along the corridor through a greenway-like design and create a safer and more resilient connection for bus riders. The plan will continue this historic effort of connecting the Emerald Necklace to the waterfront, but in a way that prioritizes public transit as well.
+
+Do you use the Emerald Necklace? Do you find that it's transit accessible?
 
 ##### New York : Harper & Brothers, [Pictorial map of the city of Paris and its environs, showing the principal buildings, monuments, parks etc., the French fortifications, and the Prussian lines of investment](https://collections.leventhalmap.org/search/commonwealth:9s1619235) (1871)
 
