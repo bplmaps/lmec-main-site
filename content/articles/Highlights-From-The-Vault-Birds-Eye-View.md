@@ -3,7 +3,7 @@ draft: false
 title: 'Highlights From The Vault: Bird''s Eye View'
 date: 2024-03-18T19:00:00.000Z
 author: Julia Williams
-description: 'Check out these highlights from February''s From The Vault: Bird''s Eye View'
+description: 'Check out these highlights from March''s From The Vault: Bird''s Eye View'
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xk53j/full/1200,/0/default.jpg
 backgroundImage: >-
