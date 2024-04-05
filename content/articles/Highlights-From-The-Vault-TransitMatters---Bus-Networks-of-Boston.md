@@ -67,3 +67,11 @@ Would you be able to make your commute on this historic system? Does your commut
 Originally planned to be transformed into a highway, the Southwest Corridor was preserved to be a multimodal corridor because of community pushback. This map shows the original plans for the construction of the Orange Line, building around existing residential and educational development. Running parallel to the southwestern Orange Line stations, many buses were rerouted to service and provide connections to the new subway stops. The Southwest Corridor is a crucial piece to Boston’s transportation infrastructure and demonstrates the significance and impact of multimodal planning that centers people.
 
 Does your bus commute connect with the Southwest Corridor? How could your trip be improved to make your commute better?
+
+##### J. Mayer & Co., [Map of the city of Chelsea : from actual surveys 1867](https://collections.leventhalmap.org/search/commonwealth:1257bb879) (1867)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257bb88k/full/1200,/0/default.jpg" class="" >}}
+
+This 1867 map shows a historic view of Chelsea equipped with a streetcar route and rail lines which could have been converted to rapid transit. However, today there are limited transportation options- none of which are rapid transit. For Chelsea residents, who are largely essential employees, Latino or Hispanic, low-income, and live in an environmental justice community, there are few ways to get to Downtown Boston. Options are limited to the Commuter Rail, the SL3, the 111 bus, and the 112,114, 116, and 117 buses via the Blue Line. However, these options are often indirect, infrequent, and or unreliable.
+
+Have you traveled to Chelsea by transit before? If you lived in Chelsea how would you commute to work or school?
