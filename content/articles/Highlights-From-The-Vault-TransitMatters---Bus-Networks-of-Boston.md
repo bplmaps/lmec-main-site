@@ -52,14 +52,18 @@ This map illustrates the City of Boston's original plan to connect Franklin and 
 
 Do you use the Emerald Necklace? Do you find that it's transit accessible?
 
-##### New York : Harper & Brothers, [Pictorial map of the city of Paris and its environs, showing the principal buildings, monuments, parks etc., the French fortifications, and the Prussian lines of investment](https://collections.leventhalmap.org/search/commonwealth:9s1619235) (1871)
+##### Boston Redevelopment Authority, [Massachusetts Bay Transportation Authority](https://collections.leventhalmap.org/search/commonwealth:1g05ht46v) (1967)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161924f/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w6636m402/full/1200,/0/default.jpg" >}}
 
-Depicting the Siege of Paris, which took part during the Franco-Prussian War, [this map](https://collections.leventhalmap.org/search/commonwealth:9s1619235) was created shortly after the French surrendered the city. Lead by the Germans, the siege lasted more than four months and cut off from supplies from the countryside, leading the Parisians to eventually begin eating dogs, cats, and even most of the animals in the Paris zoo by the siege’s end. Included in Harper’s Weekly, an American general interest magazine, the American public would have been incredibly interested in seeing what the landscape of Paris looked like during the war.
+While this historic map of the MBTA network from 1967 may look vastly different from the MBTA map we know today, many of the same corridors and key locations are at the heart of each map and network. While routes have slightly changed over the years, for example, the 66 bus once terminated at Union Square in Allston rather than at Harvard or routes such as the 15 and 19 bus now serve Ruggles with the relocation of the Orange Line, key corridors and routes are still visible. Despite being critical to the transit network for decades, many of these routes lack much needed bus priority infrastructure such as bus lanes or transit signal priority (TSP), which are important to keep buses moving. This is especially important as the bus network serves a critical role in connecting communities.
 
-##### H. Geissler, [Martel's New York Central Park : respectfully dedicated to the park commissioners](https://collections.leventhalmap.org/search/commonwealth:0r96fp760) (1864)
+Would you be able to make your commute on this historic system? Does your commute today use any bus lanes?
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp778/full/1200,/0/default.jpg" class="" >}}
+##### Massachusetts Bay Transportation Authority, [Southwest corridor development plan](https://collections.leventhalmap.org/search/commonwealth:7h14d598d) (1979)
 
-In[ this birds-eye view](https://collections.leventhalmap.org/search/commonwealth:0r96fp760) of the park, the viewer observes from the junction of 59th St. and 5th Ave.  Printed six years after work on the park began, it would undergo another 12 years of construction before its completion in 1876. Its previous location in view, Seneca Village was a middle-class settlement of freed African Americans (the first of its kind in the city) that was forcibly seized by the City of New York in order to create Central Park. Though magnificent in its scope even a third of the way through it’s construction, it’s necessary to remember what it took to build the park and who was mandated to provide it.
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g158f1602/full/1200,/0/default.jpg" class="" >}}
+
+Originally planned to be transformed into a highway, the Southwest Corridor was preserved to be a multimodal corridor because of community pushback. This map shows the original plans for the construction of the Orange Line, building around existing residential and educational development. Running parallel to the southwestern Orange Line stations, many buses were rerouted to service and provide connections to the new subway stops. The Southwest Corridor is a crucial piece to Boston’s transportation infrastructure and demonstrates the significance and impact of multimodal planning that centers people.
+
+Does your bus commute connect with the Southwest Corridor? How could your trip be improved to make your commute better?
