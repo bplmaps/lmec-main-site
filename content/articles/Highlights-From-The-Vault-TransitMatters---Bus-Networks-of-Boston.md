@@ -7,11 +7,9 @@ description: >-
   Check out these highlights from March's From The Vault: Bus Networks of
   Boston, co-sponsored by TransitMatters
 image: >-
-  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/TransitMatters
-  3.29.24.50.png
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g158f1602/full/1200,/0/default.jpg
 backgroundImage: >-
-  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/TransitMatters
-  3.29.24.50.png
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g158f1602/full/1200,/0/default.jpg
 tags:
   - from the vault
 ---
