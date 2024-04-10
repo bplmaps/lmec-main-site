@@ -22,7 +22,7 @@ Fire insurance and real estate atlases offer one of the most incredible tools fo
 
 ### Upcoming Atlascope events
 
-{{< event-tag-listing tag="Atlascope" >}}
+{{\< event-tag-listing tag="Atlascope" >}}
 
 ### Past Atlascope events
 
@@ -30,8 +30,8 @@ Please visit our [YouTube Channel](https://www.youtube.com/c/LeventhalMapEducati
 
 ### Atlascope credits
 
-{{< figure src="https://atlascope.leventhalmap.org/clir-logo.bc74237c.png" class="figure-right" >}}
-{{< figure src="https://atlascope.leventhalmap.org/associates-logo.b8277105.png" class="figure-right" >}}
+{{\< figure src="[https://atlascope.leventhalmap.org/clir-logo.bc74237c.png](https://atlascope.leventhalmap.org/clir-logo.bc74237c.png)" class="figure-right" >}}
+{{\< figure src="[https://atlascope.leventhalmap.org/associates-logo.b8277105.png](https://atlascope.leventhalmap.org/associates-logo.b8277105.png)" class="figure-right" >}}
 
 Atlascope was developed by the team at the Leventhal Map & Education Center at the Boston Public Library. Primary design and development of the Atlascope app was conducted by Garrett Dash Nelson. Belle Lipton oversaw the first phase of atlas digitization and transformation for Atlascope v1.0.
 
@@ -45,6 +45,7 @@ New towns across Massachusetts are being added to Atlascope as of Spring 2023. W
 
 * **[Abbot Public Library](https://abbotlibrary.org/), Marblehead**
 * **[Dover Historical Society](http://doverhistoricalsociety.org/)**
+* **Susan Goganian**
 
 ### More information
 
