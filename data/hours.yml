@@ -21,12 +21,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'February 19, 2024'
-    name: Presidents Day
-    special: Closed
-  - date: 'March 31, 2024'
-    name: Easter Sunday
-    special: Closed
   - date: 'April 14, 2024'
     name: Sunday Before Patriot's Day
     special: Closed
