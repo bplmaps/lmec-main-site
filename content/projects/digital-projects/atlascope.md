@@ -20,10 +20,6 @@ Fire insurance and real estate atlases offer one of the most incredible tools fo
 
 > ***Interested in hearing how Atlascope is evolving? We're currently expanding the tool to cover additional towns across the state of Massachusetts.*** ***[Visit this page](https://www.leventhalmap.org/donate/sponsor-an-atlas/)*** ***to learn more and to get involved in this project.***
 
-### Upcoming Atlascope events
-
-{{\< event-tag-listing tag="Atlascope" >}}
-
 ### Past Atlascope events
 
 Please visit our [YouTube Channel](https://www.youtube.com/c/LeventhalMapEducationCenter/videos) to see previous events featuring Atlascope, including our "Neighborhood by Map" series.
@@ -41,11 +37,12 @@ Atlas layers have been prepared by multiple teams of interns including Ian Donne
 
 Digitization and preparation of atlas layers was made possible by the [Council on Library and Information Resources](https://www.clir.org/) and the [Associates of the Boston Public Library](https://www.associatesbpl.org/).
 
-New towns across Massachusetts are being added to Atlascope as of Spring 2023. We are grateful to the following institutions for sponsoring this work:
+New towns across Massachusetts are being added to Atlascope as of Spring 2023. We are grateful to the following institutions an individuals for sponsoring this work:
 
 * **[Abbot Public Library](https://abbotlibrary.org/), Marblehead**
 * **[Dover Historical Society](http://doverhistoricalsociety.org/)**
 * **Susan Goganian**
+* **[FRRACS](https://www.nocompressor.com/)** & support from individual donors across Weymouth, Braintree, and Quincy
 
 ### More information
 
