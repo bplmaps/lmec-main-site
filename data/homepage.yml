@@ -67,6 +67,10 @@ cta:
       text: >-
         The last day to visit _Getting Around Town_ is April 27. Our gallery will be closed April 28 through May 10, and will reopen on May 11 with _Heaven & Earth_.
       link: 'https://www.leventhalmap.org/exhibitions'
+    - badge: 'Holiday Closures'
+      text: >-
+        The Leventhal Center and all BPL locations are closed Sunday, April 14 and Monday, April 15 in observance of Patriot's Day.
+      link: 'https://www.leventhalmap.org/visit'
 audiences:
   enable: true
   audienceGroups:
