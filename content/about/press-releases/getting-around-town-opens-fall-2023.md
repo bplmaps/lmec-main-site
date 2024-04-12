@@ -6,6 +6,7 @@ description: >-
   Future—of Boston’s Public Transit Systems 
 backgroundImage: mtacrop.jpeg
 cardImage: mtacrop.jpeg
+menu: false
 ---
 
 <a class="btn btn-primary btn-primary-outline mb-3" href="https://s3.us-east-2.wasabisys.com/lmec-public-files/press-releases/2023-07-17%20Getting%20Around%20Town%20Press%20Release.pdf">View this release as a PDF</a>

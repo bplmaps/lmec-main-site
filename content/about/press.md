@@ -96,6 +96,9 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 ## Press Releases
 
+**2024**
+* [New Exhibition of Chinese Maps Takes a Close Look at Cosmography and Color](https://www.leventhalmap.org/about/press-releases/heaven-and-earth-press-release/)
+
 **2023**
 
 * [New Exhibition “Getting Around Town” Opens at Leventhal Map & Education Center September 9, 2023](https://www.leventhalmap.org/about/press-releases/getting-around-town-opens-fall-2023/)
