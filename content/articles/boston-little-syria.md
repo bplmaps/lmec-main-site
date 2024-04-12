@@ -1,7 +1,7 @@
 ---
 draft: true
 title: Boston's Little Syria
-date: 2024-03-28T04:00:00.000Z
+date: 2024-04-30T04:00:00.000Z
 author: Chloe Bordewich and Lydia Harrington
 description: Explore the city's first Arabic-speaking neighborhood
 image: >-
@@ -60,8 +60,8 @@ Civic organizations reinforced a sense of community life, and there were many. O
 
 Whether they are near or far, the [Boston Little Syria Project](https://bostonlittlesyria.org/) aims to gather and connect their recollections, photographs, and archives, reweaving them into the urban landscape. It adds an often-neglected layer to the texture of Boston history---one that is shared by Arab Americans and non-Arabs alike who have made the city their home.
 
-> Chloe Bordewich earned her PhD in history and Middle Eastern studies from Harvard University in 2022. Interested in histories of empire, technology, and public access to knowledge, she is a 2022–23 Postdoctoral Associate in Public History at Boston University’s Center for Antiracist Research.
+> Chloe Bordewich is a postdoctoral fellow at the University of Toronto's Jackman Humanities Institute. She received a PhD in history and Middle Eastern studies from Harvard University in 2022. From 2022-2023, she held a postdoctoral fellowship in public history at Boston University and the U.S. National Archives. Her research focuses on empire, media technologies, and public access to knowledge.
 >
-> Lydia Harrington earned her PhD from Boston University’s History of Art and Architecture Department in 2022 and is a Postdoctoral Fellow in the Aga Khan Program for Islamic Architecture at MIT in 2022–2023. She works on the history of institutional architecture and craft education in the late Ottoman Empire and its successor states.
+> Lydia Harrington is a historian and curator specializing in Middle Eastern architecture and migration from the Middle East to the US. She earned her PhD from Boston University’s History of Art and Architecture Department in 2022 and was a Postdoctoral Fellow in the Aga Khan Program for Islamic Architecture at MIT in 2022-2023. She was previously Senior Curator of the Syria Museum.
 >
-> As co-leaders of the Boston Little Syria Project, Harrington and Bordewich have led neighborhood walking tours and public events. They have curated exhibitions at MIT’s Rotch Library (December 2022–March 2023) and the Massachusetts Historical Society (April 2023).
+> As co-leaders of the Boston Little Syria Project, Harrington and Bordewich have led neighborhood walking tours and public events. They have curated exhibitions at MIT's Rotch Library (December 2022-March 2023), the Massachusetts Historical Society (April 2023), and the University of Massachusetts Boston's Healey Library (January-May 2024).
