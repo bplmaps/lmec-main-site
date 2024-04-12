@@ -3,6 +3,7 @@ draft: false
 title: New Exhibition "Heaven & Earth" Opens at Leventhal Map & Education Center May 11, 2024
 description: 'New Exhibition of Chinese Maps Takes a Close Look at Cosmography and Color'
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx121n456/408,365,15152,7907/1200,/0/default.jpg
+cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx121n456/408,365,15152,7907/1200,/0/default.jpg
 menu: true
 ---
 
