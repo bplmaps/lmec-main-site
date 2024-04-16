@@ -88,4 +88,4 @@ Although contemporary Western traditions of cartography and medical illustration
 
 It’s a shame that the two fields exist as separately as they do, because they tackle many of the same questions. How do you simplify the world to help people understand it? How do you identify the roles of colonialism and white supremacy in the models that are available? How do we conjure a reality that is more fair and equitable? And how can the discourses in each discipline speak to each other as they work to explain and re-explain the spaces outside and within us?
 
-> Ilana Bean biography goes here
+> [Ilana Bean](https://www.ilanabean.com/) is an essayist currently based in Melbourne, Australia. Her research explores how medical imagery informs cultural understanding of the body. She received her MFA from the University of Iowa in 2023, where she studied Nonfiction Writing.
