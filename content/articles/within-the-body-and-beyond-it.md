@@ -1,7 +1,7 @@
 ---
 draft: true
 title: Within the Body and Beyond It
-date: 2024-05-01T04:00:00.000Z
+date: 2024-04-30T04:00:00.000Z
 author: Ilana Bean
 description: Reflecting on the shared lineage of cartography and anatomy
 image: >-
