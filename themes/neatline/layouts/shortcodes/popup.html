@@ -2,4 +2,4 @@
 
 <span id="popup-anchor-{{ $unique_id }}" href="{{ .Get `img-src` | plainify }}" class="popupTooltip">
   <!-- <i class="fas fa-binoculars me-2"></i>{{.Inner}}<a href="{{ .Get `src` | plainify }}"><i class="fas fa-external-link-alt ms-2"></a></i></span> -->
-  <a href="{{ .Get `bib-src` | plainify }}"><i class="fas fa-external-link-alt"></i></a>{{.Inner}}</span>
+  <a href="{{ .Get `bib-src` | plainify }}"><i class="fas fa-external-link-alt"></i></a>{{.Inner | markdownify}}</span>
