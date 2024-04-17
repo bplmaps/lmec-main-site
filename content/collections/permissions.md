@@ -10,7 +10,9 @@ aliases:
 
 ## Rights to digital images
 
-High-resolution imagery for most maps and objects in our [Digital Collections](/collections/digital-collections) is available for download directly from each object's record page in TIFF and JPEG format. Unless otherwise noted, all images are in the public domain and have no restrictions on use. We provide no warranty as to the copyright status of the objects themselves.
+In most cases, the Boston Public Library does not hold the [copyright](https://www.copyright.gov/what-is-copyright/) to the items in our collections. Furthermore, we do not assert any additional restrictions on copies of these items beyond those that might exist in the original. As such, we cannot grant or deny permission to use copies of these items. It is the sole responsibility of the user to make their own determination about what types of usage might be permissible under U.S. and international copyright law.
+
+If the material you are working with is in the [public domain](https://guides.library.cornell.edu/copyright/publicdomain), you do not require our permission to publish; you are free to use the images in any way that you would like, including in print. High-resolution imagery for most maps and objects in our [Digital Collections](/collections/digital-collections) is available for download directly from each object's record page in TIFF and JPEG format.
 
 Maps from partner institutions are not available for download or reproduction through our Digital Collections portal. Contact the holding institution for permissions and reproductions.
 
