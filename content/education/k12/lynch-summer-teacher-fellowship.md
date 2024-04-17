@@ -2,59 +2,50 @@
 backgroundImage: ''
 description: Our fellowship program for K-12 teachers
 title: >-
-  2023 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community
+  2024 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community
   History
 ---
 
-#### **Applications closed for summer 2023. Check back in early 2024 for the next round!**
-
 **Stipend:** $1000
 
-### **About the Fellowship**
+### About the Fellowship
 
-*Are you a teacher who teaches Boston history or contemporary issues in Boston?*
+This summer the Lynch Fellows at the Leventhal Center will focus on developing meaningful resources for their students and other educators. Each educator will complete a project for their classroom on a specific time period or topic in Boston history, past or present. Educators will receive guidance from LMEC staff on relevant resources and also develop the skills to search the LMEC databases to locate future resources. They will also learn from and collaborate with the LMEC Education team and their fellow educators on the best methods to integrate maps into their classroom teaching. 
 
-*Do you engage your students in project-based learning connected to Boston neighborhoods and social justice issues?*
+The 2024 Lynch Fellows will also help shape future LMEC resources for classroom teachers. They will work as a cohort of educators, together with LMEC Education team, to identify the essential characteristics of quality resources for classroom teachers. Lynch Fellows will also aide in the development of tools to assist other educators across the country in searching the Leventhal collections. The work of the Fellows this summer will have a significant impact on the future offerings of the Center.
 
-*Are you interested in developing curriculum about Boston's Black history and present for your classroom?*
+By the end of the 2024 Fellowship, Fellows will have: 
+- A lesson or resource based on the LMEC collection that they can use in their classroom for the ‘24-‘25 school year
+- New and expanded skills for teaching with maps and geospatial thinking
 
-*Would you like to incorporate more Boston-area maps in your classroom practice?*
 
-If you answered “Yes!” to any of the above questions, then join the Norman B. Leventhal Map & Education Center (LMEC) this summer as a teacher fellow. As a summer fellow you will:
+### Eligibility
 
-* Work with Map Center education staff and librarians to find compelling resources to use in your classroom from the LMEC and Boston Public Library.
-* Learn basic GIS mapmaking and other digital tools to further engage students in critical thinking about their city.
-* Adapt and create lessons to use in your classroom. Many of the Center’s existing [Maptivist lessons](https://www.leventhalmap.org/education/k12/maptivists/) can be adapted for use in your classroom as well as the [Atlascope tool](https://atlascope.leventhalmap.org/) for exploring change over time in Boston’s neighborhoods.
-* Use the Map Center's exhibition [Building Blocks: Boston Stories from Urban Atlases ](https://www.leventhalmap.org/digital-exhibitions/building-blocks/)as one model for uplifting underrepresented narratives in Boston's past.
+Any K-12 teacher or library media specialist who has an interest in teaching about Boston using maps and wants to create curricula in any content discipline area. Boston Public School teachers are especially encouraged to apply, as are teams of two or more teachers from one school. 
 
-### **Who can apply?**
+We are especially interested in educators who have interest in the design of asynchronous digital resources for classroom teachers.
 
-Any K-12 teacher or library media specialist who has an interest in teaching about Boston using maps and wants to create curricula in any content discipline area. Special consideration will be given to educators exploring issues of social justice in some way, especially as it relates to Boston’s Black communities. *Boston Public School teachers are especially encouraged to apply*, *as are teams of two or more teachers from one school.*
+### Expectations
 
-### **Expectations**
-
-* As a cohort, teachers will meet in person 3 times over the summer (*First meeting will be on Saturday, June 10th, 9:30 to 3:30*). Dates will all be in June/July/August and will be coordinated with Map Center staff. LMEC education staff will also schedule check-ins individually with fellows over the course of the summer.
-* A final project must be completed by the end of August. Final projects can be lessons and activities incorporating primary sources, including maps, from the collections of the Leventhal Map & Education Center and Boston Public Library as well as other resources.
-* Fellows must be willing to have their projects shared with the larger teaching community, online, and in person to other teachers as part of professional development (TBD).
+* As a cohort, teachers will meet in-person at the Leventhal Center three (3) times over the summer. Dates will be confirmed and times added when the cohort is assembled. The current proposed dates are:  
+  * Thursday, June 27, 2024
+  * Wednesday, July 31, 2024
+  * Wednesday, August, 21, 2024
+* A final project must be completed by August 31, 2024. Final projects can be lessons and activities incorporating primary sources, including maps, from the collections of the Leventhal Map & Education Center and Boston Public Library as well as other resources.
+* Fellows must be willing to have elements of their final projects shared with the larger teaching community, online, and in person to other teachers as part of professional development (TBD).
+* Fellows may also be asked to share their learnings and experiences with others past the summer fellowship dates. This may includes requests for brief written summaries or participation in other presentations with the LMEC team. 
 
 ### **To apply**
 
-#### **Deadline: Monday, May 1**
+#### **Deadline: Monday, May 20, 2024 at 12 pm ET**
 
-*To apply, please send:*
+*To apply, please use include the following:*
 
-* A current CV
-* A description of no more than one page stating how your current teaching connects to the areas listed above and how you envision revising and expanding your current lessons. If applying as a team, please submit one page as a team.
-* A letter of support from your school principal or department head.
+* A current CV or resume 
+* A brief description (1-3 sentences) on the specific time period or topic in Boston history, past or present, that you wish to focus on 
+* Up to 500 words on what you are hoping to accomplish and contribute as 2024 Lynch Fellow 
+* A letter of support from your school principal or department head
 
-Please email all documents to: [mleblanc@leventhalmap.org](mailto:mleblanc@leventhalmap.org)
+Note: If applying as a team, please submit as a team.
 
-**Don’t take our word for it! Our 2022 Fellows share what they liked about their time at the Map Center :**
-
-> _"I am thinking about utilizing maps to help students develop a sense of locality and history. Boston is so historically rich and maps help students connect to that history more tangibly. I am thinking about maps as "sources" for students to think critically about: whose story is being told? Whose is excluded?”_
-
-> _"(paid) time to think deeply and critically about new resources to use in my classroom. Guidance from thoughtful, experienced educators (Michelle and Lynn). Useful feedback from other educators about my work, so I can improve."_
-
-> _“Sometimes our school networks get too claustrophobic and it is so refreshing to meet other motivated educators who are working so hard (across disciplines!) to serve their students.”_
-
-> _“There were so many things I enjoyed about my time as a teacher fellow. The support from Lynn and Michelle, as well as access to materials was incredibly helpful. The flexibility as we developed our project in conjunction with the check ins was useful to create a project that I feel confident about using in the classroom.”_
+<a href="https://tally.so/r/m67lbJ" target="_blank" class="btn btn-lg btn-primary-outline">Apply online now</a>
