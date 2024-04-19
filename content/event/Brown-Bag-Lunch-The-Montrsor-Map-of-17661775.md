@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Brown Bag Lunch: The Montrésor Map of 1766/1775'
 date: 2024-06-07T16:00:00.000Z
 publishDate: 2024-04-19T04:00:00.000Z
