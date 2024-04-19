@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Brown Bag Lunch: The Hutchins Map of 1778'
 date: 2024-05-10T16:00:00.000Z
 publishDate: 2024-04-19T04:00:00.000Z
