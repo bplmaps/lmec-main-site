@@ -21,6 +21,6 @@ Join Dr. Alexandra Montgomery, manager of the Library’s Center for Digital His
 
 ### Alexandra L. Montgomery
 
-Dr. Alexandra L. Montgomery is Manager of the Center for Digital History at the Washington Presidential Library at George Washington's Mount Vernon and one of the leads for the ARGO project. She holds a PhD in early American history from the University of Pennsylvania. When she is not wrangling digital projects about George Washington, her work focuses on land speculation, settler expansion, and mapping in eighteenth century North America.
+![](</Screenshot 2024-04-19 161927.jpg>)
 
-{{< figure src="https://mtv-main-assets.mountvernon.org/files/resources/small-amontgomeryheadshot.jpg" caption="Dr. Alexandra L. Montgomery" >}}
+Dr. Alexandra L. Montgomery is Manager of the Center for Digital History at the Washington Presidential Library at George Washington's Mount Vernon and one of the leads for the ARGO project. She holds a PhD in early American history from the University of Pennsylvania. When she is not wrangling digital projects about George Washington, her work focuses on land speculation, settler expansion, and mapping in eighteenth century North America.
