@@ -1,6 +1,6 @@
 ---
-title: Sightseeing Boston on the Elevated 
-description: Take a tour around Boston in the early twentieth century through an eye-popping series of posters created by the Boston Elevated Railway
+title: Touring Boston on the Elevated 
+description: Take a sightseeing tour around Boston in the early twentieth century through an eye-popping series of posters created by the Boston Elevated Railway
 author: Garrett Dash Nelson
 date: 2024-04-22T02:00:00-05:00
 draft: true
