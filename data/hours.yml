@@ -21,8 +21,8 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'July 4, 2024'
-    name: Independence Day
+  - date: 'September 1, 2024'
+    name: The day before Labor Day
     special: Closed
   - date: April 28 - May 10
     name: Gallery Closed for Exhibition Turnover
@@ -35,4 +35,7 @@ exceptions:
     special: Closed
   - date: 'June 19, 2024'
     name: Juneteenth
+    special: Closed
+  - date: 'July 4, 2024'
+    name: Independence Day
     special: Closed
