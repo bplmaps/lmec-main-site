@@ -1,7 +1,7 @@
 ---
 draft: true
 title: Remote Talk with Elke Papelitzky
-date: 2024-06-17T04:00:00.000Z
+date: 2024-06-17T17:00:00.000Z
 publishDate: 2024-04-23T04:00:00.000Z
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx121n456/11016,6766,3143,1125/,1200/0/default.jpg
