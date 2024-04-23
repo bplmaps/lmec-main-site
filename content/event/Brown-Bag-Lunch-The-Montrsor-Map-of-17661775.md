@@ -15,12 +15,14 @@ tags:
   - Argo
 ---
 
-# New York During the Stamp Act and Revolutionary War: The Montrésor Map of 1766/1755
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This program is organized in partnership with the Washington Library at Mount Vernon as part of the [American Revolutionary Geography Online (ARGO)](https://www.argomaps.org/) grant.{{</ alert-box >}}
 
-Join Dr. Alexandra Montgomery, manager of the Library’s Center for Digital History and one of the ARGO project leads, to learn more about one of Early America’s most important cities, New York, from one of its most influential early maps: [John Montrésor's A Plan of the City of New-York](https://www.argomaps.org/maps/commonwealth:z603vs082/). Washington owned a copy of this map, which was surveyed and drafted during the heady days of the stamp act riots and published at the beginning of the American Revolution.
+### New York During the Stamp Act and Revolutionary War: The Montrésor Map of 1766/1755
 
-### Alexandra L. Montgomery
+Join Dr. Alexandra Montgomery, manager of the Library’s Center for Digital History and one of the ARGO project leads, to learn more about one of Early America’s most important cities, New York, from one of its most influential early maps: [John Montrésor's *A Plan of the City of New-York*](https://www.argomaps.org/maps/commonwealth:z603vs082/). Washington owned a copy of this map, which was surveyed and drafted during the heady days of the stamp act riots and published at the beginning of the American Revolution.
 
-![](</Screenshot 2024-04-19 161927.jpg>)
+#### Alexandra L. Montgomery
+
+{{< figure class="figure-right" src="/Screenshot 2024-04-19 161927.jpg" >}}
 
 Dr. Alexandra L. Montgomery is Manager of the Center for Digital History at the Washington Presidential Library at George Washington's Mount Vernon and one of the leads for the ARGO project. She holds a PhD in early American history from the University of Pennsylvania. When she is not wrangling digital projects about George Washington, her work focuses on land speculation, settler expansion, and mapping in eighteenth century North America.
