@@ -21,13 +21,7 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'April 14, 2024'
-    name: Sunday Before Patriot's Day
-    special: Closed
-  - date: 'April 15, 2024'
-    name: Patriot's Day
-    special: Closed
-  - date: April 28 - May 9
+  - date: April 28 - May 10
     name: Gallery Closed for Exhibition Turnover
     special: Closed
   - date: 'May 26, 2024'
