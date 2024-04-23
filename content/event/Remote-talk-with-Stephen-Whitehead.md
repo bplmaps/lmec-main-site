@@ -9,7 +9,7 @@ backgroundImage: >-
   https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:03:04:8:wdl_03048:001/1239,1029,1528,753/full/0/default.jpg
 location: 'Virtual '
 fee: Free
-registration: bplmaps.ticketleap.com/heaven--earth-remote-talk-with-stephen-whitehead/
+registration: ''
 tags:
   - Heaven & Earth
 ---
