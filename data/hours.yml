@@ -21,6 +21,9 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
+  - date: 'November 11, 2024'
+    name: Veteran’s Day
+    special: Closed
   - date: 'October 14, 2024'
     name: Indigenous People’s Day
     special: Closed
