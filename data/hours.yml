@@ -21,12 +21,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'December 25, 2024'
-    name: Christmas Day
-    special: Closed
-  - date: 'November 28, 2024'
-    name: Thanksgiving
-    special: Closed
   - date: April 28 - May 10
     name: Gallery Closed for Exhibition Turnover
     special: Closed
@@ -53,4 +47,10 @@ exceptions:
     special: Closed
   - date: 'November 11, 2024'
     name: Veteran’s Day
+    special: Closed
+  - date: 'November 28, 2024'
+    name: Thanksgiving
+    special: Closed
+  - date: 'December 25, 2024'
+    name: Christmas Day
     special: Closed
