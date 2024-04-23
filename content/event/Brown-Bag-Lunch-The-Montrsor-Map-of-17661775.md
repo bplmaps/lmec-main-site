@@ -17,7 +17,7 @@ tags:
 
 # New York During the Stamp Act and Revolutionary War: The Montrésor Map of 1766/1755
 
-Join Dr. Alexandra Montgomery, manager of the Library’s Center for Digital History and one of the ARGO project leads, to learn more about one of Early America’s most important cities, New York, from one of its most influential early maps: [John Montrésor's A Plan of the City of New-York](http://catalog.mountvernon.org/digital/collection/p16829coll42/id/238?_gl=1*1dhe36n*_ga*NTY4NTk0OTk3LjE3MTM1NTY2NjE.*_ga_Z7H51J8C80*MTcxMzU1NjY2MC4xLjEuMTcxMzU1NzU3MC41OC4wLjA.). Washington owned a copy of this map, which was surveyed and drafted during the heady days of the stamp act riots and published at the beginning of the American Revolution.
+Join Dr. Alexandra Montgomery, manager of the Library’s Center for Digital History and one of the ARGO project leads, to learn more about one of Early America’s most important cities, New York, from one of its most influential early maps: [John Montrésor's A Plan of the City of New-York](https://www.argomaps.org/maps/commonwealth:z603vs082/). Washington owned a copy of this map, which was surveyed and drafted during the heady days of the stamp act riots and published at the beginning of the American Revolution.
 
 ### Alexandra L. Montgomery
 
