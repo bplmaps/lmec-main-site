@@ -15,7 +15,7 @@ tags:
 
 # Washington and the West: The Hutchins Map of 1778
 
-Join Dr. Alexandra Montgomery, manager of the Library’s Center for Digital History and one of the ARGO project leads, to learn more about George Washington’s relationship to the American west and one of the maps he used most frequently during the American Revolution: [Thomas Hutchin’s 1778 A New Map of the Western Parts of Virginia, Pennsylvania, Maryland, and North Carolina](https://catalog.mountvernon.org/digital/collection/p16829coll42/id/283/rec/3?_gl=1*1vxsmxp*_ga*NTY4NTk0OTk3LjE3MTM1NTY2NjE.*_ga_Z7H51J8C80*MTcxMzU1NjY2MC4xLjEuMTcxMzU1NzA0MC40Mi4wLjA.). Washington used this map both during the war and after, when it informed his speculation in western lands and helped define how he understood the new nation he had helped create.
+Join Dr. Alexandra Montgomery, manager of the Library’s Center for Digital History and one of the ARGO project leads, to learn more about George Washington’s relationship to the American west and one of the maps he used most frequently during the American Revolution: [Thomas Hutchin’s 1778 A New Map of the Western Parts of Virginia, Pennsylvania, Maryland, and North Carolina](https://www.argomaps.org/maps/commonwealth:z603vv18q/). Washington used this map both during the war and after, when it informed his speculation in western lands and helped define how he understood the new nation he had helped create.
 
 ### Alexandra L. Montgomery
 
