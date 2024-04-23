@@ -21,7 +21,7 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: July 4
+  - date: 'July 4, 2024'
     name: Independence Day
     special: Closed
   - date: April 28 - May 10
