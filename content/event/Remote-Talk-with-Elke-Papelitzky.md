@@ -9,7 +9,7 @@ backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx121n456/11016,6766,3143,1125/,1200/0/default.jpg
 location: 'Virtual '
 fee: Free
-registration: bplmaps.ticketleap.com/remote-talk-with-elke-papelitzky/
+registration: ''
 tags:
   - Heaven & Earth
 ---
