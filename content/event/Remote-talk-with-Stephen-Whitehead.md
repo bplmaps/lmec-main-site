@@ -11,6 +11,7 @@ location: 'Virtual '
 fee: Free
 registration: ''
 tags:
+  - exhibition
   - Heaven & Earth
 ---
 
