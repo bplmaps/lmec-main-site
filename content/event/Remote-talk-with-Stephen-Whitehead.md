@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 'Heaven & Earth: Remote talk with Stephen Whitehead'
+title: 'The Blue Maps of China: A Conversation with Stephen Whitehead'
 date: 2024-07-09T23:00:00.000Z
 publishDate: 2024-04-23T04:00:00.000Z
 image: >-
