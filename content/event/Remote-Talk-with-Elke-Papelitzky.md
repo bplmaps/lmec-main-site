@@ -1,6 +1,6 @@
 ---
 draft: false
-title: A Conversation with Elke Papelitzky
+title: 'The Blue Maps of China: A Conversation with Elke Papelitzky'
 date: 2024-06-17T17:00:00.000Z
 publishDate: 2024-04-23T04:00:00.000Z
 image: >-
