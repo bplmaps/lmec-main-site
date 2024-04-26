@@ -32,11 +32,11 @@ Portraying the world at the top of SoWa food trucks, this map was done by the sa
 
 Seeing the world at the top of Jamaica Plain, the artist brings a different view to visitors. In this art peace, unlike the previous maps with towering buildings and exaggerated perspective lines, this map appears less abstract. Additionally, the colors are relatively soft and muted. Continuing with the same artistic style as the previous maps by this artist, you can even see Tokyo and Canada at the top of the map.
 
-##### [Panoramic view of the Gettysburg battlefield](https://collections.leventhalmap.org/search/commonwealth:xg94j201t) (1866)
+##### Raúl the Third & Elaine Bay [Boston kids count](https://collections.leventhalmap.org/search/commonwealth:rr173g25m) (2020)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:xg94j2023/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rr173g26w/full/1200,/0/default.jpg" class="" >}}
 
-The three-day battle that occurred at Gettysburg, July 1-3, 1863, is considered the turning point of the War. Our memory of the war’s most significant battle is reinforced by approximately 150 maps that have been published in the years following the conflict, far more than any other battle. One of the most unusual is this [untitled and undated diagram](https://collections.leventhalmap.org/search/commonwealth:xg94j201t) that provides an unconventional fish-eye or 360-degree panoramic view of the battlefield. In the center of this circular, pictorial diagram is a numbered legend identifying 57 landmarks, locations of specific regiments, or sites of selected casualties.
+Map as art; art is a way for children to communicate. Innocent and romantic character images, along with vivid color blocks, form unique maps. The cartoons expressed in an artful and playful manner can engage children's attention and make them patient enough to explore different maps.
 
 ##### New York : Harper & Brothers, [Pictorial map of the city of Paris and its environs, showing the principal buildings, monuments, parks etc., the French fortifications, and the Prussian lines of investment](https://collections.leventhalmap.org/search/commonwealth:9s1619235) (1871)
 
