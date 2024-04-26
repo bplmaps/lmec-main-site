@@ -26,11 +26,11 @@ Illustrating the world at the top of Back Bay, the artist brings a different vie
 
 Portraying the world at the top of SoWa food trucks, this map was done by the same artist as the Back Bay map as shown during this event. What distinguishes this map from the one of Back Bay  is the apparent use of “sticker art” technique. Many little figures seem to have been cut out from other comic books and pasted onto the map, creating an effect similar to the original medium. Again, it's a map full of color and childlike wonder.
 
-##### National Geographic Society, [Bird's-eye view of the Panama Canal](https://collections.leventhalmap.org/search/commonwealth:9s1619499) (1912)
+##### Belle Hornblower [Jamaica Plain view of the world](https://collections.leventhalmap.org/search/commonwealth:c534jj47j) (2020)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s1619502/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:t148jb99w/full/1200,/0/default.jpg" >}}
 
-Depicting a spectacular view of the Panama Canal, [this map](https://collections.leventhalmap.org/search/commonwealth:9s1619499) would have been of very high interest at the time. Created by National Geographic in 1912, the Panama Canal was not yet completed (construction finished in 1914). At this point in time, the only other route between the Atlantic and Pacific oceans was to sail around South America or use the Panama Railroad to transfer goods and people from one ocean to another. Both of these options were incredibly time consuming, if not outright treacherous, and many people were eager to see any progress being made on the canal.
+Seeing the world at the top of Jamaica Plain, the artist brings a different view to visitors. In this art peace, unlike the previous maps with towering buildings and exaggerated perspective lines, this map appears less abstract. Additionally, the colors are relatively soft and muted. Continuing with the same artistic style as the previous maps by this artist, you can even see Tokyo and Canada at the top of the map.
 
 ##### [Panoramic view of the Gettysburg battlefield](https://collections.leventhalmap.org/search/commonwealth:xg94j201t) (1866)
 
