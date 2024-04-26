@@ -56,8 +56,8 @@ Feel the heat and enthusiasm of Acapulco, Mexico through this colorful map. The 
 
 This map was created for realtors traveling to Tulsa for a national conference, aiming to provide them with visual information about the geographical features and cultural atmosphere of the area. By using bright and vibrant primary colors of red, yellow, and blue, along with interesting cartoon elements, the map presents a summer ambiance and playful characteristics, thereby capturing the audience's attention and enhancing visual impact.
 
-##### S. Orozco [Acapulco, México](https://collections.leventhalmap.org/search/commonwealth:fn107c42v) (1980)
+##### Miguel Covarrubias Art forms of the Pacific area (1940)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c434/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm09q/full/1200,/0/default.jpg" class="" >}}
 
-Feel the heat and enthusiasm of Acapulco, Mexico through this colorful map. The golden beach, blue sea, and red sailboats evoke thoughts of summer. You can just imagine enjoying the sea breeze and waves and experiencing the charm of Mexico.
+In this map, art is the media that connects the whole world - depicting the details of art forms from across the pacific area. through this, we can recognize the diversity of art and culture worldwide. Within this diversity, we may also observe similarities amongst the artworks or resonate with various aspects of them.
