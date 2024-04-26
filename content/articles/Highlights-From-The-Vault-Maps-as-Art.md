@@ -12,9 +12,9 @@ tags:
 
 > On April 26, we hosted From The Vault: Maps as Art! \
 > \
-> From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. Panoramic maps, also known as bird’s eye view maps, were a popular cartographic form used primarily by U.S. cities and towns during the late nineteenth and early twentieth centuries. Although not generally drawn to scale like a more “traditional” map, they show street patterns, individual buildings, and major landscape features from a raised perspective - resembling what a bird might see if it was flying over the area.
+> From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. This week, we explored the ways in which maps use art and masterful artistry in order to tell a story through mapmaking! From the 16 century to modern day, visitors were encouraged to view the ways in which art has influenced map making since the beginning. 
 
-##### Belle Hornblower [Back Bay view of the world](https://collections.leventhalmap.org/search/commonwealth:0c486g26b) (2017)
+##### Belle Hornblower *[Back Bay view of the world](https://collections.leventhalmap.org/search/commonwealth:0c486g26b) *(2017)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0v83bt61c/full/1200,/0/default.jpg" >}}
 
@@ -56,7 +56,7 @@ Feel the heat and enthusiasm of Acapulco, Mexico through this colorful map. The 
 
 This map was created for realtors traveling to Tulsa for a national conference, aiming to provide them with visual information about the geographical features and cultural atmosphere of the area. By using bright and vibrant primary colors of red, yellow, and blue, along with interesting cartoon elements, the map presents a summer ambiance and playful characteristics, thereby capturing the audience's attention and enhancing visual impact.
 
-##### Miguel Covarrubias Art forms of the Pacific area (1940)
+##### Miguel Covarrubias [Art forms of the Pacific area](https://collections.leventhalmap.org/search/commonwealth:0r96fm08f) (1940)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm09q/full/1200,/0/default.jpg" class="" >}}
 
