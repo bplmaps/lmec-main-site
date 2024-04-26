@@ -38,11 +38,11 @@ Seeing the world at the top of Jamaica Plain, the artist brings a different view
 
 Map as art; art is a way for children to communicate. Innocent and romantic character images, along with vivid color blocks, form unique maps. The cartoons expressed in an artful and playful manner can engage children's attention and make them patient enough to explore different maps.
 
-##### New York : Harper & Brothers, [Pictorial map of the city of Paris and its environs, showing the principal buildings, monuments, parks etc., the French fortifications, and the Prussian lines of investment](https://collections.leventhalmap.org/search/commonwealth:9s1619235) (1871)
+##### Frans Hogenburg [Magnifica illa civitas Verona ; Colonia augusta Verona nova gallieniana](https://collections.leventhalmap.org/search/commonwealth:q524n390w) (1582)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161924f/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nh83z/full/1200,/0/default.jpg" >}}
 
-Depicting the Siege of Paris, which took part during the Franco-Prussian War, [this map](https://collections.leventhalmap.org/search/commonwealth:9s1619235) was created shortly after the French surrendered the city. Lead by the Germans, the siege lasted more than four months and cut off from supplies from the countryside, leading the Parisians to eventually begin eating dogs, cats, and even most of the animals in the Paris zoo by the siege’s end. Included in Harper’s Weekly, an American general interest magazine, the American public would have been incredibly interested in seeing what the landscape of Paris looked like during the war.
+The 1582 map illustrates Verona, known as a center for art and architecture, in two views, complete with vignettes on the left, and the Arena – a remnant from the city's importance in Roman times – on the right. Though produced before the play had even been in the drafts, the story of Romeo and Juliet was set in Verona, which would have looked near exactly the same as depicted here. 
 
 ##### H. Geissler, [Martel's New York Central Park : respectfully dedicated to the park commissioners](https://collections.leventhalmap.org/search/commonwealth:0r96fp760) (1864)
 
