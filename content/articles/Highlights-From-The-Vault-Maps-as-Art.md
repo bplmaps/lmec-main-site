@@ -44,8 +44,8 @@ Map as art; art is a way for children to communicate. Innocent and romantic char
 
 The 1582 map illustrates Verona, known as a center for art and architecture, in two views, complete with vignettes on the left, and the Arena – a remnant from the city's importance in Roman times – on the right. Though produced before the play had even been in the drafts, the story of Romeo and Juliet was set in Verona, which would have looked near exactly the same as depicted here. 
 
-##### H. Geissler, [Martel's New York Central Park : respectfully dedicated to the park commissioners](https://collections.leventhalmap.org/search/commonwealth:0r96fp760) (1864)
+##### S. Orozco [Acapulco, México](https://collections.leventhalmap.org/search/commonwealth:fn107c42v) (1980)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp778/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c434/full/1200,/0/default.jpg" class="" >}}
 
-In[ this birds-eye view](https://collections.leventhalmap.org/search/commonwealth:0r96fp760) of the park, the viewer observes from the junction of 59th St. and 5th Ave.  Printed six years after work on the park began, it would undergo another 12 years of construction before its completion in 1876. Its previous location in view, Seneca Village was a middle-class settlement of freed African Americans (the first of its kind in the city) that was forcibly seized by the City of New York in order to create Central Park. Though magnificent in its scope even a third of the way through it’s construction, it’s necessary to remember what it took to build the park and who was mandated to provide it.
+Feel the heat and enthusiasm of Acapulco, Mexico through this colorful map. The golden beach, blue sea, and red sailboats evoke thoughts of summer. You can just imagine enjoying the sea breeze and waves and experiencing the charm of Mexico.
