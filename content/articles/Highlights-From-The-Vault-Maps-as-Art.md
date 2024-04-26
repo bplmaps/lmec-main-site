@@ -20,11 +20,11 @@ tags:
 
 Illustrating the world at the top of Back Bay, the artist brings a different view to visitors’ experience. The bottom half of this picture is an aerial view of Back Bay, with the lines drawn freely using a ballpoint pen, and the colors added using water-soluble colored pencils. It makes me feel a sense of childlike wonder and imagination within this artistically rendered map. At the upper edge of the image, you can even see the Eiffel Tower and the famous Russian Orthodox Church!
 
-##### Boston and Maine Railroad, Passenger Department, [Bird’s Eye View from the Summit of Mt. Washington, New Hampshire](https://collections.leventhalmap.org/search/commonwealth:wd3763140) (1902)
+##### Belle Hornblower [View of SoWa food trucks](https://collections.leventhalmap.org/search/commonwealth:zc77wm025) (2016)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3763158/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0c486g252/full/1200,/0/default.jpg" >}}
 
-Although entitled a bird’s-eye view, this colorful presentation provides a fish-eye or 360-degree panoramic perspective. It distorts the topography of Mount Washington from a single vantage point directly above the mountain. The mountain’s summit, with accurately delineated buildings and the approaching road and railroad, is the central focus. Everything else is distorted. The surrounding mountains appear in the distance as non-distinctive colored hills, but each is numbered and identified in corresponding lists in the map’s four corners. Published by the Boston and Maine Railroad, [this artistic piece](https://collections.leventhalmap.org/search/commonwealth:wd3763140) would certainly appeal to tourists visiting New England’s tallest landmark.
+Portraying the world at the top of SoWa food trucks, this map was done by the same artist as the Back Bay map as shown during this event. What distinguishes this map from the one of Back Bay  is the apparent use of “sticker art” technique. Many little figures seem to have been cut out from other comic books and pasted onto the map, creating an effect similar to the original medium. Again, it's a map full of color and childlike wonder.
 
 ##### National Geographic Society, [Bird's-eye view of the Panama Canal](https://collections.leventhalmap.org/search/commonwealth:9s1619499) (1912)
 
