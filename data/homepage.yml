@@ -64,11 +64,11 @@ cta:
         Apply by May 20 for the Small Grants for Early Career Digital
         Publications program.
       link: 'https://www.leventhalmap.org/research/digital-publication-small-grants/'
-    - badge: New Exhibition Opening
+    - badge: Closed for Turnover
       text: >-
-        The last day to visit _Getting Around Town_ is April 27. Our gallery
-        will be closed April 28 through May 10, and will reopen on May 11 with
-        _Heaven & Earth_.
+        Our gallery
+        is closed through May 10 and will reopen on May 11 with
+        _Heaven & Earth_. Reference and research services remain available during the exhibition closure.
       link: 'https://www.leventhalmap.org/exhibitions'
 audiences:
   enable: true
@@ -167,7 +167,7 @@ funfacts:
 blog:
   enable: true
   title: Articles
-todaysHours: true
+todaysHours: false
 upcomingLivestream:
   enable: false
   embedLink: >-
