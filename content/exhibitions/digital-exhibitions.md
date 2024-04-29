@@ -10,27 +10,32 @@ weight: '3'
 
 ## Current digital exhibition
 
-#### Getting Around Town: Four Centuries of Mapping Boston in Transit
+#### *Heaven & Earth: The Blue Maps of China*
 
-<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/getting-around-town/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for Getting Around Town</a>
+<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for Heaven & Earth</a>
 
-#### Becoming Boston: Eight Moments in the Geography of a Changing City
+#### *Becoming Boston: Eight Moments in the Geography of a Changing City*
 
 <a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/becoming-boston/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for Becoming Boston</a>
 
 ## Past digital exhibitions
 
-#### Building Blocks: Boston Stories from Urban Atlases
+
+#### *Getting Around Town: Four Centuries of Mapping Boston in Transit*
+
+<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/getting-around-town/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for Getting Around Town</a>
+
+#### *Building Blocks: Boston Stories from Urban Atlases*
 
 <a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/building-blocks/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for Building Blocks</a>
 
-#### More or Less in Common: Environment and Justice in the Human Landscape
+#### *More or Less in Common: Environment and Justice in the Human Landscape*
 
 <a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for More or Less in Common</a>
 
 The digital exhibition for our upcoming show, **More or Less in Common**, features zoomable, high-resolution images of all of the exhibition objects; interactive features like original, digital maps; interviews with advocates from the local, national, and global environmental justice movement; and lesson plans and activities designed specially for K-12 students.
 
-#### Bending Lines: Maps and Data from Distortion to Deception
+#### *Bending Lines: Maps and Data from Distortion to Deception*
 
 <a class="btn btn-outline-primary btn-block" href="https://leventhalmap.org/digital-exhibitions/bending-lines"><i class="fas fa-images me-2"></i>Enter the digital exhibition for Bending Lines</a>
 

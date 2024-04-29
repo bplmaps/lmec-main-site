@@ -8,13 +8,21 @@ description: >-
 weight: '4'
 ---
 
+### *Getting Around Town: Four Centuries of Mapping Boston in Transit*
+
+*September 9, 2023 – April 27, 2024*
+
+How do Bostonians get from here to there in a city full of trains, trolleys, ferries, and more? Whether in the familiar colored lines of today’s MBTA map or the complicated timetables of long-vanished omnibus routes, maps have long been an indispensable instrument for getting around town. This exhibition features an extraordinary collection of transit maps dating from the seventeenth century to the present, and invites questions about how people have moved around the city in the past, present, and future. Public events during the exhibition will encourage visitors to engage with issues of mobility and transportation justice in the present day.
+
+Visit the digital exhibition for [*Getting Around Town*](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/)
+
 ### Building Blocks: Boston Stories from Urban Atlases
 
-*January 13 *– A*ugust 23, 2023*
+*January 13 *– August 23, 2023*
 
 In the period spanning the Civil War to World War II, Boston’s urban fabric experienced profound changes. *Building Blocks* travels to different areas of metropolitan Boston from the 1870s to the 1930s for an episodic view of history, illuminating the many stories that are preserved in the atlases. Beyond the stories narrated in this exhibition, the rich details of the atlases help modern viewers imagine what one’s own story in a rapidly developing city might have looked like during a moment steeped in change.
 
-Visit the digital exhibition for [Building Blocks](https://www.leventhalmap.org/digital-exhibitions/building-blocks/)
+Visit the digital exhibition for [*Building Blocks*](https://www.leventhalmap.org/digital-exhibitions/building-blocks/)
 
 ### More or Less in Common: Environment and Justice in the Human Landscape
 
