@@ -3,7 +3,7 @@ title: Cartography Challenges
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nj00d/1508,1243,2243,1217/full/0/default.jpg
 cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nj00d/1508,1243,2243,1217/full/0/default.jpg
 description: Submit to the Center's ongoing Cartography Challenges for a chance to be featured in our digital exhibition
-weight: "1"
+weight: 2
 
 ---
 
