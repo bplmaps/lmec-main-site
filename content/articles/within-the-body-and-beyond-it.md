@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Within the Body and Beyond It
 date: 2024-04-30T04:00:00.000Z
 author: Ilana Bean
