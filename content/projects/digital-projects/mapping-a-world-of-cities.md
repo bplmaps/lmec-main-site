@@ -6,7 +6,6 @@ resourceUrl = "https://www.leventhalmap.org/projects/mapping-a-world-of-cities/"
 tags = ["interactive"]
 title = "Mapping a World of Cities"
 type = "digital-project"
-menu = false
 weight = 5
 
 +++

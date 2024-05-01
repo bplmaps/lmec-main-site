@@ -8,7 +8,6 @@ resourceUrl: https://cartinal.leventhalmap.org/documentation/panel-truck.html
 tags:
 - interactive
 type: digital-project
-menu: false
 weight: "3"
 
 ---

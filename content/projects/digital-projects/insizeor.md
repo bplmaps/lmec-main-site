@@ -6,7 +6,6 @@ description: Make scale comparisons anywhere on a map, using reference objects l
 resourceUrl: "https://www.leventhalmap.org/projects/insizeor/"
 tags: ["interactive","scale"]
 type: "digital-project"
-menu: false
 weight: 5
 
 ---

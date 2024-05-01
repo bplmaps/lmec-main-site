@@ -6,7 +6,6 @@ description: Explore maps and digital data in interactive settings with remixabl
 resourceUrl: "https://glitch.com/@bplmaps"
 tags: ["dataviz","interactive","GIS"]
 type: "digital-project"
-menu: false
 weight: 2
 
 ---

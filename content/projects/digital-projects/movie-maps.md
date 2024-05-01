@@ -8,7 +8,6 @@ resourceUrl: https://geoservices.leventhalmap.org/movie-maps/#trolley-wayfinder
 tags:
 - interactive
 type: digital-project
-menu: false
 weight: "4"
 
 ---
