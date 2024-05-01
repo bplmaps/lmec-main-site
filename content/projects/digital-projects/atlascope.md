@@ -13,6 +13,7 @@ tags:
   - interactive
   - atlascope
 type: digital-project
+menu: false
 weight: 1
 ---
 

@@ -3,7 +3,7 @@ title: 'Transportation Dreams'
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r692z/141,653,2310,778/full/0/default.jpg
 cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r692z/141,653,2310,778/full/0/default.jpg
 description: Design a speculative map of Boston's transit system
-# weight: "7"
+menu: false
 tags: [transportation, getting around town, cartography challenges]
 
 ---

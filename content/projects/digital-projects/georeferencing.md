@@ -5,6 +5,7 @@ cardImage: /images/blog/allmapsViewer.png
 description: Transform images of historic maps into layers that match onto modern web maps
 tags: ["collections","GIS","interactive"]
 type: "digital-project"
+menu: false
 weight: 2
 ---
 ### What is georeferencing? 

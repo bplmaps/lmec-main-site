@@ -4,6 +4,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r6
 cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:h989r692z/141,653,2310,778/full/0/default.jpg
 description: Exploring immigration data through anything but choropleth maps
 weight: "6"
+menu: false
 tags: [immigration, getting around town]
 
 ---

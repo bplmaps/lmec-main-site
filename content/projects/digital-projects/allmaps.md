@@ -9,6 +9,7 @@ tags:
   - georeferencing
   - allmaps
 type: digital-project
+menu: false
 weight: 1
 ---
 
