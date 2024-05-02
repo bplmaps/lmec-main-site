@@ -31,20 +31,20 @@ One of the goals of this exhibition is to encourage visitors to consider the jux
 
 ### Public Access and Programming 
 
-As with all programming at the Boston Public Library, admission to *Heaven & Earth* is free to all. Visitors will find information about gallery hours and events, as well as a companion online exhibition, at [leventhalmap.org](leventhalmap.org). Guided tours of the gallery are available for free during gallery hours, and K-12, university, and group visits are available by appointment. 
+As with all programming at the Boston Public Library, admission to *Heaven & Earth* is free to all. Visitors will find information about gallery hours and events, as well as a companion online exhibition, at [leventhalmap.org](https://leventhalmap.org). Guided tours of the gallery are available for free during gallery hours, and K-12, university, and group visits are available by appointment. 
 
-Exhibition programs for adults will be available throughout the course of the exhibition, both online and in person. An updated calendar of events and programs associated with *Heaven & Earth* can be found at [leventhalmap.org/event](leventhalmap.org/event). *Heaven & Earth* closes on August 31, 2024. 
+Exhibition programs for adults will be available throughout the course of the exhibition, both online and in person. An updated calendar of events and programs associated with *Heaven & Earth* can be found at [leventhalmap.org/event](https://leventhalmap.org/event). *Heaven & Earth* closes on August 31, 2024. 
 
 ### Events and Engagement 
 
-Public events and outreach programs during the run of *Heaven & Earth* will include curatorial talks, interpretive content in a companion digital exhibition, and hands-on gallery activities. More details on exhibition-related activities will be announced later this spring at [leventhalmap.org/event](leventhalmap.org/event). 
+Public events and outreach programs during the run of *Heaven & Earth* will include curatorial talks, interpretive content in a companion digital exhibition, and hands-on gallery activities. More details on exhibition-related activities will be announced later this spring at [leventhalmap.org/event](https://leventhalmap.org/event). 
 
 ### Hours and Exhibition Details 
 
 *Heaven & Earth: The Blue Maps of China* will be open Tuesdays, Thursdays, Fridays, and Saturdays from 11 am–5 pm, Wednesdays from 1-7 pm, and Sundays from 1–5 pm. Admission is free. Guided tours are available by advance request. 
-* More information on the exhibition, including directions, access, and visitor requirements can be found at [leventhalmap.org/exhibitions](leventhalmap.org/exhibitions). 
-* An updated calendar of events and programs associated with *Heaven & Earth* can be found at [leventhalmap.org/event](leventhalmap.org/event).  
-* The companion digital exhibition for *Heaven & Earth* can be found at [leventhalmap.org/digital-exhibitions/heaven-and-earth/](leventhalmap.org/digital-exhibitions/heaven-and-earth/).  
+* More information on the exhibition, including directions, access, and visitor requirements can be found at [leventhalmap.org/exhibitions](https://leventhalmap.org/exhibitions). 
+* An updated calendar of events and programs associated with *Heaven & Earth* can be found at [leventhalmap.org/event](https://leventhalmap.org/event).  
+* The companion digital exhibition for *Heaven & Earth* can be found at [leventhalmap.org/digital-exhibitions/heaven-and-earth/](https://leventhalmap.org/digital-exhibitions/heaven-and-earth/).  
 
 ### Media Contact 
 
@@ -62,4 +62,4 @@ Established in 1848, the Boston Public Library is a pioneer of public library se
 
 The Boston Public Library of today is a robust system that includes the Central Library in Copley Square, 25 neighborhood branches, the Norman B. Leventhal Map and Education Center, the Kirstein Business Library and Innovation Center, and an archival center, offering public access to world-class special collections of rare books, manuscripts, photographs, and prints, along with rich digital content and online services. 
 
-The Boston Public Library serves nearly 4 million visitors per year and millions more online. All its programs and exhibitions are free to all and open to the public. The Boston Public Library is a department of the City of Boston, under the leadership of Mayor Michelle Wu. To learn more, visit [bpl.org](bpl.org). 
+The Boston Public Library serves nearly 4 million visitors per year and millions more online. All its programs and exhibitions are free to all and open to the public. The Boston Public Library is a department of the City of Boston, under the leadership of Mayor Michelle Wu. To learn more, visit [bpl.org](https://bpl.org). 
