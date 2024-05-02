@@ -20,6 +20,8 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 **Press for *Getting Around Town***
 
+[The Huntington News - VIDEO: ‘Getting Around Town’ exhibit documents 400 years of Boston transit history](https://huntnewsnu.com/77467/multimedia/videos/video-getting-around-town-exhibit-documents-400-years-of-boston-transit-history/)
+
 [The Boston Globe - *Boston Public Library asks supporters to come up with new names for MBTA stops*](https://www.bostonglobe.com/2024/01/31/metro/mbta-stop-names-bpl/)
 
 [The Huntington News - 'Getting Around Town' exhibit shows deep history of Boston transit system](https://huntnewsnu.com/75608/city-pulse/getting-around-town-exhibit-shows-deep-history-of-boston-transit-system/)
@@ -97,6 +99,7 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 ## Press Releases
 
 **2024**
+
 * [New Exhibition of Chinese Maps Takes a Close Look at Cosmography and Color](https://www.leventhalmap.org/about/press-releases/heaven-and-earth-press-release/)
 
 **2023**
