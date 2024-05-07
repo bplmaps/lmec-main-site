@@ -3,8 +3,10 @@ draft: false
 title: From the Vault Collections Showing — Stars Above You
 date: 2024-05-17T18:00:00.000Z
 publishDate: 2024-05-07T13:00:00.000Z
-image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/FTV.png'
-backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/FTV.png'
+image: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f930w/full/1200,/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f930w/full/1200,/0/default.jpg
 location: Leventhal Map & Education Center – Learning Center
 fee: Free
 tags:
