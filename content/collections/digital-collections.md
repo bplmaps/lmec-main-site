@@ -18,6 +18,11 @@ quicklinks:
   link: https://atlascope.org
 
 ---
+## Searching the digital collections {#quick-search}
+
+{{< digital-collections-union-search >}}
+
+
 ## Using the digital collections
 
 The Leventhal Map & Education Center has one of the most significant digital collections of any North American map library. We encourage all kinds of research and exploration into our collections through digital access, and seek to make digital material available on the most permissive licenses possible.
@@ -37,10 +42,6 @@ Our materials are mainly available on two online repositories, both of which are
 * **Atlascope.** The [Atlascope project](/projects/digital-projects/#atlascope) involves the digital transformation of over a hundred fire insurance and real estate atlases of Boston and its inner suburbs, showing detail down to the parcel and building level for a period from 1860–1940. <a href="https://atlascope.org" class="btn btn-outline-primary btn-xs me-2"><i class="fas fa-eye"></i> Go to the Atlascope web app</a>
 * **Digital Commonwealth.** Our Digital Collections portal is part of [Digital Commonwealth](https://www.digitalcommonwealth.org), a consortium of more than 180 cultural heritage organizations across Massachusetts. From the Digital Commonwealth repository, you can search Map Center collections together with maps, images, texts, sound records, and millions of other objects from other institutions. <a href="https://digitalcommonwealth.org" class="btn btn-outline-primary btn-xs me-2"><i class="fas fa-eye"></i> Go to the Digital Commonwealth portal</a>
 * **Flickr.** Before the development of our Digital Collections portal, we uploaded full-resolution images to the photo-sharing site Flickr. You can [browser our images here](https://secure.flickr.com/photos/normanbleventhalmapcenter/). We are no longer actively adding new material to our Flickr collections.
-
-## Searching the digital collections {#quick-search}
-
-{{< digital-collections-union-search >}}
 
 
 ## Advanced access to digital objects
