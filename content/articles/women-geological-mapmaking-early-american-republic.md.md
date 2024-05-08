@@ -5,14 +5,21 @@ date: 2024-06-01T04:00:00.000Z
 author: Allison Fulton
 description: How young women shaped our understandings of the earth
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k433/574,619,8069,5665/pct:20/0/default.jpg
+  https://acdc.amherst.edu/cantaloupe/iiif/2/media%2FOrraClassroomDrawings%2Fma01020-0027%2Fimage-ma01020-0027-c37a612e-df2e-49be-b375-b18ae72fdb61.jpg/full/1200,/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k433/574,619,8069,5665/pct:20/0/default.jpg
+  https://acdc.amherst.edu/cantaloupe/iiif/2/media%2FOrraClassroomDrawings%2Fma01020-0027%2Fimage-ma01020-0027-c37a612e-df2e-49be-b375-b18ae72fdb61.jpg/full/1200,/0/default.jpg
 ---
 
 Vertebrates and invertebrates. Fossil footprints. Rock strata of local regions in Massachusetts and international areas across Europe. These vibrant illustrations---constructed out of large swathes of common household fabrics illustrated with ink and watercolor---are some of more than sixty geological maps and diagrams crafted by early American scientific illustrator Orra White Hitchcock in the 1830s to facilitate student learning in the Amherst College classrooms of her husband, leading early 19th-century geologist Edward Hitchcock.
 
-\[INSERT CAROUSEL\]
+{{< carousel >}}
+    {{< carousel-figure src="https://acdc.amherst.edu/cantaloupe/iiif/2/media%2FOrraClassroomDrawings%2Fma01020-0042%2Fimage-ma01020-0042-451c9f9d-9853-4a75-82e6-374fbdd70030.jpg/full/1200,/0/default.jpg" target='blank' >}}[Mastodon maximus skeleton](https://acdc.amherst.edu/view/OrraClassroomDrawings/ma01020-0042){{< /carousel-figure >}}
+    {{< carousel-figure src="https://acdc.amherst.edu/cantaloupe/iiif/2/media%2FOrraClassroomDrawings%2Fma01020-0061%2Fimage-ma01020-0061-f0c9674f-4b7d-4bc5-a3cd-b8dfd9a078ab.jpg/full/1200,/0/default.jpg" target="blank">}}[Invertebrate fossils](https://acdc.amherst.edu/view/OrraClassroomDrawings/ma01020-0061){{< /carousel-figure >}}
+    {{< carousel-figure src="https://acdc.amherst.edu/cantaloupe/iiif/2/media%2FOrraClassroomDrawings%2Fma01020-0037%2Fimage-ma01020-0037-61df0acd-677e-4d7d-9eff-7021ce99067c.jpg/full/1200,/0/default.jpg" target="blank">}}[Fossil footprints](https://acdc.amherst.edu/view/OrraClassroomDrawings/ma01020-0037) discovered and named by Edward Hitchcock{{< /carousel-figure >}}
+    {{< carousel-figure src="https://acdc.amherst.edu/cantaloupe/iiif/2/media%2FOrraClassroomDrawings%2Fma01020-0017%2Fimage-ma01020-0017-a74de7a2-7606-4c91-9126-0151c778301b.jpg/full/1200,/0/default.jpg" target="blank">}}[Map of the Connecticut River Valley](https://acdc.amherst.edu/view/OrraClassroomDrawings/ma01020-0017) after Edward Hitchcock’s published 1817 map of the same region that was hand colored by Orra. It is the earliest detailed geological map of an American region.{{< /carousel-figure >}}
+    {{< carousel-figure src="https://acdc.amherst.edu/cantaloupe/iiif/2/media%2FOrraClassroomDrawings%2Fma01020-0027%2Fimage-ma01020-0027-c37a612e-df2e-49be-b375-b18ae72fdb61.jpg/full/1200,/0/default.jpg" target="blank">}}[Strata across Massachusetts](https://acdc.amherst.edu/view/OrraClassroomDrawings/ma01020-0027) after an engraving in Edward Hitchcock’s 1832 geological report of Masschusetts{{< /carousel-figure >}}
+    {{< carousel-figure src="https://acdc.amherst.edu/cantaloupe/iiif/2/media%2FOrraClassroomDrawings%2Fma01020-0010%2Fimage-ma01020-0010-dac0d92f-b9a2-4ba1-a089-828e4fe1b5ce.jpg/full/1200,/0/default.jpg" target="blank">}}[Section of the Tyrolese Alps](https://acdc.amherst.edu/view/OrraClassroomDrawings/ma01020-0010) after a hand colored engraving by prominent English geologist Henry de La Beche{{< /carousel-figure >}}
+{{</ carousel >}}
 
 These massive textile maps were not the Hitchcocks' first collaborative endeavor. Since meeting over a decade prior, the two had worked together on numerous projects. As Edward geologically surveyed the state, Orra White sketched, drew, and hand-colored hundreds of maps and diagrams for his publications and classrooms, making the state's geology accessible to popular and professional audiences alike. She was so integral to the success of her husband's scientific career that "it is probable that \[Edward\] would not have been anything great, if \[she\] had not assisted him by her drawings of everything appertaining to his study of Geology" as 1849 Amherst College graduate Martin Root suggested in his diary.[^1]
 
