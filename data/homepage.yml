@@ -57,19 +57,15 @@ slider:
 cta:
   enable: true
   announcements:
+    - badge: New Exhibition
+      text: >-
+        _Heaven & Earth_ is now on display.
+      link: 'https://www.leventhalmap.org/exhibitions/'
     - badge: Grant Opportunity
       text: >-
-        Are you an early career scholar interested in topics related to
-        geography, maps, history, or the humanistic spatial social sciences?
         Apply by May 20 for the Small Grants for Early Career Digital
         Publications program.
       link: 'https://www.leventhalmap.org/research/digital-publication-small-grants/'
-    - badge: Closed for Turnover
-      text: >-
-        Our gallery
-        is closed through May 10 and will reopen on May 11 with
-        _Heaven & Earth_. Reference and research services remain available during the exhibition closure.
-      link: 'https://www.leventhalmap.org/exhibitions'
 audiences:
   enable: true
   audienceGroups:
@@ -167,7 +163,7 @@ funfacts:
 blog:
   enable: true
   title: Articles
-todaysHours: false
+todaysHours: true
 upcomingLivestream:
   enable: false
   embedLink: >-
