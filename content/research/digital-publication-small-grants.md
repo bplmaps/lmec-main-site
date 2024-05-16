@@ -15,14 +15,7 @@ The grant consists of a **stipend of $1,200** to support research and developmen
 
 #### About the Grant
 
-The Leventhal Map & Education Center has produced numerous scholarly digital publications in a number of formats. By way of example, see:
-
-* [*Mapping Black Cambridge: 1790-1820*](https://www.leventhalmap.org/articles/mapping-black-cambridge/), by Joan Brunetta and Eve Loftus---a short essay and accompanying web map
-* [*John Winthrop's "City on a Hill," Mapped*](https://www.leventhalmap.org/articles/braccio-winthrop-map/), by Nathan Braccio---an annotated tour through a single map, produced using the LMEC-created [Panel Truck interface](https://cartinal.leventhalmap.org/documentation/panel-truck.html)
-* [*City and Country in the Trolley Decades*](https://geoservices.leventhalmap.org/movie-maps/#trolley-wayfinder), by Garrett Dash Nelson---a video talk coupled with a zoomable map controlled by keyframes in the video, produced using the LMEC-created Moviemaps interface
-* [*Mapping Renewal, Engaging Residents*](https://www.leventhalmap.org/articles/mapping-renewal-engaging-residents/), by Claire Dunning---a textual essay containing numerous images and zoom-in embeds from [Digital Commonwealth](https://digitalcommonwealth.org) and [LMEC collections](https://collections.leventhalmap.org)
-* [*Section 112 in the Boston Region: Universities, Hospitals, and Urban Renewal*](https://www.leventhalmap.org/articles/section-112-in-the-boston-region-universities-hospitals-and-urban-renewal/), by Julian Hartman---a textual essay coupled with an interactive web map
-* [*Neighbors in Name Only*](https://commonwealthmagazine.org/news-analysis/stark-differences-make-many-mass-communities-neighbors-in-name-only/), by Garrett Dash Nelson and published in _CommonWealth_---a geographic data visualization coupled with a journalistic essay
+The Leventhal Map & Education Center has produced numerous scholarly digital publications in a number of formats. To get a sense of the kinds of projects we've previously published, [check out these examples of completed publications](./digital-publications-archive.md).
 
 This grant program supports emerging scholars who seek to make their own work accessible, engaging, and interactive through similar digital publications. Any work related to topics in geography, maps, history, and the humanistic spatial social sciences is eligible for consideration under this grant, though we will prioritize projects of the following kind:
 
