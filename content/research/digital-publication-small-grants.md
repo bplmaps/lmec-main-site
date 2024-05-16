@@ -15,7 +15,7 @@ The grant consists of a **stipend of $1,200** to support research and developmen
 
 #### About the Grant
 
-The Leventhal Map & Education Center has produced numerous scholarly digital publications in a number of formats. To get a sense of the kinds of projects we've previously published, [check out these examples of completed publications](./digital-publications-archive.md).
+The Leventhal Map & Education Center has produced numerous scholarly digital publications in a number of formats. To get a sense of the kinds of projects we've previously published, [check out these examples of completed publications](../digital-publications-archive).
 
 This grant program supports emerging scholars who seek to make their own work accessible, engaging, and interactive through similar digital publications. Any work related to topics in geography, maps, history, and the humanistic spatial social sciences is eligible for consideration under this grant, though we will prioritize projects of the following kind:
 
