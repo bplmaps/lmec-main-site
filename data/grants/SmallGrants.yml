@@ -1,0 +1,80 @@
+- Name: Claire Dunning
+  Cycle: 2023
+  Title: Mapping Renewal, Engaging Residents
+  Complete: "yes"
+  ProjectUrl: https://www.leventhalmap.org/articles/mapping-renewal-engaging-residents/
+  ImageUrl: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0k227t92j/full/pct:20/0/default.jpg
+  Color: bg-info
+- Name: Nathan Braccio
+  Cycle: 2023
+  Title: "John Winthrop's 'City on a Hill,' Mapped"
+  Complete: "yes"
+  ProjectUrl: https://www.leventhalmap.org/articles/braccio-winthrop-map/
+  ImageUrl: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:vd66zg12n/1847,1940,1809,748/1200,/0/default.jpg
+  Color: bg-info
+- Name: Deland Chan
+  Cycle: 2023
+  Title: Putting Chinatown on the Map
+  Complete: "yes"
+  ProjectUrl: https://www.leventhalmap.org/articles/central-subway-infrastructural-advocacy/
+  ImageUrl: https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~328333~90096800/full/1200,/0/default.jpg
+  Color: bg-info
+- Name: Lydia Harrington and Chloe Bordewich
+  Cycle: 2023
+  Title: Boston’s Little Syria
+  Complete: "yes"
+  ProjectUrl: https://www.leventhalmap.org/articles/boston-little-syria/
+  ImageUrl: https://raw.githubusercontent.com/chloebordewich/boston-little-syria/main/tonyAbdelahadStJohn.jpg
+  Color: bg-info
+- Name: Julian Hartman
+  Cycle: 2023
+  Title: Urban Renewal and Section 112 Credits
+  Complete: "yes"
+  ProjectUrl: https://www.leventhalmap.org/articles/section-112-in-the-boston-region-universities-hospitals-and-urban-renewal/
+  ImageUrl: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7p88g262c/206,400,2602,1336/pct:50/0/default.jpg
+  Color: bg-info
+- Name: Tieanna Graphenreed
+  Cycle: 2023
+  Title: Mapping the Brownies’ Book
+  Complete: "yes"
+  ProjectUrl: https://www.leventhalmap.org/articles/brownies-book-in-boston/
+  ImageUrl: https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2004:2004ser01351:0001/78,118,2241,1654/1200,/0/default.jpg
+  Color: bg-info
+- Name: Eve Loftus and Joan Brunetta
+  Cycle: 2023
+  Title: Black Life in Cambridge, 1790-1820
+  Complete: "yes"
+  ProjectUrl: https://www.leventhalmap.org/articles/mapping-black-cambridge/
+  ImageUrl: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:25152g836/277,250,2927,2082/1200,/0/default.jpg
+  Color: bg-info
+- Name: Ilana Bean
+  Cycle: 2024
+  Title: Within the Body and Beyond It
+  Complete: "yes"
+  ProjectUrl: https://www.leventhalmap.org/articles/within-the-body-and-beyond-it/
+  ImageUrl: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:06:76:6:wdl_06766:am000289/full/1200,/0/default.jpg
+  Color: bg-warning
+- Name: Ally Fulton
+  Cycle: 2024
+  Title: Women’s craft making, science, geology
+  Complete: "no"
+  ProjectUrl: null
+  ImageUrl: null
+- Name: Alice King
+  Cycle: 2024
+  Title: Pequot country on sellers and foster maps
+  Complete: "no"
+  ProjectUrl: null
+  ImageUrl: null
+- Name: Charlotte Leib
+  Cycle: 2024
+  Title: "The needle in the haystack: charting new energy histories of early America with plants, maps, and digital methods"
+  Complete: "no"
+  ProjectUrl: null
+  ImageUrl: null 
+- Name: Savita Maharaj
+  Cycle: 2024
+  Title: The Eaton Sisters and Afro-Asian Diasporic Community
+  Complete: "no"
+  ProjectUrl: null
+  ImageUrl: null
