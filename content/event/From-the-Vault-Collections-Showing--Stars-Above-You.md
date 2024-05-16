@@ -17,7 +17,7 @@ tags:
 
 Catch a falling star and put it on a map. Join us for this From the Vault collections showing to view a special selection of celestial maps, partially inspired by the lovely celestial map featured in Heaven & Earth: The Blue Maps of China, our newest exhibit. Stargaze with generations of cartographers from around the world and across centuries and cultures.
 
-This free showing will be hosted Friday, May 13 in the Learning Center with a staff member from the Leventhal Center available to answer questions.
+This free showing will be hosted Friday, May 17 in the Learning Center with a staff member from the Leventhal Center available to answer questions.
 
 Drop in any time between 2:00PM - 4:00PM. No reservation is required.
 
