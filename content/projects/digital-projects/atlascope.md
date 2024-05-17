@@ -44,7 +44,7 @@ New towns across Massachusetts are being added to Atlascope as of Spring 2023. W
 * **Susan Goganian**
 * **[FRRACS](https://www.nocompressor.com/)**
 * Alex C. & support from individual donors from Weymouth, Braintree, and Quincy
-* **[Old Colony History Museum](), Taunton**
+* **[Old Colony History Museum](https://www.oldcolonyhistorymuseum.org/), Taunton**
 
 ### More information
 
