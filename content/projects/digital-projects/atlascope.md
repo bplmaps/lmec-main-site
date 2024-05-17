@@ -42,8 +42,9 @@ New towns across Massachusetts are being added to Atlascope as of Spring 2023. W
 * **[Abbot Public Library](https://abbotlibrary.org/), Marblehead**
 * **[Dover Historical Society](http://doverhistoricalsociety.org/)**
 * **Susan Goganian**
-* **[FRRACS](https://www.nocompressor.com/)** 
+* **[FRRACS](https://www.nocompressor.com/)**
 * Alex C. & support from individual donors from Weymouth, Braintree, and Quincy
+* **[Old Colony History Museum](), Taunton**
 
 ### More information
 
