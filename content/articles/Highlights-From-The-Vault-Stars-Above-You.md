@@ -41,11 +41,13 @@ This is a “new and accurat map of the world” from 1651. Beyond the earth, th
 
 The first moveable heaven, or the primum mobile, was understood through the Renaissance as the outermost part of the universe where the stars and planets were fixed. 
 
-##### Frans Hogenburg [Magnifica illa civitas Verona ; Colonia augusta Verona nova gallieniana](https://collections.leventhalmap.org/search/commonwealth:q524n390w) (1582)
+##### Andreas Cellarius [Planisphaerium Ptolemaicum siue machina orbium mundi ex hypothesi Ptolemaica in plano disposita](https://collections.leventhalmap.org/search/commonwealth:x633f9294) (1661)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nh83z/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f930w/full/1200,/0/default.jpg" >}}
 
-The 1582 map illustrates Verona, known as a center for art and architecture, in two views, complete with vignettes on the left, and the Arena – a remnant from the city's importance in Roman times – on the right. Though produced before the play had even been in the drafts, the story of Romeo and Juliet was set in Verona, which would have looked near exactly the same as depicted here.
+This plate depicts the Earth-centered universe theorized by Claudius Ptolemy, the 2nd century A.D. geographer who lived in Alexandria, Egypt. This colorful illustration comes from a lavish celestial atlas compiled by Andreas Cellarius, a Dutch mathematician and geographer. 
+
+Look closely at the center of this diagram and you will discover a small map of the Earth's northern hemisphere. Revolving around the Earth in separate orbits are the Moon, Mercury, Venus, the Sun, Mars, Jupiter, and Saturn. The outer circle is reserved for the stars, represented as the constellations of the zodiac. This was the prevailing theory of the universe until the mid-16th century when Nicolaus Copernicus proposed a solar system centered around the Sun.
 
 ##### S. Orozco [Acapulco, México](https://collections.leventhalmap.org/search/commonwealth:fn107c42v) (1980)
 
