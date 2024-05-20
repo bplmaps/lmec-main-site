@@ -26,11 +26,11 @@ This map from the MacLean collection reminds us of the importance of the “heav
 
 In the lower left corner of this map, you will notice a sculpture bust of a bearded man with a large feather in his cap. The cartographer, William Croswell, attempted through this map and other efforts to refer to a grouping of stars of the Reticulum (a fainter constellation) as the Marmor Sculptile or the “Bust of Columbus”. Unfortunately, this did not catch on.
 
-##### Belle Hornblower [Jamaica Plain view of the world](https://collections.leventhalmap.org/search/commonwealth:c534jj47j) (2020)
+##### Matthaeus Seutter [Tabula anemographica seu pyxis nautica vulgo compass charte : quâ ventorum noia septem linguis græca scil. latina, italica, hispanica, gallica, hollandica et germanica repræsentantur succinctè elaborata](https://collections.leventhalmap.org/search/commonwealth:q524n4059) (1740)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:t148jb99w/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n406k/full/1200,/0/default.jpg" >}}
 
-Seeing the world at the top of Jamaica Plain, the artist brings a different view to visitors. In this art peace, unlike the previous maps with towering buildings and exaggerated perspective lines, this map appears less abstract. Additionally, the colors are relatively soft and muted. Continuing with the same artistic style as the previous maps by this artist, you can even see Tokyo and Canada at the top of the map.
+Thirty-two wind heads appear on this 1760 chart of the heavens by German mapmaker Matthaeus Seutter. Corresponding with each of the thirty-two points on the compass, these winds range in age from young to old, with the largest wind heads representing the four principal winds Boreas (North), Eurus (East), Notus (South) and Zephyrus (West). Figures representing the four seasons appear in each corner of the map, and their placement near the four groups of winds symbolizes the weather and natural phenomena each wind was said to bring.
 
 ##### Raúl the Third & Elaine Bay [Boston kids count](https://collections.leventhalmap.org/search/commonwealth:rr173g25m) (2020)
 
