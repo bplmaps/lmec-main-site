@@ -4,27 +4,27 @@ title: 'Highlights From The Vault: Stars Above You'
 date: 2024-05-20T04:00:00.000Z
 author: Julia Williams
 description: 'Check out these highlights from May''s From The Vault: Stars Above You'
-image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (64).png'
-backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (64).png'
+image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/FTV.png'
+backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/FTV.png'
 tags:
   - from the vault
 ---
 
-> On April 26, we hosted From The Vault: Maps as Art! \
+> On May 17, we hosted From The Vault: Maps as Art! \
 > \
-> From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. This week, we explored the ways in which maps use art and masterful artistry in order to tell a story through mapmaking! From the 16 century to modern day, visitors were encouraged to view the ways in which art has influenced map making since the beginning.
+> From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. This week, lucky visitors were able to view a special selection of celestial maps, partially inspired by the lovely celestial map featured in Heaven & Earth: The Blue Maps of China, our newest exhibit. With the help of these maps, visitors could stargaze with generations of cartographers from around the world and across centuries and cultures.
 
-##### Belle Hornblower \*[Back Bay view of the world](https://collections.leventhalmap.org/search/commonwealth:0c486g26b) \*(2017)
+##### [Xingye dingxiang fang yangzhitu](https://collections.leventhalmap.org/search/commonwealth:k356cn73g) (ca. 1730–1770)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:mg74t4234/full/1200,/0/default.jpg" >}}
 
-Illustrating the world at the top of Back Bay, the artist brings a different view to visitors’ experience. The bottom half of this picture is an aerial view of Back Bay, with the lines drawn freely using a ballpoint pen, and the colors added using water-soluble colored pencils. It makes me feel a sense of childlike wonder and imagination within this artistically rendered map. At the upper edge of the image, you can even see the Eiffel Tower and the famous Russian Orthodox Church!
+This map from the MacLean collection reminds us of the importance of the “heavens” for maritime navigation. This map is divided into 12 sections. Each section is labeled with the directions of the Chinese compass, constellations associated with each direction, and names of ports accessible in that direction. 
 
-##### Belle Hornblower [View of SoWa food trucks](https://collections.leventhalmap.org/search/commonwealth:zc77wm025) (2016)
+##### William Crosswell [A Mercator map of the starry heavens, comprehending the whole equinoctial, and terminated by the polar circles](https://collections.leventhalmap.org/search/commonwealth:8049g906v) (1810)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0c486g252/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8049g9074/full/1200,/0/default.jpg" >}}
 
-Portraying the world at the top of SoWa food trucks, this map was done by the same artist as the Back Bay map as shown during this event. What distinguishes this map from the one of Back Bay  is the apparent use of “sticker art” technique. Many little figures seem to have been cut out from other comic books and pasted onto the map, creating an effect similar to the original medium. Again, it's a map full of color and childlike wonder.
+In the lower left corner of this map, you will notice a sculpture bust of a bearded man with a large feather in his cap. The cartographer, William Croswell, attempted through this map and other efforts to refer to a grouping of stars of the Reticulum (a fainter constellation) as the Marmor Sculptile or the “Bust of Columbus”. Unfortunately, this did not catch on.
 
 ##### Belle Hornblower [Jamaica Plain view of the world](https://collections.leventhalmap.org/search/commonwealth:c534jj47j) (2020)
 
