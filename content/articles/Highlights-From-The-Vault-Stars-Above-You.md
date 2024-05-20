@@ -32,11 +32,14 @@ In the lower left corner of this map, you will notice a sculpture bust of a bear
 
 Thirty-two wind heads appear on this 1760 chart of the heavens by German mapmaker Matthaeus Seutter. Corresponding with each of the thirty-two points on the compass, these winds range in age from young to old, with the largest wind heads representing the four principal winds Boreas (North), Eurus (East), Notus (South) and Zephyrus (West). Figures representing the four seasons appear in each corner of the map, and their placement near the four groups of winds symbolizes the weather and natural phenomena each wind was said to bring.
 
-##### Raúl the Third & Elaine Bay [Boston kids count](https://collections.leventhalmap.org/search/commonwealth:rr173g25m) (2020)
+##### John Speed [A new and accurat map of the world : drawne according to ye truest descriptions latest discoveries & best observations yt have beene made by English or strangers, 1651](https://collections.leventhalmap.org/search/commonwealth:cj82m4332) (1652)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rr173g26w/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m434b/full/1200,/0/default.jpg" class="" >}}
 
-Map as art; art is a way for children to communicate. Innocent and romantic character images, along with vivid color blocks, form unique maps. The cartoons expressed in an artful and playful manner can engage children's attention and make them patient enough to explore different maps.
+This is a “new and accurat map of the world” from 1651. Beyond the earth, the cartographer has included in the upper right hand corner the ‘Heavens and Elements’ organized in concentric centers with the earth at the center. Radiating out from the earth is the air, fire, the moon, Mercury, Venus, the sun, Mars, Jupiter, Saturn, Leo, the Christian and finally, the first moveable heaven. 
+
+
+The first moveable heaven, or the primum mobile, was understood through the Renaissance as the outermost part of the universe where the stars and planets were fixed. 
 
 ##### Frans Hogenburg [Magnifica illa civitas Verona ; Colonia augusta Verona nova gallieniana](https://collections.leventhalmap.org/search/commonwealth:q524n390w) (1582)
 
