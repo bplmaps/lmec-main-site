@@ -49,11 +49,11 @@ This plate depicts the Earth-centered universe theorized by Claudius Ptolemy, th
 
 Look closely at the center of this diagram and you will discover a small map of the Earth's northern hemisphere. Revolving around the Earth in separate orbits are the Moon, Mercury, Venus, the Sun, Mars, Jupiter, and Saturn. The outer circle is reserved for the stars, represented as the constellations of the zodiac. This was the prevailing theory of the universe until the mid-16th century when Nicolaus Copernicus proposed a solar system centered around the Sun.
 
-##### S. Orozco [Acapulco, México](https://collections.leventhalmap.org/search/commonwealth:fn107c42v) (1980)
+##### John Seller [Novissima totius terrarum orbis tabula ](https://collections.leventhalmap.org/search/commonwealth:st74cx36k)(1672)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c434/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cx37v/full/1200,/0/default.jpg" class="" >}}
 
-Feel the heat and enthusiasm of Acapulco, Mexico through this colorful map. The golden beach, blue sea, and red sailboats evoke thoughts of summer. You can just imagine enjoying the sea breeze and waves and experiencing the charm of Mexico.
+This 17th century map includes seemingly a little bit of everything: the signs of the zodiac, mythological figures, the phases of the moon, map monsters, and bunnies!
 
 ##### Ignatz Sahula [19th annual convention of the National Association of Real Estate Boards : at Tulsa, June 7 to June 11 in 1926](https://collections.leventhalmap.org/search/commonwealth:3f4638304) (1926)
 
