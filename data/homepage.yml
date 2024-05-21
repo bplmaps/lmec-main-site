@@ -58,14 +58,8 @@ cta:
   enable: true
   announcements:
     - badge: New Exhibition
-      text: >-
-        _Heaven & Earth_ is now on display.
+      text: _Heaven & Earth_ is now on display.
       link: 'https://www.leventhalmap.org/exhibitions/'
-    - badge: Grant Opportunity
-      text: >-
-        Apply by May 20 for the Small Grants for Early Career Digital
-        Publications program.
-      link: 'https://www.leventhalmap.org/research/digital-publication-small-grants/'
 audiences:
   enable: true
   audienceGroups:
