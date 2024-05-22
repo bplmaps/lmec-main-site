@@ -40,7 +40,7 @@ Christian J. Westra, Esq.
 **Ex Officio**
 
 Erin Claywell, *Clerk*\
-Priscilla Douglas, *ex officio*\
+Raymond Liu, *ex officio*\
 David Leonard, *ex officio*
 
 **Legal Counsel**
