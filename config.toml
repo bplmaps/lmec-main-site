@@ -33,7 +33,7 @@ name = "Accessibility"
 weight = 7
 [[menu.footer]]
 URL = "/about/mission-history"
-name = "Land Acknowledgement"
+name = "Mission & History"
 weight = 6
 [[menu.footer]]
 URL = "/about/hours-directions"
