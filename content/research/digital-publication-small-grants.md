@@ -5,7 +5,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4633
 
 ---
 
-{{< alert-box type="warning" title="Applications open" >}}Applications for the 2024-2025 cycle of Small Grants have closed.{{< /alert-box >}}
+{{< alert-box type="warning" title="Applications closed" >}}Applications for the 2024-2025 cycle of Small Grants have closed.{{< /alert-box >}}
 
 #### Are you working on a scholarly project that would come alive for the public through an interactive digital publication?
 
