@@ -5,7 +5,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4633
 
 ---
 
-{{< alert-box type="success" title="Applications open" >}}Applications for the 2024-2025 cycle of Small Grants are open through Monday, May 20 at 5pm ET. [Apply below](#to-apply)!{{< /alert-box >}}
+{{< alert-box type="warning" title="Applications open" >}}Applications for the 2024-2025 cycle of Small Grants have closed.{{< /alert-box >}}
 
 #### Are you working on a scholarly project that would come alive for the public through an interactive digital publication?
 
@@ -44,8 +44,6 @@ For the purposes of this grant, an **early career scholar** is defined as anyone
 Grants are available to all scholars regardless of citizenship; however, if the individual primarily responsible for the project does not have a United States tax identification number, you should [contact us](info@leventhalmap.org) in advance to determine whether you will be able to receive the stipend.
 
 #### To Apply
-
-<a class="btn btn-outline-primary btn-large" href="https://tally.so/r/wb7lM6">Apply to LMEC's Small Grants Program</a>
 
 An application consists of the following material submitted by **Monday, May 20, 2024 at 5pm ET**:
 
