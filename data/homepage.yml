@@ -57,17 +57,17 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Holiday closure
-      text: We will be closed on May 26 and 27 for Memorial Day
+    - badge: New exhibition
+      text: _Heaven & Earth_ is now on display.
+      link: 'https://www.leventhalmap.org/exhibitions/'
     - badge: Workshop opportunity
       text: >-
         Apply here to join a 2-day workshop (June 27-28) at the Boston Public
         Library on understanding “civic data”
       link: >-
         https://docs.google.com/forms/d/e/1FAIpQLSct35PAV6t2-0FHdGWXNMTJY9BpU4D0dmjJFFvMrFPJcqwmWg/viewform
-    - badge: New exhibition
-      text: _Heaven & Earth_ is now on display.
-      link: 'https://www.leventhalmap.org/exhibitions/'
+    - badge: Holiday closure
+      text: We will be closed on May 26 and 27 for Memorial Day
 audiences:
   enable: true
   audienceGroups:
