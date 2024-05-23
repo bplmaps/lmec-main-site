@@ -9,6 +9,8 @@ backgroundImage: >-
   https://acdc.amherst.edu/cantaloupe/iiif/2/media%2FOrraClassroomDrawings%2Fma01020-0027%2Fimage-ma01020-0027-c37a612e-df2e-49be-b375-b18ae72fdb61.jpg/full/1200,/0/default.jpg
 ---
 
+> This digital publication was supported by the Leventhal Map & Education Center's [Small Grants for Early Career Digital Publications](https://www.leventhalmap.org/research/digital-publication-small-grants/) program.
+
 Vertebrates and invertebrates. Fossil footprints. Rock strata of local regions in Massachusetts and international areas across Europe. These vibrant illustrations---constructed out of large swathes of common household fabrics illustrated with ink and watercolor---are some of more than sixty geological maps and diagrams crafted by early American scientific illustrator Orra White Hitchcock.
 
 {{< carousel >}}
@@ -81,6 +83,8 @@ Working with a range of common hues like [Prussian blue](https://www.leventhalma
 ### Conclusion
 
 Geology, as a discipline driven by scientific theoretical and national interests, was a domain for America's scientists to create purportedly objective visual guises to accelerate resource extraction, rapidly intensify territorial expansion through land dispossession, and rewrite human historical narratives throughout earth's history. Women like White Hitchcock and Doolittle used their decorative arts training to create these visuals, mapping and diagramming the earth and its interiors. Examining the material intricacies of their work reminds us that we would do well to further explore nineteenth-century women’s manipulation of craft methods and techniques—labor that underlies the development of modern sciences as we know them today.
+
+> Allison Fulton is a Ph.D. Candidate in English with a designated emphasis in Science and Technology Studies at the University of California, Davis. She is at work on a dissertation on how nineteenth-century gendered craft traditions and technologies shaped the emergence of the modern American scientific establishment. Allison is the Albert M. Greenfield Dissertation Fellow 2023-2024 at the Library Company of Philadelphia and a 2024 Stacy Lloyd Fellow for Bibliographic Study at the Oak Spring Garden Foundation. Her work has also been supported by the American Antiquarian Society, Winterthur Museum, and Historic Deerfield, among others.
 
 #### Notes
 
