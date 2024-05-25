@@ -1,6 +1,4 @@
-specialNote: >-
-  The Leventhal Map & Education Center will be closed on Saturday, 5/25 due to
-  facilities work at the Central Library.
+specialNote: 'The Leventhal Map & Education Center will be closed on Saturday, 5/25.'
 weekly:
   - day: Monday
     special: Closed
