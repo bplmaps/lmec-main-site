@@ -17,7 +17,9 @@ weekly:
   - day: Saturday
     open: 11 am
     close: 5 pm
-    special: 'We will be closed Saturday, May 25 due to a closure of Central Library.'
+    special: >-
+      We will be closed Saturday, May 25 due to a closure of the Central
+      Library.
   - day: Sunday
     open: 1 pm
     close: 5 pm
