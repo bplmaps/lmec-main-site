@@ -16,7 +16,7 @@ weekly:
   - day: Friday
     open: 11 am
     close: 5 pm
-  - day: Saturday
+  - day: ''
     open: 11 am
     close: 5 pm
     special: >-
