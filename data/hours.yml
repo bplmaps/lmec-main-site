@@ -23,8 +23,8 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'May 26, 2024'
-    name: Sunday Before Memorial Day
+  - date: 'May 25-26, 2024'
+    name: Saturday and Sunday Before Memorial Day
     special: Closed
   - date: 'May 27, 2024'
     name: Memorial Day
