@@ -57,9 +57,9 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Temporary closure
+    - badge: Gallery closures
       text: >-
-        The Leventhal Center gallery will be closed on Tuesday, May 28 due to facilities issues. See the Boston Public Library website for more information.
+        The Central Library in Copley Square may experience unplanned closures the week of May 28. Please see BPL.org for the latest information about visiting the library.
       link: >-
         https://bpl.org
     - badge: New exhibition
