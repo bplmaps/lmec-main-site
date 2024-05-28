@@ -57,6 +57,11 @@ slider:
 cta:
   enable: true
   announcements:
+    - badge: Temporary closure
+      text: >-
+        The Leventhal Center gallery will be closed on Tuesday, May 28 due to facilities issues. See the Boston Public Library website for more information.
+      link: >-
+        https://bpl.org
     - badge: New exhibition
       text: _Heaven & Earth_ is now on display.
       link: 'https://www.leventhalmap.org/exhibitions/'
@@ -163,7 +168,7 @@ funfacts:
 blog:
   enable: true
   title: Articles
-todaysHours: true
+todaysHours: false
 upcomingLivestream:
   enable: false
   embedLink: >-
