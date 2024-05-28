@@ -57,10 +57,6 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: 'Closure on Saturday, May 25'
-      text: >-
-        We will be closed on Saturday, May 25 due to a closure of the Central
-        Library
     - badge: New exhibition
       text: _Heaven & Earth_ is now on display.
       link: 'https://www.leventhalmap.org/exhibitions/'
@@ -70,8 +66,6 @@ cta:
         Library on understanding “civic data”
       link: >-
         https://docs.google.com/forms/d/e/1FAIpQLSct35PAV6t2-0FHdGWXNMTJY9BpU4D0dmjJFFvMrFPJcqwmWg/viewform
-    - badge: Holiday closure
-      text: We will be closed on May 26 and 27 for Memorial Day
 audiences:
   enable: true
   audienceGroups:
