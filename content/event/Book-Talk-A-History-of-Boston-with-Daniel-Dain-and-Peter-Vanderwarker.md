@@ -10,6 +10,7 @@ backgroundImage: >-
 location: Central Library in Copley Square
 registration: 'https://bpl.bibliocommons.com/events/65e633d7e3e1ee300033709a'
 tags:
+  - book talk
   - Author talk
 ---
 
