@@ -13,10 +13,6 @@ tags:
   - Author talk
 ---
 
-{{\< alert-box type="warning" >}} This event has been **rescheduled** from its original date. {{\< /alert-box >}}
-
-{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is hosted by BPL Adult Programs. {{\< /alert-box >}}
-
 Join author Daniel Dain and photographer Peter Vanderwarker as they talk about their new book, ***A History of Boston***. They will act as your tour guide through the history of the City and discuss what lessons can be learned for the challenges of a modern city today.
 
 Boston is today one of the world’s greatest cities, first in higher education, hospitals, life science companies, and sports teams. It was the home of the Great Puritan Migration, the American Revolution, the Industrial Revolution, the first civil rights movement, the abolition movement, and the women’s rights movement. But the city that gave us the first use of ether as anesthesia, the telephone, technicolor film, and the mutual fund―the city where Martin Luther King Jr. and Coretta Scott founded their world-changing partnership―was also the hub of the anti-immigration movement, the divisive busing era, and decades of self-inflicted decay.
