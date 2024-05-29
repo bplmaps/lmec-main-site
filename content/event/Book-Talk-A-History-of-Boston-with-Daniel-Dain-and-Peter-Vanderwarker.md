@@ -14,7 +14,7 @@ tags:
   - Author talk
 ---
 
-{{< alert-box type="warning" >}} This event has been **rescheduled** from its original date. {{< /alert-box >}}
+{{< alert-box type="warning" >}} This event has been cancelled and will be **rescheduled** from its original date. {{< /alert-box >}}
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is hosted by BPL Adult Programs. {{< /alert-box >}}
 
 ### About this event
