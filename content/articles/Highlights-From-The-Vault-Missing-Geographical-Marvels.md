@@ -30,11 +30,11 @@ This map shows the legendary city of El Dorado, also known as Manoa, on Lake Par
 
 The Great Desert referred to an area west of the Mississippi River that was considered unfit for cultivation and therefore uninhabitable by people reliant on agriculture. Early 19th-century expeditions by the U.S. government reported a lack of surface water and trees, which they believed meant the region could not be farmed. The area was avoided by settlers passing through for the Gold Rush or aiming to settle in better lands in the West. When people settling in the area in the mid- and late 1800s received more rainfall than expected for a desert, they believed it to be a reward from God for settling the area or to be caused by their planting and plowing.
 
-##### **Matthaeus Seutter** *[Tabula anemographica seu pyxis nautica vulgo compass charte : quâ ventorum noia septem linguis græca scil. latina, italica, hispanica, gallica, hollandica et germanica repræsentantur succinctè elaborata](https://collections.leventhalmap.org/search/commonwealth:q524n4059)* (1740)
+##### W. Scott-Elliot [Lemuria at its greatest extent](https://collections.leventhalmap.org/search/commonwealth:cz30sz81k) (1904)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n406k/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:s4658p68j/full/1200,/0/default.jpg" >}}
 
-Thirty-two wind heads appear on this 1760 chart of the heavens by German mapmaker Matthaeus Seutter. Corresponding with each of the thirty-two points on the compass, these winds range in age from young to old, with the largest wind heads representing the four principal winds Boreas (North), Eurus (East), Notus (South) and Zephyrus (West). Figures representing the four seasons appear in each corner of the map, and their placement near the four groups of winds symbolizes the weather and natural phenomena each wind was said to bring.
+In 1864, the zoologist Philip Sclater proposed an ancient continent of Lemuria that had sunk beneath the Indian Ocean to explain lemur fossils in Madagascar and southern Asia but not in Africa or the Middle East. Theosophists, a religious group established in the United States in the late 1800s, claimed the continent was the home of the third “root race” or stage of evolution of humans. On this map, red outlines the continent of Lemuria while blue shows Hyperborea, the home of the second “root race” that preceded Lemuria.
 
 ##### **John Speed** *[A new and accurat map of the world : drawne according to ye truest descriptions latest discoveries & best observations yt have beene made by English or strangers, 1651](https://collections.leventhalmap.org/search/commonwealth:cj82m4332)* (1652)
 
