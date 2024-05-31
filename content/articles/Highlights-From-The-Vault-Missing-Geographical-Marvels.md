@@ -48,8 +48,8 @@ This map, drawn by a schoolgirl in 1831, shows the non-existent Mountains of Kon
 
 From the 15th to 18th centuries, people believed that the land in the northern hemisphere was balanced by a large unknown landmass in the southern hemisphere, often referred to as Terra Australis Incognita (Latin for unknown southern land). As explorers charted the southern hemisphere, the hypothesized continent morphed from connecting to South America, Africa, and Australia to being a separate continent and eventually believed to either lie within the polar regions or to not exist at all.
 
-##### **John Seller** *[Novissima totius terrarum orbis tabula](https://collections.leventhalmap.org/search/commonwealth:st74cx36k)* (1672)
+##### Gerhard Mercator [Septentrionalium terrarum descriptio ](https://collections.leventhalmap.org/search/commonwealth:8049g9006)\[1595]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cx37v/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8049g901g/full/1200,/0/default.jpg" class="" >}}
 
-This 17th century map includes seemingly a little bit of everything: the signs of the zodiac, mythological figures, the phases of the moon, map monsters, and bunnies!
+This map shows Gerhard Mercator’s idea of the Arctic region, based on his research of explorer accounts and other maps. It shows a tall black rock in the middle of a whirlpool formed by four rivers between four countries. The water in the whirlpool descends into the Earth like a funnel. While the black rock marks true north, another rock above it is the magnetic one to which compasses point, explaining the difference between true north and magnetic north. The map includes notes about the inhabitants of the four countries and other places.
