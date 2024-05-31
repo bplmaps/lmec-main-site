@@ -66,10 +66,8 @@ This map shows two geographical misconceptions about the Pacific coast of North 
 
 Early accounts by Portuguese explorers in the 1500s described Lake Chiamay as an enormous lake in southeast Asia that was the source of many rivers in Bangladesh, Burma, and Thailand. The lake appears on this map to the lower right of the center, below the illustration of an elephant. The name likely came from the city of Chiang Mai in northern Thailand. The lake was included in maps, encyclopedias, and gazetteers up to the mid-1700s.
 
-##### Robert Dudley ”Carta particolare dell mare di Ierlandia é parte di Inghilterr é della Iscotia” in Dell’ Arcano del mare
-
-##### (1646-47)
+##### Robert Dudley [”Carta particolare dell mare di Ierlandia é parte di Inghilterr é della Iscotia”](https://bpl.bibliocommons.com/v2/record/S75C3234275) in Dell’ Arcano del mare (1646-47)
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (98).png" class="" >}}
 
-This map shows Gerhard Mercator’s idea of the Arctic region, based on his research of explorer accounts and other maps. It shows a tall black rock in the middle of a whirlpool formed by four rivers between four countries. The water in the whirlpool descends into the Earth like a funnel. While the black rock marks true north, another rock above it is the magnetic one to which compasses point, explaining the difference between true north and magnetic north. The map includes notes about the inhabitants of the four countries and other places.
+Phantom islands are islands that were purportedly seen by sailors and explorers and even appeared on maps for a time before later being deemed nonexistent. One of the most famous phantom islands is Hy-Brasil located west of Ireland and shown in the lower left on this map. In Irish legend, the island is constantly shrouded in mist and appears once every seven years. Some mariners claimed to have discovered the legendary island and reported fantastic accounts of otherworldly beings.
