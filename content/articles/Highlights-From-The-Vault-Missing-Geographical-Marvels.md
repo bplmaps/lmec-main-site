@@ -66,8 +66,10 @@ This map shows two geographical misconceptions about the Pacific coast of North 
 
 Early accounts by Portuguese explorers in the 1500s described Lake Chiamay as an enormous lake in southeast Asia that was the source of many rivers in Bangladesh, Burma, and Thailand. The lake appears on this map to the lower right of the center, below the illustration of an elephant. The name likely came from the city of Chiang Mai in northern Thailand. The lake was included in maps, encyclopedias, and gazetteers up to the mid-1700s.
 
-##### Gerhard Mercator [Septentrionalium terrarum descriptio ](https://collections.leventhalmap.org/search/commonwealth:8049g9006)\[1595]
+##### Robert Dudley ”Carta particolare dell mare di Ierlandia é parte di Inghilterr é della Iscotia” in Dell’ Arcano del mare
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8049g901g/full/1200,/0/default.jpg" class="" >}}
+##### (1646-47)
+
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (98).png" class="" >}}
 
 This map shows Gerhard Mercator’s idea of the Arctic region, based on his research of explorer accounts and other maps. It shows a tall black rock in the middle of a whirlpool formed by four rivers between four countries. The water in the whirlpool descends into the Earth like a funnel. While the black rock marks true north, another rock above it is the magnetic one to which compasses point, explaining the difference between true north and magnetic north. The map includes notes about the inhabitants of the four countries and other places.
