@@ -18,17 +18,17 @@ tags:
 > \
 > From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff with this week's theme specially curated by our Reference and Cataloging Librarian,\*\* Lauren Chen\*\*!  In this From The Vault, we’ll explore  geography mistakes, unsupported cartographic features, and the history behind them. Just think of El Dorado, Hy-Brasil, the Mountains of the Moon! It’s difficult to imagine these fantastic places hiding right under our noses, but historic cartographers often made maps of places that only existed as hopes and dreams.
 
-##### Jan Jansson [Americae pars meridionalis](https://collections.leventhalmap.org/search/commonwealth:6t053s06g) (1644)
+##### **Jan Jansson** *[Americae pars meridionalis](https://collections.leventhalmap.org/search/commonwealth:6t053s06g)* (1644)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053s07r/full/1200,/0/default.jpg" >}}
 
 This map shows the legendary city of El Dorado, also known as Manoa, on Lake Parime at the top center. According to 16th century Spanish explorers and historians, El Dorado was a city or empire rich in gold and other valuables located in northern South America. Centuries of expeditions failed to find the city or lake, and in the mid-1800s the city was generally accepted to be a myth. There is current speculation that Lake Parime may have existed in ancient history or that it was caused by flooding.
 
-##### **William Crosswell** *[A Mercator map of the starry heavens, comprehending the whole equinoctial, and terminated by the polar circles](https://collections.leventhalmap.org/search/commonwealth:8049g906v)* (1810)
+##### R. H. Laurie [Fredonia or the United States of North-America](https://collections.leventhalmap.org/search/commonwealth:7h149x18h) (1830)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8049g9074/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149x19s/full/1200,/0/default.jpg" >}}
 
-In the lower left corner of this map, you will notice a sculpture bust of a bearded man with a large feather in his cap. The cartographer, William Croswell, attempted through this map and other efforts to refer to a grouping of stars of the Reticulum (a fainter constellation) as the Marmor Sculptile or the “Bust of Columbus”. Unfortunately, this did not catch on.
+The Great Desert referred to an area west of the Mississippi River that was considered unfit for cultivation and therefore uninhabitable by people reliant on agriculture. Early 19th-century expeditions by the U.S. government reported a lack of surface water and trees, which they believed meant the region could not be farmed. The area was avoided by settlers passing through for the Gold Rush or aiming to settle in better lands in the West. When people settling in the area in the mid- and late 1800s received more rainfall than expected for a desert, they believed it to be a reward from God for settling the area or to be caused by their planting and plowing.
 
 ##### **Matthaeus Seutter** *[Tabula anemographica seu pyxis nautica vulgo compass charte : quâ ventorum noia septem linguis græca scil. latina, italica, hispanica, gallica, hollandica et germanica repræsentantur succinctè elaborata](https://collections.leventhalmap.org/search/commonwealth:q524n4059)* (1740)
 
