@@ -42,13 +42,11 @@ In 1864, the zoologist Philip Sclater proposed an ancient continent of Lemuria t
 
 This map, drawn by a schoolgirl in 1831, shows the non-existent Mountains of Kong in West Africa on the northern border of the “Coast of Guinea” and the equally fictitious Mountains of the Moon in East Africa on the northern border of Ethiopia. Ancient Greek and Roman geographers believed the Mountains of the Moon were the source of the White Nile River. The Mountains of Kong in West Africa were reported and drawn on maps by explorers in the 1800s. Both of these mountain ranges were common knowledge, appearing in encyclopedias and maps, and taught in schools until fading away in the late 1800s to early 1900s. 
 
-##### **Andreas Cellarius** *[Planisphaerium Ptolemaicum siue machina orbium mundi ex hypothesi Ptolemaica in plano disposita](https://collections.leventhalmap.org/search/commonwealth:x633f9294)* (1661)
+##### Henri Abraham Chatelain [Mappmonde ou description generale du globe terrestre](https://collections.leventhalmap.org/search/commonwealth:9s161d837) \[1705–1739]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f930w/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161d84h/full/1200,/0/default.jpg" >}}
 
-This plate depicts the Earth-centered universe theorized by Claudius Ptolemy, the 2nd century A.D. geographer who lived in Alexandria, Egypt. This colorful illustration comes from a lavish celestial atlas compiled by Andreas Cellarius, a Dutch mathematician and geographer. 
-
-Look closely at the center of this diagram and you will discover a small map of the Earth's northern hemisphere. Revolving around the Earth in separate orbits are the Moon, Mercury, Venus, the Sun, Mars, Jupiter, and Saturn. The outer circle is reserved for the stars, represented as the constellations of the zodiac. This was the prevailing theory of the universe until the mid-16th century when Nicolaus Copernicus proposed a solar system centered around the Sun.
+From the 15th to 18th centuries, people believed that the land in the northern hemisphere was balanced by a large unknown landmass in the southern hemisphere, often referred to as Terra Australis Incognita (Latin for unknown southern land). As explorers charted the southern hemisphere, the hypothesized continent morphed from connecting to South America, Africa, and Australia to being a separate continent and eventually believed to either lie within the polar regions or to not exist at all.
 
 ##### **John Seller** *[Novissima totius terrarum orbis tabula](https://collections.leventhalmap.org/search/commonwealth:st74cx36k)* (1672)
 
