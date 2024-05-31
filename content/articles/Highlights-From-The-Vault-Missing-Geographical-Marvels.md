@@ -53,3 +53,21 @@ From the 15th to 18th centuries, people believed that the land in the northern h
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8049g901g/full/1200,/0/default.jpg" class="" >}}
 
 This map shows Gerhard Mercator’s idea of the Arctic region, based on his research of explorer accounts and other maps. It shows a tall black rock in the middle of a whirlpool formed by four rivers between four countries. The water in the whirlpool descends into the Earth like a funnel. While the black rock marks true north, another rock above it is the magnetic one to which compasses point, explaining the difference between true north and magnetic north. The map includes notes about the inhabitants of the four countries and other places.
+
+##### John Senex[ A new map of America from the latest observations ](https://collections.leventhalmap.org/search/commonwealth:wd3762305)(1721)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd376231f/full/1200,/0/default.jpg" class="" >}}
+
+This map shows two geographical misconceptions about the Pacific coast of North America. The Sea of the West, shown on this map as the Great Lake of Thoago or Thoya, was a large inland sea that appeared on maps in the 17th and 18th centuries. Juan de Fuca claimed to have sailed up a strait (possibly the current Strait of Juan de Fuca between Vancouver Island and Washington state) to the sea in 1592. This map also shows California as an island, which was possibly assumed by early explorers and spread as cartographers copied each other’s maps. By the 1800s, coastal and overland expeditions debunked these errors. 
+
+##### Henri Abraham Chatelain [Mappmonde ou description generale du globe terrestre](https://collections.leventhalmap.org/search/commonwealth:9s161d837) \[1705–1739]
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161d84h/full/1200,/0/default.jpg" >}}
+
+From the 15th to 18th centuries, people believed that the land in the northern hemisphere was balanced by a large unknown landmass in the southern hemisphere, often referred to as Terra Australis Incognita (Latin for unknown southern land). As explorers charted the southern hemisphere, the hypothesized continent morphed from connecting to South America, Africa, and Australia to being a separate continent and eventually believed to either lie within the polar regions or to not exist at all.
+
+##### Gerhard Mercator [Septentrionalium terrarum descriptio ](https://collections.leventhalmap.org/search/commonwealth:8049g9006)\[1595]
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8049g901g/full/1200,/0/default.jpg" class="" >}}
+
+This map shows Gerhard Mercator’s idea of the Arctic region, based on his research of explorer accounts and other maps. It shows a tall black rock in the middle of a whirlpool formed by four rivers between four countries. The water in the whirlpool descends into the Earth like a funnel. While the black rock marks true north, another rock above it is the magnetic one to which compasses point, explaining the difference between true north and magnetic north. The map includes notes about the inhabitants of the four countries and other places.
