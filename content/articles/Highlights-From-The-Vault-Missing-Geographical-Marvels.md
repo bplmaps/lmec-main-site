@@ -7,22 +7,22 @@ description: >-
   Check out these highlights from May's From The Vault: (Missing) Geographical
   Marvels
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053s07r/full/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053s07r/63,179,4572,1586/1200,/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053s07r/full/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053s07r/63,179,4572,1586/1200,/0/default.jpg
 tags:
   - from the vault
 ---
 
 > **On May 31, we hosted *From The Vault: (Missing) Geographical Marvels***\
 > \
-> From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff with this week's theme specially curated by our Reference and Cataloging Librarian,** Lauren Chen**!  In this From The Vault, we’ll explore  geography mistakes, unsupported cartographic features, and the history behind them. Just think of El Dorado, Hy-Brasil, the Mountains of the Moon! It’s difficult to imagine these fantastic places hiding right under our noses, but historic cartographers often made maps of places that only existed as hopes and dreams.
+> From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff with this week's theme specially curated by our Reference and Cataloging Librarian,\*\* Lauren Chen\*\*!  In this From The Vault, we’ll explore  geography mistakes, unsupported cartographic features, and the history behind them. Just think of El Dorado, Hy-Brasil, the Mountains of the Moon! It’s difficult to imagine these fantastic places hiding right under our noses, but historic cartographers often made maps of places that only existed as hopes and dreams.
 
 ##### Jan Jansson [Americae pars meridionalis](https://collections.leventhalmap.org/search/commonwealth:6t053s06g) (1644)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053s07r/full/1200,/0/default.jpg" >}}
 
-This map shows the legendary city of El Dorado, also known as Manoa, on Lake Parime at the top center. According to 16th century Spanish explorers and historians, El Dorado was a city or empire rich in gold and other valuables located in northern South America. Centuries of expeditions failed to find the city or lake, and in the mid-1800s the city was generally accepted to be a myth. There is current speculation that Lake Parime may have existed in ancient history or that it was caused by flooding.   
+This map shows the legendary city of El Dorado, also known as Manoa, on Lake Parime at the top center. According to 16th century Spanish explorers and historians, El Dorado was a city or empire rich in gold and other valuables located in northern South America. Centuries of expeditions failed to find the city or lake, and in the mid-1800s the city was generally accepted to be a myth. There is current speculation that Lake Parime may have existed in ancient history or that it was caused by flooding.
 
 ##### **William Crosswell** *[A Mercator map of the starry heavens, comprehending the whole equinoctial, and terminated by the polar circles](https://collections.leventhalmap.org/search/commonwealth:8049g906v)* (1810)
 
