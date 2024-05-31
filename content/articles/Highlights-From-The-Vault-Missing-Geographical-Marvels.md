@@ -36,13 +36,11 @@ The Great Desert referred to an area west of the Mississippi River that was cons
 
 In 1864, the zoologist Philip Sclater proposed an ancient continent of Lemuria that had sunk beneath the Indian Ocean to explain lemur fossils in Madagascar and southern Asia but not in Africa or the Middle East. Theosophists, a religious group established in the United States in the late 1800s, claimed the continent was the home of the third “root race” or stage of evolution of humans. On this map, red outlines the continent of Lemuria while blue shows Hyperborea, the home of the second “root race” that preceded Lemuria.
 
-##### **John Speed** *[A new and accurat map of the world : drawne according to ye truest descriptions latest discoveries & best observations yt have beene made by English or strangers, 1651](https://collections.leventhalmap.org/search/commonwealth:cj82m4332)* (1652)
+##### Susanna Townsend [Africa ](https://collections.leventhalmap.org/search/commonwealth:q524n421p)(1831)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m434b/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n422z/full/1200,/0/default.jpg" class="" >}}
 
-This is a “new and accurat map of the world” from 1651. Beyond the earth, the cartographer has included in the upper right hand corner the ‘Heavens and Elements’ organized in concentric centers with the earth at the center. Radiating out from the earth is the air, fire, the moon, Mercury, Venus, the sun, Mars, Jupiter, Saturn, Leo, the Christian and finally, the first moveable heaven. 
-
-The first moveable heaven, or the primum mobile, was understood through the Renaissance as the outermost part of the universe where the stars and planets were fixed.
+This map, drawn by a schoolgirl in 1831, shows the non-existent Mountains of Kong in West Africa on the northern border of the “Coast of Guinea” and the equally fictitious Mountains of the Moon in East Africa on the northern border of Ethiopia. Ancient Greek and Roman geographers believed the Mountains of the Moon were the source of the White Nile River. The Mountains of Kong in West Africa were reported and drawn on maps by explorers in the 1800s. Both of these mountain ranges were common knowledge, appearing in encyclopedias and maps, and taught in schools until fading away in the late 1800s to early 1900s. 
 
 ##### **Andreas Cellarius** *[Planisphaerium Ptolemaicum siue machina orbium mundi ex hypothesi Ptolemaica in plano disposita](https://collections.leventhalmap.org/search/commonwealth:x633f9294)* (1661)
 
