@@ -2,7 +2,7 @@
 draft: false
 title: 'Highlights From The Vault: Maps as Art'
 date: 2024-04-27T04:00:00.000Z
-author: Julia Williams
+author: 'Satoh Feng, Julia Williams'
 description: 'Check out these highlights from April''s From The Vault: Maps as Art'
 image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (64).png'
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (64).png'
@@ -12,9 +12,9 @@ tags:
 
 > On April 26, we hosted From The Vault: Maps as Art! \
 > \
-> From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. This week, we explored the ways in which maps use art and masterful artistry in order to tell a story through mapmaking! From the 16 century to modern day, visitors were encouraged to view the ways in which art has influenced map making since the beginning. 
+> From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. This week, we explored the ways in which maps use art and masterful artistry in order to tell a story through mapmaking! From the 16 century to modern day, visitors were encouraged to view the ways in which art has influenced map making since the beginning.
 
-##### Belle Hornblower *[Back Bay view of the world](https://collections.leventhalmap.org/search/commonwealth:0c486g26b) *(2017)
+##### Belle Hornblower \*[Back Bay view of the world](https://collections.leventhalmap.org/search/commonwealth:0c486g26b) \*(2017)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0v83bt61c/full/1200,/0/default.jpg" >}}
 
@@ -42,7 +42,7 @@ Map as art; art is a way for children to communicate. Innocent and romantic char
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nh83z/full/1200,/0/default.jpg" >}}
 
-The 1582 map illustrates Verona, known as a center for art and architecture, in two views, complete with vignettes on the left, and the Arena – a remnant from the city's importance in Roman times – on the right. Though produced before the play had even been in the drafts, the story of Romeo and Juliet was set in Verona, which would have looked near exactly the same as depicted here. 
+The 1582 map illustrates Verona, known as a center for art and architecture, in two views, complete with vignettes on the left, and the Arena – a remnant from the city's importance in Roman times – on the right. Though produced before the play had even been in the drafts, the story of Romeo and Juliet was set in Verona, which would have looked near exactly the same as depicted here.
 
 ##### S. Orozco [Acapulco, México](https://collections.leventhalmap.org/search/commonwealth:fn107c42v) (1980)
 
