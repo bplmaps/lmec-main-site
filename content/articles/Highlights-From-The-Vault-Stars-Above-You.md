@@ -2,7 +2,7 @@
 draft: false
 title: 'Highlights From The Vault: Stars Above You'
 date: 2024-05-20T04:00:00.000Z
-author: Julia Williams
+author: 'Nicole Claris, Julia Williams'
 description: 'Check out these highlights from May''s From The Vault: Stars Above You'
 image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/FTV.png'
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/FTV.png'
