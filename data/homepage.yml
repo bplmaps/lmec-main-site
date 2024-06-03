@@ -57,11 +57,6 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Gallery closures
-      text: >-
-        The Central Library in Copley Square may experience unplanned closures the week of May 28. Please see BPL.org for the latest information about visiting the library.
-      link: >-
-        https://bpl.org
     - badge: New exhibition
       text: _Heaven & Earth_ is now on display.
       link: 'https://www.leventhalmap.org/exhibitions/'
@@ -168,7 +163,7 @@ funfacts:
 blog:
   enable: true
   title: Articles
-todaysHours: false
+todaysHours: true
 upcomingLivestream:
   enable: false
   embedLink: >-
