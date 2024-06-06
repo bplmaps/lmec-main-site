@@ -53,7 +53,9 @@ The C.L. Berger & Sons records consists of documents and objects produced by the
 
 {{< figure src="/uploads/2022-01-24/perkins.jpg" alt="Manuscript property survey by W.A. Mason & Sons" caption="Manuscript property survey by W.A. Mason & Sons, acquired by Dana F. Perkins, Inc." class="figure-right" >}}
 
-This collection includes documentation created by 3 Metropolitan Boston surveying companies giving a snapshot view of how their survey work was done from mid-19th century to mid-20th century (1839-1949). Maps, sketches, and drawings are represented from the W.A. Mason & Sons surveying company (1839-1947), the William H. Whitney surveying company (1886-1906), and the Fuller-Whitney Corporation (1882-1891). The materials include surveys of lands in the Metropolitan Boston area, outlying towns in Massachusetts and New Hampshire and the landmark ‘Back Bay Filling Project,’ 1882-1891.
+The Dana F. Perkins, Inc. surveying records consists of surveys, notebooks, and ancillary surveying documents from firms and individual surveyors acquired by the company, as well as some surveys created by Dana F. Perkins, Inc. The majority of items were created by W.A. Mason & Son, with the next largest group of items created by Fuller & Whitney (later William H. Whitney). Other surveyors with a significant number of materials are Charles D. Elliot, Dana E. Perkins, and Dana F. Perkins. The bulk of surveys date from the mid-nineteenth to early twentieth centuries and show property boundaries, structures, owners, planning, and infrastructure such as public transit and utilities. Most surveys are for towns in eastern Massachusetts, with Cambridge, Boston, and Somerville being the most heavily represented.
+
+<a href="https://archives.bpl.org/repositories/2/resources/159" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to finding aid</a>
 
 ***
 
