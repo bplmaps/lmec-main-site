@@ -1,6 +1,8 @@
 ---
 title: Fall 2024 Internships
 backgroundImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
+draft: true
+menu: false
 ---
 
 {{< alert-box type="success" title="Apply " >}}
