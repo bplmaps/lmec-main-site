@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Fall 2024 Internships
 backgroundImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 ---
@@ -42,7 +41,7 @@ Geohumanities & GIS interns will learn how to use different kinds of geospatial 
 
 Applications are due by **July 8, 2024 at 3:00pm ET**. To apply, submit:
 
-* A letter of interest, no longer than 1 single-spaced page
-* A resume or CV
+* A letter of interest, no longer than 1 single-spaced page as a PDF
+* A resume or CV in submitted as a PDF
 
 <a href="https://tally.so/r/wgAYVK" class="btn btn-primary-outline">Submit an application online</a>
