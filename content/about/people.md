@@ -29,6 +29,7 @@ Khurram Jamil\
 Theodore Landsmark\
 Alexander Leventhal\
 Jack Lynch\
+Dava Newman, PhD\
 Ronald P. O’Hanley\
 Richard Pegg\
 Barry L. Ruderman\
