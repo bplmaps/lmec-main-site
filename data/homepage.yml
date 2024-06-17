@@ -61,7 +61,7 @@ cta:
       text: _Heaven & Earth_ is now on display.
       link: 'https://www.leventhalmap.org/exhibitions/'
     - badge: Upcoming Closure
-      text: 'We will be closed Wednesday, June 19th in observance of Juneteenth'
+      text: 'We will be closed Wednesday, June 19 in observance of Juneteenth'
       link: ''
 audiences:
   enable: true
