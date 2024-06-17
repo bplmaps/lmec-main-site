@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Kiana Harriel
 description: Experiential Learning & Programs Educator
 headshot: >-
