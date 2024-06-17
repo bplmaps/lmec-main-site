@@ -165,12 +165,8 @@ blog:
   title: Articles
 todaysHours: true
 upcomingLivestream:
-  enable: false
+  enable: true
   embedLink: >-
-    <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/HWe9wkFr62k?si=vp3vaY81a7H4KYwt"
-    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-    clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen></iframe>
-  startTime: 2023-11-15T17:00:00.000Z
-  endTime: 2023-11-15T18:15:00.000Z
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/W-IFcbZ4RB0?si=matvgMECK7GnyHV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  startTime: 2024-06-17T16:30:00.000Z
+  endTime: 2024-06-17T18:00:00.000Z
