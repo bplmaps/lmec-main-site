@@ -60,12 +60,9 @@ cta:
     - badge: New exhibition
       text: _Heaven & Earth_ is now on display.
       link: 'https://www.leventhalmap.org/exhibitions/'
-    - badge: Workshop opportunity
-      text: >-
-        Apply here to join a 2-day workshop (June 27-28) at the Boston Public
-        Library on understanding “civic data”
-      link: >-
-        https://docs.google.com/forms/d/e/1FAIpQLSct35PAV6t2-0FHdGWXNMTJY9BpU4D0dmjJFFvMrFPJcqwmWg/viewform
+    - badge: Upcoming Closure
+      text: 'We will be closed Wednesday, June 19th in observance of Juneteenth'
+      link: ''
 audiences:
   enable: true
   audienceGroups:
@@ -167,6 +164,10 @@ todaysHours: true
 upcomingLivestream:
   enable: true
   embedLink: >-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/W-IFcbZ4RB0?si=matvgMECK7GnyHV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/W-IFcbZ4RB0?si=matvgMECK7GnyHV4"
+    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   startTime: 2024-06-17T16:30:00.000Z
   endTime: 2024-06-17T18:00:00.000Z
