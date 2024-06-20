@@ -25,6 +25,8 @@ I am examining the history of segregated schooling in Boston since the 1970s, an
 
 **Do you have a favorite of the digital programs and tools we have available to the public right now?**
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/BPL-Tour.png" caption="Atlascope, featuring an in-atlascope tour of the Boston Public Library throughout the years" >}}
+
 I LOVE [the Atlascope tool](https://www.atlascope.org/)! I use it all the time with my undergraduates at Northeastern and in my own research. Every city needs to have one.
 
 **What is your earliest memory of maps?**
@@ -33,7 +35,7 @@ I grew up in the Los Angeles area, and I remember my parents pulling out a Thoma
 
 **You’re starting in the middle of the short run of Heaven & Earth: The Blue Maps of China. In your opinion, what’s a “must see item” in the exhibit?**
 
-That Prussian blue is so captivating!  Both the folding geographical map from 1818 and the celestial map are beautiful informational objects — though for me they are art objects, since I can’t read any of the text! This exhibit provides a nice reminder of how maps as pieces of material culture can function in a multitude of ways.
+That Prussian blue is so captivating!  Both the folding geographical map from 1818 and the celestial map are beautiful informational objects — though for me they are art objects as well, since I can’t read any of the text! This exhibit provides a nice reminder of how maps as pieces of material culture can function in a multitude of ways.
 
 **What work at the Center are you looking forward to?**
 
@@ -43,4 +45,4 @@ I love developing high quality, accessible, and engaging materials for teaching 
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled - 2024-06-20T101954.231.png" caption="Powder horn with map of Boston and Charlestown, 1777" >}}
 
-So far, I am completely in love with the 1775 British scrimshaw map of Boston on a powder horn — but ask me again each week and I bet I’ll have a new favorite every time!
+So far, I am completely in love with the [1](https://collections.leventhalmap.org/search/commonwealth:q524n340p)[775 British scrimshaw map of Boston on a powder horn](https://collections.leventhalmap.org/search/commonwealth:q524n340p) — but ask me again each week and I bet I’ll have a new favorite every time!
