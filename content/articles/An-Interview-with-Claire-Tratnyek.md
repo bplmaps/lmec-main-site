@@ -17,7 +17,7 @@ tags:
 
 > We’re excited to welcome Claire Tratnyek to the team as our new Learning Resource Specialist. Claire is an accomplished academic, teacher, and museum educator. We sat down with Claire to learn more about her interests and future work at the Center.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled - 2024-06-20T101342.400.png" class="figure-left" caption="Claire Tratnyek" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Claire2021headshotSMALL.png" class="figure-left" caption="Claire Tratnyek" >}}
 
 **Claire, we’re so excited to have you on board here at the Leventhal Map & Education Center. Tell us a little bit about your background—what led up to your new role with us?**
 
