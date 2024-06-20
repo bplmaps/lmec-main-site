@@ -47,6 +47,6 @@ I love developing high quality, accessible, and engaging materials for teaching 
 
 **Do you have a favorite map that you’ve found in the collections yet?**
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled - 2024-06-20T101954.231.png" caption="Powder horn with map of Boston and Charlestown, 1777" >}}
-
 So far, I am completely in love with the [1](https://collections.leventhalmap.org/search/commonwealth:q524n340p)[775 British scrimshaw map of Boston on a powder horn](https://collections.leventhalmap.org/search/commonwealth:q524n340p) — but ask me again each week and I bet I’ll have a new favorite every time!
+
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled - 2024-06-20T101954.231.png" caption="Powder horn with map of Boston and Charlestown, 1777" >}}
