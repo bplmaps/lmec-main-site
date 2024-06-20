@@ -25,7 +25,7 @@ I am examining the history of segregated schooling in Boston since the 1970s, an
 
 **Do you have a favorite of the digital programs and tools we have available to the public right now?**
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/BPL-Tour.png" caption="Atlascope, featuring an in-atlascope tour of the Boston Public Library throughout the years" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/BPL-Tour.png" caption="Atlascope, featuring an in-atlascope tour of the Boston Public Library throughout the years" class="figure-right" >}}
 
 I LOVE [the Atlascope tool](https://www.atlascope.org/)! I use it all the time with my undergraduates at Northeastern and in my own research. Every city needs to have one.
 
