@@ -4,18 +4,22 @@ title: An Interview with Claire Tratnyek
 date: 2024-06-20T04:00:00.000Z
 author: Claire Tratnyek
 description: 'An interview with the new LMEC Learning Resource Specialist, Claire Tratnyek'
-image: ''
-backgroundImage: ''
+image: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled -
+  2024-06-20T101954.231.png
+backgroundImage: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled -
+  2024-06-20T101954.231.png
 tags:
   - Staff
   - Interview
 ---
 
-> We’re excited to welcome Claire Tratnyek to the team as our new Learning Resource Specialist. Claire is an     . We sat down with Claire to learn more about her interests and future work at the Center.
+> We’re excited to welcome Claire Tratnyek to the team as our new Learning Resource Specialist. Claire is an accomplished academic, teacher, and museum educator. We sat down with Claire to learn more about her interests and future work at the Center.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled - 2024-06-20T101342.400.png" class="figure-left" caption="Claire Tratnyek" >}}
 
-**Julia, we’re so excited to have you on board here at the Leventhal Map & Education Center. Tell us a little bit about your background—what led up to your new role with us?**
+**Claire, we’re so excited to have you on board here at the Leventhal Map & Education Center. Tell us a little bit about your background—what led up to your new role with us?**
 
 My academic background is in history and anthropology, but my practical background is more than a decade of classroom teaching and curriculum development in Boston (K-12 and at Northeastern University), and museum education research at the Isabella Stewart Gardner Museum. I’m currently a PhD candidate in history at Northeastern, and I just wrapped up work on a major study at the Gardener. So I wear a lot of hats!
 
