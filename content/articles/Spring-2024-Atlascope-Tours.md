@@ -13,12 +13,24 @@ This past Spring, three undergraduate interns worked with the Center to create n
 
 In the late winter of 1867, Charles Dickens paid Boston a visit. Incentivized by his Boston-based publisher, Dickens spent a significant amount of time holding professional readings of his novel, The Christmas Carol and others. In this tour, join Erin as she leads you around Boston as you retrace the steps of Charles Dickens in urban atlases.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled - 2024-06-20T103345.191.png" caption="Mapping Charles Dickens’ 1867-1868 Visit to Boston" >}}
+<a href="https://www.atlascope.org/#/view:tour$tour:396341973098692672" target="_blank" class="btn btn-md btn-outline-primary">Start this tour</a>
+
+<a href="https://www.atlascope.org/#/view:tour$tour:396341973098692672" target="_blank">
+
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled - 2024-06-20T103345.191.png" >}}
+
+</a>
 
 ## The Constructed Nature of Boston
 
 This historical tour of public green space in the virtual Atlas Land of Boston-greater area delves deep into the history of Boston’s parks and how it led a modern Boston to be ranked 10th of cities in America for its parks and green space.
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled - 2024-06-20T104047.896.png" >}}
+
 ## What's Lost Beneath Boston's Parking Lots?
 
 Boston is one of America’s oldest cities and had a long history of public transportation, beginning nearly as soon as the city was founded. However, as time progressed, Boston went through the automobile boom like many cities across the country and demands for parking space across the city grew swiftly. Now public parking lots and garages can be found almost anywhere, but have you ever wondered was came before the asphalt?
+
+</a>
+
+> Are you interested in making your own Atlascope tour? [Reach out](mailto:info@leventhalmap.org) to learn more!
