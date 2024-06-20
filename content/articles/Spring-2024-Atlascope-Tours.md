@@ -9,6 +9,8 @@ image: >-
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled -
   2024-06-20T104322.441.png
+tags:
+  - atlascope
 ---
 
 If you’ve ever visited our gallery, you’ll know that on the walk up to the front doors you’ll see a large touchscreen displaying a unique view of the Boston Public Library. An island of pink and green floating in the middle of a beige, modern Google Maps, this little window into the past shows visitors a bygone era. Accessible anywhere in the world, covering all of Boston and a number of surrounding cities, the Leventhal Center’s Atlascope tool gives visitors a way to look into the city’s past and draw connections to the present.
