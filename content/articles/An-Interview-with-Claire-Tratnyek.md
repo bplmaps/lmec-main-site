@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: An Interview with Claire Tratnyek
 date: 2024-06-20T04:00:00.000Z
 author: Claire Tratnyek
