@@ -1,6 +1,6 @@
 ---
-draft: true
-title: Spring 2024 Atlascope Tours
+draft: false
+title: New Atlascope Tours From Spring 2024 Interns
 date: 2024-06-22T04:00:00.000Z
 author: 'Carmen Hansen, Erin Olding, Julie Raporte'
 image: >-
