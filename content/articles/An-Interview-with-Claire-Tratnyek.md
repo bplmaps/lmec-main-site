@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: An Interview with Claire Tratnyek
 date: 2024-06-20T04:00:00.000Z
 author: Claire Tratnyek
@@ -25,13 +25,17 @@ My academic background is in history and anthropology, but my practical backgrou
 
 **Tell us a little bit about your dissertation!**
 
-I am examining the history of segregated schooling in Boston since the 1970s, and using the neighborhood of East Boston as a case study that will (I hope!) provide a more inclusive framework for considering race and segregation in urban and educational spaces.
+I am examining the history of segregated schooling in Boston since the 1970s, and using the neighborhood of East Boston as a case study that will (I hope!) provide a more inclusive framework for considering race and segregation in urban and educational spaces. I’ve been thinking about this subject for a few years and I’m so excited to see it come to fruition soon!.
 
 **Do you have a favorite of the digital programs and tools we have available to the public right now?**
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/BPL-Tour.png" caption="Atlascope, featuring an in-atlascope tour of the Boston Public Library throughout the years" class="figure-right" >}}
 
-I LOVE [the Atlascope tool](https://www.atlascope.org/)! I use it all the time with my undergraduates at Northeastern and in my own research. Every city needs to have one.
+I LOVE [the Atlascope tool](https://www.atlascope.org/)! I use it all the time with my undergraduates at Northeastern when I teach a History of Boston course as a way to make sense of the way space and time can be understood when thinking about the changes of urban spaces.
+
+In my own research, I study Boston’s education history and I used Atlascope to fill in the gaps between records of Boston’s public schools about things like past site locations and name changes of the schools. I sometimes even used Atlascope to help me figure out when schools were founded by comparing atlases and noting when a school building appeared for the first time that otherwise went unnoted in the public record.
+
+Every city needs to have an Atlascope version, but I really think San Francisco, Chicago, and New Orleans versions of Atlascope would be so interesting.
 
 **What is your earliest memory of maps?**
 
