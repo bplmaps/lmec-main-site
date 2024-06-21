@@ -1,13 +1,13 @@
 ---
 title: Fall 2024 Internships
 backgroundImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
-draft: true
+draft: false
 menu: false
 ---
 
 {{< alert-box type="success" title="Apply " >}}
 
-Applications for our Fall 2024 internships are **open** until 3pm on Monday, July 8, 2024. [Apply below](#apply)!
+Applications for our Fall 2024 internships are **open** until 3pm on Monday, July 12, 2024. [Apply below](#apply)!
 
 {{</ alert-box >}}
 
