@@ -52,8 +52,10 @@ This manuscript survey sketch provides an early example of the treaties between 
 
 During the 1960s and 1970s, the Boston Redevelopment Authority (BRA) produced hundreds of maps that depicted “urban renewal areas” across the city of Boston. These areas had been identified as targets for reinvestment of federal funds as part of the Housing Act of 1949, which set aside funds for “slum clearance.” This map depicts the BRA’s proposal for urban renewal of various parcels in the South End, including Parcel 19 (listed “P19” on the map). In the late 1960s, the largely Puerto Rican residents of Parcel 19 founded Inquilinos Boricuas en Acción (IBA) in order to prevent displacement from their homes.
 
-The following photos and materials document some of those tenant movements in the Boston’s South End and Chinatown, including Inquilinos Boricuas en Acción (IBA), which founded Villa Victoria in the South End, and the tenants of 90 Warrenton Street who fought against evictions in Chinatown. Especially in the 1960s and 1970s, tenants across Boston who were fed up with high prices, poor conditions, and the prospect of displacement began to organize with one another for better housing conditions.
+The following photos and materials document some of the tenant movements in the Boston’s South End and Chinatown, including Inquilinos Boricuas en Acción (IBA), which founded Villa Victoria in the South End, and the tenants of 90 Warrenton Street who fought against evictions in Chinatown. Especially in the 1960s and 1970s, tenants across Boston who were fed up with high prices, poor conditions, and the prospect of displacement began to organize with one another for better housing conditions.
 
 {{< figure src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:hh63tx10j/image_thumbnail_300.jpg" >}}
 
 {{< figure src="https://repository.library.northeastern.edu/downloads/neu:m040sn814?datastream_id=thumbnail_4" >}}
+
+{{< figure src="https://repository.library.northeastern.edu/downloads/neu:84062?datastream_id=thumbnail_4" >}}
