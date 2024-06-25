@@ -40,11 +40,11 @@ A city’s shared history depends greatly upon its unique architectural styles. 
 
 By the end of the 19th century, Philadelphia was home to 40,000 African Americans, comprising the largest population in any northern city. Drawing from the sociological studies by residents of Chicago's Hull House, African American sociologist W. E. B. Du Bois undertook a similar study in Philadelphia, focusing on Ward 7, the location of the city's oldest Black neighborhood. In this community with roughly 9,700 residents, Du Bois and his associates conducted approximately 5,000 interviews. Their findings were published as The Philadelphia Negro (1899), which included this fold-out map with the location of every residence, church, and business owned by Black people.
 
-##### Henri Abraham Chatelain *[Mappmonde ou description generale du globe terrestre](https://collections.leventhalmap.org/search/commonwealth:9s161d837)* \[1705–1739]
+##### Gideon Hawley [Plan of Mashpee](https://collections.leventhalmap.org/search/commonwealth:cj82kr37q) (1785)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161d84h/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr380/full/1200,/0/default.jpg" >}}
 
-From the 15th to 18th centuries, people believed that the land in the northern hemisphere was balanced by a large unknown landmass in the southern hemisphere, often referred to as Terra Australis Incognita (Latin for unknown southern land). As explorers charted the southern hemisphere, the hypothesized continent morphed from connecting to South America, Africa, and Australia to being a separate continent and eventually believed to either lie within the polar regions or to not exist at all.
+This manuscript survey sketch provides an early example of the treaties between American leaders and native peoples that designated land for their use. Gideon Hawley, a Christian missionary to the Mashpee Indians, drew this reservation map for Reverend Isaac Smith. Like most Native American tribes in Massachusetts, the Mashpee lived on Cape Cod. The Mashpee fought with the Americans during the Revolutionary War and suffered heavy losses. In 1783, Hawley noted that there were at least 70 widows on the Mashpee reservation, most of whom had lost their husbands during the war.
 
 ##### **Gerhard Mercator** [*Septentrionalium terrarum descriptio* ](https://collections.leventhalmap.org/search/commonwealth:8049g9006)\[1595]
 
