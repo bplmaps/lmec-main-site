@@ -29,18 +29,6 @@ In the late winter of 1867, Charles Dickens paid Boston a visit. Incentivized by
 
 </a>
 
-## The Constructed Nature of Boston
-
-This historical tour of public green space in the virtual Atlas Land of Boston-greater area delves deep into the history of Boston’s parks and how it led a modern Boston to be ranked 10th of cities in America for its parks and green space.
-
-<a href="https://www.atlascope.org/#/view:tour$tour:397701557773140032" target="_blank" class="btn btn-md btn-outline-primary">Start this tour</a>
-
-<a href="https://www.atlascope.org/#/view:tour$tour:397701557773140032" target="_blank">
-
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled - 2024-06-20T104047.896.png" >}}
-
-</a>
-
 ## What's Lost Beneath Boston's Parking Lots?
 
 Boston is one of America’s oldest cities and had a long history of public transportation, beginning nearly as soon as the city was founded. However, as time progressed, Boston went through the automobile boom like many cities across the country and demands for parking space across the city grew swiftly. Now public parking lots and garages can be found almost anywhere, but have you ever wondered was came before the asphalt?
