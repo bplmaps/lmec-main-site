@@ -8,7 +8,7 @@ menu: false
 
 {{< alert-box type="success" title="Apply " >}}
 
-Applications for our Fall 2024 internships are **open** until 3pm on Monday, July 12, 2024. [Apply below](#apply)!
+Applications for our Fall 2024 internships are **open** until 3pm on Friday, July 12, 2024. [Apply below](#apply)!
 
 {{</ alert-box >}}
 
