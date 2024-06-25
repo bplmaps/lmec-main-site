@@ -1,7 +1,7 @@
 ---
 draft: false
 title: 'Highlights From The Vault: Views of Housing & Home'
-date: 2024-06-21T04:00:00.000Z
+date: 2024-06-22T04:00:00.000Z
 author: 'Ian Spangler, Julia Williams'
 description: 'Check out these highlights from June''s From The Vault: Views of Housing & Home'
 image: >-
