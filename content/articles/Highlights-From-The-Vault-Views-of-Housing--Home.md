@@ -54,7 +54,7 @@ During the 1960s and 1970s, the Boston Redevelopment Authority (BRA) produced hu
 
 The following photos and materials document some of the tenant movements in the Boston’s South End and Chinatown, including Inquilinos Boricuas en Acción (IBA), which founded Villa Victoria in the South End, and the tenants of 90 Warrenton Street who fought against evictions in Chinatown. Especially in the 1960s and 1970s, tenants across Boston who were fed up with high prices, poor conditions, and the prospect of displacement began to organize with one another for better housing conditions.
 
-{{< figure src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:hh63tx10j/image_thumbnail_300.jpg" >}}
+{{< figure src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:hh63tx10j/image_thumbnail_300.jpg" class="figure-left" >}}
 
 {{< figure src="https://repository.library.northeastern.edu/downloads/neu:m040sn814?datastream_id=thumbnail_4" >}}
 
