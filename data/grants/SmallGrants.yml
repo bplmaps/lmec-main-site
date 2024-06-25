@@ -60,21 +60,25 @@
   Complete: "yes"
   ProjectUrl: https://www.leventhalmap.org/articles/women-geological-mapmaking-early-american-republic/
   ImageUrl: https://acdc.amherst.edu/cantaloupe/iiif/2/media%2FOrraClassroomDrawings%2Fma01020-0027%2Fimage-ma01020-0027-c37a612e-df2e-49be-b375-b18ae72fdb61.jpg/full/1200,/0/default.jpg
+  Color: bg-warning
 - Name: Alice King
   Cycle: 2024
   Title: Pequot country on sellers and foster maps
   Complete: "no"
   ProjectUrl: null
   ImageUrl: null
+  Color: bg-warning
 - Name: Charlotte Leib
   Cycle: 2024
   Title: "The needle in the haystack: charting new energy histories of early America with plants, maps, and digital methods"
   Complete: "no"
   ProjectUrl: null
   ImageUrl: null 
+  Color: bg-warning
 - Name: Savita Maharaj
   Cycle: 2024
   Title: The Eaton Sisters and Afro-Asian Diasporic Community
   Complete: "no"
   ProjectUrl: null
   ImageUrl: null
+  Color: bg-warning
