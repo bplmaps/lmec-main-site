@@ -52,20 +52,6 @@ This manuscript survey sketch provides an early example of the treaties between 
 
 During the 1960s and 1970s, the Boston Redevelopment Authority (BRA) produced hundreds of maps that depicted “urban renewal areas” across the city of Boston. These areas had been identified as targets for reinvestment of federal funds as part of the Housing Act of 1949, which set aside funds for “slum clearance.” This map depicts the BRA’s proposal for urban renewal of various parcels in the South End, including Parcel 19 (listed “P19” on the map). In the late 1960s, the largely Puerto Rican residents of Parcel 19 founded Inquilinos Boricuas en Acción (IBA) in order to prevent displacement from their homes.
 
-##### **John Senex**[\*\*\* A new map of America from the latest observations\*\*\* ](https://collections.leventhalmap.org/search/commonwealth:wd3762305)(1721)
+The following photos and materials document some of those tenant movements in the Boston’s South End and Chinatown, including Inquilinos Boricuas en Acción (IBA), which founded Villa Victoria in the South End, and the tenants of 90 Warrenton Street who fought against evictions in Chinatown. Especially in the 1960s and 1970s, tenants across Boston who were fed up with high prices, poor conditions, and the prospect of displacement began to organize with one another for better housing conditions.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd376231f/full/1200,/0/default.jpg" class="" >}}
-
-This map shows two geographical misconceptions about the Pacific coast of North America. The Sea of the West, shown on this map as the Great Lake of Thoago or Thoya, was a large inland sea that appeared on maps in the 17th and 18th centuries. Juan de Fuca claimed to have sailed up a strait (possibly the current Strait of Juan de Fuca between Vancouver Island and Washington state) to the sea in 1592. This map also shows California as an island, which was possibly assumed by early explorers and spread as cartographers copied each other’s maps. By the 1800s, coastal and overland expeditions debunked these errors.
-
-##### **Willem Janszoon Blaeu** *[Asia noviter delineata](https://collections.leventhalmap.org/search/commonwealth:st74cw80x)* \[1650]
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw816/full/1200,/0/default.jpg" >}}
-
-Early accounts by Portuguese explorers in the 1500s described Lake Chiamay as an enormous lake in southeast Asia that was the source of many rivers in Bangladesh, Burma, and Thailand. The lake appears on this map to the lower right of the center, below the illustration of an elephant. The name likely came from the city of Chiang Mai in northern Thailand. The lake was included in maps, encyclopedias, and gazetteers up to the mid-1700s.
-
-##### **Robert Dudley** [”*Carta particolare dell mare di Ierlandia é parte di Inghilterr é della Iscotia”*](https://bpl.bibliocommons.com/v2/record/S75C3234275) in Dell’ Arcano del mare (1646-47)
-
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (98).png" class="" >}}
-
-Phantom islands are islands that were purportedly seen by sailors and explorers and even appeared on maps for a time before later being deemed nonexistent. One of the most famous phantom islands is Hy-Brasil located west of Ireland and shown in the lower left on this map. In Irish legend, the island is constantly shrouded in mist and appears once every seven years. Some mariners claimed to have discovered the legendary island and reported fantastic accounts of otherworldly beings.
+{{< figure src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:hh63tx10j/image_thumbnail_300.jpg" >}}
