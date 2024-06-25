@@ -10,27 +10,29 @@ tags:
   - from the vault
 ---
 
-> **On June 21, we hosted *From The Vault: Views of Housing & Home. ***\
+> \*\*On June 21, we hosted \*From The Vault: Views of Housing & Home. \*\*\*\
 > \
 > *From The Vault* is a biweekly event series showing collections objects selected by Leventhal Center staff with this week's theme specially curated by our Assistant Curator of Digital & Participatory Geography, **Ian Spangler**! In this *From The Vault*, we asked what do “housing and home” mean to you? Whether they’re are viewed as economic commodities, cultural signifiers, or basic rights will differ drastically depending on whom you ask. When depicted in maps, these different perspectives can alter our perception of what housing and home mean. During the event, we explored these different perspectives and asked questions about why our understanding of home can look so different for so many people.
 
-##### Ignatz Sahula [19th annual convention of the National Association of Real Estate Boards : at Tulsa, June 7 to June 11 in 1926](https://collections.leventhalmap.org/search/commonwealth:3f4638304) (1926)
+##### **Ignatz Sahula** *[19th annual convention of the National Association of Real Estate Boards : at Tulsa, June 7 to June 11 in 1926](https://collections.leventhalmap.org/search/commonwealth:3f4638304)* (1926)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/full/1200,/0/default.jpg" >}}
 
 The National Association of Real Estate Boards (known today as the National Association of Realtors®) created this map in 1926 to promote the realtors’ 19th annual convention. In playful and sometimes shocking detail, it highlights the kinds of professional activities and behaviors that informed realtors’ cultural, economic, and professional identities at the time. In Miami, for example, we find L.W. Crow kicking the curbstone “binder boys” into the sea, while just north of Ontario, Goodwin Gibson professes his belief in “international multiple listing.” At the same time, the map showcases common prejudices held by the real estate industry, visible in the racist depiction of a Black man in Mississippi – a reminder of the historical exclusions and discriminatory practices that have haunted U.S. housing for hundreds of years.
 
-##### H. T. Whitman [Plan of Orient Heights, Boston, Mass ](https://collections.leventhalmap.org/search/commonwealth:js956m23t)(1894)
+##### **H. T. Whitman** *[Plan of Orient Heights, Boston, Mass ](https://collections.leventhalmap.org/search/commonwealth:js956m23t)*(1894)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956m243/full/1200,/0/default.jpg" >}}
 
-The Great Desert referred to an area west of the Mississippi River that was considered unfit for cultivation and therefore uninhabitable by people reliant on agriculture. Early 19th-century expeditions by the U.S. government reported a lack of surface water and trees, which they believed meant the region could not be farmed. The area was avoided by settlers passing through for the Gold Rush or aiming to settle in better lands in the West. When people settling in the area in the mid- and late 1800s received more rainfall than expected for a desert, they believed it to be a reward from God for settling the area or to be caused by their planting and plowing.
+With Boston’s rising population and increased demand for housing, the Boston Land Company began to develop former marshland in East Boston in the 1880s, including Hog Island (also called Breed’s Island) which became Orient Heights. This promotional map invites the viewer to imagine themselves in one such newly developed suburb. The invocation to “SECURE A HOME” and “STOP PAYING RENT” may seem like a simple advertisement, but it also serves as a precursor to the “Own Your Own Home” movement that would take off a couple of decades after this map was made. Homeownership would become associated with responsible citizenship, and so-called “transient” renters were considered unscrupulous.
 
-##### **W. Scott-Elliot**\* [Lemuria at its greatest extent](https://collections.leventhalmap.org/search/commonwealth:cz30sz81k) \*(1904)
+##### Boston Redevelopment Authority [Three-decker Housing in the City of Boston: a Reconnaissance](https://bpl.bibliocommons.com/v2/record/S75C1034616) (1974)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:s4658p68j/full/1200,/0/default.jpg" >}}
+##### Boston Redevelopment Authority [Boston’s Triple-deckers](https://bpl.bibliocommons.com/v2/record/S75C1022180) (1978)
 
-In 1864, the zoologist Philip Sclater proposed an ancient continent of Lemuria that had sunk beneath the Indian Ocean to explain lemur fossils in Madagascar and southern Asia but not in Africa or the Middle East. Theosophists, a religious group established in the United States in the late 1800s, claimed the continent was the home of the third “root race” or stage of evolution of humans. On this map, red outlines the continent of Lemuria while blue shows Hyperborea, the home of the second “root race” that preceded Lemuria.
+{{< figure src="https://bostonpreservation.org/sites/default/files/inline-images/Triple%20Decker%20Late%20Decorative.jpg" caption="Example of a Boston triple-decker home" >}}
+
+A city’s shared history depends greatly upon its unique architectural styles. In the Greater Boston area, there is perhaps no style more quintessential than the so-called “triple-decker.” In the 1870s, these three-story buildings enjoyed a surge in popularity. By 1920, about 15,000 triple deckers had been constructed. Created by the Boston Redevelopment Authority (BRA) in the 1970s, these maps document the distribution of triple decker homes in the City of Boston. 
 
 ##### **Susanna Townsend** *[Africa ](https://collections.leventhalmap.org/search/commonwealth:q524n421p)*(1831)
 
