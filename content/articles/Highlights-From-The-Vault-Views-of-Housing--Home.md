@@ -46,11 +46,11 @@ By the end of the 19th century, Philadelphia was home to 40,000 African American
 
 This manuscript survey sketch provides an early example of the treaties between American leaders and native peoples that designated land for their use. Gideon Hawley, a Christian missionary to the Mashpee Indians, drew this reservation map for Reverend Isaac Smith. Like most Native American tribes in Massachusetts, the Mashpee lived on Cape Cod. The Mashpee fought with the Americans during the Revolutionary War and suffered heavy losses. In 1783, Hawley noted that there were at least 70 widows on the Mashpee reservation, most of whom had lost their husbands during the war.
 
-##### **Gerhard Mercator** [*Septentrionalium terrarum descriptio* ](https://collections.leventhalmap.org/search/commonwealth:8049g9006)\[1595]
+##### Boston Redevelopment Authority [South End urban renewal area R-56](https://collections.leventhalmap.org/search/commonwealth:7h14cz068)[ : re-use parcels](https://collections.leventhalmap.org/search/commonwealth:7h14cz068) (1965)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8049g901g/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14cz07j/full/1200,/0/default.jpg" class="" >}}
 
-This map shows Gerhard Mercator’s idea of the Arctic region, based on his research of explorer accounts and other maps. It shows a tall black rock in the middle of a whirlpool formed by four rivers between four countries. The water in the whirlpool descends into the Earth like a funnel. While the black rock marks true north, another rock above it is the magnetic one to which compasses point, explaining the difference between true north and magnetic north. The map includes notes about the inhabitants of the four countries and other places.
+During the 1960s and 1970s, the Boston Redevelopment Authority (BRA) produced hundreds of maps that depicted “urban renewal areas” across the city of Boston. These areas had been identified as targets for reinvestment of federal funds as part of the Housing Act of 1949, which set aside funds for “slum clearance.” This map depicts the BRA’s proposal for urban renewal of various parcels in the South End, including Parcel 19 (listed “P19” on the map). In the late 1960s, the largely Puerto Rican residents of Parcel 19 founded Inquilinos Boricuas en Acción (IBA) in order to prevent displacement from their homes.
 
 ##### **John Senex**[\*\*\* A new map of America from the latest observations\*\*\* ](https://collections.leventhalmap.org/search/commonwealth:wd3762305)(1721)
 
