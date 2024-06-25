@@ -59,3 +59,5 @@ The following photos and materials document some of the tenant movements in the 
 {{< figure src="https://repository.library.northeastern.edu/downloads/neu:m040sn814?datastream_id=thumbnail_4" >}}
 
 {{< figure src="https://repository.library.northeastern.edu/downloads/neu:84062?datastream_id=thumbnail_4" >}}
+
+{{< figure src="https://repository.library.northeastern.edu/downloads/neu:m040wt41q?datastream_id=thumbnail_4" >}}
