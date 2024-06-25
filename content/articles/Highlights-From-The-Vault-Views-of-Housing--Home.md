@@ -10,7 +10,7 @@ tags:
   - from the vault
 ---
 
-> \*\*On June 21, we hosted \*From The Vault: Views of Housing & Home. \*\*\*\
+> **On June 21, we hosted *From The Vault: Views of Housing & Home*.**\
 > \
 > *From The Vault* is a biweekly event series showing collections objects selected by Leventhal Center staff with this week's theme specially curated by our Assistant Curator of Digital & Participatory Geography, **Ian Spangler**! In this *From The Vault*, we asked what do “housing and home” mean to you? Whether they’re are viewed as economic commodities, cultural signifiers, or basic rights will differ drastically depending on whom you ask. When depicted in maps, these different perspectives can alter our perception of what housing and home mean. During the event, we explored these different perspectives and asked questions about why our understanding of home can look so different for so many people.
 
@@ -34,11 +34,11 @@ With Boston’s rising population and increased demand for housing, the Boston L
 
 A city’s shared history depends greatly upon its unique architectural styles. In the Greater Boston area, there is perhaps no style more quintessential than the so-called “triple-decker.” In the 1870s, these three-story buildings enjoyed a surge in popularity. By 1920, about 15,000 triple deckers had been constructed. Created by the Boston Redevelopment Authority (BRA) in the 1970s, these maps document the distribution of triple decker homes in the City of Boston. 
 
-##### **Susanna Townsend** *[Africa ](https://collections.leventhalmap.org/search/commonwealth:q524n421p)*(1831)
+##### W. E. B. Du Bois [The Seventh Ward of Philadelphia : the distribution of Negro inhabitants throughout the ward, and their social conditions](https://collections.leventhalmap.org/search/commonwealth:gb19h9947) (1899)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n422z/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:gb19h995h/full/1200,/0/default.jpg" class="" >}}
 
-This map, drawn by a schoolgirl in 1831, shows the non-existent Mountains of Kong in West Africa on the northern border of the “Coast of Guinea” and the equally fictitious Mountains of the Moon in East Africa on the northern border of Ethiopia. Ancient Greek and Roman geographers believed the Mountains of the Moon were the source of the White Nile River. The Mountains of Kong in West Africa were reported and drawn on maps by explorers in the 1800s. Both of these mountain ranges were common knowledge, appearing in encyclopedias and maps, and taught in schools until fading away in the late
+By the end of the 19th century, Philadelphia was home to 40,000 African Americans, comprising the largest population in any northern city. Drawing from the sociological studies by residents of Chicago's Hull House, African American sociologist W. E. B. Du Bois undertook a similar study in Philadelphia, focusing on Ward 7, the location of the city's oldest Black neighborhood. In this community with roughly 9,700 residents, Du Bois and his associates conducted approximately 5,000 interviews. Their findings were published as The Philadelphia Negro (1899), which included this fold-out map with the location of every residence, church, and business owned by Black people.
 
 ##### Henri Abraham Chatelain *[Mappmonde ou description generale du globe terrestre](https://collections.leventhalmap.org/search/commonwealth:9s161d837)* \[1705–1739]
 
