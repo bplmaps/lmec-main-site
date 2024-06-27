@@ -3,8 +3,10 @@ draft: false
 title: From the Vault Collections Showing — Revolution and Independence!
 date: 2024-07-05T18:00:00.000Z
 publishDate: 2024-06-27T13:00:00.000Z
-image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/FTV 7.5.24.png'
-backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/FTV 7.5.24.png'
+image: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947b91z/full/1200,/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947b91z/full/1200,/0/default.jpg
 location: Leventhal Map & Education Center – Learning Center
 fee: Free
 tags:
