@@ -1,4 +1,4 @@
-specialNote: July 4th - We will be closed for Independence Day
+specialNote: ''
 weekly:
   - day: Monday
     special: Closed
@@ -22,9 +22,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'July 4, 2024'
-    name: Independence Day
-    special: Closed
   - date: 'September 1, 2024'
     name: The day before Labor Day
     special: Closed
