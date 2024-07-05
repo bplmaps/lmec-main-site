@@ -57,11 +57,6 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Holiday Hours
-      text: >-
-        The Leventhal Center and all BPL locations will be closed on Thursday,
-        July 4 in observance of Independence Day.
-      link: /about/hours-directions
     - badge: New exhibition
       text: _Heaven & Earth_ is now on display.
       link: 'https://www.leventhalmap.org/exhibitions/'
