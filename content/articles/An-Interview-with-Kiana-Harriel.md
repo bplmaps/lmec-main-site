@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: An Interview with Kiana Harriel
 date: 2024-07-07T04:00:00.000Z
 author: Kiana Harriel
@@ -19,7 +19,7 @@ Starting at the Leventhal Center in the summer has been exciting so far! I have 
 
 You’re starting in the middle of [Heaven & Earth: The Blue Maps of China.](https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth/) In your opinion, what’s an item in the exhibit that makes you most curious?
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Media (11).jpg" caption="Complete Geographical Map of the Everlasting Unified Qing Empire (ca. 1818)" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Media (11).jpg" caption="Complete Geographical Map of the Everlasting Unified Qing Empire (ca. 1818) in Heaven & Earth: The Blue Maps of China" >}}
 
 I am most curious about the [Complete Geographical Map of the Everlasting Unified Qing Empire.](https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth/catalogue/3/) It is the most visually compelling object in the exhibit, and I am interested in learning more about East Asian history. When I look at this object, I have so many questions about how it was created, why, and who it was intended for.
 
