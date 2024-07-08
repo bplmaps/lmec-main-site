@@ -3,13 +3,22 @@ draft: false
 title: An Interview with Kiana Harriel
 date: 2024-07-07T04:00:00.000Z
 author: Kiana Harriel
+description: >-
+  An interview with the new  Experiential Learning & Programs Educator, Kiana
+  Harriel. 
+image: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr21t/full/1200,/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr21t/full/1200,/0/default.jpg
 ---
 
-##### **Kiana, we’re so excited to have you on board here at the Leventhal Map & Education Center. Tell us a little bit about your background—what led up to your new role with us?**
+> We’re excited to welcome Kiana Harriel to the team as our new Experiential Learning & Programs Educator. Kiana is an accomplished teacher and museum educator and we're so excited to have her join the LMEC team. We sat down with Kiana to learn more about her previous experience and what's she's looking forward to since starting with the Leventhal Center.
+
+###### **Kiana, we’re so excited to have you on board here at the Leventhal Map & Education Center. Tell us a little bit about your background—what led up to your new role with us?**
 
 I have a BA in Anthropology and recently graduated with my MA in Teaching Social Studies (7-12th grade) from Brown University this May. Much of my experience is in the classroom or at other museums in Boston. I most recently taught a Women's History elective course in East Providence, Rhode Island, and before that I taught English as a second language in South Korea. I also served as a Visitor Service assistant at the Isabella Stewart Gardner Museum and worked within the conservation department as a technician. These experiences led me  to the Leventhal Map and Education Center. I'm interested in integrating visuals in instructional design and creating inquiry and skills-based programs for K-12 audiences, which align well with the goals of the Education department.
 
-##### **How do you think you’ll apply your previous teaching experience to this new position?**
+###### **How do you think you’ll apply your previous teaching experience to this new position?**
 
 As a classroom teacher, I have a robust understanding of the needs of teachers and students when it comes to student learning, which will transfer well into leading on-site and virtual school visits. As a social studies teacher, I created inquiry-based and student-led lessons. I focused on creating compelling open-ended questions relating to both historical content and my students’ lives to position my students as experts and to help their understanding. This practice was the most impactful for me and is something that I will continue to apply in my new position when working with the public.
 
