@@ -10,6 +10,9 @@ image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr21t/full/1200,/0/default.jpg
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr21t/full/1200,/0/default.jpg
+tags:
+  - Interview
+  - Staff
 ---
 
 > We’re excited to welcome Kiana Harriel to the team as our new Experiential Learning & Programs Educator. Kiana is an accomplished teacher and museum educator and we're so excited to have her join the LMEC team. We sat down with Kiana to learn more about her previous experience and what's she's looking forward to since starting with the Leventhal Center.
