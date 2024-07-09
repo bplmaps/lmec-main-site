@@ -58,10 +58,10 @@ From the middle of the Irish independence war, this map focuses on the division 
 
 While technically true, the religious divide was much closer to an equal 50/50 split of Protestants and Catholics (who supported a totally free Irish state). This caused many to call Carson a traitor and betrayer by using deceiving tactics to force the nationalist Catholics into a heavily policed and discriminatory North Ireland. The Republic of Ireland was formed in 1922 as a free state, while North Ireland remains a part of Britain to the present. 
 
-***The following photos and materials document some of the tenant movements in the Boston’s South End and Chinatown***, including Inquilinos Boricuas en Acción (IBA), which founded Villa Victoria in the South End, and the tenants of 90 Warrenton Street who fought against evictions in Chinatown. Especially in the 1960s and 1970s, tenants across Boston who were fed up with high prices, poor conditions, and the prospect of displacement began to organize with one another for better housing conditions.
+##### Charles Magnus & Co [Magnus' panoramic view map of India](https://collections.leventhalmap.org/search/commonwealth:3f463283x) (1857)
 
-{{< figure src="https://repository.library.northeastern.edu/downloads/neu:m040sn814?datastream_id=thumbnail_4" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4632846/full/1200,/0/default.jpg" class="" >}}
 
-{{< figure src="https://repository.library.northeastern.edu/downloads/neu:84062?datastream_id=thumbnail_4" >}}
+Created in the midst of India’s first War of Independence (also known as the Sepoy Mutiny) this map indicates the “Leading Seats of Insurrection” against the British in a bright, nearly blood red color. Though unrest had long been stirring during the British occupation of India, it wasn’t until 1857 that the first fight for independence began.
 
-{{< figure src="https://repository.library.northeastern.edu/downloads/neu:m040wt41q?datastream_id=thumbnail_4" >}}
+The breaking point came when Indian soldiers, called sepoys, were given bullets by British officials that in order to be used required their casings to be bitten off. These bullets were greased with lard, believed by Indian troops to be either pig or cow fat. The use of cow fat goes against doctrines of Hinduism, while the use of pig fat opposes Islamic doctrine, the two major religions of India. The insult to both religions sparked rebellions by Indian sepoys against their British officers.
