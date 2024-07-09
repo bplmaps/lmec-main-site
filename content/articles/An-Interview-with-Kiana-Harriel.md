@@ -19,6 +19,8 @@ tags:
 
 ###### **Kiana, we’re so excited to have you on board here at the Leventhal Map & Education Center. Tell us a little bit about your background—what led up to your new role with us?**
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Kiana Harriel.jpg" class="figure-right" >}}
+
 I have a BA in Anthropology and recently graduated with my MA in Teaching Social Studies (7-12th grade) from Brown University this May. Much of my experience is in the classroom or at other museums in Boston. I most recently taught a Women's History elective course in East Providence, Rhode Island, and before that I taught English as a second language in South Korea. I also served as a Visitor Service assistant at the Isabella Stewart Gardner Museum and worked within the conservation department as a technician. These experiences led me  to the Leventhal Map and Education Center. I'm interested in integrating visuals in instructional design and creating inquiry and skills-based programs for K-12 audiences, which align well with the goals of the Education department.
 
 ###### **How do you think you’ll apply your previous teaching experience to this new position?**
@@ -45,6 +47,6 @@ There are so many things that I’m looking forward to, but I will only mention 
 
 ##### **Do you have a favorite map that you’ve found in the collections yet?**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr21t/full/1200,/0/default.jpg" caption="Map of a Woman's Heart (ca.1840–1860)" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr21t/full/1200,/0/default.jpg" caption="Map of a Woman's Heart (ca.1840–1860)" class="figure-left" >}}
 
 Good question! I am interested in women's history, so I searched the collection for maps related to women. My favorite map I found is the *[Map of a Woman's Heart](https://collections.leventhalmap.org/search/commonwealth:cj82kr20j)*. I recently taught a unit about women in abolition, early suffrage efforts, and the gender roles of the mid-nineteenth century. A Map of a Women's Heart would have been the perfect visual text for my students to interpret—I wish I found it earlier! I love analyzing this map because it feels humorous and satirical, but it also feels like it could have a mocking tone as well!
