@@ -19,6 +19,8 @@ tags:
 
 ###### **Kiana, we’re so excited to have you on board here at the Leventhal Map & Education Center. Tell us a little bit about your background—what led up to your new role with us?**
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Kiana Harriel.jpg" class="figure-right" >}}
+
 I have a BA in Anthropology and recently graduated with my MA in Teaching Social Studies (7-12th grade) from Brown University this May. Much of my experience is in the classroom or at other museums in Boston. I most recently taught a Women's History elective course in East Providence, Rhode Island, and before that I taught English as a second language in South Korea. I also served as a Visitor Service assistant at the Isabella Stewart Gardner Museum and worked within the conservation department as a technician. These experiences led me  to the Leventhal Map and Education Center. I'm interested in integrating visuals in instructional design and creating inquiry and skills-based programs for K-12 audiences, which align well with the goals of the Education department.
 
 ###### **How do you think you’ll apply your previous teaching experience to this new position?**
