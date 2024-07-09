@@ -28,15 +28,15 @@ Led by former slave Toussaint l’Overturein 1791, L’Overture was eventually c
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kh04p659j/full/1200,/0/default.jpg" >}}
 
-With Boston’s rising population and increased demand for housing, the Boston Land Company began to develop former marshland in East Boston in the 1880s, including Hog Island (also called Breed’s Island) which became Orient Heights. This promotional map invites the viewer to imagine themselves in one such newly developed suburb. The invocation to “SECURE A HOME” and “STOP PAYING RENT” may seem like a simple advertisement, but it also serves as a precursor to the “Own Your Own Home” movement that would take off a couple of decades after this map was made. Homeownership would become associated with responsible citizenship, and so-called “transient” renters were considered unscrupulous.
+The French Revolution was an event that had worldwide impact and gave many the courage to fight back against oppressive ruling governments. Began in 1789 and ended in the late 1790s with the ascent of Napoleon Bonaparte, French citizens radically altered their political structure. The upheaval was caused by disgust with the French aristocracy and the economic policies of King Louis XVI who had left France incredibly economically unstable. Revolting against years of exploitation, peasants looted and burned the homes of tax collectors, landlords and the aristocratic elite.
 
-##### **Boston Redevelopment Authority** *[Three-decker Housing in the City of Boston: a Reconnaissance](https://bpl.bibliocommons.com/v2/record/S75C1034616)* (1974)
+This map was created post-war and highlights the important cultural features of the city and showcases the deliberate planning, organization, and expansion of Paris. Depicting the rebuilding of Paris after the French Revolution, you can see the expansion of the city past its old city walls symbolizing a healing and growing nation.
 
-##### **Boston Redevelopment Authority** *[Boston’s Triple-deckers](https://bpl.bibliocommons.com/v2/record/S75C1022180)* (1978)
+##### Samuel Swett [Sketch of Bunker Hill Battle](https://collections.leventhalmap.org/search/commonwealth:3t947b90p) (1826)
 
-{{< figure src="https://bostonpreservation.org/sites/default/files/inline-images/Triple%20Decker%20Late%20Decorative.jpg" caption="Example of a Boston triple-decker home" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947b91z/full/1200,/0/default.jpg" caption="" >}}
 
-A city’s shared history depends greatly upon its unique architectural styles. In the Greater Boston area, there is perhaps no style more quintessential than the so-called “triple-decker.” In the 1870s, these three-story buildings enjoyed a surge in popularity. By 1920, about 15,000 triple deckers had been constructed. Created by the Boston Redevelopment Authority (BRA) in the 1970s, these maps document the distribution of triple decker homes in the City of Boston.
+This map depicts the Battle of Bunker Hill, known as the first major battle of the American Revolution. The battle took place in Charlestown, just outside of Boston, and was named after the tallest hill in the area, though the majority of the battle took place on Breed’s Hill, located near the center of the map. Lines of fire, British entry points, and a colonist fort are depicted on this map created 50 years after the initial battle.
 
 ##### **W. E. B. Du Bois** *[The Seventh Ward of Philadelphia : the distribution of Negro inhabitants throughout the ward, and their social conditions](https://collections.leventhalmap.org/search/commonwealth:gb19h9947)* (1899)
 
