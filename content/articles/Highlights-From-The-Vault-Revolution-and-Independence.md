@@ -38,11 +38,11 @@ This map was created post-war and highlights the important cultural features of 
 
 This map depicts the Battle of Bunker Hill, known as the first major battle of the American Revolution. The battle took place in Charlestown, just outside of Boston, and was named after the tallest hill in the area, though the majority of the battle took place on Breed’s Hill, located near the center of the map. Lines of fire, British entry points, and a colonist fort are depicted on this map created 50 years after the initial battle.
 
-##### **W. E. B. Du Bois** *[The Seventh Ward of Philadelphia : the distribution of Negro inhabitants throughout the ward, and their social conditions](https://collections.leventhalmap.org/search/commonwealth:gb19h9947)* (1899)
+##### Robert Sayer and John Bennett [The theatre of war in North America, with the roads and a table of the distances](https://collections.leventhalmap.org/search/commonwealth:z603vs95d) (1776)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:gb19h995h/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vs96p/full/1200,/0/default.jpg" class="" >}}
 
-By the end of the 19th century, Philadelphia was home to 40,000 African Americans, comprising the largest population in any northern city. Drawing from the sociological studies by residents of Chicago's Hull House, African American sociologist W. E. B. Du Bois undertook a similar study in Philadelphia, focusing on Ward 7, the location of the city's oldest Black neighborhood. In this community with roughly 9,700 residents, Du Bois and his associates conducted approximately 5,000 interviews. Their findings were published as The Philadelphia Negro (1899), which included this fold-out map with the location of every residence, church, and business owned by Black people.
+A full and in-depth account of all of the British colonies and their populations in North America. Included with this detailed map are full descriptions of each region, including regional markers, prominent counties and the towns within them, all large lakes, rivers, capes, and bays. Also featured on the center-right of the map is a chart showing how the distance (in British miles) between prominent colonial cities were from each other. A map of this kind would have been incredibly helpful to orient the British military to the new American fight for independence.
 
 ##### **Gideon Hawley** *[Plan of Mashpee](https://collections.leventhalmap.org/search/commonwealth:cj82kr37q)* (1785)
 
