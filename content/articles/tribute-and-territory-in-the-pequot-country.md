@@ -67,7 +67,7 @@ Connecticut attempted to cement their status as inheritors of the Pequots' tribu
 
 The community of Pequot refugees who survived the Pequot War wanted to regain their homelands. One of their leaders, Robin Cassacinamon, launched a campaign of petitions and tribute payments to try and win over influential English allies. Many English colonists wanted ownership of the land itself, but some leaders decided that making the Pequot survivors their tributaries was a more strategic move because Native populations had valuable connections, resources, and knowledge that could be used to sustain the fledgling colony of Connecticut.
 
-***Click through the annotated map story below to learn about wampum, Robin Cassacinamon, and land disputes in colonial Massachusetts.***
+***Click through the annotated map story below to learn about wampum, Robin Cassacinamon, and land disputes in colonial New England.***
 
 <section class="paneltruck-section-inline">
   <iframe class="paneltruck-iframe" allowfullscreen src="https://geoservices.leventhalmap.org/panel-truck/panel-truck-wrapper/index.html#alice-king-sachem-screenplay">  
