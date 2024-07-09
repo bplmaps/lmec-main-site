@@ -6,8 +6,10 @@ author: Julia Williams
 description: >-
   Check out these highlights from the July 4th themed From The Vault: Revolution
   and Independence!
-image: ''
-backgroundImage: ''
+image: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947b91z/full/1200,/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947b91z/full/1200,/0/default.jpg
 tags:
   - from the vault
 ---
