@@ -16,7 +16,7 @@ tags:
 > \
 > *From The Vault* is a biweekly event series showing collections objects selected by Leventhal Center staff. In this *From The Vault*, as we enter the 250th year since America’s first fight to gain independence, we had an opportunity to reflect on our nation’s founding and on similar historic events of the past. We were able to examine maps that showcased the peoples, regions, and nations that worked to revolutionize their social structure and gain independence from those that sought to suppress their freedom. With over 130 visitors over the course of the two hour event, this was our most successful From The Vault event yet!
 
-##### Jacques Nicolas Bellin [La partie Francoise de l'isle de Saint Domingue](https://collections.leventhalmap.org/search/commonwealth:wd376578z) (1764)
+##### **Jacques Nicolas Bellin** *[La partie Francoise de l'isle de Saint Domingue](https://collections.leventhalmap.org/search/commonwealth:wd376578z)* (1764)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765797/full/1200,/0/default.jpg" >}}
 
@@ -24,9 +24,9 @@ The Haitian Revolution has often been described as the largest and most successf
 
 Led by former slave Toussaint l’Overturein 1791, L’Overture was eventually captured and sent to France where he died in prison in 1803. Jean-Jacques Dessalines, formerly enslaved and one of l’Overture’s generals, led the revolutionaries at the Battle of Vertieres on November 18, 1803 where the French forces were defeated. On January 1, 1804, Dessalines declared the nation independent and renamed it Haiti.
 
-##### **H. T. Whitman** *[Plan of Orient Heights, Boston, Mass ](https://collections.leventhalmap.org/search/commonwealth:js956m23t)*(1894)
+##### Pichon [Nouveau plan routier de la ville et faubourgs de Paris avec ses principaux édifices et nouvelles barrières](https://collections.leventhalmap.org/search/commonwealth:kh04p6588) (1802)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956m243/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kh04p659j/full/1200,/0/default.jpg" >}}
 
 With Boston’s rising population and increased demand for housing, the Boston Land Company began to develop former marshland in East Boston in the 1880s, including Hog Island (also called Breed’s Island) which became Orient Heights. This promotional map invites the viewer to imagine themselves in one such newly developed suburb. The invocation to “SECURE A HOME” and “STOP PAYING RENT” may seem like a simple advertisement, but it also serves as a precursor to the “Own Your Own Home” movement that would take off a couple of decades after this map was made. Homeownership would become associated with responsible citizenship, and so-called “transient” renters were considered unscrupulous.
 
