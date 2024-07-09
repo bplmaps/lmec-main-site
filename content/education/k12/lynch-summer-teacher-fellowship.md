@@ -6,6 +6,12 @@ title: >-
   History
 ---
 
+{{< alert-box type="danger" title="Applications Closed" >}}
+
+Applications for our 2024 Lynch Fellowships have closed. Please [subscribe to our newsletter](https://leventhalmap.org/subscribe) for news of future professional development opportunities.
+
+{{</ alert-box >}}
+
 **Stipend:** $1000
 
 ### About the Fellowship
@@ -48,4 +54,4 @@ We are especially interested in educators who have interest in the design of asy
 
 Note: If applying as a team, please submit as a team.
 
-<a href="https://tally.so/r/m67lbJ" target="_blank" class="btn btn-lg btn-primary-outline">Apply online now</a>
+<!-- <a href="https://tally.so/r/m67lbJ" target="_blank" class="btn btn-lg btn-primary-outline">Apply online now</a> -->

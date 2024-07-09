@@ -2,7 +2,7 @@
 title: Past Workshops
 backgroundImage: images/page-header-backgrounds/education-programs.jpg
 description: >-
-  List of K-12 teacher professional development workshops hosted at the Map
+  List of K-12 teacher professional development workshops hosted at the Leventhal
   Center
 ---
 
