@@ -44,11 +44,11 @@ This map depicts the Battle of Bunker Hill, known as the first major battle of t
 
 A full and in-depth account of all of the British colonies and their populations in North America. Included with this detailed map are full descriptions of each region, including regional markers, prominent counties and the towns within them, all large lakes, rivers, capes, and bays. Also featured on the center-right of the map is a chart showing how the distance (in British miles) between prominent colonial cities were from each other. A map of this kind would have been incredibly helpful to orient the British military to the new American fight for independence.
 
-##### **Gideon Hawley** *[Plan of Mashpee](https://collections.leventhalmap.org/search/commonwealth:cj82kr37q)* (1785)
+##### Mondhare [Reddition de l'armée Angloises commandée par Mylord Comte de Cornwallis aux armees combinées des Etats Unis de l'Amerique et de France aux ordres des Generaux Washington et de Rochambeau a Yorck Touwn et Glocester dans la Virginie : le 19 Octobre 1781](https://collections.leventhalmap.org/search/commonwealth:dz010t968) (1781)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr380/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:dz010t97j/full/1200,/0/default.jpg" >}}
 
-This manuscript survey sketch provides an early example of the treaties between American leaders and native peoples that designated land for their use. Gideon Hawley, a Christian missionary to the Mashpee Indians, drew this reservation map for Reverend Isaac Smith. Like most Native American tribes in Massachusetts, the Mashpee lived on Cape Cod. The Mashpee fought with the Americans during the Revolutionary War and suffered heavy losses. In 1783, Hawley noted that there were at least 70 widows on the Mashpee reservation, most of whom had lost their husbands during the war.
+A unique Revolutionary-era map, this depicts a French perspective of the British surrender at Yorktown to the Americans. After six years of war, both the British and American armies were exhausted and ready for an end to the war. In 1781, Washington and his French ally, Lt. Gen. Comte de Rochambeau decided to attack Yorktown, Virginia where a large amount of British troops were stationed. Making the hundreds of miles trek in the largest troop movement of the war, the American and French forces were met with a French fleet and surprised the British troops with a siege. This was the last major land battle of the American Revolution and led to negotiations for peace with the British and the signing of the Treaty of Paris in 1783.
 
 ##### **Boston Redevelopment Authority** *[South End urban renewal area R-56](https://collections.leventhalmap.org/search/commonwealth:7h14cz068)[ : re-use parcels](https://collections.leventhalmap.org/search/commonwealth:7h14cz068)* (1965)
 
