@@ -47,6 +47,6 @@ There are so many things that I’m looking forward to, but I will only mention 
 
 ##### **Do you have a favorite map that you’ve found in the collections yet?**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr21t/full/1200,/0/default.jpg" caption="Map of a Woman's Heart (ca.1840–1860)" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr21t/full/1200,/0/default.jpg" caption="Map of a Woman's Heart (ca.1840–1860)" class="figure-left" >}}
 
 Good question! I am interested in women's history, so I searched the collection for maps related to women. My favorite map I found is the *[Map of a Woman's Heart](https://collections.leventhalmap.org/search/commonwealth:cj82kr20j)*. I recently taught a unit about women in abolition, early suffrage efforts, and the gender roles of the mid-nineteenth century. A Map of a Women's Heart would have been the perfect visual text for my students to interpret—I wish I found it earlier! I love analyzing this map because it feels humorous and satirical, but it also feels like it could have a mocking tone as well!
