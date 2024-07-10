@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 title: From the Vault Collections Showing — Functional Advertisements
 date: 2024-07-19T18:00:00.000Z
 publishDate: 2024-07-10T13:00:00.000Z
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947b91z/full/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:b85162086/full/1200,/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947b91z/full/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:b85162086/full/1200,/0/default.jpg
 location: Leventhal Map & Education Center – Learning Center
 fee: Free
 tags:
@@ -15,7 +15,9 @@ tags:
 
 ### About this event
 
-As we enter the 250th year since America’s first fight to gain independence, we have an opportunity to reflect on our nation’s founding and on similar historic events of the past. Join us this Friday to examine maps that showcase the peoples, regions, and nations that worked to revolutionize their social structure and gain independence from those that sought to suppress their freedom.
+These days, we can see advertisements on nearly everything and often think of it as a relatively modern phenomena. What if we were to tell you that not only has advertising like this been around for centuries, but they've even disguised themselves as cleverly drawn maps! 🤔
+
+From the Vault this week will focus on maps as functional advertisements, which can be thought of as a marketing strategy for companies or institutions to included a useful and functional item in their ads as an added benefit to draw in consumers. In this From The Vault, we'll consider how these maps act as historical artifacts and imagine what life was like for the average consumer of the early 20th century, as the intended audience.
 
 This drop-in showing will be hosted Friday, July 19 from 2-4 pm in the Learning Center with a staff member from the Leventhal Center available to answer questions.
 
