@@ -1,21 +1,21 @@
 ---
 draft: false
 title: 'Book Talk: A History of Boston with Daniel Dain and Peter Vanderwarker'
-date: 2024-05-29T22:00:00.000Z
-publishDate: 2024-03-11T04:00:00.000Z
+date: 2024-09-25T22:00:00.000Z
+publishDate: 2024-07-11T04:00:00.000Z
 image: >-
   https://bpl.bibliocommons.com/events/uploads/images/full/65f254d6712739e0e1689f4b68594b88/cover.jpg
 backgroundImage: >-
   https://bpl.bibliocommons.com/events/uploads/images/full/65f254d6712739e0e1689f4b68594b88/cover.jpg
 location: Central Library in Copley Square
-registration: 'https://bpl.bibliocommons.com/events/65e633d7e3e1ee300033709a'
+registration: 'https://bpl.bibliocommons.com/events/668c42682486bf251bb6be54'
 tags:
   - book talk
   - Author talk
 ---
 
-{{< alert-box type="warning" >}} This event has been cancelled and will be **rescheduled** from its original date. {{< /alert-box >}}
-{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is hosted by BPL Adult Programs. {{< /alert-box >}}
+{{\< alert-box type="warning" >}} This event has been cancelled and will be **rescheduled** from its original date. {{\< /alert-box >}}
+{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is hosted by BPL Adult Programs. {{\< /alert-box >}}
 
 ### About this event
 
