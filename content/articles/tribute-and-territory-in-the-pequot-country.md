@@ -83,7 +83,7 @@ To learn more about Pequot communities' onoging fight to hold onto their land in
 
 The colonial maps from John Foster and John Seller offer a particular perspective on the world of seventeenth century northeastern colonial America, revealing how cartographers in Boston and London conceived of the so-called "Pequot Country." At the same time, the phrase "Pequot Country" conceals as much as it reveals. In order to understand the history of this place, we have to go deeper into the relationships that shaped communities' connection to the land. Native American mapping techniques, depictions of Indigenous sachems, and materials like wampum and skins underscore the profound connections between tribute and territory. Asking questions about the way Native nations are depicted on colonial maps helps us to better understand New England as a place of exploitation and settler colonialism. These maps---and how we engage with them---also highlight the extent to which this region hosted a creative variety of Indigenous resistance strategies, including the Pequots' use of tribute as part of their homeland reclamation campaigns.
 
-> Alice King is ... ...
+> Alice King received her PhD in History from the University of Virginia in 2024. She is working on a book about the defining influence of Indigenous tribute practices on the colonial state in Connecticut during the seventeenth century. Her work has been supported by the Folger Institute, Mystic Seaport Museum, and the Colonial Society of Massachusetts, among others.
 
 ### Notes
 
