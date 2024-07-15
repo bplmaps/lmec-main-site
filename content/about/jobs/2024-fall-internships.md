@@ -6,9 +6,9 @@ draft: false
 menu: false
 ---
 
-{{< alert-box type="success" title="Apply " >}}
+{{< alert-box type="warning" title="Applications closed" >}}
 
-Applications for our Fall 2024 internships are **open** until 3pm on Friday, July 12, 2024. [Apply below](#apply)!
+Applications for our Fall 2024 internships are now closed.
 
 {{</ alert-box >}}
 
@@ -46,5 +46,3 @@ Applications are due by **July 12, 2024 at 3:00pm ET**. To apply, submit:
 
 * A letter of interest, no longer than 1 single-spaced page as a PDF
 * A resume or CV in submitted as a PDF
-
-<a href="https://tally.so/r/wgAYVK" class="btn btn-primary-outline">Submit an application online</a>
