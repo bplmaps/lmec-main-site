@@ -23,4 +23,6 @@ Broadly defined, civic data includes data produced by governmental organizations
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Civic Switchboard 4.jpg" >}}
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Civic Switchboard 2.jpg" >}}
+
 To learn more about Civic Switchboard’s work, as well as the [grant-funded Civic Switchboard Institutes](https://civic-switchboard.github.io/2024-institutes/) project, [check out their website](https://civic-switchboard.github.io/about/)!
