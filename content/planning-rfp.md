@@ -1,5 +1,5 @@
 ---
-description: "The Leventhal Center seeks requests for facilitators to conduct a planning process in the 2024-2025 fiscal year"
+description: "The Leventhal Center seeks responses to our RFP for facilitators to conduct a planning process in the 2024-2025 fiscal year"
 draft: false
 title: "RFP: Planning Facilitator"
 type: "singleton"
