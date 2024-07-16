@@ -1,8 +1,8 @@
 ---
-description = "The Leventhal Center seeks requests for facilitators to conduct a planning process in the 2024-2025 fiscal year"
-draft = false
-title = "RFP: Planning Facilitator"
-type = "singleton"
+description: "The Leventhal Center seeks requests for facilitators to conduct a planning process in the 2024-2025 fiscal year"
+draft: false
+title: "RFP: Planning Facilitator"
+type: "singleton"
 ---
 
 The Leventhal Map & Education Center at the Boston Public Library seeks proposals from experienced facilitators to guide the Center in formulating a strategic vision plan for our organization. 
