@@ -6,6 +6,7 @@ publishDate: 2024-07-16T04:00:00.000Z
 image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/briston.png'
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/briston.png'
 location: 'Virtual '
+fee: Free
 ---
 
 Are you a university teacher who would like to bring geographic inquiry into your classroom—or bring your classroom to the Leventhal Center—in the 2024–2025 academic year? Join us for a drop-in session where our curatorial and education team will answer questions about how we support teaching and learning at the university level.
