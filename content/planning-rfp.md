@@ -1,5 +1,5 @@
 ---
-description: "The Leventhal Center seeks responses to our RFP for facilitators to conduct a planning process in the 2024-2025 fiscal year"
+description: "Responses due August 29 in our search for a planning facilitator"
 draft: false
 title: "RFP: Planning Facilitator"
 type: "singleton"
@@ -37,6 +37,8 @@ We invite interested facilitators to submit detailed proposals that include the 
 - A proposed project timeline and budget, detailing how you plan to deliver the project within the stipulated timeframe and outlining your pricing structure.
 
 Proposals should be formatted as a PDF document of no more than 5 pages. Links to publicly available web materials are appropriate where needed for supplemental information.
+
+<a href="https://tally.so/r/nP0GN0" target="_blank" class="btn btn-primary-outline">Submit online by August 29</a>
 
 **Timeline**
 
