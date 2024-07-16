@@ -15,7 +15,7 @@ tags:
   - Staff
 ---
 
-> We’re excited to introduce Sam Walker to the LMEC community as our Visitor Service and Exhibition Assistant! Sam joined us this July as a Northeastern Co-op student and is currently a Pre-Law student studying History, Culture, and Law and minoring in Art History. We sat down with Sam to learn more about her interests, upcoming work at the Center, and her favorite map in the collection. 
+> We’re excited to introduce Sam Walker to the LMEC community as our Visitor Service and Exhibition Assistant! Sam joined us this July as a Northeastern Co-op student and is currently a Pre-Law student studying History, Culture, and Law and minoring in Art History. We sat down with Sam to learn more about her interests, upcoming work at the Center, and her favorite map in the collection.
 
 Sam, we’re so excited to have you on board here at the Leventhal Map & Education Center. Tell us a little bit about your background—what led you to your new role with us?
 
@@ -45,7 +45,7 @@ Unfortunately, my sense of direction and navigational skill have remained largel
 
 Do you have a favorite map that you’ve found in the collections in your initial browsing of our holdings?
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm09q/full/,1200/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm09q/full/,1200/0/default.jpg" caption="Art forms of the Pacific area (ca.1940)" >}}
 
 My favorite map that I’ve stumbled across while looking through the collections has been this 1940 map, [Art Forms of the Pacific Area](https://collections.leventhalmap.org/search/commonwealth:0r96fm08f) by Miguel Covarrubias. I think it’s pretty unique in that it's implicitly communicating culture alongside geography. Whenever I go to art museums, I love when pieces are grouped by subject matter and show a range of countries that have produced visually similar pieces. I'm intrigued by the artistic and stylistic differences shown by region, and the ways art can help visually discern the things valued by different cultures. This map is super interesting to me because it allows one to visualize recurring motifs and compare them across different cultures to see how they change by region.
 
