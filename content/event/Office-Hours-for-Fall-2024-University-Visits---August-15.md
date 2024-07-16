@@ -8,6 +8,7 @@ image: >-
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/A082_B001_F014_MasterplanSummary_1987_002.png
 location: 'Virtual '
+fee: Free
 ---
 
 Are you a university teacher who would like to bring geographic inquiry into your classroom—or bring your classroom to the Leventhal Center—in the 2024–2025 academic year? Join us for a drop-in session where our curatorial and education team will answer questions about how we support teaching and learning at the university level.
