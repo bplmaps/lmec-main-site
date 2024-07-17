@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Tribute and Territory in the Pequot Country
 date: 2024-07-17T04:00:00.000Z
 author: Alice King
