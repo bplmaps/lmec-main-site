@@ -19,7 +19,7 @@ tags:
 
 ##### ***Sam, we’re so excited to have you on board here at the Leventhal Map & Education Center. Tell us a little bit about your background—what led you to your new role with us?***
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Sam Headshot.jpg" class="figure-right" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Sam Headshot.jpg" class="figure-left" >}}
 
 I’m currently entering my fourth year at Northeastern as a Pre-Law student studying History, Culture, and Law and minoring in Art History. I am currently the President of Northeastern’s Taekwondo Team and was formerly the Public Relations and Outreach Chair, so I really love working with people and sharing things I’m passionate about with others. I am super interested in history and the changes that humanity has gone through and how we have shaped the things around us over time, and love to see that communicated visually through art and design. From my perspective, maps are all pieces of art in their own right, with some added practical benefit, so the Leventhal Map & Education Center's work aligns with my interests and areas of study!
 
