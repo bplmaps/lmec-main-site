@@ -7,9 +7,9 @@ description: >-
   An interview with the new Visitor Services & Exhibition Assistant, Sam
   Walker. 
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr21t/full/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm09q/full/,1200/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr21t/full/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm09q/full/,1200/0/default.jpg
 tags:
   - Interview
   - Staff
