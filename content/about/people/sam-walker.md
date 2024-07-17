@@ -11,3 +11,6 @@ contact:
 menu: false
 ---
 
+Sam (she/her) is entering her senior year at Northeastern University as a Pre-Law student studying History, Culture, and Law with a minor in Art History. After completing her undergraduate degree, Sam plans to attend law school and pursue a JD. She is currently on co-op at the Leventhal Map Center until December 2024 and is excited to interact with visitors that share her passion for history! Sam is interested in museum operations, public relations, and the intersections between history and art.
+
+ 
