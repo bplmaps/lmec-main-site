@@ -37,7 +37,7 @@ I’ve always wanted to work at a museum or educational center, so I definitely 
 
 This exhibition is visually stunning and historically interesting, so I’m psyched to be here while it’s on display. My personal favorite piece of information from this exhibition is about the coloration of the maps and how they came to be printed in this way. Prussian blue is an iconic and a massively famous pigment in the art world, but its use was limited to Europe until the late eighteenth century due to the limited and complex knowledge of the chemical compounds required to make it. The creation of these maps marked one of the first times the pigment was utilized on such a large scale for printing in Asia, and even predated the most famous use of Prussian blue in Asian artwork, Hokusai’s *The Great Wave Off Kanagawa*.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Prussian Blue example.png" caption="Details of the Complete map of the geography of the everlasting, unified Great Qing [ca. 1820]" class="figure-left" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Prussian Blue example.png" caption="Details of the Complete map of the geography of the everlasting, unified Great Qing [ca. 1820]" class="figure-right" >}}
 
 The design of the maps themselves are stunning, but the distinctive blue coloration definitely sets them apart from the other pieces in the exhibition. I think it’s so neat to understand how that came to be and what something as simple as a color can tell us about the historical relations between these major world powers at the time the maps were produced.
 
