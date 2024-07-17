@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: An Interview with Sam Walker
 date: 2024-07-19T04:00:00.000Z
 author: Sam Walker
