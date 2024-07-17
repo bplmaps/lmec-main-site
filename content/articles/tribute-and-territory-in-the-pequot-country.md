@@ -3,7 +3,7 @@ draft: true
 title: Tribute and Territory in the Pequot Country
 date: 2024-07-17T04:00:00.000Z
 author: Alice King
-description: ''
+description: "Seventeenth-century maps and conflicts in colonial New England"
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s91s/2825,2940,5583,1893/1200,/0/default.jpg
 backgroundImage: >-
@@ -77,7 +77,7 @@ The community of Pequot refugees who survived the Pequot War wanted to regain th
 <br>
 <br>
 
-Despite a series of promises from colonial leadership, in 1650 Robin Cassacinamon and the Pequots were still without a dedicated area of land set aside for them. Indeed, some Pequots complained that English colonists near New London had threatened to sell them into slavery in "the Sugar Country"---the Caribbean---if the Pequots did not leave "the Pequot Country."[^4] In order to preserve this valuable tributary community, in May 1651 the General Court in Connecticut granted the Pequots 500 acres on the Noank peninsula. This land had been earmarked for colonial soldiers as a reward for service during the Pequot War, so the Court negotiated an exchange: the Pequots could occupy this land, and the soldiers would receive equivalent land grants elsewhere. Eventually the colony would take away this Noank grant and lay out the Mashantucket Reservation instead. Another prominent Pequot leader called Harman Garrett was facing similar violence and intransigence from English settlers further to east near Pawcatuck. This band of Eastern Pequots also campaigned in front of English colonial leaders and secured a reservation near North Stonington in 1683.
+Despite a series of promises from colonial leadership, in 1650 Robin Cassacinamon and the Pequots were still without a dedicated area of land set aside for them. Indeed, some Pequots complained that English colonists near New London had threatened to sell them into slavery in "the Sugar Country"---the Caribbean---if the Pequots did not leave "the Pequot Country."[^4] In order to preserve this valuable tributary community, in May 1651 the General Court in Connecticut granted the Pequots 500 acres on the Noank peninsula. This land had been earmarked for colonial soldiers as a reward for service during the Pequot War, so the Court negotiated an exchange: the Pequots could occupy this land, and the soldiers would receive equivalent land grants elsewhere. Eventually the colony would take away this Noank grant and lay out the Mashantucket Reservation instead. Another prominent Pequot leader called Harman Garrett was facing similar violence and intransigence from English settlers further to the east near Pawcatuck. This band of Eastern Pequots also campaigned in front of English colonial leaders and secured a reservation near North Stonington in 1683.
 
 To learn more about Pequot communities' onoging fight to hold onto their land in the face of encroaching English settlement, explore the websites and resources of the [Mashantucket Pequot Tribal Nation](https://www.mptn-nsn.gov/tribalhistory.aspx), the [Mashantucket Pequot Museum](https://www.pequotmuseum.org), and the [Eastern Pequot Tribal Nation](https://www.easternpequottribalnation.org/history).
 
