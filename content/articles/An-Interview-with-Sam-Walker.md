@@ -49,8 +49,8 @@ Unfortunately, my sense of direction and navigational skill have remained largel
 
 ##### ***Do you have a favorite map that you’ve found in the collections in your initial browsing of our holdings?***
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm09q/full/,1200/0/default.jpg" caption="Art forms of the Pacific area (ca.1940)" >}}
-
 My favorite map that I’ve stumbled across while looking through the collections has been this 1940 map, *[Art Forms of the Pacific Area](https://collections.leventhalmap.org/search/commonwealth:0r96fm08f)* by Miguel Covarrubias. I think it’s pretty unique in that it's implicitly communicating culture alongside geography. Whenever I go to art museums, I love when pieces are grouped by subject matter and show a range of countries that have produced visually similar pieces. I'm intrigued by the artistic and stylistic differences shown by region, and the ways art can help visually discern the things valued by different cultures. This map is super interesting to me because it allows one to visualize recurring motifs and compare them across different cultures to see how they change by region.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm09q/full/,1200/0/default.jpg" caption="Art forms of the Pacific area (ca.1940)" >}}
 
 The art style of the map itself is beautiful; it’s extremely colorful and whimsical, and the cartoonish figures make it very easy to visually digest and unpack. The artist and cartographer behind the piece, Miguel Covarrubias, was well known for his caricatures and illustrations, and I think the way in which he used his usual style to create a map created a really stunning piece of art. This map is actually part of a series of six, where Covarrubias also created other maps detailing peoples, flora and fauna, the economy, native dwellings, and native transportation—all of the Pacific region. I love how many different cultures the artist was able to represent here, and feel like it gives anyone looking at it a more humanized understanding of the different places the map shows.
