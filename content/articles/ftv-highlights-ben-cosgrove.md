@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 'Maps & Music: Highlights from From The Vault with Ben Cosgrove'
+title: 'Highlights from From The Vault with Ben Cosgrove: Maps & Music'
 date: 2023-08-14T16:00:00.000Z
 author: LMEC Staff
 description: >+
@@ -12,6 +12,7 @@ image: >-
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/2023.08.11thumbnail_20230211Cosgrove040.jpg
 tags:
+  - ftv highlights
   - from the vault
 ---
 
