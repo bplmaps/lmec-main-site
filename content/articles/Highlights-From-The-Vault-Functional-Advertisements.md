@@ -33,9 +33,9 @@ This corporation decided to take a unique approach to incorporating maps into it
 
 This map was created by the Boston and Gloucester Steamboat Company and provides a viewpoint of the Massachusetts coast. The advertised steamboats would have brought people from Gloucester to Boston and vice versa. The map portrays the coast of Massachusetts, explicitly emphasizing seaside towns such as Manchester by the Sea, Salem, and Lynn, Massachusetts, in addition to the two main cities of Gloucester and Boston. These advertisements promoted an accessible mode of transportation for Massachusetts residents and provided fun summer activities. 
 
-##### Samuel Swett [Sketch of Bunker Hill Battle](https://collections.leventhalmap.org/search/commonwealth:3t947b90p) (1826)
+##### Ernest Dudley Chase [Historic Massachusetts : a travel map to help you feel at home in the Bay State ](https://collections.leventhalmap.org/search/commonwealth:0r96fn49w)(1964)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947b91z/full/1200,/0/default.jpg" caption="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn50n/full/,1200/0/default.jpg" caption="" >}}
 
 This map depicts the Battle of Bunker Hill, known as the first major battle of the American Revolution. The battle took place in Charlestown, just outside of Boston, and was named after the tallest hill in the area, though the majority of the battle took place on Breed’s Hill, located near the center of the map. Lines of fire, British entry points, and a colonist fort are depicted on this map created 50 years after the initial battle.
 
