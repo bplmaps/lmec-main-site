@@ -7,6 +7,7 @@ description: 'Check out these highlights from April''s From The Vault: Maps as A
 image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (64).png'
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (64).png'
 tags:
+  - ftv highlights
   - from the vault
 ---
 
