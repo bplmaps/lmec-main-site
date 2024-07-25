@@ -21,19 +21,17 @@ tags:
 > \
 > *From The Vault* is a biweekly event series showing collections objects selected by Leventhal Center staff. In this *From The Vault*, the spotlight was on maps as functional advertisements, which can be defined as a marketing strategy for companies or institutions to included a useful and functional item in their ads as an added benefit to draw in consumers. As you read along, consider how these maps act as historical artifacts and imagine what life was like for the average consumer of the early 20th century, the maps' target audience.
 
-##### Don Bloodgood [Ask Shell! ](https://collections.leventhalmap.org/search/commonwealth:6969z354f)(1948–1955)
+##### Don Bloodgood [***Ask Shell!*** ](https://collections.leventhalmap.org/search/commonwealth:6969z354f)(1948–1955)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c46z/full/,1200/0/default.jpg" >}}
 
 This corporation decided to take a unique approach to incorporating maps into its ads. A map created for Shell—the oil company—is shown above. This map is one of the more modern in this collection, as we can see because of its use of automobiles. The company used this abstract land to sell its customers the idea of a perfect vacation. Instead of being rooted in a real location like other advertising maps, Shell leaned into the concept of needing personal transportation to reach such beautiful destinations.  
 
-##### Pichon [Nouveau plan routier de la ville et faubourgs de Paris avec ses principaux édifices et nouvelles barrières](https://collections.leventhalmap.org/search/commonwealth:kh04p6588) (1802)
+##### Boston & Gloucester Steamship Co. [Boston & Gloucester Steamboat Co. : summer season 1889](https://collections.leventhalmap.org/search/commonwealth:0r96fp956) (1889)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kh04p659j/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp96g/full/1200,/0/default.jpg" class="figure-left" >}}
 
-The French Revolution was an event that had worldwide impact and gave many the courage to fight back against oppressive ruling governments. Began in 1789 and ended in the late 1790s with the ascent of Napoleon Bonaparte, French citizens radically altered their political structure. The upheaval was caused by disgust with the French aristocracy and the economic policies of King Louis XVI who had left France incredibly economically unstable. Revolting against years of exploitation, peasants looted and burned the homes of tax collectors, landlords and the aristocratic elite.
-
-This map was created post-war and highlights the important cultural features of the city and showcases the deliberate planning, organization, and expansion of Paris. Depicting the rebuilding of Paris after the French Revolution, you can see the expansion of the city past its old city walls symbolizing a healing and growing nation.
+This map was created by the Boston and Gloucester Steamboat Company and provides a viewpoint of the Massachusetts coast. The advertised steamboats would have brought people from Gloucester to Boston and vice versa. The map portrays the coast of Massachusetts, explicitly emphasizing seaside towns such as Manchester by the Sea, Salem, and Lynn, Massachusetts, in addition to the two main cities of Gloucester and Boston. These advertisements promoted an accessible mode of transportation for Massachusetts residents and provided fun summer activities. 
 
 ##### Samuel Swett [Sketch of Bunker Hill Battle](https://collections.leventhalmap.org/search/commonwealth:3t947b90p) (1826)
 
