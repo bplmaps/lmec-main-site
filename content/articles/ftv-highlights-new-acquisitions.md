@@ -3,14 +3,15 @@ draft: false
 title: 'Highlights from From The Vault: New Acquisitions'
 date: 2023-08-21T04:00:00.000Z
 author: Megan Nally
+description: >-
+  Check out these highlights from last week’s edition of From The Vault: New
+  Acquisitions
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g445gm638/182,171,9574,6014/1200,/0/default.jpg
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g445gm638/182,171,9574,6014/1200,/0/default.jpg
-description: >-
-  Check out these highlights from last week’s edition of From The Vault: New
-  Acquisitions
 tags:
+  - ftv highlights
   - from the vault
 ---
 
