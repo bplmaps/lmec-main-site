@@ -61,6 +61,16 @@ This map from the Winthrop Steamboat Company uses a unique perspective to offer 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w6636m666/full/,1200/0/default.jpg" class="" >}}
 
-Created in the midst of India’s first War of Independence (also known as the Sepoy Mutiny) this map indicates the “Leading Seats of Insurrection” against the British in a bright, nearly blood red color. Though unrest had long been stirring during the British occupation of India, it wasn’t until 1857 that the first fight for independence began.
+The map beautifully details Manhattan and even points out notable sites on the map, such as the Hudson River, Brooklyn Bridge, and the Empire State Building. However, it stands out in that it serves as both a functional map of NYC and as an advertisement for the Herald Square Hotel. The orange arrows leading to the hotel became the main focus of the map, in contrast with the black-and-white of the rest of the map. This was a captivating advertising tactic since maps were one of the main modes of finding and getting to events, entertainment spaces, restaurants, and other hospitality spaces- not only is this a functional map that could come in handy for a typical traveler, but it also subtly highlights its establishment.
 
-The breaking point came when Indian soldiers, called sepoys, were given bullets by British officials that in order to be used required their casings to be bitten off. These bullets were greased with lard, believed by Indian troops to be either pig or cow fat. The use of cow fat goes against doctrines of Hinduism, while the use of pig fat opposes Islamic doctrine, the two major religions of India. The insult to both religions sparked rebellions by Indian sepoys against their British officers.
+##### James T Lloyd [Lloyd's telegraph, railroad & express map of the whole United States & Canadas, from official information ](https://collections.leventhalmap.org/search/commonwealth:0r96fp514) (1863)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp10w/full/1200,/0/default.jpg" class="figure-left" >}}
+
+This is a geographically accurate depiction of the Great Lakes area intended to advertise Lloyd’s (the cartographer) telegraph, railroad, and express mapping company. The ad shows off the company's vast presence throughout this region, with more than 200 railroads and ten telegraph lines. To make life even more accessible for the consumer, they also provided estimated service costs and where precisely they can be visited within this area. During the 19th century, a tool like this would have been helpful to anybody traveling through the Greater Lakes region who was unfamiliar with the territory.
+
+##### Geo H Walker and Co Trolley wayfinder, birds eye view of trolley routes in New England  (1904-05)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343z13t/full/1200,/0/default.jpg" >}}
+
+This map similarly advertises numerous steamboat and train routes of the early 20th century. All steamboat advertisements featured today opted to include practical elements in their advertisements by providing a functional map, but there are some key differences in the rest of their approach. This map chose to center its focus on the Boston Harbor and the water surrounding the greater Boston area. Not only does it successfully point out the bays specific to the waterside towns surrounding Boston, it also includes a rough estimate of the steamboat’s path to places like Provincetown and Plymouth after departing from the Boston Harbor.  
