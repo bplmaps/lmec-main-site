@@ -7,6 +7,7 @@ description: 'Check out these highlights from May''s From The Vault: Stars Above
 image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/FTV.png'
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/FTV.png'
 tags:
+  - ftv highlights
   - from the vault
 ---
 
