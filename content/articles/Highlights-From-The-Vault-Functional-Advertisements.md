@@ -1,7 +1,7 @@
 ---
 draft: false
-title: 'Highlights From The Vault: Revolution and Independence!'
-date: 2024-07-05T04:00:00.000Z
+title: 'Highlights From The Vault: Functional Advertisements'
+date: 2024-07-19T04:00:00.000Z
 author: Julia Williams
 description: >-
   Check out these highlights from the July 19th themed From The Vault:
@@ -19,7 +19,7 @@ tags:
 
 > **On July 19, we hosted *From The Vault: Functional Advertisements***\
 > \
-> *From The Vault* is a biweekly event series showing collections objects selected by Leventhal Center staff. In this *From The Vault*, the spotlight was on maps as functional advertisements, which can be defined as a marketing strategy for companies or institutions to included a useful and functional item in their ads as an added benefit to draw in consumers. As you read along, consider how these maps act as historical artifacts and imagine what life was like for the average consumer of the early 20th century, the maps' target audience. 
+> *From The Vault* is a biweekly event series showing collections objects selected by Leventhal Center staff. In this *From The Vault*, the spotlight was on maps as functional advertisements, which can be defined as a marketing strategy for companies or institutions to included a useful and functional item in their ads as an added benefit to draw in consumers. As you read along, consider how these maps act as historical artifacts and imagine what life was like for the average consumer of the early 20th century, the maps' target audience.
 
 ##### Don Bloodgood [Ask Shell! ](https://collections.leventhalmap.org/search/commonwealth:6969z354f)(1948–1955)
 
