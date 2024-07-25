@@ -1,19 +1,20 @@
 ---
+draft: false
 title: 'Highlights From The Vault: Past and Future of Boylston Street'
 date: 2023-11-06T04:00:00.000Z
 author: Madeline Webster and Garrett Dash Nelson
 description: >-
-  Discover how Boylston Street has changed over time with this selection of documents shown at our October 27 "From the Vault"
+  Discover how Boylston Street has changed over time with this selection of
+  documents shown at our October 27 "From the Vault"
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w3765p468/2522,3542,6695,2394/,1200/0/default.jpg
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w3765p468/2522,3542,6695,2394/,1200/0/default.jpg
 tags:
+  - ftv highlights
   - from the vault
   - collections
   - urban planning
-draft: false
-
 ---
 
 > On October 27, we hosted [From The Vault: Past and Future of Boylston Street](/event/ftv-bolyston-street/), together with our colleagues from the [Mayor's Office of New Urban Mechanics](https://www.boston.gov/departments/new-urban-mechanics) and the [Boston Transportation Department](https://www.boston.gov/departments/transportation). In this edition of From the Vault, we focused on a street that's near and dear to us at the Boston Public Library: Boylston Street, which is about to be redesigned in order to support multimodal transportation priorities. Boylston Street has changed considerably over time, and this event was an opportunity to look at how the past might inform the present and future of this important urban corridor.
@@ -34,7 +35,6 @@ This [1852 plan represents an early design for the neighborhood](https://collect
 
 This [1860 plan shows Boylston Street about half completed](https://collections.leventhalmap.org/search/commonwealth:1257bb23r), from Arlington to Exeter Street. The dotted outline of the tidal creek that still wound through Back Bay is visible just at the edge of the fill project, to the west and south of the Boylston-Exeter intersection.
 
-
 #### Fuller & Whitney Co., Schedules of land sales (1881–1882)
 
 {{< figure src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/articles/ftv-boylston/fuller-whitney.jpg" >}}
@@ -45,7 +45,7 @@ Back Bay was Boston’s largest single project of land reclamation and real esta
 
 <iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.07480,42.35063$zoom:18.44$base:maptiler-streets$overlay:ark:/76611/al89922k7" height="400" width="100%"></iframe>
 
-This [1874 Hopkins atlas](https://atlascope.org/#/view:share$mode:glass$center:-71.07480,42.35063$zoom:18.44$base:maptiler-streets$overlay:ark:/76611/al89922k7) shows where the Boylston St. streetcar line terminated before it was extended to Mass. Ave. in the 1880s. Other atlas publishers did not show streetcar lines on their maps, making this an uncommon snapshot of local transit options.
+This [1874 Hopkins atlas](https://atlascope.org) shows where the Boylston St. streetcar line terminated before it was extended to Mass. Ave. in the 1880s. Other atlas publishers did not show streetcar lines on their maps, making this an uncommon snapshot of local transit options.
 
 #### William T. Oliver, *Cyclist's Road Map of Massachusetts* (1893)
 
@@ -67,7 +67,7 @@ In 1922, BERy added its first bus lines to Boston streets. These early routes re
 
 #### WGBH, *Ten O'Clock News* (May 7, 1982)
 
-{{<  figure src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:m039kd822/image_thumbnail_300.jpg" >}}
+{{< figure src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:m039kd822/image_thumbnail_300.jpg" >}}
 
 While at first [the TV cameraperson](https://www.digitalcommonwealth.org/search/commonwealth-oai:vq280228q) seems focused on capturing the old Hynes Convention Center, they can’t help but turn their attention to the daredevil roller skater treating Boylston St. as his roller rink. Bicyclists passing through the Mass. Ave. intersection onto Boylston also get their moment in the spotlight.
 
@@ -77,36 +77,32 @@ While at first [the TV cameraperson](https://www.digitalcommonwealth.org/search/
 
 Horsecar tracks were extended westward down Boylston St. from Charles St. to Clarendon St. in the 1870s, and on to Mass. Ave in the 1880s. By 1890, passengers originating in Brookline and Cambridge could reach Boylston St.’s many cultural institutions by electrified streetcars operated by the West End Railway. Designated stopping points were marked with white-painted bands on poles, though it appears the woman hopping on the streetcar in this photograph caught it early while paused in traffic.
 
----
+***
 
 {{< figure src="https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a13000/4a13500/4a13540r.jpg" caption="[Library of Congress](https://lccn.loc.gov/2016806175), Prints & Photographs Division" class="figure-right" >}}
 
 The corner of Clarendon and Boylston outside the Hotel Brunswick was a dynamic spot at the turn of the century. Look closely, and you’ll see two hotel guests taking in the sights of horses, pigeons, and a dog interacting with people making their way through the city by foot, bicycle, streetcar, automobile, and horse-drawn carriage.
 
----
+***
 
 {{< figure src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:fb497j23m/image_thumbnail_300.jpg" caption="[City of Boston Archives](https://cityofboston.access.preservica.com/uncategorized/IO_2d5747fa-cee1-44f7-a1db-d379369464bf/)" class="figure-left" >}}
 
 This photograph has it all—subway construction, automobiles, streetcars, horse-drawn wagons, and the Boston & Albany Railyard. It is hard to imagine the noise created by all of this commotion going on at once.
 
----
+***
 
 {{< figure src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:9k420b88c/image_thumbnail_300.jpg" caption="[City of Boston Archives](https://cityofboston.access.preservica.com/uncategorized/IO_3f9a3ecc-80e4-439b-9365-6a9607aca68b/)" class="figure-right" >}}
 
 In 1941, the Works Progress Administration and the Highway Division of the City’s Public Works Department removed the streetcar tracks from Boylston St. shortly after the opening of the Huntington Avenue subway.
 
-
----
+***
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zs261c290/full/,1200/0/default.jpg" caption="[Boston Herald-Traveler Photo Morgue](https://www.digitalcommonwealth.org/search/commonwealth:xw42r925x), Boston Public Library Arts Department" class="figure-left" >}}
 
 Boylston St.’s current traffic pattern of three eastbound travel lanes and two parking lanes dates to the 1950s. By April 1966, the City’s new anti-jaywalk law reminded pedestrians who the street was meant to serve, though Boston was one of the last major cities in the U.S. to adopt anti-jaywalking regulations. In contrast, note the pedestrians crossing Boylston in the 1906 photo of Hotel Brunswick.
 
----
+***
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ft84cg33t/full/,1200/0/default.jpg" caption="[Boston Pictorial Archive](https://www.digitalcommonwealth.org/search/commonwealth:31981910g), Boston Public Library Arts Department" class="figure-right" >}}
 
 Streetfront parcels were converted to parking lots to serve largely suburban automobile owners driving in to shop and work. This parking lot was created by tearing down former apartments-turned-schoolhouse (the lions that once guarded the building’s entrance are seen guarding the parking lot). At the same time, the new addition to the Boston Public Library recalls how the City was also putting resources toward expanding services to better serve Boston residents.
-
-
-
