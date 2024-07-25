@@ -11,6 +11,7 @@ image: >-
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947b91z/full/1200,/0/default.jpg
 tags:
+  - ftv highlights
   - from the vault
 ---
 
@@ -58,7 +59,7 @@ A unique Revolutionary-era map, this depicts a French perspective of the British
 
 From the middle of the Irish independence war, this map focuses on the division of Ireland and makes a case for why the argument to splitting up Northern Ireland along religious lines wasn’t being correctly considered. Sir Edward Carson, a prominent political figure from Dublin, claimed that the proposed Northern counties were religiously homogeneous and Protestant (who supported Britain). 
 
-While technically true, the religious divide was much closer to an equal 50/50 split of Protestants and Catholics (who supported a totally free Irish state). This caused many to call Carson a traitor and betrayer by using deceiving tactics to force the nationalist Catholics into a heavily policed and discriminatory North Ireland. The Republic of Ireland was formed in 1922 as a free state, while North Ireland remains a part of Britain to the present. 
+While technically true, the religious divide was much closer to an equal 50/50 split of Protestants and Catholics (who supported a totally free Irish state). This caused many to call Carson a traitor and betrayer by using deceiving tactics to force the nationalist Catholics into a heavily policed and discriminatory North Ireland. The Republic of Ireland was formed in 1922 as a free state, while North Ireland remains a part of Britain to the present.
 
 ##### Charles Magnus & Co [Magnus' panoramic view map of India](https://collections.leventhalmap.org/search/commonwealth:3f463283x) (1857)
 
