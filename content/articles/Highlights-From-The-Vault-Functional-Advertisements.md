@@ -57,9 +57,9 @@ This map similarly advertises numerous steamboat and train routes of the early 2
 
 This map from the Winthrop Steamboat Company uses a unique perspective to offer a practical and visually exciting map. To show the extensive area their steamboats reach, this company decided to incorporate a view of the areas of Boston and Winthrop, where the steamboats were based. From East Boston, Orient Heights, and Chelsea. blue lines show how the ports gave commuters easy access to the town of Winthrop! Commissioned in the late 19th century, this map shows the different modes of transportation that were relied upon.
 
-##### Charles Magnus & Co [Magnus' panoramic view map of India](https://collections.leventhalmap.org/search/commonwealth:3f463283x) (1857)
+##### Richard Edes Harrison [An aerial view of New York City showing how easily the weary traveler may reach the Herald Square Hotel wherein he will find the rest, comfort & hospitality to which he is entitled, even in this day and age](https://collections.leventhalmap.org/search/commonwealth:m039np67z) (1932)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4632846/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w6636m666/full/,1200/0/default.jpg" class="" >}}
 
 Created in the midst of India’s first War of Independence (also known as the Sepoy Mutiny) this map indicates the “Leading Seats of Insurrection” against the British in a bright, nearly blood red color. Though unrest had long been stirring during the British occupation of India, it wasn’t until 1857 that the first fight for independence began.
 
