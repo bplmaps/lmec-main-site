@@ -9,6 +9,7 @@ image: >-
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled%20%2831%29.png
 tags:
+  - ftv highlights
   - from the vault
 ---
 
