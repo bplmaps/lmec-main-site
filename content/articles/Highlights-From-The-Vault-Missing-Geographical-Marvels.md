@@ -11,6 +11,7 @@ image: >-
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053s07r/63,179,4572,1586/1200,/0/default.jpg
 tags:
+  - ftv highlights
   - from the vault
 ---
 
@@ -30,7 +31,7 @@ This map shows the legendary city of El Dorado, also known as Manoa, on Lake Par
 
 The Great Desert referred to an area west of the Mississippi River that was considered unfit for cultivation and therefore uninhabitable by people reliant on agriculture. Early 19th-century expeditions by the U.S. government reported a lack of surface water and trees, which they believed meant the region could not be farmed. The area was avoided by settlers passing through for the Gold Rush or aiming to settle in better lands in the West. When people settling in the area in the mid- and late 1800s received more rainfall than expected for a desert, they believed it to be a reward from God for settling the area or to be caused by their planting and plowing.
 
-##### **W. Scott-Elliot*** [Lemuria at its greatest extent](https://collections.leventhalmap.org/search/commonwealth:cz30sz81k) *(1904)
+##### **W. Scott-Elliot**\* [Lemuria at its greatest extent](https://collections.leventhalmap.org/search/commonwealth:cz30sz81k) \*(1904)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:s4658p68j/full/1200,/0/default.jpg" >}}
 
@@ -40,7 +41,7 @@ In 1864, the zoologist Philip Sclater proposed an ancient continent of Lemuria t
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n422z/full/1200,/0/default.jpg" class="" >}}
 
-This map, drawn by a schoolgirl in 1831, shows the non-existent Mountains of Kong in West Africa on the northern border of the “Coast of Guinea” and the equally fictitious Mountains of the Moon in East Africa on the northern border of Ethiopia. Ancient Greek and Roman geographers believed the Mountains of the Moon were the source of the White Nile River. The Mountains of Kong in West Africa were reported and drawn on maps by explorers in the 1800s. Both of these mountain ranges were common knowledge, appearing in encyclopedias and maps, and taught in schools until fading away in the late 
+This map, drawn by a schoolgirl in 1831, shows the non-existent Mountains of Kong in West Africa on the northern border of the “Coast of Guinea” and the equally fictitious Mountains of the Moon in East Africa on the northern border of Ethiopia. Ancient Greek and Roman geographers believed the Mountains of the Moon were the source of the White Nile River. The Mountains of Kong in West Africa were reported and drawn on maps by explorers in the 1800s. Both of these mountain ranges were common knowledge, appearing in encyclopedias and maps, and taught in schools until fading away in the late
 
 ##### Henri Abraham Chatelain *[Mappmonde ou description generale du globe terrestre](https://collections.leventhalmap.org/search/commonwealth:9s161d837)* \[1705–1739]
 
@@ -54,7 +55,7 @@ From the 15th to 18th centuries, people believed that the land in the northern h
 
 This map shows Gerhard Mercator’s idea of the Arctic region, based on his research of explorer accounts and other maps. It shows a tall black rock in the middle of a whirlpool formed by four rivers between four countries. The water in the whirlpool descends into the Earth like a funnel. While the black rock marks true north, another rock above it is the magnetic one to which compasses point, explaining the difference between true north and magnetic north. The map includes notes about the inhabitants of the four countries and other places.
 
-##### **John Senex**[*** A new map of America from the latest observations*** ](https://collections.leventhalmap.org/search/commonwealth:wd3762305)(1721)
+##### **John Senex**[\*\*\* A new map of America from the latest observations\*\*\* ](https://collections.leventhalmap.org/search/commonwealth:wd3762305)(1721)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd376231f/full/1200,/0/default.jpg" class="" >}}
 
