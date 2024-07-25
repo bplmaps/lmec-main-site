@@ -45,19 +45,17 @@ The state of Massachusetts commissioned this map as a way to advertise its touri
 
 This map advertises how people from Massachusetts, New York, New Haven, and Hartford can find their way to the coastal islands of Massachusetts: Nantucket and Martha’s Vineyard. The map not only shows the times when visitors can catch the Old Colony Line to both islands, it also portrays an accurate map of the surrounding area, including public transportation and the locations it serves. The idea that one could get to the islands of Massachusetts from states away in the late 19th century would have been worth advertising and been a luxury to many! This is another example of a map giving people extra information in order to sell a product and make the company appear more trustworthy to the customer. 
 
-##### Mondhare [Reddition de l'armée Angloises commandée par Mylord Comte de Cornwallis aux armees combinées des Etats Unis de l'Amerique et de France aux ordres des Generaux Washington et de Rochambeau a Yorck Touwn et Glocester dans la Virginie : le 19 Octobre 1781](https://collections.leventhalmap.org/search/commonwealth:dz010t968) (1781)
+##### John F Murphy [Bird's eye view of Boston Harbor and south shore to Provincetown showing steamboat routes](https://collections.leventhalmap.org/search/commonwealth:wd3760753) (1901)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:dz010t97j/full/1200,/0/default.jpg" >}}
 
-A unique Revolutionary-era map, this depicts a French perspective of the British surrender at Yorktown to the Americans. After six years of war, both the British and American armies were exhausted and ready for an end to the war. In 1781, Washington and his French ally, Lt. Gen. Comte de Rochambeau decided to attack Yorktown, Virginia where a large amount of British troops were stationed. Making the hundreds of miles trek in the largest troop movement of the war, the American and French forces were met with a French fleet and surprised the British troops with a siege. This was the last major land battle of the American Revolution and led to negotiations for peace with the British and the signing of the Treaty of Paris in 1783.
+This map similarly advertises numerous steamboat and train routes of the early 20th century. All steamboat advertisements featured today opted to include practical elements in their advertisements by providing a functional map, but there are some key differences in the rest of their approach. This map chose to center its focus on the Boston Harbor and the water surrounding the greater Boston area. Not only does it successfully point out the bays specific to the waterside towns surrounding Boston, it also includes a rough estimate of the steamboat’s path to places like Provincetown and Plymouth after departing from the Boston Harbor.  
 
-##### E.A. Aston [Carsonia the great betrayal! ](https://collections.leventhalmap.org/search/commonwealth:ht250551k)(1920)
+##### Geo H Walker and Co Map showing the routes of The Winthrop Steamboat Co (1896)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250552v/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:b85162086/full/,1200/0/default.jpg" class="" >}}
 
-From the middle of the Irish independence war, this map focuses on the division of Ireland and makes a case for why the argument to splitting up Northern Ireland along religious lines wasn’t being correctly considered. Sir Edward Carson, a prominent political figure from Dublin, claimed that the proposed Northern counties were religiously homogeneous and Protestant (who supported Britain). 
-
-While technically true, the religious divide was much closer to an equal 50/50 split of Protestants and Catholics (who supported a totally free Irish state). This caused many to call Carson a traitor and betrayer by using deceiving tactics to force the nationalist Catholics into a heavily policed and discriminatory North Ireland. The Republic of Ireland was formed in 1922 as a free state, while North Ireland remains a part of Britain to the present.
+This map from the Winthrop Steamboat Company uses a unique perspective to offer a practical and visually exciting map. To show the extensive area their steamboats reach, this company decided to incorporate a view of the areas of Boston and Winthrop, where the steamboats were based. From East Boston, Orient Heights, and Chelsea. blue lines show how the ports gave commuters easy access to the town of Winthrop! Commissioned in the late 19th century, this map shows the different modes of transportation that were relied upon.
 
 ##### Charles Magnus & Co [Magnus' panoramic view map of India](https://collections.leventhalmap.org/search/commonwealth:3f463283x) (1857)
 
