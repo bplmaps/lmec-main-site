@@ -41,7 +41,7 @@ The state of Massachusetts commissioned this map as a way to advertise its touri
 
 ##### Rand Avery Supply Co [New York, New Haven & Hartford Railroad : Old Colony system](https://collections.leventhalmap.org/search/commonwealth:0r96fp094) (1893)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp10w/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp10w/full/1200,/0/default.jpg" class="figure-left" >}}
 
 This map advertises how people from Massachusetts, New York, New Haven, and Hartford can find their way to the coastal islands of Massachusetts: Nantucket and Martha’s Vineyard. The map not only shows the times when visitors can catch the Old Colony Line to both islands, it also portrays an accurate map of the surrounding area, including public transportation and the locations it serves. The idea that one could get to the islands of Massachusetts from states away in the late 19th century would have been worth advertising and been a luxury to many! This is another example of a map giving people extra information in order to sell a product and make the company appear more trustworthy to the customer. 
 
@@ -51,7 +51,7 @@ This map advertises how people from Massachusetts, New York, New Haven, and Hart
 
 This map similarly advertises numerous steamboat and train routes of the early 20th century. All steamboat advertisements featured today opted to include practical elements in their advertisements by providing a functional map, but there are some key differences in the rest of their approach. This map chose to center its focus on the Boston Harbor and the water surrounding the greater Boston area. Not only does it successfully point out the bays specific to the waterside towns surrounding Boston, it also includes a rough estimate of the steamboat’s path to places like Provincetown and Plymouth after departing from the Boston Harbor.  
 
-##### Geo H Walker and Co Map showing the routes of The Winthrop Steamboat Co (1896)
+##### Geo H Walker and Co [Map showing the routes of The Winthrop Steamboat Co](https://collections.leventhalmap.org/search/commonwealth:x059cc723) (1896)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:b85162086/full/,1200/0/default.jpg" class="" >}}
 
