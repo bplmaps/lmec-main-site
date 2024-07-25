@@ -9,6 +9,7 @@ image: >-
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xk53j/full/1200,/0/default.jpg
 tags:
+  - ftv highlights
   - from the vault
 ---
 
