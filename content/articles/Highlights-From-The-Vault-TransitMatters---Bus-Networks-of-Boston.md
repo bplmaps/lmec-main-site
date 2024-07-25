@@ -11,6 +11,7 @@ image: >-
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g158f1602/full/1200,/0/default.jpg
 tags:
+  - ftv highlights
   - from the vault
 ---
 
