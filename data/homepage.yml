@@ -57,9 +57,9 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: New exhibition
-      text: _Heaven & Earth_ is now on display.
-      link: 'https://www.leventhalmap.org/exhibitions/'
+    - badge: RFP
+      text: The Leventhal Center seeks a planning facilitator; submit a response by August 29
+      link: 'https://www.leventhalmap.org/planning-rfp/'
 audiences:
   enable: true
   audienceGroups:
