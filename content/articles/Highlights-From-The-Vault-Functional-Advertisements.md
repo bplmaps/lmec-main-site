@@ -7,7 +7,7 @@ description: >-
   Check out these highlights from the July 19th themed From The Vault:
   Functional Advertisements. This event was curated by Caitlin O'Brian,
   Fundraising & Development intern and Rachel Sharer, Development & Grants
-  Manager
+  Manager.
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:b85162086/full/,1200/0/default.jpg
 backgroundImage: >-
