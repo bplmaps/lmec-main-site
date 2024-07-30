@@ -71,6 +71,6 @@ This is a geographically accurate depiction of the Great Lakes area intended to 
 
 ##### Geo H Walker and Co [Trolley wayfinder, birds eye view of trolley routes in New England](https://collections.leventhalmap.org/search/commonwealth:jh343z12j)  (1904-05)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343z13t/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343z13t/full/1200,/0/default.jpg" class="figure-left" >}}
 
 One mode of transportation not explicitly mentioned in this collection of maps is the trolley. The New England Street Railway Club commissioned this piece to advertise their trolley services across the New England area and provide their consumers with an accurate map that mentions the trolley stops. It's typical for these maps to act as a detailed guide, with information about the services they offered. The map highlights sections of New England that the trolley passes through and provides the price, distance, and scheduled timing of every trip. This type of ad heavily appealed to their audience as most people utilizing these types of transport are leisure travelers as well. 
