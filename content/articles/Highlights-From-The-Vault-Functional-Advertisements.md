@@ -65,7 +65,7 @@ The map beautifully details Manhattan and even points out notable sites on the m
 
 ##### James T Lloyd [Lloyd's telegraph, railroad & express map of the whole United States & Canadas, from official information ](https://collections.leventhalmap.org/search/commonwealth:0r96fp514) (1863)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp10w/full/1200,/0/default.jpg" class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp52d/full/,1200/0/default.jpg" class="" >}}
 
 This is a geographically accurate depiction of the Great Lakes area intended to advertise Lloyd’s (the cartographer) telegraph, railroad, and express mapping company. The ad shows off the company's vast presence throughout this region, with more than 200 railroads and ten telegraph lines. To make life even more accessible for the consumer, they also provided estimated service costs and where precisely they can be visited within this area. During the 19th century, a tool like this would have been helpful to anybody traveling through the Greater Lakes region who was unfamiliar with the territory.
 
