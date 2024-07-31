@@ -2,7 +2,7 @@
 draft: false
 title: 'Highlights From The Vault: Functional Advertisements'
 date: 2024-07-19T04:00:00.000Z
-author: Julia Williams
+author: 'Caitlin O''Brian, Rachel Sharer'
 description: >-
   Check out these highlights from the July 19th themed From The Vault:
   Functional Advertisements. This event was curated by Caitlin O'Brian,
