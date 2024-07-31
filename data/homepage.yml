@@ -57,8 +57,10 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: RFP
-      text: The Leventhal Center seeks a planning facilitator; submit a response by August 29
+    - badge: Request For Proposals
+      text: >-
+        The Leventhal Center is seeking a planning facilitator; submit a
+        response by August 29
       link: 'https://www.leventhalmap.org/planning-rfp/'
 audiences:
   enable: true
