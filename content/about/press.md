@@ -20,13 +20,13 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 **Press for *Heaven & Earth***
 
-[Boston University - Heaven and Earth: The Blue Maps of China (at the Leventhal Map & Education Center, Boston Public Library, opening in May 2024)](https://www.bu.edu/asian/2024/02/23/heaven-and-earth-the-blue-maps-of-china-at-the-leventhal-map-education-center-boston-public-library-opening-in-may-2024/)
+[Boston University - *Heaven and Earth: The Blue Maps of China (at the Leventhal Map & Education Center, Boston Public Library, opening in May 2024)*](https://www.bu.edu/asian/2024/02/23/heaven-and-earth-the-blue-maps-of-china-at-the-leventhal-map-education-center-boston-public-library-opening-in-may-2024/)
 
 **Other Recent Press**
 
-[WCVB Chronicle - Comparing Boston's past to present with historic media](https://www.wcvb.com/article/boston-massachusetts-history-maps-photography-historic-atlascope-cityscapes-of-boston/61754700)
+[WCVB Chronicle - *Comparing Boston's past to present with historic media*](https://www.wcvb.com/article/boston-massachusetts-history-maps-photography-historic-atlascope-cityscapes-of-boston/61754700)
 
-[bostoncentral.com - Boston Public Library - Copley Branch (hours, parking, tea)](https://www.bostoncentral.com/boston-public-library-copley-interior)
+[bostoncentral.com - *Boston Public Library - Copley Branch (hours, parking, tea)*](https://www.bostoncentral.com/boston-public-library-copley-interior)
 
 *[IIIF Consortium Welcomes Two New Associate Members](https://iiif.io/news/2023/07/05/4science-leventhal-BPL/)*
 
@@ -44,7 +44,7 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 [WBZ Newsradio](https://wbznewsradio.iheart.com/content/atlascope-boston-public-library-city-streets-view-civil-war-history/)
 
-# Past Exhibits
+## Past Exhibits
 
 **Press for *Getting Around Town***
 
@@ -102,7 +102,7 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 [CityLab](https://www.bloomberg.com/news/articles/2020-05-28/how-to-deconstruct-and-interpret-maps)
 
-# Press Releases
+## Press Releases
 
 **2024**
 
