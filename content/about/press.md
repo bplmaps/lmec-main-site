@@ -36,11 +36,15 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 [Fenway News - *BPL Exhibit Explores How Maps Can Reveal Political, Social, and Environmental Meaning*](https://fenwaynews.org/wp-content/uploads/2022/09/Fenway-News_OCT-2022_web.pdf)
 
-[The Boston Globe - *We Need Rain: Drought threatens the very foundation of some Boston buildings*](https://www.bostonglobe.com/2022/09/03/science/we-need-rain-drought-threatens-very-foundation-some-boston-buildings/)
+**Press for *Atlascope***
 
-[The Boston Globe - *When Boston gave America some sugar*](https://www.bostonglobe.com/2022/02/12/opinion/when-boston-gave-america-some-sugar/)
+[WCVB Chronicle](https://www.wcvb.com/article/boston-massachusetts-history-maps-photography-historic-atlascope-cityscapes-of-boston/61754700)
 
-[WBUR - *8 Maps That Explain Boston's Changing Shoreline*](https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline)
+[Boston Business Journal](https://www.bizjournals.com/boston/news/2020/01/26/five-things-you-need-to-know-today-and-the-coolest.html)
+
+[WBZ Newsradio](https://wbznewsradio.iheart.com/content/atlascope-boston-public-library-city-streets-view-civil-war-history/)
+
+# Past Exhibits
 
 **Press for *Getting Around Town***
 
@@ -98,15 +102,7 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 [CityLab](https://www.bloomberg.com/news/articles/2020-05-28/how-to-deconstruct-and-interpret-maps)
 
-**Press for *Atlascope***
-
-[WCVB Chronicle](https://www.wcvb.com/article/boston-massachusetts-history-maps-photography-historic-atlascope-cityscapes-of-boston/61754700)
-
-[Boston Business Journal](https://www.bizjournals.com/boston/news/2020/01/26/five-things-you-need-to-know-today-and-the-coolest.html)
-
-[WBZ Newsradio](https://wbznewsradio.iheart.com/content/atlascope-boston-public-library-city-streets-view-civil-war-history/)
-
-## Press Releases
+# Press Releases
 
 **2024**
 
