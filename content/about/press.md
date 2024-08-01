@@ -34,6 +34,8 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 **Other Recent Press**
 
+[WCVB Chronicle - Comparing Boston's past to present with historic media](https://www.wcvb.com/article/boston-massachusetts-history-maps-photography-historic-atlascope-cityscapes-of-boston/61754700)
+
 [bostoncentral.com - Boston Public Library - Copley Branch (hours, parking, tea)](https://www.bostoncentral.com/boston-public-library-copley-interior)
 
 *[IIIF Consortium Welcomes Two New Associate Members](https://iiif.io/news/2023/07/05/4science-leventhal-BPL/)*
@@ -94,6 +96,8 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 **Press for *Atlascope***
 
+[WCVB Chronicle](https://www.wcvb.com/article/boston-massachusetts-history-maps-photography-historic-atlascope-cityscapes-of-boston/61754700)
+
 [Boston Business Journal](https://www.bizjournals.com/boston/news/2020/01/26/five-things-you-need-to-know-today-and-the-coolest.html)
 
 [WBZ Newsradio](https://wbznewsradio.iheart.com/content/atlascope-boston-public-library-city-streets-view-civil-war-history/)
@@ -110,7 +114,7 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 **2022**
 
-* 2022-12-09: [New Exhibition Building Blocks: Boston Stories from Urban Atlases opens at Leventhal Map & Education Center January 13, 2023](https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/)
+* [New Exhibition Building Blocks: Boston Stories from Urban Atlases opens at Leventhal Map & Education Center January 13, 2023](https://www.leventhalmap.org/about/press-releases/new-exhibition-building-blocks-boston-stories-from-urban-atlases-opens-at-leventhal-map-education-center-january-13-2023-1/)
 
 **2021**
 
