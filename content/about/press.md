@@ -18,19 +18,9 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 ## Recent Press
 
-**Press for *Getting Around Town***
+**Press for *Heaven & Earth***
 
-[The Huntington News - VIDEO: ‘Getting Around Town’ exhibit documents 400 years of Boston transit history](https://huntnewsnu.com/77467/multimedia/videos/video-getting-around-town-exhibit-documents-400-years-of-boston-transit-history/)
-
-[The Boston Globe - *Boston Public Library asks supporters to come up with new names for MBTA stops*](https://www.bostonglobe.com/2024/01/31/metro/mbta-stop-names-bpl/)
-
-[The Huntington News - 'Getting Around Town' exhibit shows deep history of Boston transit system](https://huntnewsnu.com/75608/city-pulse/getting-around-town-exhibit-shows-deep-history-of-boston-transit-system/)
-
-[WGBH - *What 400 years of Boston transit history tells us about the MBTA's future*](https://www.wgbh.org/news/local/2023-12-07/what-400-years-of-boston-transit-history-tells-us-about-the-mbtas-future)
-
-[Dorchester Reporter - *BPL exhibit lays out role of streetcars in building of modern-day Dorchester*](https://www.dotnews.com/2023/bpl-exhibit-lays-out-role-streetcars-building-modern-day-dorchester)
-
-[StreetsBlogMASS - *New BPL Exhibit Showcases a History of Boston Through Its Transit Maps*](https://mass.streetsblog.org/2023/09/26/new-bpl-exhibit-showcases-a-history-of-boston-through-its-transit-maps)
+[Boston University - Heaven and Earth: The Blue Maps of China (at the Leventhal Map & Education Center, Boston Public Library, opening in May 2024)](https://www.bu.edu/asian/2024/02/23/heaven-and-earth-the-blue-maps-of-china-at-the-leventhal-map-education-center-boston-public-library-opening-in-may-2024/)
 
 **Other Recent Press**
 
@@ -51,6 +41,20 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 [The Boston Globe - *When Boston gave America some sugar*](https://www.bostonglobe.com/2022/02/12/opinion/when-boston-gave-america-some-sugar/)
 
 [WBUR - *8 Maps That Explain Boston's Changing Shoreline*](https://www.wbur.org/news/2021/06/14/8-maps-that-explain-bostons-changing-shoreline)
+
+**Press for *Getting Around Town***
+
+[The Huntington News - VIDEO: ‘Getting Around Town’ exhibit documents 400 years of Boston transit history](https://huntnewsnu.com/77467/multimedia/videos/video-getting-around-town-exhibit-documents-400-years-of-boston-transit-history/)
+
+[The Boston Globe - *Boston Public Library asks supporters to come up with new names for MBTA stops*](https://www.bostonglobe.com/2024/01/31/metro/mbta-stop-names-bpl/)
+
+[The Huntington News - 'Getting Around Town' exhibit shows deep history of Boston transit system](https://huntnewsnu.com/75608/city-pulse/getting-around-town-exhibit-shows-deep-history-of-boston-transit-system/)
+
+[WGBH - *What 400 years of Boston transit history tells us about the MBTA's future*](https://www.wgbh.org/news/local/2023-12-07/what-400-years-of-boston-transit-history-tells-us-about-the-mbtas-future)
+
+[Dorchester Reporter - *BPL exhibit lays out role of streetcars in building of modern-day Dorchester*](https://www.dotnews.com/2023/bpl-exhibit-lays-out-role-streetcars-building-modern-day-dorchester)
+
+[StreetsBlogMASS - *New BPL Exhibit Showcases a History of Boston Through Its Transit Maps*](https://mass.streetsblog.org/2023/09/26/new-bpl-exhibit-showcases-a-history-of-boston-through-its-transit-maps)
 
 **Press for *Building Blocks***
 
