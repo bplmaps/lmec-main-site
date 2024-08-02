@@ -27,6 +27,6 @@ It was an honor to work with dedicated educators who supported each other, kept 
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/NEH 2.jpg" >}}
 
-{{< figure >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/NEH 6.jpeg" >}}
 
 {{< figure >}}
