@@ -86,11 +86,6 @@ Moody Street has changed a lot since the 1950s. While the physical buildings hav
 | 365            | Edson Shoes                             | Gourmet Pottery                  |
 | 367            | Waltham Camera   Shop                   | Lizzy's   Homemade Ice Cream     |
 
-
-[^1]: [Howard, *From Main Street to Mall*.]
-
-[^2]: Howard, 219.
-
 ___
 
 ### The Ballad of Whitney Avenue
