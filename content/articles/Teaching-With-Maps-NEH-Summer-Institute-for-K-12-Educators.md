@@ -21,6 +21,8 @@ For the new Education team, the institute providing numerous opportunities for t
 
 It was an honor to work with dedicated educators who supported each other, kept the joy of teaching students at the center of their learning, asked questions, and pushed each other's thinking.
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/NEH 3.jpg" >}}
+
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/NEH 4.jpeg" >}}
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/NEH 1.jpg" >}}
