@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Teaching With Maps NEH Summer Institute for K-12 Educators
 date: 2024-08-03T04:00:00.000Z
 author: 'Kiana Harris, Nicole Claris'
