@@ -25,7 +25,7 @@ tags:
 > \
 > ***Content Warning:*** The maps shown may contains offensive imagery. The collections of the Leventhal Map & Education Center and the Boston Public Library are shaped by nearly two hundred years of collectors, archivists, curators, and library administrators deciding what documents qualified as historically significant objects. What you see on historic maps reflects the attitudes of the people who created these materials—and this includes attitudes that we today consider offensive for the ways in which they may show stereotypical, demeaning, or inaccurate depictions of people and places. In our educational programs, exhibitions, and public interpretation, we try to show how and why certain representations of the world came to provide the dominant visual language of cartography.
 
-##### Johnson, Riddle & Co.** *[Horch! Horch! Die hunde bellen! : mit einer begleitschrift von Walter Emanuel = Hark! Hark! The dogs do bark!](https://collections.leventhalmap.org/search/commonwealth:0r96fp01x)* : **with note by Walter Emanuel (1914)
+##### Johnson, Riddle & Co.** **[***Horch! Horch! Die hunde bellen! : mit einer begleitschrift von Walter Emanuel = Hark! Hark! The dogs do bark!***](https://collections.leventhalmap.org/search/commonwealth:0r96fp01x)** : **with note by Walter Emanuel (1914)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp026/full/,1200/0/default.jpg" >}}
 
@@ -63,11 +63,11 @@ How does this depiction shape our understanding of the geopolitical tensions of 
 
 Created in the 1950s, this rare satirical European war map is said to be “out of its time” as it dramatically portrays the Iron Curtain at the height of the Cold War where many maps of this genre were produced before 1916. With its use of caricature and humor to comment on the tense political climate, the division between the Western and Eastern worlds is made clear. The Portuguese cartographers emphasized the absurdity of the world by portraying countries with exaggerated stereotypes, leaving viewers to think about what the fears and perceptions of the time are.
 
-##### Richard Edes Harrison [An aerial view of New York City showing how easily the weary traveler may reach the Herald Square Hotel wherein he will find the rest, comfort & hospitality to which he is entitled, even in this day and age](https://collections.leventhalmap.org/search/commonwealth:m039np67z) (1932)
+##### F. Klimesch [Was von der Entente übrig bliebe wenn sie Ernst machte mit dem Selbstbestimmungsrecht iher eigenen Völker und die Zügel losliesse! = What would remain of the Entente if it took seriously the 'self-determination right' of its own nations and let go of the reins!](https://digital.library.cornell.edu/catalog/ss:3293853) (1918)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w6636m666/full/,1200/0/default.jpg" class="" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/PJM_1197_01.jpg" class="" >}}
 
-The map beautifully details Manhattan and even points out notable sites on the map, such as the Hudson River, Brooklyn Bridge, and the Empire State Building. However, it stands out in that it serves as both a functional map of NYC and as an advertisement for the Herald Square Hotel. The orange arrows leading to the hotel became the main focus of the map, in contrast with the black-and-white of the rest of the map. This was a captivating advertising tactic since maps were one of the main modes of finding and getting to events, entertainment spaces, restaurants, and other hospitality spaces- not only is this a functional map that could come in handy for a typical traveler, but it also subtly highlights its establishment.
+In light of President Woodrow Wilson’s Fourteen Point Plan and the entrance of the United States into World War I, this 1917 German persuasive map mocks the Allied powers’ control over their colonies. The map features caricatures of the global powers, each holding reins tied to the lands they had colonized, symbolizing the tight grip they have on their reluctance to grant true self-determination to their territories. This imagery underscores the hypocrisy of the allies’ advocacy for self-determination—a principle that they are pushing onto Germany—versus their actual practices of maintaining control.
 
 ##### James T Lloyd [Lloyd's telegraph, railroad & express map of the whole United States & Canadas, from official information ](https://collections.leventhalmap.org/search/commonwealth:0r96fp514) (1863)
 
