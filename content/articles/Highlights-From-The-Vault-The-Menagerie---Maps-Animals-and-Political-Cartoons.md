@@ -1,10 +1,10 @@
 ---
-draft: true
+draft: false
 title: >-
   Highlights From The Vault: The Menagerie - Maps, Animals, and Political
   Cartoons
 date: 2024-08-05T04:00:00.000Z
-author: 'Anna Hsu and Edwin Prado '
+author: 'Anna Hsu, Edwin Prado '
 description: >-
   Check out these highlights from the August 2nd themed From The Vault: The
   Menagerie - Maps, Animals, and Political Cartoons. This event was co-curated
@@ -68,15 +68,3 @@ Created in the 1950s, this rare satirical European war map is said to be “out 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/PJM_1197_01.jpg" class="" >}}
 
 In light of President Woodrow Wilson’s Fourteen Point Plan and the entrance of the United States into World War I, this 1917 German persuasive map mocks the Allied powers’ control over their colonies. The map features caricatures of the global powers, each holding reins tied to the lands they had colonized, symbolizing the tight grip they have on their reluctance to grant true self-determination to their territories. This imagery underscores the hypocrisy of the allies’ advocacy for self-determination—a principle that they are pushing onto Germany—versus their actual practices of maintaining control.
-
-##### James T Lloyd [Lloyd's telegraph, railroad & express map of the whole United States & Canadas, from official information ](https://collections.leventhalmap.org/search/commonwealth:0r96fp514) (1863)
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp52d/full/,1200/0/default.jpg" class="" >}}
-
-This is a geographically accurate depiction of the Great Lakes area intended to advertise Lloyd’s (the cartographer) telegraph, railroad, and express mapping company. The ad shows off the company's vast presence throughout this region, with more than 200 railroads and ten telegraph lines. To make life even more accessible for the consumer, they also provided estimated service costs and where precisely they can be visited within this area. During the 19th century, a tool like this would have been helpful to anybody traveling through the Greater Lakes region who was unfamiliar with the territory.
-
-##### Geo H Walker and Co [Trolley wayfinder, birds eye view of trolley routes in New England](https://collections.leventhalmap.org/search/commonwealth:jh343z12j)  (1904-05)
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jh343z13t/full/,1200/0/default.jpg" class="figure-left" >}}
-
-One mode of transportation not explicitly mentioned in this collection of maps is the trolley. The New England Street Railway Club commissioned this piece to advertise their trolley services across the New England area and provide their consumers with an accurate map that mentions the trolley stops. It's typical for these maps to act as a detailed guide, with information about the services they offered. The map highlights sections of New England that the trolley passes through and provides the price, distance, and scheduled timing of every trip. This type of ad heavily appealed to their audience as most people utilizing these types of transport are leisure travelers as well. 
