@@ -33,7 +33,7 @@ In 1914 on the verge of WWI, Europe was a powder keg ready to blow. The humorous
 
 ##### Frederic W. Rose [Serio-comic war map for the year 1877](https://collections.leventhalmap.org/search/commonwealth:0r96fk80z) (1877)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fk817/full/,1200/0/default.jpg" class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fk817/full/,1200/0/default.jpg" class="" >}}
 
 The motif of the octopus frequents propaganda beginning in the 19th century, depicting countries as grotesque tentacled beasts grasping at land. Falling under the umbrella of satirical maps, this 1887 serio-comic war map charts the political climate in Europe during the Russo-Turkish war, a conflict between the declining Ottoman Empire and the Russians, seeking to expand and regain lost territory. With tentacles encasing Crimea, encircling the Black sea, and ensnaring the Turks, this map negatively reflects Russia’s desire for expansion. By portraying the remaining countries as human, British cartographer F.W. Rose alienates Russia; viewers of the map feel disconnected from the many-armed octopus, therefore making it easier to fear and hate the Russians.
 
