@@ -49,11 +49,13 @@ Mirroring much of the imagery in some of the other maps shown, this satirical ma
 
 Early 1950s China was on the brink of massive reforms like the Great Leap Forward and the Cultural Revolution, and the Chinese Communist Party utilized propaganda to fuel growing nationalism and Mao Zedong’s cult of personality. Prowling predators representing outside powers roam across this map, encroaching on China’s land and illustrating the threats of capitalism and imperialism in what its title refers to as the “current situation.” The rising sun symbol of imperial Japan reaches towards a figure while the American eagle soars below and the British lion patrols along the coast, reminding all of the disgrace of the Opium Wars and China’s century of humiliation.
 
-##### John F Murphy [Bird's eye view of Boston Harbor and south shore to Provincetown showing steamboat routes](https://collections.leventhalmap.org/search/commonwealth:wd3760753) (1901)
+##### Eugen von Baumgarten [L'Entente Cordiale 1915](https://digital.library.cornell.edu/catalog/ss:19343435) (1915)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:dz010t97j/full/1200,/0/default.jpg" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/PJM_2097_01.jpg" >}}
 
-This map similarly advertises numerous steamboat and train routes of the early 20th century. All steamboat advertisements featured today opted to include practical elements in their advertisements by providing a functional map, but there are some key differences in the rest of their approach. This map chose to center its focus on the Boston Harbor and the water surrounding the greater Boston area. Not only does it successfully point out the bays specific to the waterside towns surrounding Boston, it also includes a rough estimate of the steamboat’s path to places like Provincetown and Plymouth after departing from the Boston Harbor.  
+In an attempt to reinforce the German propaganda aimed at mocking British expansionism, this 1915 persuasive map made by the Germans satirically critiques the Anglo-French alliance established by their 1904 Cordial Agreement. The cartographer’s decision to cast Great Britain as a spider with its webs extending all over France, North Africa, and even the United States in the background, reflects German criticism of Great Britain’s imperial ambitions as the principle cause of the war, getting nations in its web of influence to fight on its behalf. 
+
+How does this depiction shape our understanding of the geopolitical tensions of World War I?
 
 ##### Geo H Walker and Co [Map showing the routes of The Winthrop Steamboat Co](https://collections.leventhalmap.org/search/commonwealth:x059cc723) (1896)
 
