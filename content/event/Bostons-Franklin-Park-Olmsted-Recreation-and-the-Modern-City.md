@@ -13,6 +13,8 @@ backgroundImage: >-
   Park_Temp Still Title 001.jpg
 location: 'Rabb Hall, Central Library in Copley Square'
 fee: Free
+registration: >-
+  bplmaps.ticketleap.com/bostons-franklin-park-olmsted-recreation-and-the-modern-city/
 tags:
   - Boston
   - Urban planning
