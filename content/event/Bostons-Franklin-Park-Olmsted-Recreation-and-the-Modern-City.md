@@ -11,7 +11,7 @@ image: >-
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/LALH_Franklin
   Park_Temp Still Title 001.jpg
-location: Central Library in Copley Square
+location: 'Rabb Hall, Central Library in Copley Square'
 fee: Free
 tags:
   - Boston
