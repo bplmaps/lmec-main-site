@@ -25,7 +25,7 @@ tags:
 > \
 > ***Content Warning:*** The maps shown may contains offensive imagery. The collections of the Leventhal Map & Education Center and the Boston Public Library are shaped by nearly two hundred years of collectors, archivists, curators, and library administrators deciding what documents qualified as historically significant objects. What you see on historic maps reflects the attitudes of the people who created these materials—and this includes attitudes that we today consider offensive for the ways in which they may show stereotypical, demeaning, or inaccurate depictions of people and places. In our educational programs, exhibitions, and public interpretation, we try to show how and why certain representations of the world came to provide the dominant visual language of cartography.
 
-##### Johnson, Riddle & Co. [***Horch! Horch! Die hunde bellen! : mit einer begleitschrift von Walter Emanuel ***= Hark! Hark! The dogs do bark!](https://collections.leventhalmap.org/search/commonwealth:0r96fp01x) : with note by Walter Emanuel (1914)
+##### Johnson, Riddle & Co. [***Horch! Horch! Die hunde bellen! : mit einer begleitschrift von Walter Emanuel*** = Hark! Hark! The dogs do bark!](https://collections.leventhalmap.org/search/commonwealth:0r96fp01x) : with note by Walter Emanuel (1914)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp026/full/,1200/0/default.jpg" >}}
 
