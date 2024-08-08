@@ -1,6 +1,8 @@
 ---
-draft: true
-title: 'Boston’s Franklin Park: Olmsted, Recreation, and the Modern City'
+draft: false
+title: >-
+  Film Screening and Panel - Boston’s Franklin Park: Olmsted, Recreation, and
+  the Modern City
 date: 2024-10-16T22:00:00.000Z
 publishDate: 2024-08-07T04:00:00.000Z
 image: >-
