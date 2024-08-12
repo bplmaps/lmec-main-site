@@ -14,6 +14,8 @@ tags:
   - Author talk
 ---
 
+{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by BPL Adult Programs.{{\</ alert-box >}}
+
 ### About this event
 
 Join author Daniel Dain and photographer Peter Vanderwarker as they talk about their new book, ***A History of Boston***. They will act as your tour guide through the history of the City and discuss what lessons can be learned for the challenges of a modern city today.
