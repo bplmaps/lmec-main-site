@@ -14,7 +14,7 @@ tags:
   - Author talk
 ---
 
-{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by BPL Adult Programs.{{\</ alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by BPL Adult Programs.{{</ alert-box >}}
 
 ### About this event
 
