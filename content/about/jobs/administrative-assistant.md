@@ -64,10 +64,10 @@ The Center places great value on an organizational culture in which staff member
 
 ### To apply
 
-Please submit the following as a single PDF.
+Applicants should submit the following materials:
 
-- A cover letter of no more than two pages.
-- A CV or résumé.
+- A cover letter of no more than two pages (PDF, DOCX, or MD format)
+- A CV or résumé (PDF, DOCX, or MD format)
 - A list of 3 professional references, including telephone numbers and email. We will not contact references before notifying candidates in the final round.
 
 Additional material will be requested from semifinalist candidates.
