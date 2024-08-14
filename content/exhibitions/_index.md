@@ -49,10 +49,10 @@ In the long history of mapmaking, computers are a relatively new development. In
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t94b260t/1659,757,5667,2624/1200,/0/default.jpg" >}}
 
-### Terrains of Independence
+### *Terrains of Independence*
 
 **March 2025 – January 2026**
 
-In 1775, a collision of word-historical forces, driven by ocean-spanning empires, conflicts over trade and settlement, and new ideas about society and government, came together in the spark of the American Revolution. Yet although both the causes and the consequences of the Revolution were grand in scale, the war ignited in the tinderbox of a very specific local geography: Boston and the surrounding towns of Massachusetts. Why did it happen here? The revolutionary moment was as much about places as it was about people or ideas. In and around Boston, the tensions of Britain’s colonial empire had been rising for decades before the 1770s. The commercial geography of the city and its region, zones of friction between classes and communities, and contestations over the environment all helped to create the conditions that led to an era of revolutionary upheaval in Massachusetts. In the Leventhal Map & Education Center’s exhibition Terrains of Independence, maps will offer the entrypoint to a reconsideration of the Revolutionary War through the lens of locality and place. 
+In 1775, a collision of word-historical forces, driven by ocean-spanning empires, conflicts over trade and settlement, and new ideas about society and government, came together in the spark of the American Revolution. Yet although both the causes and the consequences of the Revolution were grand in scale, the war ignited in the tinderbox of a very specific local geography: Boston and the surrounding towns of Massachusetts. Why did it happen here? The revolutionary moment was as much about places as it was about people or ideas. In and around Boston, the tensions of Britain’s colonial empire had been rising for decades before the 1770s. The commercial geography of the city and its region, zones of friction between classes and communities, and contestations over the environment all helped to create the conditions that led to an era of revolutionary upheaval in Massachusetts. In the Leventhal Map & Education Center’s exhibition *Terrains of Independence*, maps will offer the entrypoint to a reconsideration of the Revolutionary War through the lens of locality and place. 
 
 *Curated by LMEC Head Curator Garrett Dash Nelson*
