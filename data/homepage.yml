@@ -57,6 +57,11 @@ slider:
 cta:
   enable: true
   announcements:
+    - badge: Upcoming closure
+      text: >-
+        The Map Center will be closed on Sunday, August 18. All BPL locations
+        will remain open. 
+      link: 'https://www.leventhalmap.org/about/hours-directions/'
     - badge: 'We’re Hiring: Administrative Assistant'
       text: >-
         Our team is looking to fill a new fully-remote, part-time role of
