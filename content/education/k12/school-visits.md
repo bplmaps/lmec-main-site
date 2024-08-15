@@ -19,13 +19,13 @@ Our program offerings will always include an option related to the current exhib
 
 {{< course-listing image="/uploads/boston.png" title="Boston, You’re My Home" subtitle="Grades 3-5" description="Students will explore Boston's dynamic history including how the city’s communities and their residents evolved over time. Elementary students will examine the role of cartographers in documenting Boston's growth during the mid-19th century and analyze changes in the city's landscape through a comparison of maps in our collection. How does the Boston students see on maps match the Boston they know today? By studying what has changed and what has remained constant, students will better understand their communities and how they can contribute to their future.">}}
 
-{{< course-listing image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t94b260t/1659,757,5667,2624/1200,/0/default.jpg" title="Procesing Place" subtitle="Grades K-12" description="Students will participate in a guided tour of our exhibition [*Processing Place: How Computers and Cartographers Redrew our World*](https://www.leventhalmap.org/digital-exhibitions/processing-place/), which explores the impact of 20th-century computer technologies on digital mapping. This tour encourages students to reflect on their place in the world and how maps created with various technologies capture and represent their lived experiences. Throughout the program, students will engage in guided inquiry and discussion focused on the maps featured in the gallery.">}}
+{{< course-listing image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t94b260t/1659,757,5667,2624/1200,/0/default.jpg" title="Processing Place" subtitle="Grades K-12" description="Students will participate in a guided tour of our exhibition [*Processing Place: How Computers and Cartographers Redrew our World*](https://www.leventhalmap.org/digital-exhibitions/processing-place/), which explores the impact of 20th-century computer technologies on digital mapping. This tour encourages students to reflect on their place in the world and how maps created with various technologies capture and represent their lived experiences. Throughout the program, students will engage in guided inquiry and discussion focused on the maps featured in the gallery.">}}
 
 ## Booking a Program {#booking}
 
 - K-12 visits to the LMEC can be booked from Monday to Thursday at 9:30 am and 11 am. Each session lasts 45-60 minutes.
 - Due to the size of our gallery, we can welcome groups of up to 16 students and 2 chaperones per time slot. At least one chaperone must be the lead or cooperating teacher of the school group.
-- All groups are required to make reservations at least one month in advance. To ensure a smooth visit, all school groups must register using the online form below.
+- All groups are required to make reservations at least **one month in advance**. To ensure a smooth visit, all school groups must register using the online form below.
 
 <a href="https://app.acuityscheduling.com/schedule.php?owner=33068627&location=Central Library in Copley Square%2C 700 Boylston Street Boston%2C MA 02116 USA&ref=booking_button" target="_blank" class="btn btn-lg btn-primary-outline">Schedule a Class Visit</a>
 
@@ -39,9 +39,9 @@ We strive to make our programs and resources available to all institutions witho
 
 **Transportation and Parking:** 
 
-Unfortunately, the Central Library in Copley Square does not offer reserved off-street parking. However, several garages are within walking distance of the Leventhal Center, and two-hour metered street parking, though often occupied, is available throughout the Back Bay. 
+Unfortunately, the Central Library in Copley Square does not offer reserved off-street parking for buses or other vehicles. However, several garages are within walking distance of the Leventhal Center, and two-hour metered street parking, though often occupied, is available throughout the Back Bay. 
 
-Use the [MBTA Trip Planner](https://www.mbta.com/trip-planner) for more information on traveling by transit.
+We recommend taking the MBTA to the Leventhal Map and Education Center when convenient. Use the [MBTA Trip Planner](https://www.mbta.com/trip-planner) for more information on traveling by transit.
 
 **Lunch:** 
 
