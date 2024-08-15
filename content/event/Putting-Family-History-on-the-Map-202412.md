@@ -9,15 +9,16 @@ image: >-
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screen Shot
   2023-07-07 at 9.13.54 AM.png
-location: 'Virtual '
+location: 'Virtual'
 fee: Free
 registration: >-
-  https://boston-public-library.zoom.us/webinar/register/WN_cNvJr23GTOOvoTfYVwBIbw#/registration
+  https://bpl.bibliocommons.com/events/66ba0bd538e458ba8c1d52d4
 tags:
   - atlascope
   - staff
 ---
 
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized by BPL Research Services as part of the Local & Family History Lecture Series.{{< /alert-box >}}
 
 Join guest speaker Julia Williams from the Leventhal Map & Education Center as she discusses the use of historic maps for genealogical research. She will provide a demo of Leventhal Center's Atlascope tool, which overlays historic maps on top of modern-day ones so you can easily compare past and present.
 
@@ -25,4 +26,4 @@ Julia Williams (she/her) is the Gallery & Communications Coordinator at the Leve
 
 Please note that registration is required for this event as it is taking place over Zoom.
 
-We strive to make our events accessible. To request a disability accommodation and/or language services, please contact: Jessy Wheeler at jwheeler\@bpl.org, by November 27, 2024. Please allow at least two weeks to arrange for accommodations.
+We strive to make our events accessible. To request a disability accommodation and/or language services, please contact: Jessy Wheeler at jwheeler@bpl.org, by November 27, 2024. Please allow at least two weeks to arrange for accommodations.
