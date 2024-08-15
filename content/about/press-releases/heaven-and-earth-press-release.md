@@ -4,7 +4,7 @@ title: New Exhibition "Heaven & Earth" Opens at Leventhal Map & Education Center
 description: 'New Exhibition of Chinese Maps Takes a Close Look at Cosmography and Color'
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx121n456/408,365,15152,7907/1200,/0/default.jpg
 cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx121n456/408,365,15152,7907/1200,/0/default.jpg
-menu: true
+menu: false
 ---
 
 <a class="btn btn-primary btn-primary-outline mb-3" href="https://s3.us-east-2.wasabisys.com/lmec-public-files/press-releases/2024-04-16-Heaven%20%26%20Earth%20Press%20Release.pdf">View this release as a PDF</a>
