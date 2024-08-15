@@ -57,6 +57,11 @@ slider:
 cta:
   enable: true
   announcements:
+    - badge: 'We’re Hiring: Administrative Assistant'
+      text: >-
+        Our team is looking to fill a new fully-remote, part-time role of
+        Administrative Assistant. Apply by September 19
+      link: 'https://www.leventhalmap.org/about/jobs/administrative-assistant/'
     - badge: Request For Proposals
       text: >-
         The Leventhal Center is seeking a planning facilitator; submit a
