@@ -1,7 +1,8 @@
 ---
-draft: true
+draft: false
 title: 'Administrative Assistant'
 menu: false
+backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp54z/2154,1509,1185,1071/pct:50/0/default.jpg"
 cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp54z/2154,1509,1185,1071/pct:50/0/default.jpg"
 ---
 
