@@ -1,6 +1,6 @@
 ---
 publishDate: 2022-05-26T09:13:09.000-04:00
-title: 'Putting Family History on the Map '
+title: 'Putting Family History on the Map'
 date: 2022-06-29T18:00:00.000-04:00
 image: "/uploads/2022-05-26/image_access_800.jpeg"
 backgroundImage: "/uploads/2022-05-26/image_access_800.jpeg"
@@ -9,8 +9,8 @@ fee: Free
 registration: https://bpl.bibliocommons.com/events/620fa903bdf53f3600d6fca8
 tags:
 - Atlascope
-
 ---
+
 ### Event video 
 
 The recorded event is available for viewing on the Boston Public Library's YouTube page [here](https://youtu.be/S_edoX_9Hwk). 
