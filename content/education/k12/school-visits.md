@@ -9,67 +9,68 @@ quicklinks:
     linkType: jump
 ---
 
-{{< alert-box type="warning" icon="fas fa-school" title="In-person school programs in Spring 2024" >}}
+The Leventhal Map & Education Center offers a menu of pre-designed programs for field trips to our Learning Center. Using maps from our collection, students practice using cartographic tools to read maps and think about what maps can and can’t tell us about our relationships to places in the past and present. 
 
-We are offering a select menu of programming through the end of the 2023–24 school year while we prepare for next school year with expanded staff capacity.
+Our program offerings will always include an option related to the current exhibition on display in our gallery at the Central Library. All programs are led by Leventhal Center staff educators.
 
-{{< /alert-box >}}
+## Guided Class Visit Programs
 
-The Leventhal Map & Education Center offers a menu of pre-designed programs for field trips to our Learning Center, virtual class visits, or in-person outreach to classrooms. Using maps from our collection, students practice using cartographic tools to read maps and think about what maps can and can't tell us about our relationships to places in the past and present. Programs related to our current exhibition are also available. Explore our program topics below. If you don't see quite what you're looking for, we are happy to work with you to create programming that works with your curriculum.
+{{< course-listing image="/uploads/wiam.png" title="What Can a Map Do?" subtitle="Grades K–3" description="Early learners already encounter maps in their day to day lives. In this interactive learning experience, we will explore together what a map can *do*. Through close examination of maps in our collection young learners will discover how maps represent and shape their world. Students will participate in various age-appropriate activities such as a read aloud, practice map reading skills, and map creation to deepen their understanding of cartography and spatial thinking.">}}
+
+{{< course-listing image="/uploads/boston.png" title="Boston, You’re My Home" subtitle="Grades 3-5" description="Students will explore Boston's dynamic history including how the city’s communities and their residents evolved over time. Elementary students will examine the role of cartographers in documenting Boston's growth during the mid-19th century and analyze changes in the city's landscape through a comparison of maps in our collection. How does the Boston students see on maps match the Boston they know today? By studying what has changed and what has remained constant, students will better understand their communities and how they can contribute to their future.">}}
+
+{{< course-listing image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t94b260t/1659,757,5667,2624/1200,/0/default.jpg" title="Procesing Place" subtitle="Grades K-12" description="Students will participate in a guided tour of our exhibition [*Processing Place: How Computers and Cartographers Redrew our World*](https://www.leventhalmap.org/digital-exhibitions/processing-place/), which explores the impact of 20th-century computer technologies on digital mapping. This tour encourages students to reflect on their place in the world and how maps created with various technologies capture and represent their lived experiences. Throughout the program, students will engage in guided inquiry and discussion focused on the maps featured in the gallery.">}}
 
 ## Booking a Program {#booking}
 
-A limited number of guided tours of our current exhibitions are available for school groups. These experiences will draw connections between the work in your classroom and what is currently on view. 
+- K-12 visits to the LMEC can be booked from Monday to Thursday at 9:30 am and 11 am. Each session lasts 45-60 minutes.
+- Due to the size of our gallery, we can welcome groups of up to 16 students and 2 chaperones per time slot. At least one chaperone must be the lead or cooperating teacher of the school group.
+- All groups are required to make reservations at least one month in advance. To ensure a smooth visit, all school groups must register using the online form below.
 
-Due to the size of our gallery, we can welcome groups of up to 16 students and 2 chaperones. You can preview availability and express interest using [Calendly](https://calendly.com/leventhalmapeducation/leventhal-center-school-visit). We will confirm your visit and discuss how we can best gear the conversation to meet your curricular goals.
+<a href="https://app.acuityscheduling.com/schedule.php?owner=33068627&location=Central Library in Copley Square%2C 700 Boylston Street Boston%2C MA 02116 USA&ref=booking_button" target="_blank" class="btn btn-lg btn-primary-outline">Schedule a Class Visit</a>
 
-Guided tours of our current exhibitions are 45-60 minutes. We utilize guided inquiry to encourage close looking and to support your desired curricular connections. **Please note that there is no designated lunch room for classes in the Boston Public Library.**
+#### Preparing for Your Visit
 
-<a href="https://calendly.com/leventhalmapeducation/leventhal-center-school-visit" class="btn btn-outline">See available dates</a>
+**Cost:** 
 
-#### Cost
+Please see our [table of education program fees](/education/fees) for information on costs. Please note that if you are teaching at a Boston Public School, fees are waived for your visit to the Leventhal Map and Education Center. 
 
-Please see our [table of education program fees](/education/fees) for information on costs. We strive to make our programs and resources available to all institutions without cost presenting a barrier.
+We strive to make our programs and resources available to all institutions without cost presenting a barrier. If your district or institution is not able to support our standard fees, [please send us an email](mailto:info@leventhalmap.org) to discuss adjusted rates.
 
-#### Additional BPL Programming for Class Visits
+**Transportation and Parking:** 
 
-A visit to the Map Center can be combined with sessions conducted by BPL’s Teen Services Team in Teen Central (grades 6-12), or activities with its Children’s Library Team (grades K-5). **[Click here](https://www.bpl.org/services-central-library/teen-central/)** to learn more about Teen Central’s tours, research skills workshops and team-building activities, or **[click here](https://www.bpl.org/services-central-library/childrens-library-at-the-central-library/)** to discover the range of Children’s Library services provided at Central.
+Unfortunately, the Central Library in Copley Square does not offer reserved off-street parking. However, several garages are within walking distance of the Leventhal Center, and two-hour metered street parking, though often occupied, is available throughout the Back Bay. 
 
+Use the [MBTA Trip Planner](https://www.mbta.com/trip-planner) for more information on traveling by transit.
 
-## Expanded Programming in 2024--2025
+**Lunch:** 
 
-This summer we will announce our updated offerings for the 2024–25 school year. We encourage you to sign up for our newsletter to receive first notice of the opportunities for your students to connect with the Leventhal Center. 
+Please note that there is no lunch space for classes in the Boston Public Library.
 
-[Subscribe to our mailing list](https://www.leventhalmap.org/subscribe/)
+**Accessibility:** 
 
+Our physical spaces are ADA-accessible via a lift from the main level of the BPL’s McKim Building. Most, though not all, spaces in the Central Library in Copley Square are accessible. For more information, see the BPL’s Resources and Services for Users with Disabilities [here.](https://www.bpl.org/accessibility-at-the-boston-public-library/) 
 
-## Pre-Designed K-12 Programming
+If you have any questions about accessibility to the Leventhal Map and Education Center, please email [education@leventhalmap.org](mailto:education@leventhalmap.org) ahead of your visit. We strive to make sure all students can participate in our programming. 
 
-{{< alert-box type="warning" icon="fas fa-pause" title="Not available in Spring 2024" >}}
+**Booking other BPL Programs:**
 
-These programs are not available in Spring 2024 and will return in Fall 2024.
+Please note that a reservation for a guided class visit to the Leventhal Center does not automatically include access to other tours or services offered by the Boston Public Library. School groups are required to stay within the designated areas of the Leventhal Center during their visit.
 
-{{< /alert-box >}}
+To combine your visit with sessions in [Teen Central](https://www.bpl.org/services-central-library/teen-central/) (grades 6-12) or activities with the [Children’s Library](https://www.bpl.org/services-central-library/childrens-library-at-the-central-library/) services (grades K-5), please schedule these additional tours or activities in advance.
 
-{{< course-listing image="/uploads/wiam.png" title="What Is A Map?" subtitle="Grades 1–3" description="Students practice how to interpret maps by reading the stories being told by mapmakers. Students create a map of their own, receive a short interactive lesson about maps and mapping, and work in small groups to answer questions about some of the maps in our collection." lessonFile="https://collections.leventhalmap.org/educators/curriculum-materials/127">}}
+## Curricular Connections
 
-{{< course-listing image="/uploads/eliot4.jpg" title="People Shape the Earth/The Earth Shapes People" subtitle="Grades 2-5" description="After an introductory lesson on maps and mapping, students work together to consider the ways we shape the environment and the ways it shapes us by examining regional maps of the United States.">}}
+The K-12 programs align with or supports the following standards.
 
-{{< course-listing image="/uploads/amrev.png" title="Mapping the American Revolution" subtitle="Grades 3-12" description="Students learn to interpret the stories of the American Revolution as told through maps. In small groups, they examine period maps of Boston and New England to uncover information about the historical actors in the Revolution, the significance of geography, and the motives of the mapmakers." lessonFile="https://collections.leventhalmap.org/educators/curriculum-materials/138">}}
-
-{{< course-listing image="/uploads/america.png" title="Mapping America" subtitle="Grades 3-8" description="Students learn the basics of mapmaking and the many ways maps tell stories before breaking into small groups to explore a range of maps of the United States, from some of the oldest in our collection to the present. This lesson can emphasize different themes: 1) Students interact with regional maps that tell stories about the expansion of the United States across the continent or that illustrate regional characteristics, or 2) Students explore different thematic maps of the United States to consider a mapmaker’s purpose.">}}
-
-{{< course-listing image="/uploads/ioway.png" title="Native People and Settler Colonialism/A Story of Land and Maps" subtitle="Grades 4-12" description="Students learn the basics of mapmaking and explore maps made by Indigenous and Euro-American cartographers to uncover Native presence and the dispossession of Native lands." lessonFile="https://collections.leventhalmap.org/educators/curriculum-materials/136">}}
-
-{{< course-listing image="/uploads/boston.png" title="Boston Over Time" subtitle="Grades 5-12" description="In this program, students use maps to discover how Boston’s landscape has been transformed over the course of its history. In a hands-on activity, students will examine maps spanning the past four hundred years to better understand how Boston has changed in tandem with its population and industry.">}}
-
-{{< course-listing image="/uploads/world.png" title="World Maps Over Time" subtitle="Grades 6-8" description="Students practice being critical map readers using a range of world maps, from the oldest in our collection to the present. After an interactive lesson on map projections, students work in small groups to analyze what mapmakers include on their maps and why." lessonFile="https://collections.leventhalmap.org/educators/curriculum-materials/128">}}
-
-{{< course-listing image="/uploads/civics.png" title="Civics Topics" subtitle="Grade 8" description="We will work with you to support your Civics curriculum with map-based lessons on topics, from red-lining to immigration to Boston-based neighborhood advocacy.">}}
-
-{{< course-listing image="/uploads/2021-09-17/kidscount.jpg" title="Kids Count!: Mapping Children in Boston" subtitle="Grades 3-8" description="Students explore different ways cartographers have represented the presence of children in Boston for different purposes. Along the way they learn about geospatial data and GIS (geographic information systems), the power of symbology, and the importance of considering a mapmaker's purpose. They also try their hand at geospatial data visualization.">}}
-
-
-
-
-
+- Massachusetts History and Social Studies Standards
+    - *Kindergarten-Grade Two: Standards K.4, 1.4, 2.4*
+    - *Grade Three-Five: Standards 3.2, 4.2, 5.2*
+- National Council for Social Studies
+    - *Standard 2: Time, Continuity, and Change*
+    - *Standard 3: People, Places, and Environment*
+    - Standard 8: Science, Technology, and Society
+- The College, Career & Civic Life (C3) Framework for Social Studies
+    - *Standard D2.Geo.3-5.1*
+    - *Standard D3.1.3-5*
+    - *Standard D 4.2.3-5*

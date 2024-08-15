@@ -4,7 +4,7 @@ backgroundImage: images/page-header-backgrounds/education-programs.jpg
 description: We offer resources, content, and programs for educators and students
   of all levels.
 weight: "4"
-
+menu: false
 ---
 ## Maptivists
 

@@ -16,17 +16,10 @@ Cost should not present a barrier for bringing our educational programs to your 
 
 ## K-12 programs
 
-|  | Visits to LMEC | Remote Class Visit | Outreach visit to school |
-| --- | --- | --- | --- |
-| Boston Public Schools | Free | Free | Free |
-| Public schools other than BPS | $100 | $100 | $200 plus mileage |
-
-* **Multiple same-day sessions** of a single outreach visit are charged at a discounted rate.
-  * One session: $200
-  * Two sessions: $350
-  * Three sessions: $500
-  * Each additional session: +$100
-* **Mileage** is charged at 65.5¢ per mile driving distance from Copley Square.
+|  | Visits to LMEC |
+| --- | --- | 
+| Boston Public Schools | Free | 
+| Public schools other than BPS | $200 | 
 
 ## University programs
 

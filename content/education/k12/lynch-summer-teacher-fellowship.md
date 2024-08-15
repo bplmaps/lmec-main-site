@@ -2,7 +2,7 @@
 backgroundImage: ''
 description: Our fellowship program for K-12 teachers
 title: >-
-  2024 Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community
+  Carolyn A. Lynch Summer Teacher Fellowship: Teaching Boston Community
   History
 ---
 

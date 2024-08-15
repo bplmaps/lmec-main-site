@@ -4,6 +4,7 @@ backgroundImage: images/page-header-backgrounds/education-programs.jpg
 description: Resources, programs, and activities for teaching with maps on everything from the American Revolution to redlining and housing discrimination
 weight: "2"
 type: "singleton"
+menu: false
 ---
 
 <!-- ### Tools for Teachers

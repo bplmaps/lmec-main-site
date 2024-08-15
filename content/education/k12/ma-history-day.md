@@ -4,7 +4,6 @@ backgroundImage: images/page-header-backgrounds/education-programs.jpg
 description: We offer resources, content, and programs for educators and students
   of all levels.
 menu: false
-
 ---
 
 >The Leventhal Map & Education Center sponsors an annual "Best Use of Maps as a Primary Source" prize for two students each year who enter [NHD Massachusetts.](https://www.masshist.org/masshistoryday) This page presents some larger ways to think about maps as part of NHD projects. Check out the [National History Day page](https://www.nhd.org/) to learn more about this year's theme. 

@@ -35,9 +35,3 @@ At the Leventhal Map & Education Center, we believe that maps are powerful tools
   {{< carousel-figure src="/uploads/eliot3.jpg" >}} {{< /carousel-figure >}}
 
 {{< /carousel >}}
-
-{{< alert-box type="warning" icon="fas fa-school" title="In-person school programs in Spring 2024" >}}
-
-We are offering a select menu of programming through the end of the 2023–24 school year while we prepare for next school year with expanded staff capacity. 
-
-{{< /alert-box >}}
