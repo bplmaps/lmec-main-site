@@ -10,6 +10,8 @@ description: >-
   Human Decisions are an Essential Part of the Process
 ---
 
+### Leventhal Map & Education Center Opens New Exhibition “*Processing Place: How Computers and Cartographers Redrew our World*” on September 13, 2024 
+
 **BOSTON, MA – August 17, 2024** - *Processing Place: How Computers and Cartographers Redrew our World*, a free public exhibition at the Leventhal Map & Education Center (LMEC) at the Boston Public Library (BPL), will open this fall on September 13, 2024. 
 
 Taking a historical approach to the now familiar world of digital mapping, *Processing Place* explores how new computer technologies developed during the twentieth century drove profound changes in environmental management, law and policy, navigation, national defense, and much more. By comparing maps made with computers to those made before and without them, *Processing Place* invites us to rethink the relationships between maps, technology, and society. *Processing Place* is curated by Leventhal Center staff members Ian Spangler, Assistant Curator of Digital & Participatory Geography, and Emily Bowe, Assistant Director. 
