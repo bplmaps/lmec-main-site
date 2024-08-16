@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: >-
   New Exhibition “Processing Place: How Computers and Cartographers Redrew our
   World” opens at Leventhal Map & Education Center at the Boston Public Library
