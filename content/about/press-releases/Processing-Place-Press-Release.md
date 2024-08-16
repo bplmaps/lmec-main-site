@@ -24,7 +24,7 @@ Centered on how computer maps came to dominate our geographic imagination in the
 
 The exhibit will feature maps and other objects from the Leventhal Center’s unique collections of the history of computer cartography and digital mapping. In recent years, the Leventhal Center has become one of the leading collecting institutions dedicated to expanding the archive of twentieth century computer cartography and geographic information systems (GIS). As visitors explore early cartographic technologies, innovative uses of digital community mapping projects, and centuries-old data visualizations in *Processing Place*, they will learn how handcraft and human creativity are just as essential to computer-drawn maps as they are to maps on parchment from centuries before. 
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:37725g66f/full/,1200/0/default.jpg" class="figure-right" caption="MassGIS, Nantucket, Massachusetts : landuse in 1985 [ca.1988]" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:37725g66f/full/,1200/0/default.jpg" class="" caption="MassGIS, &#x22;Nantucket, Massachusetts : landuse in 1985&#x22; [ca.1988]" >}}
 
 Maps are just one of the most prominent examples of how computers have radically transformed our experience of space and place. As our society confronts more challenges about what it means to live in a world mediated by digital technologies—from AI to social media—*Processing Place* offers a visually rich and historically informed public conversation about how technology, society, information, and computation came together to "redraw our world." 
 
