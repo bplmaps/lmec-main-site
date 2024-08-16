@@ -106,6 +106,7 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 **2024**
 
+* [New Exhibition Examines the Rise of Computer Mapping and how Handcraft and Human Decisions are an Essential Part of the Process ](https://www.leventhalmap.org/about/press-releases/processing-place-press-release/)
 * [New Exhibition of Chinese Maps Takes a Close Look at Cosmography and Color](https://www.leventhalmap.org/about/press-releases/heaven-and-earth-press-release/)
 
 **2023**
