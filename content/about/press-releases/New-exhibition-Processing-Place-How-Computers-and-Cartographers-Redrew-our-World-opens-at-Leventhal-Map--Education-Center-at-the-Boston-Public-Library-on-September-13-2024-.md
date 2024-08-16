@@ -1,7 +1,7 @@
 ---
 draft: true
 title: >-
-  New exhibition “Processing Place: How Computers and Cartographers Redrew our
+  New Exhibition “Processing Place: How Computers and Cartographers Redrew our
   World” opens at Leventhal Map & Education Center at the Boston Public Library
   on September 13, 2024 
 backgroundImage: /default.jpg
