@@ -18,6 +18,8 @@ tags:
 > \
 > “Cartography,” the practice of creating and studying maps, has evolved greatly over the last several thousand years alongside humans. As our understanding of the world around us has shifted, so too have the ways in which we are able to represent the world we've come to know. Throughout this process, countless different techniques have been utilized across many different cultures and time periods to be able to most accurately represent what we see around us. What did these processes look like, and which have ultimately proven to stand the test of time? We asked visitors to decide for themselves during “The Making of Maps” From The Vault! 
 
+### Engraving (Woodcut Print) 
+
 ##### Ptolemy, active 2nd century, Hol, Lienhart, and Johannes Schnitzer ***[The world](https://collections.leventhalmap.org/search/commonwealth:3f462s124)*** (1482)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s13d/full/1200,/0/default.jpg" >}}
@@ -25,6 +27,8 @@ tags:
 “The World,” is based on manuscripts from the Greek geographer and mathematician Ptolmey and provides a detailed look into what the ancient Greeks believed the Earth to be. Despite the original 2nd century manuscript of Ptolemy being destroyed, copies of these manuscripts existed in the 15th century around the same time as the popularity of the printing press exploded. This led Ptolemy’s “World” to be one of the first geographical texts ever engraved and printed. 
 
 Engraving is one of the first known methods of mapmaking on a larger commercial scale, and at this time was primarily done with wooden blocks in a method known as “woodcut.” This process involved carving away material from a wooden block to leave a raised image behind. The printers would then apply ink to the raised sections of the block, avoiding the carved out recesses, and imprint the ink onto paper; similar to how a stamp works. Oftentimes, the ink used for printing would leave a raised texture on top of the paper.
+
+### Etching 
 
 ##### George Hartnell Bartlett [The public libraries of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:wd3761121) (1904)
 
@@ -34,11 +38,13 @@ This map is a 1904 pictorial demonstration of the different public libraries acr
 
 The differences between the two lie in the process of creating the plate. Instead of carving away material from a wooden block, etching relied on covering a piece of metal in an acid-resistant material, drawing the desired design on the plate, and then dipping the plate into an acid bath to eat away at the drawn-on metal not covered by the initial coating. Afterwards, the plate is inked, and the ink is placed into the recesses of the plate as opposed to on top of the raised reliefs. It is then pressed onto a piece of paper to complete the printing process.
 
-##### Kisaburō Ohara ***[A humorous diplomatic atlas of Europe and Asia](https://collections.leventhalmap.org/search/commonwealth:9s161c15w)*** (1904)
+##### Joseph Frederick Wallet Des Barres [A view of Boston](https://collections.leventhalmap.org/search/commonwealth:7h149z72h) (1779)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161c165/full/,1200/0/default.jpg" caption="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149z73s/full/1200,/0/default.jpg" caption="" >}}
 
-Mirroring much of the imagery in some of the other maps shown, this satirical map of the Russo-Japanese War (1904-1905) was directly inspired by F.W. Rose and the idea of Russia as the “black octopus.” Though one originates from England and the other from Japan, both share similarities in the monstrous portrayal of Russia and the dynamic interactions of other countries. Ohara, however, expands further into Asia to many more countries, most notably Korea and Manchuria—areas that both Japanese and Russian imperial powers wished to control. The map’s pro-Japanese sentiment can be seen in its characterization of Japan as a soldier, free from the tentacles of the octopus and boldly facing its enemies with flag and weapon in hand.
+This is a 1779 bird’s eye view of Boston’s harbor intended to be used as a visual guide for visiting captains and crews that pairs alongside nautical maps. The method utilized to create this print is referred to as “aquatint.” Most often used in tandem with etching, the aquatint method leaves the acid resistant resin on specific areas of the plate for different periods of time, allowing for the acid to eat away at certain parts of the plate more than others. Because of this process, when the plate is later inked, specific sections can hold more ink than others, thus creating darker or lighter tones. 
+
+The development of etching and later aquatint allowed for the creation of significantly more complex designs in the printing and cartographic worlds due to the complexity of lines one could now create. Though designs could now be more complex, they were also getting increasingly more difficult and expensive to make due to the new range of materials needed for the process.
 
 ##### Tsan Tai Tse and Dechen Liu [***Shíjú tú*** = Map of current situation in East Asia](https://collections.leventhalmap.org/search/commonwealth:xw42qq877) (1946–1950)
 
