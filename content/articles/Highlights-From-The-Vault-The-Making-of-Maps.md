@@ -7,8 +7,10 @@ description: >-
   Check out these highlights from the August 16th themed From The Vault: The
   Making of Maps. This event was curated by Samantha Walker, our Visitor
   Services & Exhibition Assistant. 
-image: ''
-backgroundImage: ''
+image: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s13d/full/1200,/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s13d/full/1200,/0/default.jpg
 tags:
   - ftv highlights
   - from the vault
@@ -46,6 +48,8 @@ This is a 1779 bird’s eye view of Boston’s harbor intended to be used as a v
 
 The development of etching and later aquatint allowed for the creation of significantly more complex designs in the printing and cartographic worlds due to the complexity of lines one could now create. Though designs could now be more complex, they were also getting increasingly more difficult and expensive to make due to the new range of materials needed for the process.
 
+### Hand Coloring 
+
 ##### Japan. Rikugun. Sanbō Honbu. [Ajia Tōbu Yochizu](https://collections.leventhalmap.org/search/commonwealth:9s161j212) (1875)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161j22b/full/1200,/0/default.jpg" class="" >}}
@@ -54,13 +58,13 @@ This 1875 military map of Japan was used by the government to refer to the popul
 
 In this Japanese map, a process known as “hand coloring” was utilized. Most maps before the 1800s were printed entirely in black and white, and had the option to be ‘colored’ as an upgrade. The hired “colorists” would source different pigments from across the globe, and carefully paint them onto the maps in faint washes to achieve the look their client requested. Most commonly, the borders of countries were colored for ease of use of the map later on, but many maps were lavishly decorated, making them beautifully painted art pieces in their own right.
 
-##### Eugen von Baumgarten ***[L'Entente Cordiale 1915](https://digital.library.cornell.edu/catalog/ss:19343435)*** (1915)
+##### Andreas Cellarius [Planisphaerium Ptolemaicum siue machina orbium mundi ex hypothesi Ptolemaica in plano disposita](https://collections.leventhalmap.org/search/commonwealth:x633f9294) (1661)
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/PJM_2097_01.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f930w/full/1200,/0/default.jpg" >}}
 
-In an attempt to reinforce the German propaganda aimed at mocking British expansionism, this 1915 persuasive map made by the Germans satirically critiques the Anglo-French alliance established by their 1904 Cordial Agreement. The cartographer’s decision to cast Great Britain as a spider with its webs extending all over France, North Africa, and even the United States in the background, reflects German criticism of Great Britain’s imperial ambitions as the principle cause of the war, getting nations in its web of influence to fight on its behalf. 
+This stunningly colored celestial map from 1661 brings together the theories of many famous astronomers such as Ptolemy and Copernicus about the stars, the Sun and Moon, and the different planets in our galaxy. It is a beautiful depiction of the sheer breadth of coloring that could be achieved on maps and how colring was used both to emphasize the practicality and readability of the map as well as to present the map as a piece of art. With this map, a combination of techniques was utilized to give it its distinctive color palette. The engraving plates used to print this map held some color as it was printed, then a colorist later went on to add more depth to the piece. 
 
-How does this depiction shape our understanding of the geopolitical tensions of World War I?
+Note how the color of this map is still so vibrant despite being nearly 400 years old. The artists responsible for coloring maps took great care to mix their pigments with different compounds that would not only maintain the integrity of the paper, but would also stay as vibrant and vivid as possible for as long as possible. With all the care taken to hand color maps and all the beauty it could achieve, the process was extremely expensive and few could afford pieces as intricate and colorful as these. 
 
 ##### J.R. Silva ***[Mapa Humoristico da Europa em 1953](https://digital.library.cornell.edu/catalog/ss:23168261)*** (1953)
 
