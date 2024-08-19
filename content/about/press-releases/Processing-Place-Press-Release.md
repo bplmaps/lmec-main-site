@@ -13,6 +13,8 @@ aliases:
     - /about/press-releases/Processing-Place-Press-Release
 ---
 
+<a class="btn btn-primary btn-primary-outline mb-3" href="https://s3.us-east-2.wasabisys.com/lmec-public-files/press-releases/2024-08-19-ProcessingPlacePress%20Release.pdf">View this release as a PDF</a>
+
 ### Leventhal Map & Education Center Opens New Exhibition “*Processing Place: How Computers and Cartographers Redrew our World*” on September 13, 2024
 
 #### A new, free exhibition at the Boston Public Library Examines the Rise of Computer Mapping and how Handcraft and Human Decisions are an Essential Part of the Process
