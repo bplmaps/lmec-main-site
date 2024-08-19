@@ -66,11 +66,15 @@ This stunningly colored celestial map from 1661 brings together the theories of 
 
 Note how the color of this map is still so vibrant despite being nearly 400 years old. The artists responsible for coloring maps took great care to mix their pigments with different compounds that would not only maintain the integrity of the paper, but would also stay as vibrant and vivid as possible for as long as possible. With all the care taken to hand color maps and all the beauty it could achieve, the process was extremely expensive and few could afford pieces as intricate and colorful as these. 
 
-##### J.R. Silva ***[Mapa Humoristico da Europa em 1953](https://digital.library.cornell.edu/catalog/ss:23168261)*** (1953)
+### Lithographs
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/PJM_2371_01.jpg" class="" >}}
+##### Elizabeth Shurtleff, Elizabeth L. McMillin, Helen F. McMillin [A map of the Bermuda Islands](https://collections.leventhalmap.org/search/commonwealth:3f463854q) (1930)
 
-Created in the 1950s, this rare satirical European war map is said to be “out of its time” as it dramatically portrays the Iron Curtain at the height of the Cold War where many maps of this genre were produced before 1916. With its use of caricature and humor to comment on the tense political climate, the division between the Western and Eastern worlds is made clear. The Portuguese cartographers emphasized the absurdity of the world by portraying countries with exaggerated stereotypes, leaving viewers to think about what the fears and perceptions of the time are.
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4638550/full/1200,/0/default.jpg" class="" >}}
+
+This 1930 pictorial map of the Bermuda Islands is a lavished colored tourists guide of the islands created by two female cartographers. It features a wide array of vibrantly colored cartoon figures and is jam packed with detail and artwork. This map was created through a process known as “lithography.” Several centuries after the development of etching and engraving came the lithograph, a process more similar to painting than any of the previous techniques. 
+
+When creating a lithograph, the artist draws and paints their design directly onto a stone block using an oil based medium, frequently crayon. The stone is then chemically treated and washed with water so that only the drawn on parts will absorb and hold onto ink. The stone is then inked in a similar fashion to engraving and etching, and pressed through a printer to adhere the design onto a sheet of paper. Colored lithographs were used, though not commonly as they frequently required multiple blocks and ended up being quite expensive.
 
 ##### F. Klimesch [***Was von der Entente übrig bliebe wenn sie Ernst machte mit dem Selbstbestimmungsrecht iher eigenen Völker und die Zügel losliesse!*** = What would remain of the Entente if it took seriously the 'self-determination right' of its own nations and let go of the reins!](https://digital.library.cornell.edu/catalog/ss:3293853) (1918)
 
