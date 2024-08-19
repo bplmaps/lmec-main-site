@@ -14,24 +14,25 @@ tags:
   - from the vault
 ---
 
-> **On August 16, we hosted *From The Vault: The Making of Maps. ***\
+> *On August 16, we hosted **From The Vault: The Making of Maps**.*\
 > \
 > “Cartography,” the practice of creating and studying maps, has evolved greatly over the last several thousand years alongside humans. As our understanding of the world around us has shifted, so too have the ways in which we are able to represent the world we've come to know. Throughout this process, countless different techniques have been utilized across many different cultures and time periods to be able to most accurately represent what we see around us. What did these processes look like, and which have ultimately proven to stand the test of time? We asked visitors to decide for themselves during “The Making of Maps” From The Vault! 
 
-##### Ptolemy, active 2nd century, Hol, Lienhart, and Johannes Schnitzer [The world](https://collections.leventhalmap.org/search/commonwealth:3f462s124) (1482)
+##### Ptolemy, active 2nd century, Hol, Lienhart, and Johannes Schnitzer ***[The world](https://collections.leventhalmap.org/search/commonwealth:3f462s124)*** (1482)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s13d/full/1200,/0/default.jpg" >}}
 
 “The World,” is based on manuscripts from the Greek geographer and mathematician Ptolmey and provides a detailed look into what the ancient Greeks believed the Earth to be. Despite the original 2nd century manuscript of Ptolemy being destroyed, copies of these manuscripts existed in the 15th century around the same time as the popularity of the printing press exploded. This led Ptolemy’s “World” to be one of the first geographical texts ever engraved and printed. 
 
+Engraving is one of the first known methods of mapmaking on a larger commercial scale, and at this time was primarily done with wooden blocks in a method known as “woodcut.” This process involved carving away material from a wooden block to leave a raised image behind. The printers would then apply ink to the raised sections of the block, avoiding the carved out recesses, and imprint the ink onto paper; similar to how a stamp works. Oftentimes, the ink used for printing would leave a raised texture on top of the paper.
 
-Engraving is one of the first known methods of mapmaking on a larger commercial scale, and at this time was primarily done with wooden blocks in a method known as “woodcut.” This process involved carving away material from a wooden block to leave a raised image behind. The printers would then apply ink to the raised sections of the block, avoiding the carved out recesses, and imprint the ink onto paper; similar to how a stamp works. Oftentimes, the ink used for printing would leave a raised texture on top of the paper. 
+##### George Hartnell Bartlett [The public libraries of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:wd3761121) (1904)
 
-##### Frederic W. Rose ***[Serio-comic war map for the year 1877](https://collections.leventhalmap.org/search/commonwealth:0r96fk80z)*** (1877)
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761139/full/1200,/0/default.jpg" class="" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fk817/full/,1200/0/default.jpg" class="" >}}
+This map is a 1904 pictorial demonstration of the different public libraries across the state of Massachusetts designed through a process called etching. Etching is another printing technique developed about 100 years after woodcut engraving that allowed map makers and artists to add significantly more detail into their pieces. Similarly to engraving, etching involves carving a design into a plate and then pressing that plate onto a piece of paper. 
 
-The motif of the octopus frequents propaganda beginning in the 19th century, depicting countries as grotesque tentacled beasts grasping at land. Falling under the umbrella of satirical maps, this 1887 serio-comic war map charts the political climate in Europe during the Russo-Turkish war, a conflict between the declining Ottoman Empire and the Russians, seeking to expand and regain lost territory. With tentacles encasing Crimea, encircling the Black sea, and ensnaring the Turks, this map negatively reflects Russia’s desire for expansion. By portraying the remaining countries as human, British cartographer F.W. Rose alienates Russia; viewers of the map feel disconnected from the many-armed octopus, therefore making it easier to fear and hate the Russians.
+The differences between the two lie in the process of creating the plate. Instead of carving away material from a wooden block, etching relied on covering a piece of metal in an acid-resistant material, drawing the desired design on the plate, and then dipping the plate into an acid bath to eat away at the drawn-on metal not covered by the initial coating. Afterwards, the plate is inked, and the ink is placed into the recesses of the plate as opposed to on top of the raised reliefs. It is then pressed onto a piece of paper to complete the printing process.
 
 ##### Kisaburō Ohara ***[A humorous diplomatic atlas of Europe and Asia](https://collections.leventhalmap.org/search/commonwealth:9s161c15w)*** (1904)
 
