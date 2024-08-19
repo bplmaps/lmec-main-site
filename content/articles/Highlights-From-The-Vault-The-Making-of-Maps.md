@@ -18,7 +18,7 @@ tags:
 
 > *On August 16, we hosted **From The Vault: The Making of Maps**.*\
 > \
-> “Cartography,” the practice of creating and studying maps, has evolved greatly over the last several thousand years alongside humans. As our understanding of the world around us has shifted, so too have the ways in which we are able to represent the world we've come to know. Throughout this process, countless different techniques have been utilized across many different cultures and time periods to be able to most accurately represent what we see around us. What did these processes look like, and which have ultimately proven to stand the test of time? We asked visitors to decide for themselves during “The Making of Maps” From The Vault! 
+> “Cartography,” the practice of creating and studying maps, has evolved greatly over the last several thousand years alongside humans. As our understanding of the world around us has shifted, so too have the ways in which we are able to represent the world we've come to know. Throughout this process, countless different techniques have been utilized across many different cultures and time periods to be able to most accurately represent what we see around us. What did these processes look like, and which have ultimately proven to stand the test of time? We asked visitors to decide for themselves during “The Making of Maps” *From The Vault*! 
 
 ### Engraving (Woodcut Print)
 
