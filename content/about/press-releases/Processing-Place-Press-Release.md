@@ -9,6 +9,8 @@ description: >-
   Library Exhibition Examines the Rise of Computer Mapping and how Handcraft and
   Human Decisions are an Essential Part of the Process
 menu: false
+aliases:
+    - /about/press-releases/Processing-Place-Press-Release
 ---
 
 ### Leventhal Map & Education Center Opens New Exhibition “*Processing Place: How Computers and Cartographers Redrew our World*” on September 13, 2024
