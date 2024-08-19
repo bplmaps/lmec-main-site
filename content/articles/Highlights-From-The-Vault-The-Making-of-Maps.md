@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Highlights From The Vault: The Making of Maps'
 date: 2024-08-19T04:00:00.000Z
 author: Samantha Walker
