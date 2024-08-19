@@ -76,8 +76,8 @@ This 1930 pictorial map of the Bermuda Islands is a lavished colored tourists gu
 
 When creating a lithograph, the artist draws and paints their design directly onto a stone block using an oil based medium, frequently crayon. The stone is then chemically treated and washed with water so that only the drawn on parts will absorb and hold onto ink. The stone is then inked in a similar fashion to engraving and etching, and pressed through a printer to adhere the design onto a sheet of paper. Colored lithographs were used, though not commonly as they frequently required multiple blocks and ended up being quite expensive.
 
-##### F. Klimesch [***Was von der Entente übrig bliebe wenn sie Ernst machte mit dem Selbstbestimmungsrecht iher eigenen Völker und die Zügel losliesse!*** = What would remain of the Entente if it took seriously the 'self-determination right' of its own nations and let go of the reins!](https://digital.library.cornell.edu/catalog/ss:3293853) (1918)
+##### Miguel Covarrubias [Art forms of the Pacific area](https://collections.leventhalmap.org/search/commonwealth:0r96fm08f) (1940)
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/PJM_1197_01.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm09q/full/,1200/0/default.jpg" class="" >}}
 
 In light of President Woodrow Wilson’s Fourteen Point Plan and the entrance of the United States into World War I, this 1917 German persuasive map mocks the Allied powers’ control over their colonies. The map features caricatures of the global powers, each holding reins tied to the lands they had colonized, symbolizing the tight grip they have on their reluctance to grant true self-determination to their territories. This imagery underscores the hypocrisy of the allies’ advocacy for self-determination—a principle that they are pushing onto Germany—versus their actual practices of maintaining control.
