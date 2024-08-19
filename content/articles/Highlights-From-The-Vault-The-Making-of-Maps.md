@@ -92,8 +92,8 @@ The 1900 map of the Philippines shown here was used as an informational piece by
 
 In photolithography, the same general lithographic techniques are used, though the image that would traditionally be drawn or painted onto the stone block is instead a photo transferred onto its surface. For the creation of photo relief maps, this technique was extremely useful to ensure accurate and precise information was being relayed. Photolithography was commonly used for military maps, and later became more widespread as technology advanced even further.  
 
-##### National Aeronautics and Space Administration, and Planetary Geology Program (U.S.). Shaded relief map of the Aeolis quadrangle of Mars (1984)
+##### National Aeronautics and Space Administration, and Planetary Geology Program (U.S.). [Shaded relief map of the Aeolis quadrangle of Mars](https://collections.leventhalmap.org/search/commonwealth:4m90k819m) (1984)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm09q/full/,1200/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:c821mx484/full/,1200/0/default.jpg" class="" >}}
 
 The 1940 lithograph shown here is a pictorial map of the pacific region encompassing Asia, Oceania, and the Americas that highlights the different artistic styles present in each region. It is done in a very lighthearted and cartoonish style and seeks to show off the culture of the land as opposed to just representing the land itself. This particular lithograph is known as an “offset lithograph” as the artist printed it onto another material before printing it onto its final piece of paper. This technique was used frequently so that the artist did not have to worry about drawing the initial design backwards to have it printed the correct way. Lithography as a technique was more commonly used than engraving due to ease, but as mass commercialization of the lithograph began, the quality of the maps produced with it began to decline. Despite advancements in technology since then, it is still commonly used in cartographic practice today.
