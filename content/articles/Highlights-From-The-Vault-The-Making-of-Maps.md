@@ -46,11 +46,13 @@ This is a 1779 bird’s eye view of Boston’s harbor intended to be used as a v
 
 The development of etching and later aquatint allowed for the creation of significantly more complex designs in the printing and cartographic worlds due to the complexity of lines one could now create. Though designs could now be more complex, they were also getting increasingly more difficult and expensive to make due to the new range of materials needed for the process.
 
-##### Tsan Tai Tse and Dechen Liu [***Shíjú tú*** = Map of current situation in East Asia](https://collections.leventhalmap.org/search/commonwealth:xw42qq877) (1946–1950)
+##### Japan. Rikugun. Sanbō Honbu. [Ajia Tōbu Yochizu](https://collections.leventhalmap.org/search/commonwealth:9s161j212) (1875)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:d217t652r/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161j22b/full/1200,/0/default.jpg" class="" >}}
 
-Early 1950s China was on the brink of massive reforms like the Great Leap Forward and the Cultural Revolution, and the Chinese Communist Party utilized propaganda to fuel growing nationalism and Mao Zedong’s cult of personality. Prowling predators representing outside powers roam across this map, encroaching on China’s land and illustrating the threats of capitalism and imperialism in what its title refers to as the “current situation.” The rising sun symbol of imperial Japan reaches towards a figure while the American eagle soars below and the British lion patrols along the coast, reminding all of the disgrace of the Opium Wars and China’s century of humiliation.
+This 1875 military map of Japan was used by the government to refer to the population of the major cities across the country. Similarly to other maps shown today, it was created through the etching process—this piece was etched on a copper plate. Different from the other maps shown, this map has distinctive color running along the borders of each land mass. While Ptolemy’s world map was printed in color, the application appears somewhat crude as it was printed directly onto paper from the woodcut block. 
+
+In this Japanese map, a process known as “hand coloring” was utilized. Most maps before the 1800s were printed entirely in black and white, and had the option to be ‘colored’ as an upgrade. The hired “colorists” would source different pigments from across the globe, and carefully paint them onto the maps in faint washes to achieve the look their client requested. Most commonly, the borders of countries were colored for ease of use of the map later on, but many maps were lavishly decorated, making them beautifully painted art pieces in their own right.
 
 ##### Eugen von Baumgarten ***[L'Entente Cordiale 1915](https://digital.library.cornell.edu/catalog/ss:19343435)*** (1915)
 
