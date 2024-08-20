@@ -27,7 +27,7 @@ When I started my internship at the Leventhal Center in May 2024, I was immediat
 
 Using the online-based georeferencing software [Allmaps](https://www.leventhalmap.org/projects/digital-projects/allmaps/), I worked with the rest of my cohort to georeference atlases in Taunton, Swampscott, and New Bedford (the latter of which is mostly built on a grid system!). While georeferencing these town atlases, I frequently noticed that shorelines and smaller bodies of water transformed over time. In coastal towns like Swampscott and New Bedford, the shorelines expanded significantly compared to the historical versions, whereas the Mill River in Taunton shrank in size after almost 150 years.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8910nj50s/full/pct:30/0/default.jpg" caption="Geo. H. Walker & Co. &#x22;Atlas of New Bedford city, Massachusetts.&#x22; [ca. 1881]" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8910nj50s/full/1200,/0/default.jpg" caption="Geo. H. Walker & Co. &#x22;Atlas of New Bedford city, Massachusetts.&#x22; [ca. 1881]" class="figure-right" >}}
 
 For my independent project, I researched different institutions that I thought could benefit from the using Atlascope in their work or outreach. Starting with the GIS and Urban Planning departments at my own college, I compiled information for universities and public libraries across the greater Boston area and the state of Massachusetts. I then worked with LMEC’s Development and Grants Manager, Rachel Sharer, to draft a communications sample for scholarly exchange and further connections.
 
