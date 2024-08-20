@@ -3,6 +3,9 @@ draft: true
 title: Atlascope Research from Summer 2024 Geohumanities & GIS Interns
 date: 2024-08-23T04:00:00.000Z
 author: 'Anna Zhang, Simone Tricca'
+description: >-
+  Two of the Geohumanities & GIS interns from this summer reflect on their time
+  at the LMEC and the impact of their work.
 image: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screenshot
   2024-04-26 152628.jpg
