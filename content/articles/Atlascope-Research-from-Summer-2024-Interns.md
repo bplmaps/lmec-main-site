@@ -17,11 +17,11 @@ tags:
   - interns
 ---
 
-The Leventhal Center holds an extraordinary collection of urban atlases dating between the late 19th and early 20th centuries. Our digital tool [Atlascope](https://atlascope.org) makes it easier for patrons to interact with the [georeferenced](https://www.leventhalmap.org/projects/digital-projects/georeferencing/) versions of these maps—helping users find the homes of ancestors, research the history of their neighborhoods, or expand their knowledge of a Boston long since past. This summer, the Center’s Geohumanities & GIS interns helped expand [Atlascope](https://www.atlascope.org/) by digitizing new urban atlas layers, researching geospatial datasets that could be combined with it, and writing their own interpretive Atlascope tours.
+> The Leventhal Center holds an extraordinary collection of urban atlases dating between the late 19th and early 20th centuries. Our digital tool [Atlascope](https://atlascope.org) makes it easier for patrons to interact with the [georeferenced](https://www.leventhalmap.org/projects/digital-projects/georeferencing/) versions of these maps—helping users find the homes of ancestors, research the history of their neighborhoods, or expand their knowledge of a Boston long since past. This summer, the Center’s Geohumanities & GIS interns helped expand [Atlascope](https://www.atlascope.org/) by digitizing new urban atlas layers, researching geospatial datasets that could be combined with it, and writing their own interpretive Atlascope tours.\
+> \
+> Below, **Simone Tricca** and **Anna Zhang**—two of the Geohumanities & GIS interns from this summer—reflect on their time at the LMEC and the impact of their work.
 
-Below, **Simone Tricca** and **Anna Zhang**—two of the Geohumanities & GIS interns from this summer—reflect on their time at the LMEC and the impact of their work.
-
-##### **Anna:**
+#### **Anna:**
 
 When I started my internship at the Leventhal Center in May 2024, I was immediately captivated by the vibrant historical Chinese maps on display for [Heaven & Earth](https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth/). In addition to welcoming guests to this exhibition, my internship consisted of two main projects: first, [georeferencing](https://www.leventhalmap.org/projects/digital-projects/georeferencing/) maps of Massachusetts towns from the 1900s onto their present-day counterparts for eventual ingestion into [Atlascope](https://www.atlascope.org/); and second, an independent project about geospatial librarianship that gave me valuable insights into other educational and cultural institutions in the Greater Boston area.
 
@@ -39,7 +39,7 @@ As the summer wound down, I used my remaining time to explore Atlascope’s rese
 
 Now, at the end of the summer, I can proudly say now that I know many more little details about a select few towns and cities around Boston, and that I’ve grown more comfortable working in a public setting dedicated to the advancement of knowledge on maps.
 
-##### **Simone:**
+#### **Simone:**
 
 At the beginning of my internship this summer, I was very new to the world of mapping and really excited to be exposed to new ways of thinking about space, data, and history. I began by learning the basics of georeferencing, and throughout the summer I contributed to the LMEC’s ongoing Atlascope project.
 
