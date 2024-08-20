@@ -32,7 +32,7 @@ In this process, I learned that higher education institutions in Boston—and li
 
 As the summer wound down, I used my remaining time to explore Atlascope’s research capabilities, looking for popular places that either remained extremely similar for the past century or areas that have been drastically changed by time. Places like the [historic Boston & Rhode Island railway that sits on today’s Northeastern University campus](https://www.atlascope.org), or the move of the [Museum of Fine Arts from our very own Copley](https://www.atlascope.org) to its current location in the Fenway area, reveal how—and when— the Boston of the past was transformed in the recognizable Boston of the present.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Roundhouse.png" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Roundhouse.png" caption="The round house of the Boston & Rhode Island railway that sits on today’s Northeastern University campus." >}}
 
 Now, at the end of the summer, I can proudly say now that I know many more little details about a select few towns and cities around Boston, and that I’ve grown more comfortable working in a public setting dedicated to the advancement of knowledge on maps.
 
