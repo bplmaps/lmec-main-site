@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Atlascope Research from Summer 2024 Geohumanities & GIS Interns
 date: 2024-08-23T04:00:00.000Z
 author: 'Anna Zhang, Simone Tricca'
