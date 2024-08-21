@@ -1,6 +1,6 @@
 ---
-draft: true
-title: Stories from urban atlases of Waltham
+draft: false
+title: Stories From Urban Atlases of Waltham
 date: 2024-08-26T04:00:00.000Z
 author: >-
   Lauren Farley, Ellie Flynn, Miles Goldstein, Anthony Ruiz, Max Woolf, and
