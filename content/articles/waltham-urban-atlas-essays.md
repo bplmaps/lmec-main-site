@@ -6,7 +6,8 @@ author: >-
   Lauren Farley, Ellie Flynn, Miles Goldstein, Anthony Ruiz, Max Woolf, and
   Jonathan Anjaria
 description: >-
-  Students at Brandeis University used Allmaps to research how the landscape of Waltham, MA has changed over time
+  Students at Brandeis University used Allmaps to research how the landscape of
+  Waltham, MA has changed over time
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7p88g262c/206,400,2602,1336/pct:20/0/default.jpg
 backgroundImage: >-
@@ -17,20 +18,21 @@ backgroundImage: >-
 
 ### Introducing the essays
 
-What do maps tell us about the changing city? How can you use digital tools to show how streets, neighborhoods and urban regions have changed? In the spring of 2024, students in my Brandeis University class called "Urban Worlds" asked to explore this question using a combination of Sanborn fire insurance maps, Google Maps, and site visits in Waltham, MA. With the help of [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/), LMEC's Assistant Curator of Digital & Participatory Geography, students learned how to [georeference a Sanborn map using Allmaps](https://www.leventhalmap.org/projects/digital-projects/allmaps/). That allowed them to precisely place a segment of a historical map over the contemporary map to reveal how patterns in everyday life, land use, and geography have changed. 
+What do maps tell us about the changing city? How can you use digital tools to show how streets, neighborhoods and urban regions have changed? In the spring of 2024, students in my Brandeis University class called "Urban Worlds" were asked to explore this question using a combination of Sanborn fire insurance maps, Google Maps, and site visits within Waltham, MA. With the help of [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/), LMEC's Assistant Curator of Digital & Participatory Geography, students learned how to [georeference a Sanborn map using Allmaps](https://www.leventhalmap.org/projects/digital-projects/allmaps/). That allowed them to precisely place a segment of a historical map over a contemporary map to reveal how patterns in everyday life, land use, and geography have changed.
 
 Read on to see examples of the wonderful ways students used Sanborn maps, digital tools, and careful in-person observation to document transformations in Waltham's urban geography: department store closures that reflect shifting housing patterns, changes in the religious landscape that document immigration, and the industrial history of the Brandeis campus and its surrounding Waltham neighborhoods. As you read the student essays, you can explore this historical layering (or [palimpsest](https://en.wikipedia.org/wiki/Palimpsest)) and visualize it by zooming in and out or adjusting the transparency of the maps.
 
 \- *Dr. Jonathan Anjaria, Department of Anthropology, Brandeis University*
 
-___
+***
 
 ### From Industry to Education on South Street
+
 ##### *By Lauren Farley*
 
 The city of Waltham has gone through many changes since its founding in 1884. In the mid to late 1800 and early to mid 1900s, Waltham was a [booming industrial town](https://walthammuseum.org/waltham/walthamhistory1.html), home to the {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd376339v/2238,4990,1102,573/full/0/default.jpg" bib-src="https://collections.leventhalmap.org/search/commonwealth:wd376338k">}}Waltham Watch Factory{{</popup>}}and Roberts Paper Mill (for which the [commuter rail station](https://www.mbta.com/stops/place-FR-0115) was partially named):
 
-{{< figure src="/images/blog/walthamEssays/farley_Image_01.png" caption="An account of the \"Roberts\" district and the Roberts Paper Mill, from [MACRIS](https://mhc-macris.net/details?mhcid=WLT.268)" class="figure-center" >}}
+{{\< figure src="/images/blog/walthamEssays/farley\_Image\_01.png" caption="An account of the "Roberts" district and the Roberts Paper Mill, from [MACRIS](https://mhc-macris.net/details?mhcid=WLT.268)" class="figure-center" >}}
 
 Brandeis University's founding in 1948 foreshadowed the kinds of changes that would take place within Waltham in the next 70 years---namely, changes in land use from industrial activity to educational facilities along its home of South Street.
 
@@ -43,25 +45,26 @@ The Potter Press---the large pink building shown at the center of the map above-
 
 This single map sheet documents a changing landscape of ownership. Potter Press has become the Brandeis Epstein building, which includes housing facilities as well as the Women, Gender, and Sexuality Studies department. Meanwhile, the Interlake Chemical Corporation was{{<popup img-src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd376m:g3764m:g3764wm:g038731950:03873_1950-0061/4423,2530,897,571/full/0/default.jpg" bib-src="https://www.loc.gov/resource/g3764wm.g038731950/?sp=64">}}pasted over{{</popup>}}on the Sanborn map to become a{{<popup img-src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd376m:g3764m:g3764wm:g038731950:03873_1950-0061/4641,1834,977,711/full/0/default.jpg" img-bib="https://www.loc.gov/resource/g3764wm.g038731950/?sp=64">}}"miscellaneous storage"{{</popup>}}building (today, the land is athletic fields). The surrounding infrastructure also speaks to Brandeis' influence in Waltham, as nearby parking lots and multifamily homes cater to students, faculty/staff, and those commuting into Boston, rather than to workers in Waltham's industrial facilities.
 
----
+***
 
 ### The Changing Face of Downtown Commerce in Waltham
+
 ##### *By Eleanor Flynn*
 
 Today, Waltham's Moody Street is renowned for its restaurants and food shops, but it may surprise you to learn that nearly 75 years ago, the area was known for something completely different: its department store. The georeferenced section of the Sanborn Fire Insurance Map below shows the Grover Cronin department store.
 
 <iframe src="https://viewer.allmaps.org/?url=https%3A%2F%2Fannotations.allmaps.org%2Fmaps%2F6dbdb179fd9ca032" width=100% height="500">Sanborn Fire Insurance Map from Waltham, Middlesex County, Massachusetts Image 34 (1950) (from [Library of Congress](https://www.loc.gov/item/sanborn03873_006/))</iframe>
 
-This was not a unique phenomenon to Waltham; [department stores ruled the American downtown in the early to mid-twentieth century](https://www.pennpress.org/9780812224399/from-main-street-to-mall/), providing one-stop luxury shopping experiences. However, Grover Cronin was the only department store on Moody Street that was not part of a national or regional chain, making it a local institution. Perhaps this is why it is the{{<popup img-src="/images/blog/walthamEssays/flynn_sanborn3.png" img-bib="https://www.loc.gov/item/sanborn03873_006/">}}sole department store marked by name on the Sanborn map,{{</popup>}}despite being [one of seven department stores](https://archive.org/details/walthammassachus5253unse/page/560/mode/2up) located on this stretch of Moody Street in 1952. 
+This was not a unique phenomenon to Waltham; [department stores ruled the American downtown in the early to mid-twentieth century](https://www.pennpress.org/9780812224399/from-main-street-to-mall/), providing one-stop luxury shopping experiences. However, Grover Cronin was the only department store on Moody Street that was not part of a national or regional chain, making it a local institution. Perhaps this is why it is the{{<popup img-src="/images/blog/walthamEssays/flynn_sanborn3.png" img-bib="https://www.loc.gov/item/sanborn03873_006/">}}sole department store marked by name on the Sanborn map,{{</popup>}}despite being [one of seven department stores](https://archive.org/details/walthammassachus5253unse/page/560/mode/2up) located on this stretch of Moody Street in 1952.
 
 Throughout the twentieth century, shifting cultural values and deliberate federal policies changed the face of commerce in Waltham, as seen in the pictures below. In the wake of postwar suburbanization, department stores' profits faced increasing threats from suburban shopping centers.
 
-{{< carousel >}}
-    {{< carousel-figure src="/images/blog/walthamEssays/flynn_moodycrescent1950.jpg" >}}Corner of Moody St. and Crescent Avenue, ca. 1950 (from [*Patch News*](https://patch.com/massachusetts/waltham/walthams-classy-department-store))
-{{< /carousel-figure >}}
-    {{< carousel-figure src="/images/blog/walthamEssays/flynn_moodycrescent2024.jpg" >}}Corner of Moody St. and Crescent Avenue on February 1, 2024 (photo by Eleanor Flynn)
-{{< /carousel-figure >}}
-{{</ carousel >}}
+{{\< carousel >}}
+{{\< carousel-figure src="/images/blog/walthamEssays/flynn\_moodycrescent1950.jpg" >}}Corner of Moody St. and Crescent Avenue, ca. 1950 (from *[Patch News](https://patch.com/massachusetts/waltham/walthams-classy-department-store)*)
+{{\< /carousel-figure >}}
+{{\< carousel-figure src="/images/blog/walthamEssays/flynn\_moodycrescent2024.jpg" >}}Corner of Moody St. and Crescent Avenue on February 1, 2024 (photo by Eleanor Flynn)
+{{\< /carousel-figure >}}
+{{\</ carousel >}}
 
 The economic uncertainty of the 1970s redirected consumer priorities towards the convenience and low prices of shopping malls, making glamorous department stores like Grover Cronin relics of a [bygone era](https://www.leventhalmap.org/event/author-talk-alexandra-lange-on-meet-me-by-the-fountain/). Additionally, the deregulation of the 1980s allowed for greater consolidation across the industry, [essentially destroying the regional/local department store](https://www.pennpress.org/9780812224399/from-main-street-to-mall/). These industry-wide shifts and policy changes took their toll on Moody Street; after celebrating its 100th anniversary in 1985, Grover Cronin [closed its doors in 1989](https://patch.com/massachusetts/waltham/walthams-classy-department-store).
 
@@ -71,32 +74,32 @@ After Grover Cronin closed, commerce on Moody Street went through a transitional
 
 Moody Street has changed a lot since the 1950s. While the physical buildings have been preserved, as you can see in the chart below, what was once clothing, shoe, and department stores have become restaurants and food shops with cuisines from all over the world. The changes on Moody Street are a product of larger historical processes that transformed the structure and character of American cities, revealing just how much power urban policy has in shaping our past, present, and future.
 
-> Chart comparing Moody Street businesses in 1952 to 2024, with former department stores marked in **italics* (compiled by Eleanor Flynn using a 1952 [*Waltham Directory*](https://archive.org/details/walthammassachus5253unse/page/560/mode/2up))
+> Chart comparing Moody Street businesses in 1952 to 2024, with former department stores marked in \**italics* (compiled by Eleanor Flynn using a 1952 *[Waltham Directory](https://archive.org/details/walthammassachus5253unse/page/560/mode/2up)*)
 
+| Moody Street # | 1952                                     | 2024                             |
+| :------------- | :--------------------------------------- | :------------------------------- |
+| 223            | \**Grover Cronin Department Store*       | Cronin Landing Apartments        |
+| 240            | \**Sears, Roebuck & Co Dept. Store*      | Gustazo Cuban Kitchen and Bar    |
+| 246            | Vacant                                   | Kung Fu Tea                      |
+| 254            | \**J.C. Penney Dept. Store*              | Brewer's Tap and Table           |
+| 265            | Liggett Drug Co                          | In a Pickle   Restaurant         |
+| 270            | Harry's Shoe Store                       | Raj Collections                  |
+| 286            | Riseburg's   Clothing                    | Ponzu Izakaya   Waltham          |
+| 289            | \**Parke Snow Inc. Department Store*     | Paris Eye Care / Art Gallery     |
+| 299            | \**F.W. Woolworth Co.*                   | Family Dollar                    |
+| 313            | Bell Hosiery Shop                        | Waltham Islamic Society          |
+| 315            | \**Lincoln Stores Inc. Department Store* | Waltham India Market             |
+| 326            | \**Gilchrist Co. Dept. Stores*           | Global Thrift / Bistro 781       |
+| 329            | Spencer Shoe   Store                     | Bonchon Waltham   (Asian fusion) |
+| 331            | Allen Knitwear Store                     | Angel Tea (bubble tea)           |
+| 361            | Vanity Shop   Women's Clothes            | Vinotta   (Italian restaurant)   |
+| 365            | Edson Shoes                              | Gourmet Pottery                  |
+| 367            | Waltham Camera   Shop                    | Lizzy's   Homemade Ice Cream     |
 
-| Moody Street # | 1952                                    | 2024                             |
-| :------------- | :-------------------------------------- | :------------------------------- |
-| 223            | **Grover Cronin Department Store*       | Cronin Landing Apartments        |
-| 240            | **Sears, Roebuck & Co Dept. Store*      | Gustazo Cuban Kitchen and Bar    |
-| 246            | Vacant                                  | Kung Fu Tea                      |
-| 254            | **J.C. Penney Dept. Store*              | Brewer's Tap and Table           |
-| 265            | Liggett Drug Co                         | In a Pickle   Restaurant         |
-| 270            | Harry's Shoe Store                      | Raj Collections                  |
-| 286            | Riseburg's   Clothing                   | Ponzu Izakaya   Waltham          |
-| 289            | **Parke Snow Inc. Department Store*     | Paris Eye Care / Art Gallery     |
-| 299            | **F.W. Woolworth Co.*                   | Family Dollar                    |
-| 313            | Bell Hosiery Shop                       | Waltham Islamic Society          |
-| 315            | **Lincoln Stores Inc. Department Store* | Waltham India Market             |
-| 326            | **Gilchrist Co. Dept. Stores*           | Global Thrift / Bistro 781       |
-| 329            | Spencer Shoe   Store                    | Bonchon Waltham   (Asian fusion) |
-| 331            | Allen Knitwear Store                    | Angel Tea (bubble tea)           |
-| 361            | Vanity Shop   Women's Clothes           | Vinotta   (Italian restaurant)   |
-| 365            | Edson Shoes                             | Gourmet Pottery                  |
-| 367            | Waltham Camera   Shop                   | Lizzy's   Homemade Ice Cream     |
-
-___
+***
 
 ### The Ballad of Whitney Avenue
+
 ##### *By Miles Goldstein*
 
 Tucked through an alleyway off of Waltham, Massachusetts' commercial district, Moody Street, is the Whitney Avenue Municipal Parking Lot. In the 1950s, four or five homes and a modest plumbing business called Whitney Avenue home. Now, that's all been torn down and paved over to become a parking lot and through street.
@@ -105,12 +108,12 @@ Tucked through an alleyway off of Waltham, Massachusetts' commercial district, M
 
 While displacing people from their homes in order to build a parking lot a generation later may feel ethically dubious, it happens all the time. To answer the question of how and why, we can return to "urban renewal," a series of efforts in the mid-twentieth century to modernize American cities and eliminate so-called blight. In 1955, as part of their urban renewal program, Waltham introduced a master plan to eliminate "blight" and modernize the city. The city's communication campaign, "Waltham Looks Ahead," shared a new vision for Waltham's commercial district that included stores for travelers far and wide with "convenient off-street parking" in lots built on residential land, like on Whitney Avenue. But when the priority for the land became attracting people from outside the city and maximizing profits, the needs of the people on the land---like those living in Whitney Avenue---fell by the wayside.
 
-{{< carousel >}}
-    {{< carousel-figure src="/images/blog/walthamEssays/goldsteinIMAGE04.jpg" >}}Selections from *Waltham Looks Ahead*, from Waltham Public Library
-{{< /carousel-figure >}}
-    {{< carousel-figure src="/images/blog/walthamEssays/goldsteinIMAGE05.jpg" >}}Selections from *Waltham Looks Ahead*, from Waltham Public Library
-{{< /carousel-figure >}}
-{{</ carousel >}}
+{{\< carousel >}}
+{{\< carousel-figure src="/images/blog/walthamEssays/goldsteinIMAGE04.jpg" >}}Selections from *Waltham Looks Ahead*, from Waltham Public Library
+{{\< /carousel-figure >}}
+{{\< carousel-figure src="/images/blog/walthamEssays/goldsteinIMAGE05.jpg" >}}Selections from *Waltham Looks Ahead*, from Waltham Public Library
+{{\< /carousel-figure >}}
+{{\</ carousel >}}
 
 Just a year before Waltham published its master plan, the Supreme Court ruled in *[Berman v. Parker](https://www.oyez.org/cases/1940-1955/348us26)* that cities and states could seize land they deemed blighted via eminent domain, so long as it served the "public good." They placed the power to determine public good in the hands of cities and states, provided they could furnish a development plan, like Waltham's 1955 master plan. Empowered by *Berman v. Parker*, the city could seize and demolish private property for the public good---which, in this case, it had interpreted as building parking lots around Moody Street.
 
@@ -118,21 +121,22 @@ Just a year before Waltham published its master plan, the Supreme Court ruled in
 
 Traffic and congestion remain a problem along Moody Street to this day, and street parking is still common---but on some nights in the summer, the city of Waltham closes off the streets to cars and invites pedestrians to eat, play, and socialize freely. During these events, Moody Street comes alive with sounds, smells, and people, enjoying what is usually the congested heart of Waltham's commercial district. The life and vibrancy of a city that embraces pedestrians carries with it a certain indescribable magic. Perhaps, then, looking at maps with a critical eye can teach us to safeguard what we have against calls that it must be renewed.
 
-___
+***
 
 ### A Lost Commuter Rail
+
 ##### *By Max Woolf*
 
 Greater Boston's Commuter Rail is a staple of the MBTA's transportation infrastructure. It is the nation's 5th largest commuter rail system, moving 19 million riders yearly. However, today's system is not at its maximum capacity. The network has expanded and contracted since its inception in the 1970s, leaving ghost lines.
 
-{{< carousel >}}
-    {{< carousel-figure src="/images/blog/walthamEssays/woolfImage01.png" >}}A ghost line of the Central Massachusetts Railroad (from [Allmaps](https://viewer.allmaps.org/?url=https%3A%2F%2Fannotations.allmaps.org%2Fimages%2Fd2c34f325a697ea1))
-{{< /carousel-figure >}}
-    {{< carousel-figure src="/images/blog/walthamEssays/woolfImage03.jpg" >}}The bike path that now sits on sections of the Central Massachusetts Railroad (photo by Max Woolf)
-{{< /carousel-figure >}}
-{{</ carousel >}}
+{{\< carousel >}}
+{{\< carousel-figure src="/images/blog/walthamEssays/woolfImage01.png" >}}A ghost line of the Central Massachusetts Railroad (from [Allmaps](https://viewer.allmaps.org))
+{{\< /carousel-figure >}}
+{{\< carousel-figure src="/images/blog/walthamEssays/woolfImage03.jpg" >}}The bike path that now sits on sections of the Central Massachusetts Railroad (photo by Max Woolf)
+{{\< /carousel-figure >}}
+{{\</ carousel >}}
 
-One of these lines, the Central Massachusetts Railroad (CMR), can be discovered by looking at Sanborn maps. Insurance companies created Sanborn maps to assess fire risk during the nineteenth and twentieth centuries, but their meticulous detail now helps us look into the past and see what has changed. [This Sanborn map from 1930](https://viewer.allmaps.org/?url=https%3A%2F%2Fannotations.allmaps.org%2Fimages%2Fd2c34f325a697ea1), georeferenced using Allmaps, shows an old CMR station overlaid onto a modern-day map of the suburb of Waltham. Notice the Waltham Highlands Station in the center; you can also see the old railroad track which once served a whole portion of the state but is no longer there.
+One of these lines, the Central Massachusetts Railroad (CMR), can be discovered by looking at Sanborn maps. Insurance companies created Sanborn maps to assess fire risk during the nineteenth and twentieth centuries, but their meticulous detail now helps us look into the past and see what has changed. [This Sanborn map from 1930](https://viewer.allmaps.org), georeferenced using Allmaps, shows an old CMR station overlaid onto a modern-day map of the suburb of Waltham. Notice the Waltham Highlands Station in the center; you can also see the old railroad track which once served a whole portion of the state but is no longer there.
 
 [The Railroad's creation](http://www.westonhistory.org/data/uploads/bulletins/2018-Spring-Bulletin.pdf) was triggered by frustration from suburbanites who lacked transportation to the city. Initially, the line went as far as western Massachusetts, but inadequate use caused it to serve just four towns west of Waltham.
 
@@ -140,13 +144,14 @@ Eventually, the shrinking service was [incorporated into the MBTA's Commuter Rai
 
 {{< figure src="/images/blog/walthamEssays/woolfImage04.jpg" caption="Waltham Highlands Station today (photo by Max Woolf)" class="figure-left" >}}
 
-By 1970, the line was set to close. One last push by suburban residents clinging on to hope that it could be salvaged managed to delay the closure. However, on November 2, 1971, the CMR sent its last commuter train and closed for good. Fifty years later, the remnants of the line remain. The once bustling {{< popup img-src="/images/blog/walthamEssays/woolfImage02.jpg" bib-src="http://photos.nerail.org/s/?p=86483">}}Waltham Highlands station{{</popup>}}is now an insurance agency, and the railroad is now a bike path.
+By 1970, the line was set to close. One last push by suburban residents clinging on to hope that it could be salvaged managed to delay the closure. However, on November 2, 1971, the CMR sent its last commuter train and closed for good. Fifty years later, the remnants of the line remain. The once bustling {{\< popup img-src="/images/blog/walthamEssays/woolfImage02.jpg" bib-src="[http://photos.nerail.org/s/?p=86483">}}Waltham](http://photos.nerail.org/s/?p=86483%22%3E}}Waltham) Highlands station{{</popup>}}is now an insurance agency, and the railroad is now a bike path.
 
-This commuter rail line's failure is indicative of America's shift to car-centric transport. Throughout the latter half of the twentieth century, substantial federal highway stimulus packages paved the way for infrastructure such as the [Mass Pike](https://en.wikipedia.org/wiki/Massachusetts_Turnpike), which diverted much of the western suburban traffic away from rail. Today, residents of Waltham Highlands must use a car to travel directly into Boston because they are served by only one bus stop that drops them at Waltham Commons. In recent years, public transit investment has become a more salient issue and some advocates have pushed for [the expansion of commuter rail](https://transitmatters.org/regional-rail). If the past is any indication, large-scale civic engagement like the kind that led to the creation and delayed closure of the CMR will be necessary to move any plans forward.
+This commuter rail line's failure is indicative of America's shift to car-centric transport. Throughout the latter half of the twentieth century, substantial federal highway stimulus packages paved the way for infrastructure like the [Mass Pike](https://en.wikipedia.org/wiki/Massachusetts_Turnpike), which diverted much of the western suburban traffic away from rail. Today, residents of Waltham Highlands must use a car to travel directly into Boston because they are served by only one bus stop that drops them at Waltham Commons. In recent years, public transit investment has become a more salient issue and some advocates have pushed for [the expansion of commuter rail](https://transitmatters.org/regional-rail). If the past is any indication, large-scale civic engagement like the kind that led to the creation and delayed closure of the CMR will be necessary to move any plans forward.
 
-___
+***
 
 ### Immigration and Landscape on Moody Street
+
 ##### *By Anthony Ruiz*
 
 *Aguas, no te caigas*---a line that confirmed one was in Waltham, Massachusetts. Throughout the city, subtle details demonstrate how immigrant populations are reflected in the landscape and language, such as the use of Guatemalan slang like *aguas*, which means "be careful."
@@ -166,5 +171,4 @@ More recently, Waltham has experienced an uptick of Guatemalan and Ugandan immig
 
 Considering that Beth Eden and Immanuel United have both existed for over a century---and have served to accommodate changing city demographics over the years---their presence attests to the continuities of the Protestant influence in Waltham. We can also see the influence of Guatemalan immigrants in other parts of the built environment, such as how parking signage around the city accentuates{{<popup img-src="/images/blog/walthamEssays/ruizImage4.jpg">}}Spanish language translation relative to English.{{</popup>}} Today, a stroll through Waltham bears out Jane Jacobs' notion that [cities should be busy and full of life](https://www.vox.com/2016/5/4/11583342/jane-jacobs-100th-birthday).
 
----
-
+***
