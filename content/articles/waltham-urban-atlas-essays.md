@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Stories From Urban Atlases of Waltham
+title: Stories from urban atlases of Waltham
 date: 2024-08-26T04:00:00.000Z
 author: >-
   Lauren Farley, Ellie Flynn, Miles Goldstein, Anthony Ruiz, Max Woolf, and
@@ -26,13 +26,13 @@ Read on to see examples of the wonderful ways students used Sanborn maps, digita
 
 ***
 
-### From Industry to Education on South Street
+### From industry to education on South Street
 
 ##### *By Lauren Farley*
 
 The city of Waltham has gone through many changes since its founding in 1884. In the mid to late 1800 and early to mid 1900s, Waltham was a [booming industrial town](https://walthammuseum.org/waltham/walthamhistory1.html), home to the {{<popup img-src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd376339v/2238,4990,1102,573/full/0/default.jpg" bib-src="https://collections.leventhalmap.org/search/commonwealth:wd376338k">}}Waltham Watch Factory{{</popup>}}and Roberts Paper Mill (for which the [commuter rail station](https://www.mbta.com/stops/place-FR-0115) was partially named):
 
-{{\< figure src="/images/blog/walthamEssays/farley\_Image\_01.png" caption="An account of the "Roberts" district and the Roberts Paper Mill, from [MACRIS](https://mhc-macris.net/details?mhcid=WLT.268)" class="figure-center" >}}
+{{< figure src="/images/blog/walthamEssays/farley_Image_01.png" caption="An account of the \"Roberts\" district and the Roberts Paper Mill, from [MACRIS](https://mhc-macris.net/details?mhcid=WLT.268)" class="figure-center" >}}
 
 Brandeis University's founding in 1948 foreshadowed the kinds of changes that would take place within Waltham in the next 70 years---namely, changes in land use from industrial activity to educational facilities along its home of South Street.
 
@@ -47,7 +47,7 @@ This single map sheet documents a changing landscape of ownership. Potter Press 
 
 ***
 
-### The Changing Face of Downtown Commerce in Waltham
+### The changing face of downtown commerce in Waltham
 
 ##### *By Eleanor Flynn*
 
@@ -59,12 +59,12 @@ This was not a unique phenomenon to Waltham; [department stores ruled the Americ
 
 Throughout the twentieth century, shifting cultural values and deliberate federal policies changed the face of commerce in Waltham, as seen in the pictures below. In the wake of postwar suburbanization, department stores' profits faced increasing threats from suburban shopping centers.
 
-{{\< carousel >}}
-{{\< carousel-figure src="/images/blog/walthamEssays/flynn\_moodycrescent1950.jpg" >}}Corner of Moody St. and Crescent Avenue, ca. 1950 (from *[Patch News](https://patch.com/massachusetts/waltham/walthams-classy-department-store)*)
-{{\< /carousel-figure >}}
-{{\< carousel-figure src="/images/blog/walthamEssays/flynn\_moodycrescent2024.jpg" >}}Corner of Moody St. and Crescent Avenue on February 1, 2024 (photo by Eleanor Flynn)
-{{\< /carousel-figure >}}
-{{\</ carousel >}}
+{{< carousel >}}
+{{< carousel-figure src="/images/blog/walthamEssays/flynn\_moodycrescent1950.jpg" >}}Corner of Moody St. and Crescent Avenue, ca. 1950 (from *[Patch News](https://patch.com/massachusetts/waltham/walthams-classy-department-store)*)
+{{< /carousel-figure >}}
+{{< carousel-figure src="/images/blog/walthamEssays/flynn\_moodycrescent2024.jpg" >}}Corner of Moody St. and Crescent Avenue on February 1, 2024 (photo by Eleanor Flynn)
+{{< /carousel-figure >}}
+{{</ carousel >}}
 
 The economic uncertainty of the 1970s redirected consumer priorities towards the convenience and low prices of shopping malls, making glamorous department stores like Grover Cronin relics of a [bygone era](https://www.leventhalmap.org/event/author-talk-alexandra-lange-on-meet-me-by-the-fountain/). Additionally, the deregulation of the 1980s allowed for greater consolidation across the industry, [essentially destroying the regional/local department store](https://www.pennpress.org/9780812224399/from-main-street-to-mall/). These industry-wide shifts and policy changes took their toll on Moody Street; after celebrating its 100th anniversary in 1985, Grover Cronin [closed its doors in 1989](https://patch.com/massachusetts/waltham/walthams-classy-department-store).
 
@@ -98,7 +98,7 @@ Moody Street has changed a lot since the 1950s. While the physical buildings hav
 
 ***
 
-### The Ballad of Whitney Avenue
+### The ballad of Whitney Avenue
 
 ##### *By Miles Goldstein*
 
@@ -108,12 +108,12 @@ Tucked through an alleyway off of Waltham, Massachusetts' commercial district, M
 
 While displacing people from their homes in order to build a parking lot a generation later may feel ethically dubious, it happens all the time. To answer the question of how and why, we can return to "urban renewal," a series of efforts in the mid-twentieth century to modernize American cities and eliminate so-called blight. In 1955, as part of their urban renewal program, Waltham introduced a master plan to eliminate "blight" and modernize the city. The city's communication campaign, "Waltham Looks Ahead," shared a new vision for Waltham's commercial district that included stores for travelers far and wide with "convenient off-street parking" in lots built on residential land, like on Whitney Avenue. But when the priority for the land became attracting people from outside the city and maximizing profits, the needs of the people on the land---like those living in Whitney Avenue---fell by the wayside.
 
-{{\< carousel >}}
-{{\< carousel-figure src="/images/blog/walthamEssays/goldsteinIMAGE04.jpg" >}}Selections from *Waltham Looks Ahead*, from Waltham Public Library
-{{\< /carousel-figure >}}
-{{\< carousel-figure src="/images/blog/walthamEssays/goldsteinIMAGE05.jpg" >}}Selections from *Waltham Looks Ahead*, from Waltham Public Library
-{{\< /carousel-figure >}}
-{{\</ carousel >}}
+{{< carousel >}}
+{{< carousel-figure src="/images/blog/walthamEssays/goldsteinIMAGE04.jpg" >}}Selections from *Waltham Looks Ahead*, from Waltham Public Library
+{{< /carousel-figure >}}
+{{< carousel-figure src="/images/blog/walthamEssays/goldsteinIMAGE05.jpg" >}}Selections from *Waltham Looks Ahead*, from Waltham Public Library
+{{< /carousel-figure >}}
+{{</ carousel >}}
 
 Just a year before Waltham published its master plan, the Supreme Court ruled in *[Berman v. Parker](https://www.oyez.org/cases/1940-1955/348us26)* that cities and states could seize land they deemed blighted via eminent domain, so long as it served the "public good." They placed the power to determine public good in the hands of cities and states, provided they could furnish a development plan, like Waltham's 1955 master plan. Empowered by *Berman v. Parker*, the city could seize and demolish private property for the public good---which, in this case, it had interpreted as building parking lots around Moody Street.
 
@@ -123,18 +123,18 @@ Traffic and congestion remain a problem along Moody Street to this day, and stre
 
 ***
 
-### A Lost Commuter Rail
+### A lost commuter rail
 
 ##### *By Max Woolf*
 
 Greater Boston's Commuter Rail is a staple of the MBTA's transportation infrastructure. It is the nation's 5th largest commuter rail system, moving 19 million riders yearly. However, today's system is not at its maximum capacity. The network has expanded and contracted since its inception in the 1970s, leaving ghost lines.
 
-{{\< carousel >}}
-{{\< carousel-figure src="/images/blog/walthamEssays/woolfImage01.png" >}}A ghost line of the Central Massachusetts Railroad (from [Allmaps](https://viewer.allmaps.org))
-{{\< /carousel-figure >}}
-{{\< carousel-figure src="/images/blog/walthamEssays/woolfImage03.jpg" >}}The bike path that now sits on sections of the Central Massachusetts Railroad (photo by Max Woolf)
-{{\< /carousel-figure >}}
-{{\</ carousel >}}
+{{< carousel >}}
+{{< carousel-figure src="/images/blog/walthamEssays/woolfImage01.png" >}}A ghost line of the Central Massachusetts Railroad (from [Allmaps](https://viewer.allmaps.org))
+{{< /carousel-figure >}}
+{{< carousel-figure src="/images/blog/walthamEssays/woolfImage03.jpg" >}}The bike path that now sits on sections of the Central Massachusetts Railroad (photo by Max Woolf)
+{{< /carousel-figure >}}
+{{</ carousel >}}
 
 One of these lines, the Central Massachusetts Railroad (CMR), can be discovered by looking at Sanborn maps. Insurance companies created Sanborn maps to assess fire risk during the nineteenth and twentieth centuries, but their meticulous detail now helps us look into the past and see what has changed. [This Sanborn map from 1930](https://viewer.allmaps.org), georeferenced using Allmaps, shows an old CMR station overlaid onto a modern-day map of the suburb of Waltham. Notice the Waltham Highlands Station in the center; you can also see the old railroad track which once served a whole portion of the state but is no longer there.
 
@@ -144,13 +144,13 @@ Eventually, the shrinking service was [incorporated into the MBTA's Commuter Rai
 
 {{< figure src="/images/blog/walthamEssays/woolfImage04.jpg" caption="Waltham Highlands Station today (photo by Max Woolf)" class="figure-left" >}}
 
-By 1970, the line was set to close. One last push by suburban residents clinging on to hope that it could be salvaged managed to delay the closure. However, on November 2, 1971, the CMR sent its last commuter train and closed for good. Fifty years later, the remnants of the line remain. The once bustling {{\< popup img-src="/images/blog/walthamEssays/woolfImage02.jpg" bib-src="[http://photos.nerail.org/s/?p=86483">}}Waltham](http://photos.nerail.org/s/?p=86483%22%3E}}Waltham) Highlands station{{</popup>}}is now an insurance agency, and the railroad is now a bike path.
+By 1970, the line was set to close. One last push by suburban residents clinging on to hope that it could be salvaged managed to delay the closure. However, on November 2, 1971, the CMR sent its last commuter train and closed for good. Fifty years later, the remnants of the line remain. The once bustling {{< popup img-src="/images/blog/walthamEssays/woolfImage02.jpg" bib-src="http://photos.nerail.org/s/?p=86483">}}Waltham Highlands station{{</popup>}}is now an insurance agency, and the railroad is now a bike path.
 
 This commuter rail line's failure is indicative of America's shift to car-centric transport. Throughout the latter half of the twentieth century, substantial federal highway stimulus packages paved the way for infrastructure like the [Mass Pike](https://en.wikipedia.org/wiki/Massachusetts_Turnpike), which diverted much of the western suburban traffic away from rail. Today, residents of Waltham Highlands must use a car to travel directly into Boston because they are served by only one bus stop that drops them at Waltham Commons. In recent years, public transit investment has become a more salient issue and some advocates have pushed for [the expansion of commuter rail](https://transitmatters.org/regional-rail). If the past is any indication, large-scale civic engagement like the kind that led to the creation and delayed closure of the CMR will be necessary to move any plans forward.
 
 ***
 
-### Immigration and Landscape on Moody Street
+### Immigration and landscape on Moody Street
 
 ##### *By Anthony Ruiz*
 
