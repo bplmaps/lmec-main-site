@@ -7,7 +7,7 @@ author: >-
   Jonathan Anjaria
 description: >-
   Students at Brandeis University used Allmaps to research how the landscape of
-  Waltham, MA has changed over time
+  Waltham, MA has changed over time.
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7p88g262c/206,400,2602,1336/pct:20/0/default.jpg
 backgroundImage: >-
