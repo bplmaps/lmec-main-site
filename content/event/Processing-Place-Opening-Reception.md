@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Processing Place Opening Reception
+title: 'Opening Reception: Processing Place '
 date: 2024-09-17T22:00:00.000Z
 publishDate: 2024-08-30T04:00:00.000Z
 image: >-
@@ -15,7 +15,7 @@ tags:
   - Processing Place
 ---
 
-Please join us for a special reception as we open the Leventhal Map & Education Center's newest exhibition Processing Place: How Computers and Cartographers Redrew our World.
+Please join us for a special reception as we open the Leventhal Map & Education Center's newest exhibition *Processing Place: How Computers and Cartographers Redrew our World.*
 
 The opening event will feature gallery tours, a discussion with curators Ian Spangler and Emily Bowe, and light refreshments.
 
