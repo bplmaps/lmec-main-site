@@ -17,7 +17,7 @@ During the same time period that printers in China were producing the outstandin
 
 This *From the Vault *features examples from the Center's survey collections that demonstrate how blueprints helped influence the changing 19th-century American landscape, from the fill of Boston's Back Bay to a "celestial map" of Canton, Massachusetts to a railroad project in Texas. Come survey the blueprints yourself! 
 
-This drop-in showing will be hosted **Thursday**, August 29 from 2-4 pm in the Learning Center with a staff member from the Leventhal Center available to answer questions. This collections showing event was specially curated by longtime LMEC volunteer, **Karen Vagts**.
+This drop-in showing will be hosted **Thursday, August 29** from 2-4 pm in the Learning Center with a staff member from the Leventhal Center available to answer questions. This collections showing event was specially curated by longtime LMEC volunteer, **Karen Vagts**.
 
 No advance registration is required.
 
