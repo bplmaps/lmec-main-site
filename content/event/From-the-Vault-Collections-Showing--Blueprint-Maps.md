@@ -15,7 +15,7 @@ tags:
 
 During the same time period that printers in China were producing the outstanding "blue maps" of heaven and earth currently on display in our [gallery](https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth/) using a technique involving the pigment Prussian Blue, surveyors and other map makers in the West were producing their own "blue maps." Based on the blueprint process introduced in the 1840s, these white-on-blue drawings could be produced rapidly and inexpensively while ensuring the longevity and accuracy of a reproduction, which greatly impacted the distribution of visual information.
 
-This From the Vault features examples from the Center's survey collections that demonstrate how blueprints helped influence the changing 19th-century American landscape, from the fill of Boston's Back Bay to a "celestial map" of Canton, Massachusetts to a railroad project in Texas. Come survey the blueprints yourself! 
+This *From the Vault *features examples from the Center's survey collections that demonstrate how blueprints helped influence the changing 19th-century American landscape, from the fill of Boston's Back Bay to a "celestial map" of Canton, Massachusetts to a railroad project in Texas. Come survey the blueprints yourself! 
 
 This drop-in showing will be hosted **Thursday**, August 29 from 2-4 pm in the Learning Center with a staff member from the Leventhal Center available to answer questions. This collections showing event was specially curated by our longtime LMEC volunteer, **Karen Vagts**.
 
