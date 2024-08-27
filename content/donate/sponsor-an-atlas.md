@@ -38,7 +38,7 @@ We began Atlascope by starting with atlases of historic Boston and its surroundi
 
 **Are there atlases of other Massachusetts towns you would like to see added to Atlascope?** The Leventhal Center is in the process of digitizing and geotransforming historic atlases from towns and counties across the state of Massachusetts. **We are currently fundraising for the base amount of labor it takes to** **ingest each physical atlas into Atlascope for usage and discovery.** If you would like to help support or be a part of this project, please email **info\@leventhalmap.org, **and a member our staff will be in touch with you.
 
-**Current towns and counties we have atlases for include:**
+**Current cities and towns we have atlases for include:**
 
 ![](/uploads/2023-04-11/screenshot-2023-04-11-103419.jpg)
 
