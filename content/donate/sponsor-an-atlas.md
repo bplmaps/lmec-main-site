@@ -36,7 +36,7 @@ Finally, Boston Public Library users and Leventhal Map & Education Center patron
 
 We began Atlascope by starting with atlases of historic Boston and its surrounding areas. However, these atlases exist in towns across the state, and **our goal is to expand Atlascope to cover even more of Massachusetts**. It can take up to 60 hours of skilled staff and intern labor to transform a single atlas from printed pages into a modern, readable web-layer, a time-consuming process.
 
-**Are there atlases of other Massachusetts towns you would like to see added to Atlascope?** The Leventhal Center is in the process of digitizing and geotransforming historic atlases from towns and counties across the state of Massachusetts. **We are currently fundraising for the base amount of labor it takes to** **ingest each physical atlas into Atlascope for usage and discovery.** If you would like to help support or be a part of this project, please email **info\@leventhalmap.org, **and a member our staff will be in touch with you.
+**Are there atlases of other Massachusetts towns you would like to see added to Atlascope?** The Leventhal Center is in the process of digitizing and geotransforming historic atlases from towns and counties across the state of Massachusetts. **We are currently fundraising for the base amount of labor it takes to** **ingest each physical atlas into Atlascope for usage and discovery.** If you would like to help support or be a part of this project, please email [info@leventhalmap.org](mailto:info@leventhalmap.org),and a member our staff will be in touch with you.
 
 **Current cities and towns we have atlases for include:**
 
