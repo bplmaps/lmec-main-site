@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Opening Reception: Processing Place '
 date: 2024-09-17T22:00:00.000Z
 publishDate: 2024-08-30T04:00:00.000Z
