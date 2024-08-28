@@ -60,9 +60,9 @@ This was not a unique phenomenon to Waltham; [department stores ruled the Americ
 Throughout the twentieth century, shifting cultural values and deliberate federal policies changed the face of commerce in Waltham, as seen in the pictures below. In the wake of postwar suburbanization, department stores' profits faced increasing threats from suburban shopping centers.
 
 {{< carousel >}}
-{{< carousel-figure src="/images/blog/walthamEssays/flynn\_moodycrescent1950.jpg" >}}Corner of Moody St. and Crescent Avenue, ca. 1950 (from *[Patch News](https://patch.com/massachusetts/waltham/walthams-classy-department-store)*)
+{{< carousel-figure src="/images/blog/walthamEssays/flynn_moodycrescent1950.jpg" >}}Corner of Moody St. and Crescent Avenue, ca. 1950 (from *[Patch News](https://patch.com/massachusetts/waltham/walthams-classy-department-store)*)
 {{< /carousel-figure >}}
-{{< carousel-figure src="/images/blog/walthamEssays/flynn\_moodycrescent2024.jpg" >}}Corner of Moody St. and Crescent Avenue on February 1, 2024 (photo by Eleanor Flynn)
+{{< carousel-figure src="/images/blog/walthamEssays/flynn_moodycrescent2024.jpg" >}}Corner of Moody St. and Crescent Avenue on February 1, 2024 (photo by Eleanor Flynn)
 {{< /carousel-figure >}}
 {{</ carousel >}}
 
