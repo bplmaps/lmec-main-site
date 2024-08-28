@@ -26,8 +26,8 @@ Please visit our [YouTube Channel](https://www.youtube.com/c/LeventhalMapEducati
 
 ### Atlascope credits
 
-{{< figure src="https://atlascope.leventhalmap.org/clir-logo.bc74237c.png" class="figure-left" >}}
-{{< figure src="https://atlascope.leventhalmap.org/associates-logo.b8277105.png"  class="figure-right" >}}
+{{\< figure src="[https://atlascope.leventhalmap.org/clir-logo.bc74237c.png](https://atlascope.leventhalmap.org/clir-logo.bc74237c.png)" class="figure-left" >}}
+{{\< figure src="[https://atlascope.leventhalmap.org/associates-logo.b8277105.png](https://atlascope.leventhalmap.org/associates-logo.b8277105.png)"  class="figure-right" >}}
 
 Atlascope was developed by the team at the Leventhal Map & Education Center at the Boston Public Library. Primary design and development of the Atlascope app was conducted by Garrett Dash Nelson. Belle Lipton oversaw the first phase of atlas digitization and transformation for Atlascope v1.0.
 
@@ -45,6 +45,7 @@ New towns across Massachusetts are being added to Atlascope as of Spring 2023. W
 * **[FRRACS](https://www.nocompressor.com/)**
 * Alex C. & support from individual donors from Weymouth, Braintree, and Quincy
 * **[Old Colony History Museum](https://www.oldcolonyhistorymuseum.org/), Taunton**
+* **Attleboro Historic Preservation Society**
 
 ### More information
 
