@@ -57,6 +57,8 @@ slider:
 cta:
   enable: true
   announcements:
+    - badge: Holiday closure
+      text: We will be closed on September 1 and 2 for Labor Day
     - badge: 'We’re Hiring: Administrative Assistant'
       text: >-
         Our team is looking to fill a new fully-remote, part-time role of
