@@ -57,16 +57,13 @@ slider:
 cta:
   enable: true
   announcements:
+    - badge: Holiday closure
+      text: We will be closed on September 1 and 2 for Labor Day
     - badge: 'We’re Hiring: Administrative Assistant'
       text: >-
         Our team is looking to fill a new fully-remote, part-time role of
         Administrative Assistant. Apply by September 19
       link: 'https://www.leventhalmap.org/about/jobs/administrative-assistant/'
-    - badge: Request For Proposals
-      text: >-
-        The Leventhal Center is seeking a planning facilitator; submit a
-        response by August 29
-      link: 'https://www.leventhalmap.org/planning-rfp/'
 audiences:
   enable: true
   audienceGroups:
