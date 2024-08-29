@@ -8,12 +8,10 @@ author: >-
 description: >-
   Students at Brandeis University used Allmaps to research how the landscape of
   Waltham, MA has changed over time.
-image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc619/2088,4399,5876,1797/1200,/0/default.jpg
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc619/2088,4399,5876,1797/1200,/0/default.jpg
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:25152g836/277,250,2927,2082/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc619/2088,4399,5876,1797/1200,/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:25152g836/277,250,2927,2082/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc619/2088,4399,5876,1797/1200,/0/default.jpg
 ---
 
 > The five short essays featured in this digital publication were supported by the Leventhal Center's [Allmaps Research Fellowships](https://www.leventhalmap.org/projects/digital-projects/allmaps/#allmaps-research-fellowships). To learn more about how you can apply for an Allmaps Research Fellowship, reach out to LMEC's [Assistant Curator of Digital & Participatory Geography](https://www.leventhalmap.org/about/people/ian-spangler/).
