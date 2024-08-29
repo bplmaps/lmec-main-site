@@ -9,7 +9,7 @@ description: >-
   Students at Brandeis University used Allmaps to research how the landscape of
   Waltham, MA has changed over time.
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7p88g262c/206,400,2602,1336/pct:20/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:25152g836/277,250,2927,2082/1200,/0/default.jpg
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:25152g836/277,250,2927,2082/1200,/0/default.jpg
 ---
