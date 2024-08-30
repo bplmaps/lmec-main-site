@@ -34,13 +34,11 @@ Introduced in the late 1870s, {{<popup img-src="https://assets.tina.io/097f9d05-
 
 Floral Park in Nassau County, New York is an example of the late 19th-century interest in planned suburban communities, often supported by a conveniently nearby railway station.  Based in a region of flower farms, the community features streets named after plants as well as many amenities. Development commenced in the 1880s and 1890s but additions continued well into the 20th century. Blueprints provided a useful format for the developers and planners to track modifications, lots sales, and other developments on copies of the original; this version shows crosses, probably to mark transactions related to specific lots. 
 
-##### Joseph Frederick Wallet Des Barres ***[A view of Boston](https://collections.leventhalmap.org/search/commonwealth:7h149z72h)*** (1779)
+##### Frederic Endicott Map of Three Mile Island in Lake Winnipesaukee Owned by the Appalachian Mountain Club. Together with its Nearest Neighbors. (1902)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149z73s/full/1200,/0/default.jpg" caption="" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 1.png" caption="" >}}
 
-This is a 1779 bird’s eye view of Boston’s harbor intended to be used as a visual guide for visiting captains and crews that pairs alongside nautical maps. The method utilized to create this print is referred to as “aquatint.” Most often used in tandem with etching, the aquatint method leaves the acid resistant resin on specific areas of the plate for different periods of time, allowing for the acid to eat away at certain parts of the plate more than others. Because of this process, when the plate is later inked, specific sections can hold more ink than others, thus creating darker or lighter tones. 
-
-The development of etching and later aquatint allowed for the creation of significantly more complex designs in the printing and cartographic worlds due to the complexity of lines one could now create. Though designs could now be more complex, they were also getting increasingly more difficult and expensive to make due to the new range of materials needed for the process. 
+Surveyor Frederic Endicott loved mountaineering and was an active member of the Appalachian Mountain Club (AMC) where he assumed various roles, including "Councilor of Topography" (the AMC also has his photography collection). In the 1900s, the area around Lake Winnipesaukee was remote and undeveloped; Endicott helped in documenting the transfer of lots on the lake’s Three Mile Island owned by Mrs. Eastman and Mr. Lawrence to the Club. Today, the island is a highly popular resort for camping. 
 
 ##### Japan. Rikugun. Sanbō Honbu. ***[Ajia Tōbu Yochizu](https://collections.leventhalmap.org/search/commonwealth:9s161j212)*** (1875)
 
