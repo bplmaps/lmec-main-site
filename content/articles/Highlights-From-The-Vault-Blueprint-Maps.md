@@ -40,13 +40,11 @@ Floral Park in Nassau County, New York is an example of the late 19th-century in
 
 Surveyor Frederic Endicott loved mountaineering and was an active member of the Appalachian Mountain Club (AMC) where he assumed various roles, including "Councilor of Topography" (the AMC also has his photography collection). In the 1900s, the area around Lake Winnipesaukee was remote and undeveloped; Endicott helped in documenting the transfer of lots on the lake’s Three Mile Island owned by Mrs. Eastman and Mr. Lawrence to the Club. Today, the island is a highly popular resort for camping. 
 
-##### Japan. Rikugun. Sanbō Honbu. ***[Ajia Tōbu Yochizu](https://collections.leventhalmap.org/search/commonwealth:9s161j212)*** (1875)
+##### C.R.B.; Edmund S. Davis  Detail Plan. Section 4. Boylston Street Subway. Typical Cross Section. (1913)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161j22b/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 1 (1).png" class="" >}}
 
-This 1875 military map of Japan was used by the government to refer to the population of the major cities across the country. Similarly to other maps shown today, it was created through the etching process—this piece was etched on a copper plate. Different from the other maps shown, this map has distinctive color running along the borders of each land mass. While Ptolemy’s world map was printed in color, the application appears somewhat crude as it was printed directly onto paper from the woodcut block. 
-
-In this Japanese map, a process known as “hand coloring” was utilized. Most maps before the 1800s were printed entirely in black and white, and had the option to be ‘colored’ as an upgrade. The hired “colorists” would source different pigments from across the globe, and carefully paint them onto the maps in faint washes to achieve the look their client requested. Most commonly, the borders of countries were colored for ease of use of the map later on, but many maps were lavishly decorated, making them beautifully painted art pieces in their own right.
+Since their introduction, blueprints have become synonymous with construction drawings. They are durable enough for use at construction sites, can be drawn on, and easily reproduced and distributed to the many trades involved in a construction project. This detailed plan shows a section elevation view of the subway tunnels at the MBTA Green Line Boylston Street subway station (the section clarifies how tight the space is between the two subway tracks). The creator was Edmund S. Davis, who served as chief engineer of the Boston Transit Department from 1909 through 1920. 
 
 ##### Andreas Cellarius ***[Planisphaerium Ptolemaicum siue machina orbium mundi ex hypothesi Ptolemaica in plano disposita](https://collections.leventhalmap.org/search/commonwealth:x633f9294)*** (1661)
 
