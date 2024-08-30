@@ -62,9 +62,9 @@ The treatment of the outlines of bodies of water in Back Bay evokes thoughts of 
 
 ##### Map of the Pan American R.R. and its connections. 
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm09q/full/1600,/0/default.jpg" class="" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 3 (3).png" class="" >}}
 
-The 1940 lithograph shown here is a pictorial map of the pacific region encompassing Asia, Oceania, and the Americas that highlights the different artistic styles present in each region. It is done in a very lighthearted and cartoonish style and seeks to show off the culture of the land as opposed to just representing the land itself. This particular lithograph is known as an “offset lithograph” as the artist printed it onto another material before printing it onto its final piece of paper. This technique was used frequently so that the artist did not have to worry about drawing the initial design backwards to have it printed the correct way. Lithography as a technique was more commonly used than engraving due to ease, but as mass commercialization of the lithograph began, the quality of the maps produced with it began to decline. Despite advancements in technology since then, it is still commonly used in cartographic practice today.
+The Pan American R.R. was started in 1891 by a group of Boston investors who sought to build a railroad line from Victoria, Texas to Rio de Janeiro, Brazil. The decorative title block suggests that this map was designed to interest potential investors. However, the railroad never took off – only 10 miles of track were completed before the investors ran out of money. The map displays the proposed route in the context of other railroad lines in Texas. This print shows a standard mode of editing prints – a red pencil. 
 
 ##### United States Army Signal Corps, A. W. (Adolphus Washington) Greely, and United States War Department ***[Progress map of Signal Corps telegraph lines & cables in the military division of the Philippines](https://collections.leventhalmap.org/search/commonwealth:6q185t494)*** (1900)
 
