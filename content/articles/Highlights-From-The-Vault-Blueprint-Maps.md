@@ -52,13 +52,13 @@ Since their introduction, blueprints have become synonymous with construction dr
 
 In 1931, Dorchester-based surveyor Robert B. Bellamy produced a survey for the Society Har Moriah Cemetery Corporation. The plan shows multiple lots at the Cemetery’s site at the Hyde Park / West Roxbury border. These two versions of the plan demonstrate the blueprint process – the image on the left is the original drawing, created with dark ink on a translucent paper. The blueprint process produced a reverse image of white lines and text on a blue background. An infinite number of prints could be produced in much less time than hand copying and the prints could be marked up, rolled, and otherwise handled without impacting the original. The prints also were difficult to modify without being obvious so they often served as “record copies.”   
 
-##### Elizabeth Shurtleff, Elizabeth L. McMillin, Helen F. McMillin ***[A map of the Bermuda Islands](https://collections.leventhalmap.org/search/commonwealth:3f463854q)*** (1930)
+##### Fuller & Whitney Plans Commonwealth and Beacon (1880s)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4638550/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 3 (1).png" class="" >}}
 
-This 1930 pictorial map of the Bermuda Islands is a lavished colored tourists guide of the islands created by two female cartographers. It features a wide array of vibrantly colored cartoon figures and is jam packed with detail and artwork. This map was created through a process known as “lithography.” Several centuries after the development of etching and engraving came the lithograph, a process more similar to painting than any of the previous techniques. 
+The civil engineering/surveying firm of Fuller & Whitney, later William H. Whitney, oversaw the development and filling-in of Boston’s Back Bay during the 1880s. This work involved the development of overall street layouts, studies of alternative schemes for various neighborhoods, and documentation of land sales. Most of these documents were circulated as blueprints, using a variant on the process invented in 1842 by Sir John Hershel that Whitney modified, earning him an award from the Massachusetts Charitable Mechanics' Association. His work in this area helped mainstream blueprints in his profession. 
 
-When creating a lithograph, the artist draws and paints their design directly onto a stone block using an oil based medium, frequently crayon. The stone is then chemically treated and washed with water so that only the drawn on parts will absorb and hold onto ink. The stone is then inked in a similar fashion to engraving and etching, and pressed through a printer to adhere the design onto a sheet of paper. Colored lithographs were used, though not commonly as they frequently required multiple blocks and ended up being quite expensive.
+The treatment of the outlines of bodies of water in Back Bay evokes thoughts of some of the celestial drawings in the current Heaven & Earth exhibit. 
 
 ##### Miguel Covarrubias ***[Art forms of the Pacific area](https://collections.leventhalmap.org/search/commonwealth:0r96fm08f)*** (1940)
 
