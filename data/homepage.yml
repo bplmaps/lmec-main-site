@@ -57,8 +57,11 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Holiday closure
-      text: We will be closed on September 1 and 2 for Labor Day
+    - badge: Exhibition Turnover
+      text: >-
+        The Leventhal Center will be closed from September 1-September 12 for
+        gallery turnover for our upcoming exhibition. The gallery will reopen to
+        the public on September 13 with our normal hours.
     - badge: 'We’re Hiring: Administrative Assistant'
       text: >-
         Our team is looking to fill a new fully-remote, part-time role of
