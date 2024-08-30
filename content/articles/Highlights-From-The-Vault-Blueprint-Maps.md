@@ -46,13 +46,11 @@ Surveyor Frederic Endicott loved mountaineering and was an active member of the 
 
 Since their introduction, blueprints have become synonymous with construction drawings. They are durable enough for use at construction sites, can be drawn on, and easily reproduced and distributed to the many trades involved in a construction project. This detailed plan shows a section elevation view of the subway tunnels at the MBTA Green Line Boylston Street subway station (the section clarifies how tight the space is between the two subway tracks). The creator was Edmund S. Davis, who served as chief engineer of the Boston Transit Department from 1909 through 1920. 
 
-##### Andreas Cellarius ***[Planisphaerium Ptolemaicum siue machina orbium mundi ex hypothesi Ptolemaica in plano disposita](https://collections.leventhalmap.org/search/commonwealth:x633f9294)*** (1661)
+##### Robert B. Bellamy Plan of Property of Society Har Moriah Cemetery Corporation, Hyde Park and West Roxbury Mass (1931)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f930w/full/1200,/0/default.jpg" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 3.png" >}}
 
-This stunningly colored celestial map from 1661 brings together the theories of many famous astronomers such as Ptolemy and Copernicus about the stars, the Sun and Moon, and the different planets in our galaxy. It is a beautiful depiction of the sheer breadth of coloring that could be achieved on maps and how colring was used both to emphasize the practicality and readability of the map as well as to present the map as a piece of art. With this map, a combination of techniques was utilized to give it its distinctive color palette. The engraving plates used to print this map held some color as it was printed, then a colorist later went on to add more depth to the piece. 
-
-Note how the color of this map is still so vibrant despite being nearly 400 years old. The artists responsible for coloring maps took great care to mix their pigments with different compounds that would not only maintain the integrity of the paper, but would also stay as vibrant and vivid as possible for as long as possible. With all the care taken to hand color maps and all the beauty it could achieve, the process was extremely expensive and few could afford pieces as intricate and colorful as these.
+In 1931, Dorchester-based surveyor Robert B. Bellamy produced a survey for the Society Har Moriah Cemetery Corporation. The plan shows multiple lots at the Cemetery’s site at the Hyde Park / West Roxbury border. These two versions of the plan demonstrate the blueprint process – the image on the left is the original drawing, created with dark ink on a translucent paper. The blueprint process produced a reverse image of white lines and text on a blue background. An infinite number of prints could be produced in much less time than hand copying and the prints could be marked up, rolled, and otherwise handled without impacting the original. The prints also were difficult to modify without being obvious so they often served as “record copies.”   
 
 ##### Elizabeth Shurtleff, Elizabeth L. McMillin, Helen F. McMillin ***[A map of the Bermuda Islands](https://collections.leventhalmap.org/search/commonwealth:3f463854q)*** (1930)
 
