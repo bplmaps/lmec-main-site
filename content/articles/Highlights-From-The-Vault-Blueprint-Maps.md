@@ -28,17 +28,19 @@ tags:
 
 Introduced in the late 1870s, {{<popup img-src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/unnamed.jpg" bib-src="http://www.kbrhorse.net/streetlights/understanding_arc_lamps.html">}}arc lamps{{</popup>}} were the primary technology used for street lighting until incandescent lamps took over in the early 20th century. In 1890, the town of Canton, Massachusetts installed its first set of street lights as a trial; within a few months, the lights were deemed indispensable and residents were demanding even more streets to be illuminated. In 1886, surveyor Frederic Endicott produced plans showing the locations of arc lights along the town’s major roadways. The minimalist presentation and the star-like symbol chosen to represent the lights evoke a celestial map such as those shown in the gallery exhibition, *[Heaven & Earth](https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth/)*. 
 
+Fuller & Whitney Plans Commonwealth and Beacon (1880s)
+
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 3 (2).png" class="" >}}
+
+The civil engineering/surveying firm of Fuller & Whitney, later William H. Whitney, oversaw the development and filling-in of Boston’s Back Bay during the 1880s. This work involved the development of overall street layouts, studies of alternative schemes for various neighborhoods, and documentation of land sales. Most of these documents were circulated as blueprints, using a variant on the process invented in 1842 by Sir John Hershel that Whitney modified, earning him an award from the Massachusetts Charitable Mechanics' Association. His work in this area helped mainstream blueprints in his profession. 
+
+The treatment of the outlines of bodies of water in Back Bay evokes thoughts of some of the [geographical maps](https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth/catalogue/3/) in the current Heaven & Earth exhibit. 
+
 ##### Louis Day Map - B. Property at Floral Park. Nassau County, N.Y. The Floral Park Corporation. (1919)
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Floral Map.png" class="" >}}
 
-Floral Park in Nassau County, New York is an example of the late 19th-century interest in planned suburban communities, often supported by a conveniently nearby railway station.  Based in a region of flower farms, the community features streets named after plants as well as many amenities. Development commenced in the 1880s and 1890s but additions continued well into the 20th century. Blueprints provided a useful format for the developers and planners to track modifications, lots sales, and other developments on copies of the original; this version shows crosses, probably to mark transactions related to specific lots. 
-
-##### Frederic Endicott Map of Three Mile Island in Lake Winnipesaukee Owned by the Appalachian Mountain Club. Together with its Nearest Neighbors. (1902)
-
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 1.png" caption="" >}}
-
-Surveyor Frederic Endicott loved mountaineering and was an active member of the Appalachian Mountain Club (AMC) where he assumed various roles, including "Councilor of Topography" (the AMC also has his photography collection). In the 1900s, the area around Lake Winnipesaukee was remote and undeveloped; Endicott helped in documenting the transfer of lots on the lake’s Three Mile Island owned by Mrs. Eastman and Mr. Lawrence to the Club. Today, the island is a highly popular resort for camping. 
+Floral Park in Nassau County, New York is an example of the late 19th-century interest in planned suburban communities, often supported by a conveniently nearby railway station.  Based in a region of flower farms, the community features streets named after plants as well as many amenities. Development commenced in the 1880s and 1890s but additions continued well into the 20th century. Blueprints provided a useful format for the developers and planners to track modifications, lots sales, and other developments on copies of the original; this version shows crosses, probably to mark transactions related to specific lots.  
 
 ##### C.R.B.; Edmund S. Davis  Detail Plan. Section 4. Boylston Street Subway. Typical Cross Section. (1913)
 
@@ -52,13 +54,11 @@ Since their introduction, blueprints have become synonymous with construction dr
 
 In 1931, Dorchester-based surveyor Robert B. Bellamy produced a survey for the Society Har Moriah Cemetery Corporation. The plan shows multiple lots at the Cemetery’s site at the Hyde Park / West Roxbury border. These two versions of the plan demonstrate the blueprint process – the image on the left is the original drawing, created with dark ink on a translucent paper. The blueprint process produced a reverse image of white lines and text on a blue background. An infinite number of prints could be produced in much less time than hand copying and the prints could be marked up, rolled, and otherwise handled without impacting the original. The prints also were difficult to modify without being obvious so they often served as “record copies.”   
 
-##### Fuller & Whitney Plans Commonwealth and Beacon (1880s)
+##### Frederic Endicott Map of Three Mile Island in Lake Winnipesaukee Owned by the Appalachian Mountain Club. Together with its Nearest Neighbors. (1902)
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 3 (2).png" class="" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 1.png" caption="" >}}
 
-The civil engineering/surveying firm of Fuller & Whitney, later William H. Whitney, oversaw the development and filling-in of Boston’s Back Bay during the 1880s. This work involved the development of overall street layouts, studies of alternative schemes for various neighborhoods, and documentation of land sales. Most of these documents were circulated as blueprints, using a variant on the process invented in 1842 by Sir John Hershel that Whitney modified, earning him an award from the Massachusetts Charitable Mechanics' Association. His work in this area helped mainstream blueprints in his profession. 
-
-The treatment of the outlines of bodies of water in Back Bay evokes thoughts of some of the [geographical maps](https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth/catalogue/3/) in the current Heaven & Earth exhibit. 
+Surveyor Frederic Endicott loved mountaineering and was an active member of the Appalachian Mountain Club (AMC) where he assumed various roles, including "Councilor of Topography" (the AMC also has his photography collection). In the 1900s, the area around Lake Winnipesaukee was remote and undeveloped; Endicott helped in documenting the transfer of lots on the lake’s Three Mile Island owned by Mrs. Eastman and Mr. Lawrence to the Club. Today, the island is a highly popular resort for camping.
 
 ##### Map of the Pan American R.R. and its connections. 
 
