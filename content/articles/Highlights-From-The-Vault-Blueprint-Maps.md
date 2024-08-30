@@ -42,7 +42,7 @@ The treatment of the outlines of bodies of water in Back Bay evokes thoughts of 
 
 Floral Park in Nassau County, New York is an example of the late 19th-century interest in planned suburban communities, often supported by a conveniently nearby railway station.  Based in a region of flower farms, the community features streets named after plants as well as many amenities. Development commenced in the 1880s and 1890s but additions continued well into the 20th century. Blueprints provided a useful format for the developers and planners to track modifications, lots sales, and other developments on copies of the original; this version shows crosses, probably to mark transactions related to specific lots.  
 
-##### C.R.B.; Edmund S. Davis  ***Detail Plan. Section 4. Boylston Street Subway. Typical Cross Section***. (1913)
+##### C.R.B.; Edmund S. Davis ***Detail Plan. Section 4. Boylston Street Subway. Typical Cross Section***. (1913)
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 1 (1).png" class="" >}}
 
