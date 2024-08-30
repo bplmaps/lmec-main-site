@@ -18,9 +18,11 @@ tags:
 > \
 > During the same time period that printers in China were producing the outstanding “blue maps” of Heaven and Earth currently on display in our [gallery](https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth/) using a technique involving the pigment Prussian Blue, surveyors and other map makers in the West were producing their own “blue maps.” Based on the blueprint process introduced in the 1840s, these white-on-blue drawings could be produced rapidly and inexpensively while ensuring the longevity and accuracy of a reproduction, which greatly impacted the distribution of visual information.\
 > \
-> This From the Vault featured examples from the Center’s survey collections that demonstrate how blueprints helped influence the changing 19th-century American landscape, from the fill of Boston’s Back Bay to a “celestial map” of Canton, Massachusetts to a railroad project in Texas.
+> This *From the Vault* featured examples from the Center’s survey collections that demonstrate how blueprints helped influence the changing 19th-century American landscape, from the fill of Boston’s Back Bay to a “celestial map” of Canton, Massachusetts to a railroad project in Texas.\
+> \
+> *These maps are not a part of our digital collections and the pictures of each object were taken during from the event. We've done our best to accurately portray each item, but for the best viewing experience, please schedule a research visit to the Center to see them in person. *
 
-##### Frederic Endicott Plan for Arc Lights. Canton, Mass. (1886)
+##### Frederic Endicott ***Plan for Arc Lights. Canton, Mass.*** (1886)
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Canton arc lights.png" class="figure-right" >}}
 
