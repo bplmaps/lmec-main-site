@@ -58,9 +58,9 @@ In 1931, Dorchester-based surveyor Robert B. Bellamy produced a survey for the S
 
 The civil engineering/surveying firm of Fuller & Whitney, later William H. Whitney, oversaw the development and filling-in of Boston’s Back Bay during the 1880s. This work involved the development of overall street layouts, studies of alternative schemes for various neighborhoods, and documentation of land sales. Most of these documents were circulated as blueprints, using a variant on the process invented in 1842 by Sir John Hershel that Whitney modified, earning him an award from the Massachusetts Charitable Mechanics' Association. His work in this area helped mainstream blueprints in his profession. 
 
-The treatment of the outlines of bodies of water in Back Bay evokes thoughts of some of the celestial drawings in the current Heaven & Earth exhibit. 
+The treatment of the outlines of bodies of water in Back Bay evokes thoughts of some of the [geographical maps](https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth/catalogue/3/) in the current Heaven & Earth exhibit. 
 
-##### Miguel Covarrubias ***[Art forms of the Pacific area](https://collections.leventhalmap.org/search/commonwealth:0r96fm08f)*** (1940)
+##### Map of the Pan American R.R. and its connections. 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm09q/full/1600,/0/default.jpg" class="" >}}
 
@@ -68,7 +68,7 @@ The 1940 lithograph shown here is a pictorial map of the pacific region encompas
 
 ##### United States Army Signal Corps, A. W. (Adolphus Washington) Greely, and United States War Department ***[Progress map of Signal Corps telegraph lines & cables in the military division of the Philippines](https://collections.leventhalmap.org/search/commonwealth:6q185t494)*** (1900)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:t722mh28p/full/,1200/0/default.jpg" class="figure-right" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 3 (1).png" class="" >}}
 
 The 1900 map of the Philippines shown here was used as an informational piece by the military to keep track of the different telegraph and cable lines across the country. This map was also created through the lithographic process, though was done using a method called “photolithography” which began the transition from previous analog methods into cartographic methods more heavily shaped by technology. As photography slowly developed and advanced, its application in the process of creating maps became more apparent. 
 
