@@ -26,7 +26,7 @@ tags:
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Canton arc lights.png" class="figure-right" >}}
 
-Introduced in the late 1870s, {{<popup img-src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/unnamed.jpg" bib-src="http://www.kbrhorse.net/streetlights/understanding_arc_lamps.html">}}arc lamps{{</popup>}} were the primary technology used for street lighting until incandescent lamps took over in the early 20th century. In 1890, the town of Canton, Massachusetts installed its first set of street lights as a trial; within a few months, the lights were deemed indispensable and residents were demanding even more streets to be illuminated. In 1886, surveyor Frederic Endicott produced plans showing the locations of arc lights along the town’s major roadways. The minimalist presentation and the star-like symbol chosen to represent the lights evoke a celestial map such as those shown in the gallery exhibition, *[Heaven & Earth](https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth/)*. 
+Introduced in the late 1870s, {{<popup img-src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/unnamed.jpg">}}arc lamps{{</popup>}} were the primary technology used for street lighting until incandescent lamps took over in the early 20th century. In 1890, the town of Canton, Massachusetts installed its first set of street lights as a trial; within a few months, the lights were deemed indispensable and residents were demanding even more streets to be illuminated. In 1886, surveyor Frederic Endicott produced plans showing the locations of arc lights along the town’s major roadways. The minimalist presentation and the star-like symbol chosen to represent the lights evoke a celestial map such as those shown in the gallery exhibition, *[Heaven & Earth](https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth/)*. 
 
 ##### Fuller & Whitney ***Plans Commonwealth and Beacon*** (1880s)
 
@@ -60,7 +60,7 @@ In 1931, Dorchester-based surveyor Robert B. Bellamy produced a survey for the S
 
 Surveyor Frederic Endicott loved mountaineering and was an active member of the Appalachian Mountain Club (AMC) where he assumed various roles, including "Councilor of Topography" (the AMC also has his photography collection). In the 1900s, the area around Lake Winnipesaukee was remote and undeveloped; Endicott helped in documenting the transfer of lots on the lake’s Three Mile Island owned by Mrs. Eastman and Mr. Lawrence to the Club. Today, the island is a highly popular resort for camping.
 
-##### ***Map of the Pan American R.R. and its connections. ***
+##### \*\*\*Map of the Pan American R.R. and its connections. \*\*\*
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 3 (3).png" class="" >}}
 
