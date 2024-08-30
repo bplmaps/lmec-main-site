@@ -60,7 +60,7 @@ In 1931, Dorchester-based surveyor Robert B. Bellamy produced a survey for the S
 
 Surveyor Frederic Endicott loved mountaineering and was an active member of the Appalachian Mountain Club (AMC) where he assumed various roles, including "Councilor of Topography" (the AMC also has his photography collection). In the 1900s, the area around Lake Winnipesaukee was remote and undeveloped; Endicott helped in documenting the transfer of lots on the lake’s Three Mile Island owned by Mrs. Eastman and Mr. Lawrence to the Club. Today, the island is a highly popular resort for camping.
 
-##### \*\*\*Map of the Pan American R.R. and its connections. \*\*\*
+##### ***Map of the Pan American R.R. and its connections***.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 3 (3).png" class="" >}}
 
