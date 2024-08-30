@@ -54,7 +54,7 @@ In 1931, Dorchester-based surveyor Robert B. Bellamy produced a survey for the S
 
 ##### Fuller & Whitney Plans Commonwealth and Beacon (1880s)
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 3 (1).png" class="" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 3 (2).png" class="" >}}
 
 The civil engineering/surveying firm of Fuller & Whitney, later William H. Whitney, oversaw the development and filling-in of Boston’s Back Bay during the 1880s. This work involved the development of overall street layouts, studies of alternative schemes for various neighborhoods, and documentation of land sales. Most of these documents were circulated as blueprints, using a variant on the process invented in 1842 by Sir John Hershel that Whitney modified, earning him an award from the Massachusetts Charitable Mechanics' Association. His work in this area helped mainstream blueprints in his profession. 
 
