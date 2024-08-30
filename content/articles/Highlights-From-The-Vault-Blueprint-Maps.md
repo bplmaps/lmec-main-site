@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Highlights From The Vault: Blue(print) Maps'
 date: 2024-08-30T04:00:00.000Z
 author: Karen Vagts
