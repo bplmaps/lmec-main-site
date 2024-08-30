@@ -28,13 +28,11 @@ tags:
 
 Introduced in the late 1870s, {{<popup img-src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/unnamed.jpg" bib-src="http://www.kbrhorse.net/streetlights/understanding_arc_lamps.html">}}arc lamps{{</popup>}} were the primary technology used for street lighting until incandescent lamps took over in the early 20th century. In 1890, the town of Canton, Massachusetts installed its first set of street lights as a trial; within a few months, the lights were deemed indispensable and residents were demanding even more streets to be illuminated. In 1886, surveyor Frederic Endicott produced plans showing the locations of arc lights along the town’s major roadways. The minimalist presentation and the star-like symbol chosen to represent the lights evoke a celestial map such as those shown in the gallery exhibition, *[Heaven & Earth](https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth/)*. 
 
-##### George Hartnell Bartlett ***[The public libraries of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:wd3761121)*** (1904)
+##### Louis Day Map - B. Property at Floral Park. Nassau County, N.Y. The Floral Park Corporation. (1919)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761139/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Floral Map.png" class="" >}}
 
-This map is a 1904 pictorial demonstration of the different public libraries across the state of Massachusetts designed through a process called etching. Etching is another printing technique developed about 100 years after woodcut engraving that allowed map makers and artists to add significantly more detail into their pieces. Similarly to engraving, etching involves carving a design into a plate and then pressing that plate onto a piece of paper. 
-
-The differences between the two lie in the process of creating the plate. Instead of carving away material from a wooden block, etching relied on covering a piece of metal in an acid-resistant material, drawing the desired design on the plate, and then dipping the plate into an acid bath to eat away at the drawn-on metal not covered by the initial coating. Afterwards, the plate is inked, and the ink is placed into the recesses of the plate as opposed to on top of the raised reliefs. It is then pressed onto a piece of paper to complete the printing process.
+Floral Park in Nassau County, New York is an example of the late 19th-century interest in planned suburban communities, often supported by a conveniently nearby railway station.  Based in a region of flower farms, the community features streets named after plants as well as many amenities. Development commenced in the 1880s and 1890s but additions continued well into the 20th century. Blueprints provided a useful format for the developers and planners to track modifications, lots sales, and other developments on copies of the original; this version shows crosses, probably to mark transactions related to specific lots. 
 
 ##### Joseph Frederick Wallet Des Barres ***[A view of Boston](https://collections.leventhalmap.org/search/commonwealth:7h149z72h)*** (1779)
 
