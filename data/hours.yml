@@ -22,7 +22,7 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: September 2 - September 12
+  - date: 'September 2 – September 12, 2024 '
     name: Exhibition Turnover
     special: Closed for Exhibition Turnover
   - date: 'September 1, 2024'
