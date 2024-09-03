@@ -15,7 +15,7 @@ tags:
   - More or Less in Common
 ---
 
-{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by the Harvard Radcliffe Institute.{{\< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by the Harvard Radcliffe Institute.{{< /alert-box >}}
 
 ### Event video
 

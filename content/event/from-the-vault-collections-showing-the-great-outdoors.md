@@ -16,7 +16,7 @@ tags:
 
 ### About this event
 
-{{\< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fb61b/full/2000,/0/default.jpg" caption="*[Panoramic view of the Glacier National Park, Montana](https://collections.leventhalmap.org/search/commonwealth:4m90fb602)*" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fb61b/full/2000,/0/default.jpg" caption="*[Panoramic view of the Glacier National Park, Montana](https://collections.leventhalmap.org/search/commonwealth:4m90fb602)*" class="figure-right" >}}
 
 Looking to add more maps to your life? Join us for an afternoon of close map looking! For this edition of *From The Vault*, we'll take a look at objects from our collections that map national parks, green space around Boston and beyond.
 

@@ -26,12 +26,12 @@ Please visit our [YouTube Channel](https://www.youtube.com/c/LeventhalMapEducati
 
 ### Atlascope credits
 
-{{\< figure src="[https://atlascope.leventhalmap.org/clir-logo.bc74237c.png](https://atlascope.leventhalmap.org/clir-logo.bc74237c.png)" class="figure-left" >}}
-{{\< figure src="[https://atlascope.leventhalmap.org/associates-logo.b8277105.png](https://atlascope.leventhalmap.org/associates-logo.b8277105.png)"  class="figure-right" >}}
+{{< figure src="https://atlascope.leventhalmap.org/clir-logo.bc74237c.png" class="figure-left" >}}
+{{< figure src="https://atlascope.leventhalmap.org/associates-logo.b8277105.png"  class="figure-right" >}}
 
 Atlascope was developed by the team at the Leventhal Map & Education Center at the Boston Public Library. Primary design and development of the Atlascope app was conducted by Garrett Dash Nelson. Belle Lipton oversaw the first phase of atlas digitization and transformation for Atlascope v1.0.
 
-Atlas layers have been prepared by multiple teams of interns including Ian Donnelly, Hanaan Yazdi, Abby Duker, Rachel Mead, Luwei Chen, Brian Kominick, Madison Bastress, Liz Kellam, Victoria Mak, Joshua Aldwinckle-Povey, Aditi Shankar, Phoebe McMahon, Olivia Lynch, Denyse Tan, Natalie Gilbert, Dina Gorelik, Olivia Hewang, Erin Olding, Julie Raporte, and Carmen Hansen.
+Atlas layers have been prepared by multiple teams of interns including Ian Donnelly, Hanaan Yazdi, Abby Duker, Rachel Mead, Luwei Chen, Brian Kominick, Madison Bastress, Liz Kellam, Victoria Mak, Joshua Aldwinckle-Povey, Aditi Shankar, Phoebe McMahon, Olivia Lynch, Denyse Tan, Zoe Colimon, Salman Uddin, Natalie Gilbert, Dina Gorelik, Olivia Hewang, Erin Olding, Julie Raporte, Carmen Hansen, Carlos Cueva Caro, Simone Tricca, and Anna Zhang.
 
 <!-- ![CLIR logo](https://atlascope.leventhalmap.org/clir-logo.bc74237c.png)![Associates of the BPL Logo](https://atlascope.leventhalmap.org/associates-logo.b8277105.png) -->
 

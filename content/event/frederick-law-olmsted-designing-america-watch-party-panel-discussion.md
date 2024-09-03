@@ -11,11 +11,11 @@ registration: >-
 tags: []
 ---
 
-{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by Olmsted 200.{{\< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by Olmsted 200.{{< /alert-box >}}
 
 ### Event video 
 
-\<iframe width="560" height="315" src="https://www.youtube.com/embed/F4Y\_FAAPUso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>\</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F4Y\_FAAPUso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### About this event
 
