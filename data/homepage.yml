@@ -57,11 +57,11 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Exhibition Turnover
+    - badge: Gallery Closure
       text: >-
-        The Leventhal Center will be closed from September 1-September 12 for
+        The Leventhal Center will be closed from September 1–September 12 for
         gallery turnover for our upcoming exhibition. The gallery will reopen to
-        the public on September 13 with our normal hours.
+        the public on September 13 with normal hours. Reference and research services remain available during this time.
     - badge: 'We’re Hiring: Administrative Assistant'
       text: >-
         Our team is looking to fill a new fully-remote, part-time role of
@@ -164,7 +164,7 @@ funfacts:
 blog:
   enable: true
   title: Articles
-todaysHours: true
+todaysHours: false
 upcomingLivestream:
   enable: false
   embedLink: >-
