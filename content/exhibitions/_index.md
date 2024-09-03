@@ -10,36 +10,12 @@ description: >-
 
 We regularly mount exhibitions in our gallery, [located in the historic McKim Building](about/hours-directions) the Boston Public Library in Copley Square. Exhibitions topics range from collections-centered shows on [Boston bird's eye views](https://collections.leventhalmap.org/exhibits/16) and [women mapmakers](https://collections.leventhalmap.org/exhibits/6) to theme-centered shows on the [American Revolution](https://collections.leventhalmap.org/exhibits/3), [Boston immigration](https://collections.leventhalmap.org/exhibits/19), and [public landscapes](https://collections.leventhalmap.org/exhibits/19). All of our exhibitions feature scholarly research as well as activities for families, children, and educators.
 
-{{< figure src="/images/blog/blue.jpg" >}}
-
 ## Rotating Exhibition
 
-### *Heaven and Earth: The Blue Maps of China*
-
-**May 11 – August 31, 2024**
-
-<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for Heaven & Earth</a>
-
-In the early decades of nineteenth-century China, two series of large-format maps, one terrestrial and one celestial, were printed in the city of Suzhou. They were printed as eight loose sheets using Prussian blue, the first large scale use of this pigment in East Asia, in the unusual manner of a rubbing from a stone-stele, resulting in most of the paper appearing in bright blue. The terrestrial maps present the realm of the Qing Empire (1644–1911) and selected surrounding regions. The four extant editions of the celestial maps, dated to 1822 and 1826, present a planisphere of all the known stars and extensive descriptions of known celestial bodies and their related celestial mechanics. This exhibition considers these two maps in the contexts of their production, consumption, and functions revealing them as unique in the global history of mapmaking. 
-
-*Guest curated by Dr. Richard Pegg, Director and Curator of the MacLean Collection.*
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hx121n456/392,312,15168,7997/1200,/0/default.jpg" >}}
-
-
-## Permanent Exhibition
-
-### *Becoming Boston: Eight Moments in the Geography of a Changing City*
-
-<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/becoming-boston/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for Becoming Boston</a>
-
-Maps trace out the complicated history of places, and we can use them to document geography in much the same way that we can use diaries and letters to document biography. In the eight cases of this exhibition, we follow the changing spatial forms of the place we now call Boston—from before the landscape carried that name all the way through the struggles, clashes, and dreams that continue to reshape the city today. These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k46x/207,212,7710,4276/full/0/default.jpg" caption="As one of the most important centers of a newly independent nation, Boston spent the first half of the nineteenth century reimagining its urban form and building neighborhoods from scratch, as seen in this [1895 map](https://collections.leventhalmap.org/search/commonwealth:js956k45n)." class="figure-center" >}}
-
-## Upcoming Exhibitions
-
 ### *Processing Place: How Computers and Cartographers Redrew our World*
+
+<a class="btn btn-outline-primary btn-block" target='blank' href="https://www.leventhalmap.org/digital-exhibitions/processing-place/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for *Processing Place*</a>
+
 
 **September 13, 2024 – March 2025**
 
@@ -48,6 +24,18 @@ In the long history of mapmaking, computers are a relatively new development. In
 *Curated by LMEC Staff Ian Spangler and Emily Bowe*
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t94b260t/1659,757,5667,2624/1200,/0/default.jpg" >}}
+
+## Permanent Exhibition
+
+### *Becoming Boston: Eight Moments in the Geography of a Changing City*
+
+<a class="btn btn-outline-primary btn-block" target='blank' href="https://www.leventhalmap.org/digital-exhibitions/becoming-boston/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for *Becoming Boston*</a>
+
+Maps trace out the complicated history of places, and we can use them to document geography in much the same way that we can use diaries and letters to document biography. In the eight cases of this exhibition, we follow the changing spatial forms of the place we now call Boston—from before the landscape carried that name all the way through the struggles, clashes, and dreams that continue to reshape the city today. These maps don’t merely depict facts about how the city looked at different moments in its history. Instead, they invite us to contemplate how geographic forces, both natural and human, have constructed the physical and social world around us, through large and small transformations that have transpired over many centuries.
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k46x/207,212,7710,4276/full/0/default.jpg" caption="As one of the most important centers of a newly independent nation, Boston spent the first half of the nineteenth century reimagining its urban form and building neighborhoods from scratch, as seen in this [1895 map](https://collections.leventhalmap.org/search/commonwealth:js956k45n)." class="figure-center" >}}
+
+## Upcoming Exhibitions
 
 ### *Terrains of Independence*
 
