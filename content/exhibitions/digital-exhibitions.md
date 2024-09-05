@@ -10,7 +10,7 @@ weight: '3'
 
 ## Current digital exhibition
 
-#### *Becoming Boston: Eight Moments in the Geography of a Changing City*
+#### *Processing Place: How Computers and Cartographers Redrew Our World*
 
 <a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/processing-place/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for *Processing Place*</a>
 
