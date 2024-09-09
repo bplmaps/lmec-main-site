@@ -18,23 +18,15 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 ## Recent Press
 
-**Press for *Heaven & Earth***
+**Recent Press**
 
-[Boston University - *Heaven and Earth: The Blue Maps of China (at the Leventhal Map & Education Center, Boston Public Library, opening in May 2024)*](https://www.bu.edu/asian/2024/02/23/heaven-and-earth-the-blue-maps-of-china-at-the-leventhal-map-education-center-boston-public-library-opening-in-may-2024/)
-
-**Other Recent Press**
+[Brandeis University - *Boston Public Library Showcases Undergraduate Student Essays on Urban Transformation in Waltham*](https://www.brandeis.edu/arts-sciences/news-events/stories/urban-worlds.html)
 
 [WCVB Chronicle - *Comparing Boston's past to present with historic media*](https://www.wcvb.com/article/boston-massachusetts-history-maps-photography-historic-atlascope-cityscapes-of-boston/61754700)
 
 [bostoncentral.com - *Boston Public Library - Copley Branch (hours, parking, tea)*](https://www.bostoncentral.com/boston-public-library-copley-interior)
 
 *[IIIF Consortium Welcomes Two New Associate Members](https://iiif.io/news/2023/07/05/4science-leventhal-BPL/)*
-
-[Boston.com - *Where do you draw the line for Greater Boston?*](https://www.boston.com/news/wickedpedia/2023/02/21/greater-boston-cities-towns-massachusetts-boundaries/)
-
-[The Boston Globe - *Map quest: At BPL's Leventhal center, two shows speak to a changing city*](https://www.bostonglobe.com/2023/01/19/arts/map-quest-bpls-leventhal-center-two-shows-speak-changing-city/?p1=StaffPage)
-
-[Fenway News - *BPL Exhibit Explores How Maps Can Reveal Political, Social, and Environmental Meaning*](https://fenwaynews.org/wp-content/uploads/2022/09/Fenway-News_OCT-2022_web.pdf)
 
 **Press for *Atlascope***
 
@@ -45,6 +37,10 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 [WBZ Newsradio](https://wbznewsradio.iheart.com/content/atlascope-boston-public-library-city-streets-view-civil-war-history/)
 
 ## Past Exhibits
+
+**Press for *Heaven & Earth***
+
+[Boston University - *Heaven and Earth: The Blue Maps of China (at the Leventhal Map & Education Center, Boston Public Library, opening in May 2024)*](https://www.bu.edu/asian/2024/02/23/heaven-and-earth-the-blue-maps-of-china-at-the-leventhal-map-education-center-boston-public-library-opening-in-may-2024/)
 
 **Press for *Getting Around Town***
 
