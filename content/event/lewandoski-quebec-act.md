@@ -15,6 +15,8 @@ tags:
 
 ### Learn about the changing land tenure systems of eighteenth-century Canada as seen through maps
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kR045X5M34I?si=J5sSTDn-Vjlm5fvB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 The 1774 Quebec Act is primarily known for partially provoking the American Revolution. But it also formalized the continuation of French, and by extension, Indigenous land tenures in British-controlled Quebec. In this program, **Julia Lewandoski** will explore how cartographers struggled to express and accommodate distinctive French and Indigenous forms of landholding on maps meant to assert British dominance over the province.
 
 {{< figure class="figure-right" src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/events/lewandoski-head-shot.jpg" >}}
