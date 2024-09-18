@@ -1,7 +1,7 @@
 ---
 draft: false
 title: 'Opening Reception: Processing Place '
-date: 2024-09-18T21:00:00.000Z
+date: 2024-09-17T21:00:00.000Z
 publishDate: 2024-08-28T04:00:00.000Z
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t94b260t/362,658,7828,5421/1200,/0/default.jpg
