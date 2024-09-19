@@ -57,11 +57,11 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: 'We’re Hiring: Administrative Assistant'
+    - badge: New Exhibit!
       text: >-
-        Our team is looking to fill a new fully-remote, part-time role of
-        Administrative Assistant. Apply by September 19
-      link: 'https://www.leventhalmap.org/about/jobs/administrative-assistant/'
+        Visit our newest exhibition, Processing Place: How Computers and
+        Cartographers Redrew our World in our gallery.
+      link: 'https://www.leventhalmap.org/about/hours-directions/'
 audiences:
   enable: true
   audienceGroups:
