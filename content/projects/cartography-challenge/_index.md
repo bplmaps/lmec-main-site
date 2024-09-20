@@ -23,6 +23,6 @@ There is no expectation that maps be made using a particular software or program
 
 {{< cartography-challenges cycle-filter="open">}}
 
-### Closed challenges
+### Past winners
 
 {{< cartography-challenges cycle-filter="closed">}}

@@ -9,7 +9,7 @@ tags: [immigration, getting around town]
 
 ---
 
-{{< alert-box type="danger" title="Submission window has closed" >}} Submissions to this Cartography Challenge have closed, but keep an eye out for [future challenges](../).{{< /alert-box >}}
+{{< alert-box type="primary" title="Congratulations Thomas Coughlin!" >}} **This Cartography Challenge has closed.** View the [winning map from **Thomas Coughlin**](https://collections.leventhalmap.org/search/commonwealth:7653bj63w) in LMEC's digital collections, and check back soon for more information about the next [Cartography Challenge](../) {{< /alert-box >}}
 
 ### Topic: Immigration in Greater Boston
 

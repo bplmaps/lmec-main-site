@@ -15,16 +15,17 @@
             <h5 class="card-title"><a href="{{ .Path }}" target="_blank">{{ .Name}}</a></h5>
             {{ range .Deadline }}
             {{if (in $cycle "open") }}
-            <span class="badge bg-success font-secondary text-white fw-normal mt-1">Open through {{ .date }}</span>
+            <span class="badge bg-success font-secondary text-white fw-normal mt-1">{{ .date }}</span>
             {{ end }}
             {{if (in $cycle "closed") }}
-            <span class="badge bg-danger font-secondary text-white fw-normal mt-1">Open through {{ .date }}</span>
+            <span class="badge bg-primary font-secondary text-white fw-normal mt-1">{{ .date }}</span>
             {{ end }}
             {{ end }}<br><br>
             {{ range .Theme }}
               <span class="badge badge-pill badge-info mb-1">{{.}}</span>
             {{ end }}<br><br>
-            <a href="{{ .Path }}" target="_blank" class="btn btn-primary btn-primary-outline btn-xs mb-2"><i class="fas fa-external-link-square-alt me-2"></i> See the rules </a>
+            <a href="{{ .Path }}" target="_blank" class="btn btn-primary btn-primary-outline btn-xs mb-2"><i class="fas fa-external-link-square-alt me-2"></i> Read the challenge </a>
+            <a href="{{ .Record }}" target="_blank" class="btn btn-primary btn-primary-outline btn-xs mb-2"><i class="fas fa-external-link-square-alt me-2"></i> View the winning map </a>
           </div>
         </div>
       </div>

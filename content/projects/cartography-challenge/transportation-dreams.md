@@ -8,7 +8,7 @@ tags: [transportation, getting around town, cartography challenges]
 
 ---
 
-{{< alert-box type="danger" title="Submission window has closed" >}} Submissions to this Cartography Challenge have closed, but keep an eye out for [future challenges](../).{{< /alert-box >}}
+{{< alert-box type="primary" title="Congratulations Charles Lyu and Alessandro Navarro Gatti!" >}} **This Cartography Challenge has closed.** **Charles Lyu's** winning map will soon be published in LMEC's digital collections. In the meantime, [read our article about both winning maps](https://www.leventhalmap.org/articles/transportation-dreams-winners/), including one from young cartographer **Alessandro Navarro Gatti.** Check back soon for more information about LMEC's next [Cartography Challenge](../).{{< /alert-box >}}
 
 ### Topic: Transportation Dreams
 

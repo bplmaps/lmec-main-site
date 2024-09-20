@@ -11,6 +11,7 @@
   - label: Open URL
   - url: https://leventhalmap.org/projects/cartography-challenge/immigration-in-boston
   Path: /projects/cartography-challenge/immigration-in-boston
+  Record: https://collections.leventhalmap.org/search/commonwealth:7653bj63w
   Theme:
   - Choropleth
   - Immigration
@@ -28,6 +29,7 @@
   - label: Open URL
   - url: https://leventhalmap.org/projects/cartography-challenge/transportation-dreams
   Path: /projects/cartography-challenge/transportation-dreams
+  Record: /images/blog/charles-map.png
   Theme:
   - Transportation
   - Boston
