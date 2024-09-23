@@ -22,15 +22,8 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'September 1, 2024'
-    name: The day before Labor Day
-    special: Closed
-  - date: 'September 2, 2024'
-    name: Labor Day
-    special: Closed
-  - date: 'September 3 – September 12, 2024 '
-    name: Exhibition Turnover
-    special: Closed for Exhibition Turnover
+  - date: 'January 1, 2025'
+    name: New Year's Day
   - date: 'October 14, 2024'
     name: Indigenous People’s Day
     special: Closed
