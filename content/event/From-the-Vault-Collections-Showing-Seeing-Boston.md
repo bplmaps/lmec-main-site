@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "From the Vault Collections Showing —\_Seeing Boston"
+title: "From the Vault Collections Showing —\_Time Travel Back to 1906 Boston"
 date: 2024-10-11T18:00:00.000Z
 publishDate: 2024-09-26T04:00:00.000Z
 image: >-
