@@ -6,6 +6,12 @@ backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96f
 cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp54z/2154,1509,1185,1071/pct:50/0/default.jpg"
 ---
 
+{{< alert-box type="danger" title="Deadline passed" >}}
+
+This application is now closed.
+
+{{</ alert-box >}}
+
 The Leventhal Map & Education Center at the Boston Public Library seeks to hire for the role of **Administrative Assistant**. This is a fully remote, part time role that reports directly to the President & Head Curator. The Administrative Assistant will support the President & Head Curator and the Center’s Board of Directors in administrative processes related to the management and governance of the Center. The Administrative Assistant will also support  workflows related to donor relations, scheduling, and office management.
 
 ### Key Responsibilities
@@ -74,8 +80,6 @@ Applicants should submit the following materials:
 Additional material will be requested from semifinalist candidates.
 
 Applications will be reviewed on a rolling basis, and the position will remain open until filled. **For full consideration, please submit application materials by September 19, 2024 by 12:00 pm ET.**
-
-<a href="https://tally.so/r/mVVYW6" class="btn btn-lg btn-primary-outline">Apply online now</a>
 
 ### For more information
 
