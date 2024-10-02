@@ -30,15 +30,9 @@ This map is an early example of maps made using corporate mapping software, Arc/
 
 This page is a print-out of an important step in mapmaking, which is laying out the important informative elements of a map (title block, credits, north arrow, scale bar, etc.) so that they don’t interfere with the content of the map. Computerized map production meant it was trivial to create visualizations of the same dataset for different locations, seen here with the same types of information displayed for various coastal towns of Massachusetts. This page only shows the outlines of the towns and the orange and green marks show an unnamed editor's ideas for where the title block and credits, respectively, could be located for each map.
 
-##### Louis Day ***Map - B. Property at Floral Park. Nassau County, N.Y. The Floral Park Corporation***. (1919)
+##### MassGIS [Mashpee land use change 1971-1990](https://collections.leventhalmap.org/search/commonwealth:gx41sm16g) (1991)
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Floral Map.png" class="" >}}
-
-MassGIS
-
-Mashpee land use change 1971-1990
-
-1991
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ft84fs153/full/,850/0/default.jpg" class="" >}}
 
 This map shows the ways that land use changed over two decades in the Massachusetts town of Mashpee. As with other maps of this time period, the map is in many ways secondary in importance to the data table of land use statistics printed on the bottom of the sheet. One notable part of this map is that the cartographers took time to create two “Change” views that can visually help guide a viewer towards an understanding of the difference between two moments in time.
 
