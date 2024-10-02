@@ -48,11 +48,14 @@ This map is an incredibly sophisticated example of the complicated layouts and v
 
 This map was created as a reference poster for folks working with federal spatial data and would have been useful to discover what kinds of datasets existed for places across the United States. In the map, the country has been divided into a large grid and each “cell” (or individual rectangle) of the grid has symbols that show what kinds of datasets were completed (red background with black symbols) or in progress (white background with green symbols) for each part of the country. Visualizations of digital elevation models can be seen in Views of Cape Ann and The Appalachian trail in Massachusetts.
 
-##### Frederic Endicott ***Map of Three Mile Island in Lake Winnipesaukee Owned by the Appalachian Mountain Club. Together with its Nearest Neighbors.*** (1902)
+##### MassGIS [GIS mapping of risk factors for eastern equine encephalitis](https://collections.leventhalmap.org/search/commonwealth:rv047v771) (1991)
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 1.png" caption="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5x220j19j/full/,1200/0/default.jpg" caption="" >}}
 
-Surveyor Frederic Endicott loved mountaineering and was an active member of the Appalachian Mountain Club (AMC) where he assumed various roles, including "Councilor of Topography" (the AMC also has his photography collection). In the 1900s, the area around Lake Winnipesaukee was remote and undeveloped; Endicott helped in documenting the transfer of lots on the lake’s Three Mile Island owned by Mrs. Eastman and Mr. Lawrence to the Club. Today, the island is a highly popular resort for camping.
+This set of maps was created in 1991 as the State of Massachusetts faced increased risk of eastern equine encephalitis (Triple E virus) spreading, with each map showing a different variable for the same geographic extent. Public health applications are still one of the most common uses for making maps using computers. Earlier tin 2024, this same virus was making headlines for confirmed cases in the state!
+
+
+
 
 ##### ***Map of the Pan American R.R. and its connections***.
 
