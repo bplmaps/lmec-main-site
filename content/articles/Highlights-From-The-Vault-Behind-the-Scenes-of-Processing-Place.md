@@ -54,14 +54,14 @@ This map was created as a reference poster for folks working with federal spatia
 
 This set of maps was created in 1991 as the State of Massachusetts faced increased risk of eastern equine encephalitis (Triple E virus) spreading, with each map showing a different variable for the same geographic extent. Public health applications are still one of the most common uses for making maps using computers. Earlier tin 2024, this same virus was making headlines for confirmed cases in the state!
 
+##### MassGIS [Digital orthography checkplots](https://collections.leventhalmap.org/search/commonwealth:rj435666w) (2000)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cv43tx62n/full/,1200/0/default.jpg" class="" >}}
+
+This graphic is a helpful visual to understand the different resolutions of aerial imagery and which scales are most useful for different planning and land use studies. It’s important to note that when this poster was produced, the standard form of imagery like this would have been aerial imagery that was produced through dozens of hours of plane flights across the state of Massachusetts. Today, this method of creating land use imagery is still used, but is now also augmented by the increasing availability of satellite imagery.
 
 
 
-##### ***Map of the Pan American R.R. and its connections***.
-
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 3 (3).png" class="" >}}
-
-The Pan American R.R. was started in 1891 by a group of Boston investors who sought to build a railroad line from Victoria, Texas to Rio de Janeiro, Brazil. The decorative title block suggests that this map was designed to interest potential investors. However, the railroad never took off – only 10 miles of track were completed before the investors ran out of money. The map displays the proposed route in the context of other railroad lines in Texas. This print shows a standard mode of editing prints – a red pencil. 
 
 ##### Viaux, F. H.; Whitney, William H. ***Suggestions for the Laying Out of the Lands of the Charles River Embankment Co. and Others.*** (1888)
 
