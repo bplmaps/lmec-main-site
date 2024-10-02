@@ -4,8 +4,8 @@ title: 'Highlights From The Vault: Blue(print) Maps'
 date: 2024-08-30T04:00:00.000Z
 author: Karen Vagts
 description: >-
-  Check out these highlights from the August 16th themed From The Vault: The
-  Making of Maps. This collections showing event was specially curated by
+  Check out these highlights from the August 29th themed From The Vault:
+  Blue(print) Maps. This collections showing event was specially curated by
   longtime LMEC volunteer, Karen Vagts.
 image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/blueprints.jpeg'
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/blueprints.jpeg'
