@@ -60,11 +60,8 @@ This set of maps was created in 1991 as the State of Massachusetts faced increas
 
 This graphic is a helpful visual to understand the different resolutions of aerial imagery and which scales are most useful for different planning and land use studies. It’s important to note that when this poster was produced, the standard form of imagery like this would have been aerial imagery that was produced through dozens of hours of plane flights across the state of Massachusetts. Today, this method of creating land use imagery is still used, but is now also augmented by the increasing availability of satellite imagery.
 
+##### MassGIS [EOEA MassGIS geographic information system transition document](https://collections.leventhalmap.org/search/commonwealth:dn402997f) (1990)
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:j6735c05m/full/,1200/0/default.jpg" class="" >}}
 
-
-##### Viaux, F. H.; Whitney, William H. ***Suggestions for the Laying Out of the Lands of the Charles River Embankment Co. and Others.*** (1888)
-
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 3 (1).png" class="" >}}
-
-In the 1880s and 1890s, the rapid development of the Back Bay on the Boston side of the Charles River excited land developers about the possibilities of mirroring the Back Bay on the Cambridge side. One such project was proposed by Charles Davenport of the Charles River Embankment Company. Inspired by a visit to Havana, Cuba, Davenport hired Frederick H. Viaux to design a series of studies for a new residential neighborhood on what had largely been swamp land.  This design featured an esplanade fronting roads and blocks with multiple rotaries. This particular project never came to fruition – the developer went bankrupt – and the neighborhood lay dormant for a time until M.I.T. moved there from Back Bay in the 1910s and developed its current campus alongside what is now Memorial Drive.
+This document was produced by Applied Geographics, Inc. as a tool for MassGIS to be able to bridge a technology transition to primarily computer-led workflows for making maps across the agency. This document is a collection of visualizations of statewide datasets that can be used in different contexts and examples of maps made for different specific applications. Of particular interest are the descriptions and definitions listed above that give administrative context for why this document was created.
