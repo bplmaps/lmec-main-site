@@ -39,6 +39,7 @@ Three to five teen curators will be selected.
 
 Applicants must be current Boston Public School juniors and seniors. 
 
+<a href="https://tally.so/r/3j7e94" class="btn btn-lg btn-primary-outline">Apply online</a>
 
 ## Stipend
 
