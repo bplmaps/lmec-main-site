@@ -36,11 +36,14 @@ This page is a print-out of an important step in mapmaking, which is laying out 
 
 This map shows the ways that land use changed over two decades in the Massachusetts town of Mashpee. As with other maps of this time period, the map is in many ways secondary in importance to the data table of land use statistics printed on the bottom of the sheet. One notable part of this map is that the cartographers took time to create two “Change” views that can visually help guide a viewer towards an understanding of the difference between two moments in time.
 
-##### C.R.B.; Edmund S. Davis ***Detail Plan. Section 4. Boylston Street Subway. Typical Cross Section***. (1913)
+##### MassGIS [The Appalachian trail in Massachusetts](https://collections.leventhalmap.org/search/commonwealth:rx918q84f) (1991)
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 1 (1).png" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28gk205/full/,1200/0/default.jpg" class="" >}}
 
-Since their introduction, blueprints have become synonymous with construction drawings. They are durable enough for use at construction sites, can be drawn on, and easily reproduced and distributed to the many trades involved in a construction project. This detailed plan shows a section elevation view of the subway tunnels at the MBTA Green Line Boylston Street subway station (the section clarifies how tight the space is between the two subway tracks). The creator was Edmund S. Davis, who served as chief engineer of the Boston Transit Department from 1909 through 1920. 
+This map is an incredibly sophisticated example of the complicated layouts and visualizations that could be achieved using the mapmaking softwares of the early 1990s. What is noteworthy from our perspective, however, is how the cartographer (noted as “MT” in the bottom left hand corner) left his humorous mark on the piece. “MT” is Mike Terner, a former employee of Applied Geographics, Inc., which was contracted by MassGIS to make maps throughout the 1990s and Mike left small linework visualizations of hikers scattered across the page — a creative way to add visual interest while working within the confines of printing technology at the time.
+
+
+
 
 ##### Robert B. Bellamy ***Plan of Property of Society Har Moriah Cemetery Corporation, Hyde Park and West Roxbury Mass*** (1931)
 
