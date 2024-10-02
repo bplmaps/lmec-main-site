@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Highlights From The Vault: Behind the Scenes of Processing Place'
 date: 2024-09-27T04:00:00.000Z
 author: Emily Bowe
