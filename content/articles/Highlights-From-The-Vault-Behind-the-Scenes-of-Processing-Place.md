@@ -16,13 +16,16 @@ tags:
 
 > *On September 27, we hosted **From The Vault: Behind the Scenes of Processing Place***.
 
-Consisting of early GIS maps of Massachusetts, alongside other cartographic objects that helped give insight into the early relationships of computers and cartographers, this From the Vault focused on objects that give a window into the early period of computer cartography, but that didn’t quite make the cut for our current gallery exhibition. Impressed by what you see here? Be sure to see the objects that did make the cut in our current exhibition, [Processing Place](https://www.leventhalmap.org/digital-exhibitions/processing-place/), in the [Leventhal Map & Education Center gallery](https://www.leventhalmap.org/exhibitions/visit/). 
+Consisting of early GIS maps of Massachusetts, alongside other cartographic objects that helped give insight into the early relationships of computers and cartographers, this From the Vault focused on objects that give a window into the early period of computer cartography, but that didn’t quite make the cut for our current gallery exhibition. Impressed by what you see here? Be sure to see the objects that did make the cut in our current exhibition, [Processing Place](https://www.leventhalmap.org/digital-exhibitions/processing-place/), in the [Leventhal Map & Education Center gallery](https://www.leventhalmap.org/exhibitions/visit/).
 
-##### Frederic Endicott ***Plan for Arc Lights. Canton, Mass.*** (1886)
+##### MassGIS Views of Cape Ann (1990)
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Canton arc lights.png" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zw133h24g/full/,1200/0/default.jpg" class="" >}}
 
-Introduced in the late 1870s, {{<popup img-src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/unnamed.jpg">}}arc lamps{{</popup>}} were the primary technology used for street lighting until incandescent lamps took over in the early 20th century. In 1890, the town of Canton, Massachusetts installed its first set of street lights as a trial; within a few months, the lights were deemed indispensable and residents were demanding even more streets to be illuminated. In 1886, surveyor Frederic Endicott produced plans showing the locations of arc lights along the town’s major roadways. The minimalist presentation and the star-like symbol chosen to represent the lights evoke a celestial map such as those shown in the gallery exhibition, *[Heaven & Earth](https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth/)*. 
+This map is an early example of maps made using corporate mapping software, Arc/INFO, and printed with electrostatic printers. In the center table in the gallery, you can see a sample color swatch diagram that would have been used to pick colors for maps like this. Particularly notable in this map are the “3D”-looking representations of elevation data, which were based on federal datasets such as digital line graph (DLG) and digital elevation model (DEM), and were a hallmark feature of Arc/INFO that allowed for visual representations of surfaces.
+
+
+
 
 ##### Fuller & Whitney ***Plans Commonwealth and Beacon*** (1880s)
 
