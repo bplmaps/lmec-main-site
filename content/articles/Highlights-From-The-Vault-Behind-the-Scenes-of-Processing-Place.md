@@ -42,14 +42,11 @@ This map shows the ways that land use changed over two decades in the Massachuse
 
 This map is an incredibly sophisticated example of the complicated layouts and visualizations that could be achieved using the mapmaking softwares of the early 1990s. What is noteworthy from our perspective, however, is how the cartographer (noted as “MT” in the bottom left hand corner) left his humorous mark on the piece. “MT” is Mike Terner, a former employee of Applied Geographics, Inc., which was contracted by MassGIS to make maps throughout the 1990s and Mike left small linework visualizations of hikers scattered across the page — a creative way to add visual interest while working within the confines of printing technology at the time.
 
+##### Geological Survey (U.S.). National Mapping Division [Index to 1:24,000-scale digital line graph (DLG) and digital elevation model (DEM) data](https://collections.leventhalmap.org/search/commonwealth:7d27fs716) (1995)
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2v241v11d/full/,850/0/default.jpg" >}}
 
-
-##### Robert B. Bellamy ***Plan of Property of Society Har Moriah Cemetery Corporation, Hyde Park and West Roxbury Mass*** (1931)
-
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 3.png" >}}
-
-In 1931, Dorchester-based surveyor Robert B. Bellamy produced a survey for the Society Har Moriah Cemetery Corporation. The plan shows multiple lots at the Cemetery’s site at the Hyde Park / West Roxbury border. These two versions of the plan demonstrate the blueprint process – the image on the left is the original drawing, created with dark ink on a translucent paper. The blueprint process produced a reverse image of white lines and text on a blue background. An infinite number of prints could be produced in much less time than hand copying and the prints could be marked up, rolled, and otherwise handled without impacting the original. The prints also were difficult to modify without being obvious so they often served as “record copies.”   
+This map was created as a reference poster for folks working with federal spatial data and would have been useful to discover what kinds of datasets existed for places across the United States. In the map, the country has been divided into a large grid and each “cell” (or individual rectangle) of the grid has symbols that show what kinds of datasets were completed (red background with black symbols) or in progress (white background with green symbols) for each part of the country. Visualizations of digital elevation models can be seen in Views of Cape Ann and The Appalachian trail in Massachusetts.
 
 ##### Frederic Endicott ***Map of Three Mile Island in Lake Winnipesaukee Owned by the Appalachian Mountain Club. Together with its Nearest Neighbors.*** (1902)
 
