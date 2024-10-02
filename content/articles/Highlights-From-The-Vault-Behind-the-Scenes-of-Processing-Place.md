@@ -18,28 +18,29 @@ tags:
 
 Consisting of early GIS maps of Massachusetts, alongside other cartographic objects that helped give insight into the early relationships of computers and cartographers, this From the Vault focused on objects that give a window into the early period of computer cartography, but that didn’t quite make the cut for our current gallery exhibition. Impressed by what you see here? Be sure to see the objects that did make the cut in our current exhibition, [Processing Place](https://www.leventhalmap.org/digital-exhibitions/processing-place/), in the [Leventhal Map & Education Center gallery](https://www.leventhalmap.org/exhibitions/visit/).
 
-##### MassGIS Views of Cape Ann (1990)
+##### MassGIS ***[Views of Cape Ann](https://collections.leventhalmap.org/search/commonwealth:2b88vr376)*** (1990)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zw133h24g/full/,1200/0/default.jpg" class="" >}}
 
 This map is an early example of maps made using corporate mapping software, Arc/INFO, and printed with electrostatic printers. In the center table in the gallery, you can see a sample color swatch diagram that would have been used to pick colors for maps like this. Particularly notable in this map are the “3D”-looking representations of elevation data, which were based on federal datasets such as digital line graph (DLG) and digital elevation model (DEM), and were a hallmark feature of Arc/INFO that allowed for visual representations of surfaces.
 
+##### Applied Geographics, Inc. [Massachusetts coastal towns](https://collections.leventhalmap.org/search/commonwealth:2227s1511) \[ca. 1990-1999]
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js95bw30k/full/850,/0/default.jpg" class="" >}}
 
-
-##### Fuller & Whitney ***Plans Commonwealth and Beacon*** (1880s)
-
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/map 3 (2).png" class="" >}}
-
-The civil engineering/surveying firm of Fuller & Whitney, later William H. Whitney, oversaw the development and filling-in of Boston’s Back Bay during the 1880s. This work involved the development of overall street layouts, studies of alternative schemes for various neighborhoods, and documentation of land sales. Most of these documents were circulated as blueprints, using a variant on the process invented in 1842 by Sir John Hershel that Whitney modified, earning him an award from the Massachusetts Charitable Mechanics' Association. His work in this area helped mainstream blueprints in his profession. 
-
-The treatment of the outlines of bodies of water in Back Bay evokes thoughts of some of the [geographical maps](https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth/catalogue/3/) in the current Heaven & Earth exhibit.
+This page is a print-out of an important step in mapmaking, which is laying out the important informative elements of a map (title block, credits, north arrow, scale bar, etc.) so that they don’t interfere with the content of the map. Computerized map production meant it was trivial to create visualizations of the same dataset for different locations, seen here with the same types of information displayed for various coastal towns of Massachusetts. This page only shows the outlines of the towns and the orange and green marks show an unnamed editor's ideas for where the title block and credits, respectively, could be located for each map.
 
 ##### Louis Day ***Map - B. Property at Floral Park. Nassau County, N.Y. The Floral Park Corporation***. (1919)
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Floral Map.png" class="" >}}
 
-Floral Park in Nassau County, New York is an example of the late 19th-century interest in planned suburban communities, often supported by a conveniently nearby railway station.  Based in a region of flower farms, the community features streets named after plants as well as many amenities. Development commenced in the 1880s and 1890s but additions continued well into the 20th century. Blueprints provided a useful format for the developers and planners to track modifications, lots sales, and other developments on copies of the original; this version shows crosses, probably to mark transactions related to specific lots.  
+MassGIS
+
+Mashpee land use change 1971-1990
+
+1991
+
+This map shows the ways that land use changed over two decades in the Massachusetts town of Mashpee. As with other maps of this time period, the map is in many ways secondary in importance to the data table of land use statistics printed on the bottom of the sheet. One notable part of this map is that the cartographers took time to create two “Change” views that can visually help guide a viewer towards an understanding of the difference between two moments in time.
 
 ##### C.R.B.; Edmund S. Davis ***Detail Plan. Section 4. Boylston Street Subway. Typical Cross Section***. (1913)
 
