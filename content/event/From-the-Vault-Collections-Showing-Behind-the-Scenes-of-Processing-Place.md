@@ -15,7 +15,7 @@ Curious about computer cartography? Join us for an afternoon of close map lookin
 
 For this edition of From The Vault, come see early GIS maps of Massachusetts, alongside other cartographic objects that help give insight into the early relationships of computers and cartographers. This drop-in showing will be hosted Friday, September 27 from 2-4 pm in the Learning Center with a staff member from the Leventhal Center available to answer questions. This collections showing event was specially curated by our Assistant Director, **Emily Bowe**.
 
-No advance registration is required.
+No advance registration is required
 
 ##### ***From The Vault***
 
