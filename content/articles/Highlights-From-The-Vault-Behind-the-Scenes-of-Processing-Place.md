@@ -7,8 +7,10 @@ description: >-
   Check out these highlights from the September 27th themed From The Vault:
   Behind the Scenes of Processing Place. This collections showing event was
   specially curated by our Assistant Director, Emily Bowe.
-image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/blueprints.jpeg'
-backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/blueprints.jpeg'
+image: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zw133h24g/full/,1200/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zw133h24g/full/,1200/0/default.jpg
 tags:
   - ftv highlights
   - from the vault
