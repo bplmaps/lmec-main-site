@@ -3,6 +3,12 @@ draft: true
 title: '2024 Druker Award & Lecture: Ted Landsmark'
 date: 2024-11-16T19:00:00.000Z
 publishDate: 2024-10-07T04:00:00.000Z
+image: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/1.2B-Boston 1788
+  William Gordon London - MM.jpg
+backgroundImage: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/1.2B-Boston 1788
+  William Gordon London - MM.jpg
 location: Central Library in Copley Square
 registration: 'https://bpl.bibliocommons.com/events/6703e514750fa7242a61cd9c'
 ---
