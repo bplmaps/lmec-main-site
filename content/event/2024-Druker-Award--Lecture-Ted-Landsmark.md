@@ -13,8 +13,6 @@ location: Central Library in Copley Square
 registration: 'https://bpl.bibliocommons.com/events/6703e514750fa7242a61cd9c'
 ---
 
-{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is hosted by BPL Adult Programs.{{\</ alert-box >}}
-
 ### About this event
 
 The Druker Award is presented annually to a speaker or speakers who has or have made outstanding and important contributions to the world of design.
