@@ -9,11 +9,11 @@ registration: 'https://bpl.bibliocommons.com/events/6703e514750fa7242a61cd9c'
 
 The Druker Award is presented annually to a speaker or speakers who has or have made outstanding and important contributions to the world of design.
 
-{{< figure src="https://bpl.bibliocommons.com/events/uploads/images/full/66c4f996718d51024cfd0a00967b0c4c/SPPUA-Landsmark-web-600x800-c-default.jpg" >}}
+{{< figure src="https://bpl.bibliocommons.com/events/uploads/images/full/66c4f996718d51024cfd0a00967b0c4c/SPPUA-Landsmark-web-600x800-c-default.jpg" class="figure-left" >}}
 
 This year's awardee, Theodore (Ted) C. Landsmark, a civic planner, educator, and civil rights advocate, will reflect in conversation with BPL President David Leonard on reimagining the urban public library, transformative civic spaces, and building an equitable city. Following the discussion there will be an audience Q\&A. Druker Company President Ronald M. Druker will give welcoming remarks.
 
-Ted Landsmark has been a civic planner, civil rights and equity advocate, higher education administrator, arts and culture researcher, and community-engaged social activist in Boston and nationally. He serves on the leadership committee of the Northeastern University Faculty Senate and on the board of the Leventhal Map and Education Center. 
+Ted Landsmark has been a civic planner, civil rights and equity advocate, higher education administrator, arts and culture researcher, and community-engaged social activist in Boston and nationally. He serves on the leadership committee of the Northeastern University Faculty Senate and on the board of the Leventhal Map and Education Center.
 
 As Director of the Dukakis Center for Urban and Regional Policy, Professor Landsmark oversees inter-disciplinary research on urban policy matters, including housing, gentrification, economic development, civic engagement, school design, comprehensive services, transportation, resilience, and public service. Dr. Landsmark teaches the Open Classroom on community engagement in policy planning and design, racial equity and civic justice, and Capstone courses. He has convened an annual conference on equitable policy engagement. His research and practice interests include diversity in environmental design and education, higher education administration, community-based economic development, historic preservation, resilience and sustainability, and African American artisanry.
 
