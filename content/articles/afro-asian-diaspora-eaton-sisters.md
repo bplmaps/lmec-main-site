@@ -23,22 +23,37 @@ Though the Eaton sisters worked primarily in Western Chinatowns and Japan, their
 
 ### Intimacies in the Eaton Sister's Work
 
-As part of my doctoral research, [I created a StoryMap](https://arcg.is/11GW5S2) to show the geographically complex and multi-sited character of the Eaton Sisters' publication strategy. This StoryMap shows some of the places the Eaton sisters published, what they published, where they published, quotes from publications, and how the content engages with social forces like race, class, and immigration. It also explores the geographies of these archival texts, drawing attention to Afro-Asian identities, networks, and their place in Caribbean Studies. For example, the poem "[Sneer Not](https://winnifredeatonarchive.org/SneerNot1.html)"---published by Winnifred Eaton in 1896 in *Gall's Daily News Letter* in Kingston, Jamaica---argues that the act of sneering is not a result of wealth and class, but instead, experience.
+As part of my doctoral research, [I created a StoryMap](https://arcg.is/11GW5S2) to show the geographically complex and multi-sited character of the Eaton Sisters' publication strategy. This StoryMap shows some of the places the Eaton sisters published, what they published, where they published, quotes from publications, and how the content engages with social forces like race, class, and immigration. It also explores the geographies of these archival texts, drawing attention to Afro-Asian identities, networks, and their place in Caribbean Studies. For example, the poem "[Sneer Not](https://winnifredeatonarchive.org/SneerNot1.html)"---published by Winnifred Eaton in 1896 in *Gall's Daily News Letter* in Kingston, Jamaica---argues that the act of sneering is not a result of wealth and class, but instead, of experience:
 
-> Sneer not, ye cynics, who to school once went<br>
-> And talked with knowledge at her many marts;<br>
-> Who through long days and longer nights have spent<br>
-> Your peace of soul to strengthen mental parts.<br>
-> The worth ye garnered is not self-confined<br>
-> But spread in plenty like a trader’s show;<br>
-> Year in, year out, for all of human kind<br>
-> What you have learned, a countless number know;<br>
-> But rather court the grace that wisdom gives<br>
-> Which simply means---be fearful of thy might;<br>
-> He knows the most who learns and thereby lives<br>
-> To feel his weakness as he strengthens sight.<br>
->
-> -*Winnifred Eaton (1896)*
+<div class="container">
+  <div class="row">
+    <div class="col" style="border-left:2px solid gray">
+      <h6>Sneer Not</h6>
+      Sneer not, ye cynics, who to school once went<br>
+      And talked with knowledge at her many marts;<br>
+      Who through long days and longer nights have spent<br>
+      Your peace of soul to strengthen mental parts.<br>
+      The worth ye garnered is not self-confined<br>
+      But spread in plenty like a trader’s show;<br>
+      Year in, year out, for all of human kind<br>
+      What you have learned, a countless number know;<br>
+      But rather court the grace that wisdom gives<br>
+      Which simply means---be fearful of thy might;<br>
+      He knows the most who learns and thereby lives<br>
+      To feel his weakness as he strengthens sight.<br>
+    </div>
+    <div class="col">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col text-center m-4">
+      <i>-Winnifred Eaton (1896)</i>
+    </div>
+    <div class="col">
+    </div>
+  </div>
+</div>
+
 
 The goal of the map is to show the reach of the Eaton Sisters' work and identify what I call **Afro-Asian intimacies**. Here, I follow [Lisa Lowe's definition of intimacy](https://www.dukeupress.edu/the-intimacies-of-four-continents) as forms of contact (such as colonization) that can bring geographically distant people into closer relations—and even "cross-racial alliances"—with one another. In the Caribbean, Afro-Asian intimacies were forged through practices like indentureship with Chinese laborers in the nineteenth century and the creation of Caribbean Chinatowns in Kingston.[^2] Some scholars even speculate that the Eaton Sisters lived in or near a preemptive Chinatown. What does it mean to think of these intimacies as a form of kinship that can transcend different spheres of identity---Asian American, African American, and Caribbean---all at once?
 
