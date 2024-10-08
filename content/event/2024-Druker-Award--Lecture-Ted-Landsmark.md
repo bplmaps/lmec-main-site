@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: '2024 Druker Award & Lecture: Ted Landsmark'
 date: 2024-11-16T19:00:00.000Z
 publishDate: 2024-10-07T04:00:00.000Z
@@ -13,7 +13,7 @@ location: Central Library in Copley Square
 registration: 'https://bpl.bibliocommons.com/events/6703e514750fa7242a61cd9c'
 ---
 
-{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized by BPL Adult Programs{{< alert-box >}}
+{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized by BPL Adult Programs{{\< alert-box >}}
 
 ### About this event
 
