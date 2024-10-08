@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: '2024 Druker Award & Lecture: Ted Landsmark'
 date: 2024-11-16T19:00:00.000Z
 publishDate: 2024-10-07T04:00:00.000Z
