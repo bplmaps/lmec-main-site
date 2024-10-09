@@ -19,7 +19,7 @@ Moving pictures were introduced in the 1890s. Some of the earliest released to t
 
 Boston was featured in such a film released in February 1906.3 This film takes us on a tour through downtown and Back Bay, showing us regular people going about their daily routines nearly 120 years ago.
 
-### Boston in 1906 
+# Boston in 1906 
 
 The city seen in the movie is both similar to and different from the one we know today. Boston was then the fifth largest city in the country and growing rapidly, but the population of the metropolitan area was much more concentrated in the city itself than it is today. Certain Boston neighborhoods were among the most densely populated on Earth.
 
@@ -34,3 +34,17 @@ The opening scene depicts both. People, streetcars and horse-drawn wagons are se
 But as the streetcar approaches the Boston Common we also see an entrance to the then-new subway—part of an ambitious scheme to address this chaos as the city entered the new century.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Congestion Map.jpg" caption="1892 Map of Boston’s Congested District" class="figure-right" >}}
+
+The decision to begin on Tremont Street by the Common is interesting, since traffic problems there had done much to push the city to turn to subways and elevated rail. The situation was said to have been so bad that one could get from Park to Boylston Street more quickly by walking on the roofs of the stalled streetcars than riding on the seats within them. It’s part of the congested zone shown in the 1892 map published by the commission established by the Massachusetts Legislature to promote rapid transit for Boston and its suburbs. The commission’s report led to the decision to place transit both above and below the streets.
+
+## What to Look For
+
+In 1906, electric streetcars are everywhere, many having been converted from horsepower only a few years earlier. They run down the middle of the streets, and stop there to pick up and discharge passengers. Horse-drawn vehicles range from delivery wagons to elegant carriages taking the well-heeled about town. A four-horse freight wagon, the period equivalent of today’s eighteen-wheeler, is seen leaving North Station. Only one automobile is clearly visible.
+
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Medicinal Wines.png" caption="Cushing’s “Medical” Wine" class="figure-left" >}}
+
+For all the variety in forms of transportation, much less is evident in the people.10 Everyone is wearing a hat. The women are all wearing long skirts and the men neckties. But if the film included sound, we would hear accents from all over the world. According to the 1900 census, about 30 percent of Boston residents were born outside the United States.
+
+Although difficult to make out in the jerky, low resolution movie, signs on the buildings and in the windows tell us a lot about the time and place. Barber shops appear to be everywhere, often on the second floor, and signs advertising haircuts for 15 cents bring home the effect of decades of inflation. Billiards seems to have been a popular pastime, with many signs on Washington Street advertising such establishments. And then there’s the sign on Washington Street for the Cushing Medical Supply Co. A detailed still photo shows that the “medical” supplies were “medicinal wines.”
+
+Cushing’s “Medical” Wine
