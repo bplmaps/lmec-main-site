@@ -55,7 +55,7 @@ For all the variety in forms of transportation, much less is evident in the peop
 
 Although difficult to make out in the jerky, low resolution movie, signs on the buildings and in the windows tell us a lot about the time and place. Barber shops appear to be everywhere, often on the second floor, and signs advertising haircuts for 15 cents bring home the effect of decades of inflation.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Clothing on Credit.jpg" caption="Sign on Washington St. (11)" class="figure-right" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Clothing on Credit.jpg" caption="Sign on Washington St. (11)" class="figure-left" >}}
 
 Billiards seems to have been a popular pastime, with many signs on Washington Street advertising such establishments. And then there’s the sign on Washington Street for the Cushing Medical Supply Co. A detailed still photo shows that the “medical” supplies were “medicinal wines.”
 
