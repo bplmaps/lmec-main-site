@@ -15,21 +15,21 @@ Now change those dates and imagine someone from a century ago trying to explain 
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Streetcar on Washington.png" class="figure-right" caption="Washington Street during the shopping hour 1." >}}
 
-Moving pictures were introduced in the 1890s. Some of the earliest released to the public depicted scenes from everyday life, and were called “actualities.”(2). Producers soon realized they provided a way for people to tour the world without leaving home, and began making short films of street scenes. A popular way of doing this was to place a cameraman on a streetcar and film as they rode around.
+Moving pictures were introduced in the 1890s. Some of the earliest released to the public depicted scenes from everyday life, and were called “actualities.” ***(2)***. Producers soon realized they provided a way for people to tour the world without leaving home, and began making short films of street scenes. A popular way of doing this was to place a cameraman on a streetcar and film as they rode around.
 
-Boston was featured in such a film released in February 1906 (3). This film takes us on a tour through downtown and Back Bay, showing us regular people going about their daily routines nearly 120 years ago.
+Boston was featured in such a film released in February 1906 ***(3)***. This film takes us on a tour through downtown and Back Bay, showing us regular people going about their daily routines nearly 120 years ago.
 
-### Boston in 1906 
+### Boston in 1906
 
 The city seen in the movie is both similar to and different from the one we know today. Boston was then the fifth largest city in the country and growing rapidly, but the population of the metropolitan area was much more concentrated in the city itself than it is today. Certain Boston neighborhoods were among the most densely populated on Earth.
 
-Multistory office, manufacturing and warehouse structures had largely displaced residences downtown. Boston’s first “skyscraper,” the 14-story Ames Building, was completed in 1893. The subway, first in the country,(4) had just begun running in 1897. And an entirely new district, the Back Bay, was being filled not only with elegant residences, but also imposing structures for such institutions as the Museum of Fine Arts, the Boston Public Library, the Boston Symphony, Harvard Medical School, and M.I.T., that to this day anchor much of New England’s cultural and intellectual life.
+Multistory office, manufacturing and warehouse structures had largely displaced residences downtown. Boston’s first “skyscraper,” the 14-story Ames Building, was completed in 1893. The subway, first in the country ***(4),*** had just begun running in 1897. And an entirely new district, the Back Bay, was being filled not only with elegant residences, but also imposing structures for such institutions as the Museum of Fine Arts, the Boston Public Library, the Boston Symphony, Harvard Medical School, and M.I.T., that to this day anchor much of New England’s cultural and intellectual life.
 
-John “Honey Fitz” Fitzgerald was mayor; his grandson would be elected president in 1960. King Gillette’s fledgling razor company, which he founded above a fish store on Atlantic Avenue, was about to turn its first profit after selling just 51 razors and 168 blades in 1903 (5).
+John “Honey Fitz” Fitzgerald was mayor; his grandson would be elected president in 1960. King Gillette’s fledgling razor company, which he founded above a fish store on Atlantic Avenue, was about to turn its first profit after selling just 51 razors and 168 blades in 1903 ***(5)***.
 
 With so much going on in Boston at the time, it’s interesting to speculate how the filmmaker, Billy Bitner, decided what to include. He was a Boston native and would have been familiar with what Bostonians of the day considered significant. Thus, it’s interesting that none of Boston’s traditional historic sites are included except for a few seconds where we glimpse a corner of the Old South Meeting House. Instead of looking to the past, there appears to be an emphasis on the present and future: Boston as a bustling and sometimes chaotic metropolis, and a place at the forefront of twentieth century innovation.
 
-The opening scene depicts both. People, streetcars and horse-drawn wagons are seen engaged in free-for-all pandemonium. There are no stop signs, lane markers or speed limits (6). Boston didn’t install its first traffic lights until 1925, well after other major cities (7). Intersections are basically survival of the fittest. Today’s Bostonians would feel right at home.
+The opening scene depicts both. People, streetcars and horse-drawn wagons are seen engaged in free-for-all pandemonium. There are no stop signs, lane markers or speed limits ***(6)***. Boston didn’t install its first traffic lights until 1925, well after other major cities ***(7)***. Intersections are basically survival of the fittest. Today’s Bostonians would feel right at home.
 
 But as the streetcar approaches the Boston Common we also see an entrance to the then-new subway—part of an ambitious scheme to address this chaos as the city entered the new century.
 
@@ -43,7 +43,7 @@ In 1906, electric streetcars are everywhere, many having been converted from hor
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Medicinal Wines.png" caption="Cushing’s “Medical” Wine (9)" class="figure-left" >}}
 
-For all the variety in forms of transportation, much less is evident in the people (10). Everyone is wearing a hat. The women are all wearing long skirts and the men neckties. But if the film included sound, we would hear accents from all over the world. According to the 1900 census, about 30 percent of Boston residents were born outside the United States.
+For all the variety in forms of transportation, much less is evident in the people ***(10)***. Everyone is wearing a hat. The women are all wearing long skirts and the men neckties. But if the film included sound, we would hear accents from all over the world. According to the 1900 census, about 30 percent of Boston residents were born outside the United States.
 
 Although difficult to make out in the jerky, low resolution movie, signs on the buildings and in the windows tell us a lot about the time and place. Barber shops appear to be everywhere, often on the second floor, and signs advertising haircuts for 15 cents bring home the effect of decades of inflation. Billiards seems to have been a popular pastime, with many signs on Washington Street advertising such establishments. And then there’s the sign on Washington Street for the Cushing Medical Supply Co. A detailed still photo shows that the “medical” supplies were “medicinal wines.”
 
