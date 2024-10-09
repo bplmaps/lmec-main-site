@@ -50,3 +50,5 @@ Although difficult to make out in the jerky, low resolution movie, signs on the 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Clothing on Credit.jpg" caption="Sign on Washington St." class="figure-left" >}}
 
 Modern viewers might find it strange that some stores had signs announcing they sold goods on credit. But in 1906, credit cards like MasterCard and Visa were many decades in the future, and purchasing daily necessities on credit was regarded by many as consumptive debt and socially unacceptable. Thus, the signs likely attracted attention, but the people entering those shops might have first looked both ways to make sure no one they knew saw them.
+
+Stay tuned. In our next installment, Riding Around 1906 Boston, we’ll climb onboard the streetcar and start rolling!
