@@ -15,25 +15,25 @@ Now change those dates and imagine someone from a century ago trying to explain 
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Streetcar on Washington.png" class="figure-right" caption="Washington Street during the shopping hour 1." >}}
 
-Moving pictures were introduced in the 1890s. Some of the earliest released to the public depicted scenes from everyday life, and were called “actualities.”2. Producers soon realized they provided a way for people to tour the world without leaving home, and began making short films of street scenes. A popular way of doing this was to place a cameraman on a streetcar and film as they rode around.
+Moving pictures were introduced in the 1890s. Some of the earliest released to the public depicted scenes from everyday life, and were called “actualities.”(2). Producers soon realized they provided a way for people to tour the world without leaving home, and began making short films of street scenes. A popular way of doing this was to place a cameraman on a streetcar and film as they rode around.
 
-Boston was featured in such a film released in February 1906 3. This film takes us on a tour through downtown and Back Bay, showing us regular people going about their daily routines nearly 120 years ago.
+Boston was featured in such a film released in February 1906 (3). This film takes us on a tour through downtown and Back Bay, showing us regular people going about their daily routines nearly 120 years ago.
 
 ### Boston in 1906 
 
 The city seen in the movie is both similar to and different from the one we know today. Boston was then the fifth largest city in the country and growing rapidly, but the population of the metropolitan area was much more concentrated in the city itself than it is today. Certain Boston neighborhoods were among the most densely populated on Earth.
 
-Multistory office, manufacturing and warehouse structures had largely displaced residences downtown. Boston’s first “skyscraper,” the 14-story Ames Building, was completed in 1893. The subway, first in the country,4 had just begun running in 1897. And an entirely new district, the Back Bay, was being filled not only with elegant residences, but also imposing structures for such institutions as the Museum of Fine Arts, the Boston Public Library, the Boston Symphony, Harvard Medical School, and M.I.T., that to this day anchor much of New England’s cultural and intellectual life.
+Multistory office, manufacturing and warehouse structures had largely displaced residences downtown. Boston’s first “skyscraper,” the 14-story Ames Building, was completed in 1893. The subway, first in the country,(4) had just begun running in 1897. And an entirely new district, the Back Bay, was being filled not only with elegant residences, but also imposing structures for such institutions as the Museum of Fine Arts, the Boston Public Library, the Boston Symphony, Harvard Medical School, and M.I.T., that to this day anchor much of New England’s cultural and intellectual life.
 
-John “Honey Fitz” Fitzgerald was mayor; his grandson would be elected president in 1960. King Gillette’s fledgling razor company, which he founded above a fish store on Atlantic Avenue, was about to turn its first profit after selling just 51 razors and 168 blades in 1903 5.
+John “Honey Fitz” Fitzgerald was mayor; his grandson would be elected president in 1960. King Gillette’s fledgling razor company, which he founded above a fish store on Atlantic Avenue, was about to turn its first profit after selling just 51 razors and 168 blades in 1903 (5).
 
 With so much going on in Boston at the time, it’s interesting to speculate how the filmmaker, Billy Bitner, decided what to include. He was a Boston native and would have been familiar with what Bostonians of the day considered significant. Thus, it’s interesting that none of Boston’s traditional historic sites are included except for a few seconds where we glimpse a corner of the Old South Meeting House. Instead of looking to the past, there appears to be an emphasis on the present and future: Boston as a bustling and sometimes chaotic metropolis, and a place at the forefront of twentieth century innovation.
 
-The opening scene depicts both. People, streetcars and horse-drawn wagons are seen engaged in free-for-all pandemonium. There are no stop signs, lane markers or speed limits 6. Boston didn’t install its first traffic lights until 1925, well after other major cities 7. Intersections are basically survival of the fittest. Today’s Bostonians would feel right at home.
+The opening scene depicts both. People, streetcars and horse-drawn wagons are seen engaged in free-for-all pandemonium. There are no stop signs, lane markers or speed limits (6). Boston didn’t install its first traffic lights until 1925, well after other major cities (7). Intersections are basically survival of the fittest. Today’s Bostonians would feel right at home.
 
 But as the streetcar approaches the Boston Common we also see an entrance to the then-new subway—part of an ambitious scheme to address this chaos as the city entered the new century.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Congestion Map.jpg" caption="1892 Map of Boston’s Congested District 8." class="figure-right" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Congestion Map.jpg" caption="1892 Map of Boston’s Congested District (8)." class="figure-right" >}}
 
 The decision to begin on Tremont Street by the Common is interesting, since traffic problems there had done much to push the city to turn to subways and elevated rail. The situation was said to have been so bad that one could get from Park to Boylston Street more quickly by walking on the roofs of the stalled streetcars than riding on the seats within them. It’s part of the congested zone shown in the 1892 map published by the commission established by the Massachusetts Legislature to promote rapid transit for Boston and its suburbs. The commission’s report led to the decision to place transit both above and below the streets.
 
