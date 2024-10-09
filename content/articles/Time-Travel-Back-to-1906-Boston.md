@@ -47,9 +47,9 @@ The decision to begin on Tremont Street by the Common is interesting, since traf
 
 ### What to Look For
 
-In 1906, electric streetcars are everywhere, many having been converted from horsepower only a few years earlier. They run down the middle of the streets, and stop there to pick up and discharge passengers. Horse-drawn vehicles range from delivery wagons to elegant carriages taking the well-heeled about town. A four-horse freight wagon, the period equivalent of today’s eighteen-wheeler, is seen leaving North Station. Only one automobile is clearly visible.
-
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Medicinal Wines.png" caption="Cushing’s “Medical” Wine (9)" class="figure-left" >}}
+
+In 1906, electric streetcars are everywhere, many having been converted from horsepower only a few years earlier. They run down the middle of the streets, and stop there to pick up and discharge passengers. Horse-drawn vehicles range from delivery wagons to elegant carriages taking the well-heeled about town. A four-horse freight wagon, the period equivalent of today’s eighteen-wheeler, is seen leaving North Station. Only one automobile is clearly visible.
 
 For all the variety in forms of transportation, much less is evident in the people ***(10)***. Everyone is wearing a hat. The women are all wearing long skirts and the men neckties. But if the film included sound, we would hear accents from all over the world. According to the 1900 census, about 30 percent of Boston residents were born outside the United States.
 
