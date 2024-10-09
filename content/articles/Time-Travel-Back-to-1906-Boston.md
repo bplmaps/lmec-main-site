@@ -53,28 +53,28 @@ Billiards seems to have been a popular pastime, with many signs on Washington St
 
 Modern viewers might find it strange that some stores had signs announcing they sold goods on credit. But in 1906, credit cards like MasterCard and Visa were many decades in the future, and purchasing daily necessities on credit was regarded by many as consumptive debt and socially unacceptable. Thus, the signs likely attracted attention, but the people entering those shops might have first looked both ways to make sure no one they knew saw them.
 
-Stay tuned. In our next installment, Riding Around 1906 Boston, we’ll climb onboard the streetcar and start rolling!
+Stay tuned. In our next installment, *Riding Around 1906 Boston*, we’ll climb onboard the streetcar and start rolling!
 
-#### Notes
+#### **Notes**
 
-1: Screen capture from Seeing Boston.
+**1:** Screen capture from *Seeing Boston*.
 
-2: The term was coined by the Lumière brothers, French cinematographers and manufacturers of photographic equipment. Their first actuality film was a short clip showing workers leaving their factory. [https://en.wikipedia.org/wiki/Workers\_Leaving\_the\_Lumi%C3%A8re\_Factory](https://en.wikipedia.org/wiki/Workers_Leaving_the_Lumi%C3%A8re_Factory)
+**2:** The term was coined by the Lumière brothers, French cinematographers and manufacturers of photographic equipment. Their first actuality film was a short clip showing workers leaving their factory. [https://en.wikipedia.org/wiki/Workers\_Leaving\_the\_Lumi%C3%A8re\_Factory](https://en.wikipedia.org/wiki/Workers_Leaving_the_Lumi%C3%A8re_Factory)
 
-3: Seeing Boston, American Mutoscope & Biograph Co. (February 1, 1906) Catalogue H72715. See also, entry in American Film Institute Catalog of Feature Films,[https://catalog.afi.com/Catalog/MovieDetails/29322](https://catalog.afi.com/Catalog/MovieDetails/29322).
+**3:** Seeing Boston, American Mutoscope & Biograph Co. (February 1, 1906) Catalogue H72715. See also, entry in American Film Institute Catalog of Feature Films,[https://catalog.afi.com/Catalog/MovieDetails/29322](https://catalog.afi.com/Catalog/MovieDetails/29322).
 
-4:New York had a short subway that ran through pneumatic tubes in the 1870s, but it never provided regular service to the general public. See, Mariam Touba, Beach Pneumatic Transit: The 1870 Subway That Could Have Been?, New York Historical Society web site (February 19, 2020), [https://www.nyhistory.org/blogs/beach-pneumatic-transit-the-1870-subway-that-could-have-been.](https://www.nyhistory.org/blogs/beach-pneumatic-transit-the-1870-subway-that-could-have-been)
+**4:** New York had a short subway that ran through pneumatic tubes in the 1870s, but it never provided regular service to the general public. See, Mariam Touba, Beach Pneumatic Transit: The 1870 Subway That Could Have Been?, New York Historical Society web site (February 19, 2020), [https://www.nyhistory.org/blogs/beach-pneumatic-transit-the-1870-subway-that-could-have-been.](https://www.nyhistory.org/blogs/beach-pneumatic-transit-the-1870-subway-that-could-have-been)
 
-5: From Harvard Business School’s page for King Gillette in its compilation of Great American Business Leaders of the 20th Century, [https://www.hbs.edu/leadership/20th-century-leaders/details?profile=king\_c\_gillette](https://www.hbs.edu/leadership/20th-century-leaders/details?profile=king_c_gillette).
+**5:** From Harvard Business School’s page for King Gillette in its compilation of Great American Business Leaders of the 20th Century, [https://www.hbs.edu/leadership/20th-century-leaders/details?profile=king\_c\_gillette](https://www.hbs.edu/leadership/20th-century-leaders/details?profile=king_c_gillette).
 
-6: Peter DeMarco, Unsafe at Any Speed, The Boston Globe (October 13, 2009), [https://archive.boston.com/news/local/massachusetts/articles/2009/10/13/a\_century\_ago\_boston\_led\_the\_way\_in\_taming\_the\_states\_wild\_roads/](https://archive.boston.com/news/local/massachusetts/articles/2009/10/13/a_century_ago_boston_led_the_way_in_taming_the_states_wild_roads/).
+**6:** Peter DeMarco, Unsafe at Any Speed, The Boston Globe (October 13, 2009), [https://archive.boston.com/news/local/massachusetts/articles/2009/10/13/a\_century\_ago\_boston\_led\_the\_way\_in\_taming\_the\_states\_wild\_roads/](https://archive.boston.com/news/local/massachusetts/articles/2009/10/13/a_century_ago_boston_led_the_way_in_taming_the_states_wild_roads/).
 
-7: Clay McShane, The Origins and Globalization of Traffic Control Signals, Journal of Urban History, Vol. 25, No. 3, p. 383 (March 1999).
+**7:** Clay McShane, The Origins and Globalization of Traffic Control Signals, Journal of Urban History, Vol. 25, No. 3, p. 383 (March 1999).
 
-8: Massachusetts. Rapid Transit Commission, Plan Showing Congested District, City of Boston, March 1892, N.Y. Public Library, [https://digitalcollections.nypl.org/items/fc0baa70-79fc-0134-36b8-00505686a51c](https://digitalcollections.nypl.org/items/fc0baa70-79fc-0134-36b8-00505686a51c).
+**8:** Massachusetts. Rapid Transit Commission, Plan Showing Congested District, City of Boston, March 1892, N.Y. Public Library, [https://digitalcollections.nypl.org/items/fc0baa70-79fc-0134-36b8-00505686a51c](https://digitalcollections.nypl.org/items/fc0baa70-79fc-0134-36b8-00505686a51c).
 
-9: Detail from City of Boston Archives, Building corner Washington Street and Hayward Place (October 18, 1906), [https://www.flickr.com/photos/cityofbostonarchives/14541662943/in/album-72157640329278684/](https://www.flickr.com/photos/cityofbostonarchives/14541662943/in/album-72157640329278684/)
+**9:** Detail from City of Boston Archives, Building corner Washington Street and Hayward Place (October 18, 1906), [https://www.flickr.com/photos/cityofbostonarchives/14541662943/in/album-72157640329278684/](https://www.flickr.com/photos/cityofbostonarchives/14541662943/in/album-72157640329278684/)
 
-10: There appear to be few people of non-European descent. African-Americans made up about two percent of Boston’s population in 1900, which was not unusual for northern cities at the time, and Boston’s Asian population was much smaller.
+**10:** There appear to be few people of non-European descent. African-Americans made up about two percent of Boston’s population in 1900, which was not unusual for northern cities at the time, and Boston’s Asian population was much smaller.
 
-11: Detroit Publishing Co., Washington Street, north from Temple Place, Boston, Mass., Library of Congress Prints and Photographs Division (c. 1906), [https://lccn.loc.gov/2016809700](https://lccn.loc.gov/2016809700)
+**11:** Detroit Publishing Co., Washington Street, north from Temple Place, Boston, Mass., Library of Congress Prints and Photographs Division (c. 1906), [https://lccn.loc.gov/2016809700](https://lccn.loc.gov/2016809700)
