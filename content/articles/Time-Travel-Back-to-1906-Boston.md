@@ -47,4 +47,6 @@ For all the variety in forms of transportation, much less is evident in the peop
 
 Although difficult to make out in the jerky, low resolution movie, signs on the buildings and in the windows tell us a lot about the time and place. Barber shops appear to be everywhere, often on the second floor, and signs advertising haircuts for 15 cents bring home the effect of decades of inflation. Billiards seems to have been a popular pastime, with many signs on Washington Street advertising such establishments. And then there’s the sign on Washington Street for the Cushing Medical Supply Co. A detailed still photo shows that the “medical” supplies were “medicinal wines.”
 
-Cushing’s “Medical” Wine
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Clothing on Credit.jpg" caption="Sign on Washington St." class="figure-left" >}}
+
+Modern viewers might find it strange that some stores had signs announcing they sold goods on credit. But in 1906, credit cards like MasterCard and Visa were many decades in the future, and purchasing daily necessities on credit was regarded by many as consumptive debt and socially unacceptable. Thus, the signs likely attracted attention, but the people entering those shops might have first looked both ways to make sure no one they knew saw them.
