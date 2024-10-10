@@ -56,6 +56,8 @@ Things to Consider:
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g732gt03r/full/,1600/0/default.jpg" class="figure-left" caption="Front side of map" >}}
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:s17874142/full/,1800/0/default.jpg" caption="Reverse side of map" >}}
+
 This map shows the ways that land use changed over two decades in the Massachusetts town of Mashpee. As with other maps of this time period, the map is in many ways secondary in importance to the data table of land use statistics printed on the bottom of the sheet. One notable part of this map is that the cartographers took time to create two “Change” views that can visually help guide a viewer towards an understanding of the difference between two moments in time.
 
 ##### MassGIS ***[The Appalachian trail in Massachusetts](https://collections.leventhalmap.org/search/commonwealth:rx918q84f)*** (1991)
