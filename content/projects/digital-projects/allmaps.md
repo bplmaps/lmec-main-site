@@ -35,18 +35,22 @@ This work is supported by a [Digital Humanities Advancement Grant](https://www.n
 
 ### Allmaps Research Fellowships
 
-Are you a researcher, scholar, cartographer, or essayist with interests at the intersection of digital humanities and public geography? Would your work benefit from creative visualization of georeferenced maps? Do you have an idea for a project or publication? If so, consider inquiring about our **Allmaps Research Fellowships**.
+> Are you a researcher, scholar, cartographer, or essayist with interests at the intersection of digital humanities and public geography? Would your work benefit from creative visualization of georeferenced maps? Do you have an idea for a project or publication? If so, consider inquiring about our **Allmaps Research Fellowships**.
 
-Beginning in Summer 2024, the Leventhal Center and AGSL seek applicants to our Allmaps Research Fellowship program. We're looking for compelling stories that not only bridge the divide between academic scholarship and public education, but use georeferenced maps to bring those stories to life.
+**LMEC and AGSL are actively seeking applicants to our Allmaps Research Fellowship program.** We’re looking for compelling stories that not only bridge the divide between academic scholarship and public education, but use [georeferenced maps](https://www.leventhalmap.org/projects/digital-projects/georeferencing/) to bring those stories to life.
 
-The Fellowship consists of a $1,200 honorarium to support research and development time, together with institutional research and technical support from LMEC staff, through the stages of the digital publication process. **Anybody is eligible for an Allmaps Research Fellowship**, provided that their proposed project uses Allmaps. Digital publications produced through these grants will be published and hosted by LMEC on one or more of its digital portals, though projects will be licensed on a Creative Commons license and further publication, in digital or print formats, is not precluded by receipt of a grant. Projects may be conducted remotely, and grant recipients are not required to plan any in-person project time in Boston.
+The Fellowship consists of a **$1,200 honorarium** to support research and development time. LMEC and AGSL staff will also provide research and technical support through all stages of the digital publication process. **Anybody is eligible for an Allmaps Research Fellowship**, provided that their proposed project uses Allmaps.
 
-We hope to see applicants engage with Allmaps in a variety of ways, from indivdiual researchers to big research teams (though the fellowship honorarium remains the same, regardless of the number of authors involved). By way of example, we'd be excited to see proposals on the following topics:
+**Fellows are expected to create a digital publication.** Digital publications produced through the Allmaps Research Fellowship program will be published and hosted by LMEC on one or more of its digital portals, though projects will be licensed on a Creative Commons license and further publication, in digital or print formats, is not precluded by receipt of an award. Projects may be conducted remotely, and award recipients are not required to plan any in-person project time in Boston.
 
-* Reflections and outcomes from georeferencing with Allmaps in a high school or university setting
+We hope to see applicants engage with Allmaps in a variety of ways, from indivdiual researchers to big research teams (though the fellowship honorarium remains the same, regardless of the number of authors involved). By way of example, we’d be excited to see proposals on the following topics:
+
+* Reflections and outcomes from georeferencing with Allmaps in a educational or community contexts
 * Interpretive textual essays of 1,200-2,000 words using Allmaps as a research and visualization method
 * Digital cartographic projects that use one of Allmaps plugins for web mapping libraries
-* Experiments with [automatic georeferencing](https://www.tudelft.nl/en/2024/library/allmaps-makes-it-easier-to-find-old-maps-and-use-them-in-research) of standardized atlases or ["machines reading maps"](https://www.turing.ac.uk/research/research-projects/machines-reading-maps) using the Allmaps software ecosystem
-* And much more... this is by no means an exhaustive list of the possibilities!
+* Experiments with automatic georeferencing of standardized atlases or “machines reading maps” using the Allmaps software ecosystem
+* And much more… this is by no means an exhaustive list of the possibilities!
 
-> Please email [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/) with the subject line "Allmaps Research Fellow Inquiry" to learn more about the application process.
+Please contact [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/) if you have any questions.
+
+<button class="btn btn-primary" type="button" href="https://tally.so/r/wzr0Yk">Apply for an Allmaps Research Fellowship</button>
