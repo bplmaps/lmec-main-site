@@ -18,7 +18,7 @@ tags:
 
 > *On October 11, we hosted **From The Vault: Time Travel Back to 1906 Boston***.
 
-During this edition of From the Vault, we had the iconic 1906 film Seeing Boston playing in our classroom, accompanied by maps, photos, and other objects from BPL Special Collections that helped animate the places seen in the film. Be sure to read the two accompanying articles: [Time Travel Back to 1906 Boston](https://www.leventhalmap.org/articles/time-travel-back-to-1906-boston/) and Riding Around 1906 Boston.
+During this edition of From the Vault, we had the iconic 1906 film *Seeing Boston* playing in our classroom, accompanied by maps, photos, and other objects from BPL Special Collections that helped animate the places seen in the film. Be sure to read the two accompanying articles: *[Time Travel Back to 1906 Boston](https://www.leventhalmap.org/articles/time-travel-back-to-1906-boston/)* and Riding Around 1906 Boston.
 
 ##### Poole, A. F. ***[Twentieth century Boston](https://collections.leventhalmap.org/search/commonwealth:x633fc36z)*** (1905)
 
@@ -37,7 +37,7 @@ This view of Boston was chosen as the central illustration in a 1907 Chamber of 
 * What is the cartographer trying to do with this map? Create a record of what the city looked like; make a decorative artwork; convey a message about the city?
 * How might a bird’s eye view map created of Boston  today be similar to and different from this one?
 
-##### George W. Bromley and Walter S. Bromley [Atlas of the city of Boston : Boston proper and Back Bay : from actual surveys and official plans](https://collections.leventhalmap.org/search/commonwealth:tt44pv96w) (1908)
+##### George W. Bromley and Walter S. Bromley ***[Atlas of the city of Boston : Boston proper and Back Bay : from actual surveys and official plans](https://collections.leventhalmap.org/search/commonwealth:tt44pv96w)*** (1908)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257br70m/full/1600,/0/default.jpg" class="" >}}
 
@@ -47,12 +47,12 @@ Companies like Bromley filled this need by compiling and publishing atlases with
 
 The Bromley Atlas seen here provides essential information for following the path of the streetcar in Seeing Boston, including the location of specific buildings, their height and street numbers. The areas seen in Seeing Boston are covered by Plates 1, 6, 11, 12, 19, 20, 21 and 23.
 
-Things to Consider:
+**Things to Consider:**
 
 * Do you think the people who created these maps would be surprised to learn that historians and others trying to understand their world are looking at their work in the year 2024?
 * If you could go back in time, what additional information would you include in these maps to make them more useful to future generations?
 
-##### Arthur Leslie Plimpton, John J. Lane, and Geo. H. Walker [Central part of Boston Elevated Railway system showing connections](https://collections.leventhalmap.org/search/commonwealth:pc28d1639) (1904)
+##### Arthur Leslie Plimpton, John J. Lane, and Geo. H. Walker ***[Central part of Boston Elevated Railway system showing connections](https://collections.leventhalmap.org/search/commonwealth:pc28d1639)*** (1904)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g732gt03r/full/,1600/0/default.jpg" class="figure-left" caption="Front side of map" >}}
 
@@ -66,12 +66,12 @@ The title of this map seems confusing at first since it includes subway and surf
 
 The reverse of the map gives detailed routes within the city of Boston and enables us to follow the streetcar in Seeing Boston. It’s also interesting to read the advertisements at the top and bottom, including those for a veterinary book on home treatment of horses and cattle, and Dr. Harrison’s Peristaltic Lozenges, that were pleasant tasting and apparently cured everything from appendicitis to pimples and loss of appetite.
 
-Things to Consider:
+**Things to Consider:**
 
 * Why were streetcars replaced by buses?
 * How did the location and extension of streetcar lines influence the development of the Boston region?
 
-##### Geo. H. Walker & Co. [View of Boston freight terminals, the New York, New Haven & Hartford Railroad](https://collections.leventhalmap.org/search/commonwealth:df65xz27g) (1903)
+##### Geo. H. Walker & Co. ***[View of Boston freight terminals, the New York, New Haven & Hartford Railroad](https://collections.leventhalmap.org/search/commonwealth:df65xz27g)*** (1903)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:d791w527w/full/,1600/0/default.jpg" class="" >}}
 
@@ -79,13 +79,13 @@ To Bostonians of 1906, it would have been a source of civic pride and promise of
 
 At the time it opened, the station was called South Union Station, the word “union” indicating that it was served by more than one railroad. For today’s Bostonians, perhaps the most informative thing about this map is that it illustrates why the land at the lower left, site of today’s Federal Courthouse, is called Fan Pier.
 
-Things to Consider:
+**Things to Consider:**
 
 * How many of the buildings shown in this map are still there today?
 * Of the buildings still standing, how many are used for the same purpose as they were in 1906?
 * Of the buildings whose use has changed, how many are now used as offices, research facilities, storage, and residences?
 
-##### Geo. H. Walker & Co [Map showing the terminal facilities of Boston](https://collections.leventhalmap.org/search/commonwealth:wd376810x) (1902)
+##### Geo. H. Walker & Co ***[Map showing the terminal facilities of Boston](https://collections.leventhalmap.org/search/commonwealth:wd376810x)*** (1902)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj693/full/1600,/0/default.jpg" >}}
 
@@ -95,32 +95,22 @@ The importance of these facilities at the time may not be immediately apparent i
 
 Boston’s concern with transportation was not limited to the movement of people on rapid transit lines, but extended to freight and commercial shipping as well. In the 1890s the Commonwealth created a State Board on Docks and Terminal Facilities to examine conditions in the Port of Boston and make recommendations for their improvement. The Board’s report included a map similar to this one. It appears that updated Terminal Facility maps were issued every few years.
 
-Things to Consider:
+**Things to Consider:**
 
 * What are some of the ways in which this map might have been used when it was first published?
 * Notice how much of the land area is devoted to transportation, especially railway facilities.
 
-##### Rapid Transit Commission [Rapid Transit Commission, plan showing congested district, city of Boston, March 1892](https://digitalcollections.nypl.org/items/fc0baa70-79fc-0134-36b8-00505686a51c) (1892)
+##### Rapid Transit Commission ***[Rapid Transit Commission, plan showing congested district, city of Boston, March 1892](https://digitalcollections.nypl.org/items/fc0baa70-79fc-0134-36b8-00505686a51c)*** (1892)
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/index.jpg" caption="" >}}
 
-Rapid Transit Commission
+Traffic congestion seems to be a perennial problem in Boston – not many years ago there was much discussion about how the “Big Dig” would solve our problems. Today there are complaints about a faltering rapid transit system.
 
-Rapid Transit Commission, plan showing congested district, city of Boston, March 1892
+The area highlighted in pink was designated the Congested District within which traffic problems were most acute. All the streets shown in Seeing Boston prior to M.I.T. are within this district.
 
-1892
+Our ancestors seem to have had trouble getting around as well. It was said that the situation on Tremont Street was so bad in the late 1800s that one could get from Park to Boylston Street more quickly walking on the roofs of the stalled streetcars than riding on the seats within them. The city and state combined to create a commission to study the problem and come up with a plan for creating a rapid transit system for Boston and its suburbs. This map was part of the commission’s report.
 
+**Things to Consider:**
 
-
-
-##### MassGIS ***[Digital orthography checkplots](https://collections.leventhalmap.org/search/commonwealth:rj435666w)*** (2000)
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cv43tx62n/full/,1200/0/default.jpg" class="" >}}
-
-This graphic is a helpful visual to understand the different resolutions of aerial imagery and which scales are most useful for different planning and land use studies. It’s important to note that when this poster was produced, the standard form of imagery like this would have been aerial imagery that was produced through dozens of hours of plane flights across the state of Massachusetts. Today, this method of creating land use imagery is still used, but is now also augmented by the increasing availability of satellite imagery.
-
-##### MassGIS ***[EOEA MassGIS geographic information system transition document](https://collections.leventhalmap.org/search/commonwealth:dn402997f)*** (1990)
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:j6735c05m/full/,1200/0/default.jpg" class="" >}}
-
-This document was produced by Applied Geographics, Inc. as a tool for MassGIS to be able to bridge a technology transition to primarily computer-led workflows for making maps across the agency. This document is a collection of visualizations of statewide datasets that can be used in different contexts and examples of maps made for different specific applications. Of particular interest are the descriptions and definitions listed above that give administrative context for why this document was created.
+* To what extent does the street behavior of drivers and pedestrians seen in Seeing Boston contribute to traffic problems?
+* The Rapid Transit Commission’s plan called for the construction of both subways and elevated rail lines. Today only the subway remains. Were the elevated trains a bad idea? Could their shortcomings have been foreseen? What can we learn from their demise?
