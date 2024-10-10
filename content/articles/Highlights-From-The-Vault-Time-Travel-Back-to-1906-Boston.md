@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 'Highlights From The Vault: Time Travel: Back to 1906 Boston'
+title: 'Highlights From The Vault: Time Travel Back to 1906 Boston'
 date: 2024-10-11T04:00:00.000Z
 author: Gerald A. Rosenthal
 description: >-
@@ -20,7 +20,7 @@ tags:
 
 During this edition of From the Vault, we had the iconic 1906 film Seeing Boston playing in our classroom, accompanied by maps, photos, and other objects from BPL Special Collections that helped animate the places seen in the film. Be sure to read the two accompanying articles: [Time Travel Back to 1906 Boston](https://www.leventhalmap.org/articles/time-travel-back-to-1906-boston/) and Riding Around 1906 Boston.
 
-##### Poole, A. F. [Twentieth century Boston](https://collections.leventhalmap.org/search/commonwealth:x633fc36z) (1905)
+##### Poole, A. F. ***[Twentieth century Boston](https://collections.leventhalmap.org/search/commonwealth:x633fc36z)*** (1905)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc377/full/1800,/0/default.jpg" class="" >}}
 
@@ -32,14 +32,14 @@ Note how the commercial aspects of the city seem to dominate. The Old North Chur
 
 This view of Boston was chosen as the central illustration in a 1907 Chamber of Commerce flyer describing Boston as “The Best City in the United States to Live in, to Do Business in, and to Visit.”
 
-Things to Consider:
+**Things to Consider:**
 
 * What is the cartographer trying to do with this map? Create a record of what the city looked like; make a decorative artwork; convey a message about the city?
 * How might a bird’s eye view map created of Boston  today be similar to and different from this one?
 
-##### Applied Geographics, Inc. ***[Massachusetts coastal towns](https://collections.leventhalmap.org/search/commonwealth:2227s1511)*** \[ca. 1990-1999]
+##### George W. Bromley and Walter S. Bromley [Atlas of the city of Boston : Boston proper and Back Bay : from actual surveys and official plans](https://collections.leventhalmap.org/search/commonwealth:tt44pv96w) (1908)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js95bw30k/full/850,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257br70m/full/1600,/0/default.jpg" class="" >}}
 
 This page is a print-out of an important step in mapmaking, which is laying out the important informative elements of a map (title block, credits, north arrow, scale bar, etc.) so that they don’t interfere with the content of the map. Computerized map production meant it was trivial to create visualizations of the same dataset for different locations, seen here with the same types of information displayed for various coastal towns of Massachusetts. This page only shows the outlines of the towns and the orange and green marks show an unnamed editor's ideas for where the title block and credits, respectively, could be located for each map.
 
