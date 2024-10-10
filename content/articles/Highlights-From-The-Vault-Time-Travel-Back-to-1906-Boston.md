@@ -56,8 +56,6 @@ The Bromley Atlas seen here provides essential information for following the pat
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g732gt03r/full/,1600/0/default.jpg" class="figure-left" caption="Front side of map" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:s17874142/full/,1800/0/default.jpg" caption="Reverse side of map" class="figure-right" >}}
-
 When Seeing Boston was released in 1906, streetcars were everywhere. There was even a New England Street Railway Club, which published a guide that covered the entire region. It’s said that with a number of transfers and connections one could make it all the way from Boston to New York by streetcar.
 
 The connection notations at the periphery of the map highlight the seamless nature of this network. The end of each line connects to one or more lines serving more distant locations.
