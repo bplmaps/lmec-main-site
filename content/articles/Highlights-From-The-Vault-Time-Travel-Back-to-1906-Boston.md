@@ -58,11 +58,22 @@ Things to Consider:
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:s17874142/full/,1800/0/default.jpg" caption="Reverse side of map" class="figure-right" >}}
 
-This map shows the ways that land use changed over two decades in the Massachusetts town of Mashpee. As with other maps of this time period, the map is in many ways secondary in importance to the data table of land use statistics printed on the bottom of the sheet. One notable part of this map is that the cartographers took time to create two “Change” views that can visually help guide a viewer towards an understanding of the difference between two moments in time.
+When Seeing Boston was released in 1906, streetcars were everywhere. There was even a New England Street Railway Club, which published a guide that covered the entire region. It’s said that with a number of transfers and connections one could make it all the way from Boston to New York by streetcar.
 
-##### MassGIS ***[The Appalachian trail in Massachusetts](https://collections.leventhalmap.org/search/commonwealth:rx918q84f)*** (1991)
+The connection notations at the periphery of the map highlight the seamless nature of this network. The end of each line connects to one or more lines serving more distant locations.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:pc28gk205/full/,1200/0/default.jpg" class="" >}}
+The title of this map seems confusing at first since it includes subway and surface streetcar lines as well as elevated trains. But, “Boston Elevated Railway” refers to the name of the private company that ran all services, not to the trains that ran on elevated tracks. Rapid transit in Boston was operated by private businesses until the 1940s.
+
+The reverse of the map gives detailed routes within the city of Boston and enables us to follow the streetcar in Seeing Boston. It’s also interesting to read the advertisements at the top and bottom, including those for a veterinary book on home treatment of horses and cattle, and Dr. Harrison’s Peristaltic Lozenges, that were pleasant tasting and apparently cured everything from appendicitis to pimples and loss of appetite.
+
+Things to Consider:
+
+* Why were streetcars replaced by buses?
+* How did the location and extension of streetcar lines influence the development of the Boston region?
+
+##### Geo. H. Walker & Co. [View of Boston freight terminals, the New York, New Haven & Hartford Railroad](https://collections.leventhalmap.org/search/commonwealth:df65xz27g) (1903)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:d791w527w/full/,1600/0/default.jpg" class="" >}}
 
 This map is an incredibly sophisticated example of the complicated layouts and visualizations that could be achieved using the mapmaking softwares of the early 1990s. What is noteworthy from our perspective, however, is how the cartographer (noted as “MT” in the bottom left hand corner) left his humorous mark on the piece. “MT” is Mike Terner, a former employee of Applied Geographics, Inc., which was contracted by MassGIS to make maps throughout the 1990s and Mike left small linework visualizations of hikers scattered across the page — a creative way to add visual interest while working within the confines of printing technology at the time.
 
