@@ -75,11 +75,19 @@ Things to Consider:
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:d791w527w/full/,1600/0/default.jpg" class="" >}}
 
-This map is an incredibly sophisticated example of the complicated layouts and visualizations that could be achieved using the mapmaking softwares of the early 1990s. What is noteworthy from our perspective, however, is how the cartographer (noted as “MT” in the bottom left hand corner) left his humorous mark on the piece. “MT” is Mike Terner, a former employee of Applied Geographics, Inc., which was contracted by MassGIS to make maps throughout the 1990s and Mike left small linework visualizations of hikers scattered across the page — a creative way to add visual interest while working within the confines of printing technology at the time.
+To Bostonians of 1906, it would have been a source of civic pride and promise of prosperity, for the South Station complex was said to be the largest railroad terminal in the United States or the world, depending on the source. This would have been extremely significant at a time when railroads accounted for the preponderance of intercity transport, both passenger and freight. Given the number of competing modes of transport today, it can be difficult for us to appreciate how dependent our ancestors were on railroads.
 
-##### Geological Survey (U.S.). National Mapping Division ***[Index to 1:24,000-scale digital line graph (DLG) and digital elevation model (DEM) data](https://collections.leventhalmap.org/search/commonwealth:7d27fs716)*** (1995)
+At the time it opened, the station was called South Union Station, the word “union” indicating that it was served by more than one railroad. For today’s Bostonians, perhaps the most informative thing about this map is that it illustrates why the land at the lower left, site of today’s Federal Courthouse, is called Fan Pier.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2v241v11d/full/,850/0/default.jpg" >}}
+Things to Consider:
+
+* How many of the buildings shown in this map are still there today?
+* Of the buildings still standing, how many are used for the same purpose as they were in 1906?
+* Of the buildings whose use has changed, how many are now used as offices, research facilities, storage, and residences?
+
+##### Geo. H. Walker & Co [Map showing the terminal facilities of Boston](https://collections.leventhalmap.org/search/commonwealth:wd376810x) (1902)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj693/full/1600,/0/default.jpg" >}}
 
 This map was created as a reference poster for folks working with federal spatial data and would have been useful to discover what kinds of datasets existed for places across the United States. In the map, the country has been divided into a large grid and each “cell” (or individual rectangle) of the grid has symbols that show what kinds of datasets were completed (red background with black symbols) or in progress (white background with green symbols) for each part of the country. Visualizations of digital elevation models can be seen in Views of Cape Ann and The Appalachian trail in Massachusetts.
 
