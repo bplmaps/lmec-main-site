@@ -53,4 +53,4 @@ We hope to see applicants engage with Allmaps in a variety of ways, from indivdi
 
 Please contact [Ian Spangler](https://www.leventhalmap.org/about/people/ian-spangler/) if you have any questions.
 
-<button class="btn btn-primary" type="button" href="https://tally.so/r/wzr0Yk">Apply for an Allmaps Research Fellowship</button>
+<a href="https://tally.so/r/wzr0Yk" target="blank"><button class="btn btn-primary" type="button">Apply for an Allmaps Research Fellowship</button></a>
