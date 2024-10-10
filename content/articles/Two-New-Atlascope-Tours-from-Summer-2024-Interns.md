@@ -8,10 +8,10 @@ description: >-
   Hawthorne and Henry James' 1911 trip to Salem, MA and Melnea Cass, namesake of
   "Melnea Cass Boulevard",  and her extensive history of activism throughout
   Boston
-image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/download (2).png'
+image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/image (16).png'
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/image (16).png'
 tags:
-  - Atlascope
+  - atlascope
 ---
 
 This past Summer, one undergraduate Geohumanities & GIS intern and one a high school Seevak Fellow from Boston Latin School worked with the Center to create new layers for Atlascope, georeference digitized atlases and worked to expanding the current range of cities and towns available to the public. In addition to this impactful work, they also chose to use Atlascope as a narrative aid to highlight some important histories of Boston and Salem. In their Atlascope tours, Carlos and Anna exemplify how our changing geography can document societal change and how those changes have helped shape our current world.
