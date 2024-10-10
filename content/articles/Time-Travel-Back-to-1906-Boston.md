@@ -66,6 +66,8 @@ Modern viewers might find it strange that some stores had signs announcing they 
 
 Stay tuned. In our next installment, *Riding Around 1906 Boston*, we’ll climb onboard the streetcar and start rolling!
 
+.
+
 ### **Notes**
 
 **1:** Screen capture from *Seeing Boston*.
