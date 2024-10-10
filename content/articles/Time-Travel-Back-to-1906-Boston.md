@@ -5,10 +5,13 @@ date: 2024-10-09T04:00:00.000Z
 author: Gerald A. Rosenthal
 description: >-
   Boston is an ever-evolving city, so it can be difficult to imagine just how
-  different Boston looked and functioned over century ago. In this two-part
-  article series, friend of the Center, Gerald A. Rosenthal, explores the
-  history and infrastructure of Boston in 1906 and also uses the 1906 film
-  Seeing Boston to provide a detailed tour by trolley car through the city. 
+  different Boston looked and functioned over century ago. 
+
+
+  In this two-part article series, friend of the Center, Gerald A. Rosenthal,
+  explores the history and infrastructure of Boston in 1906 and also uses the
+  1906 film Seeing Boston to provide a detailed tour by trolley car through the
+  city. 
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fc377/12,646,8908,2839/,700/0/default.jpg
 backgroundImage: >-
@@ -63,7 +66,7 @@ Modern viewers might find it strange that some stores had signs announcing they 
 
 Stay tuned. In our next installment, *Riding Around 1906 Boston*, we’ll climb onboard the streetcar and start rolling!
 
-#### **Notes**
+### **Notes**
 
 **1:** Screen capture from *Seeing Boston*.
 
