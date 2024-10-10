@@ -3,8 +3,13 @@ draft: true
 title: Two New Atlascope Tours from Summer 2024 Interns
 date: 2024-10-12T04:00:00.000Z
 author: 'Carlos Cuera Caro, Anna Hsu'
+description: >-
+  Two new Atlascope tours explore the details of the works of Nathaniel
+  Hawthorne and Henry James' 1911 trip to Salem, MA and Melnea Cass, namesake of
+  "Melnea Cass Boulevard",  and her extensive history of activism throughout
+  Boston
 image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/download (2).png'
-backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/download (2).png'
+backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/image (16).png'
 tags:
   - Atlascope
 ---
@@ -23,4 +28,4 @@ Ever since the earliest records of visitors from the rest of New England arrivin
 
 Who was Melnea Cass, the “First Lady of Roxbury?” One half of the namesake for the notable intersection often referred to as “Mass & Cass”, few know that “Cass” is short for Melnea Cass Boulevard and fewer know her story. Through her work, Melnea had a truly significant impact across the city with more than 50 years of activist work. A lifelong Boston resident, Melnea spent decades advocating for Black Bostonians, early education access, and expanding voting rights amongst many other causes.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/image (16).png" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/download (2).png" >}}
