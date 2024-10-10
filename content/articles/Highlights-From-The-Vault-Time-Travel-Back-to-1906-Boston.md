@@ -89,13 +89,29 @@ Things to Consider:
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj693/full/1600,/0/default.jpg" >}}
 
-This map was created as a reference poster for folks working with federal spatial data and would have been useful to discover what kinds of datasets existed for places across the United States. In the map, the country has been divided into a large grid and each “cell” (or individual rectangle) of the grid has symbols that show what kinds of datasets were completed (red background with black symbols) or in progress (white background with green symbols) for each part of the country. Visualizations of digital elevation models can be seen in Views of Cape Ann and The Appalachian trail in Massachusetts.
+This map shows the network of highways, rail lines and shipping routes that connected people within Boston, and connected Boston with the rest of the world. The legend lists the steamships lines that served the Port of Boston, and the destinations that each line served.
 
-##### MassGIS ***[GIS mapping of risk factors for eastern equine encephalitis](https://collections.leventhalmap.org/search/commonwealth:rv047v771)*** (1991)
+The importance of these facilities at the time may not be immediately apparent in 2024 since manufacturing and industry are not central to Boston’s economy today. But they were in the early twentieth century. In 1907, Boston’s Publicity and Information Bureau issued a circular stating that the region had 3000 manufacturing establishments, and had among the world’s largest facilities for boot and shoe making, watch making, production of shoe machinery, and manufacturing electrical apparatus.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5x220j19j/full/,1200/0/default.jpg" caption="" >}}
+Boston’s concern with transportation was not limited to the movement of people on rapid transit lines, but extended to freight and commercial shipping as well. In the 1890s the Commonwealth created a State Board on Docks and Terminal Facilities to examine conditions in the Port of Boston and make recommendations for their improvement. The Board’s report included a map similar to this one. It appears that updated Terminal Facility maps were issued every few years.
 
-This set of maps was created in 1991 as the State of Massachusetts faced increased risk of eastern equine encephalitis (Triple E virus) spreading, with each map showing a different variable for the same geographic extent. Public health applications are still one of the most common uses for making maps using computers. Earlier tin 2024, this same virus was making headlines for confirmed cases in the state!
+Things to Consider:
+
+* What are some of the ways in which this map might have been used when it was first published?
+* Notice how much of the land area is devoted to transportation, especially railway facilities.
+
+##### Rapid Transit Commission [Rapid Transit Commission, plan showing congested district, city of Boston, March 1892](https://digitalcollections.nypl.org/items/fc0baa70-79fc-0134-36b8-00505686a51c) (1892)
+
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/index.jpg" caption="" >}}
+
+Rapid Transit Commission
+
+Rapid Transit Commission, plan showing congested district, city of Boston, March 1892
+
+1892
+
+
+
 
 ##### MassGIS ***[Digital orthography checkplots](https://collections.leventhalmap.org/search/commonwealth:rj435666w)*** (2000)
 
