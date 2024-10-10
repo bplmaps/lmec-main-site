@@ -41,11 +41,20 @@ This view of Boston was chosen as the central illustration in a 1907 Chamber of 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1257br70m/full/1600,/0/default.jpg" class="" >}}
 
-This page is a print-out of an important step in mapmaking, which is laying out the important informative elements of a map (title block, credits, north arrow, scale bar, etc.) so that they don’t interfere with the content of the map. Computerized map production meant it was trivial to create visualizations of the same dataset for different locations, seen here with the same types of information displayed for various coastal towns of Massachusetts. This page only shows the outlines of the towns and the orange and green marks show an unnamed editor's ideas for where the title block and credits, respectively, could be located for each map.
+Insurance companies need to be able to assess risk when setting premiums. For urban property insurance, this involves such factors as the proximity of fire houses, roads and water lines to the insured property, together with the type of construction and use of the covered building and its neighbors. This information became increasingly challenging to obtain as insurers extended their underwriting beyond their local communities.
 
-##### MassGIS ***[Mashpee land use change 1971-1990](https://collections.leventhalmap.org/search/commonwealth:gx41sm16g)*** (1991)
+Companies like Bromley filled this need by compiling and publishing atlases with this information, and updating them regularly to keep the information current. One of the earliest U.S. atlases was the Insurance Map of Boston, Volume 1, 1867, by D. A. Sanborn. We tend to think of the economic value of data as a twenty-first century phenomenon, but these atlases show how essential information was to commerce well over a century ago.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ft84fs153/full/,850/0/default.jpg" class="" >}}
+The Bromley Atlas seen here provides essential information for following the path of the streetcar in Seeing Boston, including the location of specific buildings, their height and street numbers. The areas seen in Seeing Boston are covered by Plates 1, 6, 11, 12, 19, 20, 21 and 23.
+
+Things to Consider:
+
+* Do you think the people who created these maps would be surprised to learn that historians and others trying to understand their world are looking at their work in the year 2024?
+* If you could go back in time, what additional information would you include in these maps to make them more useful to future generations?
+
+##### Arthur Leslie Plimpton, John J. Lane, and Geo. H. Walker [Central part of Boston Elevated Railway system showing connections](https://collections.leventhalmap.org/search/commonwealth:pc28d1639) (1904)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g732gt03r/full/,1600/0/default.jpg" class="figure-left" >}}
 
 This map shows the ways that land use changed over two decades in the Massachusetts town of Mashpee. As with other maps of this time period, the map is in many ways secondary in importance to the data table of land use statistics printed on the bottom of the sheet. One notable part of this map is that the cartographers took time to create two “Change” views that can visually help guide a viewer towards an understanding of the difference between two moments in time.
 
