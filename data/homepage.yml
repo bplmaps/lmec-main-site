@@ -58,7 +58,9 @@ cta:
   enable: true
   announcements:
     - badge: Holiday closure
-      text: We will be closed on October 14 for Indigenous Peoples Day
+      text: >-
+        The Leventhal Center and all BPL locations will be closed on October 14
+        for Indigenous Peoples Day
     - badge: New Exhibit!
       text: >-
         Visit our newest exhibition, Processing Place: How Computers and
