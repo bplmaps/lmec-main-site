@@ -34,4 +34,10 @@ Ever since the earliest records of visitors from the rest of New England arrivin
 
 Who was Melnea Cass, the “First Lady of Roxbury?” One half of the namesake for the notable intersection often referred to as “Mass & Cass”, few know that “Cass” is short for Melnea Cass Boulevard and fewer know her story. Through her work, Melnea had a truly significant impact across the city with more than 50 years of activist work. A lifelong Boston resident, Melnea spent decades advocating for Black Bostonians, early education access, and expanding voting rights amongst many other causes.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/download (2).png" caption="[View the Atlascope tour](https://www.atlascope.org/#/view:tour$tour:404759382547497024)" >}}
+<a href="https://www.atlascope.org/#/view:tour$tour:404759382547497024" target="_blank" class="btn btn-md btn-outline-primary">Start this tour</a>
+
+<a href="https://www.atlascope.org/#/view:tour$tour:404759382547497024" target="_blank">
+
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/download (2).png" caption="" >}}
+
+<a>
