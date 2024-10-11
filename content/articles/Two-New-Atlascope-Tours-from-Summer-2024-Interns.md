@@ -26,7 +26,7 @@ Ever since the earliest records of visitors from the rest of New England arrivin
 
 <a href="https://www.atlascope.org/#/view:tour$tour:402228613203624000" target="_blank">
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/image (17).png" caption="[View the Atlascope tour](https://www.atlascope.org/#/view:tour$tour:402228613203624000)" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/image (17).png" caption="" >}}
 
 <a>
 
