@@ -22,7 +22,13 @@ We invite you to read more about their Atlascope tours below and reflect on the 
 
 Ever since the earliest records of visitors from the rest of New England arriving at Salem in 1692 to witness the Witch Trials, tourism has been a constant activity in Salem. Henry James was one of those tourists, writing an account of his visit in 1904: “The American Scene.” But although the landmarks in James’ itinerary might be familiar to any modern-day visitor to Salem, his interest was less focused on witchcraft, ghosts or Halloween, and more on the remnants of Salem’s Golden Age of Navigation and the sources of inspiration behind the works of Nathaniel Hawthorne, Salem native and author of “The Scarlet Letter” and “The House of the Seven Gables.”
 
+<a href="https://www.atlascope.org/#/view:tour$tour:402228613203624000" target="_blank" class="btn btn-md btn-outline-primary">Start this tour</a>
+
+<a href="https://www.atlascope.org/#/view:tour$tour:402228613203624000" target="_blank">
+
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/image (17).png" caption="[View the Atlascope tour](https://www.atlascope.org/#/view:tour$tour:402228613203624000)" >}}
+
+<a>
 
 ## Beyond the Boulevard
 
