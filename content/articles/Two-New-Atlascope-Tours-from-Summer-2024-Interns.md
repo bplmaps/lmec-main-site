@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Two New Atlascope Tours from Summer 2024 Interns
 date: 2024-10-12T04:00:00.000Z
 author: 'Carlos Cuera Caro, Anna Hsu'
