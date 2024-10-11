@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Two New Atlascope Tours from Summer 2024 Interns
-date: 2024-10-12T04:00:00.000Z
+date: 2024-10-11T04:00:00.000Z
 author: 'Carlos Cuera Caro, Anna Hsu'
 description: >-
   Two new Atlascope tours explore the details of the works of Nathaniel
