@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "From the Vault Collections Showing —\_Out With the Old, In With the New"
+title: 'Out With the Old, In With the New — From the Vault Collections Showing'
 date: 2024-10-25T18:00:00.000Z
 publishDate: 2024-10-11T04:00:00.000Z
 image: >-
