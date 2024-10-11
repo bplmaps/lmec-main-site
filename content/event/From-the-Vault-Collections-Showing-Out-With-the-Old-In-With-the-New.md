@@ -4,11 +4,9 @@ title: "From the Vault Collections Showing —\_Out With the Old, In With the Ne
 date: 2024-10-25T18:00:00.000Z
 publishDate: 2024-10-11T04:00:00.000Z
 image: >-
-  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/FTV Out With The
-  Old.png
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hq37vv673/full/,1200/0/default.jpg
 backgroundImage: >-
-  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/FTV Out With The
-  Old.png
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hq37vv673/full/,1200/0/default.jpg
 location: 'Leventhal Map & Education Center, Central Library in Copley Square'
 fee: Free
 registration: ''
