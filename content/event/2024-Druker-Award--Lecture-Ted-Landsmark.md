@@ -13,7 +13,7 @@ location: Central Library in Copley Square
 registration: 'https://bpl.bibliocommons.com/events/6703e514750fa7242a61cd9c'
 ---
 
-{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized by BPL Adult Programs{{< alert-box >}}
+{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This event is organized by BPL Adult Programs{{\< alert-box >}}
 
 ### About this event
 
