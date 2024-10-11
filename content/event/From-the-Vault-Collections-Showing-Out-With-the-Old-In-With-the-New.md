@@ -16,13 +16,13 @@ tags:
   - from the vault
 ---
 
-As the technology that we use improves and advances, so too do the things we can create with that technology. Maps in the modern day look drastically different than those used several hundred years ago, and are now able to tell us a multitude of different things than they could previously. 
+As the technology that we use improves and advances, so too do the things we can create with that technology. Maps in the modern day look drastically different than those used several hundred years ago, and are now able to tell us a multitude of different things than they could previously.
 
-But what do these changes actually look like? How has the process of digitizing cartography evolved how we communicate our place in the world? And how do maps from hundreds of years ago compare to the maps we use to navigate our world today? 
+But what do these changes actually look like? How has the process of digitizing cartography evolved how we communicate our place in the world? And how do maps from hundreds of years ago compare to the maps we use to navigate our world today?
 
 Come see for yourself during “Out With the Old, In With the New” From the Vault!
 
-This drop-in showing will be hosted Friday, October 25 from 2-4 pm in the Learning Center with a staff member from the Leventhal Center available to answer questions. 
+This drop-in showing will be hosted Friday, October 25 from 2-4 pm in the Learning Center with a staff member from the Leventhal Center available to answer questions. This collections showing event was specially curated by our Visitor Services & Exhibition Assistant, **Samantha Walker**.
 
 No advance registration is required.
 
