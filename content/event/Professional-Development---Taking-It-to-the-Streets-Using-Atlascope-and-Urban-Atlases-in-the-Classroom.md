@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: >-
   Professional Development - Taking It to the Streets: Using Atlascope and Urban
   Atlases in the Classroom
