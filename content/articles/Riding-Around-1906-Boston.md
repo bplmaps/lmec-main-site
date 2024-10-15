@@ -48,10 +48,18 @@ Turning onto Causeway Street, we see passengers waiting outside the station, whi
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Jaynes 1898 Price List.png" class="figure-right" caption="Jaynes 1898 Price List (5)" >}}
 
-After traveling down some bustling streets, we turn left onto Summer Street in front of Jaynes Annex. Jaynes was Boston’s leading drugstore. Its 1898 Price List included recipes by Fannie Farmer for every season of the year. In addition, it featured ads for such enticing products as Jaynes’ Magic Insect Powder (If it does not KILL the bugs we will refund the money) and Jaynes’ Castormels (A Pleasant Laxative Confection).6
+After traveling down some bustling streets, we turn left onto Summer Street in front of Jaynes Annex. Jaynes was Boston’s leading drugstore. Its 1898 Price List included recipes by Fannie Farmer for every season of the year. In addition, it featured ads for such enticing products as Jaynes’ Magic Insect Powder (If it does not KILL the bugs we will refund the money) and Jaynes’ Castormels (A Pleasant Laxative Confection) (6).
 
 This area is at the heart of the swath of downtown Boston destroyed by the fire of 1872. There are signs for shoe stores and footwear-related businesses. Boston was the center of U.S. shoe manufacturing, and the area to the right was known as the Leather District.
 
 After passing beneath another set of new elevated tracks, we find ourselves at South Union Station, which to Bostonians of the day was probably the most important place seen in the entire film. Opened in 1898, it was touted as the largest railway station in the world. The map at the left shows how critical this was to the city’s economic life. While the tracks connected Boston to the rest of the country, the piers at the left, connected it with the rest of the world, crucial at a time when international travel, both passenger and freight, was exclusively by sea.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:d791w527w/full/1200,/0/default.jpg" caption="South Station Complex (7)" >}}
+
+### To Back Bay
+
+The movie then jumps again, this time to Boylston Street in the Back Bay. Much of the neighborhood was residential, but Boylston Street was home to cultural institutions and some businesses. Fifty years earlier this entire area had been under water.
+
+The first thing we notice is that we are no longer in a congested district—the streets have plenty of room for both pedestrians and vehicles. The first two buildings we see are the original home of M.I.T. The university wouldn't move to Cambridge until 1917. The next block is home to some hotels, businesses, a church and a school. Within a few years, this part of Boylston Street would become Boston’s center for the burgeoning new automobile business.
+
+{{< figure caption="Boston Public Library (The statues of Art and Science that currently flank the entrance had not yet been installed) (8)" class="figure-right" src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (1).jpeg" >}}
