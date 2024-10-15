@@ -29,3 +29,25 @@ We begin on Tremont Street traveling toward Boston Common. The small building at
 Riding east down Boylston Street, we see a sign for Washburn’s Department Store, with a smaller one saying they offer clothes on credit. Next to the commercial signage, we see a three-dimensional plaque with a tree. That marks the location of the Liberty Tree, the site of a gathering of the Sons of Liberty in pre-Revolutionary Boston. The building and tree marker are still there, though Washburn’s is long gone.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Siegels Post Card.jpg" caption="Siegel’s (note lamps on left) (1)" class="figure-left" >}}
+
+Boylston Street ends at Washburn’s and we turn left onto Washington Street, downtown Boston’s main commercial thoroughfare for most of its history. On the right our attention is drawn to a row of large globular light fixtures sticking out from the building. That’s Siegel’s department store. The building was brand new, and it was huge, 450,000 square feet (a typical Home Depot is about 100,000). Over three thousand people worked there. Modern escalators whisked people from floor to floor, but they seem to have created some confusion. When the store first opened, employees had to be stationed at the top and bottom of each escalator to provide guidance for customers who thought they were supposed to sit on the steps (2).  Watch carefully as we pass Siegel’s and on the next building you’ll see the sign for the shop where Cushing sold his medicinal wines.
+
+Notice the crowds everywhere. A clock further down the street shows 1:00 p.m. and it seems everyone is out shopping. Stores typically weren’t open evenings at the time. A sign at the corner of Washington Street and Temple Place proclaims it to be “The Busiest Corner on Boston’s Busiest Street.”
+
+Going down Washington Street we pass the venerable Jordan Marsh department store, New England’s largest. Then we pass a waiting automobile with a circular radiator. It looks like a 1906 National, the company’s slogan was “Watch for the Round Radiator.” With an advertised price of $3,000, it wasn’t for everyone. Henry Ford’s Model T was still two years in the future.
+
+### Over to North Station
+
+After turning the corner at Old South, the movie jumps ahead to the North Station area (3), where we find ourselves looking at a blank wall with a few people walking by. One wonders why so much time is focused on that wall.
+
+Perhaps it was the elevated train at the rear that the filmmakers wanted to show. Though Boston had been first in the country with subway service, it was late to the game with elevated rail (4). Boston’s first elevated trains had just been placed in service in 1901, so to viewers in 1906 this line would have been evidence of Boston’s push to be at the forefront of rapid transit. And the uninteresting blank wall concealed the end station and turnaround for the subway. Finally, the building at the end of the street is the new North Station, and we, of course, are riding in a surface streetcar. Thus, this seemingly mundane scene depicts the nexus of four modes of mass transit.
+
+Turning onto Causeway Street, we see passengers waiting outside the station, which at the time was called North Union Station. This indicated that the station was served by multiple railroads. A post office is connected to the station, which makes sense since intercity mail would have travelled by rail.
+
+### To Summer Street and South Station
+
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Jaynes 1898 Price List.png" class="figure-right" >}}
+
+After traveling down some bustling streets, we turn left onto Summer Street in front of Jaynes Annex. Jaynes was Boston’s leading drugstore. Its 1898 Price List included recipes by Fannie Farmer for every season of the year. In addition, it featured ads for such enticing products as Jaynes’ Magic Insect Powder (If it does not KILL the bugs we will refund the money) and Jaynes’ Castormels (A Pleasant Laxative Confection).6
+
+This area is at the heart of the swath of downtown Boston destroyed by the fire of 1872. There are signs for shoe stores and footwear-related businesses. Boston was the center of U.S. shoe manufacturing, and the area to the right was known as the Leather District.
