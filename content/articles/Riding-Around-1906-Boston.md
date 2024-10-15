@@ -54,7 +54,7 @@ This area is at the heart of the swath of downtown Boston destroyed by the fire 
 
 After passing beneath another set of new elevated tracks, we find ourselves at South Union Station, which to Bostonians of the day was probably the most important place seen in the entire film. Opened in 1898, it was touted as the largest railway station in the world. The map at the left shows how critical this was to the city’s economic life. While the tracks connected Boston to the rest of the country, the piers at the left, connected it with the rest of the world, crucial at a time when international travel, both passenger and freight, was exclusively by sea.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:d791w527w/full/1200,/0/default.jpg" caption="South Station Complex (7)" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:d791w527w/full/1200,/0/default.jpg" caption="South Station Complex (7)" class="figure-left" >}}
 
 ### To Back Bay
 
