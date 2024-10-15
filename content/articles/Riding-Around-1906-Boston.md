@@ -70,6 +70,8 @@ Had the camera panned to the left, we could have seen the original home of the M
 
 Our journey ends a couple blocks up Huntington Avenue in front of the Copley Square Hotel at the corner of Exeter Street, which still exists. The empty lot on the right was a railway yard, and the building in front of us on the left is Mechanics Hall, which served as an auditorium and convention center until it was demolished in 1959. Both spaces are now part of the Prudential Center development, built in the 1960s.
 
+.
+
 At first glance, the world of 1906 seems quite remote from our own. But look more closely and you’ll see things really weren’t all that different—some people appear to have been in a hurry, others not; some were outfitted in the latest fashion, others more modestly; some were conversing amicably with their companions, others seemingly wished to be left alone.
 
 The 1906 Bostonians we see were running errands, going to appointments and meeting friends. Their clothes and accents might have been different from ours, but their hopes and dreams may have been strikingly familiar to us today. Plus *ça change, plus c'est la même chose* … the more things change, the more they stay the same.
