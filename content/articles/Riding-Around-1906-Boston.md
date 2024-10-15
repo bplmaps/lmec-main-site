@@ -46,7 +46,7 @@ Turning onto Causeway Street, we see passengers waiting outside the station, whi
 
 ### To Summer Street and South Station
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Jaynes 1898 Price List.png" class="figure-right" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Jaynes 1898 Price List.png" class="figure-right" caption="Jaynes 1898 Price List (5)" >}}
 
 After traveling down some bustling streets, we turn left onto Summer Street in front of Jaynes Annex. Jaynes was Boston’s leading drugstore. Its 1898 Price List included recipes by Fannie Farmer for every season of the year. In addition, it featured ads for such enticing products as Jaynes’ Magic Insect Powder (If it does not KILL the bugs we will refund the money) and Jaynes’ Castormels (A Pleasant Laxative Confection).6
 
