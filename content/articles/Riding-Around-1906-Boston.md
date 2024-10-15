@@ -63,3 +63,33 @@ The movie then jumps again, this time to Boylston Street in the Back Bay. Much o
 The first thing we notice is that we are no longer in a congested district—the streets have plenty of room for both pedestrians and vehicles. The first two buildings we see are the original home of M.I.T. The university wouldn't move to Cambridge until 1917. The next block is home to some hotels, businesses, a church and a school. Within a few years, this part of Boylston Street would become Boston’s center for the burgeoning new automobile business.
 
 {{< figure caption="Boston Public Library (The statues of Art and Science that currently flank the entrance had not yet been installed) (8)" class="figure-right" src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (1).jpeg" >}}
+
+As the streetcar begins to turn left onto Huntington Avenue, we see buildings that remain Copley Square landmarks. The Old South Church with its bell tower is on the right and the then new (1895) Boston Public Library on the left. The tall building the behind the library is the Lenox Hotel, which remains in business at the same location. The building between the library and hotel is the Harvard Medical School. Later that year, it would move to its current Longwood Avenue campus.
+
+Had the camera panned to the left, we could have seen the original home of the Museum of Fine Arts. It moved down Huntington Avenue to its current location three years later.
+
+Our journey ends a couple blocks up Huntington Avenue in front of the Copley Square Hotel at the corner of Exeter Street, which still exists. The empty lot on the right was a railway yard, and the building in front of us on the left is Mechanics Hall, which served as an auditorium and convention center until it was demolished in 1959. Both spaces are now part of the Prudential Center development, built in the 1960s.
+
+At first glance, the world of 1906 seems quite remote from our own. But look more closely and you’ll see things really weren’t all that different—some people appear to have been in a hurry, others not; some were outfitted in the latest fashion, others more modestly; some were conversing amicably with their companions, others seemingly wished to be left alone.
+
+The 1906 Bostonians we see were running errands, going to appointments and meeting friends. Their clothes and accents might have been different from ours, but their hopes and dreams may have been strikingly familiar to us today. Plus ça change, plus c'est la même chose … the more things change, the more they stay the same.
+
+.
+
+### ***Notes***
+
+**1:** Detail from postcard, Henry Siegel Co., Henry Siegel Co.’s New Store, Boston, Mass. (c. 1910), [https://commons.wikimedia.org/w/index.php?title=File:Henry\_Siegel\_Co\_WashingtonSt\_EssexSt\_Boston\_ca1910s.png\&oldid=866343667](https://commons.wikimedia.org/w/index.php?title=File:Henry_Siegel_Co_WashingtonSt_EssexSt_Boston_ca1910s.png\&oldid=866343667) 
+
+**2:** Siegel’s New Store Opened, The Boston Globe, p. 4 (September 12, 1905).
+
+**3: **If the filming was done in a single session and they went directly from one site to the next, the streetcar passed right by the Old State House and Faneuil Hall, neither of which is included, lending support to the speculation that the filmmaker was not trying to portray historic Boston. 
+
+**4:** New York’s “El” began service in 1878, Sonia Kahn, What Goes Up Must Come Down: A brief history of New York City’s elevated rail and subway lines, Library of Congress (May 19, 2022), Library of Congress web site, [https://blogs.loc.gov/maps/2022/05/what-goes-up-must-come-down-a-brief-history-of-new-york-citys-elevated-rail-and-subway-lines/](https://blogs.loc.gov/maps/2022/05/what-goes-up-must-come-down-a-brief-history-of-new-york-citys-elevated-rail-and-subway-lines/).
+
+**5:** 16 Jaynes & Co., 1898 Price list of Drug Store Goods, from the Winterthur Museum Library, [https://archive.org/details/pricelistofdrugs00jayn](https://archive.org/details/pricelistofdrugs00jayn). [https://archive.boston.com/news/local/massachusetts/articles/2009/10/13/a\_century\_ago\_boston\_led\_the\_way\_in\_taming\_the\_states\_wild\_roads/](https://archive.boston.com/news/local/massachusetts/articles/2009/10/13/a_century_ago_boston_led_the_way_in_taming_the_states_wild_roads/).
+
+6**:** You can download the Price List from the Internet Archive. [https://archive.org/details/pricelistofdrugs00jayn](https://archive.org/details/pricelistofdrugs00jayn) 
+
+**7:** Geo. H. Walker & Co., View of Boston freight terminals, the New York, New Haven & Hartford Railroad, Norman B. Leventhal Map & Education Center (1903), [https://collections.leventhalmap.org/search/commonwealth:df65xz27g](https://collections.leventhalmap.org/search/commonwealth:df65xz27g) 
+
+8: Screen capture from Seeing Boston. 
