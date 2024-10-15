@@ -28,4 +28,4 @@ We begin on Tremont Street traveling toward Boston Common. The small building at
 
 Riding east down Boylston Street, we see a sign for Washburn’s Department Store, with a smaller one saying they offer clothes on credit. Next to the commercial signage, we see a three-dimensional plaque with a tree. That marks the location of the Liberty Tree, the site of a gathering of the Sons of Liberty in pre-Revolutionary Boston. The building and tree marker are still there, though Washburn’s is long gone.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Siegels Post Card.jpg" caption="Siegel’s (note lamps on left)" class="figure-left" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Siegels Post Card.jpg" caption="Siegel’s (note lamps on left) (1)" class="figure-left" >}}
