@@ -88,7 +88,7 @@ The 1906 Bostonians we see were running errands, going to appointments and meeti
 
 **4:** New York’s “El” began service in 1878, Sonia Kahn, What Goes Up Must Come Down: A brief history of New York City’s elevated rail and subway lines, Library of Congress (May 19, 2022), Library of Congress web site, [https://blogs.loc.gov/maps/2022/05/what-goes-up-must-come-down-a-brief-history-of-new-york-citys-elevated-rail-and-subway-lines/](https://blogs.loc.gov/maps/2022/05/what-goes-up-must-come-down-a-brief-history-of-new-york-citys-elevated-rail-and-subway-lines/).
 
-**5:** 16 Jaynes & Co., 1898 Price list of Drug Store Goods, from the Winterthur Museum Library, [https://archive.org/details/pricelistofdrugs00jayn](https://archive.org/details/pricelistofdrugs00jayn). [https://archive.boston.com/news/local/massachusetts/articles/2009/10/13/a\_century\_ago\_boston\_led\_the\_way\_in\_taming\_the\_states\_wild\_roads/](https://archive.boston.com/news/local/massachusetts/articles/2009/10/13/a_century_ago_boston_led_the_way_in_taming_the_states_wild_roads/).
+**5:** Jaynes & Co., 1898 Price list of Drug Store Goods, from the Winterthur Museum Library, [https://archive.org/details/pricelistofdrugs00jayn](https://archive.org/details/pricelistofdrugs00jayn). [https://archive.boston.com/news/local/massachusetts/articles/2009/10/13/a\_century\_ago\_boston\_led\_the\_way\_in\_taming\_the\_states\_wild\_roads/](https://archive.boston.com/news/local/massachusetts/articles/2009/10/13/a_century_ago_boston_led_the_way_in_taming_the_states_wild_roads/).
 
 **6:** You can download the Price List from the Internet Archive. [https://archive.org/details/pricelistofdrugs00jayn](https://archive.org/details/pricelistofdrugs00jayn) 
 
