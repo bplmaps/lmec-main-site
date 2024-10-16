@@ -6,7 +6,7 @@ author: Gerald A. Rosenthal
 description: >-
   Check out these highlights from the October 11th themed From The Vault: Time
   Travel: Back to 1906 Boston. This collections showing event was specially
-  curated by friend of the Center, Gerald A. Rosenthal..
+  curated by friend of the Center, Gerald A. Rosenthal.
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:s17874142/48,2667,6196,3634/,1201/0/default.jpg
 backgroundImage: >-
