@@ -10,6 +10,25 @@ aliases:
 - "/contact_us"
 
 ---
+
+## General inquiries
+
+For general inquiries, please:
+
+* Email [info@leventhalmap.org](mailto:info@leventhalmap.org) for information about the Map Center, programs, and activities.
+* Email [reference@leventhalmap.org](mailto:reference@leventhalmap.org) or fill out [this form](https://www.leventhalmap.org/research/#ask-librarian) for questions about collections, reference, and research
+* Email [education@leventhalmap.org](mailto:education@leventhalmap.org) for questions about K-12 education and resources
+* Fill out [this form](https://www.bpl.org/special-collections/donation-form/) to request for library staff to consider a donation of maps or other material to the collections
+
+Our postal mailing address is:
+
+Leventhal Map & Education Center  
+Boston Public Library  
+700 Boylston St  
+Boston, MA 02116 USA
+
+Our general telephone number is **+1 617.859.2387**
+
 ## Follow us on social media
 
 We post many times a week on social media, with stories and images about maps and historical geography, as well as quizzes, interactive material, and video streams. Follow us on:
@@ -22,22 +41,6 @@ We post many times a week on social media, with stories and images about maps an
 
 <script async src="https://eomail5.com/form/0429e168-40a3-11ec-96e5-06b4694bee2a.js" data-form="0429e168-40a3-11ec-96e5-06b4694bee2a"></script>
 
-## General inquiries
-
-For general inquiries, please email:
-
-* [info@leventhalmap.org](mailto:info@leventhalmap.org) for information about the Map Center, programs, and activities.
-* [reference@leventhalmap.org](mailto:reference@leventhalmap.org) for questions about collections, reference, and research
-* [education@leventhalmap.org](mailto:education@leventhalmap.org) for questions about K-12 education and resources
-
-Our postal mailing address is:
-
-Leventhal Map & Education Center  
-Boston Public Library  
-700 Boylston St  
-Boston, MA 02116 USA
-
-Our general telephone number is **+1 617.859.2387**
 
 ## Contact a staff member
 
