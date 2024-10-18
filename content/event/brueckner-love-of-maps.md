@@ -17,7 +17,7 @@ tags:
   - American Revolutionary War Era
 ---
 
-### Learn how "cartifacts" circulated in the everydays spaces of the Revolutionary War era
+### Learn how "cartifacts" circulated in the everyday spaces of the Revolutionary War era
 
 In North America, the consumer revolution of the eighteenth century profoundly affected people’s material life and, as some argue, paved the way for other more momentous political revolutions. In this program, Martin Brückner will discuss how maps became popular consumer goods and how their material transfer as “cartifacts” came to shape everyday and political life in early America.
 
