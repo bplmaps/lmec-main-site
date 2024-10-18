@@ -57,6 +57,12 @@ slider:
 cta:
   enable: true
   announcements:
+    - badge: Service Interruption
+      text: >-
+        Digital collections hosted on Internet Archive are currently unavailable
+        due to technical issues
+      link: >-
+        https://blog.archive.org/2024/10/18/internet-archive-services-update-2024-10-17/
     - badge: New Exhibit!
       text: >-
         Visit our newest exhibition, Processing Place: How Computers and
