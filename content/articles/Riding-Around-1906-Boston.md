@@ -74,7 +74,7 @@ At first glance, the world of 1906 seems quite remote from our own. But look mor
 
 The 1906 Bostonians we see were running errands, going to appointments and meeting friends. Their clothes and accents might have been different from ours, but their hopes and dreams may have been strikingly familiar to us today. Plus *ça change, plus c'est la même chose* … the more things change, the more they stay the same.
 
-.
+> Gerald A. Rosenthal (Jerry) is a Boston attorney and entrepreneur who loves to learn, research, and write about Boston and its history. Recent topics include Christmas Traditions Born on Beacon Hill, Tails of Boston Common, and Bauhaus to Boston. His interest in maps began as a child when he was designated the navigator for family auto outings. He looks to maps not only for the information and artistic beauty they contain, but also the insights they provide into the thinking of the societies that created them and what those people considered important.
 
 ### ***Notes***
 
