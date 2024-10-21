@@ -16,7 +16,7 @@ tags:
   - Boston
 ---
 
-In the first installment of this series, *[Time Travel Back to 1906 Boston](https://www.leventhalmap.org/articles/time-travel-back-to-1906-boston/)*, we glimpsed what Boston was like when Billy Bitner rode through the streets filming scenes of daily life. Here we’ll hop onboard the streetcar and accompany him on his journey.
+In the first installment of this series, *[Time Travel Back to 1906 Boston](https://www.leventhalmap.org/articles/time-travel-back-to-1906-boston/)*, we glimpsed what Boston was like when Billy Bitner rode through the streets filming scenes of daily life for his short film, *Seeing Boston*. Here we’ll hop onboard the streetcar and accompany him on his journey. If you'd like to watch along, [watch *Seeing Boston* here](https://www.youtube-nocookie.com/embed/32ESCs1AocY?rel=0\&end=667\&autoplay=0). 
 
 ### Starting Downtown
 
