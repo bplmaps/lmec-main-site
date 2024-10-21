@@ -4,10 +4,6 @@ title: Time Travel Back to 1906 Boston
 date: 2024-10-09T04:00:00.000Z
 author: Gerald A. Rosenthal
 description: >-
-  Boston is an ever-evolving city, so it can be difficult to imagine just how
-  different Boston looked and functioned over century ago. 
-
-
   In this two-part article series, friend of the Center, Gerald A. Rosenthal,
   explores the history and infrastructure of Boston in 1906 and also uses the
   1906 film Seeing Boston to provide a detailed tour by trolley car through the
@@ -66,7 +62,7 @@ Modern viewers might find it strange that some stores had signs announcing they 
 
 Stay tuned. In our next installment, *Riding Around 1906 Boston*, we’ll climb onboard the streetcar and start rolling!
 
-.
+> Gerald A. Rosenthal (Jerry) is a Boston attorney and entrepreneur who loves to learn, research, and write about Boston and its history. Recent topics include Christmas Traditions Born on Beacon Hill, Tails of Boston Common, and Bauhaus to Boston. His interest in maps began as a child when he was designated the navigator for family auto outings. He looks to maps not only for the information and artistic beauty they contain, but also the insights they provide into the thinking of the societies that created them and what those people considered important.
 
 ### **Notes**
 
