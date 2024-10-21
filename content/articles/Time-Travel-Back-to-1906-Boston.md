@@ -60,7 +60,7 @@ Billiards seems to have been a popular pastime, with many signs on Washington St
 
 Modern viewers might find it strange that some stores had signs announcing they sold goods on credit. But in 1906, credit cards like MasterCard and Visa were many decades in the future, and purchasing daily necessities on credit was regarded by many as consumptive debt and socially unacceptable. Thus, the signs likely attracted attention, but the people entering those shops might have first looked both ways to make sure no one they knew saw them.
 
-Stay tuned. In our next installment, *Riding Around 1906 Boston*, we’ll climb onboard the streetcar and start rolling!
+Stay tuned. In our next installment, *Riding Around 1906 Boston*, we’ll climb onboard the streetcar and start rolling! Watch the 1906 video, *Seeing Boston* here.
 
 > Gerald A. Rosenthal (Jerry) is a Boston attorney and entrepreneur who loves to learn, research, and write about Boston and its history. Recent topics include Christmas Traditions Born on Beacon Hill, Tails of Boston Common, and Bauhaus to Boston. His interest in maps began as a child when he was designated the navigator for family auto outings. He looks to maps not only for the information and artistic beauty they contain, but also the insights they provide into the thinking of the societies that created them and what those people considered important.
 
