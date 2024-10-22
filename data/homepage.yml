@@ -59,8 +59,8 @@ cta:
   announcements:
     - badge: Service Interruption
       text: >-
-        Digital collections hosted on Internet Archive are currently unavailable
-        due to technical issues
+        Digital collections hosted on Internet Archive are currently available
+        only in a read-only manner
       link: >-
         https://blog.archive.org/2024/10/21/internet-archive-services-update-2024-10-21/
     - badge: New Exhibit!
