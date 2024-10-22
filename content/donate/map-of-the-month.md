@@ -39,7 +39,8 @@ Donations go directly to our historical geography work with students, educators,
 * **March 2024**: [Bird's-eye view from the summit of Mt. Hiei](https://collections.leventhalmap.org/search/commonwealth:hm50xz79w)
 * **April 2024:** [Daqing wannian yitong dili quantu](https://collections.leventhalmap.org/search/commonwealth:wh24b054q)
 * **May 2024:** [Whale chart](https://collections.leventhalmap.org/search/commonwealth:0c487z91q)
-* **June 2024: **[America, it's history](https://collections.leventhalmap.org/search/commonwealth:5q47v990b)
-* **July 2024: **[Boston & Gloucester Steamboat Co.: Summer season 1889](https://collections.leventhalmap.org/search/commonwealth:0r96fp956)
-* **August 2024: **[Panoramic view of Boston centered on the Prudential Tower](https://collections.leventhalmap.org/search/commonwealth:h128th21w)
-* **September 2024: **Coming soon
+* **June 2024:** [America, its history](https://collections.leventhalmap.org/search/commonwealth:5q47v990b)
+* **July 2024:** [Boston & Gloucester Steamboat Co.: Summer season 1889](https://collections.leventhalmap.org/search/commonwealth:0r96fp956)
+* **August 2024:** [Panoramic view of Boston centered on the Prudential Tower](https://collections.leventhalmap.org/search/commonwealth:h128th21w)
+* **September 2024:** [Urban atlas, tract data for standard metropolitan statistical areas: Boston, Massachusetts](https://collections.leventhalmap.org/search/commonwealth:ns069g065)
+* **October 2024:** [Desire line maps](https://www.leventhalmap.org/digital-exhibitions/processing-place/catalogue/09-calculating-routes/9.1/)
