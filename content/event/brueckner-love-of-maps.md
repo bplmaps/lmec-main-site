@@ -19,6 +19,8 @@ tags:
 
 ### Learn how "cartifacts" circulated in the everyday spaces of the Revolutionary War era
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S2Lv2Rf6nro?si=3vIoPtAjJEDVMq2X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 In North America, the consumer revolution of the eighteenth century profoundly affected people’s material life and, as some argue, paved the way for other more momentous political revolutions. In this program, Martin Brückner will discuss how maps became popular consumer goods and how their material transfer as “cartifacts” came to shape everyday and political life in early America.
 
 {{< figure class="figure-right" src="https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/events/Martin_Br%C3%BCckner_01.jpg" >}}
