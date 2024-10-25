@@ -20,6 +20,8 @@ tags:
 
 As the technology that we use improves and advances, so too do the things we can create with that technology. Maps in the modern day look drastically different than those used several hundred years ago, and are now able to tell us a multitude of different things than they could previously. But what do these changes actually look like? How has the process of digitizing cartography evolved how we communicate our place in the world? And how do maps from hundreds of years ago compare to the maps we use to navigate our world today? Look through the maps and captions from *Out With the Old, In With the New* to further explore these questions.
 
+### The World
+
 ##### Ptolemy,  ***[The world](https://collections.leventhalmap.org/search/commonwealth:hq37vv66t)*** (1482)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hq37vv673/full/1200,/0/default.jpg" class="" >}}
@@ -31,6 +33,8 @@ As the technology that we use improves and advances, so too do the things we can
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j046/full/1200,/0/default.jpg" class="" >}}
 
 This “Physical Map of the World” from 2001 used by the CIA shows a modern view of the world in the 21st century and features light topography to demonstrate the different elevations and terrains of each continent. Similarly to Ptolemy’s world map, this map also employs projection, though it uses a more modern method of cylindrical projection called “Robinson projection.” Robinson projection was developed by Arthur H. Robinson in 1963 using computer simulation to create a more visually pleasing and overall more accurate looking world map. Instead of keeping the proportions as accurate as possible for most of the map and greatly distorting the poles like a usual Mercator projection, the Robinson projection causes slight distortions across the entirety of the image. While less useful for navigation than other projection techniques, the Robinson projection is commonly used on world maps to visually demonstrate general world proportions.
+
+### The Atlantic Ocean
 
 ##### Ptolemy, ***[Oceani occidetalis seu terre nove tabula](https://collections.leventhalmap.org/search/commonwealth:j3860837q)*** (1525)
 
@@ -44,6 +48,8 @@ This map of the Atlantic Ocean and New World from the mid 1520s is one of the fi
 
 This 1993 map of the West Indies demonstrates a significantly more accurate scale than the map from the 1520s, and really spotlights the Gulf of Mexico, the Caribbean Sea, and the Northern part of the Atlantic Ocean. Upon first glance, this map may take some adjusting to as it is primarily mapping the ocean as opposed to landmasses. The yellow represents the Southeastern US and West Indies as well as Central and South America, and anything in blue or white represents different oceanic features. This specific map highlights the different depths of the ocean off the coasts of North and South America, and really shows off the proper scale of Cuba and the other Caribbean islands as compared to the map from the 1500s. As technology became more prevalent in the map making process, accuracy in size and scale became more assured.
 
+### Asia
+
 #### Ptolemy, ***[Indie interioris civitates decima Asia tabula continet India int. Gangem](https://collections.leventhalmap.org/search/commonwealth:7h14b129t)*** (1482)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2v241v11d/full/,850/0/default.jpg" >}}
@@ -53,6 +59,8 @@ This map of Asia from 1482 is another Ptolemic map recreated from the writings o
 #### United States. Central Intelligence Agency, ***[Asia](https://collections.leventhalmap.org/search/commonwealth:3f463913p)*** (2004)
 
 This 2004 map of Asia created by the CIA shows off the geography and topography of both South and East Asia, and provides a comprehensive look at the different natural features of the land (mountains, rivers, deserts, etc.) as well as listing the locations of each country and their capital cities. Looking at this modernized computer generated map of India, one can see how dramatically different the scale of different areas of the country was depicted in Ptolemy’s time vs now. Despite both of these maps being fairly bare bones, a shift in tone from more decorative mapping to more practical mapping can be clearly seen between these two especially. This map features a miniature scale in the bottom left hand corner of the map meant to demonstrate the actual sizes of the landmarks portrayed, as opposed to a more decorative scale bordering the entirety of the map as seen on the 1482 model. Even features of maps so small and minute as a scale can affect the tone of the map and what we take away from it!
+
+### Mexico
 
 ##### Abraham Ortelius, ***[Hispaniae novae sivae magnae, recens et vera desciptio : 1579](https://collections.leventhalmap.org/search/commonwealth:6w924q02s)*** (1608)
 
@@ -65,6 +73,8 @@ This 1608 map of Mexico was created by Flemish cartographer Abraham Ortelius dur
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t94b255z/full/,1200/0/default.jpg" class="" >}}
 
 In contrast to the older map of Mexico, this newer 2010s map of the same area is spotlighting the connections between the United States and Mexico using details about the border and the infrastructure of the area. This map was made with the purpose of not just showing off the geography of Mexico or being a navigational tool, but instead to highlight the connections between Mexico and the United States and how those two entities interact with one another. Because this map is specifically focusing on the US-Mexico border and the different travel routes into one country and out of the other, the different locations featured on the map are exceptionally detailed and make up most of what is shown. Since the United States played such a large part in this map, both in terms of creating it and also being a focal point of its subject matter, the Southern United States is featured very obviously in white and takes up nearly half of the map, which is not the case in the Ortelius map of 1608.
+
+### Boston
 
 #### William Price, ***[A new plan of ye great town of Boston in New England in America, with the many additionall buildings & new streets to the year 1743](https://collections.leventhalmap.org/search/commonwealth:9s161952m)*** (1743)
 
