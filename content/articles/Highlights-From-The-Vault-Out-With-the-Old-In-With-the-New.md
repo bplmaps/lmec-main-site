@@ -22,13 +22,13 @@ As the technology that we use improves and advances, so too do the things we can
 
 ### The World
 
-##### Ptolemy,  ***[The world](https://collections.leventhalmap.org/search/commonwealth:hq37vv66t)*** (1482)
+#### Ptolemy,  ***[The world](https://collections.leventhalmap.org/search/commonwealth:hq37vv66t)*** (1482)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hq37vv673/full/1200,/0/default.jpg" class="" >}}
 
 “The World” is a map from the late 1400s that served as part of a 2nd century printed Atlas based on geographical knowledge of the Roman Empire entitled “Cosmographia”. This map of the world in particular was originally created by Greek-Egyptian geographer Claudius Ptolemy, then lost to time and only later recreated using coordinates left in surviving texts. Often thought of as the father of cartography, Ptolemy’s maps were integral to how location and place were thought about throughout medieval Europe, and had long lasting impacts on how we think of geography today. By building on some of the first known attempts at projection in mapping (the method by which cartographers mathematically represent the Earth’s spherical surface on a flat plane), Ptolemy’s world map was considered mostly accurate and used for years before any changes were made. Because the “New World” had yet to be discovered, the center of this map highlights the meeting point between Asia, Europe, and Africa. 
 
-##### United States. Central Intelligence Agency, ***[Physical map of the world, April 2001](https://collections.leventhalmap.org/search/commonwealth:3t947c03j)*** (2001)
+#### United States. Central Intelligence Agency, ***[Physical map of the world, April 2001](https://collections.leventhalmap.org/search/commonwealth:3t947c03j)*** (2001)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j046/full/1200,/0/default.jpg" class="" >}}
 
@@ -36,13 +36,13 @@ This “Physical Map of the World” from 2001 used by the CIA shows a modern vi
 
 ### The Atlantic Ocean
 
-##### Ptolemy, ***[Oceani occidetalis seu terre nove tabula](https://collections.leventhalmap.org/search/commonwealth:j3860837q)*** (1525)
+#### Ptolemy, ***[Oceani occidetalis seu terre nove tabula](https://collections.leventhalmap.org/search/commonwealth:j3860837q)*** (1525)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:j38608380/full/1200,/0/default.jpg" class="" >}}
 
 This map of the Atlantic Ocean and New World from the mid 1520s is one of the first representations of the West Indies and South America on a map in recorded history, and surprisingly accurate given the recency of the land’s discovery. This map comes about 30 years after Columbus’ first voyage to the new world and features the Southeastern corner of what is now the United States including Florida. The Gulf of Mexico and the shape of Central America remain largely amorphous on this map, and the scale of South America and Spain in comparison to Africa is extremely overinflated. The humanoid illustrations on this map demonstrate colonists' initial crude impressions of the native peoples whose longstanding homes were part of what Europeans referred to as the “New World”. Unfortunately, these opinions would persist through the coming centuries and heavily shaped stereotypes and opinions around peoples of the New World, specifically South America, for centuries to come.
 
-##### Netherlands. Koninklijke Marine. Dienst der Hydrografie, ***[North Atlantic Ocean, West Indies](https://collections.leventhalmap.org/search/commonwealth:3f463890k)*** (1993)
+#### Netherlands. Koninklijke Marine. Dienst der Hydrografie, ***[North Atlantic Ocean, West Indies](https://collections.leventhalmap.org/search/commonwealth:3f463890k)*** (1993)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463c37p/full/1200,/0/default.jpg" class="" >}}
 
