@@ -58,6 +58,8 @@ This map of Asia from 1482 is another Ptolemic map recreated from the writings o
 
 #### United States. Central Intelligence Agency, ***[Asia](https://collections.leventhalmap.org/search/commonwealth:3f463913p)*** (2004)
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463914z/full/1200,/0/default.jpg" >}}
+
 This 2004 map of Asia created by the CIA shows off the geography and topography of both South and East Asia, and provides a comprehensive look at the different natural features of the land (mountains, rivers, deserts, etc.) as well as listing the locations of each country and their capital cities. Looking at this modernized computer generated map of India, one can see how dramatically different the scale of different areas of the country was depicted in Ptolemy’s time vs now. Despite both of these maps being fairly bare bones, a shift in tone from more decorative mapping to more practical mapping can be clearly seen between these two especially. This map features a miniature scale in the bottom left hand corner of the map meant to demonstrate the actual sizes of the landmarks portrayed, as opposed to a more decorative scale bordering the entirety of the map as seen on the 1482 model. Even features of maps so small and minute as a scale can affect the tone of the map and what we take away from it!
 
 ### Mexico
