@@ -18,7 +18,7 @@ tags:
 
 > *On October 25, we hosted **From The Vault: Out With the Old, In With the New***.
 
-As the technology that we use improves and advances, so too do the things we can create with that technology. Maps in the modern day look drastically different than those used several hundred years ago, and are now able to tell us a multitude of different things than they could previously. But what do these changes actually look like? How has the process of digitizing cartography evolved how we communicate our place in the world? And how do maps from hundreds of years ago compare to the maps we use to navigate our world today? Look through the maps and caption from *Out With the Old, In With the New* for answers to these questions.
+As the technology that we use improves and advances, so too do the things we can create with that technology. Maps in the modern day look drastically different than those used several hundred years ago, and are now able to tell us a multitude of different things than they could previously. But what do these changes actually look like? How has the process of digitizing cartography evolved how we communicate our place in the world? And how do maps from hundreds of years ago compare to the maps we use to navigate our world today? Look through the maps and captions from *Out With the Old, In With the New* to further explore these questions.
 
 ##### Ptolemy,  ***[The world](https://collections.leventhalmap.org/search/commonwealth:hq37vv66t)*** (1482)
 
