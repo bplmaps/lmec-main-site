@@ -44,19 +44,17 @@ This map of the Atlantic Ocean and New World from the mid 1520s is one of the fi
 
 This 1993 map of the West Indies demonstrates a significantly more accurate scale than the map from the 1520s, and really spotlights the Gulf of Mexico, the Caribbean Sea, and the Northern part of the Atlantic Ocean. Upon first glance, this map may take some adjusting to as it is primarily mapping the ocean as opposed to landmasses. The yellow represents the Southeastern US and West Indies as well as Central and South America, and anything in blue or white represents different oceanic features. This specific map highlights the different depths of the ocean off the coasts of North and South America, and really shows off the proper scale of Cuba and the other Caribbean islands as compared to the map from the 1500s. As technology became more prevalent in the map making process, accuracy in size and scale became more assured. 
 
-##### Ptolemy, [Indie interioris civitates decima Asia tabula continet India int. Gangem](https://collections.leventhalmap.org/search/commonwealth:7h14b129t) (1482)
+#### Ptolemy, [Indie interioris civitates decima Asia tabula continet India int. Gangem](https://collections.leventhalmap.org/search/commonwealth:7h14b129t) (1482)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2v241v11d/full/,850/0/default.jpg" >}}
 
 This map of Asia from 1482 is another Ptolemic map recreated from the writings of early Greco-Egyptian geographer Claudius Ptolemy. The map focuses primarily on India and faintly its surrounding area. What many older maps are choosing to show us versus what they omit frequently provides more information about the time period than strictly looking at the geography of the map itself. In this case, the map is putting so much focus into India because that is the main Asian country that the Roman Empire was trading with in the 1st century. While there was minimal established trade contact between the Roman Empire and other Asian countries to trade delicacies like silk and glassware, there was no direct trade route established to these places. India on the other hand had many direct trading routes with Europe during this time, so the area West of the Ganges river as seen here was mapped extensively.
 
-##### &#xA;United States. Central Intelligence Agency, [Asia](https://collections.leventhalmap.org/search/commonwealth:3f463913p) (2004)
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463914z/full/1200,/0/default.jpg" caption="" >}}
+#### United States. Central Intelligence Agency, [Asia](https://collections.leventhalmap.org/search/commonwealth:3f463913p) (2004)
 
 This 2004 map of Asia created by the CIA shows off the geography and topography of both South and East Asia, and provides a comprehensive look at the different natural features of the land (mountains, rivers, deserts, etc.) as well as listing the locations of each country and their capital cities. Looking at this modernized computer generated map of India, one can see how dramatically different the scale of different areas of the country was depicted in Ptolemy’s time vs now. Despite both of these maps being fairly bare bones, a shift in tone from more decorative mapping to more practical mapping can be clearly seen between these two especially. This map features a miniature scale in the bottom left hand corner of the map meant to demonstrate the actual sizes of the landmarks portrayed, as opposed to a more decorative scale bordering the entirety of the map as seen on the 1482 model. Even features of maps so small and minute as a scale can affect the tone of the map and what we take away from it!
 
-##### Abraham Ortelius [Hispaniae novae sivae magnae, recens et vera desciptio : 1579](https://collections.leventhalmap.org/search/commonwealth:6w924q02s) (1608)
+##### Abraham Ortelius, [Hispaniae novae sivae magnae, recens et vera desciptio : 1579](https://collections.leventhalmap.org/search/commonwealth:6w924q02s) (1608)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6w924q032/full/1200,/0/default.jpg" class="" >}}
 
