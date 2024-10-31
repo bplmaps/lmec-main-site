@@ -6,12 +6,6 @@ title: Summer Internships 2024
 backgroundImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 ---
 
-<!-- {{< alert-box type="success" title="Apply " >}}
-
-Applications for our Summer 2024 internships are **open** until 3pm on Wednesday, March 20, 2024. [Apply below](#apply)!
-
-{{</ alert-box >}} -->
-
 {{< alert-box type="danger" title="Apply " >}}
 
 Applications for our Summer 2024 internships are now closed.
