@@ -1,6 +1,6 @@
 ---
 title: Using Maps for National History Day
-backgroundImage: images/page-header-backgrounds/education-programs.jpg
+backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xm03j/384,318,5693,3361/1200,/0/default.jpg
 description: 
 aliases: "/education/k12/ma-history-day"
 draft: true
