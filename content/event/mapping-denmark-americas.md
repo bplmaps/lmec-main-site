@@ -8,11 +8,15 @@ backgroundImage: "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:9140:W
 location: Det Kgl. Bibliotek, The Royal Library, Copenhagen
 fee: Free
 registration: "https://lu.ma/aefvorz0"
+tags:
+  - ARGO
+  - American Revolutionary War Era
+  - Partner Programs
 ---
 
 <iframe
   src="https://lu.ma/embed/event/evt-mVxcuxGMrEsZMxM/simple"
-  width="600"
+  width="100%"
   height="450"
   frameborder="0"
   style="border: 1px solid #bfcbda88; border-radius: 4px;"
