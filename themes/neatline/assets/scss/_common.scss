@@ -823,3 +823,24 @@ div.iiif-popup {
   }
 }
 
+summary {
+  padding: 5px;
+  list-style-type: '⬇ ';
+}
+
+summary::marker {
+  font-size: 1.2em;
+}
+
+details {
+  margin: 10px;
+  padding: 10px;
+  background-color: rgba(0, 102, 136, 0.2);
+  border-radius: 5px;
+  display: inline-block;
+  width: 80%;
+}
+
+details[open] > summary {
+  list-style-type: '⬆ ';
+}
