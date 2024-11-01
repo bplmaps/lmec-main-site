@@ -40,7 +40,7 @@ Geohumanities & GIS interns will learn how to use different kinds of geospatial 
 
 ### Apply
 
-Applications are due by **March 20, 2023 at 3:00pm ET**. To apply, submit:
+Applications are due by **November 22, 2024 at 3:00pm ET**. To apply, submit:
 
 * A letter of interest, no longer than 1 single-spaced page
 * A resume or CV
