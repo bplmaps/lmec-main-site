@@ -1,15 +1,15 @@
 ---
+aliases: /education/k12/ma-history-day
+draft: false
 title: Using Maps for National History Day
-backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xm03j/384,318,5693,3361/1200,/0/default.jpg
-description: 
-aliases: "/education/k12/ma-history-day"
-draft: true
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xm03j/384,318,5693,3361/1200,/0/default.jpg
+description: null
 ---
 
 ### Finding the right map
 
-When you search the Leventhal Center online database, you might not find your “perfect” map right away. 
-
+When you search the Leventhal Center online database, you might not find your “perfect” map right away.
 
 <details>
     <summary><strong>Picking the Right Search Terms</strong></summary>
@@ -23,38 +23,39 @@ When you search the Leventhal Center online database, you might not find your �
     <p>For example, if you search for <code>Treaty of Versailles</code> (with no quotation marks), you will produce 112 results, including maps of the gardens of the palace of Versailles. If you search <code>“Treaty of Versailles”</code> with quotation marks, you will receive three results related to the treaties of 1783 and 1919.</p>
 </details>
 
-**Still didn’t find what you were looking for?** [Here is a list](https://guides.bpl.org/digital-map-collections) of additional online databases that might help you find a map to match your topic. 
+**Still didn’t find what you were looking for?** [Here is a list](https://guides.bpl.org/digital-map-collections) of additional online databases that might help you find a map to match your topic.
 
-**Want some help?** If you know your research topic and what you are looking for, send us an email at [education@leventhapmap.org](mailto:education@leventhapmap.org) and we will help you. 
+**Want some help?** If you know your research topic and what you are looking for, send us an email at [education@leventhapmap.org](mailto:education@leventhapmap.org) and we will help you.
 
 ### Using a map in your NHD Project
 
-Our number one piece of advice? **Take time to look.** 
+Our number one piece of advice? **Take time to look.**
 
-Just as you would read and reread any other primary source document, be sure to examine carefully your selected map. 
+Just as you would read and reread any other primary source document, be sure to examine carefully your selected map.
 
 You can look over the map with the following questions in mind:
 
-- Take a second to take in the whole image (we like to scan with our eyes from top to bottom, from left to right).
-- What do you notice first?
-- What does the map focus on?
-    - How did the maker get you to focus? Did they use color? Are some things larger than others (scale)? What is at the center of the map? What features are accompanied by text?
-- How is the map intended to be used?
-    - To show political boundaries? Navigation? Sharing data? Depicting a particular place for promotion or propaganda?
-- What is overlooked? What is unlabeled, at the edges, or missing altogether?
+* Take a second to take in the whole image (we like to scan with our eyes from top to bottom, from left to right).
+* What do you notice first?
+* What does the map focus on?
+  * How did the maker get you to focus? Did they use color? Are some things larger than others (scale)? What is at the center of the map? What features are accompanied by text?
+* How is the map intended to be used?
+  * To show political boundaries? Navigation? Sharing data? Depicting a particular place for promotion or propaganda?
+* What is overlooked? What is unlabeled, at the edges, or missing altogether?
 
 ### Final Steps
 
-- Cite
-    - Every digital entry includes a “cite” option under “share”. You can find additional information in the catalog listing under "item information".
-- High quality image
-    - Each digital entry includes multiple download sizes. Be sure you chose the right size for the way you will be using your map.
+* Cite
+  * Every digital entry includes a “cite” option under “share”. You can find additional information in the catalog listing under "item information".
+* High quality image
+  * Each digital entry includes multiple download sizes. Be sure you chose the right size for the way you will be using your map.
 
 ### 2025 Theme: Rights and Responsibilities
 
 #### Recommended Maps by Theme
 
 ###### Voting Rights & Responsibilities
+
 <details>
 <summary><strong>Click for more</strong></summary>
 <p>Check out:</p>
@@ -75,6 +76,7 @@ You can look over the map with the following questions in mind:
 </br>
 
 ###### Environmental Rights & Responsibilities
+
 <details>
 <summary><strong>Click for more</strong></summary>
 <p>Check out:</p>
