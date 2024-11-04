@@ -16,7 +16,7 @@ tags:
 
 The Leventhal Center is thrilled to welcome educators attending the National Council for Social Studies Conference.
 
-For this edition of From the Vault, conference attendees, fans of social studies, and the general public can view a selection of maps from the collection that go beyond your standard textbook map. We share maps that encourage us to think about how who made or paid for the creation of each map impacts what is depicted (or excluded) and how that .
+For this edition of From the Vault, conference attendees, fans of social studies, and the general public can view a selection of maps from the collection that go beyond your standard textbook map. We share maps that encourage us to think about how who made or paid for the creation of each map impacts what is depicted (or excluded).
 
 Selected maps will also include questions for educators to bring back to the classrooms as they consider maps as primary sources.
 
