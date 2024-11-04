@@ -20,7 +20,7 @@ For this edition of From the Vault, conference attendees, fans of social studies
 
 Selected maps will also include questions for educators to bring back to the classrooms as they consider maps as primary sources.
 
-This free showing will be hosted Friday, November 1 in the Learning Center with a staff member from the Leventhal Center available to answer questions.
+This free showing will be hosted Friday, November 22 in the Learning Center with staff members from the Leventhal Center available to answer questions.
 
 Drop in any time between 2:00PM - 4:00PM. No reservation is required.
 
