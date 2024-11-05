@@ -57,7 +57,7 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Holiday closure
+    - badge: Holiday Closure
       text: >-
         The Center will be closed, along with all BPL locations, on November 11
         in observance of Veteran's Day
