@@ -57,6 +57,10 @@ slider:
 cta:
   enable: true
   announcements:
+    - badge: Holiday closure
+      text: >-
+        The Center will be closed, along with all BPL locations, on November 11
+        in observance of Veteran's Day
     - badge: Spring Internship Applications Open
       text: >-
         Applications for our undergraduate GIS + Geohumanities internships are
