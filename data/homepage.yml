@@ -57,11 +57,15 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: New Exhibit!
+    - badge: Holiday Closure
       text: >-
-        Visit our newest exhibition, Processing Place: How Computers and
-        Cartographers Redrew our World in our gallery.
-      link: 'https://www.leventhalmap.org/about/hours-directions/'
+        The Center will be closed, along with all BPL locations, on November 11
+        in observance of Veteran's Day
+    - badge: Spring Internship Applications Open
+      text: >-
+        Applications for our undergraduate GIS + Geohumanities internships are
+        open until 3pm on Friday, November 22, 2024!
+      link: 'https://www.leventhalmap.org/about/jobs/2025-spring-internships/'
 audiences:
   enable: true
   audienceGroups:
