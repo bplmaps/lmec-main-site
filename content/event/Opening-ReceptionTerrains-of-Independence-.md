@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: 'Opening Reception: Terrains of Independence'
 date: 2025-04-09T21:00:00.000Z
 publishDate: 2024-11-07T05:00:00.000Z
