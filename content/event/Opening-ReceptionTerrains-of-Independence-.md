@@ -13,7 +13,7 @@ tags:
   - Exhibition
 ---
 
-Please join us for a special reception as we open the Leventhal Map & Education Center's newest exhibition Terrains of Independence*.*
+Please join us for a special reception as we open the Leventhal Map & Education Center's newest exhibition: *Terrains of Independence*.
 
 The opening event will feature gallery tours, a discussion with curators ***Katy Lasdow*** and ***Garrett Dash Nelson***, and light refreshments.
 
