@@ -20,8 +20,10 @@ cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/50
 ### Board of Directors
 
 Janet P. Atkins\
+John D. Childs\
 Michael G. Contompasis\
 Charles L. Cooney, PhD, *Chair*\
+Diana Fernandez Bibeau\
 Matthew J. Kiefer, Esq.\
 Michelle Knight, *Treasurer*\
 Alex Krieger\
@@ -36,6 +38,7 @@ Barry L. Ruderman\
 Oscar Santos\
 William J. Schnoor\
 Natacha Scott\
+Allison D. Webster, Esq.\
 Christian J. Westra, Esq.
 
 **Ex Officio**
