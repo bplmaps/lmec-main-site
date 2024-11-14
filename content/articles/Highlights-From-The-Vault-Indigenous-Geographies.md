@@ -28,21 +28,21 @@ Highlighting Indigenous geographies and guest curated by Amira Madison, the Sup
 Prior to being a town, Mashpee was first named an Indian Plantation. and this is one of the original drawn out plans. This is how the United States planned to manage Tribes west of the Mississippi, but first piloted the policy in Massachusetts. The Dawes Act, also known as the Dawes Severalty Act or General Allotment Act, was passed by Congress in 1887 to break up tribal lands and assimilate Native Americans into mainstream US society. The act was named after Senator Dawes from Massachusetts, who was the primary proponent of the legislation. 
 
 
-##### Margaret W. Pearce, [Coming Home to Indigenous Place Names in Canada](https://bpl.bibliocommons.com/v2/record/S75C7441004) (2017)
+#### Margaret W. Pearce, [Coming Home to Indigenous Place Names in Canada](https://bpl.bibliocommons.com/v2/record/S75C7441004) (2017)
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Coming Home to Indigenous Place Names in Canada map full size secure.jpg" class="" >}}
 
 What does it look like for an Indigenous person to create a map from the Indigenous perspective with Indigenous collaboration? How can Indigenous languages explain the land more accurately than any typical map?
 
-#### United States. Office of Indian Affairs, Map showing Indian reservations within the limits of the United States, 1906 (1907)
+#### United States. Office of Indian Affairs, [Map showing Indian reservations within the limits of the United States, 1906](https://collections.leventhalmap.org/search/commonwealth:gb19hw10q) (1907)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rb6912172/full/1400,/0/default.jpg" class="" >}}
 
-This map of the Atlantic Ocean and New World from the mid 1520s is one of the first representations of the West Indies and South America on a map in recorded history, and surprisingly accurate given the recency of the land’s discovery. This map comes about 30 years after Columbus’ first voyage to the new world and features the Southeastern corner of what is now the United States including Florida. The Gulf of Mexico and the shape of Central America remain largely amorphous on this map, and the scale of South America and Spain in comparison to Africa is extremely overinflated. The humanoid illustrations on this map demonstrate colonists' initial crude impressions of the native peoples whose longstanding homes were part of what Europeans referred to as the “New World”. Unfortunately, these opinions would persist through the coming centuries and heavily shaped stereotypes and opinions around peoples of the New World, specifically South America, for centuries to come.
+Today, we have 574 Federally Recognized Tribes across the United States. In 1906, according to this map, there are only a few communities highlighted that are east of Mississippi. Why is that? Well, here in Massachusetts, treaties were initially created with the English, not the United States government. Over centuries, as the founding colonies expanded and the United States became a country, the old treaties were disregarded or blatantly ignored in favor of colonial expansion. 
 
-#### Netherlands. Koninklijke Marine. Dienst der Hydrografie, ***[North Atlantic Ocean, West Indies](https://collections.leventhalmap.org/search/commonwealth:3f463890k)*** (1993)
+#### Don Bloodgood, [Navajoland, U.S.A.](https://collections.leventhalmap.org/search/commonwealth:fb4970132) (1960)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463c37p/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fj238r160/full/,1400/0/default.jpg" class="" >}}
 
 This 1993 map of the West Indies demonstrates a significantly more accurate scale than the map from the 1520s, and really spotlights the Gulf of Mexico, the Caribbean Sea, and the Northern part of the Atlantic Ocean. Upon first glance, this map may take some adjusting to as it is primarily mapping the ocean as opposed to landmasses. The yellow represents the Southeastern US and West Indies as well as Central and South America, and anything in blue or white represents different oceanic features. This specific map highlights the different depths of the ocean off the coasts of North and South America, and really shows off the proper scale of Cuba and the other Caribbean islands as compared to the map from the 1500s. As technology became more prevalent in the map making process, accuracy in size and scale became more assured.
 
