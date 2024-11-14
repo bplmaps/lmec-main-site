@@ -32,13 +32,11 @@ Prior to being a town, Mashpee was first named an Indian Plantation. and this is
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Coming Home to Indigenous Place Names in Canada map full size secure.jpg" class="" >}}
 
-This “Physical Map of the World” from 2001 used by the CIA shows a modern view of the world in the 21st century and features light topography to demonstrate the different elevations and terrains of each continent. Similarly to Ptolemy’s world map, this map also employs projection, though it uses a more modern method of cylindrical projection called “Robinson projection.” Robinson projection was developed by Arthur H. Robinson in 1963 using computer simulation to create a more visually pleasing and overall more accurate looking world map. Instead of keeping the proportions as accurate as possible for most of the map and greatly distorting the poles like a usual Mercator projection, the Robinson projection causes slight distortions across the entirety of the image. While less useful for navigation than other projection techniques, the Robinson projection is commonly used on world maps to visually demonstrate general world proportions.
+What does it look like for an Indigenous person to create a map from the Indigenous perspective with Indigenous collaboration? How can Indigenous languages explain the land more accurately than any typical map?
 
-### The Atlantic Ocean
+#### United States. Office of Indian Affairs, Map showing Indian reservations within the limits of the United States, 1906 (1907)
 
-#### Ptolemy, ***[Oceani occidetalis seu terre nove tabula](https://collections.leventhalmap.org/search/commonwealth:j3860837q)*** (1525)
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:j38608380/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rb6912172/full/1400,/0/default.jpg" class="" >}}
 
 This map of the Atlantic Ocean and New World from the mid 1520s is one of the first representations of the West Indies and South America on a map in recorded history, and surprisingly accurate given the recency of the land’s discovery. This map comes about 30 years after Columbus’ first voyage to the new world and features the Southeastern corner of what is now the United States including Florida. The Gulf of Mexico and the shape of Central America remain largely amorphous on this map, and the scale of South America and Spain in comparison to Africa is extremely overinflated. The humanoid illustrations on this map demonstrate colonists' initial crude impressions of the native peoples whose longstanding homes were part of what Europeans referred to as the “New World”. Unfortunately, these opinions would persist through the coming centuries and heavily shaped stereotypes and opinions around peoples of the New World, specifically South America, for centuries to come.
 
