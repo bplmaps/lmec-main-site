@@ -56,13 +56,11 @@ There is something quirky and fun about this map design! The Navajo Nation is th
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w68h/full/,1400/0/default.jpg" >}}
 
-This 2004 map of Asia created by the CIA shows off the geography and topography of both South and East Asia, and provides a comprehensive look at the different natural features of the land (mountains, rivers, deserts, etc.) as well as listing the locations of each country and their capital cities. Looking at this modernized computer generated map of India, one can see how dramatically different the scale of different areas of the country was depicted in Ptolemy’s time vs now. Despite both of these maps being fairly bare bones, a shift in tone from more decorative mapping to more practical mapping can be clearly seen between these two especially. This map features a miniature scale in the bottom left hand corner of the map meant to demonstrate the actual sizes of the landmarks portrayed, as opposed to a more decorative scale bordering the entirety of the map as seen on the 1482 model. Even features of maps so small and minute as a scale can affect the tone of the map and what we take away from it!
+This 1904 map is depicting the perceived historic ancestry/Tribes of Indigenous people across the United States - think of how this map compares to some of the more modern, Indigenous-created maps also on display. Currently, all Federally Recognized Nations are managed by the Bureau of Indian Affairs, which sits under the umbrella of the Department of Interior. The present Secretary of the Interior, Deb Haaland, is the first American Indian to lead this department since its founding in 1849.
 
-### Mexico
+##### U.S. Department of the Interior Federal Indian Boarding School Initiative, Federal Indian Boarding School Sites (2022)
 
-##### Abraham Ortelius, ***[Hispaniae novae sivae magnae, recens et vera desciptio : 1579](https://collections.leventhalmap.org/search/commonwealth:6w924q02s)*** (1608)
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6w924q032/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Indian boarding schools.png" class="" >}}
 
 This 1608 map of Mexico was created by Flemish cartographer Abraham Ortelius during a period of time in which Spain had control over both Belgium and Mexico. Because of this, this map is extremely decorative, and focuses on both the vastness of the land that Spain possessed in the area now known as Mexico as well as focusing primarily on Spanish landmarks and settlements in the country. Frequently, the royalty of powerful countries would have their royal geographers create maps of land they possessed not strictly to demonstrate the geography of the land but to overinflate the area they supposedly controlled to make them appear more powerful. In this case, Ortelius was drawing the land to such a grand scale to make it look larger and more impressive than it actually was so Spain could flex its imperial power. Ortelius also entirely ignored the Americas in this map and left Mexico to appear as an entirely separate entity from North America, primarily because Spain had little to no control over that land.
 
