@@ -44,13 +44,11 @@ Today, we have 574 Federally Recognized Tribes across the United States. In 1906
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fj238r160/full/,1400/0/default.jpg" class="" >}}
 
-This 1993 map of the West Indies demonstrates a significantly more accurate scale than the map from the 1520s, and really spotlights the Gulf of Mexico, the Caribbean Sea, and the Northern part of the Atlantic Ocean. Upon first glance, this map may take some adjusting to as it is primarily mapping the ocean as opposed to landmasses. The yellow represents the Southeastern US and West Indies as well as Central and South America, and anything in blue or white represents different oceanic features. This specific map highlights the different depths of the ocean off the coasts of North and South America, and really shows off the proper scale of Cuba and the other Caribbean islands as compared to the map from the 1500s. As technology became more prevalent in the map making process, accuracy in size and scale became more assured.
+There is something quirky and fun about this map design! The Navajo Nation is the largest reservation and has the biggest Tribal population in the United States. This was a map authorized by Navajo Nation’s Tribal Council as a part of a visitors guide brochure and includes everything from important natural sites like the sacred mountains to the areas where rug designs are created.
 
-### Asia
+#### Nathan Braccio, Praying Towns Relative to English Borders, Algonquian Country, and Major Algonquian Path
 
-#### Ptolemy, ***[Indie interioris civitates decima Asia tabula continet India int. Gangem](https://collections.leventhalmap.org/search/commonwealth:7h14b129t)*** (1482)
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2v241v11d/full/,850/0/default.jpg" >}}
+{{< figure src="https://nathanbraccio.com/wp-content/uploads/2017/10/Full-map.png" >}}
 
 This map of Asia from 1482 is another Ptolemic map recreated from the writings of early Greco-Egyptian geographer Claudius Ptolemy. The map focuses primarily on India and faintly its surrounding area. What many older maps are choosing to show us versus what they omit frequently provides more information about the time period than strictly looking at the geography of the map itself. In this case, the map is putting so much focus into India because that is the main Asian country that the Roman Empire was trading with in the 1st century. While there was minimal established trade contact between the Roman Empire and other Asian countries to trade delicacies like silk and glassware, there was no direct trade route established to these places. India on the other hand had many direct trading routes with Europe during this time, so the area West of the Ganges river as seen here was mapped extensively.
 
