@@ -46,15 +46,15 @@ Today, we have 574 Federally Recognized Tribes across the United States. In 1906
 
 There is something quirky and fun about this map design! The Navajo Nation is the largest reservation and has the biggest Tribal population in the United States. This was a map authorized by Navajo Nation’s Tribal Council as a part of a visitors guide brochure and includes everything from important natural sites like the sacred mountains to the areas where rug designs are created.
 
-#### Nathan Braccio, Praying Towns Relative to English Borders, Algonquian Country, and Major Algonquian Path
+#### [Nathan Braccio](https://nathanbraccio.com/), Praying Towns Relative to English Borders, Algonquian Country, and Major Algonquian Path
 
 {{< figure src="https://nathanbraccio.com/wp-content/uploads/2017/10/Full-map.png" >}}
 
-This map of Asia from 1482 is another Ptolemic map recreated from the writings of early Greco-Egyptian geographer Claudius Ptolemy. The map focuses primarily on India and faintly its surrounding area. What many older maps are choosing to show us versus what they omit frequently provides more information about the time period than strictly looking at the geography of the map itself. In this case, the map is putting so much focus into India because that is the main Asian country that the Roman Empire was trading with in the 1st century. While there was minimal established trade contact between the Roman Empire and other Asian countries to trade delicacies like silk and glassware, there was no direct trade route established to these places. India on the other hand had many direct trading routes with Europe during this time, so the area West of the Ganges river as seen here was mapped extensively.
+“Praying Towns” were created in the 17th century to christianize and forcibly assimilate Native Americans in Massachusetts. As Puritan authority over the region grew, so did the number of praying towns. Additionally, these towns were deliberately placed along major Algonquian paths that were highly frequented by the Indigenous people of the area, almost guaranteeing interaction with the Puritans determined to convert them.
 
-#### United States. Central Intelligence Agency, ***[Asia](https://collections.leventhalmap.org/search/commonwealth:3f463913p)*** (2004)
+#### James Mooney, [Map showing distribution of indian stocks and tribes, between 1710-1720 ](https://collections.leventhalmap.org/search/commonwealth:7h149w677)(1904)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463914z/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w68h/full/,1400/0/default.jpg" >}}
 
 This 2004 map of Asia created by the CIA shows off the geography and topography of both South and East Asia, and provides a comprehensive look at the different natural features of the land (mountains, rivers, deserts, etc.) as well as listing the locations of each country and their capital cities. Looking at this modernized computer generated map of India, one can see how dramatically different the scale of different areas of the country was depicted in Ptolemy’s time vs now. Despite both of these maps being fairly bare bones, a shift in tone from more decorative mapping to more practical mapping can be clearly seen between these two especially. This map features a miniature scale in the bottom left hand corner of the map meant to demonstrate the actual sizes of the landmarks portrayed, as opposed to a more decorative scale bordering the entirety of the map as seen on the 1482 model. Even features of maps so small and minute as a scale can affect the tone of the map and what we take away from it!
 
