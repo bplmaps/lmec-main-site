@@ -19,17 +19,18 @@ tags:
 
 > *On November 1, we hosted **From The Vault: Indigenous Geographies***.
 
-Highlighting Indigenous geographies and guest curated by Amira Madison, the Supporting Indigenous Communities Fellow at the Mayor’s Office of New Urban Mechanics, we explored collections that document Native life and land in New England and beyond. Look through the maps and captions below from *Indigenous Geographies* to further many histories and perspectives explored in this selection of maps. 
+Highlighting Indigenous geographies and guest curated by Amira Madison, the Supporting Indigenous Communities Fellow at the Mayor’s Office of New Urban Mechanics, we explored collections that document Native life and land in New England and beyond. Look through the maps and captions below from *Indigenous Geographies* to further many histories and perspectives explored in this selection of maps.
 
 #### Gideon Hawley, [Plan of Mashpee](https://collections.leventhalmap.org/search/commonwealth:cj82kr37q) (1785)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr380/full/,1400/0/default.jpg" class="" >}}
 
-“The World” is a map from the late 1400s that served as part of a 2nd century printed Atlas based on geographical knowledge of the Roman Empire entitled “Cosmographia”. This map of the world in particular was originally created by Greek-Egyptian geographer Claudius Ptolemy, then lost to time and only later recreated using coordinates left in surviving texts. Often thought of as the father of cartography, Ptolemy’s maps were integral to how location and place were thought about throughout medieval Europe, and had long lasting impacts on how we think of geography today. By building on some of the first known attempts at projection in mapping (the method by which cartographers mathematically represent the Earth’s spherical surface on a flat plane), Ptolemy’s world map was considered mostly accurate and used for years before any changes were made. Because the “New World” had yet to be discovered, the center of this map highlights the meeting point between Asia, Europe, and Africa. 
+Prior to being a town, Mashpee was first named an Indian Plantation. and this is one of the original drawn out plans. This is how the United States planned to manage Tribes west of the Mississippi, but first piloted the policy in Massachusetts. The Dawes Act, also known as the Dawes Severalty Act or General Allotment Act, was passed by Congress in 1887 to break up tribal lands and assimilate Native Americans into mainstream US society. The act was named after Senator Dawes from Massachusetts, who was the primary proponent of the legislation. 
 
-#### United States. Central Intelligence Agency, ***[Physical map of the world, April 2001](https://collections.leventhalmap.org/search/commonwealth:3t947c03j)*** (2001)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956j046/full/1200,/0/default.jpg" class="" >}}
+##### Margaret W. Pearce, [Coming Home to Indigenous Place Names in Canada](https://bpl.bibliocommons.com/v2/record/S75C7441004) (2017)
+
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Coming Home to Indigenous Place Names in Canada map full size secure.jpg" class="" >}}
 
 This “Physical Map of the World” from 2001 used by the CIA shows a modern view of the world in the 21st century and features light topography to demonstrate the different elevations and terrains of each continent. Similarly to Ptolemy’s world map, this map also employs projection, though it uses a more modern method of cylindrical projection called “Robinson projection.” Robinson projection was developed by Arthur H. Robinson in 1963 using computer simulation to create a more visually pleasing and overall more accurate looking world map. Instead of keeping the proportions as accurate as possible for most of the map and greatly distorting the poles like a usual Mercator projection, the Robinson projection causes slight distortions across the entirety of the image. While less useful for navigation than other projection techniques, the Robinson projection is commonly used on world maps to visually demonstrate general world proportions.
 
