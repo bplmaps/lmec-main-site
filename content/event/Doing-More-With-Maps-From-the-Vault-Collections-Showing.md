@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Doing More With Maps— From the Vault Collections Showing
+title: Doing More With Maps — From the Vault Collections Showing
 date: 2024-11-22T19:00:00.000Z
 publishDate: 2024-10-17T04:00:00.000Z
 image: >-
