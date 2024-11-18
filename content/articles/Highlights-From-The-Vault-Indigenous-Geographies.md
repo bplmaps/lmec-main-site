@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Highlights From The Vault: Indigenous Geographies'
 date: 2024-11-01T04:00:00.000Z
 author: 'Amira Madison, Julia Williams'
