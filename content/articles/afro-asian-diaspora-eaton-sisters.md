@@ -1,7 +1,7 @@
 ---
 draft: true
 title: Afro-Asian Diaspora and the Eaton Sisters
-date: 2024-11-26T04:00:00.000Z
+date: 2024-11-22T04:00:00.000Z
 author: Savita Maharaj
 description: >-
   Documenting the places and spaces where the Eaton sisters (primarily Winnifred
