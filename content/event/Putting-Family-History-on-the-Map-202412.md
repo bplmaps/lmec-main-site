@@ -17,7 +17,7 @@ tags:
   - staff
 ---
 
-{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by BPL Research Services as part of the Local & Family History Lecture Series. {{\< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by BPL Research Services as part of the Local & Family History Lecture Series. {{< /alert-box >}}
 
 Join guest speaker Julia Williams from the Leventhal Map & Education Center as she discusses the use of historic maps for genealogical research. She will provide a demo of Leventhal Center's Atlascope tool, which overlays historic maps on top of modern-day ones so you can easily compare past and present.
 
