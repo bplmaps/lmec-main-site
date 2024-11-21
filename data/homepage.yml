@@ -62,11 +62,6 @@ cta:
         The Leventhal Center will be closed on Wednesday, November 27 and
         Thursday, November 28 in observation of Thanksgiving. All BPL locations
         will close for Thanksgiving Day. 
-    - badge: Spring Internship Applications Open
-      text: >-
-        Applications for our undergraduate GIS + Geohumanities internships are
-        open until 3pm on Friday, November 22, 2024!
-      link: 'https://www.leventhalmap.org/about/jobs/2025-spring-internships/'
 audiences:
   enable: true
   audienceGroups:
