@@ -4,7 +4,7 @@ title: 'Highlights From The Vault: Indigenous Geographies'
 date: 2024-11-01T04:00:00.000Z
 author: 'Amira Madison, Julia Williams'
 description: >-
-  Check out these highlights from the October 25th themed From The Vault:
+  Check out these highlights from the November 1 themed From the Vault:
   Indigenous Geographies. This collection showing event was specially curated in
   partnership with Amira Madison, the Supporting Indigenous Communities Fellow
   at the Mayor’s Office of New Urban Mechanics.. 
@@ -17,7 +17,7 @@ tags:
   - from the vault
 ---
 
-> *On November 1, we hosted **From The Vault: Indigenous Geographies***.
+> *On November 1, we hosted **From the Vault: Indigenous Geographies***.
 
 Highlighting Indigenous geographies and guest curated by Amira Madison, the Supporting Indigenous Communities Fellow at the Mayor’s Office of New Urban Mechanics, we explored collections that document Native life and land in New England and beyond. Look through the maps and captions below from *Indigenous Geographies* to further many histories and perspectives explored in this selection of maps.
 
