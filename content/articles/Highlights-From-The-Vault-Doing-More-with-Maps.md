@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: 'Highlights From The Vault: Doing More with Maps'
-date: 2024-11-22T05:00:00.000Z
+date: 2024-11-22T19:00:00.000Z
 author: Nicole Claris
 description: >-
   Check out these highlights from the November 22 From the Vault: Doing More
