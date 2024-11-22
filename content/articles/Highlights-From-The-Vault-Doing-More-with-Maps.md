@@ -33,13 +33,21 @@ This is the first printed map of Boston and gives us a significant understanding
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/full/1200,/0/default.jpg" class="" >}}
 
-What does it look like for an Indigenous person to create a map from the Indigenous perspective with Indigenous collaboration? How can Indigenous languages explain the land more accurately than any typical map?
+With a map like this, we ask students: How does the cartographer capture our attention?
 
-#### United States. Office of Indian Affairs, ***[Map showing Indian reservations within the limits of the United States, 1906](https://collections.leventhalmap.org/search/commonwealth:gb19hw10q)*** (1907)
+At first glance, this map may look like a typical twentieth-century tourist map of the United States. The color palette of primary colors, inclusion of numerous figures across the map and the decorative border all echo the maps sold to travelers to promote positive views of the United States.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rb6912172/full/1400,/0/default.jpg" class="" >}}
+This map was created by Louise E. Jefferson, an African American woman who achieved success in many fields. In this map, Jefferson highlights the impact of war on where and how Americans live. She points in her caption in the lower left corner that 25,000,000 Americans have been physically uprooted since 1940. Across the country she includes factors included Japanese internment camps, multiple negro migrations, and military training facilities. Jefferson demonstrates the complicated landscape of war from victory gardens to prisoner of war camps.
 
-Today, we have 574 Federally Recognized Tribes across the United States. In 1906, according to this map, there are only a few communities highlighted that are east of Mississippi. Why is that? Well, here in Massachusetts, treaties were initially created with the English, not the United States government. Over centuries, as the founding colonies expanded and the United States became a country, the old treaties were disregarded or blatantly ignored in favor of colonial expansion. 
+#### Don Bloodgood, [Ask Shell!](https://collections.leventhalmap.org/search/commonwealth:6969z354f) \[1948–1955]
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c46z/full/1200,/0/default.jpg" class="" >}}
+
+This map rewards the viewer with a feast of activity. With so much going on, we start by asking students: What do you notice first?
+
+As we absorb the scene, we see all sorts of high jinks as campers wrestle with tents, fishermen are caught by their own hooks, cows eat paintings, and row boats tip over their passengers. Broken down cars are scattered across the roads.
+
+We realize this map isn't really a map at all, at least not one of a real place. Instead, it's an imaginary mashup of the American West, the iconic landscape for the family road trips which became a rite of passage for many Americans in the postwar years, when this was published. A mutually reinforcing relationship between map publishers, oil and gas companies, automobile manufacturers, and tourist boards during this period made the road map one of the most recognizable forms of popular cartography.
 
 #### Don Bloodgood, ***[Navajoland, U.S.A.](https://collections.leventhalmap.org/search/commonwealth:fb4970132)*** (1960)
 
