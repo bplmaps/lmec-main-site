@@ -19,6 +19,8 @@ tags:
 
 For this collections showing, we welcomed educators attending the National Council for Social Studies Conference alongside general visitors and shared maps that encouraged us to think about how who made or paid for the creation of each map impacts what is depicted (or excluded).
 
+## Who Made the Map?
+
 #### John Bonner, [The town of Boston in New England](https://collections.leventhalmap.org/search/commonwealth:x633f943z) (1835)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9447/full/1200,/0/default.jpg" class="" >}}
@@ -49,11 +51,17 @@ As we absorb the scene, we see all sorts of high jinks as campers wrestle with t
 
 We realize this map isn't really a map at all, at least not one of a real place. Instead, it's an imaginary mashup of the American West, the iconic landscape for the family road trips which became a rite of passage for many Americans in the postwar years, when this was published. A mutually reinforcing relationship between map publishers, oil and gas companies, automobile manufacturers, and tourist boards during this period made the road map one of the most recognizable forms of popular cartography.
 
-#### Don Bloodgood, ***[Navajoland, U.S.A.](https://collections.leventhalmap.org/search/commonwealth:fb4970132)*** (1960)
+## How Do Maps Shape Us?
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fj238r160/full/,1400/0/default.jpg" class="" >}}
+#### Republican National Committee, [Electoral votes for President in 1916 and for Congress in 1918 : make your guess for 1920](https://collections.leventhalmap.org/search/commonwealth:0r96fq53w) \[1919?]
 
-There is something quirky and fun about this map design! The Navajo Nation is the largest reservation and has the biggest Tribal population in the United States. This was a map authorized by Navajo Nation’s Tribal Council as a part of a visitors guide brochure and includes everything from important natural sites like the sacred mountains to the areas where rug designs are created.
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq545/full/1200,/0/default.jpg" class="" >}}
+
+We have become accustomed to making assumptions about “red” and “blue” states. However, the colors have not always had the same assumptions of political allegiance.
+
+[This map](https://collections.leventhalmap.org/search/commonwealth:0r96fq53w) uses blue and red for elections in a different way than we are used to in 2024.
+
+We ask students, “What patterns and trends do you see?”
 
 #### [Nathan Braccio](https://nathanbraccio.com/), ***Praying Towns Relative to English Borders, Algonquian Country, and Major Algonquian Path***
 
