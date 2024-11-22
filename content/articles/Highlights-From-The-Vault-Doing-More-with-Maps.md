@@ -21,11 +21,11 @@ For this collections showing, we welcomed educators attending the National Counc
 
 ## Who Made the Map?
 
-#### John Bonner, ***[The town of Boston in New England](https://collections.leventhalmap.org/search/commonwealth:x633f943z)*** (1835)
+#### John Bonner, ***[The town of Boston in New England](https://collections.leventhalmap.org/search/commonwealth:x633f943z)*** (1744)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9447/full/1200,/0/default.jpg" class="" >}}
 
-We often use [this 1722 map](https://collections.leventhalmap.org/search/commonwealth:x633f943z) of Boston with visiting students. We love to ask the question: **What does the person who made the map want us to pay attention to?**
+We often use [this 1744 map](https://collections.leventhalmap.org/search/commonwealth:x633f943z) of Boston with visiting students. We love to ask the question: **What does the person who made the map want us to pay attention to?**
 
 John Bonner (c.1643-1726) lived in Boston with his wife, Mary, and his son, John. He was a captain, navigator, and shipwright (shipbuilder). It comes as no surprise then—and students often notice—Bonner highlights Boston’s role as a port city. He not only includes the details of all of the wharves, docks, and shipyards—he also takes the energy to detail several ships in the harbor.
 
