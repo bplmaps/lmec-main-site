@@ -23,15 +23,15 @@ For this collections showing, we welcomed educators attending the National Counc
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9447/full/1200,/0/default.jpg" class="" >}}
 
-We often use this 1722 map of Boston with visiting students. We love to ask the question: What does the person who made the map want us to pay attention to?
+We often use this 1722 map of Boston with visiting students. We love to ask the question: **What does the person who made the map want us to pay attention to?**
 
 John Bonner (c.1643-1726) lived in Boston with his wife, Mary, and his son, John. He was a captain, navigator, and shipwright (shipbuilder). It comes as no surprise then—and students often notice—Bonner highlights Boston’s role as a port city. He not only includes the details of all of the wharves, docks, and shipyards—he also takes the energy to detail several ships in the harbor.
 
 This is the first printed map of Boston and gives us a significant understanding of what was here in the early eighteenth century.
 
-#### Margaret W. Pearce, ***[Coming Home to Indigenous Place Names in Canada](https://bpl.bibliocommons.com/v2/record/S75C7441004)*** (2017)
+#### &#xA;Louise E. Jefferson, [Uprooted people of the U.S.A.](https://collections.leventhalmap.org/search/commonwealth:t722kt12g) (1945)
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Coming Home to Indigenous Place Names in Canada map full size secure.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/full/1200,/0/default.jpg" class="" >}}
 
 What does it look like for an Indigenous person to create a map from the Indigenous perspective with Indigenous collaboration? How can Indigenous languages explain the land more accurately than any typical map?
 
