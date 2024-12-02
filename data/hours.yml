@@ -22,15 +22,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'November 11, 2024'
-    name: Veteran’s Day
-    special: Closed
-  - date: 'November 27, 2024'
-    name: The day before Thanksgiving
-    special: Closed
-  - date: 'November 28, 2024'
-    name: Thanksgiving
-    special: Closed
   - date: 'December 24, 2024'
     name: Christmas Eve
     special: Closed
