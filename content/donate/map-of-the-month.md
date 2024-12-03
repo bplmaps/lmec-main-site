@@ -44,3 +44,4 @@ Donations go directly to our historical geography work with students, educators,
 * **August 2024:** [Panoramic view of Boston centered on the Prudential Tower](https://collections.leventhalmap.org/search/commonwealth:h128th21w)
 * **September 2024:** [Urban atlas, tract data for standard metropolitan statistical areas: Boston, Massachusetts](https://collections.leventhalmap.org/search/commonwealth:ns069g065)
 * **October 2024:** [Desire line maps](https://www.leventhalmap.org/digital-exhibitions/processing-place/catalogue/09-calculating-routes/9.1/)
+* **November 2024:** [Nantucket County: Aerial Photograph (4-710), September 20, 1984](https://www.leventhalmap.org/digital-exhibitions/processing-place/catalogue/03-visualizing-resources/3.6/)
