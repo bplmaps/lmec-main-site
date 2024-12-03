@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: >-
   Professional Development - Indigenous People and the American Revolution
   (ARGO)
