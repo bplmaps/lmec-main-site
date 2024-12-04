@@ -22,6 +22,12 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
+  - {}
+  - {}
+  - {}
+  - {}
+  - date: February 17
+    name: President's Day
   - date: 'December 24, 2024'
     name: Christmas Eve
     special: Closed
