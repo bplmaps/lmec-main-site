@@ -50,4 +50,5 @@ exceptions:
     name: Sunday Closure
   - date: 'September 1, 2025'
     name: Labor Day
-  - {}
+  - date: 'October 13, 2025'
+    name: Indigenous People's Day
