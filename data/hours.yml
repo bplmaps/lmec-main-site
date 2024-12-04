@@ -46,6 +46,7 @@ exceptions:
     name: Juneteenth
   - date: 'July 4, 2025'
     name: Independence Day
-  - {}
+  - date: 'August 31, 2025'
+    name: Sunday Closure
   - {}
   - {}
