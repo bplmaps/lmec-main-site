@@ -56,7 +56,10 @@ exceptions:
     name: Veteran's Day
   - date: 'November 27, 2025'
     name: Thanksgiving
-  - {}
-  - {}
+  - date: 'December 24, 2025'
+    name: Christmas Eve
+    special: 'Special Hours: 11-5pm'
+  - date: 'December 25, 2025'
+    name: Christmas
   - {}
   - {}
