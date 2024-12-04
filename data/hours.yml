@@ -22,12 +22,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - {}
-  - {}
-  - {}
-  - {}
-  - date: 'June 19, 2025'
-    name: Juneteenth
   - date: 'December 24, 2024'
     name: Christmas Eve
     special: Closed
@@ -48,3 +42,10 @@ exceptions:
     name: Sunday Closure
   - date: 'May 26, 2025'
     name: Memorial Day
+  - date: 'June 19, 2025'
+    name: Juneteenth
+  - date: 'July 4, 2025'
+    name: Independence Day
+  - {}
+  - {}
+  - {}
