@@ -48,5 +48,6 @@ exceptions:
     name: Independence Day
   - date: 'August 31, 2025'
     name: Sunday Closure
-  - {}
+  - date: 'September 1, 2025'
+    name: Labor Day
   - {}
