@@ -22,12 +22,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - {}
-  - {}
-  - {}
-  - {}
-  - date: 'February 17, 2025'
-    name: President's Day
   - date: 'December 24, 2024'
     name: Christmas Eve
     special: Closed
@@ -38,3 +32,10 @@ exceptions:
     name: New Year's Day
   - date: 'January 20, 2025'
     name: Martin Luther King Jr. Day
+  - date: 'February 17, 2025'
+    name: President's Day
+  - date: 'April 20, 2025'
+    name: Easter Sunday
+  - {}
+  - {}
+  - {}
