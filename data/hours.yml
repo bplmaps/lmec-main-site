@@ -36,7 +36,7 @@ exceptions:
     name: President's Day
   - date: 'April 20, 2025'
     name: Easter Sunday
-  - date: April 21
+  - date: 'April 21, 2025'
     name: Patriot's Day
   - {}
   - {}
