@@ -63,3 +63,6 @@ exceptions:
     special: 'Special Hours: 11-5pm'
   - date: 'December 25, 2025'
     name: Christmas
+  - date: 'December 31, 2025'
+    name: New Year's Eve
+    special: Open from 1-5 pm
