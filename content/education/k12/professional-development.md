@@ -23,8 +23,6 @@ The Leventhal Map & Education Center supports classroom educators with relevant 
 
 {{< pd-listing image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9846/118,438,4290,4488/1200,/0/default.jpg" title="Virtual — Mapping Johnny Tremain (ARGO)" subtitle="Wednesday, March 12, 2025 at 6:30 pm - 8 pm ET " description="In a fictional 1773, Johnny Tremain walked the streets of Boston. In reality in 1942, Esther Forbes used her extensive knowledge of the geography of colonial Boston to create an accurate world around her young protagonist to move through. </br></br> This workshop pairs this classic text with historic maps to connect students with Johnny Tremain and the very real world around him." signUpLink="[https://forms.gle/SF5tnRzrLzEPXMPu8](https://forms.gle/SF5tnRzrLzEPXMPu8)" >}}
 
-{{< pd-listing image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr380/158,273,3061,2750/1200,/0/default.jpg" title="Virtual — Indigenous People and the American Revolution (ARGO)" subtitle="Wednesday, April 9, 2025 at 6:30 pm - 8 pm ET " description="More information to follow" signUpLink="[https://forms.gle/SF5tnRzrLzEPXMPu8](https://forms.gle/SF5tnRzrLzEPXMPu8)" >}}
-
 {{< pd-listing image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54z650m/1740,1350,2248,2084/1200,/0/default.jpg" title="In Person — Taking It to the Streets: Using Atlascope and Urban Atlases in the Classroom" subtitle="April 2025" description="More information to follow" signUpLink="[https://forms.gle/SF5tnRzrLzEPXMPu8](https://forms.gle/SF5tnRzrLzEPXMPu8)" >}}
 
 ### Past Workshops
