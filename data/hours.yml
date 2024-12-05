@@ -61,5 +61,6 @@ exceptions:
     special: 'Special Hours: 11-5pm'
   - date: 'December 25, 2025'
     name: Christmas
-  - {}
+  - date: 'November 26, 2025'
+    name: Day before Thanksgiving
   - {}
