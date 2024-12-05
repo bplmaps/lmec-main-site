@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: LMEC at the National Council for the Social Studies Conference
 date: 2024-12-05T05:00:00.000Z
 author: Nicole Claris
