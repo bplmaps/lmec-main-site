@@ -54,6 +54,8 @@ exceptions:
     name: Indigenous People's Day
   - date: 'November 11, 2025'
     name: Veteran's Day
+  - date: 'November 26, 2025'
+    name: Day before Thanksgiving
   - date: 'November 27, 2025'
     name: Thanksgiving
   - date: 'December 24, 2025'
@@ -61,6 +63,3 @@ exceptions:
     special: 'Special Hours: 11-5pm'
   - date: 'December 25, 2025'
     name: Christmas
-  - date: 'November 26, 2025'
-    name: Day before Thanksgiving
-  - {}
