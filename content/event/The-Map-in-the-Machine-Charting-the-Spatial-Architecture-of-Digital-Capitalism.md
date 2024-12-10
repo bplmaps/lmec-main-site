@@ -5,6 +5,8 @@ title: >-
   Capitalism
 date: 2025-01-14T23:30:00.000Z
 publishDate: 2024-12-10T05:00:00.000Z
+image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (33).png'
+backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (33).png'
 location: 'Virtual '
 ---
 
