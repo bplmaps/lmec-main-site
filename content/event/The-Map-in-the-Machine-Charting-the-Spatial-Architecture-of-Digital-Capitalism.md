@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: >-
   The Map in the Machine: Charting the Spatial Architecture of Digital
   Capitalism
