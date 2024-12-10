@@ -6,9 +6,9 @@ title: >-
 date: 2025-01-17T00:00:00.000Z
 publishDate: 2024-12-10T05:00:00.000Z
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:f47554722/121,2400,11859,2863/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:f47554722/121,2400,11859,4174/1450,/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:f47554722/121,2400,11859,2863/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:f47554722/121,2400,11859,4174/1450,/0/default.jpg
 location: 'Virtual '
 fee: Free
 registration: >-
