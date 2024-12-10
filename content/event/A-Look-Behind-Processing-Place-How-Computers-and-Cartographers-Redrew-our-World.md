@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: >-
   A Look Behind "Processing Place: How Computers and Cartographers Redrew our
   World"
