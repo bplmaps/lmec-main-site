@@ -8,6 +8,12 @@ publishDate: 2024-12-10T05:00:00.000Z
 image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (33).png'
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (33).png'
 location: 'Virtual '
+tags:
+  - Georeferencing
+  - Gis
+  - Data
+  - Processing place
+  - Book talk
 ---
 
 Digital technologies have changed how we shop, work, play, and communicate, reshaping our societies and economies. To understand digital capitalism, we need to grasp how advances in geospatial technologies underpin the construction, operation, and refinement of markets for digital goods and services.
