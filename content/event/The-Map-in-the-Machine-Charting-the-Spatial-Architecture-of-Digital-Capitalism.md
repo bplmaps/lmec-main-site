@@ -8,6 +8,9 @@ publishDate: 2024-12-10T05:00:00.000Z
 image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (33).png'
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (33).png'
 location: 'Virtual '
+fee: Free
+registration: >-
+  https://www.ticketleap.events/tickets/bplmaps/the-map-in-the-machine-charting-the-spatial-architecture-of-digital-capitalism
 tags:
   - Georeferencing
   - Gis
