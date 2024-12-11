@@ -9,11 +9,16 @@ backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w6636m402/2431,694,4557,4720/1200,/0/default.jpg
 location: 'Newsfeed Café, Central Library in Copley Square'
 fee: Free
+registration: >-
+  https://www.ticketleap.events/tickets/bplmaps/trivia-night-with-transit-matters
+tags:
+  - Trivia
+  - Transitmatters
 ---
 
 Join the **[Leventhal Map and Education Center](https://www.leventhalmap.org/)** with **[TransitMatters](https://transitmatters.org/)** for a trivia night about Boston Transit
 
-Trivia rounds will focus around the theme of transit equity where knowledge about the city’s rails, routes, streets, stations, and more will prove highly useful!
+Trivia rounds will focus on the theme of transit equity where knowledge about the city’s rails, routes, streets, stations, and more will prove highly useful!
 
 Registration is encouraged but not required. You may participate individually or as a member of a team. This event will be held in person in the Newsfeed Café at the [Central Library](https://www.bpl.org/locations/3/) in Copley Square.
 
