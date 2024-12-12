@@ -29,15 +29,13 @@ Oriented with South at the top, [this “upside-down” world map](https://colle
 
 Traditional, north-oriented world maps emphasize Europe and North America, implying that other continents are less important. This contrary perspective places Africa and South America in the center, emphasizing that the southern hemisphere’s countries are equally important.
 
-#### Louise E. Jefferson, ***[Uprooted people of the U.S.A.](https://collections.leventhalmap.org/search/commonwealth:t722kt12g)*** (1945)
+#### Joseph F.W. Des Barres, [A View of Boston](https://collections.leventhalmap.org/search/commonwealth:7h149z72h) (1779)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8p58rx80k/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149z73s/full/,1200/0/default.jpg" class="" >}}
 
-With a map like this, we ask students: **How does the cartographer capture our attention?**
+Viewing Boston from the ocean was not a novel concept originated by 19th century bird’s eye view artists. [This Revolutionary War era landscape scene](https://collections.leventhalmap.org/search/commonwealth:7h149z72h), published with a collection of nautical charts, depicted Boston Harbor as it would have appeared to approaching ships.
 
-At first glance, [this map](https://collections.leventhalmap.org/search/commonwealth:t722kt12g) may look like a typical twentieth-century tourist map of the United States. The color palette of primary colors, inclusion of numerous figures across the map and the decorative border all echo the maps sold to travelers to promote positive views of the United States.
-
-This map was created by Louise E. Jefferson, an African American woman who achieved success in many fields. In this map, Jefferson highlights the impact of war on where and how Americans live. She points in her caption in the lower left corner that 25,000,000 Americans have been physically uprooted since 1940. Across the country she includes factors included Japanese internment camps, multiple negro migrations, and military training facilities. Jefferson demonstrates the complicated landscape of war from victory gardens to prisoner of war camps.
+While not technically a map or chart, coastal and headland views were also considered navigational aids. Such graphic images assisted ship captains in identifying prominent landmarks as they entered the harbor. Clearly visible on Boston’s late 18th century skyline are numerous church spires and a flag on Beacon Hill.
 
 #### Don Bloodgood, ***[Ask Shell!](https://collections.leventhalmap.org/search/commonwealth:6969z354f)*** \[1948–1955]
 
