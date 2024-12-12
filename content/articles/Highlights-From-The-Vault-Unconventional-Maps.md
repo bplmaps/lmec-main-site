@@ -37,15 +37,13 @@ Viewing Boston from the ocean was not a novel concept originated by 19th century
 
 While not technically a map or chart, coastal and headland views were also considered navigational aids. Such graphic images assisted ship captains in identifying prominent landmarks as they entered the harbor. Clearly visible on Boston’s late 18th century skyline are numerous church spires and a flag on Beacon Hill.
 
-#### Don Bloodgood, ***[Ask Shell!](https://collections.leventhalmap.org/search/commonwealth:6969z354f)*** \[1948–1955]
+#### Franklin Leavitt, [Leavitt’s map with views of the White Mountains](https://collections.leventhalmap.org/search/commonwealth:st74cw24k) (1871)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c46z/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw25v/full/,1200/0/default.jpg" class="" >}}
 
-[This map](https://collections.leventhalmap.org/search/commonwealth:6969z354f) rewards the viewer with a feast of activity. With so much going on, we start by asking students: **What do you notice first?**
+Combining folk art with a schematic tourist map, [this unusual map](https://collections.leventhalmap.org/search/commonwealth:st74cw24k) views the White Mountains from the northwest. In the center, the mountains were drawn in landscape format surrounded by curious vignettes including “Old Crawford Killing a Bear” and “Harry Crawford Killing a Lynx”. Along the top are a railroad map and views of waterfalls, while symbolic images of hotels, stage coaches, and trains alert readers to the region’s tourist amenities.
 
-As we absorb the scene, we see all sorts of high jinks as campers wrestle with tents, fishermen are caught by their own hooks, cows eat paintings, and row boats tip over their passengers. Broken down cars are scattered across the roads.
-
-We realize this map isn't really a map at all, at least not one of a real place. Instead, it's an imaginary mashup of the American West, the iconic landscape for the family road trips which became a rite of passage for many Americans in the postwar years, when this was published. A mutually reinforcing relationship between map publishers, oil and gas companies, automobile manufacturers, and tourist boards during this period made the road map one of the most recognizable forms of popular cartography.
+Leavitt, a laborer, mountain guide, and self-taught mapmaker, created this pictorial map. Reflecting his regional bias, he located Lancaster, his hometown, and the Connecticut River in the center foreground.
 
 #### Republican National Committee, ***[Electoral votes for President in 1916 and for Congress in 1918 : make your guess for 1920](https://collections.leventhalmap.org/search/commonwealth:0r96fq53w)*** \[1919?]
 
