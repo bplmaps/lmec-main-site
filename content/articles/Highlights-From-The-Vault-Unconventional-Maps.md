@@ -60,3 +60,19 @@ Compiled by a Dutch theologian, [this historical map](https://collections.levent
 Recognized for his whimsical pictorial maps, Chase created [this highly distorted map](https://collections.leventhalmap.org/search/commonwealth:st74cw264) of the United States as perceived by Californians. One-third the size of the rest of the country, the state is perpetually drenched by the sun. A bustling California is also depicted as a cornucopia of plenty, teaming with industry, agriculture, recreational activity, and natural wonders.
 
 The rest of the county is overshadowed by a dark cloud and a vast, depressing spider web. Other states are distorted or are omitted entirely. However, Chase’s native New England retains its shape and receives some sunlight for half of the year.
+
+#### John F. Waite, [Uncle Sam’s Family Tree](https://collections.leventhalmap.org/search/commonwealth:3f463673h) (1900)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463674s/full/,1200/0/default.jpg" class="" >}}
+
+Created as an advertisement for Arbuckles, a wholesale grocer, the territorial growth of the United States is compared to an orchard tree. Printed on the backhand side of a United States map, [this unusual graphic](https://collections.leventhalmap.org/search/commonwealth:3f463673h) is essentially a geographical timeline, charting the chronological growth of the nation.
+
+In representing the United States, the cartographer uses a tree that sits in “the great American garden” and is tended by “Uncle Sam”, a common national personification of the federal government of the United States. The roots symbolize the original thirteen colonies, while subsequent “grafts” and branches represent other states and occupied territories added by war, purchase, and annexation.
+
+#### Ernest Dudley Chase, [The United States as Viewed by California (very unofficial)](https://collections.leventhalmap.org/search/commonwealth:st74cw264) (1940)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw27d/full/800,/0/default.jpg" >}}
+
+Recognized for his whimsical pictorial maps, Chase created [this highly distorted map](https://collections.leventhalmap.org/search/commonwealth:st74cw264) of the United States as perceived by Californians. One-third the size of the rest of the country, the state is perpetually drenched by the sun. A bustling California is also depicted as a cornucopia of plenty, teaming with industry, agriculture, recreational activity, and natural wonders.
+
+The rest of the county is overshadowed by a dark cloud and a vast, depressing spider web. Other states are distorted or are omitted entirely. However, Chase’s native New England retains its shape and receives some sunlight for half of the year.
