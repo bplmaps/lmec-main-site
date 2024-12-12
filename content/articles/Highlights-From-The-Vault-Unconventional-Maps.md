@@ -21,7 +21,7 @@ When reading maps, we expect map makers to use standard conventions, especially 
 
 In this From the Vault collections showing, each map highlights a variety of unconventional cartographic styles spanning the history of the printed map.
 
-#### New Internationalist Publications, [The World Turned Upside Down](https://collections.leventhalmap.org/search/commonwealth:9s161j433) (2005)
+#### New Internationalist Publications, ***[The World Turned Upside Down](https://collections.leventhalmap.org/search/commonwealth:9s161j433)*** (2005)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161j44c/full/,1200/0/default.jpg" class="" >}}
 
@@ -29,7 +29,7 @@ Oriented with South at the top, [this “upside-down” world map](https://colle
 
 Traditional, north-oriented world maps emphasize Europe and North America, implying that other continents are less important. This contrary perspective places Africa and South America in the center, emphasizing that the southern hemisphere’s countries are equally important.
 
-#### Joseph F.W. Des Barres, [A View of Boston](https://collections.leventhalmap.org/search/commonwealth:7h149z72h) (1779)
+#### Joseph F.W. Des Barres, ***[A View of Boston](https://collections.leventhalmap.org/search/commonwealth:7h149z72h)*** (1779)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149z73s/full/,1200/0/default.jpg" class="" >}}
 
@@ -37,7 +37,7 @@ Viewing Boston from the ocean was not a novel concept originated by 19th century
 
 While not technically a map or chart, coastal and headland views were also considered navigational aids. Such graphic images assisted ship captains in identifying prominent landmarks as they entered the harbor. Clearly visible on Boston’s late 18th century skyline are numerous church spires and a flag on Beacon Hill.
 
-#### Franklin Leavitt, *[Leavitt’s map with views of the White Mountains](https://collections.leventhalmap.org/search/commonwealth:st74cw24k)* (1871)
+#### Franklin Leavitt, ***[Leavitt’s map with views of the White Mountains](https://collections.leventhalmap.org/search/commonwealth:st74cw24k)*** (1871)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw25v/full/,1200/0/default.jpg" class="" >}}
 
@@ -45,7 +45,7 @@ Combining folk art with a schematic tourist map, [this unusual map](https://coll
 
 Leavitt, a laborer, mountain guide, and self-taught mapmaker, created this pictorial map. Reflecting his regional bias, he located Lancaster, his hometown, and the Connecticut River in the center foreground.
 
-#### Christiaan van Adrichem, [Jerusalem, et suburbia eius, sicut tempore Christi floruit cum locis, in quibus Christus passus est: que religiose a Christianis obseruata, etiam num venerationi habent](https://collections.leventhalmap.org/search/commonwealth:2b88qf58d) \[1584-1588]
+#### Christiaan van Adrichem, ***[Jerusalem, et suburbia eius, sicut tempore Christi floruit cum locis, in quibus Christus passus est: que religiose a Christianis obseruata, etiam num venerationi habent](https://collections.leventhalmap.org/search/commonwealth:2b88qf58d)*** \[1584-1588]
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2b88qf59p/full/800,/0/default.jpg" class="" >}}
 
@@ -53,7 +53,7 @@ Illustrations of ships and monsters adorn many early maps, often filling the emp
 
 Compiled by a Dutch theologian, [this historical map](https://collections.leventhalmap.org/search/commonwealth:2b88qf58d) reportedly recreates Jerusalem at the time of Christ. Many buildings were depicted as 16th century European structures, with their facades placed adjacent to the streets rather than drawn in perspective. In addition, there are 270 numbered and captioned scenes, showing sites or events mentioned in the Old and New Testaments.
 
-#### Ernest Dudley Chase, [The United States as Viewed by California (very unofficial)](https://collections.leventhalmap.org/search/commonwealth:st74cw264) (1940)
+#### Ernest Dudley Chase, ***[The United States as Viewed by California (very unofficial)](https://collections.leventhalmap.org/search/commonwealth:st74cw264)*** (1940)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw27d/full/800,/0/default.jpg" >}}
 
@@ -61,7 +61,7 @@ Recognized for his whimsical pictorial maps, Chase created [this highly distorte
 
 The rest of the county is overshadowed by a dark cloud and a vast, depressing spider web. Other states are distorted or are omitted entirely. However, Chase’s native New England retains its shape and receives some sunlight for half of the year.
 
-#### John F. Waite, [Uncle Sam’s Family Tree](https://collections.leventhalmap.org/search/commonwealth:3f463673h) (1900)
+#### John F. Waite, ***[Uncle Sam’s Family Tree](https://collections.leventhalmap.org/search/commonwealth:3f463673h)*** (1900)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463674s/full/,1200/0/default.jpg" class="" >}}
 
@@ -69,7 +69,7 @@ Created as an advertisement for Arbuckles, a wholesale grocer, the territorial g
 
 In representing the United States, the cartographer uses a tree that sits in “the great American garden” and is tended by “Uncle Sam”, a common national personification of the federal government of the United States. The roots symbolize the original thirteen colonies, while subsequent “grafts” and branches represent other states and occupied territories added by war, purchase, and annexation.
 
-#### **Gerard Valck, ***[Novus Planiglobii Terrestris per Utrumque Polum Conspectus](https://collections.leventhalmap.org/search/commonwealth:x633f9162)* \[1695?]
+#### Gerard Valck, ***[Novus Planiglobii Terrestris per Utrumque Polum Conspectus](https://collections.leventhalmap.org/search/commonwealth:x633f9162)*** \[1695?]
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n774z/full/,1200/0/default.jpg" >}}
 
