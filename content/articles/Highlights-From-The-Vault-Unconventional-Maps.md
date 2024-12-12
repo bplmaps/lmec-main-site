@@ -53,10 +53,10 @@ Illustrations of ships and monsters adorn many early maps, often filling the emp
 
 Compiled by a Dutch theologian, [this historical map](https://collections.leventhalmap.org/search/commonwealth:2b88qf58d) reportedly recreates Jerusalem at the time of Christ. Many buildings were depicted as 16th century European structures, with their facades placed adjacent to the streets rather than drawn in perspective. In addition, there are 270 numbered and captioned scenes, showing sites or events mentioned in the Old and New Testaments.
 
-#### John Russell, James Cutler, and Simon Gardner, ***[Natural and political history of the Gerry-mander! : In two chapters](https://collections.leventhalmap.org/search/commonwealth:3t947b80f)*** \[1813–1822]
+#### Ernest Dudley Chase, [The United States as Viewed by California (very unofficial)](https://collections.leventhalmap.org/search/commonwealth:st74cw264) (1940)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t947b81q/full/,1200/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw27d/full/800,/0/default.jpg" >}}
 
-When Governor Elbridge Gerry took the map of Massachusetts in 1812 and redrew a State Senate district around Salem so that it would contain more voters loyal to his Democratic-Republican Party, outraged opponents published a cartoon of the district's outline forming the figure of a salamander. The new term, *gerry-mander*, stuck, and has been used ever since to describe the practice of drawing electoral maps for unfair partisan advantage.
+Recognized for his whimsical pictorial maps, Chase created [this highly distorted map](https://collections.leventhalmap.org/search/commonwealth:st74cw264) of the United States as perceived by Californians. One-third the size of the rest of the country, the state is perpetually drenched by the sun. A bustling California is also depicted as a cornucopia of plenty, teaming with industry, agriculture, recreational activity, and natural wonders.
 
-We would engage in a long conversation with students about **“How do we determine who fits? What does ‘fair’ look like on [the map](https://collections.leventhalmap.org/search/commonwealth:3t947b80f)?”**
+The rest of the county is overshadowed by a dark cloud and a vast, depressing spider web. Other states are distorted or are omitted entirely. However, Chase’s native New England retains its shape and receives some sunlight for half of the year.
