@@ -45,15 +45,13 @@ Combining folk art with a schematic tourist map, [this unusual map](https://coll
 
 Leavitt, a laborer, mountain guide, and self-taught mapmaker, created this pictorial map. Reflecting his regional bias, he located Lancaster, his hometown, and the Connecticut River in the center foreground.
 
-#### Republican National Committee, ***[Electoral votes for President in 1916 and for Congress in 1918 : make your guess for 1920](https://collections.leventhalmap.org/search/commonwealth:0r96fq53w)*** \[1919?]
+#### Christiaan van Adrichem, [Jerusalem, et suburbia eius, sicut tempore Christi floruit cum locis, in quibus Christus passus est: que religiose a Christianis obseruata, etiam num venerationi habent](https://collections.leventhalmap.org/search/commonwealth:2b88qf58d) \[1584-1588]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq545/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2b88qf59p/full/800,/0/default.jpg" class="" >}}
 
-We have become accustomed to making assumptions about “red” and “blue” states. However, the colors have not always had the same assumptions of political allegiance.
+Illustrations of ships and monsters adorn many early maps, often filling the empty spaces of unexplored territories. However, this map of Jerusalem published in the late 16th century used pictorial elements as symbols to help convey the map’s message.
 
-[This map](https://collections.leventhalmap.org/search/commonwealth:0r96fq53w) uses blue and red for elections in a different way than we are used to in 2024.
-
-We ask students, **“What patterns and trends do you see?”**
+Compiled by a Dutch theologian, [this historical map](https://collections.leventhalmap.org/search/commonwealth:2b88qf58d) reportedly recreates Jerusalem at the time of Christ. Many buildings were depicted as 16th century European structures, with their facades placed adjacent to the streets rather than drawn in perspective. In addition, there are 270 numbered and captioned scenes, showing sites or events mentioned in the Old and New Testaments.
 
 #### John Russell, James Cutler, and Simon Gardner, ***[Natural and political history of the Gerry-mander! : In two chapters](https://collections.leventhalmap.org/search/commonwealth:3t947b80f)*** \[1813–1822]
 
