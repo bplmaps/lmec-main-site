@@ -37,7 +37,7 @@ Viewing Boston from the ocean was not a novel concept originated by 19th century
 
 While not technically a map or chart, coastal and headland views were also considered navigational aids. Such graphic images assisted ship captains in identifying prominent landmarks as they entered the harbor. Clearly visible on Boston’s late 18th century skyline are numerous church spires and a flag on Beacon Hill.
 
-#### Franklin Leavitt, [Leavitt’s map with views of the White Mountains](https://collections.leventhalmap.org/search/commonwealth:st74cw24k) (1871)
+#### Franklin Leavitt, *[Leavitt’s map with views of the White Mountains](https://collections.leventhalmap.org/search/commonwealth:st74cw24k)* (1871)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw25v/full/,1200/0/default.jpg" class="" >}}
 
@@ -69,7 +69,7 @@ Created as an advertisement for Arbuckles, a wholesale grocer, the territorial g
 
 In representing the United States, the cartographer uses a tree that sits in “the great American garden” and is tended by “Uncle Sam”, a common national personification of the federal government of the United States. The roots symbolize the original thirteen colonies, while subsequent “grafts” and branches represent other states and occupied territories added by war, purchase, and annexation.
 
-#### Gerard Valck, [Novus Planiglobii Terrestris per Utrumque Polum Conspectus](https://collections.leventhalmap.org/search/commonwealth:x633f9162) \[1695?]
+#### **Gerard Valck, ***[Novus Planiglobii Terrestris per Utrumque Polum Conspectus](https://collections.leventhalmap.org/search/commonwealth:x633f9162)* \[1695?]
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n774z/full/,1200/0/default.jpg" >}}
 
