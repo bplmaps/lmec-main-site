@@ -69,10 +69,10 @@ Created as an advertisement for Arbuckles, a wholesale grocer, the territorial g
 
 In representing the United States, the cartographer uses a tree that sits in “the great American garden” and is tended by “Uncle Sam”, a common national personification of the federal government of the United States. The roots symbolize the original thirteen colonies, while subsequent “grafts” and branches represent other states and occupied territories added by war, purchase, and annexation.
 
-#### Ernest Dudley Chase, [The United States as Viewed by California (very unofficial)](https://collections.leventhalmap.org/search/commonwealth:st74cw264) (1940)
+#### Gerard Valck, [Novus Planiglobii Terrestris per Utrumque Polum Conspectus](https://collections.leventhalmap.org/search/commonwealth:x633f9162) \[1695?]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw27d/full/800,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n774z/full/,1200/0/default.jpg" >}}
 
-Recognized for his whimsical pictorial maps, Chase created [this highly distorted map](https://collections.leventhalmap.org/search/commonwealth:st74cw264) of the United States as perceived by Californians. One-third the size of the rest of the country, the state is perpetually drenched by the sun. A bustling California is also depicted as a cornucopia of plenty, teaming with industry, agriculture, recreational activity, and natural wonders.
+While most double hemisphere maps display the world divided into eastern and western hemispheres, a more unusual portrayal uses the northern and southern hemispheres. Gerard Valck’s [ornately decorated map](https://collections.leventhalmap.org/search/commonwealth:x633f9162) exemplifies a polar-oriented projection.
 
-The rest of the county is overshadowed by a dark cloud and a vast, depressing spider web. Other states are distorted or are omitted entirely. However, Chase’s native New England retains its shape and receives some sunlight for half of the year.
+The two spheres, adorned with ships and a symmetrical arrangement of compass roses, are set against an artistic backdrop highlighting the Genesis story of creation. At the top is a dramatic presentation of the sun, moon, and stars emerging from clouds of darkness. Other vignettes depict Adam and Eve leaving the Garden of Eden, and Noah selecting pairs of animals for the ark.
