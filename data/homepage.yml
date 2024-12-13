@@ -56,6 +56,13 @@ slider:
         link: research
 cta:
   enable: true
+  announcements:
+    - badge: Holiday Closures
+      text: >-
+        The Leventhal Center will be closed on Tuesday, December 24 and
+        Wednesday, December 25. The Center will be open on Tuesday, December 31
+        from 11 am - 5 pm and will be closed on Wednesday, January 1. All BPL
+        Locations will be closed December 25 and January 1. 
 audiences:
   enable: true
   audienceGroups:
