@@ -29,7 +29,7 @@ On February 5th at 6:00PM at the Boston Public Library Central Branch in the Com
 
 **Joe Christo** is the Managing Director for the Stone Living Lab and the Chief Resilience Officer for Boston Harbor Now. As an urban planner who specializes in climate adaptation, Joe draws on his background in the areas of disaster preparedness, disaster response, environmental justice, and community planning for his roles at the two organizations, which both work towards making Boston and other cities thriving and resilient places to live and work for everyone. Joe has a Master’s degree in Community Planning from the University of Maryland, College Park, and a Bachelor’s degree in Journalism and Political Science from Northeastern University.
 
-{{< figure >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screenshot 2024-12-19 141739.png" class="figure-right" >}}
 
 **Michael Lawrence Evans** is the Director of the Office of Emerging Technology at the City of Boston. He leads the City's exploration and adoption of new technology to support more responsive and equitable services. Previously, he directed Boston's Mayor's Office of New Urban Mechanics and led their civic technology portfolio. He also sits on the board of the Open Mobility Foundation and the advisory council for Northeastern University's Boston Area Research Initiative. Michael cut his teeth as a design technologist at Stamen Design and Code for America, where he was a member of their inaugural class of fellows in 2011 and served as a Google Summer of Code mentor.
 
