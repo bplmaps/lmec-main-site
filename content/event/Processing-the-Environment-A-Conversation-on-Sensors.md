@@ -11,6 +11,8 @@ location: 'Central Library in Copley Square, Commonwealth Salon'
 fee: Free
 registration: >-
   https://www.ticketleap.events/tickets/bplmaps/processing-the-environment-a-conversation-on-sensors
+tags:
+  - Processing place
 ---
 
 ### About the event
