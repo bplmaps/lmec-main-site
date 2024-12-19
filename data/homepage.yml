@@ -57,10 +57,6 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Early Closure
-      text: >-
-        The Leventhal Map & Education Center will be closing early at 6pm on
-        December 18
     - badge: Holiday Closures
       text: >-
         The Leventhal Center will be closed on Tuesday, December 24 and
