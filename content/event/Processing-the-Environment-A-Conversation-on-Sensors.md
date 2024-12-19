@@ -9,6 +9,8 @@ backgroundImage: >-
   https://www.travelandleisure.com/thmb/qth1dANGLES4YIkhh0sXdX_1bdI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-boston-harbor-SKYLINEVSOG0423-8e59cfd18f134c758a36a9d9d58d1333.jpg
 location: 'Central Library in Copley Square, Commonwealth Salon'
 fee: Free
+registration: >-
+  https://www.ticketleap.events/tickets/bplmaps/processing-the-environment-a-conversation-on-sensors
 ---
 
 ### About the event
