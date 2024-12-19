@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Processing the Environment: A Conversation on Sensors'
 date: 2025-02-05T23:00:00.000Z
 publishDate: 2024-12-19T05:00:00.000Z
