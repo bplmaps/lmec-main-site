@@ -4,9 +4,9 @@ title: 'Processing the Environment: A Conversation on Sensors'
 date: 2025-02-05T23:00:00.000Z
 publishDate: 2024-12-19T05:00:00.000Z
 image: >-
-  https://myshoeswhereichoose.com/wp-content/uploads/2021/08/boston-skyline-from-fan-pier-2-1170x550.jpg
+  https://www.travelandleisure.com/thmb/qth1dANGLES4YIkhh0sXdX_1bdI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-boston-harbor-SKYLINEVSOG0423-8e59cfd18f134c758a36a9d9d58d1333.jpg
 backgroundImage: >-
-  https://myshoeswhereichoose.com/wp-content/uploads/2021/08/boston-skyline-from-fan-pier-2-1170x550.jpg
+  https://www.travelandleisure.com/thmb/qth1dANGLES4YIkhh0sXdX_1bdI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-boston-harbor-SKYLINEVSOG0423-8e59cfd18f134c758a36a9d9d58d1333.jpg
 location: 'Central Library in Copley Square, Commonwealth Salon'
 fee: Free
 ---
