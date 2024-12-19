@@ -19,7 +19,7 @@ tags:
   - Processing place
 ---
 
-{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by Washington Map Society.{{< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by the Washington Map Society.{{< /alert-box >}}
 
 This talk by co-curators **Ian Spangler**, *Assistant Curator of Digital and Participatory Geography*, and **Emily Bowe**, *Assistant Director*, provides a curator’s overview of the latest exhibition from the Leventhal Map & Education Center, *[Processing Place: How Computers and Cartographers Redrew Our World](https://www.leventhalmap.org/digital-exhibitions/processing-place/)*.
 
