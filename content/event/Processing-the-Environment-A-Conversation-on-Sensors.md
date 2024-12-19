@@ -17,7 +17,7 @@ registration: >-
 
 From the wharves of Boston Harbor to the made land underneath Back Bay, sensors are all over the place. They collect information about environmental factors like air quality, water levels, and climate—but how exactly do these tiny pieces of digital infrastructure work, and how do the massive volumes of data that they collect actually get used?
 
-On February 5th at 6:00PM at the Boston Public Library Central Branch in the Commonwealth Salon, join us for an in-person discussion about sensors and environmental data, moderated by LMEC staff Ian Spangler and Emily Bowe (curators of the Center’s current exhibition, *[Processing Place](https://www.leventhalmap.org/digital-exhibitions/processing-place/)*). You’ll learn about the contemporary digital technologies that quietly monitor the world around us, including the kinds of data that can and can’t be collected, how people decide where to install sensors, and how the data is processed and transformed into actionable policies.
+On February 5th at 6:00PM at the Boston Public Library Central Branch in the Commonwealth Salon, join us for an in-person discussion about sensors and environmental data, moderated by LMEC staff **Ian Spangler** and **Emily Bowe** (curators of the Center’s current exhibition, *[Processing Place](https://www.leventhalmap.org/digital-exhibitions/processing-place/)*). You’ll learn about the contemporary digital technologies that quietly monitor the world around us, including the kinds of data that can and can’t be collected, how people decide where to install sensors, and how the data is processed and transformed into actionable policies.
 
 #### ***Meet the panelists***
 
