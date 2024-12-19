@@ -23,15 +23,15 @@ On February 5th at 6:00PM at the Boston Public Library Central Branch in the Com
 
 #### ***Meet the panelists***
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/2016.jpg" class="figure-right" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/2016.jpg" class="figure-left" >}}
 
 **Christian Simonelli** has played a pivotal role at the Boston Groundwater Trust since his appointment as Executive Director in October 2014. His journey began back in 1999 when he joined as a part-time Field Engineer and later transitioned into a full-time role as the Trust's Technical & Recharge Coordinator from 1999 to 2014. Throughout his tenure, Christian diligently oversaw the installation and monitoring of groundwater levels across the Trust's extensive network of 800 plus wells. Notably, under his leadership, the Trust's website and data collection methods underwent a comprehensive transformation. In addition, he works closely with property owners citywide to safeguard groundwater levels from adverse impacts. Christian’s steadfast advocacy for groundwater recharge in areas with wood pile supported structures further showcased his unwavering commitment to the cause. With a degree in Environmental Engineering from the Wentworth Institute of Technology, Christian Simonelli continues to spearhead initiatives aimed at fostering a deeper understanding of Boston's groundwater landscape.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screenshot 2024-12-19 141739.png" class="figure-right" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screenshot 2024-12-19 141739.png" class="figure-left" >}}
 
 **Joe Christo** is the Managing Director for the Stone Living Lab and the Chief Resilience Officer for Boston Harbor Now. As an urban planner who specializes in climate adaptation, Joe draws on his background in the areas of disaster preparedness, disaster response, environmental justice, and community planning for his roles at the two organizations, which both work towards making Boston and other cities thriving and resilient places to live and work for everyone. Joe has a Master’s degree in Community Planning from the University of Maryland, College Park, and a Bachelor’s degree in Journalism and Political Science from Northeastern University.
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/headshot-mlevans.png" class="figure-right" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/headshot-mlevans.png" class="figure-left" >}}
 
 **Michael Lawrence Evans** is the Director of the Office of Emerging Technology at the City of Boston. He leads the City's exploration and adoption of new technology to support more responsive and equitable services. Previously, he directed Boston's Mayor's Office of New Urban Mechanics and led their civic technology portfolio. He also sits on the board of the Open Mobility Foundation and the advisory council for Northeastern University's Boston Area Research Initiative. Michael cut his teeth as a design technologist at Stamen Design and Code for America, where he was a member of their inaugural class of fellows in 2011 and served as a Google Summer of Code mentor.
 
