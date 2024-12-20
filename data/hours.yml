@@ -22,6 +22,9 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
+  - date: 'March 14, 2025'
+    name: BPL Staff Professional Development
+    special: All BPL locations will be closed
   - date: 'December 24, 2024'
     name: Christmas Eve
     special: Closed
