@@ -22,9 +22,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'March 14, 2025'
-    name: BPL Staff Professional Development
-    special: All BPL locations will be closed
   - date: 'December 24, 2024'
     name: Christmas Eve
     special: Closed
@@ -37,6 +34,9 @@ exceptions:
     name: Martin Luther King Jr. Day
   - date: 'February 17, 2025'
     name: President's Day
+  - date: 'March 14, 2025'
+    name: BPL Staff Professional Development
+    special: All BPL locations will be closed
   - date: 'April 20, 2025'
     name: Easter Sunday
   - date: 'April 21, 2025'
