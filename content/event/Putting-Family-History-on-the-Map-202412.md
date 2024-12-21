@@ -19,7 +19,7 @@ tags:
 
 {{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by BPL Research Services as part of the Local & Family History Lecture Series. {{\< /alert-box >}}
 
-Join guest speaker **Julia Williams **from the Leventhal Map & Education Center as she discusses the use of historic maps for genealogical research. She will provide a demo of Leventhal Center's Atlascope tool, which overlays historic maps on top of modern-day ones so you can easily compare past and present.
+Join guest speaker **Julia Williams** from the Leventhal Map & Education Center as she discusses the use of historic maps for genealogical research. She will provide a demo of Leventhal Center's Atlascope tool, which overlays historic maps on top of modern-day ones so you can easily compare past and present.
 
 **Julia Williams** (she/her) is the Gallery & Communications Coordinator at the Leventhal Map & Education Center with interests in social, cultural, and local history. She has experience working with New England Historical Genealogical Society as a genealogist on the 10 Million Names project, a project aimed at recovering the names of the estimated ten million men, women, and children of African descent who were enslaved in pre- and post-colonial America. In her work at the Leventhal Center, she highlights the way local community-centered information can strengthen our knowledge, perception, and understanding of different historic material. She earned both her MA in Museum Education and her BA in Education & Human Development from Tufts University.
 
