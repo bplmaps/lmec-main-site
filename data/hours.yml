@@ -30,8 +30,10 @@ exceptions:
     special: Closed
   - date: 'January 1, 2025'
     name: New Year's Day
+    special: Closed
   - date: 'January 20, 2025'
     name: Martin Luther King Jr. Day
+    special: Closed
   - date: 'February 17, 2025'
     name: President's Day
   - date: 'March 14, 2025'
