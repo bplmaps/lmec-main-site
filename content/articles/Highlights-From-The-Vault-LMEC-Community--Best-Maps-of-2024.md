@@ -41,13 +41,11 @@ Created by the Russian War Relief, Incorporated and headquartered in New York Ci
 
 Illustrating the mysterious land of a woman’s heart, [this map](https://collections.leventhalmap.org/search/commonwealth:cj82kr20j) is a comical take on the different facets of love and relationships. Centered on the Ocean of Love, Ideal Isle is disconnected from the rest of the land but just a quick hop from Cape Hope. An arrow (maybe one of Cupid’s?) has pierced the Devotion region of the heart. We can also see the lands Curiosity, Pride, and Hatred and some interesting geographic features, like Mt. Fashion and the Rocks of Despair. 
 
-#### Christiaan van Adrichem, ***[Jerusalem, et suburbia eius, sicut tempore Christi floruit cum locis, in quibus Christus passus est: que religiose a Christianis obseruata, etiam num venerationi habent](https://collections.leventhalmap.org/search/commonwealth:2b88qf58d)*** \[1584-1588]
+#### Justin Winsor, [Boston old and new](https://collections.leventhalmap.org/search/commonwealth:x633f8662) (1880)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2b88qf59p/full/800,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/1200,/0/default.jpg" class="" >}}
 
-Illustrations of ships and monsters adorn many early maps, often filling the empty spaces of unexplored territories. However, this map of Jerusalem published in the late 16th century used pictorial elements as symbols to help convey the map’s message.
-
-Compiled by a Dutch theologian, [this historical map](https://collections.leventhalmap.org/search/commonwealth:2b88qf58d) reportedly recreates Jerusalem at the time of Christ. Many buildings were depicted as 16th century European structures, with their facades placed adjacent to the streets rather than drawn in perspective. In addition, there are 270 numbered and captioned scenes, showing sites or events mentioned in the Old and New Testaments.
+Noted historian and librarian, Justin Winsor created [this unique map](https://collections.leventhalmap.org/search/commonwealth:x633f8662) by superimposing the outline of the original Shawmut Peninsula onto an 1880 map of Boston. It was used as the beginning piece for the first volume of his "Memorial History of Boston, Including Suffolk County, Massachusetts", published in 1882. Though drawn without the assistance of computers or aerial photographs, it remains one of the most vivid diagrams of the radical transformation and enlargement of the Shawmut Peninsula area during the 19th century.
 
 #### Ernest Dudley Chase, ***[The United States as Viewed by California (very unofficial)](https://collections.leventhalmap.org/search/commonwealth:st74cw264)*** (1940)
 
