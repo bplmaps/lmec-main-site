@@ -69,13 +69,11 @@ A key printed beneath the print identifies Long Wharf, Hancock's Wharf, North Ba
 
 The #1 most searched map in our collection during 2024 is Gleason’s infamous “Flat Earth Map”. Though disbelieved and disproven for hundreds of years, there was a resurgence of “Flat Earthers” in the late 19th century. [This map](https://collections.leventhalmap.org/search/commonwealth:7h149v85z) was included in Gleason’s 1890 book “Is the Bible from Heaven? Is the Earth a Globe?” With its claims to show the earth “as it is,” “scientifically and practically correct,” Gleason's map appealed to the language of cartographic authenticity in order to make a competing claim about the truth.
 
-#### Gerard Valck, ***[Novus Planiglobii Terrestris per Utrumque Polum Conspectus](https://collections.leventhalmap.org/search/commonwealth:x633f9162)*** \[1695?]
+#### John Bartholomew, [Bartholomew's chart of the world on Mercator's projection](https://collections.leventhalmap.org/search/commonwealth:cj82kt50p) \[1914?]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n774z/full/,1200/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kt51z/full/1200,/0/default.jpg" >}}
 
-While most double hemisphere maps display the world divided into eastern and western hemispheres, a more unusual portrayal uses the northern and southern hemispheres. Gerard Valck’s [ornately decorated map](https://collections.leventhalmap.org/search/commonwealth:x633f9162) exemplifies a polar-oriented projection.
-
-The two spheres, adorned with ships and a symmetrical arrangement of compass roses, are set against an artistic backdrop highlighting the Genesis story of creation. At the top is a dramatic presentation of the sun, moon, and stars emerging from clouds of darkness. Other vignettes depict Adam and Eve leaving the Garden of Eden, and Noah selecting pairs of animals for the ark.
+A colorful and intricate example of a world map, the cartographer uses the Mercator's projection to decide on how to portray scale. Maps drawn to the Mercator’s projection became the standard for navigation in the 18th century. Though it makes some regions look larger or smaller in scale than they actually are, this format really grew to popularity because any straight line on the map represents an actual compass bearing. This focus on navigation can be seen in other places on [the map](https://collections.leventhalmap.org/search/commonwealth:cj82kt50p), like potential seaweed hazards, the currents, and common ship routes all marked. 
 
 #### Gerard Valck, ***[Novus Planiglobii Terrestris per Utrumque Polum Conspectus](https://collections.leventhalmap.org/search/commonwealth:x633f9162)*** \[1695?]
 
