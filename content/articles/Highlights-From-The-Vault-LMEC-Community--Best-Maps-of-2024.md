@@ -35,13 +35,11 @@ Created by the Russian War Relief, Incorporated and headquartered in New York Ci
 
 [This map](https://collections.leventhalmap.org/search/commonwealth:x059cb88s) depicts the village and town center of Salem as it was during the year of the infamous Witch Trials in 1692. Important sites are also highlighted including the “Witch House” and the court house where the witches were tried and found guilty. Though no convicted “witches” were burned at the stake in Salem, as often thought, more than 25 victims were killed because of the accusations. 
 
-#### Franklin Leavitt, ***[Leavitt’s map with views of the White Mountains](https://collections.leventhalmap.org/search/commonwealth:st74cw24k)*** (1871)
+#### Joseph Husson, Jr., [Map of a Woman’s Heart](https://collections.leventhalmap.org/search/commonwealth:cj82kr20j) \[1840–1860]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw25v/full/,1200/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr21t/full/1200,/0/default.jpg" class="" >}}
 
-Combining folk art with a schematic tourist map, [this unusual map](https://collections.leventhalmap.org/search/commonwealth:st74cw24k) views the White Mountains from the northwest. In the center, the mountains were drawn in landscape format surrounded by curious vignettes including “Old Crawford Killing a Bear” and “Harry Crawford Killing a Lynx”. Along the top are a railroad map and views of waterfalls, while symbolic images of hotels, stage coaches, and trains alert readers to the region’s tourist amenities.
-
-Leavitt, a laborer, mountain guide, and self-taught mapmaker, created this pictorial map. Reflecting his regional bias, he located Lancaster, his hometown, and the Connecticut River in the center foreground.
+Illustrating the mysterious land of a woman’s heart, [this map](https://collections.leventhalmap.org/search/commonwealth:cj82kr20j) is a comical take on the different facets of love and relationships. Centered on the Ocean of Love, Ideal Isle is disconnected from the rest of the land but just a quick hop from Cape Hope. An arrow (maybe one of Cupid’s?) has pierced the Devotion region of the heart. We can also see the lands Curiosity, Pride, and Hatred and some interesting geographic features, like Mt. Fashion and the Rocks of Despair. 
 
 #### Christiaan van Adrichem, ***[Jerusalem, et suburbia eius, sicut tempore Christi floruit cum locis, in quibus Christus passus est: que religiose a Christianis obseruata, etiam num venerationi habent](https://collections.leventhalmap.org/search/commonwealth:2b88qf58d)*** \[1584-1588]
 
