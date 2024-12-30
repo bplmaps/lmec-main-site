@@ -21,21 +21,19 @@ If you’ve ever wondered which of our maps are the most popular with visitors a
 
 At the LMEC, we have over a quarter million maps in our collection and more than 14,000 digitized and available through our digital collection portal. We’ve run the numbers and in this From the Vault, we’re here to show you some of our most popular maps of the last year! There are some maps that remain ever popular, but there are certainly some maps that may surprise you. See if you can guess which was the most viewed!
 
-#### Russian War Relief, Inc.; E. Means 38,000,000 escaped -- 10,000,000 died \[ca. 1940–1949]
+#### Russian War Relief, Inc.; E. Means [38,000,000 escaped -- 10,000,000 died](https://collections.leventhalmap.org/search/commonwealth:0r96fm228) \[ca. 1940–1949]
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm23j/full/1200,/0/default.jpg" class="" >}}
 
-Offering up a unique perspective, this speculative map uses a familiar view of the United States to help put the devastation of World War 2 in Russia into a more understandable context for Americans. American cities are given equivalent Russian counterparts and the statement at the bottom pleads for Americans to empathize with the amount of damage caused to the country and its people. 
+Offering up a unique perspective, [this speculative map](https://collections.leventhalmap.org/search/commonwealth:0r96fm228) uses a familiar view of the United States to help put the devastation of World War 2 in Russia into a more understandable context for Americans. American cities are given equivalent Russian counterparts and the statement at the bottom pleads for Americans to empathize with the amount of damage caused to the country and its people.
 
 Created by the Russian War Relief, Incorporated and headquartered in New York City, this was an attempt to appeal to the American people to “help keep relief ships sailing” to Russia in their time of need.
 
-#### Joseph F.W. Des Barres, ***[A View of Boston](https://collections.leventhalmap.org/search/commonwealth:7h149z72h)*** (1779)
+#### William Phineas Upham, [Map of Salem Village 1692](https://collections.leventhalmap.org/search/commonwealth:x059cb88s) (1866)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149z73s/full/,1200/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cb892/full/1200,/0/default.jpg" class="" >}}
 
-Viewing Boston from the ocean was not a novel concept originated by 19th century bird’s eye view artists. [This Revolutionary War era landscape scene](https://collections.leventhalmap.org/search/commonwealth:7h149z72h), published with a collection of nautical charts, depicted Boston Harbor as it would have appeared to approaching ships.
-
-While not technically a map or chart, coastal and headland views were also considered navigational aids. Such graphic images assisted ship captains in identifying prominent landmarks as they entered the harbor. Clearly visible on Boston’s late 18th century skyline are numerous church spires and a flag on Beacon Hill.
+[This map](https://collections.leventhalmap.org/search/commonwealth:x059cb88s) depicts the village and town center of Salem as it was during the year of the infamous Witch Trials in 1692. Important sites are also highlighted including the “Witch House” and the court house where the witches were tried and found guilty. Though no convicted “witches” were burned at the stake in Salem, as often thought, more than 25 victims were killed because of the accusations. 
 
 #### Franklin Leavitt, ***[Leavitt’s map with views of the White Mountains](https://collections.leventhalmap.org/search/commonwealth:st74cw24k)*** (1871)
 
