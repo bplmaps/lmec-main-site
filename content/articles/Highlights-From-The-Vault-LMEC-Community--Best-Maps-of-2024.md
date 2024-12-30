@@ -63,6 +63,20 @@ A well known engraver, [this engraved print](https://collections.leventhalmap.or
 
 A key printed beneath the print identifies Long Wharf, Hancock's Wharf, North Battery, and eight of the warships. Additional text beneath the print describes the event in sarcastic terms. An image in the lower right corner of the print mockingly dedicates the print to the Earl of Hillsborough who ordered the British troops to Boston. The image also shows a Native American, a symbol of colonial America, with his foot on the neck of a British soldier.
 
+#### Alexander Gleason, [Gleason's new standard map of the world : on the projection of J. S. Christopher, Modern College, Blackheath, England ; scientifically and practically correct ; as "it is."](https://collections.leventhalmap.org/search/commonwealth:7h149v85z) (1892)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149v867/full/,1200/0/default.jpg" >}}
+
+The #1 most searched map in our collection during 2024 is Gleason’s infamous “Flat Earth Map”. Though disbelieved and disproven for hundreds of years, there was a resurgence of “Flat Earthers” in the late 19th century. [This map](https://collections.leventhalmap.org/search/commonwealth:7h149v85z) was included in Gleason’s 1890 book “Is the Bible from Heaven? Is the Earth a Globe?” With its claims to show the earth “as it is,” “scientifically and practically correct,” Gleason's map appealed to the language of cartographic authenticity in order to make a competing claim about the truth.
+
+#### Gerard Valck, ***[Novus Planiglobii Terrestris per Utrumque Polum Conspectus](https://collections.leventhalmap.org/search/commonwealth:x633f9162)*** \[1695?]
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n774z/full/,1200/0/default.jpg" >}}
+
+While most double hemisphere maps display the world divided into eastern and western hemispheres, a more unusual portrayal uses the northern and southern hemispheres. Gerard Valck’s [ornately decorated map](https://collections.leventhalmap.org/search/commonwealth:x633f9162) exemplifies a polar-oriented projection.
+
+The two spheres, adorned with ships and a symmetrical arrangement of compass roses, are set against an artistic backdrop highlighting the Genesis story of creation. At the top is a dramatic presentation of the sun, moon, and stars emerging from clouds of darkness. Other vignettes depict Adam and Eve leaving the Garden of Eden, and Noah selecting pairs of animals for the ark.
+
 #### Gerard Valck, ***[Novus Planiglobii Terrestris per Utrumque Polum Conspectus](https://collections.leventhalmap.org/search/commonwealth:x633f9162)*** \[1695?]
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n774z/full/,1200/0/default.jpg" >}}
