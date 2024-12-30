@@ -55,13 +55,13 @@ A political cartoon issued shortly after the Democratic Party's nomination of Ge
 
 Pulling at the Northern side of the map, Lincoln declares, "No peace without Abolition!" Grasping the Southern side of the map, Davis retorts, "No peace without Separation!!" This image, incorporating both caricature and map elements, depicts the significance of the Civil War in American history. The regional tensions of the 1840s and 1850s led to the secession of eleven southern states to form the Confederate States of America and four years of the bloodiest war in American history.
 
-#### John F. Waite, ***[Uncle Sam’s Family Tree](https://collections.leventhalmap.org/search/commonwealth:3f463673h)*** (1900)
+#### Paul Revere, [A view of part of the town of Boston in New-England and Brittish \[sic\] ships of war landing their troops! 1768](https://collections.leventhalmap.org/search/commonwealth:4m90f850d) (1870)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463674s/full/,1200/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f851p/full/1200,/0/default.jpg" class="" >}}
 
-Created as an advertisement for Arbuckles, a wholesale grocer, the territorial growth of the United States is compared to an orchard tree. Printed on the backhand side of a United States map, [this unusual graphic](https://collections.leventhalmap.org/search/commonwealth:3f463673h) is essentially a geographical timeline, charting the chronological growth of the nation.
+A well known engraver, [this engraved print](https://collections.leventhalmap.org/search/commonwealth:4m90f850d) depicting British soldiers landing in Boston Harbor in 1768 was done by Paul Revere. The troops were sent to Boston after riots erupted following the passage of the Townshend Acts in London in 1767. A partial view of the city of Boston can be seen in the background with seven prominent church steeples and the cupola of Faneuil Hall.
 
-In representing the United States, the cartographer uses a tree that sits in “the great American garden” and is tended by “Uncle Sam”, a common national personification of the federal government of the United States. The roots symbolize the original thirteen colonies, while subsequent “grafts” and branches represent other states and occupied territories added by war, purchase, and annexation.
+A key printed beneath the print identifies Long Wharf, Hancock's Wharf, North Battery, and eight of the warships. Additional text beneath the print describes the event in sarcastic terms. An image in the lower right corner of the print mockingly dedicates the print to the Earl of Hillsborough who ordered the British troops to Boston. The image also shows a Native American, a symbol of colonial America, with his foot on the neck of a British soldier.
 
 #### Gerard Valck, ***[Novus Planiglobii Terrestris per Utrumque Polum Conspectus](https://collections.leventhalmap.org/search/commonwealth:x633f9162)*** \[1695?]
 
