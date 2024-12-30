@@ -47,13 +47,13 @@ Illustrating the mysterious land of a woman’s heart, [this map](https://collec
 
 Noted historian and librarian, Justin Winsor created [this unique map](https://collections.leventhalmap.org/search/commonwealth:x633f8662) by superimposing the outline of the original Shawmut Peninsula onto an 1880 map of Boston. It was used as the beginning piece for the first volume of his "Memorial History of Boston, Including Suffolk County, Massachusetts", published in 1882. Though drawn without the assistance of computers or aerial photographs, it remains one of the most vivid diagrams of the radical transformation and enlargement of the Shawmut Peninsula area during the 19th century.
 
-#### Ernest Dudley Chase, ***[The United States as Viewed by California (very unofficial)](https://collections.leventhalmap.org/search/commonwealth:st74cw264)*** (1940)
+#### Currier & Ives, [The true issue or "thats whats the matter"](https://collections.leventhalmap.org/search/commonwealth:4m90fk27g) (1864)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw27d/full/800,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nj00d/full/1200,/0/default.jpg" >}}
 
-Recognized for his whimsical pictorial maps, Chase created [this highly distorted map](https://collections.leventhalmap.org/search/commonwealth:st74cw264) of the United States as perceived by Californians. One-third the size of the rest of the country, the state is perpetually drenched by the sun. A bustling California is also depicted as a cornucopia of plenty, teaming with industry, agriculture, recreational activity, and natural wonders.
+A political cartoon issued shortly after the Democratic Party's nomination of George Brinton McClellan as their Presidential nominee in the election of 1864. [The cartoon](https://collections.leventhalmap.org/search/commonwealth:4m90fk27g) depicts McClellan as the peace candidate. Crying "The Union must be preserved at all hazards!", McClellan attempts to reconcile Abraham Lincoln and Jefferson Davis who are fighting over a large map of the United States with a tear down the center. 
 
-The rest of the county is overshadowed by a dark cloud and a vast, depressing spider web. Other states are distorted or are omitted entirely. However, Chase’s native New England retains its shape and receives some sunlight for half of the year.
+Pulling at the Northern side of the map, Lincoln declares, "No peace without Abolition!" Grasping the Southern side of the map, Davis retorts, "No peace without Separation!!" This image, incorporating both caricature and map elements, depicts the significance of the Civil War in American history. The regional tensions of the 1840s and 1850s led to the secession of eleven southern states to form the Confederate States of America and four years of the bloodiest war in American history.
 
 #### John F. Waite, ***[Uncle Sam’s Family Tree](https://collections.leventhalmap.org/search/commonwealth:3f463673h)*** (1900)
 
