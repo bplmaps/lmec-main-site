@@ -37,4 +37,4 @@ Copley Square wasn’t the only part of the city that had artistic prestige and 
 
 {{< figure caption="1906 Atlas of the Fens neighborhood featuring the Isabella Stewart Gardner Museum as well as the Normal School and the future site of the MFA" src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/image (32).png" class="figure-left" >}}
 
-{{< figure caption="Courtyard of the not-yet-opened Isabella Stewart Gardner Museum in 1902, photograph by Thomas E. Marr." src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:66830348n/full/1200,/0/default.jpg" >}}
+{{< figure caption="Courtyard of the not-yet-opened Isabella Stewart Gardner Museum in 1902, photograph by Thomas E. Marr." src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:66830348n/full/1200,/0/default.jpg" class="figure-right" >}}
