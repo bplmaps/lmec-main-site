@@ -7,9 +7,9 @@ description: >-
   A chronological journey through the neighborhoods that shaped Boston’s fine
   arts culture.
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jq086294t/full/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jq086294t/1766,3467,14237,6432/1200,/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jq086294t/full/1200,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jq086294t/1766,3467,14237,6432/1200,/0/default.jpg
 tags:
   - Urban renewal
   - Boston
