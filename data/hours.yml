@@ -42,6 +42,7 @@ exceptions:
     special: Closed
   - date: 'May 25, 2025'
     name: Sunday Closure
+    special: Closed
   - date: 'May 26, 2025'
     name: Memorial Day
   - date: 'June 19, 2025'
