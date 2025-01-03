@@ -6,6 +6,8 @@ description: Explore the Legacy of Our Revolutionary Past
 resourceUrl: 'https://www.argomaps.org/'
 type: 'digital-project'
 weight: 2
+aliases:
+  - "/projects/argo.md"
 ---
 
 ![argo](/images/blog/argo.png)
