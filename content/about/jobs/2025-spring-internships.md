@@ -1,12 +1,14 @@
 ---
+draft: true
 title: Spring Internships 2025
 backgroundImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 cardImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
+menu: false
 ---
 
-{{< alert-box type="success" title="Applications Open" >}}
+{{< alert-box type="danger" title="Apply" >}}
 
-Applications for our Spring 2025 internships are **open** until 3pm on Friday, November 22, 2024. [Apply below](#apply)!
+Applications for our Spring 2025 internships are now closed.
 
 {{</ alert-box >}}
 
@@ -45,4 +47,4 @@ Applications are due by **November 22, 2024 at 3:00pm ET**. To apply, submit:
 * A letter of interest, no longer than 1 single-spaced page
 * A resume or CV
 
-<a href="https://tally.so/r/m6QWZ5" class="btn btn-primary-outline">Submit an application online</a>
+<!-- <a href="https://tally.so/r/m6QWZ5" class="btn btn-primary-outline">Submit an application online</a> -->
