@@ -51,6 +51,7 @@ exceptions:
     special: Closed
   - date: 'July 4, 2025'
     name: Independence Day
+    special: Closed
   - date: 'August 31, 2025'
     name: Sunday Closure
   - date: 'September 1, 2025'
