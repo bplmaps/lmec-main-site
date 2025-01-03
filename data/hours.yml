@@ -22,9 +22,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'January 1, 2025'
-    name: New Year's Day
-    special: Closed
   - date: 'January 20, 2025'
     name: Martin Luther King Jr. Day
     special: Closed
