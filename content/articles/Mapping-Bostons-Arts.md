@@ -25,7 +25,7 @@ In the beginning of the nineteenth century, the city of Boston had very few opti
 
 After moving locations a plethora of times and eventually settling into a mansion on Pearl Street, the Athenaeum added an art gallery alongside its massive literary collection in 1827, and began putting on yearly exhibitions of both European and American art. By the time its location on Beacon Hill opened in 1849, where the Athenaeum still resides, a full painting gallery was opened on the third floor where Boston residents could bear witness to masterpieces by great Flemish masters like Peter Paul Rubens or iconic American portraits by Gilbert Stuart.
 
-{{< figure caption="1874 Atlas plate of the Dartmouth St and Copley Square Area, from our collections" src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/image (30).png" class="figure-left" >}}
+{{< figure caption="1874 Atlas plate of the Dartmouth St and Copley Square Area, from our collections" src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/image (30).png" class="" >}}
 
 Around the late 1860s, the demand for more publicly accessible art grew too large to be contained to a singular floor of the Athenaeum, and the great minds behind the city of Boston began to look for a more permanent solution. After about five years of construction, the Boston Museum of Fine Arts (MFA) opened its doors in Copley Square in 1876.
 
