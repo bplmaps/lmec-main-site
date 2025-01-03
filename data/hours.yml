@@ -22,12 +22,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'December 24, 2024'
-    name: Christmas Eve
-    special: Closed
-  - date: 'December 25, 2024'
-    name: Christmas Day
-    special: Closed
   - date: 'January 1, 2025'
     name: New Year's Day
     special: Closed
@@ -36,6 +30,7 @@ exceptions:
     special: Closed
   - date: 'February 17, 2025'
     name: President's Day
+    special: Closed
   - date: 'March 14, 2025'
     name: BPL Staff Professional Development
     special: All BPL locations will be closed
