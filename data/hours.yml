@@ -45,6 +45,7 @@ exceptions:
     special: Closed
   - date: 'May 26, 2025'
     name: Memorial Day
+    special: Closed
   - date: 'June 19, 2025'
     name: Juneteenth
   - date: 'July 4, 2025'
