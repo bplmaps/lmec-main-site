@@ -67,6 +67,7 @@ exceptions:
     special: Closed
   - date: 'November 27, 2025'
     name: Thanksgiving
+    special: Closed
   - date: 'December 24, 2025'
     name: Christmas Eve
     special: 'Special Hours: 11-5pm'
