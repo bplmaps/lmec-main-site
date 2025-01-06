@@ -1,16 +1,16 @@
 ---
+cardImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
+menu: false
 draft: true
 title: Spring Internships 2025
 backgroundImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
-cardImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
-menu: false
 ---
 
-{{< alert-box type="danger" title="Apply" >}}
+{{\< alert-box type="danger" title="Apply" >}}
 
 Applications for our Spring 2025 internships are now closed.
 
-{{</ alert-box >}}
+{{\</ alert-box >}}
 
 The Leventhal Map & Education Center at the Boston Public Library seeks to hire a cohort of undergraduate interns, with the goal of training the next generation of professionals in topics related to geospatial technology, public humanities, and librarianship.
 
@@ -46,5 +46,3 @@ Applications are due by **November 22, 2024 at 3:00pm ET**. To apply, submit:
 
 * A letter of interest, no longer than 1 single-spaced page
 * A resume or CV
-
-<!-- <a href="https://tally.so/r/m6QWZ5" class="btn btn-primary-outline">Submit an application online</a> -->
