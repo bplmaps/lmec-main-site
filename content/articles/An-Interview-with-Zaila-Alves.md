@@ -20,7 +20,7 @@ tags:
 
 ##### ***Zaila, we’re so excited to have you on board here at the Leventhal Map & Education Center. What are you currently studying at Northeastern and what made you choose to work at the Map Center during your co-op experience?***
 
-Hey, thanks, it’s great to be here! I’m currently studying for my BA in Cultural Anthropology at Northeastern University. Go Huskies! My favorite classes regarding my major, so far, have been Foundations of Anthropological Theory, DeafBlind History & Culture, Transnational Feminisms, and Environments, Society, and Technology.
+Hey, thanks, it’s great to be here! I’m currently studying for my B.A. in Cultural Anthropology at Northeastern University. Go Huskies! My favorite classes regarding my major, so far, have been Foundations of Anthropological Theory, DeafBlind History & Culture, Transnational Feminisms, and Environments, Society, and Technology.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Zaila Alves.png" class="figure-right" >}}
 
