@@ -14,7 +14,7 @@ tags:
   - from the vault
 ---
 
-***Calling all cartography lovers!*** Prepare to see some of the newest acquisitions to our collection of over 250,00 maps, atlases, globes, and other cartographic objects. Some chosen for their visual impact, others for their depictions of space and place, and even more for their interpretation of history and relevant information, these maps are sure to educate and impress.
+***Calling all cartography lovers!*** Prepare to see some of the newest acquisitions to our collection of over 250,000 maps, atlases, globes, and other cartographic objects. Some chosen for their visual impact, others for their depictions of space and place, and even more for their interpretation of history and relevant information, these maps are sure to educate and impress.
 
 This free showing will be hosted Friday, January 10 in the Learning Center with a staff member from the Leventhal Center available to answer questions.
 
