@@ -42,6 +42,8 @@ If my life guides me to a job like my role as the Visitor Services & Operations 
 
 As someone who has always been fascinated in watching the processes of things, I find the tools used to create maps the most fascinating, especially since they can communicate so much about the social realities present when maps were being created with those tools. With the assorted drafting tools in the *[Transforming Tools](https://www.leventhalmap.org/digital-exhibitions/processing-place/catalogue/04-transforming-tools/)* portion of this exhibit, I found it interesting that those tools lend to a knowledge base that was not only based on cognitive expertise, but a physical component as well with analogue methods of drawing maps.
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:f47554722/full/1400,/0/default.jpg" caption="Boston Redevelopment Authority, Illustrative site plan: Government Center urban renewal area, Massachusetts R-35 (1968)" class="figure-left" >}}
+
 I was also strongly drawn to the [Government Center urban renewal area map](https://www.leventhalmap.org/digital-exhibitions/processing-place/catalogue/04-transforming-tools/4.3/) plan because of the Boston Redevelopment Authority’s choice to utilize bold colors. However, what I didn’t know until reading the caption, was that those colors were an intentional choice in order to distract from the fact that the neighborhoods that were being developed in were typically nonwhite and lower-income neighborhoods. That fact that color on maps could be used to market a certain reality was something I hadn’t considered before. Color as a socially conscious choice is very interesting to me as an anthropology student.
 
 ##### ***What is your earliest memory of maps?***
