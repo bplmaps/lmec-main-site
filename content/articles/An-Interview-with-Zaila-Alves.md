@@ -22,6 +22,8 @@ tags:
 
 Hey, thanks, it’s great to be here! I’m currently studying for a BA in Cultural Anthropology at Northeastern University. Go Huskies! My favorite classes regarding my major, so far, have been Foundations of Anthropological Theory, DeafBlind History & Culture, Transnational Feminisms, and Environments, Society, and Technology.
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Zaila Alves.png" class="figure-right" >}}
+
 As to why I chose to work at the Leventhal Map & Education Center for my first co-op experience, I wanted to find a co-op aligned with what I want to pursue in the future—working as librarian or within a museum. Admittedly, while I’ve never taken much time to learn about the history behind maps, I’ve always felt a kind of nostalgia when observing certain maps, and by extension, recognized the possibility of personal connections that can exist between people and maps.
 
 For example, a personal connection to me would look like finding a map that shows where the population of Cape Verdeans are in Boston, and finding that familiar churches, family homes, and restaurants are marked. For someone else, it could be looking at a map of commercial fishing spots in Maine from 1965-1970, and recognizing the area where their grandfather’s company fished. That connection for a person could even be from looking at of their area from, say from the 2000s, and finding the Blockbuster that they used to go to with their dad before Friday night family movies.
