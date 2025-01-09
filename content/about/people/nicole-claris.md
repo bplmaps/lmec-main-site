@@ -15,4 +15,4 @@ contact:
 menu: false
 ---
 
-Nicole Claris is an educator dedicated to exploring how objects shape our perspectives on history, ourselves, and each other. She holds a BA in History & Art History from the College of the Holy Cross and a MA in Art History from Indiana University, Bloomington.
+Nicole Claris (she/her) is an educator dedicated to exploring how objects shape our perspectives on history, ourselves, and each other. She holds a BA in History & Art History from the College of the Holy Cross and a MA in Art History from Indiana University, Bloomington.
