@@ -16,6 +16,8 @@ tags:
   - Interview
 ---
 
+> We’re excited to introduce Zaila Alves to the LMEC community as our Visitor Service & Operations Assistant! Zaila joined us this January as a Northeastern Co-op student and is currently an undergraduate candidate for a BA in Cultural Anthropology, with a minor in Black Feminist Studies. We sat down with Zaila to learn more about her interests, upcoming work at the Center, and Treasure Planet.
+
 ##### ***Zaila, we’re so excited to have you on board here at the Leventhal Map & Education Center. What are you currently studying at Northeastern and what made you choose to work at the Map Center during your co-op experience?***
 
 Hey, thanks, it’s great to be here! I’m currently studying for a BA in Cultural Anthropology at Northeastern University. Go Huskies! My favorite classes regarding my major, so far, have been Foundations of Anthropological Theory, DeafBlind History & Culture, Transnational Feminisms, and Environments, Society, and Technology.
