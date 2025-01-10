@@ -49,13 +49,13 @@ Created for LIFE Magazine in 1944, [this map](https://collections.leventhalmap.o
 
 This map was created, in part, to reintroduce the natural landscape to San Franciscans and help them understand how it continued to influence their lives in the urbanized city 200+ years later. One example is to help explain why some people’s basements flood or buildings sink. This map was also attempting to help city dwellers connect more with urban wildlife and strengthen their connection with local wild areas’ restoration efforts.
 
-#### Currier & Ives, ***[The true issue or "thats whats the matter"](https://collections.leventhalmap.org/search/commonwealth:4m90fk27g)*** (1864)
+#### General Drafting Company, [America's products and the trucks that carry them](https://bpl.bibliocommons.com/v2/record/S75C8919287) (1958)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nj00d/full/1200,/0/default.jpg" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screenshot 2025-01-10 105012.png" >}}
 
-A political cartoon issued shortly after the Democratic Party's nomination of George Brinton McClellan as their Presidential nominee in the election of 1864. [The cartoon](https://collections.leventhalmap.org/search/commonwealth:4m90fk27g) depicts McClellan as the peace candidate. Crying "The Union must be preserved at all hazards!", McClellan attempts to reconcile Abraham Lincoln and Jefferson Davis who are fighting over a large map of the United States with a tear down the center.
+This is [a 1958 General Drafting Company pictorial map](https://bpl.bibliocommons.com/v2/record/S75C8919287) of the United States, its industry, and the transportation network used to move its products. The map follows the 1956 Federal-Aid Highway Act, celebrating the success of the American Highway system and the hard work of truckers in moving goods along a growing network of interstate trade. 
 
-Pulling at the Northern side of the map, Lincoln declares, "No peace without Abolition!" Grasping the Southern side of the map, Davis retorts, "No peace without Separation!!" This image, incorporating both caricature and map elements, depicts the significance of the Civil War in American history. The regional tensions of the 1840s and 1850s led to the secession of eleven southern states to form the Confederate States of America and four years of the bloodiest war in American history.
+Pictorial vignettes highlight American production, from agricultural goods to aircraft parts and automobiles. Corn, potatoes, walnuts, citrus fruit, and flour appear among the nation's agricultural products. Coal, lead, uranium ore, copper, aluminum, and phosphates are named among the nation's mineral resources. Farm machinery, shoes, synthetic rubber, textiles, and paper represent a handful of manufactured products. America's highway network, illustrated below the green vignettes in shades of gray, serves as a network of commerce. The trucks that create the map's border carry it all, with many still in use today. Many of these were designed with specific purposes in mind: logging, beverage panel trucks, telephone line trucks, bulk milk trucks, ice cream trucks, and vehicle carriers, etc. 
 
 #### Paul Revere, ***[A view of part of the town of Boston in New-England and Brittish \[sic\] ships of war landing their troops! 1768](https://collections.leventhalmap.org/search/commonwealth:4m90f850d)*** (1870)
 
