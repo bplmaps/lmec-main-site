@@ -31,13 +31,15 @@ Calling all cartography enthusiasts! Prepare to see some of the newest acquisit
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:dv145x76k/full/,1450/0/default.jpg" class="" >}}
 
-Showing gangs with clubrooms, those without, and indicating private and public property, this map was meant to be an all-encompassing view of the gangs present in Chicago. Completed as a part of a larger study, the map also lists the names of certain regions and previous illegal activity or attacks that occurred around the area. Something to note is that this map also outlines areas with prevalent ethnic groups, including “Americans” as a broad term for multi-generational White Americans.
+Showing gangs with clubrooms, those without, and indicating private and public property, [this map](https://collections.leventhalmap.org/search/commonwealth:db791j422) was meant to be an all-encompassing view of the gangs present in Chicago. Completed as a part of a larger study, the map also lists the names of certain regions and previous illegal activity or attacks that occurred around the area. Something to note is that this map also outlines areas with prevalent ethnic groups, including “Americans” as a broad term for multi-generational White Americans.
 
-#### Joseph Husson, Jr., ***[Map of a Woman’s Heart](https://collections.leventhalmap.org/search/commonwealth:cj82kr20j)*** \[1840–1860]
+#### Boris Artzybasheff, [World map of the major tropical diseases](https://collections.leventhalmap.org/search/commonwealth:6q185975n) (1944)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kr21t/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1z40ph33g/full/1450,/0/default.jpg" class="" >}}
 
-Illustrating the mysterious land of a woman’s heart, [this map](https://collections.leventhalmap.org/search/commonwealth:cj82kr20j) is a comical take on the different facets of love and relationships. Centered on the Ocean of Love, Ideal Isle is disconnected from the rest of the land but just a quick hop from Cape Hope. An arrow (maybe one of Cupid’s?) has pierced the Devotion region of the heart. We can also see the lands Curiosity, Pride, and Hatred and some interesting geographic features, like Mt. Fashion and the Rocks of Despair.
+This map shows the locations of diseases around the world using text, illustrations and color to grab the viewer’s attention. Included at the foot of the map is a description of each disease, how it’s typically contracted, and how it’s most often treated. 15 diseases are represented here, including malaria, yellow fever, dengue, typhus, plague, cholera, sleeping sickness, tularemia, Rocky Mountain fever, Japanese river fever, relapsing fever, helminthic diseases, yaws, leprosy, and leishmaniasis. 
+
+Created for LIFE Magazine in 1944, [this map](https://collections.leventhalmap.org/search/commonwealth:6q185975n) would have been highly accessible to the public. This is especially important given the time frame of Americans entering the army and beginning to fight abroad in World War 2. 
 
 #### Justin Winsor, ***[Boston old and new](https://collections.leventhalmap.org/search/commonwealth:x633f8662)*** (1880)
 
