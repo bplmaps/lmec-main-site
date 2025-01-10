@@ -63,11 +63,13 @@ Pictorial vignettes highlight American production, from agricultural goods to ai
 
 Canobie Lake Park is a staple of New England summers. Now known for their roller coasters and Taylor Swift impersonator, the park was originally a “trolley park” located at the end of the Massachusetts Northeast Street Railway Company and was designed to encourage trolley use on the weekends. To that end, [this map](https://collections.leventhalmap.org/search/commonwealth:x633j682j) was initially designed as a foldable brochure. At the time of this map’s creation in 1912, Canobie Lake Park consisted of flower gardens, walking paths, and “gentle attractions” like a swimming pool.
 
-#### Alexander Gleason, ***[Gleason's new standard map of the world : on the projection of J. S. Christopher, Modern College, Blackheath, England ; scientifically and practically correct ; as "it is."](https://collections.leventhalmap.org/search/commonwealth:7h149v85z)*** (1892)
+#### [Panoramic view of Boston centered on the Prudential Tower](https://collections.leventhalmap.org/search/commonwealth:h128th21w) (1968)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149v867/full/,1200/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rj4356675/full/1200,/0/default.jpg" >}}
 
-The #1 most searched map in our collection during 2024 is Gleason’s infamous “Flat Earth Map”. Though disbelieved and disproven for hundreds of years, there was a resurgence of “Flat Earthers” in the late 19th century. [This map](https://collections.leventhalmap.org/search/commonwealth:7h149v85z) was included in Gleason’s 1890 book “Is the Bible from Heaven? Is the Earth a Globe?” With its claims to show the earth “as it is,” “scientifically and practically correct,” Gleason's map appealed to the language of cartographic authenticity in order to make a competing claim about the truth.
+[This map](https://collections.leventhalmap.org/search/commonwealth:h128th21w) from 1968 shows a bird’s eye view of what the Prudential Tower and its surroundings looked like when it was first completed—spot the separate buildings that make up the tower in the middle (the compass rose marks the top of the tower).
+
+When first built in the early 1960s, the shopping centre we know now was a part of a huge redevelopment wave in Boston (think Boston City Hall, Government Center, etc). It was originally a series of separated buildings with the main “Prudential Tower” as the centerpiece. Over the years, the buildings were connected, bridged, and developed into “the Pru” we know today that welcomes more than 60,000 visitors a day.
 
 #### John Bartholomew, ***[Bartholomew's chart of the world on Mercator's projection](https://collections.leventhalmap.org/search/commonwealth:cj82kt50p)*** \[1914?]
 
