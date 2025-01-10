@@ -41,11 +41,13 @@ This map shows the locations of diseases around the world using text, illustrati
 
 Created for LIFE Magazine in 1944, [this map](https://collections.leventhalmap.org/search/commonwealth:6q185975n) would have been highly accessible to the public. This is especially important given the time frame of Americans entering the army and beginning to fight abroad in World War 2. 
 
-#### Justin Winsor, ***[Boston old and new](https://collections.leventhalmap.org/search/commonwealth:x633f8662)*** (1880)
+#### Nancy Morita, [The ecology and natural history of San Francisco wild in the city](https://bpl.bibliocommons.com/v2/record/S75C9000010) (1992)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71nt56d/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://planetdrum.org/wp-content/uploads/2020/12/1_wild_in_city.jpg" class="" >}}
 
-Noted historian and librarian, Justin Winsor created [this unique map](https://collections.leventhalmap.org/search/commonwealth:x633f8662) by superimposing the outline of the original Shawmut Peninsula onto an 1880 map of Boston. It was used as the beginning piece for the first volume of his "Memorial History of Boston, Including Suffolk County, Massachusetts", published in 1882. Though drawn without the assistance of computers or aerial photographs, it remains one of the most vivid diagrams of the radical transformation and enlargement of the Shawmut Peninsula area during the 19th century.
+[This poster-style map](https://bpl.bibliocommons.com/v2/record/S75C9000010) compares a view of the natural geography of San Francisco before colonization (1750) with a then present-day (1990s) street map to show what features could be restored to their natural state. The natural side of the map shows the location of the sand dunes, grasslands, wildflower-butterfly hilltops, Ohlone village sites, creek paths, salt marshes, and berry-brushlands that “underlie” the city of San Francisco. 
+
+This map was created, in part, to reintroduce the natural landscape to San Franciscans and help them understand how it continued to influence their lives in the urbanized city 200+ years later. One example is to help explain why some people’s basements flood or buildings sink. This map was also attempting to help city dwellers connect more with urban wildlife and strengthen their connection with local wild areas’ restoration efforts.
 
 #### Currier & Ives, ***[The true issue or "thats whats the matter"](https://collections.leventhalmap.org/search/commonwealth:4m90fk27g)*** (1864)
 
