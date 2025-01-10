@@ -25,13 +25,13 @@ Calling all cartography enthusiasts! Prepare to see some of the newest acquisit
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g445kk81h/full/,1450/0/default.jpg" class="" >}}
 
-A 1955 tourist map of Lebanon, this map acted as a type of advertisement to visit and see the sights. On the bottom right hand side of the map, a number of cities and towns are listed alongside different attractions like resorts, cafes, and historical sites. Most of the text is in Arabic with some English translations, signifying the multicultural audience this brochure is intended for. In addition to the dual language use, the pictorial nature of the map also appeals to those who aren’t able to speak Arabic, ensuring that the map can still be understood with limited language use.
+[A 1955 tourist map](https://collections.leventhalmap.org/search/commonwealth:pr76n698n) of Lebanon, this map acted as a type of advertisement to visit and see the sights. On the bottom right hand side of the map, a number of cities and towns are listed alongside different attractions like resorts, cafes, and historical sites. Most of the text is in Arabic with some English translations, signifying the multicultural audience this brochure is intended for. In addition to the dual language use, the pictorial nature of the map also appeals to those who aren’t able to speak Arabic, ensuring that the map can still be understood with limited language use.
 
-#### William Phineas Upham, ***[Map of Salem Village 1692](https://collections.leventhalmap.org/search/commonwealth:x059cb88s)*** (1866)
+#### Frederic Milton Thrasher, [Chicago's gangland](https://collections.leventhalmap.org/search/commonwealth:db791j422) (1927)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x059cb892/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:dv145x76k/full/,1450/0/default.jpg" class="" >}}
 
-[This map](https://collections.leventhalmap.org/search/commonwealth:x059cb88s) depicts the village and town center of Salem as it was during the year of the infamous Witch Trials in 1692. Important sites are also highlighted including the “Witch House” and the court house where the witches were tried and found guilty. Though no convicted “witches” were burned at the stake in Salem, as often thought, more than 25 victims were killed because of the accusations. 
+Showing gangs with clubrooms, those without, and indicating private and public property, this map was meant to be an all-encompassing view of the gangs present in Chicago. Completed as a part of a larger study, the map also lists the names of certain regions and previous illegal activity or attacks that occurred around the area. Something to note is that this map also outlines areas with prevalent ethnic groups, including “Americans” as a broad term for multi-generational White Americans.
 
 #### Joseph Husson, Jr., ***[Map of a Woman’s Heart](https://collections.leventhalmap.org/search/commonwealth:cj82kr20j)*** \[1840–1860]
 
