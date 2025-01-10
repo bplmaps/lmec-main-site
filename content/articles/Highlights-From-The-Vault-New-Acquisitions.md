@@ -57,13 +57,11 @@ This is [a 1958 General Drafting Company pictorial map](https://bpl.bibliocommon
 
 Pictorial vignettes highlight American production, from agricultural goods to aircraft parts and automobiles. Corn, potatoes, walnuts, citrus fruit, and flour appear among the nation's agricultural products. Coal, lead, uranium ore, copper, aluminum, and phosphates are named among the nation's mineral resources. Farm machinery, shoes, synthetic rubber, textiles, and paper represent a handful of manufactured products. America's highway network, illustrated below the green vignettes in shades of gray, serves as a network of commerce. The trucks that create the map's border carry it all, with many still in use today. Many of these were designed with specific purposes in mind: logging, beverage panel trucks, telephone line trucks, bulk milk trucks, ice cream trucks, and vehicle carriers, etc. 
 
-#### Paul Revere, ***[A view of part of the town of Boston in New-England and Brittish \[sic\] ships of war landing their troops! 1768](https://collections.leventhalmap.org/search/commonwealth:4m90f850d)*** (1870)
+#### Walker Lith., [Canobie Lake Park, Salem N.H.](https://collections.leventhalmap.org/search/commonwealth:x633j682j) (1912)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f851p/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5d86s675x/full/1450,/0/default.jpg" class="" >}}
 
-A well known engraver, [this engraved print](https://collections.leventhalmap.org/search/commonwealth:4m90f850d) depicting British soldiers landing in Boston Harbor in 1768 was done by Paul Revere. The troops were sent to Boston after riots erupted following the passage of the Townshend Acts in London in 1767. A partial view of the city of Boston can be seen in the background with seven prominent church steeples and the cupola of Faneuil Hall.
-
-A key printed beneath the print identifies Long Wharf, Hancock's Wharf, North Battery, and eight of the warships. Additional text beneath the print describes the event in sarcastic terms. An image in the lower right corner of the print mockingly dedicates the print to the Earl of Hillsborough who ordered the British troops to Boston. The image also shows a Native American, a symbol of colonial America, with his foot on the neck of a British soldier.
+Canobie Lake Park is a staple of New England summers. Now known for their roller coasters and Taylor Swift impersonator, the park was originally a “trolley park” located at the end of the Massachusetts Northeast Street Railway Company and was designed to encourage trolley use on the weekends. To that end, [this map](https://collections.leventhalmap.org/search/commonwealth:x633j682j) was initially designed as a foldable brochure. At the time of this map’s creation in 1912, Canobie Lake Park consisted of flower gardens, walking paths, and “gentle attractions” like a swimming pool.
 
 #### Alexander Gleason, ***[Gleason's new standard map of the world : on the projection of J. S. Christopher, Modern College, Blackheath, England ; scientifically and practically correct ; as "it is."](https://collections.leventhalmap.org/search/commonwealth:7h149v85z)*** (1892)
 
