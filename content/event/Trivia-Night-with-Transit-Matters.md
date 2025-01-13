@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Trivia Night with Transit Matters
 date: 2025-02-25T23:00:00.000Z
 publishDate: 2024-12-11T05:00:00.000Z
