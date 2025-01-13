@@ -3,8 +3,7 @@ draft: false
 title: Trivia Night with Transit Matters
 date: 2025-02-25T23:00:00.000Z
 publishDate: 2024-12-11T05:00:00.000Z
-image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w6636m402/2431,694,4557,4720/1200,/0/default.jpg
+image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Untitled (28).png'
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w6636m402/2431,694,4557,4720/1200,/0/default.jpg
 location: 'Newsfeed Café, Central Library in Copley Square'
