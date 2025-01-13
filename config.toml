@@ -108,7 +108,7 @@ link = "plugins/bootstrap-5.1.3/js/bootstrap.bundle.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
-link = "https://unpkg.com/@fortawesome/fontawesome-free@5.14.0/js/all.js"
+link = "https://unpkg.com/@fortawesome/fontawesome-free@6.7.2/js/all.js"
 [[params.plugins.js]]
 link = "plugins/jump/jump.js"
 [params.subscription]
@@ -131,12 +131,16 @@ link = "https://www.youtube.com/c/LeventhalMapEducationCenter"
 title = "youtube"
 [[params.social]]
 icon = "fab fa-flickr"
-link = "https://secure.flickr.com/photos/normanbleventhalmapcenter/"
+link = "https://www.flickr.com/photos/normanbleventhalmapcenter/"
 title = "github"
 [[params.social]]
 icon = "fab fa-github"
 link = "https://github.com/bplmaps"
 title = "github"
+[[params.social]]
+icon = "fab fa-bluesky"
+link = "https://bsky.app/profile/bplmaps.bsky.social"
+title = "bluesky"
 [social]
 facebook = "bplmaps"
 twitter = "bplmaps"
