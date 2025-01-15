@@ -16,7 +16,7 @@ tags:
 
 It's t***he season of love and that means sharing the maps the Leventhal Center loves with the public 💕🗺️***
 
-There's an abundance of unique features of maps to appreciate, from the history behind their creation and unique visual perspectives of familiar spaces to the depth of information being communicated and so much more. While the staff at the Leventhal Center have a special place in our hearts for all of our maps equally, there are some that each of us love the *tiniest* bit more than the others. 
+Maps have so much to offer-from the rich history behind their creation and visual perspectives of familiar places to the depth of information they communicate and so much more. While the staff at the Leventhal Center have a special place in our hearts for all of our maps equally, there are some that each of us love the *tiniest* bit more than the others. 
 
 In this *From The Vault* collections showing, take look at the personal favorites of the staff at the Leventhal Center and learn about the multitude of reasons these maps have captured our attention. 
 
