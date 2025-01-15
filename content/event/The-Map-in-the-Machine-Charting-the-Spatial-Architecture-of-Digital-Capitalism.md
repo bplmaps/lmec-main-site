@@ -19,6 +19,8 @@ tags:
   - Book talk
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pATfZ6KcJUI?si=9RVDrvCvTG-H8xW1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Digital technologies have changed how we shop, work, play, and communicate, reshaping our societies and economies. To understand digital capitalism, we need to grasp how advances in geospatial technologies underpin the construction, operation, and refinement of markets for digital goods and services.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/o4XqJPH-.jpeg" class="figure-right" caption="Dr. Luis F. Alvarez León" >}}
