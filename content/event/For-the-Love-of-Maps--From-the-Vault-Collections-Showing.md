@@ -14,9 +14,11 @@ tags:
   - from the vault
 ---
 
-***It's the season of love and that means sharing the maps we love with the public 💕🗺️***
+It's t***he season of love and that means sharing the maps the Leventhal Center loves with the public 💕🗺️***
 
-Prepare to see some of the newest acquisitions to our collection of over 250,000 maps, atlases, globes, and other cartographic objects. Some chosen for their visual impact, others for their depictions of space and place, and even more for their interpretation of history and relevant information, these maps are sure to educate and impress.
+There's an abundance of unique features of maps to appreciate, from the history behind their creation and unique visual perspectives of familiar spaces to the depth of information being communicated and so much more. While the staff at the Leventhal Center have a special place in our hearts for all of our maps equally, there are some that each of us love the *tiniest* bit more than the others. 
+
+In this *From The Vault* collections showing, take look at the personal favorites of the staff at the Leventhal Center and learn about the multitude of reasons these maps have captured our attention. 
 
 This free showing will be hosted Friday, February 7 in the Learning Center with a staff member from the Leventhal Center available to answer questions.
 
