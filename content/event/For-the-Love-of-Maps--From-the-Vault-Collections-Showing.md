@@ -18,7 +18,7 @@ It's t***he season of love and that means sharing the maps the Leventhal Center 
 
 Maps have so much to offer—from the rich history behind their creation and visual perspectives of familiar places to the depth of information they communicate and so much more. While the staff at the Leventhal Center have a special place in our hearts for all of our maps, there are just a few that each of us love the *tiniest* bit more than the others. 
 
-In this *From The Vault* collections showing, take look at the personal favorites of the staff at the Leventhal Center and learn about the multitude of reasons these maps have captured our attention amongst our map collection of over 250,000. 
+In this *From The Vault* collections showing, take look at the personal favorites of the staff at the Leventhal Center and learn about the multitude of reasons these maps have captured our attention amongst our collection of over 250,000 maps. 
 
 This free showing will be hosted Friday, February 7 in the Learning Center with a staff member from the Leventhal Center available to answer questions.
 
