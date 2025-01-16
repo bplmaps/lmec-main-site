@@ -6,6 +6,11 @@ description: >-
   Center
 ---
 
+**2024**
+  * 2024 NEH Summer Institute "Community and Resilience in Maritime New England" with the Osher Map Library and Smith Center for Cartographic Education
+  * Taking It to the Streets: Using Atlascope and Urban Atlases in the Classroom
+  * The Basics of Teaching with Maps (in partnership with George Washington’s Mount Vernon)
+ 
 **2023**
 
 * Small Bites 2022-2023: An after-school series of gatherings for educators introducing our core programs

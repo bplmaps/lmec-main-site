@@ -2,8 +2,14 @@
 backgroundImage: ''
 description: Boston Public Schools juniors and seniors are invited to apply for a guest curatorial program
 title: >-
-  Call for Applicants: 2025 Teen Curators
+  Teen Curators
 ---
+
+{{< alert-box type="danger" title="Applications Closed" >}}
+
+Applications for the 2025 Teen Curators program have closed. Please [subscribe to our newsletter](https://leventhalmap.org/subscribe) for news of future Teen Curator opportunities.
+
+{{</ alert-box >}}
 
 The Norman B. Leventhal Map & Education Center at the Boston Public Library (LMEC) is looking for BPS high school juniors and seniors to serve as teen curators for our upcoming exhibition _Terrains of Independence._ This exhibition will explore how places in the Boston region shaped the events of the American Revolutionary War period. 
 
@@ -39,7 +45,7 @@ Three to five teen curators will be selected.
 
 Applicants must be current Boston Public School juniors and seniors. 
 
-<a href="https://tally.so/r/3j7e94" class="btn btn-lg btn-primary-outline">Apply online</a>
+<!-- <a href="https://tally.so/r/3j7e94" class="btn btn-lg btn-primary-outline">Apply online</a> -->
 
 ## Stipend
 
