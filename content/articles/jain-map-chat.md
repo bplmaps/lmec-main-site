@@ -5,7 +5,6 @@ author: Katherine Anne Paul
 date: 2025-01-16T04:00:00.000+00:00
 image: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:bn99hd71v/1107,603,7838,3345/,1200/0/default.jpg"
 backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:bn99hd71v/1107,603,7838,3345/,1200/0/default.jpg"
-draft: true
 tags:
 - map chat
 - MacLean Collection
