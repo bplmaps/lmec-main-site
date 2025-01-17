@@ -69,7 +69,7 @@ Boston Public School teachers are especially encouraged to submit an application
         - **Growing Pains:** *Histories of growth, expansion, and conflict (19th century)*
         - **Turning the Twentieth Century:** *Innovations, modernization, and progressive reforms (late 19th century - early 20th century)*
         - **The “New” Boston**: *Postwar histories from “the American Century” to the present (late 20th century - early 21st century)*
-- Application Statement:
+- **Application Statement:**
     - In a few sentences, describe your choice of topic for the final project and how it connects to the students in your classroom.
 
 Note: If applying as a team, please submit as a team.
