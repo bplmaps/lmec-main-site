@@ -17,6 +17,8 @@ tags:
 
 {{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by the Harvard Kennedy School.{{\< /alert-box >}}
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Ian Headshot.png" class="figure-right" >}}
+
 **[Ian Spangler](https://itspangler.com/)** is a cultural & economic geographer with interests in digital mapping, housing studies, and race & landscape in the US. He currently serves as the *Assistant Curator of Digital & Participatory Geography* at the Leventhal Map & Education Center at the Boston Public Library. He holds a PhD in Geography from the University of Kentucky.
 
 At this session of *Data + Donuts*, Ian will present his [dissertation research](https://itspangler.com/research/platform-real-estate/) exploring how spatial data standardization practices shape the design and use of real estate technologies. Focusing on housing in the U.S. real estate industry, Ian asks: how do standards, standardizing practices, and the institutions that enforce those practices affect housing?
