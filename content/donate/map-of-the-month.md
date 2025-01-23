@@ -45,3 +45,5 @@ Donations go directly to our historical geography work with students, educators,
 * **September 2024:** [Urban atlas, tract data for standard metropolitan statistical areas: Boston, Massachusetts](https://collections.leventhalmap.org/search/commonwealth:ns069g065)
 * **October 2024:** [Desire line maps](https://www.leventhalmap.org/digital-exhibitions/processing-place/catalogue/09-calculating-routes/9.1/)
 * **November 2024:** [Nantucket County: Aerial Photograph (4-710), September 20, 1984](https://www.leventhalmap.org/digital-exhibitions/processing-place/catalogue/03-visualizing-resources/3.6/)
+* **December 2024:** [Flight of "The Gulliver"](https://collections.leventhalmap.org/search/commonwealth:q524n613d)
+* **January 2025:** [The colour of an old city: A map of Boston, decorative and historical](https://collections.leventhalmap.org/search/commonwealth:rj432v46t)
