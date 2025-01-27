@@ -59,17 +59,3 @@ James reminds us throughout that maps can never depict the world as it is. Throu
 James constantly raises the questions: What does it mean to be safe? Where can an enslaved person ever be safe? Is the familiar safe? Is a place you can blend in safer than a place where you stand out?
 
 [This map](https://collections.leventhalmap.org/search/commonwealth:9s161j37z) uses shade to represent concentrations of people enslaved in 1863. James asks us to consider if this variance even matters if you are one of the people represented in grayscale.
-
-#### Walker Lith., ***[Canobie Lake Park, Salem N.H.](https://collections.leventhalmap.org/search/commonwealth:x633j682j)*** (1912)
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5d86s675x/full/1450,/0/default.jpg" class="" >}}
-
-Canobie Lake Park is a staple of New England summers. Now known for their roller coasters and Taylor Swift impersonator, the park was originally a “trolley park” located at the end of the Massachusetts Northeast Street Railway Company and was designed to encourage trolley use on the weekends. To that end, [this map](https://collections.leventhalmap.org/search/commonwealth:x633j682j) was initially designed as a foldable brochure. At the time of this map’s creation in 1912, Canobie Lake Park consisted of flower gardens, walking paths, and “gentle attractions” like a swimming pool.
-
-#### ***[Panoramic view of Boston centered on the Prudential Tower](https://collections.leventhalmap.org/search/commonwealth:h128th21w)*** (1968)
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rj4356675/full/1200,/0/default.jpg" >}}
-
-[This map](https://collections.leventhalmap.org/search/commonwealth:h128th21w) from 1968 shows a bird’s eye view of what the Prudential Tower and its surroundings looked like when it was first completed—spot the separate buildings that make up the tower in the middle (the compass rose marks the top of the tower).
-
-When first built in the early 1960s, the shopping centre we know now was a part of a huge redevelopment wave in Boston (think Boston City Hall, Government Center, etc). It was originally a series of separated buildings with the main “Prudential Tower” as the centerpiece. Over the years, the buildings were connected, bridged, and developed into “the Pru” we know today that welcomes more than 60,000 visitors a day.
