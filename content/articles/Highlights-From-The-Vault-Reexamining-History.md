@@ -24,13 +24,19 @@ This selection of maps and the captions associated were curated in response to [
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm27n/full/1400,/0/default.jpg" class="" >}}
 
-[This promotional map](https://collections.leventhalmap.org/search/commonwealth:0r96fm26c) was made for the release of The Adventures of Mark Twain in 1944. The map functions more as a sentimental timeline of Twain’s life. Compare the Mississippi on this map with the new map of western rivers from 1851 also on view today. The Mississippi appears, like Twain’s life, as a straight and easy to navigate line. 
+[This promotional map](https://collections.leventhalmap.org/search/commonwealth:0r96fm26c) was made for the release of The Adventures of Mark Twain in 1944. The map functions more as a sentimental timeline of Twain’s life. Compare the Mississippi on this map with the new map of western rivers from 1851 also on view today. The Mississippi appears, like Twain’s life, as a straight and easy to navigate line.
 
-#### Frederic Milton Thrasher, ***[Chicago's gangland](https://collections.leventhalmap.org/search/commonwealth:db791j422)*** (1927)
+#### G. W. Elliott, [Map of the United States, showing by colors the area of freedom and slavery, and the territories whose destiny is yet to be decided: exhibiting also the Missouri compromise line, and the routes of Colonel Fremont in his famous explorations: with important statistics of the free and slave states ](https://collections.leventhalmap.org/search/commonwealth:xg94j1990)(1856?)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:dv145x76k/full/,1450/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:xg94j200j/full/,1400/0/default.jpg" class="" >}}
 
-Showing gangs with clubrooms, those without, and indicating private and public property, [this map](https://collections.leventhalmap.org/search/commonwealth:db791j422) was meant to be an all-encompassing view of the gangs present in Chicago. Completed as a part of a larger study, the map also lists the names of certain regions and previous illegal activity or attacks that occurred around the area. Something to note is that this map also outlines areas with prevalent ethnic groups, including “Americans” as a broad term for multi-generational White Americans.
+> “We don’t even know where we are,” Norman said. “Bound to be a slave state on the other side of the river.” \
+> ”Probably,” I said. “We’re slaves, Norman. Where we are is where we are.” \
+> ”What’s that mean?” \
+> ”I don’t know. Sounded better in my head.” \
+> ”I know what it means,” Sammy said. “We’re slaves. We’re not anywhere. Free person, he can be where he wants to be. The only place we can ever be is in slavery.”
+
+Published as a campaign poster supporting the Republican Party's first presidential bid in 1856, [this broadside](https://collections.leventhalmap.org/search/commonwealth:xg94j1990) provides a commentary on the geographical sectionalism that was polarizing the nation. Using 1850 census data, it tabulated the demographic and economic differences between free and slave states, highlighting political concerns that the balance of Congressional power would shift as newly acquired western territories were admitted as states into the Union. The map clearly marked the 1820 Missouri Compromise line, which had defined the boundary between free and slave states. However, the passage of the 1854 Kansas-Nebraska Act nullified this long-standing compromise line, and potentially opened the entire western territory to slavery because it sanctioned “popular sovereignty“ whereby citizens of each territory could vote on the slavery issue.
 
 #### Boris Artzybasheff, ***[World map of the major tropical diseases](https://collections.leventhalmap.org/search/commonwealth:6q185975n)*** (1944)
 
