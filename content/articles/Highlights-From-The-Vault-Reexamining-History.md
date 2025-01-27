@@ -52,13 +52,13 @@ Throughout their travels towards the Ohio River, James and Huckleberry Finn are 
 
 James reminds us throughout that maps can never depict the world as it is. Throughout James, the river provides literal twists and turns and changes that provide opportunity and threat the same as any stranger James meets along his way. Even with [a detailed map](https://collections.leventhalmap.org/search/commonwealth:7h14b0379), James would never be safe with the world as it actually was.
 
-#### General Drafting Company, ***[America's products and the trucks that carry them](https://bpl.bibliocommons.com/v2/record/S75C8919287)*** (1958)
+#### [Map of the Southern States, showing the relative proportion of slaves in the different localities](https://collections.leventhalmap.org/search/commonwealth:9s161j37z) (1863)
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screenshot 2025-01-10 105012.png" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161j387/full/1400,/0/default.jpg" >}}
 
-This is [a 1958 General Drafting Company pictorial map](https://bpl.bibliocommons.com/v2/record/S75C8919287) of the United States, its industry, and the transportation network used to move its products. The map follows the 1956 Federal-Aid Highway Act, celebrating the success of the American Highway system and the hard work of truckers in moving goods along a growing network of interstate trade. 
+James constantly raises the questions: What does it mean to be safe? Where can an enslaved person ever be safe? Is the familiar safe? Is a place you can blend in safer than a place where you stand out?
 
-Pictorial vignettes highlight American production, from agricultural goods to aircraft parts and automobiles. Corn, potatoes, walnuts, citrus fruit, and flour appear among the nation's agricultural products. Coal, lead, uranium ore, copper, aluminum, and phosphates are named among the nation's mineral resources. Farm machinery, shoes, synthetic rubber, textiles, and paper represent a handful of manufactured products. America's highway network, illustrated below the green vignettes in shades of gray, serves as a network of commerce. The trucks that create the map's border carry it all, with many still in use today. Many of these were designed with specific purposes in mind: logging, beverage panel trucks, telephone line trucks, bulk milk trucks, ice cream trucks, and vehicle carriers, etc.
+[This map](https://collections.leventhalmap.org/search/commonwealth:9s161j37z) uses shade to represent concentrations of people enslaved in 1863. James asks us to consider if this variance even matters if you are one of the people represented in grayscale.
 
 #### Walker Lith., ***[Canobie Lake Park, Salem N.H.](https://collections.leventhalmap.org/search/commonwealth:x633j682j)*** (1912)
 
