@@ -18,13 +18,13 @@ tags:
 
 > *On January 24, we hosted **From The Vault: Reexamining History.***
 
-This selection of maps and the captions associated were curated in response to [Percival Everett's James](https://www.npr.org/2024/03/19/1239377175/james-reimagines-twains-huckleberry-finn-with-mordant-humor-and-horror), a reimagining of Mark Twain's Adventures of Huckleberry Finn told from the enslaved Jim's point of view. The selections of this From the Vault encourage visitors to consider the very real events that took place during the novel's setting. How can maps help us reimagine and delve deeper into the literature we read? Explore this theme with us in this week's From the Vault: Reexamining History. 
+This selection of maps and the captions associated were curated in response to [Percival Everett's James](https://www.npr.org/2024/03/19/1239377175/james-reimagines-twains-huckleberry-finn-with-mordant-humor-and-horror), a reimagining of Mark Twain's Adventures of Huckleberry Finn told from the enslaved Jim's point of view. The selections of this From the Vault encourage visitors to consider the very real events that took place during the novel's setting. How can maps help us reimagine and delve deeper into the literature we read? Explore this theme with us in this week's From the Vault: Reexamining History.
 
-#### Paul Koroleff, ***[Carte touristique du Liban kharitat Lubnan almusawarat lilsiyaha](https://collections.leventhalmap.org/search/commonwealth:pr76n698n)*** (1955)
+#### Warner Bros. Pictures (1923-1967), [The adventures of Mark Twain ](https://collections.leventhalmap.org/search/commonwealth:0r96fm26c)(1944)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g445kk81h/full/,1450/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm27n/full/1400,/0/default.jpg" class="" >}}
 
-[A 1955 tourist map](https://collections.leventhalmap.org/search/commonwealth:pr76n698n) of Lebanon, this map acted as a type of advertisement to visit and see the sights. On the bottom right hand side of the map, a number of cities and towns are listed alongside different attractions like resorts, cafes, and historical sites. Most of the text is in Arabic with some English translations, signifying the multicultural audience this brochure is intended for. In addition to the dual language use, the pictorial nature of the map also appeals to those who aren’t able to speak Arabic, ensuring that the map can still be understood with limited language use.
+[This promotional map](https://collections.leventhalmap.org/search/commonwealth:0r96fm26c) was made for the release of The Adventures of Mark Twain in 1944. The map functions more as a sentimental timeline of Twain’s life. Compare the Mississippi on this map with the new map of western rivers from 1851 also on view today. The Mississippi appears, like Twain’s life, as a straight and easy to navigate line. 
 
 #### Frederic Milton Thrasher, ***[Chicago's gangland](https://collections.leventhalmap.org/search/commonwealth:db791j422)*** (1927)
 
