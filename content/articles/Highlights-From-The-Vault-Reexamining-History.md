@@ -18,7 +18,7 @@ tags:
 
 > *On January 24, we hosted **From The Vault: Reexamining History.***
 
-This selection of maps and the captions associated were curated in response to [Percival Everett's James](https://www.npr.org/2024/03/19/1239377175/james-reimagines-twains-huckleberry-finn-with-mordant-humor-and-horror), a reimagining of Mark Twain's Adventures of Huckleberry Finn told from the enslaved Jim's point of view. The selections of this From the Vault encourage visitors to consider the very real events that took place during the novel's setting. How can maps help us reimagine and delve deeper into the literature we read? Explore this theme with us in this week's From the Vault: Reexamining History.
+This selection of maps and the captions associated were curated in response to [Percival Everett's *James*](https://www.npr.org/2024/03/19/1239377175/james-reimagines-twains-huckleberry-finn-with-mordant-humor-and-horror), a reimagining of Mark Twain's Adventures of Huckleberry Finn told from the enslaved Jim's point of view. The selections of this From the Vault encourage visitors to consider the very real events that took place during the novel's setting. How can maps help us reimagine and delve deeper into the literature we read? Explore this theme with us in this week's From the Vault: Reexamining History.
 
 #### Warner Bros. Pictures (1923-1967), [The adventures of Mark Twain ](https://collections.leventhalmap.org/search/commonwealth:0r96fm26c)(1944)
 
