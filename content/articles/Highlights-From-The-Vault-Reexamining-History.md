@@ -50,7 +50,7 @@ Throughout their travels towards the Ohio River, James and Huckleberry Finn are 
 
 > “The problem with being lost on the river was that things appeared different facing south from the way they did looking north. It was as if there were two different bodies of water. The Mississippi, in fact, seemed like many different rivers. The level was always rising or falling. Sediment got pushed around, changing the locations of bars and shelves. Islands changed shape, sometimes becoming completely submerged, and old outcroppings disappeared while new ones materialized overnight. The upshot was that we had no idea where we were.”
 
-James reminds us throughout that maps can never depict the world as it is. Throughout James, the river provides literal twists and turns and changes that provide opportunity and threat the same as any stranger James meets along his way. Even with [a detailed map](https://collections.leventhalmap.org/search/commonwealth:7h14b0379), James would never be safe with the world as it actually was.
+*James* reminds us throughout that maps can never depict the world as it is. Throughout *James*, the river provides literal twists and turns and changes that provide opportunity and threat the same as any stranger James meets along his way. Even with [a detailed map](https://collections.leventhalmap.org/search/commonwealth:7h14b0379), James would never be safe with the world as it actually was.
 
 #### [Map of the Southern States, showing the relative proportion of slaves in the different localities](https://collections.leventhalmap.org/search/commonwealth:9s161j37z) (1863)
 
