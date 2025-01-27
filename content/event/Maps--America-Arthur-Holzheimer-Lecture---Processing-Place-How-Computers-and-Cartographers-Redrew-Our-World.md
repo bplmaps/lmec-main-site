@@ -25,4 +25,4 @@ tags:
 
 **Registration is required for this in-person and virtual event**. Please check back for the link.
 
-This will be the 35th annual presentation in the\* Maps & America\*: Arthur Holzheimer Lecture series, organized by the American Geographical Society Library and supported by an endowment created by Arthur and Janet Holzheimer. The lecture series was inaugurated by the noted cartographic historian Brian Harley in 1990. Over the years, the series has featured many of the leading figures in the field of map history and provided a multifaceted survey of this rapidly developing field.
+This will be the 35th annual presentation in the *Maps & America*: Arthur Holzheimer Lecture series, organized by the American Geographical Society Library and supported by an endowment created by Arthur and Janet Holzheimer. The lecture series was inaugurated by the noted cartographic historian Brian Harley in 1990. Over the years, the series has featured many of the leading figures in the field of map history and provided a multifaceted survey of this rapidly developing field.
