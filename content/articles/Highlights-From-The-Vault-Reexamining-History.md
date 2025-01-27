@@ -46,7 +46,7 @@ Throughout their travels towards the Ohio River, James and Huckleberry Finn are 
 
 #### Samuel B. Munson, ***[A new map of the western rivers, or, Travellers guide : exhibiting the Mississippi, Missouri, Ohio, and Illinois rivers with all the principal towns, islands & distances](https://collections.leventhalmap.org/search/commonwealth:7h14b0379)*** (1851)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14b038k/full/,1200/0/default.jpg" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14b038k/full/,1200/0/default.jpg" class="" >}}
 
 > “The problem with being lost on the river was that things appeared different facing south from the way they did looking north. It was as if there were two different bodies of water. The Mississippi, in fact, seemed like many different rivers. The level was always rising or falling. Sediment got pushed around, changing the locations of bars and shelves. Islands changed shape, sometimes becoming completely submerged, and old outcroppings disappeared while new ones materialized overnight. The upshot was that we had no idea where we were.”
 
