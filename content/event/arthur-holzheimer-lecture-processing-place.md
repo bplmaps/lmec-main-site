@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: >-
   “Maps & America”: Arthur Holzheimer Lecture - Processing Place: How Computers
   and Cartographers Redrew Our World.
@@ -19,7 +19,7 @@ tags:
   - staff
 ---
 
-{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by the American Geographical Society Library.{{< /alert-box >}}
+{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by the American Geographical Society Library.{{\< /alert-box >}}
 
 **Emily Bowe**, Assistant Director of the Leventhal Map and Education Center at the Boston Public Library, and **Ian Spangler**, Assistant Curator of Digital & Participatory Geography at the Leventhal Map & Education Center, present the 2025 “*Maps & America”*: Arthur Holzheimer Lecture on Thursday, April 24, 2025 at 6 p.m. The title of their talk is “*Processing Place: How Computers and Cartographers Redrew Our World."*
 
