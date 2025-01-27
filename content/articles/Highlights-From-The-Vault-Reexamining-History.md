@@ -44,13 +44,13 @@ Published as a campaign poster supporting the Republican Party's first president
 
 Throughout their travels towards the Ohio River, James and Huckleberry Finn are subject to the twists and turns of the Mississippi. Towards the end of the novel, word of war breaking out reaches them and Huck wonders what side he would be on. Everett complicates “sides” throughout the novel. What side of the river or the street is safe? What side of a war is “better”?
 
-#### Nancy Morita, ***[The ecology and natural history of San Francisco wild in the city](https://bpl.bibliocommons.com/v2/record/S75C9000010)*** (1992)
+#### Samuel B. Munson, [A new map of the western rivers, or, Travellers guide : exhibiting the Mississippi, Missouri, Ohio, and Illinois rivers with all the principal towns, islands & distances](https://collections.leventhalmap.org/search/commonwealth:7h14b0379) (1851)
 
-{{< figure src="https://planetdrum.org/wp-content/uploads/2020/12/1_wild_in_city.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14b038k/full/,1200/0/default.jpg" class="figure-right" >}}
 
-[This poster-style map](https://bpl.bibliocommons.com/v2/record/S75C9000010) compares a view of the natural geography of San Francisco before colonization (1750) with a then present-day (1990s) street map to show what features could be restored to their natural state. The natural side of the map shows the location of the sand dunes, grasslands, wildflower-butterfly hilltops, Ohlone village sites, creek paths, salt marshes, and berry-brushlands that “underlie” the city of San Francisco. 
+> “The problem with being lost on the river was that things appeared different facing south from the way they did looking north. It was as if there were two different bodies of water. The Mississippi, in fact, seemed like many different rivers. The level was always rising or falling. Sediment got pushed around, changing the locations of bars and shelves. Islands changed shape, sometimes becoming completely submerged, and old outcroppings disappeared while new ones materialized overnight. The upshot was that we had no idea where we were.”
 
-This map was created, in part, to reintroduce the natural landscape to San Franciscans and help them understand how it continued to influence their lives in the urbanized city 200+ years later. One example is to help explain why some people’s basements flood or buildings sink. This map was also attempting to help city dwellers connect more with urban wildlife and strengthen their connection with local wild areas’ restoration efforts.
+James reminds us throughout that maps can never depict the world as it is. Throughout James, the river provides literal twists and turns and changes that provide opportunity and threat the same as any stranger James meets along his way. Even with [a detailed map](https://collections.leventhalmap.org/search/commonwealth:7h14b0379), James would never be safe with the world as it actually was.
 
 #### General Drafting Company, ***[America's products and the trucks that carry them](https://bpl.bibliocommons.com/v2/record/S75C8919287)*** (1958)
 
