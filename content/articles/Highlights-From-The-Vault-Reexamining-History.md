@@ -38,13 +38,11 @@ This selection of maps and the captions associated were curated in response to [
 
 Published as a campaign poster supporting the Republican Party's first presidential bid in 1856, [this broadside](https://collections.leventhalmap.org/search/commonwealth:xg94j1990) provides a commentary on the geographical sectionalism that was polarizing the nation. Using 1850 census data, it tabulated the demographic and economic differences between free and slave states, highlighting political concerns that the balance of Congressional power would shift as newly acquired western territories were admitted as states into the Union. The map clearly marked the 1820 Missouri Compromise line, which had defined the boundary between free and slave states. However, the passage of the 1854 Kansas-Nebraska Act nullified this long-standing compromise line, and potentially opened the entire western territory to slavery because it sanctioned “popular sovereignty“ whereby citizens of each territory could vote on the slavery issue.
 
-#### Boris Artzybasheff, ***[World map of the major tropical diseases](https://collections.leventhalmap.org/search/commonwealth:6q185975n)*** (1944)
+#### Edward S. Hall, [War maps and diagrams](https://collections.leventhalmap.org/search/commonwealth:3f463305r) (1861)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1z40ph33g/full/1450,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4633061/full/1400,/0/default.jpg" class="" >}}
 
-This map shows the locations of diseases around the world using text, illustrations and color to grab the viewer’s attention. Included at the foot of the map is a description of each disease, how it’s typically contracted, and how it’s most often treated. 15 diseases are represented here, including malaria, yellow fever, dengue, typhus, plague, cholera, sleeping sickness, tularemia, Rocky Mountain fever, Japanese river fever, relapsing fever, helminthic diseases, yaws, leprosy, and leishmaniasis. 
-
-Created for LIFE Magazine in 1944, [this map](https://collections.leventhalmap.org/search/commonwealth:6q185975n) would have been highly accessible to the public. This is especially important given the time frame of Americans entering the army and beginning to fight abroad in World War 2.
+Throughout their travels towards the Ohio River, James and Huckleberry Finn are subject to the twists and turns of the Mississippi. Towards the end of the novel, word of war breaking out reaches them and Huck wonders what side he would be on. Everett complicates “sides” throughout the novel. What side of the river or the street is safe? What side of a war is “better”?
 
 #### Nancy Morita, ***[The ecology and natural history of San Francisco wild in the city](https://bpl.bibliocommons.com/v2/record/S75C9000010)*** (1992)
 
