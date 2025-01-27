@@ -24,7 +24,7 @@ This selection of maps and the captions associated were curated in response to [
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm27n/full/1400,/0/default.jpg" class="" >}}
 
-[This promotional map](https://collections.leventhalmap.org/search/commonwealth:0r96fm26c) was made for the release of The Adventures of Mark Twain in 1944. The map functions more as a sentimental timeline of Twain’s life. Compare the Mississippi on this map with the new map of western rivers from 1851 also on view today. The Mississippi appears, like Twain’s life, as a straight and easy to navigate line.
+[This promotional map](https://collections.leventhalmap.org/search/commonwealth:0r96fm26c) was made for the release of *The Adventures of Mark Twain* in 1944. The map functions more as a sentimental timeline of Twain’s life. Compare the Mississippi on this map with the new map of western rivers from 1851 also on view today. The Mississippi appears, like Twain’s life, as a straight and easy to navigate line.
 
 #### G. W. Elliott, ***[Map of the United States, showing by colors the area of freedom and slavery, and the territories whose destiny is yet to be decided: exhibiting also the Missouri compromise line, and the routes of Colonel Fremont in his famous explorations: with important statistics of the free and slave states](https://collections.leventhalmap.org/search/commonwealth:xg94j1990)*** (1856?)
 
