@@ -16,11 +16,11 @@ tags:
   - from the vault
 ---
 
-Sometimes, what's not included can be just as informative as what's being represented.
+Sometimes, *what's not included* can be just as informative as what's being represented.
 
-Maps and atlases hold the power of expressing (or not expressing) certain perspectives, or narratives, about a location that can become widely shared and considered absolute truth. In the case of the continent of Africa, and the consequences of the colonialism and imperialism it was subject to, these narratives have the potential to be unreliable, incomplete, or outright racist. 
+Maps and atlases hold the power of expressing (or not expressing) certain perspectives, or narratives, about a location that can become widely shared and considered absolute truth. In the case of the continent of Africa, and the consequences of the colonialism and imperialism it was subject to, these narratives have the potential to be unreliable, incomplete, or outright racist.
 
-While looking through the maps and captions of Holding the Narrative, consider what narratives you know about the continent and invite yourself to question what's being shown in each map—from its physical features down to the historical context behind their creation.
+While looking through the maps and captions of Holding the Narrative: *Understanding the Social and Real World Implications of Maps*, consider what narratives you know about the continent and invite yourself to question what's being shown in each map—from its physical features down to the historical context behind their creation.
 
 This free showing will be hosted Friday, February 21 in the Learning Center with a staff member from the Leventhal Center available to answer questions.
 
