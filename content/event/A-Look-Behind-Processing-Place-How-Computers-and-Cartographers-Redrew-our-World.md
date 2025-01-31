@@ -21,6 +21,8 @@ tags:
 
 {{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by the Washington Map Society.{{< /alert-box >}}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jXHPar8nGgs?si=5MUlOvMft8U7zcC_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
 This talk by co-curators **Ian Spangler**, *Assistant Curator of Digital and Participatory Geography*, and **Emily Bowe**, *Assistant Director*, provides a curator’s overview of the latest exhibition from the Leventhal Map & Education Center, *[Processing Place: How Computers and Cartographers Redrew Our World](https://www.leventhalmap.org/digital-exhibitions/processing-place/)*.
 
 This exhibition explores the rise of computer cartography and early geographic information systems by way of physical maps created with digital software. *Processing Place* encourages readers and visitors to consider “processing” in a historical sense: that is, not only in terms of digital computation, but as one part of a vibrant and ever-changing cartographic process. Through objects dated largely between 1960 and 1990, *Processing Place* highlights how computer-assisted mapmaking techniques helped combine maps with spatial data, perform calculations, and use them to tell geographic stories.
