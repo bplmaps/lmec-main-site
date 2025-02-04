@@ -16,7 +16,9 @@ tags:
   - from the vault
 ---
 
-Though over 70% of the planet's surface is covered in water, few stop to think about how we map this huge segment of the Earth (and how important it is we do so). From detailing the best maritime trade routes to documenting exploratory journeys across the sea, maps of our largest bodies of water can push the boundaries of our understanding of "conventional" map making.
+**Though over 70% of the planet's surface is covered in water...**
+
+...few stop to think about how we map this huge segment of the Earth (and how important it is we do so). From detailing the best maritime trade routes to documenting exploratory journeys across the sea, maps of our largest bodies of water can push the boundaries of our understanding of "conventional" map making.
 
 In this *From The Vault*, take a look at some of our maps featuring as little land as possible and see all that's left to uncover.
 
