@@ -17,7 +17,7 @@ tags:
   - atlascope
 ---
 
-Three times a year, as part of our [Geohumanities & GIS internship program](https://www.leventhalmap.org/about/jobs/2024-fall-internships/), we welcome a group of undergraduate students to the Leventhal Center. These students georeference new layers for Atlascope, expand our current range of cities and towns available to the public, and develop creative ways to interpret historical geography and geohumanities for a broader audience.
+> Three times a year, as part of our [Geohumanities & GIS internship program](https://www.leventhalmap.org/about/jobs/2024-fall-internships/), we welcome a group of undergraduate students to the Leventhal Center. These students georeference new layers for Atlascope, expand our current range of cities and towns available to the public, and develop creative ways to interpret historical geography and geohumanities for a broader audience.
 
 In the Fall of 2024, two of our interns created narrative historical tours using Atlascope. These tours wander through historic Boston, using maps to show how our modern city has grown around the city’s one-of-a-kind park system. For example, what’s the origin of Franklin Park, Boston’s largest source of public green space? Was Boston always committed to the creation of public parks or was this a demand of more modern times? **Idana Wilson** and **Ava Wilcox** answer these questions and more in their Atlascope tours, bringing us along for a journey through Boston’s past and present. We invite you to read more about their Atlascope tours below.
 
