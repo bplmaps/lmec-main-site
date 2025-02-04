@@ -14,7 +14,7 @@ tags:
   - from the vault
 ---
 
-Women have always been apart of charting the Earth throughout history.
+***Women have always been apart of charting the Earth throughout history.***
 
 Histories of map-making generally emphasize the role of men; however, since the advent of the printed map, women have worked as colorists, engravers, shop owners, publishers, and, most importantly, as map-makers themselves. 
 
