@@ -14,4 +14,8 @@ tags:
   - gis
 ---
 
-asd;fjakshdfkjhas!!!!!
+* what is the Weaver Fund?
+* some pictures and maps from collection
+* link to Weaver papers and Rich Grady papers
+* announcing the fundraising drive
+* key dates & upcoming events
