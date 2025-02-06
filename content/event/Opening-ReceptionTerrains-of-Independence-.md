@@ -7,8 +7,7 @@ image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Bunker Hill.
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Bunker Hill.png'
 location: 'Leventhal Map & Education Center, Central Library in Copley Square'
 fee: Free
-registration: >-
-  https://www.ticketleap.events/tickets/bplmaps/opening-reception-terrains-of-independence
+registration: ''
 tags:
   - Terrains of Independence
   - Staff
