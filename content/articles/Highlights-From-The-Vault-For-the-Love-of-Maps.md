@@ -43,23 +43,25 @@ This map from 1878 was made by the Boston Board of Health, at a time when the gr
 
 > “I love this map because it helps visitors imagine the experience of walking through Boston streets in the late nineteenth century. It was probably pretty smelly to be in the newly-built Back Bay neighborhood, with the prevailing winds bringing smells of "mud-sewage flats" to where you're standing!”
 
-#### Fuller & Whitney, c.e., [Plan of region west of Back Bay Park, Boston, Mass. : proposed improvements](https://collections.leventhalmap.org/search/commonwealth:t722mh264) (1886)
+#### Fuller & Whitney, c.e., ***[Plan of region west of Back Bay Park, Boston, Mass. : proposed improvements](https://collections.leventhalmap.org/search/commonwealth:t722mh264)*** (1886)
 
-Selected by Claire Tratnyek, Learning Resource Specialist
+*Selected by Claire Tratnyek, Learning Resource Specialist*
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65mk135/full/1200,/0/default.jpg" class="" >}}
 
 [This 1886 map](https://collections.leventhalmap.org/search/commonwealth:t722mh264) with overlays of what is now known as the Fenway neighborhood of Boston shows an array of possible configurations for a new neighborhood that would be created entirely anew at the tail-end of the decades-long project of filling in Boston’s Back Bay. Would the streets along Frederick Law Olmsted’s Muddy River Park (then still in progress) be gridded and regular, or would they be sinuous and curving, like the river itself? 
 
-“I love this map because it helps visitors imagine the experience of walking through Boston streets in the late nineteenth century. It was probably pretty smelly to be in the newly-built Back Bay neighborhood, with the prevailing winds bringing smells of "mud-sewage flats" to where you're standing!”
+> “I love this map because it helps visitors imagine the experience of walking through Boston streets in the late nineteenth century. It was probably pretty smelly to be in the newly-built Back Bay neighborhood, with the prevailing winds bringing smells of "mud-sewage flats" to where you're standing!”
 
-#### Nancy Morita, ***[The ecology and natural history of San Francisco wild in the city](https://bpl.bibliocommons.com/v2/record/S75C9000010)*** (1992)
+#### Lucy Durfee, [New England](https://collections.leventhalmap.org/search/commonwealth:2801vh693) (1834)
 
-{{< figure src="https://planetdrum.org/wp-content/uploads/2020/12/1_wild_in_city.jpg" class="" >}}
+Selected by Nicole Claris, Director of Education
 
-[This poster-style map](https://bpl.bibliocommons.com/v2/record/S75C9000010) compares a view of the natural geography of San Francisco before colonization (1750) with a then present-day (1990s) street map to show what features could be restored to their natural state. The natural side of the map shows the location of the sand dunes, grasslands, wildflower-butterfly hilltops, Ohlone village sites, creek paths, salt marshes, and berry-brushlands that “underlie” the city of San Francisco. 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633m419q/full/,1200/0/default.jpg" class="" >}}
 
-This map was created, in part, to reintroduce the natural landscape to San Franciscans and help them understand how it continued to influence their lives in the urbanized city 200+ years later. One example is to help explain why some people’s basements flood or buildings sink. This map was also attempting to help city dwellers connect more with urban wildlife and strengthen their connection with local wild areas’ restoration efforts.
+During the late 18th and early 19th century, it was common practice for American female students attending private academies to prepare maps of various parts of the world by copying maps from books or atlases. Most often, girls were taught by female instructors, who drew maps themselves to demonstrate geographic, artistic and design skills to their pupils. Potentially based on Jesse Olney's 1829 Map of the eastern states, it’s thought that the cartographer is possibly Lucy Durfee (Borden) of Rhode Island, 1821-1890, daughter of politician and jurist Job Durfee.
+
+“I was one of those kids that LOVED a school assignment. I don’t know how Lucy Durfee felt making [this map](https://collections.leventhalmap.org/search/commonwealth:2801vh693) in 1834. Looking at it today—I see the care she took in delineating the coastlines, the neat lettering she used to label everything, and the precise application of color. It makes me want a box of sharpened colored pencils.”
 
 #### General Drafting Company, ***[America's products and the trucks that carry them](https://bpl.bibliocommons.com/v2/record/S75C8919287)*** (1958)
 
