@@ -43,13 +43,15 @@ This map from 1878 was made by the Boston Board of Health, at a time when the gr
 
 > “I love this map because it helps visitors imagine the experience of walking through Boston streets in the late nineteenth century. It was probably pretty smelly to be in the newly-built Back Bay neighborhood, with the prevailing winds bringing smells of "mud-sewage flats" to where you're standing!”
 
-#### Boris Artzybasheff, ***[World map of the major tropical diseases](https://collections.leventhalmap.org/search/commonwealth:6q185975n)*** (1944)
+#### Fuller & Whitney, c.e., [Plan of region west of Back Bay Park, Boston, Mass. : proposed improvements](https://collections.leventhalmap.org/search/commonwealth:t722mh264) (1886)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1z40ph33g/full/1450,/0/default.jpg" class="" >}}
+Selected by Claire Tratnyek, Learning Resource Specialist
 
-This map shows the locations of diseases around the world using text, illustrations and color to grab the viewer’s attention. Included at the foot of the map is a description of each disease, how it’s typically contracted, and how it’s most often treated. 15 diseases are represented here, including malaria, yellow fever, dengue, typhus, plague, cholera, sleeping sickness, tularemia, Rocky Mountain fever, Japanese river fever, relapsing fever, helminthic diseases, yaws, leprosy, and leishmaniasis. 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65mk135/full/1200,/0/default.jpg" class="" >}}
 
-Created for LIFE Magazine in 1944, [this map](https://collections.leventhalmap.org/search/commonwealth:6q185975n) would have been highly accessible to the public. This is especially important given the time frame of Americans entering the army and beginning to fight abroad in World War 2.
+[This 1886 map](https://collections.leventhalmap.org/search/commonwealth:t722mh264) with overlays of what is now known as the Fenway neighborhood of Boston shows an array of possible configurations for a new neighborhood that would be created entirely anew at the tail-end of the decades-long project of filling in Boston’s Back Bay. Would the streets along Frederick Law Olmsted’s Muddy River Park (then still in progress) be gridded and regular, or would they be sinuous and curving, like the river itself? 
+
+“I love this map because it helps visitors imagine the experience of walking through Boston streets in the late nineteenth century. It was probably pretty smelly to be in the newly-built Back Bay neighborhood, with the prevailing winds bringing smells of "mud-sewage flats" to where you're standing!”
 
 #### Nancy Morita, ***[The ecology and natural history of San Francisco wild in the city](https://bpl.bibliocommons.com/v2/record/S75C9000010)*** (1992)
 
