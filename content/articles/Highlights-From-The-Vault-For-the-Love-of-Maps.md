@@ -102,3 +102,13 @@ Selected by Garrett Dash Nelson, President and Head Curator
 This series of panoramic views draws us into the personal connections between geographers and the places they love. John Kirtland Wright (1891–1969) was an important academic geographer and for many years served as the librarian of the American Geographical Society. He retired to New Hampshire and in 1966, he sketched [this panoramic view](https://collections.leventhalmap.org/search/commonwealth:00002h22g) of “The Pinnacle,” a small rocky rise also known as Acorn Hill. Though at first these sketches might seem like a straightforward reference guide to the regional landscape, the full set of sheets draw the reader into stories of natural and human history that together make up a fully “place-based” study that is a hallmark of geography’s interdisciplinary tendencies. 
 
 “I can't promise this is my absolute favorite map in the collections, but just one that might get overlooked and which tells an interesting story. It’s a document which bears not only the unmistakable imprint of Wright’s professional training as a geographer and cartographer, but also the personal or even spiritual connection the elderly Wright must have felt towards this place.”
+
+#### National Geographic Society (U.S.), [Earth at Night](https://bpl.bibliocommons.com/v2/record/S75C2785584) (2004)
+
+Selected by Lauren Chen, Reference and Cataloging Librarian
+
+{{< figure src="https://images.natgeomaps.com/PROD_LG_1000px/HM20041102_1_LG.jpg" class="" >}}
+
+This map was created by combining satellite imagery from cloud-free nights, taken by three satellites over a one-year period. In addition to the human infrastructure typically shown on these types of maps, [this map](https://bpl.bibliocommons.com/v2/record/S75C2785584) also shows fires (yellow), natural gas burn-off (red), and night fishing (blue).
+
+“I like this map because it has a lot of visual appeal and, unlike other maps depicting the world at night, this one clearly shows the lights of seafaring ships and vessels.” 
