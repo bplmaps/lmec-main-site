@@ -87,7 +87,7 @@ From the heights of College Hill, where Brown University and RISD stand tall, Pr
 
 *Selected by Ian Spangler, Assistant Curator for Digital and Participatory Geography*
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c299/full/,1200/0/default.jpg" class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c299/full/,1200/0/default.jpg" class="" >}}
 
 [This map](https://collections.leventhalmap.org/search/commonwealth:fn107c281) uses a clever technique to argue that New York City was already a mostly socialist community by the end of the 19th century. It uses just two colors: red, the printing color, and the negative white space of the paper color. The red area shows the parts of the city that were putatively “socialist” already—things like roads, parks, bridges, and wharves that were owned and managed by the public. Only the leftover space was devoted to private enterprises. If the government could already handle so much of the infrastructure that made city life possible, this map seems to argue, its role could be expanded into a full socialist control of the economy.
 
