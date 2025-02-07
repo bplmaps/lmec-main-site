@@ -63,21 +63,25 @@ During the late 18th and early 19th century, it was common practice for American
 
 > “I was one of those kids that LOVED a school assignment. I don’t know how Lucy Durfee felt making [this map](https://collections.leventhalmap.org/search/commonwealth:2801vh693) in 1834. Looking at it today—I see the care she took in delineating the coastlines, the neat lettering she used to label everything, and the precise application of color. It makes me want a box of sharpened colored pencils.”
 
-#### Augustus Kollner & Morris H. Traubel, [The Hymenial Expositor, or, Matrimonial Chart](https://collections.leventhalmap.org/search/commonwealth:q524n427b) (1849)
+#### Augustus Kollner & Morris H. Traubel, ***[The Hymenial Expositor, or, Matrimonial Chart](https://collections.leventhalmap.org/search/commonwealth:q524n427b)*** (1849)
 
-Selected by Zaila Alves, Visitor Services & Operations Assistant
+*Selected by Zaila Alves, Visitor Services & Operations Assistant*
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n428m/full/,1200/0/default.jpg" >}}
 
 This rather cynical bird’s-eye view map portraying the trials and tribulations of love and romance, as imagined in the context of mid-19th century life, is a cathartic break for some viewers who find themselves unsatisfied by what they perceive as ‘biased and sappy’ portrayals of love. With an image of a traditional marriage ceremony underneath the title, [this map](https://collections.leventhalmap.org/search/commonwealth:q524n427b) rather surprisingly does not shy away from showing some of the stark realities that come with partnership and the many directions it can go. This can be seen quite clearly by the compass rose in the lower-left corner depicting the cardinal directions as "Hope", "Love", "Despair", and "Hatred".
 
-“I like this map because it isn’t entirely pessimistic, as the “Bay of Delight”, “River Amour”, and “Fort of Felicity” icons in the upper-right corner show the joys possible in "The Great Ocean of Love". The iconography across the map is a fascinating blend of tragedy, joy, and humor, with personal favorites being the "Gulf of Self Love" in the upper-left corner and the "Sands of Inconstancy" in the lower-left corner.”
+> “I like this map because it isn’t entirely pessimistic, as the “Bay of Delight”, “River Amour”, and “Fort of Felicity” icons in the upper-right corner show the joys possible in "The Great Ocean of Love". The iconography across the map is a fascinating blend of tragedy, joy, and humor, with personal favorites being the "Gulf of Self Love" in the upper-left corner and the "Sands of Inconstancy" in the lower-left corner.”
 
-#### Walker Lith., ***[Canobie Lake Park, Salem N.H.](https://collections.leventhalmap.org/search/commonwealth:x633j682j)*** (1912)
+#### J. R. Chapin, [A bird's-eye view of Providence : showing the new railroad station and State House](https://collections.leventhalmap.org/search/commonwealth:4m90fn39p) (1895)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5d86s675x/full/1450,/0/default.jpg" class="" >}}
+Selected by Kiana Harriel, Experiential Learning & Programs Educator
 
-Canobie Lake Park is a staple of New England summers. Now known for their roller coasters and Taylor Swift impersonator, the park was originally a “trolley park” located at the end of the Massachusetts Northeast Street Railway Company and was designed to encourage trolley use on the weekends. To that end, [this map](https://collections.leventhalmap.org/search/commonwealth:x633j682j) was initially designed as a foldable brochure. At the time of this map’s creation in 1912, Canobie Lake Park consisted of flower gardens, walking paths, and “gentle attractions” like a swimming pool.
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fn40f/full/1200,/0/default.jpg" class="" >}}
+
+From the heights of College Hill, where Brown University and RISD stand tall, Providence, Rhode Island unfolds like a maze of streets and buildings, once a thriving industrial city. [This bird's-eye view](https://collections.leventhalmap.org/search/commonwealth:4m90fn39p) captures my city in a way that is both familiar and disorienting—especially for someone who spent years walking its hills. 
+
+“I love this map because it shows a different version of Providence, one without places that are important to me today. It’s a reminder of how the city has grown and changed over time, but also how much of its physical structures remain the same.”
 
 #### ***[Panoramic view of Boston centered on the Prudential Tower](https://collections.leventhalmap.org/search/commonwealth:h128th21w)*** (1968)
 
