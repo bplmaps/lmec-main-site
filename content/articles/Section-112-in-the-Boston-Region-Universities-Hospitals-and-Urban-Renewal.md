@@ -37,7 +37,13 @@ Because of the tax-exempt status of universities and hospitals, instructional ex
 
 So-called "Section 112 credits" were involved in three different urban renewal projects in Boston and Cambridge. Looking at how these credits were created and contested illustrates the conflicting drives towards institutional expansion, tax generation, and creating a livable city for its residents. Neighborhood movements, most visible through initiatives like People Before Highways and the reactionary movement against school bussing, put pressure on local government and institutions to abandon plans to transform the cityscape altogether, or at work more closely with communities. Section 112 credits, though not well-known, were involved in several crucial episodes in Greater Boston's struggles over urban renewal.
 
-<a target="blank" href="https://felt.com/map/Section-112-in-the-Boston-Region-fpgPThvTTDiq76Y9C4WL24D?loc=42.35797,-71.08781,14.02z&share=1">{{< figure src="/images/blog/julian-feltmap.png" class="figure-center" >}}</a>
+<iframe width="100%" height="488" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Section-112-in-the-Boston-Region-copy-cVLp4AZzRRyX3Jt7T8UE9AA?loc=42.35639%2C-71.08361%2C13.61z&legend=1&cooperativeGestures=1&link=1&geolocation=0&zoomControls=1&scaleBar=1" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+<a href="https://felt.com/map/Section-112-in-the-Boston-Region-cVLp4AZzRRyX3Jt7T8UE9AA?loc=42.35639,-71.08361,13.61z&share=1" target="blank" class="btn btn-md btn-outline-primary">Open map in new tab</a>
+
+
 
 #### Section 112 credits and Urban Renewal
 

@@ -17,7 +17,7 @@ draft: false
 
 *The Brownies' Book*, published between January 1920 and December 1921, was an African American children's periodical and one of the first print periodicals in the United States intended specifically for Black children writ large. It was developed by W.E.B. Du Bois, Jessie Redmon Fauset, and Augustus Granville Dill during the New Negro Renaissance (also known as the Harlem Renaissance).
 
-My research involves constructing an annotated index of *The Brownies' Book*, and my dissertation focuses on mapping the circulation of *The Brownies' Book* within metropolitan Boston. In doing so, I found myself identifying rich geographies of learning in Black Boston's education histories. ["*The Brownies' Book* in Boston" interactive map](https://felt.com/map/The-Brownies-Book-in-Greater-Boston-and-Surrounding-Areas-1920-1921-HlZyiiysRfqHH9CtBXm8bxB?loc=42.821,-71.739,6.91z&share=1) takes a snapshot of the people, places, and events in Massachusetts, and especially the Greater Boston area, that were important for an emerging Black histories curriculum in post-WWI United States education. The map also illustrates children's geographies alongside education geographies in greater Boston, by documenting the schools attended by readers of *The Brownies' Book*, their neighborhoods, and their places of work.
+My research involves constructing an annotated index of *The Brownies' Book*, and my dissertation focuses on mapping the circulation of *The Brownies' Book* within metropolitan Boston. In doing so, I found myself identifying rich geographies of learning in Black Boston's education histories. ["*The Brownies' Book* in Boston" interactive map](https://felt.com/map/The-Brownies-Book-in-Greater-Boston-and-Surrounding-Areas-1920-1921-Ua13bPQpTXGoc9Ccky4DNvB?loc=42.821,-71.739,7.02z) takes a snapshot of the people, places, and events in Massachusetts, and especially the Greater Boston area, that were important for an emerging Black histories curriculum in post-WWI United States education. The map also illustrates children's geographies alongside education geographies in greater Boston, by documenting the schools attended by readers of *The Brownies' Book*, their neighborhoods, and their places of work.
 
 ### Reading as a spatial citizenship practice in Black children's lives
 
@@ -27,7 +27,12 @@ In [browsing the pages of *The Brownies' Book*](https://www.loc.gov/item/2200135
 
 ### The *Brownies' in Boston* interactive map
 
-[![map](/images/blog/brownies-map.png)](https://felt.com/map/The-Brownies-Book-in-Greater-Boston-and-Surrounding-Areas-1920-1921-HlZyiiysRfqHH9CtBXm8bxB?loc=42.686,-72.948,6.91z&share=1)
+<iframe width="100%" height="488" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/The-Brownies-Book-in-Greater-Boston-and-Surrounding-Areas-1920-1921-Ua13bPQpTXGoc9Ccky4DNvB?loc=42.821%2C-71.739%2C7.02z&legend=1&cooperativeGestures=1&link=1&geolocation=0&zoomControls=1&scaleBar=1" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+<a href="https://felt.com/map/The-Brownies-Book-in-Greater-Boston-and-Surrounding-Areas-1920-1921-Ua13bPQpTXGoc9Ccky4DNvB?loc=42.821,-71.739,7.02z&share=1" target="blank" class="btn btn-md btn-outline-primary">Open map in new tab</a>
+
 
 The interactive map---built using the platform [Felt](https://felt.com)---visually identifies geographies of learning and education in Black Boston, including readers\' homes and neighborhoods, schools and workplaces, notable sites and historic landmarks, and important Black Boston figures throughout the 18th and 19th centuries.
 
