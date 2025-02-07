@@ -51,7 +51,7 @@ This map from 1878 was made by the Boston Board of Health, at a time when the gr
 
 [This 1886 map](https://collections.leventhalmap.org/search/commonwealth:t722mh264) with overlays of what is now known as the Fenway neighborhood of Boston shows an array of possible configurations for a new neighborhood that would be created entirely anew at the tail-end of the decades-long project of filling in Boston’s Back Bay. Would the streets along Frederick Law Olmsted’s Muddy River Park (then still in progress) be gridded and regular, or would they be sinuous and curving, like the river itself? 
 
-> “I love this map because it helps visitors imagine the experience of walking through Boston streets in the late nineteenth century. It was probably pretty smelly to be in the newly-built Back Bay neighborhood, with the prevailing winds bringing smells of "mud-sewage flats" to where you're standing!”
+> “When I first moved to Boston in 2007, I lived across the park on The Fenway near Westland Avenue, and have since seen the neighborhood grow and change quite a bit — although perhaps not nearly as much as it did in the late 1800s!”
 
 #### Lucy Durfee, ***[New England](https://collections.leventhalmap.org/search/commonwealth:2801vh693)*** (1834)
 
