@@ -53,23 +53,25 @@ This map from 1878 was made by the Boston Board of Health, at a time when the gr
 
 > “I love this map because it helps visitors imagine the experience of walking through Boston streets in the late nineteenth century. It was probably pretty smelly to be in the newly-built Back Bay neighborhood, with the prevailing winds bringing smells of "mud-sewage flats" to where you're standing!”
 
-#### Lucy Durfee, [New England](https://collections.leventhalmap.org/search/commonwealth:2801vh693) (1834)
+#### Lucy Durfee, ***[New England](https://collections.leventhalmap.org/search/commonwealth:2801vh693)*** (1834)
 
-Selected by Nicole Claris, Director of Education
+*Selected by Nicole Claris, Director of Education*
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633m419q/full/,1200/0/default.jpg" class="" >}}
 
 During the late 18th and early 19th century, it was common practice for American female students attending private academies to prepare maps of various parts of the world by copying maps from books or atlases. Most often, girls were taught by female instructors, who drew maps themselves to demonstrate geographic, artistic and design skills to their pupils. Potentially based on Jesse Olney's 1829 Map of the eastern states, it’s thought that the cartographer is possibly Lucy Durfee (Borden) of Rhode Island, 1821-1890, daughter of politician and jurist Job Durfee.
 
-“I was one of those kids that LOVED a school assignment. I don’t know how Lucy Durfee felt making [this map](https://collections.leventhalmap.org/search/commonwealth:2801vh693) in 1834. Looking at it today—I see the care she took in delineating the coastlines, the neat lettering she used to label everything, and the precise application of color. It makes me want a box of sharpened colored pencils.”
+> “I was one of those kids that LOVED a school assignment. I don’t know how Lucy Durfee felt making [this map](https://collections.leventhalmap.org/search/commonwealth:2801vh693) in 1834. Looking at it today—I see the care she took in delineating the coastlines, the neat lettering she used to label everything, and the precise application of color. It makes me want a box of sharpened colored pencils.”
 
-#### General Drafting Company, ***[America's products and the trucks that carry them](https://bpl.bibliocommons.com/v2/record/S75C8919287)*** (1958)
+#### Augustus Kollner & Morris H. Traubel, [The Hymenial Expositor, or, Matrimonial Chart](https://collections.leventhalmap.org/search/commonwealth:q524n427b) (1849)
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screenshot 2025-01-10 105012.png" >}}
+Selected by Zaila Alves, Visitor Services & Operations Assistant
 
-This is [a 1958 General Drafting Company pictorial map](https://bpl.bibliocommons.com/v2/record/S75C8919287) of the United States, its industry, and the transportation network used to move its products. The map follows the 1956 Federal-Aid Highway Act, celebrating the success of the American Highway system and the hard work of truckers in moving goods along a growing network of interstate trade. 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n428m/full/,1200/0/default.jpg" >}}
 
-Pictorial vignettes highlight American production, from agricultural goods to aircraft parts and automobiles. Corn, potatoes, walnuts, citrus fruit, and flour appear among the nation's agricultural products. Coal, lead, uranium ore, copper, aluminum, and phosphates are named among the nation's mineral resources. Farm machinery, shoes, synthetic rubber, textiles, and paper represent a handful of manufactured products. America's highway network, illustrated below the green vignettes in shades of gray, serves as a network of commerce. The trucks that create the map's border carry it all, with many still in use today. Many of these were designed with specific purposes in mind: logging, beverage panel trucks, telephone line trucks, bulk milk trucks, ice cream trucks, and vehicle carriers, etc.
+This rather cynical bird’s-eye view map portraying the trials and tribulations of love and romance, as imagined in the context of mid-19th century life, is a cathartic break for some viewers who find themselves unsatisfied by what they perceive as ‘biased and sappy’ portrayals of love. With an image of a traditional marriage ceremony underneath the title, [this map](https://collections.leventhalmap.org/search/commonwealth:q524n427b) rather surprisingly does not shy away from showing some of the stark realities that come with partnership and the many directions it can go. This can be seen quite clearly by the compass rose in the lower-left corner depicting the cardinal directions as "Hope", "Love", "Despair", and "Hatred".
+
+“I like this map because it isn’t entirely pessimistic, as the “Bay of Delight”, “River Amour”, and “Fort of Felicity” icons in the upper-right corner show the joys possible in "The Great Ocean of Love". The iconography across the map is a fascinating blend of tragedy, joy, and humor, with personal favorites being the "Gulf of Self Love" in the upper-left corner and the "Sands of Inconstancy" in the lower-left corner.”
 
 #### Walker Lith., ***[Canobie Lake Park, Salem N.H.](https://collections.leventhalmap.org/search/commonwealth:x633j682j)*** (1912)
 
