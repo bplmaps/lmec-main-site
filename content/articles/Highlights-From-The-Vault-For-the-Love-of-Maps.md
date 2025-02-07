@@ -83,10 +83,12 @@ From the heights of College Hill, where Brown University and RISD stand tall, Pr
 
 “I love this map because it shows a different version of Providence, one without places that are important to me today. It’s a reminder of how the city has grown and changed over time, but also how much of its physical structures remain the same.”
 
-#### ***[Panoramic view of Boston centered on the Prudential Tower](https://collections.leventhalmap.org/search/commonwealth:h128th21w)*** (1968)
+#### Walter Vrooman, [Map of New York City showing concrete socialism in red, and private enterprises in white, 1895](https://collections.leventhalmap.org/search/commonwealth:fn107c281) (1895)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:rj4356675/full/1200,/0/default.jpg" >}}
+Selected by Ian Spangler, Assistant Curator for Digital and Participatory Geography
 
-[This map](https://collections.leventhalmap.org/search/commonwealth:h128th21w) from 1968 shows a bird’s eye view of what the Prudential Tower and its surroundings looked like when it was first completed—spot the separate buildings that make up the tower in the middle (the compass rose marks the top of the tower).
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c299/full/,1200/0/default.jpg" >}}
 
-When first built in the early 1960s, the shopping centre we know now was a part of a huge redevelopment wave in Boston (think Boston City Hall, Government Center, etc). It was originally a series of separated buildings with the main “Prudential Tower” as the centerpiece. Over the years, the buildings were connected, bridged, and developed into “the Pru” we know today that welcomes more than 60,000 visitors a day.
+[This map](https://collections.leventhalmap.org/search/commonwealth:fn107c281) uses a clever technique to argue that New York City was already a mostly socialist community by the end of the 19th century. It uses just two colors: red, the printing color, and the negative white space of the paper color. The red area shows the parts of the city that were putatively “socialist” already—things like roads, parks, bridges, and wharves that were owned and managed by the public. Only the leftover space was devoted to private enterprises. If the government could already handle so much of the infrastructure that made city life possible, this map seems to argue, its role could be expanded into a full socialist control of the economy.
+
+“I love this map because it serves as a powerful reminder of where public goods are located in the world around us. Where do you see public, shared goods in your everyday life?”
