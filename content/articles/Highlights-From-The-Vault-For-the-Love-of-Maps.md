@@ -37,7 +37,7 @@ Portraying the Black Hills (also known as the Six Grandfathers) mountain range o
 
 *Selected by Emily Bowe, Assistant Director*
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:dv145x76k/full/,1450/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71r300q/full/,1200/0/default.jpg" class="" >}}
 
 This map from 1878 was made by the Boston Board of Health, at a time when the growing city was confronting issues about waste and public health. In red hatching, you'll see "mud-sewage flats" depicted in once-marshy areas of the city. You may also notice the numbered red dots along the edges of the wharves and land, indicating locations of sewage outlets. The makers of [the map](https://collections.leventhalmap.org/search/commonwealth:w3765q66z) have drawn red arrows indicating the wind direction, which makes it easy to see which parts of the city would have been impacted by "offensive odors." 
 
