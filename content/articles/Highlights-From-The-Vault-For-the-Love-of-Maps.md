@@ -21,17 +21,27 @@ Maps have so much to offer—from the rich history behind their creation and vis
 
 In this *From The Vault* collections showing, we took a look at the personal favorites of the staff at the Leventhal Center and the multitude of reasons these maps have captured our attention amongst our collection of over 250,000 maps.
 
-#### Paul Koroleff, ***[Carte touristique du Liban kharitat Lubnan almusawarat lilsiyaha](https://collections.leventhalmap.org/search/commonwealth:pr76n698n)*** (1955)
+#### Newton Horace Winchell, ***[A geological map of the Black Hills](https://collections.leventhalmap.org/search/commonwealth:4m90fb39t)*** (1875)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:g445kk81h/full/,1450/0/default.jpg" class="" >}}
+*Selected by Julia Williams, Gallery and Communications Coordinator*
 
-[A 1955 tourist map](https://collections.leventhalmap.org/search/commonwealth:pr76n698n) of Lebanon, this map acted as a type of advertisement to visit and see the sights. On the bottom right hand side of the map, a number of cities and towns are listed alongside different attractions like resorts, cafes, and historical sites. Most of the text is in Arabic with some English translations, signifying the multicultural audience this brochure is intended for. In addition to the dual language use, the pictorial nature of the map also appeals to those who aren’t able to speak Arabic, ensuring that the map can still be understood with limited language use.
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fb40k/full/,1200/0/default.jpg" class="" >}}
 
-#### Frederic Milton Thrasher, ***[Chicago's gangland](https://collections.leventhalmap.org/search/commonwealth:db791j422)*** (1927)
+Portraying the Black Hills (also known as the Six Grandfathers) mountain range of South Dakota and Wyoming, [this map](https://collections.leventhalmap.org/search/commonwealth:4m90fb39t) was created in 1875 during a time of major conflict in this region. Just a few years prior in 1868, the US government had signed a treaty “exempting the Black Hills from all non-indigenous settlement forever”. However, when gold was found in the area 6 years later, the US government conquered the Black Hills and forcibly relocated the Lakota people who were indigenous to the area.
+
+50 years later, work began on this landmark on the sacred mountain range and in 1941, Mount Rushmore was opened to the public. Featuring the faces of 4 US presidents to represent the first 150 years of American history, the site now receives more than 2 million visitors a year.
+
+> “This is my (current) favorite map in the collection because it’s so visually stunning with all the different bands of color, but primarily for the history that underlies this location. It reminds me that maps are simply a snapshot of a much larger picture of what’s going on in the world.”
+
+#### William M. Coombs, ***[Map showing the sources of some of the offensive odors perceived in Boston, 1878](https://collections.leventhalmap.org/search/commonwealth:w3765q66z)*** (1878)
+
+*Selected by Emily Bowe, Assistant Director*
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:dv145x76k/full/,1450/0/default.jpg" class="" >}}
 
-Showing gangs with clubrooms, those without, and indicating private and public property, [this map](https://collections.leventhalmap.org/search/commonwealth:db791j422) was meant to be an all-encompassing view of the gangs present in Chicago. Completed as a part of a larger study, the map also lists the names of certain regions and previous illegal activity or attacks that occurred around the area. Something to note is that this map also outlines areas with prevalent ethnic groups, including “Americans” as a broad term for multi-generational White Americans.
+This map from 1878 was made by the Boston Board of Health, at a time when the growing city was confronting issues about waste and public health. In red hatching, you'll see "mud-sewage flats" depicted in once-marshy areas of the city. You may also notice the numbered red dots along the edges of the wharves and land, indicating locations of sewage outlets. The makers of [the map](https://collections.leventhalmap.org/search/commonwealth:w3765q66z) have drawn red arrows indicating the wind direction, which makes it easy to see which parts of the city would have been impacted by "offensive odors." 
+
+> “I love this map because it helps visitors imagine the experience of walking through Boston streets in the late nineteenth century. It was probably pretty smelly to be in the newly-built Back Bay neighborhood, with the prevailing winds bringing smells of "mud-sewage flats" to where you're standing!”
 
 #### Boris Artzybasheff, ***[World map of the major tropical diseases](https://collections.leventhalmap.org/search/commonwealth:6q185975n)*** (1944)
 
