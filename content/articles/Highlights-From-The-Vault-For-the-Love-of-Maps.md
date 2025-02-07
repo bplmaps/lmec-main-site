@@ -92,3 +92,13 @@ Selected by Ian Spangler, Assistant Curator for Digital and Participatory Geogra
 [This map](https://collections.leventhalmap.org/search/commonwealth:fn107c281) uses a clever technique to argue that New York City was already a mostly socialist community by the end of the 19th century. It uses just two colors: red, the printing color, and the negative white space of the paper color. The red area shows the parts of the city that were putatively “socialist” already—things like roads, parks, bridges, and wharves that were owned and managed by the public. Only the leftover space was devoted to private enterprises. If the government could already handle so much of the infrastructure that made city life possible, this map seems to argue, its role could be expanded into a full socialist control of the economy.
 
 “I love this map because it serves as a powerful reminder of where public goods are located in the world around us. Where do you see public, shared goods in your everyday life?”
+
+#### John Kirtland Wright, [Panorama from the Pinnacle ("Acorn Hill," 1371'), Lyme, N.H.](https://collections.leventhalmap.org/search/commonwealth:00002h22g) (1966)
+
+Selected by Garrett Dash Nelson, President and Head Curator
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zw131n81k/full/1200,/0/default.jpg" class="" >}}
+
+This series of panoramic views draws us into the personal connections between geographers and the places they love. John Kirtland Wright (1891–1969) was an important academic geographer and for many years served as the librarian of the American Geographical Society. He retired to New Hampshire and in 1966, he sketched [this panoramic view](https://collections.leventhalmap.org/search/commonwealth:00002h22g) of “The Pinnacle,” a small rocky rise also known as Acorn Hill. Though at first these sketches might seem like a straightforward reference guide to the regional landscape, the full set of sheets draw the reader into stories of natural and human history that together make up a fully “place-based” study that is a hallmark of geography’s interdisciplinary tendencies. 
+
+“I can't promise this is my absolute favorite map in the collections, but just one that might get overlooked and which tells an interesting story. It’s a document which bears not only the unmistakable imprint of Wright’s professional training as a geographer and cartographer, but also the personal or even spiritual connection the elderly Wright must have felt towards this place.”
