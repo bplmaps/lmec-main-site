@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "David J. Weaver GIS Research Fellowship"
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cr56sd10x/5136,4032,7764,1873/1200,/0/default.jpg
 description: Supporting research into the history of digital mapping and the future of computer map collecting
