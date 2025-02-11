@@ -16,7 +16,7 @@ weight: 2
 - Superimposing modern data on top of a historic map
 - Transcribing geospatial data from historic maps, such as labels, features, or outlines 
 
-Georeferencing is sometimes known as *georectifying*, *geotransforming*, or *warping*. As a user, you will most commonly encounter georeferenced maps when you see a historic map dispayed on top of a modern map base layer in an interactive web map viewer.
+Georeferencing is sometimes known as *georectifying*, *geotransforming*, or *warping*. As a user, you will most commonly encounter georeferenced maps when you see a historic map displayed on top of a modern map base layer in an interactive web map viewer.
 
 ### Finding georeferenced maps
 
