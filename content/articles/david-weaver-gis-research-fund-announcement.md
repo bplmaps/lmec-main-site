@@ -1,7 +1,7 @@
 ---
 draft: true
 title: Introducing the David J. Weaver GIS Research Fund
-date: 2025-02-10T05:00:00.000Z
+date: 2025-02-18T05:00:00.000Z
 author: Amanda Lookner
 description: introducing fund
 image: >-
@@ -34,4 +34,4 @@ A generous friend of LMEC has promised to match every gift we receive toward the
 
 Please consider making a donation to support this work – every dollar we receive will be committed to telling the ongoing story of how computers and cartographers redraw our world and help us to conceptualize it.
 
-DONATE HERE: [https://www.leventhalmap.org/?form=WEAVER-GIS-FUND](https://www.leventhalmap.org/?form=WEAVER-GIS-FUND)
+DONATE HERE: [https://www.leventhalmap.org/?form=WEAVER-GIS-FUND](https://www.leventhalmap.org)
