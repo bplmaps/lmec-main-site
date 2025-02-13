@@ -6,13 +6,17 @@ description: Supporting research into the history of digital mapping and the fut
 
 ### Now accepting donations to the Weaver Fund
 
-In 2023, David Weaver worked with LMEC staff to establish the **David J. Weaver Research Fund**, a fund dedicated to expanding our knowledge of the history and practice of geographic information systems (GIS). The Fund is closely linked to two archival collections which document the history of computer cartography, also donated by Weaver: the [David Judkins Weaver papers](https://archives.bpl.org/repositories/2/resources/153/collection_organization) and the [Applied Geographics, Inc. Records](https://archives.bpl.org/repositories/2/resources/152). 
+<a href="#XWZXANRA" style="display: none"></a>
 
-The Weaver Fund has two main objectives:
+<a href="#XKYZCEFF" style="display: none"></a> 
+ 
+In 2023, David Weaver worked with LMEC staff to establish the **David J. Weaver GIS Research Fund**, a fund dedicated to expanding our knowledge of the history and practice of geographic information systems (GIS). The Fund is closely linked to two archival collections which document the history of computer cartography, also donated by Weaver: the [David Judkins Weaver papers](https://archives.bpl.org/repositories/2/resources/153/collection_organization) and the [Applied Geographics, Inc. Records](https://archives.bpl.org/repositories/2/resources/152). 
 
-- First, to **document history** of GIS development, both via Weaver’s collections at the Leventhal Center, and through connecting our these collections with other important stories and materials outside of the BPL.
-- Second, to help us **build for the future of computer cartography collections** by continuing to drive collections development through publication of original GIS research in the form of public scholarship, notably through a [research award starting in 2026](/research/weaver-gis-research-fellowship), made possible thanks to the Weaver Fund.
+The Weaver Fund has two main goals:
+
+- First, to **document the history of GIS development**, by strengthening our collections in this topic area, and connecting these collections with other important stories and materials outside of the BPL.
+- Second, to help us **tell stories about how computers and cartography impact our everyday lives** through publication of original GIS research in the form of public scholarship, notably through a **research award starting in 2026**.
 
 Please consider donating today to support our educational programming and public-facing research into the history of digital mapping.
 
-<a href="https://www.leventhalmap.org/?form=WEAVER-GIS-FUND" target="_blank" class="btn btn-lg btn-primary-outline">Make a donation to the Weaver Fund</a>
+<a href="#XKYZCEFF" style="display: none"></a> 

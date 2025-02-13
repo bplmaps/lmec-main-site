@@ -10,4 +10,4 @@ In 2026, made possible by the [Weaver Fund](/donate/weaver-research-fund.md), th
 
 [Subscribe to our newsletter](/subscribe) for the latest updates regarding the Weaver GIS Research Fellowship, and [support our work](https://www.leventhalmap.org/?form=WEAVER-GIS-FUND) with a donation to the **David J. Weaver GIS Research Fund**.
 
-<a href="https://www.leventhalmap.org/?form=WEAVER-GIS-FUND" target="_blank" class="btn btn-lg btn-primary-outline">Make a donation to the Weaver Fund</a>
+<a href="../../donate/weaver-research-fund" class="btn btn-lg btn-primary-outline">Make a donation to the Weaver Fund</a>
