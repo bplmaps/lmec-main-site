@@ -4,7 +4,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cr56sd
 description: Supporting research into the history of digital mapping and the future of computer map collecting
 ---
 
-### Now accepting donations to the Weaver Fund
+### Through March 31, 2025, all gifts to the Weaver Fund are doubled by an anonymous match
 
 <a href="#XWZXANRA" style="display: none"></a>
 
