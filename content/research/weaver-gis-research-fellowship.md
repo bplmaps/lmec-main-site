@@ -6,8 +6,8 @@ description: Supporting research into the history of digital mapping and the fut
 
 ### GIS research at LMEC
 
-In 2026, made possible by the [Weaver Fund](/donate/weaver-research-fund.md), the Leventhal Center will host an inaugural **David J. Weaver GIS Research Fellow**. With support from subject matter experts on LMEC staff, the Fellowship will allow its recipients to explore and study a growing archive of early GIS maps in the Leventhal Center's [physical collection on the history of computer cartography](/articles/comp-cart-collections). The fellowship will be of interest to scholars and researchers with interests at the intersection of geographic information systems (GIS) history, cartography, urban planning, environmental justice, remote sensing & critical remote sensing, and modern digital mapping.
+In 2026, made possible by the [Weaver Fund](../../donate/weaver-research-fund), the Leventhal Center will host an inaugural **David J. Weaver GIS Research Fellow**. With support from subject matter experts on LMEC staff, the Fellowship will allow its recipients to explore and study a growing archive of early GIS maps in the Leventhal Center's [physical collection on the history of computer cartography](/articles/comp-cart-collections). The fellowship will be of interest to scholars and researchers with interests at the intersection of geographic information systems (GIS) history, cartography, urban planning, environmental justice, remote sensing & critical remote sensing, and modern digital mapping.
 
-[Subscribe to our newsletter](/subscribe) for the latest updates regarding the Weaver GIS Research Fellowship, and [support our work](https://www.leventhalmap.org/?form=WEAVER-GIS-FUND) with a donation to the **David J. Weaver GIS Research Fund**.
+[Subscribe to our newsletter](/subscribe) for the latest updates regarding the Weaver GIS Research Fellowship, and [support our work](../../donate/weaver-research-fund) with a donation to the **David J. Weaver GIS Research Fund**.
 
 <a href="../../donate/weaver-research-fund" class="btn btn-lg btn-primary-outline">Make a donation to the Weaver Fund</a>

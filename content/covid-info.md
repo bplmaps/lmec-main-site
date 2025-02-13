@@ -22,7 +22,7 @@ For more information, see the [Research Appointments](https://www.leventhalmap.o
 
 ### Digital and remote services available
 
-The Map Center has made extensive efforts to continue research, educational, and exhibition activities in a remote setting. Throughout our website, you'll find information on how to access digitized material, explore research collections, and teach with maps at the K-12 and university levels. In particular, you may want to see the pages on:
+The Leventhal Center has made extensive efforts to continue research, educational, and exhibition activities in a remote setting. Throughout our website, you'll find information on how to access digitized material, explore research collections, and teach with maps at the K-12 and university levels. In particular, you may want to see the pages on:
 
 * Our current exhibition, [Bending Lines: Maps and Data from Distortion to Deception](https://leventhalmap.org/digital-exhibitions/bending-lines) has been designed for an online-first experience
 * [Teach It Yourself](/education/k12/teach-it-yourself) for K-12 classes

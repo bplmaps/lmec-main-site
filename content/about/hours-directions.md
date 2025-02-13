@@ -7,7 +7,7 @@ weight: "4"
 aliases:
 - "/exhibitions/about/hours-directions"
 quicklinks:
-- text: See a map to the Map Center
+- text: See a map to the Leventhal Map & Education Center
   link: "#directions"
   linkType: jump
 
