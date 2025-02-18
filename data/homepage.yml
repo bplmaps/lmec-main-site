@@ -56,12 +56,6 @@ slider:
         link: research
 cta:
   enable: true
-  announcements:
-    - badge: Holiday closure
-      text: >-
-        The Leventhal Center will be closed on Monday, February 17, along with
-        all BPL locations, for Presidents' Day.
-      link: 'https://www.leventhalmap.org/about/hours-directions/'
 audiences:
   enable: true
   audienceGroups:
