@@ -8,6 +8,7 @@ image: >-
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Radical-Atlast-p40-key-5.jpg
 location: 'Stubbins Meeting Room - 48 Quincy St, Cambridge, MA'
+fee: Free
 tags:
   - Environmental history
   - Book talk
