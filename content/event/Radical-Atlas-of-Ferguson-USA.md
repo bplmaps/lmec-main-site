@@ -15,7 +15,7 @@ tags:
   - Author talk
 ---
 
-{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by the Harvard University Graduate School of Design. {{\< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by the Harvard University Graduate School of Design. {{< /alert-box >}}
 
 {{< figure src="https://alumni.gsd.harvard.edu/wp-content/uploads/2024/11/thumbnail_RadicalAtlas_cover-1.jpg" class="figure-right" >}}
 
