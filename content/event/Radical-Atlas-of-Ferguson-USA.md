@@ -10,6 +10,8 @@ backgroundImage: >-
 location: 'Stubbins Meeting Room - 48 Quincy St, Cambridge, MA'
 ---
 
+{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by the Harvard University Graduate School of Design. {{\< /alert-box >}}
+
 Ferguson, Missouri became the epicenter of America's racial tensions after the 2014 murder of Michael Brown and the protests that followed. Though this suburb just outside of St. Louis might have seemed like an average midwestern town, the activism that radiated from there after Brown's killing laid bare just how long the community has been experiencing racial segregation, fragmentation, poverty, and police targeting.
 
 {{< figure src="https://alumni.gsd.harvard.edu/wp-content/uploads/2024/11/thumbnail_RadicalAtlas_cover-1.jpg" class="figure-right" >}}
