@@ -3,6 +3,10 @@ draft: true
 title: 'Radical Atlas of Ferguson, USA'
 date: 2025-03-05T23:30:00.000Z
 publishDate: 2025-02-20T05:00:00.000Z
+image: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Radical-Atlast-p40-key-5.jpg
+backgroundImage: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Radical-Atlast-p40-key-5.jpg
 location: 'Stubbins Meeting Room - 48 Quincy St, Cambridge, MA'
 ---
 
