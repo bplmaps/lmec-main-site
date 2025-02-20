@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Radical Atlas of Ferguson, USA'
 date: 2025-03-05T23:30:00.000Z
 publishDate: 2025-02-20T05:00:00.000Z
