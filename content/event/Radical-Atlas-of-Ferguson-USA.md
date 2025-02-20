@@ -8,6 +8,10 @@ image: >-
 backgroundImage: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Radical-Atlast-p40-key-5.jpg
 location: 'Stubbins Meeting Room - 48 Quincy St, Cambridge, MA'
+tags:
+  - Environmental history
+  - Book talk
+  - Author talk
 ---
 
 {{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by the Harvard University Graduate School of Design. {{\< /alert-box >}}
