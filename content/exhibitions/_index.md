@@ -17,7 +17,7 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 <a class="btn btn-outline-primary btn-block" target='blank' href="https://www.leventhalmap.org/digital-exhibitions/processing-place/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for *Processing Place*</a>
 
 
-**September 13, 2024 – March 2025**
+**September 13, 2024 – March 23, 2025**
 
 In the long history of mapmaking, computers are a relatively new development. In some ways, computers have fundamentally changed how cartographers create, interpret, and share spatial data; in others, they simply mark a new chapter in how people have *always* processed the world. This exhibition features objects from the Leventhal Center’s unique collections in the history of digital mapping to explore how computers and cartographers changed one another, particularly since the 1960s. By comparing maps made with computers to those made before and without them, the exhibition invites us to recognize the impacts of digital mapping for environmental management, law and policy, navigation, national defense, social change, and much more. Visitors will be encouraged to consider how their own understanding of geography might be translated into the encodings and digital representations that are essential to processing place with a computer.
 
