@@ -22,9 +22,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'February 17, 2025'
-    name: President's Day
-    special: Closed
   - date: 'March 14, 2025'
     name: BPL Staff Professional Development
     special: All BPL locations will be closed
