@@ -1,23 +1,19 @@
 ---
+aliases:
+  - /visit
 title: Visit the Gallery
 backgroundImage: images/page-header-backgrounds/gallery.jpg
 description: Information for visiting our gallery in person in Copley Square
-weight: "1"
-aliases:
-- "/visit"
-
+weight: '1'
 ---
-{{< alert-box type="info" title="COVID-19 Guidance" >}}
 
-Although it is not required, please consider wearing a face covering while inside BPL buildings. We recommend that patrons practice social distancing where possible. Please reschedule your visit if you have any symptoms of illness, or if you have received a positive COVID-19 test result in the past 10 days.
-
-{{</ alert-box >}}
+{{\</ alert-box >}}
 
 Our exhibitions gallery is free to the public, and no advance booking is necessary to view exhibitions. Plan to set aside between 30 minutes and 1½ hours for a full experience in the Gallery, though you are always welcome to spend more or less time, and to come back for multiple visits. The Gallery features captions and activities for children and families as well as adults.
 
 ## Visiting Hours
 
-{{< hours-table >}}
+{{\< hours-table >}}
 
 ## Directions
 
@@ -27,15 +23,15 @@ See [Hours & Directions](/about/hours-directions/) for a map to the Map Center a
 
 Our free gallery tours last approximately 30 minutes and do not require advance registration. To join a gallery tour, meet at the gallery front desk at the scheduled time.
 
-| Day | Gallery tour hours |
-| --- | --- |
-| Wednesday | 5:30 pm |
-| Friday | 11:30 am |
-| Saturday | 11:30 am |
+| Day       | Gallery tour hours |
+| --------- | ------------------ |
+| Wednesday | 5:30 pm            |
+| Friday    | 11:30 am           |
+| Saturday  | 11:30 am           |
 
 ## Special Exhibition Events
 
-{{< event-tag-listing tag="Exhibition" >}}
+{{\< event-tag-listing tag="Exhibition" >}}
 
 ## Group and Education Visits
 
