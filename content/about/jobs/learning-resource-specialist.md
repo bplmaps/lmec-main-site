@@ -5,7 +5,7 @@ menu: false
 cardImage: "/uploads/eliot3.jpg"
 ---
 
-The **Leventhal Map & Education Center at the Boston Public Library** seeks to hire for the position of **Learning Resource Specialist**. ****We are looking for someone with the knowledge, creativity, and enthusiasm to create asynchronous learning tools that draw educators and general audiences into the collections of the Leventhal Center and themes of geography, social studies, and place-based history. 
+The **Leventhal Map & Education Center at the Boston Public Library** seeks to hire for the position of **Learning Resource Specialist**. We are looking for someone with the knowledge, creativity, and enthusiasm to create asynchronous learning tools that draw educators and general audiences into the collections of the Leventhal Center and themes of geography, social studies, and place-based history. 
 
 The Leventhal Center's educational mission seeks to foster geographic perspectives on the relationships between people and places. The Education team focuses on teachers and learners from the Kindergarten through university levels, offering a suite of programs, services, and resources that support geographic education.
 
