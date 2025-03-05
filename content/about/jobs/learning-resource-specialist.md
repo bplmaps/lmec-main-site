@@ -50,7 +50,7 @@ The Leventhal Center values independent initiative in all staff roles, and we wi
 
 ### **Compensation & Position Details**
 
-This is a full-time, salaried position, with an expected salary range of $52,000–60,000 annually according to experience and qualifications. The position is eligible for a full set of fringe benefits, including medical and dental insurance, employer contributions to a 401(k) retirement plan, life and disability insurance, and commuter benefits.
+This is a full-time, salaried position, with an expected salary range of $52,000–64,000 annually according to experience and qualifications. The position is eligible for a full set of fringe benefits, including medical and dental insurance, employer contributions to a 401(k) retirement plan, life and disability insurance, and commuter benefits.
 
 The Learning Resource Specialist position offers the possibility of a hybrid schedule and we will consider arrangements from 0.8 to 1.0 FTE (full-time equivalent), depending on the qualifications of the candidate. The Learning Resource Specialist will be expected to be available to work in-person at the Central Library in Copley Square, at 700 Boylston St. in Boston. 
 
