@@ -78,11 +78,11 @@ The Center places great value on an organizational culture in which staff member
 
 ### **To apply**
 
-Please submit the following as a single .pdf.
+Please submit the following via our [online application](https://tally.so/r/w27EvV).
 
-- A cover letter of no more than two pages
-- A CV or résumé
-- An example of an instructional resource which the candidate has either sole authored or taken a lead role in producing. This can include lesson plans, websites, videos, or other digital teaching resources designed for asynchronous use.
+- A cover letter of no more than two pages (PDF format)
+- A CV or résumé (PDF format)
+- An example of an instructional resource which the candidate has either sole authored or taken a lead role in producing. This can include lesson plans, websites, videos, or other digital teaching resources designed for asynchronous use. (PDF format; internal links to active web sites are acceptable)
 - A list of 3 professional references, including telephone numbers and email. We will inform candidates before contacting references.
 
 Additional material will be requested from semifinalist candidates.
