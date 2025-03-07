@@ -17,23 +17,19 @@ tags:
   - from the vault
 ---
 
-> *On February 7, we hosted **From The Vault: For the Love of Maps!***
+> *On March 7, we hosted **From The Vault: Mapped By Her -The Uncharted Influence of Women in Cartography***
 
-Maps have so much to offer—from the rich history behind their creation and visual perspectives of familiar places to the depth of information they communicate and so much more. While the staff at the Leventhal Center have a special place in our hearts for all of our maps, there are just a few that each of us love the tiniest bit more than the others.
+##### Women have always been a part of charting the Earth throughout history.
 
-In this *From The Vault* collections showing, we took a look at the personal favorites of the staff at the Leventhal Center and the multitude of reasons these maps have captured our attention amongst our collection of over 250,000 maps.
+Histories of map-making generally emphasize the role of men; however, since the advent of the printed map, women have worked as colorists, engravers, shop owners, publishers, and, most importantly, as map-makers themselves. 
 
-#### Newton Horace Winchell, ***[A geological map of the Black Hills](https://collections.leventhalmap.org/search/commonwealth:4m90fb39t)*** (1875)
+This selection of maps was intended to help visitors encounter works by female map creators, designers and educators, learn about the various cartographic skills employed by women over the centuries, and observe the transition of women in cartography from marginalized to celebrated. 
 
-*Selected by Julia Williams, Gallery and Communications Coordinator*
+#### Eliza Tileston, ***[Map of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:mw22xn331)*** (1819)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fb40k/full/,1200/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3n206f808/full/1200,/0/default.jpg" class="" >}}
 
-Portraying the Black Hills (also known as the Six Grandfathers) mountain range of South Dakota and Wyoming, [this map](https://collections.leventhalmap.org/search/commonwealth:4m90fb39t) was created in 1875 during a time of major conflict in this region. Just a few years prior in 1868, the US government had signed a treaty “exempting the Black Hills from all non-indigenous settlement forever”. However, when gold was found in the area 6 years later, the US government conquered the Black Hills and forcibly relocated the Lakota people who were indigenous to the area.
-
-50 years later, work began on this landmark on the sacred mountain range and in 1941, Mount Rushmore was opened to the public. Featuring the faces of 4 US presidents to represent the first 150 years of American history, the site now receives more than 2 million visitors a year.
-
-> “This is my (current) favorite map in the collection because it’s so visually stunning with all the different bands of color, but primarily for the history that underlies this location. It reminds me that maps are simply a snapshot of a much larger picture of what’s going on in the world.”
+During the late 18th and early 19th century, it was common practice for American female students attending private academies to prepare maps of various parts of the world by copying maps from books or atlases. Most often, girls were taught by female instructors, who drew maps themselves to demonstrate geographic, artistic and design skills to their pupils. This map of Massachusetts was done using ink and watercolor by a schoolgirl, Eliza Tileston and was possibly gifted to a friend, as the message “To Clara” is written on verso in lower left.
 
 #### William M. Coombs, ***[Map showing the sources of some of the offensive odors perceived in Boston, 1878](https://collections.leventhalmap.org/search/commonwealth:w3765q66z)*** (1878)
 
