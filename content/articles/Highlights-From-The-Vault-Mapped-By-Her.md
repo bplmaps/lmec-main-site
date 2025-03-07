@@ -49,15 +49,11 @@ Designed by Agnes Sinclair Holbrook, a Wellesley College graduate and resident o
 
 Maine-based artist Mildred Burrage created many paintings and drawings throughout her career, which began in the early 20th-century. Burrage studied art in both America and Europe, and created numerous impressionist works while staying in France. In the 1920s, she executed several relief-paintings based on historic maps, prints, engravings and photographs. The gesso relief painting displayed here is similar to a vignette illustrated in Sayer and Bennett’s 1775 map “The Seat of War in New England.” [Here](https://collections.leventhalmap.org/search/commonwealth:3f463832p) Burrage has enlarged the battle scene, and used a gesso (white paint mixture) build-up to show relief. She added gold leaf to the piece for added decorative flare.
 
-#### Augustus Kollner & Morris H. Traubel, ***[The Hymenial Expositor, or, Matrimonial Chart](https://collections.leventhalmap.org/search/commonwealth:q524n427b)*** (1849)
+#### Marie Catherine Haussard (engraver), [Partie de l'Amérique septent? qui comprend la Nouvelle France ou le Canada](https://collections.leventhalmap.org/search/commonwealth:w9505s84p) (1755)
 
-*Selected by Zaila Alves, Visitor Services & Operations Assistant*
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9505s85z/full/1200,/0/default.jpg" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n428m/full/,1200/0/default.jpg" >}}
-
-This rather cynical bird’s-eye view map portraying the trials and tribulations of love and romance, as imagined in the context of mid-19th century life, is a cathartic break for some viewers who find themselves unsatisfied by what they perceive as ‘biased and sappy’ portrayals of love. With an image of a traditional marriage ceremony underneath the title, [this map](https://collections.leventhalmap.org/search/commonwealth:q524n427b) rather surprisingly does not shy away from showing some of the stark realities that come with partnership and the many directions it can go. This can be seen quite clearly by the compass rose in the lower-left corner depicting the cardinal directions as "Hope", "Love", "Despair", and "Hatred".
-
-> “I like this map because it isn’t entirely pessimistic, as the “Bay of Delight”, “River Amour”, and “Fort of Felicity” icons in the upper-right corner show the joys possible in "The Great Ocean of Love". The iconography across the map is a fascinating blend of tragedy, joy, and humor, with personal favorites being the "Gulf of Self Love" in the upper-left corner and the "Sands of Inconstancy" in the lower-left corner.”
+[This hand-colored map](https://collections.leventhalmap.org/search/commonwealth:w9505s84p) of the Canadian north features a cartouche engraved and signed by C. (Catherine) Haussard. Marie Catherine and her sister Elizabeth were 18th-century Parisian engravers who specialized in the creation of cartouches – the decorative and informative label identifying a map, its author and the subject. The sisters were daughters of noted French engraver Jean-Baptiste Haussard, who trained them in the art of engraving. The cartouche shown here incorporates popular 18th-century symbols of North America – pine trees, a beaver, and a Native American canoe.
 
 #### J. R. Chapin, ***[A bird's-eye view of Providence : showing the new railroad station and State House](https://collections.leventhalmap.org/search/commonwealth:4m90fn39p)*** (1895)
 
