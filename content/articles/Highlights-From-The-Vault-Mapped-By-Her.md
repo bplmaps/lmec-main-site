@@ -55,15 +55,11 @@ Maine-based artist Mildred Burrage created many paintings and drawings throughou
 
 [This hand-colored map](https://collections.leventhalmap.org/search/commonwealth:w9505s84p) of the Canadian north features a cartouche engraved and signed by C. (Catherine) Haussard. Marie Catherine and her sister Elizabeth were 18th-century Parisian engravers who specialized in the creation of cartouches – the decorative and informative label identifying a map, its author and the subject. The sisters were daughters of noted French engraver Jean-Baptiste Haussard, who trained them in the art of engraving. The cartouche shown here incorporates popular 18th-century symbols of North America – pine trees, a beaver, and a Native American canoe.
 
-#### J. R. Chapin, ***[A bird's-eye view of Providence : showing the new railroad station and State House](https://collections.leventhalmap.org/search/commonwealth:4m90fn39p)*** (1895)
+#### Toy Lasker, [New York in Maps: An Instant Guide to Every Place in Town](https://bpl.bibliocommons.com/v2/record/S75C380008) (1970)
 
-*Selected by Kiana Harriel, Experiential Learning & Programs Educator*
+{{< figure src="https://www.leventhalmap.org/wp-content/uploads/2018/06/wic_21.jpg" class="" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fn40f/full/1200,/0/default.jpg" class="" >}}
-
-From the heights of College Hill, where Brown University and RISD stand tall, Providence, Rhode Island unfolds like a maze of streets and buildings, once a thriving industrial city. [This bird's-eye view](https://collections.leventhalmap.org/search/commonwealth:4m90fn39p) captures my city in a way that is both familiar and disorienting—especially for someone who spent years walking its hills. 
-
-> “I love this map because it shows a different version of Providence, one without places that are important to me today. It’s a reminder of how the city has grown and changed over time, but also how much of its physical structures remain the same.”
+Toy Lasker was the founder and publisher of Flashmaps, Inc., a company that created thematic maps and guidebooks which focused on topics of interest to residents, tourists and the business community. She produced 3 million maps of various major cities and popular tourist destinations before selling the company to Random House in 1987. Lasker conceived and designed the maps displayed here in 1967, partnering with New York Magazine to create[ this cartographic key](https://bpl.bibliocommons.com/v2/record/S75C380008) to Manhattan art galleries, museums, restaurants, parks, theatres, shops and transportation. These popular maps were used decades ago similar to how smartphones are used today to navigate cities – helping visitors locate their places of interest.
 
 #### Walter Vrooman, ***[Map of New York City showing concrete socialism in red, and private enterprises in white, 1895](https://collections.leventhalmap.org/search/commonwealth:fn107c281)*** (1895)
 
