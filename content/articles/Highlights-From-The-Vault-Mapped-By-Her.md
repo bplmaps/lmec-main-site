@@ -37,15 +37,11 @@ During the late 18th and early 19th century, it was common practice for American
 
 Mary Hotz designed this map as a high school student in 1930, for a poster contest celebrating the 300th anniversary of Watertown, Massachusetts. [Her map of historical Watertown](https://collections.leventhalmap.org/search/commonwealth:3f4638525), complete with Native Americans, houses, churches, arsenals, courthouses, taverns, mills, schools and statues was the winning entry. Hotz combined recent and past history in this colorful and detailed map, which she shared with local community clubs, and President Calvin Coolidge, who had family ties to the town. She eventually attended art school in Boston, but never practiced professionally; however, her map appeared in official buildings and private residences throughout Watertown for years.
 
-#### Fuller & Whitney, c.e., ***[Plan of region west of Back Bay Park, Boston, Mass. : proposed improvements](https://collections.leventhalmap.org/search/commonwealth:t722mh264)*** (1886)
+#### Agnes Sinclair Holbrook (fl. 1867-1897), [“Nationalities Map No. 1,” from Hull-House Maps and Papers …](https://collections.leventhalmap.org/search/commonwealth:3f4636086) (1895)
 
-*Selected by Claire Tratnyek, Learning Resource Specialist*
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463609g/full/1200,/0/default.jpg" class="" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65mk135/full/1200,/0/default.jpg" class="" >}}
-
-[This 1886 map](https://collections.leventhalmap.org/search/commonwealth:t722mh264) with overlays of what is now known as the Fenway neighborhood of Boston shows an array of possible configurations for a new neighborhood that would be created entirely anew at the tail-end of the decades-long project of filling in Boston’s Back Bay. Would the streets along Frederick Law Olmsted’s Muddy River Park (then still in progress) be gridded and regular, or would they be sinuous and curving, like the river itself? 
-
-> “When I first moved to Boston in 2007, I lived across the park on The Fenway near Westland Avenue, and have since seen the neighborhood grow and change quite a bit — although perhaps not nearly as much as it did in the late 1800s!”
+Designed by Agnes Sinclair Holbrook, a Wellesley College graduate and resident of Chicago’s Hull-House, this thematic map of the neighborhood east of the House illustrates the immigrant population living in the area. A female-based social settlement in Chicago’s Near West Side, Jane Addams founded the settlement house in 1889, offering newcomers childcare as well as classes in English and civics. Hull-House played an important role in social reforms of the late 19th-century, and its residents were responsible for transcribing, interpreting and mapping statistical data for the map displayed here. Part of a set of four, [the map](https://collections.leventhalmap.org/search/commonwealth:3f4636086) is heavily influenced by earlier statistical mapping by Charles Booth’s wage maps of London, first published in 1889. This statistical cartographic presentation foreshadows GIS mapping – using color and statistics to present social facts.
 
 #### Lucy Durfee, ***[New England](https://collections.leventhalmap.org/search/commonwealth:2801vh693)*** (1834)
 
