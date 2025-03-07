@@ -67,15 +67,11 @@ Toy Lasker was the founder and publisher of Flashmaps, Inc., a company that crea
 
 The Green Map System based in New York City and founded by Wendy Brawer, has for decades focused on the environment, sustainability and culture, in an effort to create a healthier and greener place to live. Green Map NYC calls on city residents using GIS technology to create maps of their neighborhoods reflecting issues that are important to them. Thematic maps created from statistical data, such as [the energy-use map displayed here](https://bpl.bibliocommons.com/v2/record/S75C4727385), help visualize the impact of an urban way of living on the natural environment. Created after the New York City blackout in 2003, this map was intended to raise awareness of energy consumption and conservation.
 
-#### John Kirtland Wright, ***[Panorama from the Pinnacle ("Acorn Hill," 1371'), Lyme, N.H.](https://collections.leventhalmap.org/search/commonwealth:00002h22g)*** (1966)
+#### Sarah Bell, Denali Peak (2022?)
 
-*Selected by Garrett Dash Nelson, President and Head Curator*
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/476390817_18487483150050767_4933809322279444140_n.jpg" class="" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zw131n81k/full/1200,/0/default.jpg" class="" >}}
-
-This series of panoramic views draws us into the personal connections between geographers and the places they love. John Kirtland Wright (1891–1969) was an important academic geographer and for many years served as the librarian of the American Geographical Society. He retired to New Hampshire and in 1966, he sketched [this panoramic view](https://collections.leventhalmap.org/search/commonwealth:00002h22g) of “The Pinnacle,” a small rocky rise also known as Acorn Hill. Though at first these sketches might seem like a straightforward reference guide to the regional landscape, the full set of sheets draw the reader into stories of natural and human history that together make up a fully “place-based” study that is a hallmark of geography’s interdisciplinary tendencies. 
-
-> “I can't promise this is my absolute *favorite* map in the collections, but just one that might get overlooked and which tells an interesting story. It’s a document which bears not only the unmistakable imprint of Wright’s professional training as a geographer and cartographer, but also the personal or even spiritual connection the elderly Wright must have felt towards this place.”
+Created by notable modern cartographer, Sarah Bell, this map depicts Denali, the highest peak in North America at 20,310 feet (6,190 m). It was named by the Koyukon people centuries ago, and means ‘Great One.’ The mountain is popular among climbers and mountaineers and Denali National Park is centered on this great mountain. So far in her career as a cartographer and data visualization specialist, Bell has done work for the U.S. Forest Service, the National Park Service, Western Washington University’s Resilience Institute, as well as a number of private institutions.
 
 #### National Geographic Society (U.S.), ***[Earth at Night](https://bpl.bibliocommons.com/v2/record/S75C2785584)*** (2004)
 
