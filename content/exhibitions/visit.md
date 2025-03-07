@@ -7,13 +7,12 @@ description: Information for visiting our gallery in person in Copley Square
 weight: '1'
 ---
 
-{{\</ alert-box >}}
 
 Our exhibitions gallery is free to the public, and no advance booking is necessary to view exhibitions. Plan to set aside between 30 minutes and 1½ hours for a full experience in the Gallery, though you are always welcome to spend more or less time, and to come back for multiple visits. The Gallery features captions and activities for children and families as well as adults.
 
 ## Visiting Hours
 
-{{\< hours-table >}}
+{{< hours-table >}}
 
 ## Directions
 
@@ -31,7 +30,7 @@ Our free gallery tours last approximately 30 minutes and do not require advance 
 
 ## Special Exhibition Events
 
-{{\< event-tag-listing tag="Exhibition" >}}
+{{< event-tag-listing tag="Exhibition" >}}
 
 ## Group and Education Visits
 
