@@ -61,15 +61,11 @@ Maine-based artist Mildred Burrage created many paintings and drawings throughou
 
 Toy Lasker was the founder and publisher of Flashmaps, Inc., a company that created thematic maps and guidebooks which focused on topics of interest to residents, tourists and the business community. She produced 3 million maps of various major cities and popular tourist destinations before selling the company to Random House in 1987. Lasker conceived and designed the maps displayed here in 1967, partnering with New York Magazine to create[ this cartographic key](https://bpl.bibliocommons.com/v2/record/S75C380008) to Manhattan art galleries, museums, restaurants, parks, theatres, shops and transportation. These popular maps were used decades ago similar to how smartphones are used today to navigate cities – helping visitors locate their places of interest.
 
-#### Walter Vrooman, ***[Map of New York City showing concrete socialism in red, and private enterprises in white, 1895](https://collections.leventhalmap.org/search/commonwealth:fn107c281)*** (1895)
+#### Green Map System; Wendy E. Brawer, [Powerful Green Map NYC: Charting the Energy in New York’s Environment](https://bpl.bibliocommons.com/v2/record/S75C4727385) (2006)
 
-*Selected by Ian Spangler, Assistant Curator for Digital and Participatory Geography*
+{{< figure src="https://www.leventhalmap.org/wp-content/uploads/2018/06/wic_35.jpg" class="" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c299/full/,1200/0/default.jpg" class="" >}}
-
-[This map](https://collections.leventhalmap.org/search/commonwealth:fn107c281) uses a clever technique to argue that New York City was already a mostly socialist community by the end of the 19th century. It uses just two colors: red, the printing color, and the negative white space of the paper color. The red area shows the parts of the city that were putatively “socialist” already—things like roads, parks, bridges, and wharves that were owned and managed by the public. Only the leftover space was devoted to private enterprises. If the government could already handle so much of the infrastructure that made city life possible, this map seems to argue, its role could be expanded into a full socialist control of the economy.
-
-> “I love this map because it serves as a powerful reminder of where public goods are located in the world around us. Where do you see public, shared goods in your everyday life?”
+The Green Map System based in New York City and founded by Wendy Brawer, has for decades focused on the environment, sustainability and culture, in an effort to create a healthier and greener place to live. Green Map NYC calls on city residents using GIS technology to create maps of their neighborhoods reflecting issues that are important to them. Thematic maps created from statistical data, such as [the energy-use map displayed here](https://bpl.bibliocommons.com/v2/record/S75C4727385), help visualize the impact of an urban way of living on the natural environment. Created after the New York City blackout in 2003, this map was intended to raise awareness of energy consumption and conservation.
 
 #### John Kirtland Wright, ***[Panorama from the Pinnacle ("Acorn Hill," 1371'), Lyme, N.H.](https://collections.leventhalmap.org/search/commonwealth:00002h22g)*** (1966)
 
