@@ -37,21 +37,17 @@ During the late 18th and early 19th century, it was common practice for American
 
 Mary Hotz designed this map as a high school student in 1930, for a poster contest celebrating the 300th anniversary of Watertown, Massachusetts. [Her map of historical Watertown](https://collections.leventhalmap.org/search/commonwealth:3f4638525), complete with Native Americans, houses, churches, arsenals, courthouses, taverns, mills, schools and statues was the winning entry. Hotz combined recent and past history in this colorful and detailed map, which she shared with local community clubs, and President Calvin Coolidge, who had family ties to the town. She eventually attended art school in Boston, but never practiced professionally; however, her map appeared in official buildings and private residences throughout Watertown for years.
 
-#### Agnes Sinclair Holbrook (fl. 1867-1897), [“Nationalities Map No. 1,” from Hull-House Maps and Papers …](https://collections.leventhalmap.org/search/commonwealth:3f4636086) (1895)
+#### Agnes Sinclair Holbrook, [“Nationalities Map No. 1,” from Hull-House Maps and Papers …](https://collections.leventhalmap.org/search/commonwealth:3f4636086) (1895)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463609g/full/1200,/0/default.jpg" class="" >}}
 
 Designed by Agnes Sinclair Holbrook, a Wellesley College graduate and resident of Chicago’s Hull-House, this thematic map of the neighborhood east of the House illustrates the immigrant population living in the area. A female-based social settlement in Chicago’s Near West Side, Jane Addams founded the settlement house in 1889, offering newcomers childcare as well as classes in English and civics. Hull-House played an important role in social reforms of the late 19th-century, and its residents were responsible for transcribing, interpreting and mapping statistical data for the map displayed here. Part of a set of four, [the map](https://collections.leventhalmap.org/search/commonwealth:3f4636086) is heavily influenced by earlier statistical mapping by Charles Booth’s wage maps of London, first published in 1889. This statistical cartographic presentation foreshadows GIS mapping – using color and statistics to present social facts.
 
-#### Lucy Durfee, ***[New England](https://collections.leventhalmap.org/search/commonwealth:2801vh693)*** (1834)
+#### Mildred Giddings Burrage, [The attack on Bunker Hill in the peninsula of Charlestown the 17th of June 1775](https://collections.leventhalmap.org/search/commonwealth:3f463832p) (1926)
 
-*Selected by Nicole Claris, Director of Education*
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463833z/full/1200,/0/default.jpg" class="" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633m419q/full/,1200/0/default.jpg" class="" >}}
-
-During the late 18th and early 19th century, it was common practice for American female students attending private academies to prepare maps of various parts of the world by copying maps from books or atlases. Most often, girls were taught by female instructors, who drew maps themselves to demonstrate geographic, artistic and design skills to their pupils. Potentially based on Jesse Olney's 1829 Map of the eastern states, it’s thought that the cartographer is possibly Lucy Durfee (Borden) of Rhode Island, 1821-1890, daughter of politician and jurist Job Durfee.
-
-> “I was one of those kids that LOVED a school assignment. I don’t know how Lucy Durfee felt making [this map](https://collections.leventhalmap.org/search/commonwealth:2801vh693) in 1834. Looking at it today—I see the care she took in delineating the coastlines, the neat lettering she used to label everything, and the precise application of color. It makes me want a box of sharpened colored pencils.”
+Maine-based artist Mildred Burrage created many paintings and drawings throughout her career, which began in the early 20th-century. Burrage studied art in both America and Europe, and created numerous impressionist works while staying in France. In the 1920s, she executed several relief-paintings based on historic maps, prints, engravings and photographs. The gesso relief painting displayed here is similar to a vignette illustrated in Sayer and Bennett’s 1775 map “The Seat of War in New England.” [Here](https://collections.leventhalmap.org/search/commonwealth:3f463832p) Burrage has enlarged the battle scene, and used a gesso (white paint mixture) build-up to show relief. She added gold leaf to the piece for added decorative flare.
 
 #### Augustus Kollner & Morris H. Traubel, ***[The Hymenial Expositor, or, Matrimonial Chart](https://collections.leventhalmap.org/search/commonwealth:q524n427b)*** (1849)
 
