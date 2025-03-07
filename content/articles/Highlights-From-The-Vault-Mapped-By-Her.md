@@ -29,17 +29,13 @@ This selection of maps was intended to help visitors encounter works by female m
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3n206f808/full/1200,/0/default.jpg" class="" >}}
 
-During the late 18th and early 19th century, it was common practice for American female students attending private academies to prepare maps of various parts of the world by copying maps from books or atlases. Most often, girls were taught by female instructors, who drew maps themselves to demonstrate geographic, artistic and design skills to their pupils. This map of Massachusetts was done using ink and watercolor by a schoolgirl, Eliza Tileston and was possibly gifted to a friend, as the message “To Clara” is written on verso in lower left.
+During the late 18th and early 19th century, it was common practice for American female students attending private academies to prepare maps of various parts of the world by copying maps from books or atlases. Most often, girls were taught by female instructors, who drew maps themselves to demonstrate geographic, artistic and design skills to their pupils. [This map of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:mw22xn331) was done using ink and watercolor by a schoolgirl, Eliza Tileston and was possibly gifted to a friend, as the message “To Clara” is written on verso in lower left.
 
-#### William M. Coombs, ***[Map showing the sources of some of the offensive odors perceived in Boston, 1878](https://collections.leventhalmap.org/search/commonwealth:w3765q66z)*** (1878)
+#### Mary B. Hotz, [Historical map of Watertown, 1630-1930](https://collections.leventhalmap.org/search/commonwealth:3f4638525) (1930)
 
-*Selected by Emily Bowe, Assistant Director*
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463853f/full/1200,/0/default.jpg" class="" >}}
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71r300q/full/,1200/0/default.jpg" class="" >}}
-
-This map from 1878 was made by the Boston Board of Health, at a time when the growing city was confronting issues about waste and public health. In red hatching, you'll see "mud-sewage flats" depicted in once-marshy areas of the city. You may also notice the numbered red dots along the edges of the wharves and land, indicating locations of sewage outlets. The makers of [the map](https://collections.leventhalmap.org/search/commonwealth:w3765q66z) have drawn red arrows indicating the wind direction, which makes it easy to see which parts of the city would have been impacted by "offensive odors." 
-
-> “I love this map because it helps visitors imagine the experience of walking through Boston streets in the late nineteenth century. It was probably pretty smelly to be in the newly-built Back Bay neighborhood, with the prevailing winds bringing smells of "mud-sewage flats" to where you're standing!”
+Mary Hotz designed this map as a high school student in 1930, for a poster contest celebrating the 300th anniversary of Watertown, Massachusetts. [Her map of historical Watertown](https://collections.leventhalmap.org/search/commonwealth:3f4638525), complete with Native Americans, houses, churches, arsenals, courthouses, taverns, mills, schools and statues was the winning entry. Hotz combined recent and past history in this colorful and detailed map, which she shared with local community clubs, and President Calvin Coolidge, who had family ties to the town. She eventually attended art school in Boston, but never practiced professionally; however, her map appeared in official buildings and private residences throughout Watertown for years.
 
 #### Fuller & Whitney, c.e., ***[Plan of region west of Back Bay Park, Boston, Mass. : proposed improvements](https://collections.leventhalmap.org/search/commonwealth:t722mh264)*** (1886)
 
