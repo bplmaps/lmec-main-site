@@ -71,14 +71,12 @@ The Green Map System based in New York City and founded by Wendy Brawer, has for
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/476390817_18487483150050767_4933809322279444140_n.jpg" class="" >}}
 
-Created by notable modern cartographer, Sarah Bell, this map depicts Denali, the highest peak in North America at 20,310 feet (6,190 m). It was named by the Koyukon people centuries ago, and means ‘Great One.’ The mountain is popular among climbers and mountaineers and Denali National Park is centered on this great mountain. So far in her career as a cartographer and data visualization specialist, Bell has done work for the U.S. Forest Service, the National Park Service, Western Washington University’s Resilience Institute, as well as a number of private institutions.
+Created by notable modern cartographer, [Sarah Bell](https://www.sarahbellmaps.com/portfolio/), this map depicts Denali, the highest peak in North America at 20,310 feet (6,190 m). It was named by the Koyukon people centuries ago, and means ‘Great One.’ The mountain is popular among climbers and mountaineers and Denali National Park is centered on this great mountain. So far in her career as a cartographer and data visualization specialist, Bell has done work for the U.S. Forest Service, the National Park Service, Western Washington University’s Resilience Institute, as well as a number of private institutions.
 
-#### National Geographic Society (U.S.), ***[Earth at Night](https://bpl.bibliocommons.com/v2/record/S75C2785584)*** (2004)
+#### Meghan Kelly, [Current Reservations and Tribal Lands](https://wisconsinfirstnations.org/current-tribal-lands-map-native-nations-facts/) (2018)
 
-*Selected by Lauren Chen, Reference and Cataloging Librarian*
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Current-Tribal-Lands-Map-and-Facts-Poster_PDF.jpg" class="" >}}
 
-{{< figure src="https://images.natgeomaps.com/PROD_LG_1000px/HM20041102_1_LG.jpg" class="" >}}
+Created to orient students to their “Native neighbors” by showcasing the local tribal lands and nations of Wisconsin, [Meghan Kelly](https://meghankelly-cartography.github.io/) designed [this map](https://wisconsinfirstnations.org/current-tribal-lands-map-native-nations-facts/) with the input and partnership from a number of tribal and state organizations. Intended for classroom use, this map gracefully distills vast amounts of tribal history and complex boundaries to a tool everyone from children to adults can navigate. 
 
-This map was created by combining satellite imagery from cloud-free nights, taken by three satellites over a one-year period. In addition to the human infrastructure typically shown on these types of maps, [this map](https://bpl.bibliocommons.com/v2/record/S75C2785584) also shows fires (yellow), natural gas burn-off (red), and night fishing (blue).
-
-> “I like this map because it has a lot of visual appeal and, unlike other maps depicting the world at night, this one clearly shows the lights of seafaring ships and vessels.”
+Meghan Kelly is the Center’s next [Designer-In-Residence](https://www.leventhalmap.org/research/designer-in-residence/) and will spend time this June working with the LMEC collections, producing original material in collaboration with Center staff, and working on her own independent creative cartographic projects.
