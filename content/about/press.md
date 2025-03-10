@@ -20,9 +20,9 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 **Recent Press**
 
-[KSAT.com - Trump isn't alone in his geopolitical aspirations. Some in Illinois and Oregon want change too](https://www.ksat.com/news/national/2025/03/09/trump-isnt-alone-in-his-geopolitical-aspirations-some-in-illinois-and-oregon-want-change-too/)
+[KSAT.com - *Trump isn't alone in his geopolitical aspirations. Some in Illinois and Oregon want change too*](https://www.ksat.com/news/national/2025/03/09/trump-isnt-alone-in-his-geopolitical-aspirations-some-in-illinois-and-oregon-want-change-too/)
 
-[Boston Globe - Mapping the truth](https://www.bostonglobe.com/video/2025/02/25/multimedia/video/boston-globe-today/bgt-segments/mapping-the-truth/)
+[Boston Globe - *Mapping the truth*](https://www.bostonglobe.com/video/2025/02/25/multimedia/video/boston-globe-today/bgt-segments/mapping-the-truth/)
 
 [Brandeis University - *Boston Public Library Showcases Undergraduate Student Essays on Urban Transformation in Waltham*](https://www.brandeis.edu/arts-sciences/news-events/stories/urban-worlds.html)
 
@@ -132,12 +132,3 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 * 2019-10-28: [Norman B. Leventhal Map & Education Center at the Boston Public Library Announces Opening of “Homesteads to Modern Cities” Exhibit](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EXHbgU1j1c9HmmSoQe4p3uwBp6MMa7Ot9Z5OiDHsQwsnQQ?e=IaEQVK)
 * 2019-04-22: [Norman B. Leventhal Map Center at the Boston Public Library Announces Year-Long Exhibition Exploring America’s Westward Expansion](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/ERmcqRcqHexMnYETXX1M-RgBLZirf2nmxu6NAX9eIvjU4w?e=veaWeH)
 * 2019-04-04: [Norman B. Leventhal Map & Education Center Announces New Map Curator](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EXx6wZ7YkllBiMb-Xx8TOrcBRRnGWk0naAv1M0ubWNd-Fw?e=dlXuf8)
-
-**2018**
-
-* 2018-10-02: [Leventhal Map & Education Center Explores Relationships Between Art and Maps in New Exhibition](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EU710y3unWBNmhkC9Z0OXBsBsiieUdUZM0lk6DOD4EmIHw?e=rmibBH)
-* 2018-06-06: [Leventhal Map & Education Center celebrates Immigrant Heritage Month with a Special Exhibition at City Hall](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EbgjiZ5Y0ytNqCvxJ2a3LLwBIPukpSteFQPxNsNGSo15ng?e=dDqI8C)
-* 2018-05-23: [Leventhal Map & Education Center Presents Panel on the Future of Green Spaces](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EXMheZmRk9NMpP_cVQeHDY4BP-VOgsBW9zNM5I4KPdnpPA?e=KqtT24)
-* 2018-03-21: [Exploring Three Centuries of Boston’s Green Spaces: Norman B. Leventhal Map & Education Center at the Boston Public Library Announces New Exhibition](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/ESiZOnuYjqtAufotqeulgBkB_IKfO-QEuA4MDfFIGpPfpw?e=GyIC0G)
-* 2018-03-01: [Leventhal Map & Education Center Announces Three New Board Members](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/EUZlrxETftRPvDadpeDVR6kByndvuAjx0k0mirZEgivqmQ?e=NGdTKk)
-* 2018-01-08: [Norman B. Leventhal Map Center at the Boston Public Library Receives Grant to Open Access to Boston Urban Atlases from Council on Library and Information Resource](https://bostonpubliclibrary.sharepoint.com/:b:/s/LeventhalMap/ETQuJHFUt9RKgwEtJWkftboBUkWgX-rNtLyAelWROnNQmQ?e=h10NBS)
