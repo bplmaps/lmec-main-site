@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: The Greater Boston Digital Research and Pedagogy Symposium
 date: 2025-04-11T13:00:00.000Z
 publishDate: 2025-03-10T04:00:00.000Z
