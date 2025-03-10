@@ -20,13 +20,13 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 **Recent Press**
 
+[KSAT.com - Trump isn't alone in his geopolitical aspirations. Some in Illinois and Oregon want change too](https://www.ksat.com/news/national/2025/03/09/trump-isnt-alone-in-his-geopolitical-aspirations-some-in-illinois-and-oregon-want-change-too/)
+
+[Boston Globe - Mapping the truth](https://www.bostonglobe.com/video/2025/02/25/multimedia/video/boston-globe-today/bgt-segments/mapping-the-truth/)
+
 [Brandeis University - *Boston Public Library Showcases Undergraduate Student Essays on Urban Transformation in Waltham*](https://www.brandeis.edu/arts-sciences/news-events/stories/urban-worlds.html)
 
 [WCVB Chronicle - *Comparing Boston's past to present with historic media*](https://www.wcvb.com/article/boston-massachusetts-history-maps-photography-historic-atlascope-cityscapes-of-boston/61754700)
-
-[bostoncentral.com - *Boston Public Library - Copley Branch (hours, parking, tea)*](https://www.bostoncentral.com/boston-public-library-copley-interior)
-
-*[IIIF Consortium Welcomes Two New Associate Members](https://iiif.io/news/2023/07/05/4science-leventhal-BPL/)*
 
 **Press for *Atlascope***
 
