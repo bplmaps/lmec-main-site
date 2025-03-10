@@ -100,6 +100,10 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 ## Press Releases
 
+**2025**
+
+* [New Exhibition “Terrains of Independence” Opens at Leventhal Map & Education Center April 3, 2025](https://www.bpl.org/news/new-exhibition-terrains-of-independence-opens-at-leventhal-map-education-center-april-3-2025/)
+
 **2024**
 
 * [New Exhibition Examines the Rise of Computer Mapping and how Handcraft and Human Decisions are an Essential Part of the Process ](https://www.leventhalmap.org/about/press-releases/processing-place-press-release/)
