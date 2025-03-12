@@ -61,4 +61,4 @@ An application consists of the following material submitted by **Monday, May 19,
 
 Successful applicants will be notified by **July 20, 2024**.
 
-<button href="https://tally.so/r/nPk8kb" class="btn btn-primary" >Apply today</button>
+<a href="https://tally.so/r/nPk8kb" target='blank' class="btn btn-primary-outline btn-sm" ><i class="fa-solid fa-rocket me-2"></i>Apply today</a>
