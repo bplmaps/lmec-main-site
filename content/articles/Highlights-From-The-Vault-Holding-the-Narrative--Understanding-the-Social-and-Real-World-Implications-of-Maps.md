@@ -26,7 +26,7 @@ Maps and atlases hold the power of expressing (or not expressing) certain perspe
 
 While looking through the maps and captions of Holding the Narrative: Understanding the Social and Real World Implications of Maps, consider what narratives you know about the continent and invite yourself to question what’s being shown in each map—from its physical features down to the historical context behind their creation.
 
-#### Guillaume de L'Isle, [Carte de la Barbarie le la Nigritie et de la Guinée](https://collections.leventhalmap.org/search/commonwealth:wd3765401) (1707)
+#### Guillaume de L'Isle, ***[Carte de la Barbarie le la Nigritie et de la Guinée](https://collections.leventhalmap.org/search/commonwealth:wd3765401)*** (1707)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765419/full/1200,/0/default.jpg" class="" >}}
 
