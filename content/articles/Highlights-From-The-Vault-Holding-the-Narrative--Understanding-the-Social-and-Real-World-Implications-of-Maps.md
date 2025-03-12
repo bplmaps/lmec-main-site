@@ -1,13 +1,13 @@
 ---
 draft: false
 title: >-
-  Highlights From The Vault: Holding the Narrative — Understanding the Social
+  Highlights From The Vault — Holding the Narrative: Understanding the Social
   and Real World Implications of Maps
 date: 2025-02-21T19:00:00.000Z
 author: Zaila Alves
 description: >-
-  Check out these highlights from February 21, 2025 From The Vault: Holding the
-  Narrative — Understanding the Social and Real World Implications of Maps. This
+  Check out these highlights from February 21, 2025 From The Vault — Holding the
+  Narrative: Understanding the Social and Real World Implications of Maps. This
   event was curated by Zaila Alves, the Visitor Services & Operations Assistant.
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z890s2943/131,4539,6351,2571/1200,/0/default.jpg
