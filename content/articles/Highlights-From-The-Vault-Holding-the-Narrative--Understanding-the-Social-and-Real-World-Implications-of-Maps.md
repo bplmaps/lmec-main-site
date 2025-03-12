@@ -59,11 +59,13 @@ European powers were in danger of infighting in the late 1800s due to the speed 
 
 At the time of [this map’s](https://collections.leventhalmap.org/search/commonwealth:x633fb524) conception, the European countries listed on the map had claimed 10% of the African continent and its islands. Notably, their only claims at this point had been land along the coastline, islands, or rivers, as all were easily accessible by sea compared to the terrain more in-land on the continent. Land south of the Sahara desert was relatively unknown to European voyagers. The threat of malaria and other tropical diseases that Europeans had no defenses for also made it difficult for them to invade civilizations that lay further in-land.  
 
-#### Augustus Kollner & Morris H. Traubel, ***[The Hymenial Expositor, or, Matrimonial Chart](https://collections.leventhalmap.org/search/commonwealth:q524n427b)*** (1849)
+#### William R. Shepherd, [The partition of Africa](https://collections.leventhalmap.org/search/commonwealth:3f4637359#image) (1911)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n428m/full/,1200/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463736k/full/1200,/0/default.jpg" >}}
 
-This rather cynical bird’s-eye view map portraying the trials and tribulations of love and romance, as imagined in the context of mid-19th century life, is a cathartic break for some viewers who find themselves unsatisfied by what they perceive as ‘biased and sappy’ portrayals of love. With an image of a traditional marriage ceremony underneath the title, [this map](https://collections.leventhalmap.org/search/commonwealth:q524n427b) rather surprisingly does not shy away from showing some of the stark realities that come with partnership and the many directions it can go. This can be seen quite clearly by the compass rose in the lower-left corner depicting the cardinal directions as "Hope", "Love", "Despair", and "Hatred".
+In the twenty-seven years after the Berlin Conference of 1884-1885, colonization of the African continent developed rapidly past the initial establishment of colonial claims due to the final conference negotiations, which had allowed European countries to pick apart the continent as fast as they could. By 1914, a mere three years after [this map’s](https://collections.leventhalmap.org/search/commonwealth:3f4637359#image) creation, 90% of the African continent was under some measure of European control—either for extractive purposes or establishing settler colonies.
+
+At the same time, World War I was beginning, and many of these colonies, as extensions of the occupying European countries, sent their indigenous inhabitants to fight on behalf of these colonist empires.
 
 #### J. R. Chapin, ***[A bird's-eye view of Providence : showing the new railroad station and State House](https://collections.leventhalmap.org/search/commonwealth:4m90fn39p)*** (1895)
 
