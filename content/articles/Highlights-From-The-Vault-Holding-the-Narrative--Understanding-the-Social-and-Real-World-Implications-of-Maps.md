@@ -30,15 +30,19 @@ While looking through the maps and captions of Holding the Narrative: Understand
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3765419/full/1200,/0/default.jpg" class="" >}}
 
-The parts of northwestern Africa that makes up parts of modern day Mali, Burkina Faso, Niger, Nigeria, the Central African Republic and Chad form the green region entitled “Nigritie” in the mapped subsection of northwestern Africa. “Nigritie” was a derogatory term coined by Europeans to describe this specific African region before the time of widespread European colonization. It had multiple variations across Europe, including “Negroland”, which was the term used amongst English speakers in the seventeenth and eighteenth centuries.
+[This map](https://collections.leventhalmap.org/search/commonwealth:wd3765401) shows the parts of northwestern Africa that makes up parts of modern day Mali, Burkina Faso, Niger, Nigeria, the Central African Republic and Chad form the green region entitled “Nigritie” in the mapped subsection of northwestern Africa. “Nigritie” was a derogatory term coined by Europeans to describe this specific African region before the time of widespread European colonization. It had multiple variations across Europe, including “Negroland”, which was the term used amongst English speakers in the seventeenth and eighteenth centuries.
 
 In fact, many of the modern names of African countries came from either the language spoken by European traders (Greek, Latin, Arabic, or Portuguese most often), European mispronunciations of place names given by the indigenous people of the region, or geographical features. Names hold the power to make places real, which is why many Africans choose to either refer to themselves by ethnic group or, more generally, as pan-African.
 
-#### William M. Coombs, ***[Map showing the sources of some of the offensive odors perceived in Boston, 1878](https://collections.leventhalmap.org/search/commonwealth:w3765q66z)*** (1878)
+#### Johnston, Harry H. & J. G. Bartholomew, [Colonizability of Africa](https://digital.library.cornell.edu/catalog/ss:31923299) (1899)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71r300q/full/,1200/0/default.jpg" class="" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/PJM_2507_01.jpg" class="" >}}
 
-This map from 1878 was made by the Boston Board of Health, at a time when the growing city was confronting issues about waste and public health. In red hatching, you'll see "mud-sewage flats" depicted in once-marshy areas of the city. You may also notice the numbered red dots along the edges of the wharves and land, indicating locations of sewage outlets. The makers of [the map](https://collections.leventhalmap.org/search/commonwealth:w3765q66z) have drawn red arrows indicating the wind direction, which makes it easy to see which parts of the city would have been impacted by "offensive odors." 
+This map is a part of a 300-page work by Sir Harry H. Johnston entitled “A History of the Colonization of Africa by Alien Races” (1899) that categorizes parts of Africa using the code word "health" to describe what type of colonialism would work best in a given area. Racist language throughout Johnston's explanatory note portrays Africa as a place seemingly "owed" to Britain, even to the extent of forced labor and expected obedience. 
+
+Settler colonialism is alluded to by the "Healthy colonizable Africa" and "Fairly healthy Africa" categories, with the "Unhealthy but exploitable Africa" category describing extractive colonialism, where the indigenous population was to be kidnapped and enslaved.
+
+As a longtime British colonial administrator in the late 19th century, Johnston would have been seen as an authority figure on knowledge about the African continent for those in the United Kingdom, thus he held power in shaping the way people thought of the continent. If you’re interested in learning more about Johnston and [this map](https://digital.library.cornell.edu/catalog/ss:31923299) in relation to establishing power in empires, check out our past exhibition [Bending Lines](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) on our website under "past exhibitions". 
 
 #### Fuller & Whitney, c.e., ***[Plan of region west of Back Bay Park, Boston, Mass. : proposed improvements](https://collections.leventhalmap.org/search/commonwealth:t722mh264)*** (1886)
 
