@@ -59,6 +59,15 @@ The Dana F. Perkins, Inc. surveying records consists of surveys, notebooks, and 
 
 ***
 
+### Richard K. Grady Papers
+
+The Richard K. Grady papers consist primarily of work notes and maps produced by the American geographic information systems professional and cartographer Richard K. Grady (1955-) or by the companies for which he worked. The work notes exemplify map design and production in the late 20th century during the development and implementation of computer-assisted mapmaking technologies. The Papers also contains materials about printing, traditional cartography, and computerized map production. The collection includes manuscript notes; administrative documents; maps and atlases; books; drafts and overlay films for creating offset printing plates; newspaper
+clippings; and 35 mm slides. Work materials comprise work at Cities, Inc., Esselte Map Service USA, Intergraph Corporation, and design of a map of Killington Ski Area, Vermont.
+
+<a href="https://archives.bpl.org/repositories/2/resources/171" class="btn btn-primary-outline btn-xs"><i class="fas fa-passport me-2"></i> Go to finding aid</a>
+
+***
+
 ### Annie Olmstead Peet Papers
 
 {{< figure src="/uploads/2022-01-24/peet.jpg" alt="Pictorial map of the Genesee Country before 1850" caption="Pictorial map of the Genesee Country before 1850 drawn by Annie Olmstead Peet" class="figure-right" >}}
