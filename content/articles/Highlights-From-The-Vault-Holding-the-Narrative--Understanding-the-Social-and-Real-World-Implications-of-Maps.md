@@ -82,6 +82,6 @@ Although highly detailed, especially around the coast of West Africa, is it key 
 
 #### Robert D. Wilkinson, ***[Africa, including the Mediterranean](https://collections.leventhalmap.org/search/commonwealth:z890s293t)*** \[1808–1822]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:zw131n81k/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z890s2943/full/1200,/0/default.jpg" class="" >}}
 
 [This topographic map’s most striking features](https://collections.leventhalmap.org/search/commonwealth:z890s293t) are the numerous mountain ranges covering the continent, however, many of those mountain ranges are not present on any modern satellite images. Like most maps at this time period, this map features the “Mountains of the Moon”, whose snowmelt runoff was thought to be the source of the Nile River. The mountain range, lying horizontally north of the land labeled “Ethiopia”, while fictional, does have slight similarities to the real life Rwenzori Mountains that lie close to Lake Albert, where the White Nile, one of the offshoots of the Nile river empties into. While Africa certainly has mountain ranges on the continent, neither the Mountains of the Moon or the Mountains of Kong (said to be in West Africa near the Niger River’s source) exist.
