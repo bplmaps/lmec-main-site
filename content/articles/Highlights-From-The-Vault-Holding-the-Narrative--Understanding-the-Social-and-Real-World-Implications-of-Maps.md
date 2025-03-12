@@ -44,11 +44,14 @@ Settler colonialism is alluded to by the "Healthy colonizable Africa" and "Fairl
 
 As a longtime British colonial administrator in the late 19th century, Johnston would have been seen as an authority figure on knowledge about the African continent for those in the United Kingdom, thus he held power in shaping the way people thought of the continent. If you’re interested in learning more about Johnston and [this map](https://digital.library.cornell.edu/catalog/ss:31923299) in relation to establishing power in empires, check out our past exhibition [Bending Lines](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) on our website under "past exhibitions". 
 
-#### Fuller & Whitney, c.e., ***[Plan of region west of Back Bay Park, Boston, Mass. : proposed improvements](https://collections.leventhalmap.org/search/commonwealth:t722mh264)*** (1886)
+#### United States. Central Intelligence Agency, [Africa, ethnolinguistic groups](https://collections.leventhalmap.org/search/commonwealth:q524n623n) (1996)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ks65mk135/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n624x/full/1200,/0/default.jpg" >}}
 
-[This 1886 map](https://collections.leventhalmap.org/search/commonwealth:t722mh264) with overlays of what is now known as the Fenway neighborhood of Boston shows an array of possible configurations for a new neighborhood that would be created entirely anew at the tail-end of the decades-long project of filling in Boston’s Back Bay. Would the streets along Frederick Law Olmsted’s Muddy River Park (then still in progress) be gridded and regular, or would they be sinuous and curving, like the river itself? 
+
+The fifteen major ethnolinguistic groups shown in [this map](https://collections.leventhalmap.org/search/commonwealth:q524n623n) are each represented by a colored region that encompasses the tribes or ethnic groups within it. The spread of ethnolinguistic groups across Africa are not confined by the boundaries of modern countries, and can overlap, as is the case of northwestern Nigeria. In the same vein, many countries have as many as 4 ethnolinguistic groups within their borders. So, if the borders of countries do not exist to encompass ethnolinguistic groups, then why do they exist the way that they do?
+
+European powers were in danger of infighting in the late 1800s due to the speed at which each country was expanding their imperialist agenda to Africa. The Berlin Conference of 1884-1885 met to solve this very issue by drawing borders and parceling off each of the newly formed 50 European colonies to each other. Since then, the number of countries and borders have changed due to newly independent sovereignties being established spanning from the 1920s to the 2010s.
 
 #### Lucy Durfee, ***[New England](https://collections.leventhalmap.org/search/commonwealth:2801vh693)*** (1834)
 
