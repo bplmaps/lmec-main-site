@@ -68,8 +68,6 @@ At the same time, World War I was beginning, and many of these colonies, as exte
 
 #### Allen Carroll, ***[Africa's Natural Realms](https://bpl.bibliocommons.com/v2/record/S75C5120298)*** (2001)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fn40f/full/1200,/0/default.jpg" class="" >}}
-
 [This map](https://bpl.bibliocommons.com/v2/record/S75C5120298) divides Africa's environment by the plants and animals that distinctly characterizes each ecoregion, which are large areas of land made up of many similar ecosystems, rather than grouping together distinctly different ecoregions and defining them as a biome. 
 
 With each zone designated to a unique color, National Geographic shows the extensive number of ecoregions present on the African continent—contrary to the belief in popular media that Africa is simply a desert, rainforest, or savanna. In addition, the specifying of different ecosystems helps portray how vastly different deserts can look depending on its location on the continent.
