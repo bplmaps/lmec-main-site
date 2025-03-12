@@ -6,8 +6,8 @@ title: >-
 date: 2025-03-07T19:00:00.000Z
 author: LMEC Staff
 description: >-
-  Check out these highlights from March 7, 2025 From The Vault: Mapped By Her
-  -The Uncharted Influence of Women in Cartography
+  Check out these highlights from March 7, 2025 From The Vault: Mapped By
+  Her—The Uncharted Influence of Women in Cartography
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463833z/540,5280,7582,3830/1200,/0/default.jpg
 backgroundImage: >-
