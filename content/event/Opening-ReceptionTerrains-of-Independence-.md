@@ -14,6 +14,9 @@ tags:
   - Exhibition
 ---
 
+{{\< alert-box title="Event Details" icon="fas fa-exchange-alt" >}} Registration is required for this program.{{\< /alert-box >}}
+{{\< alert-box title="Registration Update" icon="fas fa-exchange-alt" >}} Registration for this program is currently full.{{\< /alert-box >}}
+
 Please join us for a special reception as we open the Leventhal Map & Education Center's newest exhibition: *Terrains of Independence*.
 
 The opening event will feature gallery tours, a discussion with curators ***Katy Lasdow*** and ***Garrett Dash Nelson***, and light refreshments.
