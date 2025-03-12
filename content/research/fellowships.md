@@ -18,6 +18,7 @@ The Small Grants for Early Career Digital Publications offers a $1200 stipend an
 
 <a href="../digital-publication-small-grants" class="btn btn-primary-outline btn-sm"><i class="fas fa-info-circle me-2"></i> Learn more and apply</a>
 
+
 ## Allmaps Research Fellowships
 
 <span class="badge bg-success font-secondary fw-normal">Applications open on a rolling basis</span>

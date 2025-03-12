@@ -33,7 +33,7 @@ As part of the Small Grant, successful applicants are expected to complete the f
 * Participate in a brief kickoff call in August 2025
 * Meet with LMEC staff for a short scoping call
 * Roughly midway through the completion of their project, grantees will be asked to give a **15-20 minute presentation** to the LMEC staff, intended for recipients to share and receive feedback on their work in progress (this presentation may be completed in-person or virtually)
-* Before **August 30, 2026**, grantees will be expected to produce a 3-5 minute project pitch designed to introduce the project to a wider, non-academic public audience, to be archived on the Center's YouTube page
+* Before **August 30, 2026**, grantees will be expected to produce a 3-5 minute project pitch designed to introduce the project to a wider, non-academic public audience. This may take the form of a live-broadcast digital conversation with the entire cohort of grantees, and the video will be archived on the Leventahl Center's website and digital channels
 * Before **August 30, 2026**, grantees will work with the [Assistant Curator](./../about/people/ian-spangler) to publish their project on the Leventhal Center's website
 
 #### Eligibility
