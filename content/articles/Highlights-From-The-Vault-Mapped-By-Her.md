@@ -1,7 +1,7 @@
 ---
 draft: false
 title: >-
-  Highlights From The Vault: Mapped By Her -The Uncharted Influence of Women in
+  Highlights From The Vault: Mapped By Her—The Uncharted Influence of Women in
   Cartography
 date: 2025-03-07T19:00:00.000Z
 author: LMEC Staff
