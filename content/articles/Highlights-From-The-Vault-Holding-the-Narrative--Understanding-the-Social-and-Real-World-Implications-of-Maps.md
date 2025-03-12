@@ -53,11 +53,11 @@ The fifteen major ethnolinguistic groups shown in [this map](https://collections
 
 European powers were in danger of infighting in the late 1800s due to the speed at which each country was expanding their imperialist agenda to Africa. The Berlin Conference of 1884-1885 met to solve this very issue by drawing borders and parceling off each of the newly formed 50 European colonies to each other. Since then, the number of countries and borders have changed due to newly independent sovereignties being established spanning from the 1920s to the 2010s.
 
-#### Lucy Durfee, ***[New England](https://collections.leventhalmap.org/search/commonwealth:2801vh693)*** (1834)
+#### Ernst Georg Ravenstein, [The graphic map of European possessions in Africa](https://collections.leventhalmap.org/search/commonwealth:x633fb524) (1884)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633m419q/full/,1200/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fb53d/full/1200,/0/default.jpg" class="" >}}
 
-During the late 18th and early 19th century, it was common practice for American female students attending private academies to prepare maps of various parts of the world by copying maps from books or atlases. Most often, girls were taught by female instructors, who drew maps themselves to demonstrate geographic, artistic and design skills to their pupils. Potentially based on Jesse Olney's 1829 Map of the eastern states, it’s thought that the cartographer is possibly Lucy Durfee (Borden) of Rhode Island, 1821-1890, daughter of politician and jurist Job Durfee.
+At the time of [this map’s](https://collections.leventhalmap.org/search/commonwealth:x633fb524) conception, the European countries listed on the map had claimed 10% of the African continent and its islands. Notably, their only claims at this point had been land along the coastline, islands, or rivers, as all were easily accessible by sea compared to the terrain more in-land on the continent. Land south of the Sahara desert was relatively unknown to European voyagers. The threat of malaria and other tropical diseases that Europeans had no defenses for also made it difficult for them to invade civilizations that lay further in-land.  
 
 #### Augustus Kollner & Morris H. Traubel, ***[The Hymenial Expositor, or, Matrimonial Chart](https://collections.leventhalmap.org/search/commonwealth:q524n427b)*** (1849)
 
