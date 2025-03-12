@@ -76,7 +76,7 @@ However, it's key to note that a map is a bit of an oddity, only recently drawn 
 
 #### Mathew Carey, ***[Africa according to the best authorities](https://collections.leventhalmap.org/search/commonwealth:3f462z75f)*** 1800)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c299/full/,1200/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462z76q/full/1200,/0/default.jpg" class="" >}}
 
 Although highly detailed, especially around the coast of West Africa, is it key to note that the names of many kingdoms and colonies are either located far away from its real world counterpart (”Zala” being located around eastern Libya in the map when the only real world counterpart is in Ethiopia) or does not exist in modern texts (there is no record of the “Mujak” region). However, the most [striking part of this map](https://collections.leventhalmap.org/search/commonwealth:3f462z75f) is its title: Africa: According to the best Authorities. The title alone brings up some questions. Who gets to claim to be the best and truest source about a certain topic? What makes a person a trusted source to you?
 
