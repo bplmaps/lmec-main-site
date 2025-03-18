@@ -26,7 +26,7 @@ How do Bostonians get from here to there in a city full of trains, trolleys, fer
 
 ### Building Blocks: Boston Stories from Urban Atlases
 
-*January 13 *– August 23, 2023*
+*January 13 – August 23, 2023*
 
 In the period spanning the Civil War to World War II, Boston’s urban fabric experienced profound changes. *Building Blocks* travels to different areas of metropolitan Boston from the 1870s to the 1930s for an episodic view of history, illuminating the many stories that are preserved in the atlases. Beyond the stories narrated in this exhibition, the rich details of the atlases help modern viewers imagine what one’s own story in a rapidly developing city might have looked like during a moment steeped in change.
 
@@ -42,7 +42,7 @@ In *More or Less in Common: Environment and Justice in the Human Landscape*, we 
 
 ### Bending Lines: Maps and Data from Distortion to Deception
 
-*September 10, 2021 *–* March 4, 2022*
+*September 10, 2021 – March 4, 2022*
 
 Because they seem to show the world how it “really is,” maps produce a powerful sense of trust and belief. But maps and data visualizations can never communicate a truth without any perspective at all. They are social objects whose meaning and power are produced by written and symbolic language and whose authority is determined by the institutions and contexts in which they circulate. This exhibition examines the many ways in which maps and data can bend the lines of reality.
 
