@@ -3,6 +3,10 @@ draft: true
 title: 'Author Talk: Dan O''Brien on The Pointilistic City'
 date: 2025-05-29T16:00:00.000Z
 publishDate: 2025-03-21T04:00:00.000Z
+image: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/DanOBrien-PointilisticCity.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c409/6409,1612,4647,2110/1200,/0/default.jpg
 location: 'Commonwealth Salon, Central Library in Copley Square'
 fee: Free
 ---
