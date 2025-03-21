@@ -31,11 +31,11 @@ In this From The Vault, take a look at some of our maps featuring as little lan
 
 Oceanographic cartographer and geologist Marie Tharp, along with her research partner Bruce Heezen, created the first map of the entire ocean floor. Early editions of ocean floor mapping – as the example reproduced here – feature an informal sketch style, while later final editions were sophisticated physical maps with color and shading, applied to reveal the dramatic mid-ocean canyons highlighting the continental divisions of the globe. Numbers on [the map](https://bpl.bibliocommons.com/v2/record/S75C4730543) indicate depth of the ocean floor and elevations of individual undersea mountains. Heezen was credited solely for their work for years, and only later on did Tharp gain her rightful place in the cartographic world.
 
-#### Mary B. Hotz, ***[Historical map of Watertown, 1630-1930](https://collections.leventhalmap.org/search/commonwealth:3f4638525)*** (1930)
+#### Joseph Frederick Wallet Des Barres, [A view of Boston](https://collections.leventhalmap.org/search/commonwealth:7h149z72h) (1779)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463853f/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149z73s/full/1200,/0/default.jpg" class="" >}}
 
-Mary Hotz designed this map as a high school student in 1930, for a poster contest celebrating the 300th anniversary of Watertown, Massachusetts. [Her map of historical Watertown](https://collections.leventhalmap.org/search/commonwealth:3f4638525), complete with Native Americans, houses, churches, arsenals, courthouses, taverns, mills, schools and statues was the winning entry. Hotz combined recent and past history in this colorful and detailed map, which she shared with local community clubs, and President Calvin Coolidge, who had family ties to the town. She eventually attended art school in Boston, but never practiced professionally; however, her map appeared in official buildings and private residences throughout Watertown for years.
+[This Revolutionary War era landscape scene](https://collections.leventhalmap.org/search/commonwealth:7h149z72h), published with a collection of nautical charts, depicted Boston Harbor as it would have appeared to approaching ships. While not technically a map or chart, coastal and headland views were also considered navigational aids. Such graphic images assisted ship captains in identifying prominent landmarks as they entered the harbor. Clearly visible on Boston’s late 18th-century skyline are numerous church spires and a flag on Beacon Hill.
 
 #### Agnes Sinclair Holbrook, ***[“Nationalities Map No. 1,” from Hull-House Maps and Papers …](https://collections.leventhalmap.org/search/commonwealth:3f4636086)*** (1895)
 
