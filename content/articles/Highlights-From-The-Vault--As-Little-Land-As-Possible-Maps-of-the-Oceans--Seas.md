@@ -51,11 +51,11 @@ The importance of the mid-19th-century American whaling industry, which was domi
 
 By centering [the map](https://collections.leventhalmap.org/search/commonwealth:x633f952x) on the Pacific Ocean, however, Maury showed that the primary habitat of whales was the Pacific arena rather than the Atlantic, where the whale resources had been terribly depleted. Interestingly, the sperm whale distribution was heavily concentrated in the central Pacific. This includes the area between Hawaii and the California coast, appearing just to the right of the map's center, where New England whalers focused their efforts. Seasonal variations were indicated by the letters w (winter), v (spring), s (summer), a (autumn), and all (all months).
 
-#### Marie Catherine Haussard (engraver), ***[Partie de l'Amérique septent? qui comprend la Nouvelle France ou le Canada](https://collections.leventhalmap.org/search/commonwealth:w9505s84p)*** (1755)
+#### H.H. Lloyd, [Telegraph chart ](https://collections.leventhalmap.org/search/commonwealth:7h149w21m) (1858)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:w9505s85z/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w22w/full/1200,/0/default.jpg" >}}
 
-[This hand-colored map](https://collections.leventhalmap.org/search/commonwealth:w9505s84p) of the Canadian north features a cartouche engraved and signed by C. (Catherine) Haussard. Marie Catherine and her sister Elizabeth were 18th-century Parisian engravers who specialized in the creation of cartouches – the decorative and informative label identifying a map, its author and the subject. The sisters were daughters of noted French engraver Jean-Baptiste Haussard, who trained them in the art of engraving. The cartouche shown here incorporates popular 18th-century symbols of North America – pine trees, a beaver, and a Native American canoe.
+[This chart](https://collections.leventhalmap.org/search/commonwealth:7h149w21m) shows the track of the great submarine Atlantic telegraph in the U.S., Canada, Great Britain, Europe, and north Africa, as well as submarine cables, steamship routes, and proposed lines to be added at a later date. Included to accompany the chart are two double column articles of text: one accounts the invention and operation of the magnetic telegraph and the other is a description of the making and laying submarine telegraph cables. The laying of the Atlantic cable was one of the great international undertakings of the nineteenth century and would take the equivalent of billions of dollars, four failed attempts, and another 8 years after this map was published before it was completed.
 
 #### Toy Lasker, ***[New York in Maps: An Instant Guide to Every Place in Town](https://bpl.bibliocommons.com/v2/record/S75C380008)*** (1970)
 
