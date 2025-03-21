@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Author Talk: Dan O''Brien on The Pointilistic City'
 date: 2025-05-29T16:00:00.000Z
 publishDate: 2025-03-21T04:00:00.000Z
@@ -9,6 +9,8 @@ backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c409/6409,1612,4647,2110/1200,/0/default.jpg
 location: 'Commonwealth Salon, Central Library in Copley Square'
 fee: Free
+registration: >-
+  https://www.ticketleap.events/tickets/bplmaps/author-talk-dan-o-brien-on-the-pointilistic-city-76258828
 ---
 
 Sit down with [Dan O'Brien](https://cssh.northeastern.edu/faculty/daniel-t-obrien/) and Nigel Jacob for a conversation on O'Brien’s latest book project, *[The Pointillistic City](https://mitpress.mit.edu/9780262550802/the-pointillistic-city/)*. This talk is free, open to the public, and will be held in person at the [Central Library in Copley Square](https://www.bpl.org/locations/3/). Lunch will be served and registration is required to attend.
