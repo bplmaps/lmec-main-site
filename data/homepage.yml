@@ -56,6 +56,11 @@ slider:
         link: research
 cta:
   enable: true
+  announcements:
+    - badge: Exhibition Turnover
+      text: >-
+        The Center will be closed from March 24 - April 2 for exhibition
+        turnover. We'll reopen with April 3!
 audiences:
   enable: true
   audienceGroups:
