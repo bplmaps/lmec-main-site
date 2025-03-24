@@ -59,8 +59,8 @@ cta:
   announcements:
     - badge: Exhibition Turnover
       text: >-
-        The Center will be closed from March 24 - April 2 for exhibition
-        turnover. We'll reopen with April 3!
+        The Center's public gallery will be closed from March 24 - April 2 for
+        exhibition turnover. We'll reopen with a new exhibit on April 3!
 audiences:
   enable: true
   audienceGroups:
