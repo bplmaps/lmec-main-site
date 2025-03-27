@@ -1,32 +1,26 @@
 ---
-title: Hours & Directions
-cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462w858/2250,4039,2581,1714/,800/0/default.jpg
-description: Information on access hours for visits and research, and how to find
-  us
-weight: "4"
+cardImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462w858/2250,4039,2581,1714/,800/0/default.jpg
 aliases:
-- "/exhibitions/about/hours-directions"
+  - /exhibitions/about/hours-directions
 quicklinks:
-- text: See a map to the Leventhal Map & Education Center
-  link: "#directions"
-  linkType: jump
-
+  - text: See a map to the Leventhal Map & Education Center
+    link: '#directions'
+    linkType: jump
+title: Hours & Directions
+description: 'Information on access hours for visits and research, and how to find us'
+weight: '4'
 ---
-{{< alert-box type="info" title="COVID-19 Guidance" >}}
 
-Although it is not required, please consider wearing a face covering while inside BPL buildings. We recommend that patrons practice social distancing where possible. Please reschedule your visit if you have any symptoms of illness, or if you have received a positive COVID-19 test result in the past 10 days.
-
-{{</ alert-box >}}
-
-## Hours
+# Hours
 
 <!-- #### Gallery Hours -->
 
-{{< hours-table >}}
+{{\< hours-table >}}
 
 #### Research Hours
 
-_Available by advance appointment Tuesday-Friday 10:00 am-4:15 pm._ In-person access to the Rare Maps Reading Room is available by advance appointment only. Bookings should be made at least 2 days in advance to provide time for paging items for use. Please see our [Research Appointments](/research/appointments/) page for more information and to make an appointment online.
+*Available by advance appointment Tuesday-Friday 10:00 am-4:15 pm.* In-person access to the Rare Maps Reading Room is available by advance appointment only. Bookings should be made at least 2 days in advance to provide time for paging items for use. Please see our [Research Appointments](/research/appointments/) page for more information and to make an appointment online.
 
 #### BPL Hours
 
@@ -36,7 +30,7 @@ For the general opening hours of the Central Library in Copley Square, see the [
 
 We are located at the **Central Library in Copley Square**, at **700 Boylston Street** in Boston. Inside the library, we are located on the ground floor of the McKim Building, on the west side of the Courtyard and near the Glass Elevator of the Boylston Street Building. Look for arrows to the Leventhal Map Center in the library's wayfinding signs. Note that the McKim Building also features the Map Room Café, which is a restaurant and bar that is not associated with the Map Center.
 
-{{< maplibre-gl-map lat="42.34934" lon="-71.07814" zoom="16" width="100%" height="600px" >}}
+{{\< maplibre-gl-map lat="42.34934" lon="-71.07814" zoom="16" width="100%" height="600px" >}}
 
 <div class="btn-group my-3" role="group" aria-label="Map service links">
 <a class="btn btn-primary btn-primary-outline" href="https://g.page/bplmaps?share">Google Maps</a>
