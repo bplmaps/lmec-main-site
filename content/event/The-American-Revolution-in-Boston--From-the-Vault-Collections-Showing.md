@@ -1,7 +1,9 @@
 ---
 draft: false
-title: The American Revolution in Boston — From the Vault Collections Showing
-date: 2025-04-19T18:00:00.000Z
+title: >-
+  The American Revolution in Boston — From the Vault Collections Showing
+  (Saturday)
+date: 2025-04-19T15:00:00.000Z
 publishDate: 2025-03-28T04:00:00.000Z
 image: >-
   https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/1.2B-Boston 1788
