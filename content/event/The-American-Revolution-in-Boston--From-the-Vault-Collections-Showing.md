@@ -3,8 +3,12 @@ draft: false
 title: The American Revolution in Boston — From the Vault Collections Showing
 date: 2025-04-19T18:00:00.000Z
 publishDate: 2025-03-28T04:00:00.000Z
-image: ''
-backgroundImage: ''
+image: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/1.2B-Boston 1788
+  William Gordon London - MM.jpg
+backgroundImage: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/1.2B-Boston 1788
+  William Gordon London - MM.jpg
 location: 'Leventhal Map & Education Center, Central Library in Copley Square'
 fee: Free
 registration: ''
@@ -12,7 +16,7 @@ tags:
   - from the vault
 ---
 
-##### Happy Patriots’ Day and Marathon Weekend! 
+##### Happy Patriots’ Day and Marathon Weekend!
 
 Did you know that April 19, 2025 is the 250th anniversary of the Battles of Lexington and Concord—and the start of the American Revolutionary War? In honor of this anniversary, Special Collections and the Leventhal Map & Education Center are collaborating on an open house to highlight items for their collections relating to this event, as well as other major events of the American Revolution in Boston.
 
