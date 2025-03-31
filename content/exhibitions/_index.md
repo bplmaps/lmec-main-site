@@ -20,7 +20,7 @@ In 1775, a collision of word-historical forces, driven by ocean-spanning empires
 
 *Curated by Katy Lasdow and Garrett Dash Nelson*
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463c12t/405,1766,6792,2812/1200,/0/default.jpg" caption="" class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463c12t/405,1766,6792,2812/1200,/0/default.jpg" caption="" class="" >}}
 
 ## Permanent Exhibition
 
