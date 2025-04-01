@@ -6,7 +6,7 @@ title: Spring Internships 2025
 backgroundImage: 'https://www.leventhalmap.org/images/page-header-backgrounds/gallery.jpg'
 ---
 
-{{< alert-box type="danger" title="Apply" >}}
+{{< alert-box type="danger" title="Applications Closed" >}}
 
 Applications for our Spring 2025 internships are now closed.
 

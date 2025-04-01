@@ -5,6 +5,12 @@ draft: false
 title: Learning Resource Specialist
 ---
 
+{{< alert-box type="danger" title="Apply" >}}
+
+Applications for the Learning Resource Specialist position are now closed.
+
+{{</ alert-box >}}
+
 The **Leventhal Map & Education Center at the Boston Public Library** seeks to hire for the position of **Learning Resource Specialist**. We are looking for someone with the knowledge, creativity, and enthusiasm to create asynchronous learning tools that draw educators and general audiences into the collections of the Leventhal Center and themes of geography, social studies, and place-based history.
 
 The Leventhal Center's educational mission seeks to foster geographic perspectives on the relationships between people and places. The Education team focuses on teachers and learners from the Kindergarten through university levels, offering a suite of programs, services, and resources that support geographic education.
@@ -86,7 +92,3 @@ The Center places great value on an organizational culture in which staff member
 Additional material will be requested from semifinalist candidates.
 
 Applications will be reviewed on a rolling basis, and the position will remain open until filled. **For full consideration, please submit application materials by Tuesday, April 1, 2025 by 12:00 pm ET**.
-
-### **For more information**
-
-Contact [info@leventhalmap.org](mailto:info@leventhalmap.org) for more questions about this job vacancy, or visit [leventhalmap.org](https://leventhalmap.org/) for more information about the Leventhal Center.
