@@ -10,15 +10,19 @@ weight: '3'
 
 ## Current digital exhibition
 
-#### *Processing Place: How Computers and Cartographers Redrew Our World*
+#### *Terrains of Independence*
 
-<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/processing-place/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for *Processing Place*</a>
+<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/terrains-of-independence/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for *Terrains of Independence*</a>
 
 #### *Becoming Boston: Eight Moments in the Geography of a Changing City*
 
 <a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/becoming-boston/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for *Becoming Boston*</a>
 
 ## Past digital exhibitions
+
+#### *Processing Place: How Computers and Cartographers Redrew Our World*
+
+<a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/processing-place/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for *Processing Place*</a>
 
 #### *Heaven & Earth: The Blue Maps of China*
 
@@ -36,11 +40,9 @@ weight: '3'
 
 <a class="btn btn-outline-primary btn-block" href="https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for *More or Less in Common*</a>
 
-
 #### *Bending Lines: Maps and Data from Distortion to Deception*
 
 <a class="btn btn-outline-primary btn-block" href="https://leventhalmap.org/digital-exhibitions/bending-lines"><i class="fas fa-images me-2"></i>Enter the digital exhibition for *Bending Lines*</a>
-
 
 #### Early exhibitions
 
