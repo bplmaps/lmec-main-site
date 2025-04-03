@@ -14,6 +14,8 @@ We regularly mount exhibitions in our gallery, [located in the historic McKim Bu
 
 ### *Terrains of Independence*
 
+<a class="btn btn-outline-primary btn-block" target='blank' href="https://www.leventhalmap.org/digital-exhibitions/terrains-of-independence/"><i class="fas fa-images me-2"></i>Enter the digital exhibition for *Terrains of Independence*</a>
+
 **April 2025 – March 2026**
 
 In 1775, a collision of word-historical forces, driven by ocean-spanning empires, conflicts over trade and settlement, and new ideas about society and government, came together in the spark of the American Revolution. Yet although both the causes and the consequences of the Revolution were grand in scale, the war ignited in the tinderbox of a very specific local geography: Boston and the surrounding towns of Massachusetts. Why did it happen here? The revolutionary moment was as much about places as it was about people or ideas. In and around Boston, the tensions of Britain’s colonial empire had been rising for decades before the 1770s. The commercial geography of the city and its region, zones of friction between classes and communities, and contestations over the environment all helped to create the conditions that led to an era of revolutionary upheaval in Massachusetts. In the Leventhal Map & Education Center’s exhibition *Terrains of Independence*, maps will offer the entry point to a reconsideration of the Revolutionary War through the lens of locality and place.
