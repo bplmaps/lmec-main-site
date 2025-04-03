@@ -133,15 +133,15 @@ audiences:
           link: 'https://geoservices.leventhalmap.org/cartinal'
 frontpageFeature:
   enable: false
-  bg_image: /uploads/2022-12-29/buildings.jpeg
-  title: Small-scale stories of urban change
+  bg_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463c12t/full/,1200/0/default.jpg
+  title: Explore Revolutionary history through geography
   content: >-
-    Our exhibition *Building Blocks: Boston Stories from Urban Atlases* is
+    Our exhibition *Terrains of Independence* is
     currently on display at our free gallery at the Central Library in Copley
     Square.
   button:
     enable: true
-    label: Information for visitors
+    label: Plan a visit
     link: 'https://www.leventhalmap.org/exhibitions/visit/'
 event:
   enable: true
