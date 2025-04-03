@@ -133,7 +133,7 @@ audiences:
           link: 'https://geoservices.leventhalmap.org/cartinal'
 frontpageFeature:
   enable: true
-  bg_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463c12t/full/,1200/0/default.jpg
+  bg_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463c12t/2178,2078,4985,2513/,1200/0/default.jpg
   title: Explore Revolutionary history through geography
   content: >-
     Our exhibition *Terrains of Independence* is
