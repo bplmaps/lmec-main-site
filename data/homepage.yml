@@ -132,7 +132,7 @@ audiences:
         - title: Read guides and tutorials on digital mapping
           link: 'https://geoservices.leventhalmap.org/cartinal'
 frontpageFeature:
-  enable: false
+  enable: true
   bg_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463c12t/full/,1200/0/default.jpg
   title: Explore Revolutionary history through geography
   content: >-
