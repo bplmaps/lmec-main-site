@@ -57,10 +57,11 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Exhibition Turnover
+    - badge: New Exhibition
       text: >-
-        The Center's public gallery will be closed from March 24 - April 2 for
-        exhibition turnover. We'll reopen with a new exhibit on April 3!
+        Terrains of Independence is open now! Visit the gallery to see the new
+        exhibition.
+      link: 'https://www.leventhalmap.org/about/hours-directions/'
 audiences:
   enable: true
   audienceGroups:
