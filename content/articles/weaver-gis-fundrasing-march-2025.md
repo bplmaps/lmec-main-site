@@ -19,10 +19,16 @@ tags:
 
 ### The David J. Weaver GIS Research Fund
 
-In February 2025, LMEC kicked off the first official fundrdaising 
+On March 31, 2025, we concluded our first fundraising challenge in support of the [David J. Weaver GIS Research Fellowship](/weaver-gis-fundrasing-march-2025). Thanks to your support---as well as the generous support of an anonymous donor who matched every gift up to a total of $2,000---we exceeded our fundraising goal with nearly a week to spare!
 
-### Thanks for your support
+David Weaver was a cartographer and GIS practitioner whose personal papers constitute the core of the Leventhal Center's computer cartography collections. Our most recent exhibition, *[Processing Place](https://www.leventhalmap.org/digital-exhibitions/processing-place/)*, features many of his maps and was dedicated in his honor.
 
-The work that we do here at the Leventhal Center would not be possible without the support of our patrons, members, and donors.
+### What's next?
 
-Thanks to your support—and thanks to the generous support of an anonymous donor—
+In summer 2026, supported directly by the Weaver Fund, we plan to make our first award of the **David J. Weaver GIS Research Fellowship**. Supported directly by the Weaver Fund, this Fellowship will facilitate researchers' engagement with LMEC's collections in the history of computer cartography, including the [Weaver Papers](https://collections.leventhalmap.org/collections/commonwealth:cj82qk605), the [Grady Papers](https://archives.bpl.org/repositories/2/resources/171), and the [AppGeo, Inc. Records](https://collections.leventhalmap.org/collections/commonwealth:v9800d90z). We'll release concrete details, including how you can get involved with the fellowship, as they become available in the coming year.
+
+### A thank you
+
+The work that we do here at the Leventhal Center would not be possible without support from donors like you. We are, as always, grateful to have a 
+
+You can still support our mission of making historic map collections more accessible and discoverable through programming, exhibitions, and public scholarship by making a 

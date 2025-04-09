@@ -64,21 +64,21 @@
 - Name: Alice King
   Cycle: 2024
   Title: Pequot country on sellers and foster maps
-  Complete: "no"
-  ProjectUrl: null
-  ImageUrl: null
+  Complete: "yes"
+  ProjectUrl: https://www.leventhalmap.org/articles/tribute-and-territory-in-the-pequot-country/
+  ImageUrl: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462s91s/611,728,8439,6617/1200,/0/default.jpg
   Color: bg-warning
 - Name: Charlotte Leib
   Cycle: 2024
   Title: "The needle in the haystack: charting new energy histories of early America with plants, maps, and digital methods"
   Complete: "no"
   ProjectUrl: null
-  ImageUrl: null 
+  ImageUrl: null
   Color: bg-warning
 - Name: Savita Maharaj
   Cycle: 2024
   Title: The Eaton Sisters and Afro-Asian Diasporic Community
-  Complete: "no"
-  ProjectUrl: null
-  ImageUrl: null
+  Complete: "yes"
+  ProjectUrl: https://www.leventhalmap.org/articles/afro-asian-diaspora-eaton-sisters/
+  ImageUrl: https://www.winnifredeatonarchive.org/media/small/SuiSinFarphotofromAutryCenter.jpg
   Color: bg-warning
