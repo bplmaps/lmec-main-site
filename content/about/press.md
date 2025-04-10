@@ -36,6 +36,12 @@ To learn more about what areas of topical expertise are covered by the Leventhal
 
 [WBZ Newsradio](https://wbznewsradio.iheart.com/content/atlascope-boston-public-library-city-streets-view-civil-war-history/)
 
+## Current Exhibits
+
+**Press for *Terrains of Independence***
+
+[Boston Globe - 1775 and all that: Four shows celebrate the 250th anniversary of April 19 and beyond](https://www.bostonglobe.com/2025/04/09/arts/1775-all-that/)
+
 ## Past Exhibits
 
 **Press for *Heaven & Earth***
