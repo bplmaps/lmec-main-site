@@ -17,7 +17,7 @@ tags:
   - from the vault
 ---
 
-> *On March 21, we hosted **From The Vault | As Little Land As Possible: Maps of the Oceans & Seas.***
+> *On March 21, we hosted **From The Vault — As Little Land As Possible: Maps of the Oceans & Seas.***
 
 ###### Though over 70% of the planet’s surface is covered in water…
 
