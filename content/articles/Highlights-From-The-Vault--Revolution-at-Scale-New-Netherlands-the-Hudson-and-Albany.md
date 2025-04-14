@@ -37,11 +37,11 @@ The Hudson River runs like a spine down the length of New York State. The river 
 
 [This map](https://collections.leventhalmap.org/search/commonwealth:9s161879t) comes from Michel René Hilliard D’Auberteuil’s 1782 Essais historiques et politiques sur les Anglo-Américains. The text also included portraits of George Washington, Benjamin Franklin, and John Hancock. The inclusion of this map demonstrates that the Hudson River was as important in the Revolution as these patriot luminaries. 
 
-#### Georges-Louis Le Rouge, ***[Remarques sur la navigation de terre-neuve à New-York afin d'eviter les courrants et les bas-fonds au sud de Nantuckett et du Banc de George](https://collections.leventhalmap.org/search/commonwealth:cj82m308h)*** (1785)
+#### Robert Yates, [Plan of the city of Albany about the year 1770 : from the original survey](https://collections.leventhalmap.org/search/commonwealth:kw52q9272) (1850)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m309s/1081,462,3110,2734/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7p88jj38j/full/1200,/0/default.jpg" class="" >}}
 
-One of the preferred routes that captains and navigators sailing from America to England learned to use was the Gulf Stream, a strong, warm current that flows north along the Atlantic coast and then east toward Europe. Initially charted by Benjamin Franklin in 1768, this discovery helped ships minimize travel time across the ocean, speeding up the transatlantic voyage for travelers, merchants, and goods. Franklin purchased [this 1785 chart](https://collections.leventhalmap.org/search/commonwealth:cj82m308h), a French adaptation of his original findings, when he served in Paris as a diplomat for the United States during the early years of the republic.
+Albany became a British colony in 1664. [This map](https://collections.leventhalmap.org/search/commonwealth:kw52q9272) demonstrates how settlement was pressed along the Hudson River. Like other colonial cities, many of these streets still survive today. Time traveling 18th century Albanians would probably still be able to navigate from Orange Street to Beaver Street. 
 
 #### Matthew Fontaine Maury, ***[Whale Chart](https://collections.leventhalmap.org/search/commonwealth:x633f952x)*** (1851)
 
