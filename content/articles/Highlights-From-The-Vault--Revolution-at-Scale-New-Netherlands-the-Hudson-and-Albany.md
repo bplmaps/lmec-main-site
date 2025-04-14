@@ -21,7 +21,7 @@ tags:
 
 Our new exhibition, [Terrains of Independence](https://www.leventhalmap.org/digital-exhibitions/terrains-of-independence/), explores the American Revolution through the lens of geographic scale rather than chronology or individual figures. This week’s From the Vault examines another colonial city—Albany—revealing what we can learn as we zoom in from empire to town.
 
-#### Arnold Colom, [Pas caarte van Nieu Nederlandt ](https://collections.leventhalmap.org/search/commonwealth:3f462s79h)(1656)
+#### Arnold Colom, ***[Pas caarte van Nieu Nederlandt](https://collections.leventhalmap.org/search/commonwealth:3f462s79h)*** (1656)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tx31qn48v/full/1200,/0/default.jpg" class="" >}}
 
@@ -29,11 +29,13 @@ This is a map designed to get you somewhere not to tell you what the place will 
 
 The Dutch initially envisioned creating trading outposts rather than settlements in North America. Albany originated as an outpost, evolved into a settlement organized by a manor system controlled by individual patrons and eventually became the village of Beverwyck in 1652 about 100 years after this map was created.
 
-#### Joseph Frederick Wallet Des Barres, ***[A view of Boston](https://collections.leventhalmap.org/search/commonwealth:7h149z72h)*** (1779)
+#### [Carte de la route des lacs depuis Montréal et St. Jean jusqu'à la Riviere d'Hudson : réduite d'après les meilleures cartes anglais e\[s\], pour servir aux Essais historiques et politiques sur la révolution de l'Amérique septentrionale](https://collections.leventhalmap.org/search/commonwealth:9s161879t) (1781–1782)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149z73s/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161880k/full/1200,/0/default.jpg" class="" >}}
 
-[This Revolutionary War era landscape scene](https://collections.leventhalmap.org/search/commonwealth:7h149z72h), published with a collection of nautical charts, depicted Boston Harbor as it would have appeared to approaching ships. While not technically a map or chart, coastal and headland views were also considered navigational aids. Such graphic images assisted ship captains in identifying prominent landmarks as they entered the harbor. Clearly visible on Boston’s late 18th-century skyline are numerous church spires and a flag on Beacon Hill.
+The Hudson River runs like a spine down the length of New York State. The river provided a place for hunting, fishing, horticulture, and trade for indigenous people for thousands of years before Henry Hudson sailed up the waterway in 1609. 
+
+[This map](https://collections.leventhalmap.org/search/commonwealth:9s161879t) comes from Michel René Hilliard D’Auberteuil’s 1782 Essais historiques et politiques sur les Anglo-Américains. The text also included portraits of George Washington, Benjamin Franklin, and John Hancock. The inclusion of this map demonstrates that the Hudson River was as important in the Revolution as these patriot luminaries. 
 
 #### Georges-Louis Le Rouge, ***[Remarques sur la navigation de terre-neuve à New-York afin d'eviter les courrants et les bas-fonds au sud de Nantuckett et du Banc de George](https://collections.leventhalmap.org/search/commonwealth:cj82m308h)*** (1785)
 
