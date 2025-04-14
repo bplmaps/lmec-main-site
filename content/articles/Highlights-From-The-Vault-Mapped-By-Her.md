@@ -17,7 +17,7 @@ tags:
   - from the vault
 ---
 
-> *On March 7, we hosted **From The Vault: Mapped By Her -The Uncharted Influence of Women in Cartography***
+> *On March 7, we hosted **From The Vault — Mapped By Her: The Uncharted Influence of Women in Cartography***
 
 ##### Women have always been a part of charting the Earth throughout history.
 
