@@ -35,21 +35,23 @@ The Dutch initially envisioned creating trading outposts rather than settlements
 
 The Hudson River runs like a spine down the length of New York State. The river provided a place for hunting, fishing, horticulture, and trade for indigenous people for thousands of years before Henry Hudson sailed up the waterway in 1609. 
 
-[This map](https://collections.leventhalmap.org/search/commonwealth:9s161879t) comes from Michel René Hilliard D’Auberteuil’s 1782 Essais historiques et politiques sur les Anglo-Américains. The text also included portraits of George Washington, Benjamin Franklin, and John Hancock. The inclusion of this map demonstrates that the Hudson River was as important in the Revolution as these patriot luminaries. 
+[This map](https://collections.leventhalmap.org/search/commonwealth:9s161879t) comes from Michel René Hilliard D’Auberteuil’s 1782 Essais historiques et politiques sur les Anglo-Américains. The text also included portraits of George Washington, Benjamin Franklin, and John Hancock. The inclusion of this map demonstrates that the Hudson River was as important in the Revolution as these patriot luminaries.
 
 #### Robert Yates, [Plan of the city of Albany about the year 1770 : from the original survey](https://collections.leventhalmap.org/search/commonwealth:kw52q9272) (1850)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7p88jj38j/full/1200,/0/default.jpg" class="" >}}
 
-Albany became a British colony in 1664. [This map](https://collections.leventhalmap.org/search/commonwealth:kw52q9272) demonstrates how settlement was pressed along the Hudson River. Like other colonial cities, many of these streets still survive today. Time traveling 18th century Albanians would probably still be able to navigate from Orange Street to Beaver Street. 
+Albany became a British colony in 1664. [This map](https://collections.leventhalmap.org/search/commonwealth:kw52q9272) demonstrates how settlement was pressed along the Hudson River. Like other colonial cities, many of these streets still survive today. Time traveling 18th century Albanians would probably still be able to navigate from Orange Street to Beaver Street.
 
-#### Matthew Fontaine Maury, ***[Whale Chart](https://collections.leventhalmap.org/search/commonwealth:x633f952x)*** (1851)
+#### Christoph Heinrich Korn, [Plan von den operationen der Koeniglichen Armee unter dem General Sir William Howe : in Neuyorck und Ost-Neujerseÿ gegen die Americaner unter comando des General Washington, vom 12. October bis 28. November. 1776, wobeÿ vorzüglich die affaire beÿ White Plains am 28. October vorgestellt wird](https://collections.leventhalmap.org/search/commonwealth:3f462w91d) (1777)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462w92p/full/,1200/0/default.jpg" class="" >}}
 
-The importance of the mid-19th-century American whaling industry, which was dominated by ports in southern New England, especially New Bedford, Massachusetts, is documented by this innovative thematic map. It was prepared by Matthew Fontaine Maury, an American naval officer and oceanographer who served as the Superintendent of the U.S. Navy Depot of Charts and Instruments (later the U.S. Naval Observatory) from 1842 to 1861. Because of his contributions to oceanography including a series of wind and current charts for the world oceans, Maury is often recognized as the father of the science of oceanography. 
+The Hudson, or North River, was a point of fixation for King George III. He firmly believed, based on his examination of [maps like this one ](https://collections.leventhalmap.org/search/commonwealth:3f462w91d)from a distance, the British army could seize control of the river and separate New England from the southern colonies. Just as the king was obsessed with this plan, the Patriots were similarly convinced it was possible. 
 
-By centering [the map](https://collections.leventhalmap.org/search/commonwealth:x633f952x) on the Pacific Ocean, however, Maury showed that the primary habitat of whales was the Pacific arena rather than the Atlantic, where the whale resources had been terribly depleted. Interestingly, the sperm whale distribution was heavily concentrated in the central Pacific. This includes the area between Hawaii and the California coast, appearing just to the right of the map's center, where New England whalers focused their efforts. Seasonal variations were indicated by the letters w (winter), v (spring), s (summer), a (autumn), and all (all months).
+George Washington wrote to Major General Israel Putnam in December 1777: 
+
+> “The importance of the North \[Hudson] River in the present contest and the necessity of defending it, are subjects which have been so frequently and so fully discussed, and are so well understood, that is is unnecessary to enlarge upon them. These facts at once appear, when it is considered that it runs through a whole state; that it is the only passage by which the enemy from New York, or any part of our coast, can ever hope to cooperate with an army from Canada; that the possession of its indispensably essential to preserve the communication between the eastern, middle, and southern states; and further, that upon its security, in a great measure, depend our chief supplies of flour for the subsistence of such forces, as we may have occasion for, in the course of the war, either in the eastern or northern departments, or in the country lying high up on the west side of it.”
 
 #### H.H. Lloyd, ***[Telegraph chart](https://collections.leventhalmap.org/search/commonwealth:7h149w21m)*** (1858)
 
