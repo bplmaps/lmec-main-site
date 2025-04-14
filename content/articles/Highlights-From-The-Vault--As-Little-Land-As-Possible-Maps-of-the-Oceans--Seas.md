@@ -1,12 +1,12 @@
 ---
 draft: false
 title: >-
-  Highlights From The Vault | As Little Land As Possible: Maps of the Oceans &
+  Highlights From The Vault — As Little Land As Possible: Maps of the Oceans &
   Seas
 date: 2025-03-21T18:00:00.000Z
 author: LMEC Staff
 description: >-
-  Check out these highlights from the March 21, 2025 From The Vault | As Little
+  Check out these highlights from the March 21, 2025 From The Vault — As Little
   Land As Possible: Maps of the Oceans & Seas.
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w22w/263,806,4013,1737/1200,/0/default.jpg
