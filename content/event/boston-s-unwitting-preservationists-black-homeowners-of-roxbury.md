@@ -14,7 +14,7 @@ tags:
   - Atlascope
 ---
 
-{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This program is organized in partnership with the Boston Preservation Alliance.{{< alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}}This program is organized in partnership with the Boston Preservation Alliance.{{</ alert-box >}}
 
 ### About this event
 
