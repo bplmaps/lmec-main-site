@@ -27,7 +27,7 @@ Our new exhibition, [Terrains of Independence](https://www.leventhalmap.org/digi
 
 This is a map designed to get you somewhere not to tell you what the place will be like when you arrive. [This map](https://collections.leventhalmap.org/search/commonwealth:3f462s79h) reveals its purpose in the rhumb lines crisscrossing the map like a spider web. The lines would supported navigation when a compass was placed on the map. Notice the land is almost entirely empty of detail except for a few marked locations. 
 
-The Dutch initially envisioned creating trading outposts rather than settlements in North America. Albany originated as an outpost, evolved into a settlement organized by a manor system controlled by individual patrons and eventually became the village of Beverwyck in 1652 about 100 years after this map was created.
+The Dutch initially envisioned creating trading outposts rather than settlements in North America. Albany originated as an outpost, evolved into a settlement organized by a manor system controlled by individual patroons and eventually became the village of Beverwyck in 1652 about 100 years after this map was created.
 
 #### ***[Carte de la route des lacs depuis Montréal et St. Jean jusqu'à la Riviere d'Hudson : réduite d'après les meilleures cartes anglais e\[s\], pour servir aux Essais historiques et politiques sur la révolution de l'Amérique septentrionale](https://collections.leventhalmap.org/search/commonwealth:9s161879t)*** (1781–1782)
 
