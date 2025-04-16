@@ -1,4 +1,6 @@
-specialNote: ''
+specialNote: >-
+  We will be closed on Sunday, April 20, and Monday, April 21, in observance of
+  Easter Sunday and Patriot's Day.
 weekly:
   - day: Monday
     special: Closed
