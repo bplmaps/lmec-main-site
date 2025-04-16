@@ -16,7 +16,7 @@ tags:
   - from the vault
 ---
 
-> **As Asian American, Native Hawaiian, and Pacific Islander (AANHPI) Heritage Month begins... **
+> ***As Asian American, Native Hawaiian, and Pacific Islander (AANHPI) Heritage Month begins...***
 
 this *From The Vault* will examine the ways maps can support and inform Asian, Native Hawaiian, and Pacific Islander history across the globe and what it means for a map to be truly representative of a place and its people.
 
