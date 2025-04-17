@@ -57,7 +57,7 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Holiday closure
+    - badge: Holiday Closure
       text: >-
         We will be closed on Sunday, April 20, and Monday, April 21, in
         observance of Easter Sunday and Patriot's Day.
