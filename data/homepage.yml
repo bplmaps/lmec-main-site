@@ -57,6 +57,10 @@ slider:
 cta:
   enable: true
   announcements:
+    - badge: Holiday closure
+      text: >-
+        We will be closed on Sunday, April 20, and Monday, April 21, in
+        observance of Easter Sunday and Patriot's Day.
     - badge: New Exhibition
       text: >-
         Terrains of Independence is open now! Visit the gallery to see the new
@@ -133,12 +137,12 @@ audiences:
           link: 'https://geoservices.leventhalmap.org/cartinal'
 frontpageFeature:
   enable: true
-  bg_image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463c12t/2178,2078,4985,2513/,1200/0/default.jpg
+  bg_image: >-
+    https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463c12t/2178,2078,4985,2513/,1200/0/default.jpg
   title: Explore Revolutionary history through geography
   content: >-
-    Our exhibition *Terrains of Independence* is
-    currently on display at our free gallery at the Central Library in Copley
-    Square.
+    Our exhibition *Terrains of Independence* is currently on display at our
+    free gallery at the Central Library in Copley Square.
   button:
     enable: true
     label: Plan a visit
