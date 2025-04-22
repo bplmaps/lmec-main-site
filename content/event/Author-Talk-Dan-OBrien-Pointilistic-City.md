@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 'Author Talk: Dan O''Brien on The Pointilistic City'
+title: 'Author Talk: Dan O''Brien on The Pointillistic City'
 date: 2025-05-29T16:00:00.000Z
 publishDate: 2025-03-21T04:00:00.000Z
 image: >-
