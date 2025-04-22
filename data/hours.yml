@@ -22,12 +22,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'April 20, 2025'
-    name: Easter Sunday
-    special: Closed
-  - date: 'April 21, 2025'
-    name: Patriot's Day
-    special: Closed
   - date: 'May 25, 2025'
     name: Sunday Closure
     special: Closed
