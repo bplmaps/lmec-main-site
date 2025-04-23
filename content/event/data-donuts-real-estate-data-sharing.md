@@ -4,9 +4,9 @@ title: 'Data + Donuts: How Real Estate Data-Sharing Impacts Housing'
 date: 2025-05-02T14:30:00.000Z
 publishDate: 2025-01-22T05:00:00.000Z
 image: >-
-  https://www.hks.harvard.edu/sites/default/files/images/event/068Pp00000C9z0XIAR.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/2970,507,9508,6662/1200,/0/default.jpg
 backgroundImage: >-
-  https://www.hks.harvard.edu/sites/default/files/images/event/068Pp00000C9z0XIAR.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/2970,507,9508,6662/1200,/0/default.jpg
 location: Hybrid format
 fee: Free
 registration: >-
