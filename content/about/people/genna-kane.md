@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Genna Kane
 description: Research Project Manager
 headshot: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Kane Headshot.jpg'
