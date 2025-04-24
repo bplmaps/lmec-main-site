@@ -22,7 +22,7 @@ tags:
 
 This free showing will be hosted Friday, May 2 in the Leventhal Map & Education Center with a staff member available to answer questions.
 
-Drop in any time between 2:00PM - 4:00PM. No reservation is required.
+Drop in any time between 2:00 pm - 4:00 pm. No reservation is required.
 
 ##### ***From The Vault***
 
