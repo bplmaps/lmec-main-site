@@ -20,7 +20,7 @@ tags:
 
 Everything goes through changes, even the cities, countries, and empire we think will be around until the end of time. Sometimes environmental shifts or disasters bring the end to a prosperous region. Other times human whims and desires lead to the decimation of historic areas, irreversibly altering the very fabric of the region.
 
-Through the maps on display in this *From the Vault*, we can revisit these places of the past. From the historic counterparts of modern day cities or the ancient ruins of a fallen society, *Changed/Forgotten* will show us just how much has changed, how much was forgotten, and yet how much still remains from a time gone by.
+Through the maps on display in this *From The Vault*, we can revisit these places of the past. From the historic counterparts of modern day cities or the ancient ruins of a fallen society, *Changed/Forgotten* will show us just how much has changed, how much was forgotten, and yet how much still remains from a time gone by.
 
 This free showing will be hosted Friday, May 16 in the Leventhal Map & Education Center with a staff member available to answer questions.
 
