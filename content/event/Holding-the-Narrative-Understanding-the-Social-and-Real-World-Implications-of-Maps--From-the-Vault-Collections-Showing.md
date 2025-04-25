@@ -22,7 +22,7 @@ Maps and atlases hold the power of expressing (or not expressing) certain perspe
 
 While looking through the maps and captions of Holding the Narrative: *Understanding the Social and Real World Implications of Maps*, consider what narratives you know about the continent and invite yourself to question what's being shown in each map—from its physical features down to the historical context behind their creation.
 
-This free showing will be hosted Friday, February 21 in the Learning Center with a staff member from the Leventhal Center available to answer questions.
+This free showing will be hosted Friday, February 21 in the Learning Center with a staff member from the Leventhal Center available to answer questions. This collections showing event was specially curated by our Visitor Services & Exhibition Assistant, **Zaila Alves**. 
 
 Drop in any time between 2:00PM - 4:00PM. No reservation is required.
 
