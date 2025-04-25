@@ -22,7 +22,7 @@ The interesting maps in this *From The Vault* show what happens when mapmakers c
 
 In *That doesn't Look Quite Right…*, the cartographic choices the mapmakers and publishers used to portray things different aspects in their maps can help explain some of their perceived perspective of the world.
 
-This free showing will be hosted Friday, June 27 in the Leventhal Map & Education Center with a staff member available to answer questions.
+This free showing will be hosted Friday, June 27 in the Leventhal Map & Education Center with a staff member available to answer questions. This collections showing event was specially curated by our Visitor Services & Exhibition Assistant, **Zaila Alves**.
 
 Drop in any time between 2:00PM - 4:00PM. No reservation is required.
 
