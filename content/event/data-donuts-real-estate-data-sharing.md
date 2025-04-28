@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Data + Donuts: How Real Estate Data-Sharing Impacts Housing'
 date: 2025-05-02T14:30:00.000Z
 publishDate: 2025-01-22T05:00:00.000Z
@@ -15,7 +15,7 @@ tags:
   - staff
 ---
 
-{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by the Harvard Kennedy School.{{< /alert-box >}}
+{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by the Harvard Kennedy School.{{\< /alert-box >}}
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Ian Headshot.png" class="figure-right" >}}
 
