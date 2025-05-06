@@ -48,7 +48,7 @@ For the purposes of this grant, an **early career scholar** is defined as anyone
 * Individuals with senior-level full-time or full-time-equivalent positions at another research, non-profit, or publishing institution;
 * Individuals who have published two or more books with a major press, or who have published 6 or more articles in publications with national or international circulation.
 
-Grants are available to all scholars regardless of citizenship; however, if the individual primarily responsible for the project does not have a United States tax identification number, you should [contact us](info@leventhalmap.org) in advance to determine whether you will be able to receive the stipend.
+Grants are available to all scholars regardless of citizenship; however, if the individual primarily responsible for the project does not have a United States tax identification number, you should [contact us](mailto:info@leventhalmap.org) in advance to determine whether you will be able to receive the stipend.
 
 #### To Apply
 
