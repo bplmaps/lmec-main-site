@@ -27,19 +27,21 @@ tags:
 
 [This 1901 map](https://collections.leventhalmap.org/search/commonwealth:cr56r708p) of Hawaii was completed by the US government three years after the former independent nation had been forcibly annexed to the United States, following the overthrow of the Hawaiian monarchy in 1893. Up until this point, Hawaii had always been an independent nation and was recognized as such by all other nations around the world. Reasons cited for this takeover include the expansion of U.S.-owned sugar cane plantations, military interests, and the desire to expand American influence to other nations. Though they faced numerous and harsh pushback from the US government, present-day Hawaiians have maintained many core aspects of their culture (language, dance, culture, community) and many still believe in a independent Hawaiian nation.
 
-#### Joseph Frederick Wallet Des Barres, ***[A view of Boston](https://collections.leventhalmap.org/search/commonwealth:7h149z72h)*** (1779)
+#### Miguel Covarrubias, [Peoples of the Pacific](https://collections.leventhalmap.org/search/commonwealth:q524n348w) (1940)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n660s/full/1400,/0/default.jpg" class="" >}}
 
 Representing one map in a set of six, this 1940 pictorial map was intended to represent the “peoples of the pacific” and includes many communities and countries that border the Pacific ocean. This group of six maps were created for the Golden Gate International Exposition: A Pageant of the Pacific, what was essentially a World’s Fair hosted in San Francisco from 1939-1940 with a heavy focus on the Pacific and the future. This theme was observed through displays of new science, technology, the arts and entertainment.
 
-Though this map aimed to be representative of different cultures across the Pacific, attempts at representation from people with little knowledge or background on the cultures they're trying to capture may show stereotypical, demeaning, or inaccurate depictions of people and places. 
+Though [this map](https://collections.leventhalmap.org/search/commonwealth:q524n348w) aimed to be representative of different cultures across the Pacific, attempts at representation from people with little knowledge or background on the cultures they're trying to capture may show stereotypical, demeaning, or inaccurate depictions of people and places. 
 
-#### Georges-Louis Le Rouge, ***[Remarques sur la navigation de terre-neuve à New-York afin d'eviter les courrants et les bas-fonds au sud de Nantuckett et du Banc de George](https://collections.leventhalmap.org/search/commonwealth:cj82m308h)*** (1785)
+#### Takai Ranzan, [Ansei kaisei Oedo ōezu = Map of Jeddo](https://collections.leventhalmap.org/search/commonwealth:ht250b870) (1849)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m309s/1081,462,3110,2734/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250b888/full/1400,/0/default.jpg" class="" >}}
 
-One of the preferred routes that captains and navigators sailing from America to England learned to use was the Gulf Stream, a strong, warm current that flows north along the Atlantic coast and then east toward Europe. Initially charted by Benjamin Franklin in 1768, this discovery helped ships minimize travel time across the ocean, speeding up the transatlantic voyage for travelers, merchants, and goods. Franklin purchased [this 1785 chart](https://collections.leventhalmap.org/search/commonwealth:cj82m308h), a French adaptation of his original findings, when he served in Paris as a diplomat for the United States during the early years of the republic.
+[A hand-colored map](https://collections.leventhalmap.org/search/commonwealth:ht250b870) of Jeddo (Edo), or Tokyo, Japan, we are shown the Shogunate precinct and gardens, government offices, houses and grounds, temples, shrines, bays, rivers, markets, canals, roads, bridges, and fields of rice and vegetables. This map is all the work of native artists, and was printed and colored in the City of Jeddo, Japan for the Rev. Henry Wood.
+
+Jeddo, Yedo, or Yeddo are anglicizations referring to the town and port of Edo, Japan and the adjacent large bay, and generally to the ruling shogunate of Japan during the 1850s and 1860s, which was based in Edo. After the Meiji Restoration (beginning in 1868 and began the “modernization” of Japan), the imperial capital was moved from Kyoto to Edo, and the city was renamed Tokyo which means “Eastern Capital.”
 
 #### Matthew Fontaine Maury, ***[Whale Chart](https://collections.leventhalmap.org/search/commonwealth:x633f952x)*** (1851)
 
