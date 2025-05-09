@@ -64,9 +64,3 @@ By the mid to late 1880s, Japan was opening itself up to vast international trad
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:c821mx46k/full/1400,/0/default.jpg" class="" >}}
 
 [This 1904 map](https://collections.leventhalmap.org/search/commonwealth:31982x20m) captures a very unique point in Japan’s history. In the previous 50 years, Japan had gone from a primarily agricultural country with little technological development, national military, and access to foreign nations to a highly “modernized” country united under a central government, a nationalized education system, a well-developed transport and communication system, and a highly powerful military force. Just after the publishing of this map, Japan would cement its power amongst European countries by defeating Russia and gaining control over Korea.
-
-#### Louis Désiré Léon Brault, Eduard Dumas-Vorzet, and C. Legros, ***[Océan Pacifique](https://collections.leventhalmap.org/search/commonwealth:zc77zv05s)*** (1880)
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:np198971k/full/1200,/0/default.jpg" class="" >}}
-
-[This sheet](https://collections.leventhalmap.org/search/commonwealth:zc77zv05s) is from a set of 4 charts showing direction and strength of winds at different times of year. Each square represents 10 degrees latitude and longitude, and the wind-roses (vector diagrams) show the direction and strength of prevailing winds. The length and color of each point indicate the intensity and likelihood of the winds and the direction it points corresponds with the wind's positionality. For example, a dark red line with a bit of yellow at the end pointing to the SW would mean this area most often has strong winds (dark red) — or the occasional gentle breeze (yellow) — blowing towards the southwest. The small number inside the circle of each diagram states the number of recordings taken from that location.
