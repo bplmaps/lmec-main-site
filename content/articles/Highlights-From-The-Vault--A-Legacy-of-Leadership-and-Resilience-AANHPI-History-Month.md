@@ -21,21 +21,21 @@ tags:
 
 ###### As Asian American, Native Hawaiian, and Pacific Islander (AANHPI) Heritage Month begins, this From The Vault examines the ways maps can support and inform Asian, Native Hawaiian, and Pacific Islander history across the globe and what it means for a map to be truly representative of a place and its people.
 
-#### Charles H. Ourand, [Map of Hawaii](https://collections.leventhalmap.org/search/commonwealth:cr56r708p) (1901)
+#### Charles H. Ourand, ***[Map of Hawaii](https://collections.leventhalmap.org/search/commonwealth:cr56r708p)*** (1901)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sf26cb87j/full/1400,/0/default.jpg" class="" >}}
 
 [This 1901 map](https://collections.leventhalmap.org/search/commonwealth:cr56r708p) of Hawaii was completed by the US government three years after the former independent nation had been forcibly annexed to the United States, following the overthrow of the Hawaiian monarchy in 1893. Up until this point, Hawaii had always been an independent nation and was recognized as such by all other nations around the world. Reasons cited for this takeover include the expansion of U.S.-owned sugar cane plantations, military interests, and the desire to expand American influence to other nations. Though they faced numerous and harsh pushback from the US government, present-day Hawaiians have maintained many core aspects of their culture (language, dance, culture, community) and many still believe in a independent Hawaiian nation.
 
-#### Miguel Covarrubias, [Peoples of the Pacific](https://collections.leventhalmap.org/search/commonwealth:q524n348w) (1940)
+#### Miguel Covarrubias, ***[Peoples of the Pacific](https://collections.leventhalmap.org/search/commonwealth:q524n348w)*** (1940)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n660s/full/1400,/0/default.jpg" class="" >}}
 
 Representing one map in a set of six, this 1940 pictorial map was intended to represent the “peoples of the pacific” and includes many communities and countries that border the Pacific ocean. This group of six maps were created for the Golden Gate International Exposition: A Pageant of the Pacific, what was essentially a World’s Fair hosted in San Francisco from 1939-1940 with a heavy focus on the Pacific and the future. This theme was observed through displays of new science, technology, the arts and entertainment.
 
-Though [this map](https://collections.leventhalmap.org/search/commonwealth:q524n348w) aimed to be representative of different cultures across the Pacific, attempts at representation from people with little knowledge or background on the cultures they're trying to capture may show stereotypical, demeaning, or inaccurate depictions of people and places. 
+Though [this map](https://collections.leventhalmap.org/search/commonwealth:q524n348w) aimed to be representative of different cultures across the Pacific, attempts at representation from people with little knowledge or background on the cultures they're trying to capture may show stereotypical, demeaning, or inaccurate depictions of people and places.
 
-#### Takai Ranzan, [Ansei kaisei Oedo ōezu = Map of Jeddo](https://collections.leventhalmap.org/search/commonwealth:ht250b870) (1849)
+#### Takai Ranzan, ***[Ansei kaisei Oedo ōezu = Map of Jeddo](https://collections.leventhalmap.org/search/commonwealth:ht250b870)*** (1849)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250b888/full/1400,/0/default.jpg" class="" >}}
 
@@ -43,7 +43,7 @@ Though [this map](https://collections.leventhalmap.org/search/commonwealth:q524n
 
 Jeddo, Yedo, or Yeddo are anglicizations referring to the town and port of Edo, Japan and the adjacent large bay, and generally to the ruling shogunate of Japan during the 1850s and 1860s, which was based in Edo. After the Meiji Restoration (beginning in 1868 and began the “modernization” of Japan), the imperial capital was moved from Kyoto to Edo, and the city was renamed Tokyo which means “Eastern Capital.”
 
-#### [Map of Seoul](https://collections.leventhalmap.org/search/commonwealth:kh04p666z) (1890)
+#### ***[Map of Seoul](https://collections.leventhalmap.org/search/commonwealth:kh04p666z)*** (1890)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kh04p6677/full/1400,/0/default.jpg" class="" >}}
 
@@ -51,7 +51,7 @@ Seoul has been the capital city of Korea for more than six hundred years, though
 
 The viewer positioned on any given side reads the names written in Korean characters on the opposite side of [the map](https://collections.leventhalmap.org/search/commonwealth:kh04p666z), as the characters on the side closest will read upside down. This creates a unique perspective and manner of considering mapped space when compared to European styles of mapping, but were a common feature found in maps of East Asia from this time period. Seven foreign embassies are indicated on the map, those of the United States, England, France, Germany, Russia, China and Japan are indicative of the country’s growing connection to the broader world.
 
-#### [\[Map of New England, 31st\]](https://collections.leventhalmap.org/search/commonwealth:wd376308v) \[1850–1870]
+#### ***[\[Map of New England, 31st\]](https://collections.leventhalmap.org/search/commonwealth:wd376308v)*** \[1850–1870]
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3763094/full/1400,/0/default.jpg" >}}
 
@@ -59,7 +59,7 @@ By the mid to late 1880s, Japan was opening itself up to vast international trad
 
 [This map](https://collections.leventhalmap.org/search/commonwealth:wd376308v) includes depiction of New England, with an inset of Boston, and descriptions of Boston Harbor, Rhode Island, Hartford, CT, and manufacturing in Lowell, MA.
 
-#### Gregor Noetzel, [Asia, Japan and Korea with the surrounding seas and the adjacent coastal region of China : from the latest information](https://collections.leventhalmap.org/search/commonwealth:31982x20m) (1904)
+#### Gregor Noetzel, ***[Asia, Japan and Korea with the surrounding seas and the adjacent coastal region of China : from the latest information](https://collections.leventhalmap.org/search/commonwealth:31982x20m)*** (1904)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:c821mx46k/full/1400,/0/default.jpg" class="" >}}
 
