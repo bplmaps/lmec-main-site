@@ -51,11 +51,13 @@ Seoul has been the capital city of Korea for more than six hundred years, though
 
 The viewer positioned on any given side reads the names written in Korean characters on the opposite side of [the map](https://collections.leventhalmap.org/search/commonwealth:kh04p666z), as the characters on the side closest will read upside down. This creates a unique perspective and manner of considering mapped space when compared to European styles of mapping, but were a common feature found in maps of East Asia from this time period. Seven foreign embassies are indicated on the map, those of the United States, England, France, Germany, Russia, China and Japan are indicative of the country’s growing connection to the broader world.
 
-#### H.H. Lloyd, ***[Telegraph chart](https://collections.leventhalmap.org/search/commonwealth:7h149w21m)*** (1858)
+#### [\[Map of New England, 31st\]](https://collections.leventhalmap.org/search/commonwealth:wd376308v) \[1850–1870]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w22w/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3763094/full/1400,/0/default.jpg" >}}
 
-[This chart](https://collections.leventhalmap.org/search/commonwealth:7h149w21m) shows the track of the great submarine Atlantic telegraph in the U.S., Canada, Great Britain, Europe, and north Africa, as well as submarine cables, steamship routes, and proposed lines to be added at a later date. Included to accompany the chart are two double column articles of text: one accounts the invention and operation of the magnetic telegraph and the other is a description of the making and laying submarine telegraph cables. The laying of the Atlantic cable was one of the great international undertakings of the nineteenth century and would take the equivalent of billions of dollars, four failed attempts, and another 8 years after this map was published before it was completed.
+By the mid to late 1880s, Japan was opening itself up to vast international trade after almost  200 years of being closed to nearly all foreigners, due in large part to heavy military pressure from the United States, Russia, Britain, France, and Holland. This map can be interpreted as the desire from the Japanese to learn more about important harbors and industrial ports in the United States, who were both consumers and aggressors to Japan. 
+
+[This map](https://collections.leventhalmap.org/search/commonwealth:wd376308v) includes depiction of New England, with an inset of Boston, and descriptions of Boston Harbor, Rhode Island, Hartford, CT, and manufacturing in Lowell, MA.
 
 #### Jean-Baptiste-Paul Touquet, ***[Chart shewing the tracks across the North Atlantic Ocean of Don Christopher Columbus](https://collections.leventhalmap.org/search/commonwealth:6t053s69r)*** (1828)
 
