@@ -59,11 +59,11 @@ By the mid to late 1880s, Japan was opening itself up to vast international trad
 
 [This map](https://collections.leventhalmap.org/search/commonwealth:wd376308v) includes depiction of New England, with an inset of Boston, and descriptions of Boston Harbor, Rhode Island, Hartford, CT, and manufacturing in Lowell, MA.
 
-#### Jean-Baptiste-Paul Touquet, ***[Chart shewing the tracks across the North Atlantic Ocean of Don Christopher Columbus](https://collections.leventhalmap.org/search/commonwealth:6t053s69r)*** (1828)
+#### Gregor Noetzel, [Asia, Japan and Korea with the surrounding seas and the adjacent coastal region of China : from the latest information](https://collections.leventhalmap.org/search/commonwealth:31982x20m) (1904)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053s70h/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:c821mx46k/full/1400,/0/default.jpg" class="" >}}
 
-Sailing under the Spanish flag, Christopher Columbus voyaged from Europe across the North Atlantic to the West Indies and made four separate voyages departing from either Spain or Portugal. From his first voyage in 1492-93 to his final voyage in 1502-04, he visited many Caribbean islands, including the larger ones of Hispaniola, Cuba, and Jamaica, as well as the northern coast of South America. [This map](https://collections.leventhalmap.org/search/commonwealth:6t053s69r), published in Paris in 1828, reconstructs the approximate routes of Columbus' trans-Atlantic passages, indicating his location by month and day. The patterns established in these early voyages, which used the predominant ocean currents and the Trade Winds, are the general routes followed by many from the Iberian peninsula and Africa's West Coast to the Caribbean.
+[This 1904 map](https://collections.leventhalmap.org/search/commonwealth:31982x20m) captures a very unique point in Japan’s history. In the previous 50 years, Japan had gone from a primarily agricultural country with little technological development, national military, and access to foreign nations to a highly “modernized” country united under a central government, a nationalized education system, a well-developed transport and communication system, and a highly powerful military force. Just after the publishing of this map, Japan would cement its power amongst European countries by defeating Russia and gaining control over Korea.
 
 #### Louis Désiré Léon Brault, Eduard Dumas-Vorzet, and C. Legros, ***[Océan Pacifique](https://collections.leventhalmap.org/search/commonwealth:zc77zv05s)*** (1880)
 
