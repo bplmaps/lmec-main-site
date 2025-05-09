@@ -29,9 +29,11 @@ tags:
 
 #### Joseph Frederick Wallet Des Barres, ***[A view of Boston](https://collections.leventhalmap.org/search/commonwealth:7h149z72h)*** (1779)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149z73s/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n660s/full/1400,/0/default.jpg" class="" >}}
 
-[This Revolutionary War era landscape scene](https://collections.leventhalmap.org/search/commonwealth:7h149z72h), published with a collection of nautical charts, depicted Boston Harbor as it would have appeared to approaching ships. While not technically a map or chart, coastal and headland views were also considered navigational aids. Such graphic images assisted ship captains in identifying prominent landmarks as they entered the harbor. Clearly visible on Boston’s late 18th-century skyline are numerous church spires and a flag on Beacon Hill.
+Representing one map in a set of six, this 1940 pictorial map was intended to represent the “peoples of the pacific” and includes many communities and countries that border the Pacific ocean. This group of six maps were created for the Golden Gate International Exposition: A Pageant of the Pacific, what was essentially a World’s Fair hosted in San Francisco from 1939-1940 with a heavy focus on the Pacific and the future. This theme was observed through displays of new science, technology, the arts and entertainment.
+
+Though this map aimed to be representative of different cultures across the Pacific, attempts at representation from people with little knowledge or background on the cultures they're trying to capture may show stereotypical, demeaning, or inaccurate depictions of people and places. 
 
 #### Georges-Louis Le Rouge, ***[Remarques sur la navigation de terre-neuve à New-York afin d'eviter les courrants et les bas-fonds au sud de Nantuckett et du Banc de George](https://collections.leventhalmap.org/search/commonwealth:cj82m308h)*** (1785)
 
