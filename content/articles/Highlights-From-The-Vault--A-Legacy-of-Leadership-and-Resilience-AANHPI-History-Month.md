@@ -3,7 +3,7 @@ draft: false
 title: >-
   Highlights From The Vault — A Legacy of Leadership and Resilience: AANHPI
   History Month
-date: 2025-03-21T18:00:00.000Z
+date: 2025-05-02T18:00:00.000Z
 author: LMEC Staff
 description: >-
   Check out these highlights from the May 2, 2025 From The Vault — A Legacy of
