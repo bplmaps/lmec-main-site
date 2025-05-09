@@ -19,7 +19,7 @@ tags:
 
 > *On May 2, we hosted **From The Vault — A Legacy of Leadership and Resilience: AANHPI History Month.***
 
-###### As Asian American, Native Hawaiian, and Pacific Islander (AANHPI) Heritage Month begins, this From The Vault examines the ways maps can support and inform Asian, Native Hawaiian, and Pacific Islander history across the globe and what it means for a map to be truly representative of a place and its people.
+As Asian American, Native Hawaiian, and Pacific Islander (AANHPI) Heritage Month begins, this From The Vault examines the ways maps can support and inform Asian, Native Hawaiian, and Pacific Islander history across the globe and what it means for a map to be truly representative of a place and its people.
 
 #### Charles H. Ourand, ***[Map of Hawaii](https://collections.leventhalmap.org/search/commonwealth:cr56r708p)*** (1901)
 
