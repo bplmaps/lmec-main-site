@@ -43,13 +43,13 @@ Though [this map](https://collections.leventhalmap.org/search/commonwealth:q524n
 
 Jeddo, Yedo, or Yeddo are anglicizations referring to the town and port of Edo, Japan and the adjacent large bay, and generally to the ruling shogunate of Japan during the 1850s and 1860s, which was based in Edo. After the Meiji Restoration (beginning in 1868 and began the “modernization” of Japan), the imperial capital was moved from Kyoto to Edo, and the city was renamed Tokyo which means “Eastern Capital.”
 
-#### Matthew Fontaine Maury, ***[Whale Chart](https://collections.leventhalmap.org/search/commonwealth:x633f952x)*** (1851)
+#### [Map of Seoul](https://collections.leventhalmap.org/search/commonwealth:kh04p666z) (1890)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kh04p6677/full/1400,/0/default.jpg" class="" >}}
 
-The importance of the mid-19th-century American whaling industry, which was dominated by ports in southern New England, especially New Bedford, Massachusetts, is documented by this innovative thematic map. It was prepared by Matthew Fontaine Maury, an American naval officer and oceanographer who served as the Superintendent of the U.S. Navy Depot of Charts and Instruments (later the U.S. Naval Observatory) from 1842 to 1861. Because of his contributions to oceanography including a series of wind and current charts for the world oceans, Maury is often recognized as the father of the science of oceanography. 
+Seoul has been the capital city of Korea for more than six hundred years, though the city’s history traces back to 18 BC. Seoul, like the entire Korean peninsula, is surrounded by mountains. The ring of mountains that surround the city are presented here in an elevated three-quarters view similar to traditional East Asian landscape painting.
 
-By centering [the map](https://collections.leventhalmap.org/search/commonwealth:x633f952x) on the Pacific Ocean, however, Maury showed that the primary habitat of whales was the Pacific arena rather than the Atlantic, where the whale resources had been terribly depleted. Interestingly, the sperm whale distribution was heavily concentrated in the central Pacific. This includes the area between Hawaii and the California coast, appearing just to the right of the map's center, where New England whalers focused their efforts. Seasonal variations were indicated by the letters w (winter), v (spring), s (summer), a (autumn), and all (all months).
+The viewer positioned on any given side reads the names written in Korean characters on the opposite side of [the map](https://collections.leventhalmap.org/search/commonwealth:kh04p666z), as the characters on the side closest will read upside down. This creates a unique perspective and manner of considering mapped space when compared to European styles of mapping, but were a common feature found in maps of East Asia from this time period. Seven foreign embassies are indicated on the map, those of the United States, England, France, Germany, Russia, China and Japan are indicative of the country’s growing connection to the broader world.
 
 #### H.H. Lloyd, ***[Telegraph chart](https://collections.leventhalmap.org/search/commonwealth:7h149w21m)*** (1858)
 
