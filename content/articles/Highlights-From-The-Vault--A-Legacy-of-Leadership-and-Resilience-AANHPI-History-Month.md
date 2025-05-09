@@ -9,9 +9,9 @@ description: >-
   Check out these highlights from the May 2, 2025 From The Vault — A Legacy of
   Leadership and Resilience: AANHPI History Month.
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3763094/276,1716,3499,697/1600,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3763094/276,1467,3499,1358/1400,/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3763094/276,1716,3499,697/1600,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3763094/276,1467,3499,1358/1400,/0/default.jpg
 tags:
   - ftv highlights
   - from the vault
