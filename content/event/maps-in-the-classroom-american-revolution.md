@@ -14,4 +14,4 @@ tags:
 ---
 ### About this event
 
-Join Map Center K-12 educators to try out our Mapping the American Revolution lesson. We'll examine period maps of Boston and New England to uncover information about the historical actors in the Revolution, the significance of geography, and the motives of the mapmakers. Take away a lesson you can teach right away in your classroom.
+Join Leventhal Center K-12 educators to try out our Mapping the American Revolution lesson. We'll examine period maps of Boston and New England to uncover information about the historical actors in the Revolution, the significance of geography, and the motives of the mapmakers. Take away a lesson you can teach right away in your classroom.

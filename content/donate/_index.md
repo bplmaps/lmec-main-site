@@ -29,6 +29,6 @@ For more donation options, including giving by cash or check, or to set up a spe
 
 If you have a collection of maps that you would like to give to the BPL for the preservation, use, research, and enjoyment of the public today and in the future, [please fill out the Special Collections Donation Form](https://www.bpl.org/special-collections/donation-form/). *(While the Leventhal Map & Education Center is a legally separate entity from the BPL, gifts of collections are accepted with title held by the BPL and the Leventhal Center does not accept gifts of collections as its own separate property.)*
 
-## About supporting the Map Center
+## About supporting the Leventhal Center
 
 The Leventhal Map & Education Center is an independent nonprofit in a longstanding partnership with the Boston Public Library, and we are dependent on the support of our community. We are a separate entity from the Boston Public Library Fund and the Associates of the Boston Public Library.

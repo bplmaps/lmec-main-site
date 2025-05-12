@@ -10,7 +10,7 @@ title = "Indigenous People’s Heritage Month: Lessons and Resources Exploring L
 +++
 November is Indigenous People’s Heritage Month. As we countdown to the Thanksgiving holiday, this month brings a chance to reinvigorate the constant work of unlearning entrenched narratives, such as that of the Pilgrims landing at Plymouth Rock, and relearning the complex history and modern presence of Native people across North America.
 
-Here at the Map Center, we ask K-12 students to always consider whose story a map is telling and what stories are left out. Many of our education programs and materials center ideas of land and power and look closely at the ways Euro-American maps feature or erase Native people and nations.
+Here at the Leventhal Center, we ask K-12 students to always consider whose story a map is telling and what stories are left out. Many of our education programs and materials center ideas of land and power and look closely at the ways Euro-American maps feature or erase Native people and nations.
 
 {{< figure src="https://content.libraries.wsu.edu/digital/api/singleitem/image/mcwhorter/381/default.jpg" caption="[This hand-drawn image](https://content.libraries.wsu.edu/digital/collection/mcwhorter/id/381), from the digital collections at Washington State University and drawn by Peo-peo Tholekt, shows combat at the Bear Paw Battle (top), and a scene at the Battle of Big Hole (bottom)." >}}
 
@@ -22,7 +22,7 @@ This map set and lesson for grades 2 and 3 focuses on a map of Patuxet made by S
 
 [**Native People and Settler Colonialism: A Story of Land and Maps**](https://collections.leventhalmap.org/educators/curriculum-materials/136)
 
-The first part of this lesson introduces students to an 1837 map created by members of the Báxoje/Ioway tribal community and asks them to compare it with one made in 1902 by a Euro-American cartographer to discuss the meaning of land and how it is understood and visualized by both. Part Two has students working in small groups with a series of 19th century Euro-American maps to answer questions that uncover how Native communities are portrayed and represented on the land, including how Native communities visualize their presence and relationship to the land through mapping today. Special thanks to Akomawt Educational Initiative for consulting with Map Center staff for this lesson.
+The first part of this lesson introduces students to an 1837 map created by members of the Báxoje/Ioway tribal community and asks them to compare it with one made in 1902 by a Euro-American cartographer to discuss the meaning of land and how it is understood and visualized by both. Part Two has students working in small groups with a series of 19th century Euro-American maps to answer questions that uncover how Native communities are portrayed and represented on the land, including how Native communities visualize their presence and relationship to the land through mapping today. Special thanks to Akomawt Educational Initiative for consulting with Leventhal Center staff for this lesson.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js957750m/297,319,9145,5865/,1200/0/default.jpg" caption="[This map in our digital collections](https://collections.leventhalmap.org/search/commonwealth:js957749v) depicts Indian Reservations in the United States as they existed in the 1890s." class="figure-right" >}}
 
@@ -32,7 +32,7 @@ This map set was created by Christopher Montero, 2018 Carolyn A. Lynch Teacher F
 
 [**America Transformed: Native Viewpoints on 19th Century Westward Expansion**](https://collections.leventhalmap.org/map-sets/536)
 
-Within this set you will find best practices for teaching about Native people and sample maps with Native viewpoints and inquiry questions. This map set was created by Chris Newell (Passamaquoddy), Director of Education and endawnis Spears (Navajo, Ojibwe, Chickasaw, Choctaw), Director of Programming and Outreach at [Akomawt Educational Initiative](https://www.akomawt.org/) to accompany the Map Center’s [America Transformed](https://collections.leventhalmap.org/exhibits/25) exhibition.
+Within this set you will find best practices for teaching about Native people and sample maps with Native viewpoints and inquiry questions. This map set was created by Chris Newell (Passamaquoddy), Director of Education and endawnis Spears (Navajo, Ojibwe, Chickasaw, Choctaw), Director of Programming and Outreach at [Akomawt Educational Initiative](https://www.akomawt.org/) to accompany the Leventhal Center’s [America Transformed](https://collections.leventhalmap.org/exhibits/25) exhibition.
 
 [**Mapping the Nez Perce War**](https://collections.leventhalmap.org/educators/curriculum-materials/126)
 

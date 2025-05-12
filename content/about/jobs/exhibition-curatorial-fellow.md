@@ -97,7 +97,7 @@ Work is performed in-person at the Central Library in Copley Square,
 though some opportunities for remote work during the research and
 writing phase of work will be possible. The Library is well-served by
 public transit. No free facilities for employee parking are available.
-The Library and Map Center gallery are fully ADA accessible.
+The Library and Leventhal Center gallery are fully ADA accessible.
 
 **About the Leventhal Center**
 

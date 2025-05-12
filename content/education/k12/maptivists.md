@@ -8,7 +8,7 @@ menu: false
 ---
 ## Maptivists
 
-{{< figure src="/uploads/maptivists.jpg" caption="Students working on research questions with community leader at the Map Center" class="figure-right" >}}
+{{< figure src="/uploads/maptivists.jpg" caption="Students working on research questions with community leader at the Leventhal Center" class="figure-right" >}}
 
 The _Maptivists_ initiative at the Leventhal Map & Education Center is rooted in the belief that maps and mapping are empowering and can help students be civically engaged.
 

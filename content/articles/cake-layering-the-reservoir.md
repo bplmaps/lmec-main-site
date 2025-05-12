@@ -52,7 +52,7 @@ In part, this is what makes the collections so distinct:  By focusing on a parti
 
 
 
-Today, computer cartography is more commonly known as geographic information systems, or GIS. , or the use of computers to create, store, and analyze spatial data, comprises an important part of our work here at the Map Center. We use GIS software to [make original maps](https://collections.leventhalmap.org/search/commonwealth:4t64k502g), create [data visualizations](https://birds-eye-cards.glitch.me/), and [build tools for exploring historic collections](https://atlascope.org).
+Today, computer cartography is more commonly known as geographic information systems, or GIS. , or the use of computers to create, store, and analyze spatial data, comprises an important part of our work here at the Leventhal Center. We use GIS software to [make original maps](https://collections.leventhalmap.org/search/commonwealth:4t64k502g), create [data visualizations](https://birds-eye-cards.glitch.me/), and [build tools for exploring historic collections](https://atlascope.org).
 
 In addition to being GIS users, we're also fascinated by how GIS has transformed the practices surrounding cartography and spatial analysis.   nd while the history of GIS has been [fairly](https://www.wiley.com/en-us/GIS:+A+Short+Introduction-p-9780631235330) [well](https://bpl.bibliocommons.com/v2/record/S75C504966) [documented](https://bpl.bibliocommons.com/v2/record/S75C2037006), dedicated collections of maps produced during its early days still remain rare.[^1] That's why  -->
 

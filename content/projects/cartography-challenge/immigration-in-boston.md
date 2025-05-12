@@ -15,7 +15,7 @@ tags: [immigration, getting around town]
 
 Your mission is simple: create a static map that creatively visualizes immigration patterns in the Greater Boston area. "Greater Boston" can be interpreted flexibly, but **at minimum your map should include all of Boston proper and its neighborhoods**. At maximum, you may represent all towns and cities within the Metropolitan Area Planning Council's [Inner Core Committee](https://www.mapc.org/wp-content/uploads/2018/03/MAPC_Subregions_2017_letter_nonames-2.png). We suspect it would be difficult to meet the requirements of the challenge while including *all* these communities, but we won't stop you from trying!
 
-In addition to an award of $200 and exhibition in the Map Center's digital collections, the winning submission from this challenge will be used during K-12 educational visits and programs at the Map Center. Therefore, **submissions should be appealing to a wide range of learners, especially grade-school children**.
+In addition to an award of $200 and exhibition in the Leventhal Center's digital collections, the winning submission from this challenge will be used during K-12 educational visits and programs at the Leventhal Center. Therefore, **submissions should be appealing to a wide range of learners, especially grade-school children**.
 
 ### Challenge: No Choropleth, No Problem
 

@@ -39,7 +39,7 @@ The **Exhibition Design & Fabrication Coordinator** will assist with the prepara
 **Work Location**
 
 Installation work is performed in-person at the Central Library in Copley Square, with the opportunity for considerable remote work during the design stage. The
-Library is well-served by public transit. No free facilities for employee parking are available. The Library and Map Center gallery are
+Library is well-served by public transit. No free facilities for employee parking are available. The Library and Leventhal Center gallery are
 fully ADA accessible.
 
 **Compensation**
@@ -48,7 +48,7 @@ Hourly, $22.50/hour.
 
 This position is not eligible for health benefits.
 
-**About the Map Center**
+**About the Leventhal Center**
 
 The Leventhal Map & Education Center is an independent, self-governing nonprofit organization in a long-term strategic relationship with the Boston Public Library. LMEC stewards a quarter million geographic
 objects in the Library's collections, and works to make them freely

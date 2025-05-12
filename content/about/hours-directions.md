@@ -28,7 +28,7 @@ For the general opening hours of the Central Library in Copley Square, see the [
 
 ## Directions
 
-We are located at the **Central Library in Copley Square**, at **700 Boylston Street** in Boston. Inside the library, we are located on the ground floor of the McKim Building, on the west side of the Courtyard and near the Glass Elevator of the Boylston Street Building. Look for arrows to the Leventhal Map Center in the library's wayfinding signs. Note that the McKim Building also features the Map Room Café, which is a restaurant and bar that is not associated with the Map Center.
+We are located at the **Central Library in Copley Square**, at **700 Boylston Street** in Boston. Inside the library, we are located on the ground floor of the McKim Building, on the west side of the Courtyard and near the Glass Elevator of the Boylston Street Building. Look for arrows to the Leventhal Center in the library's wayfinding signs. Note that the McKim Building also features the Map Room Café, which is a restaurant and bar that is not associated with the Leventhal Center.
 
 {{< maplibre-gl-map lat="42.34934" lon="-71.07814" zoom="16" width="100%" height="600px" >}}
 

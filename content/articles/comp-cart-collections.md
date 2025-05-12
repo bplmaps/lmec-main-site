@@ -12,7 +12,7 @@ tags:
 ---
 >The Leventhal Center **welcomes donations in the area of early computer cartography**, including maps, datasets (physical or born-digital), papers, and other cartographic objects produced between 1960 and 2000. In this post, we introduce **two new collections** that exemplify this interest.
 
-Here at the Map Center, we're thrilled to welcome two new archival collections which help narrate the history of computer cartography: the **[Applied Geographics, Inc. Records](https://www.leventhalmap.org/collections/archival-collections/)** and the **David J. Weaver Collection**.
+Here at the Leventhal Center, we're thrilled to welcome two new archival collections which help narrate the history of computer cartography: the **[Applied Geographics, Inc. Records](https://www.leventhalmap.org/collections/archival-collections/)** and the **David J. Weaver Collection**.
 
 Donated by David Weaver, [co-founder and former Vice President of Applied Geographics (AppGeo)](https://www.appgeo.com/tribute-to-a-benevolent-founder/), these collections encompass hundreds of cartographic objects including maps, data creation tools, software manuals, and more. See below for some photos taken during our time processing the archival collections. 
 

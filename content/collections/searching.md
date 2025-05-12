@@ -5,7 +5,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n7
 description: How to find what we have using our catalogs and digital repositories
 weight: "2"
 quicklinks:
-- text: Search the catalog for objects in the Map Center collections
+- text: Search the catalog for objects in the Leventhal Center collections
   link: "#bibliocommons-search-entry"
   linkType: jump
 - text: Search the digital collections for objects available online

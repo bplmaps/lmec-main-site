@@ -15,7 +15,7 @@ tags:
   - from the vault
 ---
 
-> On July 7, we hosted *[From The Vault: Summer Vacation](https://www.leventhalmap.org/event/from-the-vault-collections-showing-summer-vacation/)*! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition the series, we looked at objects from our collections that map places of summer relaxation and recreation.
+> On July 7, we hosted *[From The Vault: Summer Vacation](https://www.leventhalmap.org/event/from-the-vault-collections-showing-summer-vacation/)*! *From The Vault* is a biweekly event series showing collections objects selected by Leventhal Center staff. For this edition the series, we looked at objects from our collections that map places of summer relaxation and recreation.
 
 #### E. R. Howe, *The Point of Pines, Revere, Mass* (1880)
 

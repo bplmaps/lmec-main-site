@@ -2,7 +2,7 @@
 title: Staff & Boards
 backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/5059,2047,4782,3064/1200,/0/default.jpg
-description: The people who keep the Map Center running
+description: The people who keep the Leventhal Center running
 weight: '2'
 cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/5059,2047,4782,3064/1200,/0/default.jpg
 ---

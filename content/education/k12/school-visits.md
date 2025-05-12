@@ -5,7 +5,7 @@ quicklinks:
     linkType: jump
 title: School Visits
 backgroundImage: /uploads/eliot5.jpg
-description: Information on Map Center programs for K-12 classes
+description: Information on Leventhal Center programs for K-12 classes
 weight: '1'
 ---
 

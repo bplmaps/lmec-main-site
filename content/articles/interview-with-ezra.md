@@ -9,15 +9,15 @@ tags:
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3761139/full/1200,/0/default.jpg
 
 ---
-> We're excited to welcome Ezra Acevedo to the team as the Fall 2022 [co-op student](https://careers.northeastern.edu/cooperative-education/) serving as Visitor Services & Exhibition Assistant. Ezra is a student at Northeastern University studying International Affairs and will be working at the Map Center until December 2022. We sat down with Ezra to learn more about their interests and work on upcoming Map Center exhibitions.
+> We're excited to welcome Ezra Acevedo to the team as the Fall 2022 [co-op student](https://careers.northeastern.edu/cooperative-education/) serving as Visitor Services & Exhibition Assistant. Ezra is a student at Northeastern University studying International Affairs and will be working at the Leventhal Center until December 2022. We sat down with Ezra to learn more about their interests and work on upcoming Leventhal Center exhibitions.
 
 {{< figure src="/images/headshots/ezra-acevedo.jpg" class="figure-right" caption="Ezra Acevedo">}}
 
-**Tell us a bit about your background. What are you currently studying at Northeastern and what made you choose to work at the Map Center during your co-op experience?**
+**Tell us a bit about your background. What are you currently studying at Northeastern and what made you choose to work at the Leventhal Center during your co-op experience?**
 
 I’m originally from Massachusetts and I’ve lived in the area my whole life, which I think instilled in me a love of traveling and a need to see more of the world. I’m an International Affairs major at Northeastern University, which at first might seem like an odd fit for a museum centered around cartography and geography, but I feel like my background and interests actually align themselves very well to this work. (After all, if you’re interested in anything international, you should know your world geography.) I approach International Affairs from a cultural perspective, which means that I focus on taking a lot more Area Studies and History classes than most similar majors.
 
-I think I’ve always been incredibly fascinated by geography and maps and how we portray space, history, and data. Maps can tell us so much information about the world they’re made in and they can also be really beautiful to look at, sometimes they are even art-like. I really wanted to get experience working in a museum or archive for my co-op, so when I found the Map Center it felt like the perfect intersection of everything I wanted to do.
+I think I’ve always been incredibly fascinated by geography and maps and how we portray space, history, and data. Maps can tell us so much information about the world they’re made in and they can also be really beautiful to look at, sometimes they are even art-like. I really wanted to get experience working in a museum or archive for my co-op, so when I found the Leventhal Center it felt like the perfect intersection of everything I wanted to do.
 
 **Are there any maps that you’ve been particularly fascinated by?**
 
@@ -35,9 +35,9 @@ I’ve found myself interested in our maps from the 1800s depicting [Managing Pe
 
 **What are you excited about working on in the next six months?**
 
-I’m excited to get to know the [_More or Less in Common_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/) exhibition! There’s so much to explore and talk about in any single map in the exhibition, especially with a multifaceted topic like environmental justice. For example, the “[City of Unequal Risks](https://collections.leventhalmap.org/search/commonwealth:4t64k502g)” map offers a viewer a ton of information in a visually appealing way, and because of the depth of the information, can be explained many different ways. I’m glad I’m going to get a chance to explore these perspectives through giving tours and writing articles for the Map Center.
+I’m excited to get to know the [_More or Less in Common_](https://www.leventhalmap.org/digital-exhibitions/more-or-less-in-common/) exhibition! There’s so much to explore and talk about in any single map in the exhibition, especially with a multifaceted topic like environmental justice. For example, the “[City of Unequal Risks](https://collections.leventhalmap.org/search/commonwealth:4t64k502g)” map offers a viewer a ton of information in a visually appealing way, and because of the depth of the information, can be explained many different ways. I’m glad I’m going to get a chance to explore these perspectives through giving tours and writing articles for the Leventhal Center.
 
-I’m also helping to shape and produce a more permanent exhibition that will be part of our gallery. I’m looking forwards to it immensely, especially learning about curation and exhibition work. I think it will be a great opportunity to learn and participate in one of the coolest parts of the Map Center, which is the fact that we can display the maps in our archives and collections for public viewing.
+I’m also helping to shape and produce a more permanent exhibition that will be part of our gallery. I’m looking forwards to it immensely, especially learning about curation and exhibition work. I think it will be a great opportunity to learn and participate in one of the coolest parts of the Leventhal Center, which is the fact that we can display the maps in our archives and collections for public viewing.
 
 **I know you’ve only just gotten here, but do you have a favorite map in the LMEC collections?**
 

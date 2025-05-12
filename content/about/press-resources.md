@@ -2,7 +2,7 @@
 title: Resources and Services for Journalists and the Media
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039nv56g/617,2289,2342,1270/,1200/0/default.jpg
 cardImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m039nv56g/617,2289,2342,1270/,1200/0/default.jpg
-description: How to reach a topic expert at the Map Center for a story, and how to use our collections in your work
+description: How to reach a topic expert at the Leventhal Center for a story, and how to use our collections in your work
 weight: "5"
 menu: false
 ---

@@ -41,7 +41,7 @@ The fundraising & development intern will work with LMEC Development & Grants Ma
 * **Hours**: 6-10 hours/week
 * **Compensation**: $15.35/hour
 * This position is not eligible for health benefits.
-* Work is performed in-person at the Central Library in Copley Square. The Library is well-served by public transit. No free facilities for employee parking are available. The Library and Map Center gallery are fully ADA accessible.
+* Work is performed in-person at the Central Library in Copley Square. The Library is well-served by public transit. No free facilities for employee parking are available. The Library and Leventhal Center gallery are fully ADA accessible.
 * All LMEC employees are required to present proof of full vaccination against the COVID-19 virus per federal CDC guidelines.
 * All LMEC employees are required to pass a CORI check as part of the hiring process.
 

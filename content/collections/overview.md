@@ -33,7 +33,7 @@ The Leventhal Map & Education Center cares for more than a quarter million carto
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n594d/1472,375,7808,7312/1000,/0/default.jpg" alt="Circular world map" caption="One of the oldest objects in the collection, a [circular world map](https://collections.leventhalmap.org/search/commonwealth:q524n5934) from the 1475 Latin edition of _Rudimentum Novitorium_" class="figure-right" >}}
 
-Chronologically, the Center's collections span from the fifteenth century to the present day, and geographically cover all world regions. The strongest areas of the collections are objects whose geographic extent includes Boston, Massachusetts, and New England. Many of the Map Center's most significant collections from the early modern period were previously held in the Rare Books department, while many of our nineteenth century materials were formerly held in the Prints department. The Center also holds many thousands of maps produced by federal, state, and local governments, as well as from agencies related to defense, environmental management, and urban and regional planning.
+Chronologically, the Center's collections span from the fifteenth century to the present day, and geographically cover all world regions. The strongest areas of the collections are objects whose geographic extent includes Boston, Massachusetts, and New England. Many of the Leventhal Center's most significant collections from the early modern period were previously held in the Rare Books department, while many of our nineteenth century materials were formerly held in the Prints department. The Center also holds many thousands of maps produced by federal, state, and local governments, as well as from agencies related to defense, environmental management, and urban and regional planning.
 
 #### Collections of Distinction {#collections-of-distinction}
 
@@ -58,7 +58,7 @@ Our online public access data portal is currently under development. For more in
 
 ### Other geographic resources at the BPL
 
-The BPL's [research collections](https://www.bpl.org/conducting-research/) include many geographic resources not housed at the Map Center. The research library collections contain many 20th century atlases, guides, and scholarly monographs. The [Special Collections](https://www.bpl.org/special-collections-departments/) departments, including Rare Books, Prints & Photographs, Architectural Plans & Drawings, and Manuscripts & Archives, and Fine Arts, contain geographic material as well as material that is useful in connection with Map Center objects.
+The BPL's [research collections](https://www.bpl.org/conducting-research/) include many geographic resources not housed at the Leventhal Center. The research library collections contain many 20th century atlases, guides, and scholarly monographs. The [Special Collections](https://www.bpl.org/special-collections-departments/) departments, including Rare Books, Prints & Photographs, Architectural Plans & Drawings, and Manuscripts & Archives, and Fine Arts, contain geographic material as well as material that is useful in connection with Leventhal Center objects.
 
 ## Learning from the collections
 

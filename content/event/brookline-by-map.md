@@ -20,4 +20,4 @@ title = "Brookline By Map"
 
 What was Brookline like in the late 19th and early 20th centuries? What schools and churches were in the town? Were any industries based in Brookline? Using [Atlascope](https://atlascope.leventhalmap.org/), the Leventhal Map & Education Center’s user-friendly portal for exploring urban atlases, we’ll dive into the historical geography of Brookline. Come learn about how the community has changed over time, and discover how to research the history of your own house and neighborhood.
 
-This event will be broadcast online at the Leventhal Map Center’s YouTube Live and Facebook Live channels.
+This event will be broadcast online at the Leventhal Center’s YouTube Live and Facebook Live channels.

@@ -16,7 +16,7 @@ tags:
   - collections
 ---
 
-> On May 12, we hosted *[From The Vault: Bird's Eye Views](https://www.leventhalmap.org/event/from-the-vault-collections-showing-bird-s-eye-views/)*! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition the series, we looked at objects that map spaces and places from above
+> On May 12, we hosted *[From The Vault: Bird's Eye Views](https://www.leventhalmap.org/event/from-the-vault-collections-showing-bird-s-eye-views/)*! *From The Vault* is a biweekly event series showing collections objects selected by Leventhal Center staff. For this edition the series, we looked at objects that map spaces and places from above
 
 [Bird’s eye views](https://collections.leventhalmap.org/search?utf8=%E2%9C%93\&q=bird%27s+eye) are a unique genre of cartographic materials that were drawn as if the artist viewed a town from an elevated or bird’s eye view perspective. They were compiled and published primarily in North America during the last half of the 19th century and the early decades of the 20th century. Artists did not actually view their subjects from an elevated perspective, but walked the streets sketching individual buildings. Then they prepared a composite drawing depicting the town to its best promotional advantage. 
 

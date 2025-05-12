@@ -16,7 +16,7 @@ Our exhibitions gallery is free to the public, and no advance booking is necessa
 
 ## Directions
 
-See [Hours & Directions](/about/hours-directions/) for a map to the Map Center and information about transportation and parking.
+See [Hours & Directions](/about/hours-directions/) for a map to the Leventhal Center and information about transportation and parking.
 
 ## Gallery Tours
 

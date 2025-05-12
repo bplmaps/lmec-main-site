@@ -30,7 +30,7 @@ When I graduated, I started working in San Antonio, Texas. Like Boston, San Anto
 
 In my free time, I tried to start making maps of my new city as a way of learning more about where I lived, but realized I didn't have access to the same GIS licenses I'd had in college. So, I started teaching myself some open-source geospatial programs and began tinkering with web development. By peeking inside of other projects that I admired, I taught myself how to build basic web apps and websites. 
 
-When I came into graduate school, I was interested in finding some ways to bring together my professional experiences in architecture and urban development with my personal interests in web mapping, community-based data, and the creative storytelling powers of the internet. I found myself enrolled in classes in urban planning, sociology, data visualization, and design & technology. So, you can see why the work of the Map Center felt like finding kindred thinkers!
+When I came into graduate school, I was interested in finding some ways to bring together my professional experiences in architecture and urban development with my personal interests in web mapping, community-based data, and the creative storytelling powers of the internet. I found myself enrolled in classes in urban planning, sociology, data visualization, and design & technology. So, you can see why the work of the Leventhal Center felt like finding kindred thinkers!
 
 **GN**: I've heard you call yourself a "map nerd", which is certainly a badge of honor around here. Can you point to a specific experience that might have piqued this interest?
 
@@ -50,6 +50,6 @@ I'm also really eager to see firsthand the work of our amazing education team. F
 
 **EB**: All the amazing outdoor public space! I live near Franklin Park and can't wait to run and bike through to explore while the weather is nice. I've also got a growing list of museums that have been recommended to me, so I'm planning out my weekends accordingly. 
 
-That said, I'd love nothing more than if folks reading this wanted to [email me](mailto:ebowe@leventhalmap.org) their favorite spots in Boston. I'm building my list of things to do and would love to say hello and learn from the broader Map Center community!
+That said, I'd love nothing more than if folks reading this wanted to [email me](mailto:ebowe@leventhalmap.org) their favorite spots in Boston. I'm building my list of things to do and would love to say hello and learn from the broader Leventhal Center community!
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k97d/231,361,8282,6510/full/0/default.jpg" caption="An [1885 general plan of Franklin Park](https://collections.leventhalmap.org/search/commonwealth:js956k964) drawn by Frederick Law Olmstead and John Charles Olmstead from the Norman B. Leventhal Map Center Collection." >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k97d/231,361,8282,6510/full/0/default.jpg" caption="An [1885 general plan of Franklin Park](https://collections.leventhalmap.org/search/commonwealth:js956k964) drawn by Frederick Law Olmstead and John Charles Olmstead from the Norman B. Leventhal Center Collection." >}}

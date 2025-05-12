@@ -15,7 +15,7 @@ tags:
   - from the vault
 ---
 
-> On April 28, we hosted *[From The Vault: The Great Outdoors](https://www.leventhalmap.org/event/from-the-vault-collections-showing-the-great-outdoors/)*! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition the series, we looked at objects that map national parks, green space around Boston, and the natural world beyond.
+> On April 28, we hosted *[From The Vault: The Great Outdoors](https://www.leventhalmap.org/event/from-the-vault-collections-showing-the-great-outdoors/)*! *From The Vault* is a biweekly event series showing collections objects selected by Leventhal Center staff. For this edition the series, we looked at objects that map national parks, green space around Boston, and the natural world beyond.
 
 #### *A Map of Existing and Proposed Open Spaces in Massachusetts* (1929)
 

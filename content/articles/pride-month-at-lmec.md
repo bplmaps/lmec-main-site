@@ -8,7 +8,7 @@ tags = ["Collections", "maps of the month"]
 title = "Pride Month at LMEC"
 
 +++
-June is Pride month for LGBTQ+ people, and the BPL has been celebrating. If you've been to the Central Library at Copley, which is now open to visitors, you've seen the large beautiful rainbow flags waving away in the wind. We don't have flags at the Map Center, but we do have maps full of rainbows! Check out this handful of rainbow-y maps for some celebratory summer fun.
+June is Pride month for LGBTQ+ people, and the BPL has been celebrating. If you've been to the Central Library at Copley, which is now open to visitors, you've seen the large beautiful rainbow flags waving away in the wind. We don't have flags at the Leventhal Center, but we do have maps full of rainbows! Check out this handful of rainbow-y maps for some celebratory summer fun.
 
 ### An Arctic Rainbow
 
@@ -46,4 +46,4 @@ ___
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4637740/6850,425,3203,1406/full/0/default.jpg" caption="Bernard Sleigh, Sidgwick & Jackson, and Vincent Brooks, Day & Son. [An anciente mappe of Fairyland](https://collections.leventhalmap.org/search/commonwealth:3f463773q). 1917." class="figure-center" >}}
 
-Last but certainly not least is our beloved [Anciente Mappe of Fairyland](https://collections.leventhalmap.org/search/commonwealth:3f463773q), a Map Center favorite. This map comes out of a sketch initially drawn by the creator, Bernard Sleigh, for his kids. It incorporates Arthurian, mythological, and nursery rhyme characters as well as traditional fairies and other fairytale elements. The map was used both as a decortaion for nurseries and as a fabric. It also includes this beautiful double rainbow, which, along with the modern reclamation of the word "fairy," makes this a particularly apt map for Pride. Have a wonderful rest of the month!
+Last but certainly not least is our beloved [Anciente Mappe of Fairyland](https://collections.leventhalmap.org/search/commonwealth:3f463773q), a Leventhal Center favorite. This map comes out of a sketch initially drawn by the creator, Bernard Sleigh, for his kids. It incorporates Arthurian, mythological, and nursery rhyme characters as well as traditional fairies and other fairytale elements. The map was used both as a decortaion for nurseries and as a fabric. It also includes this beautiful double rainbow, which, along with the modern reclamation of the word "fairy," makes this a particularly apt map for Pride. Have a wonderful rest of the month!

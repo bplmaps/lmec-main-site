@@ -16,6 +16,6 @@ tags:
 
 **A drop-in, K-12 education focused look at the new Building Blocks exhibition with a focus on maps and the history of Black Bostonians.**
 
-K-12 educators in the Boston area are invited to join us for a look at the Map Center's new _Building Blocks_ exhibition. Learn more about bringing students to programs in the Center, how to teach using these atlases and about the activism of Florida Ruffin Ridley and other Black Bostonians whose stories are woven throughout the exhibition. We'll also have classroom-ready maps you can take away!
+K-12 educators in the Boston area are invited to join us for a look at the Leventhal Center's new _Building Blocks_ exhibition. Learn more about bringing students to programs in the Center, how to teach using these atlases and about the activism of Florida Ruffin Ridley and other Black Bostonians whose stories are woven throughout the exhibition. We'll also have classroom-ready maps you can take away!
 
 _Registration is encouraged but not required._ 

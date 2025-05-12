@@ -42,12 +42,12 @@ _“Bending Lines_ focuses on the motivations and decisions of cartographers and
 
 #### Education resources
 
-As with all Leventhal Map Center exhibitions, _Bending Lines_ features resources that  support a rich experience for educators, students, and families. A custom tour designed for young learners takes students through some of the most important critical questions to ask when evaluating the reliability of a map. These tours are available both as online follow-along guides as well as captions and stops in the gallery meant for young learners. In-gallery activities and kid-friendly captions encourage younger visitors to think about how manipulation becomes an inevitable part of the mapmaking process.
+As with all Leventhal Center exhibitions, _Bending Lines_ features resources that  support a rich experience for educators, students, and families. A custom tour designed for young learners takes students through some of the most important critical questions to ask when evaluating the reliability of a map. These tours are available both as online follow-along guides as well as captions and stops in the gallery meant for young learners. In-gallery activities and kid-friendly captions encourage younger visitors to think about how manipulation becomes an inevitable part of the mapmaking process.
 
 #### Information for visitors
 
 * _Bending Lines_ is open free of charge at the Boston Public Library in Copley Square. It opens Friday, September 10 and will run through February 18, 2022. 
-* The Map Center gallery will be open 11am–5pm on Mon, Tue, Thu, Fri, and Sat; and 1–7 pm on Wednesday. [https://www.leventhalmap.org/exhibitions/visit/](https://www.leventhalmap.org/exhibitions/visit/)
+* The Leventhal Center gallery will be open 11am–5pm on Mon, Tue, Thu, Fri, and Sat; and 1–7 pm on Wednesday. [https://www.leventhalmap.org/exhibitions/visit/](https://www.leventhalmap.org/exhibitions/visit/)
 * Masks are currently required for all Boston Public Library visitors and staff.
 
 #### Funding information

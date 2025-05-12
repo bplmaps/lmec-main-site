@@ -15,7 +15,7 @@ tags:
   - collections
 ---
 
-> On October 13th, we hosted [From The Vault: Hispanic Heritage Month](/event/ftv-histpanic-heritage/)! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at a few objects from our collections that explore Hispanic heritage.
+> On October 13th, we hosted [From The Vault: Hispanic Heritage Month](/event/ftv-histpanic-heritage/)! *From The Vault* is a biweekly event series showing collections objects selected by Leventhal Center staff. For this edition of the series, we looked at a few objects from our collections that explore Hispanic heritage.
 
 #### *[Tabula Moderna Hispaniae](https://collections.leventhalmap.org/search/commonwealth:9g54xj72j)* (1525)
 

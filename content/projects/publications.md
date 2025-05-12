@@ -31,7 +31,7 @@ Catalog, 50pp. (2015). [Browse the LMEC copy](https://bpl.bibliocommons.com/v2/r
 
 ### Torn In Two
 
-Torn in Two: 150th Anniversary of the Civil War, the fourth gallery exhibition of the Norman B. Leventhal Map Center at the Boston Public Library, commemorates one of the major events in America’s history.
+Torn in Two: 150th Anniversary of the Civil War, the fourth gallery exhibition of the Norman B. Leventhal Center at the Boston Public Library, commemorates one of the major events in America’s history.
 
 Catalog, 152pp. (2011). [Browse the LMEC copy](https://bpl.bibliocommons.com/v2/record/S75C1714992) or [find in your own library](http://www.worldcat.org/oclc/726743324).![Catalog cover for Torn in Two](https://www.leventhalmap.org/wp-content/uploads/2017/03/torn_in_two_sm.jpg)
 
@@ -53,7 +53,7 @@ Catalog, 115pp. (2006). [Browse the LMEC copy](https://bpl.bibliocommons.com/v2/
 
 ### Boston and Beyond
 
-Boston and Beyond, the third gallery exhibit of the Norman B. Leventhal Map Center at the Boston Public Library, marks the public debut of one of the world’s pre-eminent collections of urban bird’s eye views and celebrates its preservation through a Save America’s Treasures award.
+Boston and Beyond, the third gallery exhibit of the Norman B. Leventhal Center at the Boston Public Library, marks the public debut of one of the world’s pre-eminent collections of urban bird’s eye views and celebrates its preservation through a Save America’s Treasures award.
 
 Catalog, 167pp. (2008). [Browse the LMEC copy](https://bpl.bibliocommons.com/v2/record/S75C1328673), or [find in your own library](http://www.worldcat.org/oclc/225862926).
 

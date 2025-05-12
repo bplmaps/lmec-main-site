@@ -14,4 +14,4 @@ tags:
 ---
 ### About this event
 
-Join Map Center K-12 educators to learn how we introduce young learners to maps and how to think about them. Take away a lesson you can teach right away in your classroom.
+Join Leventhal Center K-12 educators to learn how we introduce young learners to maps and how to think about them. Take away a lesson you can teach right away in your classroom.

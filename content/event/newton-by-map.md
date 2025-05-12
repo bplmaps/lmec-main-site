@@ -16,4 +16,4 @@ title = "Newton By Map"
 
 What was Newton like in the late 19th and early 20th centuries? What used to be on the sites of your favorite Newton landmarks? How has the city changed, and how has it stayed the same? Using [Atlascope](https://atlascope.leventhalmap.org/), the Leventhal Map & Education Center’s user-friendly portal for exploring urban atlases, we’ll dive into the historical geography of Newton. Come learn about how the community has changed over time, and discover how to research the history of your own house and neighborhood.
 
-This event will be broadcast online at the Leventhal Map Center’s YouTube Live and Facebook Live channels.
+This event will be broadcast online at the Leventhal Center’s YouTube Live and Facebook Live channels.

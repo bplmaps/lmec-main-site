@@ -1,7 +1,7 @@
 ---
 title: COVID Updates
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8336hc349/1977,3051,4696,1785/1200,/0/default.jpg
-description: Information about Map Center programs, activities, and services while
+description: Information about Leventhal Center programs, activities, and services while
   public services are disrupted due to the COVID-19 pandemic.
 type: singleton
 

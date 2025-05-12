@@ -16,7 +16,7 @@ title = "Boston By Map"
 
 Come virtually visit with volunteer Dennis McCarthy and Public Engagement & Interpretation Coordinator Rachel Mead as we take a trip into Boston historical geography. Then we'll widen our scope to answer your questions and figure out how to assist you in your own historical geography projects!
 
-Learn about the Map Center's collections, tools, and more.
+Learn about the Leventhal Center's collections, tools, and more.
 
 This session will be streamed on LMEC's Facebook and YouTube channels. Registrants will be emailed direct links to these streams.
 

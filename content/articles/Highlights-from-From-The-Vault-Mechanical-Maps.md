@@ -15,7 +15,7 @@ tags:
   - from the vault
 ---
 
-> On May 26, we hosted [From The Vault: Mechanical Maps](https://www.leventhalmap.org/event/from-the-vault-collections-showing-mechanical-maps/)! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition the series, we looked at objects from our collections that move!
+> On May 26, we hosted [From The Vault: Mechanical Maps](https://www.leventhalmap.org/event/from-the-vault-collections-showing-mechanical-maps/)! From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. For this edition the series, we looked at objects from our collections that move!
 
 #### James T.B. Ives, *Historical Map, Showing the Successive Acquisitions of Territory by the United States of America* (1897)
 

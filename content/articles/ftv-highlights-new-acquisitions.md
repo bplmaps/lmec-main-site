@@ -15,7 +15,7 @@ tags:
   - from the vault
 ---
 
-> On August 4, we hosted From The Vault: New Acquisitions! From The Vault is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at a handful of new additions to our digital collections!
+> On August 4, we hosted From The Vault: New Acquisitions! From The Vault is a biweekly event series showing collections objects selected by Leventhal Center staff. For this edition of the series, we looked at a handful of new additions to our digital collections!
 
 #### Erwin Raisz, *[A canoeist's guide to New England's rivers](https://collections.leventhalmap.org/search/commonwealth:ht250q00d)* (1935)
 

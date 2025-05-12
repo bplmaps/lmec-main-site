@@ -15,7 +15,7 @@ tags:
   - from the vault
 ---
 
-> On December 15, we hosted [From The Vault: Winter Travel and Tourism](https://www.leventhalmap.org/event/from-the-vault-collections-showing-winter-travel-and-tourism/)! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at objects from our collections that map winter attractions, climate, and methods of travel.
+> On December 15, we hosted [From The Vault: Winter Travel and Tourism](https://www.leventhalmap.org/event/from-the-vault-collections-showing-winter-travel-and-tourism/)! *From The Vault* is a biweekly event series showing collections objects selected by Leventhal Center staff. For this edition of the series, we looked at objects from our collections that map winter attractions, climate, and methods of travel.
 
 ##### Canada. Department of the Interior, *[Topographical map of the Rocky Mountains: Banff sheet](https://collections.leventhalmap.org/search/commonwealth:3f463683r)* (1902)
 

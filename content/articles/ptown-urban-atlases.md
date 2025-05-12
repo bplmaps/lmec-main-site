@@ -16,7 +16,7 @@ tags:
 
 {{< figure src="/uploads/pogy-boats.jpg" caption="Pogy boats." class="figure-right">}}
 
-As the Map Center's exhibition [*Building Blocks*](https://www.leventhalmap.org/digital-exhibitions/building-blocks/) creatively demonstrates, historic urban atlases can help tell important stories about the cities we inhabit. Although Atlascope---the Center's tool for digitally exploring urban atlases---only contains maps from the Greater Boston area, we have been working through 2023 to change that by georeferencing towns like Hull, Lynn, Salem, Fall River, and more. At the very end of the Cape lies one of the towns that  a town that means something a little different to many different individuals.
+As the Leventhal Center's exhibition [*Building Blocks*](https://www.leventhalmap.org/digital-exhibitions/building-blocks/) creatively demonstrates, historic urban atlases can help tell important stories about the cities we inhabit. Although Atlascope---the Center's tool for digitally exploring urban atlases---only contains maps from the Greater Boston area, we have been working through 2023 to change that by georeferencing towns like Hull, Lynn, Salem, Fall River, and more. At the very end of the Cape lies one of the towns that  a town that means something a little different to many different individuals.
 
 For many, Provincetown (often known colloquially as "Ptown") has long been [haven for the LGBTQ+ community](https://newenglandhistoricalsociety.com/how-ptown-got-so-gay-gay-gay/). Some may know it for its [decades-old art scene](https://ptownie.com/2022-provincetown-art-magazine/), and for its history, heavily informed by its geographic situation at the edge of the continent. Whoever you are, nobody can deny that Ptown is rich with hundreds of various stories. 
 
@@ -36,7 +36,7 @@ The town's welcoming atmosphere and air for freedom also helped make the town a 
 
 ### Urban atlases
 
-The Leventhal Map Center is home to a great number of urban atlases - historic atlases with highly detailed information about the way urban areas once looked. Provincetown's downtown area was also charted several times in the early history of urban atlases. Much of the downtown area remains the same as it is today - Commercial Street representing a hub of activity by the water as it does today, and those who know the town well may even spot some modern day favourites on maps from the 1910s. 
+The Leventhal Center is home to a great number of urban atlases - historic atlases with highly detailed information about the way urban areas once looked. Provincetown's downtown area was also charted several times in the early history of urban atlases. Much of the downtown area remains the same as it is today - Commercial Street representing a hub of activity by the water as it does today, and those who know the town well may even spot some modern day favourites on maps from the 1910s. 
 
 Noticeable absences today, however, include the railway and the numerous fishing piers. The New York and New Haven Railroad was a vital link in the days of the fishing industry in P'town - both now not major parts of the P'town economy, although both did help put P'town on the map. See for yourself using 'Provincetown Through the Years!'
 

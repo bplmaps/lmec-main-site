@@ -14,7 +14,7 @@ tags:
   - from the vault
 ---
 
-> On August 4, we hosted *[From The Vault: Map Projections](https://www.leventhalmap.org/event/ftv-marine-landscapes/)*! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at objects from our collections that show different kinds of map projections. If you loved our 2020-21 exhibition *[Bending Lines: Maps and Data From Distortion to Deception](https://www.leventhalmap.org/digital-exhibitions/bending-lines/)*, this one's for you!
+> On August 4, we hosted *[From The Vault: Map Projections](https://www.leventhalmap.org/event/ftv-marine-landscapes/)*! *From The Vault* is a biweekly event series showing collections objects selected by Leventhal Center staff. For this edition of the series, we looked at objects from our collections that show different kinds of map projections. If you loved our 2020-21 exhibition *[Bending Lines: Maps and Data From Distortion to Deception](https://www.leventhalmap.org/digital-exhibitions/bending-lines/)*, this one's for you!
 
 #### Ptolemy, *The world* (1482)
 

@@ -8,7 +8,7 @@ tags = ["Collections"]
 title = "Monopolizing Streets"
 
 +++
-This week in history is the anniversary of the invention of a classic game we all know and love: Monopoly! This game has interesting origins, and also many ties to the work we do at the Map Center with maps, data, and the pursuit of equity and justice.
+This week in history is the anniversary of the invention of a classic game we all know and love: Monopoly! This game has interesting origins, and also many ties to the work we do at the Leventhal Center with maps, data, and the pursuit of equity and justice.
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/5/52/Landlords_Game_1906_image_courtesy_of_T_Forsyth_owner_of_the_registered_trademark_20151119.jpg" caption="A colorful square board game labeled “The Landlord’s Game consists of green, blue, pink, and yellow labeled squares wrapping around the edges of the board. [_Lizzie J. Magie, “The Landlord’s Game board.” Created in 1906. Image courtesy of Thomas Forsyth, Wikimedia Commons._](https://en.wikipedia.org/wiki/Lizzie_Magie#/media/File:Landlords_Game_1906_image_courtesy_of_T_Forsyth_owner_of_the_registered_trademark_20151119.jpg)" class="figure-left" >}}
 

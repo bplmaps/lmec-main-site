@@ -2,13 +2,13 @@
 author = "Michelle LeBlanc"
 backgroundImage = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3x8177423/302,629,2688,1322/,1200/0/default.jpg"
 date = 2021-10-26T06:00:00Z
-description = "Map Center staff recently published an article in the Journal of Map & Geography Libraries that highlights the Center’s geospatial data work, including use of our public data portal and our Maptivists initiative with Boston high schools. "
+description = "Leventhal Center staff recently published an article in the Journal of Map & Geography Libraries that highlights the Center’s geospatial data work, including use of our public data portal and our Maptivists initiative with Boston high schools. "
 image = "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3x8177423/302,629,2688,1322/,1200/0/default.jpg"
 tags = ["GIS", "Maptivists", "Data"]
 title = "Beyond the Map: Engaging Audiences with GIS at the Leventhal Map & Education Center "
 
 +++
-Map Center staff are frequent contributors to journals and conferences in the field of cartography, geography, K-12 education, libraries and more. Former Geospatial and Cartographic Librarian Belle Lipton (now GIS Outreach Librarian at Harvard Library) and Director of Education Michelle LeBlanc were recently published in the Journal of Map & Geography Libraries. Their article, _Beyond the Map: Engaging Audiences with GIS at the Leventhal Map & Education Center_ highlights the Center’s creation of a grant-supported public data portal to expand support to audiences using geospatial data including the Maptivists initiative working with Boston high schools.
+Leventhal Center staff are frequent contributors to journals and conferences in the field of cartography, geography, K-12 education, libraries and more. Former Geospatial and Cartographic Librarian Belle Lipton (now GIS Outreach Librarian at Harvard Library) and Director of Education Michelle LeBlanc were recently published in the Journal of Map & Geography Libraries. Their article, _Beyond the Map: Engaging Audiences with GIS at the Leventhal Map & Education Center_ highlights the Center’s creation of a grant-supported public data portal to expand support to audiences using geospatial data including the Maptivists initiative working with Boston high schools.
 
 Included here are a few excerpts from the article. If you are interested in reading it in its entirety, [you can get access here](https://www.tandfonline.com/doi/full/10.1080/15420353.2021.1944949).
 

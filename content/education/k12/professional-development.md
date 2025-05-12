@@ -9,7 +9,7 @@ weight: '4'
 
 ### Professional Development for Individual K-12 Educators
 
-The Leventhal Map & Education Center supports classroom educators with relevant and engaging professional development opportunities. From virtual evening workshops to summer-long fellowships, Map Center professional development is designed to support educators in using geographic approaches and maçterials across subjects and grade levels.
+The Leventhal Map & Education Center supports classroom educators with relevant and engaging professional development opportunities. From virtual evening workshops to summer-long fellowships, Leventhal Center professional development is designed to support educators in using geographic approaches and maçterials across subjects and grade levels.
 
 ### ‘24—‘25 School Year Offerings
 

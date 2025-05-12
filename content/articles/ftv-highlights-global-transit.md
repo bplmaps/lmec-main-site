@@ -15,7 +15,7 @@ tags:
   - from the vault
 ---
 
-> On September 15, we hosted *From The Vault: Global Transit*! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at objects from our collections that map transit systems around the world.
+> On September 15, we hosted *From The Vault: Global Transit*! *From The Vault* is a biweekly event series showing collections objects selected by Leventhal Center staff. For this edition of the series, we looked at objects from our collections that map transit systems around the world.
 
 #### A. Leconte, *[Plan de Paris divisé en 20 arrondissements et 80 quartiers](https://collections.leventhalmap.org/search/commonwealth:mg74t285q)* (1947)
 

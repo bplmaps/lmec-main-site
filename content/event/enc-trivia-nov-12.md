@@ -20,7 +20,7 @@ tags:
 
 The Leventhal Map & Education Center at the Boston Public Library and the Emerald Necklace Conservancy invite you to LMEC's third virtual trivia night, where we challenge you to learn more about the history of the city of Boston.
 
-Some of the trivia rounds will feature a geographic scavenger hunt using Atlascope, the Map Center's user-friendly tool that provides access to hundreds of historic maps of Boston and surrounding areas. Others will feature knowledge about Frederick Law Olmsted's 100-year-old park system, the Emerald Necklace.
+Some of the trivia rounds will feature a geographic scavenger hunt using Atlascope, the Leventhal Center's user-friendly tool that provides access to hundreds of historic maps of Boston and surrounding areas. Others will feature knowledge about Frederick Law Olmsted's 100-year-old park system, the Emerald Necklace.
 
 Registration is encouraged but not required. You may participate individually or as a member of a team. Teams are responsible for their own coordination over chat or phone to submit answers.
 

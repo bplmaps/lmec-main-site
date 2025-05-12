@@ -22,9 +22,9 @@ Our collections, research programs, and public projects resonate with many diffe
 * digital humanities
 * media studies
 
-We welcome university teachers to [bring your students to the Map Center](#class-visits) for a virtual visit, or to [work with us](#collaborative-learning) in developing a course exercise that draws on historical collections or digital humanities skills. For students, we offer [many resources](#student-research) that may be helpful for research papers, presentations, and creative projects.
+We welcome university teachers to [bring your students to the Leventhal Center](#class-visits) for a virtual visit, or to [work with us](#collaborative-learning) in developing a course exercise that draws on historical collections or digital humanities skills. For students, we offer [many resources](#student-research) that may be helpful for research papers, presentations, and creative projects.
 
-## Visiting the Map Center with a class{#class-visits}
+## Visiting the Leventhal Center with a class{#class-visits}
 
 The LMEC curatorial and library team welcomes university classes to visit our collections and exhibition, either through an in-person trip to the Central Library in Copley Square or via a remote visit. We offer **broad overview lessons** on historical geography, critical cartography, Boston history, and research in the map collections, as well as **thematically-focused discussions** of specific groups of objects or exhibition topics. We also offer **instruction in digital methods** for geography and cartography.
 

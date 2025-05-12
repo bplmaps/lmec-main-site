@@ -6,7 +6,7 @@ weight: "2"
 aliases: "/research/research-guides"
 
 ---
-The Boston Public Library offers [Research Guides](https://guides.bpl.org/?b=s) to help access information and sources both in our own collections and from other sources about many topics. The following guides have been produced by the Map Center.
+The Boston Public Library offers [Research Guides](https://guides.bpl.org/?b=s) to help access information and sources both in our own collections and from other sources about many topics. The following guides have been produced by the Leventhal Center.
 
 ### Historical Urban Atlases of Boston
 

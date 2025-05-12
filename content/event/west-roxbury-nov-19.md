@@ -20,4 +20,4 @@ tags:
 
 How long has there been a West Roxbury Branch of the Boston Public Library? What can local cemeteries tell us about who lived in the area in the late 19th and early 20th centuries? What was manufactured in the neighborhood? Using Atlascope, the Leventhal Map & Education Center’s user-friendly portal for exploring urban atlases, we’ll dive into the historical geography of West Roxbury. Come learn about how the community has changed over time, and discover how to research the history of your own house and neighborhood.
 
-This event will be broadcast online at the Leventhal Map Center’s YouTube Live and Facebook Live channels.
+This event will be broadcast online at the Leventhal Center’s YouTube Live and Facebook Live channels.

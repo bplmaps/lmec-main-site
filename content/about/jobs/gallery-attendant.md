@@ -11,13 +11,13 @@ Library** (LMEC) seeks to hire for the position of **gallery attendant**.
 Gallery attendants play a key role in managing the Center's free,
 public-access gallery at the Central Library in Copley Square, providing
 a welcoming and interactive face for patrons of all backgrounds in the
-Map Center's spaces.
+Leventhal Center's spaces.
 
 This is a **fixed-term position** beginning September 6, 2021 and ending
 on January 21, 2022. The position is hourly, for 14--18 hours per week,
 paid at $**17.50/hour**.
 
-Gallery attendants staff the front desk of the Map Center gallery,
+Gallery attendants staff the front desk of the Leventhal Center gallery,
 greeting and orienting patrons, answering questions, and occasionally
 facilitating interpretive programs in the gallery. For the duration of
 this position, the gallery will be hosting the exhibition _Bending
@@ -39,7 +39,7 @@ are 11 am -- 5 pm MTRFS, and 1 pm -- 7 pm W.
 
 **Responsibilities**
 
-* Serve as the first face of the Map Center, greeting guests, and
+* Serve as the first face of the Leventhal Center, greeting guests, and
   engaging with them as appropriate on topics related to maps,
   exhibitions, and the library.
 * Maintain visual appearance of gallery and Learning Center by
@@ -71,7 +71,7 @@ are 11 am -- 5 pm MTRFS, and 1 pm -- 7 pm W.
 
 Work is performed in-person at the Central Library in Copley Square. The
 Library is well-served by public transit. No free facilities for
-employee parking are available. The Library and Map Center gallery are
+employee parking are available. The Library and Leventhal Center gallery are
 fully ADA accessible.
 
 The Boston Public Library follows guidance from the City of Boston
@@ -83,7 +83,7 @@ Hourly, $17.50/hour.
 
 This position is not eligible for health benefits.
 
-**About the Map Center**
+**About the Leventhal Center**
 
 The Leventhal Map & Education Center is an independent, self-governing
 nonprofit organization in a long-term strategic relationship with the

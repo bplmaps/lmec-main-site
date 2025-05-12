@@ -11,7 +11,7 @@ quicklinks:
 - text: Go directly to the Digital Collections portal
   link: https://collections.leventhalmap.org
   linkType: offsite
-- text: Go directly to the Map Center collections on Internet Archive
+- text: Go directly to the Leventhal Center collections on Internet Archive
   link: https://archive.org/details/normanbleventhalmapcenter
   linkType: offsite
 - text: Go directly to the Atlascope portal for urban atlases
@@ -40,7 +40,7 @@ Our materials are mainly available on two online repositories, both of which are
 ### Other digital discovery tools
 
 * **Atlascope.** The [Atlascope project](/projects/digital-projects/#atlascope) involves the digital transformation of over a hundred fire insurance and real estate atlases of Boston and its inner suburbs, showing detail down to the parcel and building level for a period from 1860–1940. <a href="https://atlascope.org" class="btn btn-outline-primary btn-xs me-2"><i class="fas fa-eye"></i> Go to the Atlascope web app</a>
-* **Digital Commonwealth.** Our Digital Collections portal is part of [Digital Commonwealth](https://www.digitalcommonwealth.org), a consortium of more than 180 cultural heritage organizations across Massachusetts. From the Digital Commonwealth repository, you can search Map Center collections together with maps, images, texts, sound records, and millions of other objects from other institutions. <a href="https://digitalcommonwealth.org" class="btn btn-outline-primary btn-xs me-2"><i class="fas fa-eye"></i> Go to the Digital Commonwealth portal</a>
+* **Digital Commonwealth.** Our Digital Collections portal is part of [Digital Commonwealth](https://www.digitalcommonwealth.org), a consortium of more than 180 cultural heritage organizations across Massachusetts. From the Digital Commonwealth repository, you can search Leventhal Center collections together with maps, images, texts, sound records, and millions of other objects from other institutions. <a href="https://digitalcommonwealth.org" class="btn btn-outline-primary btn-xs me-2"><i class="fas fa-eye"></i> Go to the Digital Commonwealth portal</a>
 * **Flickr.** Before the development of our Digital Collections portal, we uploaded full-resolution images to the photo-sharing site Flickr. You can [browser our images here](https://secure.flickr.com/photos/normanbleventhalmapcenter/). We are no longer actively adding new material to our Flickr collections.
 
 

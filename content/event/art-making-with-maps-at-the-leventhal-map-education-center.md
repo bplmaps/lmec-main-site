@@ -26,7 +26,7 @@ Drop in anytime before 2:00PM. Designed for ages 5 and up.
 
 **Thursday, April 21 10:30AM – 12:30PM**
 
-Let's consider the different types of information every place has to offer us! We will start together with a short lesson about maps and then head outside to gather information about a nearby public space. We'll come back to the Map Center and create a large collaborative map from the geographic data you collect.
+Let's consider the different types of information every place has to offer us! We will start together with a short lesson about maps and then head outside to gather information about a nearby public space. We'll come back to the Leventhal Center and create a large collaborative map from the geographic data you collect.
 
 Designed for ages 8 and up.
 

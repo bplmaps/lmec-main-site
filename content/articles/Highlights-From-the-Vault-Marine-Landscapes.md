@@ -14,7 +14,7 @@ tags:
   - from the vault
 ---
 
-> On July 21, we hosted *[From The Vault: Marine Landscapes](https://www.leventhalmap.org/event/ftv-marine-landscapes/)*! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition of the series, we looked at objects from our collections that map marine landscapes and the creatures that inhabit them.
+> On July 21, we hosted *[From The Vault: Marine Landscapes](https://www.leventhalmap.org/event/ftv-marine-landscapes/)*! *From The Vault* is a biweekly event series showing collections objects selected by Leventhal Center staff. For this edition of the series, we looked at objects from our collections that map marine landscapes and the creatures that inhabit them.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4638550/full/1200,/0/default.jpg" >}}
 
@@ -26,7 +26,7 @@ tags:
 
 #### Samuel de Champlain, *Carte geographique de la Nouvelle Franse* (1613)
 
-This [particular map](https://collections.leventhalmap.org/search/commonwealth:q524n3851) has had an exciting life as one of the maps that [was stolen from the Boston Public Library](https://www.wbur.org/all-things-considered/2015/12/04/champlain-map-boston-library-return) and later recovered by the former curator for the Map Center, Ronald Grim. Originally published in Paris in 1613, this map depicts part of Eastern Canada, specifically the Saint Lawrence River Valley, as well as the northern tip of Maine. The vast region in this map was known to the mapmaker, Samuel de Champlain, as New France or “Nouvelle France”. Champlain is credited with the establishment of New France, the founding of Quebec City, and for several diplomatic dealings in the development of New France. Like many settlements developing in coastal regions, the ocean and other waterways were life-giving and life-maintaining sources. In the ocean and nearby lakes, we can see a combination of ships and water-dwelling figures.
+This [particular map](https://collections.leventhalmap.org/search/commonwealth:q524n3851) has had an exciting life as one of the maps that [was stolen from the Boston Public Library](https://www.wbur.org/all-things-considered/2015/12/04/champlain-map-boston-library-return) and later recovered by the former curator for the Leventhal Center, Ronald Grim. Originally published in Paris in 1613, this map depicts part of Eastern Canada, specifically the Saint Lawrence River Valley, as well as the northern tip of Maine. The vast region in this map was known to the mapmaker, Samuel de Champlain, as New France or “Nouvelle France”. Champlain is credited with the establishment of New France, the founding of Quebec City, and for several diplomatic dealings in the development of New France. Like many settlements developing in coastal regions, the ocean and other waterways were life-giving and life-maintaining sources. In the ocean and nearby lakes, we can see a combination of ships and water-dwelling figures.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cx37v/full/1200,/0/default.jpg" >}}
 

@@ -4,7 +4,7 @@ title: South End Stories
 date: 2024-02-26T04:00:00.000Z
 author: 'Clare Ablett, Bridget Hurley, and Winona Wardwell '
 description: >-
-  In August 2023, the Map Center hired three Boston Public Schools
+  In August 2023, the Leventhal Center hired three Boston Public Schools
   students to use Atlascope to explore different neighborhoods.
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ng454187g/750,2352,7649,2929/2000,/0/default.jpg

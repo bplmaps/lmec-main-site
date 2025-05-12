@@ -15,7 +15,7 @@ tags:
 
 ### About this event
 
-Visited [Building Blocks of Boston](https://bpl.bibliocommons.com/events/6388ce5755373a4100c51c93 "https://bpl.bibliocommons.com/events/6388ce5755373a4100c51c93") at the Leventhal Map & Education Center and want to see more? Special Collections is excited to invite all interested visitors during the month of March to see special objects from Rare Books, Arts, and the Map Center about Boston life from 1890-1930.
+Visited [Building Blocks of Boston](https://bpl.bibliocommons.com/events/6388ce5755373a4100c51c93 "https://bpl.bibliocommons.com/events/6388ce5755373a4100c51c93") at the Leventhal Map & Education Center and want to see more? Special Collections is excited to invite all interested visitors during the month of March to see special objects from Rare Books, Arts, and the Leventhal Center about Boston life from 1890-1930.
 
 **We’ll be having a special Open House on Tuesday, March 14, from 2:00 pm to 4:00 pm**. All are welcome to drop-in to see these collections up close to talk to staff about the objects. No reservations necessary.
 

@@ -19,4 +19,4 @@ tags:
 ### Event description
 
 Where was the original Dorchester Branch of the Boston Public Library? What was Fields Corner like in the late 19th and early 20th centuries? Who lived in the neighborhood? Using Atlascope, the Leventhal Map & Education Center’s user-friendly portal for exploring urban atlases, we’ll dive into the historical geography of Fields Corner. Come learn about how the community has changed over time, and discover how to research the history of your own house and neighborhood.
-This event will be broadcast online at the Leventhal Map Center’s YouTube Live and Facebook Live channels.
+This event will be broadcast online at the Leventhal Center’s YouTube Live and Facebook Live channels.

@@ -16,7 +16,7 @@ tags:
   - collections
 ---
 
-> On June 9, we hosted *[From The Vault: School's Out](https://www.leventhalmap.org/event/from-the-vault-collections-showing-/)*! *From The Vault* is a biweekly event series showing collections objects selected by Map Center staff. For this edition the series, we looked at objects that were created for or within a school environment.
+> On June 9, we hosted *[From The Vault: School's Out](https://www.leventhalmap.org/event/from-the-vault-collections-showing-/)*! *From The Vault* is a biweekly event series showing collections objects selected by Leventhal Center staff. For this edition the series, we looked at objects that were created for or within a school environment.
 
 #### Nathaniel G. Huntington, *The Common School Atlas (1836) and J. A. Cummings, School Atlas to Cummings' Ancient & Modern Geography* (1821)
 

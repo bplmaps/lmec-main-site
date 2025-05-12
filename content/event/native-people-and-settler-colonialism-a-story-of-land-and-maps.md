@@ -14,4 +14,4 @@ tags:
 ---
 ### About this event
 
-Join Map Center K-12 educators to explore a variety of maps made by Indigenous and Euro-American cartographers to uncover Native presence and the dispossession of Native lands. Take away a lesson you can teach right away in your classroom.
+Join Leventhal Center K-12 educators to explore a variety of maps made by Indigenous and Euro-American cartographers to uncover Native presence and the dispossession of Native lands. Take away a lesson you can teach right away in your classroom.

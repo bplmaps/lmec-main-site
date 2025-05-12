@@ -10,7 +10,7 @@ tags:
 backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:k930h865k/321,256,3481,2316/2000,/0/default.jpg
 
 ---
-The summer is a particularly fun time to be working in the Map Center. Not only do visitors from around the world visit the Boston Public Library but we also get the chance to work closely with some of our favorite people: K-12 educators!
+The summer is a particularly fun time to be working in the Leventhal Center. Not only do visitors from around the world visit the Boston Public Library but we also get the chance to work closely with some of our favorite people: K-12 educators!
 
 There are currently three great professional development programs we are offering for K-12 educators, from a 3-day workshop tied to our current exhibition [_Building Blocks: Boston Stories from Urban Atlases_](https://www.leventhalmap.org/digital-exhibitions/building-blocks/), to two paid opportunities for teachers to dig into our map collections and create original curriculum for their classrooms.
 

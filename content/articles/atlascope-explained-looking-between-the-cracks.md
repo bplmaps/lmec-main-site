@@ -1,7 +1,7 @@
 ---
 date: 2023-04-10T07:00:00-04:00
 title: 'Atlascope Explained: Looking Between the Cracks'
-description: Explore the inner workings of Atlascope, the Map Center's tool for exploring
+description: Explore the inner workings of Atlascope, the Leventhal Center's tool for exploring
   historic Boston
 image: "/uploads/2023-04-03/atlascopecoverage.png"
 author: Patricio Pino
@@ -20,9 +20,9 @@ Using Atlascope we can directly visualize a constantly shifting urban world, rei
 
 There is a very natural integration between our personal curiosities and the presentation of Atlascope, with all the cartographic details of historic urban atlases aligned seamlessly to a modern digital map—that is, until they are not. {{< figure src= "/uploads/2023-03-30/atlascopeglitch.jpg" class="figure-left" caption="The imperfect meeting point of [three distinct atlas plates on Atlascope](https://atlascope.org/#/view:share$mode:glass$center:-71.08355,42.34117$zoom:19.02$base:maptiler-streets$overlay:ark:/76611/al7s13kaf), note the misalignment of the railroads in the bottom left, and Massachusetts Ave in the top right. An atlas 'plate' refers to the page spreads which the physical atlases consist of.">}}
 
-Occasionally it’s hard to ignore a jagged disconnect across the width of a road or the uneven presentation of certain features straddling municipal boundaries. In the midst of a wonderstruck historical journey it's easy to forget that Atlascope is a digital tool developed over the course of many years by the skilled (and hopefully forgiving) minds at the Map Center. Like any human-made tool, it is not perfect. These ruptures and inconsistencies don’t merely represent the end of our curiosity, but rather a redirection toward a struggle which in many ways encapsulates much of the work we do here at the Map Center.
+Occasionally it’s hard to ignore a jagged disconnect across the width of a road or the uneven presentation of certain features straddling municipal boundaries. In the midst of a wonderstruck historical journey it's easy to forget that Atlascope is a digital tool developed over the course of many years by the skilled (and hopefully forgiving) minds at the Leventhal Center. Like any human-made tool, it is not perfect. These ruptures and inconsistencies don’t merely represent the end of our curiosity, but rather a redirection toward a struggle which in many ways encapsulates much of the work we do here at the Leventhal Center.
 
-There is a fundamental gap to be bridged, between the Map Center’s mission to foster curiosity and understanding to all, and the more than quarter million items in our collection—representing daunting rows and stacks of atlases, maps, and other artifacts. It’s an unfortunately unavoidable fact that the sheer density of information and history contained within our vault is inherently inaccessible to the public.
+There is a fundamental gap to be bridged, between the Leventhal Center’s mission to foster curiosity and understanding to all, and the more than quarter million items in our collection—representing daunting rows and stacks of atlases, maps, and other artifacts. It’s an unfortunately unavoidable fact that the sheer density of information and history contained within our vault is inherently inaccessible to the public.
 
 In Atlascope, and especially thanks to its occasional missteps, the journey to overcome this inaccessibility is perfectly exemplified for us to see. Occasional misalignments mark the edges of the thousands of individual atlas plates which are digitally stitched together to form Atlascope. Occasional handwritten marks and notes remind us that these were once tools in their own right, as the material components of larger atlases. Abrupt shifts across municipal lines represent the original extents of these atlases, which served as very detailed, very technical, and very expensive data sources for the fire insurance and real estate industries.
 
@@ -34,13 +34,13 @@ In this journey, the physical atlases are first digitized page by page, their di
 
 {{< figure src= "/uploads/2023-03-31/spangler-headshot.jpg" class="figure-right" caption="Ian Spangler, Assistant Curator of Digital & Participatory Geography">}}
 
-> To help explain the scope and complexity of the efforts which produced Atlascope, I spoke with [Ian Spangler, Assistant Curator of Digital & Participatory Geography](https://www.leventhalmap.org/about/people/ian-spangler/) here at the Map Center. _The text of this interview has been lightly edited for clarity._
+> To help explain the scope and complexity of the efforts which produced Atlascope, I spoke with [Ian Spangler, Assistant Curator of Digital & Participatory Geography](https://www.leventhalmap.org/about/people/ian-spangler/) here at the Leventhal Center. _The text of this interview has been lightly edited for clarity._
 
 **Ian, first off, can you give us an idea of where we’re starting from when it comes to Atlascope, in terms of working with physical collections material and these bulky atlases?**
 
 I haven’t actually had to use the original atlases in any meaningful way, mainly because their digitized versions have always been readily available to me, which I think highlights one of the main goals of Atlascope as being more about consolidation, into a format which is as intuitive and natural as possible for a user to interact with.
 
-There was a problem of sheer quantity, but also the widely unconsolidated batches and collections of atlases, with not a lot of coordination between individual institutions’ digitization efforts. For example, the Library of Congress has a considerable and nation-wide collection of [Sanborn fire insurance atlases](https://www.loc.gov/collections/sanborn-maps/about-this-collection/), many of which are available to view online, which represents really valuable work entirely distinct but moving in a parallel direction to similar efforts at the Map Center.
+There was a problem of sheer quantity, but also the widely unconsolidated batches and collections of atlases, with not a lot of coordination between individual institutions’ digitization efforts. For example, the Library of Congress has a considerable and nation-wide collection of [Sanborn fire insurance atlases](https://www.loc.gov/collections/sanborn-maps/about-this-collection/), many of which are available to view online, which represents really valuable work entirely distinct but moving in a parallel direction to similar efforts at the Leventhal Center.
 
 {{< figure src= "/uploads/2023-03-30/dig-lab.png" class="figure-left" caption="The journey towards Atlascope begins in the digitization lab, where the physical items in our collection are scanned and transformed into digital versions available online.">}}
 

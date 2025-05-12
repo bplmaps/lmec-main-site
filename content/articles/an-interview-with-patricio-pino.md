@@ -13,15 +13,15 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4631
 
 {{< figure src="/images/headshots/patricio-pino.jpg" class="figure-left" caption="Patricio Pino">}}
 
-**Tell us a bit about your background. What are you currently studying at Northeastern and what made you choose to work at the Map Center during your co-op experience?**
+**Tell us a bit about your background. What are you currently studying at Northeastern and what made you choose to work at the Leventhal Center during your co-op experience?**
 
-I’ve lived in Massachusetts for basically as long as I can remember, but I was born in Peru where most of my family still lives, so I’ve always had something of a split cultural experience between my personal life and life in America: at home or at school, Spanish and English, etc. There’s an inherent diversity there that I’ve grown to value as a source of inspiration from what would otherwise be situations of distance or divide, something which I see as very influential in molding my interests and the core decisions I’ve made in life, for example in choosing to study English and Anthropology at Northeastern, and now deciding to work at the Map Center.
+I’ve lived in Massachusetts for basically as long as I can remember, but I was born in Peru where most of my family still lives, so I’ve always had something of a split cultural experience between my personal life and life in America: at home or at school, Spanish and English, etc. There’s an inherent diversity there that I’ve grown to value as a source of inspiration from what would otherwise be situations of distance or divide, something which I see as very influential in molding my interests and the core decisions I’ve made in life, for example in choosing to study English and Anthropology at Northeastern, and now deciding to work at the Leventhal Center.
 
 {{< figure src= "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:xg94j1213/263,137,4787,3507/full/0/default.jpg"  caption="This [1656 map](https://collections.leventhalmap.org/search/commonwealth:xg94j120t) of Peru charts the course of the Amazon.">}}
 
 My academic interests, in writing, literature, or anthropology, are unified by a human struggle to create (or find) meaning, whether in stories, artworks, rituals, traditions, or the pursuit of knowledge. I think the process of creating something completely new and impactful out of a diversity of seemingly contradictory influences is the same in both the work of an artist and a researcher, as well as in the seemingly authorless process through which the “culture” of our day-to-day lives is produced.
 
-The Map Center is an institution fundamentally oriented towards both the public and the academic, and it is focused on the artifacts which most epitomize meaning-making as a process which can encapsulate and subsume distances, namely: maps and geography. Now that I’m here I continue to be fascinated by new items in the collection or by new aspects of the current exhibition I hadn’t noticed before. Most importantly, I continue to be certain that the Map Center represents the intersection of so much of what I hold as critical to my academic and creative life.
+The Leventhal Center is an institution fundamentally oriented towards both the public and the academic, and it is focused on the artifacts which most epitomize meaning-making as a process which can encapsulate and subsume distances, namely: maps and geography. Now that I’m here I continue to be fascinated by new items in the collection or by new aspects of the current exhibition I hadn’t noticed before. Most importantly, I continue to be certain that the Leventhal Center represents the intersection of so much of what I hold as critical to my academic and creative life.
 
 **What’s your earliest memory of looking at/working with maps?**
 
@@ -41,7 +41,7 @@ The countless scrawled annotations and edits! A very big theme of _Building Bloc
 
 **What are you excited about working on in the next six months?**
 
-Because my time here started with the very upfront and crazy installation process for _Building Blocks,_ which I’m only now getting to familiarize myself with at a slower pace, I’m looking forward to witnessing the development process for our next exhibition. Hopefully in a way where my first impressions won’t be of mildly panicked gallery arrangement (though it was pretty exciting). I guess I’m interested by the kind of inverted exhibition creation process which I’m going to get, where my time at the Map Center begins with the very end of the process and ends before the next exhibition is completed.
+Because my time here started with the very upfront and crazy installation process for _Building Blocks,_ which I’m only now getting to familiarize myself with at a slower pace, I’m looking forward to witnessing the development process for our next exhibition. Hopefully in a way where my first impressions won’t be of mildly panicked gallery arrangement (though it was pretty exciting). I guess I’m interested by the kind of inverted exhibition creation process which I’m going to get, where my time at the Leventhal Center begins with the very end of the process and ends before the next exhibition is completed.
 
 **I know you’ve only just gotten here, but do you have a favorite map in the LMEC collections?**
 
