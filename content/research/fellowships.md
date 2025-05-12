@@ -21,22 +21,19 @@ The Small Grants for Early Career Digital Publications offers a $1200 stipend an
 
 ## Allmaps Research Fellowships
 
-<span class="badge bg-success font-secondary fw-normal">Applications open on a rolling basis</span>
+<span class="badge bg-danger font-secondary fw-normal">Applications currently closed</span>
 
-Researchers, scholars, and cartographers working at the intersection of digital humanities and public geography are invited to apply to our Allmaps Research Fellowships. We offer a $1200 stipend and limited technical support to for projects that leverage the Allmaps software ecosystem. Recipients' work will be published on LMEC's digital platforms. These fellowships are supported by a Digital Humanities Advancement Grant from the National Endowment for the Humanities (Award HAA-293491-23).
-
-<a href="../../projects/digital-projects/allmaps/#allmaps-research-fellowships" class="btn btn-primary-outline btn-sm"><i class="fas fa-info-circle me-2"></i> Learn more and apply</a>
-
+Allmaps Research Fellowships, supported by a Digital Humanities Advancement Grant from the National Endowment for the Humanities (Award HAA-293491-23), are paused until further notice.
 
 ## NERFC Research Fellowships
 
-<span class="badge bg-danger font-secondary fw-normal">Applications open through Feburary 1, 2025</span>
+<span class="badge bg-danger font-secondary fw-normal">Applications currently closed</span>
 
 We are a participating institution in the New England Regional Fellowship Consortium. The NERFC fellowship offers a $5,000 stipend for historians who wish to work in at least three institutions represented in the consortium.
 
 **To learn more about NERFC Research Fellowships, [visit the NERFC site](https://www.masshist.org/fellowships/nerfc "NERFC Fellowship Application").** NERFC is administered by the Massachusetts Historical Society.
 
-<a href="https://www.masshist.org/fellowships/nerfc/apply" class="btn btn-primary-outline btn-sm">Applications are now closed</a>
+<a href="https://www.masshist.org/fellowships/nerfc/apply" class="btn btn-primary-outline btn-sm"><i class="fas fa-info-circle me-2"></i>Learn more about NERFC</a>
 
 
 
