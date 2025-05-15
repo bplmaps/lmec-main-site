@@ -17,7 +17,7 @@ tags:
   - staff
 ---
 
-{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by BPL Research Services as part of the Local & Family History Lecture Series. {{\< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by BPL Research Services as part of the Local & Family History Lecture Series. {{< /alert-box >}}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uUQjXe4cfaA?si=B8N_SfP1XTCU6j4W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
