@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Cartography in the Classroom — From the Vault Collections Showing
-date: 2025-05-30T18:00:00.000Z
+date: 2025-06-13T18:00:00.000Z
 publishDate: 2025-02-04T05:00:00.000Z
 image: ''
 backgroundImage: ''
