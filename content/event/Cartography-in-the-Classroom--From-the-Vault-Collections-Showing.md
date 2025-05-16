@@ -18,7 +18,7 @@ Traditionally viewed as an essential subject for boys’ and girls’ education,
 
 In this display of maps, globes, games, atlases and related objects, *From The Vault* will explore the evolution of geographic education, examine the visual aids used by teachers in the classroom, and marvel at unique student-produced geography projects from the late 18th to the 20th centuries.
 
-This free showing will be hosted Friday, May 30 in the Leventhal Map & Education Center with a staff member available to answer questions.
+This free showing will be hosted Friday, June 13 in the Leventhal Map & Education Center with a staff member available to answer questions.
 
 Drop in any time between 2:00PM - 4:00PM. No reservation is required.
 
