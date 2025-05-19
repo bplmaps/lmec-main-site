@@ -5,7 +5,7 @@ backgroundImage: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4633
 
 ---
 
-{{< alert-box type="success" title="Applications open" >}}Applications for the 2025-2026 cycle of Small Grants are open until Monday, May 19 at 5 pm ET. [Apply today](#to-apply)!{{< /alert-box >}}
+{{< alert-box type="danger" title="Applications closed" >}}Applications for the 2025-2026 cycle of Small Grants are now closed.{{< /alert-box >}}
 
 #### Are you working on a scholarly project that would come alive for the public through an interactive digital publication?
 
@@ -60,5 +60,3 @@ An application consists of the following material submitted by **Monday, May 19,
 * A full CV uploaded as PDF
 
 Successful applicants will be notified by **July 20, 2025**.
-
-<a href="https://tally.so/r/nPk8kb" target='blank' class="btn btn-primary-outline btn-sm" ><i class="fa-solid fa-rocket me-2"></i>Apply today</a>
