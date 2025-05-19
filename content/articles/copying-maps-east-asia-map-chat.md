@@ -3,7 +3,6 @@ title: Copying Maps in Early Modern East Asia
 description: Studying one particular copy of an eighteenth-century map of the Ming Empire opens up a genealogy of printed maps
 author: Mario Cams
 date: 2025-05-20T04:00:00.000+00:00
-draft: true
 image: "/uploads/2025-05-20/copying-maps-banner.png"
 backgroundImage: "/uploads/2025-05-20/copying-maps-banner.png"
 tags:
