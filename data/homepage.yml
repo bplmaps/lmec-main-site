@@ -57,7 +57,7 @@ slider:
 cta:
   enable: true
   announcements:
-    - badge: Holiday closure
+    - badge: Holiday Closure
       text: We will be closed on May 25 and 26 for Memorial Day
     - badge: New Exhibition
       text: >-
