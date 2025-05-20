@@ -13,6 +13,8 @@ backgroundImage: >-
 
 Members of Wollaston's crew included Thomas Morton, an English lawyer and writer, and around 30 indentured servants. In 1626 CE,  just two years after the colony was established, Wollaston traveled to Jamestown, Virginia and sold some of his indentured servants into slavery. Morton, who was in Mount Wollaston at the time, was enraged by this news, and encouraged the remaining servants to rebel against Wollaston's remaining second-in-command and help  establish an egalitarian society. Wollaston never returned to Massachusetts and died later that same year—leaving Morton’s claim to power uncontested.
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:377239883/4855,696,4882,4914/1200,/0/default.jpg" >}}
+
 Morton renamed the colony to Ma-re Mount, also known today as "Merrymount". The name was a play on the word “merrie”, or the emotion of "merry", which was soon deeply criticized by nearby Puritans and Pilgrims for emphasizing the very actions and attitudes they found offensive. However, the name was also a play on the French word mer for “sea”, as the colony was right by the water.
 
 Morton disagreed heavily with Puritan rules and ways of doing things, including the enforcement of religion as a way of life. Morton tolerated any religious beliefs contrary to the Puritans, including Indigenous spiritual beliefs, English pagan beliefs, and Anglicanism. In addition, he disliked the system of hierarchy and leadership that Puritans enforced, so instead of assuming a governor position, Morton declared himself a “host” and considered all in the community as equals—as he had promised at the colony's conception. This included the Indigenous groups in the area, who Morton respected more than the Christian colonists that he interacted with in the region. He even sold guns to the Indigenous Massachusett people, which especially alarmed the Puritans in Plymouth Colony, and later the Massachusetts Bay Colony.
@@ -25,7 +27,7 @@ In 1628 CE, a maypole was erected for the second time and Plymouth Colony Govern
 
 Merrymount was quickly growing to be prosperous because of its involvement in agriculture and the fur trade, while Plymouth was struggling economically. In addition, religious anxiety was a motivator as Puritans saw their colonial project as a divine plan, which made dealing with Merrymount a “test” for their success.
 
-Thomas Morton was arrested in 1628 CE for his “heathen” behavior (as well as attempting to legally defend it) and was forcibly exiled to the Isle of Shoals off the coast—surviving through the help of what may have been the neraby Piscataquak peoples. He returned to Merrymount in 1629 CE. In response, the Puritan John Endicott (future governor of the Massachusetts Bay Colony) chopped down Merrymount's Maypole and burned down Morton’s house, alongwith the entire settlement.
+Thomas Morton was arrested in 1628 for his “heathen” behavior (as well as attempting to legally defend it) and was forcibly exiled to the Isle of Shoals off the coast—surviving through the help of what may have been the neraby Piscataquak peoples. He returned to Merrymount in 1629 CE. In response, the Puritan John Endicott (future governor of the Massachusetts Bay Colony) chopped down Merrymount's Maypole and burned down Morton’s house, alongwith the entire settlement.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:m613n876t/full/1200,/0/default.jpg" caption="Governor John Endicott cutting down the maypole" >}}
 
