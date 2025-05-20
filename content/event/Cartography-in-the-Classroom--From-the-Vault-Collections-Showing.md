@@ -3,8 +3,10 @@ draft: false
 title: Cartography in the Classroom — From the Vault Collections Showing
 date: 2025-06-13T18:00:00.000Z
 publishDate: 2025-02-04T05:00:00.000Z
-image: ''
-backgroundImage: ''
+image: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463548z/73,1650,4877,2273/full/0/default.jpg
+backgroundImage: >-
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463548z/73,1650,4877,2273/full/0/default.jpg
 location: 'Leventhal Map & Education Center, Central Library in Copley Square'
 fee: Free
 registration: ''
