@@ -57,6 +57,8 @@ slider:
 cta:
   enable: true
   announcements:
+    - badge: Holiday closure
+      text: We will be closed on May 25 and 26 for Memorial Day
     - badge: New Exhibition
       text: >-
         Terrains of Independence is open now! Visit the gallery to see the new
