@@ -15,7 +15,7 @@ backgroundImage: >-
 
 Members of Wollaston's crew included Thomas Morton, an English lawyer and writer, and around 30 indentured servants. In 1626 CE,  just two years after the colony was established, Wollaston traveled to Jamestown, Virginia and sold some of his indentured servants into slavery. Morton, who was in Mount Wollaston at the time, was enraged by this news, and encouraged the remaining servants to rebel against Wollaston's remaining second-in-command and help  establish an egalitarian society. Wollaston never returned to Massachusetts and died later that same year—leaving Morton’s claim to power uncontested.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:377239883/4855,696,4882,4914/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:377239883/4855,696,4882,4914/1200,/0/default.jpg" class="figure-right" >}}
 
 Morton renamed the colony to Ma-re Mount, also known today as "Merrymount". The name was a play on the word “merrie”, or the emotion of "merry", which was soon deeply criticized by nearby Puritans and Pilgrims for emphasizing the very actions and attitudes they found offensive. However, the name was also a play on the French word mer for “sea”, as the colony was right by the water.
 
