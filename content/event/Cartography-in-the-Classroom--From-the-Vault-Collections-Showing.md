@@ -14,11 +14,11 @@ tags:
   - from the vault
 ---
 
-> **American schoolchildren have studied geography since the late 18th century.**
+American schoolchildren have studied geography since the late 18th century
 
 Traditionally viewed as an essential subject for boys’ and girls’ education, geography was taught to children in primary school, and to young adults studying in high school and college settings.
 
-In this display of maps, globes, games, atlases and related objects, *From The Vault* will explore the evolution of geographic education, examine the visual aids used by teachers in the classroom, and marvel at unique student-produced geography projects from the late 18th to the 20th centuries.
+In this display of maps, globes, games, atlases and related objects, *From The Vault* will explore the evolution of geographic education, examine the visual aids used by teachers in the classroom, and marvel at unique student-produced geography projects from the late eighteenth to the twentieth centuries.
 
 This free showing will be hosted Friday, June 13 in the Leventhal Map & Education Center with a staff member available to answer questions.
 
