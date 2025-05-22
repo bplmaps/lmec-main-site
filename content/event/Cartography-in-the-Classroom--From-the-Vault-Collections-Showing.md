@@ -14,7 +14,7 @@ tags:
   - from the vault
 ---
 
-American schoolchildren have studied geography since the late 18th century
+**American schoolchildren have studied geography since the late 18th century.**
 
 Traditionally viewed as an essential subject for boys’ and girls’ education, geography was taught to children in primary school, and to young adults studying in high school and college settings.
 
