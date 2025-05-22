@@ -15,9 +15,11 @@ tags:
   - from the vault
 ---
 
-> *On May 2, we hosted **From The Vault — Changed/Forgotten: Places That No Longer Exist.***
+> *On May 16, we hosted **From The Vault — Changed/Forgotten: Places That No Longer Exist.***
 
-As Asian American, Native Hawaiian, and Pacific Islander (AANHPI) Heritage Month begins, this *From The Vault* examines the ways maps can support and inform Asian, Native Hawaiian, and Pacific Islander history across the globe and what it means for a map to be truly representative of a place and its people.
+Every place goes through changes, even the cities, countries, and empires we think will be around until the end of time. Sometimes environmental shifts or disasters bring about a catastrophic collapse. Other times human whims and desires lead to the decimation of historic areas, irreversibly altering the very fabric of the region.
+
+Through the maps on display from this From The Vault, we can revisit these places of the past. From the historic counterparts of modern day cities or the ancient ruins of a fallen society, Changed/Forgotten demonstrates just how much has changed, how much has been forgotten, and yet how much still remains from a time gone by.
 
 #### William Hemsley Emory, [Map of Texas and the country adjacent](https://collections.leventhalmap.org/search/commonwealth:4m90f684t) (1844)
 
