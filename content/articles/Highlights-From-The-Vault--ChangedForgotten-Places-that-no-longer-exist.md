@@ -37,13 +37,13 @@ Buildings like the New York Produce Exchange (which brought in $15 million a day
 
 Is it possible to grow, expand, and modernize without rebuilding the oldest parts of a city?
 
-#### Takai Ranzan, ***[Ansei kaisei Oedo ōezu = Map of Jeddo](https://collections.leventhalmap.org/search/commonwealth:ht250b870)*** (1849)
+#### John Wesley Powell, [Linguistic families of American Indians north of Mexico](https://collections.leventhalmap.org/search/commonwealth:7h149w93v) \[1907?]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250b888/full/1400,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149w944/full/,1400/0/default.jpg" class="" >}}
 
-[A hand-colored map](https://collections.leventhalmap.org/search/commonwealth:ht250b870) of Jeddo (Edo), or Tokyo, Japan, we are shown the Shogunate precinct and gardens, government offices, houses and grounds, temples, shrines, bays, rivers, markets, canals, roads, bridges, and fields of rice and vegetables. This map is all the work of native artists, and was printed and colored in the City of Jeddo, Japan for the Rev. Henry Wood.
+Originally displayed at Chicago's 1893 World Fair, [this reconstructed map](https://collections.leventhalmap.org/search/commonwealth:7h149w93v) shows the distribution of major Indigenous language families at the time of European contact. Most maps published in the 1890s only depicted Indian reservations, but this map recognized that Native people originally controlled and inhabited all of North America. While not fully representative of every language spoken by the indigenous North American people, this breathe of Native language is much more difficult to find in the current day.
 
-Jeddo, Yedo, or Yeddo are anglicizations referring to the town and port of Edo, Japan and the adjacent large bay, and generally to the ruling shogunate of Japan during the 1850s and 1860s, which was based in Edo. After the Meiji Restoration (beginning in 1868 and began the “modernization” of Japan), the imperial capital was moved from Kyoto to Edo, and the city was renamed Tokyo which means “Eastern Capital.”
+Due to the harmful action of the American government, like outlawing the use of Native languages and the forced removal of Indigenous children from their homes and into government-run (and oftentimes, physically abusive) boarding schools, the amount of fluent speakers of indigenous languages had drastically decreased. Approximately 170 to 175 Native American languages are still spoken in the US today, down from the estimated 300+ languages spoken before European contact. Many of these languages are facing endangerment, with some estimates suggesting that only 20 will remain by 2050 without significant intervention.
 
 #### ***[Map of Seoul](https://collections.leventhalmap.org/search/commonwealth:kh04p666z)*** (1890)
 
