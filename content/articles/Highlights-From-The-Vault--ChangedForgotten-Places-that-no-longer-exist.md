@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 'Highlights From The Vault — Changed/Forgotten: Places that no longer exist'
+title: 'Highlights From The Vault — Changed/Forgotten: Places That No Longer Exist'
 date: 2025-05-16T18:00:00.000Z
 author: LMEC Staff
 description: >-
@@ -25,15 +25,17 @@ As Asian American, Native Hawaiian, and Pacific Islander (AANHPI) Heritage Month
 
 Published the year before Texas was annexed and became the 28th state of the USA, [this map](https://collections.leventhalmap.org/search/commonwealth:4m90f684t) depicts the short-lived country of the Republic of Texas. Recognized as a country between 1836 and 1844, Texas had gained its independence from Mexico, though they were considered more of a “rebellious province” as the Mexican Congress refused to recognize the independence of the Republic of Texas. As seen, the borders of the Republic extend much further than the current state of Texas, reaching as far north as Wyoming and as far west as New Mexico. In practice, much of the Republic’s claimed territory was occupied by the Comanche people and outside the control of any country.
 
-Though the Republic of Texas only existed for a short while, how did it go on to impact the future of the territory it occupied?
+***Though the Republic of Texas only existed for a short while, how did it go on to impact the future of the territory it occupied?***
 
-#### Miguel Covarrubias, ***[Peoples of the Pacific](https://collections.leventhalmap.org/search/commonwealth:q524n348w)*** (1940)
+#### Richard Rummell, [New York City : the business center of the borough of Manhattan](https://collections.leventhalmap.org/search/commonwealth:4m90fn331) (1905)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n660s/full/1400,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fn349/full/1400,/0/default.jpg" class="" >}}
 
-Representing one map in a set of six, this 1940 pictorial map was intended to represent the “peoples of the pacific” and includes many communities and countries that border the Pacific ocean. This group of six maps were created for the Golden Gate International Exposition: A Pageant of the Pacific, what was essentially a World’s Fair hosted in San Francisco from 1939-1940 with a heavy focus on the Pacific and the future. This theme was observed through displays of new science, technology, the arts and entertainment.
+This era of New York is no longer visible under the skyscrapers and modern changes the city has undergone in the last century. Some of the largest physical changes to the city are reflected in the total demolition and rebuilding of some of the city’s most historic buildings and neighborhoods.
 
-Though [this map](https://collections.leventhalmap.org/search/commonwealth:q524n348w) aimed to be representative of different cultures across the Pacific, attempts at representation from people with little knowledge or background on the cultures they're trying to capture may show stereotypical, demeaning, or inaccurate depictions of people and places.
+Buildings like the New York Produce Exchange (which brought in $15 million a day in business by 1900) and others obscured by the angle of [this map](https://collections.leventhalmap.org/search/commonwealth:4m90fn331), like Madison Square Garden, the Singer Building, the original Waldorf and Astoria hotels amongst many others, were eventually demolished to make way for the “City of Dreams”. The Empire State Building, New York Penn Station, and the current iteration of Madison Square Garden are all built on the sites of what were once thought of as some of the most amazing architecture in the United States.
+
+Is it possible to grow, expand, and modernize without rebuilding the oldest parts of a city?
 
 #### Takai Ranzan, ***[Ansei kaisei Oedo ōezu = Map of Jeddo](https://collections.leventhalmap.org/search/commonwealth:ht250b870)*** (1849)
 
