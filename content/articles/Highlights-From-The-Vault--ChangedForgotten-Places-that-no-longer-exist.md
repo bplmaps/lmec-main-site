@@ -45,13 +45,13 @@ Originally displayed at Chicago's 1893 World Fair, [this reconstructed map](http
 
 Due to the harmful action of the American government, like outlawing the use of Native languages and the forced removal of Indigenous children from their homes and into government-run (and oftentimes, physically abusive) boarding schools, the amount of fluent speakers of indigenous languages had drastically decreased. Approximately 170 to 175 Native American languages are still spoken in the US today, down from the estimated 300+ languages spoken before European contact. Many of these languages are facing endangerment, with some estimates suggesting that only 20 will remain by 2050 without significant intervention.
 
-#### ***[Map of Seoul](https://collections.leventhalmap.org/search/commonwealth:kh04p666z)*** (1890)
+#### Steeger, [Nuova pianta degli scavi di Pompei](https://collections.leventhalmap.org/search/commonwealth:n8710p92x) (1862)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kh04p6677/full/1400,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:n8710p936/full/1400,/0/default.jpg" class="" >}}
 
-Seoul has been the capital city of Korea for more than six hundred years, though the city’s history traces back to 18 BC. Seoul, like the entire Korean peninsula, is surrounded by mountains. The ring of mountains that surround the city are presented here in an elevated three-quarters view similar to traditional East Asian landscape painting.
+Located at the southeastern base of Mount Vesuvius, the ruins of the ancient city of Pompeii were discovered in the late 16th century; however, serious archaeological excavations did not begin at the site until the mid-18th century. The city had been "preserved in time" for nearly 1,700 years after Vesuvius exploded in 79 CE and buried the site in nearly 23 feet of volcanic debris. 
 
-The viewer positioned on any given side reads the names written in Korean characters on the opposite side of [the map](https://collections.leventhalmap.org/search/commonwealth:kh04p666z), as the characters on the side closest will read upside down. This creates a unique perspective and manner of considering mapped space when compared to European styles of mapping, but were a common feature found in maps of East Asia from this time period. Seven foreign embassies are indicated on the map, those of the United States, England, France, Germany, Russia, China and Japan are indicative of the country’s growing connection to the broader world.
+[The 1862 map](https://collections.leventhalmap.org/search/commonwealth:n8710p92x) displayed here illustrates the excavations of Pompeii as they existed at that time, and lists 95 points of interest, including the Forum (65), the Triangular Forum (84) and the Amphitheatre (89).
 
 #### ***[\[Map of New England, 31st\]](https://collections.leventhalmap.org/search/commonwealth:wd376308v)*** \[1850–1870]
 
