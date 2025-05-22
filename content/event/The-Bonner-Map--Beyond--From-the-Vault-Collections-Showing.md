@@ -14,7 +14,7 @@ tags:
   - from the vault
 ---
 
-> **Originally drawn in 1722, the map commonly referred to as the “Bonner map” was the first printed map of Boston.**
+**Originally drawn in 1722, the map commonly referred to as the “Bonner map” was the first printed map of Boston.**
 
 Titled “*The town of Boston in New England*,” the map details the locations of streets, churches, and town buildings in pre-Revolutionary Boston. Its incredible level of detail made it a popular reference map for future mapmakers in the eighteenth and nineteenth centuries.
 
