@@ -63,8 +63,10 @@ The modern city of Rome is the capital of Italy and is home to over 4.2 million 
 
 Though the city has remained in name for over 2800 years, is it still the same place it was all that time ago?
 
-#### Gregor Noetzel, ***[Asia, Japan and Korea with the surrounding seas and the adjacent coastal region of China : from the latest information](https://collections.leventhalmap.org/search/commonwealth:31982x20m)*** (1904)
+#### Christiaan van Adrichem, [Ierusalem, et suburbia eius, sicut tempore Christi floruit c\[um\] locis, in quib\[us\] Christ\[us\] pass\[us\] est: que religiose a Christianis obseruata, etiam n\[um\] venerationi habent](https://collections.leventhalmap.org/search/commonwealth:2b88qf58d) \[1584–1588]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:c821mx46k/full/1400,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2b88qf59p/full/,1500/0/default.jpg" class="" >}}
 
-[This 1904 map](https://collections.leventhalmap.org/search/commonwealth:31982x20m) captures a very unique point in Japan’s history. In the previous 50 years, Japan had gone from a primarily agricultural country with little technological development, national military, and access to foreign nations to a highly “modernized” country united under a central government, a nationalized education system, a well-developed transport and communication system, and a highly powerful military force. Just after the publishing of this map, Japan would cement its power amongst European countries by defeating Russia and gaining control over Korea.
+Rather than a birds eye view, this depiction is more of [a pictorial map](https://collections.leventhalmap.org/search/commonwealth:2b88qf58d), showing the facades of buildings placed adjacent to the streets and not drawn in perspective. As the extended title indicates, the map was compiled by Adrichem, a Dutch theologian and cartographer, to depict Jerusalem at the time of Christ.
+
+The original map, with a horizontal format, was oriented with west at top. The map was later rotated to a vertical format, placing north at the top. The map presents an imaginary conception of the city, with many buildings depicted as 16th century European structures. In addition there are 270 numbered and captioned scenes, showing sites or events mentioned in the Bible and other historical texts. Many record events surrounding the life and crucifixion of Jesus, but a few date back even further.
