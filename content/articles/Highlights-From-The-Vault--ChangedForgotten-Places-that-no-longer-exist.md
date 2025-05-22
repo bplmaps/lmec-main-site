@@ -53,13 +53,15 @@ Located at the southeastern base of Mount Vesuvius, the ruins of the ancient cit
 
 [The 1862 map](https://collections.leventhalmap.org/search/commonwealth:n8710p92x) displayed here illustrates the excavations of Pompeii as they existed at that time, and lists 95 points of interest, including the Forum (65), the Triangular Forum (84) and the Amphitheatre (89).
 
-#### ***[\[Map of New England, 31st\]](https://collections.leventhalmap.org/search/commonwealth:wd376308v)*** \[1850–1870]
+#### W\.B. Clarke, [Plan of ancient Rome](https://collections.leventhalmap.org/search/commonwealth:0r96fn85r) (1830)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd3763094/full/1400,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn861/full/1400,/0/default.jpg" >}}
 
-By the mid to late 1880s, Japan was opening itself up to vast international trade after almost  200 years of being closed to nearly all foreigners, due in large part to heavy military pressure from the United States, Russia, Britain, France, and Holland. This map can be interpreted as the desire from the Japanese to learn more about important harbors and industrial ports in the United States, who were both consumers and aggressors to Japan. 
+[This early-19th century map](https://collections.leventhalmap.org/search/commonwealth:0r96fn85r) illustrates ancient Rome, where numerous scenes from Antony and Cleopatra (a play by Shakespeare) unfolded, and includes depictions of the monuments to be found throughout the city. Rome was the capital of the Roman Empire, which stretched nearly 1.7 million miles from Britain and Spain to Syria. In the late 1st and early 2nd centuries, Ancient Rome had reached its peak and it’s believed the city had a population of one million people, though this number is a possible overestimation.
 
-[This map](https://collections.leventhalmap.org/search/commonwealth:wd376308v) includes depiction of New England, with an inset of Boston, and descriptions of Boston Harbor, Rhode Island, Hartford, CT, and manufacturing in Lowell, MA.
+The modern city of Rome is the capital of Italy and is home to over 4.2 million residents, making it one of the largest cities by population in all of Europe. Rome's history spans 28 centuries and fell under many different forms of leadership.
+
+Though the city has remained in name for over 2800 years, is it still the same place it was all that time ago?
 
 #### Gregor Noetzel, ***[Asia, Japan and Korea with the surrounding seas and the adjacent coastal region of China : from the latest information](https://collections.leventhalmap.org/search/commonwealth:31982x20m)*** (1904)
 
