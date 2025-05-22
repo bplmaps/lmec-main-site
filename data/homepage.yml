@@ -58,7 +58,9 @@ cta:
   enable: true
   announcements:
     - badge: Holiday Closure
-      text: We will be closed on May 25 and 26 for Memorial Day
+      text: >-
+        All BPL locations will be closed on Sunday, May 25, and Monday, May 26,
+        in observance of Memorial Day.
     - badge: New Exhibition
       text: >-
         Terrains of Independence is open now! Visit the gallery to see the new
