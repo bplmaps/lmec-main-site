@@ -13,7 +13,7 @@ registration: >-
   https://www.ticketleap.events/tickets/bplmaps/author-talk-dan-o-brien-on-the-pointilistic-city-76258828
 ---
 
-{{\< alert-box title="Registration Update" icon="fas fa-exchange-alt" >}} Registration for this program is currently full.{{\< /alert-box >}}
+{{< alert-box title="Registration Update" icon="fas fa-exchange-alt" >}} Registration for this program is currently full.{{< /alert-box >}}
 
 Sit down with [Dan O'Brien](https://cssh.northeastern.edu/faculty/daniel-t-obrien/) and Nigel Jacob for a conversation on O'Brien’s latest book project, *[The Pointillistic City](https://mitpress.mit.edu/9780262550802/the-pointillistic-city/)*. This talk is free, open to the public, and will be held in person at the [Central Library in Copley Square](https://www.bpl.org/locations/3/). Lunch will be served and registration is required to attend.
 

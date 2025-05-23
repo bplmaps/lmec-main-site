@@ -11,12 +11,12 @@ aliases:
 
 ## Small Grants for Early Career Digital Publications
 
-<span class="badge bg-success font-secondary fw-normal">Applications for 2025-2026 are open until May 19</span>
+<span class="badge bg-danger font-secondary fw-normal">Applications currently closed</span>
 
 
 The Small Grants for Early Career Digital Publications offers a $1200 stipend and technical support for a digital publication on a cartographic or geographic topic which will be featured in the LMEC's digital platforms. Grantees are not required to work in person in Boston.
 
-<a href="../digital-publication-small-grants" class="btn btn-primary-outline btn-sm"><i class="fas fa-info-circle me-2"></i> Learn more and apply</a>
+<a href="../digital-publication-small-grants" class="btn btn-primary-outline btn-sm"><i class="fas fa-info-circle me-2"></i> Learn more</a>
 
 
 ## Allmaps Research Fellowships
