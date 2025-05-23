@@ -7,9 +7,9 @@ description: >-
   Going against the grain can get you in trouble, but it can also make you a
   legend
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hm510v776/1134,1898,8909,3686/2000,/0/default.jpg
+  https://openarchives.umb.edu/digital/api/singleitem/image/p15774coll6/8117/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hm510v776/1134,1898,8909,3686/2000,/0/default.jpg
+  https://openarchives.umb.edu/digital/api/singleitem/image/p15774coll6/8117/default.jpg
 ---
 
 [Merrymount](https://www.worldhistory.org/Merrymount_Colony/) Colony was first established in New England as a settlement by the name of Mount Wollaston in 1624 CE. 
