@@ -12,7 +12,7 @@ backgroundImage: >-
   https://openarchives.umb.edu/digital/api/singleitem/image/p15774coll6/8117/default.jpg
 ---
 
-[Merrymount](https://www.worldhistory.org/Merrymount_Colony/) Colony was first established in New England as a settlement by the name of Mount Wollaston in 1624 CE. 
+[Merrymount](https://www.worldhistory.org/Merrymount_Colony/) Colony was first established in New England as a settlement by the name of Mount Wollaston in 1624 CE.
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:377239883/5967,3990,2160,2203/1200,/0/default.jpg" class="figure-left" >}}
 
@@ -43,5 +43,7 @@ Morton was deported back to England one final time, cementing the end of the Mer
 Morton described local Indigenous people in a positive light, but he referred to them with dehumanizing language such as "[savages](https://umsystem.pressbooks.pub/alpt1865/chapter/author-introduction-thomas-morton/)" and wanted to convert them to Anglicanism. In the same breath, he also was more than willing to live alongside the Algonquian people and learn about their culture while Puritans were against co-existence. Overall, however, his intent on Passanageset (the original Massachusett tribal name for Merrymount) was colonization.
 
 In spite of his initial intent, it was Morton's opposition to his Puritan neighbors, to the extent of writing New English Canaan, that provided an alternative perspective to societal norms at a time when such opinions had disastrous consequences if expressed like exile from one’s community, and thus chance of survival. Morton and the Merrymount colony were vilified for centuries after his death. However, beginning in the 19th-century, some writers were sympathetic to his ideology, with Nathaniel Hawthorne writing “The May-Pole of Merry Mount” based on the sorrowful destruction of Merrymount in 1837 CE. Opinions on Morton have completely changed, though, in the last fifty years.
+
+{{< figure src="https://openarchives.umb.edu/digital/api/singleitem/image/p15774coll6/8117/default.jpg" caption="This was a promotion of the Merrymount Company to sell lots in the area (c.1920-1929)" >}}
 
 While Thomas Morton was not the perfect protagonist, inadvertently and but for a brief period, he carved out a space of joy for colonists and Indigenous Massachusett people alike, where cultural and spiritual practices could be shared to replace the anxiety of existing in an unforgiving terrain.
