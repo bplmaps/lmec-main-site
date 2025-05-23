@@ -9,9 +9,11 @@ backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hm510v776/1134,1898,8909,3686/2000,/0/default.jpg
 ---
 
-[Merrymount](https://www.worldhistory.org/Merrymount_Colony/) Colony was first established in New England as a settlement by the name of Mount Wollaston in 1624 CE. Governed as a trade post rather than a residential colony, like the [Plymouth Colony](https://www.worldhistory.org/New_England_Colonies/) to the south, it was originally managed by Captain Richard Wollaston for the purpose of trading guns and liquor with the Indigenous Massachusett for furs and food stuffs.
+[Merrymount](https://www.worldhistory.org/Merrymount_Colony/) Colony was first established in New England as a settlement by the name of Mount Wollaston in 1624 CE. 
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:377239883/5967,3990,2160,2203/1200,/0/default.jpg" class="figure-left" >}}
+
+Governed as a trade post rather than a residential colony, like the [Plymouth Colony](https://www.worldhistory.org/New_England_Colonies/) to the south, it was originally managed by Captain Richard Wollaston for the purpose of trading guns and liquor with the Indigenous Massachusett for furs and food stuffs.
 
 Members of Wollaston's crew included Thomas Morton, an English lawyer and writer, and around 30 indentured servants. In 1626 CE,  just two years after the colony was established, Wollaston traveled to Jamestown, Virginia and sold some of his indentured servants into slavery. Morton, who was in Mount Wollaston at the time, was enraged by this news, and encouraged the remaining servants to rebel against Wollaston's remaining second-in-command and help  establish an egalitarian society. Wollaston never returned to Massachusetts and died later that same year—leaving Morton’s claim to power uncontested.
 
