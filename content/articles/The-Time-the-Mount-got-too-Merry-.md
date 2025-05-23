@@ -3,6 +3,9 @@ draft: true
 title: 'The Time the Mount got too Merry '
 date: 2025-05-30T04:00:00.000Z
 author: Zaila Alves
+description: >-
+  Going against the grain can get you in trouble, but it can also make you a
+  legend
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:hm510v776/1134,1898,8909,3686/2000,/0/default.jpg
 backgroundImage: >-
