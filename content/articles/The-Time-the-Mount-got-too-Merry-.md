@@ -44,6 +44,6 @@ Morton described local Indigenous people in a positive light, but he referred to
 
 In spite of his initial intent, it was Morton's opposition to his Puritan neighbors, to the extent of writing New English Canaan, that provided an alternative perspective to societal norms at a time when such opinions had disastrous consequences if expressed like exile from one’s community, and thus chance of survival. Morton and the Merrymount colony were vilified for centuries after his death. However, beginning in the 19th-century, some writers were sympathetic to his ideology, with Nathaniel Hawthorne writing “The May-Pole of Merry Mount” based on the sorrowful destruction of Merrymount in 1837 CE. Opinions on Morton have completely changed, though, in the last fifty years.
 
-{{< figure src="https://openarchives.umb.edu/digital/api/singleitem/image/p15774coll6/8117/default.jpg" caption="This was a promotion of the Merrymount Company to sell lots in the area (c.1920-1929)" >}}
+{{< figure src="https://openarchives.umb.edu/digital/api/singleitem/image/p15774coll6/8117/default.jpg" caption="This was a promotion of the Merrymount Company to sell lots in the area (c.1920-1929)" class="figure-right" >}}
 
 While Thomas Morton was not the perfect protagonist, inadvertently and but for a brief period, he carved out a space of joy for colonists and Indigenous Massachusett people alike, where cultural and spiritual practices could be shared to replace the anxiety of existing in an unforgiving terrain.
