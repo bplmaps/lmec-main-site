@@ -42,4 +42,4 @@ For private exhibition tours for a group, please [fill out the form on our Group
 
 Our physical spaces are ADA accessible via a lift from the main level of the BPL's McKim Building. Most, though not all, spaces in the Central Library in Copley Square are accessible. For more information, see the BPL's [Resources and Services for Users with Disabilities](https://www.bpl.org/users-with-disabilities/).
 
-Occassional tours are offered in languages other than English.
+Occasional tours are offered in languages other than English.
