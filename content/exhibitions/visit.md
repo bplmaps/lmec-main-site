@@ -28,9 +28,9 @@ Our free gallery tours last approximately 30 minutes and do not require advance 
 | Friday    | 11:30 am           |
 | Saturday  | 11:30 am           |
 
-## Special Exhibition Events
+<!-- ## Special Exhibition Events
 
-{{< event-tag-listing tag="Exhibition" >}}
+{{< event-tag-listing tag="Exhibition" >}} -->
 
 ## Group and Education Visits
 
