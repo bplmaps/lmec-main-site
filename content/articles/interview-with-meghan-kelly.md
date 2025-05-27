@@ -1,6 +1,5 @@
 ---
 date: 2025-05-27T04:00:00.000Z
-draft: true
 title: 'Meet Meghan Kelly, Our 2025 Designer-in-Residence'
 description: >-
   The Leventhal Center's 2025 Designer-in-Residence brings a feminist approach to her work, and will be pursuing work to build a community-driven map icon set
