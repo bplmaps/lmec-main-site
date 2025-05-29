@@ -15,7 +15,7 @@ backgroundImage: >-
   /uploads/2025-05-27/kelly-woodenships.png
 ---
 
-> In June 2025, [Meghan Kelly](https://meghankelly-cartography.github.io) will join the Leventhal Center as this year’s Designer-in-Residence. Meghan is a cartographer and an associate professor in the [Geography and the Environment Department at Syracuse University](https://www.maxwell.syr.edu/directory/meghan-kelly). Her work draws on feminist practice and challenges our conventional understandings of space and place using new forms of visualization.
+> In June 2025, [Meghan Kelly](https://meghankelly-cartography.github.io) will join the Leventhal Center as this year’s Designer-in-Residence. Meghan is a cartographer and an assistant professor in the [Geography and the Environment Department at Syracuse University](https://www.maxwell.syr.edu/directory/meghan-kelly). Her work draws on feminist practice and challenges our conventional understandings of space and place using new forms of visualization.
 > 
 > We sat down with Meghan to learn more about how she became a geographer, how she thinks about critical cartography, and her upcoming residency at the Center.
 
