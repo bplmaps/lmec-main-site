@@ -23,11 +23,11 @@ Titled “The town of Boston in New England,” the map details the locations of
 
 In this From The Vault, we explored the Bonner map’s evolution over a half-century and its enduring cartographic influence into the twentieth century.
 
-#### William Hemsley Emory, ***[Map of Texas and the country adjacent](https://collections.leventhalmap.org/search/commonwealth:4m90f684t)*** (1844)
+#### John Bonner, [The town of Boston in New England](https://collections.leventhalmap.org/search/commonwealth:9s161f21f) \[1723–1733]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90f6853/full/1400,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f22q/full/1200,/0/default.jpg" class="" >}}
 
-Published the year before Texas was annexed and became the 28th state of the USA, [this map](https://collections.leventhalmap.org/search/commonwealth:4m90f684t) depicts the short-lived country of the Republic of Texas. Recognized as a country between 1836 and 1844, Texas had gained its independence from Mexico, though they were considered more of a “rebellious province” as the Mexican Congress refused to recognize the independence of the Republic of Texas. As seen, the borders of the Republic extend much further than the current state of Texas, reaching as far north as Wyoming and as far west as New Mexico. In practice, much of the Republic’s claimed territory was occupied by the Comanche people and outside the control of any country.
+This 1723 map is a copy of the 1722 map created by Captain John Bonner, an English soldier who was a skilled navigator and celebrated mariner in colonial-era Boston. Bonner's map is considered the oldest surviving map of Boston and is thus typically referred to as [the first printed map of the city](https://collections.leventhalmap.org/search/commonwealth:9s161f21f). Reflective of the importance of his occupation to Boston’s economy, the Bonner map highlights docks, wharves, ropewalks, and shipyards. In addition, the map reveals other priorities of Bostonian life at the time: tracking illnesses and fires; locating places of religion and education; and in general how one may navigate around Boston. Most notably to modern viewers, this map depicts Boston in its original peninsular shape. 
 
 ***Though the Republic of Texas only existed for a short while, how did it go on to impact the future of the territory it occupied?***
 
