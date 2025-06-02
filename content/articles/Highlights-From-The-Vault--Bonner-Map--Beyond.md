@@ -43,7 +43,7 @@ Notably, the base of the statue shows the notable sites (including newly built c
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161953w/full/1400,/0/default.jpg" class="" >}}
 
-This 1743 Price map is the seventh version, or state, of Bonner’s 1722 map. William Price, a businessman and shopkeeper from pre-Revolutionary Boston, released seven of the nine "states"—or editions—of Bonner’s map. Originally, Price’s name was featured on the second and third states alongside Bonner’s name as part of a successful re-release of Bonner’s successful original. By the fifth state, Price omitted Bonner’s name, which is not seen on this map. '=
+This 1743 Price map is the seventh version, or state, of Bonner’s 1722 map. William Price, a businessman and shopkeeper from pre-Revolutionary Boston, released seven of the nine "states"—or editions—of Bonner’s map. Originally, Price’s name was featured on the second and third states alongside Bonner’s name as part of a successful re-release of Bonner’s successful original. By the fifth state, Price omitted Bonner’s name, which is not seen on this map. 
 
 [This map](https://collections.leventhalmap.org/search/commonwealth:9s161952m) is noticeably “busier” than both Bonner’s original map and earlier states of Price maps, with the note on Faneuil Hall marketplace extending into one of the original ships sketched in Bonner's original. Another curious detail is Price’s neglect in updating Boston’s age from “103” years, showing just how quickly new states must have been issued. This new state does accurately reflect the changing political landscape of the city, featuring twelve political wards, instead of the eight wards featured in the Burgis map.
 
@@ -53,13 +53,11 @@ This 1743 Price map is the seventh version, or state, of Bonner’s 1722 map. Wi
 
 [This reproduction of the 1769 Price map](https://collections.leventhalmap.org/search/commonwealth:3f462v496) is the ninth and final state of the Bonner Map. The original is on display in our gallery under the “City” scale of our new exhibition, Terrains of Independence. One notable change is the correction of Boston’s age from 103 years to 139 years. The map also contains new annotations, including a line about when Boston was settled and the days of operation for Faneuil Hall marketplace. This map, as Price’s final map state before his death, served as the base map and starting point for many subsequent Boston mapmakers until Osgood Carleton’s official town survey, which was published in 1796 and 1797.
 
-#### W\.B. Clarke, *[Plan of ancient Rome](https://collections.leventhalmap.org/search/commonwealth:0r96fn85r)* (1830)
+#### John Bonner, [\[Boston wharves, from Long Wharf\]](https://collections.leventhalmap.org/search/commonwealth:9s161965p) \[1853]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fn861/full/1400,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161966z/full/1400,/0/default.jpg" >}}
 
-[This early-19th century map](https://collections.leventhalmap.org/search/commonwealth:0r96fn85r) illustrates ancient Rome, where numerous scenes from Antony and Cleopatra (a play by Shakespeare) unfolded, and includes depictions of the monuments to be found throughout the city. Rome was the capital of the Roman Empire, which stretched nearly 1.7 million miles from Britain and Spain to Syria. In the late 1st and early 2nd centuries, Ancient Rome had reached its peak and it’s believed the city had a population of one million people, though this number is a possible overestimation.
-
-The modern city of Rome is the capital of Italy and is home to over 4.2 million residents, making it one of the largest cities by population in all of Europe. Rome's history spans 28 centuries and fell under many different forms of leadership.
+[This 1853 copy](https://collections.leventhalmap.org/search/commonwealth:9s161965p) of Captain John Bonner’s 1714 "Boston wharves from Long Wharf" demonstrates Bonner’s level of understanding of shoreline surveying that led to the creation of his famous 1722 map, “The town of Boston in New England.” Bonner labels each wharf by the name of its owner, much like in the 1722 map. The brown shading on the manuscript copy to point out the location of mudflats, is adapted into dotted aquatic areas on the 1722 Bonner map.
 
 #### Christiaan van Adrichem, *[Ierusalem, et suburbia eius, sicut tempore Christi floruit c\[um\] locis, in quib\[us\] Christ\[us\] pass\[us\] est: que religiose a Christianis obseruata, etiam n\[um\] venerationi habent](https://collections.leventhalmap.org/search/commonwealth:2b88qf58d)* \[1584–1588]
 
