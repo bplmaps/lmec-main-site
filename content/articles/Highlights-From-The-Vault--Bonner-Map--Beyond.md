@@ -27,19 +27,17 @@ In this From The Vault, we explored the Bonner map’s evolution over a half-ce
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161f22q/full/1200,/0/default.jpg" class="" >}}
 
-This 1723 map is a copy of the 1722 map created by Captain John Bonner, an English soldier who was a skilled navigator and celebrated mariner in colonial-era Boston. Bonner's map is considered the oldest surviving map of Boston and is thus typically referred to as [the first printed map of the city](https://collections.leventhalmap.org/search/commonwealth:9s161f21f). Reflective of the importance of his occupation to Boston’s economy, the Bonner map highlights docks, wharves, ropewalks, and shipyards. In addition, the map reveals other priorities of Bostonian life at the time: tracking illnesses and fires; locating places of religion and education; and in general how one may navigate around Boston. Most notably to modern viewers, this map depicts Boston in its original peninsular shape. 
+This 1723 map is a copy of the 1722 map created by Captain John Bonner, an English soldier who was a skilled navigator and celebrated mariner in colonial-era Boston. Bonner's map is considered the oldest surviving map of Boston and is thus typically referred to as [the first printed map of the city](https://collections.leventhalmap.org/search/commonwealth:9s161f21f). 
 
-***Though the Republic of Texas only existed for a short while, how did it go on to impact the future of the territory it occupied?***
+Reflective of the importance of his occupation to Boston’s economy, the Bonner map highlights docks, wharves, ropewalks, and shipyards. In addition, the map reveals other priorities of Bostonian life at the time: tracking illnesses and fires; locating places of religion and education; and in general how one may navigate around Boston. Most notably to modern viewers, this map depicts Boston in its original peninsular shape. 
 
-#### Richard Rummell, *[New York City : the business center of the borough of Manhattan](https://collections.leventhalmap.org/search/commonwealth:4m90fn331)* (1905)
+#### William Burgis, [To His Excellency William Burnet, Esqr., this Plan of Boston in New England is humbly dedicated](https://collections.leventhalmap.org/search/commonwealth:x633fb32n) (1869)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fn349/full/1400,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fb33x/full/1400,/0/default.jpg" class="" >}}
 
-This era of New York is no longer visible under the skyscrapers and modern changes the city has undergone in the last century. Some of the largest physical changes to the city are reflected in the total demolition and rebuilding of some of the city’s most historic buildings and neighborhoods.
+In [the fourth version of Bonner’s 1722 map](https://collections.leventhalmap.org/search/commonwealth:x633fb32n), William Burgis took on a more decorative approach to the design of his map in dedication to acting Massachusetts governor, William Burnet, in 1728. Bonner’s one-dimensional depictions of houses were replaced with hatching in place of important buildings, though churches and important public sites were given more detail. By shifting the map's layout and orientation, Burgis was able to add the ornate cartouche depicting three Greco-roman figures seated. 
 
-Buildings like the New York Produce Exchange (which brought in $15 million a day in business by 1900) and others obscured by the angle of [this map](https://collections.leventhalmap.org/search/commonwealth:4m90fn331), like Madison Square Garden, the Singer Building, the original Waldorf and Astoria hotels amongst many others, were eventually demolished to make way for the “City of Dreams”. The Empire State Building, New York Penn Station, and the current iteration of Madison Square Garden are all built on the sites of what were once thought of as some of the most amazing architecture in the United States.
-
-***Is it possible to grow, expand, and modernize without rebuilding the oldest parts of a city?***
+Notably, the base of the statue shows the notable sites (including newly built churches) and list of "great fires" shown in Bonner's 1722 map, but is missing the dated list of smallpox outbreaks. Despite the divergences from the original, Burgis’ map still depicted an accurate picture of life in 18th-century Boston, enough so that it was reissued multiple times in the eighteenth and nineteenth centuries, including this facsimile issued in 1869.
 
 #### John Wesley Powell, *[Linguistic families of American Indians north of Mexico](https://collections.leventhalmap.org/search/commonwealth:7h149w93v)* \[1907?]
 
