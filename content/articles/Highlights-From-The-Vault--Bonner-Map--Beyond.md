@@ -49,7 +49,7 @@ This 1743 Price map is the seventh version, or state, of Bonner’s 1722 map. Wi
 
 #### William Price and John Bonner, *[A new plan of ye great town of Boston in New England in America, with the many additionall \[sic\] buildings, & new streets, to the year, 1769](https://collections.leventhalmap.org/search/commonwealth:3f462v496)* (1769)
 
-{{< figure src="https://collections.leventhalmap.org/search/commonwealth:3f462v496/manifest" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v50z/160,144,9124,6669/1400,/0/default.jpg" >}}
 
 [This reproduction of the 1769 Price map](https://collections.leventhalmap.org/search/commonwealth:3f462v496) is the ninth and final state of the Bonner Map. The original is on display in our gallery under the “City” scale of our new exhibition, *[Terrains of Independence](https://www.leventhalmap.org/digital-exhibitions/terrains-of-independence/)*. One notable change is the correction of Boston’s age from 103 years to 139 years. The map also contains new annotations, including a line about when Boston was settled and the days of operation for Faneuil Hall marketplace. This map, as Price’s final map state before his death, served as the base map and starting point for many subsequent Boston mapmakers until Osgood Carleton’s official town survey, which was published in 1796 and 1797.
 
