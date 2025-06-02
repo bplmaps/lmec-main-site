@@ -59,10 +59,8 @@ This 1743 Price map is the seventh version, or state, of Bonner’s 1722 map. Wi
 
 [This 1853 copy](https://collections.leventhalmap.org/search/commonwealth:9s161965p) of Captain John Bonner’s 1714 "Boston wharves from Long Wharf" demonstrates Bonner’s level of understanding of shoreline surveying that led to the creation of his famous 1722 map, “The town of Boston in New England.” Bonner labels each wharf by the name of its owner, much like in the 1722 map. The brown shading on the manuscript copy to point out the location of mudflats, is adapted into dotted aquatic areas on the 1722 Bonner map.
 
-#### Christiaan van Adrichem, *[Ierusalem, et suburbia eius, sicut tempore Christi floruit c\[um\] locis, in quib\[us\] Christ\[us\] pass\[us\] est: que religiose a Christianis obseruata, etiam n\[um\] venerationi habent](https://collections.leventhalmap.org/search/commonwealth:2b88qf58d)* \[1584–1588]
+#### Georges-Louis Le Rouge, [Plan de Boston](https://collections.leventhalmap.org/search/commonwealth:3f462v21h) \[1755]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2b88qf59p/full/,1500/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v22s/1088,708,6428,4398/1400,/0/default.jpg" class="" >}}
 
-Rather than a birds eye view, this depiction is more of [a pictorial map](https://collections.leventhalmap.org/search/commonwealth:2b88qf58d), showing the facades of buildings placed adjacent to the streets and not drawn in perspective. As the extended title indicates, the map was compiled by Adrichem, a Dutch theologian and cartographer, to depict Jerusalem at the time of Christ.
-
-The original map, with a horizontal format, was oriented with west at top. The map was later rotated to a vertical format, placing north at the top. The map presents an imaginary conception of the city, with many buildings depicted as 16th century European structures. In addition there are 270 numbered and captioned scenes, showing sites or events mentioned in the Bible and other historical texts. Many record events surrounding the life and crucifixion of Jesus, but a few date back even further.
+[This is a 1755 map](https://collections.leventhalmap.org/search/commonwealth:3f462v21h) by Georges-Louis Le Rouge was part of his volume Recueil Des Plans de l'Amérique Septentrionale and was based on the seventh state of Captain John Bonner’s 1722 map. At the time this map was issued, the French and Indian War had begun a year earlier. With a limited number of up-to-date maps of Boston available in Europe, using the Bonner map as a starting point for this map helped to satisfy increased French interest in maps of North America, especially of their English enemy's territory.
