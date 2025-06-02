@@ -7,9 +7,9 @@ description: >-
   Check out these highlights from the May 30, 2025 From The Vault — Bonner Map &
   Beyond.
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fn349/743,3978,8563,3219/1800,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v22s/1088,868,6397,2334/1400,/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fn349/743,3978,8563,3219/1800,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v22s/1088,868,6397,2334/1400,/0/default.jpg
 tags:
   - ftv highlights
   - from the vault
