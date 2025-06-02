@@ -73,6 +73,6 @@ This 1743 Price map is the seventh version, or state, of Bonner’s 1722 map. Wi
 
 #### Edwin Olsen, Blake Clark, and Houghton Mifflin Company, [The colour of an old city : a map of Boston, decorative and historical](https://collections.leventhalmap.org/search/commonwealth:rj432v46t) (1926)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v22s/1088,708,6428,4398/1400,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9306wn31r/full/1400,/0/default.jpg" class="" >}}
 
 This [colorful 1926 Olson & Clark pictorial map](https://collections.leventhalmap.org/search/commonwealth:rj432v46t) has many details competing for a viewer's eye, but peering at the top left corner reveals a small Bonner map overlayed on a hatched outline of Boston’s shoreline in 1926. The bottom left map offers a close up of the 1722 Bonner map, with other famous maps of Boston appearing on the neatline (the border of the map). Since 1722, much land has been filled around Boston's original Shawmut peninsula, creating today’s neighborhoods of Back Bay, Bay Village, Fenway, the West End.
