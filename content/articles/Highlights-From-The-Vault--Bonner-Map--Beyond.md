@@ -41,7 +41,7 @@ Notably, the base of the statue shows the notable sites (including newly built c
 
 #### William Price and John Bonner, *[A new plan of ye great town of Boston in New England in America, with the many additionall buildings & new streets to the year 1743](https://collections.leventhalmap.org/search/commonwealth:9s161952m)* (1743)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v50z/full/1400,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v50z/160,144,9124,6669/1400,/0/default.jpg" class="" >}}
 
 This 1743 Price map is the seventh version, or state, of Bonner’s 1722 map. William Price, a businessman and shopkeeper from pre-Revolutionary Boston, released seven of the nine "states"—or editions—of Bonner’s map. Originally, Price’s name was featured on the second and third states alongside Bonner’s name as part of a successful re-release of Bonner’s successful original. By the fifth state, Price omitted Bonner’s name, which is not seen on this map.
 
