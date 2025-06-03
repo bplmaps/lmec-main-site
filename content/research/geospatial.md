@@ -28,23 +28,6 @@ Our specific services include:
 
 Happy mapping!
 
-### Cartinal: The LMEC Documentation Database {#cartinal}
-
-[{{< figure src="/uploads/cartinal.png" class="figure-center" >}}](https://cartinal.leventhalmap.org)
-
-> [Cartinal](https://geoservices.leventhalmap.org/cartinal/) includes numerous guides, tutorial, and documentation sources for geospatial data and projects. You'll find both step-by-step guides that are suitable for beginners, as well as more advanced documentation for our data services and resources.
-
-**What kinds of resources can I find in Cartinal?**
-
-* The digital textbook for our newest GIS course, [Making Sense of Maps and Data](https://cartinal.leventhalmap.org/guides/making-sense-maps-data/)
-* A guide explaining [common geospatial data formats](https://cartinal.leventhalmap.org/guides/file-formats.html)
-* Documentation on [how to use the Atlascope portal](https://cartinal.leventhalmap.org/guides/atlascope-tool-guide.html) to access our geotransformed atlas layers
-* And much more!
-
-<a class="btn btn-outline-primary btn-large" href="https://cartinal.leventhalmap.org/">Visit Cartinal</a>
-
-</details>
-
 ### The LMEC Data Portal {#data-portal}
 
 [{{< figure src="/uploads/dataportal.png" class="figure-center">}}](https://data.leventhalmap.org)
