@@ -25,7 +25,7 @@ This program is co-sponsored by [BPL Community History](https://www.bpl.org/comm
 
 Meghan will give a brief lecture beginning at 2 pm to help folks get started but attendees are welcome to drop in and out of the workshop at any time. Workshop materials (and Meghan) will be available for anyone that missed the 2 pm lecture.
 
-This workshop is open to patrons of all ages. However, educational materials will be tailored to K–12. No mapping or design experience required!
+This workshop is open to patrons of all ages. No mapping or design experience required!
 
 Light refreshments and snacks will be provided. 
 
