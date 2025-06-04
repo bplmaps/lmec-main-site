@@ -9,7 +9,7 @@ location: 'Learning Center, Leventhal Map & Education Center'
 cost: free
 ---
 
-Join the [Leventhal Center's 2025 Designer-in-Residence, Meghan Kelly](https://www.leventhalmap.org/articles/interview-with-meghan-kelly/) for a community map-creation project!
+Join the [Leventhal Center's 2025 Designer-in-Residence, Meghan Kelly](https://www.leventhalmap.org/articles/interview-with-meghan-kelly/), for a community map-creation project!
 
 ![Example icons accompanied by an illustration of a search bar with the text Search Boston](https://s3.us-east-2.wasabisys.com/lmec-public-files/lmec-main-site-static-assets/events/boston-icons-search.png)
 
