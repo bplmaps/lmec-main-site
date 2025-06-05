@@ -9,6 +9,9 @@ backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/im
 location: 'Learning Center, Leventhal Map & Education Center'
 registration: >-
   https://www.ticketleap.events/tickets/bplmaps/mapping-boston-through-place-creating-a-map-icon-library-for-the-city
+tags:
+  - Boston
+  - Designer in residence
 ---
 
 ## Join the [Leventhal Center's 2025 Designer-in-Residence, Meghan Kelly](https://www.leventhalmap.org/articles/interview-with-meghan-kelly/), for a community map-creation project!
