@@ -22,7 +22,7 @@ tags:
 
 Map icons are typically the tiniest symbols included on maps and we see them constantly (e.g., Google or Apple Maps). While small and compact, map icons carry significant meanings locating places along with people, events, and stories. Mapmakers use map icon libraries that are preloaded into our mapping tools. These icon libraries are consistently designed to convey a cohesive map style and are often applied universally in maps. In other words, mapmakers are often “locked” into a specific set of map icons that may or may not be suitable for a specific map. Map icons, however, are not “one-size-fits-all” and we need map icons that are context specific reflecting our experiences of and the dynamics of place.
 
-In this workshop, we will collectively create map icons and develop an icon set for Boston. To begin, we will discuss the role of map icons in maps and will explore the limits of and opportunities for existing map icon libraries. We will then turn to a hands-on activity where we create iterative create icons for the city that better reflect our experiences of places. This icon set will be publicly available to mapmakers and educators for local mapping initiatives.
+In this workshop, we will collectively create map icons and develop an icon set for Boston. To begin, we will discuss the role of map icons in maps and will explore the limits of and opportunities for existing map icon libraries. We will then turn to a hands-on activity where we will iteratively create icons for the city that better reflect our experiences of places. This icon set will be publicly available to mapmakers and educators for local mapping initiatives.
 
 This program is co-sponsored by [BPL Community History](https://www.bpl.org/community-history/).
 
