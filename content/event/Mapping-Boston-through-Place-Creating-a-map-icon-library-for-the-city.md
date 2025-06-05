@@ -7,6 +7,8 @@ publishDate: 2025-06-03T04:00:00.000Z
 image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/image (12).png'
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/image (12).png'
 location: 'Learning Center, Leventhal Map & Education Center'
+registration: >-
+  https://www.ticketleap.events/tickets/bplmaps/mapping-boston-through-place-creating-a-map-icon-library-for-the-city
 ---
 
 ## Join the [Leventhal Center's 2025 Designer-in-Residence, Meghan Kelly](https://www.leventhalmap.org/articles/interview-with-meghan-kelly/), for a community map-creation project!
@@ -32,3 +34,5 @@ Light refreshments and snacks will be provided.
 ### Optional registration
 
 This is a drop-in program, and registration is optional. Reserve a ticket below if you would like a reminder about the event.
+
+<a href="https://www.ticketleap.events/tickets/bplmaps/mapping-boston-through-place-creating-a-map-icon-library-for-the-city" target="_blank" id="btn-constructor" rel="noreferrer" style="background-color: rgb(10, 10, 255); border: 1px solid rgb(10, 10, 255); border-radius: 22.5rem; color: rgb(255, 255, 255); cursor: pointer; display: inline-block; font-family: Helvetica, Arial; font-size: 0.875rem; font-weight: 400; line-height: 1.5; min-width: 150px; padding: 11px 20px; text-align: center; text-decoration: none; text-wrap: nowrap; transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; user-select: none; vertical-align: middle;">Register</a>
