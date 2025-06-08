@@ -7,19 +7,41 @@ description: >-
 weight: '4'
 ---
 
-### Professional Development for Individual K-12 Educators
+{{< alert-box type="primary" title="Summer 2025 Virtual Teacher Workshops" >}}
+**We know summer means different things to different teachers**—rest, time with people you care about, summer jobs, caregiving, or finally tackling your neglected to-do list. 
 
-The Leventhal Map & Education Center supports classroom educators with relevant and engaging professional development opportunities. From virtual evening workshops to summer-long fellowships, Leventhal Center professional development is designed to support educators in using geographic approaches and maçterials across subjects and grade levels.
+If you're also using this time to recharge *and* get inspired for next year, we’d love to have you join us for one (or more!) of our upcoming virtual workshops on the American Revolution, offered as part of [ARGO](https://www.notion.so/Chinatown-Branch-Library-1c8f8441f2ed8090843fce6d01d57989?pvs=21) (American Revolutionary Geographies Online).
 
-### ‘24—‘25 School Year Offerings
+**Can’t attend live?** No problem. All registrants will receive access to the session recording and materials. (Just a heads up—these are only available to registered participants and won’t be shared publicly.)
 
-{{< pd-listing image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:vh53x3798/303,473,3383,3073/1200,/0/default.jpg" title="Virtual — On the Spot: The Boston Massacre Through Maps (ARGO)" subtitle="Wednesday, January 22, 2025 at 6:30 pm - 8 pm ET " description="It happened between what was then King Street and Quaker Lane on March 5, 1770. In this virtual workshop, we will consider multiple views from historic maps to understand how this event unfolded the way it happened because of where it happened. Explore the specifics of Boston’s geography acted as a pressure cooker leading up to the massacre, the chaos of the moment itself, and the concentration of fury in its aftermath. </br></br> Learn how maps can aide your teaching of this seminal event in American history. Educators will leave this workshop with primary sources and teaching strategies for using them with students." signUpLink="https://forms.gle/SF5tnRzrLzEPXMPu8" >}}
+We hope to see you this summer!
+{{</ alert-box >}}
 
-{{< pd-listing image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd376543v/399,464,3773,3673/1200,/0/default.jpg" title="Virtual — Exhibition Preview for Educators: Terrains of Independence (ARGO)" subtitle="Wednesday, February 26, 2025 at 6:30 pm - 8 pm ET " description="Join LMEC Head Curator Garrett Dash Nelson for a special sneak preview exclusively for educators of our upcoming exhibition, *Terrains of Independence*. In this exhibition maps will offer the entrypoint to a reconsideration of the Revolutionary War through the lens of locality and place. </br></br> The exhibition will be on view at the Leventhal Center through January 2026 with special guided experiences for K-12 students available." signUpLink="https://forms.gle/SF5tnRzrLzEPXMPu8" >}}
+### Making the Revolution Local (Virtual)
 
-{{< pd-listing image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9846/118,438,4290,4488/1200,/0/default.jpg" title="Virtual — Mapping Johnny Tremain (ARGO)" subtitle="Wednesday, March 12, 2025 at 6:30 pm - 8 pm ET " description="In a fictional 1773, Johnny Tremain walked the streets of Boston. In reality in 1942, Esther Forbes used her extensive knowledge of the geography of colonial Boston to create an accurate world around her young protagonist to move through. </br></br> This workshop pairs this classic text with historic maps to connect students with Johnny Tremain and the very real world around him." signUpLink="https://forms.gle/SF5tnRzrLzEPXMPu8" >}}
+**Part One:** **Beyond George Washington Slept Here: How Maps Can Expand Our Understanding of Historic Events**
 
-{{< pd-listing image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54z650m/1740,1350,2248,2084/1200,/0/default.jpg" title="In Person — Taking It to the Streets: Using Atlascope and Urban Atlases in the Classroom" subtitle="April 2025" description="More information to follow" signUpLink="https://forms.gle/SF5tnRzrLzEPXMPu8" >}}
+*Wednesday July 16 at 10AM*
+
+The American Revolution was as much about places as it was about people or ideas. In this session, we’ll explore how geography shaped events—and how guided inquiry with historic maps can bring that complexity to life in your classroom. You’ll leave with ready-to-use primary sources and teaching strategies for middle school students.
+
+<a class="btn btn-primary btn-primary-outline" href="https://tally.so/r/nG42aO">Register Today </a>
+
+**Part Two:** **The Revolution Today: Using Digital Tools to Connect Past and Present** 
+
+*Wednesday July 23 at 10AM*
+
+In Part Two, we’ll dive into [ARGO](https://www.argomaps.org/) (American Revolutionary Geographies Online), a suite of digital tools designed to link past and present. Learn how to georeference historic maps and help students see what has changed—and what hasn’t.
+
+<a class="btn btn-primary btn-primary-outline" href="https://tally.so/r/nG42aO">Register Today </a>
+
+### Teaching 250: Using Maps to Teach the American Revolution (Virtual)
+
+*Wednesday, August 17 at 10AM*
+
+You teach about the American Revolution every year—but not every year is the semiquincentennial. Join us to learn how you can use historic maps to enrich your teaching and help mark this milestone with deeper, place-based learning. 
+
+<a class="btn btn-primary btn-primary-outline" href="https://tally.so/r/nG42aO">Register Today </a>
 
 ### Past Workshops
 

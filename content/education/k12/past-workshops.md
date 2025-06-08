@@ -6,6 +6,11 @@ description: >-
   Center
 ---
 
+**2025**
+  * On the Spot: The Boston Massacre Through Maps (ARGO)
+  * Exhibition Preview for Educators: Terrains of Independence (ARGO)
+  * Mapping Johnny Tremain (ARGO)
+
 **2024**
   * 2024 NEH Summer Institute "Community and Resilience in Maritime New England" with the Osher Map Library and Smith Center for Cartographic Education
   * Taking It to the Streets: Using Atlascope and Urban Atlases in the Classroom
