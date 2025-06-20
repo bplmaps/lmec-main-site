@@ -5,11 +5,9 @@ date: 2025-06-22T04:00:00.000Z
 author: Leventhal Map & Education Center Staff
 description: ''
 image: >-
-  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screenshot
-  2025-06-20 at 10.00.23 AM.png
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k433/574,619,8069,5665/pct:20/0/default.jpg
 backgroundImage: >-
-  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screenshot
-  2025-06-20 at 10.00.23 AM.png
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k433/574,619,8069,5665/pct:20/0/default.jpg
 tags:
   - allmaps
   - neh
