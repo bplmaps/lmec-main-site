@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Statement on termination of NEH Allmaps grant
+title: An update on the future of the Allmaps project
 date: 2025-06-22T04:00:00.000Z
 author: Leventhal Map & Education Center Staff
 description: ''
