@@ -1,8 +1,8 @@
 ---
-draft: false
+draft: true
 title: An update on the future of the Allmaps project
-date: 2025-06-22T04:00:00.000Z
-author: Leventhal Map & Education Center Staff
+date: 2025-06-23T19:00:00.000Z
+author: LMEC Staff
 description: ''
 image: 'https://www.leventhalmap.org/uploads/allmaps-viewer-job.jpeg'
 backgroundImage: 'https://www.leventhalmap.org/uploads/allmaps-viewer-job.jpeg'
