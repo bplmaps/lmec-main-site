@@ -4,10 +4,8 @@ title: An update on the future of the Allmaps project
 date: 2025-06-22T04:00:00.000Z
 author: Leventhal Map & Education Center Staff
 description: ''
-image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k433/574,619,8069,5665/pct:20/0/default.jpg
-backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:js956k433/574,619,8069,5665/pct:20/0/default.jpg
+image: 'https://www.leventhalmap.org/uploads/allmaps-viewer-job.jpeg'
+backgroundImage: 'https://www.leventhalmap.org/uploads/allmaps-viewer-job.jpeg'
 tags:
   - allmaps
   - neh
