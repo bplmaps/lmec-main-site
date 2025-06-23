@@ -20,25 +20,4 @@ What was Hyde Park like in the nineteenth and twentieth centuries? What schools 
 
 *Presented by the Leventhal Map & Education Center, the Hyde Park Branch Library and the Hyde Park Historical Society*
 
-Registration is not required. If you would like to receive event reminders, please register on Eventbrite below.
-
-<div id="eventbrite-widget-container-688117958337"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '688117958337',
-        iframeContainerId: 'eventbrite-widget-container-688117958337',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
+Registration is not required. If you would like to receive event reminders, please register on Eventbrite.
