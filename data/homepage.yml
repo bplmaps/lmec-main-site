@@ -57,6 +57,8 @@ slider:
 cta:
   enable: true
   announcements:
+    - badge: Holiday Closure
+      text: The Leventhal Center will be closed on July 4 for Independence Day
     - badge: New Exhibition
       text: >-
         Terrains of Independence is open now! Visit the gallery to see the new
