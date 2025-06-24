@@ -14,7 +14,7 @@ tags:
   - from the vault
 ---
 
-**A collaborative FTV between the Leventhal Map & Education Center and **A Better City's Transportation Management Associations.
+**A collaborative FTV between the Leventhal Map & Education Center and A Better City's Transportation Management Associations.**
 
 This free showing will be hosted Friday, July 25 in the Leventhal Map & Education Center with a staff member from the LMEC and A Better City available to answer questions.
 
