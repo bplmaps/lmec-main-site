@@ -17,25 +17,17 @@ tags:
 
 > *On June 13, we hosted **From The Vault — Cartography in the Classroom.***
 
-Originally drawn in 1722, the map commonly referred to as the “Bonner map” was the first printed map of Boston.
-
-Titled “The town of Boston in New England,” the map details the locations of streets, churches, and town buildings in pre-Revolutionary Boston. Its incredible level of detail made it a popular reference map for future mapmakers in the eighteenth and nineteenth centuries.
-
-In this From The Vault, we explored the Bonner map’s evolution over a half-century and its enduring cartographic influence into the twentieth century.
-
 #### George H. Bartlett, [The public schools of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:cj82kx577) (1893)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx58h/full/1200,/0/default.jpg" class="" >}}
 
 Massachusetts has historically been a leader in providing free education for children since the late 18th century. After the American Revolutionary War, public education at the elementary level was open to both male and female children, and geography was consistently part of the curriculum. George Bartlett, an artist and school principal, produced [this map](https://collections.leventhalmap.org/search/commonwealth:cj82kx577) illustrating the number of public schools by town throughout the state in 1892. At this time, there were over 7,000 public schools throughout the commonwealth, with women accounting for over 90% of teachers.
 
-#### William Burgis, *[To His Excellency William Burnet, Esqr., this Plan of Boston in New England is humbly dedicated](https://collections.leventhalmap.org/search/commonwealth:x633fb32n)* (1869)
+#### Diamond Litho-Pub'g Co., [Land measures illustrated ; percentage illustrated ; phonic analysis](https://collections.leventhalmap.org/search/commonwealth:0r96fp53p) (1901)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fb33x/full/1400,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp54z/full/,1200/0/default.jpg" class="" >}}
 
-In [the fourth version of Bonner’s 1722 map](https://collections.leventhalmap.org/search/commonwealth:x633fb32n), William Burgis took on a more decorative approach to the design of his map in dedication to acting Massachusetts governor, William Burnet, in 1728. Bonner’s one-dimensional depictions of houses were replaced with hatching in place of important buildings, though churches and important public sites were given more detail. By shifting the map's layout and orientation, Burgis was able to add the ornate cartouche depicting three Greco-roman figures seated.
-
-Notably, the base of the statue shows the notable sites (including newly built churches) and list of "great fires" shown in Bonner's 1722 map, but is missing the dated list of smallpox outbreaks. Despite the divergences from the original, Burgis’ map still depicted an accurate picture of life in 18th-century Boston, enough so that it was reissued multiple times in the eighteenth and nineteenth centuries, including this facsimile issued in 1869.
+[This educational poster](https://collections.leventhalmap.org/search/commonwealth:0r96fp53p) illustrates the structure of General Land Office township surveys. The top scene depicts surveyors laying out a single section, measuring one mile by one mile and containing 640 acres. The diagram labeled "Township Plat" demonstrates the division of a township into 36 sections, while the "Township Survey" diagram explains that townships are identified in relation to a baseline and meridian (representing an X-Y axis). Each parcel of land has a unique numerical identifier such as the 40-acre tract where the surveyors stand could be identified as the SE 1/4 of the SE 1/4 of Section 1, Township 3 North, Range 4 West, 6th Principal Meridian.
 
 #### William Price and John Bonner, *[A new plan of ye great town of Boston in New England in America, with the many additionall buildings & new streets to the year 1743](https://collections.leventhalmap.org/search/commonwealth:9s161952m)* (1743)
 
