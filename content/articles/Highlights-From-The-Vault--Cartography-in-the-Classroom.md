@@ -41,11 +41,11 @@ In [this unusual map](https://collections.leventhalmap.org/search/commonwealth:7
 
 Progressive 19th century educators such as Emma Willard and William Channing Woodbridge emphasized the importance of teaching history and geography simultaneously. This practice, which continued into the early 20th century, is evident in the notebook of Lincoln High School student David McCord, displayed here. David’s book from his history class in 1914 contains notes with corresponding maps, such as those related to the Roman Empire. Historical maps allowed students to visualize places in the past, as [David’s map](https://collections.leventhalmap.org/search/commonwealth:3f4637669) of the Holy Roman Empire does.
 
-#### John Bonner, *[\[Boston wharves, from Long Wharf\]](https://collections.leventhalmap.org/search/commonwealth:9s161965p)* \[1853]
+#### Joseph Schedler, [J. Schedler's relief map of Boston and environs](https://collections.leventhalmap.org/search/commonwealth:9s161h55p) (1874)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161966z/full/1400,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53jx78x/full/1200,/0/default.jpg" >}}
 
-[This 1853 copy](https://collections.leventhalmap.org/search/commonwealth:9s161965p) of Captain John Bonner’s 1714 "Boston wharves from Long Wharf" demonstrates Bonner’s level of understanding of shoreline surveying that led to the creation of his famous 1722 map, “The town of Boston in New England.” Bonner labels each wharf by the name of its owner, much like in the 1722 map. The brown shading on the manuscript copy to point out the location of mudflats, is adapted into dotted aquatic areas on the 1722 Bonner map.
+Three-dimensional relief maps are visual aids that assist schoolchildren in understanding physical terrain. The first relief maps were created in China, and appeared in Europe in the late 18th century. [This map of Boston and vicinity](https://collections.leventhalmap.org/search/commonwealth:9s161h55p) demonstrates the hilly character of the suburbs and harbor islands.
 
 #### Georges-Louis Le Rouge, *[Plan de Boston](https://collections.leventhalmap.org/search/commonwealth:3f462v21h)* \[1755]
 
