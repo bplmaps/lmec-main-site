@@ -55,11 +55,11 @@ Designed for educators to use in the classroom, [this twelve-inch globe](https:/
 
 The globe's mounting, which was Fitz's unique contribution to this educational tool, was designed to help students understand the effects of the Earth's daily rotation on its axis and yearly revolution around the Sun, with regard to daylight, twilight, and nighttime. By turning the globe's base in relation to the pointer representing the Sun's vertical ray, it is possible to observe these changes through the seasons.
 
-#### John Bonner, Francis Dewing, George Girdler Smith, William Price, and &#xA;Stephen P. Fuller, *[The town of Boston in New England](https://collections.leventhalmap.org/search/commonwealth:3f4631769)* (1835)
+#### Catherine Sargent, [East Indies from the best authorities](https://collections.leventhalmap.org/search/commonwealth:9s161c318) (1791)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463c21s/full/1400,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161c32j/full/1200,/0/default.jpg" class="" >}}
 
-[This 1835 reissue of Bonner’s 1722 map](https://collections.leventhalmap.org/search/commonwealth:3f4631769) is near identical in detail to other reissues and reproductions of the 1722 map. The only difference between this version and others is the signature by Stephen P. Fuller, the father of J. Franklin Fuller, on the upper-middle left side. J. Franklin Fuller was one half of the nineteenth and twentieth century surveying firm[ Fuller & Whitney,](https://archives.bpl.org/agents/corporate_entities/153) alongside William Henry Whitney. In the mid-nineteenth century, Fuller & Whitney would be credited with the filling-in and development of parts of Boston’s Back Bay and Fenway neighborhoods, filling in land on the mud flats north and west of what was Orange Street on Bonner's original map (now known as today's Washington Street).
+Prior to the American Revolutionary War, females received little formal education. However, this changed in the new Republic. Dame schools, run by women in their homes, taught reading, writing and numbers to young children, and needlework to girls. Private female academies, founded in the late 18th century, greatly expanded upon the subjects previously taught to girls. The academies taught not only the basic subjects, but geography, history, and natural science as exhibited in [this hand drawn map](https://collections.leventhalmap.org/search/commonwealth:9s161c318). 
 
 #### Edwin Olsen, Blake Clark, and Houghton Mifflin Company, *[The colour of an old city : a map of Boston, decorative and historical](https://collections.leventhalmap.org/search/commonwealth:rj432v46t)* (1926)
 
