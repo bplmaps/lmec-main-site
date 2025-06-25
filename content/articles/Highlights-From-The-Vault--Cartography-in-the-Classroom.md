@@ -35,11 +35,11 @@ Massachusetts has historically been a leader in providing free education for chi
 
 In [this unusual map](https://collections.leventhalmap.org/search/commonwealth:7h149z386), one pictorial image -- an eagle -- was superimposed on a map of the United States. The author of the accompanying geography book stated that the map was designed to serve as a memory device for young students learning the country's geography and history. He explained that the eagle was selected for its visual and iconic appeal. The author also made the point that secession could disfigure this national icon, suggesting that the map was intended to promote unity at a time when political debates about tariffs, slavery, and states' rights were part of the national discourse.
 
-#### William Price and John Bonner, *[A new plan of ye great town of Boston in New England in America, with the many additionall \[sic\] buildings, & new streets, to the year, 1769](https://collections.leventhalmap.org/search/commonwealth:3f462v496)* (1769)
+#### David W. McCord, [History 2](https://collections.leventhalmap.org/search/commonwealth:3f4637669) (1914)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v50z/160,144,9124,6669/1400,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463767k/full/1200,/0/default.jpg" >}}
 
-[This reproduction of the 1769 Price map](https://collections.leventhalmap.org/search/commonwealth:3f462v496) is the ninth and final state of the Bonner Map. The original is on display in our gallery under the “City” scale of our new exhibition, *[Terrains of Independence](https://www.leventhalmap.org/digital-exhibitions/terrains-of-independence/)*. One notable change is the correction of Boston’s age from 103 years to 139 years. The map also contains new annotations, including a line about when Boston was settled and the days of operation for Faneuil Hall marketplace. This map, as Price’s final map state before his death, served as the base map and starting point for many subsequent Boston mapmakers until Osgood Carleton’s official town survey, which was published in 1796 and 1797.
+Progressive 19th century educators such as Emma Willard and William Channing Woodbridge emphasized the importance of teaching history and geography simultaneously. This practice, which continued into the early 20th century, is evident in the notebook of Lincoln High School student David McCord, displayed here. David’s book from his history class in 1914 contains notes with corresponding maps, such as those related to the Roman Empire. Historical maps allowed students to visualize places in the past, as [David’s map](https://collections.leventhalmap.org/search/commonwealth:3f4637669) of the Holy Roman Empire does.
 
 #### John Bonner, *[\[Boston wharves, from Long Wharf\]](https://collections.leventhalmap.org/search/commonwealth:9s161965p)* \[1853]
 
