@@ -17,6 +17,12 @@ tags:
 
 > *On June 13, we hosted **From The Vault — Cartography in the Classroom.***
 
+**American schoolchildren have studied geography since the late 18th century.**
+
+Traditionally viewed as an essential subject for boys’ and girls’ education, geography was taught to children in primary school, and to young adults studying in high school and college settings.
+
+In this display of maps, globes, games, atlases and related objects, *From The Vault* explored the evolution of geographic education, examined the visual aids used by teachers in the classroom, and marveled at unique student-produced geography projects from the late eighteenth to the twentieth centuries.
+
 #### George H. Bartlett, ***[The public schools of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:cj82kx577)*** (1893)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx58h/full/1200,/0/default.jpg" class="" >}}
