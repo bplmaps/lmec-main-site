@@ -47,11 +47,13 @@ Progressive 19th century educators such as Emma Willard and William Channing Woo
 
 Three-dimensional relief maps are visual aids that assist schoolchildren in understanding physical terrain. The first relief maps were created in China, and appeared in Europe in the late 18th century. [This map of Boston and vicinity](https://collections.leventhalmap.org/search/commonwealth:9s161h55p) demonstrates the hilly character of the suburbs and harbor islands.
 
-#### Georges-Louis Le Rouge, *[Plan de Boston](https://collections.leventhalmap.org/search/commonwealth:3f462v21h)* \[1755]
+#### Ellen Fitz, [Fitz globe](https://collections.leventhalmap.org/search/commonwealth:x633f8883) (1879)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462v22s/1088,708,6428,4398/1400,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f889c/full/,1200/0/default.jpg" class="" >}}
 
-[This is a 1755 map](https://collections.leventhalmap.org/search/commonwealth:3f462v21h) by Georges-Louis Le Rouge was part of his volume Recueil Des Plans de l'Amérique Septentrionale and was based on the seventh state of Captain John Bonner’s 1722 map. At the time this map was issued, the French and Indian War had begun a year earlier. With a limited number of up-to-date maps of Boston available in Europe, using the Bonner map as a starting point for this map helped to satisfy increased French interest in maps of North America, especially of their English enemy's territory.
+Designed for educators to use in the classroom, [this twelve-inch globe](https://collections.leventhalmap.org/search/commonwealth:x633f8883) was published in Boston by the textbook firm of Ginn and Heath. The mounting system of vertical rings was patented by Ellen Fitz, a governess from New Brunswick. She was the first woman involved in the design and manufacturing of globes.
+
+The globe's mounting, which was Fitz's unique contribution to this educational tool, was designed to help students understand the effects of the Earth's daily rotation on its axis and yearly revolution around the Sun, with regard to daylight, twilight, and nighttime. By turning the globe's base in relation to the pointer representing the Sun's vertical ray, it is possible to observe these changes through the seasons.
 
 #### John Bonner, Francis Dewing, George Girdler Smith, William Price, and &#xA;Stephen P. Fuller, *[The town of Boston in New England](https://collections.leventhalmap.org/search/commonwealth:3f4631769)* (1835)
 
