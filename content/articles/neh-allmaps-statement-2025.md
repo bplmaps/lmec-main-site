@@ -1,7 +1,7 @@
 ---
 draft: false
 title: An update on the future of the Allmaps project
-date: 2025-06-30T01:00:00.000Z
+date: 2025-06-30T06:30:00.000Z
 author: LMEC Staff
 description: ''
 image: 'https://www.leventhalmap.org/uploads/allmaps-viewer-job.jpeg'
