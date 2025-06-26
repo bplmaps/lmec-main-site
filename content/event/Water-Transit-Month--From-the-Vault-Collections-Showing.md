@@ -1,6 +1,8 @@
 ---
 draft: false
-title: Water Transit Month — From the Vault Collections Showing
+title: >-
+  Historic Currents: Charting the Evolution of Boston's Ferry Routes — From the
+  Vault Collections Showing
 date: 2025-07-25T18:00:00.000Z
 publishDate: 2025-06-24T04:00:00.000Z
 image: >-
