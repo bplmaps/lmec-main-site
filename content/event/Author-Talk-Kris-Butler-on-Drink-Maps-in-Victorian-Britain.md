@@ -17,7 +17,7 @@ tags:
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/thumbnail_image004 (1).jpg" class="figure-right" >}}
 
-{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by another institution.{{\< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by another institution.{{< /alert-box >}}
 
 Join ***Kris Butler*** for a presentation and conversation on her book and latest research relating to Drink Maps in Victorian Britain. This talk is free, open to the public, and will be held in person at Holland & Knight at 10 St. James Avenue, 11th floor. ***Local beer will be served and registration is required.***
 
