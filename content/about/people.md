@@ -64,6 +64,7 @@ Diana Greenwald\
 Matthew J. Kiefer\
 Alex Krieger\
 Sierra Laddusaw\
+John Mackey\
 Miriam Olivares\
 Margaret Wickens Pearce\
 Richard Pegg, *Chair*\
@@ -72,7 +73,7 @@ Sarah Williams
 
 ### Education Committee
 
-Faroqua Abuzeit\
+Angela Veizaga\
 Michael G. Contompasis\
 Ashlyn Crossfield\
 Khurram Jamil\
