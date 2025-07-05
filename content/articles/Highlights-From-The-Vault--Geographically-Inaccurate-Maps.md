@@ -51,11 +51,13 @@ While most of the errors in [this map](https://collections.leventhalmap.org/sear
 
 There could be a variety of reasons for this discrepancy. The information about Davis' expedition may have been lost since it ultimately failed in its goal—finding the Northwest Passage between the two oceans through North America —and may have not seemed worth including. Captain James Cook also failed in finding the Northwest Passage, however heavily detailed documentation of places unknown to Europeans from his past voyages led to an almost untouchable reputation amongst English audiences at the time. Another possibility was that the mapmaker, William Faden, wanted to prevent plagiarism of his work by purposely including false information. A common copyright trap until the 1980s, Faden could have drafted the "Arctic Lands" to catch those plagiarizing his work.
 
-#### David W. McCord, *[History 2](https://collections.leventhalmap.org/search/commonwealth:3f4637669)* (1914)
+#### Daniel K. Wallingford, [This map presents a Bostonian's idea of the United States of America](https://collections.leventhalmap.org/search/commonwealth:3f463864z) (1935)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463767k/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4638657/full/1200,/0/default.jpg" >}}
 
-Progressive 19th century educators such as Emma Willard and William Channing Woodbridge emphasized the importance of teaching history and geography simultaneously. This practice, which continued into the early 20th century, is evident in the notebook of Lincoln High School student David McCord, displayed here. David’s book from his history class in 1914 contains notes with corresponding maps, such as those related to the Roman Empire. Historical maps allowed students to visualize places in the past, as [David’s map](https://collections.leventhalmap.org/search/commonwealth:3f4637669) of the Holy Roman Empire does.
+[This satirical map](https://collections.leventhalmap.org/search/commonwealth:3f463864z), meant to poke fun at the excessive devotion and biased preference that a Bostonian can have for their city uses size distortion to expand the size of Massachusetts while keeping the rest of the United States at a comparatively smaller size. The distortion affects other parts of the country, including city names that are geographically shifted out of place or comically grouped together in some places for exaggeration.
+
+Little is known about mapmaker Daniel K. Wallingford's life, but he attended Cornell University and graduated as an Architecture and Industrial Design student. His inspiration for "A Bostonian's Idea of The United States of America" was likely due to his upcoming move to Boston in 1936. Born in St. Paul, Minnesota and having lived in Indianapolis (Indiana), Andover (Massachusetts), Ithaca (New York), and Chicago (Illinois) prior to Boston, Wallingford makes light of the kind of urban patriotism he was most likely exposed to while residing in each city.
 
 #### Joseph Schedler, *[J. Schedler's relief map of Boston and environs](https://collections.leventhalmap.org/search/commonwealth:9s161h55p)* (1874)
 
