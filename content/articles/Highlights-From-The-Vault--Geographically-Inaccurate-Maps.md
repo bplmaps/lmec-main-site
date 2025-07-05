@@ -59,11 +59,13 @@ There could be a variety of reasons for this discrepancy. The information about 
 
 Little is known about mapmaker Daniel K. Wallingford's life, but he attended Cornell University and graduated as an Architecture and Industrial Design student. His inspiration for "A Bostonian's Idea of The United States of America" was likely due to his upcoming move to Boston in 1936. Born in St. Paul, Minnesota and having lived in Indianapolis (Indiana), Andover (Massachusetts), Ithaca (New York), and Chicago (Illinois) prior to Boston, Wallingford makes light of the kind of urban patriotism he was most likely exposed to while residing in each city.
 
-#### Joseph Schedler, *[J. Schedler's relief map of Boston and environs](https://collections.leventhalmap.org/search/commonwealth:9s161h55p)* (1874)
+#### Crépy (Firm), [L'Amérique](https://collections.leventhalmap.org/search/commonwealth:2514p148w) (1735)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53jx78x/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2514p1495/full/1200,/0/default.jpg" >}}
 
-Three-dimensional relief maps are visual aids that assist schoolchildren in understanding physical terrain. The first relief maps were created in China, and appeared in Europe in the late 18th century. [This map of Boston and vicinity](https://collections.leventhalmap.org/search/commonwealth:9s161h55p) demonstrates the hilly character of the suburbs and harbor islands.
+In the mid-1700s, the demand for maps of North America grew as French territorial claims (Like the Louisiana or "Louisiane" territory) clashed with other European claims and Indigenous sovereignty. These maps didn’t guarantee accuracy, as in this map, California is portrayed as an island. Most portrayals of California as an island ended after the mid-18th century, as Mexican explorer Juan Bautista de Anza's 1774-1776 overland expeditions confirmed a continental California. Prior to de Anza's expeditions, other expeditions, like Father Eusebio Kino's in 1701 had also claimed a continental California. However, rivalry between the Spanish and English empires had caused Spain to push the island myth in the early 1600s to invalidate English claims to California in 1579.
+
+Credited as being created by the Crépy firm, [this map](https://collections.leventhalmap.org/search/commonwealth:2514p148w) was derived from the multi-generational family of engravers consisting of Jean Crépy, his sons Louis Crépy and Etienne-Louis Crépy, and well-known grandson Jean-Baptiste Crépy. This map was likely produced by one of the Crépy sons, as Jean had retired from engraving in 1731 after the death of his wife.
 
 #### Ellen Fitz, *[Fitz globe](https://collections.leventhalmap.org/search/commonwealth:x633f8883)* (1879)
 
