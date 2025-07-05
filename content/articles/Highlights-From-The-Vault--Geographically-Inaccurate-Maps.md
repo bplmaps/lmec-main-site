@@ -19,7 +19,7 @@ tags:
   - from the vault
 ---
 
-> *On June 13, we hosted **From The Vault — Cartography in the Classroom.***
+> *On June 27, we hosted **From The Vault — Cartography in the Classroom.***
 
 **American schoolchildren have studied geography since the late 18th century.**
 
@@ -27,11 +27,13 @@ Traditionally viewed as an essential subject for boys’ and girls’ education,
 
 In this display of maps, globes, games, atlases and related objects, *From The Vault* explored the evolution of geographic education, examined the visual aids used by teachers in the classroom, and marveled at unique student-produced geography projects from the late eighteenth to the twentieth centuries.
 
-#### George H. Bartlett, ***[The public schools of Massachusetts](https://collections.leventhalmap.org/search/commonwealth:cj82kx577)*** (1893)
+#### Catharine Sargent, [A Mercators chart](https://collections.leventhalmap.org/search/commonwealth:x633f9693) (1791)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kx58h/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f970v/full/1200,/0/default.jpg" class="" >}}
 
-Massachusetts has historically been a leader in providing free education for children since the late 18th century. After the American Revolutionary War, public education at the elementary level was open to both male and female children, and geography was consistently part of the curriculum. George Bartlett, an artist and school principal, produced [this map](https://collections.leventhalmap.org/search/commonwealth:cj82kx577) illustrating the number of public schools by town throughout the state in 1892. At this time, there were over 7,000 public schools throughout the commonwealth, with women accounting for over 90% of teachers.
+This map was produced by an eighteenth-century Boston schoolgirl as part of her geography studies. Unfortunately, there are glaring errors present to us in the modern day. California is portrayed as an island and Alaska, as well as part of Australia, are missing large chunks of their landmasses. Despite these mistakes on the map, the general goal of Catharine’s assignment was achieved....
+
+From the late 18th to mid-19th centuries, American girls sight-copied or traced maps as part of their coursework to improve their penmanship and artistry while simultaneously learning the cultural norms of their society. This form of instruction as a way of ensuring good citizens was partially inspired by ideas from the American Revolution, such as “Republican Motherhood”, which saw usefulness in civically educated women to instill nationalism in future generations. While those in power did not intend to expand education for equality-sake, mapmaking allowed for children previously barred by socioeconomic status to access literacy.
 
 #### Diamond Litho-Pub'g Co., ***[Land measures illustrated ; percentage illustrated ; phonic analysis](https://collections.leventhalmap.org/search/commonwealth:0r96fp53p)*** (1901)
 
