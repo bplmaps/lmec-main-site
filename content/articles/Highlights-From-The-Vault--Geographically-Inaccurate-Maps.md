@@ -67,16 +67,10 @@ In the mid-1700s, the demand for maps of North America grew as French territoria
 
 Credited as being created by the Crépy firm, [this map](https://collections.leventhalmap.org/search/commonwealth:2514p148w) was derived from the multi-generational family of engravers consisting of Jean Crépy, his sons Louis Crépy and Etienne-Louis Crépy, and well-known grandson Jean-Baptiste Crépy. This map was likely produced by one of the Crépy sons, as Jean had retired from engraving in 1731 after the death of his wife.
 
-#### Ellen Fitz, *[Fitz globe](https://collections.leventhalmap.org/search/commonwealth:x633f8883)* (1879)
+#### Ernest Dudley Chase, [Mercator map of the world](https://collections.leventhalmap.org/search/commonwealth:3f463862d) (1931)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f889c/full/,1200/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463863p/full/1200,/0/default.jpg" class="" >}}
 
-Designed for educators to use in the classroom, [this twelve-inch globe](https://collections.leventhalmap.org/search/commonwealth:x633f8883) was published in Boston by the textbook firm of Ginn and Heath. The mounting system of vertical rings was patented by Ellen Fitz, a governess from New Brunswick. She was the first woman involved in the design and manufacturing of globes.
+Despite [this map](https://collections.leventhalmap.org/search/commonwealth:3f463862d) looking very similar to one of the many American students grew up seeing, this map is an oddity when compared to the actual appearance of the Earth. This is due to the map use of the Mercator projection in order to depict the Earth's lumpy almost sphere-like shape on a flat map—one way of understanding the world but not an accurate one. The Mercator projection is close in terms of consistency: it maintains the same scale east to west as it does north to south on a uniform grid. However, this leads to distorted land size in favor of preserving the overall shapes. For example, Greenland is depicted as being a comparable size or larger to the African continent, when in reality, it is fourteen and a half times smaller.
 
-The globe's mounting, which was Fitz's unique contribution to this educational tool, was designed to help students understand the effects of the Earth's daily rotation on its axis and yearly revolution around the Sun, with regard to daylight, twilight, and nighttime. By turning the globe's base in relation to the pointer representing the Sun's vertical ray, it is possible to observe these changes through the seasons.
-
-#### Catherine Sargent, *[East Indies from the best authorities](https://collections.leventhalmap.org/search/commonwealth:9s161c318)* (1791)
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161c32j/full/1200,/0/default.jpg" class="" >}}
-
-Prior to the American Revolutionary War, females received little formal education. However, this changed in the new Republic. Dame schools, run by women in their homes, taught reading, writing and numbers to young children, and needlework to girls. Private female academies, founded in the late 18th century, greatly expanded upon the subjects previously taught to girls. The academies taught not only the basic subjects, but geography, history, and natural science as exhibited in [this hand drawn map](https://collections.leventhalmap.org/search/commonwealth:9s161c318).
+In Ernest Dudley Chase’s time, the Mercator projection was still in (over)use, and wouldn’t be seriously challenged by mapmakers and enthusiasts until 1974. For more on the Mercator projection, check out our learning center’s library (before 2pm on Fridays) and this[ map projection playground](https://observablehq.com/@floledermann/projection-playground).
