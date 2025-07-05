@@ -43,11 +43,13 @@ Besides the misshapen Alaskan peninsula and the absence of Hawaii, the most glar
 
 One guess was that an entrance was the Strait of Juan de Fuca, a very real geographical feature which serves as a nautical border between the United States and Canada, allowing for ships to navigate with people and cargo around Vancouver Island. The year this map was created, the strait would have been nameless. Curiously, the sea as it is included here does not show a purely nautical path between the Atlantic and Pacific Oceans. 
 
-#### Isaac W. Moore, ***[The eagle map of the United States](https://collections.leventhalmap.org/search/commonwealth:7h149z386)*** (1833)
+#### William Faden, [A chart of the world upon Mercator's projection : describing the tracks of Capt. Cook in the year 1768, 69, 70, 71, and in 1772, 73, 74, 75, with the new discoveries](https://collections.leventhalmap.org/search/commonwealth:3f462w02h) (1775)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149z39g/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462w03s/full/1200,/0/default.jpg" class="" >}}
 
-In [this unusual map](https://collections.leventhalmap.org/search/commonwealth:7h149z386), one pictorial image -- an eagle -- was superimposed on a map of the United States. The author of the accompanying geography book stated that the map was designed to serve as a memory device for young students learning the country's geography and history. He explained that the eagle was selected for its visual and iconic appeal. The author also made the point that secession could disfigure this national icon, suggesting that the map was intended to promote unity at a time when political debates about tariffs, slavery, and states' rights were part of the national discourse.
+While most of the errors in [this map](https://collections.leventhalmap.org/search/commonwealth:3f462w02h) concern the shorelines, the most glaring mistake is the supposed land bridge between Northeast Canada and Greenland. The discovery of the Davis Strait, a stretch of water that separates Northeastern Canada and Greenland, was made by English explorer John Davis during his 1585 to 1587 voyages. However, this map, based on the travels of the widely celebrated and extremely popular English explorer, Captain James Cook, lacks the strait despite it being two centuries older than the initial discovery.
+
+There could be a variety of reasons for this discrepancy. The information about Davis' expedition may have been lost since it ultimately failed in its goal—finding the Northwest Passage between the two oceans through North America —and may have not seemed worth including. Captain James Cook also failed in finding the Northwest Passage, however heavily detailed documentation of places unknown to Europeans from his past voyages led to an almost untouchable reputation amongst English audiences at the time. Another possibility was that the mapmaker, William Faden, wanted to prevent plagiarism of his work by purposely including false information. A common copyright trap until the 1980s, Faden could have drafted the "Arctic Lands" to catch those plagiarizing his work.
 
 #### David W. McCord, *[History 2](https://collections.leventhalmap.org/search/commonwealth:3f4637669)* (1914)
 
