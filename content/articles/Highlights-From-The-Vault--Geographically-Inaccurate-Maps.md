@@ -31,15 +31,17 @@ In That doesn’t Look Quite Right…, the cartographic choices the mapmakers a
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f970v/full/1200,/0/default.jpg" class="" >}}
 
-This map was produced by an eighteenth-century Boston schoolgirl as part of her geography studies. Unfortunately, there are glaring errors present to us in the modern day. California is portrayed as an island and Alaska, as well as part of Australia, are missing large chunks of their landmasses. Despite these mistakes on the map, the general goal of Catharine’s assignment was achieved....
+[This map](https://collections.leventhalmap.org/search/commonwealth:x633f9693) was produced by an eighteenth-century Boston schoolgirl as part of her geography studies. Unfortunately, there are glaring errors present to us in the modern day. California is portrayed as an island and Alaska, as well as part of Australia, are missing large chunks of their landmasses. Despite these mistakes on the map, the general goal of Catharine’s assignment was achieved....
 
 From the late 18th to mid-19th centuries, American girls sight-copied or traced maps as part of their coursework to improve their penmanship and artistry while simultaneously learning the cultural norms of their society. This form of instruction as a way of ensuring good citizens was partially inspired by ideas from the American Revolution, such as “Republican Motherhood”, which saw usefulness in civically educated women to instill nationalism in future generations. While those in power did not intend to expand education for equality-sake, mapmaking allowed for children previously barred by socioeconomic status to access literacy.
 
-#### Diamond Litho-Pub'g Co., ***[Land measures illustrated ; percentage illustrated ; phonic analysis](https://collections.leventhalmap.org/search/commonwealth:0r96fp53p)*** (1901)
+#### Jean Denis Janvier, [L'Amerique divisée par grand etats](https://collections.leventhalmap.org/search/commonwealth:2514p1206) (1762)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp54z/full/,1200/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2514p121g/full/1200,/0/default.jpg" class="" >}}
 
-[This educational poster](https://collections.leventhalmap.org/search/commonwealth:0r96fp53p) illustrates the structure of General Land Office township surveys. The top scene depicts surveyors laying out a single section, measuring one mile by one mile and containing 640 acres. The diagram labeled "Township Plat" demonstrates the division of a township into 36 sections, while the "Township Survey" diagram explains that townships are identified in relation to a baseline and meridian (representing an X-Y axis). Each parcel of land has a unique numerical identifier such as the 40-acre tract where the surveyors stand could be identified as the SE 1/4 of the SE 1/4 of Section 1, Township 3 North, Range 4 West, 6th Principal Meridian.
+Besides the misshapen Alaskan peninsula and the absence of Hawaii, the most glaring error in [this map](https://collections.leventhalmap.org/search/commonwealth:2514p1206) is the inclusion of a sea in the middle of the Southwest region of Canada. The "Mer ou Baye de l'Ouest" (Translated from French to "Sea or Bay of the West"), was an eighteenth-century myth that was developed during the search for a Northwest Passage through North America by sea travel. The concept of its existence is tied to many possible sources, and each had a guess for where the entrance of said sea may be located. 
+
+One guess was that an entrance was the Strait of Juan de Fuca, a very real geographical feature which serves as a nautical border between the United States and Canada, allowing for ships to navigate with people and cargo around Vancouver Island. The year this map was created, the strait would have been nameless. Curiously, the sea as it is included here does not show a purely nautical path between the Atlantic and Pacific Oceans. 
 
 #### Isaac W. Moore, ***[The eagle map of the United States](https://collections.leventhalmap.org/search/commonwealth:7h149z386)*** (1833)
 
