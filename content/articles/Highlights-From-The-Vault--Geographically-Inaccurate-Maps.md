@@ -19,13 +19,13 @@ tags:
   - from the vault
 ---
 
-> *On June 27, we hosted **From The Vault — Cartography in the Classroom.***
+> *On June 27, we hosted **From The Vault — That Doesn’t Look Quite Right: Geographically Inaccurate Maps.***
 
-**American schoolchildren have studied geography since the late 18th century.**
+Due to the shape of our planet, it would be impossible to depict the actual sizes of the world's geography on a flat sheet of paper. However, with thousands of years of exploration under our belt, humans have been able to figure out the relative size and general shape of landmasses from decades of recording and sharing information with one another. Unfortunately, all of this time comes with a few mishaps...
 
-Traditionally viewed as an essential subject for boys’ and girls’ education, geography was taught to children in primary school, and to young adults studying in high school and college settings.
+The interesting maps in this From The Vault show what happens when mapmakers cut and paste features that haven't been confirmed as 100% fact, whether they know it or not. Whether through resizing, deleting, splitting, fusing, or reimagining land—there’s something just a little off in these maps.
 
-In this display of maps, globes, games, atlases and related objects, *From The Vault* explored the evolution of geographic education, examined the visual aids used by teachers in the classroom, and marveled at unique student-produced geography projects from the late eighteenth to the twentieth centuries.
+In That doesn’t Look Quite Right…, the cartographic choices the mapmakers and publishers used to portray things different aspects in their maps can help explain some of their perceived perspective of the world.
 
 #### Catharine Sargent, [A Mercators chart](https://collections.leventhalmap.org/search/commonwealth:x633f9693) (1791)
 
