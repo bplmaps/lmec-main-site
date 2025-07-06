@@ -35,11 +35,11 @@ Twenty times the size of colonial Boston, a late 1700s London led the world in c
 
 William Faden, geographer to King George III, published [this map of Philadelphia](https://collections.leventhalmap.org/search/commonwealth:cj82m2470) in March 1777. This map, or one of the earlier versions created by Nicholas Scull and George Heap, may have helped British troops when they occupied the city from September 1777 to June 1778. The map includes a city plan, labels the owners of properties in the surrounding area, and notes fortifications. Instead of a decorative cartouche, the map features an elevation of the Pennsylvania State House. Now known as Independence Hall, the building was famous even then as the site of the signing of the Declaration of Independence.
 
-#### Isaac W. Moore, ***[The eagle map of the United States](https://collections.leventhalmap.org/search/commonwealth:7h149z386)*** (1833)
+#### Samuel Holland, [A plan of the island of St. John with the divisions of the counties, parishes, & the lots as granted by government, likewise the soundings round the coast and harbours](https://collections.leventhalmap.org/search/commonwealth:6t053n77m) (1775)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149z39g/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053n78w/full/1200,/0/default.jpg" class="" >}}
 
-In [this unusual map](https://collections.leventhalmap.org/search/commonwealth:7h149z386), one pictorial image -- an eagle -- was superimposed on a map of the United States. The author of the accompanying geography book stated that the map was designed to serve as a memory device for young students learning the country's geography and history. He explained that the eagle was selected for its visual and iconic appeal. The author also made the point that secession could disfigure this national icon, suggesting that the map was intended to promote unity at a time when political debates about tariffs, slavery, and states' rights were part of the national discourse.
+Following the French and Indian War, Samuel Holland conducted surveys for many of the charts of Britain’s new North American colonies published in the landmark maritime atlas The Atlantic Neptune. His first task for this project was [a survey of St. John’s Island](https://collections.leventhalmap.org/search/commonwealth:6t053n77m) (modern-day Prince Edward Island). With explicit instructions from the Board of Trade, Holland divided the island into a grid-system of counties, parishes, and townships of uniform size. French and indigenous place names were changed to commemorate British royal figures. The shift to British names expressed the empire’s political control of the region and Holland’s loyalty to his patrons.
 
 #### David W. McCord, *[History 2](https://collections.leventhalmap.org/search/commonwealth:3f4637669)* (1914)
 
