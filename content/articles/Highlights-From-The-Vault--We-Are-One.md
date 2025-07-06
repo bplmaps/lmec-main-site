@@ -39,7 +39,7 @@ William Faden, geographer to King George III, published [this map of Philadelphi
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:6t053n78w/full/1200,/0/default.jpg" class="" >}}
 
-Following the French and Indian War, Samuel Holland conducted surveys for many of the charts of Britain’s new North American colonies published in the landmark maritime atlas The Atlantic Neptune. His first task for this project was [a survey of St. John’s Island](https://collections.leventhalmap.org/search/commonwealth:6t053n77m) (modern-day Prince Edward Island). With explicit instructions from the Board of Trade, Holland divided the island into a grid-system of counties, parishes, and townships of uniform size. French and indigenous place names were changed to commemorate British royal figures. The shift to British names expressed the empire’s political control of the region and Holland’s loyalty to his patrons.
+Following the French and Indian War, Samuel Holland conducted surveys for many of the charts of Britain’s new North American colonies published in the landmark maritime atlas *The Atlantic Neptune*. His first task for this project was [a survey of St. John’s Island](https://collections.leventhalmap.org/search/commonwealth:6t053n77m) (modern-day Prince Edward Island). With explicit instructions from the Board of Trade, Holland divided the island into a grid-system of counties, parishes, and townships of uniform size. French and indigenous place names were changed to commemorate British royal figures. The shift to British names expressed the empire’s political control of the region and Holland’s loyalty to his patrons.
 
 #### Charles Blaskowitz, [A plan of New York Island, and part of Long Island, with the circumjacent country, as far as Dobbs's Ferry to the north, and White Plains to the east, including the rivers, islands, roads, \&ca : also shewing the landing, routes, battles, lines and encampments of the British forces under the command of His Excellency Sir William Howe Knight of the most honorable Order of the Bath, Commander in Chief \&ca. \&ca. \&ca](https://collections.leventhalmap.org/search/commonwealth:z603vw04k) (1777)
 
@@ -51,17 +51,15 @@ After evacuating Boston, the British focused their campaign on New York City. Th
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149x78z/full/,1200/0/default.jpg" >}}
 
-In 1780, the British tried to capture Charleston, South Carolina again. [This chart](https://collections.leventhalmap.org/search/commonwealth:7h149x77p) depicts the six-week siege that forced American troops to surrender on May 12, 1780. This was the largest surrender of American troops during the war. Along with Samuel Holland, Joseph F.W. Des Barres conducted extensive coastal surveys of the British colonies beginning in 1764. Although their charts were prepared primarily for navigational purposes, this one features the fortifications constructed by British and American troops (colored yellow) and the British and American fleets. 
+In 1780, the British tried to capture Charleston, South Carolina ***again***. [This chart](https://collections.leventhalmap.org/search/commonwealth:7h149x77p) depicts the six-week siege that forced American troops to surrender on May 12, 1780. This was the largest surrender of American troops during the war. Along with Samuel Holland, Joseph F.W. Des Barres conducted extensive coastal surveys of the British colonies beginning in 1764. Although their charts were prepared primarily for navigational purposes, this one features the fortifications constructed by British and American troops (colored yellow) and the British and American fleets. 
 
-This version of the chart appeared in Des Barres’ The Atlantic Neptune, the most comprehensive maritime atlas of the period.
+This version of the chart appeared in Des Barres’ *The Atlantic Neptune*, the most comprehensive maritime atlas of the period.
 
-#### Ellen Fitz, *[Fitz globe](https://collections.leventhalmap.org/search/commonwealth:x633f8883)* (1879)
+#### Michel Capitaine du Chesnoy, [Carte de l'affaire de Montmouth, ou le Général Washington commandon l'armée Americaine, et le Général Clinton l'armée Angloise le 28 Juin 1778](https://collections.leventhalmap.org/search/commonwealth:z603vw18x) (1778)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f889c/full/,1200/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vw196/full/1200,/0/default.jpg" class="" >}}
 
-Designed for educators to use in the classroom, [this twelve-inch globe](https://collections.leventhalmap.org/search/commonwealth:x633f8883) was published in Boston by the textbook firm of Ginn and Heath. The mounting system of vertical rings was patented by Ellen Fitz, a governess from New Brunswick. She was the first woman involved in the design and manufacturing of globes.
-
-The globe's mounting, which was Fitz's unique contribution to this educational tool, was designed to help students understand the effects of the Earth's daily rotation on its axis and yearly revolution around the Sun, with regard to daylight, twilight, and nighttime. By turning the globe's base in relation to the pointer representing the Sun's vertical ray, it is possible to observe these changes through the seasons.
+Michel Capitaine du Chesnoy, the Marquis de Lafayette’s map maker, drew [this map](https://collections.leventhalmap.org/search/commonwealth:z603vw18x) following the Battle of Monmouth Courthouse in northeastern New Jersey. After confusion surrounding the Continental Army’s orders, the soldiers prevented the British troops from advancing. The battle occurred on a hot June day and hundreds of soldiers died of heatstroke. Women, who came to be referred to collectively as “Molly Pitcher,” supported the American troops by bringing water to cool the men and their guns. Although the battle ended inconclusively, it was a turning point for the professionalization of the American army as volunteer French and German military officers provided training.
 
 #### Catherine Sargent, *[East Indies from the best authorities](https://collections.leventhalmap.org/search/commonwealth:9s161c318)* (1791)
 
