@@ -47,11 +47,13 @@ Following the French and Indian War, Samuel Holland conducted surveys for many o
 
 After evacuating Boston, the British focused their campaign on New York City. They took the city during the summer and fall of 1776. Charles Blaskowitz, one of the most accomplished topographical engineers in the British military, made this manuscript map for General Sir William Erskine, a participant in one of the battles portrayed. Blaskowitz documented the British military encampments and activities in the vicinity of New York City on [this “Campaign Headquarters Map.](https://collections.leventhalmap.org/search/commonwealth:z603vw04k)” He combined specifics of key events overlaid on topography that was systematically surveyed, resulting in a map that is both comprehensive as well as aesthetically pleasing.
 
-#### Joseph Schedler, *[J. Schedler's relief map of Boston and environs](https://collections.leventhalmap.org/search/commonwealth:9s161h55p)* (1874)
+#### Joseph F.W. Des Barres, [A sketch of the operations before Charlestown the capital of South Carolina](https://collections.leventhalmap.org/search/commonwealth:7h149x77p) (1780)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1v53jx78x/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149x78z/full/,1200/0/default.jpg" >}}
 
-Three-dimensional relief maps are visual aids that assist schoolchildren in understanding physical terrain. The first relief maps were created in China, and appeared in Europe in the late 18th century. [This map of Boston and vicinity](https://collections.leventhalmap.org/search/commonwealth:9s161h55p) demonstrates the hilly character of the suburbs and harbor islands.
+In 1780, the British tried to capture Charleston, South Carolina again. [This chart](https://collections.leventhalmap.org/search/commonwealth:7h149x77p) depicts the six-week siege that forced American troops to surrender on May 12, 1780. This was the largest surrender of American troops during the war. Along with Samuel Holland, Joseph F.W. Des Barres conducted extensive coastal surveys of the British colonies beginning in 1764. Although their charts were prepared primarily for navigational purposes, this one features the fortifications constructed by British and American troops (colored yellow) and the British and American fleets. 
+
+This version of the chart appeared in Des Barres’ The Atlantic Neptune, the most comprehensive maritime atlas of the period.
 
 #### Ellen Fitz, *[Fitz globe](https://collections.leventhalmap.org/search/commonwealth:x633f8883)* (1879)
 
