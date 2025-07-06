@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: >-
   Highlights From The Vault — We Are One: Mapping America’s Road from Revolution
   to Independence
