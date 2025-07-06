@@ -61,6 +61,12 @@ This version of the chart appeared in Des Barres’ *The Atlantic Neptune*, the 
 
 Michel Capitaine du Chesnoy, the Marquis de Lafayette’s map maker, drew [this map](https://collections.leventhalmap.org/search/commonwealth:z603vw18x) following the Battle of Monmouth Courthouse in northeastern New Jersey. After confusion surrounding the Continental Army’s orders, the soldiers prevented the British troops from advancing. The battle occurred on a hot June day and hundreds of soldiers died of heatstroke. Women, who came to be referred to collectively as “Molly Pitcher,” supported the American troops by bringing water to cool the men and their guns. Although the battle ended inconclusively, it was a turning point for the professionalization of the American army as volunteer French and German military officers provided training.
 
+#### Andrew Ellicott, [Plan of the city of Washington in the territory of Columbia, ceded by the states of Virginia and Maryland to the United States of America, and by them established as the seat of their government, after the year MDCC](https://collections.leventhalmap.org/search/commonwealth:z603vs02d) (1792)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vs03p/full/1200,/0/default.jpg" class="" >}}
+
+[This 1792 map](https://collections.leventhalmap.org/search/commonwealth:z603vs02d) was among the first printed plans of Washington, D.C., the new seat of the federal government. Its location on the Potomac River was determined as a result of the Compromise of 1790. Thomas Jefferson and his supporters agreed that the nation would take on state debts incurred during the Revolutionary War in exchange for the mid-Atlantic capital site selected by George Washington. Though Maryland surveyor Andrew Ellicott created this map, he based it on designs by French engineer Pierre L'Enfant. The map is illustrated in [Edward Savage’s portrait of the Washington family](https://www.nga.gov/artworks/561-washington-family).
+
 #### Catherine Sargent, *[East Indies from the best authorities](https://collections.leventhalmap.org/search/commonwealth:9s161c318)* (1791)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161c32j/full/1200,/0/default.jpg" class="" >}}
