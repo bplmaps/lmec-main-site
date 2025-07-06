@@ -19,21 +19,21 @@ tags:
 
 > *On July 3, we hosted **From The Vault — We Are One: Mapping America’s Road from Revolution to Independence.***
 
-We bought back the best elements of one of our most popular exhibitions, [We Are One: Mapping America’s Road from Revolution to Independence](https://collections.leventhalmap.org/exhibits/3), to celebrate this Independence Day.
+**We bought back the best elements of one of our most popular exhibitions, *[We Are One: Mapping America’s Road from Revolution to Independence](https://collections.leventhalmap.org/exhibits/3)*, to celebrate this Independence Day.**
 
-We Are One maps the American road to independence and explores the tumultuous events that led thirteen colonies to join to forge a new nation. Using geographic and cartographic perspectives, the From the Vault traces the American story from the strife of the French and Indian War to the creation of a new national government and the founding of Washington, D.C. as its home.
+*We Are One* maps the American road to independence and explores the tumultuous events that led thirteen colonies to join to forge a new nation. Using geographic and cartographic perspectives, the *From the Vault* traces the American story from the strife of the French and Indian War to the creation of a new national government and the founding of Washington, D.C. as its home.
 
-#### Georg Balthasar Probst, [London](https://collections.leventhalmap.org/search/commonwealth:3f463988r) \[1770–1789]
+#### Georg Balthasar Probst, *[London](https://collections.leventhalmap.org/search/commonwealth:3f463988r)* \[1770–1789]
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4639891/full/1200,/0/default.jpg" class="" >}}
 
 Twenty times the size of colonial Boston, a late 1700s London led the world in commercial trade, manufacturing, and finance. The River Thames flows through the city center. Ships brought commercial goods from around the world, including tobacco, rice, indigo and cotton from America. [This map](https://collections.leventhalmap.org/search/commonwealth:3f463988r) depicts the city as a place of wonder, as conveyed in this engraving published by a printer from Augsburg, Germany. It was translated into English and Latin for an international audience. The focal point is St. Paul’s Cathedral, designed by Christopher Wren and built in 1711. The legend identifies 70 prominent buildings and landmarks, including the Royal Exchange, where colonial merchants regularly met to conduct business.
 
-#### Diamond Litho-Pub'g Co., ***[Land measures illustrated ; percentage illustrated ; phonic analysis](https://collections.leventhalmap.org/search/commonwealth:0r96fp53p)*** (1901)
+#### Nicholas Scull, George Heap, and William Faden, [A plan of the city and environs of Philadelphia](https://collections.leventhalmap.org/search/commonwealth:cj82m2470) (1777)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp54z/full/,1200/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m2488/full/,1200/0/default.jpg" class="" >}}
 
-[This educational poster](https://collections.leventhalmap.org/search/commonwealth:0r96fp53p) illustrates the structure of General Land Office township surveys. The top scene depicts surveyors laying out a single section, measuring one mile by one mile and containing 640 acres. The diagram labeled "Township Plat" demonstrates the division of a township into 36 sections, while the "Township Survey" diagram explains that townships are identified in relation to a baseline and meridian (representing an X-Y axis). Each parcel of land has a unique numerical identifier such as the 40-acre tract where the surveyors stand could be identified as the SE 1/4 of the SE 1/4 of Section 1, Township 3 North, Range 4 West, 6th Principal Meridian.
+William Faden, geographer to King George III, published [this map of Philadelphia](https://collections.leventhalmap.org/search/commonwealth:cj82m2470) in March 1777. This map, or one of the earlier versions created by Nicholas Scull and George Heap, may have helped British troops when they occupied the city from September 1777 to June 1778. The map includes a city plan, labels the owners of properties in the surrounding area, and notes fortifications. Instead of a decorative cartouche, the map features an elevation of the Pennsylvania State House. Now known as Independence Hall, the building was famous even then as the site of the signing of the Declaration of Independence.
 
 #### Isaac W. Moore, ***[The eagle map of the United States](https://collections.leventhalmap.org/search/commonwealth:7h149z386)*** (1833)
 
