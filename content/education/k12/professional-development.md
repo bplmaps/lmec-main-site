@@ -37,7 +37,7 @@ In Part Two, we’ll dive into [ARGO](https://www.argomaps.org/) (American Revol
 
 ### Teaching 250: Using Maps to Teach the American Revolution (Virtual)
 
-*Wednesday, August 17 at 10AM*
+*Wednesday, August 13 at 10AM*
 
 You teach about the American Revolution every year—but not every year is the semiquincentennial. Join us to learn how you can use historic maps to enrich your teaching and help mark this milestone with deeper, place-based learning. 
 
