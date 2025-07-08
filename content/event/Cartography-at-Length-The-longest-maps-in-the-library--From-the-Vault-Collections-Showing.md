@@ -6,9 +6,9 @@ title: >-
 date: 2025-08-08T18:00:00.000Z
 publishDate: 2025-06-24T04:00:00.000Z
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj46s/167,215,7504,1558/1600,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d27c9574/939,157,5994,1484/1600,/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj46s/167,215,7504,1558/1600,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d27c9574/939,157,5994,1484/1600,/0/default.jpg
 location: 'Leventhal Map & Education Center, Central Library in Copley Square'
 fee: Free
 registration: ''
