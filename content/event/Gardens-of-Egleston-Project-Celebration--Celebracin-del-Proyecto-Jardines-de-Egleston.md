@@ -14,7 +14,7 @@ fee: Free
 registration: ''
 ---
 
-{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by the Boston Public Library.{{\< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by the Boston Public Library.{{< /alert-box >}}
 
 Join us to launch ***[Gardens of Egleston](https://gardensofegleston.org/)***, a creative storytelling and mapping project sponsored by MassHumanities, the Friends of the Egleston Square Branch Library, and the Citywide Friends of the Boston Public Library with help from the BPL Community History Department and the Leventhal Map & Education Center. Gardens of Egleston explores our neighborhood's rich history, culture, and resilience through our gardens and gardeners. The event will feature refreshments, videos, photos, an interactive map display, and presentations by our featured community gardeners.
 

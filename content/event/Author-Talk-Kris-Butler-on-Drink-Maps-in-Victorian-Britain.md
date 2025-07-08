@@ -15,7 +15,7 @@ tags:
   - Author talk
 ---
 
-{{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by another institution.{{\< /alert-box >}}
+{{< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by another institution.{{< /alert-box >}}
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/thumbnail_image004 (1).jpg" class="figure-right" >}}
 
