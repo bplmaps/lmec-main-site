@@ -47,3 +47,8 @@ Donations go directly to our historical geography work with students, educators,
 * **November 2024:** [Nantucket County: Aerial Photograph (4-710), September 20, 1984](https://www.leventhalmap.org/digital-exhibitions/processing-place/catalogue/03-visualizing-resources/3.6/)
 * **December 2024:** [Flight of "The Gulliver"](https://collections.leventhalmap.org/search/commonwealth:q524n613d)
 * **January 2025:** [The colour of an old city: A map of Boston, decorative and historical](https://collections.leventhalmap.org/search/commonwealth:rj432v46t)
+* **February 2025:** [Outline maps for the construction of a model of the world](https://collections.leventhalmap.org/search/commonwealth:br86gf670)
+* **March 2025:** [Nationalities map no. 1](https://collections.leventhalmap.org/search/commonwealth:3f4636086)
+* **April 2025:** [A new map of North America](https://collections.leventhalmap.org/search/commonwealth:4m90fp515)
+* **May 2025:** [Thirty-miles round Boston](https://www.argomaps.org/maps/commonwealth:8p58wp59k/) 
+* **June 2025:** [Cape Cod and the Islands](https://collections.leventhalmap.org/search/commonwealth:0r96fq37h)
