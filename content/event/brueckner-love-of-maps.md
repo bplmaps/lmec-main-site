@@ -1,6 +1,6 @@
 ---
 title: >-
-  Martin Brückner: For the Love of Maps: Material Passion and Power in
+  Martin Brückner | For the Love of Maps: Material Passion and Power in
   Eighteenth-Century America
 date: 2024-10-22T23:00:00.000Z
 publishDate: 2022-01-07T15:13:39.000Z
