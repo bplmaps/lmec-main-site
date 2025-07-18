@@ -1,7 +1,7 @@
 ---
 draft: true
 title: Molly Nebiolo Lecture
-date: 2025-09-16T04:00:00.000Z
+date: 2025-09-16T22:00:00.000Z
 publishDate: 2025-07-18T04:00:00.000Z
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nc50k/32,1831,6645,3475/1600,/0/default.jpg
