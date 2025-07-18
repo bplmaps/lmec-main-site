@@ -9,6 +9,9 @@ backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nc50k/32,1831,6645,3475/1600,/0/default.jpg
 location: 'Virtual '
 fee: Free
+tags:
+  - ARGO
+  - Richard H. Brown Seminar
 ---
 
 ***How can the healthfulness of a region be found on a map of a colonial city?***
