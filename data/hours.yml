@@ -22,18 +22,6 @@ weekly:
     open: 1 pm
     close: 5 pm
 exceptions:
-  - date: 'May 25, 2025'
-    name: Sunday Closure
-    special: Closed
-  - date: 'May 26, 2025'
-    name: Memorial Day
-    special: Closed
-  - date: 'June 19, 2025'
-    name: Juneteenth
-    special: Closed
-  - date: 'July 4, 2025'
-    name: Independence Day
-    special: Closed
   - date: 'August 31, 2025'
     name: Sunday Closure
     special: Closed
