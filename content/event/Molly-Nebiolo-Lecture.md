@@ -9,6 +9,8 @@ backgroundImage: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524nc50k/32,1831,6645,3475/1600,/0/default.jpg
 location: 'Virtual '
 fee: Free
+registration: >-
+  https://www.ticketleap.events/tickets/bplmaps/molly-nebiolo-urban-space-water-and-health-in-colonial-charleston
 tags:
   - ARGO
   - Richard H. Brown Seminar
