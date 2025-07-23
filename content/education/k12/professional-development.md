@@ -7,15 +7,15 @@ description: >-
 weight: '4'
 ---
 
-{{< alert-box type="primary" title="Summer 2025 Virtual Teacher Workshops" >}}
-**We know summer means different things to different teachers**—rest, time with people you care about, summer jobs, caregiving, or finally tackling your neglected to-do list. 
+{{\< alert-box type="primary" title="Summer 2025 Virtual Teacher Workshops" >}}
+**We know summer means different things to different teachers**—rest, time with people you care about, summer jobs, caregiving, or finally tackling your neglected to-do list.
 
-If you're also using this time to recharge *and* get inspired for next year, we’d love to have you join us for one (or more!) of our upcoming virtual workshops on the American Revolution, offered as part of [ARGO](https://www.notion.so/Chinatown-Branch-Library-1c8f8441f2ed8090843fce6d01d57989?pvs=21) (American Revolutionary Geographies Online).
+If you're also using this time to recharge *and* get inspired for next year, we’d love to have you join us for one (or more!) of our upcoming virtual workshops on the American Revolution, offered as part of [ARGO](https://www.argomaps.org/) (American Revolutionary Geographies Online).
 
 **Can’t attend live?** No problem. All registrants will receive access to the session recording and materials. (Just a heads up—these are only available to registered participants and won’t be shared publicly.)
 
 We hope to see you this summer!
-{{</ alert-box >}}
+{{\</ alert-box >}}
 
 ### Making the Revolution Local (Virtual)
 
@@ -27,7 +27,7 @@ The American Revolution was as much about places as it was about people or ideas
 
 <a class="btn btn-primary btn-primary-outline" href="https://tally.so/r/nG42aO">Register Today </a>
 
-**Part Two:** **The Revolution Today: Using Digital Tools to Connect Past and Present** 
+**Part Two:** **The Revolution Today: Using Digital Tools to Connect Past and Present**
 
 *Wednesday July 23 at 10AM*
 
@@ -39,7 +39,7 @@ In Part Two, we’ll dive into [ARGO](https://www.argomaps.org/) (American Revol
 
 *Wednesday, August 13 at 10AM*
 
-You teach about the American Revolution every year—but not every year is the semiquincentennial. Join us to learn how you can use historic maps to enrich your teaching and help mark this milestone with deeper, place-based learning. 
+You teach about the American Revolution every year—but not every year is the semiquincentennial. Join us to learn how you can use historic maps to enrich your teaching and help mark this milestone with deeper, place-based learning.
 
 <a class="btn btn-primary btn-primary-outline" href="https://tally.so/r/nG42aO">Register Today </a>
 
