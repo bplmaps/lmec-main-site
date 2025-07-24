@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Alex Jones
 description: Learning Resource Specialist
 headshot: >-
