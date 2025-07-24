@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Kate Lautenbach
 description: GIS & Geohumanities Assistant
 headshot: >-
