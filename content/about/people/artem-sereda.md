@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Artem Sereda
 description: Visitor Services & Operations Assistant
 headshot: >-
@@ -7,7 +7,7 @@ headshot: >-
   Headshot.jpg
 type: person
 staff_category: staff
-menu: true
+menu: false
 ---
 
 Artem (he/him) is a history student, particularly interested in medieval and classical Europe, historical geography, warfare, and economics. In his free time, he enjoys science-fiction and fantasy literature and roleplaying games. He is in his 4th year at Northeastern University's undergraduate program.
