@@ -7,7 +7,7 @@ description: >-
 weight: '4'
 ---
 
-{{\< alert-box type="primary" title="Summer 2025 Virtual Teacher Workshops" >}}
+{{< alert-box type="primary" title="Summer 2025 Virtual Teacher Workshops" >}}
 **We know summer means different things to different teachers**—rest, time with people you care about, summer jobs, caregiving, or finally tackling your neglected to-do list.
 
 If you're also using this time to recharge *and* get inspired for next year, we’d love to have you join us for one (or more!) of our upcoming virtual workshops on the American Revolution, offered as part of [ARGO](https://www.argomaps.org/) (American Revolutionary Geographies Online).
@@ -15,7 +15,7 @@ If you're also using this time to recharge *and* get inspired for next year, w
 **Can’t attend live?** No problem. All registrants will receive access to the session recording and materials. (Just a heads up—these are only available to registered participants and won’t be shared publicly.)
 
 We hope to see you this summer!
-{{\</ alert-box >}}
+{{</ alert-box >}}
 
 ### Making the Revolution Local (Virtual)
 
