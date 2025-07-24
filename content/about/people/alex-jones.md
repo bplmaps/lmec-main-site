@@ -7,6 +7,10 @@ headshot: >-
   Headshot.jpg
 type: person
 staff_category: staff
+contact:
+  - method: Email
+    details: ajones@leventhalmap.org
+  - {}
 menu: true
 ---
 
