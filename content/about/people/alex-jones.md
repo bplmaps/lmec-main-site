@@ -2,9 +2,7 @@
 draft: false
 title: Alex Jones
 description: Learning Resource Specialist
-headshot: >-
-  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Alex Jones
-  Headshot.jpg
+headshot: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Alex headshot.png'
 type: person
 staff_category: staff
 contact:
