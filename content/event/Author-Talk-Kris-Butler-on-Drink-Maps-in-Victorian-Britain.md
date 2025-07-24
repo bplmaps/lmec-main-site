@@ -21,4 +21,4 @@ tags:
 
 Join ***Kris Butler*** for a presentation and conversation on her book and latest research relating to Drink Maps in Victorian Britain. This talk is free, open to the public, and will be held in person at Holland & Knight at 10 St. James Avenue, 11th floor. ***Local beer will be served and registration is required.***
 
-Kris Butler is a lawyer, certified beer judge, former president of the Boston Map Society and currently serves on the Board of the Washingtons Map Society. Although she loves maps, she has a curious sense of direction- especially after enjoying beer. 
+**Kris Butler** is a lawyer, certified beer judge, former president of the Boston Map Society and currently serves on the Board of the Washingtons Map Society. Although she loves maps, she has a curious sense of direction- especially after enjoying beer. 
