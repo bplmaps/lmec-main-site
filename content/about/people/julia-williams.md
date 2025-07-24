@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Julia Williams
 description: Communications & Gallery Coordinator
 headshot: /images/headshots/julia-williams.jpg
