@@ -13,7 +13,7 @@ The Leventhal Education team’s work is centered on supporting K-12 educators. 
 
 # Fall 2025
 
-### Mapping Basics (for Elementary Students) (Virtual)
+### Mapping Basics & the American Revolution (for Elementary Students) (Virtual)
 
 *Wednesday, September 17 at 6:30 PM*
 
