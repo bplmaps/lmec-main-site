@@ -10,6 +10,9 @@ description: >-
   * On the Spot: The Boston Massacre Through Maps (ARGO)
   * Exhibition Preview for Educators: Terrains of Independence (ARGO)
   * Mapping Johnny Tremain (ARGO)
+  * Making the Revolution Local, Part One | Beyond George Washington Slept Here: How Maps Can Expand Our Understanding of Historic Events
+  * Making the Revolution Local, Part Two | The Revolution Today: Using Digital Tools to Connect Past and Present
+  * Teaching 250: Using Maps to Teach the American Revolution
 
 **2024**
   * 2024 NEH Summer Institute "Community and Resilience in Maritime New England" with the Osher Map Library and Smith Center for Cartographic Education
