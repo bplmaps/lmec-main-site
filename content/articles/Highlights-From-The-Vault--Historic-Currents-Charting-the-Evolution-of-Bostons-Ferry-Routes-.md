@@ -21,9 +21,9 @@ tags:
 
 > *On July 25, we hosted **From The Vault — Historic Currents: Charting the Evolution of Boston’s Ferry Routes**, in collaboration with [A Better City](https://www.abettercity.org/), [Seaport Transportation Management Association](https://www.seaporttma.org/) and the [Lower Mystic Transportation Management Association](https://www.lowermystictma.com/)**.***
 
-Did you know that the oldest ferry service in the United States was the Winnisimmet Ferry, which was founded in 1631 and transported passengers between the North End and Chelsea?
+**Did you know that the oldest ferry service in the United States was the Winnisimmet Ferry, which was founded in 1631 and transported passengers between the North End and Chelsea?**
 
-The maps chosen for *Historic Currents* helped patrons to learn about how transportation hubs, industries, and the destinations characterizing Greater Boston communities led the way for a variety of successful ferry routes. 
+The maps chosen for *Historic Currents* helped patrons to learn about how transportation hubs, industries, and the destinations characterizing Greater Boston communities led the way for a variety of successful ferry routes.
 
 #### Georg Balthasar Probst, *[London](https://collections.leventhalmap.org/search/commonwealth:3f463988r)* \[1770–1789]
 
