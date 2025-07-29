@@ -37,11 +37,15 @@ The Boston and Maine Railroad & M.S.S. Co. Ferry spanned the Mystic River to con
 
 Today, most shipping transport is done by truck, virtually eliminating the need for many of the terminals in this map. Ferry terminals also disappeared along with the rail hubs, and for decades, there was no boat service that brought passengers across the Mystic River. Now, only the Encore Hotel water shuttle makes the connection back and forth across the river. Fortunately, the MBTA and Seaport Ferries continue to make robust service stops at docks in Downtown Boston, the Seaport, Charlestown, and East Boston.
 
-#### Nicholas Scull, George Heap, and William Faden, *[A plan of the city and environs of Philadelphia](https://collections.leventhalmap.org/search/commonwealth:cj82m2470)* (1777)
+#### Compiled by Whitman & Breck, Engineers, [Map of the eastern junc. Broad Sound Pier, & Pt. Shirley railroad: steamboat lines and connections: established for the purpose of developing the most popular seashore resort on the Atlantic Coast](https://collections.leventhalmap.org/search/commonwealth:wd376689p) \[1880–1889]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82m2488/full/,1200/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj64q/full/1200,/0/default.jpg" class="" >}}
 
-William Faden, geographer to King George III, published [this map of Philadelphia](https://collections.leventhalmap.org/search/commonwealth:cj82m2470) in March 1777. This map, or one of the earlier versions created by Nicholas Scull and George Heap, may have helped British troops when they occupied the city from September 1777 to June 1778. The map includes a city plan, labels the owners of properties in the surrounding area, and notes fortifications. Instead of a decorative cartouche, the map features an elevation of the Pennsylvania State House. Now known as Independence Hall, the building was famous even then as the site of the signing of the Declaration of Independence.
+Depicted is [the plan for the Eastern Junction, Broad Sound Pier, & Point Shirley Railroad](https://collections.leventhalmap.org/search/commonwealth:wd376689p) at the time of its charter in 1880.
+
+In the late 1870s, Revere Beach became a popular summer retreat for families in Boston and surrounding urban neighborhoods. Initially, the Boston, Revere Beach, & Lynn Narrow-Gauge Railroad was the main transport option for visitors. However, the Eastern Junction, Broad Sound Pier, & Point Shirley company began chartering multiple ferry routes to bring vacationers to the beach. It ran steamboat ferries from Long Wharf, Central Wharf, and Rowes Wharf to Winthrop Landing and Point Shirley, as well as an additional ferry between Lynn Harbor and Broad Sound Pier in Revere.
+
+The branch line operated for three years “for the purpose of developing the most popular seashore resort on the Atlantic Coast.” In the fall of 1883, both railroads and their associated ferry services merged into the Boston, Winthrop, and Shore Railroad. In 1896, Revere Beach was reopened as the first public beach in the United States. Regional rail and ferry service to Revere and Winthrop’s beaches continued until 1940 and it can still be reached by public transit via the MBTA’s Blue Line. The beach’s early success as a seaside destination wouldn’t have been possible without the charter ferries and railroads whisking passengers up and down the coastline.
 
 #### Samuel Holland, *[A plan of the island of St. John with the divisions of the counties, parishes, & the lots as granted by government, likewise the soundings round the coast and harbours](https://collections.leventhalmap.org/search/commonwealth:6t053n77m)* (1775)
 
