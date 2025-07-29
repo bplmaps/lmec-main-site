@@ -25,7 +25,7 @@ tags:
 
 The maps chosen for *Historic Currents* helped patrons to learn about how transportation hubs, industries, and the destinations characterizing Greater Boston communities led the way for a variety of successful ferry routes.
 
-#### Geo. H. Walker & Co, [Map showing the terminal facilities of Boston](https://collections.leventhalmap.org/search/commonwealth:wd376810x) (1902)
+#### Geo. H. Walker & Co, *[Map showing the terminal facilities of Boston](https://collections.leventhalmap.org/search/commonwealth:wd376810x)* (1902)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj693/full/,1200/0/default.jpg" class="" >}}
 
@@ -37,7 +37,7 @@ The Boston and Maine Railroad & M.S.S. Co. Ferry spanned the Mystic River to con
 
 Today, most shipping transport is done by truck, virtually eliminating the need for many of the terminals in this map. Ferry terminals also disappeared along with the rail hubs, and for decades, there was no boat service that brought passengers across the Mystic River. Now, only the Encore Hotel water shuttle makes the connection back and forth across the river. Fortunately, the MBTA and Seaport Ferries continue to make robust service stops at docks in Downtown Boston, the Seaport, Charlestown, and East Boston.
 
-#### Compiled by Whitman & Breck, Engineers, [Map of the eastern junc. Broad Sound Pier, & Pt. Shirley railroad: steamboat lines and connections: established for the purpose of developing the most popular seashore resort on the Atlantic Coast](https://collections.leventhalmap.org/search/commonwealth:wd376689p) \[1880–1889]
+#### Compiled by Whitman & Breck, Engineers, *[Map of the eastern junc. Broad Sound Pier, & Pt. Shirley railroad: steamboat lines and connections: established for the purpose of developing the most popular seashore resort on the Atlantic Coast](https://collections.leventhalmap.org/search/commonwealth:wd376689p)* \[1880–1889]
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj64q/full/1200,/0/default.jpg" class="" >}}
 
@@ -47,7 +47,7 @@ In the late 1870s, Revere Beach became a popular summer retreat for families in 
 
 The branch line operated for three years “for the purpose of developing the most popular seashore resort on the Atlantic Coast.” In the fall of 1883, both railroads and their associated ferry services merged into the Boston, Winthrop, and Shore Railroad. In 1896, Revere Beach was reopened as the first public beach in the United States. Regional rail and ferry service to Revere and Winthrop’s beaches continued until 1940 and it can still be reached by public transit via the MBTA’s Blue Line. The beach’s early success as a seaside destination wouldn’t have been possible without the charter ferries and railroads whisking passengers up and down the coastline.
 
-#### Geo. H. Walker & Co, [Map showing the routes of The Winthrop Steamboat Co](https://collections.leventhalmap.org/search/commonwealth:x059cc723) \[ca. 1896]
+#### Geo. H. Walker & Co, *[Map showing the routes of The Winthrop Steamboat Co](https://collections.leventhalmap.org/search/commonwealth:x059cc723)* \[ca. 1896]
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:b85162086/full/1200,/0/default.jpg" class="" >}}
 
@@ -57,7 +57,7 @@ The Winthrop Steamboat Company made a convenient connection to Downtown Boston f
 
 Today, the MBTA runs full 7-day service to Winthrop between 6:40am and 7:15pm, making a loop of stops at Winthrop Landing, Logan Airport, Central Wharf, and Seaport/Fan Pier. Weekend service runs from 9am until 8:10pm and combines service with the Quincy Ferry.
 
-#### [Bird's eye view of Boston Harbor and south shore to Provincetown showing steamboat routes](https://collections.leventhalmap.org/search/commonwealth:wd3760753) (1901)
+#### *[Bird's eye view of Boston Harbor and south shore to Provincetown showing steamboat routes](https://collections.leventhalmap.org/search/commonwealth:wd3760753)* (1901)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj58k/full/1200,/0/default.jpg" >}}
 
@@ -65,7 +65,7 @@ Today, the MBTA runs full 7-day service to Winthrop between 6:40am and 7:15pm, m
 
 The pamphlet was sponsored by the New York, New Haven, and Hartford Railroad, which at the time, owned and operated a passenger rail and steamboat service on the South Shore and south coast—what was then known as the “Old Colony Railroad.” The aim of the pamphlet was to encourage tourism to the areas south of Boston, and this cover provided a beautiful rendition of the South Shore. Primary steamboat lines are depicted on the map: Boston to Plymouth, Provincetown, and New York. These steamboats served to make tourism and regional vacationing more accessible to the middle class.
 
-#### Geo. H. Walker & Co, [Boston Harbor](https://collections.leventhalmap.org/search/commonwealth:ng454q77c) (1897)
+#### Geo. H. Walker & Co, *[Boston Harbor](https://collections.leventhalmap.org/search/commonwealth:ng454q77c)* (1897)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k422m36m/full/1200,/0/default.jpg" >}}
 
@@ -73,7 +73,7 @@ Published in 1897 by the Walker Lithograph & Publishing Company, Boston Harbor p
 
 From this aerial view, [this map](https://collections.leventhalmap.org/search/commonwealth:ng454q77c) illustrates the local ferry connections that carried people through the harbor during the golden age of the steamboat. In the bottom left-hand corner of the frame, the East Boston Ferries run between Lewis Mall Wharf in East Boston and “Steam Boat Landing” in the North End, which shipbuilders and dock workers might’ve used to get to and from work on the waterfront. And departing from Lewis Wharf, Central Wharf, and Rowes Wharf are the ferries that brought passengers to the region’s summertime retreats: Winthrop via the Winthrop Steamboat Company, Nahant via the “Nahant Line Steamers,” and Hull via the Nantasket Beach Steamboat Company.
 
-#### Nantasket Beach Steamboat Company, [Boston to Nantasket Beach and Plymouth](https://collections.leventhalmap.org/search/commonwealth:0r96fq413) \[ca. 1915]
+#### Nantasket Beach Steamboat Company, *[Boston to Nantasket Beach and Plymouth](https://collections.leventhalmap.org/search/commonwealth:0r96fq413)* \[ca. 1915]
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq42c/full/,1200/0/default.jpg" class="" >}}
 
@@ -83,7 +83,7 @@ Through the early 20th century, Hull became famous for Nantasket Beach and Parag
 
 The MBTA runs regular commuter ferry service to Hull as part of the Hingham-Hull-Logan Airport-Boston route, which expands the utility of the ferry beyond vacationing. Today, there is no ferry service connecting Boston to Plymouth.
 
-#### Boston & Gloucester Steamship Co., [Boston & Gloucester Steamboat Co.: summer season 1889](https://collections.leventhalmap.org/search/commonwealth:0r96fp956) (1889)
+#### Boston & Gloucester Steamship Co., *[Boston & Gloucester Steamboat Co.: summer season 1889](https://collections.leventhalmap.org/search/commonwealth:0r96fp956)* (1889)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp96g/full/,1200/0/default.jpg" class="" >}}
 
