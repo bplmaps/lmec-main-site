@@ -25,11 +25,17 @@ tags:
 
 The maps chosen for *Historic Currents* helped patrons to learn about how transportation hubs, industries, and the destinations characterizing Greater Boston communities led the way for a variety of successful ferry routes.
 
-#### Georg Balthasar Probst, *[London](https://collections.leventhalmap.org/search/commonwealth:3f463988r)* \[1770–1789]
+#### Geo. H. Walker & Co, [Map showing the terminal facilities of Boston](https://collections.leventhalmap.org/search/commonwealth:wd376810x) (1902)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4639891/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj693/full/,1200/0/default.jpg" class="" >}}
 
-Twenty times the size of colonial Boston, a late 1700s London led the world in commercial trade, manufacturing, and finance. The River Thames flows through the city center. Ships brought commercial goods from around the world, including tobacco, rice, indigo and cotton from America. [This map](https://collections.leventhalmap.org/search/commonwealth:3f463988r) depicts the city as a place of wonder, as conveyed in this engraving published by a printer from Augsburg, Germany. It was translated into English and Latin for an international audience. The focal point is St. Paul’s Cathedral, designed by Christopher Wren and built in 1711. The legend identifies 70 prominent buildings and landmarks, including the Royal Exchange, where colonial merchants regularly met to conduct business.
+[This map](https://collections.leventhalmap.org/search/commonwealth:wd376810x) provides a holistic illustration of how ferries contributed to the transportation landscape at the onset of the 20th Century.
+
+In 1902, railroads and steamboats were the predominant method of shipping freight and moving passengers. To make regional or long-distance connections more efficient, rail and boat terminals were often built in proximity to each other and were sometimes run by the same transportation companies. At this time, bridges were noticeably absent and ferries served as quick connections between hubs across the Mystic River and Boston Harbor.
+
+The Boston and Maine Railroad & M.S.S. Co. Ferry spanned the Mystic River to connect passengers between the railroad’s Mystic Wharf terminal and the New England Gas & Coke Company plant in Everett. The Winnisimmet Ferry connected the North End and Chelsea and the East Boston Ferries connected the wharves of Downtown Boston with the Boston & Maine and Boston & Albany railroad terminals in East Boston. In addition to these local ferry services, dozens of steamboat companies operated along Boston’s waterfront, transporting passengers locally and abroad.
+
+Today, most shipping transport is done by truck, virtually eliminating the need for many of the terminals in this map. Ferry terminals also disappeared along with the rail hubs, and for decades, there was no boat service that brought passengers across the Mystic River. Now, only the Encore Hotel water shuttle makes the connection back and forth across the river. Fortunately, the MBTA and Seaport Ferries continue to make robust service stops at docks in Downtown Boston, the Seaport, Charlestown, and East Boston.
 
 #### Nicholas Scull, George Heap, and William Faden, *[A plan of the city and environs of Philadelphia](https://collections.leventhalmap.org/search/commonwealth:cj82m2470)* (1777)
 
