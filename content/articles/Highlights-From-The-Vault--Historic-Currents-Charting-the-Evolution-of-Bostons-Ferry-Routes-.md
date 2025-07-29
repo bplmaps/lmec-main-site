@@ -73,11 +73,15 @@ Published in 1897 by the Walker Lithograph & Publishing Company, Boston Harbor p
 
 From this aerial view, [this map](https://collections.leventhalmap.org/search/commonwealth:ng454q77c) illustrates the local ferry connections that carried people through the harbor during the golden age of the steamboat. In the bottom left-hand corner of the frame, the East Boston Ferries run between Lewis Mall Wharf in East Boston and “Steam Boat Landing” in the North End, which shipbuilders and dock workers might’ve used to get to and from work on the waterfront. And departing from Lewis Wharf, Central Wharf, and Rowes Wharf are the ferries that brought passengers to the region’s summertime retreats: Winthrop via the Winthrop Steamboat Company, Nahant via the “Nahant Line Steamers,” and Hull via the Nantasket Beach Steamboat Company.
 
-#### Michel Capitaine du Chesnoy, *[Carte de l'affaire de Montmouth, ou le Général Washington commandon l'armée Americaine, et le Général Clinton l'armée Angloise le 28 Juin 1778](https://collections.leventhalmap.org/search/commonwealth:z603vw18x)* (1778)
+#### Nantasket Beach Steamboat Company, [Boston to Nantasket Beach and Plymouth](https://collections.leventhalmap.org/search/commonwealth:0r96fq413) \[ca. 1915]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vw196/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq42c/full/,1200/0/default.jpg" class="" >}}
 
-Michel Capitaine du Chesnoy, the Marquis de Lafayette’s map maker, drew [this map](https://collections.leventhalmap.org/search/commonwealth:z603vw18x) following the Battle of Monmouth Courthouse in northeastern New Jersey. After confusion surrounding the Continental Army’s orders, the soldiers prevented the British troops from advancing. The battle occurred on a hot June day and hundreds of soldiers died of heatstroke. Women, who came to be referred to collectively as “Molly Pitcher,” supported the American troops by bringing water to cool the men and their guns. Although the battle ended inconclusively, it was a turning point for the professionalization of the American army as volunteer French and German military officers provided training.
+Through the early 20th century, Hull became famous for Nantasket Beach and Paragon Park, which attracted summer vacationers from all over Greater Boston. The Nantasket Beach Steamboat Company grew a successful business by bringing passengers from Boston and Hingham via ferry across Boston Harbor. The steamboat company also ran to Plymouth, offering easy access to a quiet retreat on the historic waterfront.
+
+[This map](https://collections.leventhalmap.org/search/commonwealth:0r96fq413) was originally part of a promotional pamphlet advertising the Nantasket Beach Steamboat Company’s service to these fashionable summer destinations. Paragon Park has since closed, but Nantasket Beach continues to be a popular summertime beach destination. 
+
+The MBTA runs regular commuter ferry service to Hull as part of the Hingham-Hull-Logan Airport-Boston route, which expands the utility of the ferry beyond vacationing. Today, there is no ferry service connecting Boston to Plymouth.
 
 #### Andrew Ellicott, *[Plan of the city of Washington in the territory of Columbia, ceded by the states of Virginia and Maryland to the United States of America, and by them established as the seat of their government, after the year MDCC](https://collections.leventhalmap.org/search/commonwealth:z603vs02d)* (1792)
 
