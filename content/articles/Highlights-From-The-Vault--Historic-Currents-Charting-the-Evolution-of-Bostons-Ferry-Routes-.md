@@ -57,11 +57,13 @@ The Winthrop Steamboat Company made a convenient connection to Downtown Boston f
 
 Today, the MBTA runs full 7-day service to Winthrop between 6:40am and 7:15pm, making a loop of stops at Winthrop Landing, Logan Airport, Central Wharf, and Seaport/Fan Pier. Weekend service runs from 9am until 8:10pm and combines service with the Quincy Ferry.
 
-#### Charles Blaskowitz, *[A plan of New York Island, and part of Long Island, with the circumjacent country, as far as Dobbs's Ferry to the north, and White Plains to the east, including the rivers, islands, roads, \&ca : also shewing the landing, routes, battles, lines and encampments of the British forces under the command of His Excellency Sir William Howe Knight of the most honorable Order of the Bath, Commander in Chief \&ca. \&ca. \&ca](https://collections.leventhalmap.org/search/commonwealth:z603vw04k)* (1777)
+#### [Bird's eye view of Boston Harbor and south shore to Provincetown showing steamboat routes](https://collections.leventhalmap.org/search/commonwealth:wd3760753) (1901)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vw05v/full/,1200/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj58k/full/1200,/0/default.jpg" >}}
 
-After evacuating Boston, the British focused their campaign on New York City. They took the city during the summer and fall of 1776. Charles Blaskowitz, one of the most accomplished topographical engineers in the British military, made this manuscript map for General Sir William Erskine, a participant in one of the battles portrayed. Blaskowitz documented the British military encampments and activities in the vicinity of New York City on [this “Campaign Headquarters Map.](https://collections.leventhalmap.org/search/commonwealth:z603vw04k)” He combined specifics of key events overlaid on topography that was systematically surveyed, resulting in a map that is both comprehensive as well as aesthetically pleasing.
+[This 1901 map](https://collections.leventhalmap.org/search/commonwealth:wd3760753) was on the front cover of a pamphlet called “Bird’s Eye View of Boston Harbor and the South Shore to Provincetown Showing Steamboat Routes.”
+
+The pamphlet was sponsored by the New York, New Haven, and Hartford Railroad, which at the time, owned and operated a passenger rail and steamboat service on the South Shore and south coast—what was then known as the “Old Colony Railroad.” The aim of the pamphlet was to encourage tourism to the areas south of Boston, and this cover provided a beautiful rendition of the South Shore. Primary steamboat lines are depicted on the map: Boston to Plymouth, Provincetown, and New York. These steamboats served to make tourism and regional vacationing more accessible to the middle class.
 
 #### Joseph F.W. Des Barres, *[A sketch of the operations before Charlestown the capital of South Carolina](https://collections.leventhalmap.org/search/commonwealth:7h149x77p)* (1780)
 
