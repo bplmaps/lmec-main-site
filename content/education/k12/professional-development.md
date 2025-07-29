@@ -17,7 +17,7 @@ The Leventhal Education team’s work is centered on supporting K-12 educators. 
 
 *Wednesday, September 17 at 6:30 PM*
 
-Maps are everywhere in textbooks about the American Revolution—troops on the move, shifting borders, colonies becoming states. But how can we help students really _read_ these maps instead of skipping over them?
+Maps are everywhere in textbooks about the American Revolution—troops on the move, shifting borders, colonies becoming states. But how can we help students really *read* these maps instead of skipping over them?
 
 In this session, we’ll break down foundational map-reading skills and explore strategies to get students beyond “this is here, that is there.” We’ll also introduce the ARGO database and items from the Leventhal Center map collection to support your curriculum development. You’ll leave with classroom-ready ideas that center student inquiry and recognize whose stories maps include—and exclude.
 
@@ -61,7 +61,7 @@ In this hands-on session, we’ll introduce Atlascope, our interactive map tool,
 
 Refreshments will be served. Attendees will also be mailed copies of maps showing the location of their school over time following the workshop.
 
-<a class="btn btn-primary btn-primary-outline" href="https://tally.so/r/3X78NP">Register Today </a>
+<a class="btn btn-primary btn-primary-outline" href="https://tally.so/r/m6Yp8o">Register Today </a>
 
 # Spring 2026
 
