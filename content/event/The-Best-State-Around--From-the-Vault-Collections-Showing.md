@@ -20,9 +20,7 @@ tags:
 
 In this *From The Vault*, we'll take a look at some promotional state maps from the 1890s to 1930s. Some maps use comedy to poke fun at the rest of the country, while others espouse the successes and deep history of their land to capture a potential visitor's attention. Each state does things a little differently and we invite visitors to answer the question: *"What truly is the best state around?"*
 
-This free showing will be hosted Friday, September 5 in the Leventhal Map & Education Center with a staff member available to answer questions.
-
-Drop in any time between 2:00PM - 4:00PM. No reservation is required.
+This free showing will be hosted Friday, September 5 in the Leventhal Map & Education Center with a staff member available to answer questions. Drop in any time between 2:00PM - 4:00PM. No reservation is required.
 
 ##### ***From The Vault***
 
