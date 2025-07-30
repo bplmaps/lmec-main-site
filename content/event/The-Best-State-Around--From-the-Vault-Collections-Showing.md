@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: >-
   The Best State Around: Historic, Promotional State Maps — From the Vault
   Collections Showing
