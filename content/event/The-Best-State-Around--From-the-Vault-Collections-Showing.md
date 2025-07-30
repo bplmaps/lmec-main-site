@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: >-
   The Best State Around: Historic, promotional state maps — From the Vault
   Collections Showing
@@ -18,11 +18,9 @@ tags:
 
 > ***It's not uncommon to be proud of the place you live... but these maps take it to another level!***
 
-After the industrial boom of the mid-to-late 1800s, Americans suddenly had access to leisure time, extra spending money, numerous transportation options and they were ready to explore the vast country around around them. This period also marked a time of immigration 
+In this *From The Vault*, we'll take a look at some promotional state maps from the 1890s to 1930s. Some maps use comedy to poke fun at the rest of the country, while others espouse the successes and deep history of their land to capture a visitors attention. Each state does things a little differently and we invite visitors to answer the question *"What truly is the best state around?"*
 
-In this *From The Vault*, we dive into some of the longest and tallest maps in the LMEC archives, all of which are at least 3 times as wide as they are tall (or vice versa). From rivers to railroads, from green parks to gold rushes, these maps document how cartographers have fixated on long landscapes—including one 12-foot long map of the Boston Marathon, printed on a receipt!
-
-This free showing will be hosted Friday, September 5 in the Leventhal Map & Education Center with a staff member available to answer questions. 
+This free showing will be hosted Friday, September 5 in the Leventhal Map & Education Center with a staff member available to answer questions.
 
 Drop in any time between 2:00PM - 4:00PM. No reservation is required.
 
