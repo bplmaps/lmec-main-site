@@ -1,7 +1,7 @@
 ---
 draft: true
 title: >-
-  The Best State Around: Historic, promotional state maps — From the Vault
+  The Best State Around: Historic, Promotional State Maps — From the Vault
   Collections Showing
 date: 2025-09-05T18:00:00.000Z
 publishDate: 2025-06-24T04:00:00.000Z
