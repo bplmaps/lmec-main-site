@@ -22,7 +22,7 @@ Unfortunately, most historic, urban maps we find today were made by European and
 
 This *From the Vault* Map Collections Showing will spotlight plans of global, pre-industrial cities that were founded by non-European cultures.
 
-This free showing will be hosted Friday, September 5 in the Leventhal Map & Education Center with a staff member available to answer questions. This collections showing event was specially curated by our *Visitor Services & Exhibition Assistant,* **Artem Sereda**. Drop in any time between 2:00PM - 4:00PM. No reservation is required.
+This free showing will be hosted Friday, August 22 in the Leventhal Map & Education Center with a staff member available to answer questions. This collections showing event was specially curated by our *Visitor Services & Exhibition Assistant,* **Artem Sereda**. Drop in any time between 2:00PM - 4:00PM. No reservation is required.
 
 ##### ***From The Vault***
 
