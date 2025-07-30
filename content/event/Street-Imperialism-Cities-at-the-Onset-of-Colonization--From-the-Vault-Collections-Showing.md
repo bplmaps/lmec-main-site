@@ -18,7 +18,7 @@ tags:
 
 > ***A city plan is a window into the city’s culture and lifestyle.***
 
-Unfortunately, most of the urban maps available to us were made by European and American cartographers primarily to depict cities designed or strongly influenced by the Western European tradition. That, however, is not to say that maps done by other cultures, of other places aren't out there.
+Unfortunately, most historic, urban maps we find today were made by European and American cartographers primarily to depict cities designed or strongly influenced by the Western European tradition. This unfortunately leaves many peoples, cities, and cultures cartographically underrepresented. That, however, is not to say that maps done by other cultures, of other places aren't out there.
 
 This *From the Vault* Map Collections Showing will spotlight plans of global, pre-industrial cities that were founded by non-European cultures.
 
