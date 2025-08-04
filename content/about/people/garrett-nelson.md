@@ -11,9 +11,9 @@ contact:
   details: "<gnelson@leventhalmap.org>"
 - method: Twitter
   details: "[@en_dash](https://twitter.com/en_dash)"
-- method: Mastodon
+- method: Bluesky
   details: >
-    <a rel="me" href="https://mastodon.online/@garrettdashnelson">@garrettdashnelson@mastdon.online</a>
+    [@en-dash.bsky.social‬](https://bsky.app/profile/en-dash.bsky.social)
 - method: Website
   details: "[Personal site](http://people.matinic.us/garrett)"
 menu: false
