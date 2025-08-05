@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: 'Author Talk: Michael Glass on Debt and Inequality in Suburban America'
 date: 2025-10-15T16:30:00.000Z
 publishDate: 2025-07-01T04:00:00.000Z
