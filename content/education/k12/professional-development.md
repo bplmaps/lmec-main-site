@@ -31,8 +31,6 @@ Join us for a special open house for educators. Enjoy guided tours of our curren
 
 Refreshments will be served.
 
-<a class="btn btn-primary btn-primary-outline" href="https://tally.so/r/3X78NP">Register Today </a>
-
 ### What Can a Map Do? Teaching Maps for Elementary School Students (Virtual)
 
 *Wednesday, October 8 at 6:30 PM*
