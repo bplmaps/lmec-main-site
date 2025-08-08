@@ -21,15 +21,7 @@ Maps are everywhere in textbooks about the American Revolution—troops on the m
 
 In this session, we’ll break down foundational map-reading skills and explore strategies to get students beyond “this is here, that is there.” We’ll also introduce the ARGO database and items from the Leventhal Center map collection to support your curriculum development. You’ll leave with classroom-ready ideas that center student inquiry and recognize whose stories maps include—and exclude.
 
-<a class="btn btn-primary btn-primary-outline" href="https://tally.so/r/3X78NP">Register Today </a>
-
-### Educator Open House
-
-*Saturday, September 27 from 11 AM - 2 PM*
-
-Join us for a special open house for educators. Enjoy guided tours of our current exhibition and participate in short sessions on using the LMEC collection and digital tools in your teaching. This is a great opportunity to participate in a sample field trip to experience first hand what students do when they visit the Leventhal Center.
-
-Refreshments will be served.
+<a class="btn btn-primary btn-primary-outline" href="https://tally.so/r/3X78NP">Register Today 
 
 ### What Can a Map Do? Teaching Maps for Elementary School Students (Virtual)
 
