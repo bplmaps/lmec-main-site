@@ -22,4 +22,4 @@ During the first decades of the 19th century, China was in a moment of transitio
 
 Join this program to explore the artistic, historical, and cultural significance of these blue maps, considering their place in the broader global history of mapmaking.
 
-{{< figure src="https://www.mocanyc.org/wp-content/uploads/2025/08/MOCA-TALKS-with-Richard-Pegg-2.png" >}}
+{{< figure src="https://www.mocanyc.org/wp-content/uploads/2025/08/MOCA-TALKS-with-Richard-Pegg-2.png" class="figure-right" >}}
