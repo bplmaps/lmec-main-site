@@ -37,7 +37,7 @@ These maps can help students see a historic map in three dimensions, both on its
 
 When I think about the American Revolution, especially in Boston, I always come back to this idea of uncertainty. I saw this meme that said “I’m tired of living through interesting times” and I think that would also resonate with someone living in Boston in 1775. Living through that period must have felt deeply chaotic at times. We can chart cause and effect in hindsight, but everyone is making choices that make sense in the moment.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1r66j5942/full/,1200/0/default.jpg" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1r66j5942/full/,1200/0/default.jpg" class="figure-left" >}}
 
 One reason I love *Terrains* is that it presents how the landscape shapes these choices. People with rebel sympathies lived right next to loyalists in Boston, which was densely populated for a town in the colonies. British soldiers and their families also become a part of this urban fabric. “Revolution” might mean something very different to one person than it does to their neighbors. Maps with battle lines create this clear-cut sense of “us” vs. “them,” but the reality is always messier. People were forced to decide which side of the front lines feel safer for them, which is a near impossible choice. Everyday people were shaping the map without even realizing it.
 
