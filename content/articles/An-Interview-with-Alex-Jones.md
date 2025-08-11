@@ -19,6 +19,8 @@ tags:
 
 ##### ***Alex, we’re so excited to have you on board here at the Leventhal Map & Education Center. Tell us a little bit about your background—what led up to your new role with us?***
 
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Alex headshot.png" class="figure-right" >}}
+
 My background is in libraries and museums. I’ve worked at the Old State House, Ford’s Theatre, the National Park Service and, most recently, as a project director for a community archiving program. I’ve had the opportunity to speak with tens of thousands of people in this line of work. A lot of those conversations were, “where’s the bathroom” (always a valid question!), but some were about heavier topics or what these places mean to people. I’ve been fortunate to learn from so many visitors, coworkers, and mentors. Geography, place, and public memory have always been at the core of my work, and I’m excited for the opportunity to focus on these themes in a more intentional way and support K-12 educators.
 
 ##### ***Do you have a favorite of the digital programs and tools we have available to the public right now?***
