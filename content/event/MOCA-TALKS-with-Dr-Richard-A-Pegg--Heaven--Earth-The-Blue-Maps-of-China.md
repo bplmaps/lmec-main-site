@@ -10,6 +10,8 @@ backgroundImage: >-
 location: 'Museum of Chinese in America, 215 Centre Street New York, NY 10013'
 fee: Free
 registration: 'https://www.mocanyc.org/event/moca-talks-richard-pegg-blue-maps/'
+tags:
+  - Heaven earth
 ---
 
 {{\< alert-box title="Cross-listed event" icon="fas fa-exchange-alt" >}} This event is organized by the Museum of Chinese in America.{{\</ alert-box >}}
