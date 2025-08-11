@@ -45,7 +45,7 @@ There’s [one map](https://www.leventhalmap.org/digital-exhibitions/terrains-of
 
 ##### ***In your opinion, what’s a “must-see” item in Terrains?***
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1j92h002g/full/800,/0/default.jpg" caption="" class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1j92h002g/full/800,/0/default.jpg" caption="" class="figure-right" >}}
 
 My favorite item in *Terrains of Independence* is [the powder horn](https://www.argomaps.org/maps/commonwealth:q524n340p/) carved by a British soldier during the Siege of Boston. This soldier, “E.B.,” carved this outline of Boston into this piece of gear used to hold gunpowder. Very few people would have seen his art, but it’s a sketch of a place he’s probably becoming intimately familiar with during the 10-month siege. It’s hard not to imagine the human hands that made this map and wonder what he was thinking as he traced Boston’s shoreline. Looking at this piece, for me, feels like standing at the edge of this deeper, human story.
 
