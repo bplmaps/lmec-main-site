@@ -37,7 +37,7 @@ When I think about the American Revolution, especially in Boston, I always come 
 
 One reason I love Terrains is that it presents how the landscape shapes these choices. People with rebel sympathies lived right next to loyalists in Boston, which was densely populated for a town in the colonies. British soldiers and their families also become a part of this urban fabric. “Revolution” might mean something very different to one person than it does to their neighbors. Maps with battle lines create this clear-cut sense of “us” vs. “them,” but the reality is always messier. People were forced to decide which side of the front lines feel safer for them, which is a near impossible choice. Everyday people were shaping the map without even realizing it.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1r66j5942/full/,1200/0/default.jpg" class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1r66j5942/full/,1200/0/default.jpg" class="figure-right" >}}
 
 There’s [one map](https://www.leventhalmap.org/digital-exhibitions/terrains-of-independence/city/the-seat-of-war/) in the exhibit that sticks with me. It shows American militias from across New England marching toward Boston. I’d guess most of these people had never been to Boston, but they risked everything to aid this cause that transcended any one place, person, or event. So I think if there’s any lesson for us, it’s that history is the product of our choices, and the choices we make to help our communities are usually the ones that work out.
 
