@@ -4,7 +4,7 @@ title: An Interview with Alex Jones
 date: 2025-08-18T04:00:00.000Z
 author: Alex Jones
 description: |+
-  An interview with the new Learning Resource Specialist, Alex Jones.
+  An interview with our new Learning Resource Specialist, Alex Jones.
 
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw25v/293,1908,10040,3948/1800,/0/default.jpg
