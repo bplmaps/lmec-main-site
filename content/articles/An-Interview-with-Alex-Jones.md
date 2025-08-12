@@ -35,11 +35,11 @@ My spiel would go something like this:
 
 These maps can help students see a historic map in three dimensions, both on its own or as a starting point for something deeper. Sometimes I also just like looking at Atlascope until something catches my eye and I learn something new. Stepping away from it is usually the hardest part for me!
 
-##### **You’re starting in the middle of *[Terrains of Independence](https://www.leventhalmap.org/digital-exhibitions/terrains-of-independence/).* We’ve come to know you have quite an interest in the American Revolution! Tell us what you think makes this historical period relevant to the current day.**
+##### **You’re starting in the middle of [*Terrains of Independence*](https://www.leventhalmap.org/digital-exhibitions/terrains-of-independence/). We’ve come to know you have quite an interest in the American Revolution! Tell us what you think makes this historical period relevant to the current day.**
 
 When I think about the American Revolution, especially in Boston, I always come back to this idea of uncertainty. I saw this meme that said “I’m tired of living through interesting times” and I think that would also resonate with someone living in Boston in 1775. Living through that period must have felt deeply chaotic at times. We can chart cause and effect in hindsight, but everyone is making choices that make sense in the moment.
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1r66j5942/full/,1200/0/default.jpg" class="figure-left" caption="The seat of war in New England, by an American volunteer (1775)" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1r66j5942/full/,1200/0/default.jpg" class="figure-left" caption="_[The seat of war in New England, by an American volunteer](https://www.leventhalmap.org/digital-exhibitions/terrains-of-independence/city/the-seat-of-war/)_ (1775)" >}}
 
 One reason I love *Terrains* is that it presents how the landscape shapes these choices. People with rebel sympathies lived right next to loyalists in Boston, which was densely populated for a town in the colonies. British soldiers and their families also become a part of this urban fabric. “Revolution” might mean something very different to one person than it does to their neighbors. Maps with battle lines create this clear-cut sense of “us” vs. “them,” but the reality is always messier. People were forced to decide which side of the front lines feel safer for them, which is a near impossible choice. Everyday people were shaping the map without even realizing it.
 
@@ -47,7 +47,7 @@ There’s [one map](https://www.leventhalmap.org/digital-exhibitions/terrains-of
 
 ##### **In your opinion, what’s a “must-see” item in Terrains?**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1j92h002g/full/800,/0/default.jpg" caption="E.B., Powder horn with map of Boston and Charlestown, 1777 (1775)" class="figure-right" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:1j92h002g/full/800,/0/default.jpg" caption="E.B., _[Powder horn with map of Boston and Charlestown, 1777](https://www.argomaps.org/maps/commonwealth:q524n340p/)_ (1775)" class="figure-right" >}}
 
 My favorite item in *Terrains of Independence* is [the powder horn](https://www.argomaps.org/maps/commonwealth:q524n340p/) carved by a British soldier during the Siege of Boston. This soldier, “E.B.,” carved this outline of Boston into this piece of gear used to hold gunpowder. Very few people would have seen his art, but it’s a sketch of a place he’s probably becoming intimately familiar with during the 10-month siege. It’s hard not to imagine the human hands that made this map and wonder what he was thinking as he traced Boston’s shoreline. Looking at this piece, for me, feels like standing at the edge of this deeper, human story.
 
@@ -61,7 +61,7 @@ Right now, my biggest project is developing the Center’s K-12 teaching resourc
 
 ##### **We know you’ve just gotten here, but do you have a favorite map that you’ve found in the collections during your initial browsing?**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw25v/full/,1200/0/default.jpg" class="figure-left" caption="Franklin Leavitt, Leavitt's map with views of the White Mountains, New Hampshire: 1871  (1871)" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw25v/full/,1200/0/default.jpg" class="figure-left" caption="Franklin Leavitt, _[Leavitt's map with views of the White Mountains, New Hampshire: 1871](https://collections.leventhalmap.org/search/commonwealth:st74cw24k)_ (1871)" >}}
 
 My answer changes all the time, but I really love [*Leavitt’s map with views of the White Mountains*.](https://collections.leventhalmap.org/search/commonwealth:st74cw24k) I collect tourist maps and brochures because I’m fascinated by how people advertise the places they inhabit to the outside world. These maps are sometimes considered “ephemera,” something we use or throw out but rarely get archived, so I think this map is special. They can create a kind of shorthand that set our expectations of what we’d see there and sometimes even “freeze” a place in a specific moment of time. For example, I previously worked in Salem and the “witch city” theme is everywhere, but what happens after 1692?
 
