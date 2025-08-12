@@ -21,7 +21,7 @@ Maps are everywhere in textbooks about the American Revolution—troops on the m
 
 In this session, we’ll break down foundational map-reading skills and explore strategies to get students beyond “this is here, that is there.” We’ll also introduce the ARGO database and items from the Leventhal Center map collection to support your curriculum development. You’ll leave with classroom-ready ideas that center student inquiry and recognize whose stories maps include—and exclude.
 
-<a class="btn btn-primary btn-primary-outline" href="https://tally.so/r/3X78NP">Register Today 
+<a class="btn btn-primary btn-primary-outline" href="https://tally.so/r/3X78NP">Register Today </a>
 
 ### What Can a Map Do? Teaching Maps for Elementary School Students (Virtual)
 
