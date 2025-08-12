@@ -61,7 +61,7 @@ Right now, my biggest project is developing the Center’s K-12 teaching resourc
 
 ##### **We know you’ve just gotten here, but do you have a favorite map that you’ve found in the collections during your initial browsing?**
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw25v/full/,1200/0/default.jpg" class="figure-left" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw25v/full/,1200/0/default.jpg" class="figure-left" caption="Franklin Leavitt, Leavitt's map with views of the White Mountains, New Hampshire: 1871  (1871)" >}}
 
 My answer changes all the time, but I really love [*Leavitt’s map with views of the White Mountains*.](https://collections.leventhalmap.org/search/commonwealth:st74cw24k) I collect tourist maps and brochures because I’m fascinated by how people advertise the places they inhabit to the outside world. These maps are sometimes considered “ephemera,” something we use or throw out but rarely get archived, so I think this map is special. They can create a kind of shorthand that set our expectations of what we’d see there and sometimes even “freeze” a place in a specific moment of time. For example, I previously worked in Salem and the “witch city” theme is everywhere, but what happens after 1692?
 
