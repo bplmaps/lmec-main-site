@@ -17,7 +17,7 @@ tags:
 
 > We’re excited to introduce **Alex Jones** to the LMEC team as our new Learning Resource Specialist in the Education department! Alex joined us this June and has an extensive history in library and museum work. We sat down with Alex to learn more about his interest in the American Revolution, his favorite digital tools, and his “must see" item from *[Terrains of Independence](https://www.leventhalmap.org/digital-exhibitions/terrains-of-independence/)*.
 
-##### **Alex, we’re so excited to have you on board here at the Leventhal Map & Education Center. Tell us a little bit about your background—what led up to your new role with us?**
+##### **Tell us a little bit about your background—what led up to your new role with us?**
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Alex headshot.png" class="figure-right" caption="Alex Jones" >}}
 
