@@ -15,13 +15,13 @@ tags:
   - Interview
 ---
 
-> We’re excited to introduce A**lex Jones** to the LMEC team as our new Learning Resource Specialist in the Education department! Alex joined us this June and has an extensive history in library and museum work. We sat down with Alex to learn more about his interest in the American Revolution, his favorite digital tools, and his “must see item” from *[Terrains of Independence](https://www.leventhalmap.org/digital-exhibitions/terrains-of-independence/)*.
+> We’re excited to introduce **Alex Jones** to the LMEC team as our new Learning Resource Specialist in the Education department! Alex joined us this June and has an extensive history in library and museum work. We sat down with Alex to learn more about his interest in the American Revolution, his favorite digital tools, and his “must see item” from *[Terrains of Independence](https://www.leventhalmap.org/digital-exhibitions/terrains-of-independence/)*.
 
 ##### **Alex, we’re so excited to have you on board here at the Leventhal Map & Education Center. Tell us a little bit about your background—what led up to your new role with us?**
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Alex headshot.png" class="figure-right" caption="Alex Jones" >}}
 
-My background is in libraries and museums. I’ve worked at the Old State House, Ford’s Theatre, the National Park Service and, most recently, as a project director for a community archiving program. I’ve had the opportunity to speak with tens of thousands of people in this line of work. 
+My background is in libraries and museums. I’ve worked at the Old State House, Ford’s Theatre, the National Park Service and, most recently, as a project director for a community archiving program. I’ve had the opportunity to speak with tens of thousands of people in this line of work.
 
 A lot of those conversations were, “where’s the bathroom” (always a valid question!), but some were about heavier topics or what these places mean to people. I’ve been fortunate to learn from so many visitors, coworkers, and mentors. Geography, place, and public memory have always been at the core of my work, and I’m excited for the opportunity to focus on these themes in a more intentional way and support K-12 educators.
 
@@ -35,7 +35,7 @@ My spiel would go something like this:
 
 These maps can help students see a historic map in three dimensions, both on its own or as a starting point for something deeper. Sometimes I also just like looking at Atlascope until something catches my eye and I learn something new. Stepping away from it is usually the hardest part for me!
 
-##### **You’re starting in the middle of [*Terrains of Independence*](https://www.leventhalmap.org/digital-exhibitions/terrains-of-independence/). We’ve come to know you have quite an interest in the American Revolution! Tell us what you think makes this historical period relevant to the current day.**
+##### **You’re starting in the middle of *[Terrains of Independence](https://www.leventhalmap.org/digital-exhibitions/terrains-of-independence/)*. We’ve come to know you have quite an interest in the American Revolution! Tell us what you think makes this historical period relevant to the current day.**
 
 When I think about the American Revolution, especially in Boston, I always come back to this idea of uncertainty. I saw this meme that said “I’m tired of living through interesting times” and I think that would also resonate with someone living in Boston in 1775. Living through that period must have felt deeply chaotic at times. We can chart cause and effect in hindsight, but everyone is making choices that make sense in the moment.
 
