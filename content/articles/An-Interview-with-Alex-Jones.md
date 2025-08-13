@@ -55,7 +55,7 @@ My favorite item in *Terrains of Independence* is [the powder horn](https://www.
 
 I went hiking a lot as a kid and I was obsessed with trail maps. There’s a park called Ravenswood in my hometown. I remember looking at the park map and seeing trails with evocative names like the Magnolia Swamp Trail and Old Salem Road. Each line on the map felt like an invitation to a new adventure. There’s something I’ve always enjoyed about following a path used by thousands of others, but still never seeing the same trail twice.
 
-##### What work at the Center are you looking forward to?
+##### **What work at the Center are you looking forward to?**
 
 Right now, my biggest project is developing the Center’s K-12 teaching resources. We’re developing a new online teacher portal that will serve as a resource library for classroom activities, map sets, and other tools for teaching with place. It’s an exciting opportunity, and I’m especially excited to learn what teachers need to create the best resources possible. Stay tuned for more on this project in [the LMEC newsletter](https://www.leventhalmap.org/subscribe/)!
 
