@@ -15,6 +15,12 @@ tags:
   - Author talk
 ---
 
+{{< alert-box type="success" icon="fas fa-calendar-check" title="Registration required" >}}
+
+Advance registration is required to attend this program. Registration is free.
+
+{{</ alert-box >}}
+
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Michael Glass.jpeg" class="figure-right" >}}
 
 Join Boston College historian **Michael Glass** for a conversation about his new book, *[Cracked Foundations: Debt and Inequality in Suburban America](https://www.pennpress.org/9781512828221/cracked-foundations/)*. The book explores how home mortgages and municipal bonds helped build postwar suburbs while also making them financially fragile, and how these tools entrenched disparities that still shape American life today.
