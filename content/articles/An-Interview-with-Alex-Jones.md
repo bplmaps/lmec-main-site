@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: An Interview with Alex Jones
-date: 2025-08-18T04:00:00.000Z
+date: 2025-08-17T04:00:00.000Z
 author: Alex Jones
 description: |+
   An interview with our new Learning Resource Specialist, Alex Jones.
