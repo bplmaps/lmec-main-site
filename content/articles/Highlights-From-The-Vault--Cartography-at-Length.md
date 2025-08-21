@@ -107,11 +107,17 @@ Width and length: 12 x 155cm, Aspect ratio: 12.9
 
 A large portion of the Mississippi River, from Cairo, Illinois to the bayous of Louisiana, is depicted in [this 1862 map](https://collections.leventhalmap.org/search/commonwealth:kk91fs62t). It is detached from an illustrated newspaper published in 1862, which means in its original published context, the map would probably not have been laid out this long. While its primary purpose was to show Confederate fortifications along the mouth of the Mississippi, it also highlights the strange twists, turns, and names that pop up along America’s longest river. Near the border of Louisiana and Mississippi, for example, you’ll note the “Raccourci Cut Off”—a shortcut engineered by the State of Louisiana in 1848 that saved 19 miles on the riverway commute and created a new oxbow lake and island in the process. Legend has it that the ghost of an old paddle steamer still haunts the Raccourci Cutoff to this day.
 
-#### Geo. H. Walker & Co., [Map of Commonwealth Avenue Street Railway Company, and connecting lines : showing route to Norumbega Park](https://collections.leventhalmap.org/search/commonwealth:1g05ht759) (1898)
+#### Aaron Koelker, [A map of the Boston Marathon : since 1897](https://collections.leventhalmap.org/search/commonwealth:4b29kf660)  (2024)
 
-Width and length: 54 x 14cm, Aspect ratio: 3.8
+Width and length: 5 x 325cm, Aspect ratio: 65
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d27c9574/full/3500,/0/default.jpg" class="" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/long map 2.png" class="" >}}
 
 
-On[ this 1898 map](https://collections.leventhalmap.org/search/commonwealth:1g05ht759) of the Commonwealth Avenue Street Railway Company, pastels colors distinguish different towns in the Greater Boston area. A bright red railroad line leads to Norumbega Park, bursting at the western edge of Newton’s seams with carnival attractions: soda fountain, boat house, merry-go-round, and much more. In the late 19th century, private railway companies often built destination parks at the end of their line to encourage patronage and incentivize ridership. In the case of Norumbega Park, riders were also incentivized by “the long open cars”—proudly built by J.M. Jones Sons of West Troy, N.Y.—which presumably delivered a luxurious journey to this luxurious destination.
+Aaron Koelker’s “A map of the Boston Marathon”—the inspiration for this week’s From the Vault map collection showing—represents the latest in a lenghty tradition of long mapping. An astonishing 65 times taller than it is wide, the receipt map captures iconic Boston landmarks, like the Fenway Citgo sign and Heartbreak Hill, along the Marathon route. Although Koelker considers this map to be part of a “minor exploration of impractically long mapping,” he also admits that the Marathon receipt map does have, in its own way, a practicality:
+
+While the map is mostly meant to be a novelty, I did want to give it some practical function. Back when I ran cross country, I always wanted to know where the uphill sections were so that I could plan where I should speed up or save my energy for an upcoming hill. … the Boston Marathon route has plenty of hills, and I was working at a large enough scale that it made sense to show them (which you can see as hatched sections along the route).
+
+As you ponder the long maps on display here, we invite you to consider their practicality, their impracticality, and the social and geographical contexts that might have driven a cartographer to make such long maps. In some cases, maybe it was to efficiently depict travel routes; in other cases, maybe a long map was the best way to advertise how two places could be connected. 
+
+What do you notice when you look at the entire route of the Boston Marathon on a single receipt?
