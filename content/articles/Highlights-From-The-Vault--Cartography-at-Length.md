@@ -52,13 +52,20 @@ How does one “plan” a river? Originally part of the Back Bay salt marsh, the
 
 Created for the Park Department, the plan represents a point-in-time snapshot of the landscape known today as the Back Bay Fens (although the provisional title of ”Back Bay Park” is visible at the eastern edge of the map). Winding from the Boston Common all the way to Jamaica Pond, this plan captures one leg of Olmsted’s famous “Emerald Necklace” park system.
 
-#### *[Bird's eye view of Boston Harbor and south shore to Provincetown showing steamboat routes](https://collections.leventhalmap.org/search/commonwealth:wd3760753)* (1901)
+#### Harbour Commissioers of Montreal, [Profile of the river St. Lawrence between Montreal and Quebec shewing the deepening of the ship channel](https://collections.leventhalmap.org/search/commonwealth:4m90fh79t) (1878)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj58k/full/1200,/0/default.jpg" >}}
+Width and length: 97 x 21cm, Aspect ratio: 4.61
 
-[This 1901 map](https://collections.leventhalmap.org/search/commonwealth:wd3760753) was on the front cover of a pamphlet called “Bird’s Eye View of Boston Harbor and the South Shore to Provincetown Showing Steamboat Routes.”
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fh80k/full/3500,/0/default.jpg" >}}
 
-The pamphlet was sponsored by the New York, New Haven, and Hartford Railroad, which at the time, owned and operated a passenger rail and steamboat service on the South Shore and south coast—what was then known as the “Old Colony Railroad.” The aim of the pamphlet was to encourage tourism to the areas south of Boston, and this cover provided a beautiful rendition of the South Shore. Primary steamboat lines are depicted on the map: Boston to Plymouth, Provincetown, and New York. These steamboats served to make tourism and regional vacationing more accessible to the middle class.
+This river profile, published in 1878, documents the importance of the St. Lawrence River to the urban network of southeastern Canada. Clocking in at a formidable aspect ratio of 4.6, [this chart](https://collections.leventhalmap.org/search/commonwealth:4m90fh79t) depicts a wide range different data, including:
+
+* Blue "low water level": lowest level water could be; want river floor deep enough the largest/heaviest ship would not get stuck (they decided 25' deep)
+* Black outline: original floor depth
+* Shaded red: what's been removed to make floor 23' deep
+* Crosshatched red: what still needs to be removed to make floor 25' deep
+
+The map highlights the centrality of long, natural features—like the St. Lawrence River—to 19th century urban economies. The river had to be dredged in order to make the landscape navigable for larger vessels, which would improve the productive capacities of the region. Meanwhile, the dredging itself created its own constellation of economic activity; as the map notes under the “Ship Channel” header in the top-right hand corner, the monetary “Expenditure for 20 ft. of depth” totaled $1.2 million in 1878, over $38 million today when adjusted for inflation.
 
 #### Geo. H. Walker & Co, *[Boston Harbor](https://collections.leventhalmap.org/search/commonwealth:ng454q77c)* (1897)
 
