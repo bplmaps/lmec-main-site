@@ -6,9 +6,9 @@ title: >-
   History
 ---
 
-{{< alert-box type="success" title="Applications Open" >}}
+{{< alert-box type="danger" title="Applications Closed" >}}
 
-Applications for our 2025 Lynch Fellowships are open. The deadline for submitting applicaitons is Friday, February 14, 2025 at 12 pm ET.
+Please [subscribe to our newsletter](https://leventhalmap.org/subscribe) for more information about future teacher professional development opportunities.
 
 {{</ alert-box >}}
 
