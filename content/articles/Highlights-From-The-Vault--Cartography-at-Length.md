@@ -61,7 +61,7 @@ Created for the Park Department, the plan represents a point-in-time snapshot of
 
 This river profile, published in 1878, documents the importance of the St. Lawrence River to the urban network of southeastern Canada. Clocking in at a formidable aspect ratio of 4.6, [this chart](https://collections.leventhalmap.org/search/commonwealth:4m90fh79t) depicts a wide range different data, including:
 
-* B**lue "low water level":** lowest level water could be; want river floor deep enough the largest/heaviest ship would not get stuck (they decided 25' deep)
+* **Blue "low water level":** lowest level water could be; want river floor deep enough the largest/heaviest ship would not get stuck (they decided 25' deep)
 * **Black outline:** original floor depth
 * **Shaded red:** what's been removed to make floor 23' deep
 * **Crosshatched red:** what still needs to be removed to make floor 25' deep
