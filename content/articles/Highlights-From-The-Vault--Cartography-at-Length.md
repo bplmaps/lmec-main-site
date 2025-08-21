@@ -33,18 +33,17 @@ Angular black lines stitch together cities from Boston to Santa Fe in [this 1859
 
 The parts of central Colorado marked “Gold Region” are now home to familiar cities; “Pikes Peak” would become Colorado Springs, for instance, while the name “Denvir City” is stuffed behind a much larger label for “Mines.” Just visible at the bottom of the map, modern-day Oklahoma is listed as “Indian Territory”—a reminder of the millions of Indigenous lives and distinct societies that were obliterated or forcibly relocated during this period of genocidal western expansion and settler colonial capture.
 
-#### Geo. H. Walker & Co., [Map of Commonwealth Avenue Street Railway Company, and connecting lines : showing route to Norumbega Park](https://collections.leventhalmap.org/search/commonwealth:1g05ht759) (1898)
+#### Geo. H. Walker & Co., *[Map of Commonwealth Avenue Street Railway Company, and connecting lines : showing route to Norumbega Park](https://collections.leventhalmap.org/search/commonwealth:1g05ht759)* (1898)
 
-Width and length: 54 x 14cm, Aspect ratio: 3.8
+*Width and length: 54 x 14cm, Aspect ratio: 3.8*
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d27c9574/full/3500,/0/default.jpg" class="" >}}
 
-
 On[ this 1898 map](https://collections.leventhalmap.org/search/commonwealth:1g05ht759) of the Commonwealth Avenue Street Railway Company, pastels colors distinguish different towns in the Greater Boston area. A bright red railroad line leads to Norumbega Park, bursting at the western edge of Newton’s seams with carnival attractions: soda fountain, boat house, merry-go-round, and much more. In the late 19th century, private railway companies often built destination parks at the end of their line to encourage patronage and incentivize ridership. In the case of Norumbega Park, riders were also incentivized by “the long open cars”—proudly built by J.M. Jones Sons of West Troy, N.Y.—which presumably delivered a luxurious journey to this luxurious destination.
 
-#### Henry M. Wightman, [Plan of proposed Muddy River improvement, showing contours : July 23, 1881](https://collections.leventhalmap.org/search/commonwealth:ht2503141) (1881)
+#### Henry M. Wightman, *[Plan of proposed Muddy River improvement, showing contours : July 23, 1881](https://collections.leventhalmap.org/search/commonwealth:ht2503141)* (1881)
 
-Width and length: 94 x 22cm, Aspect ratio: 4.27
+*Width and length: 94 x 22cm, Aspect ratio: 4.27*
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht2503159/full/3500,/0/default.jpg" class="" >}}
 
@@ -52,9 +51,9 @@ How does one “plan” a river? Originally part of the Back Bay salt marsh, the
 
 Created for the Park Department, the plan represents a point-in-time snapshot of the landscape known today as the Back Bay Fens (although the provisional title of ”Back Bay Park” is visible at the eastern edge of the map). Winding from the Boston Common all the way to Jamaica Pond, this plan captures one leg of Olmsted’s famous “Emerald Necklace” park system.
 
-#### Harbour Commissioers of Montreal, [Profile of the river St. Lawrence between Montreal and Quebec shewing the deepening of the ship channel](https://collections.leventhalmap.org/search/commonwealth:4m90fh79t) (1878)
+#### Harbour Commissioers of Montreal, [*Profile of the river St. Lawrence between Montreal and Quebec shewing the deepening of the ship channe*l](https://collections.leventhalmap.org/search/commonwealth:4m90fh79t) (1878)
 
-Width and length: 97 x 21cm, Aspect ratio: 4.61
+*Width and length: 97 x 21cm, Aspect ratio: 4.61*
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fh80k/full/3500,/0/default.jpg" >}}
 
@@ -67,9 +66,9 @@ This river profile, published in 1878, documents the importance of the St. Lawre
 
 The map highlights the centrality of long, natural features—like the St. Lawrence River—to 19th century urban economies. The river had to be dredged in order to make the landscape navigable for larger vessels, which would improve the productive capacities of the region. Meanwhile, the dredging itself created its own constellation of economic activity; as the map notes under the “Ship Channel” header in the top-right hand corner, the monetary “Expenditure for 20 ft. of depth” totaled $1.2 million in 1878, over $38 million today when adjusted for inflation.
 
-#### James F. Baldwin, [A plan & profile of the Boston & Lowell Railroad](https://collections.leventhalmap.org/search/commonwealth:9s161b444)  \[1836?]
+#### James F. Baldwin, *[A plan & profile of the Boston & Lowell Railroad](https://collections.leventhalmap.org/search/commonwealth:9s161b444)* \[1836?]
 
-Width and length: 101 x 20cm, Aspect ratio: 5.5
+*Width and length: 101 x 20cm, Aspect ratio: 5.5*
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161b45d/full/3500,/0/default.jpg" >}}
 
@@ -79,9 +78,9 @@ Railroads and canals feature prominently in the category of “long maps,” and
 
 In other words, this long map also depicts how geography and monopoly intersected on the tracks of a railroad.
 
-#### Richard P. Mallory, [Panoramic view from Bunker Hill Monument](https://collections.leventhalmap.org/search/commonwealth:3f463237t)  (1848)
+#### Richard P. Mallory, *[Panoramic view from Bunker Hill Monument](https://collections.leventhalmap.org/search/commonwealth:3f463237t)* (1848)
 
-Width and length: 120 x 17cm, Aspect ratio: 7
+*Width and length: 120 x 17cm, Aspect ratio: 7*
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4632383/full/3500,/0/default.jpg" class="" >}}
 
@@ -89,9 +88,9 @@ Looking towards Boston from the Bunker Hill Monument, this [1848 panoramic view]
 
 Altogether, the view positions mid-19th century Boston as the center of a much wider system, tying together the urban, coastal, and mountainous regions of New England as parts of the same whole.
 
-#### Board of Harbor and Land Commissioners of Massachusetts, [Plan of location of projected ship canal from Taunton River to Boston Harbor, through Weymouth Fore River ... Frank W. Hodgdon, engineer](https://collections.leventhalmap.org/search/commonwealth:js956k17g) (1902)
+#### Board of Harbor and Land Commissioners of Massachusetts, *[Plan of location of projected ship canal from Taunton River to Boston Harbor, through Weymouth Fore River ... Frank W. Hodgdon, engineer](https://collections.leventhalmap.org/search/commonwealth:js956k17g)* (1902)
 
-Width and length: 174 x 18cm, Aspect ratio: 9.6
+*Width and length: 174 x 18cm, Aspect ratio: 9.6*
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj46s/full/3500,/0/default.jpg" class="" >}}
 
@@ -99,25 +98,24 @@ Some plans just fall through. [This very long map](https://collections.leventhal
 
 Those familiar with the South Shore of Massachusetts will be familiar with what happened in its place: the Cape Cod Canal, constructed beginning in 1909, which chiseled 17 miles off the Massachusetts coast and saved seafaring vessels en route to Boston an unseemly detour around Cape Cod.
 
-#### [Map of the Mississippi River, from Cairo to the Gulf of Mexico, showing the position of the rebel fortifications at the mouth of the River, those already taken and those remaining to be captured, etc](https://collections.leventhalmap.org/search/commonwealth:kk91fs62t) (1862)
+#### *[Map of the Mississippi River, from Cairo to the Gulf of Mexico, showing the position of the rebel fortifications at the mouth of the River, those already taken and those remaining to be captured, etc](https://collections.leventhalmap.org/search/commonwealth:kk91fs62t)* (1862)
 
-Width and length: 12 x 155cm, Aspect ratio: 12.9
+*Width and length: 12 x 155cm, Aspect ratio: 12.9*
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/long map 1.png" class="" >}}
 
 A large portion of the Mississippi River, from Cairo, Illinois to the bayous of Louisiana, is depicted in [this 1862 map](https://collections.leventhalmap.org/search/commonwealth:kk91fs62t). It is detached from an illustrated newspaper published in 1862, which means in its original published context, the map would probably not have been laid out this long. While its primary purpose was to show Confederate fortifications along the mouth of the Mississippi, it also highlights the strange twists, turns, and names that pop up along America’s longest river. Near the border of Louisiana and Mississippi, for example, you’ll note the “Raccourci Cut Off”—a shortcut engineered by the State of Louisiana in 1848 that saved 19 miles on the riverway commute and created a new oxbow lake and island in the process. Legend has it that the ghost of an old paddle steamer still haunts the Raccourci Cutoff to this day.
 
-#### Aaron Koelker, [A map of the Boston Marathon : since 1897](https://collections.leventhalmap.org/search/commonwealth:4b29kf660)  (2024)
+#### Aaron Koelker, *[A map of the Boston Marathon : since 1897](https://collections.leventhalmap.org/search/commonwealth:4b29kf660)* (2024)
 
-Width and length: 5 x 325cm, Aspect ratio: 65
+*Width and length: 5 x 325cm, Aspect ratio: 65*
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/long map 2.png" class="" >}}
 
-
-Aaron Koelker’s “A map of the Boston Marathon”—the inspiration for this week’s From the Vault map collection showing—represents the latest in a lenghty tradition of long mapping. An astonishing 65 times taller than it is wide, the receipt map captures iconic Boston landmarks, like the Fenway Citgo sign and Heartbreak Hill, along the Marathon route. Although Koelker considers this map to be part of a “minor exploration of impractically long mapping,” he also admits that the Marathon receipt map does have, in its own way, a practicality:
+Aaron Koelker’s “[A map of the Boston Marathon](https://collections.leventhalmap.org/search/commonwealth:4b29kf660)”—the inspiration for this week’s From the Vault map collection showing—represents the latest in a lenghty tradition of long mapping. An astonishing 65 times taller than it is wide, the receipt map captures iconic Boston landmarks, like the Fenway Citgo sign and Heartbreak Hill, along the Marathon route. Although Koelker considers this map to be part of a “minor exploration of impractically long mapping,” he also admits that the Marathon receipt map does have, in its own way, a practicality:
 
 While the map is mostly meant to be a novelty, I did want to give it some practical function. Back when I ran cross country, I always wanted to know where the uphill sections were so that I could plan where I should speed up or save my energy for an upcoming hill. … the Boston Marathon route has plenty of hills, and I was working at a large enough scale that it made sense to show them (which you can see as hatched sections along the route).
 
-As you ponder the long maps on display here, we invite you to consider their practicality, their impracticality, and the social and geographical contexts that might have driven a cartographer to make such long maps. In some cases, maybe it was to efficiently depict travel routes; in other cases, maybe a long map was the best way to advertise how two places could be connected. 
+As you ponder the long maps on display here, we invite you to consider their practicality, their impracticality, and the social and geographical contexts that might have driven a cartographer to make such long maps. In some cases, maybe it was to efficiently depict travel routes; in other cases, maybe a long map was the best way to advertise how two places could be connected.
 
 What do you notice when you look at the entire route of the Boston Marathon on a single receipt?
