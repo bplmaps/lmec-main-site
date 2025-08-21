@@ -23,17 +23,15 @@ If we organized maps by something like their length, would we still see patterns
 
 During *Cartography at Length* we looked into some of the longest and tallest maps in the LMEC archives, all of which are at least 3 times as wide as they are tall (or vice versa). From rivers to railroads, from green parks to gold rushes, these maps document how cartographers have fixated on long landscapes—including one 12-foot long map of the Boston Marathon, printed on a receipt!
 
-#### Geo. H. Walker & Co, *[Map showing the terminal facilities of Boston](https://collections.leventhalmap.org/search/commonwealth:wd376810x)* (1902)
+#### John J. Pratt, *[Map of the route to the Kansas gold mines : prepared from government and other surveys : showing the most direct railroad routes from the Atlantic cities to the Missouri River](https://collections.leventhalmap.org/search/commonwealth:x633f905j)* (1859)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj693/full/,1200/0/default.jpg" class="" >}}
+*Width and length: 81 x 20cm, Aspect ratio: 3.8*
 
-[This map](https://collections.leventhalmap.org/search/commonwealth:wd376810x) provides a holistic illustration of how ferries contributed to the transportation landscape at the onset of the 20th Century.
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n767j/full/3500,/0/default.jpg" class="" >}}
 
-In 1902, railroads and steamboats were the predominant method of shipping freight and moving passengers. To make regional or long-distance connections more efficient, rail and boat terminals were often built in proximity to each other and were sometimes run by the same transportation companies. At this time, bridges were noticeably absent and ferries served as quick connections between hubs across the Mystic River and Boston Harbor.
+Angular black lines stitch together cities from Boston to Santa Fe in [this 1859 map](https://collections.leventhalmap.org/search/commonwealth:x633f905j) of the Gold Rush. The railroad routes shown here stretch thousands of miles and would be traversed by over 300,000 gold-seeking settlers between 1848 and 1861. Maps like this one, which document where gold was and how prospectors could get there, encouraged the desire for wealth and riches just as much as the gossip and hearsay that traveled back east from California. 
 
-The Boston and Maine Railroad & M.S.S. Co. Ferry spanned the Mystic River to connect passengers between the railroad’s Mystic Wharf terminal and the New England Gas & Coke Company plant in Everett. The Winnisimmet Ferry connected the North End and Chelsea and the East Boston Ferries connected the wharves of Downtown Boston with the Boston & Maine and Boston & Albany railroad terminals in East Boston. In addition to these local ferry services, dozens of steamboat companies operated along Boston’s waterfront, transporting passengers locally and abroad.
-
-Today, most shipping transport is done by truck, virtually eliminating the need for many of the terminals in this map. Ferry terminals also disappeared along with the rail hubs, and for decades, there was no boat service that brought passengers across the Mystic River. Now, only the Encore Hotel water shuttle makes the connection back and forth across the river. Fortunately, the MBTA and Seaport Ferries continue to make robust service stops at docks in Downtown Boston, the Seaport, Charlestown, and East Boston.
+The parts of central Colorado marked “Gold Region” are now home to familiar cities; “Pikes Peak” would become Colorado Springs, for instance, while the name “Denvir City” is stuffed behind a much larger label for “Mines.” Just visible at the bottom of the map, modern-day Oklahoma is listed as “Indian Territory”—a reminder of the millions of Indigenous lives and distinct societies that were obliterated or forcibly relocated during this period of genocidal western expansion and settler colonial capture.
 
 #### Compiled by Whitman & Breck, Engineers, *[Map of the eastern junc. Broad Sound Pier, & Pt. Shirley railroad: steamboat lines and connections: established for the purpose of developing the most popular seashore resort on the Atlantic Coast](https://collections.leventhalmap.org/search/commonwealth:wd376689p)* \[1880–1889]
 
