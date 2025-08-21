@@ -9,14 +9,14 @@ parentCard: true
 aliases:
   - /k12
 quicklinks:
-- text: Book a remote visit for my class with Leventhal Center educators
+- text: Book a school visit
   link: education/k12/school-visits
   linkType: onsite
-- text: Find resources for teaching with maps and geographic sources
-  link: education/k12/teach-it-yourself
+- text: Join a teacher workshop
+  link: education/k12/professional-development
   linkType: onsite
-- text: Contact a member of the Leventhal Center's education team
-  link: "mailto:education@leventhalmap.org"
+- text: Explore a digital exhibition with students
+  link: exhibitions/digital-exhibitions/
   linkType: mailto
 
 ---

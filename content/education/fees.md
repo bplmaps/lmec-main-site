@@ -16,10 +16,10 @@ Cost should not present a barrier for bringing our educational programs to your 
 
 ## K-12 programs
 
-|  | Visits to LMEC |
-| --- | --- | 
-| Boston Public Schools | Free | 
-| Public schools other than BPS | $200 | 
+|  | Visits to LMEC | Virtual Classroom |  Visits	Workshops
+| --- | --- | --- | --- |
+| Boston Public Schools | Free | Free | Free
+| Schools Outside BPS | $200 for the first group</br></br>$150 for additional groups from the same grade and school within the same week. | $125 per group (up to 30 students)</br></br>$100 per classroom when scheduling the same program topic for three or more classrooms. | $275
 
 ## University programs
 
