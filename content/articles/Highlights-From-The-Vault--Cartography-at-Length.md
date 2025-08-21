@@ -21,7 +21,7 @@ tags:
 
 > *On August 8, we hosted **From The Vault — Cartography at Length: The Longest Maps in the Library.***
 
-If we organized maps by something like their length, would we still see patterns emerge? Could we learn something about geography and history from looking at the longest maps in a library? It turns out, the answer is “Yes.”
+**If we organized maps by something like their length, would we still see patterns emerge? Could we learn something about geography and history from looking at the longest maps in a library? It turns out, the answer is “Yes.”**
 
 During *Cartography at Length* we looked into some of the longest and tallest maps in the LMEC archives, all of which are at least 3 times as wide as they are tall (or vice versa). From rivers to railroads, from green parks to gold rushes, these maps document how cartographers have fixated on long landscapes—including one 12-foot long map of the Boston Marathon, printed on a receipt!
 
