@@ -120,4 +120,4 @@ While the map is mostly meant to be a novelty, I did want to give it some practi
 
 As you ponder the long maps on display here, we invite you to consider their practicality, their impracticality, and the social and geographical contexts that might have driven a cartographer to make such long maps. In some cases, maybe it was to efficiently depict travel routes; in other cases, maybe a long map was the best way to advertise how two places could be connected.
 
-What do you notice when you look at the entire route of the Boston Marathon on a single receipt?
+**What do you notice when you look at the entire route of the Boston Marathon on a single receipt?**
