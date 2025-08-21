@@ -61,10 +61,10 @@ Created for the Park Department, the plan represents a point-in-time snapshot of
 
 This river profile, published in 1878, documents the importance of the St. Lawrence River to the urban network of southeastern Canada. Clocking in at a formidable aspect ratio of 4.6, [this chart](https://collections.leventhalmap.org/search/commonwealth:4m90fh79t) depicts a wide range different data, including:
 
-* Blue "low water level": lowest level water could be; want river floor deep enough the largest/heaviest ship would not get stuck (they decided 25' deep)
-* Black outline: original floor depth
-* Shaded red: what's been removed to make floor 23' deep
-* Crosshatched red: what still needs to be removed to make floor 25' deep
+* B**lue "low water level":** lowest level water could be; want river floor deep enough the largest/heaviest ship would not get stuck (they decided 25' deep)
+* **Black outline:** original floor depth
+* **Shaded red:** what's been removed to make floor 23' deep
+* **Crosshatched red:** what still needs to be removed to make floor 25' deep
 
 The map highlights the centrality of long, natural features—like the St. Lawrence River—to 19th century urban economies. The river had to be dredged in order to make the landscape navigable for larger vessels, which would improve the productive capacities of the region. Meanwhile, the dredging itself created its own constellation of economic activity; as the map notes under the “Ship Channel” header in the top-right hand corner, the monetary “Expenditure for 20 ft. of depth” totaled $1.2 million in 1878, over $38 million today when adjusted for inflation.
 
