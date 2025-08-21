@@ -98,3 +98,20 @@ Width and length: 174 x 18cm, Aspect ratio: 9.6
 Some plans just fall through. [This very long map](https://collections.leventhalmap.org/search/commonwealth:js956k17g) from 1902 depicts a ship canal from the Taunton River to the Boston Harbor that would never be built. Originally devised at the turn of the twentieth century, the Taunton-Weymouth canal was to span 35 miles and cost nearly $58 million at the time (for reference, the Panama Canal is 50 miles long). The price tag became the downfall of this ambitious project. 
 
 Those familiar with the South Shore of Massachusetts will be familiar with what happened in its place: the Cape Cod Canal, constructed beginning in 1909, which chiseled 17 miles off the Massachusetts coast and saved seafaring vessels en route to Boston an unseemly detour around Cape Cod.
+
+#### [Map of the Mississippi River, from Cairo to the Gulf of Mexico, showing the position of the rebel fortifications at the mouth of the River, those already taken and those remaining to be captured, etc](https://collections.leventhalmap.org/search/commonwealth:kk91fs62t) (1862)
+
+Width and length: 12 x 155cm, Aspect ratio: 12.9
+
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/long map 1.png" class="" >}}
+
+A large portion of the Mississippi River, from Cairo, Illinois to the bayous of Louisiana, is depicted in [this 1862 map](https://collections.leventhalmap.org/search/commonwealth:kk91fs62t). It is detached from an illustrated newspaper published in 1862, which means in its original published context, the map would probably not have been laid out this long. While its primary purpose was to show Confederate fortifications along the mouth of the Mississippi, it also highlights the strange twists, turns, and names that pop up along America’s longest river. Near the border of Louisiana and Mississippi, for example, you’ll note the “Raccourci Cut Off”—a shortcut engineered by the State of Louisiana in 1848 that saved 19 miles on the riverway commute and created a new oxbow lake and island in the process. Legend has it that the ghost of an old paddle steamer still haunts the Raccourci Cutoff to this day.
+
+#### Geo. H. Walker & Co., [Map of Commonwealth Avenue Street Railway Company, and connecting lines : showing route to Norumbega Park](https://collections.leventhalmap.org/search/commonwealth:1g05ht759) (1898)
+
+Width and length: 54 x 14cm, Aspect ratio: 3.8
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d27c9574/full/3500,/0/default.jpg" class="" >}}
+
+
+On[ this 1898 map](https://collections.leventhalmap.org/search/commonwealth:1g05ht759) of the Commonwealth Avenue Street Railway Company, pastels colors distinguish different towns in the Greater Boston area. A bright red railroad line leads to Norumbega Park, bursting at the western edge of Newton’s seams with carnival attractions: soda fountain, boat house, merry-go-round, and much more. In the late 19th century, private railway companies often built destination parks at the end of their line to encourage patronage and incentivize ridership. In the case of Norumbega Park, riders were also incentivized by “the long open cars”—proudly built by J.M. Jones Sons of West Troy, N.Y.—which presumably delivered a luxurious journey to this luxurious destination.
