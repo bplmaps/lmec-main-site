@@ -42,15 +42,15 @@ Width and length: 54 x 14cm, Aspect ratio: 3.8
 
 On[ this 1898 map](https://collections.leventhalmap.org/search/commonwealth:1g05ht759) of the Commonwealth Avenue Street Railway Company, pastels colors distinguish different towns in the Greater Boston area. A bright red railroad line leads to Norumbega Park, bursting at the western edge of Newton’s seams with carnival attractions: soda fountain, boat house, merry-go-round, and much more. In the late 19th century, private railway companies often built destination parks at the end of their line to encourage patronage and incentivize ridership. In the case of Norumbega Park, riders were also incentivized by “the long open cars”—proudly built by J.M. Jones Sons of West Troy, N.Y.—which presumably delivered a luxurious journey to this luxurious destination.
 
-#### Geo. H. Walker & Co, *[Map showing the routes of The Winthrop Steamboat Co](https://collections.leventhalmap.org/search/commonwealth:x059cc723)* \[ca. 1896]
+#### Henry M. Wightman, [Plan of proposed Muddy River improvement, showing contours : July 23, 1881](https://collections.leventhalmap.org/search/commonwealth:ht2503141) (1881)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:b85162086/full/1200,/0/default.jpg" class="" >}}
+Width and length: 94 x 22cm, Aspect ratio: 4.27
 
-[This chart](https://collections.leventhalmap.org/search/commonwealth:x059cc723) reads: “During the season of 1896, The Winthrop Steamboat Co. will run its boats O. E. Lewis and Winthrop regularly, weather permitting, between Boston and Winthrop, and its new boat, Cottage Park between Boston and Cottage Park. With its increased facilities for doing business, the Company expects to accommodate its patrons as never before. Official Running Time will be announced later.”
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht2503159/full/3500,/0/default.jpg" class="" >}}
 
-The Winthrop Steamboat Company made a convenient connection to Downtown Boston for Winthrop residents who had work or business there, and served as a primary connection to the Boston, Winthrop, and Shore Railroad to bring city beachgoers to Winthrop and Revere’s beaches during the summer months. In this regard, the Winthrop Steamboat Company replaced ferry service that had once been provided by the Eastern Junction, Broad Sound Pier, & Point Shirley Railroad prior to its merger with the other short line railroads branching off the Eastern Railroad.
+How does one “plan” a river? Originally part of the Back Bay salt marsh, the narrow, tidal Muddy River formed the boundary between Boston and Brookline. By 1880, urban growth polluted and frequently flooded the once-flowing tributary. That year, Frederick Law Olmsted proposed improvements to the Muddy River. [This plan](https://collections.leventhalmap.org/search/commonwealth:ht2503141)—drawn by a City of Boston engineer one year later, in 1881—depicts the contours of Olmsted’s proposal with red lines. 
 
-Today, the MBTA runs full 7-day service to Winthrop between 6:40am and 7:15pm, making a loop of stops at Winthrop Landing, Logan Airport, Central Wharf, and Seaport/Fan Pier. Weekend service runs from 9am until 8:10pm and combines service with the Quincy Ferry.
+Created for the Park Department, the plan represents a point-in-time snapshot of the landscape known today as the Back Bay Fens (although the provisional title of ”Back Bay Park” is visible at the eastern edge of the map). Winding from the Boston Common all the way to Jamaica Pond, this plan captures one leg of Olmsted’s famous “Emerald Necklace” park system.
 
 #### *[Bird's eye view of Boston Harbor and south shore to Provincetown showing steamboat routes](https://collections.leventhalmap.org/search/commonwealth:wd3760753)* (1901)
 
