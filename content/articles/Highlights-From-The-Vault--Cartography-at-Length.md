@@ -89,10 +89,12 @@ Looking towards Boston from the Bunker Hill Monument, this [1848 panoramic view]
 
 Altogether, the view positions mid-19th century Boston as the center of a much wider system, tying together the urban, coastal, and mountainous regions of New England as parts of the same whole.
 
-#### Boston & Gloucester Steamship Co., *[Boston & Gloucester Steamboat Co.: summer season 1889](https://collections.leventhalmap.org/search/commonwealth:0r96fp956)* (1889)
+#### Board of Harbor and Land Commissioners of Massachusetts, [Plan of location of projected ship canal from Taunton River to Boston Harbor, through Weymouth Fore River ... Frank W. Hodgdon, engineer](https://collections.leventhalmap.org/search/commonwealth:js956k17g) (1902)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp96g/full/,1200/0/default.jpg" class="" >}}
+Width and length: 174 x 18cm, Aspect ratio: 9.6
 
-Seaside retreats and ferries that toured the coastlines have been popular summer vacation activities since the advent of the steamboat. In the late 1800s, Gloucester was a popular long-distance ferry destination for Bostonians. [This brochure](https://collections.leventhalmap.org/search/commonwealth:0r96fp956) was distributed in the summer of 1889 by the Boston & Gloucester Steamboat Company to promote its recreational ferry service to Gloucester. These trips were just as much about sight-seeing from the ferry as they were about reaching the vacation destination.
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj46s/full/3500,/0/default.jpg" class="" >}}
 
-Today, taking a ferry to one of Greater Boston’s many quaint coastal towns is still one of the summer’s best activities to do on the water. The MBTA runs ferries to Hull, which is most well known for the beautiful Nantasket Beach. Boston Harbor City Cruises also runs private, long-distance ferries to Provincetown via the Cape Cod Fast Ferry out of Downtown Boston and Salem. Alternatively, you can also get to the Cape from Boston’s Seaport via Bay State Cruise Company’s Provincetown Fast Ferry.
+Some plans just fall through. [This very long map](https://collections.leventhalmap.org/search/commonwealth:js956k17g) from 1902 depicts a ship canal from the Taunton River to the Boston Harbor that would never be built. Originally devised at the turn of the twentieth century, the Taunton-Weymouth canal was to span 35 miles and cost nearly $58 million at the time (for reference, the Panama Canal is 50 miles long). The price tag became the downfall of this ambitious project. 
+
+Those familiar with the South Shore of Massachusetts will be familiar with what happened in its place: the Cape Cod Canal, constructed beginning in 1909, which chiseled 17 miles off the Massachusetts coast and saved seafaring vessels en route to Boston an unseemly detour around Cape Cod.
