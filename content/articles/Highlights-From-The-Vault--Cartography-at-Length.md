@@ -7,7 +7,9 @@ date: 2025-08-08T18:00:00.000Z
 author: Ian Spangler
 description: >-
   Check out these highlights from the July 25, 2025 From The Vault — Cartography
-  at Length: The Longest Maps in the Library.
+  at Length: The Longest Maps in the Library. This collections showing event was
+  specially curated by our Assistant Curator of Digital & Participatory
+  Geography, Ian Spangler.
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fh80k/full/3500,/0/default.jpg
 backgroundImage: >-
