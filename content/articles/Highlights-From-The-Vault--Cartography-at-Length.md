@@ -33,15 +33,14 @@ Angular black lines stitch together cities from Boston to Santa Fe in [this 1859
 
 The parts of central Colorado marked “Gold Region” are now home to familiar cities; “Pikes Peak” would become Colorado Springs, for instance, while the name “Denvir City” is stuffed behind a much larger label for “Mines.” Just visible at the bottom of the map, modern-day Oklahoma is listed as “Indian Territory”—a reminder of the millions of Indigenous lives and distinct societies that were obliterated or forcibly relocated during this period of genocidal western expansion and settler colonial capture.
 
-#### Compiled by Whitman & Breck, Engineers, *[Map of the eastern junc. Broad Sound Pier, & Pt. Shirley railroad: steamboat lines and connections: established for the purpose of developing the most popular seashore resort on the Atlantic Coast](https://collections.leventhalmap.org/search/commonwealth:wd376689p)* \[1880–1889]
+#### Geo. H. Walker & Co., [Map of Commonwealth Avenue Street Railway Company, and connecting lines : showing route to Norumbega Park](https://collections.leventhalmap.org/search/commonwealth:1g05ht759) (1898)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj64q/full/1200,/0/default.jpg" class="" >}}
+Width and length: 54 x 14cm, Aspect ratio: 3.8
 
-Depicted is [the plan for the Eastern Junction, Broad Sound Pier, & Point Shirley Railroad](https://collections.leventhalmap.org/search/commonwealth:wd376689p) at the time of its charter in 1880.
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d27c9574/full/3500,/0/default.jpg" class="" >}}
 
-In the late 1870s, Revere Beach became a popular summer retreat for families in Boston and surrounding urban neighborhoods. Initially, the Boston, Revere Beach, & Lynn Narrow-Gauge Railroad was the main transport option for visitors. However, the Eastern Junction, Broad Sound Pier, & Point Shirley company began chartering multiple ferry routes to bring vacationers to the beach. It ran steamboat ferries from Long Wharf, Central Wharf, and Rowes Wharf to Winthrop Landing and Point Shirley, as well as an additional ferry between Lynn Harbor and Broad Sound Pier in Revere.
 
-The branch line operated for three years “for the purpose of developing the most popular seashore resort on the Atlantic Coast.” In the fall of 1883, both railroads and their associated ferry services merged into the Boston, Winthrop, and Shore Railroad. In 1896, Revere Beach was reopened as the first public beach in the United States. Regional rail and ferry service to Revere and Winthrop’s beaches continued until 1940 and it can still be reached by public transit via the MBTA’s Blue Line. The beach’s early success as a seaside destination wouldn’t have been possible without the charter ferries and railroads whisking passengers up and down the coastline.
+On[ this 1898 map](https://collections.leventhalmap.org/search/commonwealth:1g05ht759) of the Commonwealth Avenue Street Railway Company, pastels colors distinguish different towns in the Greater Boston area. A bright red railroad line leads to Norumbega Park, bursting at the western edge of Newton’s seams with carnival attractions: soda fountain, boat house, merry-go-round, and much more. In the late 19th century, private railway companies often built destination parks at the end of their line to encourage patronage and incentivize ridership. In the case of Norumbega Park, riders were also incentivized by “the long open cars”—proudly built by J.M. Jones Sons of West Troy, N.Y.—which presumably delivered a luxurious journey to this luxurious destination.
 
 #### Geo. H. Walker & Co, *[Map showing the routes of The Winthrop Steamboat Co](https://collections.leventhalmap.org/search/commonwealth:x059cc723)* \[ca. 1896]
 
