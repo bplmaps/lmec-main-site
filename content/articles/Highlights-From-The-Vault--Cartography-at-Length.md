@@ -79,15 +79,15 @@ Railroads and canals feature prominently in the category of “long maps,” and
 
 In other words, this long map also depicts how geography and monopoly intersected on the tracks of a railroad.
 
-#### Nantasket Beach Steamboat Company, *[Boston to Nantasket Beach and Plymouth](https://collections.leventhalmap.org/search/commonwealth:0r96fq413)* \[ca. 1915]
+#### Richard P. Mallory, [Panoramic view from Bunker Hill Monument](https://collections.leventhalmap.org/search/commonwealth:3f463237t)  (1848)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq42c/full/,1200/0/default.jpg" class="" >}}
+Width and length: 120 x 17cm, Aspect ratio: 7
 
-Through the early 20th century, Hull became famous for Nantasket Beach and Paragon Park, which attracted summer vacationers from all over Greater Boston. The Nantasket Beach Steamboat Company grew a successful business by bringing passengers from Boston and Hingham via ferry across Boston Harbor. The steamboat company also ran to Plymouth, offering easy access to a quiet retreat on the historic waterfront.
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4632383/full/3500,/0/default.jpg" class="" >}}
 
-[This map](https://collections.leventhalmap.org/search/commonwealth:0r96fq413) was originally part of a promotional pamphlet advertising the Nantasket Beach Steamboat Company’s service to these fashionable summer destinations. Paragon Park has since closed, but Nantasket Beach continues to be a popular summertime beach destination. 
+Looking towards Boston from the Bunker Hill Monument, this [1848 panoramic view](https://collections.leventhalmap.org/search/commonwealth:3f463237t) captures Boston’s regional geography in a single scene. The “Laboratory Chimney” (#96) sputters smoke over Roxbury, while sailboats pockmark the Boston Harbor from Long Wharf to Cunard’s (#38). The Fletching (#109) and Maine (#87) railroads carve a triangle past the “McLean Insane Hospital” (#114), and the now-bustling city of Somerville (#119) is represented with open pasture and empty fields. Distant ecological features like Mount Monadnock (#125) and the White Mountains (#133) are represented on the horizon line. 
 
-The MBTA runs regular commuter ferry service to Hull as part of the Hingham-Hull-Logan Airport-Boston route, which expands the utility of the ferry beyond vacationing. Today, there is no ferry service connecting Boston to Plymouth.
+Altogether, the view positions mid-19th century Boston as the center of a much wider system, tying together the urban, coastal, and mountainous regions of New England as parts of the same whole.
 
 #### Boston & Gloucester Steamship Co., *[Boston & Gloucester Steamboat Co.: summer season 1889](https://collections.leventhalmap.org/search/commonwealth:0r96fp956)* (1889)
 
