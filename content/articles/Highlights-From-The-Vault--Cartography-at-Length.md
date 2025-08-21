@@ -9,9 +9,9 @@ description: >-
   Check out these highlights from the July 25, 2025 From The Vault — Cartography
   at Length: The Longest Maps in the Library.
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4632383/3794,173,7630,2563/,1200/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fh80k/full/3500,/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4632383/3794,173,7630,2563/,1200/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fh80k/full/3500,/0/default.jpg
 tags:
   - ftv highlights
   - from the vault
@@ -67,13 +67,17 @@ This river profile, published in 1878, documents the importance of the St. Lawre
 
 The map highlights the centrality of long, natural features—like the St. Lawrence River—to 19th century urban economies. The river had to be dredged in order to make the landscape navigable for larger vessels, which would improve the productive capacities of the region. Meanwhile, the dredging itself created its own constellation of economic activity; as the map notes under the “Ship Channel” header in the top-right hand corner, the monetary “Expenditure for 20 ft. of depth” totaled $1.2 million in 1878, over $38 million today when adjusted for inflation.
 
-#### Geo. H. Walker & Co, *[Boston Harbor](https://collections.leventhalmap.org/search/commonwealth:ng454q77c)* (1897)
+#### James F. Baldwin, [A plan & profile of the Boston & Lowell Railroad](https://collections.leventhalmap.org/search/commonwealth:9s161b444)  \[1836?]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k422m36m/full/1200,/0/default.jpg" >}}
+Width and length: 101 x 20cm, Aspect ratio: 5.5
 
-Published in 1897 by the Walker Lithograph & Publishing Company, Boston Harbor provides a bird’s eye view of the harbor, including the major landmarks and steamboat routes characterizing Boston’s shoreline. Centered on this map are the economic strongholds of 1800s Boston: industrial South Boston, the historic waterfront along Atlantic Avenue in Downtown Boston, and the major East Boston shipping and rail hub connecting Boston to northern New England and the world. This map also highlights many Revolutionary and Civil War-era island forts scattered throughout the harbor, and offers a glimpse into the picturesque coastal village towns surrounding the heart of the harbor.
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161b45d/full/3500,/0/default.jpg" >}}
 
-From this aerial view, [this map](https://collections.leventhalmap.org/search/commonwealth:ng454q77c) illustrates the local ferry connections that carried people through the harbor during the golden age of the steamboat. In the bottom left-hand corner of the frame, the East Boston Ferries run between Lewis Mall Wharf in East Boston and “Steam Boat Landing” in the North End, which shipbuilders and dock workers might’ve used to get to and from work on the waterfront. And departing from Lewis Wharf, Central Wharf, and Rowes Wharf are the ferries that brought passengers to the region’s summertime retreats: Winthrop via the Winthrop Steamboat Company, Nahant via the “Nahant Line Steamers,” and Hull via the Nantasket Beach Steamboat Company.
+Railroads and canals feature prominently in the category of “long maps,” and oftentimes, these long landscapes appear beside one another in the same maps. Such is the case with [this 1836 map](https://collections.leventhalmap.org/search/commonwealth:9s161b444) of the Boston & Lowell (B\&L) Railroad, in which the railroad itself follows the contours of the Middlesex Canal (labeled “M. Canal” or just “Canal”). The B\&L Railroad Company incorporated in 1830 and faced pushback from the canal investors, who feared the railroad would render their canal obsolete. These economic disputes translated to political ones, as railroad companies needed to convince the Massachusetts state legislature to fund their projects. In the original charter of the B\&L Railroad Company states:
+
+“no other railroad than the one hereby granted, shall, within thirty years from and after the passing of this act, be authorized to be made, leading from Boston, Charlestown, or Cambridge, to Lowell, or from Boston, Charlestown, or Cambridge, to any place within five miles of the northern termination of the railroad hereby authorized to be made.”
+
+In other words, this long map also depicts how geography and monopoly intersected on the tracks of a railroad.
 
 #### Nantasket Beach Steamboat Company, *[Boston to Nantasket Beach and Plymouth](https://collections.leventhalmap.org/search/commonwealth:0r96fq413)* \[ca. 1915]
 
