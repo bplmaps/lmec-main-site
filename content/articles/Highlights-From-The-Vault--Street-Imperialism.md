@@ -68,3 +68,15 @@ Unlike every other map in this collection, [this plan of a Tokyo neighborhood](h
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8g84tp93w/full/2225,/0/default.jpg" class="" >}}
 
 [This British-made map](https://collections.leventhalmap.org/search/commonwealth:7940g302v) depicts the Egyptian port of Alexandria. Due to its ancient and longstanding history, Alexandria was particularly fascinating to Europeans. This fascination only grew when a little-known young general, Napoleon Bonaparte, conquered Alexandria from its Ottoman rulers. On this map, Napoleon’s old fort is labeled in the city center. Although Alexandria ultimately returned to Ottoman control, it was heavily influenced by European powers, and fell into British hands in 1882. The streets, hotels, military installations, and geographic features present a mix of English, French, and Arabic names that speak to the ethnic divisions within Alexandria.
+
+#### Prussia (Germany). Landesaufnahme. Kartogr. Abteilung, [Peking](https://collections.leventhalmap.org/search/commonwealth:9s161h74w) (1903)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161h755/full/2225,/0/default.jpg" >}}
+
+Beijing, also known as “Peking” in 1903, was the capital of China during the Qing Dynasty. European powers forced the Qing emperors to operate within the highly destructive opium trade and required China to open its cities to European merchants and missionaries. In Beijing, foreigners were restricted to a special area known as the “Legation Quarter,” located just below the Imperial Palace in the middle of the map. Much of the city was ethnically segregated, both inside and outside the Legation Quarter, with German cartographers labelling large areas of the city as “Manchu,” “Chinese,” or “Tatar.” Three years before [this map](https://collections.leventhalmap.org/search/commonwealth:9s161h74w) was made, the Legation Quarter was put to siege by the “Boxers,” Chinese rebels against European authority. The walled military-like layout of the quarter made it possible for the Europeans to hold out against the Boxers.
+
+#### Muneyasu Kageyama, [Tsukiji hatchōbori nihonbashi minami no kuni](https://collections.leventhalmap.org/search/commonwealth:5138qd959) (1859)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3b596d33m/full/2225,/0/default.jpg" class="" >}}
+
+Unlike every other map in this collection, [this plan of a Tokyo neighborhood](https://collections.leventhalmap.org/search/commonwealth:5138qd959) was not made by, or for, Europeans. In the mid-19th century, Japan placed severe restrictions on foreign visitors, only opening to Western merchants by 1856. Tokyo, then called Edo, was home to much of Japan’s feudal nobility, such as the hatamoto clans and daimyo lords. Their residences are labelled here with clan names and insignias. Maps like this one were typically not very scale-accurate, and were intended to guide travelers through the maze-like streets of one of the world’s largest cities. Like modern travel guide maps, this map could be folded and carried in one’s pocket for ease of use.
