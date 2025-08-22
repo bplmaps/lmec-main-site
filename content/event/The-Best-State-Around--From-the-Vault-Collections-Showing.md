@@ -16,7 +16,7 @@ tags:
   - from the vault
 ---
 
-> ***It's not uncommon to be proud of the place you live... but these maps take it to another level!***
+***It's not uncommon to be proud of the place you live... but these maps take it to another level!***
 
 In this *From The Vault*, we'll take a look at some promotional state maps from the 1890s to 1930s. Some maps use comedy to poke fun at the rest of the country, while others espouse the successes and deep history of their land to capture a potential visitor's attention. Each state does things a little differently and we invite visitors to answer the question: *"What truly is the best state around?"*
 
