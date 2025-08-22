@@ -47,8 +47,8 @@ We offer the following guided class visits in a 30-45 minute synchronous virtual
 
 ## Booking a Program {#booking}
 
-* K-12 visits to the LMEC can be booked from Monday to Thursday at 9:30 am and 11 am. Each session lasts 45-60 minutes.
-* Due to the size of our gallery, we can welcome groups of up to 16 students and 2 chaperones per time slot. At least one chaperone must be the lead or cooperating teacher of the school group.
+* K-12 guided class visits can be booked from Monday to Wednesday at 9:30 am and 11:00 am. Each session lasts 45-60 minutes.
+* Due to the size of our gallery, we can welcome groups of up to 32 students and 4 chaperones per time slot. At least one chaperone must be the lead or cooperating teacher of the school group.
 * For groups larger than 32, you may book multiple time slots in one day or across multiple days.
 * All groups are required to make reservations at least **one month in advance**. To ensure a smooth visit, all school groups must register using the online form below.
 

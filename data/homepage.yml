@@ -91,13 +91,11 @@ audiences:
         and social studies to STEM and world history
       color: '#799351'
       links:
-        - title: Book a classroom visit
+        - title: Book a school visit
           link: education/k12/school-visits
-        - title: See resources for teaching with maps
-          link: education/k12/teach-it-yourself
-        - title: Apply for a professional development workshop
+        - title: Join a teacher workshop
           link: education/k12/professional-development
-        - title: Show students a digital exhibition
+        - title: Explore a digital exhibition with students
           link: exhibitions/digital-exhibitions/
     - name: For researchers
       description: >-
