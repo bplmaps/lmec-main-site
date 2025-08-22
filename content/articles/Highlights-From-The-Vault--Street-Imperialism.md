@@ -45,13 +45,11 @@ This map was designed by advertising executive Carl Crow to attract English-spea
 
 [This map of the Philippine island of Luzon](https://collections.leventhalmap.org/search/commonwealth:cc08kx74j) was made by the U.S. Military during the Spanish-American War of 1898. The city of Manila, on the right, was the capital of the Spanish colony of the Philippines, and one of the most important trade cities in southeast Asia. The predominant ethnic group in Manila were the criollo, island-born people of mixed Spanish and indigenous Tagalog descent. They were considered of lower status than the landowning descendants of Spanish nobility. Shortly before the United States took over the Philippines, the city became a battleground for the Philippine Revolution against Spanish rule. Consider how the separation of the city by rivers and canals may have literally split the elites from the creole masses.
 
-#### *[Bird's eye view of Boston Harbor and south shore to Provincetown showing steamboat routes](https://collections.leventhalmap.org/search/commonwealth:wd3760753)* (1901)
+#### François Levernay, [Plan de l'isthme de Suez, de Port-Said, Ismailia et Suez pour servir d'annexe au guide général d'Egypte](https://collections.leventhalmap.org/search/commonwealth:ht250c09t) (1868)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj58k/full/1200,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c10k/full/2225,/0/default.jpg" >}}
 
-[This 1901 map](https://collections.leventhalmap.org/search/commonwealth:wd3760753) was on the front cover of a pamphlet called “Bird’s Eye View of Boston Harbor and the South Shore to Provincetown Showing Steamboat Routes.”
-
-The pamphlet was sponsored by the New York, New Haven, and Hartford Railroad, which at the time, owned and operated a passenger rail and steamboat service on the South Shore and south coast—what was then known as the “Old Colony Railroad.” The aim of the pamphlet was to encourage tourism to the areas south of Boston, and this cover provided a beautiful rendition of the South Shore. Primary steamboat lines are depicted on the map: Boston to Plymouth, Provincetown, and New York. These steamboats served to make tourism and regional vacationing more accessible to the middle class.
+The Suez Canal was one of the most ambitious projects of the 19th century, a connection between the Mediterranean and Red Seas. Egypt was then ruled by the Khedive Isma’il Pasha, who sold the rights for construction to a French company. The three cities depicted on the top of the map were all company towns, built specifically to house tens of thousands of laborers, many of whom were forced to work by French authorities. The conditions were very poor, with thousands of workers dying from diseases like cholera. A year after [this map](https://collections.leventhalmap.org/search/commonwealth:ht250c09t) was published, the port of Ismailia held a lavish opening ceremony for the canal, attended by the rulers and ambassadors of many European countries.
 
 #### Geo. H. Walker & Co, *[Boston Harbor](https://collections.leventhalmap.org/search/commonwealth:ng454q77c)* (1897)
 
