@@ -33,15 +33,14 @@ This From the Vault map collections showing highlights maps in our collections
 
 Once the capital of the Inca Empire, Cusco was conquered by the Spanish Empire in 1534, and became capital of the province of Peru. Although its contemporary culture is heavily influenced by its Spanish background, Cusco retains its Inca ancestry. Notice the grid layout of the city—a deliberate choice by Inca planners, inherited by the Spanish administration. A Dutch cartographer made [this map](https://collections.leventhalmap.org/search/commonwealth:3x81cq09n) only a few decades after the conquest, so the indigenous culture was still prominently visible throughout Cusco. At this time, many denizens of Cusco would have remembered the large terraced cathedral on the left of the map as an Incan temple and palace.
 
-#### Compiled by Whitman & Breck, Engineers, *[Map of the eastern junc. Broad Sound Pier, & Pt. Shirley railroad: steamboat lines and connections: established for the purpose of developing the most popular seashore resort on the Atlantic Coast](https://collections.leventhalmap.org/search/commonwealth:wd376689p)* \[1880–1889]
+#### Carl Crow, [\[Illustrated historical map of Shanghai\]](https://collections.leventhalmap.org/search/commonwealth:x633f974z) (1935)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj64q/full/1200,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n805r/full/2225,/0/default.jpg" class="" >}}
 
-Depicted is [the plan for the Eastern Junction, Broad Sound Pier, & Point Shirley Railroad](https://collections.leventhalmap.org/search/commonwealth:wd376689p) at the time of its charter in 1880.
+This map was designed by advertising executive Carl Crow to attract English-speaking visitors into Shanghai, back then one of the world’s largest cities. China was an independent republic, but was dependent on Western powers such as the United States and Britain. [Crow’s map](https://collections.leventhalmap.org/search/commonwealth:x633f974z) depicts a neighborhood known as the “International Settlement,” its location within the city shown on the bottom left. In many ways, Shanghai’s European residents were the city’s ‘elite.’ They enjoyed special privileges, not afforded to the Chinese residents. For instance, the “Public Garden” in the center of the map, was infamously closed to Chinese visitors, restricted to white patrons only.
 
-In the late 1870s, Revere Beach became a popular summer retreat for families in Boston and surrounding urban neighborhoods. Initially, the Boston, Revere Beach, & Lynn Narrow-Gauge Railroad was the main transport option for visitors. However, the Eastern Junction, Broad Sound Pier, & Point Shirley company began chartering multiple ferry routes to bring vacationers to the beach. It ran steamboat ferries from Long Wharf, Central Wharf, and Rowes Wharf to Winthrop Landing and Point Shirley, as well as an additional ferry between Lynn Harbor and Broad Sound Pier in Revere.
 
-The branch line operated for three years “for the purpose of developing the most popular seashore resort on the Atlantic Coast.” In the fall of 1883, both railroads and their associated ferry services merged into the Boston, Winthrop, and Shore Railroad. In 1896, Revere Beach was reopened as the first public beach in the United States. Regional rail and ferry service to Revere and Winthrop’s beaches continued until 1940 and it can still be reached by public transit via the MBTA’s Blue Line. The beach’s early success as a seaside destination wouldn’t have been possible without the charter ferries and railroads whisking passengers up and down the coastline.
+
 
 #### Geo. H. Walker & Co, *[Map showing the routes of The Winthrop Steamboat Co](https://collections.leventhalmap.org/search/commonwealth:x059cc723)* \[ca. 1896]
 
