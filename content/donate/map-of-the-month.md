@@ -52,3 +52,4 @@ Donations go directly to our historical geography work with students, educators,
 * **April 2025:** [A new map of North America](https://collections.leventhalmap.org/search/commonwealth:4m90fp515)
 * **May 2025:** [Thirty-miles round Boston](https://www.argomaps.org/maps/commonwealth:8p58wp59k/) 
 * **June 2025:** [Cape Cod and the Islands](https://collections.leventhalmap.org/search/commonwealth:0r96fq37h)
+* **July 2025:** [Spain & Portugal](https://collections.leventhalmap.org/search/commonwealth:3f463b102)
