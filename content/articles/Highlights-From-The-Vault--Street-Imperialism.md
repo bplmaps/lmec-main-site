@@ -57,15 +57,11 @@ The Suez Canal was one of the most ambitious projects of the 19th century, a con
 
 European Christians, Muslims, and Jews have all lived in Jerusalem for centuries due to the city’s sacred status in all three faiths. [This map](https://collections.leventhalmap.org/search/commonwealth:mg74wm43v) was made by a British agency in the late 19th century. The British Empire, like many other European nations, was interested in exercising influence over the holy city, particularly to secure rights for Christians. The city plan labels the areas of various religious communities, which were generally concentrated around their respective shrines. An Orthodox Christian compound outside city walls, labelled here “Russian Property,” was built under pressure from the Russian Empire.
 
-#### Nantasket Beach Steamboat Company, *[Boston to Nantasket Beach and Plymouth](https://collections.leventhalmap.org/search/commonwealth:0r96fq413)* \[ca. 1915]
+#### Muneyasu Kageyama, [Tsukiji hatchōbori nihonbashi minami no kuni](https://collections.leventhalmap.org/search/commonwealth:5138qd959) (1859)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fq42c/full/,1200/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3b596d33m/full/2225,/0/default.jpg" class="" >}}
 
-Through the early 20th century, Hull became famous for Nantasket Beach and Paragon Park, which attracted summer vacationers from all over Greater Boston. The Nantasket Beach Steamboat Company grew a successful business by bringing passengers from Boston and Hingham via ferry across Boston Harbor. The steamboat company also ran to Plymouth, offering easy access to a quiet retreat on the historic waterfront.
-
-[This map](https://collections.leventhalmap.org/search/commonwealth:0r96fq413) was originally part of a promotional pamphlet advertising the Nantasket Beach Steamboat Company’s service to these fashionable summer destinations. Paragon Park has since closed, but Nantasket Beach continues to be a popular summertime beach destination. 
-
-The MBTA runs regular commuter ferry service to Hull as part of the Hingham-Hull-Logan Airport-Boston route, which expands the utility of the ferry beyond vacationing. Today, there is no ferry service connecting Boston to Plymouth.
+Unlike every other map in this collection, [this plan of a Tokyo neighborhood](https://collections.leventhalmap.org/search/commonwealth:5138qd959) was not made by, or for, Europeans. In the mid-19th century, Japan placed severe restrictions on foreign visitors, only opening to Western merchants by 1856. Tokyo, then called Edo, was home to much of Japan’s feudal nobility, such as the hatamoto clans and daimyo lords. Their residences are labelled here with clan names and insignias. Maps like this one were typically not very scale-accurate, and were intended to guide travelers through the maze-like streets of one of the world’s largest cities. Like modern travel guide maps, this map could be folded and carried in one’s pocket for ease of use.
 
 #### Boston & Gloucester Steamship Co., *[Boston & Gloucester Steamboat Co.: summer season 1889](https://collections.leventhalmap.org/search/commonwealth:0r96fp956)* (1889)
 
