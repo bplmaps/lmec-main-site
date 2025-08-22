@@ -39,18 +39,11 @@ Once the capital of the Inca Empire, Cusco was conquered by the Spanish Empire i
 
 This map was designed by advertising executive Carl Crow to attract English-speaking visitors into Shanghai, back then one of the world’s largest cities. China was an independent republic, but was dependent on Western powers such as the United States and Britain. [Crow’s map](https://collections.leventhalmap.org/search/commonwealth:x633f974z) depicts a neighborhood known as the “International Settlement,” its location within the city shown on the bottom left. In many ways, Shanghai’s European residents were the city’s ‘elite.’ They enjoyed special privileges, not afforded to the Chinese residents. For instance, the “Public Garden” in the center of the map, was infamously closed to Chinese visitors, restricted to white patrons only.
 
+#### United States. Adjutant-General's Office. Military Information Division, [Military map of the isle of Luzon](https://collections.leventhalmap.org/search/commonwealth:cc08kx74j) (1900)
 
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tx31t1153/full/2225,/0/default.jpg" class="" >}}
 
-
-#### Geo. H. Walker & Co, *[Map showing the routes of The Winthrop Steamboat Co](https://collections.leventhalmap.org/search/commonwealth:x059cc723)* \[ca. 1896]
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:b85162086/full/1200,/0/default.jpg" class="" >}}
-
-[This chart](https://collections.leventhalmap.org/search/commonwealth:x059cc723) reads: “During the season of 1896, The Winthrop Steamboat Co. will run its boats O. E. Lewis and Winthrop regularly, weather permitting, between Boston and Winthrop, and its new boat, Cottage Park between Boston and Cottage Park. With its increased facilities for doing business, the Company expects to accommodate its patrons as never before. Official Running Time will be announced later.”
-
-The Winthrop Steamboat Company made a convenient connection to Downtown Boston for Winthrop residents who had work or business there, and served as a primary connection to the Boston, Winthrop, and Shore Railroad to bring city beachgoers to Winthrop and Revere’s beaches during the summer months. In this regard, the Winthrop Steamboat Company replaced ferry service that had once been provided by the Eastern Junction, Broad Sound Pier, & Point Shirley Railroad prior to its merger with the other short line railroads branching off the Eastern Railroad.
-
-Today, the MBTA runs full 7-day service to Winthrop between 6:40am and 7:15pm, making a loop of stops at Winthrop Landing, Logan Airport, Central Wharf, and Seaport/Fan Pier. Weekend service runs from 9am until 8:10pm and combines service with the Quincy Ferry.
+[This map of the Philippine island of Luzon](https://collections.leventhalmap.org/search/commonwealth:cc08kx74j) was made by the U.S. Military during the Spanish-American War of 1898. The city of Manila, on the right, was the capital of the Spanish colony of the Philippines, and one of the most important trade cities in southeast Asia. The predominant ethnic group in Manila were the criollo, island-born people of mixed Spanish and indigenous Tagalog descent. They were considered of lower status than the landowning descendants of Spanish nobility. Shortly before the United States took over the Philippines, the city became a battleground for the Philippine Revolution against Spanish rule. Consider how the separation of the city by rivers and canals may have literally split the elites from the creole masses.
 
 #### *[Bird's eye view of Boston Harbor and south shore to Provincetown showing steamboat routes](https://collections.leventhalmap.org/search/commonwealth:wd3760753)* (1901)
 
