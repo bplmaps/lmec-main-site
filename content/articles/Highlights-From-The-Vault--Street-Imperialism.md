@@ -41,7 +41,7 @@ This map was designed by advertising executive Carl Crow to attract English-spea
 
 #### United States. Adjutant-General's Office. Military Information Division, *[Military map of the isle of Luzon](https://collections.leventhalmap.org/search/commonwealth:cc08kx74j)* (1900)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tx31t1153/full/2225,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sn00dg67f/full/2225,/0/default.jpg" class="" >}}
 
 [This map of the Philippine island of Luzon](https://collections.leventhalmap.org/search/commonwealth:cc08kx74j) was made by the U.S. Military during the Spanish-American War of 1898. The city of Manila, on the right, was the capital of the Spanish colony of the Philippines, and one of the most important trade cities in southeast Asia. The predominant ethnic group in Manila were the criollo, island-born people of mixed Spanish and indigenous Tagalog descent. They were considered of lower status than the landowning descendants of Spanish nobility. Shortly before the United States took over the Philippines, the city became a battleground for the Philippine Revolution against Spanish rule. Consider how the separation of the city by rivers and canals may have literally split the elites from the creole masses.
 
