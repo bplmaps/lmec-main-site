@@ -21,23 +21,17 @@ tags:
 
 > *On August 22, we hosted **From The Vault — Street Imperialism: Cities at the Onset of Colonization.***
 
-A city plan is a window into a city’s culture and ways of life. 
+**A city plan is a window into a city’s culture and ways of life.**
 
-Unfortunately, most historic urban maps that have made their way into modern collections were created by European and American cartographers and primarily depict cities designed or strongly influenced by the European practices. This leaves many peoples, cities, and cultures cartographically underrepresented. 
+Unfortunately, most historic urban maps that have made their way into modern collections were created by European and American cartographers and primarily depict cities designed or strongly influenced by the European practices. This leaves many peoples, cities, and cultures cartographically underrepresented.
 
-This From the Vault map collections showing highlights maps in our collections that depict global, pre-industrial cities that were founded by non-European cultures. 
+This From the Vault map collections showing highlights maps in our collections that depict global, pre-industrial cities that were founded by non-European cultures.
 
-#### Geo. H. Walker & Co, *[Map showing the terminal facilities of Boston](https://collections.leventhalmap.org/search/commonwealth:wd376810x)* (1902)
+#### Sebastian Münster, [Il Cvscho citta principale della provincia del Perv](https://collections.leventhalmap.org/search/commonwealth:3x81cq09n) (1572)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9k41zj693/full/,1200/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jm219r09q/full/2225,/0/default.jpg" class="" >}}
 
-[This map](https://collections.leventhalmap.org/search/commonwealth:wd376810x) provides a holistic illustration of how ferries contributed to the transportation landscape at the onset of the 20th Century.
-
-In 1902, railroads and steamboats were the predominant method of shipping freight and moving passengers. To make regional or long-distance connections more efficient, rail and boat terminals were often built in proximity to each other and were sometimes run by the same transportation companies. At this time, bridges were noticeably absent and ferries served as quick connections between hubs across the Mystic River and Boston Harbor.
-
-The Boston and Maine Railroad & M.S.S. Co. Ferry spanned the Mystic River to connect passengers between the railroad’s Mystic Wharf terminal and the New England Gas & Coke Company plant in Everett. The Winnisimmet Ferry connected the North End and Chelsea and the East Boston Ferries connected the wharves of Downtown Boston with the Boston & Maine and Boston & Albany railroad terminals in East Boston. In addition to these local ferry services, dozens of steamboat companies operated along Boston’s waterfront, transporting passengers locally and abroad.
-
-Today, most shipping transport is done by truck, virtually eliminating the need for many of the terminals in this map. Ferry terminals also disappeared along with the rail hubs, and for decades, there was no boat service that brought passengers across the Mystic River. Now, only the Encore Hotel water shuttle makes the connection back and forth across the river. Fortunately, the MBTA and Seaport Ferries continue to make robust service stops at docks in Downtown Boston, the Seaport, Charlestown, and East Boston.
+Once the capital of the Inca Empire, Cusco was conquered by the Spanish Empire in 1534, and became capital of the province of Peru. Although its contemporary culture is heavily influenced by its Spanish background, Cusco retains its Inca ancestry. Notice the grid layout of the city—a deliberate choice by Inca planners, inherited by the Spanish administration. A Dutch cartographer made [this map](https://collections.leventhalmap.org/search/commonwealth:3x81cq09n) only a few decades after the conquest, so the indigenous culture was still prominently visible throughout Cusco. At this time, many denizens of Cusco would have remembered the large terraced cathedral on the left of the map as an Incan temple and palace.
 
 #### Compiled by Whitman & Breck, Engineers, *[Map of the eastern junc. Broad Sound Pier, & Pt. Shirley railroad: steamboat lines and connections: established for the purpose of developing the most popular seashore resort on the Atlantic Coast](https://collections.leventhalmap.org/search/commonwealth:wd376689p)* \[1880–1889]
 
