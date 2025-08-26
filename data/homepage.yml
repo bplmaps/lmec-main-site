@@ -57,6 +57,10 @@ slider:
 cta:
   enable: true
   announcements:
+    - badge: Holiday Closure
+      text: >-
+        The Leventhal Center will be closed on Sunday, August 31 in observance
+        of Labor Day.
     - badge: New Exhibition
       text: >-
         Terrains of Independence is open now! Visit the gallery to see the new
