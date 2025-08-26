@@ -57,6 +57,9 @@ slider:
 cta:
   enable: true
   announcements:
+    - badge: Book Field Trips Now!
+      text: Book your class's next field trip the Leventhal Center
+      link: 'https://www.leventhalmap.org/education/k12/school-visits/'
     - badge: Holiday Closure
       text: >-
         The Leventhal Center will be closed on Sunday, August 31 in observance
