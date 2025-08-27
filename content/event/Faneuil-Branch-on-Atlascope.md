@@ -15,6 +15,6 @@ tags:
   - Atlascope
 ---
 
-We will look closely at areas of urban change around Brighton and the Faneuil Branch, using both Atlascope and historic maps to view the neighborhood from a unique historic perspective. 
+We will look closely at areas of urban change around Brighton and the Faneuil Branch, using both [Atlascope](https://www.atlascope.org/) and historic maps to view the neighborhood from a unique historic perspective.
 
-Patrons will learn how to read and analyze historic fire insurance maps and explore what we can learn from these historic atlases in the age of ever-expanding technologies. This program will also provide an overview of Atlascope, the Leventhal Map & Education Center's tool for exploring historic urban atlases in metropolitan Boston and across Massachusetts. 
+Patrons will learn how to read and analyze historic fire insurance maps and explore what we can learn from these historic atlases in the age of ever-expanding technologies. This program will also provide an overview of [Atlascope](https://www.atlascope.org/), the Leventhal Map & Education Center's tool for exploring historic urban atlases in metropolitan Boston and across Massachusetts.
