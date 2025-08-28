@@ -21,7 +21,7 @@ Advance registration is required to attend this program. Registration is free.
 
 {{\</ alert-box >}}
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Michael Glass.jpeg" class="figure-right" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/James C OConnell.JPG" class="figure-right" >}}
 
 Join Boston University professor **Jim O’Connell** for a conversation about his new book, *[Boston and the Making of a Global City](https://www.umasspress.com/9781625348623/boston-and-the-making-of-a-global-city/)*. The book explores how Boston has been shaped by globalization and how it has also affected the processes of globalization.
 
