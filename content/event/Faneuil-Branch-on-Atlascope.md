@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 'The Faneuil Branch on Atlascope: Learrning from Historic Maps'
+title: 'The Faneuil Branch on Atlascope: Learning from Historic Maps'
 date: 2025-09-09T22:00:00.000Z
 publishDate: 2025-08-27T04:00:00.000Z
 image: >-
