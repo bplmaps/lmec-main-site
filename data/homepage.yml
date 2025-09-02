@@ -62,10 +62,6 @@ cta:
         Space is limited, book your class's next field trip the Leventhal Center
         today
       link: 'https://www.leventhalmap.org/education/k12/school-visits/'
-    - badge: Holiday Closure
-      text: >-
-        The Leventhal Center will be closed on Sunday, August 31 in observance
-        of Labor Day.
 audiences:
   enable: true
   audienceGroups:
