@@ -15,11 +15,11 @@ tags:
   - Author talk
 ---
 
-{{\< alert-box type="success" icon="fas fa-calendar-check" title="Registration required" >}}
+{{< alert-box type="success" icon="fas fa-calendar-check" title="Registration required" >}}
 
 Advance registration is required to attend this program. Registration is free.
 
-{{\</ alert-box >}}
+{{</ alert-box >}}
 
 Join Boston University professor **Jim O’Connell** for a conversation about his new book, *[Boston and the Making of a Global City](https://www.umasspress.com/9781625348623/boston-and-the-making-of-a-global-city/)*. The book explores how Boston has been shaped by globalization and how it has also affected the processes of globalization.
 
