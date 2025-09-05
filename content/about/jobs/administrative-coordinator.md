@@ -6,6 +6,8 @@ backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96f
 cardImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fp54z/2154,1509,1185,1071/pct:50/0/default.jpg"
 ---
 
+<a href="https://tally.so/r/mDjQlp" target="_blank" class="btn btn-lg btn-primary-outline">Apply online now</a>
+
 The Leventhal Map & Education Center at the Boston Public Library seeks to hire for the role of **Administrative Coordinator**. The Administrative Coordinator reports directly to the President & Head Curator, and supports operational needs across the entire breadth of the Leventhal Center’s work. The Coordinator will also work closely with the Center’s independent Board of Directors, as well as with staff at the Boston Public Library, to maintain the smooth and efficient operation of the Center’s core functions. The Administrative Coordinator will join the Leventhal Center team during a period of dynamic growth and innovation, and will play a key role in advancing operational excellence.
 
 This is a full-time, benefits-eligible position that requires a minimum of 20 hours performed on-site spread across three weekdays; the balance of work may be conducted remotely, as desired and feasible.
@@ -82,6 +84,8 @@ Applicants should submit the following materials:
 - A cover letter of no more than two pages (PDF, DOCX, or MD format)
 - A CV or résumé (PDF, DOCX, or MD format)
 - A list of 3 professional references, including telephone numbers and email. We will not contact references before notifying candidates in the final round.
+
+<a href="https://tally.so/r/mDjQlp" target="_blank" class="btn btn-lg btn-primary-outline">Apply online now</a>
 
 Additional material will be requested from semifinalist candidates.
 
