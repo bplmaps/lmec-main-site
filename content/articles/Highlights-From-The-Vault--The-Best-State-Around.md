@@ -55,11 +55,11 @@ One of two Wallingford maps on display, this map takes a look at the USA “as a
 
 One striking difference between the two Wallingford maps is that this one often emphasizes that New Yorkers have no sense of geographic knowledge. In [this map](https://collections.leventhalmap.org/search/commonwealth:3f463866h), the Bronx is nearly next to Boston, Iowa, Nebraska, and South Dakota are listed as cities in other states, and Hollywood, California, and San Francisco are made into three entirely separate states! In a way, this lack of knowledge on other parts of the country solidifies the notion that New York City has everything anyone could ever want, leaving no reason to venture forth quite literally anywhere else in the country.
 
-#### Muneyasu Kageyama, *[Tsukiji hatchōbori nihonbashi minami no kuni](https://collections.leventhalmap.org/search/commonwealth:5138qd959)* (1859)
+#### Grace Raymond Hebard and Paul M. Paine, [Map of the history and romance of Wyoming](https://collections.leventhalmap.org/search/commonwealth:0r96fm385) (1928)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3b596d33m/full/2225,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm39f/full/2000,/0/default.jpg" class="" >}}
 
-Unlike every other map in this collection, [this plan of a Tokyo neighborhood](https://collections.leventhalmap.org/search/commonwealth:5138qd959) was not made by, or for, Europeans. In the mid-19th century, Japan placed severe restrictions on foreign visitors, only opening to Western merchants by 1856. Tokyo, then called Edo, was home to much of Japan’s feudal nobility, such as the hatamoto clans and daimyo lords. Their residences are labelled here with clan names and insignias. Maps like this one were typically not very scale-accurate, and were intended to guide travelers through the maze-like streets of one of the world’s largest cities. Like modern travel guide maps, this map could be folded and carried in one’s pocket for ease of use.
+Perhaps more humble than some of the other maps on display, this pictorial map of Wyoming asserts itself to be just as prideful of the land it calls home. Poetry, folk tales, art, and state history can be found across every corner of the map. Other writing on the map appeals directly to visitors, calling Wyoming the “Last American Frontier" with “Broad, open spaces” and “The land of plenty”. Using [this map](https://collections.leventhalmap.org/search/commonwealth:0r96fm385), we can see that though less boastful than some others, this map was still very intentionally trying to piece together a favorable view of this rolling, open land. 
 
 #### *[A map of Cyprus reduced from the coast survey by Captn. Graves; Alexandria (Egypt); map of Jerusalem reduced from the Ordnance Survey](https://collections.leventhalmap.org/search/commonwealth:7940g302v)* \[ca. 1877]
 
