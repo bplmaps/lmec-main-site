@@ -47,11 +47,13 @@ Recognized for his whimsical pictorial maps, Chase created [this highly distorte
 
 This may be one of our most infamous maps in the gallery! A favorite amongst locals, [this map](https://collections.leventhalmap.org/search/commonwealth:3f463864z) highlights many of the most beloved areas and qualities of Boston and greater New England. Most noteworthy is perhaps the scale at which Boston and the cape of Massachusetts are shown, highlighting the economic and cultural importance of these areas (at least, from the perspective of a Bostonian). 
 
-#### *[Map of Jerusalem : reduced from the Ordnance Survey ; Smyrna ; the Maltese Islands](https://collections.leventhalmap.org/search/commonwealth:mg74wm43v)* \[ca. 1880–1889]
+#### Daniel K. Wallingford, [A New Yorker's idea of the United States of America](https://collections.leventhalmap.org/search/commonwealth:3f463866h) (1936)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:2b88wd735/full/2225,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463867s/full/2000,/0/default.jpg" >}}
 
-European Christians, Muslims, and Jews have all lived in Jerusalem for centuries due to the city’s sacred status in all three faiths. [This map](https://collections.leventhalmap.org/search/commonwealth:mg74wm43v) was made by a British agency in the late 19th century. The British Empire, like many other European nations, was interested in exercising influence over the holy city, particularly to secure rights for Christians. The city plan labels the areas of various religious communities, which were generally concentrated around their respective shrines. An Orthodox Christian compound outside city walls, labelled here “Russian Property,” was built under pressure from the Russian Empire.
+One of two Wallingford maps on display, this map takes a look at the USA “as a composite of the New Yorker’s ideas” concerning the rest of the country. Similar to the Bostonian’s View, the geographic size of New York City and the rest of the state has been blown out of proportion to a humorous degree. 
+
+One striking difference between the two Wallingford maps is that this one often emphasizes that New Yorkers have no sense of geographic knowledge. In [this map](https://collections.leventhalmap.org/search/commonwealth:3f463866h), the Bronx is nearly next to Boston, Iowa, Nebraska, and South Dakota are listed as cities in other states, and Hollywood, California, and San Francisco are made into three entirely separate states! In a way, this lack of knowledge on other parts of the country solidifies the notion that New York City has everything anyone could ever want, leaving no reason to venture forth quite literally anywhere else in the country.
 
 #### Muneyasu Kageyama, *[Tsukiji hatchōbori nihonbashi minami no kuni](https://collections.leventhalmap.org/search/commonwealth:5138qd959)* (1859)
 
