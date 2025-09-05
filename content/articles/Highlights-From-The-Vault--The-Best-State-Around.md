@@ -19,25 +19,23 @@ tags:
 
 > *On September 5, we hosted **From The Vault — The Best State Around: Historic, Promotional State Maps.***
 
-**A city plan is a window into a city’s culture and ways of life.**
+**It’s not uncommon to be proud of the place you live… but these maps take it to another level!**
 
-Unfortunately, most historic urban maps that have made their way into modern collections were created by European and American cartographers and primarily depict cities designed or strongly influenced by the European practices. This leaves many peoples, cities, and cultures cartographically underrepresented.
+In this *From The Vault*, we’ll take a look at some promotional state maps from the 1890s to 1930s. Some maps use comedy to poke fun at the rest of the country, while others espouse the successes and deep history of their land to capture a potential visitor’s attention. Each state does things a little differently and we invite visitors to answer the question: *“What truly is the best state around?"*
 
-This From the Vault map collections showing highlights maps in our collections that depict global, pre-industrial cities that were founded by non-European cultures.
-
-#### Elizabeth Shurtleff and Helen F. McMillin, [Map of the state of New Hampshire : looking over our whole country from east to west, let me ask if such a map was ever before presented to the eye - Daniel Webster](https://collections.leventhalmap.org/search/commonwealth:0r96fm652) (1926)
+#### Elizabeth Shurtleff and Helen F. McMillin, *[Map of the state of New Hampshire : looking over our whole country from east to west, let me ask if such a map was ever before presented to the eye - Daniel Webster](https://collections.leventhalmap.org/search/commonwealth:0r96fm652)* (1926)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm66b/full/2000,/0/default.jpg" class="" >}}
 
-Designed and drawn by two female artists, this pictorial map includes humorous and historical drawings and references. In the margins, one can see color illustrations of various emblems of towns, organizations, local schools, and points of community interest. Some of these places are even illustrated on the map itself, telling us in more than words that although this map may seem serious from afar, hints of a simpler, sillier life can be found as well. Note the hordes of visitors (future residents?) driving in from different locations all around the state’s borders in a rush to reach the Granite State!
+Designed and drawn by two female artists, [this pictorial map](https://collections.leventhalmap.org/search/commonwealth:0r96fm652) includes humorous and historical drawings and references. In the margins, one can see color illustrations of various emblems of towns, organizations, local schools, and points of community interest. Some of these places are even illustrated on the map itself, telling us in more than words that although this map may seem serious from afar, hints of a simpler, sillier life can be found as well. Note the hordes of visitors (future residents?) driving in from different locations all around the state’s borders in a rush to reach the Granite State!
 
-#### Carl Crow, *[\[Illustrated historical map of Shanghai\]](https://collections.leventhalmap.org/search/commonwealth:x633f974z)* (1935)
+#### Ernest Dudley Chase, [The United States as viewed by California (very unofficial)](https://collections.leventhalmap.org/search/commonwealth:st74cw264) (1940)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:qb98n805r/full/2225,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw27d/full/2000,/0/default.jpg" class="" >}}
 
-This map was designed by advertising executive Carl Crow to attract English-speaking visitors into Shanghai, back then one of the world’s largest cities. China was an independent republic, but was dependent on Western powers such as the United States and Britain. [Crow’s map](https://collections.leventhalmap.org/search/commonwealth:x633f974z) depicts a neighborhood known as the “International Settlement,” its location within the city shown on the bottom left. In many ways, Shanghai’s European residents were the city’s ‘elite.’ They enjoyed special privileges, not afforded to the Chinese residents. For instance, the “Public Garden” in the center of the map, was infamously closed to Chinese visitors, restricted to white patrons only.
+Recognized for his whimsical pictorial maps, Chase created [this highly distorted view of the United States as perceived by Californians](https://collections.leventhalmap.org/search/commonwealth:st74cw264). One-third the size of the rest of the country, the state is perpetually drenched by the sun. A bustling California is also depicted as a cornucopia of plenty, teaming with industry, agriculture, recreational activity, and natural wonders. The rest of the county is overshadowed by a dark cloud and a vast, depressing spider web. Other states are distorted or are omitted entirely. However, Chase’s native New England retains its shape and receives some sunlight for half of the year.
 
-#### United States. Adjutant-General's Office. Military Information Division, *[Military map of the isle of Luzon](https://collections.leventhalmap.org/search/commonwealth:cc08kx74j)* (1900)
+#### James Frank Oliver, [A Texan's map of the United States \[of Texas\]](https://collections.leventhalmap.org/search/commonwealth:fn107c370) (1949)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sn00dg67f/full/2225,/0/default.jpg" class="" >}}
 
