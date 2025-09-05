@@ -1,7 +1,7 @@
 ---
 menu: false
 cardImage: /uploads/eliot3.jpg
-draft: false
+draft: true
 title: Learning Resource Specialist
 ---
 
