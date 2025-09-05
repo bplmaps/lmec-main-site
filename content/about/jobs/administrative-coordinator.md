@@ -12,7 +12,7 @@ The Leventhal Map & Education Center at the Boston Public Library seeks to hire 
 
 This is a full-time, benefits-eligible position that requires a minimum of 20 hours performed on-site spread across three weekdays; the balance of work may be conducted remotely, as desired and feasible.
 
-**Key Responsibilities**
+## Key Responsibilities
 
 - **Board and Leadership Coordination**
     - Assist in scheduling and organizing meetings for the Board of Directors, including subcommittees.
@@ -38,7 +38,7 @@ This is a full-time, benefits-eligible position that requires a minimum of 20 ho
     - Support the work of the Assistant Director and Finance Consultant in managing administrative records related to grants
     - Assist with the preparation, design, and distribution of donor-facing material, including the Center’s Annual Report
 
-**Skills and Qualifications**
+## Skills and Qualifications
 
 - Strong organizational and time-management skills.
 - A demonstrated ability to execute administrative tasks  independently from start to finish to a high professional standard.
@@ -47,7 +47,7 @@ This is a full-time, benefits-eligible position that requires a minimum of 20 ho
 - Advanced competence in cloud-based software tools, including Microsoft Office Online, Microsoft Teams, Notion, Airtable, and similar tools.
 - Experience in a nonprofit or cultural institution is advantageous.
 
-**Compensation & Position Details**
+## Compensation & Position Details
 
 This is a full-time, non-exempt, benefits-eligible position. It may be filled at a level from 30 to 40 hours per week, based on the desire and availability of the selected candidate. The selected candidate must be willing to work in-person at the Leventhal Map & Education Center offices, located at the Central Library in Copley Square, for at least 20 hours per week, spread across a minimum of three weekdays, on a standard schedule. The balance of work may be conducted remotely, subject to periodic supervisory review. Occasional evening or weekend work may be required.
 
@@ -57,11 +57,11 @@ There is no City of Boston residency requirement for this position. Leventhal Ma
 
 This position is subject to a CORI background check.
 
-**Desired Start Date**
+## Desired Start Date
 
 A candidate who can begin work by November 3, 2025 is desired.
 
-**About the Leventhal Center**
+## About the Leventhal Center
 
 The Leventhal Map & Education Center is an independent, self-governing nonprofit organization in a long-term strategic relationship with the Boston Public Library. The Center stewards a quarter million geographic objects in the Library’s collections, and works to make them freely available to the public for research, interpretation, and engagement. Our collections range from fifteenth-century atlases to modern-day geospatial data sets. The Center creates original exhibitions hosted in its gallery space at the Central Library in Copley Square and promotes education on topics that explore the relationship between people and places.
 
@@ -75,7 +75,7 @@ As a mission-driven organization, the Center endorses the following values:
 
 The Center places great value on an organizational culture in which staff members have the flexibility and openness to work with a diverse group of audiences, constituencies, and colleagues. Our work is committed to public service and to innovation that fosters positive change in the world.
 
-**To apply**
+## To apply
 
 We encourage candidates who are interested in building a career in nonprofit administration and cultural management to apply, as this role offers broad exposure to organizational operations, board relations, and program support.
 
