@@ -41,11 +41,11 @@ Recognized for his whimsical pictorial maps, Chase created [this highly distorte
 
 [This cartoon pictorial map](https://collections.leventhalmap.org/search/commonwealth:fn107c370) shows Texas as occupying about half of the area of the United States, with comic place names like “EL Paso: Where the sun spends the winter”. As a “Texan's map of the United States \[of Texas],” this map is full of Lone Star-centrism, from the Atlantic Ocean—now known as the “East Gulf of Texas”—to a sign planted on the California coast marking the “City Limits of Dallas.” Even the scale admits to its distortion, noting that 1 “Texas Inch” is equal to 1,000 miles. Within the state itself, a large orange heart spotlights the town of Crockett, a town which had fewer than 6,000 people at the time this map was made, but marked the home of the map's publisher, the Texoak company.
 
-#### François Levernay, *[Plan de l'isthme de Suez, de Port-Said, Ismailia et Suez pour servir d'annexe au guide général d'Egypte](https://collections.leventhalmap.org/search/commonwealth:ht250c09t)* (1868)
+#### Daniel K. Wallingford, [This map presents a Bostonian's idea of the United States of America](https://collections.leventhalmap.org/search/commonwealth:3f463864z) (1935)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:ht250c10k/full/2225,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4638657/full/2000,/0/default.jpg" >}}
 
-The Suez Canal was one of the most ambitious projects of the 19th century, a connection between the Mediterranean and Red Seas. Egypt was then ruled by the Khedive Isma’il Pasha, who sold the rights for construction to a French company. The three cities depicted on the top of the map were all company towns, built specifically to house tens of thousands of laborers, many of whom were forced to work by French authorities. The conditions were very poor, with thousands of workers dying from diseases like cholera. A year after [this map](https://collections.leventhalmap.org/search/commonwealth:ht250c09t) was published, the port of Ismailia held a lavish opening ceremony for the canal, attended by the rulers and ambassadors of many European countries.
+This may be one of our most infamous maps in the gallery! A favorite amongst locals, [this map](https://collections.leventhalmap.org/search/commonwealth:3f463864z) highlights many of the most beloved areas and qualities of Boston and greater New England. Most noteworthy is perhaps the scale at which Boston and the cape of Massachusetts are shown, highlighting the economic and cultural importance of these areas (at least, from the perspective of a Bostonian). 
 
 #### *[Map of Jerusalem : reduced from the Ordnance Survey ; Smyrna ; the Maltese Islands](https://collections.leventhalmap.org/search/commonwealth:mg74wm43v)* \[ca. 1880–1889]
 
