@@ -37,9 +37,9 @@ Recognized for his whimsical pictorial maps, Chase created [this highly distorte
 
 #### James Frank Oliver, [A Texan's map of the United States \[of Texas\]](https://collections.leventhalmap.org/search/commonwealth:fn107c370) (1949)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:sn00dg67f/full/2225,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c388/full/2000,/0/default.jpg" class="" >}}
 
-[This map of the Philippine island of Luzon](https://collections.leventhalmap.org/search/commonwealth:cc08kx74j) was made by the U.S. Military during the Spanish-American War of 1898. The city of Manila, on the right, was the capital of the Spanish colony of the Philippines, and one of the most important trade cities in southeast Asia. The predominant ethnic group in Manila were the criollo, island-born people of mixed Spanish and indigenous Tagalog descent. They were considered of lower status than the landowning descendants of Spanish nobility. Shortly before the United States took over the Philippines, the city became a battleground for the Philippine Revolution against Spanish rule. Consider how the separation of the city by rivers and canals may have literally split the elites from the creole masses.
+[This cartoon pictorial map](https://collections.leventhalmap.org/search/commonwealth:fn107c370) shows Texas as occupying about half of the area of the United States, with comic place names like “EL Paso: Where the sun spends the winter”. As a “Texan's map of the United States \[of Texas],” this map is full of Lone Star-centrism, from the Atlantic Ocean—now known as the “East Gulf of Texas”—to a sign planted on the California coast marking the “City Limits of Dallas.” Even the scale admits to its distortion, noting that 1 “Texas Inch” is equal to 1,000 miles. Within the state itself, a large orange heart spotlights the town of Crockett, a town which had fewer than 6,000 people at the time this map was made, but marked the home of the map's publisher, the Texoak company.
 
 #### François Levernay, *[Plan de l'isthme de Suez, de Port-Said, Ismailia et Suez pour servir d'annexe au guide général d'Egypte](https://collections.leventhalmap.org/search/commonwealth:ht250c09t)* (1868)
 
