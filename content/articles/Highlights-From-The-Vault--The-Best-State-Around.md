@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: >-
   Highlights From The Vault — The Best State Around: Historic, Promotional State
   Maps
@@ -25,11 +25,11 @@ Unfortunately, most historic urban maps that have made their way into modern col
 
 This From the Vault map collections showing highlights maps in our collections that depict global, pre-industrial cities that were founded by non-European cultures.
 
-#### Sebastian Münster, *[Il Cvscho citta principale della provincia del Perv](https://collections.leventhalmap.org/search/commonwealth:3x81cq09n)* (1572)
+#### Elizabeth Shurtleff and Helen F. McMillin, [Map of the state of New Hampshire : looking over our whole country from east to west, let me ask if such a map was ever before presented to the eye - Daniel Webster](https://collections.leventhalmap.org/search/commonwealth:0r96fm652) (1926)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:jm219r09q/full/2225,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm66b/full/2000,/0/default.jpg" class="" >}}
 
-Once the capital of the Inca Empire, Cusco was conquered by the Spanish Empire in 1534, and became capital of the province of Peru. Although its contemporary culture is heavily influenced by its Spanish background, Cusco retains its Inca ancestry. Notice the grid layout of the city—a deliberate choice by Inca planners, inherited by the Spanish administration. A Dutch cartographer made [this map](https://collections.leventhalmap.org/search/commonwealth:3x81cq09n) only a few decades after the conquest, so the indigenous culture was still prominently visible throughout Cusco. At this time, many denizens of Cusco would have remembered the large terraced cathedral on the left of the map as an Incan temple and palace.
+Designed and drawn by two female artists, this pictorial map includes humorous and historical drawings and references. In the margins, one can see color illustrations of various emblems of towns, organizations, local schools, and points of community interest. Some of these places are even illustrated on the map itself, telling us in more than words that although this map may seem serious from afar, hints of a simpler, sillier life can be found as well. Note the hordes of visitors (future residents?) driving in from different locations all around the state’s borders in a rush to reach the Granite State!
 
 #### Carl Crow, *[\[Illustrated historical map of Shanghai\]](https://collections.leventhalmap.org/search/commonwealth:x633f974z)* (1935)
 
