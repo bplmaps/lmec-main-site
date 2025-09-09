@@ -18,7 +18,7 @@ tags:
 
 The Mercator Map Projection, introduced in 1569 by Gerardus Mercator, has long been considered the default world map by Western powers. But prior to the map's introduction, depictions of the world were much more varied across cultures. Why aren’t maps oriented with South at the top? Why is a map of the whole globe depicted as an single oval and not 3? Why not 4? And what does it mean to have the “most accurate” map of the world?
 
-The conventions of our modern time may have us assert that we have the most accurate of data. But can older maps help us refresh our view to see things a little differently? We’ll take a closer look at maps from the Leventhal Center’s collection as we answer these questions during this F*rom the Vault* map collection showing!
+The conventions of our modern time may have us assert that we have the most accurate of data. But can older maps help us refresh our view to see things a little differently? We’ll take a closer look at maps from the Leventhal Center’s collection as we answer these questions during this *From the Vault* map collection showing!
 
 This free showing will be hosted Friday, September 19 in the Leventhal Map & Education Center with a staff member available to answer questions. Drop in any time between 2:00PM - 4:00PM. No reservation is required.
 
