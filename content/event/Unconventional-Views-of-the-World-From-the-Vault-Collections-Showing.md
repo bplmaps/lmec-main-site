@@ -4,9 +4,9 @@ title: Unconventional Views of the World— From the Vault Collections Showing
 date: 2025-09-19T18:00:00.000Z
 publishDate: 2025-06-24T04:00:00.000Z
 image: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161j44c/164,2540,9330,2699/2500,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161j44c/135,711,9309,4585/,1200/0/default.jpg
 backgroundImage: >-
-  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161j44c/164,2540,9330,2699/2500,/0/default.jpg
+  https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161j44c/135,711,9309,4585/,1200/0/default.jpg
 location: 'Leventhal Map & Education Center, Central Library in Copley Square'
 fee: Free
 registration: ''
