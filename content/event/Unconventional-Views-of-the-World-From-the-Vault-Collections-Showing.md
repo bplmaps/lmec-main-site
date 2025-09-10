@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Unconventional Views of the World— From the Vault Collections Showing
+title: Unconventional Views of the World — From the Vault Collections Showing
 date: 2025-09-19T18:00:00.000Z
 publishDate: 2025-06-24T04:00:00.000Z
 image: >-
