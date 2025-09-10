@@ -14,7 +14,7 @@ tags:
   - from the vault
 ---
 
-> **Be warned: these maps are not for the faint of heart!**
+#### **Be warned: these maps are not for the faint of heart!**
 
 Join us this Halloween to take a peak at some *Creepy Cartography*! These maps may have glimpses of nasty creepy crawlies or sweep us away to mysterious lands. Let’s see just how far these maps can take us… and be prepared for anything that flies, screeches, or goes bump in the night to make an appearance!
 
@@ -22,6 +22,6 @@ This free showing will be hosted Friday, October 31 in the Leventhal Map & Educa
 
 ##### ***From The Vault***
 
-The Leventhal Map & Education Center cares for more than a quarter million cartographic and geographic objects, including maps, atlases, charts, globes, gazetteers, ephemera, research texts, and data sets. With such an extensive collection, it is likely that many of these objects will never be included in exhibitions for public viewing. 
+The Leventhal Map & Education Center cares for more than a quarter million cartographic and geographic objects, including maps, atlases, charts, globes, gazetteers, ephemera, research texts, and data sets. With such an extensive collection, it is likely that many of these objects will never be included in exhibitions for public viewing.
 
 Our latest series, *From The Vault*, attempts to remedy that limitation. *From The Vault* is a biweekly, casual collections showing of objects selected by Leventhal Center staff. These drop-in sessions do not include a formal presentation, though Leventhal Center staff will be available to interpret objects, chat, and answer questions.
