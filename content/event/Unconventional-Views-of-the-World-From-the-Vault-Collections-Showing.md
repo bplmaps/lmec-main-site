@@ -14,7 +14,7 @@ tags:
   - from the vault
 ---
 
-> **So… what if we told you the world map you’re used to seeing isn’t actually an accurate depiction of the world we inhabit?**
+**So… what if we told you the world map you’re used to seeing isn’t actually an accurate depiction of the world we inhabit?**
 
 The Mercator Map Projection, introduced in 1569 by Gerardus Mercator, has long been considered the default world map by Western powers. But prior to the map's introduction, depictions of the world were much more varied across cultures. Why aren’t maps oriented with South at the top? Why is a map of the whole globe depicted as an single oval and not 3? Why not 4? And what does it mean to have the “most accurate” map of the world?
 
