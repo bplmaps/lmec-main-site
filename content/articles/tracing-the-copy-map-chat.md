@@ -2,14 +2,15 @@
 title: Tracing the Copy
 description: Two maps of Beijing from the MacLean Collection
 author: Mimi Cheng
-date: 2025-09-03T04:00:00.000+00:00
+date: 2025-09-12T04:00:00.000+00:00
 image: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kh04p673c/full/,1200/0/default.jpg"
 backgroundImage: "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:kh04p673c/full/,1200/0/default.jpg"
 tags:
 - map chat
 - MacLean Collection
 - interactive
-draft: true
+- China
+draft: false
 
 ---
 > This interactive publication is part of the [Map Chat series](/tags/map-chat/) commissioned by Richard Pegg, Director and Curator of the [MacLean Collection](https://www.macleancollection.com) in Illinois.
