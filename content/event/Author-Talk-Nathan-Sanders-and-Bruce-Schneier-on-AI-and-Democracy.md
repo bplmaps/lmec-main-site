@@ -11,7 +11,8 @@ backgroundImage: >-
   2025-09-18 142508.png
 location: Virtual
 fee: Free
-registration: ''
+registration: >-
+  https://www.ticketleap.events/tickets/bplmaps/author-talk-nathan-sanders-and-bruce-schneier-on-ai-and-democracy
 tags:
   - Author talk
 ---
