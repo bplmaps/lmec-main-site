@@ -19,7 +19,7 @@ tags:
 
 ***AI is already transforming how we live, work, and communicate. But how will it change democracy?***
 
-Join leading technologist **Bruce Schneier** and data scientist **Nathan E. Sanders** as they take us methodically through AI’s impacts on politics, lawmaking, the executive branch, the courts, and even citizenship. They show how artificial intelligence is reshaping every corner of democratic life and how we can harness it to make democracy stronger, not weaker.
+Join leading technologist **Bruce Schneier** and data scientist **Nathan E. Sanders** as they take us methodically through their new book, *[Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship](https://mitpress.mit.edu/9780262049948/rewiring-democracy/)*, as they examine AI’s impacts on politics, lawmaking, the executive branch, the courts, and even citizenship. They show how artificial intelligence is reshaping every corner of democratic life and how we can harness it to make democracy stronger, not weaker.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Bruce Schneier.png" class="figure-right" >}}
 
