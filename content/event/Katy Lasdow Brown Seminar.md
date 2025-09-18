@@ -1,7 +1,7 @@
 ---
 draft: true
 title: >-
-  Katy Lasdow on Women Property Holders on Boston’s Waterfront in the Late
+  Katy Lasdow on Women Property Holders of Boston’s Waterfront in the Late
   1700's
 date: 2025-11-14T00:00:00.000Z
 publishDate: 2025-07-18T04:00:00.000Z
