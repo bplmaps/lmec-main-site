@@ -16,7 +16,7 @@ tags:
   - Richard H. Brown Seminar
 ---
 
-{{< figure src="https://www.leventhalmap.org/images/headshots/lasdow-headshot.jpg" >}}
+{{< figure src="https://www.leventhalmap.org/images/headshots/lasdow-headshot.jpg" class="figure-right" >}}
 
 In this program, **Katy Lasdow** will explore how maps and deeds documenting women property holders on Boston’s waterfront in the late 1700s illuminate women’s persistence in these neighborhoods despite mounting legal and financial exclusion by real estate corporations.
 
