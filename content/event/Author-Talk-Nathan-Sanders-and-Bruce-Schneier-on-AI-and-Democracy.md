@@ -3,8 +3,12 @@ draft: true
 title: 'Author Talk: Nathan Sanders and Bruce Schneier on AI and Democracy'
 date: 2025-11-03T19:00:00.000Z
 publishDate: 2025-08-28T04:00:00.000Z
-image: ''
-backgroundImage: ''
+image: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screenshot
+  2025-09-18 142508.png
+backgroundImage: >-
+  https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Screenshot
+  2025-09-18 142508.png
 location: Virtual
 fee: Free
 registration: >-
