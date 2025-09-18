@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: 'Author Talk: Nathan Sanders and Bruce Schneier on AI and Democracy'
 date: 2025-11-03T19:00:00.000Z
 publishDate: 2025-08-28T04:00:00.000Z
