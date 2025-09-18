@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 'Molly Nebiolo on Urban Space, Water, and Health in Colonial Charleston'
+title: 'Katy Lasdow on '
 date: 2025-09-16T22:00:00.000Z
 publishDate: 2025-07-18T04:00:00.000Z
 image: >-
@@ -16,7 +16,7 @@ tags:
   - Richard H. Brown Seminar
 ---
 
-{{< figure >}}
+{{< figure src="https://www.leventhalmap.org/images/headshots/lasdow-headshot.jpg" >}}
 
 In this program, **Katy Lasdow** will explore how maps and deeds documenting women property holders on Boston’s waterfront in the late 1700s illuminate women’s persistence in these neighborhoods despite mounting legal and financial exclusion by real estate corporations.
 
