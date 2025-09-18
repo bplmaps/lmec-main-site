@@ -18,6 +18,8 @@ tags:
 
 ***How can the healthfulness of a region be found on a map of a colonial city?***
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a4-K0-j9fgI?si=fnPS8V8481_6qABT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 In this program, **Molly Nebiolo** will explore how the tidal creeks surrounding the city of Charleston and the other bodies of water noted (or not noted) on early colonial maps can help us ask big questions from these documents. This talk will focus on early American experiences of urban health which can be extracted from following these maps that depict or ignore the seasonality and variability of Charleston’s waterways.
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Headshots-1.png" class="figure-right" >}}
