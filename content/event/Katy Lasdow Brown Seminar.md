@@ -9,7 +9,8 @@ image: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Clough Atlas
 backgroundImage: 'https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Clough Atlas.jpg'
 location: 'Virtual '
 fee: Free
-registration: ''
+registration: >-
+  https://www.ticketleap.events/tickets/bplmaps/katy-lasdow-on-women-property-holders-of-boston-s-waterfront-in-the-late-1700-s
 tags:
   - ARGO
   - Richard H. Brown Seminar
