@@ -11,8 +11,7 @@ backgroundImage: >-
   2025-09-18 142508.png
 location: Virtual
 fee: Free
-registration: >-
-  https://www.ticketleap.events/tickets/bplmaps/author-talk-jim-o-connell-on-boston-and-the-making-of-a-global-city
+registration: ''
 tags:
   - Author talk
 ---
