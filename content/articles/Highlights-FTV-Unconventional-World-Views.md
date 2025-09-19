@@ -47,7 +47,7 @@ Displaying the known world of the early 17th century as a triptych, with the map
 
 While [this three-part projection](https://collections.leventhalmap.org/search/commonwealth:3f462s523) reduced the amount of distortion for the respective geographic areas, it was also a logical presentation of classical and medieval geographical tradition in the context of the new geographical knowledge gleaned from Europeans' 15th- and 16th-century explorations. The map's author was a theologian and classical historian and his other works included several small globes and maps of a historical-religious nature. In addition, the inset views portray biblical themes, including the flood and Noah's ark on the lower right. Some scholars have suggested that this relatively rare map may have been prepared as an illustration for a Bible or similar tome.
 
-#### Arno Peters, [Peters World map](https://collections.leventhalmap.org/search/commonwealth:x633f923g) (2006)
+#### Arno Peters, *[Peters World map](https://collections.leventhalmap.org/search/commonwealth:x633f923g)* (2006)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f924r/full/2000,/0/default.jpg" >}}
 
@@ -57,13 +57,13 @@ However, while the Mercator map preserves the shapes of the landmasses, the cont
 
 The English edition of [this projection](https://collections.leventhalmap.org/search/commonwealth:x633f923g) is subtitled, "The map which represents countries accurately according to their surface areas" and it was adopted by a number of social agencies such as the World Council of Churches, UNESCO, and UNICEF to graphically present a more equitable distribution of social and demographic data. In the marginal text, the publishers further explain that the Peters projection is "superior in its portrayal of proportions and sizes" and "its importance goes far beyond questions of cartographic accuracy. No less than our world view is at stake."
 
-#### National Survey Company, [The official map of the world : showing the four quarters of the globe on the quarter-spherical or orange peel projection](https://collections.leventhalmap.org/search/commonwealth:cj82kt60x) (1919)
+#### National Survey Company, *[The official map of the world : showing the four quarters of the globe on the quarter-spherical or orange peel projection](https://collections.leventhalmap.org/search/commonwealth:cj82kt60x)* (1919)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kt616/full/2000,/0/default.jpg" >}}
 
 “It is manifestibly impossible to show the entire surface of the world on a flat sheet of paper without some distortion,” so begins the explanation of [this “orange peal” projection](https://collections.leventhalmap.org/search/commonwealth:cj82kt60x). With some common critiques of the most recognizable map projection, the Mercator Projection, this map touts that it “makes every country of the Globe appear in practically its true size, relative to every other country.” Though less useful for land or maritime navigation, a map of this sort can be helpful in understanding the scale of a region and the true breadth of a country’s land. 
 
-#### A. Shortfellow, [Map of Boston and adjacent country showing that city to be the geographical as well as intellectual and moral centre of one half of the globe](https://collections.leventhalmap.org/search/commonwealth:9s161j45n) \[ca. 1871]
+#### A. Shortfellow, *[Map of Boston and adjacent country showing that city to be the geographical as well as intellectual and moral centre of one half of the globe](https://collections.leventhalmap.org/search/commonwealth:9s161j45n)* \[ca. 1871]
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161j46x/607,752,5849,4771/2000,/0/default.jpg" class="" >}}
 
@@ -71,10 +71,10 @@ The English edition of [this projection](https://collections.leventhalmap.org/se
 
 This kind of map projection may be helpful when observing what’s within a certain range of the focal point, like this map does with Boston. Instead of Earth, the new name is “Boston and adjacent country,” and the label states that Boston is “the geographical as well as intellectual and moral centre of one half of the globe.”
 
-#### Mick Dyer, [The world turned upside down](https://collections.leventhalmap.org/search/commonwealth:9s161j433) (2005)
+#### Mick Dyer, *[The world turned upside down](https://collections.leventhalmap.org/search/commonwealth:9s161j433)* (2005)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161j44c/full/2000,/0/default.jpg" class="" >}}
 
 Oriented with the South at the top, [this “upside-down” world map](https://collections.leventhalmap.org/search/commonwealth:9s161j433) jostles expectations, but clearly conveys a message that unconventional world views can be meaningful. This map is particularly thought provoking because “up or down” as they refer to a general direction have no inherent attachment to “North or South” when we think of the whole Earth as a planet floating in the vast emptiness of outer space.
 
-Prepared for an organization that reports on global poverty and inequality, the map helps to teach “people to see the world from a broader, more inclusive perspective.” Traditional, North-oriented world maps emphasize Europe and North America, implying that other continents are less important. This contrary perspective places Africa and South America in the center, suggesting that the southern hemisphere’s developing countries are equally important. 
+Prepared for an organization that reports on global poverty and inequality, the map helps to teach “people to see the world from a broader, more inclusive perspective.” Traditional, North-oriented world maps emphasize Europe and North America, implying that other continents are less important. This contrary perspective places Africa and South America in the center, suggesting that the southern hemisphere’s developing countries are equally important.
