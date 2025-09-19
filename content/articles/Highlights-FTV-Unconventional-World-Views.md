@@ -63,11 +63,13 @@ The English edition of [this projection](https://collections.leventhalmap.org/se
 
 “It is manifestibly impossible to show the entire surface of the world on a flat sheet of paper without some distortion,” so begins the explanation of [this “orange peal” projection](https://collections.leventhalmap.org/search/commonwealth:cj82kt60x). With some common critiques of the most recognizable map projection, the Mercator Projection, this map touts that it “makes every country of the Globe appear in practically its true size, relative to every other country.” Though less useful for land or maritime navigation, a map of this sort can be helpful in understanding the scale of a region and the true breadth of a country’s land. 
 
-#### Grace Raymond Hebard and Paul M. Paine, *[Map of the history and romance of Wyoming](https://collections.leventhalmap.org/search/commonwealth:0r96fm385)* (1928)
+#### A. Shortfellow, [Map of Boston and adjacent country showing that city to be the geographical as well as intellectual and moral centre of one half of the globe](https://collections.leventhalmap.org/search/commonwealth:9s161j45n) \[ca. 1871]
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm39f/full/2000,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161j46x/607,752,5849,4771/2000,/0/default.jpg" class="" >}}
 
-Perhaps more humble than some of the other maps on display, this pictorial map of Wyoming asserts itself to be just as prideful of the land it calls home. Poetry, folk tales, art, and state history can be found across every corner of the map. Other writing on the map appeals directly to visitors, calling Wyoming the “Last American Frontier" with “Broad, open spaces” and “The land of plenty”. Using [this map](https://collections.leventhalmap.org/search/commonwealth:0r96fm385), we can see that though less boastful than some others, this map was still very intentionally trying to piece together a favorable view of this rolling, open land.
+[This tongue-in-cheek map](https://collections.leventhalmap.org/search/commonwealth:9s161j45n) from the 1870s uses an “Azimuthal Projection” to make Boston look like the focal point of the world. The benefit of the Azimuthal Projection is that all points on the map are at proportionally correct distances from the center point, and that all points on the map are the correct azimuth (direction) from the center point. 
+
+This kind of map projection may be helpful when observing what’s within a certain range of the focal point, like this map does with Boston. Instead of Earth, the new name is “Boston and adjacent country,” and the label states that Boston is “the geographical as well as intellectual and moral centre of one half of the globe.”
 
 #### Bob Fletcher and Irvin Shope, *[Frontier, Montana, pioneer : a one page history dedicated to the Old](https://collections.leventhalmap.org/search/commonwealth:0r96fm520)* (1937)
 
