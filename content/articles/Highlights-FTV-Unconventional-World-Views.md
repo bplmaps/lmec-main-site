@@ -15,17 +15,21 @@ tags:
   - from the vault
 ---
 
-> *On September 5, we hosted **From The Vault — The Best State Around: Historic, Promotional State Maps.***
+> *On September 5, we hosted **From The Vault — Unconventional World Views.***
 
-**It’s not uncommon to be proud of the place you live… but these maps take it to another level!**
+So… what if we told you the world map you’re used to seeing isn’t actually “the most accurate” depiction of the world we inhabit?
 
-In this *From The Vault*, we took a look at some promotional state maps from the 1890s to 1950s. Some maps use comedy to poke fun at the rest of the country, while others espouse the successes and deep history of their land to capture a potential visitor’s attention. Each state does things a little differently and we invite viewers to answer the question: *“What truly is the best state around?"*
+The Mercator projection, introduced in 1569 by Gerardus Mercator, has long been considered a “default” world map, especially amongst audiences in the Western Hemisphere. Every type of projection distorts the original geometry of the curved, three-dimensional earth in some way, but because we’re so used to seeing projected maps of the globe, those distortions no longer look strange to us. Could different map perspectives help us refresh our view to see things a little differently?
 
-#### Elizabeth Shurtleff and Helen F. McMillin, *[Map of the state of New Hampshire : looking over our whole country from east to west, let me ask if such a map was ever before presented to the eye - Daniel Webster](https://collections.leventhalmap.org/search/commonwealth:0r96fm652)* (1926)
+Take a closer look at maps from the Leventhal Center’s collection as we answer these questions!
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm66b/full/2000,/0/default.jpg" class="" >}}
+#### Ernest Dudley Chase, [Mercator map of the world united : a pictorial history of transport and communications and paths to permanent peace](https://collections.leventhalmap.org/search/commonwealth:q524n371p) (1944)
 
-Designed and drawn by two female artists, [this pictorial map](https://collections.leventhalmap.org/search/commonwealth:0r96fm652) includes humorous and historical drawings and references. In the margins, one can see color illustrations of various emblems of towns, organizations, local schools, and points of community interest. Some of these places are even illustrated on the map itself, telling us in more than words that although this map may seem serious from afar, hints of a simpler, sillier life can be found as well. Note the hordes of visitors (future residents?) driving in from different locations all around the state’s borders in a rush to reach the Granite State!
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n372z/full/2000,/0/default.jpg" class="" >}}
+
+[This world map](https://collections.leventhalmap.org/search/commonwealth:q524n371p) is done using the Mercator Projection. For many, this is a familiar view of the globe, as this type of world projection has been popularly used by Western powers for nearly 500 years. Made popular through its usefulness to sailors and merchants, the Mercator Projection allowed them to plot their journey in a straight line without having to adjust their compasses. During the age of colonialism, this was an incredible asset, as ocean-based trade routes were crucial to global commerce.
+
+However, while the Mercator map preserves the shapes of the landmasses, the continents' actual size can be heavily distorted. For instance, on this map Africa and North America appear to be of similar size, when in reality Africa is approximately 20% larger. This map has a specific focus on “paths to permanent peace” and emphasizes the importance of communication and accessible travel across the world. 
 
 #### Ernest Dudley Chase, *[The United States as viewed by California (very unofficial)](https://collections.leventhalmap.org/search/commonwealth:st74cw264)* (1940)
 
