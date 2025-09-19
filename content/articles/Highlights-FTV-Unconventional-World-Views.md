@@ -1,11 +1,11 @@
 ---
 draft: false
-title: Highlights From The Vault — Unconventional World Views
+title: Highlights From The Vault — Unconventional Views of the World
 date: 2025-09-19T18:00:00.000Z
 author: Julia Williams
 description: >-
   Check out these highlights from the September 19, 2025 From The Vault —
-  Unconventional World Views.
+  Unconventional Views of the World
 image: >-
   https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kt616/356,1639,10181,3753/,1200/0/default.jpg
 backgroundImage: >-
@@ -15,7 +15,7 @@ tags:
   - from the vault
 ---
 
-> *On September 19, we hosted **From The Vault — Unconventional World Views.***
+> *On September 19, we hosted **From The Vault — Unconventional Views of the World.***
 
 ***So… what if we told you the world map you’re used to seeing isn’t actually “the most accurate” depiction of the world we inhabit?***
 
