@@ -29,7 +29,15 @@ Take a closer look at maps from the Leventhal Center’s collection as we answer
 
 [This world map](https://collections.leventhalmap.org/search/commonwealth:q524n371p) is done using the Mercator Projection. For many, this is a familiar view of the globe, as this type of world projection has been popularly used by Western powers for nearly 500 years. Made popular through its usefulness to sailors and merchants, the Mercator Projection allowed them to plot their journey in a straight line without having to adjust their compasses. During the age of colonialism, this was an incredible asset, as ocean-based trade routes were crucial to global commerce.
 
-However, while the Mercator map preserves the shapes of the landmasses, the continents' actual size can be heavily distorted. For instance, on this map Africa and North America appear to be of similar size, when in reality Africa is approximately 20% larger. This map has a specific focus on “paths to permanent peace” and emphasizes the importance of communication and accessible travel across the world. 
+However, while the Mercator map preserves the shapes of the landmasses, the continents' actual size can be heavily distorted. For instance, on this map Africa and North America appear to be of similar size, when in reality Africa is approximately 20% larger. This map has a specific focus on “paths to permanent peace” and emphasizes the importance of communication and accessible travel across the world.
+
+#### Heinrich Bünting, [Die gantze Welt in ein Kleberblat, welches in der Stadt Hannover, meines lieben Vaterlandes Wapen](https://collections.leventhalmap.org/search/commonwealth:3f462s41k) (1581)
+
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tx31qn451/222,97,8104,6422/2000,/0/default.jpg" class="" >}}
+
+Depicting the world as a cloverleaf, this cartographic curiosity reflects the European Medieval world view of three continents. Since it was published in the late-16th century long after the New World discoveries had gained wide acceptance, its primary appeal would have been to readers who cherished the past. It was one of several whimsical diagrams included in a book, which was essentially the Bible rewritten as an illustrated travel book. 
+
+The author, a professor of theology, used the trefoil or cloverleaf arms of his native city to represent the world, making [this map](https://collections.leventhalmap.org/search/commonwealth:3f462s41k) more a statement of civic pride than a serious attempt at cartography. Each of the three leaves represents one of the continents -- Asia, Europe, and Africa. At the intersection of the leaves, Jerusalem is clearly marked. In recognition of the New World discoveries, America is shown almost as an afterthought in the lower left hand corner.
 
 #### Franciscus Verhaer, [Geographica restituta per globi trientes](https://collections.leventhalmap.org/search/commonwealth:3f462s523) (1618)
 
@@ -39,19 +47,15 @@ Displaying the known world of the early 17th century as a triptych, with the map
 
 While [this three-part projection](https://collections.leventhalmap.org/search/commonwealth:3f462s523) reduced the amount of distortion for the respective geographic areas, it was also a logical presentation of classical and medieval geographical tradition in the context of the new geographical knowledge gleaned from Europeans' 15th- and 16th-century explorations. The map's author was a theologian and classical historian and his other works included several small globes and maps of a historical-religious nature. In addition, the inset views portray biblical themes, including the flood and Noah's ark on the lower right. Some scholars have suggested that this relatively rare map may have been prepared as an illustration for a Bible or similar tome.
 
-#### Heinrich Bünting, [Die gantze Welt in ein Kleberblat, welches in der Stadt Hannover, meines lieben Vaterlandes Wapen](https://collections.leventhalmap.org/search/commonwealth:3f462s41k) (1581)
+#### Arno Peters, [Peters World map](https://collections.leventhalmap.org/search/commonwealth:x633f923g) (2006)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tx31qn451/222,97,8104,6422/2000,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f924r/full/2000,/0/default.jpg" >}}
 
-Depicting the world as a cloverleaf, this cartographic curiosity reflects the European Medieval world view of three continents. Since it was published in the late-16th century long after the New World discoveries had gained wide acceptance, its primary appeal would have been to readers who cherished the past. It was one of several whimsical diagrams included in a book, which was essentially the Bible rewritten as an illustrated travel book. 
+This is a world map based on the Peters Projection. This projection was popularized by Arno Peters, a 20th-century German historian, who was dissatisfied with the Mercator projection. Western powers have used the Mercator map for nearly 500 years. The Mercator projection allowed sailors to plot their journey in a straight line without having to adjust their compasses. During the age of colonialism, this was an incredible asset, as ocean-based trade routes were crucial to global commerce.
 
-The author, a professor of theology, used the trefoil or cloverleaf arms of his native city to represent the world, making this map more a statement of civic pride than a serious attempt at cartography. Each of the three leaves represents one of the continents -- Asia, Europe, and Africa. At the intersection of the leaves, Jerusalem is clearly marked. In recognition of the New World discoveries, America is shown almost as an afterthought in the lower left hand corner.
+However, while the Mercator map preserves the shapes of the landmasses, the continents' actual size can be heavily distorted. For instance, Africa and Greenland appear to be of similar size on the Mercator projection, when in reality Africa is approximately 14 times larger. In place of the Mercator projection, Peters advocated the use of a projection that is known technically as the Gall equal-area projection, but is now popularly known by his name. This projection preserves relative area or size throughout the entire map, but in doing so, distorts the shapes of continents and countries. 
 
-#### Daniel K. Wallingford, *[This map presents a Bostonian's idea of the United States of America](https://collections.leventhalmap.org/search/commonwealth:3f463864z)* (1935)
-
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f4638657/full/2000,/0/default.jpg" >}}
-
-This may be one of our most infamous maps in the gallery! A favorite amongst locals, [this map](https://collections.leventhalmap.org/search/commonwealth:3f463864z) highlights many of the most beloved areas and qualities of Boston and greater New England. Most noteworthy is perhaps the scale at which Boston and the cape of Massachusetts are shown, highlighting the economic and cultural importance of these areas (at least, from the perspective of a Bostonian).
+The English edition of [this projection](https://collections.leventhalmap.org/search/commonwealth:x633f923g) is subtitled, "The map which represents countries accurately according to their surface areas" and it was adopted by a number of social agencies such as the World Council of Churches, UNESCO, and UNICEF to graphically present a more equitable distribution of social and demographic data. In the marginal text, the publishers further explain that the Peters projection is "superior in its portrayal of proportions and sizes" and "its importance goes far beyond questions of cartographic accuracy. No less than our world view is at stake."
 
 #### Daniel K. Wallingford, *[A New Yorker's idea of the United States of America](https://collections.leventhalmap.org/search/commonwealth:3f463866h)* (1936)
 
