@@ -71,11 +71,13 @@ The English edition of [this projection](https://collections.leventhalmap.org/se
 
 This kind of map projection may be helpful when observing what’s within a certain range of the focal point, like this map does with Boston. Instead of Earth, the new name is “Boston and adjacent country,” and the label states that Boston is “the geographical as well as intellectual and moral centre of one half of the globe.”
 
-#### Bob Fletcher and Irvin Shope, *[Frontier, Montana, pioneer : a one page history dedicated to the Old](https://collections.leventhalmap.org/search/commonwealth:0r96fm520)* (1937)
+#### Mick Dyer, [The world turned upside down](https://collections.leventhalmap.org/search/commonwealth:9s161j433) (2005)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0r96fm538/full/2000,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9s161j44c/full/2000,/0/default.jpg" class="" >}}
 
-Harkening back to the “Manifest Destiny” rhetoric of early settlers, this map was published by the newly formed Montana Highway Dept. as a way to entice other Americans to move to the state. “A one page history dedicated to the Old Timers”, [this map](https://collections.leventhalmap.org/search/commonwealth:0r96fm520) includes text, illustrations of select sites, and a descriptive historical legend. In addition to the highly detailed map, the reverse side is full of evocative images of White, American pioneers and a “Tabloid History” of the early history of the state. Though heavily present throughout the history of the state, the Indigenous Peoples of the region are rarely mentioned in a positive tone, making it quite clear they were not the intended audience for this map.
+Oriented with the South at the top, [this “upside-down” world map](https://collections.leventhalmap.org/search/commonwealth:9s161j433) jostles expectations, but clearly conveys a message that unconventional world views can be meaningful. This map is particularly thought provoking because “up or down” as they refer to a general direction have no inherent attachment to “North or South” when we think of the whole Earth as a planet floating in the vast emptiness of outer space.
+
+Prepared for an organization that reports on global poverty and inequality, the map helps to teach “people to see the world from a broader, more inclusive perspective.” Traditional, North-oriented world maps emphasize Europe and North America, implying that other continents are less important. This contrary perspective places Africa and South America in the center, suggesting that the southern hemisphere’s developing countries are equally important. 
 
 #### Cody's Ltd, *[Map of Canada : (as seen by a maritimer)](https://bpl.bibliocommons.com/v2/record/S75C8967740)* \[1955–1975?]
 
