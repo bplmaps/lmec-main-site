@@ -31,11 +31,13 @@ Take a closer look at maps from the Leventhal Center’s collection as we answer
 
 However, while the Mercator map preserves the shapes of the landmasses, the continents' actual size can be heavily distorted. For instance, on this map Africa and North America appear to be of similar size, when in reality Africa is approximately 20% larger. This map has a specific focus on “paths to permanent peace” and emphasizes the importance of communication and accessible travel across the world. 
 
-#### Ernest Dudley Chase, *[The United States as viewed by California (very unofficial)](https://collections.leventhalmap.org/search/commonwealth:st74cw264)* (1940)
+#### Franciscus Verhaer, [Geographica restituta per globi trientes](https://collections.leventhalmap.org/search/commonwealth:3f462s523) (1618)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:st74cw27d/full/2000,/0/default.jpg" class="" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tx31qn469/209,175,10334,6982/2000,/0/default.jpg" class="" >}}
 
-Recognized for his whimsical pictorial maps, Chase created [this highly distorted view of the United States as perceived by Californians](https://collections.leventhalmap.org/search/commonwealth:st74cw264). One-third the size of the rest of the country, the state is perpetually drenched by the sun. A bustling California is also depicted as a cornucopia of plenty, teaming with industry, agriculture, recreational activity, and natural wonders. The rest of the county is overshadowed by a dark cloud and a vast, depressing spider web. Other states are distorted or are omitted entirely. However, Chase’s native New England retains its shape and receives some sunlight for half of the year.
+Displaying the known world of the early 17th century as a triptych, with the map divided into three segments or gores, was very uncommon during the Golden Age of Dutch cartography. However, such a format was commonly used in altarpieces and would have been familiar to a Christian audience. Dividing the world into three parts was also reminiscent of the world diagrams drawn in the Medieval Christian tradition, especially Heinrich Bünting's cloverleaf map also on display. 
+
+While this three-part projection reduced the amount of distortion for the respective geographic areas, it was also a logical presentation of classical and medieval geographical tradition in the context of the new geographical knowledge gleaned from Europeans' 15th- and 16th-century explorations. The map's author was a theologian and classical historian and his other works included several small globes and maps of a historical-religious nature. In addition, the inset views portray biblical themes, including the flood and Noah's ark on the lower right. Some scholars have suggested that this relatively rare map may have been prepared as an illustration for a Bible or similar tome.
 
 #### James Frank Oliver, *[A Texan's map of the United States \[of Texas\]](https://collections.leventhalmap.org/search/commonwealth:fn107c370)* (1949)
 
