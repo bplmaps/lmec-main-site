@@ -15,7 +15,7 @@ tags:
   - from the vault
 ---
 
-> *On September 5, we hosted **From The Vault — Unconventional World Views.***
+> *On September 19, we hosted **From The Vault — Unconventional World Views.***
 
 So… what if we told you the world map you’re used to seeing isn’t actually “the most accurate” depiction of the world we inhabit?
 
