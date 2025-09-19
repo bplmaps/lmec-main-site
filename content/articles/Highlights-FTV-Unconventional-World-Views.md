@@ -57,13 +57,11 @@ However, while the Mercator map preserves the shapes of the landmasses, the cont
 
 The English edition of [this projection](https://collections.leventhalmap.org/search/commonwealth:x633f923g) is subtitled, "The map which represents countries accurately according to their surface areas" and it was adopted by a number of social agencies such as the World Council of Churches, UNESCO, and UNICEF to graphically present a more equitable distribution of social and demographic data. In the marginal text, the publishers further explain that the Peters projection is "superior in its portrayal of proportions and sizes" and "its importance goes far beyond questions of cartographic accuracy. No less than our world view is at stake."
 
-#### Daniel K. Wallingford, *[A New Yorker's idea of the United States of America](https://collections.leventhalmap.org/search/commonwealth:3f463866h)* (1936)
+#### National Survey Company, [The official map of the world : showing the four quarters of the globe on the quarter-spherical or orange peel projection](https://collections.leventhalmap.org/search/commonwealth:cj82kt60x) (1919)
 
-{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463867s/full/2000,/0/default.jpg" >}}
+{{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cj82kt616/full/2000,/0/default.jpg" >}}
 
-One of two Wallingford maps on display, this map takes a look at the USA “as a composite of the New Yorker’s ideas” concerning the rest of the country. Similar to the Bostonian’s View, the geographic size of New York City and the rest of the state has been blown out of proportion to a humorous degree. 
-
-One striking difference between the two Wallingford maps is that this one often emphasizes that New Yorkers have no sense of geographic knowledge. In [this map](https://collections.leventhalmap.org/search/commonwealth:3f463866h), the Bronx is nearly next to Boston, Iowa, Nebraska, and South Dakota are listed as cities in other states, and Hollywood, California, and San Francisco are made into three entirely separate states! In a way, this lack of knowledge on other parts of the country solidifies the notion that New York City has everything anyone could ever want, leaving no reason to venture forth quite literally anywhere else in the country.
+“It is manifestibly impossible to show the entire surface of the world on a flat sheet of paper without some distortion,” so begins the explanation of [this “orange peal” projection](https://collections.leventhalmap.org/search/commonwealth:cj82kt60x). With some common critiques of the most recognizable map projection, the Mercator Projection, this map touts that it “makes every country of the Globe appear in practically its true size, relative to every other country.” Though less useful for land or maritime navigation, a map of this sort can be helpful in understanding the scale of a region and the true breadth of a country’s land. 
 
 #### Grace Raymond Hebard and Paul M. Paine, *[Map of the history and romance of Wyoming](https://collections.leventhalmap.org/search/commonwealth:0r96fm385)* (1928)
 
