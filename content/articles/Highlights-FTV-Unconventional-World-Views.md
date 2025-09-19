@@ -17,13 +17,13 @@ tags:
 
 > *On September 19, we hosted **From The Vault — Unconventional World Views.***
 
-So… what if we told you the world map you’re used to seeing isn’t actually “the most accurate” depiction of the world we inhabit?
+***So… what if we told you the world map you’re used to seeing isn’t actually “the most accurate” depiction of the world we inhabit?***
 
 The Mercator projection, introduced in 1569 by Gerardus Mercator, has long been considered a “default” world map, especially amongst audiences in the Western Hemisphere. Every type of projection distorts the original geometry of the curved, three-dimensional earth in some way, but because we’re so used to seeing projected maps of the globe, those distortions no longer look strange to us. Could different map perspectives help us refresh our view to see things a little differently?
 
 Take a closer look at maps from the Leventhal Center’s collection as we answer these questions!
 
-#### Ernest Dudley Chase, [Mercator map of the world united : a pictorial history of transport and communications and paths to permanent peace](https://collections.leventhalmap.org/search/commonwealth:q524n371p) (1944)
+#### Ernest Dudley Chase, *[Mercator map of the world united : a pictorial history of transport and communications and paths to permanent peace](https://collections.leventhalmap.org/search/commonwealth:q524n371p)* (1944)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n372z/full/2000,/0/default.jpg" class="" >}}
 
@@ -31,7 +31,7 @@ Take a closer look at maps from the Leventhal Center’s collection as we answer
 
 However, while the Mercator map preserves the shapes of the landmasses, the continents' actual size can be heavily distorted. For instance, on this map Africa and North America appear to be of similar size, when in reality Africa is approximately 20% larger. This map has a specific focus on “paths to permanent peace” and emphasizes the importance of communication and accessible travel across the world.
 
-#### Heinrich Bünting, [Die gantze Welt in ein Kleberblat, welches in der Stadt Hannover, meines lieben Vaterlandes Wapen](https://collections.leventhalmap.org/search/commonwealth:3f462s41k) (1581)
+#### Heinrich Bünting, *[Die gantze Welt in ein Kleberblat, welches in der Stadt Hannover, meines lieben Vaterlandes Wapen](https://collections.leventhalmap.org/search/commonwealth:3f462s41k)* (1581)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tx31qn451/222,97,8104,6422/2000,/0/default.jpg" class="" >}}
 
@@ -39,7 +39,7 @@ Depicting the world as a cloverleaf, this cartographic curiosity reflects the Eu
 
 The author, a professor of theology, used the trefoil or cloverleaf arms of his native city to represent the world, making [this map](https://collections.leventhalmap.org/search/commonwealth:3f462s41k) more a statement of civic pride than a serious attempt at cartography. Each of the three leaves represents one of the continents -- Asia, Europe, and Africa. At the intersection of the leaves, Jerusalem is clearly marked. In recognition of the New World discoveries, America is shown almost as an afterthought in the lower left hand corner.
 
-#### Franciscus Verhaer, [Geographica restituta per globi trientes](https://collections.leventhalmap.org/search/commonwealth:3f462s523) (1618)
+#### Franciscus Verhaer, *[Geographica restituta per globi trientes](https://collections.leventhalmap.org/search/commonwealth:3f462s523)* (1618)
 
 {{< figure src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:tx31qn469/209,175,10334,6982/2000,/0/default.jpg" class="" >}}
 
