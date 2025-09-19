@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Highlights From The Vault — Unconventional World Views
 date: 2025-09-19T18:00:00.000Z
 author: Julia Williams
