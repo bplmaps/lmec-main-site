@@ -78,9 +78,3 @@ This kind of map projection may be helpful when observing what’s within a cert
 Oriented with the South at the top, [this “upside-down” world map](https://collections.leventhalmap.org/search/commonwealth:9s161j433) jostles expectations, but clearly conveys a message that unconventional world views can be meaningful. This map is particularly thought provoking because “up or down” as they refer to a general direction have no inherent attachment to “North or South” when we think of the whole Earth as a planet floating in the vast emptiness of outer space.
 
 Prepared for an organization that reports on global poverty and inequality, the map helps to teach “people to see the world from a broader, more inclusive perspective.” Traditional, North-oriented world maps emphasize Europe and North America, implying that other continents are less important. This contrary perspective places Africa and South America in the center, suggesting that the southern hemisphere’s developing countries are equally important. 
-
-#### Cody's Ltd, *[Map of Canada : (as seen by a maritimer)](https://bpl.bibliocommons.com/v2/record/S75C8967740)* \[1955–1975?]
-
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Canada Mariner's Map.jpg" >}}
-
-Though not a part of the United States, we had to spotlight [this unique map of Canada](https://bpl.bibliocommons.com/v2/record/S75C8967740), completed in a similar style to many of the more playful maps on display. This distorted map of Canada depicts the Atlantic Provinces normally while minimizing the rest of Canada. Taking a slightly sillier approach, places have been described by superlatives or historical notes instead of proper names.
