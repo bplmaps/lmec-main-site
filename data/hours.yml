@@ -28,9 +28,6 @@ exceptions:
   - date: 'November 11, 2025'
     name: Veteran's Day
     special: Closed
-  - date: 'November 26, 2025'
-    name: Day before Thanksgiving
-    special: Closed
   - date: 'November 27, 2025'
     name: Thanksgiving
     special: Closed
