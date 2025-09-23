@@ -23,7 +23,7 @@ Join leading technologist **Bruce Schneier** and data scientist **Nathan E. Sand
 
 **Bruce Schneier** is an internationally renowned security technologist and the *New York Times* bestselling author of 14 books, including A Hacker’s Mind. He is Lecturer at the Harvard Kennedy School, a board member of EFF, and Chief of Security Architecture at Inrupt, Inc. Find him on X ([@schneierblog](https://x.com/schneierblog), 142.2k) and his blog ([schneier.com](https://www.schneier.com/), 250k).
 
-{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Bruce Schneier.png" class="figure-left" >}}
+{{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Bruce Schneier.png" class="figure-right" >}}
 
 {{< figure src="https://assets.tina.io/097f9d05-d307-4978-823b-d332ea55d27e/Nathan E. Sanders.png" class="figure-left" >}}
 
